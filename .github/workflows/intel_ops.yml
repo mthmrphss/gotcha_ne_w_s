@@ -30,7 +30,7 @@ jobs:
 
       - name: Run Intelligence Analyzer
         run: |
-          python analyze.py
+          python src/analyze.py
 
       - name: Commit and Push Results
         run: |
