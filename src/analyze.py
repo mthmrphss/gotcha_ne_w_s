@@ -209,13 +209,15 @@ def main():
             else:
                 print("    Analysis failed.")
 
+    # Sonuçları HER DURUMDA Kaydet (Haber varsa dolu, yoksa boş liste)
+    with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
+        json.dump(new_alerts, f, ensure_ascii=False, indent=2)
+
     if new_alerts:
-        print(f"\nSUCCESS: {len(new_alerts)} new intelligence alerts saved.")
-        with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
-            json.dump(new_alerts, f, ensure_ascii=False, indent=2)
+        print(f"\nSUCCESS: {len(new_alerts)} high-priority alerts saved.")
         save_history(history)
     else:
-        print("\nNo new strategic incidents found.")
+        print("\nNo new HIGH PRIORITY incidents found. (Output file cleared)")
 
 if __name__ == "__main__":
     main()
