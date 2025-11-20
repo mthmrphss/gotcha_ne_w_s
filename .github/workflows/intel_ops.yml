@@ -1,9 +1,11 @@
 name: Global Intelligence Operations
 
 on:
+  push:                 # <-- BU KISMI EKLEYİN
+    branches: ["main"]  # Ana dalınızın adı 'master' ise burayı değiştirin
   schedule:
-    - cron: '*/30 * * * *'  # Her 30 dakikada bir çalışır
-  workflow_dispatch:        # Manuel tetikleme butonu (Test için)
+    - cron: '*/30 * * * *'
+  workflow_dispatch:       # Manuel tetikleme butonu (Test için)
 
 permissions:
   contents: write           # Repoya yazma izni (JSON'u güncellemek için şart)
