@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "id": "b4a20ab407feddaae678d329b66fe991",
+    "timestamp": "2025-11-22T21:30:49.702217",
+    "original_title": "More than 300 schoolchildren abducted in attack on Catholic school in Nigeria, authorities say - PBS",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVXpWaUFyU1F3cjE4TnhmU0JMSmN3T2VJaE9OaVhNdC1WVFNWSlRYU1BIMDlkN0Fka0FPOEJvN2FDVWV0ZWJfQ2U1ZDNFUHc5RHpPZ2RoOXkxMTNPUlZMd0phZEZ1ekFzMFFreGFnQW5VM3ZtQW5kTWhMeTE3bndkRUdSMU5DZU9hWVBrT1YxZmI5Q2g0NnVnbkd5STRhMmVzRm1hbnE5S21aRW80UG9xaTFYQkx1NFpOZ1ZhcTdyM2s0aFFNVXRR0gHMAUFVX3lxTE9MNHpEa3p2QXZDc3pqbi0zX0p1VGxSTDdKbHBTSHd0SUx3dzRlTGpYMDdMR2R4TXc2VXNrZ2VmWlEyLW1XY3FlcmVXUVI5clllZUNWaFdYM0JhMlc1LWozQWpuX3plTTVpUlRlRHdtcHUxY1Q1T2dHRi1tSkkyWTRGWlIxWWRoVU8tdjhDbk56bWgyNEM4T3RTWmhqQlg3UjF5UElrMFRMUG1iVGhrUHFvSVJvR3h4eDlEOWVQUVlUblprUjZJczJwNlNUaA?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 9,
+      "location": "Nigeria",
+      "detailed_analysis": "This mass abduction demonstrates the continued operational capability of militant groups in Nigeria's northwest, highlighting the government's persistent security vacuum in rural areas. The targeting of a religious institution suggests potential sectarian dimensions and a deliberate challenge to state authority.",
+      "immediate_forecast_24h": "Heightened security operations and possible roadblocks in Kaduna and neighboring states, with increased militant activity expected during ransom negotiation period.",
+      "strategic_outlook": "Accelerated deterioration of Nigeria's internal security situation likely to strain military resources, potentially inviting greater international counterterrorism involvement and impacting regional stability in West Africa.",
+      "operational_impact": "Immediate suspension of all non-essential travel to northwest Nigeria; review evacuation protocols for personnel in Kaduna, Zamfara, and Katsina states; enhance compound security measures and avoid road movement after dark."
+    }
+  },
+  {
+    "id": "13914049f508268fa0f2832ceadbd5b8",
+    "timestamp": "2025-11-22T21:31:01.026986",
+    "original_title": "Netherlands opens fire on suspicious drones near air base housing US nuclear weapons",
+    "link": "https://www.reddit.com/r/worldnews/comments/1p44myt/netherlands_opens_fire_on_suspicious_drones_near/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Military",
+      "risk_score": 6,
+      "location": "Volkel Air Base, Netherlands",
+      "detailed_analysis": "The incident demonstrates heightened alert levels at NATO nuclear storage facilities amid rising tensions with Russia, reflecting concerns about potential reconnaissance or sabotage attempts against dual-capable aircraft. The use of live fire indicates a shift from passive monitoring to active defense protocols for critical nuclear infrastructure.",
+      "immediate_forecast_24h": "Increased drone surveillance and possible additional intercept attempts; enhanced security patrols and temporary airspace restrictions around Volkel and other NATO nuclear sites.",
+      "strategic_outlook": "This event will likely accelerate NATO's development of integrated counter-drone systems and potentially lead to revised rules of engagement for protecting nuclear assets, further hardening alliance nuclear posture against asymmetric threats.",
+      "operational_impact": "Corporate aviation should expect temporary NOTAMs and enhanced screening near military airbases; security teams should review drone detection capabilities and update protocols for unauthorized UAV activity near sensitive locations."
+    }
+  },
+  {
+    "id": "af20f381e5e55ed769a4c4ce19f0dc8a",
+    "timestamp": "2025-11-22T21:31:06.969925",
+    "original_title": "Air traffic above Eindhoven Airport disrupted by drones",
+    "link": "https://www.reddit.com/r/worldnews/comments/1p43s1x/air_traffic_above_eindhoven_airport_disrupted_by/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 4,
+      "location": "Eindhoven Airport, Netherlands",
+      "detailed_analysis": "This incident highlights the persistent vulnerability of critical aviation infrastructure to low-cost drone incursions, which can disrupt military and civilian operations with minimal technical sophistication. The location's dual-use nature (hosting both civilian flights and NATO military transport) amplifies the strategic implications for regional security coordination.",
+      "immediate_forecast_24h": "Temporary flight suspensions likely until drone threat is neutralized, with potential ripple effects on regional air traffic and military logistics operations.",
+      "strategic_outlook": "Increased investment in counter-drone technology and revised NATO airbase security protocols expected, potentially accelerating EU-wide drone regulation frameworks.",
+      "operational_impact": "Recommend heightened drone awareness for all assets in region; review emergency landing protocols and maintain real-time coordination with Dutch aviation authorities."
+    }
+  }
+]
