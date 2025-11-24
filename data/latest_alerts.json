@@ -1,18 +1,50 @@
 [
   {
-    "id": "6f07e7c3da454f8c009eae3ed76d6f06",
-    "timestamp": "2025-11-23T23:32:39.808423",
-    "original_title": "Is India reducing its dependence on China economically or just diversifying supply chains superficially",
-    "link": "https://www.reddit.com/r/geopolitics/comments/1p50mfs/is_india_reducing_its_dependence_on_china/",
-    "source_name": "Reddit r/Geopolitics",
+    "id": "17b63c790fd51b48bf5c5de446b43fe0",
+    "timestamp": "2025-11-24T03:52:02.213203",
+    "original_title": "Gunmen attack Pakistan paramilitary force headquarters, police say - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNG81STFQcjUzNWpsUWdvcm1qSDZCQzNvc19tdmM2QUhyZFo5MFp5bWJ2VXl5Y25WZ3B2TkppbmRjd21fRnc3Z2NlcFQxV29NeXI5V0xoa0tGTmdtS0lZSFU0M1E3d2VvR3BFeW8yVmcxRldUV3BRY1Q4MmFUSy1PVnRBcG0tbC1JM09nOXRJYmQ5YmJuVlYzeldoaW9wSEZRTHl5YVYxbmZGemhINWt3YTZ1bnVpOVFkRHhteg?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 7,
+      "location": "Pakistan",
+      "detailed_analysis": "This attack on a high-security military installation demonstrates persistent militant capability to penetrate hardened targets, undermining state authority and highlighting vulnerabilities in Pakistan's internal security apparatus. The targeting of paramilitary forces specifically suggests either retaliatory action or an attempt to destabilize counter-insurgency operations.",
+      "immediate_forecast_24h": "Heightened security alert nationwide, potential retaliatory operations against militant groups, possible temporary restrictions on movement near military installations, and increased intelligence gathering activities.",
+      "strategic_outlook": "Likely to strain Pakistan's counter-terrorism resources and potentially impact regional security cooperation, particularly with neighboring Afghanistan where cross-border elements may be involved. May accelerate military modernization and counter-insurgency strategy reviews.",
+      "operational_impact": "Immediate suspension of non-essential travel to affected region, review of security protocols for all government and military facilities, increased vetting of local security personnel, and enhanced physical security measures for corporate assets near sensitive installations."
+    }
+  },
+  {
+    "id": "2403f4e84809155bdde1d20b89bfc227",
+    "timestamp": "2025-11-24T03:52:13.228948",
+    "original_title": "Lethal smog is back in the world’s most polluted capital. Residents have had enough",
+    "link": "https://www.reddit.com/r/worldnews/comments/1p54ube/lethal_smog_is_back_in_the_worlds_most_polluted/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 7,
+      "location": "New Delhi, India",
+      "detailed_analysis": "The recurring severe smog crisis in Delhi represents a critical failure of environmental governance that directly threatens public health and economic stability, potentially undermining India's global standing as an emerging power. This environmental emergency intersects with growing public frustration over institutional incapacity to address basic quality-of-life issues.",
+      "immediate_forecast_24h": "Increased protests and transportation disruptions likely as citizens demand government action, with possible road blockades and heightened police presence around government buildings.",
+      "strategic_outlook": "Persistent environmental degradation may accelerate brain drain, deter foreign investment in affected regions, and force India to choose between economic growth and environmental sustainability in its development model.",
+      "operational_impact": "Activate air quality contingency plans, restrict non-essential personnel movement, prepare for supply chain delays, and monitor protest locations to avoid operational areas."
+    }
+  },
+  {
+    "id": "989f9ed3bf4581dfca4ebe74ae1ccc13",
+    "timestamp": "2025-11-24T03:52:19.360801",
+    "original_title": "Airlines cancel international flights to Venezuela after US warns of worsening security, military activity",
+    "link": "https://www.reddit.com/r/worldnews/comments/1p546jp/airlines_cancel_international_flights_to/",
+    "source_name": "Reddit r/WorldNews",
     "ai_analysis": {
       "category": "Geopolitics",
-      "risk_score": 6,
-      "location": "India",
-      "detailed_analysis": "India is pursuing strategic diversification through initiatives like Make in India and Atmanirbhar Bharat, but remains structurally dependent on Chinese imports for critical sectors like electronics and pharmaceuticals. This creates a vulnerability to economic coercion while simultaneously reflecting a genuine long-term decoupling effort.",
-      "immediate_forecast_24h": "No significant immediate operational impact; trade flows and supply chains continue normal patterns with no abrupt disruptions expected.",
-      "strategic_outlook": "Gradual but incomplete decoupling over 5-10 years, with India deepening ties with Southeast Asia and the West while managing a complex dependency relationship with China.",
-      "operational_impact": "Companies should dual-source critical components, invest in local supplier development, and maintain contingency plans for potential supply chain disruptions stemming from geopolitical tensions."
+      "risk_score": 7,
+      "location": "Venezuela",
+      "detailed_analysis": "The flight cancellations signal a rapid deterioration in international confidence in Venezuela's security environment, likely tied to escalating US-Venezuela tensions and potential military mobilization. This represents a strategic isolation tactic that could further destabilize Maduro's regime by cutting economic and diplomatic channels.",
+      "immediate_forecast_24h": "Increased aviation disruptions, potential airport closures, and heightened security screening for remaining flights; possible retaliatory measures from Venezuelan authorities.",
+      "strategic_outlook": "Accelerated economic isolation of Venezuela, potential for broader regional polarization, and increased likelihood of external intervention scenarios if internal instability worsens.",
+      "operational_impact": "Immediate suspension of all non-essential travel to Venezuela; relocate expat personnel via alternative routes; enhance contingency planning for sudden evacuation scenarios and monitor maritime exit options."
     }
   }
 ]
