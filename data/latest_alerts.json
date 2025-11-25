@@ -55,5 +55,43 @@
       "operational_impact": "Direct impact on Air India operations with 11+ flights cancelled. Potential secondary impacts on other carriers using same air routes. Increased maintenance workload and costs for aircraft inspection/repair.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "343a4ca3c02906cc2b4de2a14f2f2309",
+    "timestamp": "2025-11-25T09:45:21.447430",
+    "original_title": "Afghanistan says 9 children killed in Pakistani air strikes, vows to respond - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeDlnTkNBOEpBTXJsUndoOGRzVU44LVppNmllQ252RFdqMEVzRDlJenR0QjlXSmlYSWp4WllCeVZuekl6Nk96a3JnVUx4Z2lleFhSQ1ZjREE3bDhkdk5xMUR1cHlXaGlqdGoyV1NCc0w0dmhYQzhfbjZOTUxSVTA4TlNXMGROOWo4ckNKbUJvQ2plaHNLREF6clV4Umx1dlZMN0dzRUpxSnpnTUxHOUdFZFVEZXdiR2szZy1sejljUkZPQ3BlcEVCelhXWUlyWmc?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Afghanistan-Pakistan border region",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Cross-border air strikes by Pakistan resulting in civilian casualties (9 children killed) with Afghanistan vowing retaliation. This represents an escalation in border tensions with potential for immediate retaliatory actions. The situation directly threatens personnel safety in border regions and could disrupt cross-border cargo/aviation operations.",
+      "immediate_forecast_24h": "High probability of retaliatory actions from Afghan forces, potential for cross-border shelling or ground incursions. Increased aviation risks near border areas, possible flight restrictions or no-fly zone implementation. Elevated threat to personnel and assets in border regions.",
+      "strategic_outlook": "Sustained border tensions likely to continue, potentially escalating into broader conflict. May lead to closure of border crossings, disruption of supply chains, and increased military aviation activity. Regional stability compromised with potential for prolonged operational impacts.",
+      "operational_impact": "Immediate suspension of cross-border cargo operations recommended. Enhanced security protocols for personnel in border areas. Aviation operations near Afghanistan-Pakistan border should exercise extreme caution or consider rerouting. Potential for supply chain disruptions affecting regional logistics.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "60a716fc581618207e554c5956bceea5",
+    "timestamp": "2025-11-25T09:45:39.956073",
+    "original_title": "Nigeria security chiefs report progress in rescuing kidnapped students",
+    "link": "http://www.africanews.com/2025/11/25/nigeria-security-chiefs-report-progress-in-rescuing-kidnapped-students/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 8,
+      "location": "Niger State, Nigeria",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Mass kidnapping of 303 schoolchildren and 12 teachers by armed gunmen represents a significant terrorist/kidnapping-for-ransom operation. This follows patterns of similar attacks by bandit groups in Nigeria's northwest and north-central regions. The targeting of a religious (Catholic) institution suggests potential sectarian dimensions. Ongoing rescue operations indicate active security response.",
+      "immediate_forecast_24h": "High probability of continued security operations, possible road closures/military checkpoints in Niger State. Potential for secondary attacks targeting response forces. Increased scrutiny of transportation routes by security services.",
+      "strategic_outlook": "This incident reinforces the persistent threat of kidnapping operations targeting educational institutions in northern Nigeria. Likely to prompt increased security measures at schools and along transportation corridors. May lead to temporary disruptions in regional logistics and personnel movements.",
+      "operational_impact": "Avoid non-essential travel to Niger State and surrounding regions. Heightened alert for personnel in northern Nigeria. Review security protocols for ground transportation. Monitor for potential road closures and increased military presence affecting logistics operations.",
+      "proximity_alert": null
+    }
   }
 ]
