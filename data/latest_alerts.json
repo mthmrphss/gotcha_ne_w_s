@@ -1,24 +1,5 @@
 [
   {
-    "id": "889a295616a800d485ba98b5e8afdb38",
-    "timestamp": "2025-11-25T05:42:31.332443",
-    "original_title": "US's Muslim Brotherhood ban could cripple global Islamist networks, says expert",
-    "link": "https://www.reddit.com/r/worldnews/comments/1p63pdw/uss_muslim_brotherhood_ban_could_cripple_global/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Geopolitics",
-      "risk_score": 10,
-      "location": "Washington D.C.",
-      "latitude": 38.9072,
-      "longitude": -77.0369,
-      "detailed_analysis": "The US designation of the Muslim Brotherhood as a terrorist organization represents a significant policy shift that will strain relations with key Middle Eastern allies and complicate counterterrorism cooperation. This move will likely fragment Islamist networks' funding and operational capabilities while creating geopolitical friction.",
-      "immediate_forecast_24h": "Increased diplomatic protests from regional partners; possible retaliatory statements from Islamist groups; enhanced security at US embassies in Muslim-majority countries.",
-      "strategic_outlook": "Long-term degradation of Islamist financing networks but potential radicalization of moderate Islamist elements; sustained tension in US relations with Turkey, Qatar, and other regional actors who maintain ties with Brotherhood-affiliated groups.",
-      "operational_impact": "Advise assets to maintain heightened situational awareness in regions with significant Muslim Brotherhood presence; expect increased scrutiny of financial transactions and NGO activities; prepare for potential anti-US demonstrations.",
-      "proximity_alert": "🚨 YAKIN TEHDİT: Washington Dulles International Airport lokasyonuna 1 km!"
-    }
-  },
-  {
     "id": "751b9601564ef1c69098267ef2b77f21",
     "timestamp": "2025-11-25T06:24:01.593565",
     "original_title": "Man accused of causing last week's violent crash in Wilkinsburg now facing federal gun charge - CBS News",
@@ -187,6 +168,44 @@
       "strategic_outlook": "Aviation sector remains high-value target for cyber attacks. This incident may indicate broader campaign against European carriers. Long-term reputational damage to Iberia possible. Potential regulatory scrutiny and compliance requirements may increase. Possible copycat attacks against other airlines in region.",
       "operational_impact": "Customer data breach requires immediate incident response and customer notification procedures. Possible temporary disruptions to booking systems during remediation. Enhanced security protocols needed for customer-facing systems. No direct impact on aircraft operations, cargo handling, or physical security noted at this time.",
       "proximity_alert": "🚨 YAKIN TEHDİT: Adolfo Suárez Madrid–Barajas Airport (15 km)"
+    }
+  },
+  {
+    "id": "9241e5961687bd2e0c0347f71136f43c",
+    "timestamp": "2025-11-25T06:58:40.448803",
+    "original_title": "The US declares Maduro a terrorist amid escalating military tensions with Venezuela",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1p65s76/the_us_declares_maduro_a_terrorist_amid/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Venezuela",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "US declaration of Maduro as a terrorist amid escalating military tensions indicates potential for retaliatory actions, increased asymmetric threats against US interests, and possible disruption to regional stability. Could trigger cyber attacks, protests targeting US assets, or opportunistic criminal activity.",
+      "immediate_forecast_24h": "Heightened alert for protests near US embassies/consulates, possible cyber probing of US infrastructure, increased rhetoric from Venezuelan state media. Low probability of direct military engagement within 24h.",
+      "strategic_outlook": "Potential for prolonged diplomatic standoff, economic sanctions escalation, and increased Venezuelan alignment with adversarial state/non-state actors. May see increased migration flows from Venezuela destabilizes further.",
+      "operational_impact": "Review physical security at all US facilities in Latin America. Monitor for unusual shipping patterns/vessel tracking anomalies. Increase vigilance for social engineering attempts targeting personnel. Prepare contingency plans for embassy evacuations if tensions escalate.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "6198f8e2334abccebc6187c61ddbd9ce",
+    "timestamp": "2025-11-25T06:58:48.766127",
+    "original_title": "Trump moves to classify Muslim Brotherhood chapters as ‘terrorist organizations'",
+    "link": "https://www.france24.com/en/middle-east/20251124-trump-targets-muslim-brotherhood-chapters-middle-east",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 7,
+      "location": "Lebanon, Egypt, Jordan",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Executive order designating Muslim Brotherhood chapters as terrorist organizations may trigger retaliatory actions against US interests. Potential for increased targeting of diplomatic facilities, military assets, and Western personnel in affected regions. Elevated risk of asymmetric attacks including IEDs, small arms assaults, or coordinated operations against soft targets.",
+      "immediate_forecast_24h": "Heightened alert status recommended for US embassies and military installations in Lebanon, Egypt, and Jordan. Possible protests near diplomatic compounds with risk of escalation. Increased monitoring of chatter from designated groups advised.",
+      "strategic_outlook": "Medium-to-long term radicalization of affected groups possible. Potential for increased recruitment and fundraising activities. May strain counterterrorism cooperation with regional governments. Could inspire lone-wolf attacks against US interests globally.",
+      "operational_impact": "Enhanced security protocols required for personnel movement in region. Increased screening for cargo originating from affected areas. Aviation security should review no-fly lists and watchlists for updates. Diplomatic and military assets should review force protection measures.",
+      "proximity_alert": null
     }
   }
 ]
