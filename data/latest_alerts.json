@@ -55,5 +55,62 @@
       "operational_impact": "Possible delays in cargo transport due to roadblocks. Increased risk to personnel in urban centers. Aviation operations currently unaffected but monitor for airport disruptions if unrest escalates.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "011ac10c355e575d1de1dbfe2b6a1fb9",
+    "timestamp": "2025-11-25T14:47:25.822034",
+    "original_title": "Venezuela Makes High Stakes Threat To Force International Airlines To Restore Flights After FAA Safety Alert",
+    "link": "https://www.paddleyourownkanoo.com/2025/11/25/venezuela-makes-high-stakes-threat-to-force-international-airlines-to-restore-flights-after-faa-safety-alert/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Caracas, Venezuela",
+      "latitude": 10.4806,
+      "longitude": -66.9036,
+      "detailed_analysis": "Venezuelan government making high-stakes threats to force international airlines to resume flights despite FAA safety alert. This creates potential for aviation safety compromises, political pressure on carriers, and possible retaliatory actions against airlines that refuse to comply with demands.",
+      "immediate_forecast_24h": "Increased diplomatic tensions, possible threats to airline operations, potential for Venezuela to implement retaliatory measures against non-compliant carriers. Airlines may face pressure to resume flights despite safety concerns.",
+      "strategic_outlook": "Potential escalation in aviation safety risks if airlines are coerced into operating in unsafe conditions. Possible expansion of flight restrictions to/from Venezuela if situation deteriorates. Could impact regional aviation security posture.",
+      "operational_impact": "Airlines operating to/from Venezuela may face increased security risks, potential for forced operations in unsafe conditions. Cargo and personnel movements through Venezuelan airspace could be affected by potential safety compromises or political retaliation measures.",
+      "proximity_alert": "🚨 YAKIN TEHDİT: Maiquetía \"Simón Bolívar\" International Airport (3 km)"
+    }
+  },
+  {
+    "id": "b69950d68be40a92b76ea1ea33c8f8bd",
+    "timestamp": "2025-11-25T14:47:38.621447",
+    "original_title": "Major European airport cancels over half of incoming flights ahead of strike action",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/brussels-airport-flights-cancelled-strikes-b2872112.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 7,
+      "location": "Unknown European airport",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Major European airport experiencing significant flight cancellations due to strike action, with British Airways already canceling all flights for the day. This indicates labor unrest impacting aviation operations, potentially causing cascading delays, passenger disruptions, and economic impact. While not an immediate security threat, it represents operational instability that could be exploited or escalate.",
+      "immediate_forecast_24h": "High probability of continued flight cancellations and delays; potential for passenger congestion, protests, or secondary disruptions at airport facilities. Increased likelihood of opportunistic crime in chaotic environments.",
+      "strategic_outlook": "Labor disputes may persist or spread to other airports/airlines; could indicate broader labor tensions in aviation sector. Potential for increased vulnerability to security gaps during operational disruptions.",
+      "operational_impact": "Disrupted passenger travel, potential delays in time-sensitive cargo, increased workload for airport security managing crowds, possible need for contingency routing for critical personnel/asset movements.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "9c26783d3b379d6eca1dd6788b2e5353",
+    "timestamp": "2025-11-25T14:47:46.421625",
+    "original_title": "Passengers arrested after storming runway to catch Wizz Air flight",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/wizz-air-passengers-runway-flight-germany-b2872025.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 7,
+      "location": "Unknown Airport",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Passengers breached airport security by smashing an emergency alarm and storming the runway to intercept a Wizz Air flight. This indicates significant security vulnerabilities in perimeter control and emergency response protocols. The deliberate attempt to signal the pilot to stop creates potential for aircraft collision, unauthorized access to secure areas, and disruption of aviation operations.",
+      "immediate_forecast_24h": "Increased security patrols and potential temporary ground stops at affected airport. Enhanced screening of passengers for Wizz Air and nearby flights. Possible delays as security reassesses runway access protocols.",
+      "strategic_outlook": "This event highlights systemic airport security weaknesses that could be exploited for more malicious purposes. May prompt review of emergency alarm systems, perimeter fencing, and response coordination between airport security and airline crews. Potential for copycat incidents at other airports with similar security gaps.",
+      "operational_impact": "Immediate disruption to flight schedules and ground operations. Requires security personnel reassignment to runway monitoring. Potential need for additional screening of passengers who may have witnessed or participated in the breach. Increased coordination between airport security and airline operations centers.",
+      "proximity_alert": null
+    }
   }
 ]
