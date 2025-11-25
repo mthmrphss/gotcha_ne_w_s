@@ -5,7 +5,7 @@ import hashlib
 import time
 import requests
 import math
-from datetime import datetime
+from datetime import datetime, timedelta
 from g4f.client import Client
 from g4f.Provider import PollinationsAI
 
@@ -14,20 +14,19 @@ ASSETS_FILE = "assets.json"
 HISTORY_FILE = "data/history.json"
 OUTPUT_FILE = "data/latest_alerts.json"
 
-# Tarayıcı gibi görünmek için Header
+# Bu süre (dakika) dolan haberler JSON'dan silinir.
+# Power Automate saat başı (60 dk) çalışıyorsa, burayı 65-70 yapmak güvenlidir.
+RETENTION_MINUTES = 70 
+
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36'
 }
 
-# --- GÜÇLENDİRİLMİŞ KAYNAK LİSTESİ ---
 RSS_SOURCES = [
-    # 1. GOOGLE NEWS: Anlık Sıcak Çatışma (Son 1 Saat)
     {
         "name": "Google News (Breaking)",
         "url": "https://news.google.com/rss/search?q=(security+OR+conflict+OR+terror+OR+attack+OR+crash+OR+military)+when:1h&hl=en-US&gl=US&ceid=US:en"
     },
-    
-    # 2. HAVACILIK GÜVENLİĞİ
     {
         "name": "SafeAirspace Warnings",
         "url": "https://safeairspace.net/feed/"
@@ -36,12 +35,10 @@ RSS_SOURCES = [
         "name": "Aviation Safety Network",
         "url": "http://aviation-safety.net/rss/recent.xml"
     },
-    {   # Squawk 7700/7500 (Acil Durum Kodları)
+    {   
         "name": "Live Flight Emergencies (Squawk)",
         "url": "https://news.google.com/rss/search?q=(squawk+7700+OR+squawk+7500+OR+emergency+landing)+when:1h&hl=en-US&gl=US&ceid=US:en"
     },
-
-    # 3. REDDIT & STRATEJİ
     {
         "name": "Reddit r/Geopolitics",
         "url": "https://www.reddit.com/r/geopolitics/new/.rss"
@@ -53,35 +50,35 @@ RSS_SOURCES = [
     {
         "name": "War on the Rocks",
         "url": "https://warontherocks.com/feed/"
-    }
+    },
+    # Yeni eklenen kaynaklarınız
+    { "name": "Africa News", "url": "https://www.africanews.com/feed/rss" },
+    { "name": "France 24 ME", "url": "https://www.france24.com/en/middle-east/rss" },
+    { "name": "US State Dept", "url": "https://travel.state.gov/_res/rss/TAsTWs.xml" },
+    { "name": "Paddle Your Own Kanoo", "url": "https://www.paddleyourownkanoo.com/category/airline-news/feed/" },
+    { "name": "Independent Travel", "url": "https://www.independent.co.uk/travel/rss" }
 ]
 
-# --- ANAHTAR KELİMELER ---
 KEYWORDS = [
-    "attack", "blast", "explosion", "crash", "terror", "bomb", "strike", "killed", "dead", "injured",
-    "military", "drone", "missile", "army", "navy", "air force", "mobilization", "deployment",
-    "coup", "riot", "protest", "sanctions", "tensions", "escalation", "nuclear", "cyber", "hack",
-    "airport", "airline", "hijack", "emergency", "grounded", "squawk", "7700", "7500", "fuselage"
+    "attack", "blast", "explosion", "crash", "terror", "bomb", "strike", "killed", "injured", "shooting",
+    "military", "missile", "drone", "army", "coup", "riot", "protest", "tensions",
+    "airport", "airline", "hijack", "emergency", "grounded", "squawk", "7700", "7500", 
+    "evacuation", "bomb threat", "hoax", "security alert",
+    "theft", "stolen", "robbery", "heist", "smuggling", "cargo", "freight", "drugs",
+    "migrant", "border", "stowaway", "cyber", "hack", "ransomware"
 ]
 
 IGNORE_WORDS = [
     "opinion", "editorial", "history of", "biography", "book review", "podcast", 
-    "why the", "what is", "explained", "lawsuit", "sues", "celebrity", "fashion", "sport", "deal"
+    "why the", "what is", "explained", "lawsuit", "sues", "celebrity", "fashion", "sport", "deal",
+    "crash test", "dummy", "dummies", "regulatory", "policy change", "best hotels", "vacation ideas"
 ]
 
 def load_assets():
-    """Varlıkları harici JSON dosyasından yükler"""
-    if not os.path.exists(ASSETS_FILE):
-        print(f"UYARI: {ASSETS_FILE} bulunamadı! Yarıçap kontrolü pasif.")
-        return []
+    if not os.path.exists(ASSETS_FILE): return []
     try:
-        with open(ASSETS_FILE, 'r', encoding='utf-8') as f:
-            assets = json.load(f)
-            print(f"Varlıklar yüklendi: {len(assets)} nokta.")
-            return assets
-    except Exception as e:
-        print(f"Varlık dosyası hatası: {e}")
-        return []
+        with open(ASSETS_FILE, 'r', encoding='utf-8') as f: return json.load(f)
+    except: return []
 
 def load_history():
     if not os.path.exists(HISTORY_FILE): return []
@@ -91,21 +88,23 @@ def save_history(history_list):
     with open(HISTORY_FILE, 'w', encoding='utf-8') as f:
         json.dump(history_list[-500:], f, ensure_ascii=False, indent=2)
 
+# --- YENİ FONKSİYON: MEVCUT RAPORU OKU (BİRİKTİRME İÇİN) ---
+def load_current_alerts():
+    if not os.path.exists(OUTPUT_FILE): return []
+    try:
+        with open(OUTPUT_FILE, 'r', encoding='utf-8') as f: return json.load(f)
+    except: return []
+
 def get_content_hash(text):
     return hashlib.md5(text.encode('utf-8')).hexdigest()
 
 def fetch_rss(url):
     try:
         response = requests.get(url, headers=HEADERS, timeout=15)
-        if response.status_code != 200:
-            return []
-        feed = feedparser.parse(response.content)
-        return feed.entries
-    except Exception as e:
-        print(f"Error fetching {url}: {e}")
-        return []
+        if response.status_code != 200: return []
+        return feedparser.parse(response.content).entries
+    except: return []
 
-# --- MESAFE HESAPLAMA (Haversine) ---
 def calculate_distance(lat1, lon1, lat2, lon2):
     R = 6371 
     dlat = math.radians(lat2 - lat1)
@@ -116,26 +115,31 @@ def calculate_distance(lat1, lon1, lat2, lon2):
 
 def analyze_with_g4f(title, summary):
     client = Client()
-    
     prompt = f"""
-    ACT AS: Senior Strategic Intelligence Analyst.
-    TASK: Analyze this event and estimate geolocation coordinates.
+    ACT AS: Security Operations Center (SOC) Analyst.
+    TASK: Analyze news for threats to Assets, Cargo, Aviation, and Personnel.
     
-    EVENT: {title}
+    EVENT TITLE: {title}
     CONTEXT: {summary}
 
-    OUTPUT: Return ONLY a raw JSON string with these keys:
-    - category: [Terrorism, Aviation, Civil Unrest, Cyber, Conflict, Geopolitics, Military, Other]
-    - risk_score: (Integer 1-10)
+    CRITICAL INSTRUCTIONS:
+    1. IGNORE: Regulatory, historical, crash tests, lawsuits, routine traffic accidents, tourist guides. (Set Risk = 0)
+    2. CARGO/CRIME: Theft, smuggling, heists, drug busts in logistics => Risk 5-8.
+    3. MIGRANTS: Stowaways, border breaches affecting transport => Risk 4-7.
+    4. AVIATION: Bomb threats, drone sightings, strikes, crashes => Risk 6-9.
+    5. "Crash" in aviation = HIGH RISK. "Crash" on road = LOW RISK (0).
+
+    OUTPUT: Raw JSON string only:
+    - category: [Terrorism, Aviation, Crime/Theft, Border/Migration, Civil Unrest, Cyber, Conflict, Other, Irrelevant]
+    - risk_score: (Integer 0-10. If 0, Ignore)
     - location: (String) City/Region
-    - latitude: (Float) Estimated latitude (Use 0.0 if unknown)
-    - longitude: (Float) Estimated longitude (Use 0.0 if unknown)
-    - detailed_analysis: (String, max 2 sentences.)
-    - immediate_forecast_24h: (String, immediate operational impact)
-    - strategic_outlook: (String, long-term consequence)
-    - operational_impact: (String, advice for assets)
+    - latitude: (Float) 0.0 if unknown
+    - longitude: (Float) 0.0 if unknown
+    - detailed_analysis: (String)
+    - immediate_forecast_24h: (String)
+    - strategic_outlook: (String)
+    - operational_impact: (String)
     """
-    
     try:
         response = client.chat.completions.create(
             model="deepseek", 
@@ -146,13 +150,11 @@ def analyze_with_g4f(title, summary):
     except:
         try:
             response = client.chat.completions.create(
-                model="openai", 
-                provider=PollinationsAI,
+                model="openai", provider=PollinationsAI,
                 messages=[{"role": "user", "content": prompt}]
             )
             return clean_and_parse_json(response.choices[0].message.content)
-        except:
-            return None
+        except: return None
 
 def clean_and_parse_json(content):
     if not content: return None
@@ -169,9 +171,12 @@ def main():
     assets = load_assets()
     history = load_history()
     processed_hashes = [item['id'] for item in history]
-    new_alerts = []
     
-    print(f"Scanning {len(RSS_SOURCES)} Intelligence Sources...")
+    # 1. MEVCUT DOSYAYI OKU (BİRİKTİRMEK İÇİN)
+    current_alerts = load_current_alerts()
+    new_alerts_found = []
+    
+    print(f"Scanning {len(RSS_SOURCES)} Sources...")
     
     for source in RSS_SOURCES:
         entries = fetch_rss(source["url"])
@@ -185,47 +190,47 @@ def main():
             combined_text = (title + " " + summary).lower()
             if any(ignore in combined_text for ignore in IGNORE_WORDS): continue
             if not any(word in combined_text for word in KEYWORDS): continue
-
             news_hash = get_content_hash(title)
             if news_hash in processed_hashes: continue
             
             print(f"\n>>> Analyzing: {title}")
-            
             analysis = analyze_with_g4f(title, summary)
             
             if analysis:
-                # --- VARLIK YARIÇAP KONTROLÜ ---
+                score = analysis.get('risk_score', 0)
+                category = analysis.get('category', 'Other')
+                
+                if score == 0 or category == "Irrelevant":
+                    print("    Skipped (Irrelevant)")
+                    history.append({"id": news_hash, "timestamp": datetime.now().isoformat()})
+                    continue
+
+                # Varlık Kontrolü
                 event_lat = analysis.get('latitude', 0.0)
                 event_lon = analysis.get('longitude', 0.0)
                 proximity_alert = None
                 
                 if event_lat and event_lon and assets:
                     for asset in assets:
-                        # Hatalı JSON verisi varsa çökme, atla
-                        if asset.get('lat') is None or asset.get('lon') is None:
-                            continue
-
+                        if asset.get('lat') is None or asset.get('lon') is None: continue
                         dist = calculate_distance(event_lat, event_lon, asset['lat'], asset['lon'])
                         threshold = 30 if asset.get('type') == 'Airport' else 10
-                        
                         if dist < threshold:
-                            proximity_alert = f"🚨 YAKIN TEHDİT: {asset['name']} lokasyonuna {int(dist)} km!"
-                            analysis['risk_score'] = 10 
+                            proximity_alert = f"🚨 YAKIN TEHDİT: {asset['name']} ({int(dist)} km)"
+                            analysis['risk_score'] = 10
+                            score = 10
                             break
                 
                 analysis['proximity_alert'] = proximity_alert
 
-                score = analysis.get('risk_score', 0)
-                category = analysis.get('category', 'Other')
-                
-                # RİSK FİLTRESİ
                 if not proximity_alert:
-                    if score < 4 and category not in ["Aviation", "Terrorism", "Military", "Geopolitics"]:
-                        print(f"    Skipped (Low Risk: {score}/10)")
+                    critical = ["Aviation", "Terrorism", "Military", "Geopolitics", "Crime/Theft", "Border/Migration"]
+                    if score < 4 and category not in critical:
+                        print(f"    Skipped (Low Risk: {score})")
                         history.append({"id": news_hash, "timestamp": datetime.now().isoformat()})
                         continue
 
-                print(f"    [SAVED] Score: {score} | Cat: {category} | {proximity_alert if proximity_alert else ''}")
+                print(f"    [SAVED] Score: {score} | {proximity_alert if proximity_alert else ''}")
                 
                 alert_obj = {
                     "id": news_hash,
@@ -235,21 +240,43 @@ def main():
                     "source_name": source['name'],
                     "ai_analysis": analysis
                 }
-                new_alerts.append(alert_obj)
+                new_alerts_found.append(alert_obj)
                 history.append({"id": news_hash, "timestamp": datetime.now().isoformat()})
                 time.sleep(2)
+
+    # 2. LİSTELERİ BİRLEŞTİR (ESKİLER + YENİLER)
+    # Yeni bulunanları eskilerin üzerine ekle
+    combined_alerts = current_alerts + new_alerts_found
+
+    # 3. ZAMAN AŞIMI TEMİZLİĞİ (CLEANUP)
+    # 70 dakikadan eski olanları listeden çıkar
+    final_alerts = []
+    now = datetime.now()
+    
+    print("\n--- Cleaning Old Alerts ---")
+    for alert in combined_alerts:
+        try:
+            alert_time = datetime.fromisoformat(alert['timestamp'])
+            age_minutes = (now - alert_time).total_seconds() / 60
+            
+            if age_minutes < RETENTION_MINUTES:
+                final_alerts.append(alert)
             else:
-                print("    Analysis failed.")
+                print(f"Dropping expired alert: {alert['original_title'][:30]}... ({int(age_minutes)} min old)")
+        except:
+            # Tarih formatı bozuksa güvenli tarafta kalıp silmeyelim (veya silelim)
+            final_alerts.append(alert)
 
-    # HER DURUMDA YAZ (Dosyayı temizlemek veya doldurmak için)
+    # 4. DOSYAYI GÜNCELLE
+    # Dosya her zaman "Son 70 dakikanın" canlı listesidir.
     with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
-        json.dump(new_alerts, f, ensure_ascii=False, indent=2)
+        json.dump(final_alerts, f, ensure_ascii=False, indent=2)
 
-    if new_alerts:
-        print(f"\nSUCCESS: {len(new_alerts)} high-priority alerts saved.")
+    if new_alerts_found:
+        print(f"\nSUCCESS: {len(new_alerts_found)} NEW alerts added. Total active: {len(final_alerts)}")
         save_history(history)
     else:
-        print("\nNo new HIGH PRIORITY incidents found. (Output file cleared)")
+        print(f"\nNo NEW incidents. Total active buffer: {len(final_alerts)}")
 
 if __name__ == "__main__":
     main()
