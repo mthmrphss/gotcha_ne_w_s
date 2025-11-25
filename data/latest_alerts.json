@@ -1,24 +1,5 @@
 [
   {
-    "id": "a945b616a380cb6cd8aa8cd232f167bd",
-    "timestamp": "2025-11-25T20:42:56.229189",
-    "original_title": "Flight school owner: Search likely a recovery mission for instructor, student after crash in lake - WDSU",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNnBzSE5KcVYtREZWRkM3U0s2UVVmSUJpQ0ZBN09JTTJyUjRocHRvdXZPZG9nUnFOODh6VnFTU09JbWp3ZGctU1lCZ0JnQmxGTWIwRDBqNU5wMXgwMWc1Nlhma1Fsd0U2U2pXeHFFQ3k3c2Y4MFg4TDBOd2VDT2taX3JGR0c4WFAtX3hsYVlSSWFuQXJFdmc0Zl9MN09ieGJM?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Aviation",
-      "risk_score": 7,
-      "location": "Lake area (specific location unknown from title)",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "Aviation crash involving flight school aircraft with instructor and student onboard. Search operation indicates potential fatalities. While likely an accident, requires investigation to rule out mechanical failure, training protocol issues, or other operational factors that could indicate broader safety concerns for aviation assets.",
-      "immediate_forecast_24h": "Ongoing search and recovery operations, potential media attention, possible FAA/NTSB investigation initiation. Increased scrutiny on flight school operations and safety protocols.",
-      "strategic_outlook": "Potential for regulatory review of flight school safety standards. Possible temporary grounding of similar training aircraft if systemic issues are identified. May impact public confidence in small aviation operations.",
-      "operational_impact": "Monitor for any pattern of similar incidents. Review flight training operations in the region. Coordinate with aviation authorities for investigation updates. Assess if this indicates any broader threat to aviation infrastructure or training safety.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "1454812c2681c6b5d7eacbea1ed266a2",
     "timestamp": "2025-11-25T21:33:48.590679",
     "original_title": "Venezuela demands international airlines resume flights",
@@ -35,6 +16,44 @@
       "strategic_outlook": "Sustained political and economic instability may lead to prolonged aviation irregularities, including unsafe operating conditions, possible airspace restrictions, or retaliatory measures against non-compliant airlines, affecting regional aviation security.",
       "operational_impact": "Airlines and cargo operators may face elevated risks including forced operations under unsafe conditions, potential for asset seizure, or involvement in unauthorized activities; recommend enhanced monitoring of Venezuelan air traffic and contingency planning for rapid changes.",
       "proximity_alert": null
+    }
+  },
+  {
+    "id": "8ec2fc696727a7cbc77954384ca0cefd",
+    "timestamp": "2025-11-25T22:41:44.149096",
+    "original_title": "Cyber attack on Buncombe County emergency alerts system; info leaked - The Asheville Citizen Times",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMElLRlBSbmpxSEczaUd6MndoelY0b1NqZnJxYVh4bmVDMTd5QWltdW1YbHRlTEdyV3UzbG5CS0Q3YjhRRXRfc0Y2YUlpQmdhdHVIa0RYcWstMnExRDJtNHNHUUFLNDRFaXhOOWtMNzRxa0xLUjJTUGlJUHk0b2lYSlpzQTZiREpERE5QRUNkaHl0dkJmWHBJSmpYYWZ2X2w2cWtCcFBaS0VzejQyR3dYVzlITDBtUjk5TUdUbDBqazkxQnUtQWszcjVocW9XdjZRSkE?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 7,
+      "location": "Buncombe County, North Carolina",
+      "latitude": 35.6,
+      "longitude": -82.55,
+      "detailed_analysis": "News reports a cyber attack against Buncombe County's emergency alerts system with information leaked. The incident appears to involve the emergency alert infrastructure or its data stores, which may include resident contact data or system configuration. Potential consequences include unauthorized access to alert dissemination capabilities, risk of spoofed or suppressed alerts, and exposure of sensitive data. The assets at risk include the alerting platform (EAS/SAME gateways or equivalent), alert databases, and related network components; personnel coordinating emergency communications; and, by extension, public-safety operations. Immediate containment, forensic analysis, credential resets, patching, and network segmentation will be needed, along with communications to partners and the public. The incident could enable follow-on cyber actions such as credential stuffing, phishing, or data repurposing using leaked information.",
+      "immediate_forecast_24h": "Expect ongoing containment and investigation by county IT/security teams, with possible temporary degradation or partial outage of emergency alerts and fallback to alternative channels. Public-facing alerting may be restored through backups or offline processes. Additional leaked data or attacker moves remain possible; monitoring for impact on residents' data privacy and for phishing campaigns is likely. Coordination with state and federal partners, communications to the public, and rapid remediation steps (credential resets, MFA enforcement, patching) are anticipated.",
+      "strategic_outlook": "Longer-term improvements will likely include stronger access controls, MFA enforcement, role-based access, network segmentation, a robust backup/recovery plan, enhanced monitoring for alerting systems, tabletop exercises, and updated incident response playbooks. Greater vendor risk assessment and public communications planning should be expected to reduce blast radius from future breaches.",
+      "operational_impact": "Operationally, the emergency alerting capability could be degraded or temporarily unavailable, reducing the speed and reliability of warnings to residents. Staff may need to rely on manual or alternative communication methods; redundancy and disaster recovery plans will be tested; potential impacts on other critical services that depend on alerting (e.g., weather advisories, evacuations) may require escalation protocols and ICS coordination. There are no direct cargo or aviation implications from the incident itself, but secondary effects include public confusion, misinformation, and trust erosion.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "88734bc0ffc2e1d7f50a9cdab2e3a98b",
+    "timestamp": "2025-11-25T22:41:54.734615",
+    "original_title": "Four more detained in Louvre heist as fate of jewels remains unknown",
+    "link": "https://www.reddit.com/r/worldnews/comments/1p6q2gx/four_more_detained_in_louvre_heist_as_fate_of/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Crime/Theft",
+      "risk_score": 10,
+      "location": "Paris, France",
+      "latitude": 48.8566,
+      "longitude": 2.3522,
+      "detailed_analysis": "High-value art/jewelry heist at major cultural institution indicates organized criminal capability. Additional detentions suggest ongoing investigation but jewels remain unrecovered. Potential for violent recovery attempts or secondary black market transactions. No direct threat to personnel beyond initial theft, but demonstrates vulnerability of high-security venues.",
+      "immediate_forecast_24h": "Increased police presence around Louvre and major transit hubs. Possible additional arrests or investigative operations. Low probability of violence but heightened security screening for cargo/parcels in Paris region.",
+      "strategic_outlook": "May inspire copycat attempts at other museums or high-value targets. Potential for increased insurance premiums and security requirements for cultural assets in transit. Could indicate new theft methodologies requiring security protocol updates.",
+      "operational_impact": "Review physical security protocols for high-value assets. Consider temporary increased screening for art/cargo shipments from France. Monitor dark web for potential sale of stolen items. No expected impact on aviation or personnel movement beyond standard precautions.",
+      "proximity_alert": "🚨 YAKIN TEHDİT: Paris Charles de Gaulle Airport (2 km)"
     }
   }
 ]
