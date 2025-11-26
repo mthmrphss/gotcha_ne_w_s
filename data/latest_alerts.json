@@ -1,40 +1,40 @@
 [
   {
-    "id": "8ec2fc696727a7cbc77954384ca0cefd",
-    "timestamp": "2025-11-25T22:41:44.149096",
-    "original_title": "Cyber attack on Buncombe County emergency alerts system; info leaked - The Asheville Citizen Times",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMElLRlBSbmpxSEczaUd6MndoelY0b1NqZnJxYVh4bmVDMTd5QWltdW1YbHRlTEdyV3UzbG5CS0Q3YjhRRXRfc0Y2YUlpQmdhdHVIa0RYcWstMnExRDJtNHNHUUFLNDRFaXhOOWtMNzRxa0xLUjJTUGlJUHk0b2lYSlpzQTZiREpERE5QRUNkaHl0dkJmWHBJSmpYYWZ2X2w2cWtCcFBaS0VzejQyR3dYVzlITDBtUjk5TUdUbDBqazkxQnUtQWszcjVocW9XdjZRSkE?oc=5",
+    "id": "5bf429bbdbe3185cc526807a30ac55d7",
+    "timestamp": "2025-11-26T03:42:02.057845",
+    "original_title": "Car involved in 'tragic' Colorado crash was stolen, authorities say - USA Today",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeFUtalI3a3NxMnBhd1VrZVFoRDZvY1JYV0VoOTNuSmsxMHFYaEpwZTgtczVIT3ZNM0ZyeVBubzA3NHoyRjdJOTJ0MnhBRzd1SjRaUkVaNG9YVGRtcjd3ZGJWR2NLZjFXeFVTLXZidWk2Y1hubVpoT2JsM0tSc0QxblJ3SWdLQ1FBRTh5ZjVVNUxKNEpORV8yYkhORXhHeC0tSmxsNEtFQjhDS09qWG5tcXZ3?oc=5",
     "source_name": "Google News (Breaking)",
     "ai_analysis": {
-      "category": "Cyber",
-      "risk_score": 7,
-      "location": "Buncombe County, North Carolina",
-      "latitude": 35.6,
-      "longitude": -82.55,
-      "detailed_analysis": "News reports a cyber attack against Buncombe County's emergency alerts system with information leaked. The incident appears to involve the emergency alert infrastructure or its data stores, which may include resident contact data or system configuration. Potential consequences include unauthorized access to alert dissemination capabilities, risk of spoofed or suppressed alerts, and exposure of sensitive data. The assets at risk include the alerting platform (EAS/SAME gateways or equivalent), alert databases, and related network components; personnel coordinating emergency communications; and, by extension, public-safety operations. Immediate containment, forensic analysis, credential resets, patching, and network segmentation will be needed, along with communications to partners and the public. The incident could enable follow-on cyber actions such as credential stuffing, phishing, or data repurposing using leaked information.",
-      "immediate_forecast_24h": "Expect ongoing containment and investigation by county IT/security teams, with possible temporary degradation or partial outage of emergency alerts and fallback to alternative channels. Public-facing alerting may be restored through backups or offline processes. Additional leaked data or attacker moves remain possible; monitoring for impact on residents' data privacy and for phishing campaigns is likely. Coordination with state and federal partners, communications to the public, and rapid remediation steps (credential resets, MFA enforcement, patching) are anticipated.",
-      "strategic_outlook": "Longer-term improvements will likely include stronger access controls, MFA enforcement, role-based access, network segmentation, a robust backup/recovery plan, enhanced monitoring for alerting systems, tabletop exercises, and updated incident response playbooks. Greater vendor risk assessment and public communications planning should be expected to reduce blast radius from future breaches.",
-      "operational_impact": "Operationally, the emergency alerting capability could be degraded or temporarily unavailable, reducing the speed and reliability of warnings to residents. Staff may need to rely on manual or alternative communication methods; redundancy and disaster recovery plans will be tested; potential impacts on other critical services that depend on alerting (e.g., weather advisories, evacuations) may require escalation protocols and ICS coordination. There are no direct cargo or aviation implications from the incident itself, but secondary effects include public confusion, misinformation, and trust erosion.",
+      "category": "Crime/Theft",
+      "risk_score": 2,
+      "location": "Colorado",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Vehicle theft incident resulting in a fatal traffic accident. While the theft itself represents criminal activity, the crash appears to be a road traffic incident rather than a targeted attack on assets or personnel. No indication of organized crime patterns, smuggling, or broader security implications beyond the localized criminal act and tragic outcome.",
+      "immediate_forecast_24h": "Low probability of related incidents. Standard law enforcement investigation ongoing with no expected escalation or secondary threats to transportation assets.",
+      "strategic_outlook": "No change to security posture required. Routine vehicle thefts with accidental outcomes do not indicate emerging threats to cargo, aviation, or personnel security operations.",
+      "operational_impact": "None. This isolated criminal incident does not affect logistics operations, asset security protocols, or require additional protective measures for personnel or cargo movements.",
       "proximity_alert": null
     }
   },
   {
-    "id": "88734bc0ffc2e1d7f50a9cdab2e3a98b",
-    "timestamp": "2025-11-25T22:41:54.734615",
-    "original_title": "Four more detained in Louvre heist as fate of jewels remains unknown",
-    "link": "https://www.reddit.com/r/worldnews/comments/1p6q2gx/four_more_detained_in_louvre_heist_as_fate_of/",
-    "source_name": "Reddit r/WorldNews",
+    "id": "dcc6a9ea5f47fa2e41b9da5874e1f983",
+    "timestamp": "2025-11-26T03:42:17.021872",
+    "original_title": "Taiwan’s President to Seek an Extra $40 Billion for Military - The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRDNMWmxBRTN5UnBSQmVMb045emNnbUhtTlRhR04tSzk5UzRKM3VQeFVXeWJTdmREVk9Jb0hFRUdPUzRxTm10Vk1LNEFrb2ZuaGMxcmp1aGhhTVByeUE4Zk1UN2tWMm5JTUZkRXZFd0dtdm1VdGtQaWY0a2dwbzVYRnY0em12Ym54LU5V?oc=5",
+    "source_name": "Google News (Breaking)",
     "ai_analysis": {
-      "category": "Crime/Theft",
-      "risk_score": 10,
-      "location": "Paris, France",
-      "latitude": 48.8566,
-      "longitude": 2.3522,
-      "detailed_analysis": "High-value art/jewelry heist at major cultural institution indicates organized criminal capability. Additional detentions suggest ongoing investigation but jewels remain unrecovered. Potential for violent recovery attempts or secondary black market transactions. No direct threat to personnel beyond initial theft, but demonstrates vulnerability of high-security venues.",
-      "immediate_forecast_24h": "Increased police presence around Louvre and major transit hubs. Possible additional arrests or investigative operations. Low probability of violence but heightened security screening for cargo/parcels in Paris region.",
-      "strategic_outlook": "May inspire copycat attempts at other museums or high-value targets. Potential for increased insurance premiums and security requirements for cultural assets in transit. Could indicate new theft methodologies requiring security protocol updates.",
-      "operational_impact": "Review physical security protocols for high-value assets. Consider temporary increased screening for art/cargo shipments from France. Monitor dark web for potential sale of stolen items. No expected impact on aviation or personnel movement beyond standard precautions.",
-      "proximity_alert": "🚨 YAKIN TEHDİT: Paris Charles de Gaulle Airport (2 km)"
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Taiwan",
+      "latitude": 23.6978,
+      "longitude": 120.9605,
+      "detailed_analysis": "Taiwan's President seeking $40 billion in additional military funding indicates heightened regional tensions and potential escalation in cross-strait relations. This development suggests increased military preparedness and potential for heightened naval/air force activity in the Taiwan Strait. While not an immediate kinetic event, this signals deteriorating diplomatic relations and increased probability of military posturing, which could impact maritime and aviation routes in the region.",
+      "immediate_forecast_24h": "Increased military surveillance and patrol activities expected in Taiwan Strait and surrounding waters. Potential for heightened air traffic control restrictions and temporary flight restrictions around military installations. No immediate kinetic conflict anticipated within 24 hours.",
+      "strategic_outlook": "Medium to long-term escalation likely as China responds to Taiwan's military buildup. Expect increased naval exercises, airspace incursions, and potential economic countermeasures. Regional shipping lanes may experience increased scrutiny and potential disruptions. Aviation routes may require adjustments due to increased military air activity.",
+      "operational_impact": "Maritime operations in Taiwan Strait should expect increased naval presence and potential for heightened inspection regimes. Aviation operators should monitor NOTAMs for temporary flight restrictions. Cargo shipments may face increased scrutiny at Taiwanese ports. Personnel in Taiwan should review emergency evacuation plans due to potential for rapid escalation.",
+      "proximity_alert": null
     }
   }
 ]
