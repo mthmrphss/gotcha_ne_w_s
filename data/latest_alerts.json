@@ -17,5 +17,81 @@
       "operational_impact": "Increased scrutiny of diplomatic communications; potential need to verify official policy positions; possible temporary freeze in certain diplomatic channels until clarity is established",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "fc3499fae4e2c690ee9f49b21dda1210",
+    "timestamp": "2025-11-26T14:46:49.792797",
+    "original_title": "Widow of first person to die at Chernobyl killed by a Russian drone strike",
+    "link": "https://www.reddit.com/r/worldnews/comments/1p798kj/widow_of_first_person_to_die_at_chernobyl_killed/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Ukraine",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Russian drone strike targeting a high-profile individual with historical significance to Chernobyl. While not directly targeting aviation or cargo infrastructure, this event demonstrates continued kinetic operations in Ukraine with potential for collateral damage to nearby assets. The symbolic nature of the target suggests psychological warfare elements.",
+      "immediate_forecast_24h": "Increased drone activity likely in response operations. Possible retaliatory strikes or heightened security around nuclear-related sites and personnel. Elevated alert status recommended for all assets in Ukrainian airspace and border regions.",
+      "strategic_outlook": "Ongoing conflict patterns indicate sustained targeting of both military and symbolic civilian targets. This may indicate broader strategy to demoralize opposition. Expect continued unconventional warfare tactics including drone operations against high-value targets.",
+      "operational_impact": "All personnel in Ukraine require enhanced security protocols. Aviation operations in region face increased drone threat. Cargo movements may experience delays due to security operations. Consider rerouting critical shipments away from conflict zones.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "4e957492daa600ac3b0bdcfb103196b9",
+    "timestamp": "2025-11-26T14:46:56.280827",
+    "original_title": "Drones strike Russia’s Cheboksary, military claims military electronics factory hit",
+    "link": "https://www.reddit.com/r/worldnews/comments/1p793ex/drones_strike_russias_cheboksary_military_claims/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Cheboksary, Russia",
+      "latitude": 56.1167,
+      "longitude": 47.25,
+      "detailed_analysis": "Drone strike targeting military electronics factory indicates escalation in asymmetric warfare tactics. Facility likely produces electronic warfare or communications equipment critical to Russian military operations. Attack demonstrates capability to penetrate Russian air defenses and hit strategic inland targets far from conflict zones.",
+      "immediate_forecast_24h": "High probability of increased air defense alerts in central Russia, potential retaliatory strikes, and enhanced security at similar military-industrial facilities. Possible disruption to military supply chains.",
+      "strategic_outlook": "Continued targeting of military production infrastructure likely. May lead to accelerated Russian air defense deployment patterns and potential escalation in drone/counter-drone warfare tactics.",
+      "operational_impact": "Increased vigilance required for all assets in region. Potential for collateral damage to civilian infrastructure. Aviation operations may experience temporary restrictions. Cargo shipments near military facilities face elevated risk.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "5e1800a4303a8cd9430131863974fc61",
+    "timestamp": "2025-11-26T14:47:05.681664",
+    "original_title": "Hackers Claim Iberia Data Breach Was Much Larger Than Previously Thought With Millions Of Passengers Affected",
+    "link": "https://www.paddleyourownkanoo.com/2025/11/26/hackers-claim-iberia-data-breach-was-much-larger-than-previously-thought-with-millions-of-passengers-affected/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 10,
+      "location": "Spain",
+      "latitude": 40.4637,
+      "longitude": -3.7492,
+      "detailed_analysis": "Russian-linked cybercriminals claim Iberia Airlines data breach is significantly larger than officially reported, potentially affecting millions of passengers with highly sensitive personal information including names and frequent flyer details. This follows previous cyber attacks by the same group that disrupted European airports in September, indicating persistent targeting of aviation infrastructure.",
+      "immediate_forecast_24h": "Potential for follow-on attacks against Iberia systems or related aviation infrastructure; increased phishing attempts using stolen passenger data; possible operational disruptions if systems are compromised during breach investigation.",
+      "strategic_outlook": "Continued targeting of European aviation sector by Russian-affiliated threat actors likely; potential for data to be weaponized for identity theft, espionage, or further cyber operations; may trigger copycat attacks against other airlines.",
+      "operational_impact": "Increased cybersecurity monitoring required for all aviation and logistics systems; potential passenger service disruptions if systems taken offline for security; possible reputational damage affecting passenger confidence and operations.",
+      "proximity_alert": "🚨 YAKIN TEHDİT: Adolfo Suárez Madrid–Barajas Airport (15 km)"
+    }
+  },
+  {
+    "id": "0a4dd54955d2828d91a04eef4ba4ad4e",
+    "timestamp": "2025-11-26T14:47:12.948360",
+    "original_title": "Plane slides off runway at Vilnius airport amid snowfall",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/vilnius-airport-closed-lot-polish-airlines-europe-b2872938.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Vilnius",
+      "latitude": 54.6872,
+      "longitude": 25.2797,
+      "detailed_analysis": "Aircraft runway excursion incident at Vilnius International Airport during snowfall conditions. No injuries reported. Primary concern is operational safety disruption and potential for cascading delays. Weather appears to be contributing factor rather than malicious intent. Requires monitoring for secondary impacts on flight schedules and ground operations.",
+      "immediate_forecast_24h": "Increased airport operational disruptions likely as authorities investigate incident and clear runway. Potential for flight delays/cancellations. Enhanced weather monitoring and de-icing procedures expected.",
+      "strategic_outlook": "Possible temporary reduction in airport operational capacity until safety review completed. May prompt review of winter operations protocols. Unlikely to indicate systemic security vulnerability.",
+      "operational_impact": "Temporary closure of affected runway. Increased scrutiny of aircraft landing procedures in adverse weather. Possible brief disruption to cargo and passenger flows through Vilnius hub.",
+      "proximity_alert": "🚨 YAKIN TEHDİT: Vilnius International Airport (5 km)"
+    }
   }
 ]
