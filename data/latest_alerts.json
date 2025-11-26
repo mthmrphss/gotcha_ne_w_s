@@ -1,43 +1,5 @@
 [
   {
-    "id": "5bf429bbdbe3185cc526807a30ac55d7",
-    "timestamp": "2025-11-26T03:42:02.057845",
-    "original_title": "Car involved in 'tragic' Colorado crash was stolen, authorities say - USA Today",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeFUtalI3a3NxMnBhd1VrZVFoRDZvY1JYV0VoOTNuSmsxMHFYaEpwZTgtczVIT3ZNM0ZyeVBubzA3NHoyRjdJOTJ0MnhBRzd1SjRaUkVaNG9YVGRtcjd3ZGJWR2NLZjFXeFVTLXZidWk2Y1hubVpoT2JsM0tSc0QxblJ3SWdLQ1FBRTh5ZjVVNUxKNEpORV8yYkhORXhHeC0tSmxsNEtFQjhDS09qWG5tcXZ3?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Crime/Theft",
-      "risk_score": 2,
-      "location": "Colorado",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "Vehicle theft incident resulting in a fatal traffic accident. While the theft itself represents criminal activity, the crash appears to be a road traffic incident rather than a targeted attack on assets or personnel. No indication of organized crime patterns, smuggling, or broader security implications beyond the localized criminal act and tragic outcome.",
-      "immediate_forecast_24h": "Low probability of related incidents. Standard law enforcement investigation ongoing with no expected escalation or secondary threats to transportation assets.",
-      "strategic_outlook": "No change to security posture required. Routine vehicle thefts with accidental outcomes do not indicate emerging threats to cargo, aviation, or personnel security operations.",
-      "operational_impact": "None. This isolated criminal incident does not affect logistics operations, asset security protocols, or require additional protective measures for personnel or cargo movements.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "dcc6a9ea5f47fa2e41b9da5874e1f983",
-    "timestamp": "2025-11-26T03:42:17.021872",
-    "original_title": "Taiwan’s President to Seek an Extra $40 Billion for Military - The New York Times",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRDNMWmxBRTN5UnBSQmVMb045emNnbUhtTlRhR04tSzk5UzRKM3VQeFVXeWJTdmREVk9Jb0hFRUdPUzRxTm10Vk1LNEFrb2ZuaGMxcmp1aGhhTVByeUE4Zk1UN2tWMm5JTUZkRXZFd0dtdm1VdGtQaWY0a2dwbzVYRnY0em12Ym54LU5V?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 7,
-      "location": "Taiwan",
-      "latitude": 23.6978,
-      "longitude": 120.9605,
-      "detailed_analysis": "Taiwan's President seeking $40 billion in additional military funding indicates heightened regional tensions and potential escalation in cross-strait relations. This development suggests increased military preparedness and potential for heightened naval/air force activity in the Taiwan Strait. While not an immediate kinetic event, this signals deteriorating diplomatic relations and increased probability of military posturing, which could impact maritime and aviation routes in the region.",
-      "immediate_forecast_24h": "Increased military surveillance and patrol activities expected in Taiwan Strait and surrounding waters. Potential for heightened air traffic control restrictions and temporary flight restrictions around military installations. No immediate kinetic conflict anticipated within 24 hours.",
-      "strategic_outlook": "Medium to long-term escalation likely as China responds to Taiwan's military buildup. Expect increased naval exercises, airspace incursions, and potential economic countermeasures. Regional shipping lanes may experience increased scrutiny and potential disruptions. Aviation routes may require adjustments due to increased military air activity.",
-      "operational_impact": "Maritime operations in Taiwan Strait should expect increased naval presence and potential for heightened inspection regimes. Aviation operators should monitor NOTAMs for temporary flight restrictions. Cargo shipments may face increased scrutiny at Taiwanese ports. Personnel in Taiwan should review emergency evacuation plans due to potential for rapid escalation.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "7769ea6e6232ecefb95d2edd369d96d1",
     "timestamp": "2025-11-26T04:48:25.861968",
     "original_title": "Metro Government to shift blockade as businesses near UPS plane crash site prepare to reopen - whas11.com",
@@ -53,6 +15,25 @@
       "immediate_forecast_24h": "Increased local law enforcement and emergency service presence near the crash site; possible temporary traffic disruptions due to shifted blockades. No indication of ongoing threats.",
       "strategic_outlook": "Long-term focus on crash investigation and recovery; potential for renewed public or media attention if debris or evidence resurfaces. Low probability of related criminal or security incidents.",
       "operational_impact": "Minor disruptions to local logistics and business operations; aviation cargo operations in the area may face heightened scrutiny or brief delays during cleanup. No direct impact on personnel or assets beyond the immediate vicinity.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "aa198539a9de710cbb5e34dbe5ff23be",
+    "timestamp": "2025-11-26T05:41:34.789093",
+    "original_title": "FSB Arrests Teenager Over Alleged Plot to Attack Kaliningrad Church",
+    "link": "https://www.reddit.com/r/worldnews/comments/1p6zpuq/fsb_arrests_teenager_over_alleged_plot_to_attack/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 7,
+      "location": "Kaliningrad",
+      "latitude": 54.7104,
+      "longitude": 20.4522,
+      "detailed_analysis": "FSB arrested a teenager for allegedly plotting an attack on a church in Kaliningrad. While the plot was disrupted, it indicates persistent extremist intent targeting symbolic locations. Kaliningrad's status as a Russian exclave surrounded by NATO members adds geopolitical sensitivity. No direct threat to aviation, cargo, or personnel assets is indicated, but religious sites remain soft targets.",
+      "immediate_forecast_24h": "Increased security presence around religious sites in Kaliningrad; possible heightened FSB operations. Low probability of copycat incidents.",
+      "strategic_outlook": "Potential for continued lone-wolf or small-cell extremist activity in Kaliningrad due to its isolated position and symbolic value. May inspire similar plots in other regions.",
+      "operational_impact": "No direct impact on logistics or aviation; recommend monitoring FSB advisories and reviewing security protocols for religious or high-profile sites in the area.",
       "proximity_alert": null
     }
   }
