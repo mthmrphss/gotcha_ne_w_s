@@ -1379,6 +1379,13 @@
     "lon": 115.2191175
   },
   {
+    "name": "Clayton Hotel Dublin Airport",
+    "type": "Hotel",
+    "city": "Dublin",
+    "lat": 53.4117188,
+    "lon": -6.2181764
+  },
+  {
     "name": "Dublin Airport",
     "type": "Airport",
     "city": "DUBLIN",
@@ -3045,11 +3052,11 @@
     "lon": -84.4298161
   },
   {
-    "name": "Marriott Marquis",
+    "name": "Hyatt Centric Buckhead Atlanta",
     "type": "Hotel",
     "city": "ATLANTA",
-    "lat": 33.7614435,
-    "lon": -84.385766
+    "lat": 33.838230,
+    "lon": -84.377289
   },
   {
     "name": "Mexico City International Airport",
@@ -3201,6 +3208,13 @@
   {
     "name": "Nouakchott–Oumtounsy International Airport",
     "type": "Airport",
+    "city": "NOUAKCHOTT",
+    "lat": 18.099495,
+    "lon": -15.971696
+  },
+  {
+    "name": "Fasq Hotel",
+    "type": "Hotel",
     "city": "NOUAKCHOTT",
     "lat": 18.0792379,
     "lon": -15.9780071
