@@ -17,5 +17,62 @@
       "operational_impact": "Immediate no-fly zone advisories for conflict areas; enhanced screening for cargo originating from region; personnel travel restrictions to eastern Ukraine/southern Russia; increased monitoring of supply chain disruptions for critical shipments.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "7779fd6c2089a12e31889951cbb2d90c",
+    "timestamp": "2025-11-26T07:35:03.632538",
+    "original_title": "US Terror Label in Venezuela Deepens Risk for Oil Companies - Energy Connects",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOR1ZYdVBJc09hNVVOWVNReDFyLUt4WEFKM2g0TlAwanQzLVNSR0o1Um5qTUJ0YXZ6Uy1ETmd1LURGdWM1a3lHQ1JEczZhOWhHVEMzcnM5a0JoVmFoX0JHek0zaFRBYm9RaEFNbW9hWlRfVFpqdE11NkkzWVN1MUctUVowY1JBeHpsN2lmcDdlLWhyVnhMR191X2lMMEdzMkFiX3R4eERGZi1HRXlHQzVRdnJqWUo?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 7,
+      "location": "Venezuela",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "The 'terror label' designation by the US government significantly increases political and security risks for oil operations in Venezuela. This classification may lead to escalated tensions, potential retaliatory actions against US-affiliated assets, and increased vulnerability of oil infrastructure to targeted attacks or sabotage. Energy companies face heightened exposure to geopolitical instability.",
+      "immediate_forecast_24h": "Increased security alert level recommended for all oil facilities and personnel. Potential for protests, increased military presence, or targeted actions against energy infrastructure. Enhanced screening of personnel and supply chain recommended.",
+      "strategic_outlook": "Prolonged elevated risk environment for energy sector operations. Possible escalation including infrastructure sabotage, kidnapping threats against personnel, and supply chain disruptions. Companies may face increased regulatory complications and insurance challenges.",
+      "operational_impact": "Requires immediate security posture review, enhanced physical security measures, personnel evacuation considerations for non-essential staff, and contingency planning for supply chain disruptions. Increased monitoring of local threat intelligence and coordination with security forces essential.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "50e2e1ef9c0a6b29431df52b6fdbe1aa",
+    "timestamp": "2025-11-26T07:35:15.085211",
+    "original_title": "US Army secretary warns Ukraine of impending defeat",
+    "link": "https://www.reddit.com/r/worldnews/comments/1p71bqq/us_army_secretary_warns_ukraine_of_impending/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Ukraine",
+      "latitude": 48.3794,
+      "longitude": 31.1656,
+      "detailed_analysis": "US Army Secretary's public warning of Ukraine's potential defeat indicates deteriorating military situation. This suggests increased Russian offensive operations, potential escalation in conflict intensity, and possible territorial losses. Such statements typically precede intensified combat operations, artillery strikes, and possible breakthroughs in defensive lines.",
+      "immediate_forecast_24h": "Heightened combat operations expected across front lines. Increased risk of missile/drone strikes on logistics hubs, military infrastructure, and potentially civilian areas. Possible intensified attacks on supply routes and transportation networks.",
+      "strategic_outlook": "Potential for rapid territorial changes if Ukrainian defenses weaken. Increased likelihood of attacks on critical infrastructure, supply chains, and transportation networks. Possible escalation to deeper strikes on logistics and support systems behind front lines.",
+      "operational_impact": "High risk to personnel in conflict zones. Cargo movements likely disrupted due to targeting of supply routes. Aviation operations at increased risk from heightened air defense activity and potential targeting of airports. Asset security compromised in areas of active combat.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "4afbb074d9881859d74e6f2ef4603a92",
+    "timestamp": "2025-11-26T07:35:25.596081",
+    "original_title": "Israeli army launches major operation in northern West Bank",
+    "link": "https://www.france24.com/en/middle-east/20251126-israeli-army-launches-major-counterterrorism-operation-in-northern-west-bank",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Northern West Bank",
+      "latitude": 32.0,
+      "longitude": 35.3,
+      "detailed_analysis": "Israeli military operation in northern West Bank represents active armed conflict with potential for escalation. Previous 'Iron Wall' operations displaced tens of thousands, indicating significant military mobilization. Context of increased violence since Gaza war suggests heightened tensions and potential for retaliatory actions against military and civilian targets.",
+      "immediate_forecast_24h": "High probability of continued military operations, road closures, checkpoints, and potential for armed clashes. Possible retaliatory attacks against Israeli forces or settlements. Movement restrictions likely to impact supply chains and personnel movement throughout region.",
+      "strategic_outlook": "Sustained military presence expected in medium term. Potential for conflict to spill into adjacent regions or trigger broader regional instability. Increased risk to all assets and personnel in West Bank and potentially Israel proper if conflict escalates.",
+      "operational_impact": "Ground transportation routes in northern West Bank severely compromised. Aviation may face increased security protocols at nearby airports. Personnel in region at elevated risk from crossfire, checkpoints, and potential targeted attacks. Cargo movements likely delayed or rerouted due to military operations and security checkpoints.",
+      "proximity_alert": null
+    }
   }
 ]
