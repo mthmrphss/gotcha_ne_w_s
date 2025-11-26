@@ -1,24 +1,5 @@
 [
   {
-    "id": "bca5db86f9c9bdbca8e55adbe8c3bc3f",
-    "timestamp": "2025-11-26T19:26:44.099543",
-    "original_title": "'No school can be safe: When jihadists attack a school, the village has to be deserted'",
-    "link": "https://www.france24.com/en/video/20251126-no-school-can-be-safe-when-jihadists-attack-a-school-the-village-has-to-be-deserted",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Terrorism",
-      "risk_score": 9,
-      "location": "Papiri, northern Nigeria",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "Mass abduction of 300+ schoolchildren by armed jihadist militants indicates sophisticated operational capability and intent to target soft targets. The attack demonstrates complete disregard for civilian safety and suggests possible Boko Haram or ISWAP involvement. Failure of security forces to respond to prior warnings indicates systemic vulnerability in the region.",
-      "immediate_forecast_24h": "High probability of continued militant activity in surrounding areas, potential for additional attacks on educational institutions or villages. Possible hostage negotiations or military response could escalate tensions. Evacuation of nearby communities likely ongoing.",
-      "strategic_outlook": "Sustained terrorist campaign likely to continue targeting civilian populations to undermine government authority. Educational institutions remain high-value targets for propaganda and fundraising through ransom demands. Regional security forces will likely increase patrols but may remain ineffective against asymmetric threats.",
-      "operational_impact": "All personnel movements in northern Nigeria require enhanced security protocols. Aviation operations at regional airports may face increased scrutiny. Ground transport convoys require armed escorts. Temporary suspension of non-essential travel recommended throughout affected region.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "e67c744293e573f7a0fd59181c67b57e",
     "timestamp": "2025-11-26T20:36:02.061567",
     "original_title": "2 military personnel, appearing to be National Guard, shot near White House: Sources - ABC7 Los Angeles",
@@ -91,6 +72,82 @@
       "immediate_forecast_24h": "Increased scrutiny on Air France maintenance protocols; possible FAA/EASA inquiries; potential delays for related aircraft inspections; heightened awareness for similar incidents on transatlantic routes.",
       "strategic_outlook": "Potential pattern if similar pressurization issues emerge across fleet; may indicate systemic maintenance or supply chain problems; could be exploited by threat actors if vulnerabilities become known.",
       "operational_impact": "Temporary flight disruption; increased maintenance checks for similar aircraft; possible rerouting considerations for transatlantic flights; enhanced monitoring of Air France fleet performance.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "eeda0ed385766faa1a33149cd5af35b9",
+    "timestamp": "2025-11-26T21:32:11.324863",
+    "original_title": "D.C. National Guardsmen shooting was an ambush attack, federal law enforcement sources say - CBS News",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYmdIM3FYeW9Cb01HZW9YZTRrRjJUYk43MmRSWEdlQ3B5bldIVXBTZzRyWnVxRTJmRUVRT2IyNkZvZ2FhQ0NzQlBPWDNvQXhXUGkxa3I4ZEJRNjFEdVFvQ0tIdmViNm9NZGRhajBlNDhpNDNPaTM4YXBRWTI4U3Z6LXkxYXdEelBlTGQ1SmZ6dm5SVFd5VXVUdkNMSWJtRDVfRlFxSjlpMHAxTVJaNkozNWVB?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 10,
+      "location": "Washington D.C.",
+      "latitude": 38.9072,
+      "longitude": -77.0369,
+      "detailed_analysis": "Ambush attack targeting National Guardsmen indicates coordinated hostile action against military personnel. Attack methodology suggests potential insider knowledge of patrol patterns or deliberate targeting of security forces. Requires investigation into potential terrorist affiliations, motive analysis, and assessment of follow-on attack capabilities.",
+      "immediate_forecast_24h": "Heightened security posture required for all military and law enforcement personnel in D.C. area. Potential for copycat attacks or secondary operations. Increased vigilance at military installations and government facilities recommended.",
+      "strategic_outlook": "Possible escalation in targeting of military personnel by domestic or foreign actors. May indicate new tactics by extremist groups. Could lead to increased force protection measures nationwide if pattern emerges.",
+      "operational_impact": "Immediate threat to personnel security in D.C. region. Requires enhanced patrol security, route variation, and possible increased armed presence. May affect military convoy operations and personnel movement protocols.",
+      "proximity_alert": "🚨 YAKIN TEHDİT: Washington Dulles International Airport (1 km)"
+    }
+  },
+  {
+    "id": "512dd3a8301e49c7439cf5634e4d98a2",
+    "timestamp": "2025-11-26T21:32:21.837200",
+    "original_title": "Air France Flight AF500, a Boeing 777-300ER en route to Lima Diverts Mid-Atlantic After Toilet Issue, Declares an Emergency And Returns to Paris with Passengers on Board - Travel And Tour World",
+    "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOZVppc2hMRmhwRzFNTEJUbFlyMG9CaWJxWkY5NmFyYnBjaEJnUXdXVWplNzVGeEh3bksxODFURWpkdzdFeTlBMHVwMWtyQ2Z0TmE4RUhqNl9UczcxX0UyaW5XRFY5cDJYMFlyZF9Qa1pKQTE2bTZVX3c0bm5BZHhlQXZaZ21Jd3ExZTZiMnVmelNCSjBnd20zbGxlOTVnMDZmdVAwTmFkWmNnRlhVT29XUFdMYkVpR05Pd2hMUHVtY2trWnZCUWVqQ3JSSHlLM3pxUHYyRnlBOWtDMGthUkduMy03aVNvWFlsX1FjaDk1R3dvbHFEVlViaHB1MUFmQTBscEZ6cXB3Mzc5OUEtZVNLcWdSUElkS2Yxc21kMzFwTWZPUXVrYk9YYzNzLXhmX0UxNXJNOFRSZ3hUVGgw?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 3,
+      "location": "Mid-Atlantic",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Air France Flight AF500 (Boeing 777-300ER) declared emergency and returned to Paris due to a toilet issue. No indication of malicious activity, terrorism, or criminal intent. The diversion appears to be a technical/mechanical problem rather than a security threat. No injuries or further complications reported.",
+      "immediate_forecast_24h": "Minimal security risk. Flight operations likely to resume normally after maintenance checks. No expected follow-on threats to aviation security in the region.",
+      "strategic_outlook": "This incident does not indicate any emerging threat pattern. Routine mechanical issues remain part of normal aviation operations with established safety protocols.",
+      "operational_impact": "Localized disruption to Air France operations. No impact on broader aviation security posture. Standard maintenance response required rather than security escalation.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "f7ea8635c77c0611f5a843ce4d8e8eb7",
+    "timestamp": "2025-11-26T21:32:29.626733",
+    "original_title": "Russian military reportedly executes 5 Ukrainian POWs",
+    "link": "https://www.reddit.com/r/worldnews/comments/1p7jowz/russian_military_reportedly_executes_5_ukrainian/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Ukraine",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Reported execution of Ukrainian POWs by Russian military indicates escalation in conflict tactics, violating international law. Potential for retaliation, increased hostilities, and targeting of military/logistics assets. Direct threat to personnel safety in conflict zones.",
+      "immediate_forecast_24h": "Heightened alert for military convoys, supply routes, and personnel movements. Possible increase in asymmetric attacks or retaliatory strikes.",
+      "strategic_outlook": "Sustained elevated risk to assets and personnel in Ukraine and bordering regions. Potential for broader regional instability affecting cargo/aviation routes long-term.",
+      "operational_impact": "Reevaluate security protocols for personnel in Eastern Europe. Consider heightened monitoring of supply chains and transport corridors near conflict zones.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "c5e330bc630d6861a52b41b147e145eb",
+    "timestamp": "2025-11-26T21:32:43.547587",
+    "original_title": "Woman Who Abused And Assaulted Her Daughter On An Hawaiian Airlines Flight Escapes Prison Sentence",
+    "link": "https://www.paddleyourownkanoo.com/2025/11/26/woman-who-abused-and-assaulted-her-daughter-on-an-hawaiian-airlines-flight-escapes-prison-sentence/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Crime/Theft",
+      "risk_score": 3,
+      "location": "Hawaiian Airlines Flight (Los Angeles to Honolulu)",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Incident involved passenger-on-passenger assault (mother assaulting daughter) requiring off-duty police intervention and restraint. While disruptive to flight operations and crew resources, this appears to be an isolated domestic violence incident rather than organized criminal activity targeting aviation assets. No indication of weapons, terrorism, or broader security threat to the aircraft or airline operations.",
+      "immediate_forecast_24h": "Minimal immediate threat to aviation security. Standard passenger screening protocols remain sufficient. No indication of copycat behavior or related threats emerging in next 24 hours.",
+      "strategic_outlook": "Does not indicate systemic vulnerability in aviation security. Highlights need for crew training in handling disruptive passengers and potential gaps in identifying pre-flight behavioral red flags, but does not require changes to security posture or procedures.",
+      "operational_impact": "Temporary diversion of crew resources during flight. Minor reputational impact to Hawaiian Airlines. No impact on cargo operations, airport security, or other flights. Standard incident response procedures were adequate.",
       "proximity_alert": null
     }
   }
