@@ -36,5 +36,81 @@
       "operational_impact": "Temporary disruption to Delta's flight schedule from Detroit. Increased security and maintenance screening for similar aircraft. Potential resource allocation for incident investigation. Passenger rebooking and logistical challenges. No immediate threat to other assets or personnel beyond this specific flight incident.",
       "proximity_alert": "🚨 YAKIN TEHDİT: DETROIT (4 km)"
     }
+  },
+  {
+    "id": "9e7bd9abac62ea253feaa2ce6ac6942f",
+    "timestamp": "2025-11-26T09:44:31.420386",
+    "original_title": "US military pauses solo patrols on Okinawa after viral video of civilian’s arrest - Stars and Stripes",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNk4tbW5TRmZmTVZGZXludGliRmJocnlwaUlXdlVwRHJYMlJBRzFfd0lQU3NrSnk0X1YzZUd5MWh2UW13WUdvOUFRM2lGeEZzR0wxYkZhN1BxNm1TOWJUR1dIMGxoamRDeDQzNVVpb0ZBUzNKYUIxa2kyRS1QY2ZxZ3lqSHVpaEt5cmhPTS1LMGJOOXZaSWJLdVV6V0ZqOVFIUTRrTHk0MTN2S084MzdKd0dhNTA?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 4,
+      "location": "Okinawa, Japan",
+      "latitude": 26.3344,
+      "longitude": 127.8056,
+      "detailed_analysis": "US military has temporarily suspended solo patrols on Okinawa following a viral video showing the arrest of a civilian. This indicates heightened local tensions and potential anti-military sentiment. While not an immediate physical threat to assets, it represents operational disruption and reputational risk that could escalate into protests or confrontations.",
+      "immediate_forecast_24h": "Increased scrutiny of military movements, potential for small-scale protests near bases, possible additional operational restrictions. Low probability of violence but elevated alert status recommended.",
+      "strategic_outlook": "Medium-term strain on US-Japan military relations in Okinawa, possible sustained reduction in patrol activities, increased requirements for joint patrols with Japanese authorities. Could impact force readiness and local cooperation.",
+      "operational_impact": "Reduced mobility and visibility for security patrols, increased coordination requirements with local authorities, potential delays in response times. Personnel may face increased hostility during public interactions.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "8607c8c3ed5aed5fd0a852513f1f7aef",
+    "timestamp": "2025-11-26T09:44:57.831058",
+    "original_title": "India intensifies crackdown in disputed Kashmir after New Delhi bombing",
+    "link": "https://www.reddit.com/r/worldnews/comments/1p73ind/india_intensifies_crackdown_in_disputed_kashmir/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 8,
+      "location": "Kashmir, New Delhi",
+      "latitude": 34.0837,
+      "longitude": 74.7973,
+      "detailed_analysis": "Recent bombing in New Delhi has triggered intensified security operations in Kashmir, indicating potential retaliation or preemptive measures against militant groups. The crackdown suggests heightened terrorist activity and possible escalation in the region, with direct threats to personnel and infrastructure.",
+      "immediate_forecast_24h": "Increased security patrols, checkpoints, and potential clashes; possible retaliatory attacks or disruptions in transport/logistics in Kashmir and surrounding areas.",
+      "strategic_outlook": "Sustained elevated threat environment; potential for extended military/police operations, impacting supply chains, aviation security protocols, and personnel movement in the region.",
+      "operational_impact": "Delays in cargo transit, enhanced screening for aviation/assets, increased risk to personnel in Kashmir/New Delhi; recommend heightened vigilance and contingency planning for operations in affected areas.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "75dea357cdb959ce8e07f1d5dd438b1e",
+    "timestamp": "2025-11-26T09:45:30.004915",
+    "original_title": "24 schoolgirls abducted from Kebbi in Nigeria rescued, president says",
+    "link": "http://www.africanews.com/2025/11/26/24-schoolgirls-abducted-from-kebbi-in-nigeria-rescued-president-says/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 8,
+      "location": "Kebbi, Nigeria",
+      "latitude": 11.5,
+      "longitude": 4.0,
+      "detailed_analysis": "Mass abduction of 24 schoolgirls in a region experiencing repeated attacks on educational institutions, indicating organized militant activity targeting vulnerable populations. Recent pattern includes 300+ abductions in Niger state, suggesting coordinated operations by armed groups. Rescue indicates government response capability.",
+      "immediate_forecast_24h": "High probability of additional security operations in Kebbi and neighboring states. Possible retaliatory attacks or attempted abductions by militant groups. Increased military/police presence near schools and transport routes.",
+      "strategic_outlook": "Sustained risk to educational institutions and student transport in northern Nigeria. Potential expansion of abduction campaigns to other soft targets. Regional instability may affect supply chains and personnel movement.",
+      "operational_impact": "Avoid non-essential travel to Kebbi and Niger states. Heightened alert for personnel movements near schools. Review evacuation protocols for staff in region. Monitor transport routes for unusual activity.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "90a0a016c0980ae08295dc2322f19fe4",
+    "timestamp": "2025-11-26T09:45:41.246290",
+    "original_title": "Disruption across Europe as major airport cancels over half of incoming flights",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/brussels-airport-flights-cancelled-today-b2872731.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 7,
+      "location": "Europe",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Major European airport experiencing significant flight cancellations affecting over half of incoming flights, with British Airways confirming cancellations. Pattern suggests non-routine disruption potentially involving air traffic control issues, labor strikes, or security incidents. Scale indicates systemic rather than isolated problem.",
+      "immediate_forecast_24h": "Continued flight disruptions likely with potential ripple effects to connecting flights and cargo operations. Increased passenger congestion may create secondary security challenges.",
+      "strategic_outlook": "Potential for prolonged operational impacts if root cause involves labor disputes or systemic infrastructure issues. May require contingency planning for rerouted cargo and personnel movements.",
+      "operational_impact": "Direct impact on personnel travel schedules and time-sensitive cargo deliveries. Requires monitoring of alternative routing options and communication with affected business units.",
+      "proximity_alert": null
+    }
   }
 ]
