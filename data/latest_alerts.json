@@ -1,24 +1,5 @@
 [
   {
-    "id": "0930842d50b6d8e6eee2fcd874f5f292",
-    "timestamp": "2025-11-26T13:46:47.343602",
-    "original_title": "US envoy Witkoff coached Russia to pitch a Ukraine peace plan to Trump",
-    "link": "https://www.france24.com/en/video/20251126-us-envoy-witkoff-coached-russia-to-pitch-a-ukraine-peace-plan-to-trump",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 7,
-      "location": "Ukraine-Russia border region",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "Diplomatic backchannel communications reveal US envoy coaching Russian officials on peace plan negotiations, potentially undermining official US policy. The leaked transcript suggests possible unauthorized diplomatic engagement that could complicate Ukraine conflict resolution efforts and create policy confusion.",
-      "immediate_forecast_24h": "Increased diplomatic tensions between US and Ukraine; potential for information warfare escalation; possible denial/disavowal statements from US officials",
-      "strategic_outlook": "Potential erosion of US-Ukraine alliance credibility; risk of conflicting diplomatic messages creating operational confusion; possible exploitation by Russia to drive wedge between allies",
-      "operational_impact": "Increased scrutiny of diplomatic communications; potential need to verify official policy positions; possible temporary freeze in certain diplomatic channels until clarity is established",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "fc3499fae4e2c690ee9f49b21dda1210",
     "timestamp": "2025-11-26T14:46:49.792797",
     "original_title": "Widow of first person to die at Chernobyl killed by a Russian drone strike",
@@ -92,6 +73,44 @@
       "strategic_outlook": "Possible temporary reduction in airport operational capacity until safety review completed. May prompt review of winter operations protocols. Unlikely to indicate systemic security vulnerability.",
       "operational_impact": "Temporary closure of affected runway. Increased scrutiny of aircraft landing procedures in adverse weather. Possible brief disruption to cargo and passenger flows through Vilnius hub.",
       "proximity_alert": "🚨 YAKIN TEHDİT: Vilnius International Airport (5 km)"
+    }
+  },
+  {
+    "id": "df34e8d0aa5d43fd82a45953f77d35c6",
+    "timestamp": "2025-11-26T15:41:53.083823",
+    "original_title": "Guinea-Bissau military officers claim 'total control' of country",
+    "link": "https://www.reddit.com/r/worldnews/comments/1p7auau/guineabissau_military_officers_claim_total/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Bissau, Guinea-Bissau",
+      "latitude": 11.861324,
+      "longitude": -15.583056,
+      "detailed_analysis": "Military officers in Guinea-Bissau have claimed 'total control' of the country, with gunfire reported near the presidential palace. This indicates a potential coup or significant military unrest, which could lead to instability, disruption of government functions, and possible violence affecting key infrastructure and personnel.",
+      "immediate_forecast_24h": "High likelihood of continued military presence, possible curfews, roadblocks, and disruptions to transportation and communication networks. Increased risk to personnel safety and potential for cargo delays or seizures.",
+      "strategic_outlook": "If the military consolidates control, prolonged political instability may follow, affecting trade routes, aviation security, and regional stability. International response and sanctions could further complicate logistics and operations in the area.",
+      "operational_impact": "Immediate suspension of non-essential travel and operations in Guinea-Bissau. Heightened alert for personnel; secure assets and cargo. Monitor aviation for potential airspace closures or restrictions.",
+      "proximity_alert": "🚨 YAKIN TEHDİT: Bissau Osvaldo Vieira Airport (0 km)"
+    }
+  },
+  {
+    "id": "50305329f14f39fc622639e21b8b5818",
+    "timestamp": "2025-11-26T15:42:01.890065",
+    "original_title": "Live: Guinea-Bissau military officers announce 'all borders closed' after taking control of country",
+    "link": "https://www.france24.com/en/africa/20251126-live-guinea-bissau-military-officers-coup-elections-president-embalo",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Guinea-Bissau",
+      "latitude": 11.8037,
+      "longitude": -15.1804,
+      "detailed_analysis": "Military coup in progress following contested elections, with border closures and reported gunfire near presidential palace. This creates immediate security vacuum, potential for armed clashes, and disruption to all transportation/logistics networks. Aviation assets at risk due to potential airspace closures or military control of airports.",
+      "immediate_forecast_24h": "High probability of continued military presence at borders/airports, possible suspension of commercial flights, increased weapon screening requirements for cargo, and elevated threat to personnel movement due to potential crossfire or checkpoints.",
+      "strategic_outlook": "Prolonged political instability likely until resolution between military and civilian authorities. Border controls may remain erratic, increasing smuggling risks. Aviation may be intermittently available only for military approval. Personnel require enhanced security protocols and evacuation planning.",
+      "operational_impact": "All border crossings and airports potentially non-operational for civilian/commercial use. Cargo shipments halted or subject to military inspection/seizure. Aviation operations require military coordination. Personnel movement severely restricted with high safety risks.",
+      "proximity_alert": null
     }
   }
 ]
