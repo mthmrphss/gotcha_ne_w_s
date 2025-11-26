@@ -53,7 +53,7 @@ RSS_SOURCES = [
     },
     # Yeni eklenen kaynaklarınız
     { "name": "Africa News", "url": "https://www.africanews.com/feed/rss" },
-    { "name": "France 24 ME", "url": "https://www.france24.com/en/middle-east/rss" },
+    { "name": "France 24 ME", "url": "https://www.france24.com/en/rss" },
     { "name": "US State Dept", "url": "https://travel.state.gov/_res/rss/TAsTWs.xml" },
     { "name": "Paddle Your Own Kanoo", "url": "https://www.paddleyourownkanoo.com/category/airline-news/feed/" },
     { "name": "Independent Travel", "url": "https://www.independent.co.uk/travel/rss" }
