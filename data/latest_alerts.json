@@ -1,24 +1,5 @@
 [
   {
-    "id": "5c5629adce7852381c63b4f087adcbb5",
-    "timestamp": "2025-11-27T03:37:42.513765",
-    "original_title": "Two National Guard members in critical condition after shooting near White House - BBC",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CaFRudERSclgyLWdHYUVPZ2JzbWJaRF85RkRiRzRYX0ZYOHl5b3dwN0lyc29yYll6WDJtTzBBZ1pPeVp5emM0eXUyZ0QyUUI2alpMZ0JNaWo2Zw?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Terrorism",
-      "risk_score": 10,
-      "location": "Washington D.C.",
-      "latitude": 38.9072,
-      "longitude": -77.0369,
-      "detailed_analysis": "Shooting incident involving National Guard members near White House perimeter indicates potential targeted attack against military personnel in high-security zone. Proximity to executive branch headquarters elevates threat profile. Critical injuries suggest deliberate, potentially coordinated action rather than random violence.",
-      "immediate_forecast_24h": "Heightened security posture expected around federal buildings and military installations. Possible additional security screenings, road closures, and increased patrols. Potential for copycat incidents or secondary attacks during response phase.",
-      "strategic_outlook": "May indicate new targeting pattern against military personnel in capital region. Could signal escalation in domestic terrorism threats or foreign-directed operations. Requires enhanced intelligence gathering and interagency coordination.",
-      "operational_impact": "Increased security protocols for all personnel movements in D.C. area. Temporary suspension of non-essential transit near government facilities. Enhanced screening for cargo and vehicles entering secure zones. Possible delays in aviation operations due to heightened airspace security.",
-      "proximity_alert": "🚨 YAKIN TEHDİT: Washington Dulles International Airport (1 km)"
-    }
-  },
-  {
     "id": "2a22ecfa98946ee07204e6ea358724fb",
     "timestamp": "2025-11-27T03:37:49.716032",
     "original_title": "Live updates: Washington DC shooting leaves two National Guardsmen shot - CNN",
@@ -73,6 +54,25 @@
       "strategic_outlook": "Potential prolonged political instability, international condemnation, and economic sanctions. Possible spillover effects to neighboring countries. Aviation and maritime operations likely to remain disrupted until political resolution.",
       "operational_impact": "All personnel and assets in Guinea-Bissau should shelter in place. Aviation operations suspended until further notice. Cargo shipments through Bissau ports likely delayed or diverted. Heightened risk to personnel in government or military-affiliated facilities.",
       "proximity_alert": null
+    }
+  },
+  {
+    "id": "e800df982d77abed5962fb80eac6773c",
+    "timestamp": "2025-11-27T04:47:35.697943",
+    "original_title": "Plane Skids Off Runway at Vilnius Airport Amid Snow, No Injuries Reported",
+    "link": "https://www.reddit.com/r/worldnews/comments/1p7sxxg/plane_skids_off_runway_at_vilnius_airport_amid/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Vilnius, Lithuania",
+      "latitude": 54.6872,
+      "longitude": 25.2797,
+      "detailed_analysis": "Aircraft skidded off runway during landing in snowy conditions at Vilnius Airport. No injuries reported. Incident likely weather-related (snow/ice on runway), but requires investigation to rule out mechanical failure or other factors. While not a crash, runway excursion poses operational disruption risk and potential for future incidents under similar conditions.",
+      "immediate_forecast_24h": "Increased scrutiny on Vilnius Airport operations; potential for flight delays/cancellations due to runway inspection and weather conditions. No immediate threat to other assets, but similar weather could affect regional aviation.",
+      "strategic_outlook": "Winter weather patterns may increase likelihood of similar incidents at northern European airports. Recommend reviewing cold-weather procedures and de-icing protocols at vulnerable hubs. No indication of malicious intent, but weather remains a persistent aviation hazard.",
+      "operational_impact": "Temporary closure of runway/airport areas for investigation and cleanup. Possible delays for cargo/passenger flights. No impact on personnel safety beyond the immediate incident. Monitor for any secondary effects on logistics chains.",
+      "proximity_alert": "🚨 YAKIN TEHDİT: Vilnius International Airport (5 km)"
     }
   }
 ]
