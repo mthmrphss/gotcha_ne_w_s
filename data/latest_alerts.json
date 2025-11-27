@@ -74,5 +74,43 @@
       "operational_impact": "Immediate reinforcement of physical security for personnel in and around DC. Review of access controls and patrol routes. Possible delays or disruptions for official movements in the area due to increased checks.",
       "proximity_alert": "🚨 YAKIN TEHDİT: Washington Dulles International Airport (1 km)"
     }
+  },
+  {
+    "id": "628a2b334ab8f00c22a4d30e0f3f8f61",
+    "timestamp": "2025-11-27T09:42:08.953034",
+    "original_title": "Several bodies condemn military takeover in Guinea-Bissau days after polls",
+    "link": "http://www.africanews.com/2025/11/27/several-bodies-condemn-military-takeover-in-guinea-bissau-days-after-polls/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Guinea-Bissau",
+      "latitude": 11.8037,
+      "longitude": -15.1804,
+      "detailed_analysis": "Military coup involving arrest of President Embalo Sissoco and government agents. Joint international condemnation indicates political instability. Potential for armed clashes, disruption of government functions, and targeting of officials. No direct mention of assets, cargo, or aviation yet, but coups often lead to broader security breakdowns.",
+      "immediate_forecast_24h": "Increased military presence, possible protests, roadblocks, and disruptions to airport/port operations. Elevated risk of opportunistic crime or violence against personnel and assets in transit.",
+      "strategic_outlook": "Prolonged instability likely; potential for international intervention. Could impact regional logistics routes, increase smuggling, or lead to aviation restrictions if conflict escalates.",
+      "operational_impact": "Avoid non-essential travel; reinforce security for personnel and high-value cargo. Monitor airport/port closures. Possible delays or rerouting for aviation and maritime assets.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "6af357da8cb082e5e9c03d337527fa37",
+    "timestamp": "2025-11-27T09:42:15.511570",
+    "original_title": "Tinubu declares security emergency as kidnappings rock Nigeria",
+    "link": "http://www.africanews.com/2025/11/27/tinubu-declares-security-emergency-as-kidnappings-rock-nigeria/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Crime/Theft",
+      "risk_score": 7,
+      "location": "Nigeria",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Mass kidnappings indicate organized criminal activity targeting civilians, with presidential response suggesting systemic security deterioration. Withdrawal of VIP protection details may temporarily reduce police capacity for general patrols and response.",
+      "immediate_forecast_24h": "Increased police mobilization and potential tactical operations against kidnapping cells, possible retaliatory attacks by criminal groups",
+      "strategic_outlook": "Sustained high kidnapping risk until new personnel are trained and deployed (6-12 months), potential for criminal groups to adapt tactics or expand operations",
+      "operational_impact": "Heightened security alert for all ground movements, increased vetting requirements for local security contractors, potential delays in cargo transport due to increased checkpoints",
+      "proximity_alert": null
+    }
   }
 ]
