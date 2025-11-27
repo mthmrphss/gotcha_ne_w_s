@@ -1,43 +1,5 @@
 [
   {
-    "id": "628a2b334ab8f00c22a4d30e0f3f8f61",
-    "timestamp": "2025-11-27T09:42:08.953034",
-    "original_title": "Several bodies condemn military takeover in Guinea-Bissau days after polls",
-    "link": "http://www.africanews.com/2025/11/27/several-bodies-condemn-military-takeover-in-guinea-bissau-days-after-polls/",
-    "source_name": "Africa News",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 7,
-      "location": "Guinea-Bissau",
-      "latitude": 11.8037,
-      "longitude": -15.1804,
-      "detailed_analysis": "Military coup involving arrest of President Embalo Sissoco and government agents. Joint international condemnation indicates political instability. Potential for armed clashes, disruption of government functions, and targeting of officials. No direct mention of assets, cargo, or aviation yet, but coups often lead to broader security breakdowns.",
-      "immediate_forecast_24h": "Increased military presence, possible protests, roadblocks, and disruptions to airport/port operations. Elevated risk of opportunistic crime or violence against personnel and assets in transit.",
-      "strategic_outlook": "Prolonged instability likely; potential for international intervention. Could impact regional logistics routes, increase smuggling, or lead to aviation restrictions if conflict escalates.",
-      "operational_impact": "Avoid non-essential travel; reinforce security for personnel and high-value cargo. Monitor airport/port closures. Possible delays or rerouting for aviation and maritime assets.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "6af357da8cb082e5e9c03d337527fa37",
-    "timestamp": "2025-11-27T09:42:15.511570",
-    "original_title": "Tinubu declares security emergency as kidnappings rock Nigeria",
-    "link": "http://www.africanews.com/2025/11/27/tinubu-declares-security-emergency-as-kidnappings-rock-nigeria/",
-    "source_name": "Africa News",
-    "ai_analysis": {
-      "category": "Crime/Theft",
-      "risk_score": 7,
-      "location": "Nigeria",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "Mass kidnappings indicate organized criminal activity targeting civilians, with presidential response suggesting systemic security deterioration. Withdrawal of VIP protection details may temporarily reduce police capacity for general patrols and response.",
-      "immediate_forecast_24h": "Increased police mobilization and potential tactical operations against kidnapping cells, possible retaliatory attacks by criminal groups",
-      "strategic_outlook": "Sustained high kidnapping risk until new personnel are trained and deployed (6-12 months), potential for criminal groups to adapt tactics or expand operations",
-      "operational_impact": "Heightened security alert for all ground movements, increased vetting requirements for local security contractors, potential delays in cargo transport due to increased checkpoints",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "686bc5db7a330bc8835bcce4bd0769a1",
     "timestamp": "2025-11-27T10:47:34.356645",
     "original_title": "Russia convicts and hands life sentences to 8 people over attack on a key bridge to Crimea - ABC News",
@@ -111,6 +73,101 @@
       "strategic_outlook": "Labor unrest may persist if demands remain unmet. Gaza-related motivations suggest potential for recurring strikes if geopolitical tensions continue. Monitor union communications and government response for escalation indicators.",
       "operational_impact": "Personnel movement severely impacted. Aviation operations disrupted (delays/cancellations). Cargo shipments via air/rail facing delays. Increased security monitoring recommended at transport hubs due to crowd management challenges.",
       "proximity_alert": "🚨 YAKIN TEHDİT: Fiumicino – Leonardo da Vinci International Airport (7 km)"
+    }
+  },
+  {
+    "id": "2dd8d397743cb3bb3da5b44812b4c67e",
+    "timestamp": "2025-11-27T11:32:38.400327",
+    "original_title": "US suspends immigration requests for Afghans after National Guard shooting - BBC",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0MlpENmtvWnJsbFRGTmM5cE9MTVdhdF9LRk5sajVlMERLTU1KOGZsTlhRUjY3Q0tHRTdSdGplRU9uSVQ2M19KMmxTM1lva1NUR3FMb2ZOelR4QdIBX0FVX3lxTE9Famx2a3o3S0ZHOXQwTzdHVUZyUE4zZ0Mzc0J3QTByNWtOWEtmR3RHWnNRTWpPdDFHcDhuUk85emd1T0VMMUJIV090WE9hbTZkbC10S0dIWVA5eXFnQXJB?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Border/Migration",
+      "risk_score": 5,
+      "location": "United States",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "US suspends Afghan immigration requests following a National Guard shooting incident. While the specific shooting details are unclear from the headline, the policy response indicates potential security concerns related to immigration processing. This suggests increased vetting procedures and possible delays in immigration pathways for Afghan nationals, which could create operational bottlenecks and heightened scrutiny at entry points.",
+      "immediate_forecast_24h": "Increased scrutiny and potential delays for Afghan immigration applications; possible protests or diplomatic tensions. No immediate threat to assets or personnel expected, but heightened alert at immigration facilities.",
+      "strategic_outlook": "Long-term implications may include strained US-Afghan relations, increased migrant vulnerabilities, and potential for human trafficking or illegal border crossings as legal pathways are restricted. Could also inspire retaliatory actions or propaganda from extremist groups.",
+      "operational_impact": "Delays in processing Afghan personnel relocations; increased vetting requirements may affect logistics and supply chain if personnel movements are involved. Aviation and cargo operations unlikely to be directly impacted, but heightened security at airports near immigration processing centers possible.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "0e3b18e229c285839ce9a9ee84918cfa",
+    "timestamp": "2025-11-27T11:32:45.712813",
+    "original_title": "Live updates: 2 National Guard members in critical condition after potential 'terrorist' shooting in D.C. - NBC News",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVGJzTU9XUjJtT3VPdEM1Szh0b0c1Sjd4SDNxM005VG8xdFlzWGl6YVlWUi15OEhhNkVHQnRRYWZEY0JKU0FybjRJQXJMNGlTZkVhUWd4dDNtRElHdVFZRmR6NEJyYXd5NGIwbXl5TDNaT2pqN0c3aTB2dUJwZGlmNTdHTUVPbWRFc3A3bW4xT2htTlR2Q211YzdIdk9pR0YtNnVkcjJwUlpkSzV1Q1HSAWNBVV95cUxQTFowM3FyLVFWTk9WdEduTmFlS21DaFlaUXpEbU00eVNabDRLbWU3MjBSRXFCZWNFdkV1TTRlYVNtaVhPUjBIZlNiLUtOMnZTOWZYUGNvSGJxa0dKbWZiQWg3NW8?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 10,
+      "location": "Washington D.C.",
+      "latitude": 38.9072,
+      "longitude": -77.0369,
+      "detailed_analysis": "Active shooter incident targeting National Guard personnel with potential terrorist designation. Two service members in critical condition indicates targeted violence against military assets. D.C. location suggests potential symbolic or strategic targeting. Immediate law enforcement response ongoing with potential for additional threats.",
+      "immediate_forecast_24h": "Heightened security posture across D.C. military and government installations. Possible additional security incidents or copycat attacks. Increased screening and patrols at transportation hubs and critical infrastructure.",
+      "strategic_outlook": "Potential escalation of domestic terrorism threats against military personnel. May trigger increased protective measures for all D.C.-based assets and personnel. Possible ripple effects on national security operations and force protection levels.",
+      "operational_impact": "Immediate lockdown procedures for all military installations in National Capital Region. Enhanced security screening for personnel movement. Potential delays in cargo and logistics operations due to increased security measures. Aviation operations may experience heightened security protocols at area airports.",
+      "proximity_alert": "🚨 YAKIN TEHDİT: Washington Dulles International Airport (1 km)"
+    }
+  },
+  {
+    "id": "d12abfc1de47e20f760614f3cfb4f173",
+    "timestamp": "2025-11-27T11:33:01.036264",
+    "original_title": "Alen Simonyan: Armenia effectively withdrawn from CSTO",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1p7znc6/alen_simonyan_armenia_effectively_withdrawn_from/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 6,
+      "location": "Armenia",
+      "latitude": 40.0691,
+      "longitude": 45.0382,
+      "detailed_analysis": "Armenian Parliament Speaker Alen Simonyan's statement that Armenia has 'effectively withdrawn' from CSTO indicates a major geopolitical shift away from Russian influence. While a Deputy Foreign Minister claims withdrawal is 'not under discussion,' the conflicting narratives suggest internal political tension. This could destabilize Armenia's security posture, potentially increasing vulnerability to regional threats, border incidents, or political instability. No immediate threats to assets, cargo, or personnel are indicated, but the situation requires monitoring for escalation.",
+      "immediate_forecast_24h": "Unlikely to see direct operational impacts within 24 hours. Expect continued political statements and possible diplomatic maneuvering, but no anticipated violence or disruptions to aviation, cargo, or personnel movements.",
+      "strategic_outlook": "If Armenia fully withdraws from CSTO, it may seek alternative security partnerships (e.g., with EU or NATO), potentially increasing regional tensions with Russia or Azerbaijan. Long-term risks could include heightened border skirmishes, economic pressure, or cyber operations targeting Armenian infrastructure. Cargo and logistics may face indirect risks from regional instability or sanctions.",
+      "operational_impact": "No immediate operational impact on assets, cargo, aviation, or personnel. Advise monitoring Armenian-Russian border areas and diplomatic developments. Potential for future sanctions-related disruptions to logistics or heightened cybersecurity vigilance if tensions escalate.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "0fd5c97df792900a108ef38c0185a42f",
+    "timestamp": "2025-11-27T11:33:14.293136",
+    "original_title": "Guinea-Bissau: Military officers seize ‘total control’",
+    "link": "https://www.france24.com/en/video/20251127-guinea-bissau-military-officers-seize-total-control",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 8,
+      "location": "Guinea-Bissau",
+      "latitude": 11.8037,
+      "longitude": -15.1804,
+      "detailed_analysis": "Military coup d'état with suspension of electoral process and border closures creates immediate instability. Potential for violent clashes between military factions or with civilian protesters. Border closures directly impact cargo/logistics operations and personnel movement. Aviation operations likely disrupted due to airspace restrictions and potential ground operations interference.",
+      "immediate_forecast_24h": "High probability of continued border closures, potential airport shutdowns, and restricted movement of personnel/cargo. Possible protests and military presence at key infrastructure points. Increased risk of opportunistic crime during power vacuum.",
+      "strategic_outlook": "Extended political instability likely. Potential for international sanctions affecting supply chains. Cargo operations may experience prolonged delays. Aviation may face extended restrictions. Personnel may require evacuation protocols if violence escalates.",
+      "operational_impact": "All cargo shipments through Guinea-Bissau suspended. Aviation operations severely restricted. Personnel movement halted at borders. High risk to assets in-country due to looting or military appropriation. Requires immediate contingency planning for regional logistics rerouting.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "ecc74d1c9012532285b7b2de2aadd09b",
+    "timestamp": "2025-11-27T11:33:28.699824",
+    "original_title": "Budget airlines jostle for Ukraine flight revival once war with Russia ends",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/ukraine-flights-uk-ryanair-easyjet-wizz-b2873544.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Ukraine",
+      "latitude": 48.3794,
+      "longitude": 31.1656,
+      "detailed_analysis": "Airlines planning post-conflict operations in Ukraine remains contingent on cessation of active hostilities with Russia. While no immediate aviation threats are mentioned, the underlying conflict creates persistent risks including potential airspace denial, infrastructure damage assessment needs, and possible asymmetric threats targeting renewed aviation activity as symbolic targets.",
+      "immediate_forecast_24h": "No change from current conflict status; flight operations remain suspended due to active war conditions and airspace closures.",
+      "strategic_outlook": "Post-conflict aviation revival will require extensive security assessments of airport infrastructure, airspace safety verification, and potential lingering threats from unexploded ordnance or sabotage risks. Competition among airlines may create pressure to resume operations before optimal security conditions are established.",
+      "operational_impact": "Requires continuous monitoring of conflict resolution progress. Pre-deployment planning should include security assessments of airport infrastructure, crew safety protocols for operating in post-conflict zones, and coordination with military/security forces for route protection and facility security.",
+      "proximity_alert": null
     }
   }
 ]
