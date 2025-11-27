@@ -74,5 +74,81 @@
       "operational_impact": "All personnel in Guinea-Bissau should shelter in place. Aviation: Review flight plans for diversions. Cargo: Expect delays at ports and increased inspection risks. Assets: Secure physical locations against looting or unauthorized access. Personnel: Implement emergency communication checks and avoid movement during curfews.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "df37e500c37eef3aefdd472899af78dd",
+    "timestamp": "2025-11-27T22:38:59.144566",
+    "original_title": "Australia officially lists Iran's Islamic Revolutionary Guard Corps (IRGC) as a state sponsor of terrorism.",
+    "link": "https://www.reddit.com/r/worldnews/comments/1p8eud2/australia_officially_lists_irans_islamic/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 7,
+      "location": "Australia",
+      "latitude": -25.2744,
+      "longitude": 133.7751,
+      "detailed_analysis": "Australia's designation of IRGC as terrorist organization increases likelihood of retaliatory actions by Iranian proxies or sympathizers. Potential targets include Australian diplomatic missions, military assets, and economic interests globally. Elevated risk to personnel in regions with known IRGC activity, including Middle East and maritime chokepoints. Cargo shipments flagged under Australian jurisdiction may face increased targeting.",
+      "immediate_forecast_24h": "Heightened alert for suspicious activity near Australian embassies, consulates, and military installations worldwide. Possible cyber probing of Australian government and critical infrastructure networks. Increased vigilance recommended for Australian-flagged vessels in Persian Gulf and Strait of Hormuz.",
+      "strategic_outlook": "Medium-term escalation in asymmetric threats including potential IED attacks, kidnapping attempts against Australian nationals, and harassment of shipping. Possible increase in cyber attacks targeting Australian financial and energy sectors. May trigger copycat designations by other Western nations, further escalating tensions.",
+      "operational_impact": "Implement Force Protection Condition Delta for Australian assets abroad. Enhance screening of cargo originating from or transiting through Iran. Review security protocols for personnel in high-risk zones. Activate enhanced monitoring of maritime traffic patterns near Australian interests. Coordinate with Five Eyes partners for threat intelligence sharing.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "51565e7bcfc4e65fa830c14b91f792d6",
+    "timestamp": "2025-11-27T22:39:07.081736",
+    "original_title": "Netanyahu government relies solely on force, with no clear strategy or diplomatic vision",
+    "link": "https://www.france24.com/en/video/20251127-netanyahu-government-relies-solely-on-force-with-no-clear-strategy-or-diplomatic-vision",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "West Bank",
+      "latitude": 32.0,
+      "longitude": 35.3,
+      "detailed_analysis": "Analysis indicates escalating military operations in West Bank with potential for increased violence against civilian populations. The operation described aligns with patterns of systematic pressure tactics that could trigger retaliatory actions against Israeli assets. No direct aviation or cargo threats identified, but heightened conflict environment increases risk of collateral damage to infrastructure and personnel.",
+      "immediate_forecast_24h": "Increased likelihood of protests, road blockages, and potential attacks on military/security convoys. Possible rocket fire or IED incidents targeting Israeli forces. Aviation routes remain unaffected unless conflict escalates to include aerial threats.",
+      "strategic_outlook": "Sustained military operations likely to fuel radicalization and asymmetric responses. Potential for conflict spillover into neighboring regions. Long-term degradation of security environment for cargo transit and personnel movement in affected areas.",
+      "operational_impact": "Enhanced security protocols recommended for personnel movement in West Bank. No immediate cargo or aviation impacts, but recommend monitoring for potential supply chain disruptions due to road closures or security incidents. Increased vigilance for unconventional attacks targeting logistics infrastructure.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "13193f9ab82da282eceb844cbe393264",
+    "timestamp": "2025-11-27T22:39:14.938175",
+    "original_title": "Palestinian Authority accuses Israel of 'war crime' after summary 'execution' in West Bank",
+    "link": "https://www.france24.com/en/video/20251127-palestinian-authority-accuses-israel-of-war-crime-after-summary-execution-in-west-bank",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "West Bank",
+      "latitude": 31.9522,
+      "longitude": 35.2332,
+      "detailed_analysis": "Israeli-Palestinian conflict escalation involving alleged execution of surrendered individuals. Event likely to trigger retaliatory actions, protests, and increased militant activity. Potential for roadside IEDs, ambushes targeting military and civilian vehicles, and heightened checkpoint security. Cargo routes may face disruptions due to barricades or security operations.",
+      "immediate_forecast_24h": "Increased militant attacks against Israeli forces and settlers; possible rocket fire from West Bank cells; heightened protest activity impacting road mobility; potential for improvised explosive devices targeting military patrols or logistics convoys.",
+      "strategic_outlook": "Sustained cycle of violence likely with potential for broader regional escalation. Increased IDF operations may disrupt supply chains and civilian movement. Possible cross-border coordination with Gaza-based groups. Aviation risk remains elevated for low-altitude operations near conflict zones.",
+      "operational_impact": "Route avoidance in immediate conflict areas; increased convoy security requirements; potential for cargo delays at checkpoints; heightened personnel threat requiring enhanced protective measures; possible drone activity monitoring transport movements.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "d50b5cb4204d43ac97f097ee2bbe202f",
+    "timestamp": "2025-11-27T22:39:21.483315",
+    "original_title": "Ousted Guinea-Bissau President Embalo arrives in Senegal amid regional tensions",
+    "link": "https://www.france24.com/en/live-news/20251127-ousted-guinea-bissau-president-embalo-arrives-in-senegal",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Dakar, Senegal",
+      "latitude": 14.7167,
+      "longitude": -17.4677,
+      "detailed_analysis": "Political asylum transfer of ousted president via special flight indicates regional instability. ECOWAS involvement suggests diplomatic tensions but no direct threat to aviation security. No evidence of cargo crime, smuggling, or aviation safety incidents in this specific movement.",
+      "immediate_forecast_24h": "Potential for increased diplomatic activity and political protests in Senegal, but low probability of direct threats to aviation assets or personnel from this specific event.",
+      "strategic_outlook": "Regional political instability may lead to increased movement of political figures via special flights, requiring enhanced vetting of diplomatic aviation movements but not indicating immediate security threats to cargo or aviation infrastructure.",
+      "operational_impact": "No immediate operational changes required. Monitor for potential protests near diplomatic zones in Dakar. Maintain standard aviation security protocols for all special flights in the region.",
+      "proximity_alert": "🚨 YAKIN TEHDİT: Blaise Diagne International Airport (3 km)"
+    }
   }
 ]
