@@ -1,1 +1,59 @@
-[]
+[
+  {
+    "id": "30cc86a924068b05d94f5e51a1a33565",
+    "timestamp": "2025-11-27T19:27:50.708473",
+    "original_title": "Plane crash near Alamogordo leaves one dead, investigation ongoing - KFOX",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQRHo3U1NBQjdIMlJLdmNPbDlZbEw2M2tSRlNWSlBBYlVVczNuRTFCdHFJSU5jemtyS3lKYnNHYmN0SThXWWRoZW8zaHQ5MC1IYmdYb01CeDJVeWlkamFVT3BVQjBLOFVlU0V2d3NDaWtucHVrSTFhOUg5bkx2UUduYllyTDk4c3ZoR2xkcXdQYVhzeUQwSjlKNGI5bkU1QVV6RzBxSEFScnAxR19na0RtYUF4eEc2b3BscVJBeVlCM0JrVWZDNmxLdzROOFhXclRmeS1scGhfaDBBYTlRcmRTNHE1WFdSLXZERU9CYw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 7,
+      "location": "Alamogordo, New Mexico",
+      "latitude": 32.8998,
+      "longitude": -105.9603,
+      "detailed_analysis": "A fatal plane crash occurred near Alamogordo, resulting in one death. While the cause is under investigation, the incident involves aviation assets and personnel, requiring immediate attention for potential systemic risks, safety protocol reviews, and possible cascading effects on regional aviation operations.",
+      "immediate_forecast_24h": "Increased scrutiny on local flight operations, possible temporary airspace restrictions, and heightened alert for related incidents or secondary threats as investigation unfolds.",
+      "strategic_outlook": "Potential for revised safety advisories, increased regulatory oversight, and possible impacts on aviation insurance or operational protocols if systemic issues are identified.",
+      "operational_impact": "Temporary disruption to local flight schedules, possible resource allocation for emergency response and investigation support, and heightened situational awareness for similar incidents in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "195a1ab767c87595492fdce269ac344e",
+    "timestamp": "2025-11-27T19:28:03.725800",
+    "original_title": "Man drove across country to D.C. in ‘targeted attack,’ authorities say - The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNY3hZV0JEYkQ1RVMxV2JObVMtaExmNDltdzg5bURNN05YSUlpZWFySWxJMUV5QTJXN3pOWmotamc2Z2NzcTZURXRaM0JUX09VY29CQ3dVZlgzMVQ2WFpUQ3pxaVFOMGcwbFZ5OFBKMXFkdC04S3dSWC1KRTNHNWd3RXlR?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 10,
+      "location": "Washington, D.C.",
+      "latitude": 38.9072,
+      "longitude": -77.0369,
+      "detailed_analysis": "A man drove across the country to Washington, D.C. with intent to carry out a targeted attack, as reported by authorities. This indicates premeditation and potential ideological or personal motivation, aligning with domestic terrorism indicators. The use of a vehicle as both transport and potential weapon elevates the threat profile.",
+      "immediate_forecast_24h": "Increased law enforcement presence and heightened security alerts in the D.C. area; possible disruptions to transportation and government operations due to investigation and preventive measures.",
+      "strategic_outlook": "Potential for copycat incidents or inspired actors; may signal broader domestic extremism trends requiring enhanced intelligence gathering and public vigilance.",
+      "operational_impact": "Temporary road closures, increased screening for vehicles and personnel near government assets; possible delays in cargo and aviation operations due to secondary security protocols.",
+      "proximity_alert": "🚨 YAKIN TEHDİT: Washington Dulles International Airport (1 km)"
+    }
+  },
+  {
+    "id": "3ee4416aa07eb6cd2f7f8ff4ab7ef4fd",
+    "timestamp": "2025-11-27T19:28:23.112746",
+    "original_title": "Resistance Tensions Rise as TNLA Prepares to Return Ruby Town to Myanmar Junta",
+    "link": "https://www.reddit.com/r/worldnews/comments/1p8aa2i/resistance_tensions_rise_as_tnla_prepares_to/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Ruby Town, Myanmar",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "TNLA (Ta'ang National Liberation Army) preparing to transfer control of Ruby Town back to Myanmar junta forces indicates active armed conflict and potential for violent clashes between resistance groups and military forces. This creates significant security instability in the region with potential for collateral damage to infrastructure and civilian areas.",
+      "immediate_forecast_24h": "High probability of armed clashes during transfer process, possible road closures and movement restrictions, increased military and rebel activity in Ruby Town area",
+      "strategic_outlook": "Continued instability in northern Myanmar regions, potential for conflict to spread to adjacent areas, possible retaliation attacks from other resistance groups opposing the transfer",
+      "operational_impact": "Ground transport routes through Ruby Town area should be considered high-risk, potential for supply chain disruptions, personnel movement restrictions advised, increased threat to fixed assets in conflict zone",
+      "proximity_alert": null
+    }
+  }
+]
