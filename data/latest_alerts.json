@@ -74,5 +74,43 @@
       "operational_impact": "Recommend heightened perimeter vigilance at cargo facilities and increased screening of personnel/vehicles. Monitor for unusual activity near transport corridors. No need for aviation or high-value cargo rerouting at this time.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "2c81e4bfdb42570effb5779d51285ac1",
+    "timestamp": "2025-11-27T07:37:48.553556",
+    "original_title": "2 National Guard members shot in an ambush attack just blocks from the White House - ABC News",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYjlLSnVKMS02TTdiQU5yam15R3NhRkZsdVMwZW5KMXZqZzdubE1fWHcxcGZ0ZkRxQi1hRUhwd28xTnlnSVRuOUFiT0ZPM1NWdjV3OWNWZUVWY1NxcWhzd1NNZUlVTGdkQ0hOQ2ZLUWhlYmdiQWtRTGh3dGdSdnpXakZPa2pGNXhvTm5KQTFzTk9Xekw0a2VBTHU3VFXSAaIBQVVfeXFMT0ltcmZFRkxYbWkxUkJnc3FRUnVUZ2toWmZpeUZrdkV5ME9WOFNlQzZZSUVFX0RYY2pxQjhVR1A3R3VPNW9LZFp2bXRyYXJuaUR6OTBKYzBjWUN5U3V1OEhXc1NHd3Jtb0VZaXNuU2hlVDJLQUpmMXYwXzd2X1VWUWdXOTlQTjIyclJVY0REV0w2YWV6UG1fbHhoRlBMaVdYbm13?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 10,
+      "location": "Washington D.C.",
+      "latitude": 38.9072,
+      "longitude": -77.0369,
+      "detailed_analysis": "Ambush attack targeting National Guard members in proximity to White House indicates potential coordinated or targeted violence against military personnel. The location suggests possible political or ideological motivation rather than random criminal activity. Requires immediate investigation into potential for broader targeting of government/military assets.",
+      "immediate_forecast_24h": "Heightened security posture expected around government buildings and military installations. Possible additional attacks against military or government targets in DC area. Increased patrols and security screening likely.",
+      "strategic_outlook": "Potential for copycat attacks or escalation against military and government targets. May indicate new threat pattern requiring revised security protocols for personnel movement and facility protection in capital region.",
+      "operational_impact": "Immediate security reinforcement for all military and government personnel in DC area. Temporary restrictions on movement and increased escort requirements. Enhanced surveillance and threat monitoring operations activated.",
+      "proximity_alert": "🚨 YAKIN TEHDİT: Washington Dulles International Airport (1 km)"
+    }
+  },
+  {
+    "id": "0931fb7cd9cc7fc8aa936661356a3d8c",
+    "timestamp": "2025-11-27T07:37:57.500256",
+    "original_title": "Family grieving after father, 3 kids killed in crash with stolen car; 2 more kids hospitalized - KCBD",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQXlsMjN6YllpbVRpVFpKZEhqcmRTZmRhN2R5R2NQYXExTklib1VEeG9ZWlVPUVdtZ0ZlaC1tWTVjRWxqTHZmcmR2WEMzT1FSeDZrWGY3Ymh2N3gxVWJCVTIyTEs2a3RSUTZ0bkhGMjZOT25OeHdkU0QtRmZCazdKRFZySS1yMXdYdjVuSHM2YUxQdjVBSG9rTU1RdUZjVDc2VFZLSG5FeF9oQWEwU1Z5V2tjSThsUW5YbmVQSlVuZ9IB0wFBVV95cUxNMHVRemRNM0ItOUdpcDZ6MTd0ckM5TlN6UHpjV0hoRHJZRzFILUltT2VLUUxfSHVpbVNQR3pheGJqQzY1WG1RTjF4aFoydkluTEFHZlZJYU54WWJQeTNHRlQwejY5MkIyazVoRW5DSE03aUJPQ3k4NGtMbXBtMTlYUmFFdEVNNHJ4WTdrR3MyZHFtVDlwQzAwc1dxZWVxRmpLS05VQ3NxZnl4WER5SXN2VktiSXNUNVNvclZpRmdBWXJzQ0RNblE1dDFfRG9pamtfdkhj?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Crime/Theft",
+      "risk_score": 5,
+      "location": "Lubbock, Texas",
+      "latitude": 33.5779,
+      "longitude": -101.8552,
+      "detailed_analysis": "Incident involves a fatal collision caused by a stolen vehicle, resulting in multiple casualties. While not directly targeting assets or cargo, the use of a stolen vehicle in a high-impact event indicates potential for organized vehicle theft rings or reckless criminal behavior that could indirectly affect logistics or personnel security in the region.",
+      "immediate_forecast_24h": "Increased law enforcement presence and possible vehicle theft interdiction efforts; no direct threat to aviation or cargo assets expected.",
+      "strategic_outlook": "Potential for heightened scrutiny on vehicle security protocols if theft trends emerge; low probability of escalation to organized targeting of logistics infrastructure.",
+      "operational_impact": "Minimal direct impact on operations; recommend reinforcing vehicle security awareness and monitoring local crime reports for patterns.",
+      "proximity_alert": null
+    }
   }
 ]
