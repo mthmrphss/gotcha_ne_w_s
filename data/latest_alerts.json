@@ -112,5 +112,24 @@
       "operational_impact": "Avoid non-essential travel to Bissau. Secure personnel and assets. Expect delays at borders and ports. Monitor for protests affecting transportation routes. Increased vetting of local partners recommended.",
       "proximity_alert": "🚨 YAKIN TEHDİT: Bissau Osvaldo Vieira Airport (0 km)"
     }
+  },
+  {
+    "id": "0dad24659daa8963e09fd6f22c8dbb81",
+    "timestamp": "2025-11-27T14:43:54.291315",
+    "original_title": "OpenAI admits data breach after analytics partner hit by phishing attack - csoonline.com",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMU96S0xSM2djUDBIX1Ixa0dBWF94RG9jajhHX3ZNVWtNVU9aNHRQZGMzSVB0SmpFc3lVVEZMSzVuX1dVUzkzT3lUX0Z3R3lVbWozdGlJZ213ajdrajloSE9RdmxnelFQbVFCMHZaajhBTmxCUXo0Y25jTUZBWk14UTVnbHVnYkFJUmdqcTNLX3AxXzRIOUU2cHprTFcwM193X2JQY1RwZzk0QnpkeG9yNmhTaVhJa2ZpWTgzVVdR?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 6,
+      "location": "Global/Unknown",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "OpenAI experienced a data breach via a third-party analytics partner compromised by phishing. While not directly targeting physical assets, this demonstrates sophisticated cyber intrusion capabilities that could be repurposed against critical infrastructure, including cargo tracking, aviation systems, or personnel data. The breach highlights supply chain vulnerabilities where trusted partners become attack vectors.",
+      "immediate_forecast_24h": "No direct physical threat expected, but increased vigilance recommended for any unusual network activity or phishing attempts targeting logistics, aviation, or personnel communication systems.",
+      "strategic_outlook": "This incident reinforces the trend of attackers targeting softer third-party vendors to access high-value targets. Organizations should reassess third-party security postures, particularly vendors with access to operational systems, cargo manifests, or personnel data.",
+      "operational_impact": "Potential for credential theft or system access that could later facilitate physical security breaches. Recommend reviewing access controls for any systems shared with external analytics partners and implementing additional authentication measures.",
+      "proximity_alert": null
+    }
   }
 ]
