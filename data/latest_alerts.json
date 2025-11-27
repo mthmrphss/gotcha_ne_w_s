@@ -1,43 +1,5 @@
 [
   {
-    "id": "0dad24659daa8963e09fd6f22c8dbb81",
-    "timestamp": "2025-11-27T14:43:54.291315",
-    "original_title": "OpenAI admits data breach after analytics partner hit by phishing attack - csoonline.com",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMU96S0xSM2djUDBIX1Ixa0dBWF94RG9jajhHX3ZNVWtNVU9aNHRQZGMzSVB0SmpFc3lVVEZMSzVuX1dVUzkzT3lUX0Z3R3lVbWozdGlJZ213ajdrajloSE9RdmxnelFQbVFCMHZaajhBTmxCUXo0Y25jTUZBWk14UTVnbHVnYkFJUmdqcTNLX3AxXzRIOUU2cHprTFcwM193X2JQY1RwZzk0QnpkeG9yNmhTaVhJa2ZpWTgzVVdR?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Cyber",
-      "risk_score": 6,
-      "location": "Global/Unknown",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "OpenAI experienced a data breach via a third-party analytics partner compromised by phishing. While not directly targeting physical assets, this demonstrates sophisticated cyber intrusion capabilities that could be repurposed against critical infrastructure, including cargo tracking, aviation systems, or personnel data. The breach highlights supply chain vulnerabilities where trusted partners become attack vectors.",
-      "immediate_forecast_24h": "No direct physical threat expected, but increased vigilance recommended for any unusual network activity or phishing attempts targeting logistics, aviation, or personnel communication systems.",
-      "strategic_outlook": "This incident reinforces the trend of attackers targeting softer third-party vendors to access high-value targets. Organizations should reassess third-party security postures, particularly vendors with access to operational systems, cargo manifests, or personnel data.",
-      "operational_impact": "Potential for credential theft or system access that could later facilitate physical security breaches. Recommend reviewing access controls for any systems shared with external analytics partners and implementing additional authentication measures.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "a30dfe84a179ac3f67fcb9fedc0080cf",
-    "timestamp": "2025-11-27T15:40:11.226324",
-    "original_title": "Guinea-Bissau general sworn in as transitional president after coup - Al Jazeera",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYk4tUkVCR1NjRm5veEFXcXBIVmR1dUJyLXZhMTJJU3JXQmE0SWNQbE5VdXdfMWVTRGZweXkxdDIzUzhlY01xdnU0ZU5ZWW1Mdkg4Qkt1UjhvU3JNeVR3ZHFDSk5mLUJqeG9sMXQyeElYVlRJSVJOZmNSTmRKNmxFOTl6T3h2N2hXcVdYN3hMb0tqNnoxQkRFR1dwQTEzcFlUWktETGhqZ3daeDVKRkJ3dGhtbU0yUTTSAbwBQVVfeXFMTjkwbDJsc1FPYV85SGdNVFZ6czNjM0xscmlJRHNVTGItSGlndHlSV2tzblVrekl2MHh3T1VMSURpTk9NcE9vUGlwR1Y0MnZNSEJoR2d4cGxPb1F1cFZrdzc4VHAtalFWUVBTd1VtOFlGXy1VNTRzUUpLYzlfZjFTQWo4aDFVVHN5MU42aUYwOHc2d09hbE14U0NSY0g0RXdhMXRXRV9wSTVDV0pjdWN3VXNTSjBjU2d6Mmt6TWk?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Civil Unrest",
-      "risk_score": 10,
-      "location": "Bissau, Guinea-Bissau",
-      "latitude": 11.8636,
-      "longitude": -15.5848,
-      "detailed_analysis": "Military coup in Guinea-Bissau has resulted in a general being sworn in as transitional president, indicating ongoing political instability. This creates an elevated risk of protests, disruptions to government services, and potential violence, which could impact personnel safety, cargo movement, and local aviation operations due to possible airport closures or security force deployments.",
-      "immediate_forecast_24h": "Increased military presence and possible civil demonstrations in Bissau; potential for sporadic violence, roadblocks, and temporary disruptions to port and airport operations.",
-      "strategic_outlook": "Prolonged political uncertainty may lead to sustained instability, affecting logistics and supply chains; increased scrutiny on cargo and personnel movements due to heightened security measures.",
-      "operational_impact": "Possible delays in cargo shipments; heightened risk to personnel in the region; aviation may face increased security screening or temporary ground stops; recommend avoiding non-essential travel to Bissau.",
-      "proximity_alert": "🚨 YAKIN TEHDİT: Bissau Osvaldo Vieira Airport (0 km)"
-    }
-  },
-  {
     "id": "a87548fdd6911163c79aa9744a2e3951",
     "timestamp": "2025-11-27T15:40:22.884803",
     "original_title": "Coast Guard suspends search for missing Mississippi pilots after plane crash in New Orleans - WDSU",
@@ -168,6 +130,25 @@
       "strategic_outlook": "Potential for escalated targeting of U.S. military assets and personnel by foreign actors. May indicate exploitation of refugee or parole pathways for hostile operations.",
       "operational_impact": "Temporary lockdowns or heightened alert levels at military bases; review of vetting procedures for Afghan evacuees; possible delays in cargo or personnel movements near affected areas.",
       "proximity_alert": "🚨 YAKIN TEHDİT: Washington Dulles International Airport (1 km)"
+    }
+  },
+  {
+    "id": "59ec9a688f7cd4351e27e4d3a19a279a",
+    "timestamp": "2025-11-27T16:50:11.730828",
+    "original_title": "Japan will pay 'painful price' if steps out of line over Taiwan, China military says",
+    "link": "https://www.reddit.com/r/worldnews/comments/1p85sy9/japan_will_pay_painful_price_if_steps_out_of_line/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "East China Sea / Taiwan Strait",
+      "latitude": 25.0,
+      "longitude": 122.0,
+      "detailed_analysis": "Chinese military threat against Japan over Taiwan represents elevated geopolitical tensions with potential for escalation. While no direct kinetic action is reported, rhetoric increases risk of miscalculation, naval/air intercept incidents, or economic retaliation affecting regional stability. Assets and personnel in/transiting near Taiwan, East China Sea, or Japanese territories face heightened threat environment.",
+      "immediate_forecast_24h": "Increased PLA naval/air patrols near median line; possible intercepts with Japanese/US assets. No immediate kinetic escalation expected but communications intercepts may show heightened alert posture.",
+      "strategic_outlook": "Sustained diplomatic friction likely; potential for economic coercion (port delays, inspections) or targeted cyber operations against Japanese logistics/aviation infrastructure if tensions worsen.",
+      "operational_impact": "Recommend heightened vigilance for Japan-registered vessels/aircraft in region; review contingency plans for supply chain disruptions; monitor for unusual cyber activity targeting maritime/aviation networks.",
+      "proximity_alert": null
     }
   }
 ]
