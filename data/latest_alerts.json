@@ -55,5 +55,43 @@
       "operational_impact": "Ground transport routes through Ruby Town area should be considered high-risk, potential for supply chain disruptions, personnel movement restrictions advised, increased threat to fixed assets in conflict zone",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "c69d8ad559366e4b24734715daed720d",
+    "timestamp": "2025-11-27T19:41:31.337716",
+    "original_title": "Breaking News: Air France Flight AF498 Faces Emergency Over the Azores After Squawking 7700 and Turning Back to Paris, Passengers Safe - Travel And Tour World",
+    "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPT1JFS2xMcVpvd1NiNno5T0hjMkN5V1hEakNqeXdsSTNSSTlsRnRvei1LM2IxV0JFM1FDSjlHRTR4bDltVXdtWWVaWVMwaVcyTjZFVU5tUS0yOUZ6UEpXbDZQRFlaVXNNSF9LekRGSV95Mlg0NDBzeUFURnhBSml5Ums2NHUzc1FjOE5JM09pUGZFUkFHcnRHVzc1RTRQSnMwVzZMYVdJaHowNG1SVm03bkVSS3dFQ3R2bWl0YXEtUkFRY0wwbXJnSlE5Y0NxcDdFeEhpdzJ3eEltamlqZkpuY0R1ZGtiZ2YtS0xndm9wcEJ3VnU2MGh5ZHJiS1hVMl85SEFDaF9MczBVWnM0YWc?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 7,
+      "location": "Azores, North Atlantic",
+      "latitude": 37.7412,
+      "longitude": -25.6756,
+      "detailed_analysis": "Air France Flight AF498 declared emergency (squawk 7700) over the Azores and returned to Paris. While passengers are reported safe, the emergency squawk indicates a serious in-flight issue requiring priority handling. No crash occurred, but the nature of the emergency remains unspecified - could range from mechanical failure to security concerns. The mid-Atlantic location adds complexity to emergency response capabilities.",
+      "immediate_forecast_24h": "Increased scrutiny on Air France operations, potential delays for connecting flights from Paris, possible FAA/EASA notifications. Secondary screening may be enhanced for Paris-originating flights if cause remains unclear.",
+      "strategic_outlook": "Potential for temporary operational adjustments on transatlantic routes if investigation reveals systemic issues. May trigger review of emergency protocols for flights over remote oceanic areas. Unlikely to indicate broader threat pattern unless additional incidents emerge.",
+      "operational_impact": "Minimal immediate impact beyond this specific flight. Recommend monitoring for similar incidents involving transatlantic carriers. No cargo or personnel threats identified beyond the aviation emergency itself. Maintain normal alert level unless additional context emerges.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "1035145c509b8363c47ed35e8a008eae",
+    "timestamp": "2025-11-27T19:41:47.511330",
+    "original_title": "All of Africa's coup leaders during the past five years are still in power",
+    "link": "https://www.france24.com/en/video/20251127-all-of-africa-s-coup-leaders-during-the-past-five-years-are-still-in-power",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 7,
+      "location": "Guinea-Bissau",
+      "latitude": 11.8037,
+      "longitude": -15.1804,
+      "detailed_analysis": "Military coup in Guinea-Bissau following disputed presidential election indicates ongoing political instability. The country's history of coups and role as a drug trafficking hub suggests potential for increased criminal activity and security force disruptions. ECOWAS' diminished credibility reduces likelihood of external intervention to restore order.",
+      "immediate_forecast_24h": "High probability of continued military presence, potential protests, and disruptions to government services. Possible airport closures or flight diversions if instability escalates.",
+      "strategic_outlook": "Prolonged political uncertainty likely to exacerbate existing criminal networks, particularly drug trafficking. Regional instability may spread given ECOWAS' weakened position and pattern of successful coups across West Africa.",
+      "operational_impact": "Increased risk to personnel in country due to potential violence and lawlessness. Cargo operations may face heightened inspection delays, theft, or diversion. Aviation could experience disruptions from sudden airspace closures or security incidents.",
+      "proximity_alert": null
+    }
   }
 ]
