@@ -1,40 +1,21 @@
 [
   {
-    "id": "48231771938fae3615f95651a0db8bb1",
-    "timestamp": "2025-11-28T04:46:42.966005",
-    "original_title": "US reviewing 'every' green card from 19 countries after capital attack",
-    "link": "https://www.france24.com/en/americas/20251127-us-green-card-capital-attack",
-    "source_name": "France 24 ME",
+    "id": "e08e16ec375bdff6817352975b5f04d7",
+    "timestamp": "2025-11-28T06:59:03.101618",
+    "original_title": "Live updates: National Guard shooting, Trump says US to pause migration from ‘Third World Countries’ - CNN",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNX3FUOENVWThWSkN0NmhRQjFmY3dubHp4aExWaHhXWVNsLTRhN012b1lTTngyNWpsZ1M2MmdTMDY4SWRpMVZPNzVsYnpWSXhOYjViakhBMW4weVZIUUNFV3J6S3dhLU1XNk1VQU5Nam1HQ1VKMW1iN3EzaEI4clZEbkpzaWV6Wl9NQV9aaVpqLVY?oc=5",
+    "source_name": "Google News (Breaking)",
     "ai_analysis": {
       "category": "Border/Migration",
-      "risk_score": 3,
+      "risk_score": 6,
       "location": "United States",
-      "latitude": 37.0902,
-      "longitude": -95.7129,
-      "detailed_analysis": "Administrative review of green card holders from 19 designated countries, focusing on vetting procedures. No direct threat to assets, cargo, aviation, or personnel identified, but potential for increased scrutiny at borders/ports of entry.",
-      "immediate_forecast_24h": "Possible minor delays in processing for individuals from affected countries at airports and border crossings; no operational disruptions expected.",
-      "strategic_outlook": "Long-term increase in vetting rigor may indirectly affect cross-border logistics and personnel movement if procedures slow processing times or heighten tensions.",
-      "operational_impact": "Minimal immediate impact; monitor for secondary effects such as protests or targeting of transport infrastructure, though unlikely.",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Trump's announcement of pausing migration from 'Third World Countries' indicates potential for immediate policy shifts affecting border security and transportation infrastructure. The National Guard shooting mentioned in the headline suggests possible civil unrest or security incidents at border areas, though specific details are unavailable from the article content. This combination creates elevated risk for border crossing disruptions, potential protests, and increased scrutiny on cargo/personnel movements.",
+      "immediate_forecast_24h": "Increased security presence at border crossings and ports of entry; potential for protests or demonstrations; possible delays in cargo processing; heightened alert for aviation security screening procedures",
+      "strategic_outlook": "Sustained policy changes could lead to long-term disruptions in supply chains, increased migrant smuggling attempts, and potential retaliation incidents. Aviation may face enhanced screening requirements for passengers from affected regions.",
+      "operational_impact": "Recommend increased vigilance at border checkpoints and ports; review contingency plans for border closure scenarios; enhance monitoring of cargo manifests from affected regions; prepare for potential protests affecting transportation routes",
       "proximity_alert": null
-    }
-  },
-  {
-    "id": "310dbbeb77bf8f68adc7696a4889afb2",
-    "timestamp": "2025-11-28T05:44:52.935906",
-    "original_title": "Rocket Attack on Iraqi Gas Field Cuts Power to Most of Kurdistan",
-    "link": "https://www.nytimes.com/2025/11/27/world/middleeast/rocket-attack-iraq-power-kurdistan.html",
-    "source_name": "NewYork Times",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 10,
-      "location": "Kurdistan Region, Iraq",
-      "latitude": 36.0,
-      "longitude": 44.0,
-      "detailed_analysis": "Rocket attack targeting energy infrastructure in Iraqi Kurdistan, likely conducted by Iran-affiliated militias. This represents an escalation in regional conflict tactics, specifically targeting critical infrastructure to create economic and social disruption. Pattern suggests coordinated campaign against Kurdish energy assets.",
-      "immediate_forecast_24h": "High probability of follow-on attacks against energy infrastructure in northern Iraq. Possible retaliatory strikes or increased military presence. Power disruptions may affect regional operations and supply chains.",
-      "strategic_outlook": "Sustained campaign likely to continue, potentially expanding to other critical infrastructure. Regional tensions between Kurdish authorities and Iran-backed groups expected to escalate. May impact oil/gas exports and regional energy security.",
-      "operational_impact": "Critical infrastructure damage affecting power supply chains. Potential for collateral damage to nearby transport routes. Increased security requirements for personnel and assets in northern Iraq. Possible delays in cargo movements due to power outages and security operations.",
-      "proximity_alert": "🚨 YAKIN TEHDİT: Erbil International Airport (27 km)"
     }
   }
 ]
