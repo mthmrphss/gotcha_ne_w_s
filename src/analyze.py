@@ -35,6 +35,10 @@ RSS_SOURCES = [
         "name": "Aviation Safety Network",
         "url": "http://aviation-safety.net/rss/recent.xml"
     },
+    { 
+        "name": "NewYork Times",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"
+    },    
     {   
         "name": "Live Flight Emergencies (Squawk)",
         "url": "https://news.google.com/rss/search?q=(squawk+7700+OR+squawk+7500+OR+emergency+landing)+when:1h&hl=en-US&gl=US&ceid=US:en"
