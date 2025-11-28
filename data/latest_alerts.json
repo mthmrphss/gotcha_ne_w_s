@@ -17,5 +17,24 @@
       "operational_impact": "Minimal immediate impact; monitor for secondary effects such as protests or targeting of transport infrastructure, though unlikely.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "310dbbeb77bf8f68adc7696a4889afb2",
+    "timestamp": "2025-11-28T05:44:52.935906",
+    "original_title": "Rocket Attack on Iraqi Gas Field Cuts Power to Most of Kurdistan",
+    "link": "https://www.nytimes.com/2025/11/27/world/middleeast/rocket-attack-iraq-power-kurdistan.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Kurdistan Region, Iraq",
+      "latitude": 36.0,
+      "longitude": 44.0,
+      "detailed_analysis": "Rocket attack targeting energy infrastructure in Iraqi Kurdistan, likely conducted by Iran-affiliated militias. This represents an escalation in regional conflict tactics, specifically targeting critical infrastructure to create economic and social disruption. Pattern suggests coordinated campaign against Kurdish energy assets.",
+      "immediate_forecast_24h": "High probability of follow-on attacks against energy infrastructure in northern Iraq. Possible retaliatory strikes or increased military presence. Power disruptions may affect regional operations and supply chains.",
+      "strategic_outlook": "Sustained campaign likely to continue, potentially expanding to other critical infrastructure. Regional tensions between Kurdish authorities and Iran-backed groups expected to escalate. May impact oil/gas exports and regional energy security.",
+      "operational_impact": "Critical infrastructure damage affecting power supply chains. Potential for collateral damage to nearby transport routes. Increased security requirements for personnel and assets in northern Iraq. Possible delays in cargo movements due to power outages and security operations.",
+      "proximity_alert": "🚨 YAKIN TEHDİT: Erbil International Airport (27 km)"
+    }
   }
 ]
