@@ -1,58 +1,20 @@
 [
   {
-    "id": "f7dfa97689a3fe90f1fdfb49f0f17c3f",
-    "timestamp": "2025-11-28T14:42:14.040979",
-    "original_title": "Trump vows to freeze immigration from \"Third World Countries\" following Washington, DC shooting",
-    "link": "http://www.africanews.com/2025/11/28/trump-vows-to-freeze-immigration-from-third-world-countries-following-washington-dc-shooti/",
+    "id": "33f9bd8412552c1e17f29defc9a3b315",
+    "timestamp": "2025-11-28T16:49:24.815886",
+    "original_title": "Israeli raid in southern Syria leaves 13 dead and several soldiers wounded",
+    "link": "http://www.africanews.com/2025/11/28/israeli-raid-in-southern-syria-leaves-13-dead-and-several-soldiers-wounded/",
     "source_name": "Africa News",
     "ai_analysis": {
-      "category": "Border/Migration",
-      "risk_score": 10,
-      "location": "Washington, DC",
-      "latitude": 38.9072,
-      "longitude": -77.0369,
-      "detailed_analysis": "President Trump's announcement of a potential immigration freeze from unspecified 'Third World Countries' following a shooting incident creates immediate uncertainty in border and immigration operations. While the policy details remain undefined, such announcements historically trigger increased migrant surges at borders, strained transportation security resources, and potential protests at ports of entry. The shooting context adds emotional volatility to immigration enforcement actions.",
-      "immediate_forecast_24h": "Increased vigilance required at all US ports of entry. Expect heightened migrant activity attempting to cross before potential policy implementation. Possible protests at immigration facilities and transportation hubs. Aviation may see increased security screening for travelers from potentially affected regions.",
-      "strategic_outlook": "Extended period of operational uncertainty for border security and transportation networks. Potential for increased stowaway attempts in cargo shipments if policy is implemented. Possible retaliatory actions or protests targeting US transportation assets internationally. Aviation security may face enhanced screening requirements for specific nationalities.",
-      "operational_impact": "Border patrol and CBP resources likely to be stretched. Increased screening may cause delays in cargo and passenger movements at ports of entry. Transportation companies should prepare for potential route disruptions and enhanced documentation checks. Personnel in immigration-related facilities face increased protest and confrontation risks.",
-      "proximity_alert": "🚨 YAKIN TEHDİT: Washington Dulles International Airport (1 km)"
-    }
-  },
-  {
-    "id": "f333a7a1674ceebd03aaa62cf3a4fcca",
-    "timestamp": "2025-11-28T15:37:33.997277",
-    "original_title": "Madagascar Coup: India’s Strategic Dilemma",
-    "link": "https://www.reddit.com/r/geopolitics/comments/1p8x8d5/madagascar_coup_indias_strategic_dilemma/",
-    "source_name": "Reddit r/Geopolitics",
-    "ai_analysis": {
-      "category": "Civil Unrest",
-      "risk_score": 7,
-      "location": "Madagascar",
-      "latitude": -18.766947,
-      "longitude": 46.869107,
-      "detailed_analysis": "Military coup in Madagascar creates immediate instability, potentially disrupting port operations, aviation routes, and personnel safety. India's strategic interests in the western Indian Ocean could be compromised, with possible ripple effects on regional maritime security and trade corridors. No direct threats to assets or cargo reported yet, but political volatility increases vulnerability to opportunistic crime, smuggling, or targeted disruptions.",
-      "immediate_forecast_24h": "Heightened security presence expected in Antananarivo and major ports. Possible flight cancellations or diversions. Increased scrutiny on cargo movements. Risk of protests or clashes impacting logistics and personnel movement.",
-      "strategic_outlook": "Prolonged instability may lead to sustained maritime security degradation, increased piracy risk, and potential for external actor interference. India's naval and economic interests in the region face heightened exposure if the coup regime aligns against existing partnerships.",
-      "operational_impact": "Recommend elevated threat level for personnel in Madagascar, enhanced screening for cargo originating from/to Malagasy ports, and contingency planning for aviation rerouting. Monitor port operations for signs of coercion or corruption impacting supply chain integrity.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "e28f17da8e7f69e6793f22d70e99bcef",
-    "timestamp": "2025-11-28T15:37:42.761188",
-    "original_title": "[Venezuela-Usa] How much do you think LATAM (Colombia specially) will involve",
-    "link": "https://www.reddit.com/r/geopolitics/comments/1p8wi4y/venezuelausa_how_much_do_you_think_latam_colombia/",
-    "source_name": "Reddit r/Geopolitics",
-    "ai_analysis": {
       "category": "Conflict",
-      "risk_score": 7,
-      "location": "Venezuela-Colombia border region",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "Geopolitical tensions between Venezuela and neighboring countries escalating, with specific threats from Maduro regime against Colombia. Reports indicate military posturing ('cleaning cannons and rifles'), potential cross-border operations, and detention/torture of foreign military personnel. Involvement of multiple LATAM nations (Argentina, Peru) in intelligence sharing suggests coordinated regional response. Context includes cartel violence spillover and proxy conflict dimensions.",
-      "immediate_forecast_24h": "Increased border skirmishes likely. Possible retaliatory actions against Colombian assets or personnel. Elevated alert for diplomatic facilities and military patrols near border areas.",
-      "strategic_outlook": "Sustained regional instability with potential for asymmetric warfare tactics. Risk of cross-border incursions, targeted operations against foreign personnel, and disruption of trade routes. Venezuela likely to employ hybrid threats including criminal proxies.",
-      "operational_impact": "Heightened threat to personnel in border regions. Possible cargo disruptions due to border closures or security operations. Aviation routes may require increased threat assessment for overflight risks. Critical infrastructure near borders at increased risk of targeting.",
+      "risk_score": 8,
+      "location": "Southern Syria",
+      "latitude": 32.7,
+      "longitude": 36.5,
+      "detailed_analysis": "Israeli military incursion resulting in 13 fatalities and multiple wounded soldiers indicates active kinetic operations near the Syria-Israel border. This reflects heightened military tensions, potential for retaliatory actions, and increased regional instability. While not directly targeting aviation or cargo assets, collateral risk to nearby infrastructure and personnel movement is elevated.",
+      "immediate_forecast_24h": "High probability of retaliatory strikes, increased drone activity, and possible cross-border shelling. Aviation routes may experience temporary rerouting or heightened monitoring.",
+      "strategic_outlook": "Sustained escalation likely, with potential for broader regional conflict spillover. Increased intelligence gathering and military posturing expected along the border in coming weeks.",
+      "operational_impact": "Immediate suspension of non-essential ground transport and logistics operations in southern Syria advised. Enhanced screening for personnel movement near conflict zones. Aviation may face increased deconfliction requirements and potential airspace restrictions.",
       "proximity_alert": null
     }
   }
