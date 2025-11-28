@@ -74,5 +74,24 @@
       "operational_impact": "Minimal operational disruption anticipated. Recommend monitoring drone usage patterns near high-value assets; potential for future need to coordinate with conservation agencies on airspace management.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "f7dfa97689a3fe90f1fdfb49f0f17c3f",
+    "timestamp": "2025-11-28T14:42:14.040979",
+    "original_title": "Trump vows to freeze immigration from \"Third World Countries\" following Washington, DC shooting",
+    "link": "http://www.africanews.com/2025/11/28/trump-vows-to-freeze-immigration-from-third-world-countries-following-washington-dc-shooti/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Border/Migration",
+      "risk_score": 10,
+      "location": "Washington, DC",
+      "latitude": 38.9072,
+      "longitude": -77.0369,
+      "detailed_analysis": "President Trump's announcement of a potential immigration freeze from unspecified 'Third World Countries' following a shooting incident creates immediate uncertainty in border and immigration operations. While the policy details remain undefined, such announcements historically trigger increased migrant surges at borders, strained transportation security resources, and potential protests at ports of entry. The shooting context adds emotional volatility to immigration enforcement actions.",
+      "immediate_forecast_24h": "Increased vigilance required at all US ports of entry. Expect heightened migrant activity attempting to cross before potential policy implementation. Possible protests at immigration facilities and transportation hubs. Aviation may see increased security screening for travelers from potentially affected regions.",
+      "strategic_outlook": "Extended period of operational uncertainty for border security and transportation networks. Potential for increased stowaway attempts in cargo shipments if policy is implemented. Possible retaliatory actions or protests targeting US transportation assets internationally. Aviation security may face enhanced screening requirements for specific nationalities.",
+      "operational_impact": "Border patrol and CBP resources likely to be stretched. Increased screening may cause delays in cargo and passenger movements at ports of entry. Transportation companies should prepare for potential route disruptions and enhanced documentation checks. Personnel in immigration-related facilities face increased protest and confrontation risks.",
+      "proximity_alert": "🚨 YAKIN TEHDİT: Washington Dulles International Airport (1 km)"
+    }
   }
 ]
