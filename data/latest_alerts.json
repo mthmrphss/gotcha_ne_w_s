@@ -17,5 +17,24 @@
       "operational_impact": "Increased risk to aviation in Venezuelan airspace and surrounding regions. Maritime operations near Venezuelan waters may face heightened interception risk. Personnel in Venezuela at increased risk of detention or harassment. Cargo shipments through region may experience delays or increased scrutiny.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "58a04c9d9095657b24623e0d41a0646d",
+    "timestamp": "2025-11-29T17:33:57.029363",
+    "original_title": "At least three killed in Russian drone and missile strikes on Ukraine",
+    "link": "https://www.france24.com/en/video/20251129-at-least-three-killed-in-russian-drone-and-missile-strikes-on-ukraine",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Kyiv, Ukraine",
+      "latitude": 50.4501,
+      "longitude": 30.5234,
+      "detailed_analysis": "Confirmed Russian drone and missile strikes targeting Ukraine's capital region resulting in casualties and infrastructure damage. Attack methodology involves combined UAV and missile systems, indicating coordinated offensive capabilities. Event represents active kinetic military operations in urban areas with high potential for collateral damage to civilian and critical infrastructure.",
+      "immediate_forecast_24h": "High probability of continued or escalated strikes on Kyiv and surrounding regions. Additional air raid alerts expected. Potential for retaliatory measures or expanded targeting of transportation hubs, energy infrastructure, and government facilities.",
+      "strategic_outlook": "Sustained conflict operations likely to continue with periodic escalation patterns. Increased risk to all assets and personnel in Ukrainian territory. Aviation operations in Ukrainian airspace remain severely compromised. Cargo movements subject to disruption from infrastructure damage and security closures.",
+      "operational_impact": "All personnel in Kyiv region should seek immediate shelter. Aviation operations suspended or highly restricted. Ground cargo movements subject to route closures and security checkpoints. Critical infrastructure including power and communications may experience outages. Emergency response protocols activated.",
+      "proximity_alert": "🚨 YAKIN TEHDİT: Boryspil International Airport (28 km)"
+    }
   }
 ]
