@@ -36,5 +36,62 @@
       "operational_impact": "Delays in cargo transit through border regions, increased screening requirements for personnel movement, potential for opportunistic crime targeting stranded migrants or logistics assets. Aviation operations likely unaffected unless protests spread to airport areas.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "0bf346df4dd17f1814086846aae5ef90",
+    "timestamp": "2025-11-29T21:32:07.051121",
+    "original_title": "easyJet flight to Liverpool makes emergency landing in France - facebook.com",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcF9UeUVWSURnU081WjE0alB1azVQVDdYb3dxd2dxYXdKVmZqVnpuamE5bjlRTG1lRmU3cC1GOER5dzdMa291MFhlcWEwTTlKbXRIUk56aENTZXF5Q1p5am1Zam9MS1d4c0NsRVZka1dHT1ZodGdRMVRud28wWC1RcGxlb002Ukhj?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 7,
+      "location": "France",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Emergency landing of easyJet flight indicates potential aviation safety incident, possibly due to mechanical failure, security threat, or onboard emergency. Requires investigation into cause—whether technical, security-related (e.g., threat), or other operational factors.",
+      "immediate_forecast_24h": "Increased scrutiny on easyJet operations; possible delays or diversions for similar aircraft models if issue is systemic; coordination with French and UK aviation authorities for incident review.",
+      "strategic_outlook": "Potential for heightened regulatory attention on airline maintenance and emergency protocols; if security-related, could lead to broader threat advisories for European low-cost carriers.",
+      "operational_impact": "Temporary disruption to flight schedules; possible rerouting or grounding of affected aircraft; increased passenger screening and baggage checks if threat is suspected.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "6e5d2048a7507694d9e7c10a498586ed",
+    "timestamp": "2025-11-29T21:32:14.546553",
+    "original_title": "Pakistan cancelled military action against Afghanistan at Qatar's request: DPM Dar",
+    "link": "https://www.reddit.com/r/worldnews/comments/1p9zemi/pakistan_cancelled_military_action_against/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Afghanistan-Pakistan border region",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Pakistan's consideration and subsequent cancellation of military action against Afghanistan, mediated by Qatar, indicates heightened geopolitical tensions and potential for cross-border conflict. While de-escalation occurred, the underlying instability remains. This could lead to sporadic skirmishes, increased militant activity, or retaliatory actions affecting border security, supply routes, and personnel safety in the region.",
+      "immediate_forecast_24h": "Possible increased militant reconnaissance or small-scale border provocations; heightened alert for military and diplomatic personnel; no major escalation expected due to Qatar-mediated pause.",
+      "strategic_outlook": "Ongoing diplomatic efforts may temporarily stabilize the situation, but unresolved tensions and militant safe havens could lead to future flare-ups, impacting regional security and transit routes long-term.",
+      "operational_impact": "Increased vigilance required for assets and personnel near border areas; potential delays or rerouting for cargo transit; possible brief closures of key supply routes if tensions resurface.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "4e3fe84f3eca7dc72566bda5c25a3a7a",
+    "timestamp": "2025-11-29T21:32:22.296539",
+    "original_title": "Trump says Venezuela airspace should be considered closed, Caracas slams 'colonialist threat'",
+    "link": "https://www.france24.com/en/americas/20251129-trump-says-venezuela-airspace-should-be-considered-closed-in-its-entirety",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Venezuela airspace",
+      "latitude": 8.0,
+      "longitude": -66.0,
+      "detailed_analysis": "US declaration of closed airspace over Venezuela represents significant escalation in geopolitical tensions. This follows increased US military presence in Caribbean and anti-drug operations. Venezuelan government interprets this as colonialist threat, indicating high potential for miscalculation or confrontation. Aviation operations in region now face heightened risk of interception, forced landings, or other military actions.",
+      "immediate_forecast_24h": "Increased military aircraft patrols, potential for airspace violations, possible Venezuelan air defense activations. Commercial flights may be rerouted or suspended. Risk of accidental engagements between military aircraft.",
+      "strategic_outlook": "Prolonged airspace tensions likely, potentially expanding to maritime restrictions. Possible escalation to broader regional conflict if incidents occur. May impact regional aviation routes and fuel supply chains.",
+      "operational_impact": "Immediate flight diversions required for all Venezuela-bound traffic. Increased insurance premiums for regional aviation operations. Cargo shipments may experience significant delays. Personnel in Venezuela face elevated risk of detention or restricted movement.",
+      "proximity_alert": null
+    }
   }
 ]
