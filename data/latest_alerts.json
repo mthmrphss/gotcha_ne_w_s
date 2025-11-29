@@ -1,62 +1,5 @@
 [
   {
-    "id": "0bf346df4dd17f1814086846aae5ef90",
-    "timestamp": "2025-11-29T21:32:07.051121",
-    "original_title": "easyJet flight to Liverpool makes emergency landing in France - facebook.com",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcF9UeUVWSURnU081WjE0alB1azVQVDdYb3dxd2dxYXdKVmZqVnpuamE5bjlRTG1lRmU3cC1GOER5dzdMa291MFhlcWEwTTlKbXRIUk56aENTZXF5Q1p5am1Zam9MS1d4c0NsRVZka1dHT1ZodGdRMVRud28wWC1RcGxlb002Ukhj?oc=5",
-    "source_name": "Live Flight Emergencies (Squawk)",
-    "ai_analysis": {
-      "category": "Aviation",
-      "risk_score": 7,
-      "location": "France",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "Emergency landing of easyJet flight indicates potential aviation safety incident, possibly due to mechanical failure, security threat, or onboard emergency. Requires investigation into cause—whether technical, security-related (e.g., threat), or other operational factors.",
-      "immediate_forecast_24h": "Increased scrutiny on easyJet operations; possible delays or diversions for similar aircraft models if issue is systemic; coordination with French and UK aviation authorities for incident review.",
-      "strategic_outlook": "Potential for heightened regulatory attention on airline maintenance and emergency protocols; if security-related, could lead to broader threat advisories for European low-cost carriers.",
-      "operational_impact": "Temporary disruption to flight schedules; possible rerouting or grounding of affected aircraft; increased passenger screening and baggage checks if threat is suspected.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "6e5d2048a7507694d9e7c10a498586ed",
-    "timestamp": "2025-11-29T21:32:14.546553",
-    "original_title": "Pakistan cancelled military action against Afghanistan at Qatar's request: DPM Dar",
-    "link": "https://www.reddit.com/r/worldnews/comments/1p9zemi/pakistan_cancelled_military_action_against/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 7,
-      "location": "Afghanistan-Pakistan border region",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "Pakistan's consideration and subsequent cancellation of military action against Afghanistan, mediated by Qatar, indicates heightened geopolitical tensions and potential for cross-border conflict. While de-escalation occurred, the underlying instability remains. This could lead to sporadic skirmishes, increased militant activity, or retaliatory actions affecting border security, supply routes, and personnel safety in the region.",
-      "immediate_forecast_24h": "Possible increased militant reconnaissance or small-scale border provocations; heightened alert for military and diplomatic personnel; no major escalation expected due to Qatar-mediated pause.",
-      "strategic_outlook": "Ongoing diplomatic efforts may temporarily stabilize the situation, but unresolved tensions and militant safe havens could lead to future flare-ups, impacting regional security and transit routes long-term.",
-      "operational_impact": "Increased vigilance required for assets and personnel near border areas; potential delays or rerouting for cargo transit; possible brief closures of key supply routes if tensions resurface.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "4e3fe84f3eca7dc72566bda5c25a3a7a",
-    "timestamp": "2025-11-29T21:32:22.296539",
-    "original_title": "Trump says Venezuela airspace should be considered closed, Caracas slams 'colonialist threat'",
-    "link": "https://www.france24.com/en/americas/20251129-trump-says-venezuela-airspace-should-be-considered-closed-in-its-entirety",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 8,
-      "location": "Venezuela airspace",
-      "latitude": 8.0,
-      "longitude": -66.0,
-      "detailed_analysis": "US declaration of closed airspace over Venezuela represents significant escalation in geopolitical tensions. This follows increased US military presence in Caribbean and anti-drug operations. Venezuelan government interprets this as colonialist threat, indicating high potential for miscalculation or confrontation. Aviation operations in region now face heightened risk of interception, forced landings, or other military actions.",
-      "immediate_forecast_24h": "Increased military aircraft patrols, potential for airspace violations, possible Venezuelan air defense activations. Commercial flights may be rerouted or suspended. Risk of accidental engagements between military aircraft.",
-      "strategic_outlook": "Prolonged airspace tensions likely, potentially expanding to maritime restrictions. Possible escalation to broader regional conflict if incidents occur. May impact regional aviation routes and fuel supply chains.",
-      "operational_impact": "Immediate flight diversions required for all Venezuela-bound traffic. Increased insurance premiums for regional aviation operations. Cargo shipments may experience significant delays. Personnel in Venezuela face elevated risk of detention or restricted movement.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "f62f135458c30187935457239a32ae19",
     "timestamp": "2025-11-29T22:39:17.548426",
     "original_title": "Ukraine hits two Russian 'shadow fleet' oil tankers with naval drones",
@@ -92,6 +35,63 @@
       "strategic_outlook": "Ongoing geopolitical tensions may fuel further demonstrations across Europe. If protests intensify or spread, they could indirectly affect logistics, supply chains, or personnel movement in urban centers. No indication of organized targeting of assets or aviation at this time.",
       "operational_impact": "Minimal direct impact on cargo, aviation, or personnel operations. Advise monitoring protest locations for route disruptions. No elevated threat to specific assets, but situational awareness recommended for staff in affected areas.",
       "proximity_alert": "🚨 YAKIN TEHDİT: Paris Charles de Gaulle Airport (2 km)"
+    }
+  },
+  {
+    "id": "639d6f69abba07de9b2173d03e3b020b",
+    "timestamp": "2025-11-29T23:32:37.045594",
+    "original_title": "African Union suspends Guinea-Bissau after military coup - PBS",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMkpzLXI5dUlfT1pFcU5TUHZscW1aYUVfWmtlUVpnWENGaFJ3UVl3dldPUUtyY2Q3LVo3b3oxNzMydkNFc3BreW5oOUdyWWZZNkpoTEk3NVhqSlZCaHNxLS1NX3ZCN0MtbVRwYW5EdW9RMWZDN194THFYRTczZnVjZndIY2xkRlpYXzhtbFZfUlJ2SXpkY3fSAZsBQVVfeXFMTldVaDBJUHlMVl9iNjNxdFlIY2t6V3NERU9DMWYzenJqQ1N3VVdzRWVsSkdqbTBiQU95ZnV3MEI1MGdTMlRYbVJrVy1vbjE5R21hRGFCaW1KRDQ2X0V0S0MxQktIeWF5RHM5aFNFOU9zUndQcFR4aHNyYzVqZXhxWlMxTDBYU250ZXJjX0JJX284ZEhrVHdzNHltZzQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 7,
+      "location": "Guinea-Bissau",
+      "latitude": 11.8037,
+      "longitude": -15.1804,
+      "detailed_analysis": "Military coup in Guinea-Bissau has led to African Union suspension, indicating significant political instability. While not directly targeting assets or aviation, coups create volatile environments where cargo operations face increased theft risk, personnel may encounter unrest or detention, and aviation could experience sudden airspace closures or operational disruptions. No specific threats to aviation infrastructure or cargo mentioned, but the instability elevates baseline risk across all sectors.",
+      "immediate_forecast_24h": "Heightened military presence and potential protests likely. Possible disruptions to port operations, airport closures, or curfews. Increased risk of opportunistic cargo theft or personnel harassment during transit.",
+      "strategic_outlook": "Prolonged political uncertainty expected. African Union suspension may lead to economic sanctions, further destabilizing logistics and supply chains. Potential for escalated violence or extended military control could degrade security conditions for assets and personnel over coming weeks.",
+      "operational_impact": "Recommend heightened alert for all personnel in Guinea-Bissau. Review cargo routing alternatives, implement enhanced tracking for high-value shipments, and prepare for possible aviation rerouting or delays. Activate emergency communication protocols for staff.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "b85d4b674a6c3c2ee3fa757fea1a9ac8",
+    "timestamp": "2025-11-29T23:32:53.803978",
+    "original_title": "How one attack is reshaping the fight over immigration policy - KUOW",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVlJlQUZLdUNyNmFmZE9XcUU4aG92QjhaWmNGNkRjSDNwQTNXSHl3bUJDQlZQVXVpVzZWck5DUTdKUWpxcGZqeExfbWNjVGRGOUFEU0xfbEFZWVFHVWJQRXZhX1B0ZXpSYjJ1Tkt3VkNNZGI4OG5yZFBSbU0zQXNRQVM5OWJvby1qWUJhc1FYNjVUUDl4?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Border/Migration",
+      "risk_score": 5,
+      "location": "US-Mexico Border Region",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Article discusses immigration policy changes following a specific attack incident, likely involving border security implications. While not detailing direct transport/aviation threats, the context suggests potential for increased migrant movement patterns, border crossing attempts, and possible strain on transportation infrastructure near border areas. No specific cargo or aviation threats identified in available context.",
+      "immediate_forecast_24h": "Potential for increased border monitoring activity and possible disruptions to cross-border transportation routes. No specific imminent threats to assets or personnel identified.",
+      "strategic_outlook": "Policy changes may lead to altered migration patterns and increased border security measures, potentially affecting logistics operations in border regions. Could influence smuggling attempts and border crossing methods over medium term.",
+      "operational_impact": "Monitor border crossing points for unusual activity. Review security protocols for personnel and assets operating near border areas. No immediate adjustment to aviation or cargo operations required based on available information.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "3fe778885d215eb75c6d32397ca82510",
+    "timestamp": "2025-11-29T23:33:04.186367",
+    "original_title": "US halts all asylum claim decisions in wake of National Guard shooting",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pa33at/us_halts_all_asylum_claim_decisions_in_wake_of/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Border/Migration",
+      "risk_score": 5,
+      "location": "US-Mexico Border Region",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "The temporary halt of asylum processing following a National Guard shooting indicates potential for escalated tensions and operational disruptions at border crossings. While not a direct transport threat, it may lead to migrant build-ups, protests, or opportunistic criminal activity near transit hubs.",
+      "immediate_forecast_24h": "Increased law enforcement presence and possible protests near border facilities; minimal direct impact but heightened vigilance required for cargo and personnel movements in affected zones.",
+      "strategic_outlook": "Prolonged processing delays could strain border infrastructure, increasing vulnerability to smuggling attempts or unauthorized border crossings affecting logistics routes.",
+      "operational_impact": "Potential for delays in cross-border cargo shipments; personnel advised to avoid non-essential travel near asylum processing centers due to possible civil unrest.",
+      "proximity_alert": null
     }
   }
 ]
