@@ -36,5 +36,62 @@
       "operational_impact": "Immediate suspension of all non-essential aviation and cargo operations in Kyiv region. Enhanced security protocols for personnel movement. Critical infrastructure at elevated risk. Evacuation protocols activated for high-risk zones.",
       "proximity_alert": "🚨 YAKIN TEHDİT: Boryspil International Airport (28 km)"
     }
+  },
+  {
+    "id": "a3e712f411717a1d81223d5eccf8faea",
+    "timestamp": "2025-11-29T07:32:26.975998",
+    "original_title": "Vast Russian overnight attack on Ukraine kills two, wounds dozens - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONE5WeW56TEJCUV92M0IxNjJsT2lxS1VBRzlVckJMQ08waUpQR0ItX2VzRmVqUjRzVm5WeWpDVDdYZktuRXRGNzlYQjdJZ00ydUNkM18tbVk4eEJKS2NfYXpoVUl5MTZYSkptdDBwVXBIN2owY3FsMGVYWlNMRGl3dmVmbWdjdnhjMXI0ems0S05lbnFmYVVMOWJZS0hJdWpmUUdmWnhXVlp2bjd4a21xQ1Nnb0xaT29lRTFhRFM4bDZSdw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 9,
+      "location": "Ukraine",
+      "latitude": 48.3794,
+      "longitude": 31.1656,
+      "detailed_analysis": "Large-scale Russian military attack targeting multiple locations in Ukraine, resulting in casualties and infrastructure damage. High probability of continued kinetic operations affecting transport routes, energy facilities, and urban centers. Aviation assets at risk from missile/drone threats; personnel safety severely compromised in conflict zones.",
+      "immediate_forecast_24h": "Elevated risk of follow-up strikes, possible disruption to air corridors, road convoys, and port operations. Increased likelihood of collateral damage to logistics infrastructure.",
+      "strategic_outlook": "Prolonged conflict expected to degrade transport networks, increase insurance costs for cargo/aviation, and necessitate rerouting of supply chains. Possible escalation to critical infrastructure targeting.",
+      "operational_impact": "Immediate suspension of non-essential travel/transport in affected regions. Heightened security protocols for personnel, increased screening for cargo/aviation, and potential delays in regional logistics.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "862188d39c1153be6b3a3e3c03209ba7",
+    "timestamp": "2025-11-29T07:32:42.398544",
+    "original_title": "Exclusive: The first proof of the use of chemical weapons in Sudan’s civil war",
+    "link": "https://www.france24.com/en/tv-shows/the-observers/20251129-exclusive-first-proof-use-chemical-weapons-sudan-civil-war",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 9,
+      "location": "Sudan",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Confirmed use of chemical weapons (chlorine gas) by Sudanese army against RSF militia at strategic refinery location. Represents significant escalation in civil war with potential for WMD proliferation and regional destabilization. Direct threat to personnel safety, potential contamination of cargo/assets, and possible aviation disruptions if conflict spreads to key transport routes.",
+      "immediate_forecast_24h": "High probability of continued chemical weapon deployment, retaliatory attacks, and potential expansion of conflict zones. Increased risk to all assets and personnel in Sudan. Possible flight diversions/groundings near conflict areas.",
+      "strategic_outlook": "Prolonged conflict likely with increased WMD usage risk. Potential for international intervention, sanctions, and regional spillover. Critical infrastructure (refineries, ports, airports) at heightened risk of attack or contamination.",
+      "operational_impact": "Immediate suspension of all non-essential operations in Sudan. Enhanced CBRN protocols required for personnel. Cargo screening for contamination essential. Aviation routes may require rerouting. Evacuation planning recommended for high-risk zones.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "0ea36ff64a91d070e174bde8583d93bb",
+    "timestamp": "2025-11-29T07:33:12.310434",
+    "original_title": "How did chlorine imported to Sudan for water purification end up being used as a poison gas?",
+    "link": "https://www.france24.com/en/africa/20251129-sudan-chlorine-imports-investigation-water",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 7,
+      "location": "Sudan – near oil refinery",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "The FRANCE 24 Observers investigation shows chlorine gas barrels were imported by Ports Engineering Company, linked to the Sudanese army, under the pretext of potable water production. Chlorine is a dual-use chemical; when released as a gas, it is toxic and can cause severe injuries or fatalities in industrial or populated areas. The barrels' proximity to an oil refinery indicates a potential weaponization or intimidation objective, creating security challenges for critical infrastructure and hazardous-material handling facilities at ports and storage sites. The import path reveals potential vulnerabilities in chemical-supply chains within conflict environments, including possible smuggling, diversion, or misuse by state or non-state actors with military ties. Security focus should include verifying end-use declarations, enhancing screening and detection for chlorine shipments, tightening access controls at ports/refineries, and ensuring rapid medical and hazmat response readiness. Key indicators to monitor include shipping documentation, end-use approvals, dual-use licenses, unusual routing patterns, anomal stock movements at chemical suppliers with military affiliations.",
+      "immediate_forecast_24h": "Anticipate increased scrutiny of chlorine-related shipments and related hazardous-material movements around Sudanese ports and refineries. Possible seizures or detentions of suspicious chlorine consignments, with heightened advisories for refinery personnel. Communications and situational-monitoring around critical infrastructure are likely to intensify as investigators pursue the source and intent.",
+      "strategic_outlook": "Longer-term implications include reinforced focus on dual-use chemical supply chains in fragile or conflict-affected states, potential tightening of end-use verification, and greater international and regional coordination to deter misuse of chlorine gas. Operators should adopt stronger CBRN risk management, shipment traceability, and joint drills with authorities; expect export-control or sanctions actions impacting chemical-transport-related entities associated with the incident.",
+      "operational_impact": "Immediate operational risks include potential disruption to refinery and nearby water-treatment operations due to safety concerns around chlorine handling, plus elevated PPE, hazardous-material controls, and emergency response readiness. Assets at risk include storage facilities and transport assets; personnel risk increases in any attempted or accidental release. Plan should include lockdown or isolation of chlorine storage, revised access control, and clear incident escalation playbooks with local authorities.",
+      "proximity_alert": null
+    }
   }
 ]
