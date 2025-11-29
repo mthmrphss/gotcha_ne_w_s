@@ -1,43 +1,5 @@
 [
   {
-    "id": "38db385fa2f555edb2e4a5a86e84df20",
-    "timestamp": "2025-11-29T20:38:29.949591",
-    "original_title": "Man arrested after vehicle pursuit ends in crash; drugs and gun seized - WAFB",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRndlUE5TY2EyY2JGVEJjbC1YdmtxUC0yVDZQV2dRaTBGN3VCQ0FuMEhuSHZRS2tuRnlUQkhud0xzV0QyTXRmRlQ1LTZ6RjdXcFgwYVgtUDhnd01ocGZyck5YcEt1MW51NURGLTNEUVlGUWNyYl9qTGFxSVNFaDJucktsdG00VUVxa2h1bF9nX3dBeFEyMHdwZjRyWQ?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Crime/Theft",
-      "risk_score": 6,
-      "location": "Baton Rouge, Louisiana",
-      "latitude": 30.4515,
-      "longitude": -91.1871,
-      "detailed_analysis": "Vehicle pursuit involving drugs and firearms seizure indicates organized criminal activity with potential for violence. While not directly targeting assets or cargo, the presence of weapons and narcotics suggests possible connections to smuggling operations or distribution networks that could intersect with logistics routes.",
-      "immediate_forecast_24h": "Increased law enforcement presence in area; possible additional arrests or related criminal activity. Low probability of direct impact on corporate assets unless located in immediate vicinity.",
-      "strategic_outlook": "Pattern of drug-related arrests in transportation corridors may indicate ongoing criminal networks operating in logistics channels. Potential for future encounters during cargo operations.",
-      "operational_impact": "Minimal direct operational disruption. Recommend heightened situational awareness for personnel operating in Baton Rouge area and review security protocols for high-risk cargo transport routes.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "c0e6fe83e19b179331f5c71a6141d82b",
-    "timestamp": "2025-11-29T20:38:42.671108",
-    "original_title": "Peru to declare a state of emergency as migrants leaving Chile trigger backlash",
-    "link": "https://www.reddit.com/r/worldnews/comments/1p9z3av/peru_to_declare_a_state_of_emergency_as_migrants/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Border/Migration",
-      "risk_score": 6,
-      "location": "Peru-Chile border region",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "Mass migration flow from Chile to Peru triggering government declaration of state of emergency. Backlash from local populations suggests potential for civil unrest, border disruptions, and strain on transportation infrastructure. While not directly targeting assets, the situation creates operational vulnerabilities for cargo movement and personnel safety in border regions.",
-      "immediate_forecast_24h": "Increased border security measures, possible road closures or checkpoints disrupting logistics routes. Potential for protests or clashes between migrants and local populations affecting transport corridors.",
-      "strategic_outlook": "Sustained migration pressure likely to maintain elevated risk levels for weeks. Possible expansion of emergency measures could further impact cross-border cargo movement and require rerouting of supply chains.",
-      "operational_impact": "Delays in cargo transit through border regions, increased screening requirements for personnel movement, potential for opportunistic crime targeting stranded migrants or logistics assets. Aviation operations likely unaffected unless protests spread to airport areas.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "0bf346df4dd17f1814086846aae5ef90",
     "timestamp": "2025-11-29T21:32:07.051121",
     "original_title": "easyJet flight to Liverpool makes emergency landing in France - facebook.com",
@@ -92,6 +54,44 @@
       "strategic_outlook": "Prolonged airspace tensions likely, potentially expanding to maritime restrictions. Possible escalation to broader regional conflict if incidents occur. May impact regional aviation routes and fuel supply chains.",
       "operational_impact": "Immediate flight diversions required for all Venezuela-bound traffic. Increased insurance premiums for regional aviation operations. Cargo shipments may experience significant delays. Personnel in Venezuela face elevated risk of detention or restricted movement.",
       "proximity_alert": null
+    }
+  },
+  {
+    "id": "f62f135458c30187935457239a32ae19",
+    "timestamp": "2025-11-29T22:39:17.548426",
+    "original_title": "Ukraine hits two Russian 'shadow fleet' oil tankers with naval drones",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pa1mqu/ukraine_hits_two_russian_shadow_fleet_oil_tankers/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Black Sea",
+      "latitude": 44.0,
+      "longitude": 35.0,
+      "detailed_analysis": "Ukrainian naval drone strike targeting Russian 'shadow fleet' oil tankers represents escalation in maritime conflict tactics. Attack demonstrates capability to target commercial maritime assets in contested waters, increasing risk to all vessel traffic in Black Sea region. Use of unmanned systems indicates evolving asymmetric warfare methods with potential for replication.",
+      "immediate_forecast_24h": "Heightened maritime alert level in Black Sea. Possible Russian retaliatory strikes against Ukrainian port infrastructure or commercial shipping. Increased naval activity and potential for miscalculation involving third-party vessels. Recommend rerouting sensitive cargo and implementing enhanced maritime security protocols.",
+      "strategic_outlook": "Persistent targeting of maritime infrastructure likely to continue, potentially expanding to other commercial vessels. Risk of collateral damage to international shipping. Possible insurance premium increases for Black Sea routes. May trigger broader naval escalation or mining operations.",
+      "operational_impact": "Immediate suspension of high-value cargo shipments through northwestern Black Sea. Enhanced screening for all vessels departing Black Sea ports. Increased monitoring of AIS spoofing and unusual maritime activity. Recommend temporary elevation to MARSEC Level 2 for regional operations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "4a5c651d423490033c0804b4a658952c",
+    "timestamp": "2025-11-29T22:39:25.320384",
+    "original_title": "Tens of thousands march across Europe in show of support for Palestinians",
+    "link": "https://www.france24.com/en/france/20251129-tens-of-thousands-march-across-europe-in-show-of-support-for-palestinians-in-gaza",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Paris, France",
+      "latitude": 48.8566,
+      "longitude": 2.3522,
+      "detailed_analysis": "Large-scale protest in Paris supporting Palestinians, with accusations against Israel regarding ceasefire violations and aid restrictions. While primarily a political demonstration, such gatherings can escalate into localized violence, property damage, or disruptions to public transport and key infrastructure. No direct threats to aviation, cargo, or personnel identified in the report, but mass gatherings increase general security risks.",
+      "immediate_forecast_24h": "Potential for continued protests or spontaneous gatherings in major European cities. Increased police presence likely. Low probability of significant violence, but isolated clashes or traffic disruptions possible near protest sites.",
+      "strategic_outlook": "Ongoing geopolitical tensions may fuel further demonstrations across Europe. If protests intensify or spread, they could indirectly affect logistics, supply chains, or personnel movement in urban centers. No indication of organized targeting of assets or aviation at this time.",
+      "operational_impact": "Minimal direct impact on cargo, aviation, or personnel operations. Advise monitoring protest locations for route disruptions. No elevated threat to specific assets, but situational awareness recommended for staff in affected areas.",
+      "proximity_alert": "🚨 YAKIN TEHDİT: Paris Charles de Gaulle Airport (2 km)"
     }
   }
 ]
