@@ -55,5 +55,43 @@
       "operational_impact": "Immediate passenger data protection concerns, potential flight disruption if systems are compromised, reputational damage to Iberia, and possible regulatory fines under GDPR. May require temporary suspension of affected digital services.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "49a717ae2eba1994c9e80f1933b12434",
+    "timestamp": "2025-11-29T19:27:11.553364",
+    "original_title": "Russian attack on Kyiv cuts power to half of city and leaves two dead - The Guardian",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ3liYnZzd2U5dWtNYVpsRTYyTlBLSk5XOUlCUXE3cVB4TDhuYlp3LV9XUW9ROC1kbUw5TEgwMUo0ZHF6Z1B4b0VId2gybHliLXBGYjRXZFItMVhQcnVpVDQ0TWlmNkxMZDdFamhnRHhiS1MyTHNpLVdUbXk4Rjl5NUttckdmdDVyaGhXSFcwd0lfbVBheWVuUmpBdVlTM1J3NFFTZw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Kyiv, Ukraine",
+      "latitude": 50.4501,
+      "longitude": 30.5234,
+      "detailed_analysis": "Russian military attack on Kyiv's infrastructure resulted in power disruption affecting 50% of the city and two fatalities. This represents a direct kinetic threat to personnel and critical infrastructure in the area. The attack demonstrates continued capability and willingness to target urban centers with significant collateral damage potential.",
+      "immediate_forecast_24h": "High probability of follow-up attacks targeting energy infrastructure. Possible retaliatory strikes. Increased air raid alerts expected. Emergency services will be operating at maximum capacity with potential delays in response times.",
+      "strategic_outlook": "Sustained targeting of Ukrainian infrastructure likely to continue. Critical infrastructure remains vulnerable to precision strikes. Expect increased military activity around Kyiv with potential for escalation. Personnel in the region face elevated risk of injury or death from direct attacks and infrastructure collapse.",
+      "operational_impact": "Power disruptions will affect all operations in Kyiv region. Critical systems may be offline. Evacuation routes potentially compromised. Personnel movement restricted due to security concerns. Cargo operations severely impacted by power loss and security situation. Aviation operations at risk from potential airspace closures and anti-aircraft activity.",
+      "proximity_alert": "🚨 YAKIN TEHDİT: Boryspil International Airport (28 km)"
+    }
+  },
+  {
+    "id": "500dee1f72cccab7953b02210a0e36f2",
+    "timestamp": "2025-11-29T19:27:30.302433",
+    "original_title": "Air France Flight AF718 From Paris to Dakar Makes Emergency Return After Squawking 7700, Shocking Passengers in France, Senegal, USA, and UK! - Travel And Tour World",
+    "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNY1ZLS2RsZmxacGFSTGpEYnViZ3cwNmRPLUdzM3Y5TnpoR3JkQzVVVVZLb3VkRUdnbkRxRW42WjlNZTJNdlZqRGQxMVNRRmluNlQ4WlVlS1pSR096TGp0aFRIZWVWOHFmeE42N3dTTElZM0RTeW1ocG1XcEVPMWZ3cjk1ZDdMaVBZZm91NHdEV1k4RWNjbGpvTnJzQW56cXpVNktSTGpOQW9QNG1Cc0RlekVDREUtQmdFQ2ZRZ0puSHJkNG8yYzVKOWw0N2ljT0gzc0E4eUt3dTFfVFBzTlEzNFdUSkxSSXQ3UlBqVExzRUtJZVpHSTh4dXI3d2ZFX2dCRmVYbG1VVVpmb2QtYTRJbDhwZw?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Paris, France",
+      "latitude": 48.8566,
+      "longitude": 2.3522,
+      "detailed_analysis": "Air France Flight AF718 squawked emergency code 7700 and returned to Paris, indicating an in-flight emergency. While the specific cause is not detailed in the headline, 7700 typically signals technical issues, medical emergencies, or other critical situations requiring priority handling. The international passenger composition (France, Senegal, USA, UK) suggests potential for cascading operational disruptions and reputational impact.",
+      "immediate_forecast_24h": "Increased scrutiny on Air France operations, potential delays for connecting flights, and possible secondary security screening for affected passengers and baggage. Enhanced monitoring of similar routes and aircraft types recommended.",
+      "strategic_outlook": "Potential for temporary route adjustments, increased maintenance checks on fleet, and revised emergency protocols. May trigger regulatory review if mechanical or security lapses are identified. Unlikely to indicate systemic threat but warrants vigilance.",
+      "operational_impact": "Flight cancellations/delays, resource allocation for passenger rebooking, increased coordination with aviation authorities. Secondary screening may be required for cargo and baggage from affected flight. No immediate indication of malicious intent but standard security protocols activated.",
+      "proximity_alert": "🚨 YAKIN TEHDİT: Paris Charles de Gaulle Airport (2 km)"
+    }
   }
 ]
