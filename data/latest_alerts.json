@@ -1,77 +1,39 @@
 [
   {
-    "id": "4e8902a08471a81922e8c4a3097410b3",
-    "timestamp": "2025-11-30T18:51:12.157751",
-    "original_title": "Army Radio: UNIFIL leaks IDF information to Hezbollah",
-    "link": "https://www.reddit.com/r/worldnews/comments/1paporg/army_radio_unifil_leaks_idf_information_to/",
+    "id": "88d75c73a7643f723b8fab81f35073b6",
+    "timestamp": "2025-11-30T20:39:38.651063",
+    "original_title": "Lawmakers voice support for congressional reviews of Trump’s military strikes on boats - The Baltimore Banner",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRGx0ekJPSklsVVlFYUZZOE9xUmhxTlFmb1dsWTdEQ0paeTZwRVVXVGhjcWZIVmdLWkxKM1dsUFlkZ2sxQUR5NDY3S3pwby12dUZtWjJHcFR5UnBNN2QyU1pTX011bGFfZjJEQVo0MFkyN01uR3diS0ZHY3JPbkt0ZFhXZHViYXp1WFdIam9KaDdpMU8yTGs1SVUtYldRdnN6Q3preWp0WWJINWxJdnRJYWVEQ2UyaktuTDhrU0pySzNHX0FKTzZDcmxmUQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Washington D.C.",
+      "latitude": 38.9072,
+      "longitude": -77.0369,
+      "detailed_analysis": "News article discusses congressional reviews of past military strikes on boats during Trump administration. No active or imminent threats to assets, cargo, aviation, or personnel. Event is political/oversight discussion rather than operational security incident. No specific geographic locations of strikes mentioned in available context.",
+      "immediate_forecast_24h": "No immediate physical security threats expected. Potential for increased political discourse and congressional oversight activities regarding military authorization procedures.",
+      "strategic_outlook": "Possible long-term implications for military engagement authorization processes, but no direct impact on current security operations. May lead to revised protocols for future military actions involving maritime assets.",
+      "operational_impact": "Minimal operational impact. SOC should monitor for any related developments but no immediate action required. Maintain standard vigilance levels for maritime and military asset security.",
+      "proximity_alert": "🚨 YAKIN TEHDİT: Washington Dulles International Airport (1 km)"
+    }
+  },
+  {
+    "id": "720fc185cbfa7f5027607614dad4bbda",
+    "timestamp": "2025-11-30T20:39:48.436626",
+    "original_title": "Kazakhstan Tells Ukraine To Stop Attacking Terminal After Oil Exports Halted",
+    "link": "https://www.reddit.com/r/worldnews/comments/1parpdk/kazakhstan_tells_ukraine_to_stop_attacking/",
     "source_name": "Reddit r/WorldNews",
     "ai_analysis": {
       "category": "Conflict",
       "risk_score": 8,
-      "location": "Southern Lebanon",
-      "latitude": 33.2667,
-      "longitude": 35.2,
-      "detailed_analysis": "Report alleges UNIFIL (UN Interim Force in Lebanon) personnel leaked IDF operational information to Hezbollah, potentially compromising Israeli military operations and intelligence. If verified, this represents a significant breach of trust in international peacekeeping operations and could directly endanger IDF personnel. The Lebanon-Israel border region remains highly volatile with ongoing tensions.",
-      "immediate_forecast_24h": "Increased alert level recommended for IDF operations near Lebanese border. Potential for retaliatory actions or heightened tensions. Possible diplomatic fallout between Israel and UN authorities.",
-      "strategic_outlook": "Long-term degradation of trust in UN peacekeeping missions in conflict zones. Possible restructuring of intelligence sharing protocols. Potential for increased covert operations and counter-intelligence measures by involved parties.",
-      "operational_impact": "Immediate review required of all information sharing with UNIFIL. Enhanced operational security measures for border operations. Possible temporary suspension of coordination with UN peacekeeping forces until investigation completed.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "0596e8cdfdb8695ca85d906f26917443",
-    "timestamp": "2025-11-30T18:51:18.981650",
-    "original_title": "Thousands of Spaniards take part in antigovernment protests",
-    "link": "https://www.reddit.com/r/worldnews/comments/1paoj8t/thousands_of_spaniards_take_part_in/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Civil Unrest",
-      "risk_score": 4,
-      "location": "Spain (multiple cities)",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "Large-scale anti-government protests involving thousands of participants across Spain. While primarily political in nature, such gatherings can escalate into violence, property damage, or disruptions to transportation networks. No direct threats to aviation, cargo, or personnel identified in initial report, but mass gatherings inherently create security challenges.",
-      "immediate_forecast_24h": "Potential for road closures, public transport disruptions, and increased police/military presence in urban centers. Low probability of direct attacks on assets, but possible collateral damage if protests turn violent.",
-      "strategic_outlook": "Continued political tensions may lead to sustained protest activity. Monitor for signs of escalation, targeting of government/logistics infrastructure, or opportunistic criminal activity during disruptions.",
-      "operational_impact": "Increased vigilance recommended for personnel and assets in Spanish urban areas. Possible delays in ground transportation and last-mile logistics. No immediate aviation or cargo-specific threats detected.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "eade3e7be5cf43fdf49db99914e2abf0",
-    "timestamp": "2025-11-30T18:51:27.914386",
-    "original_title": "Airbus Emergency Work For Airbus A320 Aircraft Was Actually a Software Rollback",
-    "link": "https://www.paddleyourownkanoo.com/2025/11/30/airbus-emergency-work-for-airbus-a320-aircraft-was-actually-a-software-rollback/",
-    "source_name": "Paddle Your Own Kanoo",
-    "ai_analysis": {
-      "category": "Aviation",
-      "risk_score": 7,
-      "location": "Global",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "Airbus issued an urgent safety alert requiring emergency work on A320 family aircraft, indicating a critical software issue that could affect airworthiness. The mention of 'mass worldwide flight disruption' and thousands of aircraft being taken out of service suggests a significant operational threat. While resolved via software rollback, the initial emergency nature indicates potential safety risks to aviation assets.",
-      "immediate_forecast_24h": "Potential for continued flight disruptions as airlines implement the software rollback. Increased maintenance activity and possible delays as aircraft are temporarily grounded for updates.",
-      "strategic_outlook": "This event highlights vulnerabilities in aviation software systems. May lead to enhanced scrutiny of software update procedures and potential regulatory reviews to prevent similar incidents. Could impact Airbus's reputation and customer confidence temporarily.",
-      "operational_impact": "Short-term grounding of A320 fleet for software maintenance, possible flight cancellations or delays. Increased workload for maintenance crews and potential financial impact on airlines due to operational disruptions.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "a7b6e0eba13f9a0f5597e7bd0232291e",
-    "timestamp": "2025-11-30T19:27:28.572956",
-    "original_title": "Oil terminal in Russia's Novorossiysk halts operations after sea drone attack",
-    "link": "https://www.reddit.com/r/worldnews/comments/1paqcef/oil_terminal_in_russias_novorossiysk_halts/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 8,
-      "location": "Novorossiysk, Russia",
-      "latitude": 44.7239,
-      "longitude": 37.768,
-      "detailed_analysis": "Sea drone attack on critical oil terminal infrastructure indicates asymmetric warfare tactics targeting energy export capabilities. Novorossiysk is Russia's largest Black Sea oil port, handling significant crude exports. Attack methodology suggests possible state-sponsored or sophisticated non-state actor involvement with maritime drone capabilities.",
-      "immediate_forecast_24h": "High probability of continued port operations suspension, increased Russian naval patrols and anti-drone measures in Black Sea waters, potential retaliatory actions or escalation in regional tensions",
-      "strategic_outlook": "Persistent threat to maritime infrastructure in Black Sea region, likely expansion of similar asymmetric attacks against energy and logistics targets, increased insurance premiums for vessels operating in area",
-      "operational_impact": "Immediate disruption to oil shipments and tanker schedules, rerouting of energy cargoes, enhanced security screening for vessels in/out of Novorossiysk, potential supply chain delays for Black Sea energy exports",
+      "location": "Black Sea / Novorossiysk",
+      "latitude": 44.7,
+      "longitude": 37.8,
+      "detailed_analysis": "Ukraine's reported attacks on a Russian oil terminal in Novorossiysk, impacting Kazakh oil exports, indicate an escalation of conflict-related targeting of energy infrastructure. This disrupts critical supply chains, increases regional volatility, and risks collateral damage to international cargo and maritime assets.",
+      "immediate_forecast_24h": "Heightened maritime and terminal security; possible retaliatory measures or further strikes; shipping delays and rerouting likely.",
+      "strategic_outlook": "Prolonged disruption to energy exports; increased militarization of Black Sea shipping lanes; potential for broader economic and geopolitical friction involving neutral parties like Kazakhstan.",
+      "operational_impact": "Avoid Black Sea routes near Novorossiysk; enhance vessel tracking and threat monitoring; prepare for supply chain contingencies and heightened insurance premiums.",
       "proximity_alert": null
     }
   }
