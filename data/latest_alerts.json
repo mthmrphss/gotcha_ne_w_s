@@ -36,5 +36,62 @@
       "operational_impact": "Avoid Black Sea routes near Novorossiysk; enhance vessel tracking and threat monitoring; prepare for supply chain contingencies and heightened insurance premiums.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "da243668a109dce7f73ebe6ff13f5119",
+    "timestamp": "2025-11-30T21:32:19.236443",
+    "original_title": "Suspect in National Guard attack struggled with ‘dark isolation’ as community raised concerns - Florida Politics",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPd05lZFJvZFoycThlTEZYM0tBdzJRUVBlR0ZkX1dLa0UtZERUNzUtZUdoNzZYNUUybVFQWFkzeXBvQ3EwcVVkelBERzJocU5UNFJOQm1saW9ZaUw4MEd2eVVrSXJBODJwX2NWdHR3WnFtT1VVSERlODVTN3pkd1BPSUFLS2ZZVk1uY0prNXJqeHFVQUF4R3hCT2ZQVjd0REZUWEdkS1p5NzV3dGZVeEJLNEpLb055NDNkVTZpSnJmbUxlQ0xnQ3VkMnYyRmluQ2ZRTnc?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 7,
+      "location": "Florida",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Attack on National Guard personnel indicates targeted violence against military assets, suggesting potential ideological or personal grievance motives. Community concerns about suspect's isolation and mental state may point to lone actor radicalization or instability, increasing unpredictability of follow-on threats.",
+      "immediate_forecast_24h": "Elevated risk of copycat incidents or retaliatory actions against military/security personnel; possible increased vigilance required at Guard facilities and public events involving uniformed personnel.",
+      "strategic_outlook": "Potential for sustained targeting of military and government assets if ideological narratives gain traction; may necessitate revised force protection protocols and community engagement strategies to identify at-risk individuals.",
+      "operational_impact": "Increased security posture for military installations and personnel; possible briefings for personnel on situational awareness and reporting concerning behavior.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "25f75ab956693135b06a15ca859e597e",
+    "timestamp": "2025-11-30T21:32:29.669520",
+    "original_title": "‘Imperial Israel’ in the New Middle East",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1patvfo/imperial_israel_in_the_new_middle_east/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Lebanon-Israel Border Region",
+      "latitude": 33.5,
+      "longitude": 35.5,
+      "detailed_analysis": "Article describes escalating Israeli military operations across Lebanon, including targeted assassinations of Hezbollah officials via airstrikes and drone attacks. The cease-fire is described as 'fraying fast' with regular strikes occurring despite nominal peace. Context includes cross-border tensions, civilian casualties, and potential for major escalation. No direct threats to cargo/aviation mentioned, but regional instability creates collateral risk environment.",
+      "immediate_forecast_24h": "High probability of continued cross-border strikes targeting Hezbollah operatives. Possible retaliatory attacks. Increased drone activity and aerial surveillance expected in border regions.",
+      "strategic_outlook": "Sustained low-intensity conflict likely to continue with periodic escalations. Diplomatic solutions appear stalled. Regional instability may spread to affect commercial aviation routes and shipping in Eastern Mediterranean if conflict expands.",
+      "operational_impact": "Elevated risk to personnel and assets in southern Lebanon/northern Israel. Possible flight diversions or airspace restrictions. Increased vigilance recommended for all regional operations. Cargo shipments may face delays due to security operations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "1b64d1e0b9f0bcbaebf43d28ef36ad13",
+    "timestamp": "2025-11-30T21:32:37.507310",
+    "original_title": "Israel’s IDF Bans Android Phones—iPhones Now ‘Mandatory",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pau0ij/israels_idf_bans_android_phonesiphones_now/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 7,
+      "location": "Israel",
+      "latitude": 31.0461,
+      "longitude": 34.8516,
+      "detailed_analysis": "IDF's mandatory shift from Android to iOS devices represents a significant cybersecurity hardening measure likely driven by threat intelligence indicating Android's vulnerability to targeted attacks. This suggests elevated concerns about state-sponsored or sophisticated threat actors exploiting Android's fragmented security patch ecosystem, custom malware, or supply chain compromises. The move indicates perceived iOS advantages in centralized update deployment, sandboxing, or hardware-level security features.",
+      "immediate_forecast_24h": "Increased phishing/social engineering attempts targeting IDF personnel during transition period; possible retaliatory cyber activity from threat actors; potential emergence of iOS-focused exploit kits.",
+      "strategic_outlook": "Long-term reduction in successful mobile device compromises against IDF personnel; possible cascading adoption by other government/military organizations; potential countermeasures by threat actors including iOS zero-day development or alternative attack vectors.",
+      "operational_impact": "Temporary operational disruption during device transition; reduced attack surface for mobile device exploitation; potential intelligence gathering advantages through standardized security monitoring; possible supply chain challenges for iPhone procurement/management.",
+      "proximity_alert": null
+    }
   }
 ]
