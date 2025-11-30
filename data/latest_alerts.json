@@ -1,21 +1,40 @@
 [
   {
-    "id": "a2e2015028bcd95086fe9d8ae0685691",
-    "timestamp": "2025-11-30T03:53:07.767297",
-    "original_title": "Two brothers killed in Israeli drone strike on Gaza",
-    "link": "https://www.reddit.com/r/worldnews/comments/1pa5vn6/two_brothers_killed_in_israeli_drone_strike_on/",
+    "id": "3b1294c18c8b3a96222febd2c736dad5",
+    "timestamp": "2025-11-30T05:41:51.338056",
+    "original_title": "Russian Tu-22M3 Bombers Armed With Supersonic Missiles Buzz NATO Airspace",
+    "link": "https://www.reddit.com/r/worldnews/comments/1paa5s2/russian_tu22m3_bombers_armed_with_supersonic/",
     "source_name": "Reddit r/WorldNews",
     "ai_analysis": {
       "category": "Conflict",
       "risk_score": 8,
-      "location": "Gaza",
-      "latitude": 31.5,
-      "longitude": 34.4667,
-      "detailed_analysis": "Israeli drone strike resulting in fatalities indicates active military operations in Gaza. While the event involves a drone (aviation element), the context is armed conflict rather than conventional aviation security threat. The strike demonstrates continued kinetic operations with potential for collateral damage and escalation.",
-      "immediate_forecast_24h": "Heightened risk of retaliatory attacks, possible rocket fire from Gaza toward Israel, increased drone activity, and potential for expanded military operations. Possible protests and civil disturbances in surrounding areas.",
-      "strategic_outlook": "Ongoing conflict likely to persist with periodic escalations. Drone warfare remains a primary tool in the region. Regional tensions may affect maritime and air routes near Gaza and Israel. Potential for conflict to spill into neighboring areas or affect international assets.",
-      "operational_impact": "Avoid non-essential travel to Gaza and surrounding conflict zones. Monitor airspace for drone activity and potential flight restrictions. Enhanced screening recommended for cargo originating from or transiting through conflict-affected areas. Personnel in region should maintain heightened situational awareness and follow shelter-in-place protocols during active hostilities.",
+      "location": "NATO Airspace (Baltic/Black Sea region)",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Russian Tu-22M3 strategic bombers armed with supersonic missiles conducted provocative flight operations near NATO airspace. This represents a deliberate escalation in aerial posturing, testing NATO response protocols and air defense readiness. The presence of supersonic missiles significantly increases the threat profile, as these weapons can penetrate conventional air defenses with minimal warning time.",
+      "immediate_forecast_24h": "High probability of increased NATO air patrols and heightened alert status. Potential for additional Russian aerial probing operations. Elevated risk of miscalculation or accidental engagement if protocols are breached.",
+      "strategic_outlook": "Continued pattern of Russian aerial provocations likely as part of broader geopolitical pressure campaign. May signal testing of NATO cohesion and response times. Could precede more aggressive posturing in the region.",
+      "operational_impact": "Requires immediate coordination with NATO air defense networks. Potential disruption to commercial aviation routes in affected airspace. Increased monitoring of Russian military air bases. Possible need for enhanced security protocols at allied military installations.",
       "proximity_alert": null
+    }
+  },
+  {
+    "id": "093c96245c0278a73b31090e67e73f73",
+    "timestamp": "2025-11-30T05:41:59.752388",
+    "original_title": "Gunmen storm party headquarters as military cements power in Guinea-Bissau",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pa9zz7/gunmen_storm_party_headquarters_as_military/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Bissau, Guinea-Bissau",
+      "latitude": 11.861324,
+      "longitude": -15.583056,
+      "detailed_analysis": "Military forces and gunmen targeting political party headquarters indicates escalating power consolidation through violent means. This suggests potential for broader civil unrest, targeting of opposition figures, and possible collateral damage to infrastructure. While not directly targeting assets/cargo/aviation, instability increases risk of opportunistic crime, supply chain disruptions, and potential airport/port interference if unrest spreads.",
+      "immediate_forecast_24h": "High probability of continued raids on political targets, possible protests, and military movement. Increased risk of roadblocks, random violence, and potential targeting of government/logistics infrastructure if opposition resists.",
+      "strategic_outlook": "Military consolidation likely to continue, potentially leading to prolonged instability. Could impact port operations in Bissau, increase piracy risk in surrounding waters, and create opportunities for cargo theft/illegal trafficking during chaos. Regional economic community may impose sanctions affecting trade flows.",
+      "operational_impact": "Avoid non-essential travel to Bissau. Heightened alert for personnel in region. Monitor port/airport operations for disruptions. Secure cargo shipments; expect delays. Possible increased insurance premiums for regional operations. Consider alternative routing for critical shipments.",
+      "proximity_alert": "🚨 YAKIN TEHDİT: Bissau Osvaldo Vieira Airport (0 km)"
     }
   }
 ]
