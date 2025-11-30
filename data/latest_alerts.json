@@ -1,43 +1,5 @@
 [
   {
-    "id": "7c7c032efbcce63fa38580323b5e2045",
-    "timestamp": "2025-11-30T13:20:09.731690",
-    "original_title": "Suspect in National Guard attack struggled with ‘dark isolation’ as community raised concerns - Politico",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObEVFME5HOUhMRDJRRHB0QjdXeEtnTF9uVVYyMGtEVndFODZ3TVpfSkJtbF9fNlROT1duUjl3bk5aMDZxWVB3c3RabHJ2U2NzTmxjdVdOTUZldzRfXzIxRi1CZms4MWF6MUt2dGx4UFlOS0t1eGVfVG9XMnRZbFFKc3I2ZUhkaDJVUkdGUzcxSURMbjhSNU5aNzRibl8wY0V1VndqTHdOMW0wT19yZlFBUloxQjBRRUk4VmMyOUhaWWoyRXRlTk02cHVxZDlBbnQxSXFpTHFpVWY?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Terrorism",
-      "risk_score": 7,
-      "location": "Unknown",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "Article describes an attack on National Guard personnel, indicating a targeted act of violence against military assets and personnel. The mention of the suspect's 'dark isolation' and community concerns suggests potential lone-actor terrorism or ideologically motivated violence, which may signal broader insider threats or copycat risks.",
-      "immediate_forecast_24h": "Increased vigilance recommended for military and government facilities; potential for heightened security alerts or retaliatory actions depending on motive and affiliations.",
-      "strategic_outlook": "Possible rise in lone-wolf attacks targeting security personnel; may necessitate review of access controls, mental health support protocols, and community engagement strategies to mitigate insider threats.",
-      "operational_impact": "Immediate operational impacts include possible increased patrols, enhanced access controls at military installations, and briefings for personnel on situational awareness. No direct impact on cargo or aviation noted, but secondary risks if tactics evolve.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "d972fd8dc84d0d48d0026fc2302a8681",
-    "timestamp": "2025-11-30T13:20:29.357087",
-    "original_title": "Kazakhstan warns Ukraine: stop attacks on Black Sea oil terminal after drone strike halts exports",
-    "link": "https://www.reddit.com/r/worldnews/comments/1pai0fo/kazakhstan_warns_ukraine_stop_attacks_on_black/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 8,
-      "location": "Black Sea, CPC oil terminal",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "Drone strike on CPC oil terminal by Ukraine has halted oil exports, prompting a direct warning from Kazakhstan. This indicates an escalation in regional conflict tactics, targeting critical energy infrastructure with potential for collateral damage to maritime and port operations.",
-      "immediate_forecast_24h": "Increased maritime and aerial surveillance expected; possible retaliatory measures or further strikes cannot be ruled out. Heightened alert for vessels or personnel near the terminal.",
-      "strategic_outlook": "Prolonged disruption to oil exports likely if tensions persist; may draw in international stakeholders or trigger broader regional instability affecting trade routes.",
-      "operational_impact": "Temporary suspension of cargo operations; rerouting of shipments may be necessary. Enhanced security protocols advised for assets and personnel in the Black Sea region.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "0cd5844548b31d237028f55d33150a25",
     "timestamp": "2025-11-30T13:46:12.017032",
     "original_title": "Suspect in National Guard attack struggled with ‘dark isolation’ as community raised concerns - WLOX",
@@ -53,6 +15,25 @@
       "immediate_forecast_24h": "Potential for copycat incidents or heightened tensions around military installations; increased vigilance recommended for personnel security and access control measures.",
       "strategic_outlook": "May indicate broader vulnerabilities in identifying and mitigating insider threats within military or secure environments; could prompt reviews of mental health support and reporting protocols.",
       "operational_impact": "Increased security posture for National Guard facilities and personnel; possible brief disruptions to military logistics if heightened alert levels affect movement or operations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "267c0085f025000798d0f73e2c1ae904",
+    "timestamp": "2025-11-30T14:37:21.060998",
+    "original_title": "Top South Korean e-commerce firm Coupang apologises over massive data breach",
+    "link": "https://www.reddit.com/r/worldnews/comments/1paizlb/top_south_korean_ecommerce_firm_coupang/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 7,
+      "location": "South Korea",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Massive data breach at Coupang, South Korea's largest e-commerce platform, compromising 33.7 million customer accounts. While not directly targeting physical assets, this represents significant cyber vulnerability in critical supply chain node. Potential for follow-on attacks leveraging stolen credentials against logistics networks, payment systems, or employee accounts. Supply chain disruption possible if systems taken offline for investigation.",
+      "immediate_forecast_24h": "Increased scrutiny on Coupang's digital infrastructure. Possible DDoS or follow-up attacks exploiting breach chaos. Potential for credential stuffing attacks against related logistics and aviation partners if password reuse is widespread.",
+      "strategic_outlook": "Long-term reputational damage to South Korean e-commerce and logistics sectors. Possible regulatory changes affecting cargo screening and data handling. Potential for copycat attacks against similar regional e-commerce platforms.",
+      "operational_impact": "Enhanced monitoring required for Coupang-related cargo and payment systems. Supply chain partners should enforce additional authentication measures. Personnel with Coupang accounts should be subject to credential reset protocols if accessing corporate systems.",
       "proximity_alert": null
     }
   }
