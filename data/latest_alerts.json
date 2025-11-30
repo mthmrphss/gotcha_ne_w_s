@@ -1,59 +1,78 @@
 [
   {
-    "id": "267c0085f025000798d0f73e2c1ae904",
-    "timestamp": "2025-11-30T14:37:21.060998",
-    "original_title": "Top South Korean e-commerce firm Coupang apologises over massive data breach",
-    "link": "https://www.reddit.com/r/worldnews/comments/1paizlb/top_south_korean_ecommerce_firm_coupang/",
-    "source_name": "Reddit r/WorldNews",
+    "id": "2ff771b2e15846daea234c2b33862944",
+    "timestamp": "2025-11-30T16:46:07.470854",
+    "original_title": "Is US President Donald Trump preparing to strike Venezuela? - Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbXpPVmhqZlhfLTRqUFprVVBaV0lnRWJESDQwUkt1TkZVYV83Vkc1WGY0YWRHNEt1a0dXS0NwZWU5eE5QTHZ3YVhSX1VydjZvUnhnR2wzWFNwUXdRbGxFQW1vdW1XbGtVNUJWZ0JGU0xMWm0weUNwRjE4eEVTMHk4dEVVLTVucDhhRm1TdXNENEhYMm1DRkVrTDhfVGhaSHRQYkHSAacBQVVfeXFMUG1JUldLRi1IMzZfTDJUb1NEUEgwclBzNTBHV0JxUVVWMTJIVUd2Vm5NbDc3d1FmYV9kOGd1WGlMZnd0bjh5aW55djA1QVU5bVJXemVpenEyaUNoQ3plWHg5X2lKcTBHc1hacGZNaTI1M1c4c01MX1ZvNmxLUTFnZ1pyWGVKTkhzbWpBU2Q5WEpzN0tWUC1LMk5VRVFnc1lpLVc1M2lnY1k?oc=5",
+    "source_name": "Google News (Breaking)",
     "ai_analysis": {
-      "category": "Cyber",
-      "risk_score": 7,
-      "location": "South Korea",
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Venezuela",
       "latitude": 0.0,
       "longitude": 0.0,
-      "detailed_analysis": "Massive data breach at Coupang, South Korea's largest e-commerce platform, compromising 33.7 million customer accounts. While not directly targeting physical assets, this represents significant cyber vulnerability in critical supply chain node. Potential for follow-on attacks leveraging stolen credentials against logistics networks, payment systems, or employee accounts. Supply chain disruption possible if systems taken offline for investigation.",
-      "immediate_forecast_24h": "Increased scrutiny on Coupang's digital infrastructure. Possible DDoS or follow-up attacks exploiting breach chaos. Potential for credential stuffing attacks against related logistics and aviation partners if password reuse is widespread.",
-      "strategic_outlook": "Long-term reputational damage to South Korean e-commerce and logistics sectors. Possible regulatory changes affecting cargo screening and data handling. Potential for copycat attacks against similar regional e-commerce platforms.",
-      "operational_impact": "Enhanced monitoring required for Coupang-related cargo and payment systems. Supply chain partners should enforce additional authentication measures. Personnel with Coupang accounts should be subject to credential reset protocols if accessing corporate systems.",
+      "detailed_analysis": "Article speculates on potential US military action against Venezuela under former President Trump. While unconfirmed, such rhetoric or actions could escalate regional instability, disrupt maritime and aviation routes, and threaten personnel safety in or near Venezuelan territory.",
+      "immediate_forecast_24h": "Increased vigilance for unusual military movements, heightened political rhetoric, or sudden changes in US-Venezuela diplomatic posture. No immediate kinetic action expected within 24h based on speculative reporting.",
+      "strategic_outlook": "Potential for prolonged regional destabilization, affecting cargo shipping lanes, aviation overflight permissions, and security for assets and personnel in the Caribbean and northern South America. May also influence migrant flows and criminal activity in the region.",
+      "operational_impact": "Monitor maritime and aviation advisories for Venezuela; review contingency plans for personnel evacuation or asset relocation; assess supply chain vulnerabilities for cargo transiting the region.",
       "proximity_alert": null
     }
   },
   {
-    "id": "3fc0e54a6cb74248f41190e5d3090ae4",
-    "timestamp": "2025-11-30T15:33:16.609454",
-    "original_title": "Daughter of former South African president resigns from parliament amid investigation into Russian military recruitment scheme",
-    "link": "https://www.reddit.com/r/worldnews/comments/1pak90c/daughter_of_former_south_african_president/",
+    "id": "5c15b4d5660604e601b3fbbae004b10c",
+    "timestamp": "2025-11-30T16:46:16.459475",
+    "original_title": "Philippines: Thousands protest corruption in flood projects",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pamp8o/philippines_thousands_protest_corruption_in_flood/",
     "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Crime/Theft",
-      "risk_score": 6,
-      "location": "South Africa",
-      "latitude": -30.5595,
-      "longitude": 22.9375,
-      "detailed_analysis": "High-profile resignation linked to investigation into Russian military recruitment scheme suggests potential state-level influence operations and illicit foreign recruitment activities. While not directly targeting assets or cargo, this indicates possible compromise of government personnel and raises concerns about foreign military operations using South African nationals. The political connections elevate the potential for broader systemic corruption affecting state security apparatus.",
-      "immediate_forecast_24h": "Increased scrutiny on South African-Russian military ties; possible additional resignations or revelations; potential for diplomatic tensions between South Africa and Western nations supporting Ukraine.",
-      "strategic_outlook": "Long-term risk of South Africa becoming recruitment hub for foreign military operations; potential for increased foreign intelligence activity; possible sanctions implications if evidence of state complicity emerges.",
-      "operational_impact": "Enhanced vetting recommended for personnel with South African connections; increased monitoring of cargo/personnel movements between South Africa and conflict zones; potential for heightened protest activity at government facilities.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "0c20d08c7debef66d2143093ec734814",
-    "timestamp": "2025-11-30T15:33:23.611629",
-    "original_title": "Prominent Tunisian opposition figure arrested at protest in capital",
-    "link": "http://www.africanews.com/2025/11/30/prominent-tunisian-opposition-figure-arrested-at-protest-in-capital/",
-    "source_name": "Africa News",
     "ai_analysis": {
       "category": "Civil Unrest",
       "risk_score": 10,
-      "location": "Tunis",
-      "latitude": 36.8065,
-      "longitude": 10.1815,
-      "detailed_analysis": "Arrest of prominent opposition figure Chaima Issa following sentencing of opposition leaders indicates escalating political tensions. Protests in the capital could intensify, potentially disrupting government operations, transportation routes, and public services. Possible collateral risks to personnel and assets in proximity to protest areas.",
-      "immediate_forecast_24h": "Increased likelihood of protests spreading, possible roadblocks, and heightened security presence in central Tunis. Potential for clashes between protesters and security forces.",
-      "strategic_outlook": "Sustained political instability may lead to prolonged civil unrest, affecting business continuity and requiring enhanced security protocols for personnel movement and asset protection in urban centers.",
-      "operational_impact": "Possible delays in cargo movements through Tunis; increased risk to personnel in protest areas; recommend avoiding non-essential travel to government districts and monitoring local alerts.",
-      "proximity_alert": "🚨 YAKIN TEHDİT: Tunis–Carthage Airport (6 km)"
+      "location": "Manila, Philippines",
+      "latitude": 14.5995,
+      "longitude": 120.9842,
+      "detailed_analysis": "Large-scale protests against corruption in flood infrastructure projects indicate significant public discontent. While primarily a civil unrest event, potential exists for transportation disruptions, road blockages, and possible collateral damage to nearby assets if protests escalate. No direct threats to aviation, cargo, or personnel identified in initial reporting, but mass gatherings near government/logistics hubs could create secondary risks.",
+      "immediate_forecast_24h": "Possible continuation of protests with localized traffic disruptions in Manila. Low probability of violence but potential for spontaneous road closures affecting cargo routes and personnel movement near government districts.",
+      "strategic_outlook": "Sustained civil unrest could lead to increased security presence, potential strikes affecting port/aviation workers, and heightened scrutiny of government infrastructure projects. May impact supply chain reliability if protests target transportation corridors.",
+      "operational_impact": "Monitor protest locations for route planning avoidance. Ensure personnel are aware of demonstration areas. Low immediate impact on aviation or cargo security, but recommend increased situational awareness for assets in Metro Manila region.",
+      "proximity_alert": "🚨 YAKIN TEHDİT: Ninoy Aquino International Airport (10 km)"
+    }
+  },
+  {
+    "id": "318af974a5f7713d7c4b9c9033da12c6",
+    "timestamp": "2025-11-30T16:46:22.851111",
+    "original_title": "Gaza death toll crosses 70,000 as Israel continues strikes; at least 350 killed amid ceasefire",
+    "link": "https://www.reddit.com/r/worldnews/comments/1palv2c/gaza_death_toll_crosses_70000_as_israel_continues/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 9,
+      "location": "Gaza Strip",
+      "latitude": 31.5,
+      "longitude": 34.5,
+      "detailed_analysis": "Ongoing military strikes in Gaza with significant civilian impact (70,000+ casualties reported). Ceasefire violations indicate high volatility. Direct threat to personnel and assets in the region due to explosive ordnance, collateral damage, and potential for conflict spillover.",
+      "immediate_forecast_24h": "Continued airstrikes and ground operations likely. High probability of additional casualties and infrastructure damage. Possible escalation along border areas.",
+      "strategic_outlook": "Prolonged conflict expected with periodic ceasefire attempts. Regional instability may affect shipping lanes, air routes, and border security. Increased militant activity possible in surrounding areas.",
+      "operational_impact": "All personnel movements in Gaza and surrounding areas suspended. Aviation rerouting recommended near conflict zone. Cargo shipments through Mediterranean ports may experience delays. Enhanced security protocols required for all assets in region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "789c27948906601eae1d29f5df1855fe",
+    "timestamp": "2025-11-30T16:46:29.497258",
+    "original_title": "Chinese parts supplier takes stake in leading Russian drone maker - Tie-up marks new level of co-operation between Moscow and Beijing’s military industrial complexes",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pali08/chinese_parts_supplier_takes_stake_in_leading/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 6,
+      "location": "Russia/China",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Chinese parts supplier acquiring stake in a major Russian drone manufacturer indicates deepening military-industrial collaboration between the two nations. This could enhance Russia's drone capabilities, potentially increasing asymmetric threats in conflict zones. While not an immediate kinetic event, it signals a strategic shift with long-term implications for global security dynamics, particularly in areas where drone warfare is prevalent.",
+      "immediate_forecast_24h": "No direct threat to assets, cargo, aviation, or personnel within the next 24 hours. Monitoring for related supply chain disruptions or retaliatory actions is advised.",
+      "strategic_outlook": "Increased drone proliferation may lead to enhanced surveillance and strike capabilities for state and non-state actors. Potential for escalated drone-related incidents in conflict regions, supply chain dependencies, and dual-use technology risks.",
+      "operational_impact": "Heightened vigilance for drone-related activity near critical infrastructure. Possible future supply chain scrutiny for components originating from this partnership. No immediate operational adjustments required.",
+      "proximity_alert": null
     }
   }
 ]
