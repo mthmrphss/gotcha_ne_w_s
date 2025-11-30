@@ -55,5 +55,24 @@
       "operational_impact": "Short-term grounding of A320 fleet for software maintenance, possible flight cancellations or delays. Increased workload for maintenance crews and potential financial impact on airlines due to operational disruptions.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "a7b6e0eba13f9a0f5597e7bd0232291e",
+    "timestamp": "2025-11-30T19:27:28.572956",
+    "original_title": "Oil terminal in Russia's Novorossiysk halts operations after sea drone attack",
+    "link": "https://www.reddit.com/r/worldnews/comments/1paqcef/oil_terminal_in_russias_novorossiysk_halts/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Novorossiysk, Russia",
+      "latitude": 44.7239,
+      "longitude": 37.768,
+      "detailed_analysis": "Sea drone attack on critical oil terminal infrastructure indicates asymmetric warfare tactics targeting energy export capabilities. Novorossiysk is Russia's largest Black Sea oil port, handling significant crude exports. Attack methodology suggests possible state-sponsored or sophisticated non-state actor involvement with maritime drone capabilities.",
+      "immediate_forecast_24h": "High probability of continued port operations suspension, increased Russian naval patrols and anti-drone measures in Black Sea waters, potential retaliatory actions or escalation in regional tensions",
+      "strategic_outlook": "Persistent threat to maritime infrastructure in Black Sea region, likely expansion of similar asymmetric attacks against energy and logistics targets, increased insurance premiums for vessels operating in area",
+      "operational_impact": "Immediate disruption to oil shipments and tanker schedules, rerouting of energy cargoes, enhanced security screening for vessels in/out of Novorossiysk, potential supply chain delays for Black Sea energy exports",
+      "proximity_alert": null
+    }
   }
 ]
