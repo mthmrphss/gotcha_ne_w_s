@@ -1,24 +1,5 @@
 [
   {
-    "id": "fbbf20a9ff40d1b31c45429fb825e95c",
-    "timestamp": "2025-12-01T19:02:43.273114",
-    "original_title": "Trump’s Counterproductive Counter-Narcotics Campaign",
-    "link": "https://www.reddit.com/r/geopolitics/comments/1pbjl9f/trumps_counterproductive_counternarcotics_campaign/",
-    "source_name": "Reddit r/Geopolitics",
-    "ai_analysis": {
-      "category": "Crime/Theft",
-      "risk_score": 6,
-      "location": "Venezuela",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "Article discusses Trump administration's counter-narcotics campaign in Venezuela, likely involving interdiction efforts, which may increase risks of smuggling disruptions, cargo seizures, or retaliatory actions by traffickers affecting maritime/air transport routes.",
-      "immediate_forecast_24h": "Potential for increased surveillance or interdiction operations; possible brief disruptions to cargo shipments in/out of Venezuela or adjacent transit zones.",
-      "strategic_outlook": "Escalation in counternarcotics enforcement may lead to adaptive smuggling tactics, increased use of covert routes, or heightened corruption risks at ports and borders over the medium term.",
-      "operational_impact": "Monitor cargo and vessel movements for unusual delays or inspections; reinforce due diligence on Venezuelan-linked shipments; assess potential for collateral impacts on personnel in high-risk zones.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "7e78932b6832fa440cabeea0facad4d7",
     "timestamp": "2025-12-01T19:46:43.112323",
     "original_title": "Israeli settlers attack and rob Italian and Canadian volunteers in West Bank - The Guardian",
@@ -34,6 +15,44 @@
       "immediate_forecast_24h": "Heightened risk of retaliatory actions or copycat incidents against international workers. Possible increased military/police presence. Potential for diplomatic tensions affecting movement permissions.",
       "strategic_outlook": "Ongoing settler violence likely to continue creating operational challenges. May lead to increased security requirements for foreign personnel and potential travel advisories affecting logistics and personnel movements.",
       "operational_impact": "Requires enhanced security protocols for personnel in West Bank. May necessitate armed escorts, route diversification, and increased coordination with local security forces. Could impact supply chain routes and volunteer deployments.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "418dfceccffb0a01605b02758a7be82c",
+    "timestamp": "2025-12-01T20:35:47.419727",
+    "original_title": "Cameroon’s opposition leader Anicet Ekane dies in military detention - Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOXzZQSlZkcjJSWm9tZ245cTZpQTdsT0tUOEU1VTdZSVo5ZnZmUDhrTll6c1pNYmNJVl9BRzlxVXhWc0ZFVkNzYzc0RjNJQ09Td1FFQWkyWTNRS1U5Q3JlbG1XMW1LLXU0NmoyUk90LUV0V2ZBUzBZVXdwZnB5M2hkNi1SeW1OaFlINW5kbkV1RmxVY2dyQVdUQmZhVjlDXzZxeU4xaEpQSU54U1o50gGyAUFVX3lxTE96cmNlTVdFbnk3V0xLVUliZjk2ejY0ZHhTd056V2tDcDRtSzUtZVJ5ZVhLUUQxVFlkT0NZeEhYSlg4RHZESFlydlplRUplVkNmX2ZZLXBYM040TWktbWQ4c1RZTVItd1pGejNia3QxZXJFZVRiRW5QZXhmTmZqM3ZMV2VOb1NfNVYtU2Zyc3FmdWR5WTNQWnp2N1NBMUJ5OUg0X3p6LXYwUFBqSTRvNlg5ckE?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 7,
+      "location": "Cameroon",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Death of opposition leader Anicet Ekane in military detention may trigger protests, political instability, and potential violence, increasing risks to personnel and assets in the region due to heightened civil unrest.",
+      "immediate_forecast_24h": "Possible demonstrations, roadblocks, and increased military/police presence, especially in urban centers; potential for localized disruptions to transport and operations.",
+      "strategic_outlook": "Medium-term escalation of political tensions, possible international scrutiny, and sustained civil disobedience affecting stability and security posture in Cameroon.",
+      "operational_impact": "Increased threat to personnel safety; possible delays or disruptions to cargo and logistics due to protests; heightened need for security assessments and contingency planning.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "e606e13224cb19d93325973bae10edbd",
+    "timestamp": "2025-12-01T20:36:01.166552",
+    "original_title": "Police identify 2 motorcyclists killed in shooting, crash near Interstate 17 - 12News",
+    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPVlA5TU16S1NKMFFidEdDTTdVQUNpU1I4N1RuRXg1b3FOQXdvTVcwdVkyMV82XzluSFRKQlNjWXRaM0R3SE1TVnRBSEFhdzVsUVZFcmhQeE93TEMwSHdaaWVuVVNWbFQ0NTM2NDBoQlZWMjVVaWdacEVTSHVHR215VzRpanpoMDBRMU10aEtCbzhxNWgzNFNjSXRFS21tNkhoeVdDYzVvQmFCbGNtdmwtZlQ4bGlFdmNGS2xJV1h4WEdNa0tKR05jcG5EVXJLcWpVcVhxY20ySmo5Q2lmUllPYTZhMGpnSzhFOTVLdGNFTk5OLU5hZm1EOUQtUmpKMy1Xb1E?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Crime/Theft",
+      "risk_score": 6,
+      "location": "Phoenix, Arizona",
+      "latitude": 33.4484,
+      "longitude": -112.074,
+      "detailed_analysis": "Incident involves a shooting and subsequent crash resulting in two motorcyclist fatalities near Interstate 17. While the crash itself is a road incident (low risk per guidelines), the shooting component suggests potential criminal activity such as targeted violence, gang-related conflict, or armed confrontation, which may pose indirect risks to personnel and cargo transport in the area if such activity escalates or becomes recurrent.",
+      "immediate_forecast_24h": "Increased police presence and possible traffic disruptions expected in the vicinity. No immediate indication of broader threat to assets or cargo, but heightened vigilance advised for personnel transiting the area due to potential for unresolved criminal elements.",
+      "strategic_outlook": "If this incident is part of a pattern of armed violence along transport corridors, it could signal deteriorating security conditions affecting logistics and personnel safety. Monitoring for similar events and law enforcement advisories is recommended.",
+      "operational_impact": "Minimal direct impact on aviation or cargo operations, but personnel traveling through or near the area should exercise caution. No changes to asset protocols required at this event is isolated.",
       "proximity_alert": null
     }
   }
