@@ -1,24 +1,5 @@
 [
   {
-    "id": "85018d3f391e27f7310af71d18e56252",
-    "timestamp": "2025-12-01T17:53:09.122842",
-    "original_title": "Canadian activist injured in settler attack in the West Bank, Ottawa confirms",
-    "link": "https://www.reddit.com/r/worldnews/comments/1pbjdny/canadian_activist_injured_in_settler_attack_in/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 6,
-      "location": "West Bank",
-      "latitude": 31.9522,
-      "longitude": 35.2332,
-      "detailed_analysis": "Canadian national targeted in politically motivated settler violence. Incident demonstrates elevated risk to foreign activists and personnel in contested territories. Pattern suggests potential retaliation against international observers/interventionists.",
-      "immediate_forecast_24h": "Increased vigilance required for Canadian/American/EU nationals in region. Possible protests at Israeli/Canadian diplomatic missions. Secondary attacks possible against perceived foreign interference.",
-      "strategic_outlook": "Sustained elevated risk for Western personnel in Israel/Palestine conflict zones. May trigger increased diplomatic tensions and travel advisories. Potential for copycat targeting of international observers.",
-      "operational_impact": "Review security protocols for all personnel in West Bank/Jerusalem. Temporary suspension of non-essential travel to conflict areas. Coordinate with Global Affairs Canada for emergency protocols.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "fbbf20a9ff40d1b31c45429fb825e95c",
     "timestamp": "2025-12-01T19:02:43.273114",
     "original_title": "Trump’s Counterproductive Counter-Narcotics Campaign",
@@ -34,6 +15,25 @@
       "immediate_forecast_24h": "Potential for increased surveillance or interdiction operations; possible brief disruptions to cargo shipments in/out of Venezuela or adjacent transit zones.",
       "strategic_outlook": "Escalation in counternarcotics enforcement may lead to adaptive smuggling tactics, increased use of covert routes, or heightened corruption risks at ports and borders over the medium term.",
       "operational_impact": "Monitor cargo and vessel movements for unusual delays or inspections; reinforce due diligence on Venezuelan-linked shipments; assess potential for collateral impacts on personnel in high-risk zones.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "7e78932b6832fa440cabeea0facad4d7",
+    "timestamp": "2025-12-01T19:46:43.112323",
+    "original_title": "Israeli settlers attack and rob Italian and Canadian volunteers in West Bank - The Guardian",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNUx5b1BEV3RWNld2V3pWc2g1Y281cWdTVVJtS3JaczJkenpDUUsybmkxM1RmZkhrUXhULXZNMWN3WUlSVFIzLWRnR1AxVGQwYTFCa0FNSmJxUWpIZVZVU1o1TzJKakplR2t2NDdTRXlzYUc2dXVPUHZLUGZpek84NFFfd2dFR2cxUUlERlNycVl2MXJ6SGpGWXhWemtiamZONUJ2aDQ3bzRONnpaSTRoNFA0VUQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 6,
+      "location": "West Bank",
+      "latitude": 31.9522,
+      "longitude": 35.2332,
+      "detailed_analysis": "Attack by Israeli settlers against foreign volunteers represents targeted violence against international personnel. The robbery component indicates potential for opportunistic criminal activity alongside political/ideological motivations. Pattern suggests elevated risk to foreign nationals in contested territories.",
+      "immediate_forecast_24h": "Heightened risk of retaliatory actions or copycat incidents against international workers. Possible increased military/police presence. Potential for diplomatic tensions affecting movement permissions.",
+      "strategic_outlook": "Ongoing settler violence likely to continue creating operational challenges. May lead to increased security requirements for foreign personnel and potential travel advisories affecting logistics and personnel movements.",
+      "operational_impact": "Requires enhanced security protocols for personnel in West Bank. May necessitate armed escorts, route diversification, and increased coordination with local security forces. Could impact supply chain routes and volunteer deployments.",
       "proximity_alert": null
     }
   }
