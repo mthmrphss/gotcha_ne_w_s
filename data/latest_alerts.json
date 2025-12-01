@@ -1,24 +1,5 @@
 [
   {
-    "id": "6d66e7470d1ef2efed756b6b6b953c29",
-    "timestamp": "2025-12-01T08:59:21.462415",
-    "original_title": "Ukraine’s interceptor drone downs Russia’s jet-propelled Shahed UAV in historic first",
-    "link": "https://www.reddit.com/r/worldnews/comments/1pb7toy/ukraines_interceptor_drone_downs_russias/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Aviation",
-      "risk_score": 7,
-      "location": "Ukraine",
-      "latitude": 48.3794,
-      "longitude": 31.1656,
-      "detailed_analysis": "Ukrainian interceptor drone successfully engaged and downed a Russian Shahed jet-propelled UAV, marking the first confirmed air-to-air drone interception in this conflict. Event demonstrates evolving drone warfare capabilities and counter-UAS technological advancement. While this occurred in active conflict zone, the precedent increases likelihood of similar tactics being employed elsewhere, potentially affecting commercial aviation corridors if drone engagements spill beyond immediate battle space.",
-      "immediate_forecast_24h": "Increased drone activity and counter-drone operations expected in Ukrainian airspace. Possible retaliatory strikes or escalation in UAV deployment patterns. No immediate threat to international civilian aviation routes, but heightened alert recommended for regional air traffic.",
-      "strategic_outlook": "Accelerated development and deployment of counter-drone systems globally. Potential for similar interception technologies to be adopted by non-state actors. Increased risk of drone-on-drone engagements creating secondary debris hazards for civilian aviation in conflict zones.",
-      "operational_impact": "Enhanced drone detection and monitoring required for assets operating near conflict zones. Possible temporary airspace restrictions or altitude adjustments for cargo flights in region. Increased vigilance for unauthorized UAV activity near critical infrastructure globally.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "8bc28ece0c3249fa55172b0e8a23dd4d",
     "timestamp": "2025-12-01T09:52:49.651113",
     "original_title": "Iran’s Guards launch SCO counter-terror exercise in northwest - ایران اینترنشنال",
@@ -72,6 +53,63 @@
       "immediate_forecast_24h": "Increased scrutiny on runway conditions at affected airport and regional hubs; potential for delayed/canceled flights as operations resume; possible brief ripple effects on cargo/passenger logistics.",
       "strategic_outlook": "Seasonal weather patterns may continue to pose risks to aviation operations in northern regions; reinforces need for proactive de-icing protocols and contingency planning during peak travel periods.",
       "operational_impact": "Temporary airport closure disrupts passenger travel and cargo shipments; may require rerouting of assets and personnel; increased coordination between ground crews, airlines, and security for recovery operations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "d4bb70dcefb0c5e6f8fa0c9d891c020a",
+    "timestamp": "2025-12-01T10:52:10.762094",
+    "original_title": "Join BDS in disrupting Israel’s military supply chain now! - BDS Movement",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nU3ZiWU1JU3QxVC1INXpHUDE5U1NDcjRyUFh0SDctdjkxbmxtVUNXekQtQ0FMVzF0dEFpS2wxUjI2RWdHZ3NIOEdBZ21iNEVXOEFKZkU1VmRrRnVfQy1XMFlId0N5dw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 7,
+      "location": "Israel",
+      "latitude": 31.0461,
+      "longitude": 34.8516,
+      "detailed_analysis": "BDS Movement call for disruption of military supply chains indicates organized activist pressure targeting logistics infrastructure. While not violent terrorism, coordinated protests, blockades, or digital campaigns could impact cargo movement, port operations, and associated personnel. No direct aviation threat indicated, but secondary disruptions to air cargo possible if ground logistics are affected.",
+      "immediate_forecast_24h": "Increased protest activity near ports, warehouses, or transportation hubs; potential for minor delays in military-related cargo shipments; possible cyber activism targeting supply chain management systems.",
+      "strategic_outlook": "Sustained activist pressure likely to continue; potential for escalation to physical blockades or unauthorized access attempts at logistics facilities; may inspire copycat actions in other regions.",
+      "operational_impact": "Enhanced monitoring of supply chain nodes recommended; increased physical security at cargo facilities; possible need for contingency routing for sensitive shipments; personnel should remain alert to protest activity near work sites.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "ca14fb62e01b586bfe046018262a2cb3",
+    "timestamp": "2025-12-01T10:52:21.846605",
+    "original_title": "Operating AI in the Gray Zone: Drawing Clear Lines Before They Blur",
+    "link": "https://warontherocks.com/2025/12/operating-ai-in-the-gray-zone-drawing-clear-lines-before-they-blur/",
+    "source_name": "War on the Rocks",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 7,
+      "location": "Global",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Article discusses AI's role in gray zone operations, including perception shaping, market disruption, and potential weapon steering capabilities. While no specific incident is reported, the focus on AI's dual-use nature in military/security contexts suggests emerging cyber and information warfare threats that could indirectly impact assets through system manipulation, misinformation campaigns, or automated targeting systems.",
+      "immediate_forecast_24h": "No immediate physical threat to assets. Potential for increased monitoring of AI-related cyber activities and information operations targeting critical infrastructure or military systems.",
+      "strategic_outlook": "Long-term elevation in cyber warfare capabilities using AI, potentially leading to more sophisticated attacks on logistics networks, aviation systems, and personnel security through automated targeting or social engineering at scale.",
+      "operational_impact": "Increased need for AI threat detection capabilities in security systems. Potential requirement for enhanced monitoring of information operations that could affect personnel safety or asset security through manipulated intelligence or automated disinformation campaigns.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "7590627758fd32b809fa9a879b577c56",
+    "timestamp": "2025-12-01T10:52:34.358579",
+    "original_title": "US Congress investigates reported follow-up attack on Venezuelan ship",
+    "link": "https://www.france24.com/en/video/20251201-us-congress-investigates-reported-follow-up-attack-on-venezuelan-ship",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Caribbean Sea",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Reported military strike on Venezuelan vessel in Caribbean with allegations of targeting survivors. Event involves US-Venezuela tensions, potential violation of international norms, and disputed accounts between government officials. High potential for escalation and retaliatory actions.",
+      "immediate_forecast_24h": "Increased naval patrol activity in Caribbean, possible Venezuelan military response, heightened alert for US assets in region, potential for additional maritime incidents.",
+      "strategic_outlook": "Sustained deterioration in US-Venezuela relations, increased scrutiny of maritime traffic, potential for economic sanctions escalation, possible UN Security Council involvement. Regional partners may be forced to choose sides.",
+      "operational_impact": "Enhanced maritime surveillance required, review of vessel routing in Caribbean, increased vetting of Venezuelan-flagged vessels, potential for port access restrictions, heightened personnel security protocols for assets in region.",
       "proximity_alert": null
     }
   }
