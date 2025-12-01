@@ -17,5 +17,62 @@
       "operational_impact": "Enhanced drone detection and monitoring required for assets operating near conflict zones. Possible temporary airspace restrictions or altitude adjustments for cargo flights in region. Increased vigilance for unauthorized UAV activity near critical infrastructure globally.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "8bc28ece0c3249fa55172b0e8a23dd4d",
+    "timestamp": "2025-12-01T09:52:49.651113",
+    "original_title": "Iran’s Guards launch SCO counter-terror exercise in northwest - ایران اینترنشنال",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oTThzdG9CUVlpN0F3bFhyQ2NFVHZZSHZGTEUzTmRWbkpFRFFYNzZEWlRUVTZkcDFQel9tUVdTc0hNZEtkMTJEWW1pY0dGY0VJRXc?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 7,
+      "location": "Northwest Iran",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Iran's Islamic Revolutionary Guard Corps (IRGC) is conducting a counter-terrorism exercise under the Shanghai Cooperation Organization (SCO) framework. While officially defensive, such drills may signal heightened regional tensions, potential for misjudgment, or prelude to operations. Proximity to borders increases risk of cross-border incidents or misinterpretation by adversaries.",
+      "immediate_forecast_24h": "Increased military activity in northwest Iran; possible heightened alert levels for neighboring countries; low probability of direct spillover but elevated vigilance advised for assets/operations in the region.",
+      "strategic_outlook": "SCO counter-terror exercises often correlate with real-world operational readiness; may indicate Iran preparing for assertive counter-terror ops or signaling strength. Could escalate regional tensions if perceived as provocative.",
+      "operational_impact": "Potential for disrupted logistics/aviation near exercise zones; increased scrutiny on cargo/personnel movements; possible cyber decoy activity; advise monitoring COMINT and updating contingency plans for northwestern Iran operations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "37df9fe9723cca35988b0745e805f6a5",
+    "timestamp": "2025-12-01T09:53:06.800006",
+    "original_title": "Airbus Says Less Than 2% of A320 Airplanes Haven’t Yet Received Critical Software Safety Fix",
+    "link": "https://www.paddleyourownkanoo.com/2025/12/01/airbus-says-less-than-2-of-a320-airplanes-havent-yet-received-critical-software-safety-fix/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 3,
+      "location": "Global",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Airbus A320 family aircraft have a known software safety flaw requiring emergency patching. While 98% of affected aircraft have received the fix, approximately 120 aircraft (2% of 6,000) remain unpatched globally. This represents a reduced but persistent aviation safety vulnerability that could potentially lead to cockpit system malfunctions during flight operations.",
+      "immediate_forecast_24h": "Minimal immediate threat due to high compliance rate and awareness. Remaining unpatched aircraft likely undergoing scheduled maintenance or in regions with slower update cycles. No active exploitation detected.",
+      "strategic_outlook": "Airbus and airlines demonstrating effective rapid response capability. Residual risk will diminish as remaining aircraft receive patches. May indicate need for improved software update protocols for global fleet management.",
+      "operational_impact": "Potential for isolated flight disruptions if unpatched aircraft experience software-related issues. Airlines operating remaining unpatched aircraft should prioritize maintenance scheduling. No current impact on cargo or personnel beyond normal aviation safety protocols.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "0f466b8c38c155c2fa58a07e9abb8b50",
+    "timestamp": "2025-12-01T09:53:14.307161",
+    "original_title": "Delta plane slides off icy runway shutting major airport over Thanksgiving weekend",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/delta-runway-ice-iowa-airport-thanksgiving-b2875493.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 7,
+      "location": "Iowa",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Delta aircraft slid off icy runway, forcing temporary closure of a major airport hub during high-traffic holiday weekend. Incident likely weather-related (ice), but disruption to aviation operations and potential for cascading delays/backlogs raises moderate risk. No indication of malicious intent, but vulnerability of infrastructure to environmental factors is notable.",
+      "immediate_forecast_24h": "Increased scrutiny on runway conditions at affected airport and regional hubs; potential for delayed/canceled flights as operations resume; possible brief ripple effects on cargo/passenger logistics.",
+      "strategic_outlook": "Seasonal weather patterns may continue to pose risks to aviation operations in northern regions; reinforces need for proactive de-icing protocols and contingency planning during peak travel periods.",
+      "operational_impact": "Temporary airport closure disrupts passenger travel and cargo shipments; may require rerouting of assets and personnel; increased coordination between ground crews, airlines, and security for recovery operations.",
+      "proximity_alert": null
+    }
   }
 ]
