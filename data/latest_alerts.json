@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "id": "ff75991d19ebe02cb624328d2a88a619",
+    "timestamp": "2025-12-01T07:01:20.158002",
+    "original_title": "Offensive cyber power is spreading fast and changing global security - Help Net Security",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSzZmYkk5eXhJOVF2Q3JNaWdoaEpxTFZTUDEwZGJYQ2lfUTBVS3pKZ0JqQURSOWkzV3dFd2d3LWV6VElOQUNZV2RERE5jU3laQTd3S2Vrbmh5SzhTZ09jTkxYWDQ4b09xb3dxbEFSWkQ2VVBlNU4tcUc2UzZxNFlKbDFfMHF1bGVmMDFN?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 8,
+      "location": "Global",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Article discusses the rapid proliferation of offensive cyber capabilities among state and non-state actors, increasing the likelihood of sophisticated attacks on critical infrastructure, including aviation systems, cargo tracking networks, and personnel data. The trend suggests a shift in global security dynamics where cyber operations become a primary tool for disruption, espionage, and coercion.",
+      "immediate_forecast_24h": "No specific imminent threat indicated, but heightened alert warranted for unusual network activity, phishing campaigns targeting logistics or aviation sectors, and potential supply chain compromises.",
+      "strategic_outlook": "Long-term increase in cyber threats to transportation and logistics infrastructure; potential for disruptive attacks on cargo routing, flight systems, or personnel databases. Organizations must prioritize cyber hygiene, threat intelligence sharing, and resilience planning.",
+      "operational_impact": "Increased monitoring of network traffic and endpoint security; potential for delayed shipments, flight disruptions, or data breaches if defensive measures are insufficient. Recommend reviewing incident response plans and conducting staff awareness training.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "2c0be347b1a11265d12d19683106361b",
+    "timestamp": "2025-12-01T07:01:28.022817",
+    "original_title": "Kazakh Foreign Ministry Condemns New Attack on CPC Facility in Novorossiysk - The Astana Times",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQY21nN0x5SUpJdXo0X3dBR09nY0xLQUphRFJNdkdmcVRYRXJjekJxSzJ5ZEdnT2F1QVhZY0FxQmM1NjBUYXVpNU9EYXROUmpyNEpSamtSVkh6QlREV05VNlRTSXdmR0RHSWp0TThrMFNhNjJSNU5HZENJWTd4SnMwbExCdzhzbjVPelRXQ253aEFwQjBBTU4tRkszUzFjWmJManZ2RlFTZ0IzSzh6?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Novorossiysk, Russia",
+      "latitude": 44.7239,
+      "longitude": 37.7688,
+      "detailed_analysis": "Attack on CPC (Caspian Pipeline Consortium) facility represents direct threat to critical energy infrastructure. CPC is major oil export route for Kazakhstan, handling ~80% of its oil exports. Attack methodology not specified but follows pattern of infrastructure targeting in Black Sea region. Potential for supply chain disruption and collateral damage to port operations.",
+      "immediate_forecast_24h": "Increased security posture recommended for all Black Sea port facilities. Possible retaliatory measures or follow-up attacks. Maritime traffic in Novorossiysk port may experience delays due to enhanced security screening.",
+      "strategic_outlook": "Persistent threat to energy infrastructure in Black Sea region likely to continue. Potential for escalation affecting broader maritime trade routes. Kazakhstan-Russia energy cooperation may face increased scrutiny and security challenges.",
+      "operational_impact": "Temporary suspension of CPC operations probable. Increased insurance premiums for vessels and cargo in region. Alternative routing considerations for energy shipments may be necessary. Enhanced physical security measures required at all energy export facilities.",
+      "proximity_alert": null
+    }
+  }
+]
