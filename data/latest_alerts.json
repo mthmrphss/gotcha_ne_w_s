@@ -1,62 +1,5 @@
 [
   {
-    "id": "8bc28ece0c3249fa55172b0e8a23dd4d",
-    "timestamp": "2025-12-01T09:52:49.651113",
-    "original_title": "Iran’s Guards launch SCO counter-terror exercise in northwest - ایران اینترنشنال",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oTThzdG9CUVlpN0F3bFhyQ2NFVHZZSHZGTEUzTmRWbkpFRFFYNzZEWlRUVTZkcDFQel9tUVdTc0hNZEtkMTJEWW1pY0dGY0VJRXc?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Terrorism",
-      "risk_score": 7,
-      "location": "Northwest Iran",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "Iran's Islamic Revolutionary Guard Corps (IRGC) is conducting a counter-terrorism exercise under the Shanghai Cooperation Organization (SCO) framework. While officially defensive, such drills may signal heightened regional tensions, potential for misjudgment, or prelude to operations. Proximity to borders increases risk of cross-border incidents or misinterpretation by adversaries.",
-      "immediate_forecast_24h": "Increased military activity in northwest Iran; possible heightened alert levels for neighboring countries; low probability of direct spillover but elevated vigilance advised for assets/operations in the region.",
-      "strategic_outlook": "SCO counter-terror exercises often correlate with real-world operational readiness; may indicate Iran preparing for assertive counter-terror ops or signaling strength. Could escalate regional tensions if perceived as provocative.",
-      "operational_impact": "Potential for disrupted logistics/aviation near exercise zones; increased scrutiny on cargo/personnel movements; possible cyber decoy activity; advise monitoring COMINT and updating contingency plans for northwestern Iran operations.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "37df9fe9723cca35988b0745e805f6a5",
-    "timestamp": "2025-12-01T09:53:06.800006",
-    "original_title": "Airbus Says Less Than 2% of A320 Airplanes Haven’t Yet Received Critical Software Safety Fix",
-    "link": "https://www.paddleyourownkanoo.com/2025/12/01/airbus-says-less-than-2-of-a320-airplanes-havent-yet-received-critical-software-safety-fix/",
-    "source_name": "Paddle Your Own Kanoo",
-    "ai_analysis": {
-      "category": "Aviation",
-      "risk_score": 3,
-      "location": "Global",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "Airbus A320 family aircraft have a known software safety flaw requiring emergency patching. While 98% of affected aircraft have received the fix, approximately 120 aircraft (2% of 6,000) remain unpatched globally. This represents a reduced but persistent aviation safety vulnerability that could potentially lead to cockpit system malfunctions during flight operations.",
-      "immediate_forecast_24h": "Minimal immediate threat due to high compliance rate and awareness. Remaining unpatched aircraft likely undergoing scheduled maintenance or in regions with slower update cycles. No active exploitation detected.",
-      "strategic_outlook": "Airbus and airlines demonstrating effective rapid response capability. Residual risk will diminish as remaining aircraft receive patches. May indicate need for improved software update protocols for global fleet management.",
-      "operational_impact": "Potential for isolated flight disruptions if unpatched aircraft experience software-related issues. Airlines operating remaining unpatched aircraft should prioritize maintenance scheduling. No current impact on cargo or personnel beyond normal aviation safety protocols.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "0f466b8c38c155c2fa58a07e9abb8b50",
-    "timestamp": "2025-12-01T09:53:14.307161",
-    "original_title": "Delta plane slides off icy runway shutting major airport over Thanksgiving weekend",
-    "link": "https://www.independent.co.uk/travel/news-and-advice/delta-runway-ice-iowa-airport-thanksgiving-b2875493.html",
-    "source_name": "Independent Travel",
-    "ai_analysis": {
-      "category": "Aviation",
-      "risk_score": 7,
-      "location": "Iowa",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "Delta aircraft slid off icy runway, forcing temporary closure of a major airport hub during high-traffic holiday weekend. Incident likely weather-related (ice), but disruption to aviation operations and potential for cascading delays/backlogs raises moderate risk. No indication of malicious intent, but vulnerability of infrastructure to environmental factors is notable.",
-      "immediate_forecast_24h": "Increased scrutiny on runway conditions at affected airport and regional hubs; potential for delayed/canceled flights as operations resume; possible brief ripple effects on cargo/passenger logistics.",
-      "strategic_outlook": "Seasonal weather patterns may continue to pose risks to aviation operations in northern regions; reinforces need for proactive de-icing protocols and contingency planning during peak travel periods.",
-      "operational_impact": "Temporary airport closure disrupts passenger travel and cargo shipments; may require rerouting of assets and personnel; increased coordination between ground crews, airlines, and security for recovery operations.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "d4bb70dcefb0c5e6f8fa0c9d891c020a",
     "timestamp": "2025-12-01T10:52:10.762094",
     "original_title": "Join BDS in disrupting Israel’s military supply chain now! - BDS Movement",
@@ -110,6 +53,25 @@
       "immediate_forecast_24h": "Increased naval patrol activity in Caribbean, possible Venezuelan military response, heightened alert for US assets in region, potential for additional maritime incidents.",
       "strategic_outlook": "Sustained deterioration in US-Venezuela relations, increased scrutiny of maritime traffic, potential for economic sanctions escalation, possible UN Security Council involvement. Regional partners may be forced to choose sides.",
       "operational_impact": "Enhanced maritime surveillance required, review of vessel routing in Caribbean, increased vetting of Venezuelan-flagged vessels, potential for port access restrictions, heightened personnel security protocols for assets in region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "cbda573e01fedf25a19d24efb749e8c4",
+    "timestamp": "2025-12-01T11:33:20.557118",
+    "original_title": "Drone Strike Rocks Russian Torpedo Plant in Dagestan",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pba1r9/drone_strike_rocks_russian_torpedo_plant_in/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Dagestan, Russia",
+      "latitude": 42.9833,
+      "longitude": 47.4833,
+      "detailed_analysis": "Drone strike targeting a torpedo manufacturing facility indicates escalation in asymmetric warfare tactics. Attack on military-industrial infrastructure suggests intent to degrade Russian naval capabilities. Potential for secondary explosions or hazardous material release given nature of targeted facility. Possible retaliation measures expected.",
+      "immediate_forecast_24h": "Heightened security alert at all Russian defense facilities. Increased drone detection measures and potential air defense activations. Possible retaliatory strikes or increased offensive operations in conflict zones.",
+      "strategic_outlook": "Continued targeting of military production infrastructure likely. Potential for similar attacks on other defense industrial sites. May lead to accelerated development of counter-drone technologies and changes in facility security protocols.",
+      "operational_impact": "Temporary disruption to torpedo production and supply chains. Increased security screening for personnel and cargo in region. Potential for heightened inspection of maritime cargo in Black Sea/Caspian regions. Aviation may experience temporary airspace restrictions near military facilities.",
       "proximity_alert": null
     }
   }
