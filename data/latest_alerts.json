@@ -1,1 +1,59 @@
-[]
+[
+  {
+    "id": "02f85913a809c9ef36d9f223ed4144c2",
+    "timestamp": "2025-12-02T21:34:38.643047",
+    "original_title": "Guinea-Bissau's electoral commission says its unable to finalise election results",
+    "link": "http://www.africanews.com/2025/12/02/guinea-bissaus-electoral-commission-says-its-unable-to-finalise-election-results/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Bissau, Guinea-Bissau",
+      "latitude": 11.8636,
+      "longitude": -15.5848,
+      "detailed_analysis": "Armed men broke into the electoral commission office and stole ballots and vote tallies on 26 November, coinciding with a military seizure of power. This indicates significant political instability and potential for escalating civil unrest, which could disrupt government operations, transportation networks, and pose risks to personnel and assets in the area.",
+      "immediate_forecast_24h": "High likelihood of continued military presence, protests, and potential disruptions to road transport, port operations, and airport activities. Possible curfews or movement restrictions.",
+      "strategic_outlook": "Extended period of political uncertainty likely, with potential for further military interventions, protests, or international response. Could impact regional stability and create opportunities for criminal exploitation of disrupted logistics chains.",
+      "operational_impact": "Avoid non-essential travel to Bissau. Heighten security for personnel and assets. Expect delays and disruptions at ports and airport. Monitor for potential looting or unauthorized access to facilities. Implement contingency plans for evacuation if situation deteriorates.",
+      "proximity_alert": "🚨 YAKIN TEHDİT: Bissau Osvaldo Vieira Airport (0 km)"
+    }
+  },
+  {
+    "id": "29d73ec5259d9396fb49aa6722d4a9b6",
+    "timestamp": "2025-12-02T21:34:48.261956",
+    "original_title": "Two minors, one Russian, held in Paris over antisemitic plot",
+    "link": "https://www.france24.com/en/video/20251202-two-minors-one-russian-held-in-paris-over-antisemitic-plot",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 10,
+      "location": "Paris, France",
+      "latitude": 48.8566,
+      "longitude": 2.3522,
+      "detailed_analysis": "Two 16-year-olds, including a Russian national of Chechen origin, detained for plotting antisemitic attack. Suspect sent photo with weapon via WhatsApp stating intent to 'kill Jews in five days' and threatened religious sites. Indicates potential radicalization and operational planning.",
+      "immediate_forecast_24h": "Increased police presence around Jewish institutions and religious sites in Paris. Possible additional arrests if network exists. Elevated threat level for Jewish communities.",
+      "strategic_outlook": "Potential copycat incidents or retaliatory actions. May indicate broader radicalization patterns among youth. Could strain France-Russia relations if investigation reveals foreign influence.",
+      "operational_impact": "Enhanced security screening at transport hubs, particularly for flights to/from Russia. Increased vigilance for lone-wolf attacks using bladed weapons. Possible temporary closures or restricted access to sensitive Jewish sites.",
+      "proximity_alert": "🚨 YAKIN TEHDİT: Paris Charles de Gaulle Airport (2 km)"
+    }
+  },
+  {
+    "id": "aec8158121bed1faeea0f6b9d33e1ceb",
+    "timestamp": "2025-12-02T21:34:57.083365",
+    "original_title": "Passenger Faces Decade in Prison After Calling in Bomb Threat When He Couldn’t Pay Airport Parking",
+    "link": "https://www.paddleyourownkanoo.com/2025/12/02/passenger-faces-decade-in-prison-after-calling-in-bomb-threat-when-he-couldnt-pay-airport-parking/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 7,
+      "location": "New Orleans, Louisiana",
+      "latitude": 29.9933,
+      "longitude": -90.2581,
+      "detailed_analysis": "A bomb threat was called into Louis Armstrong New Orleans International Airport by a passenger frustrated with parking fees. The threat triggered emergency protocols, including potential evacuations, security sweeps, and law enforcement response. While the threat was a hoax, it demonstrates how non-terrorist motivations can still cause significant disruption to aviation operations and consume security resources.",
+      "immediate_forecast_24h": "Increased security presence and heightened alertness at the airport; potential for residual flight delays or cancellations as operations normalize. No indication of further threats, but copycat behavior cannot be ruled out.",
+      "strategic_outlook": "Persistent risk of hoax threats disrupting aviation infrastructure, requiring continued investment in threat assessment protocols and public awareness campaigns to deter such behavior.",
+      "operational_impact": "Temporary suspension of operations, diversion of security personnel to threat response, potential reputational impact, and increased scrutiny on parking/access control systems.",
+      "proximity_alert": null
+    }
+  }
+]
