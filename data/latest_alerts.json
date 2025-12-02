@@ -55,5 +55,43 @@
       "operational_impact": "Temporary suspension of operations, diversion of security personnel to threat response, potential reputational impact, and increased scrutiny on parking/access control systems.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "fcbde8056aa7b8a475f9e2cb2465cf67",
+    "timestamp": "2025-12-02T22:37:28.932174",
+    "original_title": "Traffic stop foils alleged terror attack plot against UD police - Spotlight Delaware",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObFlYTzdPQ25VbzhXM0tNekwtX0pzdG0tdHNidW0wNFl2NEVCRXJpTVdHQzZsVXBhdDdJLTdfX2NDV3NwY3dHRDl2Z2lEQUJNNGxkZjJabE5lWEg2MWRyVXZsZXZ3N0JiVWZYRHRqRUsxNFpaZng3SE9abXo3cDlQT0UyZHc5TVItYzFIVFl0SnZZMlJ4aGF2UFViR3dmamlJVnF2Q2F6cm0?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 8,
+      "location": "Delaware",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Traffic stop intervention prevented an alleged terror attack targeting University of Delaware police. Event indicates active domestic terrorism planning with law enforcement as specific targets. Method of interdiction (traffic stop) suggests potential weapons/explosives transport. Requires immediate investigation into network connections and potential additional targets.",
+      "immediate_forecast_24h": "Increased police presence and security measures expected at UD and surrounding areas. Potential for additional arrests or related incidents as investigation unfolds. Possible copycat or retaliatory actions cannot be ruled out.",
+      "strategic_outlook": "This event demonstrates persistent domestic terrorism threat against law enforcement targets. May indicate broader anti-government sentiment or organized extremist activity in the area. Requires enhanced intelligence gathering and interagency coordination to identify and disrupt potential follow-on plots.",
+      "operational_impact": "Immediate: Heightened security protocols for all law enforcement facilities and personnel. Medium-term: Review of protective measures for critical infrastructure. Long-term: Potential need for increased counter-terrorism resources and community outreach to identify radicalization indicators.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "521a66f9c65b0d0b615bbf32b467d6d9",
+    "timestamp": "2025-12-02T22:37:54.664169",
+    "original_title": "Nigerian General Christopher Musa returns to government as the country's Minister of Defence",
+    "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20251202-nigerian-general-christopher-musa-returns-to-government-as-the-country-s-minister-of-defence",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Abuja, Nigeria",
+      "latitude": 9.0765,
+      "longitude": 7.3986,
+      "detailed_analysis": "General Christopher Musa's reappointment as Minister of Defence following recent coup concerns suggests ongoing political-military instability. His return to a key security position indicates potential internal power struggles within Nigerian military leadership, which could impact security operations and command structures.",
+      "immediate_forecast_24h": "Increased military and government security presence in Abuja; possible heightened alert status for military units; potential for additional cabinet reshuffles or military reassignments.",
+      "strategic_outlook": "Medium-term instability in Nigerian defense leadership may affect regional security cooperation and counter-terrorism operations; could impact military coordination with international partners; potential for further political-military tensions.",
+      "operational_impact": "Possible delays in defense procurement decisions; temporary disruption in chain of command communications; increased scrutiny on military movements and deployments; may affect joint operations with international security partners.",
+      "proximity_alert": "🚨 YAKIN TEHDİT: Nnamdi Azikiwe International Airport (15 km)"
+    }
   }
 ]
