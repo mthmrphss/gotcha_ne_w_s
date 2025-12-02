@@ -55,5 +55,43 @@
       "operational_impact": "Possible delays in military supply chains; increased security requirements for UK assets in Kenya; heightened risk to personnel from localized unrest or targeted hostility.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "71a2e66828dfd34e68e45a2bd2e34a68",
+    "timestamp": "2025-12-02T14:52:18.769149",
+    "original_title": "Maduro Faces His Ultimate Fight as Trump Threatens Military Action in Venezuela",
+    "link": "https://www.nytimes.com/2025/12/02/world/americas/venezuela-nicolas-maduro-trump.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Venezuela",
+      "latitude": 6.4238,
+      "longitude": -66.5897,
+      "detailed_analysis": "Threat of US military intervention against Maduro regime creates high-risk environment for all assets. Potential for rapid escalation to armed conflict, increased civil unrest, and targeting of foreign interests. Aviation assets at particular risk from potential airspace closures, anti-aircraft activity, or retaliatory measures. Cargo operations face disruption from port closures, sanctions enforcement, and potential sabotage. Personnel safety compromised by potential combat operations, protests, and anti-Western sentiment.",
+      "immediate_forecast_24h": "Heightened alert status recommended. Increased protests likely in Caracas and major cities. Possible Venezuelan military mobilization. US naval movements near Venezuelan waters possible. Critical infrastructure may be targeted. Aviation operations should expect potential airspace restrictions.",
+      "strategic_outlook": "Sustained elevated risk environment. Potential for prolonged conflict or regime change operations. Regional spillover possible into Colombia and Caribbean. Long-term disruption to Venezuelan oil exports and regional supply chains. Increased Russian/Chinese involvement possible.",
+      "operational_impact": "All operations in/through Venezuela: HIGH RISK. Evacuation planning for personnel recommended. Aviation: Avoid Venezuelan airspace. Cargo: Suspend shipments to Venezuelan ports. Assets: Secure physical locations. Cyber: Expect increased state-sponsored activity. Contingency planning for regional disruption required.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "a4929cc563bf7be4238ea148aae5f4fc",
+    "timestamp": "2025-12-02T14:52:28.469642",
+    "original_title": "Defence Ministry: Russia dropped 44,000 glide bombs at Ukraine during 2025",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pc90y3/defence_ministry_russia_dropped_44000_glide_bombs/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 9,
+      "location": "Ukraine",
+      "latitude": 48.3794,
+      "longitude": 31.1656,
+      "detailed_analysis": "Massive deployment of 44,000 glide bombs by Russia against Ukraine in 2025 indicates sustained high-intensity conflict operations. Glide bombs are precision-guided munitions capable of striking strategic targets with reduced risk to aircraft. This volume suggests systematic targeting of military infrastructure, supply lines, and potentially urban centers, representing severe escalation in aerial bombardment tactics.",
+      "immediate_forecast_24h": "High probability of continued aerial bombardment campaigns. Potential for retaliatory strikes, increased air defense activity, and possible expansion of conflict zones. Critical infrastructure and supply routes at elevated risk.",
+      "strategic_outlook": "Prolonged conflict likely to continue with sustained aerial operations. Potential for spillover effects on regional stability and international supply chains. Increased risk to aviation in conflict airspace and possible disruption of regional logistics networks.",
+      "operational_impact": "Extreme risk to personnel and assets in Ukraine and border regions. Aviation operations in affected airspace severely compromised. Cargo movements through region subject to significant delays and security threats. Essential to reroute critical shipments and implement heightened security protocols for personnel in area.",
+      "proximity_alert": null
+    }
   }
 ]
