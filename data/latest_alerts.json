@@ -1,115 +1,58 @@
 [
   {
-    "id": "85b726dbeaa7ee401ccca9c308e0635a",
-    "timestamp": "2025-12-03T06:57:59.463065",
-    "original_title": "From Detection to Deep Dive: Splunk Attack Analyzer and Endace for GovWare 2025 Security - Cisco Blogs",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM3p1dFJRekVsdkNIOUN3RlFTWGF6T3E5SzBJeEk5a1lTVFpaQ1lybkxycnJGR3o2Z2ZRaDJlX053d2c1eHRJSzRmRlRLbXJLVkpIZ1hiWnRaVDNqa2dBTldVZVhTVDE3VWlSMjN0cHVnR01Mamd5ZzJsT3V2ZXpzZWhsamxqMFhydnh5Q1dHZ1c5MVVRYnlpODFpX0pXUWEtVzFIaGp2QnBBMGVvRUNYRE9zaUtOZEdjdjI0Rg?oc=5",
+    "id": "963a4f63b9e7d0656156855e2871d2fe",
+    "timestamp": "2025-12-03T08:58:27.636946",
+    "original_title": "Attacking Drug Boats: Bending or Breaking the Law? - War on the Rocks",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdldYNVkxd2pEVUE1aHlEeTh6dlYxV1ZuWDg4ekNYR3E3TFdmRjRPbkJmYkx2OGRJZmpfa2dCaGRpdURVY1BPV2NlTlFWOEhOQ3FLcGxNNUZfX0E3N0ctTlJNVExLN3hxY2J6eGlTU2VPWVBEeFBPUW90TzNVV0ItQWFtVWZ2TDR4dkQ4?oc=5",
     "source_name": "Google News (Breaking)",
     "ai_analysis": {
-      "category": "Cyber",
-      "risk_score": 10,
-      "location": "Singapore",
-      "latitude": 1.3521,
-      "longitude": 103.8198,
-      "detailed_analysis": "Article discusses cybersecurity tools (Splunk Attack Analyzer and Endace) being presented at GovWare 2025, a government technology security conference in Singapore. Content focuses on threat detection and forensic analysis capabilities rather than active threats. No specific threats to assets, cargo, aviation, or personnel identified in the content.",
-      "immediate_forecast_24h": "No immediate physical security threats expected. Normal cybersecurity posture monitoring recommended for organizations attending or following the conference.",
-      "strategic_outlook": "Increased awareness of advanced cyber defense tools may lead to improved security postures for government and critical infrastructure organizations in the medium term.",
-      "operational_impact": "Minimal direct operational impact. SOC may want to review presented technologies for potential implementation to enhance network monitoring and threat response capabilities.",
-      "proximity_alert": "🚨 YAKIN TEHDİT: Singapore Changi Airport (19 km)"
-    }
-  },
-  {
-    "id": "2bc88b386ce7d11f9fd85ec6c110e1ad",
-    "timestamp": "2025-12-03T06:58:08.106215",
-    "original_title": "Turkish Military Plane Crash Exposes Air Force Crisis - Balkan Insight",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeTVfMWxYTVhsZnFEYmdGeUNTbC1ERzF0VEd0bjRIZFh3T1RudDlBNDhIREUwUU4ySU84SHJkTFZ0TXBWMDRidDFMX1NuV04yMHE4OVRscGhianpvRXllN0NQdjlOUk93ZDRyaS0wVFBGbXJhckhzejBxVFpKZEZETmczNkt6c0tMT3NUSVZxd3pOREpRU2c?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Aviation",
-      "risk_score": 8,
-      "location": "Turkey",
+      "category": "Crime/Theft",
+      "risk_score": 7,
+      "location": "Maritime routes (likely Caribbean/Eastern Pacific)",
       "latitude": 0.0,
       "longitude": 0.0,
-      "detailed_analysis": "Military aircraft crash indicates potential systemic issues in maintenance, training, or equipment reliability within Turkish Air Force. Could reflect broader operational readiness challenges, though no immediate hostile action or terrorism indicated.",
-      "immediate_forecast_24h": "Increased scrutiny on Turkish military aviation safety; possible temporary grounding or inspections of similar aircraft models. Unlikely to directly affect civilian or cargo aviation in the region.",
-      "strategic_outlook": "Potential for further incidents if underlying issues are not addressed; may impact Turkey's military operational capacity and regional deployment capabilities in the medium term.",
-      "operational_impact": "Heightened alert for military aviation movements in the region; possible delays or cancellations of Turkish military flights for safety reviews. No direct impact on commercial assets or cargo operations.",
+      "detailed_analysis": "Article discusses potential legal and operational implications of targeting drug smuggling vessels, indicating active maritime narcotics trafficking operations. This represents direct threat to maritime cargo security through illicit drug transportation networks and potential for violent interdiction scenarios.",
+      "immediate_forecast_24h": "Increased maritime law enforcement activity; possible vessel interdictions; elevated risk of armed confrontations between smugglers and authorities",
+      "strategic_outlook": "Persistent maritime drug smuggling operations will continue; potential escalation in tactics from both smugglers and interdiction forces; legal gray areas may lead to increased operational risks",
+      "operational_impact": "Heightened vigilance required for maritime operations in affected regions; potential for collateral damage to legitimate shipping; increased screening of vessels in high-risk zones",
       "proximity_alert": null
     }
   },
   {
-    "id": "d1fc4338edd7866151ced315e961f109",
-    "timestamp": "2025-12-03T06:58:20.834889",
-    "original_title": "US cancels citizenship ceremonies for migrants from travel ban countries",
-    "link": "https://www.reddit.com/r/worldnews/comments/1pcwuji/us_cancels_citizenship_ceremonies_for_migrants/",
+    "id": "22c25b2ed280d7a15ac9a85dcbd23172",
+    "timestamp": "2025-12-03T08:58:37.137072",
+    "original_title": "Squawk 7700 Emergency: Delta Airlines Flight DL9962 Returns to St. Louis After Shocking Mid-Flight Crisis – What Really Happened? - Travel And Tour World",
+    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPM0diMDhmemxFWjJyeTNXcl9xamRwQ0ZZN2RmOGZma2p0TVNwNVdIcjcxMUdQOF9fVzBVanZOT19ZbGNOQUZVbDJ5VDcyQXFKQzEySW1iZmdXX1B1ckRTOGtSM0JQeV8zOTh3ZXI0MFZvaFRBYlFnY3d5R0lPWDlkdWV3TDNsM1RMdEVyOXdReXJLdGU0STdud3FOVUVLXzVlcU5YWDZ2Y3VxZ2psdUJnTjBxRVo1WXNaenRpWlp1b0JOZXUtQ0VUZXVKbmJIOGFhTmV2MlVuQlRoZG53czVlN2w1Q0pQZWZFa0tIVjI3QVBGcU8wdkFBdWl2MG45YkNQc0E0?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 7,
+      "location": "St. Louis, Missouri",
+      "latitude": 38.627,
+      "longitude": -90.1994,
+      "detailed_analysis": "Delta Airlines Flight DL9962 declared emergency Squawk 7700 and returned to St. Louis due to an unspecified mid-flight crisis. Squawk 7700 indicates a general emergency, which could range from mechanical failure to security incidents. The article's sensationalized language ('shocking crisis') suggests a non-routine event beyond typical mechanical issues, though specific details are unclear from the full article content available.",
+      "immediate_forecast_24h": "Increased scrutiny on Delta operations at St. Louis Lambert International Airport; potential delays for connecting flights; possible FAA investigation initiation; heightened security screening for similar aircraft types.",
+      "strategic_outlook": "Potential pattern emergence if similar incidents occur with Delta or other carriers; may indicate systemic maintenance issues or targeted disruptions; could lead to revised emergency protocols or fleet inspections if mechanical cause confirmed.",
+      "operational_impact": "Temporary ground hold for incident aircraft and potentially similar fleet types; increased coordination between airline ops and airport security; possible resource diversion for emergency response teams; minor cascading delays in Delta's regional network.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "6e9f313df4b907005b42cd3400fc704e",
+    "timestamp": "2025-12-03T08:58:47.007873",
+    "original_title": "Turkey Weighs Opening Armenia Border That’s Shut Since the 90s | The move would do away with Europe’s last closed frontier of the Cold War-era",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pcynxn/turkey_weighs_opening_armenia_border_thats_shut/",
     "source_name": "Reddit r/WorldNews",
     "ai_analysis": {
       "category": "Border/Migration",
       "risk_score": 3,
-      "location": "United States",
+      "location": "Turkey-Armenia border region",
       "latitude": 0.0,
       "longitude": 0.0,
-      "detailed_analysis": "Cancellation of citizenship ceremonies for migrants from travel ban countries represents an administrative policy change rather than a direct security incident. While potentially disruptive to affected individuals, this does not involve physical threats to assets, cargo, aviation, or personnel. No indications of violence, smuggling, or transport system compromise detected in this event.",
-      "immediate_forecast_24h": "Minimal immediate security impact expected. Possible increased social media discussion and diplomatic communications regarding immigration policy, but no anticipated operational disruptions to transport or logistics systems.",
-      "strategic_outlook": "Policy changes may contribute to longer-term migration pattern shifts, but current assessment indicates low probability of cascading security effects on critical infrastructure or transport networks. Monitoring recommended for any secondary effects on border operations or migrant movement patterns.",
-      "operational_impact": "No direct operational impact on asset protection, cargo movements, aviation security, or personnel safety. Routine operations should continue unchanged. No additional security measures required at this time.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "7c3c6d79f7fcf69883144a159a1994cd",
-    "timestamp": "2025-12-03T06:58:28.427887",
-    "original_title": "UNHCR: Nearly 100,000 displaced in recent weeks as violence spreads across northern Mozambique",
-    "link": "http://www.africanews.com/2025/12/03/unhcr-nearly-100000-displaced-in-recent-weeks-as-violence-spreads-across-northern-mozambiq/",
-    "source_name": "Africa News",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 7,
-      "location": "Northern Mozambique",
-      "latitude": -12.9608,
-      "longitude": 40.5078,
-      "detailed_analysis": "Armed group attacks on villages causing mass displacement indicates active insurgency. Burning homes and civilian targeting suggests terrorist tactics. No direct aviation or cargo impacts reported, but regional instability threatens supply chains and personnel safety. Potential for conflict spillover into transport corridors.",
-      "immediate_forecast_24h": "High probability of continued attacks and displacement. Possible road blockades, supply routes disruption. Increased military/police presence likely. No direct aviation threats anticipated.",
-      "strategic_outlook": "Sustained conflict likely to persist, potentially expanding to key infrastructure. Risk of port/airport targeting if insurgents gain capability. Humanitarian operations may face security challenges.",
-      "operational_impact": "Ground transport routes in northern Mozambique at elevated risk. Personnel movement requires enhanced security protocols. Cargo shipments may experience delays. Aviation operations currently unaffected but situation volatile.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "50652ccd548e3ea8fed333e51f05ed93",
-    "timestamp": "2025-12-03T07:40:17.481362",
-    "original_title": "VIDEO: Elderly victim recounts attack - KIRO 7 News Seattle",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV3pSVFU3b25jX1diVkpRNGFhWkRIYTdkTTFNcl92ZzVTOWlETVd3V1RpU1p6TjNlcGozSlJWdGktUHhXNGNvMlo3QXRlSjd0THJmNjlNeFQtSDd4UHpVbjNIbnY2d1ZjSjB4T0llRUptREhkOTl5bS1WbnU3MGthbTRJYk8ycTlUVjd6SjJuSnFhR2FXM1F3V3Z4cXR4dDVHMk9ibnltTko1Y3M?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Crime/Theft",
-      "risk_score": 10,
-      "location": "Seattle",
-      "latitude": 47.6062,
-      "longitude": -122.3321,
-      "detailed_analysis": "News article describes an elderly victim recounting a personal attack. While concerning for public safety, this appears to be an individual criminal incident rather than organized crime targeting assets, cargo, or personnel. No indication of systematic threat to transportation infrastructure, aviation, or logistics operations.",
-      "immediate_forecast_24h": "No immediate threat to organizational assets or operations expected. Routine security posture sufficient.",
-      "strategic_outlook": "Local law enforcement handling isolated criminal case. Does not indicate emerging pattern requiring security protocol changes for assets or personnel movement.",
-      "operational_impact": "None. Standard urban crime incident with no bearing on cargo routes, aviation security, or personnel safety protocols.",
-      "proximity_alert": "🚨 YAKIN TEHDİT: Seattle International Airport (0 km)"
-    }
-  },
-  {
-    "id": "afb9486b87ce6ca7c8eb79951ad27f5c",
-    "timestamp": "2025-12-03T07:40:34.638767",
-    "original_title": "Argentina - Level 1: Exercise Normal Precautions",
-    "link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/argentina-travel-advisory.html",
-    "source_name": "US State Dept",
-    "ai_analysis": {
-      "category": "Crime/Theft",
-      "risk_score": 6,
-      "location": "Rosario, Santa Fe province",
-      "latitude": -32.95,
-      "longitude": -60.67,
-      "detailed_analysis": "Increased criminal and narcotics trafficking activity in Rosario resulting in elevated crime and violence levels. While this is a localized threat specific to one city, the involvement of organized criminal elements suggests potential for targeted operations against cargo/logistics assets, particularly in transport corridors.",
-      "immediate_forecast_24h": "Continued criminal activity likely with potential for sporadic violence. No specific elevated threat to aviation or major transport infrastructure indicated in this advisory.",
-      "strategic_outlook": "Persistent criminal environment in Rosario likely to continue medium-term. Potential for spillover effects to logistics operations, cargo theft and smuggling activities. Requires enhanced security protocols for personnel and assets transiting through this region.",
-      "operational_impact": "Increased security measures recommended for personnel in Rosario area. Cargo shipments through Rosario should employ additional security escorts or alternative routing. Personnel should maintain heightened situational awareness and avoid high-risk areas. No immediate impact beyond Rosario region.",
+      "detailed_analysis": "Turkey is considering reopening its border with Armenia, which has been closed since the 1990s due to the Nagorno-Karabakh conflict and historical tensions. This is a diplomatic/political development rather than an active security incident. No current threats to cargo, aviation, or personnel are indicated in the report. The move is framed as a normalization step, not a response to immediate security concerns.",
+      "immediate_forecast_24h": "No immediate security threats expected. Monitoring for any protests, unauthorized border crossings, or smuggling attempts that might emerge as discussions progress, but currently low probability.",
+      "strategic_outlook": "If border reopens, potential for increased cross-border movement of goods and people. May require enhanced customs and border security coordination. Could reduce long-term regional tensions but may initially create vulnerabilities for smuggling or unauthorized migration if security infrastructure lags behind policy changes.",
+      "operational_impact": "No current operational impact. If border opens, may require additional screening resources at crossing points. Aviation routes unaffected. Cargo screening protocols may need review for new trade routes. Personnel travel advisories may need updating if border status changes.",
       "proximity_alert": null
     }
   }
