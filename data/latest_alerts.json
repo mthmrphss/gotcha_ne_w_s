@@ -112,5 +112,43 @@
       "operational_impact": "Increased vigilance recommended for Malaysia Airlines and Boeing 777 operations. Potential for renewed media attention to impact passenger confidence and require additional security screening procedures at originating airports.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "80f093c4fbcf0f27927b0f2d3bae9e2e",
+    "timestamp": "2025-12-03T19:32:59.204438",
+    "original_title": "Was The U.S. Attack On A Venezuelan Boat A War Crime? : Fresh Air - NPR",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSDdIM3pfX1c1SzVjSlRpMUZkZGlrZ3NCUnlqaFNqQ2Iyc25jQlhDbVZoSVBEZ0c1clJRNnRCX2VLamRBT3VndTlpMk9XaTIzbEx5WUZoUUxMVHZEaEx4Zl91YnBHWU5pT2hoajA0eFpYR3hvMDFrYUFnZ0h6U2w2ZEZwTlF1cGc4a0JKb1drbHRLbHdqSmNCNFM0SnI?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Venezuelan waters/Caribbean Sea",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Event involves a military engagement between U.S. and Venezuelan forces, potentially escalating regional tensions. While specific details are unclear from the title, any armed conflict in maritime zones poses indirect risks to commercial shipping, aviation routes, and personnel through potential collateral damage, restricted navigation, or retaliatory actions. Venezuela's political instability increases unpredictability.",
+      "immediate_forecast_24h": "Increased naval patrols and air surveillance likely in the region. Possible temporary shipping lane disruptions or advisories. Low probability of direct follow-up attacks but heightened alert status for vessels/aircraft near Venezuelan territory.",
+      "strategic_outlook": "Potential for prolonged diplomatic tensions affecting regional security protocols. May lead to increased military presence in Caribbean shipping lanes, heightened scrutiny of Venezuelan-flagged vessels, and possible sanctions-related enforcement operations.",
+      "operational_impact": "Recommend heightened situational awareness for assets transiting Caribbean routes. Review emergency protocols for regional operations. Monitor for NOTAMs or maritime advisories. Potential for increased insurance premiums or routing adjustments for high-value cargo.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "cd3f7be5926e5c7c8db8d1e57b0abcd3",
+    "timestamp": "2025-12-03T19:33:19.403799",
+    "original_title": "Rwanda - Level 2: Exercise Increased Caution",
+    "link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/rwanda-travel-advisory.html",
+    "source_name": "US State Dept",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Rusizi District, Rubavu District",
+      "latitude": -2.5,
+      "longitude": 29.0,
+      "detailed_analysis": "Armed violence near DRC border poses direct threat to personnel and assets. Border areas poorly marked with potential for cross-border spillover from ongoing conflicts in DRC's North/South Kivu provinces. Military forces and armed groups active in region, increasing likelihood of incidents.",
+      "immediate_forecast_24h": "Continued elevated risk of cross-border armed incidents, potential for sudden border closures or restricted movement in 10km border zones. Increased military patrols likely.",
+      "strategic_outlook": "Ongoing regional instability suggests sustained threat environment. Potential for escalation during DRC military operations. Border areas will remain high-risk zones for foreseeable future.",
+      "operational_impact": "Ground movement restricted within 10km of DRC border. Personnel require special authorization for travel to affected districts. Cargo routes near border face disruption risk from sudden security operations.",
+      "proximity_alert": null
+    }
   }
 ]
