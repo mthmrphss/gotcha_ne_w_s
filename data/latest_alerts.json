@@ -17,5 +17,62 @@
       "operational_impact": "Recommend heightened alert for personnel in Sudan; avoid non-essential travel to conflict zones. Review security protocols for cargo and aviation operations. Monitor for potential supply chain disruptions due to road closures or targeted attacks on logistics.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "314d251b7389865e03ed068c2a6306ab",
+    "timestamp": "2025-12-03T21:30:28.083111",
+    "original_title": "US military stands up first kamikaze drone squadron under Centcom’s new 'Scorpion Strike' task force - DefenseScoop",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd292T0lTMG5YbHE3U1J6RGFUV1hYNng0cXFFek1udkFpeUkyUlhHX1VmS2x5UHNTWk1XZmgyTjNDYnNIY2UzVG42bVpFMmRUVmQ4ampjVXF3SDAxdWlVNXA1Y0RrSzBqR3I0V3EzV1cxM3gwM25vbmZhUTJjTWxUd0xaSWprYlRtdkFzZk1fREtKWS1FbVlRanZOdlRJcE8ybnFwZQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "CENTCOM AOR (Middle East)",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Establishment of dedicated kamikaze drone squadron under 'Scorpion Strike' task force indicates escalation in unmanned offensive capabilities. While this enhances US force projection, it may provoke asymmetric responses from regional adversaries, increasing targeting risks to US military personnel, assets, and associated logistics chains. Potential for retaliatory attacks on supply convoys, airbases, or naval assets in the region.",
+      "immediate_forecast_24h": "No direct imminent threat indicated, but heightened alert warranted for US military installations and transport routes in CENTCOM area due to potential retaliatory symbolism following public announcement of new capability.",
+      "strategic_outlook": "Likely increase in drone-counter drone operations; potential for escalation in unmanned warfare tactics by state and non-state actors. Possible targeting of commercial shipping or aviation in conflict zones if misidentification occurs.",
+      "operational_impact": "Increased vigilance required for all US military and contractor movements; enhanced drone detection protocols recommended for bases and transport corridors. Possible need for temporary airspace restrictions during operations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "fb74c70cb9bad22e9c640d5bed6fbb94",
+    "timestamp": "2025-12-03T21:30:41.623644",
+    "original_title": "Pilot ejects after F-16 Thunderbird crashes in San Bernardino County - yourcentralvalley.com",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcm90SmVHWkFlVEVHNlE2SDlOZnJWMlNKRHJLWFp2QjFUUm9aeTg1SFpqeUFtZ1laZGVHNXV6cGJVaU1hM1BmaTZKMTNfcXZkVTVEalJmVFRhaGVNUzlQdEs3MWkwd09LelZnVXZFc1VJWlRJemZRMWs4RkgtVi03SVpuLWJXM0VSc0tz0gGQAUFVX3lxTE9KQ2ZnTWsyOU5XLVpYa0wtcVJhb056bUpxTURSRG41Uk5Lb3lwVkVTRE5xY1RQUkZXUVdaOHJsaV9hdGZYR2VfWExNZjlrcEFpS202MmxzT3k4UjJQWEIweWd0QnJGX1NGd2RzZlpsdnI1YmhhMy1ZWDR5elFHdG13cDJwRW9yLVhMamRLdnJzaQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 8,
+      "location": "San Bernardino County, California",
+      "latitude": 34.8419084,
+      "longitude": -116.1783909,
+      "detailed_analysis": "Military F-16 Thunderbird crash with pilot ejection indicates potential mechanical failure, pilot error, or bird strike. No immediate indication of hostile action, but military aircraft crashes require investigation for potential systemic issues. Incident occurred during training/exhibition flight, suggesting possible procedural or maintenance concerns. Emergency response activated, but no collateral damage reported.",
+      "immediate_forecast_24h": "Increased military and FAA scrutiny of air operations in region. Possible temporary flight restrictions near crash site for investigation and recovery. Secondary risks during wreckage recovery operations.",
+      "strategic_outlook": "Potential fleet-wide inspections of F-16 aircraft if mechanical failure is confirmed. Possible temporary grounding of demonstration teams pending investigation results. Increased public and media attention on military aviation safety protocols.",
+      "operational_impact": "Temporary airspace restrictions in San Bernardino County. Possible delays for military training flights. Investigation teams mobilizing to site. No immediate threat to commercial aviation, but heightened situational awareness recommended.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "91b0f45e35a9101e8b92a591f5947bae",
+    "timestamp": "2025-12-03T21:30:52.325916",
+    "original_title": "UN sounds alarm as violence in northern Mozambique forces over 100,000 to flee",
+    "link": "http://www.africanews.com/2025/12/03/un-sounds-alarm-as-violence-in-northern-mozambique-forces-over-100000-to-flee/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Northern Mozambique",
+      "latitude": -12.9608,
+      "longitude": 40.5078,
+      "detailed_analysis": "Escalating violent attacks in northern Mozambique have triggered mass displacement exceeding 100,000 people in one week, with conflict spreading to previously stable districts. This indicates deteriorating security conditions likely involving armed insurgent groups, creating high-risk environment for personnel and operations.",
+      "immediate_forecast_24h": "Continued violence expected with possible expansion to additional districts. Road movements highly risky, potential for supply chain disruptions and asset targeting. Aviation may face increased drone activity or indirect fire risks near conflict zones.",
+      "strategic_outlook": "Sustained conflict likely to persist, potentially requiring long-term security reassessment for regional operations. Border areas may experience increased migration pressure and possible cross-border militant activity affecting logistics corridors.",
+      "operational_impact": "Ground operations severely compromised in affected regions. Evacuation protocols should be activated for non-essential personnel. Cargo movements require armed escorts. Aviation operations need enhanced threat monitoring for potential MANPADS or drone threats near conflict zones.",
+      "proximity_alert": null
+    }
   }
 ]
