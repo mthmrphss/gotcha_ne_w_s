@@ -74,5 +74,43 @@
       "operational_impact": "Ground transport routes in northern Mozambique at elevated risk. Personnel movement requires enhanced security protocols. Cargo shipments may experience delays. Aviation operations currently unaffected but situation volatile.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "50652ccd548e3ea8fed333e51f05ed93",
+    "timestamp": "2025-12-03T07:40:17.481362",
+    "original_title": "VIDEO: Elderly victim recounts attack - KIRO 7 News Seattle",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV3pSVFU3b25jX1diVkpRNGFhWkRIYTdkTTFNcl92ZzVTOWlETVd3V1RpU1p6TjNlcGozSlJWdGktUHhXNGNvMlo3QXRlSjd0THJmNjlNeFQtSDd4UHpVbjNIbnY2d1ZjSjB4T0llRUptREhkOTl5bS1WbnU3MGthbTRJYk8ycTlUVjd6SjJuSnFhR2FXM1F3V3Z4cXR4dDVHMk9ibnltTko1Y3M?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Crime/Theft",
+      "risk_score": 10,
+      "location": "Seattle",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "detailed_analysis": "News article describes an elderly victim recounting a personal attack. While concerning for public safety, this appears to be an individual criminal incident rather than organized crime targeting assets, cargo, or personnel. No indication of systematic threat to transportation infrastructure, aviation, or logistics operations.",
+      "immediate_forecast_24h": "No immediate threat to organizational assets or operations expected. Routine security posture sufficient.",
+      "strategic_outlook": "Local law enforcement handling isolated criminal case. Does not indicate emerging pattern requiring security protocol changes for assets or personnel movement.",
+      "operational_impact": "None. Standard urban crime incident with no bearing on cargo routes, aviation security, or personnel safety protocols.",
+      "proximity_alert": "🚨 YAKIN TEHDİT: Seattle International Airport (0 km)"
+    }
+  },
+  {
+    "id": "afb9486b87ce6ca7c8eb79951ad27f5c",
+    "timestamp": "2025-12-03T07:40:34.638767",
+    "original_title": "Argentina - Level 1: Exercise Normal Precautions",
+    "link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/argentina-travel-advisory.html",
+    "source_name": "US State Dept",
+    "ai_analysis": {
+      "category": "Crime/Theft",
+      "risk_score": 6,
+      "location": "Rosario, Santa Fe province",
+      "latitude": -32.95,
+      "longitude": -60.67,
+      "detailed_analysis": "Increased criminal and narcotics trafficking activity in Rosario resulting in elevated crime and violence levels. While this is a localized threat specific to one city, the involvement of organized criminal elements suggests potential for targeted operations against cargo/logistics assets, particularly in transport corridors.",
+      "immediate_forecast_24h": "Continued criminal activity likely with potential for sporadic violence. No specific elevated threat to aviation or major transport infrastructure indicated in this advisory.",
+      "strategic_outlook": "Persistent criminal environment in Rosario likely to continue medium-term. Potential for spillover effects to logistics operations, cargo theft and smuggling activities. Requires enhanced security protocols for personnel and assets transiting through this region.",
+      "operational_impact": "Increased security measures recommended for personnel in Rosario area. Cargo shipments through Rosario should employ additional security escorts or alternative routing. Personnel should maintain heightened situational awareness and avoid high-risk areas. No immediate impact beyond Rosario region.",
+      "proximity_alert": null
+    }
   }
 ]
