@@ -1,115 +1,39 @@
 [
   {
-    "id": "460373710f20f517e0b1ae72e11bde7a",
-    "timestamp": "2025-12-04T06:57:53.167964",
-    "original_title": "Lawmakers to hear from Navy admiral who ordered attack that killed boat strike survivors - ABC News",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ3NYZFJxRnRxdV9qeUxQWmo0T3JuLW1wdmlqNnBkamtwVHJMMWR6OEI4RldhTUdnMFBQaFhFMXZSZnE3RXdPckpZYXh1SVlZanZhRGtyMjh0SUJ5bWJraWtVUlBacWMyaTc4c1NLdUNRZFkzLXZKbDdueGtxNXk4YmY4NWVRU25vYkJOczE2Yk9UZjMwYm1leld5VDNYOFgxYVHSAacBQVVfeXFMT1lDT2JEbEpocll6QXdzSVpwcGFmbjhSbmppZTlDWFhtTzJVMkxzUGJyYXlLNDA0OFVCMGYzdmlFdThoQ0RjSTFRTzJnckxFLU5CR3NMNnFWeEJvTndzeW5XVTdTWXdELWduaVROd0RadThSNTI5ckhUM2hNcHpuLU44ekxGZGhVSVAzMmFXT3RLNE9lb1R0Z2VQUGFNOUYtOF9mSXFvTGM?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 10,
-      "location": "Washington D.C.",
-      "latitude": 38.9072,
-      "longitude": -77.0369,
-      "detailed_analysis": "The event involves a congressional hearing with a Navy admiral regarding a military engagement that resulted in casualties. While not a direct threat to assets, cargo, or aviation, it reflects geopolitical tensions and potential reputational or policy risks for military and government personnel. No immediate physical threats to logistics or transport are indicated, but the context suggests elevated scrutiny of military decision-making.",
-      "immediate_forecast_24h": "Increased media attention and possible public or political discourse; no direct physical threats to transport or personnel expected within 24 hours.",
-      "strategic_outlook": "Potential for prolonged political and legal scrutiny affecting military operations and international relations; may influence future rules of engagement or operational protocols.",
-      "operational_impact": "Minimal direct impact on cargo, aviation, or logistics; possible indirect effects through policy changes or heightened security protocols in related government or military operations.",
-      "proximity_alert": "🚨 YAKIN TEHDİT: Washington Dulles International Airport (1 km)"
-    }
-  },
-  {
-    "id": "cfd3d46805f373f204c5db9d5d08b261",
-    "timestamp": "2025-12-04T06:58:02.074181",
-    "original_title": "Exclusive: China massing military ships across region in show of maritime force, sources say - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdnVkQzJSbXhDR0UzMmtiaU9MdHJ1a2lLbS0zTHE0Z1NXamRMVDd6VFVObk9LcjhnSUU1S2dwQkRZZ0tVbmMtYm1OaDN3NU5mSlU1N2VETWxmVWl4MWVuRng3a3VSYmZpN2ZHQ0F0WDJFZEI4RWZxc0kxWjktZDlfQndSV0VVeGFjUUctUE1VLVdMMkZ0TlZ1UXB1Ny12b3duT3d3RUpCcFozb25HLV9MZ3VnVVNJSGNycjdzUWU0UQ?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 7,
-      "location": "South China Sea / East Asia",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "China's massing of naval ships across the region signals a deliberate show of force, likely in response to regional tensions or sovereignty assertions. This increases maritime disruption risks, potential for miscalculation, and could affect shipping lanes, though no direct hostile action is reported.",
-      "immediate_forecast_24h": "Heightened naval patrols and possible increased surveillance; low probability of direct engagement but elevated alert for regional assets.",
-      "strategic_outlook": "Sustained naval presence may lead to prolonged regional instability, affecting trade routes and increasing operational costs for maritime logistics; diplomatic tensions could escalate.",
-      "operational_impact": "Potential delays or rerouting for cargo and personnel transport in affected maritime zones; increased vigilance required for asset security in transit.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "f4ffa2ce5a321898be97777cb22a63a5",
-    "timestamp": "2025-12-04T06:58:08.779187",
-    "original_title": "Record 29.7 Tbps DDoS Attack Linked to AISURU Botnet with up to 4 Million Infected Hosts - The Hacker News",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNzl6OUVvbmcwU3NPcnJUSUdfYkFyUUFVOVhMdDVnS1ItS05NLWxraHBwUWpBTlR2Mk9JRl9sWW9qcFhqcTJsUUlHcFBTNGJybTZMTElTMjY0dmhrLWRGMkxROERVWWlYTkUxb05aSy1Ta3NCTlpSWTh0NVFFdTNRVEp3?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Cyber",
-      "risk_score": 8,
-      "location": "Global",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "AISURU botnet with 4 million infected hosts has demonstrated capability to launch massive 29.7 Tbps DDoS attacks, potentially disrupting critical infrastructure including logistics networks, aviation systems, and personnel communication channels. The scale suggests sophisticated coordination and significant threat to digital operations.",
-      "immediate_forecast_24h": "High probability of continued DDoS campaigns targeting vulnerable networks; potential service disruptions to cargo tracking systems, flight operations software, and corporate communications if infrastructure is impacted.",
-      "strategic_outlook": "Long-term persistence of botnet infrastructure indicates sustained cyber threat to transportation and logistics sectors; may evolve to target specific aviation or cargo management systems for extortion or disruption.",
-      "operational_impact": "Potential downtime for web-based cargo tracking, flight scheduling systems, and internal communications; increased latency or complete outage could delay shipments, ground operations, and coordination between personnel.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "1aeb20b5be529466fc8f34af53885925",
-    "timestamp": "2025-12-04T07:39:15.975322",
-    "original_title": "Lawmakers to hear from Navy admiral who ordered attack that killed boat strike survivors - Now Habersham",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaUpHTGJ6elpNQ2hCdzhJTm1fTEtkYmtaYi11RjJnMnBSMC1nUlMxcVlVVXpjMmFZMWk5djkzYjRoeUNkYk5lYlJjQ0lSa25nTWJkTG8tT24xOXVWTDJMY1JLV09YMDd4LUV0ZmRJdkdRcDgwYU12YVExX2JqSTZLRTVmazFPaHlEV1VZNDF1dzYzY0l3cGxzNTVkeEtQQ1QzNGM3SWw3ZkZoZ1ZEencwVzVPNEY?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 10,
-      "location": "Washington D.C.",
-      "latitude": 38.9072,
-      "longitude": -77.0369,
-      "detailed_analysis": "Congressional hearing regarding a past naval engagement involving lethal force against survivors of a boat strike. Event is retrospective analysis/testimony rather than active threat. No direct threat to current maritime operations, cargo, or personnel from this specific hearing.",
-      "immediate_forecast_24h": "Minimal operational impact. Potential for increased media scrutiny of naval operations but no expected changes to security posture or procedures.",
-      "strategic_outlook": "Possible long-term policy discussions regarding rules of engagement and naval procedures, but unlikely to result in immediate operational changes or increased threat levels.",
-      "operational_impact": "None. This is a political/administrative proceeding with no direct bearing on current security operations, asset protection, or transportation security.",
-      "proximity_alert": "🚨 YAKIN TEHDİT: Washington Dulles International Airport (1 km)"
-    }
-  },
-  {
-    "id": "d6e59bcda9af8d4154879db8cae9d621",
-    "timestamp": "2025-12-04T07:39:25.254879",
-    "original_title": "“A Second West Bank”: Israeli Military Raids Escalate in Occupied Syrian Border Villages",
-    "link": "https://www.reddit.com/r/geopolitics/comments/1pdtyd2/a_second_west_bank_israeli_military_raids/",
-    "source_name": "Reddit r/Geopolitics",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 7,
-      "location": "Quneitra, Syria",
-      "latitude": 33.125,
-      "longitude": 35.825,
-      "detailed_analysis": "Israeli military raids escalating in occupied Syrian border villages near Quneitra, with reports of checkpoints, arrests, and increased military presence. This represents a significant intensification of cross-border operations with potential for retaliatory actions by Syrian forces or proxy groups. The 'Second West Bank' framing suggests a pattern of territorial control expansion.",
-      "immediate_forecast_24h": "High probability of continued military operations, possible rocket/mortar fire across border, increased drone activity. Potential for road closures and movement restrictions affecting personnel and supply routes in the border region.",
-      "strategic_outlook": "Sustained elevated tension along Israel-Syria border likely to persist. Risk of escalation involving Iranian-backed militias or Hezbollah. Possible increase in asymmetric attacks against Israeli assets. Border crossing operations may face intermittent disruptions.",
-      "operational_impact": "Ground transport routes near Syrian border face high risk of disruption. Personnel in Quneitra/Golan area require enhanced security protocols. Aviation may experience temporary airspace restrictions. Cargo movements through border areas subject to increased inspection delays and potential diversion.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "f4864319dd26ec5cd660c05686f332a8",
-    "timestamp": "2025-12-04T07:39:36.464685",
-    "original_title": "US to restrict visas for Nigerians involved in violence against Christians",
-    "link": "http://www.africanews.com/2025/12/04/us-to-restrict-visas-for-nigerians-involved-in-violence-against-christians/",
-    "source_name": "Africa News",
+    "id": "9266bbed36a6b76d2566b95b1da1ec7d",
+    "timestamp": "2025-12-04T08:56:55.008603",
+    "original_title": "'Governments abide by values we all stand for,.including democracy and gender equality.”",
+    "link": "https://www.france24.com/en/video/20251204-governments-abide-by-values-we-all-stand-for-including-democracy-and-gender-equality",
+    "source_name": "France 24 ME",
     "ai_analysis": {
       "category": "Civil Unrest",
-      "risk_score": 6,
-      "location": "Nigeria",
-      "latitude": 9.082,
-      "longitude": 8.6753,
-      "detailed_analysis": "US visa restrictions targeting Nigerians involved in violence against Christians may escalate sectarian tensions, potentially leading to protests, retaliatory attacks, or increased targeting of foreign interests, including transport/logistics hubs.",
-      "immediate_forecast_24h": "Possible localized protests near US diplomatic facilities or religious sites; heightened security posture advised for personnel and assets in major cities like Abuja and Lagos.",
-      "strategic_outlook": "Increased polarization could fuel broader civil unrest or opportunistic criminal activity; potential for spillover into transport corridors or critical infrastructure if violence escalates.",
-      "operational_impact": "Monitor personnel movements; reinforce security at warehouses, airports, and transit routes; anticipate possible delays or disruptions due to protests or heightened checkpoints.",
+      "risk_score": 4,
+      "location": "Madagascar, Guinea-Bissau, Gabon",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Political instability in multiple African nations creates elevated risk environment for French personnel and assets. Minister's statement indicates fragile state-to-state relations following couches and contested government legitimacy, suggesting potential for protests, anti-foreign sentiment, or targeted actions against French interests. No direct threats mentioned but diplomatic recalibration suggests underlying security concerns.",
+      "immediate_forecast_24h": "Low probability of immediate security incidents, but heightened alert warranted for French diplomatic facilities and personnel movements in mentioned regions due to political volatility.",
+      "strategic_outlook": "Continued political uncertainty likely to persist in these regions, requiring ongoing situational assessment. France's delicate diplomatic positioning may face challenges from local anti-colonial sentiments, potentially escalating to targeted protests or harassment of French nationals.",
+      "operational_impact": "Increased vigilance required for personnel movements and asset protection in affected regions. Diplomatic facilities may require enhanced security protocols. Cargo and aviation routes should monitor for potential disruptions from civil unrest.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "3f040d8397ec2f25b7a3d844e12fd411",
+    "timestamp": "2025-12-04T08:57:10.983948",
+    "original_title": "Major airports face ‘severe disruption’ as India’s largest carrier cancels over 200 flights",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/indigo-flight-cancel-india-delhi-airport-bangaluru-b2877775.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 3,
+      "location": "India",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "IndiGo's cancellation of over 200 flights due to government-mandated crew rostering changes indicates operational disruption rather than security threats. No evidence of malicious intent, terrorism, or criminal activity. This is a compliance and logistics issue affecting flight schedules and passenger movement.",
+      "immediate_forecast_24h": "Continued flight cancellations and delays likely as airline adjusts to new regulations; potential for passenger frustration and minor congestion at affected airports.",
+      "strategic_outlook": "Regulatory adjustments may lead to short-term instability in flight operations, but no escalation to security risks anticipated. Airline expected to stabilize schedules within weeks.",
+      "operational_impact": "Disruption to passenger travel plans and potential resource strain at airports; no direct threat to assets, cargo, or personnel security.",
       "proximity_alert": null
     }
   }
