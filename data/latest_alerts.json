@@ -74,5 +74,43 @@
       "operational_impact": "High risk to personnel safety and cargo/asset security in North Darfur; aviation may face indirect threats from unrest or targeted infrastructure damage; recommend suspending non-essential operations and relocating personnel if feasible.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "f0dc94041629622ff9b9ee640b0e328c",
+    "timestamp": "2025-12-04T14:50:37.689391",
+    "original_title": "AP report: FBI makes arrest in probe of pipe bombs placed in D.C. on eve of Jan. 6 attack - PBS",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY3YweFYtamdURnBQSndDOXlIMF9TN3RaSXlINjNEWi10TERxc3ltN1loalZabFFSNkNpa2E4Q0U3VHAtLThJcVhVS1pNMi05X2E2SWo3VGlkMlNNdzhzbmRkVzYtN0cycTd5TlltcTJ3elhiWUxQU2MyQ0NyR2k5Y1RpemFPWktuZHF3ZE9MSVpWc3NXQS0zOGJmeWlMczdzaUI2Vzl2TlU5WXZIQmkxTHlDb0xZNVNyVFJRUWNrb1JPZw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 10,
+      "location": "Washington D.C.",
+      "latitude": 38.9072,
+      "longitude": -77.0369,
+      "detailed_analysis": "FBI arrest in connection with pipe bombs placed in Washington D.C. on January 5, 2021, indicating active domestic terrorism investigation. Pipe bombs represent improvised explosive devices (IEDs) capable of causing significant damage to infrastructure and personnel. Event occurred in proximity to critical government assets and high-traffic areas. Arrest suggests ongoing law enforcement activity but does not eliminate potential for copycat incidents or related threats.",
+      "immediate_forecast_24h": "Increased law enforcement presence and possible additional investigative activity in D.C. area. Potential for related disruptions to transportation and government operations. No specific imminent threat indicated by this arrest alone.",
+      "strategic_outlook": "Continued elevated terrorism threat environment in national capital region. Potential for additional arrests or discoveries related to this case. May indicate persistent domestic extremist networks capable of manufacturing and deploying IEDs.",
+      "operational_impact": "Temporary security enhancements around government facilities and transportation hubs in D.C. Possible delays for cargo and personnel movements during law enforcement operations. Aviation operations at nearby airports may experience heightened security screening protocols.",
+      "proximity_alert": "🚨 YAKIN TEHDİT: Washington Dulles International Airport (1 km)"
+    }
+  },
+  {
+    "id": "73caf6b83a0a4097aceaee845930bbca",
+    "timestamp": "2025-12-04T14:51:06.321281",
+    "original_title": "US authorities arrest suspect for planting pipe bombs ahead of January 6 riots",
+    "link": "https://www.france24.com/en/americas/20251204-us-authorities-arrest-suspect-for-planting-pipe-bombs-ahead-of-january-6-riots",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 10,
+      "location": "Washington DC",
+      "latitude": 38.9072,
+      "longitude": -77.0369,
+      "detailed_analysis": "Suspected domestic terrorism involving pipe bomb placement near political infrastructure preceding major civil unrest event. Indicates premeditated violent intent to disrupt democratic processes and potentially cause mass casualties. FBI involvement confirms high-priority threat assessment.",
+      "immediate_forecast_24h": "Increased law enforcement presence and security screening in DC government districts. Possible additional device discoveries or related arrests. Elevated protest activity may continue around political sites.",
+      "strategic_outlook": "Persistent domestic extremist threat to government assets and personnel. Potential copycat incidents during high-profile political events. Long-term radicalization trends may increase frequency of similar attacks.",
+      "operational_impact": "Enhanced physical security protocols required for all government facilities and personnel movements in DC area. Temporary suspension of non-essential operations near Capitol complex. Increased screening for mail/deliveries to sensitive locations.",
+      "proximity_alert": "🚨 YAKIN TEHDİT: Washington Dulles International Airport (1 km)"
+    }
   }
 ]
