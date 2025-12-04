@@ -1,78 +1,97 @@
 [
   {
-    "id": "f0dc94041629622ff9b9ee640b0e328c",
-    "timestamp": "2025-12-04T14:50:37.689391",
-    "original_title": "AP report: FBI makes arrest in probe of pipe bombs placed in D.C. on eve of Jan. 6 attack - PBS",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY3YweFYtamdURnBQSndDOXlIMF9TN3RaSXlINjNEWi10TERxc3ltN1loalZabFFSNkNpa2E4Q0U3VHAtLThJcVhVS1pNMi05X2E2SWo3VGlkMlNNdzhzbmRkVzYtN0cycTd5TlltcTJ3elhiWUxQU2MyQ0NyR2k5Y1RpemFPWktuZHF3ZE9MSVpWc3NXQS0zOGJmeWlMczdzaUI2Vzl2TlU5WXZIQmkxTHlDb0xZNVNyVFJRUWNrb1JPZw?oc=5",
-    "source_name": "Google News (Breaking)",
+    "id": "f6b3049442fa03910fe6f0a4b29ce4a1",
+    "timestamp": "2025-12-04T17:00:56.255203",
+    "original_title": "United Airlines flight diverted to Edinburgh as pilot declares emergency onboard - Yahoo News UK",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQb1otZjFCeFE1aFVjdjlLclJ6bWJYU3NablNPRGVsc2M4MXVTLUgwbEtISVRVN0RXbFdROXZld3R5WlZ5bXZUeWlFWEtuRU5rZ3c0dzJDUG1WMGRSS1lLY1dQN09rRWhjSTlkSklMWXZPRXRsb3BZcFp5NDNmRHpNUzJhV1I5bHZKY1E?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Edinburgh, Scotland",
+      "latitude": 55.9533,
+      "longitude": -3.1883,
+      "detailed_analysis": "United Airlines flight declared emergency and diverted to Edinburgh Airport. While specific cause not detailed in headline, emergency declarations in aviation typically indicate serious technical malfunctions, medical emergencies, or security concerns requiring immediate landing. Diverted flights suggest potential safety or security compromise affecting aircraft operations.",
+      "immediate_forecast_24h": "Increased scrutiny on United Airlines operations, potential flight delays or cancellations for related routes, enhanced security screening at Edinburgh Airport, and possible follow-up investigations by aviation authorities.",
+      "strategic_outlook": "Potential short-term operational disruptions for United Airlines on transatlantic routes. May trigger review of aircraft maintenance protocols. Could lead to temporary increased security measures at UK airports if incident reveals systemic issues.",
+      "operational_impact": "Flight diversion causes immediate operational disruption. Requires coordination with local emergency services. Potential aircraft inspection/maintenance downtime. Passenger rebooking logistics. Possible cascading delays to connected flights.",
+      "proximity_alert": "🚨 YAKIN TEHDİT: Edinburg Airport (10 km)"
+    }
+  },
+  {
+    "id": "cdc397c8ae3405fc1288a56027ef5267",
+    "timestamp": "2025-12-04T17:01:15.117820",
+    "original_title": "IndiGo: Over 300 flights cancelled as airline in India faces 'staff shortage crisis'",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pe5711/indigo_over_300_flights_cancelled_as_airline_in/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 7,
+      "location": "India",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "IndiGo's cancellation of over 300 flights due to a 'staff shortage crisis' indicates significant operational instability. While not a security incident, this disruption impacts aviation reliability, passenger safety, and could create secondary risks like overcrowding, passenger frustration, or potential for opportunistic criminal activity in chaotic environments.",
+      "immediate_forecast_24h": "Continued flight disruptions likely; potential for passenger unrest at airports, delays in cargo movement, and strain on alternative transport networks.",
+      "strategic_outlook": "If unresolved, this may degrade public trust in aviation security and operational readiness, potentially inviting further scrutiny or exploitation by malicious actors observing systemic weaknesses.",
+      "operational_impact": "Increased monitoring of IndiGo operations and affected airports advised; contingency plans for personnel and cargo rerouting may be necessary to mitigate cascading delays.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "4965b4b6527ced5e2c16dd0a09a5ca29",
+    "timestamp": "2025-12-04T17:01:50.161266",
+    "original_title": "Suspect arrested in Jan. 6 pipe bomb case",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pe4mts/suspect_arrested_in_jan_6_pipe_bomb_case/",
+    "source_name": "Reddit r/WorldNews",
     "ai_analysis": {
       "category": "Terrorism",
       "risk_score": 10,
-      "location": "Washington D.C.",
+      "location": "Washington, D.C.",
       "latitude": 38.9072,
       "longitude": -77.0369,
-      "detailed_analysis": "FBI arrest in connection with pipe bombs placed in Washington D.C. on January 5, 2021, indicating active domestic terrorism investigation. Pipe bombs represent improvised explosive devices (IEDs) capable of causing significant damage to infrastructure and personnel. Event occurred in proximity to critical government assets and high-traffic areas. Arrest suggests ongoing law enforcement activity but does not eliminate potential for copycat incidents or related threats.",
-      "immediate_forecast_24h": "Increased law enforcement presence and possible additional investigative activity in D.C. area. Potential for related disruptions to transportation and government operations. No specific imminent threat indicated by this arrest alone.",
-      "strategic_outlook": "Continued elevated terrorism threat environment in national capital region. Potential for additional arrests or discoveries related to this case. May indicate persistent domestic extremist networks capable of manufacturing and deploying IEDs.",
-      "operational_impact": "Temporary security enhancements around government facilities and transportation hubs in D.C. Possible delays for cargo and personnel movements during law enforcement operations. Aviation operations at nearby airports may experience heightened security screening protocols.",
+      "detailed_analysis": "The article reports an arrest related to the January 6 pipe bombs case. The weaponization of devices and the historical context indicate potential capacity and intent to affect targets perceived as political. As a SOC analyst, treat this as an elevated terrorism/crime signal that warrants ongoing monitoring for additional devices, suspects, or operational plots connected to the case. Immediate risk to assets, cargo, aviation, or personnel appears limited at present based solely on the arrest, but the case underscores the threat posed by improvised explosive devices and the possibility of related activity. Protective emphasis should focus on federal facilities, mass gathering venues, transit hubs, and screening of suspicious packages, with interagency information sharing to identify ancillary actors or networks.",
+      "immediate_forecast_24h": "Investigations will likely yield updates; security posture in the DC area may remain heightened. No confirmed active threat to aviation or cargo is indicated in the material provided; however, security measures for sensitive sites and mail screening should remain prudent.",
+      "strategic_outlook": "Over the medium term, there is potential for further investigations revealing links to additional actors or networks; monitoring for bomb components, online chatter, or procurement patterns could inform risk mitigation. Preparedness for potential copycat attempts should be maintained, and interagency cooperation will be key.",
+      "operational_impact": "Operational effects are expected to be moderate and localized to DC-area security operations and sensitive facilities; routine cargo and transit operations should not be materially disrupted absent new threat intelligence. Agencies may increase screening of suspicious packages and tighten access controls around federal buildings.",
       "proximity_alert": "🚨 YAKIN TEHDİT: Washington Dulles International Airport (1 km)"
     }
   },
   {
-    "id": "73caf6b83a0a4097aceaee845930bbca",
-    "timestamp": "2025-12-04T14:51:06.321281",
-    "original_title": "US authorities arrest suspect for planting pipe bombs ahead of January 6 riots",
-    "link": "https://www.france24.com/en/americas/20251204-us-authorities-arrest-suspect-for-planting-pipe-bombs-ahead-of-january-6-riots",
+    "id": "f689bb9f67020fd81560a61f50743fe1",
+    "timestamp": "2025-12-04T17:02:01.260629",
+    "original_title": "Venezuela: U.S. deportation flights continue despite airspace closure threat",
+    "link": "http://www.africanews.com/2025/12/04/venezuela-us-deportation-flights-continue-despite-airspace-closure-threat/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Border/Migration",
+      "risk_score": 10,
+      "location": "Caracas, Venezuela",
+      "latitude": 10.4806,
+      "longitude": -66.9036,
+      "detailed_analysis": "U.S. deportation flight to Caracas proceeded despite political tensions, indicating operational defiance of Venezuela's airspace closure threat. Event demonstrates potential for escalated aviation disputes, though no direct threat to flight safety was reported. Migrant repatriation introduces social volatility risks in destination region.",
+      "immediate_forecast_24h": "Heightened alert for additional deportation flights; possible Venezuelan military airspace enforcement attempts could create mid-air standoffs or forced diversions.",
+      "strategic_outlook": "Prolonged political standoff may lead to intercepted flights, diplomatic incidents, or retaliatory aviation restrictions affecting commercial and cargo operations in Caribbean air corridors.",
+      "operational_impact": "Increased flight planning scrutiny for Venezuela routes; possible need for diplomatic clearances and real-time airspace status monitoring. Personnel in Caracas may face protest-related movement restrictions.",
+      "proximity_alert": "🚨 YAKIN TEHDİT: Maiquetía \"Simón Bolívar\" International Airport (3 km)"
+    }
+  },
+  {
+    "id": "d2ef7365ed24812f8cead7699ace10cc",
+    "timestamp": "2025-12-04T17:02:20.224969",
+    "original_title": "As a new suspect is arrested in Louvre heist, the museum unveils its newest arts space",
+    "link": "https://www.france24.com/en/tv-shows/arts24/20251204-as-a-new-suspect-is-arrested-in-louvre-heist-the-museum-unveils-its-newest-arts-space",
     "source_name": "France 24 ME",
     "ai_analysis": {
-      "category": "Terrorism",
+      "category": "Crime/Theft",
       "risk_score": 10,
-      "location": "Washington DC",
-      "latitude": 38.9072,
-      "longitude": -77.0369,
-      "detailed_analysis": "Suspected domestic terrorism involving pipe bomb placement near political infrastructure preceding major civil unrest event. Indicates premeditated violent intent to disrupt democratic processes and potentially cause mass casualties. FBI involvement confirms high-priority threat assessment.",
-      "immediate_forecast_24h": "Increased law enforcement presence and security screening in DC government districts. Possible additional device discoveries or related arrests. Elevated protest activity may continue around political sites.",
-      "strategic_outlook": "Persistent domestic extremist threat to government assets and personnel. Potential copycat incidents during high-profile political events. Long-term radicalization trends may increase frequency of similar attacks.",
-      "operational_impact": "Enhanced physical security protocols required for all government facilities and personnel movements in DC area. Temporary suspension of non-essential operations near Capitol complex. Increased screening for mail/deliveries to sensitive locations.",
-      "proximity_alert": "🚨 YAKIN TEHDİT: Washington Dulles International Airport (1 km)"
-    }
-  },
-  {
-    "id": "736397d1030dd1d9a5d8a9f70d67bd06",
-    "timestamp": "2025-12-04T15:47:40.561108",
-    "original_title": "Caribbean strike survivors were lawful targets for second attack, admiral to tell lawmakers - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMjZyVEYtTHlnM0ljOHB0a216VGswbk5SU0FYUmNjanBZM29CcWU2bDNIYnprRTd4Qldxc3VnV3hDbmVPY042dDZ2OGNEVkl3SEZlSXZ2UVRNQWZ5RFE4OWlzQ05HOFItUHA4TkZqOElXNlJMR0UxLUNnVnljZWl2WERVSFY5UVBxQ1dlcTdhUm1ramFXOUkxNHktbzZUX1UzbmR1UFI4UUtMUHlXZHl4NFdvaWRzRHFrQ2t6Y0t3?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 8,
-      "location": "Caribbean (general region)",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "Admiral's statement indicates military engagement in Caribbean involving follow-up strikes on survivors of initial attack. Suggests ongoing armed conflict with potential escalation. Lawful targets designation implies state actor involvement and rules of engagement discussions. High risk to personnel and aviation assets in the region due to potential retaliatory actions or expanded conflict zone.",
-      "immediate_forecast_24h": "Increased military activity likely in Caribbean region. Possible retaliatory strikes or expanded operations. Commercial aviation may face heightened security risks including potential misidentification or collateral damage. Maritime traffic should expect increased naval presence and potential disruptions.",
-      "strategic_outlook": "Potential for regional conflict escalation. Increased scrutiny of maritime and aviation movements. Possible economic impacts on shipping lanes. Diplomatic tensions may affect regional stability and international travel advisories.",
-      "operational_impact": "Heightened threat level for all assets in Caribbean region. Recommend increased vigilance for maritime and aviation operations. Personnel movements should be carefully coordinated with updated security assessments. Cargo shipments may face delays due to increased security checks and potential route diversions.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "4d0c581187288df46de8f68097927a0b",
-    "timestamp": "2025-12-04T15:47:55.209115",
-    "original_title": "Top military officials brief lawmakers on strikes on alleged drug boats - CBS News",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaDRsOWhOTmhoUlNsa1lrMWJPQktYM2hfUEtCalA0NjJnUEdhcS13VmRyZTJKTUJBazkyVmVTMFNKbjdNX1hsRE9YYnI2N2hoMGNXcVVNTHlXWmdjcFhsNDRKaDJDblMyb2tacktZTFEyLS1MRVduTHZUOWRrQkNjU3BDaFJTem5nRXIwRHhn0gGTAUFVX3lxTE9YNVRyb0N6YzdfaVloLXJxUzR5LWd2VDVOdTd3MWF5LU0tR2pPaEZFYWVFbmZlNnN0R0xCWTdCNDZqWTFaOHM3b0NISnM0c1RTTUJ3OVBzYWp2dHh3LXhYT2lfVFdYbFl6dE5KUEgzbTBBT0w4MEhldGdfMG04ZWpTZXlfWmt6c0lhdnBiMXphWkEwQQ?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 7,
-      "location": "Unspecified maritime region (likely international waters or coastal areas)",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "Military strikes on alleged drug boats indicate active counter-narcotics or counter-smuggling operations, potentially involving naval or air assets. While not directly targeting aviation or cargo infrastructure, such operations may involve kinetic force in maritime zones, posing collateral risks to nearby commercial shipping, aviation overflight, or personnel. The involvement of top military officials briefing lawmakers suggests elevated operational tempo and possible escalation.",
-      "immediate_forecast_24h": "Possible increased naval/air patrols, temporary maritime exclusion zones, or heightened alert levels for vessels/aircraft transiting affected regions. Risk of misidentification or accidental engagement in dynamic operational environments.",
-      "strategic_outlook": "Continued or expanded counter-smuggling operations may lead to prolonged maritime disruption, increased regional tensions, or retaliatory actions by criminal organizations, potentially affecting shipping lanes and logistics security over time.",
-      "operational_impact": "Maritime operators should exercise caution, monitor navigational warnings, and consider rerouting if necessary. Aviation may face temporary flight restrictions over operational areas. Personnel in or near conflict zones may encounter heightened risks.",
-      "proximity_alert": null
+      "location": "Paris, France",
+      "latitude": 48.8606,
+      "longitude": 2.3376,
+      "detailed_analysis": "The Louvre Museum in Paris has experienced an audacious heist in October, with a new suspect recently taken into custody. While the article focuses on the museum's new gallery opening and cultural events, the ongoing criminal investigation into art theft represents a persistent security concern. Art heists at high-profile cultural institutions often involve organized crime groups and sophisticated planning, indicating potential vulnerabilities in physical security and asset protection measures.",
+      "immediate_forecast_24h": "Increased police presence and security scrutiny around the Louvre is likely as the investigation continues. Possible additional arrests or investigative developments may occur. No immediate threat to aviation or cargo operations identified from this specific event.",
+      "strategic_outlook": "The Louvre heist suggests potential gaps in cultural institution security that could be exploited by criminal networks. May indicate increased targeting of high-value cultural assets in major European cities. Could lead to enhanced security protocols at museums and cultural sites across the region.",
+      "operational_impact": "Increased security screening for personnel and visitors at cultural institutions. Possible temporary closures or restricted access during investigative activities. Enhanced monitoring of art transportation and storage facilities may be implemented. No direct impact on aviation or cargo operations identified.",
+      "proximity_alert": "🚨 YAKIN TEHDİT: Paris Charles de Gaulle Airport (1 km)"
     }
   }
 ]
