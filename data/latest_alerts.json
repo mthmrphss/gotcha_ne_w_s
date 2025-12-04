@@ -93,5 +93,43 @@
       "operational_impact": "Increased security screening for personnel and visitors at cultural institutions. Possible temporary closures or restricted access during investigative activities. Enhanced monitoring of art transportation and storage facilities may be implemented. No direct impact on aviation or cargo operations identified.",
       "proximity_alert": "🚨 YAKIN TEHDİT: Paris Charles de Gaulle Airport (1 km)"
     }
+  },
+  {
+    "id": "b79b80604f844709d4d8ef4fa5bc9725",
+    "timestamp": "2025-12-04T17:47:55.110087",
+    "original_title": "Four arrested in Eastbourne and Brighton in right-wing terror investigation",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pe6f19/four_arrested_in_eastbourne_and_brighton_in/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 7,
+      "location": "Eastbourne and Brighton, UK",
+      "latitude": 50.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Four individuals arrested in connection with a right-wing terror investigation. While specific targets are not disclosed, the nature of right-wing extremism often includes symbolic or high-impact targets, which could potentially include transport hubs, public gatherings, or critical infrastructure. The arrests suggest law enforcement disruption of an active plot, but residual risk remains if associates or sympathizers are still at large.",
+      "immediate_forecast_24h": "Increased police presence in Eastbourne and Brighton; possible heightened security at transport nodes and public spaces. Risk of retaliatory or copycat actions by affiliated groups cannot be ruled out.",
+      "strategic_outlook": "Right-wing extremism remains a persistent threat in the UK, with potential for targeting aviation, maritime cargo, or personnel in symbolic attacks. Continued intelligence monitoring and interagency coordination are advised to mitigate escalation.",
+      "operational_impact": "Review and possibly elevate security posture for assets and personnel in Sussex region; consider enhanced screening for cargo and aviation in the area. Monitor for any chatter or threats related to the arrests.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "2833a838d3036ce6b37dbf39e7750a52",
+    "timestamp": "2025-12-04T17:48:03.169251",
+    "original_title": "Former Venezuelan spy chief says Maduro runs 'narco-terrorist organisation'",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pe5zxx/former_venezuelan_spy_chief_says_maduro_runs/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 7,
+      "location": "Venezuela",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Allegations from former intelligence official suggest state-sponsored narco-terrorism operations, indicating potential involvement of government assets in illicit activities. This elevates risks to personnel and cargo through possible retaliatory actions, increased surveillance of foreign assets, and potential for compromised security protocols.",
+      "immediate_forecast_24h": "Increased vigilance required for all Venezuela-based operations. Possible heightened surveillance of foreign personnel and assets. No specific imminent threat detected but situational awareness critical.",
+      "strategic_outlook": "Potential for increased sanctions, international pressure, and possible retaliatory measures from affected parties. Long-term degradation of security environment for foreign operations in Venezuela.",
+      "operational_impact": "Review all Venezuela-based security protocols. Enhance personnel security details. Scrutinize local partnerships and supply chains for potential compromise. Consider temporary relocation of non-essential personnel.",
+      "proximity_alert": null
+    }
   }
 ]
