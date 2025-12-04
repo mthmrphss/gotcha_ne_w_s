@@ -36,5 +36,62 @@
       "operational_impact": "Aviation operations in region face increased collision risk with military and unauthorized drones. Cargo flights may experience reroutes or delays. Personnel in area subject to heightened security protocols. Potential for rapid escalation requires contingency planning.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "f95580c53a2564c63eadd3d5467cd277",
+    "timestamp": "2025-12-04T22:39:12.866422",
+    "original_title": "FBI arrests suspect from Virginia in Jan. 6 pipe bomb attack - NPR",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSUNILXJXaW5CNFBWQm1WN3U1TTJEbW1tazUyMWp2ZS1yeGhsbHg2ZUpVR0V4cXF4YVAtdWtCRGxuaDgyWGNhelZ3eGE5LXYxWkIyeWkxcUVVOFJScUF1SWpWT2RQRUlzaU1rQXdlR2x1MVBTNkFiUVB0R2swUEVhSGNQTXJhdkdfT2FUcS1HOFFkZmNzbEk4Zi02RGxqem5Fbm4xbFlYSQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 10,
+      "location": "Washington D.C.",
+      "latitude": 38.9072,
+      "longitude": -77.0369,
+      "detailed_analysis": "FBI arrest of Virginia suspect in January 6 pipe bomb attack indicates ongoing law enforcement action against domestic terrorism threats. The incident involved explosive devices placed near political buildings, demonstrating capability and intent for mass casualty attacks. While this is a past event, the arrest suggests continued investigation into coordinated extremist activities targeting government infrastructure.",
+      "immediate_forecast_24h": "Potential for increased law enforcement presence in DC area; possible retaliatory rhetoric or copycat threats from extremist groups. No specific imminent threat indicated by this arrest alone.",
+      "strategic_outlook": "Domestic terrorism remains persistent threat to government assets and personnel. Pattern of January 6-related arrests suggests ongoing network disruption operations. Expect continued investigations and potential additional arrests in coming months.",
+      "operational_impact": "Enhanced security screening recommended for government facilities in DC area. Personnel should maintain heightened awareness of suspicious packages/behavior. No immediate changes to cargo or aviation protocols based on this specific event.",
+      "proximity_alert": "🚨 YAKIN TEHDİT: Washington Dulles International Airport (1 km)"
+    }
+  },
+  {
+    "id": "4f3f36446dd40d311f7fa2271c1df16d",
+    "timestamp": "2025-12-04T22:39:34.102485",
+    "original_title": "United Airlines Flight Diverted Due to ‘Emergency’ Onboard - Men's Journal",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWXlQUTdXaDI3ZlIxLVBPWWwzd1I4U1lNOVE3MGc4SURCUXdXZlRiTUU1X3QwUFczclk5WEhCa09iYng0UE5NblVhMnVHcWR6WmUxejlJb3h2cXhyNG01S3hjdy1DYkphTlQ3WFpqLWFmalhHWFdRaE9McnZjR3hmbHA3cGU2UUpMaFYwRFdjMEZLUzQ?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 7,
+      "location": "Unknown (in-flight emergency)",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "United Airlines flight diverted due to unspecified 'emergency' onboard. While specific details are not provided in the headline, aviation emergencies typically involve mechanical issues, medical situations, or security concerns that require immediate diversion. The use of 'emergency' suggests a non-routine situation requiring urgent response.",
+      "immediate_forecast_24h": "Increased scrutiny of United Airlines operations, potential delays or additional security screening for connecting flights from the affected aircraft. Possible FAA investigation initiation.",
+      "strategic_outlook": "Potential temporary operational adjustments by United Airlines. May lead to review of emergency response protocols. Unlikely to indicate broader systemic threat unless pattern emerges.",
+      "operational_impact": "Flight disruption, passenger rebooking, potential aircraft inspection/maintenance requirements. Possible brief impact on United's operational schedule and passenger confidence.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "2067e2e2495002f16fa30c16f62788bf",
+    "timestamp": "2025-12-04T22:39:42.072195",
+    "original_title": "United Airlines flight declares mid-air emergency over UK as plane diverted - The Mirror",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZmxIZjNLSUtzb0VCUVVpRGZOTC13N2pMSldRY3pmUzlWcDMyVnRqeEhxY3JWSzhwd1dpZkE3d3BrYmVQSEk4eXJaNGdjenpYeS1URW9MRTczcG5oaS1mbXpoMW9VX2xEUFFOMkt1LUNlLTBEemdOQ2piU192Sk11dkRCbVFwUDk0Q25mNDkyLVrSAZYBQVVfeXFMUEw1U1pMdHQxM1VaWVlObTNJb1VPUWJ5M0JzTnhWT3hDY1hJS2g4ZzZ6TXVUYXNrYW5DSGk3Z1oxTlluZ1JpQlhRdUp4dWhRMDZFMlB3M2JweVdTWlJYYzJrcm9IVS1LdmhCTmZuQ3FMQVR5ZGx1d0lSMXl2TGxHWElWV1VlNXNxQjVYVTlfckdsWDJhZFJR?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 7,
+      "location": "UK airspace",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "United Airlines flight declared mid-air emergency and diverted over UK airspace. While specific cause not detailed in headline, mid-air emergencies in aviation context represent significant operational disruptions with potential safety implications. Requires immediate investigation into cause (mechanical failure, medical emergency, security concern, or other critical issue).",
+      "immediate_forecast_24h": "Increased scrutiny on United Airlines operations, potential flight delays or cancellations in affected region, possible secondary security screenings for related flights. UK aviation authorities likely to issue temporary operational advisories.",
+      "strategic_outlook": "Potential for enhanced security protocols across transatlantic routes if incident reveals systemic vulnerability. May trigger review of emergency response procedures for airlines operating in European airspace.",
+      "operational_impact": "Immediate diversion procedures activated, airport security protocols possibly elevated at diversion airport. Potential ripple effects on flight schedules and increased passenger screening for United Airlines flights in the region for next 24-48 hours.",
+      "proximity_alert": null
+    }
   }
 ]
