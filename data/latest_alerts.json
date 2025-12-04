@@ -55,5 +55,62 @@
       "operational_impact": "Potential downtime for web-based cargo tracking, flight scheduling systems, and internal communications; increased latency or complete outage could delay shipments, ground operations, and coordination between personnel.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "1aeb20b5be529466fc8f34af53885925",
+    "timestamp": "2025-12-04T07:39:15.975322",
+    "original_title": "Lawmakers to hear from Navy admiral who ordered attack that killed boat strike survivors - Now Habersham",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaUpHTGJ6elpNQ2hCdzhJTm1fTEtkYmtaYi11RjJnMnBSMC1nUlMxcVlVVXpjMmFZMWk5djkzYjRoeUNkYk5lYlJjQ0lSa25nTWJkTG8tT24xOXVWTDJMY1JLV09YMDd4LUV0ZmRJdkdRcDgwYU12YVExX2JqSTZLRTVmazFPaHlEV1VZNDF1dzYzY0l3cGxzNTVkeEtQQ1QzNGM3SWw3ZkZoZ1ZEencwVzVPNEY?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Washington D.C.",
+      "latitude": 38.9072,
+      "longitude": -77.0369,
+      "detailed_analysis": "Congressional hearing regarding a past naval engagement involving lethal force against survivors of a boat strike. Event is retrospective analysis/testimony rather than active threat. No direct threat to current maritime operations, cargo, or personnel from this specific hearing.",
+      "immediate_forecast_24h": "Minimal operational impact. Potential for increased media scrutiny of naval operations but no expected changes to security posture or procedures.",
+      "strategic_outlook": "Possible long-term policy discussions regarding rules of engagement and naval procedures, but unlikely to result in immediate operational changes or increased threat levels.",
+      "operational_impact": "None. This is a political/administrative proceeding with no direct bearing on current security operations, asset protection, or transportation security.",
+      "proximity_alert": "🚨 YAKIN TEHDİT: Washington Dulles International Airport (1 km)"
+    }
+  },
+  {
+    "id": "d6e59bcda9af8d4154879db8cae9d621",
+    "timestamp": "2025-12-04T07:39:25.254879",
+    "original_title": "“A Second West Bank”: Israeli Military Raids Escalate in Occupied Syrian Border Villages",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1pdtyd2/a_second_west_bank_israeli_military_raids/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Quneitra, Syria",
+      "latitude": 33.125,
+      "longitude": 35.825,
+      "detailed_analysis": "Israeli military raids escalating in occupied Syrian border villages near Quneitra, with reports of checkpoints, arrests, and increased military presence. This represents a significant intensification of cross-border operations with potential for retaliatory actions by Syrian forces or proxy groups. The 'Second West Bank' framing suggests a pattern of territorial control expansion.",
+      "immediate_forecast_24h": "High probability of continued military operations, possible rocket/mortar fire across border, increased drone activity. Potential for road closures and movement restrictions affecting personnel and supply routes in the border region.",
+      "strategic_outlook": "Sustained elevated tension along Israel-Syria border likely to persist. Risk of escalation involving Iranian-backed militias or Hezbollah. Possible increase in asymmetric attacks against Israeli assets. Border crossing operations may face intermittent disruptions.",
+      "operational_impact": "Ground transport routes near Syrian border face high risk of disruption. Personnel in Quneitra/Golan area require enhanced security protocols. Aviation may experience temporary airspace restrictions. Cargo movements through border areas subject to increased inspection delays and potential diversion.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "f4864319dd26ec5cd660c05686f332a8",
+    "timestamp": "2025-12-04T07:39:36.464685",
+    "original_title": "US to restrict visas for Nigerians involved in violence against Christians",
+    "link": "http://www.africanews.com/2025/12/04/us-to-restrict-visas-for-nigerians-involved-in-violence-against-christians/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 6,
+      "location": "Nigeria",
+      "latitude": 9.082,
+      "longitude": 8.6753,
+      "detailed_analysis": "US visa restrictions targeting Nigerians involved in violence against Christians may escalate sectarian tensions, potentially leading to protests, retaliatory attacks, or increased targeting of foreign interests, including transport/logistics hubs.",
+      "immediate_forecast_24h": "Possible localized protests near US diplomatic facilities or religious sites; heightened security posture advised for personnel and assets in major cities like Abuja and Lagos.",
+      "strategic_outlook": "Increased polarization could fuel broader civil unrest or opportunistic criminal activity; potential for spillover into transport corridors or critical infrastructure if violence escalates.",
+      "operational_impact": "Monitor personnel movements; reinforce security at warehouses, airports, and transit routes; anticipate possible delays or disruptions due to protests or heightened checkpoints.",
+      "proximity_alert": null
+    }
   }
 ]
