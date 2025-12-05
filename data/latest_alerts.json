@@ -74,5 +74,24 @@
       "operational_impact": "Increased passenger screening delays, potential for security breaches due to overcrowding, strain on airport personnel, possible diversion of security resources to crowd control. Secondary impact on cargo operations due to disrupted flight schedules.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "2a1b4453936daa67e0ad50d8970c88af",
+    "timestamp": "2025-12-05T14:45:15.188420",
+    "original_title": "Tanzania blocks activists online as independence day protests loom",
+    "link": "http://www.africanews.com/2025/12/05/tanzania-blocks-activists-online-as-independence-day-protests-loom/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 6,
+      "location": "Tanzania",
+      "latitude": -6.369,
+      "longitude": 34.8888,
+      "detailed_analysis": "Government-directed social media censorship targeting activist Maria Sarungi-Tsehai indicates heightened state sensitivity to dissent ahead of planned Independence Day protests. This digital suppression tactic often precedes physical crackdowns and may escalate public frustration, increasing likelihood of confrontations during demonstrations.",
+      "immediate_forecast_24h": "Increased protest activity likely on December 9 with potential for clashes between security forces and demonstrators. Possible internet throttling or additional social media restrictions. Elevated risk of opportunistic looting or property damage near protest sites.",
+      "strategic_outlook": "Sustained digital censorship patterns may emerge, affecting business communications and supply chain coordination. Potential for prolonged civil unrest if government response is perceived as oppressive, possibly impacting port operations and transportation routes.",
+      "operational_impact": "Monitor personnel movements, avoid protest zones in urban centers. Expect potential internet connectivity issues for remote operations. Increased scrutiny of digital communications advised. Cargo shipments may experience delays if protests affect port access or major transport corridors.",
+      "proximity_alert": null
+    }
   }
 ]
