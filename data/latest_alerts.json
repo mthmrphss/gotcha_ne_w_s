@@ -74,5 +74,62 @@
       "operational_impact": "Reduced aviation capacity increases vulnerability to cascading disruptions. Security screening and cargo inspection resources may be strained handling backlog and frustrated passengers. Potential for increased unattended baggage incidents.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "affa6adf008a1a197d38c9c98678f189",
+    "timestamp": "2025-12-05T09:41:15.252246",
+    "original_title": "CBS “60 Minutes” Investigates Deadly Palm Sunday Attack on Sumy Supported by GRC Expertise - Global Rights Compliance",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbzhYSy1iUEotWVppck9qSWNfaVRpaUVWamFOaVUySkRpbTE1S3pvdXZYaWh6SDlTeUVmRk9aMEJtZkdLcTdHVTVEQThvb0Y2azlRRHppMUc1aWFBMjhkUFIxeXNTUEtBZzEzZ0tWM0dtUHRLZm00RmN6UFd0TmI4ckN0LWs5dGthd2dmYXQxMzVLUVVSaGJDaWhRVzNLMEpFSVRvOEpkZjNqVmxxSnlWalFnYjNYNjNqSHoxUU5TNXBfdw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Sumy, Ukraine",
+      "latitude": 50.9077,
+      "longitude": 34.7981,
+      "detailed_analysis": "The '60 Minutes' investigation into the Palm Sunday attack on Sumy, supported by GRC (Global Rights Compliance) expertise, indicates a deliberate military strike against a civilian population center. GRC's involvement suggests potential war crimes investigation. The attack pattern aligns with ongoing conflict operations targeting Ukrainian cities, with high potential for collateral damage to infrastructure and personnel.",
+      "immediate_forecast_24h": "Elevated risk of follow-up strikes or retaliatory actions in Sumy region. Possible disruption to ground transport routes and supply chains. Aviation operations in northeastern Ukraine may experience increased restrictions or airspace closures.",
+      "strategic_outlook": "Continued targeting of urban centers likely as conflict persists. Potential for escalation in northeastern front lines. Critical infrastructure (power, communications, logistics hubs) at sustained risk. Possible increase in displaced personnel affecting regional operations.",
+      "operational_impact": "Immediate suspension of non-essential travel to Sumy region. Enhanced security protocols for personnel and assets in northeastern Ukraine. Cargo routes may require rerouting. Aviation operations should expect increased scrutiny and potential ground stops during active threats.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "debfe4ea0e5e3910c458dedb1d0ee320",
+    "timestamp": "2025-12-05T09:41:30.495561",
+    "original_title": "Taiwan, Japan voice concern over Chinese military movements",
+    "link": "https://www.reddit.com/r/worldnews/comments/1peql2r/taiwan_japan_voice_concern_over_chinese_military/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "East China Sea/Taiwan Strait",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Chinese military movements near Taiwan and Japan represent elevated geopolitical tensions with potential for miscalculation or escalation. While not an active conflict, increased naval/air presence raises risks of accidental engagements, navigation disruptions, or show-of-force incidents affecting maritime and aviation routes in the region.",
+      "immediate_forecast_24h": "Heightened military surveillance likely; possible airspace/navigation warnings for commercial aviation and shipping; increased monitoring of Chinese naval movements recommended",
+      "strategic_outlook": "Sustained regional tension expected; potential for periodic escalations; could impact long-term shipping routes and aviation patterns if tensions persist",
+      "operational_impact": "Increased vigilance for air and maritime assets in region; possible flight diversions; enhanced monitoring of cargo shipments through Taiwan Strait; personnel travel advisories may be issued",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "e4f0330b81ba015958ec063ca47f6953",
+    "timestamp": "2025-12-05T09:41:46.530796",
+    "original_title": "Israeli-backed, anti-Hamas Palestinian militia chief Abu Shabab killed in Gaza",
+    "link": "https://www.france24.com/en/middle-east/20251205-israeli-backed-anti-hamas-palestinian-militia-chief-abu-shabab-killed-gaza",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Gaza",
+      "latitude": 31.5,
+      "longitude": 34.4667,
+      "detailed_analysis": "Assassination of a militia leader in Gaza, with conflicting claims of responsibility. While the event is localized, it reflects ongoing factional tensions and potential for escalation between Hamas and Israeli-backed groups, increasing instability in the region.",
+      "immediate_forecast_24h": "Possible retaliatory actions or increased clashes between factions; heightened security operations in Gaza. Risk of spillover violence affecting nearby transport routes or personnel movement.",
+      "strategic_outlook": "Sustained volatility in Gaza area; potential for broader conflict involving Israeli forces or other militias. May impact regional security and logistics operations over the medium term.",
+      "operational_impact": "Increased threat to personnel and assets in or transiting Gaza; possible disruptions to supply chains, heightened need for security assessments and contingency planning for operations in the region.",
+      "proximity_alert": null
+    }
   }
 ]
