@@ -1,81 +1,5 @@
 [
   {
-    "id": "f6c30929b18d54f29e4001f71693f813",
-    "timestamp": "2025-12-05T08:54:28.432381",
-    "original_title": "Drone footage shows devastated Ukrainian town almost encircled by Russian forces",
-    "link": "https://www.reddit.com/r/worldnews/comments/1pepmmx/drone_footage_shows_devastated_ukrainian_town/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 8,
-      "location": "Ukraine (specific town not named in source)",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "Drone footage confirms active military conflict with Russian forces nearly encircling a Ukrainian town, indicating high-intensity combat operations. This represents direct kinetic threat to personnel, infrastructure, and any assets in the area. The devastation shown suggests artillery, missile, or aerial bombardment has already occurred.",
-      "immediate_forecast_24h": "High probability of continued combat operations, potential for complete encirclement, increased artillery/missile strikes, and possible urban warfare. Evacuation routes likely compromised.",
-      "strategic_outlook": "Ongoing degradation of transport infrastructure, continued threat to personnel safety, potential for conflict spillover to adjacent regions. Supply chain disruptions probable for any operations in affected areas.",
-      "operational_impact": "All movement of personnel and assets in region should be suspended. Critical infrastructure at high probability of damage. Aviation operations extremely hazardous due to potential anti-aircraft systems and combat drones. Cargo transport routes likely interdicted.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "0cf7d5868fd4cedc3abc878db4df4a54",
-    "timestamp": "2025-12-05T08:54:37.169960",
-    "original_title": "The U.S.-Saudi Reconfiguration Is Real and It No Longer Depends on Israel",
-    "link": "https://warontherocks.com/2025/12/the-u-s-saudi-reconfiguration-is-real-and-it-no-longer-depends-on-israel/",
-    "source_name": "War on the Rocks",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 7,
-      "location": "Middle East / Saudi Arabia",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "Geopolitical realignment between U.S. and Saudi Arabia indicates reduced U.S. leverage in the region. Potential for increased regional instability due to shifting alliances and reduced diplomatic pressure on Saudi-Israel normalization. While no direct threats to assets/cargo/aviation are mentioned, the structural shift creates conditions where traditional security partnerships may be tested, potentially increasing vulnerability to asymmetric threats.",
-      "immediate_forecast_24h": "No immediate physical threats to assets or personnel identified in this reporting. Monitoring recommended for any retaliatory actions or statements from regional actors.",
-      "strategic_outlook": "Long-term risk of increased regional volatility. Potential for: 1) Shifting alliance patterns affecting security cooperation 2) Changes in counterterrorism intelligence sharing 3) Altered maritime security posture in Persian Gulf 4) Possible increased targeting of U.S. interests by regional adversaries testing new dynamics",
-      "operational_impact": "Review security protocols for assets in Saudi Arabia and neighboring regions. Increase monitoring of: 1) Aviation routes near conflict zones 2) Maritime shipping in strategic waterways 3) Diplomatic facility security postures 4) Supply chain vulnerabilities for critical cargo",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "1654a7e6d879ad3dfc547c3d686b090a",
-    "timestamp": "2025-12-05T08:54:48.094123",
-    "original_title": "New US military strike on suspected drug boat heightens scrutiny of Trump anti-trafficking campaign",
-    "link": "https://www.france24.com/en/americas/20251205-us-military-strike-trump-anti-drug-campaign",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 7,
-      "location": "Eastern Pacific Ocean",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "US military strike targeting suspected drug trafficking vessel in international waters. Event reflects escalated maritime interdiction efforts, increasing potential for collateral damage, regional tensions, or retaliatory actions against US assets. No direct threat to commercial shipping or aviation at this time, but heightened military activity may create navigational hazards or unintended escalation.",
-      "immediate_forecast_24h": "Possible increased naval patrols or additional strikes in the region; maritime traffic should monitor for military advisories and avoid areas of known operations.",
-      "strategic_outlook": "Ongoing anti-trafficking campaigns may lead to prolonged military presence in key transit zones, increasing friction with non-state actors and possibly neighboring states. Could incentivize traffickers to adapt routes, increasing risks in alternative maritime corridors.",
-      "operational_impact": "Minimal direct impact on commercial aviation or cargo operations, but vessels in eastern Pacific should exercise caution and maintain communication with regional maritime authorities. No expected changes to airport or port security protocols.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "ce340404e4ca8af5e089647a62d2eb0d",
-    "timestamp": "2025-12-05T08:54:56.850247",
-    "original_title": "Chaos grips India’s busiest airports for fourth straight day as largest airline cancels over 500 flights",
-    "link": "https://www.independent.co.uk/travel/news-and-advice/indigo-cancelling-flights-reason-airport-delhi-bengaluru-b2878581.html",
-    "source_name": "Independent Travel",
-    "ai_analysis": {
-      "category": "Aviation",
-      "risk_score": 7,
-      "location": "India",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "Mass flight disruptions at India's busiest airports due to regulatory-induced crew rostering changes, causing operational chaos and significant passenger impact. While not security-related, the scale of cancellations (500+ flights over multiple days) indicates systemic vulnerability in aviation operations that could be exploited or compound during actual security incidents.",
-      "immediate_forecast_24h": "Continued flight cancellations and passenger disruptions likely as airlines struggle to comply with new regulations and reposition crew. Potential for escalated passenger frustration and minor civil disturbances at airports.",
-      "strategic_outlook": "Regulatory compliance issues may persist for weeks, creating ongoing operational weaknesses. Could attract attention from threat actors seeking to exploit chaos for smuggling or other illicit activities amid distracted security focus.",
-      "operational_impact": "Reduced aviation capacity increases vulnerability to cascading disruptions. Security screening and cargo inspection resources may be strained handling backlog and frustrated passengers. Potential for increased unattended baggage incidents.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "affa6adf008a1a197d38c9c98678f189",
     "timestamp": "2025-12-05T09:41:15.252246",
     "original_title": "CBS “60 Minutes” Investigates Deadly Palm Sunday Attack on Sumy Supported by GRC Expertise - Global Rights Compliance",
@@ -130,6 +54,82 @@
       "strategic_outlook": "Sustained volatility in Gaza area; potential for broader conflict involving Israeli forces or other militias. May impact regional security and logistics operations over the medium term.",
       "operational_impact": "Increased threat to personnel and assets in or transiting Gaza; possible disruptions to supply chains, heightened need for security assessments and contingency planning for operations in the region.",
       "proximity_alert": null
+    }
+  },
+  {
+    "id": "fea8cd71926ba1388220ab07937dffaf",
+    "timestamp": "2025-12-05T10:47:13.057321",
+    "original_title": "After attack on two West Virginia Guard troops, their hometowns question deployments - NPR",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQT3RCQ0swYXU5bmcwbXcwQndnNUVJWmg4anlUY2hfdVFzZG15QlZCMEVWYV9pZXZTczZKR1MyWkR2eDV3YnFDVGhYQ3dlbWJsY1NDaXoybWljOHV6S1QwX3RFOG1MYlJ1dVpDVUVTS2FaUktYbU9QY0R3bVd3R2gxWHJJRk9yRmtOMEdaanZ1RlVyS1ZkZ2FOU25CNzlCMllxUEN3X3B6Q1RkY3R3NEJqbTF2Y05PTWhQQkRjU0lHQlBKdWh5NnNn?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "West Virginia",
+      "latitude": 38.5976,
+      "longitude": -80.4549,
+      "detailed_analysis": "Attack on West Virginia National Guard personnel indicates potential targeting of military assets and personnel. While specific attack details aren't provided in the headline, the involvement of Guard troops suggests possible insurgent or hostile action against U.S. military forces. This could indicate elevated threat levels for military convoys, bases, or personnel movements in the region.",
+      "immediate_forecast_24h": "Increased vigilance required for all military and government personnel movements. Potential for copycat attacks or heightened tensions. Recommend reviewing security protocols for troop deployments and transportation.",
+      "strategic_outlook": "Long-term implications include possible changes in deployment policies, increased security measures for military personnel, and potential political repercussions regarding troop safety. May indicate evolving threat landscape against military targets.",
+      "operational_impact": "Immediate security reassessment for military transport routes and facilities. Possible need for convoy security enhancements, route diversification, and increased intelligence gathering on potential threats to military assets and personnel.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "4dee9937820f99f01957119592dbb606",
+    "timestamp": "2025-12-05T10:47:20.912734",
+    "original_title": "German parliament backs controversial military service law amid Russian threat - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcU1feUZOQzNxWEtWaDBiWlBaNjNrMlpiQmhUQm1VbjhLNmNSeTRtTGdncy15ZmJZdkJwcnVOTW9QWGdKei1nbVEtSGg5bUZPcE51cHZZOHJ1N1k0X291MjNsR0FnQnF6eDJLOFFIYzRKTHAtSmhkRlIxSGNOa0p6NGVtaHVjUV9hYjVFbnRpamgydHJTdnNzVEdacmlYWDl2ZXUwSDBvdkRlR2llNGtodHpCc0Q0N2ZTeTJUaC1NcEM3bUVPRzR0ZjBEVkRIYklMOTlBY2Y0TWQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Germany",
+      "latitude": 51.1657,
+      "longitude": 10.4515,
+      "detailed_analysis": "German parliament passed a controversial military service law in response to perceived Russian threats, indicating heightened geopolitical tensions and potential for military escalation in Europe. This legislative action suggests increased defense readiness and possible mobilization preparations.",
+      "immediate_forecast_24h": "Increased military and government security presence; possible public protests against conscription; heightened alert for Russian retaliatory actions including cyber operations or disinformation campaigns.",
+      "strategic_outlook": "Sustained elevated tensions between NATO and Russia; potential for increased military deployments along eastern borders; possible economic sanctions escalation; heightened risk of espionage activities targeting German military and government institutions.",
+      "operational_impact": "Increased scrutiny on personnel movements near military facilities; enhanced vetting for personnel with access to sensitive assets; potential for protests disrupting transportation near government buildings; possible increased cyber targeting of defense contractors and logistics networks.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "1f961927e564ab07178e879755fa1945",
+    "timestamp": "2025-12-05T10:47:33.062987",
+    "original_title": "Chinese Forces Battle Dizzying Altitudes to Expand Military Footprint - The Wall Street Journal",
+    "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxOR2o1ejRDeVlwX2JLZ2pIMkhmLTVkazJkeUVadXVVSDJtMzU4VmFKYXBLRHdhT1JVVkdPb2E2d3BYc2EtR0hodVJ4Q0xhNXZFbDdsUVJrWWdzd3ZOajczNWhSangxdGluLWtJeUZfZnprU09GY0JiMHJzQ2NRMW5xcHZQOE1fci1SeWQ2NndQMEZjZ2s1cFU5bUJYSU5mbDlYS0Q5b1NoZjRpcmFvS3hpWk1mUG1uYzYyZkN4cVRBSVVyVWh0eGlBY3M1TV9xdUJzV2VocjBJd2JDRDAwdEpqQzh5VlQyeDhUZURqRE5HTTNVcndvaXRJV05YanYyaHRqM2doN0c5Y0N4RWVydG1lTHI3cmIzbllYb0ZqLVNUOW5SRFkweWs3MnRwdWx4U2VMa2VwdlVXOXZZRUF0YzZBVEx6UHFqRHMxRFppdzl0dHhEbXAtVV9jYzNFZ0lwRG9NSFNGMzhHei1JTzkzV3MtdFJpUHNEaDJubWo2QXhEeUtIcGFTZWlSWE5mTE9yZmlSdlUzWDdlVGJrb0tTYnZ6RU9zaUo1US1fenMzamJWanhMcFJj?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Himalayan border region",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Chinese military expansion in high-altitude border regions indicates ongoing territorial consolidation and potential border tensions. The article suggests infrastructure development and troop movements in challenging terrain, which could signal preparation for sustained presence or potential escalation in disputed areas. This activity may provoke regional responses from neighboring countries.",
+      "immediate_forecast_24h": "Increased military surveillance activity likely in adjacent border regions. Potential for heightened aerial reconnaissance and satellite monitoring by regional actors. No immediate threat to commercial aviation or cargo routes expected within next 24 hours.",
+      "strategic_outlook": "Long-term militarization of high-altitude border areas may lead to increased regional tensions, potential border incidents, and possible disruption to overland trade routes. Aviation may face increased military air traffic and temporary airspace restrictions during exercises or standoffs.",
+      "operational_impact": "Enhanced monitoring required for border region operations. Potential for increased military aviation activity may affect flight paths. Cargo operations in border areas should maintain situational awareness for potential disruptions. Personnel in region should review contingency plans for border tension scenarios.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "b222d24ff3ac13413e649e7b4c13b5d5",
+    "timestamp": "2025-12-05T10:47:47.965587",
+    "original_title": "Edinburgh Airport live: All flights suspended due to IT issue affecting air traffic control",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/edinburgh-airport-live-flights-news-delays-cancellations-it-b2878695.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Edinburgh, Scotland",
+      "latitude": 55.9533,
+      "longitude": -3.1883,
+      "detailed_analysis": "IT system failure at Edinburgh Airport's air traffic control provider has resulted in complete suspension of all flights. This represents a critical disruption to aviation operations with potential cascading effects on flight schedules, passenger safety, and regional air traffic management. While not an active security threat, the complete grounding indicates severe system vulnerability.",
+      "immediate_forecast_24h": "Continued flight disruptions expected until IT systems are restored. Potential for diverted flights, passenger backlog, and increased scrutiny on backup systems. Secondary risk of social media misinformation spreading about the nature of the outage.",
+      "strategic_outlook": "Increased focus on ATC system redundancy and cybersecurity audits likely across UK aviation sector. Potential for regulatory review of third-party service provider dependencies. May prompt industry-wide reassessment of critical infrastructure resilience.",
+      "operational_impact": "All aviation operations suspended at EDI. Cargo delays inevitable. Personnel diverted or grounded. Requires immediate contingency planning for alternative routing and heightened communication with affected stakeholders.",
+      "proximity_alert": "🚨 YAKIN TEHDİT: Edinburg Airport (10 km)"
     }
   }
 ]
