@@ -1,43 +1,5 @@
 [
   {
-    "id": "e97500ff84c05fb5a1a835bf217d62a3",
-    "timestamp": "2025-12-05T21:33:28.123537",
-    "original_title": "Gov. Pillen Statement on Illegal Alien’s Attack on Omaha Police - Nebraska Governor Jim Pillen (.gov)",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWTBiWDhBWVJEM0NtdjhsWktqWVlZbm1pUjdKZmpnc2FUMDZCbVJ3R3haZ3RUdXFiWG1saDZiZ1ZwZ01QZFBkZkZ4NUhyNS1BNEFWYUdkaWg2cWRKZHQxM3BfUlpqdjJvN1JXSlc3U0UzNGxkSGkxVlpYbVJSZElKLXk4QkVLT0NiTkFUTUZB?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Border/Migration",
-      "risk_score": 5,
-      "location": "Omaha, Nebraska",
-      "latitude": 41.2565,
-      "longitude": -95.9345,
-      "detailed_analysis": "Governor's statement references an attack on law enforcement by an individual described as an 'illegal alien.' While the incident involves violence against personnel, it appears isolated and localized rather than indicative of organized threat. No direct mention of assets, cargo, or aviation infrastructure. Context suggests migration-related tensions but lacks specifics on transport/logistics impact.",
-      "immediate_forecast_24h": "Low probability of follow-on incidents; potential for localized protests or heightened police visibility. No expected disruption to cargo routes or aviation operations.",
-      "strategic_outlook": "May contribute to political discourse on border security but unlikely to escalate into systematic threats against critical infrastructure or transport networks without additional indicators.",
-      "operational_impact": "Minimal. Recommend monitoring local law enforcement advisories but no need for asset repositioning or heightened cargo/aviation security protocols at this time.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "085163d3111e9c46a832b7c1a0ce3772",
-    "timestamp": "2025-12-05T21:33:37.552913",
-    "original_title": "10,000 removal warrants in Canada Border Services Agency inventory have been active for more than a year",
-    "link": "https://www.reddit.com/r/worldnews/comments/1pf78in/10000_removal_warrants_in_canada_border_services/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Border/Migration",
-      "risk_score": 5,
-      "location": "Canada",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "Backlog of 10,000+ active removal warrants at CBSA indicates systemic border enforcement vulnerabilities. Individuals subject to removal remain at large, potentially including those with criminal backgrounds or national security concerns. This creates opportunities for unauthorized movement, identity concealment, and potential exploitation by criminal networks. While not an immediate active threat, it represents a persistent gap in border control infrastructure.",
-      "immediate_forecast_24h": "No immediate operational impact expected. Routine border operations continue normally. Low probability of enforcement actions related to this backlogged caseload within next 24 hours.",
-      "strategic_outlook": "Increased pressure on CBSA resources likely. Potential for policy changes or enforcement surges. Could lead to targeted operations if political attention increases. May create opportunities for smuggling networks to exploit enforcement gaps.",
-      "operational_impact": "Enhanced vigilance recommended for personnel working border and enforcement roles. Possible increased workload if enforcement initiatives are launched. No direct impact on cargo or aviation operations at this time.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "62e41a44d1d6a5d73ea3fbb745c04394",
     "timestamp": "2025-12-05T22:40:18.541709",
     "original_title": "Video of Boat Strike Shows Survivors Waving Before Fatal Follow-Up Attack - The New York Times",
@@ -129,6 +91,25 @@
       "immediate_forecast_24h": "High probability of continued sporadic firing along border checkpoints. Possible closure of major border crossings (Torkham, Chaman). Increased militant movement may target convoys and logistics networks. Aviation may experience rerouting or temporary airspace restrictions near border areas.",
       "strategic_outlook": "Sustained border tensions likely to disrupt Pakistan-Afghanistan trade corridors. Increased weapon smuggling and militant infiltration risk. Potential for escalation to broader conflict if diplomatic channels remain stalled. Regional stability degradation may affect international cargo and personnel movement long-term.",
       "operational_impact": "Ground cargo operations through border crossings face high risk of disruption/delay. Personnel in border regions require enhanced security protocols. Aviation operations near border require increased vigilance for potential airspace violations or ground fire. Supply chains relying on Pakistan-Afghanistan routes need contingency planning.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "6874107ed7105ce6eee1e7259359bbb1",
+    "timestamp": "2025-12-05T23:32:51.246308",
+    "original_title": "New Castle County officers praised for thwarting University of Delaware attack - 6abc Philadelphia",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOWZvREVBcUlvcEo1ZlctZ0I2aFVIcENmWTFOMks1YS0zWnFCM29ONlVHektrWnBTUkl6RlgtUU52Mm0tVEViZGVGa2lrT3N5N2VhRWFldGl0aG44TnVZU2s2dTM3dDI1SGZUNTMwV1VPclRjY0tuWlVDdVB4T1NLTE1nUHczUEo2WXRWazlOZVVaeXFzQ0ZkRHJJUmFNNU9obS13NTZ30gGrAUFVX3lxTE5UUXBHYzhyd2JfZ0NlWDR2SUFEUHdQODUxMVZDYTJSTjkzeFdqT0Exa2xrYS1HZVhyTGJoNThtaGdmRVVLNDBsZmdkV0c0S3JtUXBESmxlVjdGdXh4QjR3NlNEdHUxUlh5ZUVvQ25qcFNpME1PUDJ1RjVHeVNnRlQtekh0c3BJbUF3bHRNQmxEbnFVU0MwZ2tZaFRxUDBIVVdHLXhHbmdPNDhZVQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 8,
+      "location": "Newark, Delaware",
+      "latitude": 39.6837,
+      "longitude": -75.7497,
+      "detailed_analysis": "Law enforcement intervention prevented a planned attack at University of Delaware. While specific details of the attack method are not provided in the headline, the thwarting of an attack on an educational institution with high population density suggests potential mass casualty intent. The involvement of county officers indicates credible threat intelligence and coordinated response.",
+      "immediate_forecast_24h": "Increased police presence and security screening at University of Delaware campus and surrounding areas. Potential for copycat threats or related secondary operations. Enhanced vigilance recommended for all educational institutions in the region.",
+      "strategic_outlook": "This incident demonstrates continued targeting of soft targets in educational settings. May indicate either domestic extremism or inspired terrorism. Requires review of campus security protocols and potential intelligence sharing gaps between local and campus law enforcement.",
+      "operational_impact": "Immediate: Heightened security posture for all university assets and personnel. Medium-term: Review access controls, surveillance coverage, and emergency response protocols. Recommend security awareness briefing for all campus personnel regarding suspicious activity reporting.",
       "proximity_alert": null
     }
   }
