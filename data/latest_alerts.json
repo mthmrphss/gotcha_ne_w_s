@@ -55,5 +55,43 @@
       "operational_impact": "Ground transportation delays expected in Brussels city center. Personnel should avoid protest areas on 18 December. No significant impact on aviation, cargo security, or border operations anticipated. Monitor for escalation into property damage or violence.",
       "proximity_alert": "🚨 YAKIN TEHDİT: SHERATON AIRPORT (0 km)"
     }
+  },
+  {
+    "id": "14e8ea600b6944e50aad0d52c8647e77",
+    "timestamp": "2025-12-05T17:40:07.073543",
+    "original_title": "France intercepts illegal drone overflight at nuclear submarine base",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pf123a/france_intercepts_illegal_drone_overflight_at/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 8,
+      "location": "Brest, France",
+      "latitude": 48.3904,
+      "longitude": -4.4861,
+      "detailed_analysis": "Illegal drone overflight intercepted at a nuclear submarine base indicates potential reconnaissance or intelligence-gathering activity. The base houses strategic nuclear assets, making this a significant security breach. Drones can be used for surveillance, payload delivery, or testing defense responses. The interception suggests French military detected and responded, but the operator's identity and intent remain unknown.",
+      "immediate_forecast_24h": "Increased drone detection alerts and potential enhanced security measures at French military installations, especially nuclear sites. Possible further drone activity testing defenses or conducting additional surveillance.",
+      "strategic_outlook": "Persistent drone threats to critical infrastructure likely from state or non-state actors. May lead to escalated counter-drone capabilities and stricter no-fly zone enforcement. Potential for copycat incidents or coordinated probing of NATO naval facilities.",
+      "operational_impact": "Temporary heightened alert status at naval bases; possible review of drone detection protocols. May affect naval operations scheduling and require additional air defense resources. No immediate impact on cargo or personnel movement, but increased vigilance recommended.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "579a5add77da900e042018305ab52e53",
+    "timestamp": "2025-12-05T17:40:18.215578",
+    "original_title": "French navy shoots at 5 drones buzzing nuclear submarine base, AFP reports",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pf0zq0/french_navy_shoots_at_5_drones_buzzing_nuclear/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 8,
+      "location": "Brest, France",
+      "latitude": 48.3904,
+      "longitude": -4.4861,
+      "detailed_analysis": "Multiple unidentified drones conducting surveillance or potential attack operations against a nuclear submarine base. French navy engaged with live fire, indicating perceived high threat level. Target is critical military infrastructure with nuclear assets, suggesting possible state-sponsored or sophisticated non-state actor involvement. No casualties or damage reported, but pattern suggests reconnaissance or probing activity.",
+      "immediate_forecast_24h": "Heightened security posture at French naval facilities; possible additional drone incursions; potential for escalation if drones return with hostile intent; increased patrols and anti-drone measures activated.",
+      "strategic_outlook": "Persistent drone surveillance threats to military installations; potential for similar incidents at other NATO naval bases; possible testing of defense systems or intelligence gathering on nuclear capabilities; may indicate evolving asymmetric warfare tactics against high-value targets.",
+      "operational_impact": "Increased alert level for naval bases worldwide; review of anti-drone defense protocols; potential temporary restrictions on civilian drone operations near military facilities; intelligence sharing required with allied nations.",
+      "proximity_alert": null
+    }
   }
 ]
