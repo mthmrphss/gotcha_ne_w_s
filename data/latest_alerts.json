@@ -1,43 +1,5 @@
 [
   {
-    "id": "32f06b61efb23fc1762db52007dc5fe8",
-    "timestamp": "2025-12-06T20:37:56.808985",
-    "original_title": "Tragedy strikes French territory as car ploughs through Christmas event in Guadeloupe, 10 dead",
-    "link": "https://www.reddit.com/r/worldnews/comments/1pfz5w0/tragedy_strikes_french_territory_as_car_ploughs/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Terrorism",
-      "risk_score": 7,
-      "location": "Guadeloupe",
-      "latitude": 16.265,
-      "longitude": -61.551,
-      "detailed_analysis": "Vehicle-ramming attack targeting a Christmas event with high casualty count (10 dead) suggests deliberate targeting of public gathering. Pattern aligns with known terrorist tactics using vehicles as weapons. Requires immediate investigation into motive, potential affiliations, and whether this was isolated or part of coordinated action.",
-      "immediate_forecast_24h": "Heightened security alerts for public events in French territories; possible copycat attempts or retaliatory actions; increased police/military presence at public gatherings.",
-      "strategic_outlook": "Potential escalation in targeting soft targets in European territories; may inspire similar attacks during holiday periods. Requires review of public event security protocols and vehicle access controls.",
-      "operational_impact": "Immediate travel advisories for Guadeloupe; enhanced screening at ports/airports; coordination with French security services for threat assessment; possible temporary suspension of public events in region.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "64f95959a1917c7d7a8329f2d5c1c630",
-    "timestamp": "2025-12-06T20:38:05.082786",
-    "original_title": "At least 18 migrants die as inflatable boat sinks off Greek island of Crete",
-    "link": "https://www.reddit.com/r/worldnews/comments/1pfyr66/at_least_18_migrants_die_as_inflatable_boat_sinks/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Border/Migration",
-      "risk_score": 5,
-      "location": "Crete, Greece",
-      "latitude": 35.2401,
-      "longitude": 24.8093,
-      "detailed_analysis": "Migrant vessel sinking incident involving an inflatable boat off Crete, resulting in 18 fatalities. While not directly targeting assets or personnel under protection, this event highlights ongoing migration routes in the Mediterranean that could indirectly impact maritime security, port operations, and create potential for stowaway incidents on commercial vessels. No direct threat to cargo or aviation identified in this specific event.",
-      "immediate_forecast_24h": "Increased maritime patrols and search/rescue operations likely in the area. Possible disruptions to shipping lanes during rescue efforts. No immediate threat to aviation or ground assets expected.",
-      "strategic_outlook": "Continued migration pressure in Mediterranean routes may lead to increased interceptions of vessels, potential stowaway attempts on commercial ships, and strain on port security resources. Could create opportunities for smuggling operations to exploit chaotic situations.",
-      "operational_impact": "Maritime operations in the area may experience temporary disruptions. Port facilities should enhance screening for potential stowaways on arriving vessels. No direct impact on aviation or ground cargo operations anticipated from this specific incident.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "1c9ccdac236b99d21b2672928b75a7ed",
     "timestamp": "2025-12-06T21:31:09.618677",
     "original_title": "West Virginians question National Guard deployments after attack on 2 of their own - Oregon Public Broadcasting - OPB",
@@ -110,6 +72,63 @@
       "immediate_forecast_24h": "High probability of continued clashes and retaliatory attacks. Possible escalation if political statements are perceived as insincere by either party. Increased militant activity near border areas expected.",
       "strategic_outlook": "Long-term risk remains elevated until substantive political agreement is reached. Disarmament proposal could either reduce tensions or be used as propaganda tool depending on implementation. Regional actors likely to increase involvement in mediation efforts.",
       "operational_impact": "All personnel and assets in Gaza and surrounding regions should maintain highest alert levels. Enhanced screening required for cargo moving through Israeli/Gaza border crossings. Aviation routes may experience temporary disruptions due to potential rocket fire or drone activity.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "e19e5ac85354a0100c5a5cb2b49b4705",
+    "timestamp": "2025-12-06T22:38:26.050865",
+    "original_title": "ICE in Elgin: Federal immigration agent involved in crash on Highland Ave, 7 exposed to 'chemical irritants' on Maple Lane: Police - ABC7 Chicago",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdDUyNzZJemFjMTRIbUVoVkdpM29QTGh0aGk2MHY4N3JSWU9QS0hmNVFVX3h0a0VlbzdydWdkbXJRXzZWNlJhQzlxdUhiOVUwVkI3bjFsOU50OTItS25fZVg5b1hpbmFXYm5xYjM2OGZQUkhPSFBMZEUtZFo5clBOVDFMX19QelJ4OExDR05qQW5SYkdWaWZEWDM0dXd5ZV9RWnNJSXJJbnVmaTlJZWQ0T2ZWXy1CYXVkd0t1V25jTVcyZ0k1S0t2dDVuQ0NUN3lXTmRZZWU2SHg1QVp4dXhVQUFQTdIB6AFBVV95cUxNaXJGbUpGUXZzeDdKeTVHVXdCZEVqbWEya3pRcVVDR3daU1hqWlRRMWpFSHF0SHkzWS1kNkV5bk8xZzVBejdfSkFGY0g0WXNfVWJiSzlvMU5ndHRKdlhhenFSZk1odzRSMlhZY0RqLUVBRGNkM08wZVF1ZFZINmQ4U2VRaFEwRW5yMmpxdUx3S2RhVDJSV0tFRlRWTWQ5QnpqRVY0WGdjc1FRZm9abV9iajNoRXRadnV1Qmt5TEN0SC14d3hjWURwdzBlczdiY3liNTVHYjJTTF9UUkNvSEprbEUzc0VGSDVL?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Border/Migration",
+      "risk_score": 4,
+      "location": "Elgin, Illinois",
+      "latitude": 42.0372,
+      "longitude": -88.2811,
+      "detailed_analysis": "ICE agent vehicle collision during operations, with secondary incident involving chemical irritant exposure affecting 7 individuals. While the traffic accident itself is routine (Risk 0), the involvement of federal immigration enforcement and chemical exposure suggests potential operational complications during enforcement actions. No indication of targeted attack or organized resistance, but highlights risks of collateral exposure during law enforcement activities.",
+      "immediate_forecast_24h": "Localized police and emergency response ongoing. Potential for minor public disruption in immediate area. Low probability of escalation or secondary incidents. Medical monitoring of exposed individuals likely.",
+      "strategic_outlook": "Increased scrutiny on immigration enforcement operations in urban areas. Possible temporary operational adjustments by ICE in region. No indication of organized threat to assets or personnel beyond routine enforcement risks.",
+      "operational_impact": "Minimal impact to cargo/aviation assets. Local road closures possible during investigation. No expected disruption to supply chains or transportation infrastructure. Standard personnel safety protocols sufficient.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "142a979bd95adf21bf97e6c14f707955",
+    "timestamp": "2025-12-06T22:38:46.092212",
+    "original_title": "Venezuela raises its tone against Trump's military deployment and says that its Armed Forces are ready to respond",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pg22yw/venezuela_raises_its_tone_against_trumps_military/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Venezuela",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Escalating rhetoric between Venezuela and the U.S. regarding potential military deployment increases risk of regional instability. Venezuelan Armed Forces' stated readiness to respond indicates heightened military posture. While no direct attacks reported, this political-military tension creates environment where assets, personnel, and aviation could become targets or collateral damage in any escalation.",
+      "immediate_forecast_24h": "Increased military alertness on both sides; possible show of force demonstrations; heightened risk of miscalculation or accidental engagement; potential for cyber probing activities.",
+      "strategic_outlook": "Sustained political tension likely to continue; possible economic impacts on shipping and logistics; potential for asymmetric responses including cyber attacks, interdiction of assets, or targeting of personnel if conflict escalates.",
+      "operational_impact": "Recommend heightened alert for all assets and personnel in/transiting Venezuelan airspace and territorial claims; review contingency plans for emergency evacuation; monitor communications intercepts for escalation indicators; coordinate with intelligence partners for early warning.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "9513b15e19a30c53f5f92b10d4867513",
+    "timestamp": "2025-12-06T22:38:55.803684",
+    "original_title": "Russia hammers Ukraine's energy infrastructure as Florida peace talks continue",
+    "link": "https://www.france24.com/en/europe/20251206-russia-hammers-ukraine-s-energy-infrastructure-as-florida-peace-talks-continue",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 9,
+      "location": "Ukraine",
+      "latitude": 48.3794,
+      "longitude": 31.1656,
+      "detailed_analysis": "Massive drone and missile barrage targeting Ukrainian energy infrastructure represents direct kinetic attack in ongoing war. Energy infrastructure is critical national asset. Attacks coincide with peace talks, suggesting potential escalation or negotiation pressure tactic. No direct aviation/cargo incidents reported but energy disruption impacts all transport/logistics operations.",
+      "immediate_forecast_24h": "High probability of continued attacks on energy infrastructure. Potential for retaliatory strikes. Increased air defense activity expected. Possible disruption to aviation routes and cargo movements due to infrastructure damage and military activity.",
+      "strategic_outlook": "Sustained targeting of critical infrastructure indicates prolonged conflict strategy. Energy sector vulnerability may spread to adjacent transport and logistics networks. Peace talks unlikely to yield immediate de-escalation given concurrent offensive operations.",
+      "operational_impact": "Airspace restrictions likely over conflict zones. Energy-dependent transport infrastructure (rail, ports) may experience disruptions. Fuel supply chain vulnerabilities for aviation and ground transport. Increased security posture required for personnel and assets in region.",
       "proximity_alert": null
     }
   }
