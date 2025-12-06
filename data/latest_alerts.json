@@ -1,81 +1,5 @@
 [
   {
-    "id": "1c9ccdac236b99d21b2672928b75a7ed",
-    "timestamp": "2025-12-06T21:31:09.618677",
-    "original_title": "West Virginians question National Guard deployments after attack on 2 of their own - Oregon Public Broadcasting - OPB",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd3IzYWY2cFBJMDZEVzNoem9WZ3hxVjdMY1BMYUtVa3ZTWGVjTWJET0ptLWFtY044WVlxa3V2cnhkQk1oOHVncUNRNXY0ZmFiYzdBUzVYSkNDRTZKNzdqSHdZZlc5UDlodWNUNC1mZWJUQWExTmRkNGlYU0U0WlA0S3A3UmYzY2EwNEJQUGpURkVRQTRuNXE4MXd0bHlESEdHOURTWjVqbEdxWGlG?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Civil Unrest",
-      "risk_score": 4,
-      "location": "West Virginia",
-      "latitude": 38.9202,
-      "longitude": -80.1817,
-      "detailed_analysis": "Article discusses public questioning of National Guard deployments following an attack on two West Virginians. While specific details are limited, this suggests potential civil unrest or public dissatisfaction with military/security operations. The mention of 'attack' indicates possible violence against personnel, though context suggests it may refer to political or social conflict rather than direct security threats to assets/cargo.",
-      "immediate_forecast_24h": "Potential for increased public protests or demonstrations questioning military deployments. Low probability of direct impact on cargo/aviation operations unless protests occur near critical infrastructure.",
-      "strategic_outlook": "May indicate growing public skepticism toward military operations in the region. Could lead to reduced public cooperation with security forces or increased scrutiny of National Guard activities. Unlikely to directly affect cargo/aviation security unless escalations occur.",
-      "operational_impact": "Minimal direct impact on cargo/aviation operations. Possible increased security awareness for National Guard assets and personnel in West Virginia region. No immediate threat to commercial aviation or cargo transport identified from this specific event.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "ebeab401212b0a9f0a4af5b8e5cfd8af",
-    "timestamp": "2025-12-06T21:31:28.686416",
-    "original_title": "Russia unleashes massive drone and missile attack on Ukraine | CBC News",
-    "link": "https://www.reddit.com/r/worldnews/comments/1pg0jn8/russia_unleashes_massive_drone_and_missile_attack/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 9,
-      "location": "Ukraine",
-      "latitude": 48.3794,
-      "longitude": 31.1656,
-      "detailed_analysis": "Massive coordinated drone and missile attack by Russia targeting Ukrainian infrastructure and population centers. This represents a significant escalation in kinetic warfare with direct impact on transportation networks, energy infrastructure, and civilian areas. The scale suggests potential disruption to cargo routes, aviation corridors, and poses immediate danger to personnel in affected regions.",
-      "immediate_forecast_24h": "High probability of continued aerial attacks targeting critical infrastructure. Airspace closures and flight diversions likely in Ukrainian and neighboring countries' airspace. Ground transport routes may be compromised due to damage to roads, railways, and bridges.",
-      "strategic_outlook": "Sustained degradation of Ukrainian transport and energy infrastructure expected. Regional aviation will face prolonged disruptions with potential for miscalculation or spillover into neighboring NATO airspace. Maritime operations in Black Sea likely to be affected by increased military activity.",
-      "operational_impact": "All air cargo and passenger flights to/from Ukraine should be suspended immediately. Ground transport convoys require armed escort and route verification. Personnel in Ukraine should shelter in place. Enhanced screening of cargo originating from conflict-adjacent regions recommended due to potential weapon smuggling attempts.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "f365490f851159b1b23bc73622d4ac7b",
-    "timestamp": "2025-12-06T21:31:37.686601",
-    "original_title": "Ukraine’s Intelligence Hackers Cripple Major Russian Logistics Network",
-    "link": "https://www.reddit.com/r/worldnews/comments/1pg0ixj/ukraines_intelligence_hackers_cripple_major/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Cyber",
-      "risk_score": 8,
-      "location": "Russia",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "Ukrainian intelligence hackers have successfully disrupted a major Russian logistics network, likely targeting supply chain management systems, transportation coordination, or cargo tracking infrastructure. This represents a significant cyber operation with potential cascading effects on military and civilian logistics, including delays, misrouted shipments, and compromised data integrity.",
-      "immediate_forecast_24h": "High probability of retaliatory cyber activity from Russian-affiliated groups targeting Ukrainian or allied logistics, transportation, or critical infrastructure. Increased vigilance for phishing campaigns, DDoS attacks, or supply chain compromises is advised.",
-      "strategic_outlook": "Escalation in cyber warfare tactics between state and non-state actors, with logistics and supply chains becoming primary targets. Potential for broader disruption to regional trade routes, increased operational security measures, and possible physical sabotage attempts as conflict dynamics evolve.",
-      "operational_impact": "Immediate disruption to cargo and asset movements within affected Russian networks. Possible collateral impact on international partners using same logistics providers. Recommend enhanced monitoring of supply chain cybersecurity, verification of shipment integrity, and contingency planning for alternative routes or carriers.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "a4640cd3a77790bc7432ae04e6a92f67",
-    "timestamp": "2025-12-06T21:31:45.732565",
-    "original_title": "Hamas says it will hand over weapons to a Palestinian authority 'if the occupation ends'",
-    "link": "https://www.france24.com/en/middle-east/20251206-hamas-says-it-will-hand-over-weapons-to-a-palestinian-authority-if-the-occupation-ends",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 8,
-      "location": "Gaza Strip",
-      "latitude": 31.5,
-      "longitude": 34.4667,
-      "detailed_analysis": "Hamas's conditional offer to disarm represents a significant political development but occurs amid ongoing violence (360+ Palestinian casualties post-ceasefire). The statement suggests potential de-escalation pathways but is contingent on Israeli withdrawal, which remains unlikely in immediate term. Current operational environment remains volatile with active hostilities.",
-      "immediate_forecast_24h": "High probability of continued clashes and retaliatory attacks. Possible escalation if political statements are perceived as insincere by either party. Increased militant activity near border areas expected.",
-      "strategic_outlook": "Long-term risk remains elevated until substantive political agreement is reached. Disarmament proposal could either reduce tensions or be used as propaganda tool depending on implementation. Regional actors likely to increase involvement in mediation efforts.",
-      "operational_impact": "All personnel and assets in Gaza and surrounding regions should maintain highest alert levels. Enhanced screening required for cargo moving through Israeli/Gaza border crossings. Aviation routes may experience temporary disruptions due to potential rocket fire or drone activity.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "e19e5ac85354a0100c5a5cb2b49b4705",
     "timestamp": "2025-12-06T22:38:26.050865",
     "original_title": "ICE in Elgin: Federal immigration agent involved in crash on Highland Ave, 7 exposed to 'chemical irritants' on Maple Lane: Police - ABC7 Chicago",
@@ -129,6 +53,63 @@
       "immediate_forecast_24h": "High probability of continued attacks on energy infrastructure. Potential for retaliatory strikes. Increased air defense activity expected. Possible disruption to aviation routes and cargo movements due to infrastructure damage and military activity.",
       "strategic_outlook": "Sustained targeting of critical infrastructure indicates prolonged conflict strategy. Energy sector vulnerability may spread to adjacent transport and logistics networks. Peace talks unlikely to yield immediate de-escalation given concurrent offensive operations.",
       "operational_impact": "Airspace restrictions likely over conflict zones. Energy-dependent transport infrastructure (rail, ports) may experience disruptions. Fuel supply chain vulnerabilities for aviation and ground transport. Increased security posture required for personnel and assets in region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "9b0ddcc0dc186099f005b028013082ce",
+    "timestamp": "2025-12-06T23:32:28.562092",
+    "original_title": "West Virginians question National Guard deployments after attack on 2 of their own - KUOW",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTUFnbl84bnM1dW12dS1GbjR6LUhqNmkwMUV1ejRrQmhvdzloQWJ2bTYzSmhtMUJWLVhYQm55VC15QlZZWnllX3RFUE1VOTFsMjFfTjJjaGM2UER5akNlcE9qcS1LbkpCMGtnT0NKaDcwMHUtWVRmLXBRRmhBUGpSWlN5RlNZdHFFUm5ueE1xN1pPOU5pUjBDZFljeEphYjFYTEpfdVpEcmoxTGlaN01vRw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 4,
+      "location": "West Virginia",
+      "latitude": 38.9202,
+      "longitude": -80.1817,
+      "detailed_analysis": "Article discusses public questioning of National Guard deployments following an attack on two West Virginia National Guard members. While specific details of the attack are not provided in the context, the public response and questioning of military deployments suggests potential civil unrest or public dissatisfaction with security operations. This could indicate deteriorating public trust in security forces or government institutions.",
+      "immediate_forecast_24h": "Potential for increased public protests or demonstrations questioning National Guard activities. Possible escalation of tensions between local population and military personnel. Low probability of direct attacks on military assets in the immediate timeframe.",
+      "strategic_outlook": "Sustained public scrutiny of military deployments could lead to reduced operational effectiveness. Potential for recruitment challenges and intelligence gathering difficulties if local population becomes hostile to military presence. May require revised community engagement strategies.",
+      "operational_impact": "Increased vigilance required for National Guard personnel and facilities in West Virginia. Possible need for force protection measures during deployments. Potential impact on morale and operational tempo if personnel feel unsupported by local community.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "47fd4fd649323bcd72eedc7ca768f4f0",
+    "timestamp": "2025-12-06T23:32:41.021604",
+    "original_title": "At Least 17 Migrants Die in Greece’s Worst Shipwreck in Two Years",
+    "link": "https://www.nytimes.com/2025/12/06/world/europe/greece-shipwreck-migrants.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Border/Migration",
+      "risk_score": 5,
+      "location": "Crete, Greece",
+      "latitude": 35.2401,
+      "longitude": 24.8093,
+      "detailed_analysis": "Maritime migrant incident resulting in 17 fatalities and 2 survivors. Event involves irregular migration via sea routes, indicating active human smuggling operations in the Mediterranean. While not directly targeting corporate assets, demonstrates vulnerability of maritime transport routes to unauthorized use and potential stowaway risks for commercial shipping.",
+      "immediate_forecast_24h": "Increased maritime patrols and search operations in Cretan waters. Possible secondary migrant vessels attempting similar routes. Heightened port security screening at nearby commercial ports.",
+      "strategic_outlook": "Continued pressure on Mediterranean migration routes likely. Human smuggling networks remain active. Potential for increased stowaway attempts on commercial vessels in the region. May trigger enhanced EU border security measures affecting maritime logistics.",
+      "operational_impact": "Maritime operations near Crete may experience temporary disruptions due to search/rescue operations. Vessels should maintain enhanced watch for small craft and report suspicious activity. Increased scrutiny of documentation and cargo at Greek ports possible.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "8dab935b8a2c1087ca7cd64a7c179a46",
+    "timestamp": "2025-12-06T23:32:49.629394",
+    "original_title": "Car rams into crowd at Christmas event in French territory of Guadeloupe; 10 killed",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pg2j0c/car_rams_into_crowd_at_christmas_event_in_french/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 8,
+      "location": "Guadeloupe",
+      "latitude": 16.265,
+      "longitude": -61.551,
+      "detailed_analysis": "Vehicle-ramming attack targeting a Christmas event with high casualty count (10 killed) suggests deliberate terrorist methodology. Pattern aligns with known ISIS-inspired attacks using vehicles as weapons against soft targets. Requires investigation into perpetrator motivation and potential network connections.",
+      "immediate_forecast_24h": "Heightened security alerts for public gatherings in French territories. Possible copycat attempts or retaliatory attacks. Increased police/military presence at events. Potential travel disruptions due to security cordons.",
+      "strategic_outlook": "Likely to trigger increased counterterrorism measures across French overseas territories. Potential for inspired attacks in European mainland during holiday season. May impact tourism and public event planning long-term.",
+      "operational_impact": "Immediate travel advisory for personnel in Guadeloupe. Enhanced screening for vehicle access to secure facilities. Review of perimeter security at all assets. Temporary suspension of non-essential public-facing operations in region.",
       "proximity_alert": null
     }
   }
