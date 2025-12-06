@@ -36,5 +36,62 @@
       "operational_impact": "Avoid all non-essential travel to area; implement radiation detection for personnel and cargo moving through region; review contingency plans for nuclear incidents.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "cd0d1fd66b61532fc054a199f1f570ec",
+    "timestamp": "2025-12-06T07:31:22.064405",
+    "original_title": "Thousands protest in Berlin against new German military conscription bill - Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUHBmQVl6c1pVdDFVSU1remJqQ2VLYktWb2pEek90TVJBRFRLaGVwMUo5LUxyYXhaWU4yak1sZWtFZXBKWDN2MDA1QkMzVmo5dUdtWkZjN2NobVh0V0V1UWN5MHAxb3RzdHFDRWx1cWNjNm5fTER2T0hxQ2w1Q1d1QXJMcU12dFBoVmJ3andndkUtSnllWHFWSTA1WHZnc2pmVlJ0eDFQTkpQV0RFajJ2dGNKM0bSAboBQVVfeXFMTUR2cVczSkhHNHczaWROd1d4aXhraXRvbFpiUGZ3N3BiRDI0WlFiZElheC02VVprVFFEcmFDbXJOVnJlUG5rbV9zbS1VVXpuWEFzOU96TFBQd0JDOWZscW0zaVFUSzU3V1dJRVZ6SHlfV0ozQlZIYllMQ2ExLVdPSlJsVHJFeV9CUGJPbE9qUG9ILTFQRDBQVy13S0JPMDBiWEZvSXJyUnc1WmRTTzV1S1NCRWRqVzZXZDF3?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Berlin, Germany",
+      "latitude": 52.52,
+      "longitude": 13.405,
+      "detailed_analysis": "Large-scale protests in Berlin against military conscription bill indicate significant public opposition to government policy. While primarily a political demonstration, large gatherings can create secondary security concerns including transportation disruptions, potential for clashes with law enforcement, and possible opportunistic criminal activity in crowded areas. No direct threats to aviation, cargo, or personnel assets identified in initial reporting.",
+      "immediate_forecast_24h": "Potential for continued protests with possible road closures and public transportation disruptions in central Berlin. Increased police presence expected. Low probability of escalation to violence but monitoring recommended for any signs of radicalization or spillover effects.",
+      "strategic_outlook": "Political tension around military policy may persist, potentially leading to additional demonstrations. Unlikely to directly impact cargo or aviation operations unless protests expand to critical infrastructure areas. No indication of organized threats to assets beyond general civil disturbance risks.",
+      "operational_impact": "Minimal direct impact on cargo/aviation operations. Personnel in Berlin should avoid protest areas due to potential congestion and limited mobility. No changes to security posture required for assets outside immediate protest zones. Monitor for any escalation that might affect transit routes or critical infrastructure.",
+      "proximity_alert": "🚨 YAKIN TEHDİT: Berlin Tegel Airport (0 km)"
+    }
+  },
+  {
+    "id": "246c4681e6b7957879894c7a54386337",
+    "timestamp": "2025-12-06T07:31:40.894393",
+    "original_title": "Four civilians killed in Pakistan-Afghanistan border clash",
+    "link": "https://www.france24.com/en/asia-pacific/20251206-four-civilians-killed-in-pakistan-afghanistan-border-clash",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Chaman–Spin Boldak border crossing",
+      "latitude": 30.9258,
+      "longitude": 66.4516,
+      "detailed_analysis": "Cross-border exchange of fire resulted in civilian casualties at a major transit point. Despite previous truce agreements, tensions remain high between Pakistan and Afghanistan with mutual accusations of supporting militants. The border closure and recurring clashes indicate persistent instability in the region.",
+      "immediate_forecast_24h": "Heightened alert for possible retaliatory actions or renewed clashes. Potential for border closures to extend, disrupting cross-border movement. Increased military presence likely in the area.",
+      "strategic_outlook": "Ongoing political tensions between Pakistan and Taliban-led Afghanistan likely to sustain border instability. Risk of escalation into broader conflict remains moderate. Cross-border trade and transit operations will face intermittent disruptions.",
+      "operational_impact": "All personnel and assets near border areas should maintain heightened security posture. Cargo movements through Chaman crossing face high risk of delays or diversions. Aviation operations in border regions should monitor for potential airspace restrictions or ground fire incidents.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "9deef848fee16fae175fb5b2b79e2a1d",
+    "timestamp": "2025-12-06T07:31:55.197181",
+    "original_title": "Live: Russia launches massive overnight attack on Ukraine, wounding three, Kyiv says",
+    "link": "https://www.france24.com/en/europe/20251206-live-russia-launches-massive-overnight-attack-on-ukraine-wounding-three-kyiv-says",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Kyiv region, Ukraine",
+      "latitude": 50.4501,
+      "longitude": 30.5234,
+      "detailed_analysis": "Russia conducted a coordinated overnight assault involving drones and missiles targeting the Kyiv region, resulting in three casualties. This represents a direct military escalation with immediate kinetic effects on the region. The attack triggered nationwide air-raid alerts, indicating broad defensive measures and potential for widespread disruption.",
+      "immediate_forecast_24h": "High probability of continued aerial attacks on Ukrainian infrastructure and population centers. Airspace remains highly contested with ongoing missile/drone threats. Potential for retaliatory strikes or expanded conflict zones.",
+      "strategic_outlook": "Sustained conflict likely to continue given ongoing US-Ukraine negotiations show no immediate resolution. Russia demonstrates continued capability and willingness to conduct large-scale attacks. Regional instability expected to persist, potentially expanding to neighboring areas or critical infrastructure.",
+      "operational_impact": "All aviation operations in Ukrainian airspace at extreme risk. Ground transport and cargo movements in conflict zones subject to severe disruption. Personnel in affected regions face direct physical threat. Critical infrastructure including supply chains and logistics hubs vulnerable to targeting.",
+      "proximity_alert": "🚨 YAKIN TEHDİT: Boryspil International Airport (28 km)"
+    }
   }
 ]
