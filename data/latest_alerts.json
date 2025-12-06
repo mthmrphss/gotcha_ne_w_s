@@ -17,5 +17,62 @@
       "operational_impact": "Immediate airspace restrictions near critical infrastructure. Enhanced drone detection protocols required. Possible fuel supply chain interruptions affecting logistics operations. Increased security posture needed for energy assets in conflict-adjacent regions. Potential for disrupted aviation fuel availability affecting flight operations.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "4be40e0e7736d5f55fa42c9e1c25c2f4",
+    "timestamp": "2025-12-06T09:33:57.296840",
+    "original_title": "A timeline of the US military’s buildup near Venezuela and attacks on alleged drug boats - nashuatelegraph.com",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZm9ZakFTazhLN2phaWp2eklCUkJnN1RhVDRGZEN6TTFMV1RwLWJkc3RaOUFoSnhoMXlSbTlldjBJOWxjZ3hraTQ3NGcyTnlVa1QzbFdTV09zUDlOXzF4akV6WURBYUNEbFZtYWpKV0ZHYXBIbE9MLUg2ODZJOEp5U01OeE40bkNkVTV5ZUtLMnZOeTRJSDhZREJCUnJMdV9HbFRlUFhLbTk3dmhCS0xreU93M2VJWTYyZU8yM0JkcHN1bEJaUG1yazNOQWlBb1hOWWpYWmlERkNyMmw3Snc?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Caribbean Sea / Venezuela Coast",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "US military buildup and direct attacks on alleged drug trafficking vessels indicate escalating maritime conflict in Venezuelan waters. This represents kinetic military action against non-state actors, with potential for collateral damage to commercial shipping, misidentification of vessels, or retaliatory actions against US or allied assets in the region.",
+      "immediate_forecast_24h": "Increased naval patrol activity likely; possible additional interdiction operations; heightened alert for commercial vessels transiting the area due to potential for misidentification or collateral engagement.",
+      "strategic_outlook": "Sustained US military presence expected; potential for escalation if Venezuelan forces become involved; possible expansion of operations to disrupt broader drug trafficking networks in Caribbean shipping lanes.",
+      "operational_impact": "Maritime operations in eastern Caribbean should exercise caution; increased scrutiny of vessel identification and routing recommended; potential for temporary shipping lane disruptions during military operations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "cdb376213191c7568d65f0c54475a098",
+    "timestamp": "2025-12-06T09:34:08.459020",
+    "original_title": "Hundreds protest in Mogadishu against Trump's reference to Somali immigrants as \"garbage\"",
+    "link": "http://www.africanews.com/2025/12/06/hundreds-protest-in-mogadishu-against-us-president-trumps-comments-about-somali-immigrants/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Mogadishu, Somalia",
+      "latitude": 2.0469,
+      "longitude": 45.3182,
+      "detailed_analysis": "Protest triggered by political rhetoric targeting Somali immigrants, occurring in urban center. Demonstrations currently focused on symbolic outrage rather than direct targeting of assets. No immediate reports of violence, property damage, or transportation disruptions. Local authorities monitoring situation.",
+      "immediate_forecast_24h": "Potential for protest escalation or additional demonstrations. Low probability of spillover into airport/port areas. Possible brief road closures near protest sites. No current indication of targeting Western assets or personnel.",
+      "strategic_outlook": "Rhetoric-induced protests likely to remain localized and temporary unless sustained by additional inflammatory statements. May increase anti-Western sentiment in region. Could inspire copycat demonstrations in other Somali cities or diaspora communities.",
+      "operational_impact": "Minimal immediate impact to operations. Recommend monitoring airport access routes. Personnel in Mogadishu should avoid protest areas. No cargo movement disruptions anticipated. Enhanced situational awareness recommended for next 48 hours.",
+      "proximity_alert": "🚨 YAKIN TEHDİT: Aden Adde International Airport (3 km)"
+    }
+  },
+  {
+    "id": "91b03ff22aa0430266dac3a7cb4f4b03",
+    "timestamp": "2025-12-06T09:34:17.098280",
+    "original_title": "Nigel Farage to rally in Scotland as Reform UK gains ground ahead of elections",
+    "link": "https://www.france24.com/en/europe/20251206-farage-to-rally-in-scotland-as-reform-uk-gains-ground-ahead-of-general-election",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Falkirk, Scotland",
+      "latitude": 56.0,
+      "longitude": -3.7833,
+      "detailed_analysis": "Political rally by Nigel Farage and Reform UK in Falkirk. While the party's anti-immigration stance and rising popularity could attract counter-protests or isolated confrontations, no direct threats to assets, cargo, or aviation are indicated. The event is a scheduled political gathering with standard security measures expected.",
+      "immediate_forecast_24h": "Low probability of minor public disturbances or protests near rally venue. No expected impact on cargo routes, aviation operations, or personnel safety beyond typical event security protocols.",
+      "strategic_outlook": "Reform UK's growing influence may lead to increased political polarization in Scotland, potentially resulting in more frequent demonstrations. However, this does not currently indicate organized threats to critical infrastructure or transport systems.",
+      "operational_impact": "Minimal. Local law enforcement will likely manage crowd control. No anticipated disruptions to logistics, supply chains, or aviation operations. Routine security awareness advised for personnel in immediate vicinity during event hours.",
+      "proximity_alert": "🚨 YAKIN TEHDİT: Edinburg Airport (26 km)"
+    }
   }
 ]
