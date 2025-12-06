@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "id": "b37fccee09f9517e74d22060ce4d742b",
+    "timestamp": "2025-12-06T06:52:22.694025",
+    "original_title": "UK sanctions imposed on a person and organisation involved in terrorism in landmark action",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1pfhx0j/uk_sanctions_imposed_on_a_person_and_organisation/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 8,
+      "location": "United Kingdom",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "UK government sanctions target a person and organization involved in terrorism, indicating active counter-terrorism measures. While the sanctions themselves are a defensive action, they may provoke retaliatory measures from affiliated groups, potentially increasing threat levels to UK interests, including transport hubs, diplomatic personnel, or critical infrastructure.",
+      "immediate_forecast_24h": "Elevated vigilance advised for UK-linked locations globally. Possible increased propaganda or low-level harassment targeting UK assets; unlikely to see immediate large-scale attacks due to sanctions alone.",
+      "strategic_outlook": "Long-term risk of radicalized individuals or sympathizers attempting attacks on UK interests, especially soft targets. May influence regional instability if sanctioned entities have transnational reach.",
+      "operational_impact": "Enhanced screening for personnel and cargo originating from or linked to regions associated with the sanctioned entities. Review security protocols at UK diplomatic and transport nodes. Monitor for unusual cyber activity or attempted physical breaches.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "c4b1c2a6b71bf4e7232d684985c71462",
+    "timestamp": "2025-12-06T06:52:37.733693",
+    "original_title": "Bombed Chornobyl shelter no longer blocks radiation and needs major repair – IAEA",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pfihc5/bombed_chornobyl_shelter_no_longer_blocks/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Chornobyl, Ukraine",
+      "latitude": 51.389,
+      "longitude": 30.0994,
+      "detailed_analysis": "The New Safe Confinement structure at Chornobyl, designed to contain radiation from the 1986 disaster, has been compromised by bombing. This damage directly threatens personnel safety, environmental security, and regional stability due to potential radiation leaks. The event indicates ongoing conflict-related targeting of critical infrastructure.",
+      "immediate_forecast_24h": "Increased radiation monitoring required; potential for restricted airspace due to hazardous conditions; possible evacuation protocols for personnel in vicinity.",
+      "strategic_outlook": "Long-term remediation needed; possible escalation in targeting of nuclear sites; heightened regional environmental and health risks.",
+      "operational_impact": "Avoid all non-essential travel to area; implement radiation detection for personnel and cargo moving through region; review contingency plans for nuclear incidents.",
+      "proximity_alert": null
+    }
+  }
+]
