@@ -55,5 +55,43 @@
       "operational_impact": "Temporary suspension of non-essential ground operations recommended in immediate area. Personnel movements require additional security assessment. Cargo shipments may experience delays due to increased security screening and possible route diversions.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "04e4d0f0b9553abd36a98d52c80e2bf5",
+    "timestamp": "2025-12-06T19:26:16.322470",
+    "original_title": "Russia unleashes massive drone and missile attack on Ukraine as talks to end war continue - PBS",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMkZXQ2Z5Q2xmakEtX05SdFIxYXlRVEtFNHVNUHV2RURRNWlTM1F3TjNxbVhFU3R2a0V5UVkxaFFuTVRMMFZGdFZLOFBYUF9INDFEcjVFTUN6elZDTVNQQndPZmRQdmpfZ181Rmk3ZTBwN0NOVE9SUmctNUlhSVNYbmNMRXVlNm9ZX2VOeF9TbjNBS1NCVVhwVWNZNmk5RzV6dG56ZzJJcmdUekY4S0lfekNTQ0o3aGx1TjdMU2Vya0FhQdIBxwFBVV95cUxQTXFBWmstU3BrWUZZMlFVNTNDUC1LZ1kzZU1rTWQ1a2RXaE9tLWNHaXdWWXhtR2pJMnRvS1BxNVhtaHNrakN6Zm9YZEVNQUs2TXZnU1lraThaMzZtZXlVQ3MtcUI0aFZRTHczZWNBWDBkR3U5aUlPcUZ1endOYTRFaVhlSUNjRHFQbGRWNnI2Yk1OM2FSRW41aG0yYVhOQkNhWFpfbmZMdTI0MVl2eEVmallIOWVNaEQxd2dxTm1fb3F3Q05jUVBF?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 9,
+      "location": "Ukraine",
+      "latitude": 48.3794,
+      "longitude": 31.1656,
+      "detailed_analysis": "Massive drone and missile attack by Russia targeting Ukrainian infrastructure, population centers, and military assets. High probability of collateral damage to transport networks, energy facilities, and civilian areas. Aviation operations in the region are severely disrupted due to airspace risks, and cargo movement faces significant delays or rerouting due to infrastructure damage and security threats.",
+      "immediate_forecast_24h": "Continued aerial attacks likely, with potential for further escalation. Air travel in and around Ukraine remains high-risk; cargo shipments may experience hold-ups or diversions. Personnel in affected areas face elevated physical danger.",
+      "strategic_outlook": "Ongoing conflict expected to persist, with regional instability impacting logistics, supply chains, and aviation safety. Prolonged disruption to asset security and personnel safety anticipated until de-escalation or resolution.",
+      "operational_impact": "Immediate suspension of non-essential aviation and cargo operations in Ukrainian airspace/territory. Enhanced security protocols required for personnel and assets within or transiting near conflict zones. Increased monitoring for cyber and physical threats linked to geopolitical tensions.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "fa74b9213337f0ee69ea4de62abdb51f",
+    "timestamp": "2025-12-06T19:26:36.966480",
+    "original_title": "Chernobyl protective shield can no longer confine radiation after drone strike, UN nuclear watchdog says",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pfxmvz/chernobyl_protective_shield_can_no_longer_confine/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 9,
+      "location": "Chernobyl, Ukraine",
+      "latitude": 51.389,
+      "longitude": 30.0994,
+      "detailed_analysis": "Drone strike has compromised the Chernobyl New Safe Confinement structure, leading to uncontrolled radiation release. This represents a deliberate targeting of critical nuclear containment infrastructure with potential transboundary environmental and health consequences. The event indicates escalation in conflict tactics involving radiological hazards.",
+      "immediate_forecast_24h": "High probability of expanding radiation plume affecting northern Ukraine and southern Belarus. Potential for emergency evacuations, increased radiation monitoring, and possible NATO/Russian military responses. Airspace restrictions likely to be implemented.",
+      "strategic_outlook": "Long-term environmental contamination probable. May set precedent for future targeting of nuclear facilities in conflict zones. Could trigger international sanctions and heightened security at nuclear sites worldwide.",
+      "operational_impact": "Immediate no-fly zone implementation required. All personnel and cargo movements in affected region must undergo radiation screening. Potential disruption to regional supply chains and aviation routes. Enhanced protective equipment required for all ground operations.",
+      "proximity_alert": null
+    }
   }
 ]
