@@ -1,154 +1,78 @@
 [
   {
-    "id": "b0f44cee88c2da36d60674de413b2a80",
-    "timestamp": "2025-12-07T10:40:37.325517",
-    "original_title": "Soldiers announce apparent military coup in Benin - NPR",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQWhGQmZGc1lKQ0RBR1p0NDAtNEt6RzdVMmdYYXZkVWlmaF9LUWZvbkR2aEZ1Qk1xQm85Y2oyTzRSR19TdHo2eXVFQzRveW1pMkpCTHBkbzBkWXJJalRHc1UwOFRjZWgwQ3owQjNFWFdfUHdHTVQ1LWwxNEJHYjhwWU41VGhmeHlMcmEtV3QzOHhvR21yRnAzQWVB?oc=5",
-    "source_name": "Google News (Breaking)",
+    "id": "0e30dc250621691dd078b4aa2f1cf0d1",
+    "timestamp": "2025-12-07T13:17:38.859844",
+    "original_title": "Benin Rejects Claims of a Coup by Opposition Soldiers",
+    "link": "https://www.nytimes.com/2025/12/07/world/africa/benin-coup-shots-military-africa.html",
+    "source_name": "NewYork Times",
     "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 8,
+      "category": "Civil Unrest",
+      "risk_score": 6,
       "location": "Benin",
       "latitude": 9.3077,
       "longitude": 2.3158,
-      "detailed_analysis": "Military coup announcement indicates potential overthrow of government, creating immediate instability. High risk of armed conflict between military factions, potential for violence against government institutions, and disruption of national security infrastructure. Possible spillover effects on neighboring countries in West Africa region.",
-      "immediate_forecast_24h": "Increased military presence, possible curfews, roadblocks, and communications disruptions. Potential for clashes between loyalist and coup forces. Airport and border operations likely to be monitored or restricted.",
-      "strategic_outlook": "Extended political instability likely. Potential for international condemnation, economic sanctions, and regional intervention. Possible impact on regional security cooperation and counter-terrorism operations in the Sahel.",
-      "operational_impact": "All personnel in Benin should shelter in place. Avoid government buildings and military installations. Expect disruptions to transportation, communications, and financial services. Cargo shipments through Benin ports may experience delays or inspections. Aviation operations at Cotonou Airport may be suspended or heavily restricted.",
+      "detailed_analysis": "A small group of soldiers launched a mutiny, described by the interior minister as under control. No presidential statement yet. Potential for escalation if not contained, could disrupt government/military operations.",
+      "immediate_forecast_24h": "Increased military/police presence; possible protests or additional mutiny attempts; potential for temporary disruptions to government facilities and transport routes near military installations.",
+      "strategic_outlook": "If unresolved, risk of broader military dissent or opposition mobilization; could impact stability and security operations medium-term. Regional spillover unlikely but monitoring recommended.",
+      "operational_impact": "Possible roadblocks or restricted access near military bases; heightened alert for personnel in government zones; cargo/aviation operations currently unaffected but subject to change if unrest spreads.",
       "proximity_alert": null
     }
   },
   {
-    "id": "669c63cf7c92c8ef14c27fd1956172d8",
-    "timestamp": "2025-12-07T10:40:44.288949",
-    "original_title": "Emergency services respond to security incident at Heathrow - The Jerusalem Post",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA0NkpRU2dWbHJRS3J5VnJtSG52a1VKUUs0VkRnTjNoMDBpbXBqZ1JuVm0tQ1pXeWhiNkJFd2QxcHktM1hWUU80MFRyX2pkUFpoZk1yaFo5dkpTTlFmeUxN?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Aviation",
-      "risk_score": 10,
-      "location": "Heathrow, London, UK",
-      "latitude": 51.47,
-      "longitude": -0.4543,
-      "detailed_analysis": "Emergency services responded to a security incident at Heathrow Airport. While specific details are not provided in the headline, the involvement of emergency services and the location (a major international aviation hub) suggest a potential threat to aviation security, such as a bomb threat, suspicious activity, or unauthorized access. This aligns with aviation-related risk criteria, though the absence of terms like 'crash' or 'drone' prevents a higher score.",
-      "immediate_forecast_24h": "Increased security presence, possible flight disruptions, and heightened screening procedures. Further details from authorities will clarify the severity and response measures.",
-      "strategic_outlook": "Potential for temporary operational delays and reinforced security protocols. If the incident is resolved without escalation, normal operations may resume quickly, but vigilance will remain high.",
-      "operational_impact": "Short-term disruptions to passenger processing, cargo handling, and flight schedules. Coordination with law enforcement and emergency services may affect ground operations and require contingency plans.",
-      "proximity_alert": "🚨 YAKIN TEHDİT: Heathrow Airport (0 km)"
-    }
-  },
-  {
-    "id": "f4703ce622c0632db77e14c6c1427433",
-    "timestamp": "2025-12-07T10:40:56.558475",
-    "original_title": "Apple, Google Issue Global Cyber Threat Alerts to Users Worldwide",
-    "link": "https://www.reddit.com/r/worldnews/comments/1pgf51e/apple_google_issue_global_cyber_threat_alerts_to/",
+    "id": "f62827f4c40074563c99dc6cbd83aff9",
+    "timestamp": "2025-12-07T13:17:53.741544",
+    "original_title": "2 killed as Russian overnight attack hits infrastructure in Ukraine, officials say",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pgh8ms/2_killed_as_russian_overnight_attack_hits/",
     "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Cyber",
-      "risk_score": 7,
-      "location": "Global",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "Apple and Google have issued global cyber threat alerts, indicating a widespread and coordinated digital threat. While specific details are not provided in the context, such alerts from major tech firms typically signal sophisticated phishing campaigns, zero-day exploits, or state-sponsored attacks targeting user data, credentials, or device integrity. The global scope suggests a scalable threat that could impact personnel devices, corporate systems, and potentially supply chain communications if leveraged against logistics or aviation infrastructure.",
-      "immediate_forecast_24h": "Increased likelihood of phishing attempts, credential harvesting, or malware distribution targeting users and possibly enterprise systems. Personnel using affected devices for work communications or cargo/aviation logistics may face elevated risk of compromise if security advisories are not heeded.",
-      "strategic_outlook": "If this threat leverages vulnerabilities in mobile or enterprise systems, it could be adapted to target operational technology (OT), cargo tracking systems, or aviation communication networks in the mid-term. Persistent access could lead to data exfiltration, ransomware, or disruption of logistics operations.",
-      "operational_impact": "Potential compromise of personnel devices, unauthorized access to corporate or logistics systems, and interruptions in communication channels. Recommend enforcing MFA, updating all enterprise and personal devices, and alerting personnel to scrutinize unsolicited communications.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "7abbbe15779fb15964acf4b4d611e280",
-    "timestamp": "2025-12-07T10:41:04.739249",
-    "original_title": "Soldiers in Benin announce apparent military coup",
-    "link": "http://www.africanews.com/2025/12/07/soldiers-in-benin-announce-apparent-military-coup/",
-    "source_name": "Africa News",
-    "ai_analysis": {
-      "category": "Civil Unrest",
-      "risk_score": 8,
-      "location": "Benin",
-      "latitude": 9.3077,
-      "longitude": 2.3158,
-      "detailed_analysis": "Military coup announcement indicates high instability, potential for violent clashes, disruption of government functions, and possible imposition of curfews or martial law. Assets and personnel may face increased risk of detention, extortion, or collateral damage. Aviation could experience sudden airspace closures or flight diversions. Cargo movement may be halted or subject to looting or checkpoints.",
-      "immediate_forecast_24h": "Expect protests, military presence on streets, possible internet/communications blackouts, and disruptions to ports/airports. Elevated risk of opportunistic crime and armed confrontations.",
-      "strategic_outlook": "Potential for prolonged instability, international condemnation, sanctions, or regional intervention. May inspire copycat attempts in neighboring states. Recovery to normal governance could take weeks or months.",
-      "operational_impact": "Suspend non-essential travel and shipments to/through Benin. Activate emergency protocols for personnel evacuation or shelter-in-place. Monitor airspace and port status closely. Prepare for supply chain delays and increased insurance premiums.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "c7164c955f11cd21038d45162d1ef2fb",
-    "timestamp": "2025-12-07T11:30:02.643713",
-    "original_title": "Tunisia's powerful UGTT union calls nationwide strike for January 21",
-    "link": "http://www.africanews.com/2025/12/07/tunisias-powerful-ugtt-union-calls-nationwide-strike-for-january-21/",
-    "source_name": "Africa News",
-    "ai_analysis": {
-      "category": "Civil Unrest",
-      "risk_score": 7,
-      "location": "Tunisia",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "Nationwide strike called by Tunisia's largest labor union (UGTT) in response to government crackdowns and wage demands. Potential for widespread protests, transportation disruptions, and possible clashes between demonstrators and security forces. Critical infrastructure, including ports and airports, may experience operational delays or shutdowns due to staff participation in strikes.",
-      "immediate_forecast_24h": "High likelihood of road blockades, port disruptions, and potential airport operational delays on January 21. Increased security presence expected nationwide with possible violent confrontations between protesters and law enforcement.",
-      "strategic_outlook": "Sustained labor unrest may lead to prolonged disruptions in supply chains, port operations, and air cargo logistics. Potential for escalation if government responds with further suppression measures.",
-      "operational_impact": "Recommend rerouting cargo shipments, verifying airport operational status before flights, and implementing heightened security protocols for personnel movement. Expect delays in customs clearance and potential port congestion.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "ef26df903b1fd3a7d3228911f1b691ca",
-    "timestamp": "2025-12-07T11:41:23.932185",
-    "original_title": "Benin coup attempt live: Interior minister says coup attempt thwarted - Al Jazeera",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeVFOXzRKN0RwbWtVQ0FsdFR0TnVhVldRZ2R2NDhwaVBjOG9NY1BMWDdJTlJfUTVWNW1KYVBDOHE0ejhheXRWM1ZyaG5TdV8yOHJzSHpNNm14ZVIyVHdmUjA5TmNiV0NBd2lKbXBaQkMtUGVYWDNNVGJhRXFBc3dKaEV1cEtEcFU5V2JPTjVMWDFIOTRESkJZcklqMVpzbmM3WmtYMTMxZnJ3TzJVNDNHNmpyYXBHNl9RekFkTEJhTdIBxAFBVV95cUxOTjdsanZFSmZqYXdqTzlCMU5fZld0MjVrVlVTRF9mclh1a1JmZ3NXTHhVQ0QzZ2duOWtEOTR2M2hEekNubnNNRFlIdHhSTk9rdk53amN6alR3VU1Ed3U5MHpnX2w1eS1GcVg5XzZlMm1rNHlScm5UeS15bU8zNkVUY0U1TzMwRlBqR2JxTjFkTGV6enVVdUlBOG82MTZlcFZnM1JrS2JIZUpkeWZweWNCM3dINzY2aG5kV3cxMWRTVnZTNVoy?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Civil Unrest",
-      "risk_score": 10,
-      "location": "Cotonou, Benin",
-      "latitude": 6.3725,
-      "longitude": 2.5196,
-      "detailed_analysis": "A coup attempt has been reported in Benin, with the interior minister claiming it was thwarted. While details are still emerging, this indicates significant political instability and potential for violent clashes between security forces and coup plotters. Government buildings, military installations, and key infrastructure in the capital area could be targeted. The situation suggests possible disruptions to normal operations and movement.",
-      "immediate_forecast_24h": "Heightened security presence, possible roadblocks, and intermittent communications disruptions. Potential for additional security incidents as authorities investigate and round up suspects. Airport operations may experience enhanced screening and potential delays.",
-      "strategic_outlook": "Increased political volatility likely over coming weeks. Potential for retaliatory actions, additional coup attempts, or purges within security forces. Regional stability concerns may emerge if instability persists.",
-      "operational_impact": "Avoid non-essential travel to Cotonou. Expect enhanced security screening at ports and airports. Personnel should maintain heightened situational awareness, avoid government/military areas, and have contingency plans for evacuation. Cargo movements may experience delays due to increased security checks.",
-      "proximity_alert": "🚨 YAKIN TEHDİT: Cardinal Bernadin Gantin International Airport (10 km)"
-    }
-  },
-  {
-    "id": "d5eaa5a6fec5d2614cd2ed48b627ca69",
-    "timestamp": "2025-12-07T11:41:31.346457",
-    "original_title": "2 killed as Russian overnight attack hits infrastructure in Ukraine, officials say - ABC News",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRW9hNVB0Qm55OWUtVm9mQ3ZRamFMcmotY1NDVWFmOHlEV0NBb0xEbzFMbHNMWWJlRko4TmJyTm01SnVSSFlOMEZuVnI0MnY4UndURUFMOXltdmc0UWJHTTBuMVpTMXFCa3o1eTZfblA0eTZ3SFpxX2xKN05UMjktZmhjeWFCV0gzckI0STJmTk4xc18wNDVzbzZMWWI2cXh5Vm9FVTNJc3BLdTlXTnlyUmhacUs4RllL0gG-AUFVX3lxTE1YMEdLdnlsS2RnRTk1WnhybGJ0SVFudVBpTlhQMXZHLUVzSDBYdDhmQVV3ZW9zd1RqeHp3c0VtVXZKTDBGVk1nTTVhV04yMlZjdXVWQUswLXRDQkdYVUJUaEJEbUM0Y1FDQ0ZPNmV3QnpNbGJfa1lhSjh2TFRyUE1RdnRmY1BTbEVieE1PV0R5WGY5VFRjdWpYanhrQjZCcGJ2U0hKVWx6Qks0UzR3U20wRHlkNTF5N0ZRdTNKMWc?oc=5",
-    "source_name": "Google News (Breaking)",
     "ai_analysis": {
       "category": "Conflict",
       "risk_score": 8,
       "location": "Ukraine",
       "latitude": 48.3794,
       "longitude": 31.1656,
-      "detailed_analysis": "Russian overnight attack targeting Ukrainian infrastructure resulted in 2 fatalities, indicating continued kinetic military operations. Infrastructure targeting suggests potential disruption to energy, transportation, or communication networks that could affect regional logistics and supply chains.",
-      "immediate_forecast_24h": "High probability of continued attacks on Ukrainian territory with potential for collateral damage to transportation infrastructure, increased airspace restrictions, and possible retaliatory measures affecting regional security posture.",
-      "strategic_outlook": "Ongoing conflict likely to maintain elevated risk to assets and personnel in Ukraine and border regions. Infrastructure targeting may expand to include logistics hubs, ports, or transportation networks. Aviation remains high-risk due to potential air defense activity and no-fly zones.",
-      "operational_impact": "Immediate suspension of non-essential operations in affected regions. Enhanced security protocols for personnel and asset protection. Aviation operations should avoid Ukrainian airspace. Cargo shipments may experience delays or rerouting due to infrastructure damage and security concerns.",
+      "detailed_analysis": "Russian military attack targeting Ukrainian infrastructure resulting in casualties. This represents direct kinetic warfare with immediate physical destruction and loss of life. Infrastructure targeting suggests strategic disruption of energy, transportation, or communication networks. The specific location within Ukraine is unspecified in the provided data, but the pattern aligns with ongoing conflict operations.",
+      "immediate_forecast_24h": "High probability of continued attacks on infrastructure targets across Ukraine. Possible escalation to additional regions. Increased air defense activity expected. Potential for collateral damage to transportation and supply routes.",
+      "strategic_outlook": "Sustained targeting of critical infrastructure will degrade Ukraine's operational capabilities. May impact regional supply chains, energy exports, and civilian mobility. Conflict likely to persist with similar attack patterns. Possible spillover effects on neighboring countries' security postures.",
+      "operational_impact": "All personnel and assets in Ukraine at elevated risk. Aviation operations in Ukrainian airspace severely compromised. Cargo movements subject to disruption from damaged infrastructure and security closures. Essential to reroute logistics, enhance physical security protocols, and maintain heightened situational awareness for all operations in the region.",
       "proximity_alert": null
     }
   },
   {
-    "id": "db9b427b1dc73bd6e797e8be5c8b7cde",
-    "timestamp": "2025-12-07T11:41:43.386441",
-    "original_title": "Live: Benin coup attempt has been 'foiled', interior minister says",
-    "link": "https://www.france24.com/en/africa/20251207-live-apparent-coup-attempt-in-benin-govt-claims-army-has-situation-under-control",
+    "id": "52d94f3cabfe147dd24720b748388052",
+    "timestamp": "2025-12-07T13:18:03.165198",
+    "original_title": "Attempted coup d'état in Benin: Foreign minister says situation under control",
+    "link": "https://www.france24.com/en/video/20251207-attempted-coup-d-%C3%A9tat-in-benin-foreign-minister-says-situation-under-control",
     "source_name": "France 24 ME",
     "ai_analysis": {
       "category": "Civil Unrest",
+      "risk_score": 7,
+      "location": "Benin",
+      "latitude": 9.3077,
+      "longitude": 2.3158,
+      "detailed_analysis": "Attempted military coup reported in Benin, with government claiming control. Potential for armed clashes, disruptions to government functions, and instability affecting key infrastructure, including transport routes and ports. No direct mention of aviation, cargo, or personnel targeting, but unrest increases collateral risk to assets and movement.",
+      "immediate_forecast_24h": "Heightened military and police presence; possible sporadic violence, roadblocks, or temporary closures at ports and airports. Increased scrutiny on cargo and personnel movements.",
+      "strategic_outlook": "If instability persists, risk of prolonged disruptions to logistics, supply chains, and regional trade routes. Potential for opportunistic crime or smuggling amid chaos.",
+      "operational_impact": "Monitor personnel safety; reroute high-value cargo if transiting Benin. Expect delays in aviation and maritime operations due to heightened security measures or ad hoc restrictions.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "2c617e54f3d5157e4ab89c9bf42d2d2b",
+    "timestamp": "2025-12-07T13:18:10.966622",
+    "original_title": "Qatar Airways Chief Executive Ousted With Immediate Effect: Airline Gives No Explanation For Sudden Leadership Change",
+    "link": "https://www.paddleyourownkanoo.com/2025/12/07/qatar-airways-chief-executive-ousted-with-immediate-effect-airline-gives-no-explanation-for-sudden-leadership-change/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Other",
       "risk_score": 10,
-      "location": "Cotonou, Benin",
-      "latitude": 6.3725,
-      "longitude": 2.5196,
-      "detailed_analysis": "A coup attempt has been reported as foiled by Benin's interior minister. While details are still emerging, this indicates significant political instability and potential for violent clashes between government forces and coup plotters. The capital Cotonou is likely the epicenter of activity. This type of event often leads to sudden road closures, military checkpoints, and disruptions to government and transportation services.",
-      "immediate_forecast_24h": "High probability of continued security operations, possible armed confrontations, roadblocks around government buildings and military installations. Airport operations may experience delays or temporary closures for security screening. Increased military and police presence throughout urban centers.",
-      "strategic_outlook": "Potential for prolonged political instability, possible retaliatory actions by coup supporters, and increased scrutiny of personnel movements. May trigger regional security responses from ECOWAS or neighboring countries. Could lead to temporary port and border closures if situation escalates.",
-      "operational_impact": "All personnel movements in Benin should be restricted to essential travel. Enhanced security protocols for assets and facilities. Aviation operations may face heightened security screening and potential temporary ground stops. Cargo shipments may experience delays due to increased inspections and checkpoints.",
-      "proximity_alert": "🚨 YAKIN TEHDİT: Cardinal Bernadin Gantin International Airport (10 km)"
+      "location": "Doha, Qatar",
+      "latitude": 25.2854,
+      "longitude": 51.531,
+      "detailed_analysis": "Sudden, unexplained CEO dismissal at Qatar Airways suggests potential internal instability or governance issues. No direct threat to physical assets, cargo, or personnel safety indicated. Event appears to be corporate leadership change without immediate security implications.",
+      "immediate_forecast_24h": "Minimal operational disruption expected. Standard security protocols remain unchanged. No elevated threat to aviation infrastructure or personnel.",
+      "strategic_outlook": "Potential for internal organizational changes or strategic shifts in airline operations. Monitor for any follow-up announcements regarding new leadership direction or potential labor disputes.",
+      "operational_impact": "None to minimal. Routine flight operations and security measures expected to continue normally. No cargo or passenger processing disruptions anticipated.",
+      "proximity_alert": "🚨 YAKIN TEHDİT: Hamad International Airport (8 km)"
     }
   }
 ]
