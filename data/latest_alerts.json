@@ -1,58 +1,20 @@
 [
   {
-    "id": "130341cd9d80669baddd00f2998f9537",
-    "timestamp": "2025-12-07T18:50:15.885486",
-    "original_title": "Russian Drone Strike on Chernobyl Hasn’t Led to Rise in Radiation Levels",
-    "link": "https://www.nytimes.com/2025/12/07/world/europe/chernobyl-ukraine-russian-drone-strike-radiation.html",
-    "source_name": "NewYork Times",
-    "ai_analysis": {
-      "category": "Aviation",
-      "risk_score": 7,
-      "location": "Chernobyl, Ukraine",
-      "latitude": 51.389,
-      "longitude": 30.0994,
-      "detailed_analysis": "A drone strike by Russian forces targeted Reactor No. 4 at Chernobyl, puncturing the outermost protective shield. While radiation levels have not increased, the damage remains unrepaired, indicating potential vulnerabilities in critical infrastructure security and possible escalation tactics in conflict zones.",
-      "immediate_forecast_24h": "Increased drone surveillance and potential follow-up strikes on nuclear or high-value infrastructure cannot be ruled out; heightened alert for similar incidents in conflict-adjacent regions advised.",
-      "strategic_outlook": "Persistent targeting of nuclear facilities may signal a strategy to create psychological fear or disrupt energy/logistics networks; long-term risk of accidental radiological release if repairs are delayed or further attacks occur.",
-      "operational_impact": "Potential disruptions to regional cargo and personnel movements due to security perimeter expansions; aviation may face no-fly zone enforcement or increased drone interdiction efforts near sensitive sites.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "b4579de29e64b07cd5a8f261e3b0a8a7",
-    "timestamp": "2025-12-07T18:50:26.048378",
-    "original_title": "Chinese fighters target SDF jets with radar lock-on as tensions surge",
-    "link": "https://www.reddit.com/r/geopolitics/comments/1pgodxw/chinese_fighters_target_sdf_jets_with_radar/",
-    "source_name": "Reddit r/Geopolitics",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 7,
-      "location": "Southeast of Okinawa, international waters",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "Chinese J-15 fighters from the Liaoning carrier group conducted radar lock-ons on Japanese F-15s during exercises in international waters. This is a deliberate escalation tactic, signaling hostile intent without direct engagement. The context includes deteriorating Sino-Japanese relations following Japan's military stance on Taiwan, indicating this is part of a broader geopolitical tension rather than an isolated incident. Both sides accuse the other of provocation, increasing miscalculation risks.",
-      "immediate_forecast_24h": "Heightened aerial patrols and potential for additional close-range intercepts; possible diplomatic protests but low probability of direct combat escalation within 24 hours.",
-      "strategic_outlook": "Sustained increase in regional military posturing; potential for further radar lock-ons, aggressive maneuvers, or electronic warfare incidents. Could impact freedom of navigation and aviation safety in East China Sea corridors over the coming weeks.",
-      "operational_impact": "Increased alert level for aviation assets in the area; possible rerouting or enhanced escort protocols for sensitive flights. Personnel in the region should expect heightened readiness drills and potential for rapid response scenarios.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "52b8e703b68c16f8a30375cf8da7eb5d",
-    "timestamp": "2025-12-07T18:50:46.919403",
-    "original_title": "Pentagon announces it has killed four men in another boat strike in Pacific",
-    "link": "https://www.reddit.com/r/worldnews/comments/1pgp0hl/pentagon_announces_it_has_killed_four_men_in/",
+    "id": "f2c3e65ef54106c29d022e2e42ba7d32",
+    "timestamp": "2025-12-07T20:38:18.669054",
+    "original_title": "Frontline report: Ukraine’s drone campaign pushes Russia’s oil industry toward collapse",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pgs0hb/frontline_report_ukraines_drone_campaign_pushes/",
     "source_name": "Reddit r/WorldNews",
     "ai_analysis": {
       "category": "Conflict",
-      "risk_score": 7,
-      "location": "Pacific Ocean",
+      "risk_score": 8,
+      "location": "Russia",
       "latitude": 0.0,
       "longitude": 0.0,
-      "detailed_analysis": "Pentagon-announced kinetic strike targeting a boat in the Pacific, resulting in four fatalities. Event indicates ongoing military operations, likely counter-piracy, counter-terrorism, or force protection measures. No specific threat to commercial maritime identified, but heightened military activity increases regional volatility and potential for miscalculation or collateral impacts on nearby assets.",
-      "immediate_forecast_24h": "Increased naval patrols and aerial surveillance expected in the area. Possible retaliatory actions or heightened alert status among non-state actors. No direct threat to commercial shipping lanes, but vessels advised to monitor military advisories and maintain heightened situational awareness.",
-      "strategic_outlook": "Continued U.S. military engagement in Pacific maritime security operations likely. Potential escalation if linked to broader geopolitical tensions. May influence regional shipping insurance rates and route planning if pattern of strikes persists.",
-      "operational_impact": "Minimal direct impact on cargo or aviation operations. Personnel in or transiting the region should adhere to military and corporate security guidance. No expected port closures or routing changes, but real-time intelligence monitoring recommended.",
+      "detailed_analysis": "Ukraine's drone campaign targeting Russian oil infrastructure represents a significant escalation in asymmetric warfare tactics. This directly threatens energy sector assets, potentially causing supply chain disruptions, economic instability, and retaliatory measures. The persistent nature of these attacks indicates sophisticated planning and execution capabilities.",
+      "immediate_forecast_24h": "High probability of continued drone strikes against Russian energy infrastructure, potential for retaliatory strikes against Ukrainian or Western assets, increased regional aviation security measures, possible disruption to oil and gas logistics.",
+      "strategic_outlook": "Sustained campaign likely to continue degrading Russian energy export capacity, potentially forcing resource reallocation for defense. May lead to broader regional instability, increased energy price volatility, and possible escalation involving NATO assets if conflict spreads beyond current boundaries.",
+      "operational_impact": "Enhanced drone detection protocols required for all energy infrastructure in region. Increased security for personnel at oil facilities. Potential for collateral damage to international cargo and aviation in the area. Possible cyber retaliation against critical infrastructure. Supply chain disruptions for energy exports likely.",
       "proximity_alert": null
     }
   }
