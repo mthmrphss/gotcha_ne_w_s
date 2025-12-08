@@ -188,5 +188,62 @@
       "operational_impact": "Temporary grounding of affected aircraft for inspection; potential resource allocation for passenger rebooking; coordination with UK aviation authorities; minimal impact on cargo operations unless mechanical issue is systemic.",
       "proximity_alert": " YAKIN TEHDİT: Edinburg Airport (10 km)"
     }
+  },
+  {
+    "id": "5bd37ad24f70b9d103c6c8d6f1a11210",
+    "timestamp": "2025-12-08T10:05:33.482392",
+    "original_title": "United flight made emergency landing in Edinburgh after ‘burning smell’ detected on board - The Independent",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd1FqMERKbEtBY3FXemJfUUdvMlFXZUc3a2t4WXpKX0o4RG5nNjlEcEtEZ2ZxYUFMU29oeUw4NDA3S01WUmFFR0hySkNvZWpCYkhhY1ZXUThGQmgyQUFiM09uS29MVmNsQzE5aGhQYldRNEFoc0VuSXJmeExIZXlTWm5IZW92Q3dIcmFOcFA5VWhmdEkwcHJxSmh6cVJPNmNZb0lJVGJ5STlxWkdQ?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Edinburgh, Scotland",
+      "latitude": 55.9533,
+      "longitude": -3.1883,
+      "detailed_analysis": "United flight declared emergency and diverted to Edinburgh Airport due to reported burning smell onboard. While preliminary reports suggest potential electrical or mechanical issue rather than malicious intent, the emergency landing protocol activation and passenger evacuation indicate serious safety concerns. Requires investigation into aircraft systems, potential maintenance issues, or undiscovered threats.",
+      "immediate_forecast_24h": "Increased aviation security scrutiny at Edinburgh Airport; potential delays for United flights; possible FAA/EASA safety bulletins; enhanced aircraft inspections for similar models.",
+      "strategic_outlook": "Potential pattern if similar incidents occur across fleet; may indicate systemic maintenance issues or undetected vulnerability in aircraft systems; could lead to regulatory reviews or temporary grounding of specific aircraft models.",
+      "operational_impact": "Temporary disruption at Edinburgh Airport; increased security screening for United operations; possible cascading flight delays; mandatory safety inspections for aircraft with similar configurations.",
+      "proximity_alert": " YAKIN TEHDİT: Edinburg Airport (10 km)"
+    }
+  },
+  {
+    "id": "e608ce7f3037f3ce864b7acc97151e80",
+    "timestamp": "2025-12-08T10:05:42.498651",
+    "original_title": "New Russian drone strikes hit Ukraine's Sumy region, residents evacuated amid fires",
+    "link": "http://www.africanews.com/2025/12/08/new-russian-drone-strikes-hit-ukraines-sumy-region-residents-evacuated-amid-fires/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Sumy region, Okhtyrka",
+      "latitude": 50.9077,
+      "longitude": 34.7981,
+      "detailed_analysis": "Russian drone strikes targeting civilian infrastructure in Sumy region, resulting in fires and building damage requiring evacuation. Indicates continued escalation of kinetic operations against Ukrainian territory with direct impact on civilian areas.",
+      "immediate_forecast_24h": "High probability of follow-up strikes or additional drone operations in the region. Evacuation operations ongoing. Potential for collateral damage to transportation routes and critical infrastructure.",
+      "strategic_outlook": "Sustained aerial threat to northeastern Ukraine regions. Increased drone warfare tactics likely to continue, requiring enhanced air defense posture and evacuation protocols for assets/operations in conflict zones.",
+      "operational_impact": "Ground movement restrictions in affected areas. Potential disruption to supply chains and logistics routes. Aviation operations at risk from drone incursions and possible airspace closures. Personnel require enhanced security protocols and evacuation readiness.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "974c15eb15856a4c862a5514f0764dde",
+    "timestamp": "2025-12-08T10:05:50.036398",
+    "original_title": "Uganda: opposition leader Bobi Wine says he was beaten by security forces",
+    "link": "http://www.africanews.com/2025/12/08/uganda-opposition-leader-bobi-wine-says-he-was-beaten-by-security-forces/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 6,
+      "location": "Northern Uganda",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Opposition leader Bobi Wine reports being beaten by security forces during campaign activities. This indicates heightened political tensions and potential for civil unrest. While not directly targeting assets or cargo, such incidents can escalate into broader protests, roadblocks, or disruptions to transport routes, potentially affecting personnel movement and supply chains in the region.",
+      "immediate_forecast_24h": "Increased likelihood of protests or demonstrations in response to the incident, possibly leading to localized road closures, increased security presence, and disruptions to ground transport in northern Uganda. Aviation unlikely to be directly affected unless protests spread to major urban centers.",
+      "strategic_outlook": "Political tensions likely to persist through election periods, with potential for recurring unrest. May impact regional logistics and personnel security if violence escalates or spreads to key transport corridors. No direct threat to aviation or cargo identified at this time.",
+      "operational_impact": "Ground personnel in northern Uganda should exercise heightened caution, avoid protest areas, and monitor local developments. No immediate impact on aviation operations or cargo shipments, but situation requires monitoring for potential escalation that could affect broader transport infrastructure.",
+      "proximity_alert": null
+    }
   }
 ]
