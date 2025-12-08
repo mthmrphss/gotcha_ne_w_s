@@ -530,5 +530,24 @@
       "operational_impact": "Tourist movement in central Paris may be disrupted; increased security screening at cultural sites; possible delays for cargo/transports near museum perimeter; heightened vigilance required for personnel in affected area.",
       "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (2 km)"
     }
+  },
+  {
+    "id": "f813d51b8fb50e97d74bed3a8c40e0b4",
+    "timestamp": "2025-12-08T19:31:22.287803",
+    "original_title": "Protesting Greek farmers force their way onto Crete airport tarmac, causing flight suspensions",
+    "link": "https://www.reddit.com/r/worldnews/comments/1phljyy/protesting_greek_farmers_force_their_way_onto/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 7,
+      "location": "Crete, Greece",
+      "latitude": 35.2401,
+      "longitude": 24.8093,
+      "detailed_analysis": "Protesting farmers breached airport security perimeter and accessed restricted tarmac areas at Crete airport, resulting in flight suspensions. This demonstrates significant physical security failure and potential vulnerability in airport access controls. While not targeting aviation specifically, the protest directly disrupted flight operations and created potential safety hazards.",
+      "immediate_forecast_24h": "High probability of continued airport disruptions as protests may persist. Additional security measures likely to be implemented. Possible spillover to other transportation infrastructure if demands aren't met.",
+      "strategic_outlook": "Agricultural protests in Greece may continue to target critical infrastructure to maximize visibility. Other airports and transportation hubs in Greece should enhance perimeter security and protest response protocols. Potential for copycat actions in neighboring countries with similar agricultural disputes.",
+      "operational_impact": "Flight operations suspended at affected airport. Cargo and passenger delays expected. Increased security screening and perimeter patrols required. Possible diversion of flights to alternative airports. Personnel may face access challenges and increased security scrutiny.",
+      "proximity_alert": null
+    }
   }
 ]
