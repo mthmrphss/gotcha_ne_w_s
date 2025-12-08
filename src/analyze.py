@@ -13,6 +13,7 @@ from g4f.Provider import PollinationsAI
 ASSETS_FILE = "assets.json"
 HISTORY_FILE = "data/history.json"
 OUTPUT_FILE = "data/latest_alerts.json"
+DAILY_COLLECTION_FILE = "data/daily_collection.json" # <--- YENİ: Günlük Havuz Dosyası
 
 # Bu süre (dakika) dolan haberler JSON'dan silinir.
 # Power Automate saat başı (60 dk) çalışıyorsa, burayı 65-70 yapmak güvenlidir.
@@ -39,7 +40,7 @@ RSS_SOURCES = [
         "name": "NewYork Times",
         "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"
     },    
-    {   
+    {    
         "name": "Live Flight Emergencies (Squawk)",
         "url": "https://news.google.com/rss/search?q=(squawk+7700+OR+squawk+7500+OR+emergency+landing)+when:1h&hl=en-US&gl=US&ceid=US:en"
     },
@@ -55,7 +56,6 @@ RSS_SOURCES = [
         "name": "War on the Rocks",
         "url": "https://warontherocks.com/feed/"
     },
-    # Yeni eklenen kaynaklarınız
     { "name": "Africa News", "url": "https://www.africanews.com/feed/rss" },
     { "name": "France 24 ME", "url": "https://www.france24.com/en/rss" },
     { "name": "US State Dept", "url": "https://travel.state.gov/_res/rss/TAsTWs.xml" },
@@ -92,7 +92,6 @@ def save_history(history_list):
     with open(HISTORY_FILE, 'w', encoding='utf-8') as f:
         json.dump(history_list[-500:], f, ensure_ascii=False, indent=2)
 
-# --- YENİ FONKSİYON: MEVCUT RAPORU OKU (BİRİKTİRME İÇİN) ---
 def load_current_alerts():
     if not os.path.exists(OUTPUT_FILE): return []
     try:
@@ -169,6 +168,48 @@ def clean_and_parse_json(content):
         return json.loads(text)
     except: return None
 
+# --- YENİ FONKSİYON: GÜNLÜK HAVUZA EKLEME ---
+def update_daily_collection(new_alerts):
+    """
+    Yeni bulunan önemli haberleri günlük havuza (daily_collection.json) ekler.
+    Kriter: Risk >= 6 VEYA Yakın Tehdit (Proximity)
+    """
+    if not new_alerts: return
+
+    # Dosya yoksa boş liste oluştur
+    if os.path.exists(DAILY_COLLECTION_FILE):
+        try:
+            with open(DAILY_COLLECTION_FILE, 'r', encoding='utf-8') as f:
+                daily_data = json.load(f)
+        except: daily_data = []
+    else:
+        daily_data = []
+
+    existing_ids = [item['id'] for item in daily_data]
+    added_count = 0
+
+    for alert in new_alerts:
+        # Daha önce eklenmişse atla
+        if alert['id'] in existing_ids: continue
+        
+        # KRİTERLER:
+        # 1. Risk Skoru 6 ve üzeri olanlar (Önemli Olaylar)
+        # 2. Varlıklarımıza yakın tehdit içerenler (Proximity)
+        # 3. Kategori Havacılık ise ve risk >= 5 ise (Opsiyonel hassasiyet)
+        
+        is_high_risk = alert['ai_analysis']['risk_score'] >= 6
+        has_proximity = alert['ai_analysis'].get('proximity_alert') is not None
+        is_aviation_risk = (alert['ai_analysis']['category'] == "Aviation" and alert['ai_analysis']['risk_score'] >= 5)
+        
+        if is_high_risk or has_proximity or is_aviation_risk:
+            daily_data.append(alert)
+            added_count += 1
+    
+    if added_count > 0:
+        with open(DAILY_COLLECTION_FILE, 'w', encoding='utf-8') as f:
+            json.dump(daily_data, f, ensure_ascii=False, indent=2)
+        print(f"-> Added {added_count} items to Daily Collection.")
+
 def main():
     if not os.path.exists('data'): os.makedirs('data')
 
@@ -220,7 +261,7 @@ def main():
                         dist = calculate_distance(event_lat, event_lon, asset['lat'], asset['lon'])
                         threshold = 30 if asset.get('type') == 'Airport' else 10
                         if dist < threshold:
-                            proximity_alert = f"🚨 YAKIN TEHDİT: {asset['name']} ({int(dist)} km)"
+                            proximity_alert = f" YAKIN TEHDİT: {asset['name']} ({int(dist)} km)"
                             analysis['risk_score'] = 10
                             score = 10
                             break
@@ -248,12 +289,8 @@ def main():
                 history.append({"id": news_hash, "timestamp": datetime.now().isoformat()})
                 time.sleep(2)
 
-    # 2. LİSTELERİ BİRLEŞTİR (ESKİLER + YENİLER)
-    # Yeni bulunanları eskilerin üzerine ekle
+    # 2. ANLIK AKIŞ İÇİN KAYIT (Power Automate - Kayan Pencere)
     combined_alerts = current_alerts + new_alerts_found
-
-    # 3. ZAMAN AŞIMI TEMİZLİĞİ (CLEANUP)
-    # 70 dakikadan eski olanları listeden çıkar
     final_alerts = []
     now = datetime.now()
     
@@ -268,17 +305,19 @@ def main():
             else:
                 print(f"Dropping expired alert: {alert['original_title'][:30]}... ({int(age_minutes)} min old)")
         except:
-            # Tarih formatı bozuksa güvenli tarafta kalıp silmeyelim (veya silelim)
             final_alerts.append(alert)
 
-    # 4. DOSYAYI GÜNCELLE
-    # Dosya her zaman "Son 70 dakikanın" canlı listesidir.
     with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
         json.dump(final_alerts, f, ensure_ascii=False, indent=2)
 
     if new_alerts_found:
-        print(f"\nSUCCESS: {len(new_alerts_found)} NEW alerts added. Total active: {len(final_alerts)}")
+        print(f"\nSUCCESS: {len(new_alerts_found)} NEW alerts added.")
         save_history(history)
+        
+        # --- GÜNLÜK ÖZET İÇİN KAYIT ---
+        # Önemli haberleri günlük havuza at
+        update_daily_collection(new_alerts_found)
+        
     else:
         print(f"\nNo NEW incidents. Total active buffer: {len(final_alerts)}")
 
