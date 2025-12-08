@@ -93,5 +93,81 @@
       "operational_impact": "Avoid non-essential travel to border regions. Implement enhanced tracking for personnel and assets near conflict zones. Review contingency plans for border crossing disruptions. No current impact on aviation operations or major cargo routes.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "cf017f798be30763ebf0a76846f7021d",
+    "timestamp": "2025-12-08T17:42:45.916471",
+    "original_title": "Benin government says it has thwarted attempted military coup - The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBlc1Z4V0EyRkZjclY4Wlh4ZjE3c3V3ZzZBWGFvdnMwTXRHNXNLYVdRLV9KZnFCUVROU1V6YllmMksycDhKR0FvUkU5NEhORHpuODlLVW40S1lhSmljNWZXTG9UVkFQOTgtZ0dOb0szWDlMSkg0UFE?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Cotonou, Benin",
+      "latitude": 6.3725,
+      "longitude": 2.5196,
+      "detailed_analysis": "The Benin government reports thwarting a military coup attempt, indicating significant internal political instability. While the immediate threat was neutralized, this suggests underlying tensions within military or political factions that could resurface. Such events often lead to increased security measures, potential travel restrictions, and disruptions to government operations.",
+      "immediate_forecast_24h": "Heightened security presence in capital area, possible roadblocks and increased military patrols. Potential for brief disruptions to government services and transportation near key facilities. Low probability of renewed violence but elevated alert status likely.",
+      "strategic_outlook": "Medium-term instability possible as government conducts investigations and potential purges. Could lead to retaliatory actions from coup plotters or sympathizers. Regional stability may be affected if coup attempts inspire similar actions in neighboring countries.",
+      "operational_impact": "Increased scrutiny at ports and airports for weapons/contraband. Possible temporary relocation of diplomatic personnel. Cargo shipments may experience delays due to enhanced security checks. Personnel travel to Benin should be reassessed with heightened security protocols.",
+      "proximity_alert": "YAKIN TEHDİT: Cardinal Bernadin Gantin International Airport (10 km)"
+    }
+  },
+  {
+    "id": "990b764d78cde509fcc088c19126d7ad",
+    "timestamp": "2025-12-08T17:43:04.152704",
+    "original_title": "British Airways flight makes emergency return to Edinburgh after 'technical issue' - Glasgow Live",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWDl5LXVlYkprY05iOXpRWUVxVVQtanUzT2VkUzVjbFRXY29Ha1lXb0ZFOXYxYkNLS0FFUVhDREpDYnIxYnNrVThYOTdabExNSWE4UTJIYXpDd3Q4azNTVGt3a3JBak5LMnhsV0hhZldLYmJYRXFBVG1WazkwVm9QXzl4RXVtcUVyU0JPeExub050TXZyWE9qNFFlONIBoAFBVV95cUxNVXhzcXJyZzRPbFJhajhGa2NhM0wwRUxpbm00alVXNDhKN3pTNHBxVHZ0UWVQY2RoUnI4anIzbEg5WFM0MHNYdmZELTVzUElwaGR4M0EtT1diM1VWb3lycUE3MlBQcXBURG1kNzY2V2k1YWZKcEdzdWVRd0ZBY0VLbk9YTUtFN3MxV0pHcnFWVlNxV3RxcDlZXzVfMkNSOXdB?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Edinburgh, Scotland",
+      "latitude": 55.9533,
+      "longitude": -3.1883,
+      "detailed_analysis": "British Airways flight experienced a technical issue requiring emergency return to Edinburgh Airport. While no crash occurred, the nature of the technical issue is unspecified, and emergency procedures were activated, indicating potential safety risks to aviation operations.",
+      "immediate_forecast_24h": "Increased scrutiny on British Airways flights from Edinburgh; possible delays or cancellations as the airline investigates the technical fault. No immediate threat to other assets or personnel expected.",
+      "strategic_outlook": "Potential for recurring technical issues with specific aircraft models or maintenance procedures; may require review of safety protocols and increased monitoring of BA fleet operations in the region.",
+      "operational_impact": "Temporary disruption to flight schedules; possible reputational impact on British Airways. No direct threat to cargo or personnel beyond the incident aircraft.",
+      "proximity_alert": "YAKIN TEHDİT: Edinburg Airport (10 km)"
+    }
+  },
+  {
+    "id": "b822f29150f1963f9a79a85231ddca62",
+    "timestamp": "2025-12-08T17:43:14.550455",
+    "original_title": "EU approves draft overhaul of migration policy",
+    "link": "http://www.africanews.com/2025/12/08/eu-approves-draft-overhaul-of-migration-policy/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Border/Migration",
+      "risk_score": 5,
+      "location": "European Union",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "EU migration policy overhaul introduces potential for increased migrant movement disruptions, including possible stowaway attempts on transport vessels/vehicles and border crossing attempts. Bilateral deportation agreements may lead to escalated migration route changes and potential for human smuggling operations exploiting policy transitions.",
+      "immediate_forecast_24h": "No immediate operational impact expected within 24 hours as policy remains in draft stage. Monitor for any spontaneous protests or attempted border breaches near key transit hubs.",
+      "strategic_outlook": "Medium-term increase in migration-related disruptions to cargo routes, particularly maritime and land border crossings. Potential for organized smuggling networks to adapt tactics to new deportation mechanisms. Aviation may see increased stowaway attempts on commercial flights from affected regions.",
+      "operational_impact": "Enhanced screening recommended for cargo originating from/near EU borders. Personnel in border regions should maintain heightened awareness of unusual migration patterns. Aviation security should review stowaway prevention protocols for flights to/from EU and partner deportation countries.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "b664f6130e5ba7b7b085d1f01befe9d7",
+    "timestamp": "2025-12-08T17:43:22.069641",
+    "original_title": "Benin military hunts fugitive soldiers a day after foiled coup attempt",
+    "link": "https://www.france24.com/en/africa/20251208-benin-military-hunts-fugitive-soldiers-a-day-after-foiled-coup-attempt",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Cotonou, Benin",
+      "latitude": 6.3725,
+      "longitude": 2.5196,
+      "detailed_analysis": "Military operations ongoing in Cotonou following a foiled coup attempt, with fugitive soldiers at large. Neighboring Nigeria has conducted strikes and deployed troops, indicating regional instability. While not directly targeting assets or aviation, the volatile environment increases risks of collateral damage, opportunistic crime, or disruption to logistics and personnel movement.",
+      "immediate_forecast_24h": "Heightened military presence and potential clashes; possible roadblocks, curfews, or restricted access to key areas including ports or airports. Increased vigilance advised for personnel and cargo movements.",
+      "strategic_outlook": "Prolonged instability likely if coup sympathizers remain active. Regional involvement (Nigeria) may escalate or contain the situation. Jihadist insurgent activity in the region adds complexity to security dynamics.",
+      "operational_impact": "Potential delays or rerouting for cargo; increased scrutiny at borders and ports. Aviation may face heightened security protocols. Personnel should avoid non-essential travel to affected areas and maintain situational awareness.",
+      "proximity_alert": "YAKIN TEHDİT: Cardinal Bernadin Gantin International Airport (10 km)"
+    }
   }
 ]
