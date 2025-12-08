@@ -1,173 +1,21 @@
 [
   {
-    "id": "f46cb2759b0ef58c00e93d9182002504",
-    "timestamp": "2025-12-08T16:57:24.507845",
-    "original_title": "Thai Jets Bomb Cambodia as at Least 5 Die in New Wave of Fighting",
-    "link": "https://www.nytimes.com/2025/12/08/world/asia/thailand-cambodia-f16-jets.html",
-    "source_name": "NewYork Times",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 8,
-      "location": "Thai-Cambodian border region",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "Cross-border military engagement involving Thai fighter jets conducting airstrikes in Cambodia, resulting in casualties. This represents an escalation in the long-standing border dispute between the two nations. The use of military aviation and potential for ground troop movements creates immediate security threats to regional stability.",
-      "immediate_forecast_24h": "High probability of continued military engagements, potential for escalation to broader conflict, possible closure of border crossings, and disruption of regional air traffic patterns. Increased risk of accidental cross-border incidents involving civilian assets.",
-      "strategic_outlook": "Sustained border tensions likely to persist, potentially affecting regional trade routes and overflight permissions. May require rerouting of cargo and passenger flights. Could impact regional supply chains and necessitate enhanced security protocols for assets operating near the border.",
-      "operational_impact": "Immediate airspace restrictions expected near border regions. Potential for collateral damage to civilian infrastructure. Increased scrutiny of cargo and personnel movements across the Thai-Cambodian border. Possible delays in regional logistics operations. Aviation assets should avoid the conflict zone and monitor NOTAMs closely.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "100ee5a4ccc63faa7cd2ffc851fedcec",
-    "timestamp": "2025-12-08T16:57:45.401566",
-    "original_title": "Truckers' strike paralyzes Cameroon’s main trade route",
-    "link": "http://www.africanews.com/2025/12/08/truckers-strike-paralyzes-cameroons-main-trade-route/",
-    "source_name": "Africa News",
-    "ai_analysis": {
-      "category": "Civil Unrest",
-      "risk_score": 6,
-      "location": "National Highway 1, Cameroon",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "Truckers' strike causing paralysis of Cameroon's primary commercial route indicates significant labor unrest. While not directly violent, this creates operational vulnerabilities: stranded cargo becomes potential theft targets, supply chain disruptions may trigger secondary protests, and prolonged stoppage could escalate into broader civil disobedience. No direct threat to aviation assets identified.",
-      "immediate_forecast_24h": "High probability of continued road blockade with potential spillover effects including secondary protests, increased cargo theft opportunities due to stationary shipments, and possible escalation if security forces intervene.",
-      "strategic_outlook": "Potential for prolonged disruption if labor demands aren't met. May inspire similar actions in neighboring countries or other sectors. Could evolve into wider anti-government protests if unresolved, particularly given highway's economic importance.",
-      "operational_impact": "Critical supply chain disruption for goods movement. Increased physical security requirements for stranded cargo. Possible rerouting delays and cost escalations. Personnel movement hampered along corridor. No direct aviation impact beyond potential fuel/ supply chain delays.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "9e88e8aebf3269d8776b7b66610bef1a",
-    "timestamp": "2025-12-08T16:58:03.455187",
-    "original_title": "WHO condemns airstrikes that killed 114 in Sudan",
-    "link": "http://www.africanews.com/2025/12/08/who-condemns-airstrikes-that-killed-114-in-sudan/",
-    "source_name": "Africa News",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 8,
-      "location": "South Kordofan State, Sudan",
-      "latitude": 11.199,
-      "longitude": 29.417,
-      "detailed_analysis": "Airstrikes in South Kordofan State resulted in 114 fatalities, including 63 children, indicating active military conflict with high collateral damage. While not directly targeting aviation infrastructure, the use of airstrikes demonstrates active air operations in the region, posing indirect risks to aviation through potential airspace restrictions, collateral damage to nearby infrastructure, or misidentification of civilian aircraft. The WHO's condemnation suggests significant international attention and potential for escalating conflict.",
-      "immediate_forecast_24h": "Heightened military air activity likely to continue; possible additional airstrikes. Airspace may become restricted or hazardous for civilian aviation. Increased displacement and humanitarian movements could affect ground transport routes.",
-      "strategic_outlook": "Ongoing conflict likely to persist, potentially expanding to neighboring regions. International pressure may increase but unlikely to immediately halt hostilities. Aviation operations in Sudanese airspace face prolonged elevated threat levels.",
-      "operational_impact": "Avoid all non-essential travel and operations in South Kordofan State. Reroute aviation around conflict zone with increased buffer. Ground cargo movements face high risk of disruption, damage, or seizure. Personnel in region should shelter in place or evacuate if possible.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "fe0ffdf6b983a3ce61e56f2cd15b06d4",
-    "timestamp": "2025-12-08T16:58:12.217478",
-    "original_title": "Syria marks one year since ouster of longtime ruler Bashar al-Assad",
-    "link": "https://www.france24.com/en/video/20251208-syria-marks-one-year-since-ouster-of-longtime-ruler-bashar-al-assad",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Civil Unrest",
-      "risk_score": 6,
-      "location": "Syria",
-      "latitude": 34.8021,
-      "longitude": 38.9968,
-      "detailed_analysis": "Anniversary events marking the ousting of Assad's regime may trigger demonstrations, counter-protests, or opportunistic violence. Historical tensions from 50-year repressive rule and 14-year civil war create volatile environment. Potential for clashes between opposing factions, though no specific threats to assets/cargo/aviation mentioned in this report.",
-      "immediate_forecast_24h": "Increased likelihood of protests in major urban centers, possible road closures affecting logistics. Low probability of direct aviation threats unless protests escalate near airports. Cargo movements may experience delays due to potential civil disturbances.",
-      "strategic_outlook": "Ongoing political instability and social divisions suggest continued civil unrest potential. Anniversary events may reignite tensions between pro/anti-government factions. No direct indication of organized terrorism or targeted attacks against specific assets in this reporting.",
-      "operational_impact": "Monitor transportation routes for protest-related disruptions. Review security protocols for personnel in Syria. No immediate aviation or cargo-specific threats identified, but maintain heightened awareness during anniversary period.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "d09ff37d035e839f5b824e809551edd2",
-    "timestamp": "2025-12-08T16:59:00.280208",
-    "original_title": "Is it safe to travel to Thailand and Cambodia? Foreign Office advice after border clashes",
-    "link": "https://www.independent.co.uk/travel/news-and-advice/cambodia-thailand-flights-travel-advice-safe-b2880004.html",
-    "source_name": "Independent Travel",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 6,
-      "location": "Thai-Cambodian border region",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "Renewed border clashes between Thailand and Cambodia indicate heightened military tensions in the region. While the specific locations aren't detailed, border areas are experiencing active conflict. This creates indirect risks to personnel and assets through potential collateral damage, restricted movement, and increased military presence. No direct threats to aviation or cargo infrastructure identified in this report.",
-      "immediate_forecast_24h": "Continued border skirmishes likely. Possible road closures and increased military checkpoints near border areas. No immediate threat to major transportation hubs or international airports.",
-      "strategic_outlook": "Border tensions may persist, potentially affecting cross-border trade routes. Monitor for escalation that could impact regional stability. Diplomatic efforts underway may reduce tensions over medium term.",
-      "operational_impact": "Avoid non-essential travel to border regions. Implement enhanced tracking for personnel and assets near conflict zones. Review contingency plans for border crossing disruptions. No current impact on aviation operations or major cargo routes.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "cf017f798be30763ebf0a76846f7021d",
-    "timestamp": "2025-12-08T17:42:45.916471",
-    "original_title": "Benin government says it has thwarted attempted military coup - The Washington Post",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBlc1Z4V0EyRkZjclY4Wlh4ZjE3c3V3ZzZBWGFvdnMwTXRHNXNLYVdRLV9KZnFCUVROU1V6YllmMksycDhKR0FvUkU5NEhORHpuODlLVW40S1lhSmljNWZXTG9UVkFQOTgtZ0dOb0szWDlMSkg0UFE?oc=5",
-    "source_name": "Google News (Breaking)",
+    "id": "819b683e1a36bdba4c7cf9a7e70ea892",
+    "timestamp": "2025-12-08T18:55:38.611903",
+    "original_title": "Louvre workers announce strike over work conditions and security after $102M heist",
+    "link": "https://www.reddit.com/r/worldnews/comments/1phjkgj/louvre_workers_announce_strike_over_work/",
+    "source_name": "Reddit r/WorldNews",
     "ai_analysis": {
       "category": "Civil Unrest",
       "risk_score": 10,
-      "location": "Cotonou, Benin",
-      "latitude": 6.3725,
-      "longitude": 2.5196,
-      "detailed_analysis": "The Benin government reports thwarting a military coup attempt, indicating significant internal political instability. While the immediate threat was neutralized, this suggests underlying tensions within military or political factions that could resurface. Such events often lead to increased security measures, potential travel restrictions, and disruptions to government operations.",
-      "immediate_forecast_24h": "Heightened security presence in capital area, possible roadblocks and increased military patrols. Potential for brief disruptions to government services and transportation near key facilities. Low probability of renewed violence but elevated alert status likely.",
-      "strategic_outlook": "Medium-term instability possible as government conducts investigations and potential purges. Could lead to retaliatory actions from coup plotters or sympathizers. Regional stability may be affected if coup attempts inspire similar actions in neighboring countries.",
-      "operational_impact": "Increased scrutiny at ports and airports for weapons/contraband. Possible temporary relocation of diplomatic personnel. Cargo shipments may experience delays due to enhanced security checks. Personnel travel to Benin should be reassessed with heightened security protocols.",
-      "proximity_alert": "YAKIN TEHDİT: Cardinal Bernadin Gantin International Airport (10 km)"
-    }
-  },
-  {
-    "id": "990b764d78cde509fcc088c19126d7ad",
-    "timestamp": "2025-12-08T17:43:04.152704",
-    "original_title": "British Airways flight makes emergency return to Edinburgh after 'technical issue' - Glasgow Live",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWDl5LXVlYkprY05iOXpRWUVxVVQtanUzT2VkUzVjbFRXY29Ha1lXb0ZFOXYxYkNLS0FFUVhDREpDYnIxYnNrVThYOTdabExNSWE4UTJIYXpDd3Q4azNTVGt3a3JBak5LMnhsV0hhZldLYmJYRXFBVG1WazkwVm9QXzl4RXVtcUVyU0JPeExub050TXZyWE9qNFFlONIBoAFBVV95cUxNVXhzcXJyZzRPbFJhajhGa2NhM0wwRUxpbm00alVXNDhKN3pTNHBxVHZ0UWVQY2RoUnI4anIzbEg5WFM0MHNYdmZELTVzUElwaGR4M0EtT1diM1VWb3lycUE3MlBQcXBURG1kNzY2V2k1YWZKcEdzdWVRd0ZBY0VLbk9YTUtFN3MxV0pHcnFWVlNxV3RxcDlZXzVfMkNSOXdB?oc=5",
-    "source_name": "Live Flight Emergencies (Squawk)",
-    "ai_analysis": {
-      "category": "Aviation",
-      "risk_score": 10,
-      "location": "Edinburgh, Scotland",
-      "latitude": 55.9533,
-      "longitude": -3.1883,
-      "detailed_analysis": "British Airways flight experienced a technical issue requiring emergency return to Edinburgh Airport. While no crash occurred, the nature of the technical issue is unspecified, and emergency procedures were activated, indicating potential safety risks to aviation operations.",
-      "immediate_forecast_24h": "Increased scrutiny on British Airways flights from Edinburgh; possible delays or cancellations as the airline investigates the technical fault. No immediate threat to other assets or personnel expected.",
-      "strategic_outlook": "Potential for recurring technical issues with specific aircraft models or maintenance procedures; may require review of safety protocols and increased monitoring of BA fleet operations in the region.",
-      "operational_impact": "Temporary disruption to flight schedules; possible reputational impact on British Airways. No direct threat to cargo or personnel beyond the incident aircraft.",
-      "proximity_alert": "YAKIN TEHDİT: Edinburg Airport (10 km)"
-    }
-  },
-  {
-    "id": "b822f29150f1963f9a79a85231ddca62",
-    "timestamp": "2025-12-08T17:43:14.550455",
-    "original_title": "EU approves draft overhaul of migration policy",
-    "link": "http://www.africanews.com/2025/12/08/eu-approves-draft-overhaul-of-migration-policy/",
-    "source_name": "Africa News",
-    "ai_analysis": {
-      "category": "Border/Migration",
-      "risk_score": 5,
-      "location": "European Union",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "EU migration policy overhaul introduces potential for increased migrant movement disruptions, including possible stowaway attempts on transport vessels/vehicles and border crossing attempts. Bilateral deportation agreements may lead to escalated migration route changes and potential for human smuggling operations exploiting policy transitions.",
-      "immediate_forecast_24h": "No immediate operational impact expected within 24 hours as policy remains in draft stage. Monitor for any spontaneous protests or attempted border breaches near key transit hubs.",
-      "strategic_outlook": "Medium-term increase in migration-related disruptions to cargo routes, particularly maritime and land border crossings. Potential for organized smuggling networks to adapt tactics to new deportation mechanisms. Aviation may see increased stowaway attempts on commercial flights from affected regions.",
-      "operational_impact": "Enhanced screening recommended for cargo originating from/near EU borders. Personnel in border regions should maintain heightened awareness of unusual migration patterns. Aviation security should review stowaway prevention protocols for flights to/from EU and partner deportation countries.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "b664f6130e5ba7b7b085d1f01befe9d7",
-    "timestamp": "2025-12-08T17:43:22.069641",
-    "original_title": "Benin military hunts fugitive soldiers a day after foiled coup attempt",
-    "link": "https://www.france24.com/en/africa/20251208-benin-military-hunts-fugitive-soldiers-a-day-after-foiled-coup-attempt",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 10,
-      "location": "Cotonou, Benin",
-      "latitude": 6.3725,
-      "longitude": 2.5196,
-      "detailed_analysis": "Military operations ongoing in Cotonou following a foiled coup attempt, with fugitive soldiers at large. Neighboring Nigeria has conducted strikes and deployed troops, indicating regional instability. While not directly targeting assets or aviation, the volatile environment increases risks of collateral damage, opportunistic crime, or disruption to logistics and personnel movement.",
-      "immediate_forecast_24h": "Heightened military presence and potential clashes; possible roadblocks, curfews, or restricted access to key areas including ports or airports. Increased vigilance advised for personnel and cargo movements.",
-      "strategic_outlook": "Prolonged instability likely if coup sympathizers remain active. Regional involvement (Nigeria) may escalate or contain the situation. Jihadist insurgent activity in the region adds complexity to security dynamics.",
-      "operational_impact": "Potential delays or rerouting for cargo; increased scrutiny at borders and ports. Aviation may face heightened security protocols. Personnel should avoid non-essential travel to affected areas and maintain situational awareness.",
-      "proximity_alert": "YAKIN TEHDİT: Cardinal Bernadin Gantin International Airport (10 km)"
+      "location": "Paris, France",
+      "latitude": 48.8566,
+      "longitude": 2.3522,
+      "detailed_analysis": "Louvre Museum staff are striking due to poor working conditions and security concerns following a major $102M art heist. While not a direct transport/aviation threat, this indicates significant operational disruption at a high-profile cultural asset. The strike could lead to protests, increased police presence, and potential spillover effects on tourism infrastructure. The heist itself suggests serious security vulnerabilities that may extend beyond the museum.",
+      "immediate_forecast_24h": "Increased police presence around Louvre area possible; potential for protest activity; normal museum operations disrupted; secondary screening may increase at nearby transport hubs due to heightened security awareness.",
+      "strategic_outlook": "If security concerns aren't addressed, continued labor unrest could affect other cultural institutions. The successful heist may inspire copycat attempts elsewhere. Paris may see increased security funding for cultural sites, potentially diverting resources from other security operations.",
+      "operational_impact": "Tourist movement in central Paris may be disrupted; increased security screening at cultural sites; possible delays for cargo/transports near museum perimeter; heightened vigilance required for personnel in affected area.",
+      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (2 km)"
     }
   }
 ]
