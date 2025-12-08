@@ -93,5 +93,62 @@
       "operational_impact": "Monitor dark web art markets and shipping manifests for suspicious cargo. Coordinate with international art crime units. Review physical security protocols for high-value assets in transit or display.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "39a4bf34dd5257afbf456f3e4390fdb0",
+    "timestamp": "2025-12-08T13:49:17.073621",
+    "original_title": "Major Scots airport SUSPENDS all flights after emergency landing shuts runway - The Sun",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQd3NNZVJBOEx4dW1tLXhIUC13QXpkYnBjOHphdTlUeDRJeVVSS2gza2gtWmpwX291LUdweEtwblZEdExodEo3RDhtcG9sYVhlYVY1c2prSm4yYmpjYzJFTHhVU0tLUWd2NGVTTERpM0FReXpHSkxpVDdQZGU4a2FaSjk0eldBMGpENEVxS2N4b2lXWmtjVHU0?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 8,
+      "location": "Scotland",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Emergency landing incident resulting in complete runway closure and suspension of all flights. The nature of the emergency landing suggests potential mechanical failure, pilot error, or other aviation safety issue requiring immediate investigation. Full flight suspension indicates significant operational disruption and potential safety concerns that extend beyond routine incidents.",
+      "immediate_forecast_24h": "Continued flight disruptions likely as authorities investigate the incident and assess runway safety. Potential for cascading delays across connected flight routes. Emergency response and investigation teams will remain on scene.",
+      "strategic_outlook": "Increased scrutiny on airport safety protocols and potential review of emergency procedures. Possible temporary reduction in flight capacity until confidence in operations is restored. May trigger regulatory review if systemic issues are identified.",
+      "operational_impact": "Complete halt of aviation operations at affected airport. Cargo and passenger flights diverted or canceled. Supply chain disruptions for time-sensitive shipments. Increased security and safety checks may be implemented across aviation operations in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "51089ccc8e212e3afb3fb55f9c4796a3",
+    "timestamp": "2025-12-08T13:49:32.769804",
+    "original_title": "Edinburgh Airport flight declares emergency as jets diverted to Glasgow - The Herald",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNd3NSMEM1UXlvN0tpSElrLUtJRjYzY1h1ZEpYTmZPSFQwNVUydjNHY29XY3BHNGdzNGFCSWpKT2dHTUFDQmxNaEZUWWtSRE5NZkRDaGpnSkZHM3dUQ3ZGT3poMGVUbV93V29EZEhLREhSN2o2RjJvWW42YVB6UktpSFFNbnFlNG5VUEtqUVJRcmZyR243R2ZIbk5VY2pxdXRKTkE?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Edinburgh, Scotland",
+      "latitude": 55.9533,
+      "longitude": -3.1883,
+      "detailed_analysis": "Flight declared emergency with diversion of multiple jets to Glasgow Airport. Emergency declarations in aviation typically indicate serious technical malfunctions, security concerns, or medical emergencies requiring immediate response. Diversion of multiple aircraft suggests potential airspace disruption or coordinated response to a developing situation.",
+      "immediate_forecast_24h": "Increased aviation security alert level at Edinburgh and Glasgow airports. Potential for flight delays/cancellations as investigation continues. Enhanced screening and security protocols likely to be implemented.",
+      "strategic_outlook": "Possible review of emergency response protocols for Scottish airports. May trigger temporary airspace restrictions. Could lead to increased coordination between Edinburgh and Glasgow airport security teams.",
+      "operational_impact": "Temporary disruption to flight operations at Edinburgh Airport. Increased security screening for departing/arriving flights. Potential for cascading delays across UK airspace. Requires enhanced monitoring of related flights and cargo movements.",
+      "proximity_alert": "YAKIN TEHDİT: Edinburg Airport (10 km)"
+    }
+  },
+  {
+    "id": "38ea42a2a08a8e1e815c7c424bcaaed7",
+    "timestamp": "2025-12-08T13:50:05.478267",
+    "original_title": "Syrian city of Homs trapped in cycle of sectarian violence",
+    "link": "https://www.france24.com/en/tv-shows/focus/20251208-syrian-city-of-homs-trapped-in-cycle-of-sectarian-violence",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Homs, Syria",
+      "latitude": 34.7324,
+      "longitude": 36.7132,
+      "detailed_analysis": "Homs experiencing escalating sectarian violence with increased attacks on Alawites, creating an environment of fear and impunity. The city remains a focal point of instability despite leadership changes, indicating persistent security vacuum and potential for targeted violence against specific groups.",
+      "immediate_forecast_24h": "High probability of continued sectarian attacks, possible retaliatory violence, and general deterioration of public security. Increased militant activity likely in urban areas.",
+      "strategic_outlook": "Sustained conflict environment expected to persist medium-term. Potential for violence to spread to transportation infrastructure or affect supply chains. Regional monitoring required for spillover effects.",
+      "operational_impact": "Personnel movement severely restricted in Homs region. Cargo routes through area at high risk of disruption or targeting. Aviation operations near conflict zone require enhanced security screening and threat assessment.",
+      "proximity_alert": null
+    }
   }
 ]
