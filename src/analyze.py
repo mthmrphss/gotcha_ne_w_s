@@ -261,7 +261,7 @@ def main():
                         dist = calculate_distance(event_lat, event_lon, asset['lat'], asset['lon'])
                         threshold = 30 if asset.get('type') == 'Airport' else 10
                         if dist < threshold:
-                            proximity_alert = f" YAKIN TEHDİT: {asset['name']} ({int(dist)} km)"
+                            proximity_alert = f"YAKIN TEHDİT: {asset['name']} ({int(dist)} km)"
                             analysis['risk_score'] = 10
                             score = 10
                             break
