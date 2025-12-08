@@ -131,5 +131,62 @@
       "operational_impact": "Minimal direct impact to most corporate operations. Maritime shipping near Crete may experience temporary routing adjustments or delays. Increased vigilance recommended for vessels transiting Mediterranean migration corridors regarding stowaway risks and possible encounters with distressed migrant vessels.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "c2a3a6a2dbc2c6f5e6e5b16e323cbdd0",
+    "timestamp": "2025-12-08T09:52:32.325435",
+    "original_title": "Benin government regains control following attempted military coup - NPR",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaFJtdkw1SE5UNzJua2o0QkQ3QkVMM0xrMlJyLU5JR195ZWJaYUlPbnRjRDAtYVlUZFpsNVU1dFo0eEhJcXNacVRHWG9KTjBuRzk4QllRRllJdG5YMzV1M2NTRTdDYmJHcWwtbHp6N1lzMkVUNjJuZnZvS3k1MHB3WjRvSmF6MHN4N3loZnd3NW5MUkhlU29LNy12MlNQOFpLZDJjZG14MUFMc0dGUTFpXw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Cotonou, Benin",
+      "latitude": 6.3725,
+      "longitude": 2.5196,
+      "detailed_analysis": "Attempted coup in Benin indicates significant political instability and potential for armed conflict. While government has regained control, residual military dissent and potential for renewed violence could impact personnel safety, disrupt cargo operations at ports/airports, and create unpredictable security environment. Possible collateral damage to infrastructure during unrest.",
+      "immediate_forecast_24h": "Heightened security presence, possible curfews, intermittent road closures around government/military installations. Potential for isolated armed clashes between loyalist and dissident forces. Airport/port operations may experience temporary disruptions.",
+      "strategic_outlook": "Increased political volatility likely for weeks. Possible international sanctions or travel advisories. Potential for economic disruption affecting supply chains. May inspire copycat attempts in neighboring West African nations.",
+      "operational_impact": "Avoid non-essential travel to Benin. Implement enhanced security protocols for personnel. Expect delays in cargo movements through Cotonou port and airport. Monitor local media for curfew announcements and avoid government/military areas.",
+      "proximity_alert": " YAKIN TEHDİT: Cardinal Bernadin Gantin International Airport (10 km)"
+    }
+  },
+  {
+    "id": "ba74b713470fa3aa45d5dfae303468fc",
+    "timestamp": "2025-12-08T09:52:55.956327",
+    "original_title": "Thailand-Cambodia border: at least five killed as clashes reignite",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1ph865p/thailandcambodia_border_at_least_five_killed_as/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Thailand-Cambodia border region",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Clashes between Thai and Cambodian forces have resulted in at least five fatalities, indicating active military engagement. Border tensions have reignited, potentially disrupting cross-border trade routes, supply chains, and regional stability. While not directly targeting assets or aviation, escalation could impact personnel safety and cargo movement in the area.",
+      "immediate_forecast_24h": "Heightened military activity likely to continue with possible spillover effects. Cross-border transport may face delays or closures. Increased scrutiny of cargo and personnel movements expected.",
+      "strategic_outlook": "Prolonged border disputes may lead to sustained operational disruptions, requiring rerouting of logistics and heightened security protocols for assets and personnel in the region.",
+      "operational_impact": "Potential delays in cargo transit; increased risk to personnel near border areas; possible temporary closure of key supply routes. Aviation operations unaffected unless conflict escalates to airspace violations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "6155cf6a561a509e43a61399db2dfd98",
+    "timestamp": "2025-12-08T09:53:43.286977",
+    "original_title": "United flight made emergency landing in Edinburgh after ‘burning smell’ detected on board",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/united-emergency-landing-edinburgh-flight-b2879956.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Edinburgh, Scotland",
+      "latitude": 55.9533,
+      "longitude": -3.1883,
+      "detailed_analysis": "United flight diverted to Edinburgh due to detected burning smell onboard. While preliminary reports suggest mechanical/electrical issue rather than malicious intent, the emergency landing protocol activation and passenger diversion indicates significant onboard incident requiring investigation. No reports of injuries or visible smoke/fire, but odor detection triggers standard safety protocols.",
+      "immediate_forecast_24h": "Increased aviation security scrutiny at Edinburgh Airport; potential for flight delays/disruptions; mandatory safety inspections of affected aircraft; possible media attention on airline safety protocols.",
+      "strategic_outlook": "Potential temporary operational impacts for United Airlines at UK airports; possible regulatory review of aircraft maintenance procedures; unlikely to indicate broader threat pattern unless similar incidents emerge across carriers.",
+      "operational_impact": "Temporary grounding of affected aircraft for inspection; potential resource allocation for passenger rebooking; coordination with UK aviation authorities; minimal impact on cargo operations unless mechanical issue is systemic.",
+      "proximity_alert": " YAKIN TEHDİT: Edinburg Airport (10 km)"
+    }
   }
 ]
