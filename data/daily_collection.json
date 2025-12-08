@@ -720,5 +720,43 @@
       "operational_impact": "Increase EU-region threat monitoring and incident readiness; bolster DDoS and botnet detection around Europe-focused events; ensure data center and network resilience in EU zones; align with legal and communications teams for rapid responses to regulatory developments and public statements; maintain ready communications for personnel and partners traveling in or through Europe; review contingency plans for protests near critical infrastructure and ensure escalation pathways for cyber and physical security incidents.",
       "proximity_alert": "YAKIN TEHDİT: SHERATON AIRPORT (0 km)"
     }
+  },
+  {
+    "id": "f038c1d3cc8ba137f7d9e4e6e9cdc5a6",
+    "timestamp": "2025-12-08T23:33:50.019589",
+    "original_title": "Small aircraft crashes on I-95 in Brevard County; multiple lanes blocked - WESH",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQT0g5emJPY3JpZm9KTkRhZm9aV0xPV0xTelRBZVhiOEpKN3VodXZ2azNnT3JZN0RNRnpNcUtWX21mV2NzNkVtTjZEVVdjdDFMbzhMNEJOaGpjTExhNno0cTVlWDRpaXI3a2tuXzdFbDlIM0F5dEtMLXZ1d0FQSVBoc3dsbkc?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 7,
+      "location": "Brevard County, Florida",
+      "latitude": 28.2916,
+      "longitude": -80.701,
+      "detailed_analysis": "Small aircraft crash on I-95 highway in Brevard County. While initial reports suggest an accident rather than intentional action, aviation incidents on critical infrastructure (major highway) require immediate assessment. Potential for secondary incidents, fuel spills, or unexploded ordnance if military-related. No indication of terrorism or criminal activity in initial report.",
+      "immediate_forecast_24h": "High probability of continued highway closures and emergency response operations. Possible secondary traffic incidents due to congestion. Low probability of additional aviation incidents in immediate area. Monitoring for any unusual activity around crash site recommended.",
+      "strategic_outlook": "Increased scrutiny on general aviation safety in the region. Potential for temporary flight restrictions in the area. No indication this is part of broader pattern, but similar incidents could impact critical infrastructure and transportation networks.",
+      "operational_impact": "Major highway disruption affecting cargo and personnel movement. Emergency services diverted to incident response. Aviation assets in area should exercise caution. Recommend monitoring air traffic control communications and local law enforcement channels for updates.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "9f3e2bdb668e78c25aa594a6726fccf7",
+    "timestamp": "2025-12-08T23:33:59.041325",
+    "original_title": "Drone-damaged Chernobyl facility's shield can't confine radiation",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1phodkh/dronedamaged_chernobyl_facilitys_shield_cant/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 8,
+      "location": "Chernobyl, Ukraine",
+      "latitude": 51.389,
+      "longitude": 30.0994,
+      "detailed_analysis": "Drone activity has damaged the Chernobyl New Safe Confinement structure, compromising its ability to contain radiation. This represents a dual threat: direct aviation risk from unauthorized drone operations and potential radiological contamination affecting personnel, assets, and regional security. The deliberate nature suggests possible sabotage or testing of critical infrastructure vulnerabilities.",
+      "immediate_forecast_24h": "Increased radiation monitoring required; potential for further drone incursions; possible evacuation or containment measures if radiation levels rise. Enhanced airspace surveillance recommended.",
+      "strategic_outlook": "This incident demonstrates capability to target high-consequence nuclear infrastructure using low-cost drones. May signal testing of radiological dispersal tactics or intimidation strategy. Could inspire copycat attacks on other nuclear facilities globally.",
+      "operational_impact": "Immediate: Radiation exposure risk to personnel in area. Medium-term: Possible disruption to regional logistics and aviation if contamination spreads. Requires coordination with nuclear safety authorities and enhanced drone detection capabilities.",
+      "proximity_alert": null
+    }
   }
 ]
