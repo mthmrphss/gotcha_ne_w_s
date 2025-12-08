@@ -28,7 +28,7 @@ jobs:
 
       - name: Run Daily Briefing Script
         run: |
-          python daily_briefing.py
+          python src/daily_briefing.py
 
       - name: Commit Report
         run: |
