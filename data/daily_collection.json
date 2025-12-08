@@ -359,5 +359,100 @@
       "operational_impact": "Possible disruptions to cargo transport routes, increased security requirements for personnel movements, potential aviation disruptions if unrest affects airports. Enhanced monitoring of protest activity recommended.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "f46cb2759b0ef58c00e93d9182002504",
+    "timestamp": "2025-12-08T16:57:24.507845",
+    "original_title": "Thai Jets Bomb Cambodia as at Least 5 Die in New Wave of Fighting",
+    "link": "https://www.nytimes.com/2025/12/08/world/asia/thailand-cambodia-f16-jets.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Thai-Cambodian border region",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Cross-border military engagement involving Thai fighter jets conducting airstrikes in Cambodia, resulting in casualties. This represents an escalation in the long-standing border dispute between the two nations. The use of military aviation and potential for ground troop movements creates immediate security threats to regional stability.",
+      "immediate_forecast_24h": "High probability of continued military engagements, potential for escalation to broader conflict, possible closure of border crossings, and disruption of regional air traffic patterns. Increased risk of accidental cross-border incidents involving civilian assets.",
+      "strategic_outlook": "Sustained border tensions likely to persist, potentially affecting regional trade routes and overflight permissions. May require rerouting of cargo and passenger flights. Could impact regional supply chains and necessitate enhanced security protocols for assets operating near the border.",
+      "operational_impact": "Immediate airspace restrictions expected near border regions. Potential for collateral damage to civilian infrastructure. Increased scrutiny of cargo and personnel movements across the Thai-Cambodian border. Possible delays in regional logistics operations. Aviation assets should avoid the conflict zone and monitor NOTAMs closely.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "100ee5a4ccc63faa7cd2ffc851fedcec",
+    "timestamp": "2025-12-08T16:57:45.401566",
+    "original_title": "Truckers' strike paralyzes Cameroon’s main trade route",
+    "link": "http://www.africanews.com/2025/12/08/truckers-strike-paralyzes-cameroons-main-trade-route/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 6,
+      "location": "National Highway 1, Cameroon",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Truckers' strike causing paralysis of Cameroon's primary commercial route indicates significant labor unrest. While not directly violent, this creates operational vulnerabilities: stranded cargo becomes potential theft targets, supply chain disruptions may trigger secondary protests, and prolonged stoppage could escalate into broader civil disobedience. No direct threat to aviation assets identified.",
+      "immediate_forecast_24h": "High probability of continued road blockade with potential spillover effects including secondary protests, increased cargo theft opportunities due to stationary shipments, and possible escalation if security forces intervene.",
+      "strategic_outlook": "Potential for prolonged disruption if labor demands aren't met. May inspire similar actions in neighboring countries or other sectors. Could evolve into wider anti-government protests if unresolved, particularly given highway's economic importance.",
+      "operational_impact": "Critical supply chain disruption for goods movement. Increased physical security requirements for stranded cargo. Possible rerouting delays and cost escalations. Personnel movement hampered along corridor. No direct aviation impact beyond potential fuel/ supply chain delays.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "9e88e8aebf3269d8776b7b66610bef1a",
+    "timestamp": "2025-12-08T16:58:03.455187",
+    "original_title": "WHO condemns airstrikes that killed 114 in Sudan",
+    "link": "http://www.africanews.com/2025/12/08/who-condemns-airstrikes-that-killed-114-in-sudan/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "South Kordofan State, Sudan",
+      "latitude": 11.199,
+      "longitude": 29.417,
+      "detailed_analysis": "Airstrikes in South Kordofan State resulted in 114 fatalities, including 63 children, indicating active military conflict with high collateral damage. While not directly targeting aviation infrastructure, the use of airstrikes demonstrates active air operations in the region, posing indirect risks to aviation through potential airspace restrictions, collateral damage to nearby infrastructure, or misidentification of civilian aircraft. The WHO's condemnation suggests significant international attention and potential for escalating conflict.",
+      "immediate_forecast_24h": "Heightened military air activity likely to continue; possible additional airstrikes. Airspace may become restricted or hazardous for civilian aviation. Increased displacement and humanitarian movements could affect ground transport routes.",
+      "strategic_outlook": "Ongoing conflict likely to persist, potentially expanding to neighboring regions. International pressure may increase but unlikely to immediately halt hostilities. Aviation operations in Sudanese airspace face prolonged elevated threat levels.",
+      "operational_impact": "Avoid all non-essential travel and operations in South Kordofan State. Reroute aviation around conflict zone with increased buffer. Ground cargo movements face high risk of disruption, damage, or seizure. Personnel in region should shelter in place or evacuate if possible.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "fe0ffdf6b983a3ce61e56f2cd15b06d4",
+    "timestamp": "2025-12-08T16:58:12.217478",
+    "original_title": "Syria marks one year since ouster of longtime ruler Bashar al-Assad",
+    "link": "https://www.france24.com/en/video/20251208-syria-marks-one-year-since-ouster-of-longtime-ruler-bashar-al-assad",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 6,
+      "location": "Syria",
+      "latitude": 34.8021,
+      "longitude": 38.9968,
+      "detailed_analysis": "Anniversary events marking the ousting of Assad's regime may trigger demonstrations, counter-protests, or opportunistic violence. Historical tensions from 50-year repressive rule and 14-year civil war create volatile environment. Potential for clashes between opposing factions, though no specific threats to assets/cargo/aviation mentioned in this report.",
+      "immediate_forecast_24h": "Increased likelihood of protests in major urban centers, possible road closures affecting logistics. Low probability of direct aviation threats unless protests escalate near airports. Cargo movements may experience delays due to potential civil disturbances.",
+      "strategic_outlook": "Ongoing political instability and social divisions suggest continued civil unrest potential. Anniversary events may reignite tensions between pro/anti-government factions. No direct indication of organized terrorism or targeted attacks against specific assets in this reporting.",
+      "operational_impact": "Monitor transportation routes for protest-related disruptions. Review security protocols for personnel in Syria. No immediate aviation or cargo-specific threats identified, but maintain heightened awareness during anniversary period.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "d09ff37d035e839f5b824e809551edd2",
+    "timestamp": "2025-12-08T16:59:00.280208",
+    "original_title": "Is it safe to travel to Thailand and Cambodia? Foreign Office advice after border clashes",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/cambodia-thailand-flights-travel-advice-safe-b2880004.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 6,
+      "location": "Thai-Cambodian border region",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Renewed border clashes between Thailand and Cambodia indicate heightened military tensions in the region. While the specific locations aren't detailed, border areas are experiencing active conflict. This creates indirect risks to personnel and assets through potential collateral damage, restricted movement, and increased military presence. No direct threats to aviation or cargo infrastructure identified in this report.",
+      "immediate_forecast_24h": "Continued border skirmishes likely. Possible road closures and increased military checkpoints near border areas. No immediate threat to major transportation hubs or international airports.",
+      "strategic_outlook": "Border tensions may persist, potentially affecting cross-border trade routes. Monitor for escalation that could impact regional stability. Diplomatic efforts underway may reduce tensions over medium term.",
+      "operational_impact": "Avoid non-essential travel to border regions. Implement enhanced tracking for personnel and assets near conflict zones. Review contingency plans for border crossing disruptions. No current impact on aviation operations or major cargo routes.",
+      "proximity_alert": null
+    }
   }
 ]
