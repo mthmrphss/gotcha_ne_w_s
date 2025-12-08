@@ -36,5 +36,24 @@
       "operational_impact": "Minimal direct impact on non-Russian aviation assets; possible indirect intelligence value regarding adversary capability gaps.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "1a68134252ccbce8f008246d0ce9d927",
+    "timestamp": "2025-12-08T12:18:10.565563",
+    "original_title": "Mozambique: surge in violence displaces more than 100,000 people",
+    "link": "http://www.africanews.com/2025/12/08/mozambique-surge-in-violence-displaces-more-than-100000-people/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Mozambique",
+      "latitude": -18.665695,
+      "longitude": 35.529562,
+      "detailed_analysis": "Insurgent violence has escalated dramatically, causing mass displacement exceeding 100,000 people. This indicates active conflict zones with potential for collateral damage to infrastructure, supply chains, and personnel safety. While not directly targeting aviation or cargo assets, the instability creates secondary risks including road closures, supply chain disruptions, and potential for opportunistic crime.",
+      "immediate_forecast_24h": "High likelihood of continued insurgent activity and population displacement. Possible road blockades, supply route interruptions, and increased military/police presence affecting logistics operations.",
+      "strategic_outlook": "Sustained conflict likely to persist, potentially expanding to new regions. May develop into prolonged humanitarian crisis with implications for regional stability and cross-border operations.",
+      "operational_impact": "Ground transport routes potentially compromised; personnel movement restricted; increased screening needed for cargo originating from affected regions; possible aviation disruptions if conflict spreads near airports.",
+      "proximity_alert": null
+    }
   }
 ]

@@ -1,119 +1,5 @@
 [
   {
-    "id": "e9bd3b6b5b27b2bf98524b7cd4412ae8",
-    "timestamp": "2025-12-08T10:24:26.392805",
-    "original_title": "Madagascar - Level 2: Exercise Increased Caution",
-    "link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/madagascar-travel-advisory.html",
-    "source_name": "US State Dept",
-    "ai_analysis": {
-      "category": "Crime/Theft",
-      "risk_score": 7,
-      "location": "Madagascar (Tsaratanana, Tsiroanomandidy-Maintirano road, Betroka, RN34 Miandrivazo-Malaimbandy, RN13 Ihosy-Betroka, Menabe Region south of Morondava)",
-      "latitude": -18.7669,
-      "longitude": 46.8691,
-      "detailed_analysis": "Elevated risk of armed robbery, carjacking, banditry, and kidnapping along major transport routes and in specified regions. Criminal activity particularly concentrated in southern/western areas and remote roads. Local law enforcement lacks resources for effective response. Dahalo criminal gangs engaging in violent confrontations with security forces.",
-      "immediate_forecast_24h": "High probability of criminal incidents along RN13, RN34, and unspecified roads in western/southern regions. Increased risk during nighttime hours and in remote areas. Possible roadblocks or ambush scenarios.",
-      "strategic_outlook": "Persistent criminal threat likely to continue due to economic conditions and limited law enforcement capabilities. Risk may increase during election periods when protest activity typically escalates.",
-      "operational_impact": "Cargo transport requires armed escort on specified routes. Personnel movement restricted after dark. Avoid cash transport operations in high-risk areas. Implement strict convoy procedures and route variation.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "d3f4a567b753b0826a6770c97c31f11f",
-    "timestamp": "2025-12-08T10:24:35.564845",
-    "original_title": "Senegal - Level 1: Exercise Normal Precautions",
-    "link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/senegal-travel-advisory.html",
-    "source_name": "US State Dept",
-    "ai_analysis": {
-      "category": "Crime/Theft",
-      "risk_score": 6,
-      "location": "Casamance region",
-      "latitude": 12.5,
-      "longitude": -16.0,
-      "detailed_analysis": "Separatist rebel groups and bandits conducting armed robberies in Casamance region. Landmines and unexploded ordnance present in border and rural areas with unmarked locations. Limited to main roads only for embassy personnel during daylight hours.",
-      "immediate_forecast_24h": "Continued criminal activity and landmine risks in Casamance. No significant escalation expected in next 24 hours but persistent threat to personnel and cargo movement off main roads.",
-      "strategic_outlook": "Long-standing regional conflict dynamics likely to maintain elevated risk environment. Potential for sporadic armed incidents and criminal activity against transport/logistics operations in rural areas.",
-      "operational_impact": "Restricted movement for personnel and cargo in Casamance region. Requires daylight-only operations, main road adherence, and enhanced security protocols for any ground transport. Aviation operations unaffected but ground support at risk.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "e57aae948cbbfff4400b9e96180635fe",
-    "timestamp": "2025-12-08T10:24:43.580989",
-    "original_title": "Gang Caused Mass Panic Heathrow Airport As They Robbed Suitcase From Woman By Spraying Elevator Full Of People With Pepper Spray",
-    "link": "https://www.paddleyourownkanoo.com/2025/12/07/gang-caused-mass-panic-heathrow-airport-as-they-robbed-suitcase-from-woman-by-spaying-elevator-full-of-people-with-pepper-spray/",
-    "source_name": "Paddle Your Own Kanoo",
-    "ai_analysis": {
-      "category": "Crime/Theft",
-      "risk_score": 10,
-      "location": "London Heathrow Airport",
-      "latitude": 51.47,
-      "longitude": -0.4543,
-      "detailed_analysis": "Organized criminal group deployed chemical agent (pepper spray) in crowded airport elevator during baggage theft operation, causing mass panic. Incident occurred in Terminal 3 parking garage. Single arrest made (31-year-old male), suggesting additional perpetrators remain at large. Method indicates premeditation and willingness to escalate violence in high-traffic transit hub.",
-      "immediate_forecast_24h": "Increased security presence at Terminal 3; potential for copycat incidents or retaliatory actions by gang members. Possible disruptions to passenger flow during investigation. Secondary devices or additional attacks unlikely but cannot be ruled out given brazen nature of initial assault.",
-      "strategic_outlook": "Potential pattern development of airport cargo/personal property targeting using chemical weapons. May indicate testing of security response times or diversion tactics for larger operations. Requires coordination with Metropolitan Police and airport security for pattern recognition and preventive measures.",
-      "operational_impact": "Temporary closure of affected elevator/area; enhanced baggage screening and parking garage patrols recommended. Passenger anxiety may cause secondary disruptions. Review CCTV for additional suspects and potential reconnaissance activity prior to incident.",
-      "proximity_alert": " YAKIN TEHDİT: Heathrow Airport (0 km)"
-    }
-  },
-  {
-    "id": "78b47aac877944f3f8bd9c00994fe8dd",
-    "timestamp": "2025-12-08T10:31:07.036059",
-    "original_title": "Thailand launches airstrikes along border with Cambodia as ceasefire falters",
-    "link": "https://www.reddit.com/r/worldnews/comments/1ph92na/thailand_launches_airstrikes_along_border_with/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 8,
-      "location": "Thailand-Cambodia border region",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "Thailand has conducted airstrikes along the Cambodia border following a breakdown in ceasefire agreements. This represents an escalation from ground skirmishes to aerial military operations, indicating heightened bilateral tensions. The use of air power increases potential for collateral damage, unintended escalation, and regional instability. While the specific targets aren't detailed, border infrastructure, transportation routes, and civilian areas near the border are at elevated risk.",
-      "immediate_forecast_24h": "High probability of continued aerial operations, potential Cambodian retaliation, possible closure of border crossings, and disruption to all transportation and supply chains in the border region. Aviation operations near the border may face restrictions or be subject to military airspace closures.",
-      "strategic_outlook": "Sustained border conflict likely without diplomatic intervention. Potential for broader regional implications affecting ASEAN stability. May impact international shipping and aviation routes if conflict expands. Long-term deterioration of Thailand-Cambodia relations could affect cross-border trade and regional security cooperation.",
-      "operational_impact": "All personnel and assets in the Thailand-Cambodia border region at immediate risk. Aviation operations should avoid the border airspace. Ground transportation and cargo movements through border crossings likely disrupted. Potential for collateral damage to infrastructure. Evacuation or relocation of non-essential personnel from border areas recommended.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "33dfc7457219eeabadd631eb7e0e9b30",
-    "timestamp": "2025-12-08T10:33:09.691124",
-    "original_title": "Thailand launches airstrikes along border with Cambodia as tensions reignite",
-    "link": "https://www.france24.com/en/video/20251208-thailand-launches-airstrikes-along-border-with-cambodia-as-tensions-reignite",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 8,
-      "location": "Thailand-Cambodia border region",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "Airstrikes indicate active military engagement, posing direct threats to personnel and aviation in the area. Potential for collateral damage to cargo transport routes, supply chain disruptions, and heightened insurgent or cross-border retaliation. No specific asset targeting mentioned, but escalation likely.",
-      "immediate_forecast_24h": "Increased military activity, possible border closures, flight diversions or no-fly zones. Risk of accidental strikes on civilian or commercial assets.",
-      "strategic_outlook": "Tensions may escalate, affecting regional stability. Prolonged conflict could disrupt trade corridors, increase smuggling, or lead to cyber espionage campaigns. Monitor for signs of spillover into neighboring logistics hubs.",
-      "operational_impact": "Avoid non-essential travel and cargo movements near border. Heighten aviation security; reroute flights if necessary. Prepare for potential supply delays and increased insurance premiums for assets in region.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "14f2291efbdfc028071dc08b4720e126",
-    "timestamp": "2025-12-08T10:51:40.071684",
-    "original_title": "United flight made emergency landing in Edinburgh after ‘burning smell’ detected on board - AOL.com",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcHVtaXFtRXBOZVAwWnptTDBUYnQya0E1c0RCdWdCam1sVTNsVzcwNlFTOVFLQmlEbEt5YmZGdzRIMV9pR1dJczZTUkdMd1FsUF9LUVlDWG5jX0ZhdEw5YXRrSEhfbTlwdWpPa2dXamNhVjdmWERoNWpoUGZpUDdXTzh6cUZyNXM?oc=5",
-    "source_name": "Live Flight Emergencies (Squawk)",
-    "ai_analysis": {
-      "category": "Aviation",
-      "risk_score": 10,
-      "location": "Edinburgh, Scotland",
-      "latitude": 55.9533,
-      "longitude": -3.1883,
-      "detailed_analysis": "United Airlines aircraft diverted to Edinburgh Airport following detection of burning smell onboard. Emergency landing was successful with no reported injuries. Incident involves potential mechanical/electrical fault rather than external threat. Requires investigation into aircraft systems, maintenance records, and potential fleet-wide implications.",
-      "immediate_forecast_24h": "Increased scrutiny of United Airlines fleet operations, potential temporary groundings of similar aircraft models for inspection, disruption to flight schedules at Edinburgh Airport, heightened passenger anxiety affecting airline operations.",
-      "strategic_outlook": "Potential for regulatory review of aircraft maintenance protocols, possible fleet-wide safety inspections, negative impact on United Airlines' safety reputation, increased insurance premiums for similar aircraft types if systemic issue identified.",
-      "operational_impact": "Temporary closure of affected runway during investigation, diversion of incoming flights, increased security and emergency response readiness at Edinburgh Airport, potential delays in cargo and passenger operations until aircraft cleared or moved.",
-      "proximity_alert": " YAKIN TEHDİT: Edinburg Airport (10 km)"
-    }
-  },
-  {
     "id": "0e036b63add23347c840d5ddbe628818",
     "timestamp": "2025-12-08T11:34:10.244955",
     "original_title": "Russian Fighter Jet Crew Reportedly Killed After Ground Ejection System Failure",
@@ -129,6 +15,25 @@
       "immediate_forecast_24h": "Possible increased scrutiny on Russian military aviation safety protocols; no direct threat to international assets expected within 24h.",
       "strategic_outlook": "Potential degradation of Russian combat readiness if ejection system issues are widespread; may impact operational tempo or necessitate fleet inspections.",
       "operational_impact": "Minimal direct impact on non-Russian aviation assets; possible indirect intelligence value regarding adversary capability gaps.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "1a68134252ccbce8f008246d0ce9d927",
+    "timestamp": "2025-12-08T12:18:10.565563",
+    "original_title": "Mozambique: surge in violence displaces more than 100,000 people",
+    "link": "http://www.africanews.com/2025/12/08/mozambique-surge-in-violence-displaces-more-than-100000-people/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Mozambique",
+      "latitude": -18.665695,
+      "longitude": 35.529562,
+      "detailed_analysis": "Insurgent violence has escalated dramatically, causing mass displacement exceeding 100,000 people. This indicates active conflict zones with potential for collateral damage to infrastructure, supply chains, and personnel safety. While not directly targeting aviation or cargo assets, the instability creates secondary risks including road closures, supply chain disruptions, and potential for opportunistic crime.",
+      "immediate_forecast_24h": "High likelihood of continued insurgent activity and population displacement. Possible road blockades, supply route interruptions, and increased military/police presence affecting logistics operations.",
+      "strategic_outlook": "Sustained conflict likely to persist, potentially expanding to new regions. May develop into prolonged humanitarian crisis with implications for regional stability and cross-border operations.",
+      "operational_impact": "Ground transport routes potentially compromised; personnel movement restricted; increased screening needed for cargo originating from affected regions; possible aviation disruptions if conflict spreads near airports.",
       "proximity_alert": null
     }
   }
