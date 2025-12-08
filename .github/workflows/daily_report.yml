@@ -2,8 +2,8 @@ name: Daily Security Briefing
 
 on:
   schedule:
-    # Her gün saat 21:00 UTC'de çalış (Türkiye saati ile 00:00)
-    - cron: '0 21 * * *'
+    # Her gün saat 20:00 UTC'de çalış (Türkiye saati ile 00:00)
+    - cron: '0 20 * * *'
   workflow_dispatch: # Manuel tetikleme için
 
 permissions:
