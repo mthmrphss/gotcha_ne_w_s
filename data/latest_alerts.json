@@ -207,5 +207,62 @@
       "operational_impact": "Temporary disruption to flight schedules, resource allocation for aircraft inspection, potential passenger rebooking requirements. No immediate threat to other assets or personnel beyond this incident.",
       "proximity_alert": " YAKIN TEHDİT: Edinburg Airport (10 km)"
     }
+  },
+  {
+    "id": "e9bd3b6b5b27b2bf98524b7cd4412ae8",
+    "timestamp": "2025-12-08T10:24:26.392805",
+    "original_title": "Madagascar - Level 2: Exercise Increased Caution",
+    "link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/madagascar-travel-advisory.html",
+    "source_name": "US State Dept",
+    "ai_analysis": {
+      "category": "Crime/Theft",
+      "risk_score": 7,
+      "location": "Madagascar (Tsaratanana, Tsiroanomandidy-Maintirano road, Betroka, RN34 Miandrivazo-Malaimbandy, RN13 Ihosy-Betroka, Menabe Region south of Morondava)",
+      "latitude": -18.7669,
+      "longitude": 46.8691,
+      "detailed_analysis": "Elevated risk of armed robbery, carjacking, banditry, and kidnapping along major transport routes and in specified regions. Criminal activity particularly concentrated in southern/western areas and remote roads. Local law enforcement lacks resources for effective response. Dahalo criminal gangs engaging in violent confrontations with security forces.",
+      "immediate_forecast_24h": "High probability of criminal incidents along RN13, RN34, and unspecified roads in western/southern regions. Increased risk during nighttime hours and in remote areas. Possible roadblocks or ambush scenarios.",
+      "strategic_outlook": "Persistent criminal threat likely to continue due to economic conditions and limited law enforcement capabilities. Risk may increase during election periods when protest activity typically escalates.",
+      "operational_impact": "Cargo transport requires armed escort on specified routes. Personnel movement restricted after dark. Avoid cash transport operations in high-risk areas. Implement strict convoy procedures and route variation.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "d3f4a567b753b0826a6770c97c31f11f",
+    "timestamp": "2025-12-08T10:24:35.564845",
+    "original_title": "Senegal - Level 1: Exercise Normal Precautions",
+    "link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/senegal-travel-advisory.html",
+    "source_name": "US State Dept",
+    "ai_analysis": {
+      "category": "Crime/Theft",
+      "risk_score": 6,
+      "location": "Casamance region",
+      "latitude": 12.5,
+      "longitude": -16.0,
+      "detailed_analysis": "Separatist rebel groups and bandits conducting armed robberies in Casamance region. Landmines and unexploded ordnance present in border and rural areas with unmarked locations. Limited to main roads only for embassy personnel during daylight hours.",
+      "immediate_forecast_24h": "Continued criminal activity and landmine risks in Casamance. No significant escalation expected in next 24 hours but persistent threat to personnel and cargo movement off main roads.",
+      "strategic_outlook": "Long-standing regional conflict dynamics likely to maintain elevated risk environment. Potential for sporadic armed incidents and criminal activity against transport/logistics operations in rural areas.",
+      "operational_impact": "Restricted movement for personnel and cargo in Casamance region. Requires daylight-only operations, main road adherence, and enhanced security protocols for any ground transport. Aviation operations unaffected but ground support at risk.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "e57aae948cbbfff4400b9e96180635fe",
+    "timestamp": "2025-12-08T10:24:43.580989",
+    "original_title": "Gang Caused Mass Panic Heathrow Airport As They Robbed Suitcase From Woman By Spraying Elevator Full Of People With Pepper Spray",
+    "link": "https://www.paddleyourownkanoo.com/2025/12/07/gang-caused-mass-panic-heathrow-airport-as-they-robbed-suitcase-from-woman-by-spaying-elevator-full-of-people-with-pepper-spray/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Crime/Theft",
+      "risk_score": 10,
+      "location": "London Heathrow Airport",
+      "latitude": 51.47,
+      "longitude": -0.4543,
+      "detailed_analysis": "Organized criminal group deployed chemical agent (pepper spray) in crowded airport elevator during baggage theft operation, causing mass panic. Incident occurred in Terminal 3 parking garage. Single arrest made (31-year-old male), suggesting additional perpetrators remain at large. Method indicates premeditation and willingness to escalate violence in high-traffic transit hub.",
+      "immediate_forecast_24h": "Increased security presence at Terminal 3; potential for copycat incidents or retaliatory actions by gang members. Possible disruptions to passenger flow during investigation. Secondary devices or additional attacks unlikely but cannot be ruled out given brazen nature of initial assault.",
+      "strategic_outlook": "Potential pattern development of airport cargo/personal property targeting using chemical weapons. May indicate testing of security response times or diversion tactics for larger operations. Requires coordination with Metropolitan Police and airport security for pattern recognition and preventive measures.",
+      "operational_impact": "Temporary closure of affected elevator/area; enhanced baggage screening and parking garage patrols recommended. Passenger anxiety may cause secondary disruptions. Review CCTV for additional suspects and potential reconnaissance activity prior to incident.",
+      "proximity_alert": " YAKIN TEHDİT: Heathrow Airport (0 km)"
+    }
   }
 ]
