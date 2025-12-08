@@ -1,0 +1,40 @@
+name: Daily Security Briefing
+
+on:
+  schedule:
+    # Her gün saat 21:00 UTC'de çalış (Türkiye saati ile 00:00)
+    - cron: '0 21 * * *'
+  workflow_dispatch: # Manuel tetikleme için
+
+permissions:
+  contents: write
+
+jobs:
+  generate_daily_report:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: |
+          pip install g4f requests curl_cffi
+
+      - name: Run Daily Briefing Script
+        run: |
+          python daily_briefing.py
+
+      - name: Commit Report
+        run: |
+          git config --global user.name 'IntelBot'
+          git config --global user.email 'bot@noreply.github.com'
+          
+          git add data/daily_final_report.json data/daily_collection.json
+          git commit -m "Daily Report Generated: $(date -u)" || echo "No changes"
+          git push
