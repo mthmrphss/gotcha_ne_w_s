@@ -36,5 +36,43 @@
       "operational_impact": "Ground transport routes potentially compromised; personnel movement restricted; increased screening needed for cargo originating from affected regions; possible aviation disruptions if conflict spreads near airports.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "fd48931b0a7badb3e9bec7329f6e0262",
+    "timestamp": "2025-12-08T12:32:14.997487",
+    "original_title": "Video Democrats call for full release of video of attack on alleged drug boat - ABC News",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQUc0RnlDWTlpanY1OGFXUTR4V2hSN2R4cFpjbFNSMkswRklMSlZEUzI2Qkg5eWF6bFNOc2FCdmNUNkhTLXAyeEZZaTBDaGE2NFBoZi10WG5TaVM2Z1NlTlk5R3dSQzRQRDh6NlRmT2lfR1VTSGx2UDBFZmQzYUlISUFjWlMxUEZmQ1MxWElYVm5vd3Vyb1l5VV9PRkFaYzVsaE53?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Crime/Theft",
+      "risk_score": 6,
+      "location": "Maritime/Coastal Waters",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Event involves an attack on a drug smuggling vessel, indicating potential maritime security threat. While primarily a law enforcement action, such incidents can involve armed confrontations that may pose collateral risks to nearby maritime assets. Drug trafficking operations often employ violent tactics and could potentially target commercial vessels or infrastructure if threatened.",
+      "immediate_forecast_24h": "Possible increased maritime patrol activity in affected region; potential for additional interdiction operations. Low probability of spillover violence affecting commercial shipping lanes.",
+      "strategic_outlook": "Ongoing drug interdiction efforts may lead to increased confrontations at sea. Maritime security protocols should remain vigilant for potential collateral impacts on commercial shipping and port operations.",
+      "operational_impact": "Recommend monitoring maritime channels for unusual activity; brief vessel operators on potential encounter procedures with law enforcement operations. No immediate change to threat posture required.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "23e5e0e22fafc2fed9489ad30ef9e204",
+    "timestamp": "2025-12-08T12:32:32.023976",
+    "original_title": "Papers discuss latest Louvre disaster and eight Matisse works stolen in Brazil",
+    "link": "https://www.france24.com/en/tv-shows/press-review/20251208-papers-discuss-latest-louvre-disaster-and-eight-matisse-works-stolen-in-brazil",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Crime/Theft",
+      "risk_score": 7,
+      "location": "Brazil",
+      "latitude": -14.235,
+      "longitude": -51.9253,
+      "detailed_analysis": "High-value art theft targeting eight Matisse works indicates organized criminal activity with potential cross-border implications. The Louvre leak event, while lower risk, suggests possible systemic vulnerabilities in cultural institution security that could be exploited elsewhere.",
+      "immediate_forecast_24h": "Increased law enforcement activity around cultural institutions in Brazil and potential Interpol alerts. Possible attempts to move stolen artworks across borders using cargo/logistics networks.",
+      "strategic_outlook": "Art theft networks may target additional high-value cultural assets globally. Requires enhanced physical security measures at museums and galleries, plus increased scrutiny of art shipping and customs declarations.",
+      "operational_impact": "Monitor dark web art markets and shipping manifests for suspicious cargo. Coordinate with international art crime units. Review physical security protocols for high-value assets in transit or display.",
+      "proximity_alert": null
+    }
   }
 ]
