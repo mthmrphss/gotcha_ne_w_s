@@ -1176,5 +1176,62 @@
       "operational_impact": "Recommend heightened alert for personnel movement restrictions. Verify port/airport operational status before shipments. Delay non-essential travel to Benin. Monitor for opportunistic cargo theft during security gaps.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "e7abb6a1b4972fe437f24c54bcc63664",
+    "timestamp": "2025-12-09T11:33:54.028945",
+    "original_title": "1 injured after plane makes emergency landing on I-95 in Brevard County - WESH",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQT0g5emJPY3JpZm9KTkRhZm9aV0xPV0xTelRBZVhiOEpKN3VodXZ2azNnT3JZN0RNRnpNcUtWX21mV2NzNkVtTjZEVVdjdDFMbzhMNEJOaGpjTExhNno0cTVlWDRpaXI3a2tuXzdFbDlIM0F5dEtMLXZ1d0FQSVBoc3dsbkc?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 7,
+      "location": "Brevard County, Florida",
+      "latitude": 28.2916,
+      "longitude": -80.7016,
+      "detailed_analysis": "Single-engine aircraft made emergency landing on I-95 highway, resulting in one injury. Incident involved aviation infrastructure (aircraft) and critical transportation infrastructure (highway). While likely mechanical failure, requires investigation to rule out sabotage, terrorism, or other malicious activity. Highway closures may impact logistics and emergency response routes.",
+      "immediate_forecast_24h": "Increased aviation security scrutiny in Central Florida region. Potential for secondary incidents during investigation/recovery operations. Possible temporary disruptions to I-95 traffic flow and local logistics.",
+      "strategic_outlook": "Potential pattern if similar incidents occur in region. May indicate broader aviation maintenance or security vulnerabilities. Could inspire copycat incidents or be exploited by threat actors testing response protocols.",
+      "operational_impact": "Increased vigilance required for aviation and highway security. Coordination needed between FAA, local law enforcement, and transportation authorities. Potential supply chain delays if highway closures persist.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "7a161fcf48710ca57ed11492f071f1a6",
+    "timestamp": "2025-12-09T11:34:45.600799",
+    "original_title": "Sahel alliance warns Nigeria it will 'neutralise' any unauthorised aircraft in its airspace",
+    "link": "http://www.africanews.com/2025/12/09/sahel-alliance-warns-nigeria-it-will-neutralise-any-unauthorised-aircraft-in-its-airspace/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Sahel Region / Nigeria Border",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "The Alliance of Sahel States (AES) has issued a direct threat to neutralize unauthorized Nigerian aircraft in its airspace following a Nigerian military plane's emergency landing in Burkina Faso. This indicates heightened military tensions and potential for aerial engagements in the region, directly threatening aviation security and personnel.",
+      "immediate_forecast_24h": "Increased risk of aerial incidents or confrontations between Nigerian and AES forces; possible escalation if additional unauthorized flights occur.",
+      "strategic_outlook": "Ongoing regional instability may lead to prolonged airspace restrictions, increased military patrols, and potential for cross-border clashes affecting aviation and personnel safety.",
+      "operational_impact": "Flight operations in the Sahel-Nigeria border region face significant disruption; heightened alert for military and potential civilian aircraft; personnel in the area at risk of collateral engagement.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "a0785b7203f206c4c6fa578773e4ca62",
+    "timestamp": "2025-12-09T11:35:00.362284",
+    "original_title": "Benin government assesses situation after thwarted coup",
+    "link": "http://www.africanews.com/2025/12/09/benin-government-assesses-situation-after-thwarted-coup/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Benin",
+      "latitude": 9.3077,
+      "longitude": 2.3158,
+      "detailed_analysis": "Government forces clashed with mutinous soldiers in a thwarted coup attempt, resulting in casualties on both sides. The coup leader remains at large while security forces conduct intensive search operations. This indicates active military/political instability with potential for ongoing armed conflict.",
+      "immediate_forecast_24h": "Heightened security operations and possible additional clashes as government pursues remaining mutineers. Potential for additional coup attempts or retaliatory actions by dissident forces.",
+      "strategic_outlook": "Increased political instability may lead to prolonged security operations, potential for additional coup attempts, and possible regional spillover effects. Government likely to implement heightened security measures across critical infrastructure.",
+      "operational_impact": "Potential disruptions to cargo/logistics routes, increased scrutiny at ports/borders, possible aviation security enhancements. Personnel movement may be restricted in affected areas. Critical infrastructure could be targeted in ongoing conflict.",
+      "proximity_alert": null
+    }
   }
 ]
