@@ -1,43 +1,5 @@
 [
   {
-    "id": "6bd220f33893b6ebe1c944366bc07a6c",
-    "timestamp": "2025-12-09T18:54:32.790573",
-    "original_title": "Changing the physics of cyber defense - Microsoft",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWndHSTlwc2dvZXJVSVlQSkhUclNQU2FDUHpzRjl3VTQ1dzBSLTRjWDdXX1FNNGtNZkZfbVlfQTctM01ObzkxajFTM0NXU29kU3d5S1B4X2JxbHYwVFpxXzdFRW1ZUVpoT2hpekNFSXlyNG1pTjRQMmcwWjJMR1U5STg2V2tBSXlLYm8wTEd5Y3VMTmE4NV91MjJJMA?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Cyber",
-      "risk_score": 6,
-      "location": "Global",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "Microsoft article discussing fundamental changes in cyber defense approaches. While not describing an active incident, the framing suggests evolving threat landscape requiring new defensive paradigms. Potential implications across all sectors including aviation systems, cargo logistics, and personnel data security.",
-      "immediate_forecast_24h": "No immediate physical threat expected. However, organizations should review current cyber defense postures in light of emerging techniques mentioned.",
-      "strategic_outlook": "Long-term shift in cyber defense methodologies may indicate increasingly sophisticated threats targeting critical infrastructure, transportation systems, and supply chain networks. Requires proactive adaptation of security measures.",
-      "operational_impact": "Potential need for security protocol updates, staff training on new defense methodologies, and enhanced monitoring of digital assets across aviation, cargo, and personnel management systems.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "32a43439129dc5cbb279f67337f19698",
-    "timestamp": "2025-12-09T19:26:54.240423",
-    "original_title": "Black Sea Regional Outlook for 2026",
-    "link": "https://warontherocks.com/2025/12/black-sea-regional-outlook-for-2026/",
-    "source_name": "War on the Rocks",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 8,
-      "location": "Black Sea region",
-      "latitude": 43.0,
-      "longitude": 34.0,
-      "detailed_analysis": "The ongoing conflict between Russia and Ukraine continues to destabilize the Black Sea region, with potential escalation in 2026. The article indicates Russia's military assault on Ukraine remains the primary driver of regional instability, which could impact maritime security, shipping lanes, and regional infrastructure. While no specific incidents are mentioned, the persistent conflict environment creates elevated risks for assets, cargo transit, and personnel movement in the area.",
-      "immediate_forecast_24h": "No specific imminent threats identified in this report, but general regional instability persists. Maintain heightened awareness for maritime and aviation operations in the area.",
-      "strategic_outlook": "Continued military conflict likely through 2026 with potential for escalation affecting shipping security, port operations, and regional transportation infrastructure. Possible disruptions to commercial shipping routes and increased military activity in Black Sea airspace.",
-      "operational_impact": "Increased risk for maritime and aviation operations in Black Sea region. Recommend enhanced monitoring of vessel traffic, potential for port disruptions, and possible airspace restrictions. Cargo shipments may face delays or rerouting due to security concerns.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "95da0eb6bd487401f0c93acfcb817640",
     "timestamp": "2025-12-09T19:44:16.858377",
     "original_title": "Navy report on Truman crash cites fatigue, poor seamanship as factors - Navy Times",
@@ -54,6 +16,25 @@
       "strategic_outlook": "Potential for increased safety stand-downs, revised crew rotation schedules, and enhanced training requirements across naval aviation units. May impact operational tempo and readiness if systemic issues are identified fleet-wide.",
       "operational_impact": "Possible temporary reduction in naval aviation sorties from affected carrier group, increased maintenance and safety checks, and potential delays in scheduled operations until safety review completed.",
       "proximity_alert": null
+    }
+  },
+  {
+    "id": "0d0e1d4afe3ba855bad7570ecce55363",
+    "timestamp": "2025-12-09T20:38:52.058970",
+    "original_title": "Zelenskyy: Idea of Ukraine conceding Donetsk Oblast came from Russia, not US",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pii6xi/zelenskyy_idea_of_ukraine_conceding_donetsk/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Donetsk Oblast, Ukraine",
+      "latitude": 48.0,
+      "longitude": 37.5,
+      "detailed_analysis": "Political statement regarding territorial concessions in ongoing conflict zone. While not an immediate kinetic event, this signals potential escalation in information warfare and possible prelude to renewed military operations. Could indicate Russian psychological operations to undermine Ukrainian sovereignty.",
+      "immediate_forecast_24h": "Increased propaganda activity from both sides, possible disinformation campaigns targeting international audiences. Low probability of immediate kinetic escalation but heightened alert for hybrid warfare tactics.",
+      "strategic_outlook": "Sustained information warfare likely. Potential for increased cyber attacks, influence operations targeting Western support for Ukraine. Possible precursor to renewed military pressure if diplomatic channels fail.",
+      "operational_impact": "Monitor for increased cyber threats to Ukrainian infrastructure. Heighten awareness for potential disinformation targeting international partners. Review security protocols for personnel in region due to potential for escalated tensions.",
+      "proximity_alert": "YAKIN TEHDİT: Donetsk Sergey Prokofiev International Airport (22 km)"
     }
   }
 ]
