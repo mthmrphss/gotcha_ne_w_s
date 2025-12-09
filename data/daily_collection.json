@@ -1480,5 +1480,24 @@
       "operational_impact": "None to physical security operations. Maintain normal vigilance levels. No changes to asset protection protocols required.",
       "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (1 km)"
     }
+  },
+  {
+    "id": "3240cae24dce3b54187e7a1b205b06a0",
+    "timestamp": "2025-12-09T23:33:19.858460",
+    "original_title": "Chien Feng IV drone to start flight tests next month - Taipei Times",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pilw2k/chien_feng_iv_drone_to_start_flight_tests_next/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 6,
+      "location": "Taiwan",
+      "latitude": 23.6978,
+      "longitude": 120.9605,
+      "detailed_analysis": "The Chien Feng IV drone flight tests represent a potential aviation security concern due to possible airspace incursions, unexpected flight paths, or technical malfunctions during testing. While not inherently hostile, uncrewed aerial systems in development phases can create airspace deconfliction challenges and potential for misinterpretation by regional actors.",
+      "immediate_forecast_24h": "No immediate threat expected as tests are scheduled for next month. Monitor for any changes in testing schedule or unexpected early deployment.",
+      "strategic_outlook": "Increased drone capabilities in the region may elevate long-term aviation security concerns, particularly regarding airspace sovereignty disputes and potential for escalation in tense geopolitical environments.",
+      "operational_impact": "Enhanced monitoring of Taiwanese airspace recommended during testing periods. Coordinate with regional aviation authorities for flight path notifications and contingency planning for potential incidents.",
+      "proximity_alert": null
+    }
   }
 ]
