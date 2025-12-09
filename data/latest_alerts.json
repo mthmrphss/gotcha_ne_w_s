@@ -1,24 +1,5 @@
 [
   {
-    "id": "1c47c4ce756ef0a20b485bc95bcbb6a2",
-    "timestamp": "2025-12-09T17:45:52.294173",
-    "original_title": "Benin government says short-lived coup left casualties on both sides",
-    "link": "http://www.africanews.com/2025/12/09/benin-government-says-short-lived-coup-left-casualties-on-both-sides/",
-    "source_name": "Africa News",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 10,
-      "location": "Cotonou, Benin",
-      "latitude": 6.3725,
-      "longitude": 2.5196,
-      "detailed_analysis": "Military coup attempt involving mutinying soldiers, confirmed airstrikes by Nigerian fighter jets, casualties reported on both sides. Indicates significant internal military instability with potential for ongoing armed conflict. Foreign military intervention (Nigeria) suggests regional security implications.",
-      "immediate_forecast_24h": "High probability of continued military operations, possible retaliatory actions, increased security force presence, potential for additional clashes or attempted counter-coups. Airspace may experience disruptions due to military aviation activity.",
-      "strategic_outlook": "Potential for prolonged political-military crisis, possible factional fighting within military, risk of spillover effects in West Africa region. May impact regional stability agreements and economic corridors. Could lead to increased foreign military presence or intervention.",
-      "operational_impact": "Ground operations in Benin should expect heightened security checks, possible road closures, and movement restrictions. Aviation may face temporary airspace closures or restrictions. Personnel should maintain heightened situational awareness, avoid government/military installations, and prepare for potential evacuation contingencies.",
-      "proximity_alert": "YAKIN TEHDİT: Cardinal Bernadin Gantin International Airport (10 km)"
-    }
-  },
-  {
     "id": "6bd220f33893b6ebe1c944366bc07a6c",
     "timestamp": "2025-12-09T18:54:32.790573",
     "original_title": "Changing the physics of cyber defense - Microsoft",
@@ -34,6 +15,25 @@
       "immediate_forecast_24h": "No immediate physical threat expected. However, organizations should review current cyber defense postures in light of emerging techniques mentioned.",
       "strategic_outlook": "Long-term shift in cyber defense methodologies may indicate increasingly sophisticated threats targeting critical infrastructure, transportation systems, and supply chain networks. Requires proactive adaptation of security measures.",
       "operational_impact": "Potential need for security protocol updates, staff training on new defense methodologies, and enhanced monitoring of digital assets across aviation, cargo, and personnel management systems.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "32a43439129dc5cbb279f67337f19698",
+    "timestamp": "2025-12-09T19:26:54.240423",
+    "original_title": "Black Sea Regional Outlook for 2026",
+    "link": "https://warontherocks.com/2025/12/black-sea-regional-outlook-for-2026/",
+    "source_name": "War on the Rocks",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Black Sea region",
+      "latitude": 43.0,
+      "longitude": 34.0,
+      "detailed_analysis": "The ongoing conflict between Russia and Ukraine continues to destabilize the Black Sea region, with potential escalation in 2026. The article indicates Russia's military assault on Ukraine remains the primary driver of regional instability, which could impact maritime security, shipping lanes, and regional infrastructure. While no specific incidents are mentioned, the persistent conflict environment creates elevated risks for assets, cargo transit, and personnel movement in the area.",
+      "immediate_forecast_24h": "No specific imminent threats identified in this report, but general regional instability persists. Maintain heightened awareness for maritime and aviation operations in the area.",
+      "strategic_outlook": "Continued military conflict likely through 2026 with potential for escalation affecting shipping security, port operations, and regional transportation infrastructure. Possible disruptions to commercial shipping routes and increased military activity in Black Sea airspace.",
+      "operational_impact": "Increased risk for maritime and aviation operations in Black Sea region. Recommend enhanced monitoring of vessel traffic, potential for port disruptions, and possible airspace restrictions. Cargo shipments may face delays or rerouting due to security concerns.",
       "proximity_alert": null
     }
   }
