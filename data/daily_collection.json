@@ -815,5 +815,81 @@
       "operational_impact": "Avoid all non-essential travel to region. Reroute cargo/flights away from conflict zones. Heighten personnel security protocols. Monitor for opportunistic crime during chaos.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "e4da9576d88b0c176b48c28c53b9bdaf",
+    "timestamp": "2025-12-09T05:43:26.999182",
+    "original_title": "Edinburgh Airport Temporarily Suspends Flights Due to British Airways Emergency Landing - SSBCrack News",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUnE3enJ0NWg0eGFmTDQ0b2sxWS04TllSTnVvY1d0UWxTRk1kLVpoVWFtOEl4Sk5xbFVIU0ZmWDVMT1ZTeG1INFM4bFRhY3hGalo1QWlTUEtvUVZmaXowV2lVM0hwYXQ4TDNlTWhHVkl0Nno0Wm43UTdFVGIyOEtPbTNFYmdvQ2t5d1JxNDlOYjJTY0txOHl2cG1IVDc1M25HRk9LbFRjOE5TVWpkUXNVU2wwMzA?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Edinburgh, Scotland",
+      "latitude": 55.9508,
+      "longitude": -3.3615,
+      "detailed_analysis": "Emergency landing by British Airways led to temporary suspension of flights at Edinburgh Airport, indicating a significant aviation safety incident. While the cause is unspecified, such events often involve mechanical failure, medical emergencies, or security concerns, disrupting operations and requiring emergency response coordination.",
+      "immediate_forecast_24h": "Potential for continued flight delays or cancellations as authorities investigate the incident; increased scrutiny on airport security and aircraft inspections may cause operational slowdowns.",
+      "strategic_outlook": "Possible short-term tightening of aviation safety protocols; if incident is linked to systemic issues, could lead to broader fleet inspections or regulatory reviews affecting British Airways and similar carriers.",
+      "operational_impact": "Disruption to passenger travel, cargo shipments, and airport logistics; possible rerouting of flights and resource strain on emergency services and airport personnel.",
+      "proximity_alert": "YAKIN TEHDİT: Edinburg Airport (0 km)"
+    }
+  },
+  {
+    "id": "03548038f772c366df532add5352a6f9",
+    "timestamp": "2025-12-09T05:43:36.410457",
+    "original_title": "British Airways BA1443 Emergency Landing Edinburgh - Hydraulic Failure Leaves Jet Stranded on Runway - Aero News Journal",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSy1hdFBmMGFIc2NJbnJsakFzZTNFaHowcU51ZXNJZWs0Q0lZS3Z1YWloYTZXYlBBRUsxcldtbVhrVEpFQUw5MGJTTFhjMFBsRG9mZzFFNkZ2ME9mSkxRTTBya003TGpvaU1GbGJsNlBSSEdWa1ZobUhqVlVJVjhDNTRBZw?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Edinburgh, Scotland",
+      "latitude": 55.9533,
+      "longitude": -3.1883,
+      "detailed_analysis": "British Airways flight BA1443 experienced hydraulic failure leading to emergency landing at Edinburgh Airport. Aircraft stranded on runway indicates significant system failure requiring emergency response. No injuries reported but runway closure likely caused operational disruptions. Hydraulic failures can compromise flight controls, landing gear, and braking systems, representing serious aviation safety concern.",
+      "immediate_forecast_24h": "Edinburgh Airport operations likely disrupted for several hours during aircraft recovery and runway inspection. Potential for flight delays/cancellations. BA may need to reposition aircraft and accommodate affected passengers. No immediate threat to other assets or personnel beyond aviation operations.",
+      "strategic_outlook": "Potential for increased scrutiny of BA's maintenance protocols. Possible temporary operational adjustments for similar aircraft types. May trigger internal safety review and potential fleet inspections. No indication of malicious intent or systemic vulnerability beyond mechanical failure.",
+      "operational_impact": "Single-aircraft incident with localized impact. Edinburgh Airport operations temporarily affected. No threat to cargo, personnel beyond flight crew/passengers, or other transport modes. Recovery operations standard for aviation incidents of this nature.",
+      "proximity_alert": "YAKIN TEHDİT: Edinburg Airport (10 km)"
+    }
+  },
+  {
+    "id": "3b9905630913175259b07eb360bbc43f",
+    "timestamp": "2025-12-09T05:43:43.059039",
+    "original_title": "Edinburgh Airport Halts Flights Following Emergency Landing - El-Balad.com",
+    "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE81U0N5N0dReUpZaG5oamY2a3A4OTBWWi1jOGpla1RBLTRWaVNVZXZ5dzN1cUpVMndDUGtKbml0c3VwODY1a1Vn?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Edinburgh, Scotland",
+      "latitude": 55.95,
+      "longitude": -3.37,
+      "detailed_analysis": "Emergency landing at Edinburgh Airport led to flight halts, indicating potential aviation safety or security incident. While specifics are unclear, the disruption to operations suggests a non-routine event requiring investigation.",
+      "immediate_forecast_24h": "Increased scrutiny on airport security protocols, possible delays or cancellations as authorities assess the situation and conduct necessary checks.",
+      "strategic_outlook": "Potential review of emergency response procedures; heightened awareness for similar incidents at regional airports if cause is systemic or threat-related.",
+      "operational_impact": "Temporary suspension of flights, resource allocation for incident response, and coordination with relevant aviation authorities for clearance and recovery.",
+      "proximity_alert": "YAKIN TEHDİT: Edinburg Airport (0 km)"
+    }
+  },
+  {
+    "id": "53cb49a8eddd370d0da712e99254f33a",
+    "timestamp": "2025-12-09T05:43:52.083184",
+    "original_title": "Myanmar military air strike on a tea shop kills 18 watching a football match on TV",
+    "link": "https://www.reddit.com/r/worldnews/comments/1phzjfi/myanmar_military_air_strike_on_a_tea_shop_kills/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 9,
+      "location": "Myanmar (specific region not specified in source)",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Military air strike targeting civilian infrastructure (tea shop) resulting in mass casualties. Event demonstrates deliberate targeting of non-combatants, indicating escalation in conflict tactics. High potential for retaliatory attacks against military/government assets, including possible targeting of aviation infrastructure or personnel.",
+      "immediate_forecast_24h": "Heightened security alert for all assets in Myanmar. Increased likelihood of: 1) Retaliatory attacks against military airbases 2) Sabotage attempts on aviation fuel depots 3) Roadside IEDs targeting military convoys 4) Possible drone attacks on government facilities",
+      "strategic_outlook": "Sustained deterioration of security environment. Expect increased frequency of asymmetric attacks against military and government targets. Aviation assets at particular risk from MANPADS, drone swarms, or infiltration attacks. Cargo operations may face increased scrutiny and targeting by both military and resistance groups.",
+      "operational_impact": "All personnel movements in Myanmar require armed escort. Aviation operations should consider temporary suspension or extreme altitude approaches. Cargo shipments face high risk of inspection delays, diversion, or seizure. Recommend immediate review of all asset protection measures and evacuation protocols for non-essential personnel.",
+      "proximity_alert": null
+    }
   }
 ]
