@@ -1,21 +1,40 @@
 [
   {
-    "id": "0d0e1d4afe3ba855bad7570ecce55363",
-    "timestamp": "2025-12-09T20:38:52.058970",
-    "original_title": "Zelenskyy: Idea of Ukraine conceding Donetsk Oblast came from Russia, not US",
-    "link": "https://www.reddit.com/r/worldnews/comments/1pii6xi/zelenskyy_idea_of_ukraine_conceding_donetsk/",
-    "source_name": "Reddit r/WorldNews",
+    "id": "55f225368282e957a46b9711078c5f56",
+    "timestamp": "2025-12-09T22:36:08.783810",
+    "original_title": "Watch: Video shows moment plane collides with car during crash landing on I-95 in Brevard County - WESH",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaGE0Y2FvWFFITjFkT01OOXVxMW92a2MxN2tsaW80WUlqWnZwcmpzYUo0OE1rbGdxTlMxclFwWFZ4cTFBZUJTM2JXaVBvSmxjMG11TlhmaGF0bDdhQUZhQW43bVp2YlloSjFkWmZjaTFyblB2ajhVSEVBR1F0VWdxVFBNVl9mYUoy?oc=5",
+    "source_name": "Google News (Breaking)",
     "ai_analysis": {
-      "category": "Conflict",
+      "category": "Aviation",
+      "risk_score": 7,
+      "location": "Brevard County, Florida",
+      "latitude": 28.3,
+      "longitude": -80.7,
+      "detailed_analysis": "Single-engine aircraft experienced engine failure, attempted emergency landing on I-95 highway, collided with vehicle during landing sequence. No fatalities reported. Incident demonstrates potential for ground impact scenarios in populated areas during aviation emergencies.",
+      "immediate_forecast_24h": "Increased emergency response presence on I-95 corridor. Potential for secondary incidents due to traffic disruptions and debris field. No indication of additional aircraft in distress.",
+      "strategic_outlook": "Highway proximity to airports creates persistent secondary risk profile for ground transportation during aviation emergencies. Requires coordinated emergency planning between aviation and ground transportation authorities.",
+      "operational_impact": "Temporary highway closure affecting cargo/logistics routes. Increased scrutiny of small aircraft operations in area. No immediate threat to other aviation assets or personnel beyond standard emergency response protocols.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "d0f24ed9f050ef1634e14b76dc74e86e",
+    "timestamp": "2025-12-09T22:36:23.595902",
+    "original_title": "U.S. China hawks say Trump approved Nvidia chip sales to China will supercharge its military",
+    "link": "https://www.france24.com/en/video/20251209-u-s-china-hawks-say-trump-approved-nvidia-chip-sales-to-china-will-supercharge-its-military",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Other",
       "risk_score": 10,
-      "location": "Donetsk Oblast, Ukraine",
-      "latitude": 48.0,
-      "longitude": 37.5,
-      "detailed_analysis": "Political statement regarding territorial concessions in ongoing conflict zone. While not an immediate kinetic event, this signals potential escalation in information warfare and possible prelude to renewed military operations. Could indicate Russian psychological operations to undermine Ukrainian sovereignty.",
-      "immediate_forecast_24h": "Increased propaganda activity from both sides, possible disinformation campaigns targeting international audiences. Low probability of immediate kinetic escalation but heightened alert for hybrid warfare tactics.",
-      "strategic_outlook": "Sustained information warfare likely. Potential for increased cyber attacks, influence operations targeting Western support for Ukraine. Possible precursor to renewed military pressure if diplomatic channels fail.",
-      "operational_impact": "Monitor for increased cyber threats to Ukrainian infrastructure. Heighten awareness for potential disinformation targeting international partners. Review security protocols for personnel in region due to potential for escalated tensions.",
-      "proximity_alert": "YAKIN TEHDİT: Donetsk Sergey Prokofiev International Airport (22 km)"
+      "location": "Washington D.C.",
+      "latitude": 38.9072,
+      "longitude": -77.0369,
+      "detailed_analysis": "Political criticism of technology export policy regarding AI chips to China. No direct threat to physical assets, cargo, aviation, or immediate personnel safety. Concerns center on potential long-term military technology transfer rather than operational security incidents.",
+      "immediate_forecast_24h": "No immediate physical security threats expected. Standard monitoring of Chinese technology acquisition patterns recommended.",
+      "strategic_outlook": "Potential escalation in technology competition between US and China may lead to future export restrictions or retaliatory measures, but no direct impact on physical security operations.",
+      "operational_impact": "None to physical security operations. Maintain normal vigilance levels. No changes to asset protection protocols required.",
+      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (1 km)"
     }
   }
 ]
