@@ -758,5 +758,24 @@
       "operational_impact": "Immediate: Radiation exposure risk to personnel in area. Medium-term: Possible disruption to regional logistics and aviation if contamination spreads. Requires coordination with nuclear safety authorities and enhanced drone detection capabilities.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "da0c16011415ee3b748c16698636e263",
+    "timestamp": "2025-12-09T03:44:36.992677",
+    "original_title": "Cambodia says it has retaliated in renewed clashes with Thailand",
+    "link": "https://www.france24.com/en/asia-pacific/20251209-cambodia-retaliates-clashes-thailand",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Cambodia-Thailand Border",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Renewed military clashes between Cambodia and Thailand with confirmed casualties (7 dead) and retaliatory actions reported. Border tensions escalating despite previous ceasefire attempts, indicating potential for sustained conflict.",
+      "immediate_forecast_24h": "High probability of continued cross-border shelling/skirmishes. Possible border closures affecting transport routes. Increased military presence near conflict zones.",
+      "strategic_outlook": "Potential for prolonged border dispute with periodic escalations. May impact regional stability and cross-border trade routes. Could lead to broader ASEAN diplomatic involvement.",
+      "operational_impact": "Ground transport routes near border likely disrupted. Possible aviation reroutes due to airspace safety concerns. Personnel in border regions at direct physical risk. Cargo shipments through border crossings may face delays or diversions.",
+      "proximity_alert": null
+    }
   }
 ]
