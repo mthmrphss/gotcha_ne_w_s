@@ -1651,5 +1651,43 @@
       "operational_impact": "Recommend increased vigilance for asset protection details in Paris museums and cultural sites. Review physical security protocols for high-value cargo movements. No immediate impact on aviation or border operations detected from this specific event.",
       "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (2 km)"
     }
+  },
+  {
+    "id": "446de95d8bc7f5ffe98d074376c7cdfb",
+    "timestamp": "2025-12-10T08:56:56.272728",
+    "original_title": "If You See This Google Message, Your Gmail Is Under Attack - Forbes",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWjgtN3JzM2M1aEZtMlBIZGIzNHVYZVBLWFkyLXh6NWU3OUZiVWs4U25QSlJkOVdpMU82aWQxcW82a3hGYllsTTZsWU1vRVFzVlJYZ3cwQnpVZDhRaWR1Ulh2cktTQ3FDbW9lbl9aSklzVmpUQlQ4dk5lU0xFdXVtaGtaa0EtR0piV1preFdleEd5R0tsNndMNTg2Vkhya3N2cS1WMlpqLWZ5RVJPU1E?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 7,
+      "location": "Global",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Article discusses Gmail-specific phishing attack vectors requiring user awareness. While not targeting physical assets directly, compromised email accounts could lead to business email compromise (BEC) attacks affecting personnel communications, supply chain coordination, and potential data exfiltration. Attack leverages social engineering rather than technical vulnerabilities.",
+      "immediate_forecast_24h": "No direct physical threat to assets or personnel expected. Potential for increased phishing attempts targeting organizational email accounts, particularly those with access to logistics or operational data.",
+      "strategic_outlook": "Continued evolution of credential harvesting techniques likely. Organizations should reinforce security awareness training regarding email authentication warnings and multi-factor authentication implementation.",
+      "operational_impact": "Minimal direct operational disruption. Secondary impact possible if compromised accounts are used to manipulate shipping instructions, vendor communications, or personnel travel arrangements. Recommend verifying unusual email requests through secondary channels.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "01dada0cefa0d9df154e234ba72d31b7",
+    "timestamp": "2025-12-10T08:57:19.750698",
+    "original_title": "Minneapolis residents rally against US immigration agents as they target Somali community",
+    "link": "http://www.africanews.com/2025/12/10/minneapolis-residents-rally-against-us-immigration-agents-as-they-target-somali-community/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 6,
+      "location": "Minneapolis, Minnesota",
+      "latitude": 44.9778,
+      "longitude": -93.265,
+      "detailed_analysis": "Immigration enforcement operation triggered community protests resulting in physical confrontation. Use of pepper spray by agents indicates escalation beyond routine enforcement. Protesters successfully blocked law enforcement vehicles, demonstrating organized resistance. Event reflects heightened community tensions with federal authorities.",
+      "immediate_forecast_24h": "High probability of continued protests and potential counter-protests. Possible road blockades affecting logistics routes. Increased police presence likely. Potential for additional confrontations if enforcement operations continue.",
+      "strategic_outlook": "Sustained community unrest may develop if immigration enforcement continues targeting this demographic. Could inspire similar protests in other cities with large immigrant communities. Potential for escalation to wider civil disobedience affecting transportation and business operations.",
+      "operational_impact": "Ground transportation routes in Minneapolis area may experience disruptions. Personnel movement potentially affected by protests and police activity. Increased security vigilance recommended for assets in affected areas. Possible delays in cargo movements due to road blockades or diverted routes.",
+      "proximity_alert": null
+    }
   }
 ]
