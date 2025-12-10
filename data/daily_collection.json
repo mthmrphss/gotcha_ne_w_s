@@ -1974,5 +1974,43 @@
       "operational_impact": "No immediate physical threat to assets or personnel. Maintain awareness of potential for increased cyber targeting of organizations linked to human rights documentation. Cargo routes through region remain subject to existing conflict-related disruptions.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "0c80402cd68a632907f5592457bdc7b5",
+    "timestamp": "2025-12-10T15:48:25.683541",
+    "original_title": "Louvre security camera was pointed at heist location, but wasn't monitored at first, official says - ABC News",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRHA0eTcxSzAwNmxlSHdMbWh3clZKaG8zS3JnQjZTQ2F1OENyQllPdFhLVTljZEswSnUxU21IVXNaVGZXNjVmaWJ6TjZ4TUViWVZvcHdOeTBpdm1CbjlUOTNPLV92d1dsR3QxT0VMWXFSajRzTmw1dkdMUmJmR0VsSVZYOTlCN0d2S0M3NDlGTklUTF91WTFXNzJ1ekNsVU1QRUFCQ3V3cEs5ak0yNkkzYTFMeGZieGI5ZVVDZ1VR0gHDAUFVX3lxTE5zQ25KVG1oRXJicVZmaTFFWVUtRkJzQUNNLUJHMjdJaWhHZzduSnpqdGhDOG9NTEVOSGRBRnhISWc2ajNlVk8zQ2JHNHMyRTJ3VTJkNC1zNGF0UDdvS1FSRWxoN2NIVVc2Si1vLWV2NDd0OXh3elJyM0xnb3hBbWtFc1FnYy1Ua3NaYllQWkZGdFFIY2tmcmZqQ2pjbHJGSEc0TmFFYnR5TUQ3RE92eEZRZlNVdEpoaVMzRmh1M3ZRMkJwcw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Crime/Theft",
+      "risk_score": 10,
+      "location": "Paris, Île-de-France, France",
+      "latitude": 48.8606,
+      "longitude": 2.3376,
+      "detailed_analysis": "Event: Louvre security camera directed at the heist location but not monitored initially, per ABC News. Security gap: presence of cameras does not guarantee real-time monitoring or rapid alarm response. Assets at risk: high-value artworks in the location targeted by the camera; potential loss or damage if a theft occurs. Threat actors: likely organized criminal networks with knowledge of security operations; vulnerability window exists during review or shift-change periods. Consequences: major cultural and financial impact, international incident, insurance implications, and operational disruption if galleries are locked down. Current controls: CCTV coverage exists but monitoring lapsed; need to verify alarm integration, access control, and incident command procedures. Gaps to address: ensure continuous monitoring, assign overlapped roving guards, implement multi-channel alerting to police, review camera placement for blind spots, test response times, and conduct coordination drills with museum security and local authorities.",
+      "immediate_forecast_24h": "Expect heightened security posture at the Louvre and in nearby transport corridors; potential statements from authorities; possible temporary adjustments to visitor access; media attention may focus on monitoring practices; risk of secondary incidents if the window of vulnerability is publicized.",
+      "strategic_outlook": "Over weeks, risk of art theft at major museums could trigger broader security enhancements: more real-time CCTV monitoring, stricter access controls, secure transportation policies for loans and acquisitions, and greater investment in incident response coordination with law enforcement and insurers; potential for industry-wide audits and standardization of monitoring thresholds.",
+      "operational_impact": "Operational effects include potential temporary gallery closures or restricted access during investigations; increased security staffing shifts; enhanced cross-agency communications; possible impacts on visitor experience and museum operations; insurance and reputational risk management considerations.",
+      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (1 km)"
+    }
+  },
+  {
+    "id": "8d1a801013175c790480807c1990a043",
+    "timestamp": "2025-12-10T15:48:34.497352",
+    "original_title": "Tehran rebuilding missile arsenal at high speed, Israel warns",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pj4zh4/tehran_rebuilding_missile_arsenal_at_high_speed/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Israeli intelligence reports indicate Iran is rapidly rebuilding its missile arsenal with capability to launch 2,000 missiles simultaneously in future conflicts. This represents a significant escalation in regional military capabilities and potential threat to allied assets in the Middle East.",
+      "immediate_forecast_24h": "No immediate kinetic action expected, but increased intelligence monitoring of Iranian missile facilities and potential heightened alert status for regional assets recommended.",
+      "strategic_outlook": "Sustained elevated risk to aviation, maritime, and ground assets throughout Middle East. Potential for retaliatory strikes if conflict escalates, with missile attacks posing direct threat to personnel and infrastructure.",
+      "operational_impact": "Recommend heightened surveillance of Iranian military movements, review of missile defense readiness for regional bases, and contingency planning for potential evacuation of non-essential personnel from high-risk areas.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
   }
 ]
