@@ -1,24 +1,5 @@
 [
   {
-    "id": "8d1a801013175c790480807c1990a043",
-    "timestamp": "2025-12-10T15:48:34.497352",
-    "original_title": "Tehran rebuilding missile arsenal at high speed, Israel warns",
-    "link": "https://www.reddit.com/r/worldnews/comments/1pj4zh4/tehran_rebuilding_missile_arsenal_at_high_speed/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 10,
-      "location": "Tehran, Iran",
-      "latitude": 35.6892,
-      "longitude": 51.389,
-      "detailed_analysis": "Israeli intelligence reports indicate Iran is rapidly rebuilding its missile arsenal with capability to launch 2,000 missiles simultaneously in future conflicts. This represents a significant escalation in regional military capabilities and potential threat to allied assets in the Middle East.",
-      "immediate_forecast_24h": "No immediate kinetic action expected, but increased intelligence monitoring of Iranian missile facilities and potential heightened alert status for regional assets recommended.",
-      "strategic_outlook": "Sustained elevated risk to aviation, maritime, and ground assets throughout Middle East. Potential for retaliatory strikes if conflict escalates, with missile attacks posing direct threat to personnel and infrastructure.",
-      "operational_impact": "Recommend heightened surveillance of Iranian military movements, review of missile defense readiness for regional bases, and contingency planning for potential evacuation of non-essential personnel from high-risk areas.",
-      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
-    }
-  },
-  {
     "id": "3767131d502d9437fd37ef31f69aa279",
     "timestamp": "2025-12-10T16:56:20.082293",
     "original_title": "React Server Components crisis escalates as security teams respond to compromises - Cybersecurity Dive",
@@ -53,6 +34,44 @@
       "immediate_forecast_24h": "Increased military presence and security checkpoints in Benin and along Nigeria-Benin border. Possible retaliatory actions by coup plotters or sympathizers. Enhanced scrutiny of personnel movements and cargo shipments in the region.",
       "strategic_outlook": "Continued instability in West Africa likely to persist, with potential for spillover effects into neighboring countries. Nigeria's demonstrated interventionist stance may lead to further regional military engagements. Increased risk to aviation from potential airspace restrictions or military activity.",
       "operational_impact": "Elevated threat to personnel in Benin and border regions. Possible disruptions to cargo shipments due to enhanced security measures and border closures. Aviation may face temporary restrictions or increased security screening. Recommend heightened situational awareness and contingency planning for evacuation scenarios.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "92686b90cdaa4911dd978e17859e180e",
+    "timestamp": "2025-12-10T17:49:35.633157",
+    "original_title": "Ghana condemns 'inhumane' treatment of travellers at Israel airport",
+    "link": "http://www.africanews.com/2025/12/10/ghana-condemns-inhumane-treatment-of-travellers-at-israel-airport/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Border/Migration",
+      "risk_score": 10,
+      "location": "Ben Gurion International Airport, Tel Aviv",
+      "latitude": 32.0,
+      "longitude": 34.87,
+      "detailed_analysis": "Seven Ghanaian travelers detained at Ben Gurion International Airport, prompting diplomatic response from Ghana. Event involves border control procedures and potential profiling, but no evidence of smuggling, stowaways, or transport system breaches. Incident reflects heightened scrutiny or discriminatory practices rather than security threats to assets or infrastructure.",
+      "immediate_forecast_24h": "Possible increased diplomatic tensions; no expected operational impact on aviation, cargo, or personnel movement. Additional scrutiny for Ghanaian passport holders transiting through Israel may occur short-term.",
+      "strategic_outlook": "Potential for recurring bilateral friction over border treatment; unlikely to escalate into actionable security threats unless similar incidents provoke retaliatory measures or public unrest.",
+      "operational_impact": "Minimal. No disruption to flights, cargo operations, or asset security. Personnel should remain aware of possible increased document checks for certain nationalities but no altered threat posture.",
+      "proximity_alert": "YAKIN TEHDİT: Ben Gurion International Airport (12 km)"
+    }
+  },
+  {
+    "id": "642d1c40c7c93c87ddaadaab54f6a424",
+    "timestamp": "2025-12-10T17:50:05.703119",
+    "original_title": "Gaza: Israel to reopen key aid route as humanitarian pressure grows",
+    "link": "https://www.france24.com/en/video/20251210-gaza-israel-to-reopen-key-aid-route-as-humanitarian-pressure-grows",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Border/Migration",
+      "risk_score": 5,
+      "location": "Allenby Crossing, West Bank/Gaza Border",
+      "latitude": 31.87,
+      "longitude": 35.54,
+      "detailed_analysis": "Reopening of key humanitarian crossing after 3-month closure following deadly attack on Israeli soldiers. Potential for renewed smuggling attempts, unauthorized border crossings, or exploitation by bad actors under guise of aid operations. Heightened tensions due to ongoing disputes over aid restrictions and humanitarian crisis in Gaza.",
+      "immediate_forecast_24h": "Increased vehicle and foot traffic at crossing point. Possible protests or clashes near border areas. Enhanced security screening may cause delays and congestion.",
+      "strategic_outlook": "Sustained pressure to maintain aid flow may lead to additional border openings (e.g., Rafah crossing). Possible escalation if security incidents occur during aid operations. Long-term risk of weapon or contraband smuggling disguised as humanitarian shipments.",
+      "operational_impact": "Require enhanced screening of aid convoys and personnel. Monitor for unusual crossing patterns or unauthorized movements. Coordinate with ground teams for real-time visibility on border activity.",
       "proximity_alert": null
     }
   }
