@@ -1499,5 +1499,24 @@
       "operational_impact": "Enhanced monitoring of Taiwanese airspace recommended during testing periods. Coordinate with regional aviation authorities for flight path notifications and contingency planning for potential incidents.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "186205cc9f002737a42511863e9b89fc",
+    "timestamp": "2025-12-10T04:57:35.180141",
+    "original_title": "Over half a million evacuated in Cambodia and Thailand amid renewed border clashes",
+    "link": "https://www.france24.com/en/asia-pacific/20251210-cambodia-thailand-border-clashes",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Thailand-Cambodia Border Region",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Renewed border clashes between Thailand and Cambodia have resulted in mass evacuations exceeding 500,000 people. Artillery exchanges along the disputed frontier indicate active military engagement. The scale of displacement surpasses previous incidents, suggesting escalating tensions. While primarily a ground conflict, the situation creates collateral risks to regional stability and cross-border operations.",
+      "immediate_forecast_24h": "High probability of continued artillery exchanges and possible escalation. Evacuation efforts likely to continue. Potential for conflict to spill into adjacent areas. Cross-border transportation and supply routes may be disrupted or targeted.",
+      "strategic_outlook": "Prolonged border dispute likely to continue with periodic flare-ups. May affect regional trade routes and cross-border logistics. Potential for international mediation attempts. Could impact foreign investment and economic activities in border regions of both countries.",
+      "operational_impact": "Ground transportation routes near border areas compromised. Possible supply chain disruptions for businesses operating in affected regions. Increased security screening required for personnel movement. Potential for collateral damage to infrastructure near conflict zones. Aviation may face increased scrutiny but no direct threat currently indicated.",
+      "proximity_alert": null
+    }
   }
 ]
