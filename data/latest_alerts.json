@@ -1,24 +1,5 @@
 [
   {
-    "id": "65b70058e7f55b6d8abf398f4d3b8316",
-    "timestamp": "2025-12-10T03:49:41.995433",
-    "original_title": "Brazilian lawmakers clash over proposal to slash Bolsonaro’s prison term",
-    "link": "https://www.france24.com/en/americas/20251210-brazil-congress-bolsonaro-jail",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Civil Unrest",
-      "risk_score": 4,
-      "location": "Brasília",
-      "latitude": -15.7975,
-      "longitude": -47.8919,
-      "detailed_analysis": "Political instability in Brazil's Congress following disruption of vote on Bolsonaro's prison term reduction. While not directly targeting assets or personnel, such clashes could escalate into protests or demonstrations near government buildings, potentially affecting transportation routes and increasing general security risks in the capital.",
-      "immediate_forecast_24h": "Possible increased police presence around National Congress building; potential for spontaneous protests by supporters or opponents of Bolsonaro. Low probability of violence but possible disruption to traffic and government operations.",
-      "strategic_outlook": "Continued political tension likely as Bolsonaro's legal situation evolves. May lead to sustained protests or counter-protests if sentencing decision becomes prolonged controversy, potentially creating recurring security challenges in Brasília.",
-      "operational_impact": "Minor disruption possible to ground transportation near government district. No direct impact on aviation, cargo operations, or personnel safety at this time. Recommend monitoring political developments and avoiding unnecessary travel to protest areas if demonstrations materialize.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "186205cc9f002737a42511863e9b89fc",
     "timestamp": "2025-12-10T04:57:35.180141",
     "original_title": "Over half a million evacuated in Cambodia and Thailand amid renewed border clashes",
@@ -34,6 +15,25 @@
       "immediate_forecast_24h": "High probability of continued artillery exchanges and possible escalation. Evacuation efforts likely to continue. Potential for conflict to spill into adjacent areas. Cross-border transportation and supply routes may be disrupted or targeted.",
       "strategic_outlook": "Prolonged border dispute likely to continue with periodic flare-ups. May affect regional trade routes and cross-border logistics. Potential for international mediation attempts. Could impact foreign investment and economic activities in border regions of both countries.",
       "operational_impact": "Ground transportation routes near border areas compromised. Possible supply chain disruptions for businesses operating in affected regions. Increased security screening required for personnel movement. Potential for collateral damage to infrastructure near conflict zones. Aviation may face increased scrutiny but no direct threat currently indicated.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "6d702e45f37e8110ea090100ef1fccfa",
+    "timestamp": "2025-12-10T05:45:15.490533",
+    "original_title": "Inside Ukraine’s Daring ‘Operation Spiderweb’ Attack on Russia - The Wall Street Journal",
+    "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxOZmVWWFVhWHRPeldMMC05el9QT21QSVo0UkFvZDNiajZTaTV5TEREc2NTNTRGbGJmUjRkaV9land4SnJoUlVndDBBVTRWb3hlY1FPc29SWVVsN1BqdHZndlM1NkI1YlBNdE1VdUhTUko2TDhWbEtzTVBvSE9palRqVEZkdTBwX0JBYzdmZDRRUG9ZeDRCODMtcEFmUDFxY3pKLXE1NS0tanB3V1liY0V0NF9XMUNFZE1OeWVCR3o3Zl9VTG1oOE9uSnZoR0xYOWlmSlJDdHJmSTFkSFM5Sm13Uk1EbGNNb2xLMmszZmtzNEtKWUt4WGZTN0dmU1dzenlfTExQaHZmME4xWVlrRGs2Mzk4ZlFCM1ZydUVXejdRY1E4M3VJRFp1NWFHc3pNV3F1bWxoU3VaanBqYk5wUGYyZmNOR25nRkVrMHpSTUltMm4yUTRVdUxfYzB2RjEyMUZ4aExOdWFvbk1qSzd4TDlYbUt3SkFrZTJMU1UtNWVmRzJnS1AtQjNrdjNSRjVzcXVoMm80emhNdVE?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Russia-Ukraine Border Region",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Operation Spiderweb appears to be a Ukrainian military operation targeting Russian forces, likely involving cross-border attacks, sabotage, or intelligence operations. This represents direct state-on-state conflict activity with potential for escalation and collateral damage to transportation infrastructure, supply chains, and personnel movement in the region.",
+      "immediate_forecast_24h": "Heightened security alert for all assets and personnel in border regions. Increased likelihood of retaliatory strikes, border closures, and transportation disruptions. Possible drone activity and targeting of logistics routes.",
+      "strategic_outlook": "Sustained conflict operations likely to continue, potentially expanding to critical infrastructure targets. Aviation and cargo routes near conflict zones face elevated risk of interception, sabotage, or collateral damage. Personnel movement requires enhanced security protocols.",
+      "operational_impact": "Immediate suspension of non-essential travel and cargo movements through affected border regions. Enhanced screening for all personnel and assets. Aviation operations require increased standoff distances and alternative routing. Critical infrastructure security protocols should be activated.",
       "proximity_alert": null
     }
   }
