@@ -2012,5 +2012,43 @@
       "operational_impact": "Recommend heightened surveillance of Iranian military movements, review of missile defense readiness for regional bases, and contingency planning for potential evacuation of non-essential personnel from high-risk areas.",
       "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
     }
+  },
+  {
+    "id": "3767131d502d9437fd37ef31f69aa279",
+    "timestamp": "2025-12-10T16:56:20.082293",
+    "original_title": "React Server Components crisis escalates as security teams respond to compromises - Cybersecurity Dive",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeGFDS1lHZkFNRVNDVHdZRWxmSmM3NkdQa1VXRHZXamFaZ2lnMnp0RWFFckFqR3dzcjFQY0NYQm1Ucm1QZGF5ak92aW50TExHVHNHek9JR1hVZGQ4R1ZXZ1pKbGpNVzdkbVZ6YzhDakZnWkQzZF9RUGppRFE4bEdOM3J5WFE4M0lrcXFWZDN3d3Zhdjd5dDFJVWxjb01NZmI3QzVlSkdncTRUOXlSNlFfVkxIbDN0aVZTWmZjZE1Bdw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 7,
+      "location": "Global",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "The React Server Components crisis involves security compromises affecting a widely used web development framework, potentially leading to supply chain attacks, data breaches, and unauthorized access to systems. While not directly targeting physical assets or personnel, the widespread adoption of React in enterprise and critical infrastructure applications means this could impact operational technology, logistics software, or aviation systems if exploited maliciously.",
+      "immediate_forecast_24h": "Increased patching and monitoring activities as security teams respond; potential for opportunistic attacks leveraging the vulnerability before mitigations are widely deployed.",
+      "strategic_outlook": "Long-term risk of persistent threats if vulnerabilities are not fully addressed; may lead to increased scrutiny of open-source dependencies in critical systems.",
+      "operational_impact": "Possible disruptions to web-based cargo tracking, aviation management software, or personnel data systems if compromised; recommend heightened cyber vigilance and dependency audits.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "091c708880a91a8435eed6d38fb96246",
+    "timestamp": "2025-12-10T16:57:09.044736",
+    "original_title": "Nigeria’s Benin rescue thwarts a coup, sends a warning to a volatile region",
+    "link": "https://www.france24.com/en/africa/20251210-nigeria-benin-rescue-thwarts-military-coup-sends-warning-to-volatile-region",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Benin",
+      "latitude": 9.3077,
+      "longitude": 2.3158,
+      "detailed_analysis": "Military intervention by Nigeria to thwart a coup attempt against Beninese President Patrice Talon indicates heightened political instability in the region. While the coup was defeated, the underlying tensions remain. This event demonstrates Nigeria's willingness to intervene militarily in neighboring countries, potentially escalating regional conflicts. The volatility in West Africa increases risks to personnel and assets through potential cross-border military activity, political retaliation, or collateral damage.",
+      "immediate_forecast_24h": "Increased military presence and security checkpoints in Benin and along Nigeria-Benin border. Possible retaliatory actions by coup plotters or sympathizers. Enhanced scrutiny of personnel movements and cargo shipments in the region.",
+      "strategic_outlook": "Continued instability in West Africa likely to persist, with potential for spillover effects into neighboring countries. Nigeria's demonstrated interventionist stance may lead to further regional military engagements. Increased risk to aviation from potential airspace restrictions or military activity.",
+      "operational_impact": "Elevated threat to personnel in Benin and border regions. Possible disruptions to cargo shipments due to enhanced security measures and border closures. Aviation may face temporary restrictions or increased security screening. Recommend heightened situational awareness and contingency planning for evacuation scenarios.",
+      "proximity_alert": null
+    }
   }
 ]
