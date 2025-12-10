@@ -36,5 +36,81 @@
       "operational_impact": "Personnel movement near border requires enhanced security protocols. Cargo routes through border region face disruption/delays. Aviation operations should monitor for potential airspace restrictions or increased military drone activity. Refugee movements may create cover for border breaches or stowaway attempts.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "f3f9b4deba7fd4fa59a0c2ade2b67fd4",
+    "timestamp": "2025-12-10T07:43:37.458460",
+    "original_title": "US military flies 2 fighter jets over the Gulf of Venezuela as scrutiny grows - The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbFdWRXEtRGZIVy1PcDBFU0NZVVZWY2lhNFRHSmdQY2VLLVRhdktOX2FyMUVUVnNUZUwxREFBbHNzaGRyWmJ0T1I0bXU2R0czdC1fdUFYTnNEdlA5dW96T1dURkF1V3RsWE5zcHlJWFlBaXd3Snc1NTVnX015dHFZNWoxVFMwaXVyUkFOa3cxQkRiUV9DVTFyWVI5NjJkb2pJWTNSWVU0ZUpZZTB2bUJtdW1sZXltTC0ybTUwcEc4NE0tNEtrOXNQMnF4bkRIcmFTTHJHRDVzZDRFdHRz?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Gulf of Venezuela",
+      "latitude": 10.5,
+      "longitude": -67.0,
+      "detailed_analysis": "US military fighter jet overflight in Venezuelan airspace represents a significant escalation in regional tensions. This is a deliberate show of force amid growing scrutiny of Venezuela's government. While not an immediate kinetic threat, it increases the potential for miscalculation or accidental engagement between US and Venezuelan forces. The Gulf of Venezuela is a strategic maritime corridor for shipping and energy transport.",
+      "immediate_forecast_24h": "Increased Venezuelan military alertness and possible counter-deployments. Potential for heightened naval and air patrols in the region. Possible diplomatic protests from Venezuelan government.",
+      "strategic_outlook": "Sustained US military presence likely to continue as political pressure on Venezuela persists. Risk of accidental engagements or escalation remains elevated. Regional shipping and aviation may face increased scrutiny from Venezuelan and US forces.",
+      "operational_impact": "Maritime and aviation operations in the Gulf of Venezuela should expect increased military activity. Enhanced vigilance recommended for all assets transiting the area. Possible temporary flight restrictions or naval exclusion zones could be implemented with little warning.",
+      "proximity_alert": "YAKIN TEHDİT: Maiquetía \"Simón Bolívar\" International Airport (9 km)"
+    }
+  },
+  {
+    "id": "0b9ea279da40d250082e06a25ad7d3d2",
+    "timestamp": "2025-12-10T07:43:52.450461",
+    "original_title": "Thailand evacuees wait as tensions with Cambodia stretch into a fourth day",
+    "link": "http://www.africanews.com/2025/12/10/thailand-evacuees-wait-as-tensions-with-cambodia-stretch-into-a-fourth-day/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Surin, Thailand-Cambodia border",
+      "latitude": 14.8828,
+      "longitude": 103.4933,
+      "detailed_analysis": "Ongoing border clashes between Thailand and Cambodia have created an unstable security environment, forcing civilian evacuations. While not directly targeting assets or aviation, cross-border conflict increases risks of collateral damage, supply chain disruptions, and potential escalation affecting regional operations. Personnel in the area face immediate physical safety concerns.",
+      "immediate_forecast_24h": "Continued border tensions likely with possible clashes. Evacuation operations ongoing. Road closures and border crossing disruptions expected. Increased military presence may affect cargo movement.",
+      "strategic_outlook": "Potential for prolonged border dispute with intermittent clashes. May impact regional trade routes and cross-border logistics. Possible escalation could affect broader Southeast Asian security environment and require contingency planning for extended operations disruption.",
+      "operational_impact": "Personnel evacuation/redeployment required. Ground cargo routes through border areas compromised. Aviation may face temporary restrictions if conflict escalates. Increased security screening for personnel and assets in affected region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "2c15e95b979aff51214cecbb539db65c",
+    "timestamp": "2025-12-10T07:43:58.721641",
+    "original_title": "France says it offered logistical support to Benin to help foil attempted coup",
+    "link": "http://www.africanews.com/2025/12/10/france-says-it-offered-logistical-support-to-benin-to-help-foil-attempted-coup/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 6,
+      "location": "Benin",
+      "latitude": 9.3077,
+      "longitude": 2.3158,
+      "detailed_analysis": "Foreign military intervention (France) in support of government forces against coup attempt indicates elevated political instability. Logistical and surveillance support suggests ongoing security operations. Potential for retaliatory actions by coup plotters against foreign interests.",
+      "immediate_forecast_24h": "Increased military presence and security checkpoints likely. Possible disruptions to government facilities, transportation routes, and international operations. Elevated threat to Western-affiliated assets.",
+      "strategic_outlook": "Potential for prolonged instability and anti-French sentiment. Possible spillover effects to neighboring West African nations. May inspire copycat attempts by opposition groups.",
+      "operational_impact": "Avoid non-essential travel to Benin. Heighten security posture for personnel and assets. Monitor airports and ports for disruptions. Prepare for potential evacuation contingencies.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "282e1fb93a8b9724d939bdcc3aafc8f0",
+    "timestamp": "2025-12-10T07:44:05.258766",
+    "original_title": "Paris unveils royal jewel exhibition as Louvre heist casts long shadow",
+    "link": "https://www.france24.com/en/europe/20251210-paris-unveils-royal-jewel-exhibition-as-louvre-heist-casts-long-shadow",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Crime/Theft",
+      "risk_score": 10,
+      "location": "Paris, France",
+      "latitude": 48.8566,
+      "longitude": 2.3522,
+      "detailed_analysis": "Recent Louvre heist indicates active criminal targeting of high-value assets in Paris cultural institutions. Exhibition of royal jewels represents a high-value, portable target that may attract organized theft groups. Security scrutiny is heightened but may create displacement effect to softer targets.",
+      "immediate_forecast_24h": "Increased security presence around cultural sites; possible copycat attempts at other museums or high-value exhibitions. No specific threat to aviation or personnel identified in this event.",
+      "strategic_outlook": "Paris remains a persistent target for sophisticated theft operations. Cultural institutions will likely enhance physical security measures, but determined criminal groups may adapt tactics. Potential for increased insurance premiums and security costs for high-value exhibitions.",
+      "operational_impact": "Recommend increased vigilance for asset protection details in Paris museums and cultural sites. Review physical security protocols for high-value cargo movements. No immediate impact on aviation or border operations detected from this specific event.",
+      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (2 km)"
+    }
   }
 ]
