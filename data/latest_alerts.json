@@ -1,43 +1,5 @@
 [
   {
-    "id": "446de95d8bc7f5ffe98d074376c7cdfb",
-    "timestamp": "2025-12-10T08:56:56.272728",
-    "original_title": "If You See This Google Message, Your Gmail Is Under Attack - Forbes",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWjgtN3JzM2M1aEZtMlBIZGIzNHVYZVBLWFkyLXh6NWU3OUZiVWs4U25QSlJkOVdpMU82aWQxcW82a3hGYllsTTZsWU1vRVFzVlJYZ3cwQnpVZDhRaWR1Ulh2cktTQ3FDbW9lbl9aSklzVmpUQlQ4dk5lU0xFdXVtaGtaa0EtR0piV1preFdleEd5R0tsNndMNTg2Vkhya3N2cS1WMlpqLWZ5RVJPU1E?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Cyber",
-      "risk_score": 7,
-      "location": "Global",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "Article discusses Gmail-specific phishing attack vectors requiring user awareness. While not targeting physical assets directly, compromised email accounts could lead to business email compromise (BEC) attacks affecting personnel communications, supply chain coordination, and potential data exfiltration. Attack leverages social engineering rather than technical vulnerabilities.",
-      "immediate_forecast_24h": "No direct physical threat to assets or personnel expected. Potential for increased phishing attempts targeting organizational email accounts, particularly those with access to logistics or operational data.",
-      "strategic_outlook": "Continued evolution of credential harvesting techniques likely. Organizations should reinforce security awareness training regarding email authentication warnings and multi-factor authentication implementation.",
-      "operational_impact": "Minimal direct operational disruption. Secondary impact possible if compromised accounts are used to manipulate shipping instructions, vendor communications, or personnel travel arrangements. Recommend verifying unusual email requests through secondary channels.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "01dada0cefa0d9df154e234ba72d31b7",
-    "timestamp": "2025-12-10T08:57:19.750698",
-    "original_title": "Minneapolis residents rally against US immigration agents as they target Somali community",
-    "link": "http://www.africanews.com/2025/12/10/minneapolis-residents-rally-against-us-immigration-agents-as-they-target-somali-community/",
-    "source_name": "Africa News",
-    "ai_analysis": {
-      "category": "Civil Unrest",
-      "risk_score": 6,
-      "location": "Minneapolis, Minnesota",
-      "latitude": 44.9778,
-      "longitude": -93.265,
-      "detailed_analysis": "Immigration enforcement operation triggered community protests resulting in physical confrontation. Use of pepper spray by agents indicates escalation beyond routine enforcement. Protesters successfully blocked law enforcement vehicles, demonstrating organized resistance. Event reflects heightened community tensions with federal authorities.",
-      "immediate_forecast_24h": "High probability of continued protests and potential counter-protests. Possible road blockades affecting logistics routes. Increased police presence likely. Potential for additional confrontations if enforcement operations continue.",
-      "strategic_outlook": "Sustained community unrest may develop if immigration enforcement continues targeting this demographic. Could inspire similar protests in other cities with large immigrant communities. Potential for escalation to wider civil disobedience affecting transportation and business operations.",
-      "operational_impact": "Ground transportation routes in Minneapolis area may experience disruptions. Personnel movement potentially affected by protests and police activity. Increased security vigilance recommended for assets in affected areas. Possible delays in cargo movements due to road blockades or diverted routes.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "e1ed4db6338fe2f0d6be9783c3150a19",
     "timestamp": "2025-12-10T09:49:28.301167",
     "original_title": "Chinese, Russian bombers conduct joint flight from East China Sea to Pacific | NHK WORLD-JAPAN News",
@@ -91,6 +53,82 @@
       "immediate_forecast_24h": "Increased military presence and surveillance operations. Possible retaliatory attacks against government/military targets. Enhanced security screening at ports and airports.",
       "strategic_outlook": "Sustained political instability likely. Potential for additional coup attempts or armed resistance. France may increase military footprint in region. Possible spillover effects to neighboring West African nations.",
       "operational_impact": "Heightened security required for personnel and assets in Benin. Aviation may face increased scrutiny and potential disruptions. Cargo shipments could experience delays due to enhanced security checks. Personnel movements should follow enhanced security protocols.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "8c6657117d1fce0c0ae3a8399008665d",
+    "timestamp": "2025-12-10T10:53:17.790038",
+    "original_title": "Russia reports drone attack over Moscow region as Zelenskyy prepares peace plan - ABC News",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYTdGWkFpTjlnZ1lyR2NPMGJhc2xjUnR0U3psbmp3WnE3d0wxNzEzN0pVRXJyRGJTalFRTXVDVnkwaWFPTm1oSWZkRkx6TTQ1WS1oaW9sM2hRYXNkb0hpZ09ydVhzLU5icGVyY0czaXVHYkRMaGV5UWpWdVhyaW9uR25fcEp5dEt6NGl4VWp6V196OHFoalc3TFVsUjV2OTh6Z3c2b0E2Wk1EclctYzFLOUJIUUNjT0HSAbwBQVVfeXFMUGU1bXlPcmZvdG9WOGcxb3Uxd09tYTFadFV6dXF2eXdja2xXdnY5bEZ1ejZiODNHM1R0S2xlUU9lMnRFNDdpUk4zMTQ4Z25OdkpvUXFQRjJkTlRmbFVRVjdLMEItYURYRi1QdGxuaUdtQXRsZXprTlRFQTZRLUFTWHRRbmRsYkhzWGNKSFVJUzBZbUthQUh1VHBjUFhHV0p0VWgyVlJLMEtXZkwxUXpFTktMRmhrRFBVTEFzVGc?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Moscow region",
+      "latitude": 55.7558,
+      "longitude": 37.6173,
+      "detailed_analysis": "Drone attack reported over Moscow region coincides with Zelenskyy's peace plan preparations, suggesting potential escalation of asymmetric warfare tactics. While specific aviation infrastructure not confirmed as target, drone activity in airspace poses direct threat to civilian and military aviation operations, potential for mid-air collisions or targeted strikes.",
+      "immediate_forecast_24h": "Heightened aviation security alerts likely increased drone detection measures, potential flight restrictions or temporary airspace closures around Moscow. Possible retaliatory actions or additional drone incursions.",
+      "strategic_outlook": "Escalation of drone warfare tactics against Russian urban centers likely to continue, potentially expanding to other transportation hubs. May lead to increased anti-drone system deployments and more aggressive air defense postures.",
+      "operational_impact": "Temporary flight disruptions possible, increased screening for cargo/personnel, enhanced monitoring of unauthorized aerial activity. Potential for cascading delays in regional air traffic if security measures intensified.",
+      "proximity_alert": "YAKIN TEHDİT: Vnukovo International Airport (27 km)"
+    }
+  },
+  {
+    "id": "4334d4f6d26ff19f6c0a95fcf3062a58",
+    "timestamp": "2025-12-10T10:53:28.219387",
+    "original_title": "Nine women shot dead during protest in Nigeria",
+    "link": "http://www.africanews.com/2025/12/10/nine-women-shot-dead-during-protest-in-nigeria/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 7,
+      "location": "Adamawa State, Nigeria",
+      "latitude": 9.3265,
+      "longitude": 12.3984,
+      "detailed_analysis": "Nigerian Army soldiers opened fire on protesters, killing nine women during demonstrations against military handling of communal clashes. This indicates severe breakdown in civil-military relations and potential for retaliatory violence. The incident demonstrates high volatility in the region with armed forces engaging civilians directly.",
+      "immediate_forecast_24h": "High probability of escalated protests, road blockades, and potential retaliatory attacks against military/assets. Possible disruption to ground transportation routes in Adamawa state. Increased military presence expected.",
+      "strategic_outlook": "Sustained civil unrest likely to continue in northeastern Nigeria. Potential for this incident to inspire similar protests in neighboring states. Long-term degradation of security environment for personnel and operations in the region.",
+      "operational_impact": "Ground movement in Adamawa state requires enhanced security escort. Personnel advised to avoid protest areas and military installations. Potential for supply chain disruptions due to road closures. Increased threat to all assets and personnel in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "b19fb5fc819f3bf9fd45096cad59977b",
+    "timestamp": "2025-12-10T10:53:39.356924",
+    "original_title": "West Africa in emergency, ECOWAS says",
+    "link": "http://www.africanews.com/2025/12/10/west-africa-in-emergency-ecowas-says/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 7,
+      "location": "West Africa",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "ECOWAS president's declaration of a regional state of emergency indicates significant political instability and potential for widespread civil unrest. While details are unclear, this suggests possible government crackdowns, protests, or security force mobilizations that could impact personnel safety, disrupt supply chains, and affect aviation operations through potential airport closures or airspace restrictions.",
+      "immediate_forecast_24h": "Increased security presence likely across member states. Potential for sudden border closures, flight cancellations, or cargo inspections. Personnel movements may face heightened scrutiny and delays.",
+      "strategic_outlook": "Regional instability may persist for weeks, potentially escalating into broader conflict. Could lead to increased migrant flows, cross-border security incidents, and disruption to regional trade routes. Aviation may face prolonged disruptions if airspace restrictions are implemented.",
+      "operational_impact": "All assets in West Africa should implement heightened security protocols. Cargo shipments may experience significant delays at borders and ports. Aviation operations should prepare for potential rerouting and increased security screening. Personnel should avoid non-essential travel to affected areas.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "c5b8dd1f32eedaffa66f0af7fa22062b",
+    "timestamp": "2025-12-10T10:53:47.817855",
+    "original_title": "Brazil's Bolsonaro could see his jail sentence reduced to 2 years",
+    "link": "https://www.france24.com/en/video/20251210-brazil-s-bolsonaro-could-see-his-jail-sentence-reduced-to-2-years",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 6,
+      "location": "Brasília",
+      "latitude": -15.7975,
+      "longitude": -47.8919,
+      "detailed_analysis": "The approval of a bill reducing former president Bolsonaro's prison sentence for coup plotting has triggered parliamentary chaos, indicating heightened political instability. While not directly targeting assets or cargo, such events can escalate into protests, disruptions to government operations, or civil disturbances that may indirectly affect personnel safety and logistics in the capital region.",
+      "immediate_forecast_24h": "Potential for spontaneous protests or gatherings in Brasília, increased police presence, and possible disruptions to transportation routes. Low probability of direct violence but elevated tension around government buildings.",
+      "strategic_outlook": "Continued political polarization may lead to recurring unrest, affecting stability and possibly influencing criminal or opportunistic activities. Monitoring for spillover into logistics or personnel security is advised.",
+      "operational_impact": "Increased vigilance for personnel in Brasília; potential delays in ground transport near parliamentary areas. No direct impact on aviation or cargo, but situational awareness recommended.",
       "proximity_alert": null
     }
   }
