@@ -1,62 +1,5 @@
 [
   {
-    "id": "e1ed4db6338fe2f0d6be9783c3150a19",
-    "timestamp": "2025-12-10T09:49:28.301167",
-    "original_title": "Chinese, Russian bombers conduct joint flight from East China Sea to Pacific | NHK WORLD-JAPAN News",
-    "link": "https://www.reddit.com/r/geopolitics/comments/1pixwes/chinese_russian_bombers_conduct_joint_flight_from/",
-    "source_name": "Reddit r/Geopolitics",
-    "ai_analysis": {
-      "category": "Aviation",
-      "risk_score": 7,
-      "location": "East China Sea",
-      "latitude": 28.5,
-      "longitude": 125.5,
-      "detailed_analysis": "A joint flight by Chinese and Russian bombers from the East China Sea into the broader Pacific region signals a show of force and tests regional air defenses. While the flight itself does not indicate an imminent attack, it increases the likelihood of interceptions, miscalculated interactions, and temporary disruptions to airspace management. Potential threats to aviation include near-term flight path deviations, reassessment of corridor security for commercial traffic, and heightened alert levels among regional air defense networks. Assets and personnel operating in or around East Asia—commercial lines in the vicinity, maritime security assets, and aircrew on patrol or training missions—could face additional scrutiny, safety margins, or restricted airspace if tensions rise.",
-      "immediate_forecast_24h": "Expect renewed air activity in the Western Pacific with possible additional bomber sorties or patrols and occasional intercepts. Regional airspace restrictions or advisories could tighten temporarily, and commercial flight planners should monitor notices to airmen and adjust routes if instructed.",
-      "strategic_outlook": "If such joint flights continue or expand, regional risk of miscalculation or unintended escalation may grow, leading to more frequent bilateral exercises and a tighter security posture around East Asia. Over the next few days to weeks, defense observers will watch for further public signaling, changes in flight corridors, and any shift in alliance activity that could affect logistics, supply chains, or risk exposure for aviation assets.",
-      "operational_impact": "SOC should increase real-time monitoring of air- and maritime activity in the East China Sea and Western Pacific, coordinate with national aviation authorities for any temporary flight restrictions, and issue timely advisories to air operators. Review and adjust route planning for cargo and passenger flights operating near the region, reinforce sensors and ISR coverage for early warning, and ensure incident response playbooks include rapid escalation for potential intercepts or airspace closures. Communicate with shipping and cargo partners about potential diversions or schedule changes and maintain readiness for search-and-rescue or crisis communication in case of escalation.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "ab157d4d0cbb0c464d86858e2709df8f",
-    "timestamp": "2025-12-10T09:49:43.145544",
-    "original_title": "Trump deportation push sparks clashes in Minneapolis",
-    "link": "http://www.africanews.com/2025/12/10/trump-deportation-push-sparks-clashes-in-minneapolis/",
-    "source_name": "Africa News",
-    "ai_analysis": {
-      "category": "Civil Unrest",
-      "risk_score": 6,
-      "location": "Minneapolis, Minnesota",
-      "latitude": 44.9778,
-      "longitude": -93.265,
-      "detailed_analysis": "Protest activity involving physical confrontation between immigration enforcement agents and local residents. Use of pepper spray indicates escalation beyond verbal protests. Vehicle blockades directly impact mobility of official vehicles. No direct threats to aviation, cargo, or critical infrastructure identified, but civil unrest creates secondary risks to personnel and operations.",
-      "immediate_forecast_24h": "High probability of continued protests and potential escalation. Possible road closures, increased police presence, and disruptions to normal transit routes. Secondary risk of opportunistic criminal activity during unrest.",
-      "strategic_outlook": "Potential for protest activity to spread to other cities with similar immigration enforcement operations. Long-term strain on local law enforcement resources possible. Could impact public perception of security operations in urban areas.",
-      "operational_impact": "Avoid non-essential travel to protest areas. Heightened awareness for personnel in Minneapolis. Possible delays in ground transportation and increased screening requirements for facility access. Monitor for spillover effects on airport operations if protests expand.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "a454c989ddd0e296af202422e3a3b41d",
-    "timestamp": "2025-12-10T09:49:54.738602",
-    "original_title": "France reveals role in Benin’s foiled coup",
-    "link": "http://www.africanews.com/2025/12/10/france-reveals-role-in-benins-foiled-coup/",
-    "source_name": "Africa News",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 7,
-      "location": "Benin",
-      "latitude": 9.3077,
-      "longitude": 2.3158,
-      "detailed_analysis": "Foreign military intervention in response to coup attempt indicates elevated political instability. French surveillance and logistical support suggests ongoing security cooperation against anti-government forces. Potential for retaliatory attacks against French/Beninese assets.",
-      "immediate_forecast_24h": "Increased military presence and surveillance operations. Possible retaliatory attacks against government/military targets. Enhanced security screening at ports and airports.",
-      "strategic_outlook": "Sustained political instability likely. Potential for additional coup attempts or armed resistance. France may increase military footprint in region. Possible spillover effects to neighboring West African nations.",
-      "operational_impact": "Heightened security required for personnel and assets in Benin. Aviation may face increased scrutiny and potential disruptions. Cargo shipments could experience delays due to enhanced security checks. Personnel movements should follow enhanced security protocols.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "8c6657117d1fce0c0ae3a8399008665d",
     "timestamp": "2025-12-10T10:53:17.790038",
     "original_title": "Russia reports drone attack over Moscow region as Zelenskyy prepares peace plan - ABC News",
@@ -129,6 +72,44 @@
       "immediate_forecast_24h": "Potential for spontaneous protests or gatherings in Brasília, increased police presence, and possible disruptions to transportation routes. Low probability of direct violence but elevated tension around government buildings.",
       "strategic_outlook": "Continued political polarization may lead to recurring unrest, affecting stability and possibly influencing criminal or opportunistic activities. Monitoring for spillover into logistics or personnel security is advised.",
       "operational_impact": "Increased vigilance for personnel in Brasília; potential delays in ground transport near parliamentary areas. No direct impact on aviation or cargo, but situational awareness recommended.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "ab3536f4cf11b63c51c8328e96fed9e0",
+    "timestamp": "2025-12-10T11:33:39.680299",
+    "original_title": "Separatist gains in Yemen raise fresh fears of civil war amid regional tensions",
+    "link": "https://www.france24.com/en/middle-east/20251210-separatist-gains-in-yemen-raise-fresh-fears-of-civil-war-amid-regional-tensions",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Southern Yemen",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Separatist seizure of oil-rich provinces indicates significant escalation in Yemen's civil war, directly threatening energy infrastructure and regional stability. Control of oil assets could fund further military operations and incentivize attacks on rival factions. Deepening anti-Houthi coalition fractures create volatile environment with potential for sudden flare-ups.",
+      "immediate_forecast_24h": "High probability of continued fighting around oil facilities, possible retaliatory strikes by government/Houthi forces. Increased militant movement may target supply routes and transportation infrastructure.",
+      "strategic_outlook": "Prolonged conflict likely to disrupt regional shipping lanes, create opportunities for piracy/weapons smuggling, and potentially draw in international actors. Oil production/export infrastructure at sustained risk of damage or weaponization.",
+      "operational_impact": "Avoid all non-essential movement through southern Yemen. Heighten security for personnel and assets in region. Expect possible port closures, route diversions, and increased inspection requirements for cargo shipments. Aviation operations face enhanced risks from potential surface-to-air threats near conflict zones.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "dbfebc0ae21f267879f960c34d827a11",
+    "timestamp": "2025-12-10T11:33:47.766126",
+    "original_title": "Qantas A380 Grounded After First Flight in 6 Years: Because a Part Of Its Wing Fell Off",
+    "link": "https://www.paddleyourownkanoo.com/2025/12/10/qantas-a380-grounded-after-first-flight-in-6-years-because-a-part-of-its-wing-fell-off/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 8,
+      "location": "Unknown (in-flight incident)",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Critical aviation safety incident involving structural failure of an Airbus A380 during commercial flight after extended storage. Part of wing detachment indicates potential maintenance oversight, material fatigue, or systemic issues with reactivation procedures for long-stored aircraft. Incident occurred on first revenue flight after 6-year storage and 100,000-hour maintenance check.",
+      "immediate_forecast_24h": "High probability of fleet-wide inspections for similarly stored A380s, potential temporary grounding of reactivated aircraft, increased regulatory oversight of maintenance facilities, and possible supply chain disruptions for replacement parts.",
+      "strategic_outlook": "Long-term implications for aircraft storage/reactivation protocols industry-wide. Potential impact on passenger confidence in reactivated aircraft. May trigger regulatory changes for extended-storage aircraft maintenance standards and inspection requirements.",
+      "operational_impact": "Immediate grounding of affected aircraft. Potential cascading flight cancellations if fleet inspections required. Increased scrutiny on maintenance providers. Possible temporary reduction in available wide-body capacity for affected routes.",
       "proximity_alert": null
     }
   }

@@ -1822,5 +1822,43 @@
       "operational_impact": "Increased vigilance for personnel in Brasília; potential delays in ground transport near parliamentary areas. No direct impact on aviation or cargo, but situational awareness recommended.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "ab3536f4cf11b63c51c8328e96fed9e0",
+    "timestamp": "2025-12-10T11:33:39.680299",
+    "original_title": "Separatist gains in Yemen raise fresh fears of civil war amid regional tensions",
+    "link": "https://www.france24.com/en/middle-east/20251210-separatist-gains-in-yemen-raise-fresh-fears-of-civil-war-amid-regional-tensions",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Southern Yemen",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Separatist seizure of oil-rich provinces indicates significant escalation in Yemen's civil war, directly threatening energy infrastructure and regional stability. Control of oil assets could fund further military operations and incentivize attacks on rival factions. Deepening anti-Houthi coalition fractures create volatile environment with potential for sudden flare-ups.",
+      "immediate_forecast_24h": "High probability of continued fighting around oil facilities, possible retaliatory strikes by government/Houthi forces. Increased militant movement may target supply routes and transportation infrastructure.",
+      "strategic_outlook": "Prolonged conflict likely to disrupt regional shipping lanes, create opportunities for piracy/weapons smuggling, and potentially draw in international actors. Oil production/export infrastructure at sustained risk of damage or weaponization.",
+      "operational_impact": "Avoid all non-essential movement through southern Yemen. Heighten security for personnel and assets in region. Expect possible port closures, route diversions, and increased inspection requirements for cargo shipments. Aviation operations face enhanced risks from potential surface-to-air threats near conflict zones.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "dbfebc0ae21f267879f960c34d827a11",
+    "timestamp": "2025-12-10T11:33:47.766126",
+    "original_title": "Qantas A380 Grounded After First Flight in 6 Years: Because a Part Of Its Wing Fell Off",
+    "link": "https://www.paddleyourownkanoo.com/2025/12/10/qantas-a380-grounded-after-first-flight-in-6-years-because-a-part-of-its-wing-fell-off/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 8,
+      "location": "Unknown (in-flight incident)",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Critical aviation safety incident involving structural failure of an Airbus A380 during commercial flight after extended storage. Part of wing detachment indicates potential maintenance oversight, material fatigue, or systemic issues with reactivation procedures for long-stored aircraft. Incident occurred on first revenue flight after 6-year storage and 100,000-hour maintenance check.",
+      "immediate_forecast_24h": "High probability of fleet-wide inspections for similarly stored A380s, potential temporary grounding of reactivated aircraft, increased regulatory oversight of maintenance facilities, and possible supply chain disruptions for replacement parts.",
+      "strategic_outlook": "Long-term implications for aircraft storage/reactivation protocols industry-wide. Potential impact on passenger confidence in reactivated aircraft. May trigger regulatory changes for extended-storage aircraft maintenance standards and inspection requirements.",
+      "operational_impact": "Immediate grounding of affected aircraft. Potential cascading flight cancellations if fleet inspections required. Increased scrutiny on maintenance providers. Possible temporary reduction in available wide-body capacity for affected routes.",
+      "proximity_alert": null
+    }
   }
 ]
