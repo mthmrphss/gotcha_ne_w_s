@@ -55,5 +55,62 @@
       "operational_impact": "Avoid all non-essential travel and operations near the border. Implement heightened security protocols for personnel and assets in the region. Monitor for potential supply chain delays or rerouting needs.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "d72a65ba9d036c8de5b4d273ffca28c2",
+    "timestamp": "2025-12-10T14:53:26.977750",
+    "original_title": "Nigeria: Abducted schoolchildren reunite with families as over 150 remain captive",
+    "link": "http://www.africanews.com/2025/12/10/nigeria-abducted-schoolchildren-reunite-with-families-as-over-150-remain-captive/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 8,
+      "location": "Kaduna State",
+      "latitude": 10.5105,
+      "longitude": 7.4165,
+      "detailed_analysis": "Mass abduction of 300 schoolchildren indicates organized terrorist/kidnapping group activity with significant operational capability. Release of 100 suggests possible ransom payment or negotiation, while 150+ remain captive. Pattern consistent with bandit/terrorist groups in northwest Nigeria targeting schools for financial/political leverage.",
+      "immediate_forecast_24h": "Heightened security operations expected in Kaduna region. Possible additional rescue attempts or negotiations. Potential for retaliatory attacks against security forces. Increased militant movement in rural areas.",
+      "strategic_outlook": "Sustained kidnapping risk for educational institutions, aid workers, and transportation routes in northwest Nigeria. Likely continuation of ransom-based kidnapping economy. Possible expansion of operations to neighboring states.",
+      "operational_impact": "Avoid non-essential travel to Kaduna and surrounding areas. Implement enhanced security protocols for personnel movements. Review convoy security measures. Monitor communication channels for ransom demands or threat escalation.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "06ab49d8e8b366264bb75172cf2352d6",
+    "timestamp": "2025-12-10T14:53:33.883666",
+    "original_title": "Ethiopia embraces big projects but risks another war by seeking access to the sea",
+    "link": "http://www.africanews.com/2025/12/10/ethiopia-embraces-big-projects-but-risks-another-war-by-seeking-access-to-the-sea/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Horn of Africa / Red Sea region",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Ethiopia's pursuit of sea access through potential military or political pressure creates regional instability risks. Previous tensions with Eritrea and Somalia over port access, combined with Ethiopia's major infrastructure ambitions (mega-dam, nuclear plant, large airport), increase likelihood of border disputes, economic coercion, or armed conflict. This could disrupt shipping lanes, supply chains, and regional security.",
+      "immediate_forecast_24h": "No immediate operational disruption expected, but heightened diplomatic tensions and military posturing possible in Red Sea corridor.",
+      "strategic_outlook": "Medium-to-long term risk of regional conflict escalation affecting maritime security, cargo routes, and energy infrastructure projects. Potential for proxy conflicts or economic warfare impacting port operations.",
+      "operational_impact": "Increased vigilance for supply chain disruptions, port access restrictions, and potential targeting of Ethiopian assets/interest abroad. Aviation may face heightened security requirements in region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "99fb700860a23567933c10e01a343d07",
+    "timestamp": "2025-12-10T14:53:47.530684",
+    "original_title": "'We must break the cycle of impunity for Russian troops': Ukrainian Nobel laureate O. Matviichuk",
+    "link": "https://www.france24.com/en/tv-shows/perspective/20251210-we-must-break-the-cycle-of-impunity-for-russian-troops-ukraine-s-center-for-civil-liberties",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Ukraine",
+      "latitude": 48.3794,
+      "longitude": 31.1656,
+      "detailed_analysis": "Statement by Nobel laureate O. Matviichuk highlights ongoing documentation of war crimes and advocacy against Russian military impunity. While not describing a specific kinetic event, this reflects sustained conflict dynamics that could indirectly affect personnel safety, supply chain security, and regional stability. The rhetoric suggests continued international pressure campaigns.",
+      "immediate_forecast_24h": "No direct operational impact expected within 24 hours. Increased diplomatic and media attention on war crime allegations may lead to heightened rhetoric from both sides.",
+      "strategic_outlook": "Sustained advocacy for accountability may lead to increased international sanctions pressure on Russia, potentially affecting global supply chains and regional security posture long-term. Possible escalation of hybrid threats including cyber operations or disinformation campaigns.",
+      "operational_impact": "No immediate physical threat to assets or personnel. Maintain awareness of potential for increased cyber targeting of organizations linked to human rights documentation. Cargo routes through region remain subject to existing conflict-related disruptions.",
+      "proximity_alert": null
+    }
   }
 ]
