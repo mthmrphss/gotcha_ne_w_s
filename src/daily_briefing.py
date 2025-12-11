@@ -51,7 +51,7 @@ def main():
     if len(events_text) > 9000:
         events_text = events_text[:9000] + "\n...(truncated)..."
 
-    # 3. YENİ PROMPT (SADE VE NET)
+    # 3. YENİ PROMPT
     client = Client()
     prompt = f"""
     ACT AS: Security Analyst.
@@ -86,18 +86,20 @@ def main():
         save_report(summary_text)
         print("Report generated successfully.")
         
-        # Havuzu temizle
-        with open(DAILY_COLLECTION_FILE, 'w', encoding='utf-8') as f:
-            json.dump([], f)
-        print("Daily collection cleared.")
-        
     except Exception as e:
         print(f"AI Generation Failed: {e}")
         save_report(f"⚠️ Report generation failed due to AI error: {str(e)}")
+    
+    finally:
+        # --- KRİTİK DÜZELTME BURASI ---
+        # Hata olsa da olmasa da bu blok ÇALIŞIR ve dosyayı boşaltır.
+        # Böylece yarın temiz bir sayfa açılır.
+        print("Cleaning up daily collection...")
+        with open(DAILY_COLLECTION_FILE, 'w', encoding='utf-8') as f:
+            json.dump([], f)
+        print("Daily collection cleared.")
 
 def save_report(text):
-    # Başlığı (Tarih + Daily Briefing) Power Automate'e bırakıyoruz,
-    # burada sadece içeriği ve tarih verisini yolluyoruz.
     report_data = {
         "date": datetime.now().strftime("%Y-%m-%d"),
         "summary_text": text
