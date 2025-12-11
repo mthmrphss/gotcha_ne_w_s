@@ -1,62 +1,5 @@
 [
   {
-    "id": "92978d1c36ee020e55ce10b7d3245efc",
-    "timestamp": "2025-12-11T13:55:56.640029",
-    "original_title": "Verified video shows Ukrainian sea drone attack set ship ablaze in Black Sea - BBC",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92cElabjlaUzlxTkJMOGVkcXg2ZWFFMHc0bzVnazJBQ2Q1YUFBRmw2YmNkTHpYd3Y2YTNMc29sbUdHS0ZQams0bHpQbHlEY21pbUpKSA?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 8,
-      "location": "Black Sea",
-      "latitude": 44.0,
-      "longitude": 35.0,
-      "detailed_analysis": "Verified Ukrainian sea drone attack targeting maritime vessel in Black Sea confirms active naval warfare tactics. Attack methodology demonstrates capability to strike commercial or military ships with precision. Incident reflects ongoing regional conflict escalation with direct impact on maritime security.",
-      "immediate_forecast_24h": "High probability of additional maritime drone attacks or retaliatory actions in Black Sea region. Increased naval patrols and potential shipping disruptions expected. Vessels advised to exercise extreme caution and implement enhanced surveillance measures.",
-      "strategic_outlook": "Persistent asymmetric naval warfare likely to continue, potentially expanding to wider Black Sea area. Commercial shipping insurance rates may increase significantly. Possible escalation to include port infrastructure targeting or expanded naval blockades.",
-      "operational_impact": "Immediate suspension of non-essential maritime operations in affected area recommended. Enhanced drone detection systems required for all vessels. Crew safety protocols must include anti-drone warfare measures. Alternative shipping routes may need activation.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "0789687b4abaab285ca549cf0743c612",
-    "timestamp": "2025-12-11T13:56:06.099761",
-    "original_title": "Syria, Rebuilding its Military, Relies on Loyalists and Religious Teaching",
-    "link": "https://www.nytimes.com/2025/12/11/world/middleeast/syria-government-religion.html",
-    "source_name": "NewYork Times",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 7,
-      "location": "Syria",
-      "latitude": 34.8021,
-      "longitude": 38.9968,
-      "detailed_analysis": "Syria's military restructuring with emphasis on loyalist forces and religious indoctrination indicates ongoing internal instability and potential for factional conflict. This approach may create ideological divisions within military ranks and increase tensions with opposition groups, potentially escalating to targeted attacks on government assets, personnel, and associated infrastructure including supply routes and military facilities.",
-      "immediate_forecast_24h": "Increased military patrols and security presence around government facilities; possible isolated clashes between loyalist forces and opposition elements; heightened alert for potential sabotage attempts on military supply chains.",
-      "strategic_outlook": "Prolonged military reorganization likely to create vulnerabilities in security apparatus; potential for increased insurgent targeting of newly formed units; possible spillover effects on cargo routes and aviation security near conflict zones.",
-      "operational_impact": "Elevated threat to personnel in government/military roles; possible disruptions to cargo movements in conflict-affected regions; increased vetting requirements for aviation security in Syrian airspace; enhanced monitoring of religiously-motivated insider threats.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "b8e86b5968d0f97fc162cf3f82fd49e8",
-    "timestamp": "2025-12-11T13:57:56.665386",
-    "original_title": "American Airlines In Talks With Amazon For Superfast In-Flight Wi-Fi… There’s Just One Major Snag",
-    "link": "https://www.paddleyourownkanoo.com/2025/12/11/american-airlines-in-talks-with-amazon-for-superfast-in-flight-wi-fi-theres-just-one-major-snag/",
-    "source_name": "Paddle Your Own Kanoo",
-    "ai_analysis": {
-      "category": "Cyber",
-      "risk_score": 10,
-      "location": "Dallas, Texas, USA",
-      "latitude": 32.7767,
-      "longitude": -96.797,
-      "detailed_analysis": "The report on American Airlines exploring Amazon Leo for superfast inflight Wi-Fi highlights a potential cyber risk surface: satellite-ground network integration, cabin network segmentation, and passenger data exposure via an onboard wifi ecosystem. Key assets at risk include aircraft communication systems, airline IT endpoints, and the integrity of the satellite link. A vendor-driven connectivity program introduces threat vectors such as supply chain compromise, misconfigurations, and potential attacker access through management portals or remote maintenance interfaces. The ‘one major snag’ unspecified could relate to authentication, encryption, or integration testing; until resolved, there is an elevated but not active risk across the fleet. Mitigations would involve strict vendor risk management, network segmentation between passenger, crew, and flight systems, robust encryption, anomaly detection, and regular security assessments of the integration points.",
-      "immediate_forecast_24h": "Expect clarifications from AA or Amazon Leo about the snag within 24 hours; likely a non-operational update rather than an immediate fleet deployment change; potential short-term delay in fleet-wide rollout; heightened due diligence on security configurations.",
-      "strategic_outlook": "Over the longer term, satellite-based inflight connectivity becomes a more prominent attack surface; airlines will increasingly require secure, auditable vendor security controls, secure software supply chain practices, and end-to-end monitoring of cabin networks; the deal could accelerate tighter cyber risk governance in aviation connectivity partnerships.",
-      "operational_impact": "Currently low to moderate; no immediate impact on flight operations, but future deployment introduces security requirements and ongoing risk management obligations; operators should prepare for security reviews, vendor audits, and integration testing to reduce exposure.",
-      "proximity_alert": "YAKIN TEHDİT: Dallas Fort Worth (3 km)"
-    }
-  },
-  {
     "id": "6aeccc408d9b431ae2b141acf9950519",
     "timestamp": "2025-12-11T14:46:26.764191",
     "original_title": "Bulgarian government resigns after mass anti-corruption protests | Bulgaria",
@@ -129,6 +72,63 @@
       "immediate_forecast_24h": "Increased scrutiny of ground operations at Stansted. Possible temporary operational delays as airport reviews safety protocols. No immediate indication of broader threat pattern.",
       "strategic_outlook": "Potential for regulatory review of ground handling procedures across UK airports. May lead to enhanced training requirements for ground crew and increased monitoring of aircraft movement areas.",
       "operational_impact": "Temporary disruption to Ryanair operations at Stansted during investigation. Possible increased security presence during ground operations. No impact to air traffic control systems or flight operations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "20ebfb53c2ad55e82b0c969200e365e3",
+    "timestamp": "2025-12-11T15:53:30.095906",
+    "original_title": "Ukraine war latest: Europe should prepare for war 'like our grandparents endured', NATO chief says | World News",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1pk0q58/ukraine_war_latest_europe_should_prepare_for_war/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Eastern Europe, Ukraine-Russia border region",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "NATO chief's statement indicates heightened readiness posture and preparation for potential escalation of the Ukraine conflict. The rhetoric suggests European nations are preparing for conventional warfare scenarios, which could impact regional stability. The mention of drone attacks in Moscow (referenced in the source link) demonstrates ongoing asymmetric warfare tactics that could spill into neighboring regions or affect international airspace.",
+      "immediate_forecast_24h": "Increased military readiness alerts across NATO member states, potential for heightened airspace monitoring and restrictions in Eastern Europe, possible disruptions to commercial aviation routes near conflict zones.",
+      "strategic_outlook": "Prolonged conflict likely to continue with potential for NATO-Russia direct confrontation. Increased military mobilization and defense spending across Europe. Potential for disruption to regional supply chains, energy infrastructure, and international transportation corridors.",
+      "operational_impact": "Elevated threat to personnel and assets in Eastern Europe. Aviation may face increased drone activity and potential airspace closures. Cargo shipments through the region may experience delays or rerouting. Critical infrastructure at heightened risk of targeting. Recommend increased security posture for assets in the region and contingency planning for evacuation scenarios.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "245f4852d8cc4fff69cac709f75f8c14",
+    "timestamp": "2025-12-11T15:53:44.117808",
+    "original_title": "Venezuela: US forces seize oil tanker",
+    "link": "https://www.france24.com/en/video/20251211-venezuela-us-forces-seize-oil-tanker",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Offshore Venezuela",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "US seizure of Venezuelan oil tanker represents a state-level escalation in maritime conflict, increasing risk of retaliatory actions against US assets in the region. Potential for naval confrontations, targeted harassment of commercial shipping, or asymmetric responses by Venezuelan forces or proxies.",
+      "immediate_forecast_24h": "Heightened maritime alert level recommended for Caribbean Sea and Gulf of Venezuela. Possible Venezuelan naval mobilization or increased patrol activity. Potential for retaliatory seizures or denials of passage.",
+      "strategic_outlook": "Sustained elevation of US-Venezuela tensions likely to persist, increasing regional instability. Possible expansion to cyber attacks, economic sabotage, or targeting of energy infrastructure. May influence other state actors' positioning in the region.",
+      "operational_impact": "Increased risk to all US-flagged/affiliated vessels near Venezuelan waters. Recommend rerouting critical shipments, enhancing maritime security protocols, and increasing intelligence monitoring of Venezuelan military and proxy movements.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "d03b199973a83aa08da9b5b0098d8f2f",
+    "timestamp": "2025-12-11T15:55:19.447585",
+    "original_title": "'Coalition of the Willing' moves to counter US shift on Ukraine",
+    "link": "https://www.france24.com/en/video/20251211-coalition-of-the-willing-moves-to-counter-us-shift-on-ukraine",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Ukraine",
+      "latitude": 48.3794,
+      "longitude": 31.1656,
+      "detailed_analysis": "Geopolitical tensions escalating as 'Coalition of the Willing' (UK, France, Germany) forms to counter US pressure on Ukraine to accept Russia-leaning peace terms. EU move to unlock €200B in frozen Russian assets indicates potential for economic warfare escalation. No direct threats to assets/cargo/aviation/personnel in immediate reporting, but conflict zone dynamics increasing.",
+      "immediate_forecast_24h": "Increased diplomatic activity; possible protests near government buildings in Kyiv/Western capitals. No immediate kinetic threats to transport/logistics infrastructure identified.",
+      "strategic_outlook": "Potential for: 1) Russian retaliation against European interests 2) Disruption to Black Sea shipping routes 3) Cyber attacks targeting coalition nations' critical infrastructure 4) Increased sabotage risk to aid convoys",
+      "operational_impact": "Monitor: 1) Airspace restrictions over Ukraine 2) Maritime advisories in Black Sea 3) Diplomatic facility security in coalition capitals 4) Cyber threats to logistics/supply chain networks",
       "proximity_alert": null
     }
   }
