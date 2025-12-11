@@ -12,8 +12,7 @@ def main():
     
     if not os.path.exists(DAILY_COLLECTION_FILE):
         print("No daily collection file found.")
-        # Boş bir rapor oluştur ki Power Automate hata vermesin
-        save_report("Bugün raporlanacak kritik bir olay tespit edilmedi.")
+        save_report("No critical security events detected today.")
         return
 
     with open(DAILY_COLLECTION_FILE, 'r', encoding='utf-8') as f:
@@ -21,34 +20,56 @@ def main():
 
     if not events:
         print("Daily collection is empty.")
-        save_report("Bugün raporlanacak kritik bir olay tespit edilmedi.")
+        save_report("No critical security events detected today.")
         return
 
-    print(f"Found {len(events)} events to summarize.")
+    print(f"Found {len(events)} total events.")
 
-    # AI İçin Özet Metni Hazırla
+    # 1. ÖNCELİKLENDİRME (Sıralama ve Filtreleme)
+    try:
+        # Risk skoruna göre çoktan aza sırala
+        events.sort(key=lambda x: x['ai_analysis']['risk_score'], reverse=True)
+    except: pass
+
+    # İlk 20 olayı al (Token limitini aşmamak için)
+    top_events = events[:20]
+    
+    # 2. AI İÇİN METİN HAZIRLIĞI
     events_text = ""
-    for i, event in enumerate(events, 1):
-        events_text += f"{i}. [{event['ai_analysis']['category']}] {event['original_title']} (Risk: {event['ai_analysis']['risk_score']})\n"
-        events_text += f"   - Location: {event['ai_analysis']['location']}\n"
-        events_text += f"   - Details: {event['ai_analysis']['detailed_analysis']}\n\n"
+    for i, event in enumerate(top_events, 1):
+        title = event['original_title']
+        risk = event['ai_analysis']['risk_score']
+        category = event['ai_analysis']['category']
+        location = event['ai_analysis']['location']
+        details = event['ai_analysis']['detailed_analysis']
+        
+        entry = f"{i}. [{category} - Risk: {risk}/10] {title}\n"
+        entry += f"   Loc: {location} | Note: {details}\n\n"
+        events_text += entry
 
-    # AI Analizi
+    # Karakter limiti koruması
+    if len(events_text) > 9000:
+        events_text = events_text[:9000] + "\n...(truncated)..."
+
+    # 3. YENİ PROMPT (SADE VE NET)
     client = Client()
     prompt = f"""
-    ACT AS: Chief Security Officer (CSO).
-    TASK: Write a "Daily Security Executive Briefing" based on the events below.
-    
-    EVENTS OF THE DAY:
+    ACT AS: Security Analyst.
+    TASK: Summarize these high-risk security events.
+
+    DATA:
     {events_text}
 
-    INSTRUCTIONS:
-    1. Write in clear, professional English.
-    2. Format using clear headers (e.g., "EXECUTIVE SUMMARY", "KEY INCIDENTS", "AVIATION IMPACT", "OUTLOOK").
-    3. Do not list every single event. Group them by region or threat type.
-    4. Highlight high-risk threats affecting aviation or corporate assets.
-    5. Keep it concise but detailed enough for a C-level executive.
-    6. Use emoji icons for headers (e.g., , ✈️, ).
+    STRICT OUTPUT RULES:
+    1. DO NOT include a "Subject", "To:", "From:", or "Date" line at the top.
+    2. DO NOT write "Executive Briefing" or "Leadership Report".
+    3. START DIRECTLY with the first section header.
+    4. Use these emoji headers exactly:
+       -  EXECUTIVE SUMMARY
+       -  KEY INCIDENTS (Group by region if possible)
+       - ✈️ AVIATION & OPERATIONS IMPACT
+       -  OUTLOOK
+    5. Be concise and professional.
     """
 
     try:
@@ -59,20 +80,24 @@ def main():
         )
         summary_text = response.choices[0].message.content
         
-        # Raporu Kaydet
+        # Olası Markdown hatalarını temizle
+        summary_text = summary_text.replace("```markdown", "").replace("```", "").strip()
+        
         save_report(summary_text)
         print("Report generated successfully.")
         
-        # ÖNEMLİ: Günlük havuzu temizle (Yarına hazırlık)
+        # Havuzu temizle
         with open(DAILY_COLLECTION_FILE, 'w', encoding='utf-8') as f:
             json.dump([], f)
         print("Daily collection cleared.")
         
     except Exception as e:
         print(f"AI Generation Failed: {e}")
+        save_report(f"⚠️ Report generation failed due to AI error: {str(e)}")
 
 def save_report(text):
-    # Power Automate'in okuyacağı format
+    # Başlığı (Tarih + Daily Briefing) Power Automate'e bırakıyoruz,
+    # burada sadece içeriği ve tarih verisini yolluyoruz.
     report_data = {
         "date": datetime.now().strftime("%Y-%m-%d"),
         "summary_text": text
