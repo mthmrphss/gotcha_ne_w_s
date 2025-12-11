@@ -36,5 +36,81 @@
       "operational_impact": "None. This is a policy announcement without current enforcement. No changes to security postures required for asset protection, cargo operations, or personnel movements.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "3da805b48539ea9d14b55670adc76792",
+    "timestamp": "2025-12-11T11:35:17.908959",
+    "original_title": "Syria, Rebuilding its Military, Relies on Loyalists and Religious Teaching - The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOME1lOWtjNFduTTdULW5MV0E3MEI5Rm5qaFY1T2Z1dU5qYzhVQzVndTNMT1BwQ241NWdiLTl3YmZFalZ0VzdzQ3ZUTVcwb293QXVrdGlYcWkwNHJBWUM2ZUpnaDNhQVlLcXFXSUhhX090YlpYT01SMEFOVnVCQV9NYTB6OXhxMXUyTjY4dEQxVTctazN5aDB3V3htMWlxWktsY01ubVE1Ni13Vm52aXRiclVFUGlWdFIxSDFzZXpJVVBPWjhveW0xcQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 6,
+      "location": "Syria",
+      "latitude": 34.8021,
+      "longitude": 38.9968,
+      "detailed_analysis": "Article discusses Syria's military rebuilding efforts through loyalist forces and religious indoctrination, indicating ongoing internal conflict dynamics and potential for increased militant activity. While not directly targeting assets/cargo/aviation, the militarization and ideological reinforcement could lead to heightened regional instability affecting transport routes and personnel security.",
+      "immediate_forecast_24h": "Low probability of direct impact on assets/cargo/aviation in next 24 hours, but increased military movements and ideological mobilization may create indirect security pressures.",
+      "strategic_outlook": "Medium-term risk of intensified conflict potentially disrupting supply chains, increasing hijacking/theft risks on transport routes, and creating aviation security concerns from potential anti-air capabilities or asymmetric threats.",
+      "operational_impact": "Recommend heightened situational awareness for operations in/near Syria; monitor for increased checkpoint activity, route disruptions, and potential targeting of foreign-associated logistics. No immediate changes to protocols but maintain enhanced vigilance.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "570c70953b01e3fea38472990e6daeb8",
+    "timestamp": "2025-12-11T11:36:08.621476",
+    "original_title": "Ukraine Hits Russian Oil Platform in the Caspian—A First-Ever Strike on Moscow’s Offshore Energy Empire",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pjv0d0/ukraine_hits_russian_oil_platform_in_the_caspiana/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 9,
+      "location": "Caspian Sea, Russia",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Ukrainian strike on Russian offshore energy infrastructure in the Caspian Sea, marking a significant escalation in targeting Russia's energy sector. This is a direct military action in a previously uncontested maritime region, indicating expanded operational reach and potential shift in tactical capabilities.",
+      "immediate_forecast_24h": "High probability of Russian retaliatory strikes against Ukrainian energy or critical infrastructure. Increased maritime and aerial patrols in Caspian region. Possible disruptions to regional shipping lanes and energy logistics.",
+      "strategic_outlook": "Potential for sustained targeting of offshore energy assets, possibly expanding to other Russian maritime economic zones. May trigger increased Russian naval deployments and anti-access/area denial measures in Caspian and Black Sea regions.",
+      "operational_impact": "Immediate elevation of maritime threat level for all vessels in Caspian Sea. Energy sector assets at heightened risk. Possible supply chain disruptions for oil/gas shipments. Increased vigilance required for all offshore operations in region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "ed0f8177a5b58cea7dccfa35cf699e38",
+    "timestamp": "2025-12-11T11:36:18.870747",
+    "original_title": "Europe struggles to fill gap in Ukraine military aid",
+    "link": "https://www.france24.com/en/video/20251211-europe-struggles-to-fill-gap-in-ukraine-military-aid",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 4,
+      "location": "Ukraine",
+      "latitude": 48.3794,
+      "longitude": 31.1656,
+      "detailed_analysis": "Reduced military aid from key European nations and the US aid halt may degrade Ukraine's defensive capabilities, increasing vulnerability to Russian advances. The political friction over using frozen Russian assets adds uncertainty to future support.",
+      "immediate_forecast_24h": "No direct operational impact expected within 24 hours, but morale and supply chain strain may affect Ukrainian forces.",
+      "strategic_outlook": "Prolonged aid shortfalls could lead to territorial losses or escalated conflict intensity if Russia capitalizes on weakened defenses.",
+      "operational_impact": "Potential increased demand for intelligence, surveillance, and emergency logistics support in conflict zones; heightened alert for personnel and asset security in Ukraine.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "856aa081b6c5eb62455539ceb304cde2",
+    "timestamp": "2025-12-11T11:36:26.161412",
+    "original_title": "Myanmar junta air strike on hospital kills dozens",
+    "link": "https://www.france24.com/en/video/20251211-myanmar-junta-air-strike-on-hospital-kills-dozens",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 9,
+      "location": "Mrauk-U, Rakhine State",
+      "latitude": 20.6,
+      "longitude": 93.2,
+      "detailed_analysis": "Military airstrike on civilian hospital indicates deliberate targeting of non-combatant infrastructure. High casualty count (30+) suggests significant escalation in conflict intensity. Event occurs in context of pre-election military offensives against rebel groups who control territory. Hospital attacks violate international humanitarian law and represent severe degradation of conflict norms.",
+      "immediate_forecast_24h": "High probability of retaliatory attacks by rebel groups against military/logistics targets. Possible road blockades, ambushes on military convoys, and attacks on government facilities. Aviation operations in region face elevated risk of ground fire or MANPADS threats.",
+      "strategic_outlook": "Conflict likely to intensify through election period. Junta will continue aerial bombardment campaigns against rebel-held areas. Rebel groups will escalate asymmetric warfare tactics. Regional instability may spread to neighboring areas. Humanitarian operations severely compromised.",
+      "operational_impact": "All personnel movements in Rakhine State require extreme caution. Aviation operations face direct threat from both ground fire and potential airspace violations. Road convoys vulnerable to ambushes and IEDs. Medical evacuations and supply chains disrupted. Essential to avoid all non-essential movement in conflict zones.",
+      "proximity_alert": null
+    }
   }
 ]
