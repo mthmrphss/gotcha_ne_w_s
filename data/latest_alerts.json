@@ -112,5 +112,24 @@
       "operational_impact": "Recommend rerouting high-value cargo/aviation away from the region; enhance drone detection protocols for all transport assets; monitor for chemical plume dispersion affecting air/ground operations.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "2d6aa74e243f90eeada86a3463c0f8c1",
+    "timestamp": "2025-12-11T07:39:39.960240",
+    "original_title": "Trump ramps up hard-line rhetoric against immigrants from 'sh*thole' countries",
+    "link": "https://www.france24.com/en/americas/20251211-trump-ramps-up-hard-line-rhetoric-against-immigrants-from-sh-thole-countries",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Border/Migration",
+      "risk_score": 5,
+      "location": "Pennsylvania, United States",
+      "latitude": 40.0,
+      "longitude": -77.0,
+      "detailed_analysis": "Political rhetoric targeting immigrants may increase tensions at border crossings and transportation hubs. Potential for heightened vigilance by immigration enforcement could disrupt cargo processing times. No direct threat to aviation or cargo security identified, but increased migrant activity may lead to attempted stowaway incidents or border breaches affecting transport routes.",
+      "immediate_forecast_24h": "Possible protests at immigration facilities or transportation centers. Slight delay risks for cargo processing at border checkpoints due to potential increased enforcement scrutiny.",
+      "strategic_outlook": "Sustained anti-immigrant rhetoric may lead to increased migrant attempts to bypass official ports of entry, potentially affecting rail and trucking routes. Aviation remains unaffected unless protests escalate to airport disruptions.",
+      "operational_impact": "Monitor border crossing points for unusual activity. Coordinate with customs and border protection for potential processing delays. No change to aviation security posture required at this time.",
+      "proximity_alert": null
+    }
   }
 ]
