@@ -321,5 +321,43 @@
       "operational_impact": "Monitor: 1) Airspace restrictions over Ukraine 2) Maritime advisories in Black Sea 3) Diplomatic facility security in coalition capitals 4) Cyber threats to logistics/supply chain networks",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "9635ed6012534bd47c6ac69481252457",
+    "timestamp": "2025-12-11T17:03:30.562586",
+    "original_title": "Border violence intensifies as civilians flee Thai-Cambodian clashes",
+    "link": "https://www.france24.com/en/video/20251211-border-violence-intensifies-as-civilians-flee-thai-cambodian-clashes",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Thai-Cambodian border region",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Intensified military clashes between Thai and Cambodian forces along the border, resulting in civilian casualties and mass displacement. The October ceasefire has broken down with both sides accusing each other of reigniting hostilities. This represents an active armed conflict zone with direct threats to personnel and assets in the region.",
+      "immediate_forecast_24h": "High probability of continued artillery exchanges and ground combat. Border crossings likely to remain unstable or closed. Increased risk of collateral damage to infrastructure and accidental targeting of civilian transport.",
+      "strategic_outlook": "Conflict likely to persist given breakdown of ceasefire and mutual accusations. Potential for escalation involving additional military assets. Humanitarian crisis may worsen with continued civilian displacement. Regional stability concerns increasing.",
+      "operational_impact": "All personnel and assets in border region at immediate risk. Ground transport routes compromised. Aviation operations near border face potential threat from stray artillery or small arms fire. Cargo movements through border crossings severely disrupted. Evacuation of non-essential personnel recommended.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "09a7b8de2b302633aaa0f0804d32a789",
+    "timestamp": "2025-12-11T17:03:39.191157",
+    "original_title": "British Airways Passengers Stuck on a 9-Hour ‘Flight to Nowhere’ After A Critical Cockpit Instrument Failed Mid-Air",
+    "link": "https://www.paddleyourownkanoo.com/2025/12/11/british-airways-passengers-stuck-on-a-9-hour-flight-to-nowhere-after-a-critical-cockpit-instrument-failed-mid-air/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "London Heathrow Airport",
+      "latitude": 51.47,
+      "longitude": -0.4543,
+      "detailed_analysis": "Critical cockpit instrument failure on British Airways Boeing 787 Dreamliner resulted in 9-hour flight diversion back to origin. Incident involved 216 passengers, indicating potential systemic maintenance or technical vulnerability in aircraft systems. No injuries reported, but operational disruption significant.",
+      "immediate_forecast_24h": "Increased scrutiny on British Airways fleet maintenance procedures. Potential for additional flight delays/cancellations if similar technical issues are identified during inspections. Regulatory authorities may request incident reports.",
+      "strategic_outlook": "Potential pattern of technical failures could impact airline reputation and operational reliability. May trigger broader aviation safety reviews of Boeing 787 systems. Increased regulatory oversight possible if similar incidents occur.",
+      "operational_impact": "Temporary grounding of affected aircraft for inspection. Potential cascading delays across BA network. Increased maintenance checks on similar aircraft models. Passenger confidence may be temporarily affected.",
+      "proximity_alert": "YAKIN TEHDİT: Heathrow Airport (0 km)"
+    }
   }
 ]
