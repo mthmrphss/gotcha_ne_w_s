@@ -131,5 +131,62 @@
       "operational_impact": "All personnel movements in Rakhine State require extreme caution. Aviation operations face direct threat from both ground fire and potential airspace violations. Road convoys vulnerable to ambushes and IEDs. Medical evacuations and supply chains disrupted. Essential to avoid all non-essential movement in conflict zones.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "92978d1c36ee020e55ce10b7d3245efc",
+    "timestamp": "2025-12-11T13:55:56.640029",
+    "original_title": "Verified video shows Ukrainian sea drone attack set ship ablaze in Black Sea - BBC",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92cElabjlaUzlxTkJMOGVkcXg2ZWFFMHc0bzVnazJBQ2Q1YUFBRmw2YmNkTHpYd3Y2YTNMc29sbUdHS0ZQams0bHpQbHlEY21pbUpKSA?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Black Sea",
+      "latitude": 44.0,
+      "longitude": 35.0,
+      "detailed_analysis": "Verified Ukrainian sea drone attack targeting maritime vessel in Black Sea confirms active naval warfare tactics. Attack methodology demonstrates capability to strike commercial or military ships with precision. Incident reflects ongoing regional conflict escalation with direct impact on maritime security.",
+      "immediate_forecast_24h": "High probability of additional maritime drone attacks or retaliatory actions in Black Sea region. Increased naval patrols and potential shipping disruptions expected. Vessels advised to exercise extreme caution and implement enhanced surveillance measures.",
+      "strategic_outlook": "Persistent asymmetric naval warfare likely to continue, potentially expanding to wider Black Sea area. Commercial shipping insurance rates may increase significantly. Possible escalation to include port infrastructure targeting or expanded naval blockades.",
+      "operational_impact": "Immediate suspension of non-essential maritime operations in affected area recommended. Enhanced drone detection systems required for all vessels. Crew safety protocols must include anti-drone warfare measures. Alternative shipping routes may need activation.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "0789687b4abaab285ca549cf0743c612",
+    "timestamp": "2025-12-11T13:56:06.099761",
+    "original_title": "Syria, Rebuilding its Military, Relies on Loyalists and Religious Teaching",
+    "link": "https://www.nytimes.com/2025/12/11/world/middleeast/syria-government-religion.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Syria",
+      "latitude": 34.8021,
+      "longitude": 38.9968,
+      "detailed_analysis": "Syria's military restructuring with emphasis on loyalist forces and religious indoctrination indicates ongoing internal instability and potential for factional conflict. This approach may create ideological divisions within military ranks and increase tensions with opposition groups, potentially escalating to targeted attacks on government assets, personnel, and associated infrastructure including supply routes and military facilities.",
+      "immediate_forecast_24h": "Increased military patrols and security presence around government facilities; possible isolated clashes between loyalist forces and opposition elements; heightened alert for potential sabotage attempts on military supply chains.",
+      "strategic_outlook": "Prolonged military reorganization likely to create vulnerabilities in security apparatus; potential for increased insurgent targeting of newly formed units; possible spillover effects on cargo routes and aviation security near conflict zones.",
+      "operational_impact": "Elevated threat to personnel in government/military roles; possible disruptions to cargo movements in conflict-affected regions; increased vetting requirements for aviation security in Syrian airspace; enhanced monitoring of religiously-motivated insider threats.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "b8e86b5968d0f97fc162cf3f82fd49e8",
+    "timestamp": "2025-12-11T13:57:56.665386",
+    "original_title": "American Airlines In Talks With Amazon For Superfast In-Flight Wi-Fi… There’s Just One Major Snag",
+    "link": "https://www.paddleyourownkanoo.com/2025/12/11/american-airlines-in-talks-with-amazon-for-superfast-in-flight-wi-fi-theres-just-one-major-snag/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 10,
+      "location": "Dallas, Texas, USA",
+      "latitude": 32.7767,
+      "longitude": -96.797,
+      "detailed_analysis": "The report on American Airlines exploring Amazon Leo for superfast inflight Wi-Fi highlights a potential cyber risk surface: satellite-ground network integration, cabin network segmentation, and passenger data exposure via an onboard wifi ecosystem. Key assets at risk include aircraft communication systems, airline IT endpoints, and the integrity of the satellite link. A vendor-driven connectivity program introduces threat vectors such as supply chain compromise, misconfigurations, and potential attacker access through management portals or remote maintenance interfaces. The ‘one major snag’ unspecified could relate to authentication, encryption, or integration testing; until resolved, there is an elevated but not active risk across the fleet. Mitigations would involve strict vendor risk management, network segmentation between passenger, crew, and flight systems, robust encryption, anomaly detection, and regular security assessments of the integration points.",
+      "immediate_forecast_24h": "Expect clarifications from AA or Amazon Leo about the snag within 24 hours; likely a non-operational update rather than an immediate fleet deployment change; potential short-term delay in fleet-wide rollout; heightened due diligence on security configurations.",
+      "strategic_outlook": "Over the longer term, satellite-based inflight connectivity becomes a more prominent attack surface; airlines will increasingly require secure, auditable vendor security controls, secure software supply chain practices, and end-to-end monitoring of cabin networks; the deal could accelerate tighter cyber risk governance in aviation connectivity partnerships.",
+      "operational_impact": "Currently low to moderate; no immediate impact on flight operations, but future deployment introduces security requirements and ongoing risk management obligations; operators should prepare for security reviews, vendor audits, and integration testing to reduce exposure.",
+      "proximity_alert": "YAKIN TEHDİT: Dallas Fort Worth (3 km)"
+    }
   }
 ]
