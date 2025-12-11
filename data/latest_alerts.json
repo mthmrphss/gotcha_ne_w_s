@@ -55,5 +55,81 @@
       "operational_impact": "Currently low to moderate; no immediate impact on flight operations, but future deployment introduces security requirements and ongoing risk management obligations; operators should prepare for security reviews, vendor audits, and integration testing to reduce exposure.",
       "proximity_alert": "YAKIN TEHDİT: Dallas Fort Worth (3 km)"
     }
+  },
+  {
+    "id": "6aeccc408d9b431ae2b141acf9950519",
+    "timestamp": "2025-12-11T14:46:26.764191",
+    "original_title": "Bulgarian government resigns after mass anti-corruption protests | Bulgaria",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pjz60w/bulgarian_government_resigns_after_mass/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Sofia, Bulgaria",
+      "latitude": 42.6979,
+      "longitude": 23.3217,
+      "detailed_analysis": "Mass anti-corruption protests have led to the resignation of the Bulgarian government. While this indicates significant civil unrest, there is no direct mention of threats to assets, cargo, aviation, or personnel in the provided context. The event is political in nature, with protests being the primary driver of instability.",
+      "immediate_forecast_24h": "Potential for continued protests or demonstrations in Sofia and other major cities. Increased police and security presence likely. Low probability of direct impact on logistics or aviation unless protests escalate or spread to key infrastructure areas.",
+      "strategic_outlook": "Political instability may lead to short-term disruptions in government services and regulatory processes. If protests intensify, there could be secondary effects on transportation routes or supply chains, but no immediate indication of targeted threats to cargo or aviation assets.",
+      "operational_impact": "Minimal direct operational impact expected. Monitor for any escalation that could affect logistics hubs, airports, or border crossings. No changes to current security protocols recommended unless situation deteriorates.",
+      "proximity_alert": "YAKIN TEHDİT: Sofia Airport (7 km)"
+    }
+  },
+  {
+    "id": "a0168e035167b754916e4589ae2007f9",
+    "timestamp": "2025-12-11T14:46:42.466125",
+    "original_title": "Russian oil rig in Caspian Sea halts production after Ukrainian drone strike, SBU source says",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pjyjvi/russian_oil_rig_in_caspian_sea_halts_production/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Caspian Sea",
+      "latitude": 42.0,
+      "longitude": 50.0,
+      "detailed_analysis": "Ukrainian drone strike targeting Russian oil infrastructure in Caspian Sea represents significant escalation of conflict tactics. Attack demonstrates capability to project force at considerable distance from Ukrainian territory, potentially disrupting energy exports and challenging Russian maritime security. SBU (Security Service of Ukraine) claim suggests coordinated operation rather than isolated incident.",
+      "immediate_forecast_24h": "High probability of increased maritime patrols and air defense readiness around Russian energy infrastructure. Possible retaliatory strikes or heightened alert status across Black Sea and Caspian regions. Additional drone or missile attacks against energy targets cannot be ruled out.",
+      "strategic_outlook": "Conflict likely to expand to include offshore energy infrastructure as legitimate targets. May lead to: 1) Hardening of Russian maritime energy assets, 2) Increased naval presence in Caspian/Black Seas, 3) Potential escalation to targeting shipping or port facilities, 4) Possible counter-targeting of Ukrainian energy infrastructure.",
+      "operational_impact": "Immediate suspension of operations at affected oil rig. Recommend: 1) Review security protocols for all maritime energy assets in region, 2) Enhance drone detection capabilities, 3) Consider rerouting or delaying sensitive cargo shipments through Caspian/Black Sea routes, 4) Increase monitoring of Ukrainian drone capabilities and ranges.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "d7f9f455a1dadffc0a1743db6fe8860f",
+    "timestamp": "2025-12-11T14:46:50.947272",
+    "original_title": "US seizes sanctioned oil tanker off coast of Venezuela, Trump says",
+    "link": "https://www.france24.com/en/video/20251211-us-seizes-sanctioned-oil-tanker-off-coast-of-venezuela-trump-says",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Venezuelan coast",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "US seizure of sanctioned oil tanker represents direct state-level maritime interdiction operation. This escalates US-Venezuela tensions significantly and increases risk of retaliatory actions against US assets in the region. Potential for naval confrontations or asymmetric responses.",
+      "immediate_forecast_24h": "Heightened maritime security alert level recommended for Caribbean Sea and Gulf of Mexico. Possible Venezuelan naval mobilization or coast guard activity. Risk of retaliatory seizures or harassment of US-flagged vessels.",
+      "strategic_outlook": "Sustained elevated tensions likely. Potential for expanded sanctions enforcement operations. May trigger increased Russian or Chinese military support to Venezuela. Could lead to prolonged regional instability affecting shipping lanes.",
+      "operational_impact": "Increased risk to all US maritime assets in Caribbean. Recommend enhanced ISR coverage of Venezuelan naval bases. Temporary suspension of non-essential maritime operations in eastern Caribbean advised. Heightened force protection measures for personnel in region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "0efa902bb7a0d3627cc8044730481cd3",
+    "timestamp": "2025-12-11T14:47:04.760707",
+    "original_title": "Ryanair plane crashes into Stansted fence as tug driver talks to colleague",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/ryanair-plane-crash-stansted-airport-b2882629.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 7,
+      "location": "Stansted, UK",
+      "latitude": 51.885,
+      "longitude": 0.235,
+      "detailed_analysis": "Ryanair aircraft collision with perimeter fence during ground operations indicates potential ground handling safety failure. Human factor (tug driver distraction) appears to be primary cause. Incident occurred with 190 passengers onboard, creating potential for injury or evacuation scenario. Requires investigation into ground procedures and crew training.",
+      "immediate_forecast_24h": "Increased scrutiny of ground operations at Stansted. Possible temporary operational delays as airport reviews safety protocols. No immediate indication of broader threat pattern.",
+      "strategic_outlook": "Potential for regulatory review of ground handling procedures across UK airports. May lead to enhanced training requirements for ground crew and increased monitoring of aircraft movement areas.",
+      "operational_impact": "Temporary disruption to Ryanair operations at Stansted during investigation. Possible increased security presence during ground operations. No impact to air traffic control systems or flight operations.",
+      "proximity_alert": null
+    }
   }
 ]
