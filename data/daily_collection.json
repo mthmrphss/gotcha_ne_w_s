@@ -2259,5 +2259,24 @@
       "operational_impact": "Recommend heightened alert status for vessels/aircraft transiting near Venezuela. Implement additional security protocols for personnel in region. Consider rerouting critical shipments away from potential conflict zones. Monitor for cyber retaliation targeting logistics or transportation infrastructure.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "f94ef4de4882d3bfd88de72696fe845e",
+    "timestamp": "2025-12-11T05:00:07.694802",
+    "original_title": "Hamas signals openness to weapons 'freeze' but rejects full disarmament",
+    "link": "https://www.france24.com/en/middle-east/20251211-hamas-signals-openness-to-weapons-freeze-but-rejects-full-disarmament",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Gaza Strip",
+      "latitude": 31.5,
+      "longitude": 34.4667,
+      "detailed_analysis": "Hamas' conditional openness to a weapons freeze while rejecting full disarmament indicates continued volatility in the region. The group maintains operational weapons capability while engaging in tactical negotiations, suggesting potential for renewed hostilities if diplomatic efforts fail. This creates persistent risk to personnel and assets in the area.",
+      "immediate_forecast_24h": "Heightened alert status recommended due to potential for rapid escalation. Possible rocket attacks or targeted operations if negotiations break down unexpectedly.",
+      "strategic_outlook": "Prolonged low-intensity conflict likely with periodic escalations. Hamas will maintain asymmetric warfare capability regardless of temporary freezes, requiring sustained security posture for regional assets.",
+      "operational_impact": "Increased security protocols for personnel movements and asset protection in Gaza and surrounding areas. Enhanced monitoring of supply chains and transportation routes for potential weapon smuggling or intercept operations.",
+      "proximity_alert": null
+    }
   }
 ]
