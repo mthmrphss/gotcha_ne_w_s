@@ -74,5 +74,43 @@
       "operational_impact": "Ground transport routes through border area severely disrupted. Potential for collateral damage to infrastructure. Personnel in border regions at immediate risk. Aviation may face temporary restrictions in border airspace. Cargo shipments through affected border crossings suspended.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "babeb6001ff35c8a67f37e09908d5ee2",
+    "timestamp": "2025-12-11T07:31:12.279997",
+    "original_title": "US bombers join Japanese jets in show of force after China-Russia drills, Tokyo says",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1pjrdy5/us_bombers_join_japanese_jets_in_show_of_force/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 4,
+      "location": "East Asia / Japan",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "US nuclear-capable bombers conducted joint exercises with Japanese fighter jets in response to recent China-Russia military drills. This represents a show of force and deterrence posture rather than active hostilities. No direct threats to assets, cargo, or personnel were reported, but the escalation in military posturing increases regional tensions.",
+      "immediate_forecast_24h": "Low probability of direct conflict escalation. Possible increased aerial surveillance and additional military movements in the region. No immediate threat to commercial aviation or maritime routes.",
+      "strategic_outlook": "Sustained elevated military activity expected in East Asia. Potential for increased close encounters between military aircraft, though commercial corridors likely remain unaffected. May lead to heightened alert status for military assets in the region.",
+      "operational_impact": "No direct impact on cargo, aviation, or personnel operations. Recommend monitoring NOTAMs for potential temporary airspace restrictions. Maintain awareness of geopolitical developments that could affect regional security posture.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "12958bdbc868033694034701f37bb8d6",
+    "timestamp": "2025-12-11T07:31:33.599187",
+    "original_title": "Explosions near Veliky Novgorod chemical plant as Russia reports mass drone attack",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pjrcat/explosions_near_veliky_novgorod_chemical_plant_as/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Veliky Novgorod, Russia",
+      "latitude": 58.5215,
+      "longitude": 31.2755,
+      "detailed_analysis": "Drone attack targeting a chemical plant indicates potential escalation in conflict tactics, with secondary risks of hazardous material release, infrastructure damage, and collateral impact on nearby transport/logistics networks. The mass drone nature suggests coordinated offensive capability.",
+      "immediate_forecast_24h": "High probability of continued aerial threats in the region, potential for retaliatory strikes, and possible disruption to regional cargo/aviation routes due to heightened military activity or safety restrictions.",
+      "strategic_outlook": "Increased targeting of industrial infrastructure may become a persistent tactic, elevating long-term risks to supply chains, energy transport, and regional stability. Possible expansion to port or transit infrastructure if conflict intensifies.",
+      "operational_impact": "Recommend rerouting high-value cargo/aviation away from the region; enhance drone detection protocols for all transport assets; monitor for chemical plume dispersion affecting air/ground operations.",
+      "proximity_alert": null
+    }
   }
 ]

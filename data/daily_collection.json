@@ -2373,5 +2373,24 @@
       "operational_impact": "Ground transport routes through border area severely disrupted. Potential for collateral damage to infrastructure. Personnel in border regions at immediate risk. Aviation may face temporary restrictions in border airspace. Cargo shipments through affected border crossings suspended.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "12958bdbc868033694034701f37bb8d6",
+    "timestamp": "2025-12-11T07:31:33.599187",
+    "original_title": "Explosions near Veliky Novgorod chemical plant as Russia reports mass drone attack",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pjrcat/explosions_near_veliky_novgorod_chemical_plant_as/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Veliky Novgorod, Russia",
+      "latitude": 58.5215,
+      "longitude": 31.2755,
+      "detailed_analysis": "Drone attack targeting a chemical plant indicates potential escalation in conflict tactics, with secondary risks of hazardous material release, infrastructure damage, and collateral impact on nearby transport/logistics networks. The mass drone nature suggests coordinated offensive capability.",
+      "immediate_forecast_24h": "High probability of continued aerial threats in the region, potential for retaliatory strikes, and possible disruption to regional cargo/aviation routes due to heightened military activity or safety restrictions.",
+      "strategic_outlook": "Increased targeting of industrial infrastructure may become a persistent tactic, elevating long-term risks to supply chains, energy transport, and regional stability. Possible expansion to port or transit infrastructure if conflict intensifies.",
+      "operational_impact": "Recommend rerouting high-value cargo/aviation away from the region; enhance drone detection protocols for all transport assets; monitor for chemical plume dispersion affecting air/ground operations.",
+      "proximity_alert": null
+    }
   }
 ]
