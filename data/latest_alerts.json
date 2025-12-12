@@ -55,5 +55,24 @@
       "operational_impact": "Temporary flight operations disruption during investigation. Potential increased screening times at Boston Logan. Crew resource allocation may shift toward security monitoring during critical flight phases.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "7b082e6e7f8d7642ea7799a3018e8bee",
+    "timestamp": "2025-12-12T09:48:47.932083",
+    "original_title": "In Ceuta, young migrants brave the sea to reach Europe",
+    "link": "https://www.france24.com/en/europe/20251212-in-ceuta-young-migrants-brave-the-sea-to-reach-europe",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Border/Migration",
+      "risk_score": 5,
+      "location": "Ceuta, Strait of Gibraltar",
+      "latitude": 35.8883,
+      "longitude": -5.3162,
+      "detailed_analysis": "Migrant sea crossings via the Strait of Gibraltar present maritime safety risks, potential for vessel interference, and strain on port/coastal security resources. While not directly targeting cargo or aviation assets, increased maritime patrols and emergency response may divert security resources. No indication of organized smuggling or criminal activity in this specific report.",
+      "immediate_forecast_24h": "Continued migration attempts likely given geographical proximity and border conditions. Possible maritime incidents requiring emergency response. Low probability of direct impact on commercial shipping lanes.",
+      "strategic_outlook": "Persistent migration pressure will maintain elevated coastal surveillance requirements. Potential for opportunistic stowaway attempts on commercial vessels, though current methods appear focused on small craft and swimming. No escalation to organized criminal smuggling indicated.",
+      "operational_impact": "Increased vigilance required for maritime domain awareness. Possible brief disruptions to port operations during rescue/recovery operations. No direct threat to aviation assets or cargo operations beyond routine security posture adjustments.",
+      "proximity_alert": null
+    }
   }
 ]
