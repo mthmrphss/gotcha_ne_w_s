@@ -1,43 +1,5 @@
 [
   {
-    "id": "c0a1c2854893f751a97f7041770c52be",
-    "timestamp": "2025-12-12T14:39:02.173522",
-    "original_title": "Germany accuses Russia of cyber attack and election disinformation campaign",
-    "link": "https://www.reddit.com/r/worldnews/comments/1pktbuq/germany_accuses_russia_of_cyber_attack_and/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Cyber",
-      "risk_score": 7,
-      "location": "Germany",
-      "latitude": 51.1657,
-      "longitude": 10.4515,
-      "detailed_analysis": "State-sponsored cyber attack and disinformation campaign attributed to Russia targeting German political infrastructure and election integrity. Likely objectives include destabilization, sowing discord, and influencing political outcomes. Attack vectors may include phishing, malware deployment, and coordinated social media manipulation.",
-      "immediate_forecast_24h": "Increased cyber vigilance required. Potential for retaliatory measures or escalation in cyber operations. Possible targeting of critical infrastructure, government networks, or media outlets.",
-      "strategic_outlook": "Sustained cyber and information warfare likely to continue through election cycle. Possible expansion to NATO allies or economic targets. May trigger coordinated international response or sanctions.",
-      "operational_impact": "Heightened alert for network intrusions, phishing attempts, and misinformation campaigns. Recommend enhanced monitoring of critical systems, employee cybersecurity training refreshers, and review of incident response protocols for political/electoral interference scenarios.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "3bc096d26b2b752b0b98ee6ef30ccc99",
-    "timestamp": "2025-12-12T14:39:10.622875",
-    "original_title": "Thailand's PM sets course for early election amid border and parliamentary unrest",
-    "link": "https://www.france24.com/en/video/20251212-thailand-s-pm-sets-course-for-early-election-amid-border-and-parliamentary-unrest",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Civil Unrest",
-      "risk_score": 10,
-      "location": "Bangkok, Thailand",
-      "latitude": 13.7563,
-      "longitude": 100.5018,
-      "detailed_analysis": "Political instability triggered by potential snap election and border conflict with Cambodia. Historical precedent shows Thailand's political volatility often leads to protests, transportation disruptions, and potential targeting of government/logistics assets. While no direct threat to aviation/cargo mentioned, civil unrest could spill over to key infrastructure.",
-      "immediate_forecast_24h": "Increased political demonstrations likely in Bangkok. Possible disruptions to ground transport near government buildings. No immediate threat to aviation assets, but heightened alert recommended for airports due to potential protest spillover.",
-      "strategic_outlook": "Prolonged political uncertainty may lead to sustained protests, potential border escalation with Cambodia, and increased risk of opportunistic crime during unrest periods. Aviation and cargo operations face indirect risks from possible strikes or blockades.",
-      "operational_impact": "Monitor protest locations for potential route disruptions. Increase security posture at logistics hubs in Bangkok. Coordinate with local authorities for real-time threat updates. No current aviation-specific threats, but maintain awareness of potential drone activity or unauthorized airspace incursions near border areas.",
-      "proximity_alert": "YAKIN TEHDİT: Suvarnabhumi Airport (24 km)"
-    }
-  },
-  {
     "id": "6d92dfb603b12c8cc5d6ef082c7db363",
     "timestamp": "2025-12-12T15:44:20.940359",
     "original_title": "Ukrainian troops destroyed Russian An-26 military aircraft in occupied Crimea, intelligence agency says",
@@ -53,6 +15,63 @@
       "immediate_forecast_24h": "High probability of retaliatory strikes by Russian forces targeting Ukrainian military positions. Increased aerial activity and potential for escalation in Black Sea region. Possible disruptions to civilian flight paths in surrounding areas due to heightened military alert status.",
       "strategic_outlook": "Continued degradation of military assets likely as conflict persists. Potential for expanded targeting of logistics and supply chains. May indicate Ukrainian capability to strike deeper into occupied territories, changing operational dynamics.",
       "operational_impact": "Immediate airspace restrictions recommended for Crimea and surrounding Black Sea region. Enhanced monitoring of military air traffic patterns. Increased vigilance for potential asymmetric retaliation against civilian transportation infrastructure. Review security protocols for assets in conflict-adjacent regions.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "e573efc686c070551338a21185981f82",
+    "timestamp": "2025-12-12T16:50:23.692329",
+    "original_title": "‘Reality speaks for itself’ — From war-torn Kupiansk, Zelensky praises troops after reports of successful Ukrainian counterattack",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pkw2u6/reality_speaks_for_itself_from_wartorn_kupiansk/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Kupiansk, Ukraine",
+      "latitude": 49.7064,
+      "longitude": 37.6167,
+      "detailed_analysis": "President Zelensky's visit to Kupiansk following reported Ukrainian counterattack successes indicates ongoing active combat operations in the region. The presence of national leadership in a war zone suggests both tactical gains and high symbolic value, which may provoke retaliatory actions from opposing forces. Kupiansk remains a contested area with potential for artillery strikes, drone attacks, or targeted operations against military and government figures.",
+      "immediate_forecast_24h": "Increased likelihood of retaliatory shelling or drone attacks targeting Ukrainian positions and infrastructure in Kupiansk area. Possible escalation in reconnaissance and offensive operations by both sides. Elevated risk to military convoys and personnel movements.",
+      "strategic_outlook": "Continued volatility in eastern Ukraine conflict zone. High-value target visits may trigger intensified information operations and psychological warfare. Potential for increased NATO/Western intelligence support monitoring Russian responses. Conflict likely to extend with periodic flare-ups along front lines.",
+      "operational_impact": "Heightened alert for personnel in eastern Ukraine. Avoid non-essential travel to Kupiansk and surrounding areas. Increased screening of cargo movements through conflict zones. Enhanced monitoring of aviation routes near active combat areas. Possible disruptions to supply chains and logistics corridors in Kharkiv region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "8e03b1209d66fa4e91223525980d030a",
+    "timestamp": "2025-12-12T16:50:35.671564",
+    "original_title": "Thousands of Congolese flee to Burundi amid renewed M23 violence",
+    "link": "http://www.africanews.com/2025/12/12/thousands-of-congolese-flee-to-burundi-amid-renewed-m23-violence/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Border/Migration",
+      "risk_score": 5,
+      "location": "DRC-Burundi Border Region",
+      "latitude": -3.3731,
+      "longitude": 29.9189,
+      "detailed_analysis": "Mass migration event triggered by M23 rebel violence in eastern DRC, creating border congestion and potential for cross-border spillover. Refugee flows may strain Burundi's resources and create opportunities for human trafficking/smuggling operations. Border security likely overwhelmed.",
+      "immediate_forecast_24h": "Continued refugee influx expected. Possible border crossing delays. Increased military/police presence at border points. Potential for cross-border skirmishes if conflict spills over.",
+      "strategic_outlook": "Prolonged displacement likely if M23 offensive continues. Regional stability concerns. Possible humanitarian corridor establishment. May require increased border monitoring and coordination with UNHCR.",
+      "operational_impact": "Border crossing operations disrupted. Enhanced screening required for personnel/asset movements near border. Possible supply chain delays. Increased vigilance for stowaways in cargo transport.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "98da71753d7124af484f88792ec6aa88",
+    "timestamp": "2025-12-12T16:50:43.425709",
+    "original_title": "UN chief calls on Eritrea, Ethiopia to respect border pact on its 25th anniversary",
+    "link": "http://www.africanews.com/2025/12/12/un-chief-calls-on-eritrea-ethiopia-to-respect-border-pact-on-its-25th-anniversary/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 4,
+      "location": "Eritrea-Ethiopia Border Region",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "UN Secretary-General's statement highlights renewed tensions around the Eritrea-Ethiopia border agreement anniversary. While not indicating active hostilities, this diplomatic friction in a historically volatile region suggests potential for escalation. Previous border conflict (1998-2000) resulted in significant casualties. Current tensions could manifest as border skirmishes, troop movements, or cross-border incidents affecting personnel and operations.",
+      "immediate_forecast_24h": "Low probability of immediate violent escalation, but increased military alertness and possible border patrol intensification expected. Diplomatic communications likely to continue.",
+      "strategic_outlook": "Medium-term risk of border instability potentially affecting regional supply chains and personnel movement. Possible impacts on airspace security if tensions escalate. Cargo routes through the region may face increased scrutiny or disruption.",
+      "operational_impact": "Recommend heightened situational awareness for assets and personnel in border regions. Monitor for changes in border crossing procedures. Aviation operations should remain alert for potential airspace restrictions if tensions worsen. No immediate cargo disruptions anticipated.",
       "proximity_alert": null
     }
   }
