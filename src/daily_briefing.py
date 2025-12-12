@@ -25,51 +25,55 @@ def main():
 
     print(f"Found {len(events)} total events.")
 
-    # 1. ÖNCELİKLENDİRME (Sıralama ve Filtreleme)
+    # 1. SIRALAMA
     try:
-        # Risk skoruna göre çoktan aza sırala
         events.sort(key=lambda x: x['ai_analysis']['risk_score'], reverse=True)
     except: pass
 
-    # İlk 20 olayı al (Token limitini aşmamak için)
-    top_events = events[:20]
+    # 2. AGRESİF FİLTRELEME (LIMIT SORUNU ÇÖZÜMÜ)
+    # 20 yerine en kritik 15 olayı alıyoruz.
+    top_events = events[:15]
+    print(f"Processing top {len(top_events)} events to fit context window.")
     
-    # 2. AI İÇİN METİN HAZIRLIĞI
+    # 3. METİN HAZIRLIĞI VE KIRPMA
     events_text = ""
     for i, event in enumerate(top_events, 1):
         title = event['original_title']
         risk = event['ai_analysis']['risk_score']
         category = event['ai_analysis']['category']
         location = event['ai_analysis']['location']
-        details = event['ai_analysis']['detailed_analysis']
+        
+        # Detay metnini 300 karakterle sınırla (Çok uzunsa kes)
+        raw_details = event['ai_analysis']['detailed_analysis']
+        details = (raw_details[:300] + '..') if len(raw_details) > 300 else raw_details
         
         entry = f"{i}. [{category} - Risk: {risk}/10] {title}\n"
         entry += f"   Loc: {location} | Note: {details}\n\n"
         events_text += entry
 
-    # Karakter limiti koruması
-    if len(events_text) > 9000:
-        events_text = events_text[:9000] + "\n...(truncated)..."
+    # TOPLAM KARAKTER KONTROLÜ (System Prompt payı için 7500'e çektik)
+    if len(events_text) > 7500:
+        print(f"Input still too long ({len(events_text)} chars). Truncating to 7500.")
+        events_text = events_text[:7500] + "\n...(truncated)..."
 
-    # 3. YENİ PROMPT
+    # 4. PROMPT
     client = Client()
     prompt = f"""
     ACT AS: Security Analyst.
-    TASK: Summarize these high-risk security events.
+    TASK: Create a concise Daily Security Briefing.
 
     DATA:
     {events_text}
 
-    STRICT OUTPUT RULES:
-    1. DO NOT include a "Subject", "To:", "From:", or "Date" line at the top.
-    2. DO NOT write "Executive Briefing" or "Leadership Report".
-    3. START DIRECTLY with the first section header.
-    4. Use these emoji headers exactly:
+    STRICT RULES:
+    1. NO "Subject", "To", "From" lines.
+    2. NO "Executive Briefing" title. Start with the first emoji header.
+    3. HEADERS:
        -  EXECUTIVE SUMMARY
-       -  KEY INCIDENTS (Group by region if possible)
-       - ✈️ AVIATION & OPERATIONS IMPACT
+       -  KEY INCIDENTS
+       - ✈️ AVIATION/OPS IMPACT
        -  OUTLOOK
-    5. Be concise and professional.
+    4. Keep it concise.
     """
 
     try:
@@ -79,8 +83,6 @@ def main():
             messages=[{"role": "user", "content": prompt}],
         )
         summary_text = response.choices[0].message.content
-        
-        # Olası Markdown hatalarını temizle
         summary_text = summary_text.replace("```markdown", "").replace("```", "").strip()
         
         save_report(summary_text)
@@ -88,12 +90,10 @@ def main():
         
     except Exception as e:
         print(f"AI Generation Failed: {e}")
-        save_report(f"⚠️ Report generation failed due to AI error: {str(e)}")
+        save_report(f"⚠️ Report generation failed due to AI limit/error: {str(e)}")
     
     finally:
-        # --- KRİTİK DÜZELTME BURASI ---
-        # Hata olsa da olmasa da bu blok ÇALIŞIR ve dosyayı boşaltır.
-        # Böylece yarın temiz bir sayfa açılır.
+        # Temizlik
         print("Cleaning up daily collection...")
         with open(DAILY_COLLECTION_FILE, 'w', encoding='utf-8') as f:
             json.dump([], f)
