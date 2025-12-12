@@ -55,5 +55,43 @@
       "operational_impact": "Monitor airspace for unauthorized drones or military activity; reinforce cybersecurity protocols; assess contingency plans for personnel in affected regions; heightened screening for cargo originating from or transiting conflict zones.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "d97083fbf5a229a056dd8cd9ee0c2d7c",
+    "timestamp": "2025-12-12T07:43:19.205415",
+    "original_title": "Majority of journalists killed in Gaza linked to terror organizations, study says",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pkm0v2/majority_of_journalists_killed_in_gaza_linked_to/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Gaza",
+      "latitude": 31.5,
+      "longitude": 34.4667,
+      "detailed_analysis": "The event involves the killing of journalists in Gaza with alleged ties to terror organizations, indicating active conflict and potential targeting of individuals with dual roles. This suggests heightened operational risks for personnel in the region, including possible collateral exposure for non-affiliated journalists and aid workers. No direct threat to assets, cargo, or aviation is indicated, but the environment remains volatile.",
+      "immediate_forecast_24h": "Continued instability in Gaza with potential for retaliatory actions or escalated hostilities; increased scrutiny on media and humanitarian movements likely.",
+      "strategic_outlook": "Prolonged conflict expected to sustain risks to personnel safety; possible increase in misinformation or targeted disinformation campaigns affecting operational clarity.",
+      "operational_impact": "Personnel in or transiting Gaza face elevated risk; recommend enhanced security protocols, situational awareness, and possible temporary suspension of non-essential travel to the area.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "4ecedb0766c3055f6e011d7edaa77e1b",
+    "timestamp": "2025-12-12T07:43:27.019621",
+    "original_title": "Chong Kal camp sees surge in displaced families amid Cambodia-Thailand conflict",
+    "link": "http://www.africanews.com/2025/12/12/chong-kal-camp-sees-surge-in-displaced-families-amid-cambodia-thailand-conflict/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Border/Migration",
+      "risk_score": 5,
+      "location": "Chong Kal, Cambodia",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Border clashes between Cambodia and Thailand are driving rapid displacement into Chong Kal camp, creating overcrowded conditions and humanitarian strain. While not directly targeting assets or cargo, the instability increases risks of border breaches, potential smuggling opportunities, and strain on local logistics routes due to heightened military/police presence.",
+      "immediate_forecast_24h": "Continued influx of displaced persons likely; possible escalation of border tensions could further disrupt cross-border transport and supply chains. Increased opportunistic crime near camp areas possible.",
+      "strategic_outlook": "Prolonged displacement may lead to established smuggling routes or exploitation of humanitarian logistics. Regional instability could affect cross-border cargo movement if clashes persist or expand.",
+      "operational_impact": "Monitor border crossing points for disruptions; assess supply chain vulnerabilities for operations near Cambodian-Thai border. Heightened awareness for personnel movement in region advised.",
+      "proximity_alert": null
+    }
   }
 ]
