@@ -1,43 +1,5 @@
 [
   {
-    "id": "bf95da49eede185ef99dce1133b2190f",
-    "timestamp": "2025-12-12T13:48:56.744508",
-    "original_title": "Kupiansk Front Breakthrough: Ukraine Encircles Russian Units Amid Multi-Axis Counterattack",
-    "link": "https://www.reddit.com/r/worldnews/comments/1pkr2xe/kupiansk_front_breakthrough_ukraine_encircles/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 8,
-      "location": "Kupiansk, Kharkiv Oblast",
-      "latitude": 49.7063,
-      "longitude": 37.6167,
-      "detailed_analysis": "Ukrainian forces have achieved a tactical breakthrough near Kupiansk, encircling Russian military units through multi-axis offensive operations. This represents an active combat zone with potential for rapid escalation, collateral damage to infrastructure, and disruption of regional supply routes. The encirclement suggests high-intensity combat with possible artillery, drone, and armored vehicle engagements.",
-      "immediate_forecast_24h": "High probability of continued heavy fighting with potential for Russian counter-attacks to break the encirclement. Increased drone activity and artillery strikes likely. Possible collateral damage to transportation infrastructure including roads and rail lines in the immediate area.",
-      "strategic_outlook": "Sustained military operations expected in the Kupiansk sector. Potential for this breakthrough to develop into wider Ukrainian offensive operations if Russian defenses remain compromised. Regional supply chain disruptions may persist for weeks. Possible escalation to include targeted strikes on logistics hubs supporting both sides.",
-      "operational_impact": "All ground transport through Kupiansk corridor should be considered high-risk. Aviation operations within 50km radius subject to potential MANPADS and drone interference. Personnel movement in region extremely hazardous. Cargo shipments likely to experience significant rerouting and delays. Recommend immediate suspension of non-essential operations in affected area.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "2309467e05d4c7ce8c1127908007394b",
-    "timestamp": "2025-12-12T13:49:04.725845",
-    "original_title": "'Something nobody wants: Further deepening transatlantic divide would only benefit Russia and China'",
-    "link": "https://www.france24.com/en/video/20251212-something-nobody-wants-further-deepening-transatlantic-divide-would-only-benefit-russia-and-china",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 6,
-      "location": "Denmark",
-      "latitude": 56.2639,
-      "longitude": 9.5018,
-      "detailed_analysis": "NATO military intelligence warning indicates heightened geopolitical tensions and potential weakening of transatlantic security cooperation. While no specific imminent threat is detailed, the erosion of US-European security ties could create vulnerabilities for Danish assets and personnel. Russia and China stand to benefit from NATO fragmentation, potentially increasing hybrid threats including disinformation, cyber operations, and political interference.",
-      "immediate_forecast_24h": "No specific immediate physical threats expected. Continued monitoring of diplomatic communications and intelligence sharing recommended for early warning of potential escalation.",
-      "strategic_outlook": "Medium-term risk of increased hybrid warfare tactics targeting critical infrastructure, political stability, and military assets. Potential for increased Russian intelligence operations and cyber campaigns if transatlantic divisions deepen.",
-      "operational_impact": "Increased vigilance required for diplomatic personnel, cybersecurity posture, and critical infrastructure protection. Enhanced intelligence sharing with NATO partners recommended. No immediate changes to physical security protocols needed.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "c0a1c2854893f751a97f7041770c52be",
     "timestamp": "2025-12-12T14:39:02.173522",
     "original_title": "Germany accuses Russia of cyber attack and election disinformation campaign",
@@ -73,6 +35,25 @@
       "strategic_outlook": "Prolonged political uncertainty may lead to sustained protests, potential border escalation with Cambodia, and increased risk of opportunistic crime during unrest periods. Aviation and cargo operations face indirect risks from possible strikes or blockades.",
       "operational_impact": "Monitor protest locations for potential route disruptions. Increase security posture at logistics hubs in Bangkok. Coordinate with local authorities for real-time threat updates. No current aviation-specific threats, but maintain awareness of potential drone activity or unauthorized airspace incursions near border areas.",
       "proximity_alert": "YAKIN TEHDİT: Suvarnabhumi Airport (24 km)"
+    }
+  },
+  {
+    "id": "6d92dfb603b12c8cc5d6ef082c7db363",
+    "timestamp": "2025-12-12T15:44:20.940359",
+    "original_title": "Ukrainian troops destroyed Russian An-26 military aircraft in occupied Crimea, intelligence agency says",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pkuzpb/ukrainian_troops_destroyed_russian_an26_military/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Crimea",
+      "latitude": 45.3453,
+      "longitude": 34.4998,
+      "detailed_analysis": "Confirmed destruction of Russian An-26 military aircraft by Ukrainian forces indicates escalation in kinetic operations within occupied territory. This represents a direct military strike on aviation assets, likely involving precision munitions or drone capabilities. The targeting of military transport aircraft suggests intent to degrade Russian logistical capacity and airlift capabilities in the region.",
+      "immediate_forecast_24h": "High probability of retaliatory strikes by Russian forces targeting Ukrainian military positions. Increased aerial activity and potential for escalation in Black Sea region. Possible disruptions to civilian flight paths in surrounding areas due to heightened military alert status.",
+      "strategic_outlook": "Continued degradation of military assets likely as conflict persists. Potential for expanded targeting of logistics and supply chains. May indicate Ukrainian capability to strike deeper into occupied territories, changing operational dynamics.",
+      "operational_impact": "Immediate airspace restrictions recommended for Crimea and surrounding Black Sea region. Enhanced monitoring of military air traffic patterns. Increased vigilance for potential asymmetric retaliation against civilian transportation infrastructure. Review security protocols for assets in conflict-adjacent regions.",
+      "proximity_alert": null
     }
   }
 ]

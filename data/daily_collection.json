@@ -245,5 +245,24 @@
       "operational_impact": "Monitor protest locations for potential route disruptions. Increase security posture at logistics hubs in Bangkok. Coordinate with local authorities for real-time threat updates. No current aviation-specific threats, but maintain awareness of potential drone activity or unauthorized airspace incursions near border areas.",
       "proximity_alert": "YAKIN TEHDİT: Suvarnabhumi Airport (24 km)"
     }
+  },
+  {
+    "id": "6d92dfb603b12c8cc5d6ef082c7db363",
+    "timestamp": "2025-12-12T15:44:20.940359",
+    "original_title": "Ukrainian troops destroyed Russian An-26 military aircraft in occupied Crimea, intelligence agency says",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pkuzpb/ukrainian_troops_destroyed_russian_an26_military/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Crimea",
+      "latitude": 45.3453,
+      "longitude": 34.4998,
+      "detailed_analysis": "Confirmed destruction of Russian An-26 military aircraft by Ukrainian forces indicates escalation in kinetic operations within occupied territory. This represents a direct military strike on aviation assets, likely involving precision munitions or drone capabilities. The targeting of military transport aircraft suggests intent to degrade Russian logistical capacity and airlift capabilities in the region.",
+      "immediate_forecast_24h": "High probability of retaliatory strikes by Russian forces targeting Ukrainian military positions. Increased aerial activity and potential for escalation in Black Sea region. Possible disruptions to civilian flight paths in surrounding areas due to heightened military alert status.",
+      "strategic_outlook": "Continued degradation of military assets likely as conflict persists. Potential for expanded targeting of logistics and supply chains. May indicate Ukrainian capability to strike deeper into occupied territories, changing operational dynamics.",
+      "operational_impact": "Immediate airspace restrictions recommended for Crimea and surrounding Black Sea region. Enhanced monitoring of military air traffic patterns. Increased vigilance for potential asymmetric retaliation against civilian transportation infrastructure. Review security protocols for assets in conflict-adjacent regions.",
+      "proximity_alert": null
+    }
   }
 ]
