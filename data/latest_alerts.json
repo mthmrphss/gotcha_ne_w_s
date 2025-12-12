@@ -17,5 +17,62 @@
       "operational_impact": "All US-flagged vessels near Venezuela at risk of interception; US personnel in Venezuela face increased detention risk; aviation routes may be affected by heightened military activity; cargo shipments through Caribbean require enhanced security screening",
       "proximity_alert": "YAKIN TEHDİT: Maiquetía \"Simón Bolívar\" International Airport (1 km)"
     }
+  },
+  {
+    "id": "2e8db31f4b1ecd7ae9ac989d291948be",
+    "timestamp": "2025-12-12T04:57:07.076716",
+    "original_title": "Senators seek to change bill allowing military to operate same as before DC plane crash - NBC4 Washington",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZnBLVU1pVU4wa2VoaFpsOUtIeVZhaDNWYlN2cFpPSlhkOVBZNFBVb01uSU5pazR4Z3c3VmRHemNMUjVUT2V5TmNuRE9CYU9CQ0VhbDRoNG84Q2l0bm80aGFxeTl6aUdneDkwaE5MR1hUaXo3Q091MG4yMlhQQ0N2LVdmVHFtU01UV3ZzMFo4bGrSAZgBQVVfeXFMUDZPclZXZENFdEdLdTMxMUp4YUV0Z3FxMGw4MUVHV3ZCZ1hfWkN4T3V1RWFWVkljWG42RHE5VElid0RYTlBqUEduVlByb2RtZFpRR1Z1a3E1YWE4XzhQUlo2RlE3em4zUkNUbE4waDJXMzAwYjNsbGRvdU9PRnR2WWRJWGk0Vnl5Q0szX2w1QWxIUjMyaWdfWi0?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Washington DC",
+      "latitude": 38.9072,
+      "longitude": -77.0369,
+      "detailed_analysis": "Senators are seeking legislative changes to military flight operations following a DC plane crash, indicating ongoing aviation safety concerns in the National Capital Region. The reference to maintaining operations 'same as before' suggests potential systemic issues with military aviation procedures or airspace management that could pose risks to both military and civilian aviation assets.",
+      "immediate_forecast_24h": "Increased scrutiny on military flight operations around DC airspace; possible temporary flight restrictions or enhanced monitoring while legislative review occurs. No immediate threat to commercial aviation expected.",
+      "strategic_outlook": "Potential for revised military flight protocols and increased coordination between military and civilian aviation authorities. May lead to long-term changes in DC airspace management and military operational procedures.",
+      "operational_impact": "Military aviation units may face increased reporting requirements or temporary operational adjustments. Enhanced coordination required between DOD and FAA for DC-area flights. No direct impact on cargo or personnel movement at this time.",
+      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (1 km)"
+    }
+  },
+  {
+    "id": "f3cf6a4b34d58f392a7765d96d10c04b",
+    "timestamp": "2025-12-12T04:57:20.380106",
+    "original_title": "UK defense minister warns ‘shadow of war knocking on Europe’s door’",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pkijg3/uk_defense_minister_warns_shadow_of_war_knocking/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Europe",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "UK Defense Minister's public warning indicates elevated geopolitical tensions and potential military escalation in Europe. While not an immediate kinetic event, this rhetoric suggests intelligence assessments point to heightened conflict potential, likely referencing ongoing regional tensions and NATO preparedness concerns. The statement serves as both a political signal and potential preparation of public opinion for increased defense measures.",
+      "immediate_forecast_24h": "Increased diplomatic activity and possible NATO coordination calls; no immediate kinetic action expected but heightened alert status recommended for military and diplomatic assets.",
+      "strategic_outlook": "Potential for increased military posturing, enhanced border security measures, and possible disruptions to regional logistics and transportation networks if tensions escalate. May impact commercial aviation routes and maritime shipping in conflict-adjacent areas.",
+      "operational_impact": "Recommend increased vigilance for personnel movements in Eastern Europe/NATO border regions. Potential for heightened security screening at transport hubs. Cargo shipments may experience delays due to enhanced inspections. Aviation may face temporary airspace restrictions if situation deteriorates.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "c809149a890fe5f16e28fe3edb4cd5c0",
+    "timestamp": "2025-12-12T04:57:31.574654",
+    "original_title": "Seized oil tanker off Venezuela to be brought to US as tensions mount",
+    "link": "https://www.france24.com/en/americas/20251212-us-tanker-to-port-venezuela",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Venezuelan coast",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "US military seizure of Venezuelan oil tanker represents state-level asset confiscation in contested waters, indicating escalation of economic/political conflict between US and Maduro government. Potential for retaliatory actions against US assets in region.",
+      "immediate_forecast_24h": "Increased naval/coastal patrol activity by Venezuelan forces, possible harassment of US-flagged vessels in Caribbean, heightened alert status for US maritime assets in region.",
+      "strategic_outlook": "Sustained tension likely to continue, potential for Venezuelan asymmetric responses including cyber attacks, intelligence operations, or targeting of US commercial interests. May impact shipping insurance rates and route planning in Caribbean basin.",
+      "operational_impact": "Recommend heightened maritime awareness for US-flagged vessels near Venezuela, review emergency protocols for asset seizure scenarios, monitor Venezuelan military and coast guard movements, assess potential for retaliatory actions against personnel in region.",
+      "proximity_alert": null
+    }
   }
 ]
