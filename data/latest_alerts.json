@@ -1,24 +1,5 @@
 [
   {
-    "id": "7b082e6e7f8d7642ea7799a3018e8bee",
-    "timestamp": "2025-12-12T09:48:47.932083",
-    "original_title": "In Ceuta, young migrants brave the sea to reach Europe",
-    "link": "https://www.france24.com/en/europe/20251212-in-ceuta-young-migrants-brave-the-sea-to-reach-europe",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Border/Migration",
-      "risk_score": 5,
-      "location": "Ceuta, Strait of Gibraltar",
-      "latitude": 35.8883,
-      "longitude": -5.3162,
-      "detailed_analysis": "Migrant sea crossings via the Strait of Gibraltar present maritime safety risks, potential for vessel interference, and strain on port/coastal security resources. While not directly targeting cargo or aviation assets, increased maritime patrols and emergency response may divert security resources. No indication of organized smuggling or criminal activity in this specific report.",
-      "immediate_forecast_24h": "Continued migration attempts likely given geographical proximity and border conditions. Possible maritime incidents requiring emergency response. Low probability of direct impact on commercial shipping lanes.",
-      "strategic_outlook": "Persistent migration pressure will maintain elevated coastal surveillance requirements. Potential for opportunistic stowaway attempts on commercial vessels, though current methods appear focused on small craft and swimming. No escalation to organized criminal smuggling indicated.",
-      "operational_impact": "Increased vigilance required for maritime domain awareness. Possible brief disruptions to port operations during rescue/recovery operations. No direct threat to aviation assets or cargo operations beyond routine security posture adjustments.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "917d770e0ea4eb1a367633d0d89925bb",
     "timestamp": "2025-12-12T10:50:53.479772",
     "original_title": "Duplicity of ROE-s and for how long Ukraine and the West can remain on a high horse?",
@@ -35,6 +16,44 @@
       "strategic_outlook": "Prolonged moral and tactical asymmetry likely; Western support may face strain if Ukraine adopts comparable tactics. Escalation risks include expanded hybrid warfare, economic targeting, and potential spillover into neighboring regions.",
       "operational_impact": "Increased vigilance for personnel in Ukraine; possible delays or reroutes for cargo near conflict zones. No immediate aviation disruptions, but drone activity or retaliatory strikes could emerge.",
       "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
+    }
+  },
+  {
+    "id": "c128a2a5e2dd2f2f056d1ff1f54bcfa6",
+    "timestamp": "2025-12-12T11:38:20.213628",
+    "original_title": "Amnesty accuses Hamas of 'crimes against humanity' for October 7 attach",
+    "link": "https://www.france24.com/en/video/20251212-amnesty-accuses-hamas-of-crimes-against-humanity-for-october-7-attach",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 9,
+      "location": "Israel/Gaza border region",
+      "latitude": 31.5,
+      "longitude": 34.5,
+      "detailed_analysis": "Amnesty International's report confirms Hamas and allies committed crimes against humanity during October 7 attacks, including mass killing of 1,221 civilians classified as extermination. This represents organized terrorist violence against civilian populations with potential for regional escalation.",
+      "immediate_forecast_24h": "Heightened security alert status recommended for all assets and personnel in Israel/Gaza region. Increased likelihood of retaliatory operations and potential for expanded conflict affecting transportation routes and infrastructure.",
+      "strategic_outlook": "Sustained elevated risk environment with potential for prolonged conflict affecting regional stability. Aviation and cargo operations may face increased scrutiny, delays, and potential route diversions. Personnel safety concerns remain critically high.",
+      "operational_impact": "Immediate travel restrictions advised for personnel in affected areas. Enhanced screening for cargo originating from region. Aviation operations should expect increased security protocols and potential airspace restrictions. Ground transport convoys require armed escort protocols.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "5411d9425f5f79c4846e2801f64e1d40",
+    "timestamp": "2025-12-12T11:38:49.201835",
+    "original_title": "Farmers clash with police as dozens of cows culled in France due to skin disease",
+    "link": "https://www.france24.com/en/france/20251212-farmers-clash-with-police-as-dozens-of-cows-culled-in-france-due-to-skin-disease",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 5,
+      "location": "Southern France",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Event centers on civil unrest in southern France as farmers clash with police during a veterinary cull of over 200 cows due to nodular dermatitis (lumpy skin disease). While the disease is not transmissible to humans, the scenario creates disruptions to agricultural operations and local transport. Risks include damage to livestock assets at the culling site; potential escalation of protests disrupting rural roads and farm supply routes; increased workload on law enforcement and veterinary teams; elevated risk of injury to personnel; possible secondary effects on dairy supply chains if roads are blocked. The outbreak also raises biosecurity concerns and could affect cross-border movement of livestock and imports/exports if containment measures tighten.",
+      "immediate_forecast_24h": "Expect continued protests near the affected farm, with possible road blockages and slowed cattle transport in the region. Veterinary teams and security presence will likely remain on-site to complete culling and containment. Minor disruptions to local traffic and dairy deliveries are possible; no confirmed threats to aviation or maritime operations.",
+      "strategic_outlook": "Over the next 24–72 hours, risk remains elevated for rural unrest in southern France, particularly if government response is perceived as unfavorable. Potential ripple effects on regional dairy supply, cattle movements, and agricultural labor. If protests widen, authorities may deploy additional security and impose temporary access restrictions on affected corridors. Monitor for opportunistic crime during disorder, though no direct threats identified in current data.",
+      "operational_impact": "Localized road closures or slowdowns around the farm; risk to personnel conducting culling and on-site veterinary and security teams; potential asset losses (livestock, equipment). Logistics relying on these routes may experience delays. Recommend securing a perimeter, coordinating with local authorities, and maintaining liaison with supply chain partners.",
+      "proximity_alert": null
     }
   }
 ]
