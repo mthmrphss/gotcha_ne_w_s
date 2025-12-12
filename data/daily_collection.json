@@ -169,5 +169,43 @@
       "operational_impact": "Immediate travel restrictions advised for personnel in affected areas. Enhanced screening for cargo originating from region. Aviation operations should expect increased security protocols and potential airspace restrictions. Ground transport convoys require armed escort protocols.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "bf95da49eede185ef99dce1133b2190f",
+    "timestamp": "2025-12-12T13:48:56.744508",
+    "original_title": "Kupiansk Front Breakthrough: Ukraine Encircles Russian Units Amid Multi-Axis Counterattack",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pkr2xe/kupiansk_front_breakthrough_ukraine_encircles/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Kupiansk, Kharkiv Oblast",
+      "latitude": 49.7063,
+      "longitude": 37.6167,
+      "detailed_analysis": "Ukrainian forces have achieved a tactical breakthrough near Kupiansk, encircling Russian military units through multi-axis offensive operations. This represents an active combat zone with potential for rapid escalation, collateral damage to infrastructure, and disruption of regional supply routes. The encirclement suggests high-intensity combat with possible artillery, drone, and armored vehicle engagements.",
+      "immediate_forecast_24h": "High probability of continued heavy fighting with potential for Russian counter-attacks to break the encirclement. Increased drone activity and artillery strikes likely. Possible collateral damage to transportation infrastructure including roads and rail lines in the immediate area.",
+      "strategic_outlook": "Sustained military operations expected in the Kupiansk sector. Potential for this breakthrough to develop into wider Ukrainian offensive operations if Russian defenses remain compromised. Regional supply chain disruptions may persist for weeks. Possible escalation to include targeted strikes on logistics hubs supporting both sides.",
+      "operational_impact": "All ground transport through Kupiansk corridor should be considered high-risk. Aviation operations within 50km radius subject to potential MANPADS and drone interference. Personnel movement in region extremely hazardous. Cargo shipments likely to experience significant rerouting and delays. Recommend immediate suspension of non-essential operations in affected area.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "2309467e05d4c7ce8c1127908007394b",
+    "timestamp": "2025-12-12T13:49:04.725845",
+    "original_title": "'Something nobody wants: Further deepening transatlantic divide would only benefit Russia and China'",
+    "link": "https://www.france24.com/en/video/20251212-something-nobody-wants-further-deepening-transatlantic-divide-would-only-benefit-russia-and-china",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 6,
+      "location": "Denmark",
+      "latitude": 56.2639,
+      "longitude": 9.5018,
+      "detailed_analysis": "NATO military intelligence warning indicates heightened geopolitical tensions and potential weakening of transatlantic security cooperation. While no specific imminent threat is detailed, the erosion of US-European security ties could create vulnerabilities for Danish assets and personnel. Russia and China stand to benefit from NATO fragmentation, potentially increasing hybrid threats including disinformation, cyber operations, and political interference.",
+      "immediate_forecast_24h": "No specific immediate physical threats expected. Continued monitoring of diplomatic communications and intelligence sharing recommended for early warning of potential escalation.",
+      "strategic_outlook": "Medium-term risk of increased hybrid warfare tactics targeting critical infrastructure, political stability, and military assets. Potential for increased Russian intelligence operations and cyber campaigns if transatlantic divisions deepen.",
+      "operational_impact": "Increased vigilance required for diplomatic personnel, cybersecurity posture, and critical infrastructure protection. Enhanced intelligence sharing with NATO partners recommended. No immediate changes to physical security protocols needed.",
+      "proximity_alert": null
+    }
   }
 ]
