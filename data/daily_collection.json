@@ -74,5 +74,62 @@
       "operational_impact": "Personnel in or transiting Gaza face elevated risk; recommend enhanced security protocols, situational awareness, and possible temporary suspension of non-essential travel to the area.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "5a35a643b30f5121610e16696cf671b8",
+    "timestamp": "2025-12-12T08:58:31.779663",
+    "original_title": "Russia attacked energy facilities in southern Ukrainian Odesa region, officials say",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pkmhbu/russia_attacked_energy_facilities_in_southern/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Odesa region, Ukraine",
+      "latitude": 46.4825,
+      "longitude": 30.7233,
+      "detailed_analysis": "Russian military strike targeting energy infrastructure in southern Ukraine. Attack likely involves missiles/drones against power generation or distribution facilities. This represents direct kinetic action in ongoing conflict zone with potential for collateral damage to adjacent transport/logistics infrastructure.",
+      "immediate_forecast_24h": "High probability of follow-up strikes on energy targets. Possible secondary impacts on regional power-dependent infrastructure including port operations, rail transport, and communications systems. Increased air defense activity expected.",
+      "strategic_outlook": "Continued targeting of Ukrainian energy infrastructure likely as part of attrition warfare strategy. Potential for attacks to expand to other critical infrastructure including transportation hubs. Maritime operations in Black Sea remain at risk.",
+      "operational_impact": "Energy-dependent cargo operations in Odesa region may experience disruptions. Aviation may face increased risks from potential airspace violations or debris. Personnel in region should maintain heightened security posture. Consider alternative power sources for critical operations.",
+      "proximity_alert": "YAKIN TEHDİT: Odessa International Airport (5 km)"
+    }
+  },
+  {
+    "id": "203c6e35acf5774ba808777f533b49a8",
+    "timestamp": "2025-12-12T08:58:42.797896",
+    "original_title": "Ukrainian drone strike injures seven in Russia's Tver, causes fire, evacuation",
+    "link": "http://www.africanews.com/2025/12/12/ukrainian-drone-strike-injures-seven-in-russias-tver-causes-fire-evacuation/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Tver, Russia",
+      "latitude": 56.8587,
+      "longitude": 35.9176,
+      "detailed_analysis": "Ukrainian drone strike targeting Russian territory resulted in debris impact on residential infrastructure, causing injuries and fire. Part of coordinated overnight attacks across multiple regions, indicating sustained cross-border offensive capabilities. Event demonstrates escalation in targeting patterns beyond frontline areas to include deeper Russian territory.",
+      "immediate_forecast_24h": "High probability of continued drone attacks across western Russian regions. Increased air defense activity expected. Potential for retaliatory strikes against Ukrainian infrastructure. Evacuations and emergency response operations ongoing in affected areas.",
+      "strategic_outlook": "Sustained drone warfare likely to continue with evolving tactics. Russian critical infrastructure, military bases, and border regions remain high-risk targets. Potential for escalation to include more sophisticated UAV systems and expanded target sets. Regional instability may affect supply chains and transportation corridors.",
+      "operational_impact": "Heightened security posture required for all assets in western Russia. Aviation operations may experience disruptions due to increased drone activity and air defense measures. Personnel movement and cargo transport in border regions subject to increased scrutiny and potential delays. Critical infrastructure protection protocols should be reviewed and enhanced.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "25de637d2340033742ce22bf89bea82d",
+    "timestamp": "2025-12-12T08:58:54.854077",
+    "original_title": "Crew Tackle Man Who Attempted To Open Emergency Exit On Boston To Hong Kong Cathay Pacific Flight",
+    "link": "https://www.paddleyourownkanoo.com/2025/12/12/crew-tackle-man-who-attempted-to-open-emergency-exit-on-boston-to-hong-kong-cathay-pacific-flight/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 8,
+      "location": "Boston to Hong Kong Flight",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Individual attempted to open emergency exit during final approach on international flight with 334 passengers. Crew intervention prevented potential decompression or crash scenario. Incident occurred on Cathay Pacific flight, indicating vulnerability in passenger screening or behavioral monitoring.",
+      "immediate_forecast_24h": "Increased security screening for Cathay Pacific flights, possible flight delays. Enhanced crew alertness for similar attempts. Potential copycat incidents possible given media coverage.",
+      "strategic_outlook": "Airlines may implement additional cabin crew training for physical intervention. Possible review of emergency exit seating policies. Increased coordination between US and Hong Kong aviation security authorities.",
+      "operational_impact": "Temporary flight operations disruption during investigation. Potential increased screening times at Boston Logan. Crew resource allocation may shift toward security monitoring during critical flight phases.",
+      "proximity_alert": null
+    }
   }
 ]
