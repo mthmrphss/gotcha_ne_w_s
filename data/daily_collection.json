@@ -397,5 +397,24 @@
       "operational_impact": "Heightened alert for aviation security; potential flight delays or reroutes if ATC systems compromised. Increased scrutiny on cargo and personnel movements from affected regions.",
       "proximity_alert": "YAKIN TEHDİT: Berlin Tegel Airport (0 km)"
     }
+  },
+  {
+    "id": "058e00a4d4e50ac3f5f1bfed3b4a1388",
+    "timestamp": "2025-12-12T18:57:36.695607",
+    "original_title": "Thailand's high-risk election: Anutin rolls dice on 'wave of nationalism'",
+    "link": "https://www.france24.com/en/video/20251212-thailand-s-high-risk-election-anutin-rolls-dice-on-wave-of-nationalism",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 7,
+      "location": "Thailand",
+      "latitude": 15.0,
+      "longitude": 101.0,
+      "detailed_analysis": "Political fragmentation and rising nationalism during election period creates elevated risk of protests, demonstrations, and potential clashes between opposing groups. Border tensions with Cambodia could spill over into domestic unrest or targeted actions against foreign assets.",
+      "immediate_forecast_24h": "Increased protest activity likely in urban centers, particularly Bangkok. Possible disruptions to transportation routes and government facilities. Border checkpoints may experience heightened tensions.",
+      "strategic_outlook": "Extended period of political instability could lead to sustained civil unrest, potential targeting of foreign business interests, and increased scrutiny of cargo movements near border regions. Aviation may face secondary risks from potential airport protests or symbolic targeting.",
+      "operational_impact": "Personnel movement restrictions advised in protest areas. Enhanced security screening recommended for cargo transiting border regions. Aviation operations should monitor for potential disruptions at major hubs. Increased vigilance for asset targeting by nationalist groups.",
+      "proximity_alert": null
+    }
   }
 ]
