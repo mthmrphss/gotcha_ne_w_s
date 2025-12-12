@@ -207,5 +207,43 @@
       "operational_impact": "Increased vigilance required for diplomatic personnel, cybersecurity posture, and critical infrastructure protection. Enhanced intelligence sharing with NATO partners recommended. No immediate changes to physical security protocols needed.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "c0a1c2854893f751a97f7041770c52be",
+    "timestamp": "2025-12-12T14:39:02.173522",
+    "original_title": "Germany accuses Russia of cyber attack and election disinformation campaign",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pktbuq/germany_accuses_russia_of_cyber_attack_and/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 7,
+      "location": "Germany",
+      "latitude": 51.1657,
+      "longitude": 10.4515,
+      "detailed_analysis": "State-sponsored cyber attack and disinformation campaign attributed to Russia targeting German political infrastructure and election integrity. Likely objectives include destabilization, sowing discord, and influencing political outcomes. Attack vectors may include phishing, malware deployment, and coordinated social media manipulation.",
+      "immediate_forecast_24h": "Increased cyber vigilance required. Potential for retaliatory measures or escalation in cyber operations. Possible targeting of critical infrastructure, government networks, or media outlets.",
+      "strategic_outlook": "Sustained cyber and information warfare likely to continue through election cycle. Possible expansion to NATO allies or economic targets. May trigger coordinated international response or sanctions.",
+      "operational_impact": "Heightened alert for network intrusions, phishing attempts, and misinformation campaigns. Recommend enhanced monitoring of critical systems, employee cybersecurity training refreshers, and review of incident response protocols for political/electoral interference scenarios.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "3bc096d26b2b752b0b98ee6ef30ccc99",
+    "timestamp": "2025-12-12T14:39:10.622875",
+    "original_title": "Thailand's PM sets course for early election amid border and parliamentary unrest",
+    "link": "https://www.france24.com/en/video/20251212-thailand-s-pm-sets-course-for-early-election-amid-border-and-parliamentary-unrest",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Bangkok, Thailand",
+      "latitude": 13.7563,
+      "longitude": 100.5018,
+      "detailed_analysis": "Political instability triggered by potential snap election and border conflict with Cambodia. Historical precedent shows Thailand's political volatility often leads to protests, transportation disruptions, and potential targeting of government/logistics assets. While no direct threat to aviation/cargo mentioned, civil unrest could spill over to key infrastructure.",
+      "immediate_forecast_24h": "Increased political demonstrations likely in Bangkok. Possible disruptions to ground transport near government buildings. No immediate threat to aviation assets, but heightened alert recommended for airports due to potential protest spillover.",
+      "strategic_outlook": "Prolonged political uncertainty may lead to sustained protests, potential border escalation with Cambodia, and increased risk of opportunistic crime during unrest periods. Aviation and cargo operations face indirect risks from possible strikes or blockades.",
+      "operational_impact": "Monitor protest locations for potential route disruptions. Increase security posture at logistics hubs in Bangkok. Coordinate with local authorities for real-time threat updates. No current aviation-specific threats, but maintain awareness of potential drone activity or unauthorized airspace incursions near border areas.",
+      "proximity_alert": "YAKIN TEHDİT: Suvarnabhumi Airport (24 km)"
+    }
   }
 ]
