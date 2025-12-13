@@ -283,5 +283,43 @@
       "operational_impact": "All assets and personnel in border region require immediate relocation or enhanced security protocols. Aviation operations near conflict zone subject to potential airspace closures or combat activity. Cargo shipments through border crossings face significant delays and security risks. Recommend suspending non-essential operations within 100km of Thailand-Cambodia border.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "d5dd9b3fc38d704af26b0b372b6a7ec4",
+    "timestamp": "2025-12-13T14:37:47.959949",
+    "original_title": "Joint Syrian-US patrol comes under attack near Palmyra: State media - Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaGpsY2VMY2xNMy1ET2xXcHFxMERGeFhLOTExMVBOUWRfcEZoV2h4dy16ZjRGOGNMZ2lfaS1Jd1hkVDV6dnI4TVZCSEZCNHpmRDBJWVpxaV9nRWdJUjZsZjRJemM3SEhIQ1kxWENzQlJyLWJWdkxkcWVOcnNGS2xhbnpHT3lNTkk4NW4xckljMlptQzY2QmM5cHpCcjFONjl2ekdQWVdzLWY5c0Y40gGyAUFVX3lxTE40OUtJZjJKWnAxbFE1dDVLM1d0cmxtZUJDak5EdUdjcW1nMVJzU3FZcHdwZm13RmhPRnhkcTc5NzgzNEZGbVZTMUgybjM1RDJqZUNoY25wcVcwVnhuTEUwZlVhaHJfTk5fcVFfY2p5LVF0VnZSLXY4U1RKN2x4aHU4ZEc3MlNET3hJZlJ4bExsUk5LSExobWltaGJ4VjhQTXd0YXB3ZkNJMlpYRVFEN3U0VUE?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Palmyra, Syria",
+      "latitude": 34.556,
+      "longitude": 38.273,
+      "detailed_analysis": "Joint Syrian-US military convoy targeted by hostile forces near Palmyra, indicating active anti-coalition operations in the region. Attack likely employed IEDs, small arms, or RPGs based on typical insurgent tactics. Area remains contested despite previous coalition control, with ISIS remnants and other militant groups maintaining operational capability.",
+      "immediate_forecast_24h": "High probability of follow-on attacks against coalition forces in the region. Increased insurgent activity expected along major supply routes. Possible retaliatory airstrikes or special operations against militant positions.",
+      "strategic_outlook": "Persistent asymmetric threats will continue to disrupt coalition operations in eastern regions. Militant groups likely exploiting political instability to regroup. Regional tensions may escalate if attacks intensify or involve higher casualties.",
+      "operational_impact": "Immediate convoy operations suspended in Palmyra region. Enhanced route clearance and force protection measures required. Possible temporary closure of nearby supply routes and forward operating bases. Increased ISR and quick reaction force deployment likely.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "f258e86151271a72727c91fdc46cfed8",
+    "timestamp": "2025-12-13T14:38:04.490633",
+    "original_title": "Russia says UK should disclose what British soldier killed in Ukraine was doing",
+    "link": "https://www.reddit.com/r/worldnews/comments/1plmftf/russia_says_uk_should_disclose_what_british/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Ukraine",
+      "latitude": 48.3794,
+      "longitude": 31.1656,
+      "detailed_analysis": "Event involves a British soldier killed in Ukraine, with Russia demanding disclosure of activities. This indicates foreign military involvement in an active conflict zone, potentially increasing geopolitical tensions and targeting of foreign personnel. While not a direct threat to assets/cargo/aviation, it escalates risks for personnel in region due to potential retaliatory actions or increased targeting of foreign fighters.",
+      "immediate_forecast_24h": "Increased scrutiny of foreign military movements in Ukraine; possible propaganda escalation; heightened alert for personnel in conflict zones due to potential retaliatory targeting.",
+      "strategic_outlook": "Sustained elevated risk for foreign personnel in Ukraine; potential for expanded targeting of NATO-affiliated individuals; possible increase in disinformation campaigns affecting security assessments.",
+      "operational_impact": "Personnel in Ukraine at heightened risk; possible increased vetting of cargo/aviation from affected regions; enhanced monitoring of Russia-Ukraine border areas for unusual activity.",
+      "proximity_alert": null
+    }
   }
 ]
