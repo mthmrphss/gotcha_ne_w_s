@@ -1,24 +1,5 @@
 [
   {
-    "id": "58db3c45491c41ca56873da985b3593a",
-    "timestamp": "2025-12-13T13:34:21.305731",
-    "original_title": "Thailand vows to keep fighting Cambodia despite Trump's ceasefire claim",
-    "link": "https://www.france24.com/en/video/20251213-thailand-vows-to-keep-fighting-cambodia-despite-trump-s-ceasefire-claim",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 8,
-      "location": "Thailand-Cambodia Border",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "Military escalation between Thailand and Cambodia with active fighter jet strikes along disputed border region. Ceasefire claims by US President appear ineffective as combat operations continue. Political instability in Thailand following parliament dissolution may exacerbate conflict dynamics.",
-      "immediate_forecast_24h": "High probability of continued aerial strikes and ground engagements. Potential for conflict spillover into adjacent regions. Increased military mobilization expected on both sides of border.",
-      "strategic_outlook": "Sustained border conflict likely to disrupt regional trade routes and create volatility in Southeast Asian security environment. Potential for international intervention attempts. Aviation and personnel movements in border areas face elevated risk from military operations.",
-      "operational_impact": "All assets and personnel in border region require immediate relocation or enhanced security protocols. Aviation operations near conflict zone subject to potential airspace closures or combat activity. Cargo shipments through border crossings face significant delays and security risks. Recommend suspending non-essential operations within 100km of Thailand-Cambodia border.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "d5dd9b3fc38d704af26b0b372b6a7ec4",
     "timestamp": "2025-12-13T14:37:47.959949",
     "original_title": "Joint Syrian-US patrol comes under attack near Palmyra: State media - Al Jazeera",
@@ -72,6 +53,44 @@
       "immediate_forecast_24h": "Potential for escalated protests, road blockades near agricultural areas, and possible clashes between farmers and law enforcement. Increased police deployment likely in affected regions.",
       "strategic_outlook": "Sustained agricultural unrest may develop if government maintains culling policy without compromise. Could inspire similar movements in neighboring countries facing animal disease outbreaks. Long-term risk of supply chain disruptions if protests expand to logistics hubs.",
       "operational_impact": "Localized transportation disruptions possible near protest sites. No immediate threat to aviation, cargo security, or personnel safety beyond protest areas. Enhanced monitoring recommended for agricultural supply chain routes.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "be7d2a8456e960e61d83ef304b0fd95d",
+    "timestamp": "2025-12-13T15:34:40.328560",
+    "original_title": "LIVE: Israel attacks Gaza City, threatens southern Lebanon strike - Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNU5fSjRlSXNjQUZxY1VyeE9iN3dWbi1HVzV4dThidnVGRVBJdm0wOFRyZUdSaWswUlFGSHl2UURXTHRqTzJxSjBjem5hNWw4LTBISG90LVV4QnlDMTRoZGlwSUhncElDUTVOSk9UQ0hfcnBZUmd5NTZxeXp3QkNMQ1E5eUVtcldzeGxNZlN1QTZqb01oZzBzTENiT1VuaTV6MWc3QjNLeXJhSDIyUG1tNnAyONIBuAFBVV95cUxNMDMyRERWLURJeHdkT0RnUklVdG9FSkFHWGVzbXZiNGRKeFdRMTNlUU9BUWpacVdfYWkxOC0xRW0ySW1DWXpuUFltbW9sVTRJTkdFZjdidWtuLXJZSkU1OE05VnhFYk5OMzlCR3g5dFgxMXpadkxOVUM3LU1VMzBKYy1sX3BaUE41SzRuS0N3Q1NBTkZfYnoyVEpKMmFBczlwVDFuaEplLWpoSHl1OU5JZ25MNndUOWN1?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 9,
+      "location": "Gaza City, Southern Lebanon",
+      "latitude": 31.5,
+      "longitude": 34.4667,
+      "detailed_analysis": "Active military operations in Gaza City with explicit threat of escalation to southern Lebanon. High probability of cross-border strikes, potential for regional spillover. Aviation assets at risk from anti-aircraft systems, possible drone activity, and retaliatory strikes. Personnel in conflict zones face immediate physical danger. Cargo movement severely disrupted in affected areas.",
+      "immediate_forecast_24h": "Continued airstrikes in Gaza, high likelihood of strikes in southern Lebanon. Possible rocket/mortar retaliation. Airspace restrictions likely near conflict zones. Ground operations may expand.",
+      "strategic_outlook": "Prolonged conflict expected with potential regional escalation. Maritime and aviation routes near Lebanon/Israel may see increased military activity. Heightened risk to commercial shipping and aviation in Eastern Mediterranean.",
+      "operational_impact": "Avoid all non-essential movement in Gaza and southern Lebanon. Reroute aviation and maritime traffic away from conflict zones. Implement heightened security protocols for personnel and assets in region. Expect significant port/airport disruptions.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "3dfa5b3ae309022ff871c3091651c40a",
+    "timestamp": "2025-12-13T15:34:55.485603",
+    "original_title": "Senior Hamas terrorist Ra'ad Sa'ad killed in IDF strike on Gaza City, intelligence source confirms",
+    "link": "https://www.reddit.com/r/worldnews/comments/1plnxvh/senior_hamas_terrorist_raad_saad_killed_in_idf/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Gaza City",
+      "latitude": 31.5,
+      "longitude": 34.4667,
+      "detailed_analysis": "IDF strike targeting senior Hamas commander indicates active military operations in Gaza. High likelihood of retaliatory attacks against Israeli assets. Potential for escalation including rocket attacks targeting civilian infrastructure, increased IED threats near border areas, and possible targeting of logistics routes. Cargo movements near conflict zones may face interdiction risks.",
+      "immediate_forecast_24h": "Heightened security alert for all assets in southern Israel and Gaza periphery. Expect possible rocket attacks, increased UAV activity, and potential roadside IEDs. Aviation may face short-range rocket threats near border areas. Personnel movement in region should follow heightened security protocols.",
+      "strategic_outlook": "Continued targeted strikes likely to provoke asymmetric responses including potential maritime threats, attempted border breaches, and attacks on supply chains. Conflict may expand to include cyber attacks on critical infrastructure. Regional tension increases risk to all transport corridors.",
+      "operational_impact": "All personnel in southern Israel and Gaza vicinity should shelter in place when possible. Cargo movements should avoid known conflict zones. Aviation operations should maintain heightened awareness for MANPADS and rocket threats. Implement additional screening for personnel and vehicles moving through affected areas.",
       "proximity_alert": null
     }
   }
