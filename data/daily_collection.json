@@ -226,5 +226,43 @@
       "operational_impact": "Possible delays or cancellations due to crew coordination issues or protests; increased monitoring of employee communications and union activities recommended.",
       "proximity_alert": "YAKIN TEHDİT: Chicago O'Hare International Airport (0 km)"
     }
+  },
+  {
+    "id": "1e769719ee21698af9d60563372625aa",
+    "timestamp": "2025-12-13T11:28:45.570959",
+    "original_title": "Russia again targets Ukraine's energy infrastructure in 'massive attack' - ABC News",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPam1RQXBNdEZCbUI3WHlWallmRGMyc1RqTFNILVk2NGFGQUFCc1ZqUVB0QWdILXBscTlCa3lKcUZ0eVFFSGpxMURrd1ZqNE5hUUJVQzl3ME5qQ2xWTG1LU25DMnFHZ3hINkdoZzhQSWt3enNER0wwRHdqUVVRWWVTRFA3U2I5RnhpYlNXeG5VMm5nT1NfQnJUZExfVHZOWE5BRXhPbWJVNmpvRk9KZnRxYWlJNEVhSVXSAbwBQVVfeXFMT21RaW1OOGpvUzVnZHY2bXc5QW45WjFqY2hhVnJQNXNBNzk3UE1HX29JTl9kM0VLRF9qOEhKRC1pRjJsSkVpTDh5MVJna3cyd3Q2VXV4Um5zVFR6N1RSbFk0SGNKUjdKRlZnM0xDWG92U2ZYUlRPc2E5SGlWTUxYN3I0b0FOY2szeFQwYkgzZ3ZrZWN5MEEySTI4bE4tRW93Q1d0a1R0MmRHSU1GNUljRm9nX19yNS1zcVMtZVI?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 9,
+      "location": "Ukraine",
+      "latitude": 48.3794,
+      "longitude": 31.1656,
+      "detailed_analysis": "Russia's renewed targeting of Ukrainian energy infrastructure represents a deliberate escalation in hybrid warfare tactics. This attack directly impacts critical national infrastructure, potentially disrupting power grids, fuel distribution networks, and transportation systems. The timing suggests strategic coordination to maximize winter vulnerability. Energy infrastructure attacks create cascading effects on civilian populations, industrial operations, and military logistics.",
+      "immediate_forecast_24h": "High probability of continued or retaliatory strikes on energy targets. Increased air defense activity expected. Potential for secondary infrastructure failures and emergency response operations. Possible disruptions to regional transportation and supply chains.",
+      "strategic_outlook": "Persistent targeting of critical infrastructure likely to continue as part of Russia's campaign to degrade Ukrainian resilience. May lead to prolonged energy shortages affecting industrial output, transportation capacity, and civilian mobility. Increased risk of spillover effects on neighboring countries' energy networks and regional stability.",
+      "operational_impact": "Critical infrastructure protection protocols should be activated. Energy-dependent operations (aviation fuel, port operations, rail systems) face immediate disruption risk. Personnel in affected regions require enhanced security measures. Cargo movements may experience delays due to power outages and infrastructure damage. Aviation operations may face increased security screening requirements.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "fc4f3d89f371f856ab935c962f12656a",
+    "timestamp": "2025-12-13T11:29:03.853784",
+    "original_title": "Zelensky visits troops as Ukraine claims gained ground near key city",
+    "link": "https://www.france24.com/en/video/20251213-zelensky-visits-troops-as-ukraine-claims-gained-ground-near-key-city",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Kupiansk, Kharkiv Oblast",
+      "latitude": 49.7063,
+      "longitude": 37.6167,
+      "detailed_analysis": "Active military operations reported in Kupiansk area with Ukrainian forces claiming territorial gains and repelling Russian advances. Kupiansk is a strategic railway hub, making it a high-value military objective. Increased kinetic activity suggests elevated risk to personnel and infrastructure in the immediate area.",
+      "immediate_forecast_24h": "High probability of continued artillery exchanges, possible airstrikes, and ground combat in Kupiansk vicinity. Potential for collateral damage to transport infrastructure and civilian areas. Increased military vehicle movements on roads.",
+      "strategic_outlook": "Sustained conflict likely to continue given Kupiansk's strategic importance as logistics hub. Possible escalation of attacks on transportation networks. Extended disruption to rail and road cargo movements in northeastern Ukraine.",
+      "operational_impact": "Avoid all travel to Kupiansk and surrounding areas. Heightened risk to personnel and cargo movements within 50km radius. Potential for sudden road closures, checkpoint changes, and artillery fire affecting transport routes. Aviation operations at risk from potential MANPADS or drone activity.",
+      "proximity_alert": null
+    }
   }
 ]
