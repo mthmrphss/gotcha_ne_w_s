@@ -340,5 +340,62 @@
       "operational_impact": "Avoid non-essential travel to Brown University campus and surrounding areas. Implement heightened personnel security protocols for staff in Providence. Monitor for potential transportation disruptions due to police activity. Prepare for possible evacuation or shelter-in-place orders if threat escalates.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "dc5005b0f14d73aabde0971ddd3f0197",
+    "timestamp": "2025-12-14T04:57:52.868045",
+    "original_title": "Two Iowa National Guard soldiers killed, three wounded in ISIS attack in Syria - KCCI",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNS1M5WFpiRnAyMFNqWnhmSl9veU9ublAwQ0lsVmhST3d5M1dTLVNVTXNjYTM4a3pFZmVjSTE5NDFKNko3SGZJRFl0RC1KQi1qeVEtRV9KckR1R0pOWFY0bUZ5dmpWQThoZjliS09hdXRHRzB6Z2pVR21oM2hRUm1ncHpJV1dsS2hzSEJDdThHeHNWZw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 9,
+      "location": "Syria",
+      "latitude": 35.0,
+      "longitude": 38.0,
+      "detailed_analysis": "ISIS attack targeting US military personnel in Syria resulting in casualties. Indicates active terrorist operations against coalition forces. Attack demonstrates ISIS maintains operational capability and intent to target Western military assets in the region.",
+      "immediate_forecast_24h": "High probability of retaliatory strikes against ISIS positions. Increased security posture for all US/coalition forces in Syria. Potential for follow-on attacks by ISIS or sympathetic groups.",
+      "strategic_outlook": "Sustained terrorist threat in Syria against military personnel and assets. ISIS likely to continue asymmetric attacks despite territorial losses. Regional instability maintains fertile ground for terrorist operations.",
+      "operational_impact": "Immediate force protection upgrades required. Enhanced perimeter security, convoy procedures, and intelligence collection. Possible temporary suspension of non-essential movements. Increased scrutiny of local national employees and contractors.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "db4df420c6d67b5ea39a0359c537157b",
+    "timestamp": "2025-12-14T04:58:02.724414",
+    "original_title": "Russia and Ukraine trade attacks as US and European officials prepare for peace talks",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pm4tlx/russia_and_ukraine_trade_attacks_as_us_and/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Ukraine-Russia border region",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Escalating military exchanges between Russian and Ukrainian forces involving drone strikes and artillery fire, coinciding with diplomatic preparations for peace talks. This indicates heightened volatility with potential for miscalculation or intentional escalation during negotiations. Critical infrastructure, transport routes, and personnel in conflict zones face direct kinetic threats.",
+      "immediate_forecast_24h": "High probability of continued cross-border attacks, possible expansion of strike targets to include logistics hubs or transport infrastructure. Increased drone activity expected near border regions and conflict zones.",
+      "strategic_outlook": "Potential for conflict to spill into neighboring regions or international waters/airspace. Peace talks may temporarily reduce hostilities but could also trigger pre-negotiation posturing through intensified attacks. Maritime and aviation routes in Black Sea region remain vulnerable.",
+      "operational_impact": "All personnel and assets in Ukraine and border regions should maintain heightened security posture. Aviation operations near conflict zone require enhanced threat monitoring. Cargo routes may experience disruptions due to infrastructure damage or security closures. Consider rerouting critical shipments away from eastern Ukraine and Black Sea hotspots.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "4d769b04e8b9850f0471f696140b3535",
+    "timestamp": "2025-12-14T04:58:09.760416",
+    "original_title": "German authorities foil Christmas market terror attack",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pm4m7h/german_authorities_foil_christmas_market_terror/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 8,
+      "location": "Germany",
+      "latitude": 51.1657,
+      "longitude": 10.4515,
+      "detailed_analysis": "German authorities intercepted a planned Islamic terrorist attack targeting a Christmas market. The attack was foiled through intelligence and law enforcement operations, indicating active terrorist plotting during holiday seasons. Christmas markets represent soft targets with high civilian density, making them attractive to terrorists seeking mass casualties and psychological impact.",
+      "immediate_forecast_24h": "Increased security presence at German Christmas markets and public gatherings. Possible copycat threats or retaliatory planning by associated networks. Elevated alert level for similar targets across Europe.",
+      "strategic_outlook": "Persistent terrorist threat to soft targets in Europe during holiday periods. Potential for increased propaganda and recruitment efforts following failed attacks. May inspire similar attempts in other Western countries with public gatherings.",
+      "operational_impact": "Immediate enhancement of security measures at all public events and markets. Increased intelligence sharing among European security agencies. Recommended review of security protocols for holiday events across all assets. Personnel traveling to European holiday markets require heightened situational awareness.",
+      "proximity_alert": null
+    }
   }
 ]
