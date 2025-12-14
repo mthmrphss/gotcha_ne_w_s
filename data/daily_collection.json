@@ -302,5 +302,43 @@
       "operational_impact": "Avoid non-essential travel to affected areas; reroute cargo if possible. Heighten personnel security protocols; monitor local alerts closely. Aviation may experience delays due to security reinforcements; assess need for additional cargo escorts or secure storage.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "68a78a5bfbfb2a46b1b91eb09a26141e",
+    "timestamp": "2025-12-14T23:32:54.419114",
+    "original_title": "Brown University mass shooting live updates: Media reports ID person of interest - The Providence Journal",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPM3FfMlltMHBldWg4U3BhbVNQdkFSdGxmNUQ5clFtbGpTYXlTZFBJUlV3WXJFOVV6TVg4bUo5WHd0NzRtbjBfYU1sc2dhOVowa3dmV3RIVGw4U0ZCUnhEblFRX01XOFRRcWotZ0Z5clQ1Z1MxSElOT0lsS3paeUNFMjdlZV8yZDB0cllrU3NlZ05weS1MT3R0U05BalM5cXlYNzlPOUhTNjRHRl9NbHpndTlZOTNnNmpnZ0RIRVBJSktkYVlHTlFNZU0tbVdOVkhCNUMtVmM3c3pHUkIxY2dzLXQzcDdBb3ljY1A5cThmYw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 8,
+      "location": "Providence, Rhode Island",
+      "latitude": 41.824,
+      "longitude": -71.4128,
+      "detailed_analysis": "Mass shooting incident at Brown University with identified person of interest. Active shooter situations create immediate security threats to personnel, potential for campus lockdowns, and disruption to transportation/logistics in surrounding areas. Requires immediate law enforcement response and potential evacuation protocols.",
+      "immediate_forecast_24h": "High probability of continued police activity, campus closures, and transportation disruptions in Providence area. Possible secondary threats if shooter remains at large. Increased security screening at nearby transportation hubs.",
+      "strategic_outlook": "Potential for copycat incidents or heightened security alerts at educational institutions nationwide. May lead to increased security measures at university-related transportation and events.",
+      "operational_impact": "Avoid non-essential travel to Providence area. Heighten security posture for personnel in Rhode Island. Monitor campus alerts and law enforcement communications. Prepare for potential supply chain delays due to road closures and security cordons.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "95ca79284f1795acdb7ad606c509e9ab",
+    "timestamp": "2025-12-14T23:33:07.109143",
+    "original_title": "Five arrested over plot to attack German Christmas market",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pmrv6i/five_arrested_over_plot_to_attack_german/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 8,
+      "location": "Germany",
+      "latitude": 51.1657,
+      "longitude": 10.4515,
+      "detailed_analysis": "Five individuals arrested for plotting an attack on a German Christmas market. Christmas markets are soft targets with high civilian density, making them attractive for terrorist operations. The plot was intercepted by authorities, indicating potential intelligence success but also demonstrating persistent terrorist intent in European public spaces.",
+      "immediate_forecast_24h": "Increased police presence and security screening at German Christmas markets; possible copycat threat considerations; heightened public alertness but reduced immediate risk due to arrests.",
+      "strategic_outlook": "Continued elevated threat environment for public gatherings in Europe; potential for displaced plots or inspired actors; seasonal patterns may indicate increased targeting during holiday events.",
+      "operational_impact": "Recommend increased vigilance at all European public gatherings; review security protocols for soft targets; coordinate with local law enforcement for intelligence sharing; consider temporary security enhancements for high-profile events.",
+      "proximity_alert": null
+    }
   }
 ]
