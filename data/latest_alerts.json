@@ -93,5 +93,43 @@
       "operational_impact": "Actions for SOC and partners: elevate threat intel sharing with law enforcement and aviation security; implement event risk assessments, revise patrol routes around gatherings, train staff in crowd-management; maintain communications with Jewish community centers; monitor social media for threats; prepare contingency plans for flight disruptions, cargo security at Australian hubs (if any), and continuity of operations in case of extended security posture; ensure incident response playbooks updated to address antisemitic violence threats.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "d6bef0dcb636aa250ac6e9fe1fe9170e",
+    "timestamp": "2025-12-14T19:28:05.167865",
+    "original_title": "Bondi shooting death toll rises to 16, including a child, after gunmen targeted Jewish festival - BBC",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAxNHFNX19vdml1QnllSVNHY1dZQjI2cnMtdW82MWgxLXY5UjIwTVhEbkNZYU9CRW5ITEN6Y1JNWGVzSVExTWNHZWpiX2dsdE90LTdhSg?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 9,
+      "location": "Bondi, Sydney, Australia",
+      "latitude": -33.8915,
+      "longitude": 151.2767,
+      "detailed_analysis": "Mass shooting event targeting a Jewish festival, indicating a likely ideologically or religiously motivated attack. High casualty count (16 dead, including a child) suggests organized or heavily armed perpetrators. Potential for copycat attacks or retaliatory violence.",
+      "immediate_forecast_24h": "Elevated security alert for Jewish community events, public gatherings, and transport hubs in Sydney. Possible increased police/military presence. Risk of secondary attacks or panic-induced incidents.",
+      "strategic_outlook": "Potential rise in sectarian tensions, targeted threats against religious/minority groups. May influence global security posture for similar events. Increased scrutiny on firearms access and extremist rhetoric in Australia.",
+      "operational_impact": "Immediate lockdowns or heightened screening at airports, ports, and high-value asset locations. Possible delays in cargo/aviation due to security reassessments. Personnel advised to avoid crowded public spaces and religious sites temporarily.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "04c4921f031ad410a5726ce20549f8ae",
+    "timestamp": "2025-12-14T19:28:15.436052",
+    "original_title": "Deadly Attack on U.S. Troops Poses Growing Challenge for Syria’s Leader",
+    "link": "https://www.nytimes.com/2025/12/14/world/middleeast/syria-us-soldiers-killed.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Syria",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Attack on U.S. troops indicates active hostile intent against foreign military personnel, likely by insurgent or terrorist groups. This elevates risk to all U.S. and allied assets, personnel, and operations in Syria, with potential for retaliatory actions or escalation.",
+      "immediate_forecast_24h": "Increased militant activity; possible follow-up attacks or heightened security alerts for military convoys, bases, and aviation routes in the region.",
+      "strategic_outlook": "Prolonged instability likely; may hinder reconstruction, aid logistics, and diplomatic efforts. Risk of expanded conflict zones or cross-border tensions affecting regional cargo and personnel movement.",
+      "operational_impact": "Enhanced security protocols advised for all personnel and assets; possible delays or rerouting for cargo and aviation in Syrian airspace/territory; increased vigilance for IEDs, ambushes, or drone threats.",
+      "proximity_alert": null
+    }
   }
 ]
