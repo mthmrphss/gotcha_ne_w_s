@@ -1081,5 +1081,62 @@
       "operational_impact": "Enhanced personnel security protocols for Jewish-affiliated organizations and diplomatic personnel. No immediate impact on cargo or aviation operations, but requires monitoring for any escalation to transportation infrastructure targeting.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "e3332eb4cdc2002814adcbd0e414209e",
+    "timestamp": "2025-12-14T14:39:31.193326",
+    "original_title": "Bondi Beach shooting live: 11 killed in Sydney attack at Jewish event - Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRjkzY1NtMllaWGRuQzdPdlJrU0FtMW1idmFneEZiZVJKenJzYVNzeXhObF94ZUp1N3d5RkozTVotaHJLYmZscjVhMlJDb0tXOVc5TUtOSERUMUpqcHVUanpoZmgwYm5oMDBfX2dSQVlRQ1JVS190NmxjUmVZcmppLWpNVXZoWkgzcHZ1TWhmN0FNWGg4RlA1VzVjYWxBVEhyTlZsMHhLcDlkdTkyc01oWklhNGFKWGhOX2NBeWt2ZU3SAcYBQVVfeXFMTWZPanVCN2JQcUdxcGlzdUY1Z0NFWXFJZE94Q2xMZ3JtUEM0OTNYRWNaUWI4M3VkS1VacXN1cUFiQmtNaGhjVHM2Skk3M21zXzZ3cjJkcFEyMXFNSEFPeVVjTDl1SDNKZWpmT1k4bXEzdXljdmRuVGJnd3R4ZE1jQ1p0QmpYcTNzb1dnMzdlUlFZUkxKM1Q2ZWFXMkNpUFRQTml1M2RyVnEtTUZVcTc2LWN4RUdNU0puaXB2bElXcDc0aXFDTVdn?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 8,
+      "location": "Bondi Beach, Sydney, New South Wales, Australia",
+      "latitude": -33.891,
+      "longitude": 151.276,
+      "detailed_analysis": "Event type: mass shooting at a Jewish community event on Bondi Beach, Sydney. Casualty count reported (11 killed) indicates a high-profile extremist attack with potential ideological motivation. Immediate security implications: heightened threat to public gatherings, religious/community sites, and transit hubs. Potential for copycat incidents and retaliatory acts; investigators will pursue possible links to organized extremist networks and online recruitment channels. Operational concerns for assets: public safety at beaches and event venues; critical infrastructure in the Sydney metropolitan area; risk to personnel in crowded environments; minimal direct cargo risk unless coordinated with larger disruptions. Monitoring should focus on: credible threats to gatherings, hate crime escalation, and online propaganda; cross-border intelligence sharing with Australian authorities and international partners. The incident may influence travel behavior and security posture in aviation and transportation networks as authorities raise alerts and perform enhanced screening, though no immediate flight disruptions are confirmed.",
+      "immediate_forecast_24h": "Expect heightened police presence around public venues, beaches, and Jewish community sites; possible closure of Bondi Beach or nearby parks; enhanced screening at major airports and transport hubs; increased public alerts and surveillance; potential disruption to large gatherings; ongoing investigation may disrupt travel plans for certain corridors; watch for copycat threats.",
+      "strategic_outlook": "Over the coming days to weeks, expect continued security tightening around mass-casualty event planning, greater liaison with Jewish community leadership, and possible policy discussions on countering extremist violence online and at public events; civil unrest risk remains if misinformation or retaliation occurs; long-term focus on preventing similar attacks through intelligence sharing, community engagement, and robustness of event security.",
+      "operational_impact": "Actions for SOC: monitor open-source and official alerts for Bondi-related threats; correlate with local policing advisories; track social media chatter and online propaganda; assess risk to venues, transport hubs, and personnel; coordinate with aviation security if warranted; maintain 24/7 monitoring and rapid incident response; engage with stakeholders and community partners to share threat information and security best practices.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "4c14c457c30a84219097476d669f1308",
+    "timestamp": "2025-12-14T14:39:54.552203",
+    "original_title": "At Least 11 Murdered in Terror Attack on Hanukkah Celebration at Bondi Beach - Combat Antisemitism Movement",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQkotY3ZHdy1FTjktcFppLXF0WS1WRW10R09IQ01NTk0tNnRtNkNmcFVfcmp1RHR5T2txMkZjYUVzV0w2Y192OHE2OG9mWEVWQnB5Wkp1amRldWdNZnVqSEF0R21qM3A4ZmNZb204ci1IalBEVlZiUS1VaE01SlEteERrZDdsam5UZ29DNE12Y1hyTld5LUR5VVdBY0dqSUhjcUdHbHpfR1VNNnhJaDhaUDZVRG5VWlQ5?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 8,
+      "location": "Bondi Beach, Sydney, New South Wales, Australia",
+      "latitude": -33.891,
+      "longitude": 151.276,
+      "detailed_analysis": "A violent extremist attack targeting a Hanukkah celebration at Bondi Beach indicates a high-risk environment for public gatherings and Jewish community events. Potential assets at risk include attendees, volunteers, event infrastructure and local businesses. The incident may prompt heightened online propaganda and intimidation against Jewish communities, increasing the risk of secondary incidents or copycat threats. Local authorities will likely respond with an elevated security posture: patrols, road management, screening at event sites, surge in intelligence activities, and public safety messaging. Interagency coordination with counterterrorism units will be critical. International attention could influence community relations and vigilance among local security partners.",
+      "immediate_forecast_24h": "Continued police operations and official briefings are expected. Increased security presence at Bondi Beach and other public venues, potential temporary closures or crowd management measures, and possible disruptions to related public transportation if large crowds gather. Ongoing social media monitoring for threats and hate speech, with rapid dissemination of advisory notices. Community leaders and law enforcement will likely issue protective guidance to reduce risk of retaliation or escalation.",
+      "strategic_outlook": "Over the coming days, there is a risk of retaliation or copycat incidents around public celebrations and Jewish community events. Security services may heighten watchlists, review event protocols, and expand collaboration with community organizations to mitigate threats. Potential long-term impacts include tighter event security standards, enhanced online monitoring for extremist content, and reinforced liaison between law enforcement and faith-based communities to sustain resilience.",
+      "operational_impact": "SOC and partner agencies should expect a surge in incident response workload: intensified patrols, crowd control planning, and coordination with local authorities. Verify and rehearse event security plans, access controls, CCTV coverage, and rapid notification procedures. Ensure protective measures for at-risk groups, optimize communications with transit authorities, and maintain readiness for follow-on investigations or alerts related to threats targeting public gatherings.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "86677430e072fb10ce27824068a17fb2",
+    "timestamp": "2025-12-14T14:40:03.944217",
+    "original_title": "Iran raises gasoline prices for the first time since deadly 2019 protests",
+    "link": "http://www.africanews.com/2025/12/14/iran-raises-gasoline-prices-for-the-first-time-since-deadly-2019-protests/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 7,
+      "location": "Iran",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Gasoline price increase in Iran has historically triggered nationwide protests (2019: 300+ deaths). Potential for renewed civil unrest, road blockades, and disruption to supply chains. Possible escalation to violence against government assets, infrastructure, or foreign interests.",
+      "immediate_forecast_24h": "Increased protest activity likely in major cities. Potential for road closures, fuel station disruptions, and heightened security presence. Possible targeting of logistics and transport infrastructure.",
+      "strategic_outlook": "Sustained civil unrest may impact cargo transit routes, personnel movement, and regional stability. Could escalate into broader anti-government actions affecting economic and transport sectors.",
+      "operational_impact": "Potential delays in cargo shipments, increased risk to personnel in urban areas, possible aviation disruptions if protests target airports. Recommend heightened alert for assets in Iran.",
+      "proximity_alert": null
+    }
   }
 ]
