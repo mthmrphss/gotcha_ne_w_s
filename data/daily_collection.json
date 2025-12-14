@@ -454,5 +454,119 @@
       "operational_impact": "Recommend heightened alert for personnel and assets in border regions. Potential for road closures, increased security screening, and delays in cargo movement. Aviation operations should monitor for potential airspace restrictions if conflict escalates.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "696dba6ceb8d4509eda4be2c23f218a2",
+    "timestamp": "2025-12-14T08:49:15.636622",
+    "original_title": "Hanukkah Display Targeted In Antisemitic Attack On Jewish Home In California - THEJ.CA",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQd2hkQkFuakkwcFByZldrTVR3WUJZUFlXaG1ad1pqRjZWb0ZMSkNDanBueGEtMEtKMXVXWUF4VHBGVDA2MUhZa010cVVWM1JOeHpZSGtFdkc3VUo0Q0JjcXZTQjBBLTVTU0FWazQ5V3ROQ0tIY3FWcE5CR2lZZ1ljYWtNNXFkb1p3WmhnMHh0NndIWmZQbkIxOEpqcmttZC1oVW12YVNfRQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 7,
+      "location": "California",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Antisemitic attack targeting a Hanukkah display at a Jewish residence indicates potential escalation in religiously-motivated violence. While not directly targeting transportation infrastructure, this represents a hate crime with potential for copycat incidents or broader civil unrest. Pattern suggests possible organized extremist activity rather than isolated incident.",
+      "immediate_forecast_24h": "Increased vigilance recommended for Jewish community centers, synagogues, and religious events. Potential for retaliatory actions or additional attacks. Local law enforcement likely increasing patrols in affected areas.",
+      "strategic_outlook": "Possible increase in religiously-motivated attacks during holiday season. May inspire similar incidents nationally. Could lead to heightened security requirements for religious institutions and community events. Potential for spillover into public spaces and transportation hubs if pattern escalates.",
+      "operational_impact": "No direct impact on cargo/aviation assets. Indirect risk to personnel safety in affected regions. May require enhanced awareness for employees in California, particularly those involved in community-facing operations. Consider security briefings for staff in high-risk areas.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "bb7c8b7eedecc9c42063a6fae4bd3ad1",
+    "timestamp": "2025-12-14T08:49:24.197134",
+    "original_title": "AfD Pushes to Publish German Information That Officials Say May Help Russia",
+    "link": "https://www.nytimes.com/2025/12/14/world/europe/germany-far-right-afd-russia-security-secrets.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Other",
+      "risk_score": 7,
+      "location": "Germany",
+      "latitude": 51.1657,
+      "longitude": 10.4515,
+      "detailed_analysis": "AfD lawmakers pushing to publish sensitive national security details could potentially expose critical infrastructure vulnerabilities, military capabilities, or intelligence methods. While not direct terrorism or cyber, this political action creates an information leakage risk that could be exploited by Russian military planning. The deliberate nature distinguishes it from accidental leaks.",
+      "immediate_forecast_24h": "Increased political debate and media coverage likely. Potential for classified information disclosure through parliamentary channels or leaks to media outlets. Possible emergency security council meetings.",
+      "strategic_outlook": "If sensitive information is published, Russia could gain tactical advantages in hybrid warfare, intelligence operations, or geopolitical maneuvering. May lead to increased espionage targeting German assets and require long-term security protocol revisions.",
+      "operational_impact": "Potential need for enhanced security around sensitive installations, review of information sharing protocols, and possible asset relocations. May require increased counter-intelligence monitoring of Russian operatives in Germany.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "70c088cfb26fe72125a86f5163753a33",
+    "timestamp": "2025-12-14T08:49:48.947894",
+    "original_title": "Report: at least 3 dead in mass shooting during Hanukkah event in Australia",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pm9ftd/report_at_least_3_dead_in_mass_shooting_during/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 7,
+      "location": "Australia (unspecified city)",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Event involves a mass shooting during a Hanukkah event in Australia with at least 3 fatalities. Current sources do not publicly confirm motive or suspect details. Potential risk to attendees, event staff, and first responders; risk of evolving threat if a political or extremist angle exists, or if copycat attacks emerge around similar gatherings. Security posture at public events in Australia should be elevated; review perimeter controls, access screening, and rapid lockdown procedures. Monitor social media and intelligence channels for chatter about the incident or threats to synagogues, community centers, and other mass gatherings. Potential implications for assets include damage to venues, temporary closures, and disruption to local infrastructure; cargo operations are unlikely to be directly affected, though supply chains could experience knock-on effects if multiple sites are impacted. Aviation risk remains low at this moment but could rise if the event triggers broader security alerts or travel advisories impacting passenger traffic or airport operations. Immediate actions: coordinate with local law enforcement to secure the scene, initiate protective security measures at similar venues, and issue public safety guidance through official channels.",
+      "immediate_forecast_24h": "Ongoing investigation with suspect(s) at large; expect continued police activity at the scene and nearby venues. Possible additional casualties if additional shootings occur, but uncertain. Heightened security at public events and Jewish community sites nationwide; potential temporary travel advisories or alerts; media coverage may affect public sentiment and social stability.",
+      "strategic_outlook": "In the coming days to weeks, agencies may strengthen protective measures at mass gatherings, improve community security communications, and review gun safety policies. Potential copycat risk remains; ongoing social media monitoring will be important. Long term, security planning for public events in Australia may include enhanced liaison with international partners and continuing assessments of venue security standards.",
+      "operational_impact": "Public venues, transit hubs, and event organizers should anticipate elevated security measures and potential delays. Aviation and cargo operations are unlikely to face direct disruption unless a broader security posture is triggered; otherwise, logistics impact should be minimal. Ensure liaison with police, emergency services, and venue operators to support incident response planning and rapid alert procedures.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "b8a2aa4d8c065af676b8ea1e721a1624",
+    "timestamp": "2025-12-14T08:49:56.547198",
+    "original_title": "Mass shooting at Bondi beach, Sydney",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pm95jh/mass_shooting_at_bondi_beach_sydney/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 9,
+      "location": "Sydney, Australia",
+      "latitude": -33.8688,
+      "longitude": 151.2093,
+      "detailed_analysis": "Mass shooting incident at Bondi Beach indicates high-impact public violence targeting civilians in a crowded recreational area. Event demonstrates active shooter capability, potential for mass casualties, and significant psychological impact. Requires immediate threat assessment for possible follow-up attacks or copycat incidents.",
+      "immediate_forecast_24h": "High probability of continued police operations, area lockdowns, and potential secondary security incidents. Possible transportation disruptions in eastern Sydney. Elevated security posture recommended for all public venues and transit hubs.",
+      "strategic_outlook": "Likely to trigger nationwide security reviews, increased police visibility at public gatherings, and potential legislative responses. May inspire similar attacks or counter-violence. Long-term impact on public perception and security protocols at crowded venues.",
+      "operational_impact": "Immediate suspension of non-essential operations in affected area. Enhanced screening at transportation nodes. Personnel advised to avoid Bondi and surrounding eastern suburbs. Possible delays in cargo/aviation operations due to security response. Increased vigilance required across all Australian assets.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "0c5f5e0e9007abe7e937f6b28bb77698",
+    "timestamp": "2025-12-14T08:50:04.385997",
+    "original_title": "Cameroon post-election unrest: Protesters jailed, others freed",
+    "link": "http://www.africanews.com/2025/12/14/cameroon-post-election-unrest-protesters-jailed-others-freed/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 6,
+      "location": "Cameroon",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Post-election political crisis with protests, arrests, and releases indicates escalating civil unrest. While no direct transport/asset targeting mentioned, such environments typically see increased protests disrupting roads, potential targeting of government/logistics assets, and opportunistic crime. No specific aviation, cargo, or personnel incidents reported yet, but instability creates elevated risk environment.",
+      "immediate_forecast_24h": "Heightened protest activity likely to continue, possibly expanding to major transportation routes or logistics hubs. Potential for road blockades, airport disruptions, or targeting of cargo vehicles if protests intensify.",
+      "strategic_outlook": "Prolonged political instability expected. May lead to increased migration pressures, border disruptions, and potential for escalation into broader conflict affecting regional transport corridors and aviation security.",
+      "operational_impact": "Increased risk to personnel movement and cargo transit. Recommend heightened security posture for assets in urban centers, alternative routing plans, and monitoring airport operations for potential disruptions. No specific aviation or cargo incidents yet, but situation volatile.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "f4f32875fa7aad27d90aebe2ed397c36",
+    "timestamp": "2025-12-14T08:50:11.713842",
+    "original_title": "Girls and women fleeing Mali describe sexual violence by Russian military",
+    "link": "https://www.france24.com/en/africa/20251214-girls-and-women-fleeing-mali-describe-sexual-violence-by-russian-military",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Mali",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Reported sexual violence by Russian military personnel against civilians in Mali indicates deteriorating security environment and potential for retaliatory attacks against foreign military/logistics assets. While not directly targeting cargo/aviation infrastructure, such incidents fuel local hostility toward foreign actors and increase overall operational risk in the region.",
+      "immediate_forecast_24h": "Increased local protests or retaliatory actions possible against foreign military/logistics convoys. No direct threat to aviation assets expected within 24h window.",
+      "strategic_outlook": "Escalating human rights violations likely to intensify local resistance movements and create more hostile operating environment for all foreign assets. Potential for increased IED attacks or ambushes against logistics routes over coming weeks.",
+      "operational_impact": "Heightened risk to personnel movement and ground logistics operations. Requires increased security escorts, route vetting, and personnel awareness training regarding local tensions. No immediate impact on aviation operations or cargo handling facilities.",
+      "proximity_alert": null
+    }
   }
 ]
