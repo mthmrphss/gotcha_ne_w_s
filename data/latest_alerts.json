@@ -1,81 +1,5 @@
 [
   {
-    "id": "6ad10e9ee4be4148e75e58961f6446f7",
-    "timestamp": "2025-12-15T13:54:22.372752",
-    "original_title": "How the Bondi Beach Shooting Unfolded",
-    "link": "https://www.nytimes.com/2025/12/15/world/australia/bondi-beach-shooting-sydney-australia.html",
-    "source_name": "NewYork Times",
-    "ai_analysis": {
-      "category": "Terrorism",
-      "risk_score": 7,
-      "location": "Bondi Beach, Sydney, NSW, Australia",
-      "latitude": -33.8916,
-      "longitude": 151.2767,
-      "detailed_analysis": "Event: two armed assailants opened fire on crowds celebrating Hanukkah at Bondi Beach. Primary risk is to public safety; high likelihood of additional incidents around similar targets (soft targets with crowds) and potential for copycat attacks. Immediate concerns include active shooter containment, medical triage, and safeguarding information flows. Potential for suspects to threaten other Jewish community sites; possible pre-event surveillance, social media chatter, and intelligence-gathering opportunities for authorities. Asset risk: low for critical infrastructure; moderate for public venues and adjacent transport nodes. Cargo/theft risk remains low unless attackers attempt to disrupt supply chains as part of broader disruption. Aviation risk currently low absent direct links to flight operations, but heightened security at transport hubs could occur. Cross-border impacts could include travel advisories, changes in event planning, and fluctuations in tourism. Strong inter-agency coordination (police, counter-terrorism units, EMS) and community liaison with Jewish organizations recommended to deter retaliation and misinformation.",
-      "immediate_forecast_24h": "Active search and possible apprehension of suspects; heightened police presence at beaches and major public venues; potential closure of Bondi Beach and nearby attractions; warnings against large gatherings; mobilization of medical response resources; monitoring for social media threats and misinformation; possible travel advisories or adjustments to local events and school activities in the Sydney area.",
-      "strategic_outlook": "Over the longer term, expect enhanced security posture for mass gatherings (beachfronts, festivals), improved intelligence-sharing and counter-terrorism readiness, and potential venue hardening. Impacts on tourism in Sydney may persist if incidents recur or if advisories are issued. Community engagement with Jewish community organizations will be prioritized to build trust and resilience, while ensuring rapid propagation of accurate information to the public.",
-      "operational_impact": "Increased public-space protection (closures, crowd control, road management near event sites); surge staffing for police, EMS, and security; expanded CCTV and potentially drone surveillance near popular leisure areas; preparedness for active shooter response in crowded venues; possible short-term disruption to local transport and hospitality sectors; cargo operations remain unaffected unless linked to broader disruption; ensure incident command structure is active and information management with media is controlled to prevent panic.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "01221996c3b69654cbd96d4982c37c9f",
-    "timestamp": "2025-12-15T13:54:34.360314",
-    "original_title": "Ugandan Priest detained by Military amid rising election tensions",
-    "link": "http://www.africanews.com/2025/12/15/ugandan-priest-detained-by-military-amid-rising-election-tensions/",
-    "source_name": "Africa News",
-    "ai_analysis": {
-      "category": "Civil Unrest",
-      "risk_score": 6,
-      "location": "Uganda",
-      "latitude": 1.3733,
-      "longitude": 32.2903,
-      "detailed_analysis": "Military detention of a Catholic priest amid election tensions indicates potential state-sponsored suppression of dissent. Religious figures often serve as community organizers; targeting them suggests heightened political instability. No direct threat to assets/cargo/aviation yet, but creates environment where collateral disruption becomes more likely.",
-      "immediate_forecast_24h": "Increased protests possible near religious institutions/military facilities. Potential for roadblocks disrupting logistics routes. Unlikely to directly impact aviation operations unless protests reach airport perimeters.",
-      "strategic_outlook": "Pattern of detentions may escalate into broader civil unrest. Religious groups could organize retaliatory actions. Monitor for emergence of improvised checkpoints or harassment of transport operators. Aviation remains low probability target unless ideological motives shift.",
-      "operational_impact": "Ground transport delays possible in urban centers. Personnel movement requires enhanced route planning. No immediate cargo/aviation threats, though increased military patrols may cause inspection delays at key infrastructure points.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "c61896cf3e6448bb9b16031536631583",
-    "timestamp": "2025-12-15T13:54:44.194832",
-    "original_title": "'A difficult lover': Writer Elaine Sciolino on the Louvre Museum",
-    "link": "https://www.france24.com/en/tv-shows/perspective/20251215-a-difficult-lover-writer-elaine-sciolino-on-the-louvre-museum",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Crime/Theft",
-      "risk_score": 10,
-      "location": "Paris, France",
-      "latitude": 48.8606,
-      "longitude": 2.3376,
-      "detailed_analysis": "The Louvre staff strike, triggered by the October heist of French crown jewels, indicates ongoing security vulnerabilities and internal discontent. While the current event focuses on museum operations, the reference to a major theft incident suggests persistent criminal targeting of high-value cultural assets. The strike itself represents operational disruption but not direct threat escalation.",
-      "immediate_forecast_24h": "Continued strike action likely to maintain museum closure. Low probability of additional criminal activity during heightened attention period, though security gaps may persist.",
-      "strategic_outlook": "Potential for copycat crimes targeting cultural institutions if security measures aren't strengthened. Possible escalation to broader cultural sector labor actions if underlying security concerns aren't addressed.",
-      "operational_impact": "Increased security patrols recommended for high-value cultural sites. Coordination with French cultural ministry advised. No immediate impact on aviation, cargo, or personnel beyond museum operations.",
-      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (1 km)"
-    }
-  },
-  {
-    "id": "f2c5759cf7fd772fcfbaf5f2005066b2",
-    "timestamp": "2025-12-15T13:54:52.739359",
-    "original_title": "Cabo Verde - Level 1: Exercise Normal Precautions",
-    "link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/cabo-verde-travel-advisory.html",
-    "source_name": "US State Dept",
-    "ai_analysis": {
-      "category": "Crime/Theft",
-      "risk_score": 5,
-      "location": "Praia",
-      "latitude": 14.9218,
-      "longitude": -23.5087,
-      "detailed_analysis": "Praia shows elevated crime risk including petty theft (pickpocketing, purse snatching) and violent crime (muggings, armed robbery, assaults). No specific threat to aviation, cargo operations, or personnel beyond general urban crime patterns. Advisory indicates normal precautions for Cabo Verde overall with increased caution specifically in Praia.",
-      "immediate_forecast_24h": "No imminent escalation expected. Current crime patterns likely to continue at existing levels with typical urban criminal activity in Praia.",
-      "strategic_outlook": "Persistent urban crime environment in Praia requiring sustained security awareness. No indicators suggest evolution into organized targeting of assets, cargo, or aviation infrastructure. General travel advisory unlikely to change significantly in near term.",
-      "operational_impact": "Personnel in Praia should maintain heightened situational awareness, avoid displaying valuables, exercise caution at ATMs/banks, and avoid nighttime movement when possible. No specific impact on cargo operations or aviation security noted in advisory.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "061b1043955233ac71a9bab8815b17f0",
     "timestamp": "2025-12-15T14:57:48.359735",
     "original_title": "Deadly attack on Bondi Beach follows rise in antisemitic incidents in Australia - Oregon Public Broadcasting - OPB",
@@ -186,6 +110,101 @@
       "immediate_forecast_24h": "Higher law enforcement presence at Bondi and other beaches, venues, and transit hubs; potential temporary closures or crowd restrictions; authorities will monitor for related online activity and calls to action; public guidance may urge avoidance of large gatherings; watch for additional details on suspect links or possible accomplices.",
       "strategic_outlook": "Short term: maintain elevated counterterrorism posture, interagency coordination, and public communications; medium term: review security protocols for mass gatherings, coastal tourism hotspots, and major events; possible policy and community outreach adjustments; long term: potential impact on public safety messaging and diaspora/community integration efforts, with ongoing vigilance against violent extremism.",
       "operational_impact": "SOC to sustain elevated monitoring of public spaces and online chatter; coordinate with NSW Police, AFP, and intelligence partners; brief venue operators, transit authorities, and tourism stakeholders; ensure rapid incident response readiness, including patrols, access control, and crowd management; evaluate and adjust security resource allocation based on evolving threat intel.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "cb9d0abf4a705e932ec426ec550981c0",
+    "timestamp": "2025-12-15T15:52:51.800459",
+    "original_title": "FBI foils \"terror plot\" targeting Los Angeles, US attorney general says - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ3pZQWlNRmZFam9vMUVmVGNFT0YzT1VMYnRKdW5HeU1DaEM3MlNnUXpIaFc5UHN2eGpXMVRMVVlrMFhzMHpGV1VLdjdlRkFVNjVCXy05WmFGdmRUaHNkTnBhUGlrdDV1YkZ0ZXdzMWJPcElYQ0VRNXktWGZsQVJrSXNPRENhdzdweFhZZU1kZ3JYVE9MQUc1M3FtSUVsRzA1cHdma2VnMU1SdVl1N0pIMnpscw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 10,
+      "location": "Los Angeles, California",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "detailed_analysis": "FBI intervention prevented a confirmed terror plot targeting Los Angeles. The plot was disrupted before execution, indicating successful intelligence and law enforcement coordination. The specific targets within Los Angeles remain undisclosed, but the involvement of federal authorities suggests credible threat to critical infrastructure, public spaces, or transportation hubs.",
+      "immediate_forecast_24h": "Increased law enforcement presence and security screening at Los Angeles airports, ports, and major transit centers. Potential for copycat threats or retaliatory planning by associated groups. All personnel and operations in the LA area should maintain heightened vigilance.",
+      "strategic_outlook": "This event demonstrates continued domestic terror threat landscape. May indicate either lone actor radicalization or organized cell activity. Expect prolonged elevated threat level for major US metropolitan areas, particularly transportation networks and public gatherings.",
+      "operational_impact": "Immediate: Enhanced security protocols for all assets in Los Angeles region. Aviation: Increased passenger and cargo screening. Personnel: Travel advisories for LA area, avoid large gatherings. Cargo: Potential delays due to enhanced inspection procedures. Recommend temporary security upgrades for all facilities.",
+      "proximity_alert": "YAKIN TEHDİT: Los Angeles International Airport (20 km)"
+    }
+  },
+  {
+    "id": "1fe409e164b6f91c8be99b630b2ae2f0",
+    "timestamp": "2025-12-15T15:52:59.615116",
+    "original_title": "Bondi Beach shooting live updates: Australia vows crackdown on guns, antisemitism after shooters kill 15 - NBC News",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTFZuVEVaaE9uWEZiVmFrVmZWaGplc0ZsT2JiaktjN2VuYXNyZEtQT0JibVltZDNtOTZfYzRmTEtQcjFOY1k2UmI2Nnp0VWRieDNfNEttdFBvbWEzMEFSTVJOU0dSaHRwTk54M1duRlRIMklveGN6QzJoM3BiRldyZTEzclJEYU5UMkdmZ2hYSV95YzJPZ3dHRTV2QzYyY01NdnR1VVBQbkxXYkxYajhVbE5zakNrOXNGOTBMUWkzc0J0OE1LS3hOYVJn0gFjQVVfeXFMUGFXMjAteUFTS3ZxdGNQbXFnaDExdTlFaDdtLU5UbkVCRjNYNkp2RjFmb2VfeWJmaTFCSmVYc3d0ZHNEbGt0VUo4TF9vdHhKX0NqUE9oMXZ0NFlhVm5zc2pZbVpF?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 9,
+      "location": "Bondi Beach, Sydney, Australia",
+      "latitude": -33.8915,
+      "longitude": 151.2767,
+      "detailed_analysis": "Mass shooting incident with 15 fatalities, involving multiple shooters and antisemitic motivations. Government response includes immediate crackdown on firearms and antisemitism, indicating potential organized extremist activity rather than isolated criminal act. Event occurred in high-traffic public area with significant international visibility.",
+      "immediate_forecast_24h": "Heightened security presence in Sydney metropolitan area, potential copycat incidents or retaliatory violence. Increased police patrols at tourist locations, transportation hubs, and Jewish community centers. Possible disruptions to public events and transportation due to security screenings.",
+      "strategic_outlook": "Likely escalation of counter-terrorism measures nationwide, including enhanced surveillance and firearms restrictions. Potential for inspired attacks against Jewish communities or soft targets. May trigger increased radicalization efforts by extremist groups. International travel advisories possible for Australia.",
+      "operational_impact": "Immediate suspension of non-essential operations in Sydney area. Enhanced screening for personnel and cargo movements. Temporary restrictions on high-value asset transport. Increased cybersecurity vigilance for critical infrastructure. Possible delays in aviation security processing. Recommend temporary halt to high-profile public events in major Australian cities.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "6c645d97d606665f937f2fe2501bc264",
+    "timestamp": "2025-12-15T15:53:08.969762",
+    "original_title": "Australian Police Plan to Charge Suspect in Bondi Massacre",
+    "link": "https://www.nytimes.com/live/2025/12/15/world/bondi-beach-shooting-australia",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 9,
+      "location": "Bondi, Sydney, Australia",
+      "latitude": -33.8915,
+      "longitude": 151.2767,
+      "detailed_analysis": "Mass casualty attack targeting Jewish holiday celebration with 15+ fatalities and multiple injuries. Pattern suggests potential religious/ideological motivation. Active investigation with one suspect in custody indicates possible ongoing threat assessment. High potential for copycat attacks or retaliatory violence.",
+      "immediate_forecast_24h": "Elevated security posture required for Jewish community centers, religious sites, and public gatherings. Possible protests or counter-protests. Increased police/military presence likely. Potential for secondary attacks or attempts to free detained suspect.",
+      "strategic_outlook": "Likely escalation of religious/ethnic tensions. Possible international connections or inspiration. May trigger increased security measures at transportation hubs and critical infrastructure. Could impact Australia's terrorism threat level and border security protocols.",
+      "operational_impact": "Immediate: Heightened security screening at airports, ports, and critical infrastructure. Medium-term: Increased personnel protection requirements for Jewish community assets. Possible travel advisories affecting regional movement. Enhanced intelligence sharing with international partners.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "311555b8f4ede097ef68c028703adbc3",
+    "timestamp": "2025-12-15T15:53:22.837853",
+    "original_title": "Ukrainian \"Sub Sea Baby\" drones hit Russian submarine in Novorossiysk for the first time in history",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pna66d/ukrainian_sub_sea_baby_drones_hit_russian/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Novorossiysk, Russia",
+      "latitude": 44.7239,
+      "longitude": 37.768,
+      "detailed_analysis": "Ukrainian submersible drones successfully targeted a Russian submarine in Novorossiysk, a major Black Sea naval base and commercial port. This represents an escalation in asymmetric naval warfare tactics, demonstrating capability to strike high-value military assets in defended anchorages. The attack likely utilized unmanned underwater vehicles (UUVs) with explosive payloads, indicating evolving drone warfare applications in maritime environments.",
+      "immediate_forecast_24h": "Heightened Russian naval security posture expected in Black Sea ports. Possible retaliatory strikes or increased maritime patrols. Commercial shipping may experience enhanced screening and delays in the region. Potential for increased drone detection measures and port security upgrades.",
+      "strategic_outlook": "Proliferation of submersible drone technology could threaten naval and commercial maritime assets globally. This attack establishes precedent for non-state actors and smaller navies to target submerged vessels. May lead to accelerated development of counter-UUV systems and changes in naval base protection protocols.",
+      "operational_impact": "Immediate reassessment of port security measures required for all high-value maritime assets. Increased vigilance for anomalous underwater activity near critical infrastructure. Potential for enhanced screening of small vessel traffic near port facilities. May necessitate updates to maritime threat databases and patrol patterns.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "0f306918ab497f3b0f2f676242be0cbf",
+    "timestamp": "2025-12-15T15:53:30.711946",
+    "original_title": "French farmers protest tough government measures to contain cattle disease outbreak",
+    "link": "https://www.france24.com/en/video/20251215-french-farmers-protest-tough-government-measures-to-contain-cattle-disease-outbreak",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 4,
+      "location": "France",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Farmer protests against government-mandated cattle culling measures to contain lumpy skin disease outbreak. While primarily agricultural in nature, protests could escalate into road blockades, supply chain disruptions, or clashes with law enforcement. No direct threat to aviation, cargo theft, or personnel security identified in initial reporting.",
+      "immediate_forecast_24h": "Potential for localized road blockades near agricultural areas; possible minor disruptions to regional cargo transport if protests spread to major highways. Low probability of violence but possible tense standoffs between farmers and protesters.",
+      "strategic_outlook": "Extended protests could impact agricultural supply chains and livestock transportation if sustained. Government likely to maintain culling policy due to disease severity, suggesting prolonged tension. Unlikely to escalate to national security threat level.",
+      "operational_impact": "Minimal direct impact on aviation or high-value cargo operations. Possible secondary effects on regional logistics if protests block key transport routes. Personnel in agricultural regions should monitor for unexpected road closures or protest activity.",
       "proximity_alert": null
     }
   }
