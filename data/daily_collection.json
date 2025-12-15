@@ -435,5 +435,62 @@
       "operational_impact": "SOC focus will intensify on incident response and threat monitoring; potential surge staffing and 24/7 monitoring; coordination with state police and national security partners; possible disruptions to public events or travel if additional threats arise; heightened security around Jewish communities and related organizations.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "18c3e60fa6487c0466b78fc25c1f62d4",
+    "timestamp": "2025-12-15T05:54:33.579315",
+    "original_title": "New Orleans Hanukkah celebration continues despite recent attack in Australia - fox8live.com",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdVFydnlSd2M1VlpoWDMwd25UZ3FZeHBfYVF1TW9yN0xhYjhhTWE1T3FOeTdOendzX0hPUUdPSEpNNy1abU9QLUxSMEx2Q3o2MVB4YjJrR1pTSDI1OGpBRGxoNnhveWJtdWlDTE5sNU9DaUtoVk1lOG5POWdtZmM4Sld4Vi05S2xTTkhsbHBHUDlkWHdTZFJiOS0zVXJVT1RpVEFQb0tCWWNHU0xlLVVWbdIBxAFBVV95cUxPVEl4Z3RQUkFyU3NPeVBKaDBIQkFrVUZ1STJmUS1pMUNiODFDUXg1ZnR4NUJvTDEzMnd3alVMM3htNFNvSkdxRmNVRnpOQk5MU2lTaDRYNkptaHJDcVJ4YnY1Y3FPUVNseWhHWGlhMHJaNlNpYV9pMWNDb0xuZWptU004UnB1X1NQTmdoaDRuMXBBOHRLUGFpYXlRbXdibU5CdWxXWkJhUmt5ZW85OVV4YmoxR0JNZHdNTWc2RElta3hYeUlP?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 7,
+      "location": "New Orleans, Louisiana",
+      "latitude": 29.9511,
+      "longitude": -90.0715,
+      "detailed_analysis": "Event involves a Hanukkah celebration proceeding despite a recent attack in Australia, suggesting potential copycat or inspired threat patterns. While the event itself shows resilience, the reference to an international attack indicates transnational ideological motivation that could inspire local actors. No direct threat mentioned, but pattern suggests elevated vigilance for religious/cultural events.",
+      "immediate_forecast_24h": "Increased security posture recommended for Jewish cultural/religious gatherings in major metropolitan areas. Potential for lone-wolf inspired incidents remains possible though not confirmed.",
+      "strategic_outlook": "Continued monitoring of ideological chatter and international terrorism trends necessary. Possible increase in protective measures for high-visibility cultural/religious events during holiday periods.",
+      "operational_impact": "Recommend coordination with local law enforcement for event security assessments. Review surveillance and protection protocols for similar cultural/religious gatherings. No immediate asset or personnel relocation required.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "bb43d1b281c0116e04ed82c8a9eed2ce",
+    "timestamp": "2025-12-15T05:55:09.792086",
+    "original_title": "Australian Police Investigating Sydney Shooting as Terrorism",
+    "link": "https://www.nytimes.com/live/2025/12/14/world/sydney-bondi-beach-shooting",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 8,
+      "location": "Sydney, New South Wales",
+      "latitude": -33.8688,
+      "longitude": 151.2093,
+      "detailed_analysis": "Terrorism event: mass casualty shooting during a Jewish holiday celebration in Sydney. Reported casualties include at least 15 killed and more than 36 hospitalized; one surviving gunman mentioned in reporting. Implications include a high risk of ongoing threat in the near term due to possible accomplices, sympathizers, or copycat activity. Potential targets are crowded public gatherings, synagogues, Jewish community centers, transit hubs, and other faith or minority venues. Expect intensified protection at mass gatherings, places of worship, airports, and city centers; rapid investigation into attacker motivation, possible networks, and weapon sources. Adversaries may leverage online platforms to praise or recruit, increasing online risk and misinformation. Interagency collaboration (local, state, and federal) will be critical to triage threats, share intelligence, and support affected communities. Security communications should be clear to prevent panic and counter misinformation.",
+      "immediate_forecast_24h": "Within 24 hours, anticipate heightened police presence across Sydney, with security checks at major venues, public transport hubs, and places of worship. Possible temporary closures or disruptions to large events, increased media briefings, and ongoing investigative movements (forensics, interview of suspects, searches). No confirmed second incident at press time, but authorities will monitor for credible threats or copycat activity and respond accordingly.",
+      "strategic_outlook": "Over the next days to weeks, expect sustained counterterrorism operations and threat intel sharing. Long-term security posture at mass gatherings will likely increase, including venue risk assessments, enhanced surveillance, and community outreach to deter radicalization and reduce hate crimes. Potential policy or funding considerations for counterterrorism capabilities and public safety infrastructure.",
+      "operational_impact": "Operationally, surge staffing for law enforcement and emergency medical services; potential impacts to transportation planning and event scheduling; extended security protocols at venues and transit centers; risk of public fear or misinformation requiring comms management; resources allocated to victim support and community liaison.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "39408a326f35f9cef6679a3e83fbee34",
+    "timestamp": "2025-12-15T05:55:20.575228",
+    "original_title": "Moscow attacked by drones: explosions heard, local airports suspended operations",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pmzdab/moscow_attacked_by_drones_explosions_heard_local/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Moscow",
+      "latitude": 55.7558,
+      "longitude": 37.6173,
+      "detailed_analysis": "Drone attack on Moscow with explosions reported, leading to suspension of local airport operations. This indicates a direct threat to aviation infrastructure and potential collateral damage to assets and personnel in the area. The use of drones suggests a non-state actor or asymmetric warfare tactic, elevating immediate security concerns.",
+      "immediate_forecast_24h": "High likelihood of continued airport disruptions, potential for further drone incursions or retaliatory measures. Increased security patrols and possible no-fly zones may be implemented.",
+      "strategic_outlook": "Persistent threat to aviation and critical infrastructure in the region. Possible escalation in drone warfare tactics targeting urban centers, requiring enhanced counter-drone systems and intelligence gathering.",
+      "operational_impact": "Immediate suspension of flights and cargo operations at affected airports. Personnel should avoid non-essential travel to the area; assets in Moscow may face heightened risk of damage or disruption.",
+      "proximity_alert": "YAKIN TEHDİT: Vnukovo International Airport (27 km)"
+    }
   }
 ]
