@@ -530,5 +530,43 @@
       "operational_impact": "Immediate threat to personnel in affected area. Possible supply chain disruptions if location near logistics hubs. Aviation may experience enhanced screening procedures if perpetrators had travel connections.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "2a0acf3d10b61fcc373b60345ff9e492",
+    "timestamp": "2025-12-15T07:51:43.638138",
+    "original_title": "Australia sees deadliest shooting since 1996 at Hanukkah celebration - Axios",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRlhtUmhLY290Q2ExOXRwMHhzS0tYbUkzMHRFV1RLMVZDcTBFdGs2d0tYcHNxWHA4WjN6bVJyUlJYTmdwczlfWi10bER2clZnRnlpNkVOSEQzQ3dpRk9MWXRQRW94TG0wQU40d0JWMlBSay1rZi1CVU1faDBQOGRJRnJOa2xlZw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 7,
+      "location": "Australia",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Event describes a mass shooting targeting a Hanukkah celebration in Australia, indicating a high-risk, hate-motivated violent incident with potential terrorism implications. Immediate risks include further attacks at public gatherings, increased hate crimes against Jewish communities, and elevated security threats around religious and cultural events. Operationally, venues such as synagogues, community centers, and event spaces are primary assets at risk; security posture around public celebrations should be intensified (access control, screening, surveillance). There may be indirect impacts on logistics if large-scale events are disrupted or if supply chains are affected by heightened security around venues and transit hubs. Copycat or retaliatory threats online could emerge, requiring vigilant monitoring of extremist propaganda and retaliation narratives. While aviation assets are not directly implicated, broader security environment could influence travel to Australia and event-related travel logistics if gatherings are curtailed or subject to warnings.",
+      "immediate_forecast_24h": "Expect heightened security operations at mass gatherings and Jewish community centers, with increased police presence, vehicle and person screening at event venues, and potential temporary closures or postponements of public gatherings. Monitor for online threats or calls for retaliation. Minor travel disruptions are possible around heavily affected areas due to security advisories.",
+      "strategic_outlook": "Longer-term implications include sustained elevated security for religious and cultural events, enhanced inter-agency coordination, and potential policy or funding shifts toward protective measures for public gatherings. Risk of copycat incidents and elevated online radicalization may require ongoing monitoring and community liaison efforts. Cross-border information sharing with allied nations could intensify to counter-transnational extremist threats.",
+      "operational_impact": "SOC focus should include: real-time monitoring of social media for threats and propaganda, increased watchlists for individuals linked to the attack, coordination with local law enforcement and venue security teams, rapid incident response readiness for mass-casualty scenarios, and reinforced access controls at public events. Cargo implications are minimal unless targeted supply chains intersect with affected venues; prepare for potential disruption to event-related logistics and ensure continuity plans for staff movements and emergency communications.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "7225f08ab7598eed8a8ff01607715961",
+    "timestamp": "2025-12-15T07:51:53.950545",
+    "original_title": "Jose Antonio Kast: Who is Chile's new ultra-conservative president?",
+    "link": "https://www.france24.com/en/americas/20251215-jose-antonio-kast-who-is-chile-s-new-ultra-conservative-president",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Border/Migration",
+      "risk_score": 6,
+      "location": "Chile",
+      "latitude": -35.6751,
+      "longitude": -71.543,
+      "detailed_analysis": "Election of ultra-conservative president with strong anti-immigration platform likely to trigger increased border enforcement operations and potential mass deportations. This creates elevated risk of border disruptions, migrant protests, and potential clashes between authorities and migrant communities. Increased scrutiny at ports and airports expected.",
+      "immediate_forecast_24h": "Increased border patrol activity likely, potential for protests by migrant advocacy groups. Enhanced cargo inspections at border crossings and ports possible. No immediate threat to aviation security.",
+      "strategic_outlook": "Sustained period of heightened border security operations expected. Potential for increased migrant attempts to cross borders illegally via cargo shipments or stowaways. Possible retaliatory actions from criminal organizations involved in human trafficking.",
+      "operational_impact": "Increased screening required for cargo shipments near border regions. Enhanced vetting of personnel with access to sensitive areas. Potential for protests disrupting logistics near immigration facilities. Aviation operations remain normal but with heightened awareness.",
+      "proximity_alert": null
+    }
   }
 ]
