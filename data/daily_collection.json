@@ -568,5 +568,62 @@
       "operational_impact": "Increased screening required for cargo shipments near border regions. Enhanced vetting of personnel with access to sensitive areas. Potential for protests disrupting logistics near immigration facilities. Aviation operations remain normal but with heightened awareness.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "3d3b02696ea1c8f23dca0b18f9f461d5",
+    "timestamp": "2025-12-15T09:00:25.515802",
+    "original_title": "Bondi Beach Shooting Live Updates: Police to Charge Suspect in Hanukkah Attack - The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYXd1U3BzWGwtQlFVZjgyOVgya3FPWHVOdzBzSFFHWFR3a1Vmbzd3dGpQN2FIZUtXdVpoNjdReFNydEhuZzM0cmRXX21hMEd2YkdDeUVSWTNIVnJNZnhvcHVRaWZTaTFscnpGb0pOM2k0Q05NSEtnQ2IzQkt1cFlUSEpn?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 8,
+      "location": "Bondi Beach, Sydney",
+      "latitude": -33.8915,
+      "longitude": 151.2767,
+      "detailed_analysis": "Shooting incident during Hanukkah celebrations indicates potential religiously motivated terrorism. Active shooter scenario with police engagement suggests significant threat to public safety. Event occurred in high-traffic tourist area, increasing potential for mass casualties and psychological impact.",
+      "immediate_forecast_24h": "Heightened police presence and security screening in Sydney metropolitan area. Possible copycat incidents or retaliatory attacks. Increased vigilance required at Jewish community centers, synagogues, and public gatherings.",
+      "strategic_outlook": "Potential for escalated inter-community tensions. May inspire similar attacks globally. Requires enhanced intelligence sharing and coordination with religious community security teams.",
+      "operational_impact": "Immediate security posture elevation for all personnel in Sydney area. Avoid non-essential travel to Bondi Beach and surrounding areas. Increased screening for cargo and personnel movements near sensitive locations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "f056533573036089d1f7127367d64852",
+    "timestamp": "2025-12-15T09:00:40.917989",
+    "original_title": "Louvre museum closed as staff discuss strike after jewel heist and June shutdown",
+    "link": "https://www.france24.com/en/europe/20251215-louvre-museum-on-strike-after-jewel-heist-and-june-shutdown",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Paris",
+      "latitude": 48.8566,
+      "longitude": 2.3522,
+      "detailed_analysis": "Staff at the Louvre museum are meeting to discuss a potential walkout over pay, working conditions, and security failures following a recent jewel heist. This indicates labor dissatisfaction that could escalate into operational disruptions. While not directly targeting assets or transport, it reflects systemic issues that may affect security posture and public safety in a high-traffic tourist location.",
+      "immediate_forecast_24h": "Potential strike action may lead to museum closure or reduced access, causing public discontent and minor localized disruptions. Low probability of violence, but possible protests or picketing near the venue.",
+      "strategic_outlook": "If unresolved, labor disputes could inspire similar actions at other cultural sites or transport hubs. May draw attention to security vulnerabilities in public spaces, though not indicative of organized threats to cargo or aviation assets.",
+      "operational_impact": "Minimal direct impact on assets, cargo, or aviation. Possible secondary effects if protests spill into adjacent areas or if security staff participation affects perimeter controls. No expected supply chain or personnel transit disruptions.",
+      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (2 km)"
+    }
+  },
+  {
+    "id": "98130a49ef996ee8dcdb27ce2897d3c4",
+    "timestamp": "2025-12-15T09:01:14.807560",
+    "original_title": "A 10-year-old girl, a Holocaust survivor: what we know about the victims of the Bondi Beach shooting",
+    "link": "https://www.france24.com/en/asia-pacific/20251215-a-10-year-old-girl-a-holocaust-survivor-what-we-know-about-the-victims-of-the-bondi-beach-shooting",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 8,
+      "location": "Bondi Beach, Sydney, New South Wales, Australia",
+      "latitude": -33.8915,
+      "longitude": 151.2767,
+      "detailed_analysis": "Mass shooting at Bondi Beach during Hanukkah celebration results in 15 fatalities and about 40 injuries. Primary risk is to personnel at public gatherings; no confirmed cargo or aviation threats associated with the incident. Elevated risk of copycat or retaliatory actions against Jewish targets; ongoing police operation and investigation; security posture for public events, transit hubs, and community centers is likely to tighten in the near term.",
+      "immediate_forecast_24h": "Continued police activity and rapid risk assessment with heightened security at public events, beaches, shopping areas, and transportation nodes around Sydney. Possible delays or closures around Bondi and nearby areas; no credible follow-on threats confirmed yet, but monitoring remains active.",
+      "strategic_outlook": "In the medium term, expect increased protective measures for mass gatherings, synagogues, and Jewish facilities; enhanced interagency and international intelligence sharing; public messaging to deter extremist actions; potential impact on local tourism and event planning as security posture remains elevated.",
+      "operational_impact": "High: elevated risk to people at mass gatherings; potential closures of beaches or venues and tighter crowd management at events; possible short-term disruption to local businesses and tourism; no active cargo or aviation threats identified at this time.",
+      "proximity_alert": null
+    }
   }
 ]
