@@ -834,5 +834,62 @@
       "operational_impact": "Reduced air cargo throughput, potential for perishable goods delays, increased passenger congestion in terminals. Requires enhanced crowd management but no additional security measures needed beyond standard protocols.",
       "proximity_alert": "YAKIN TEHDİT: Manchester Airport (14 km)"
     }
+  },
+  {
+    "id": "5eca518aef011766b8d442649544a963",
+    "timestamp": "2025-12-15T11:38:20.223507",
+    "original_title": "After the Sydney terror attack, a Palisades Hanukkah celebration is ‘all about hope’ - Los Angeles Times",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNemtXQzB1XzNYSHd6YVl2cVpBVlMwZHlEUkV5WldUN0ZyX2hOSTl5TDhtSFhIMzhHZnUyWTRXQTdiMmJNT0gyTDJIV2hhREptWldPenc2QTVNZ3NwMkU3QWFsb3RCTlA4VVBxN1J5bXdiNXJrRXVudzBIbV95VTA3YTBhQ0huTUVHSmpNOWQxTE5vb1JSdy16U3h6djh2OENsMzY4LVhR?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 10,
+      "location": "Los Angeles, California",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "detailed_analysis": "Event references a Hanukkah celebration in Palisades area following Sydney terror attack, indicating potential copycat or inspired threat patterns. Religious gatherings remain high-value targets for extremist elements. Context suggests elevated community vigilance but also potential for retaliatory or symbolic attacks during holiday events.",
+      "immediate_forecast_24h": "Increased police presence likely at Jewish community events. Possible heightened security screening at nearby transportation hubs. Low probability of direct attack but elevated concern for symbolic targeting.",
+      "strategic_outlook": "Potential for continued global inspiration attacks against religious targets. May see increased coordination between local law enforcement and community organizations for event security. Aviation and mass transit may see prolonged elevated threat levels near religious institutions.",
+      "operational_impact": "Recommend increased patrols near synagogues and Jewish community centers. Coordinate with event organizers for security assessments. Monitor chatter for any specific threats. Brief personnel on suspicious activity reporting protocols for public gatherings.",
+      "proximity_alert": "YAKIN TEHDİT: Los Angeles International Airport (20 km)"
+    }
+  },
+  {
+    "id": "ae862033ad1721606f57e02d1c5c931a",
+    "timestamp": "2025-12-15T11:38:31.863008",
+    "original_title": "Australia plans to tighten gun control laws following Sydney attack",
+    "link": "https://www.france24.com/en/video/20251215-australia-plans-to-tighten-gun-control-laws-following-sydney-attack",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 7,
+      "location": "Sydney, Australia",
+      "latitude": -33.8688,
+      "longitude": 151.2093,
+      "detailed_analysis": "Mass shooting incident targeting a Hanukkah celebration indicates potential religious/ideological motivation. Event has triggered immediate government response to tighten firearm regulations, suggesting perceived ongoing threat. While not directly targeting corporate assets, creates elevated security environment with potential for copycat attacks or retaliatory violence.",
+      "immediate_forecast_24h": "Increased police and security presence in Sydney public spaces, particularly around Jewish community locations and major events. Possible protests or counter-protests. Enhanced screening at transportation hubs due to heightened security posture.",
+      "strategic_outlook": "Potential for increased anti-Semitic incidents and religiously-motivated violence in medium term. Firearm regulations may impact illegal weapons trafficking patterns. Could inspire similar attacks by lone actors or small groups in Australia and internationally.",
+      "operational_impact": "Recommend increased vigilance for personnel in Sydney area, especially those near public gatherings or religious sites. Review access controls at facilities. Monitor for unusual weapons-related activity. Temporary travel advisory consideration for non-essential personnel to affected areas.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "af71efcc111c2cdf76cf0fcf9c71837d",
+    "timestamp": "2025-12-15T11:38:39.990419",
+    "original_title": "Australia left \"reeling\" following Bondi Beach terror attack",
+    "link": "https://www.france24.com/en/video/20251215-australia-left-reeling-following-bondi-beach-terror-attack",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 9,
+      "location": "Sydney, Australia",
+      "latitude": -33.8688,
+      "longitude": 151.2093,
+      "detailed_analysis": "Antisemitic terrorist attack at Bondi Beach resulting in multiple casualties, described as deadliest shooting in Australia since 1996. Event has drawn international attention and significant local response including memorial gatherings. Political aftermath indicates potential for heightened security concerns and copycat threats.",
+      "immediate_forecast_24h": "Increased police and security presence in Sydney metropolitan area, particularly around Jewish communities and major public spaces. Potential for spontaneous memorial gatherings that may require security monitoring. Elevated threat level for similar attacks against Jewish targets or crowded public venues.",
+      "strategic_outlook": "Likely increase in antisemitic rhetoric and targeting nationally. Possible inspiration for lone-wolf actors. Government expected to review counterterrorism protocols and public space security measures. International Jewish communities may experience heightened alert levels due to global nature of antisemitic threats.",
+      "operational_impact": "Immediate security reinforcement required at all Jewish institutions, transportation hubs, and major public venues. Enhanced screening procedures for events and crowded areas. Intelligence sharing with international partners regarding antisemitic threat actors. Personnel traveling to/from Australia should exercise increased vigilance in public spaces.",
+      "proximity_alert": null
+    }
   }
 ]
