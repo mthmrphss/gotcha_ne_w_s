@@ -1,43 +1,5 @@
 [
   {
-    "id": "2a0acf3d10b61fcc373b60345ff9e492",
-    "timestamp": "2025-12-15T07:51:43.638138",
-    "original_title": "Australia sees deadliest shooting since 1996 at Hanukkah celebration - Axios",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRlhtUmhLY290Q2ExOXRwMHhzS0tYbUkzMHRFV1RLMVZDcTBFdGs2d0tYcHNxWHA4WjN6bVJyUlJYTmdwczlfWi10bER2clZnRnlpNkVOSEQzQ3dpRk9MWXRQRW94TG0wQU40d0JWMlBSay1rZi1CVU1faDBQOGRJRnJOa2xlZw?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Terrorism",
-      "risk_score": 7,
-      "location": "Australia",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "Event describes a mass shooting targeting a Hanukkah celebration in Australia, indicating a high-risk, hate-motivated violent incident with potential terrorism implications. Immediate risks include further attacks at public gatherings, increased hate crimes against Jewish communities, and elevated security threats around religious and cultural events. Operationally, venues such as synagogues, community centers, and event spaces are primary assets at risk; security posture around public celebrations should be intensified (access control, screening, surveillance). There may be indirect impacts on logistics if large-scale events are disrupted or if supply chains are affected by heightened security around venues and transit hubs. Copycat or retaliatory threats online could emerge, requiring vigilant monitoring of extremist propaganda and retaliation narratives. While aviation assets are not directly implicated, broader security environment could influence travel to Australia and event-related travel logistics if gatherings are curtailed or subject to warnings.",
-      "immediate_forecast_24h": "Expect heightened security operations at mass gatherings and Jewish community centers, with increased police presence, vehicle and person screening at event venues, and potential temporary closures or postponements of public gatherings. Monitor for online threats or calls for retaliation. Minor travel disruptions are possible around heavily affected areas due to security advisories.",
-      "strategic_outlook": "Longer-term implications include sustained elevated security for religious and cultural events, enhanced inter-agency coordination, and potential policy or funding shifts toward protective measures for public gatherings. Risk of copycat incidents and elevated online radicalization may require ongoing monitoring and community liaison efforts. Cross-border information sharing with allied nations could intensify to counter-transnational extremist threats.",
-      "operational_impact": "SOC focus should include: real-time monitoring of social media for threats and propaganda, increased watchlists for individuals linked to the attack, coordination with local law enforcement and venue security teams, rapid incident response readiness for mass-casualty scenarios, and reinforced access controls at public events. Cargo implications are minimal unless targeted supply chains intersect with affected venues; prepare for potential disruption to event-related logistics and ensure continuity plans for staff movements and emergency communications.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "7225f08ab7598eed8a8ff01607715961",
-    "timestamp": "2025-12-15T07:51:53.950545",
-    "original_title": "Jose Antonio Kast: Who is Chile's new ultra-conservative president?",
-    "link": "https://www.france24.com/en/americas/20251215-jose-antonio-kast-who-is-chile-s-new-ultra-conservative-president",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Border/Migration",
-      "risk_score": 6,
-      "location": "Chile",
-      "latitude": -35.6751,
-      "longitude": -71.543,
-      "detailed_analysis": "Election of ultra-conservative president with strong anti-immigration platform likely to trigger increased border enforcement operations and potential mass deportations. This creates elevated risk of border disruptions, migrant protests, and potential clashes between authorities and migrant communities. Increased scrutiny at ports and airports expected.",
-      "immediate_forecast_24h": "Increased border patrol activity likely, potential for protests by migrant advocacy groups. Enhanced cargo inspections at border crossings and ports possible. No immediate threat to aviation security.",
-      "strategic_outlook": "Sustained period of heightened border security operations expected. Potential for increased migrant attempts to cross borders illegally via cargo shipments or stowaways. Possible retaliatory actions from criminal organizations involved in human trafficking.",
-      "operational_impact": "Increased screening required for cargo shipments near border regions. Enhanced vetting of personnel with access to sensitive areas. Potential for protests disrupting logistics near immigration facilities. Aviation operations remain normal but with heightened awareness.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "3d3b02696ea1c8f23dca0b18f9f461d5",
     "timestamp": "2025-12-15T09:00:25.515802",
     "original_title": "Bondi Beach Shooting Live Updates: Police to Charge Suspect in Hanukkah Attack - The New York Times",
@@ -92,6 +54,120 @@
       "strategic_outlook": "In the medium term, expect increased protective measures for mass gatherings, synagogues, and Jewish facilities; enhanced interagency and international intelligence sharing; public messaging to deter extremist actions; potential impact on local tourism and event planning as security posture remains elevated.",
       "operational_impact": "High: elevated risk to people at mass gatherings; potential closures of beaches or venues and tighter crowd management at events; possible short-term disruption to local businesses and tourism; no active cargo or aviation threats identified at this time.",
       "proximity_alert": null
+    }
+  },
+  {
+    "id": "2549d6b000e53e7024f7e78703bac63c",
+    "timestamp": "2025-12-15T09:59:41.112900",
+    "original_title": "A visual guide to the Bondi terror attack - The Guardian",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPel9DSGZlRWwtcTdnX3U4Q3MycE1oXzMyS1VlSGVqdEhpUWxWZGx5bEpJSHpuNTNRNUZwWUdIMFZDSEgxOElaN3RmZ00wN1BMZXZmdFg3SHJreDZ4M25xQmswbVJsQ3A4X3o4MVN1UkNBaU1JMzBqVFgwQVN0OTRRSVhRczYta3pYWXpNZWZ4VlpGTWZsemtrLWU5aWxHTHM5N3lKMQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 9,
+      "location": "Bondi, Sydney, Australia",
+      "latitude": -33.8915,
+      "longitude": 151.2767,
+      "detailed_analysis": "Terror attack at Bondi location involving active threat to public safety. High casualty events typically involve coordinated response from emergency services and potential follow-on security measures. Attack methodology and perpetrator motivation require immediate intelligence gathering.",
+      "immediate_forecast_24h": "Heightened security posture expected across Sydney metropolitan area. Possible transportation disruptions, increased police/military presence, and public venue security screenings. Potential for copycat incidents or secondary attacks remains elevated.",
+      "strategic_outlook": "Likely trigger for nationwide security policy review. Potential for increased counter-terrorism funding, enhanced surveillance measures, and international travel advisories affecting aviation and cargo screening protocols. Long-term impact on public space security design.",
+      "operational_impact": "Immediate ground stop possible for local aviation. Enhanced screening for all cargo and personnel movements. Temporary closure of affected infrastructure. Increased threat level for soft targets including transportation hubs, shopping centers, and public gatherings.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "7b2a48dec9aa6bab2e5a4c5709057e2c",
+    "timestamp": "2025-12-15T09:59:49.307151",
+    "original_title": "Live Updates: Australian Police Plan to Charge Suspect in Bondi Massacre",
+    "link": "https://www.nytimes.com/live/2025/12/15/world/bondi-beach-shooting-australia",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 9,
+      "location": "Bondi, Sydney, Australia",
+      "latitude": -33.8915,
+      "longitude": 151.2767,
+      "detailed_analysis": "Mass casualty attack targeting Jewish holiday celebration with 15+ fatalities and multiple injuries. Pattern suggests potential religious/ideological motivation. Active investigation ongoing with one suspect in custody. High potential for copycat attacks or retaliatory violence.",
+      "immediate_forecast_24h": "Elevated security posture required for Jewish community centers, religious sites, and public gatherings. Possible additional arrests. Increased police presence expected. Potential for spontaneous demonstrations or counter-protests.",
+      "strategic_outlook": "Possible escalation of religious/ethnic tensions. May inspire similar attacks globally. Could trigger increased security measures at transportation hubs and public venues. Potential for international diplomatic repercussions.",
+      "operational_impact": "Immediate: Heightened security screening at airports, ports, and critical infrastructure. Medium-term: Possible travel advisories for Australia. Enhanced personnel security protocols for Jewish-affiliated organizations and events. Increased intelligence sharing with international partners.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "da9b9e9fc95f9c6ac1685d1baa4e78c5",
+    "timestamp": "2025-12-15T10:00:00.420895",
+    "original_title": "Some Australian Jews Accuse the Government of Failing to Heed Warnings",
+    "link": "https://www.nytimes.com/2025/12/15/world/australia/bondi-jewish-australia-shooting.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 4,
+      "location": "Australia",
+      "latitude": -25.2744,
+      "longitude": 133.7751,
+      "detailed_analysis": "Rising antisemitic sentiment and attacks indicate potential for civil unrest, protests remain most likely manifestation. No direct threats to aviation, cargo, or personnel infrastructure identified in this report, but social tensions could indirectly affect operations if protests occur near transport hubs or Jewish-owned businesses.",
+      "immediate_forecast_24h": "Possible localized protests or demonstrations in major cities (Sydney, Melbourne) with low probability of violence targeting Jewish institutions. No expected impact on aviation or cargo operations.",
+      "strategic_outlook": "Sustained antisemitic rhetoric may lead to periodic unrest and require enhanced security for Jewish-affiliated assets. Unlikely to escalate to terrorism or systematic targeting of transport infrastructure without additional catalysts.",
+      "operational_impact": "Minimal direct operational impact. Recommend monitoring protest activity near Jewish community centers and synagogues. No changes to aviation or cargo security protocols indicated at this time.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "83c4771dabe51ec428f67489bd0b9245",
+    "timestamp": "2025-12-15T10:00:14.538929",
+    "original_title": "ECOWAS rejects Guinea-Bissau military transition plan, warns of sanctions",
+    "link": "http://www.africanews.com/2025/12/15/ecowas-rejects-guinea-bissau-military-transition-plan-warns-of-sanctions/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 6,
+      "location": "Guinea-Bissau",
+      "latitude": 11.8037,
+      "longitude": -15.1804,
+      "detailed_analysis": "ECOWAS rejection of military transition plan indicates heightened political instability. While the immediate context discusses climate change impacts, the core threat involves potential sanctions and government instability that could lead to protests, civil disobedience, or military responses. This creates secondary risks to personnel safety and cargo movement if unrest materializes.",
+      "immediate_forecast_24h": "Increased political tensions likely; potential for protests in Bissau and major cities. No immediate threat to aviation or cargo operations, but situational awareness required for personnel movements.",
+      "strategic_outlook": "Extended political standoff possible; sanctions could disrupt supply chains and regional trade routes if implemented. Monitoring recommended for spillover effects in neighboring countries.",
+      "operational_impact": "Personnel travel advisories may be needed; cargo shipments could face delays if port operations or border crossings are affected by civil unrest. No direct aviation threats identified from this event.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "165d259240675c47c0accfebec415d81",
+    "timestamp": "2025-12-15T10:00:21.374211",
+    "original_title": "Louvre goes on strike in fresh blow to museum after jewel heist",
+    "link": "https://www.france24.com/en/europe/20251215-louvre-museum-on-strike-after-jewel-heist-and-june-shutdown",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Crime/Theft",
+      "risk_score": 10,
+      "location": "Paris, France",
+      "latitude": 48.8566,
+      "longitude": 2.3522,
+      "detailed_analysis": "The Louvre strike following a jewel heist indicates potential insider threats, security vulnerabilities, and organized criminal activity. The combination of theft and labor unrest suggests possible internal collusion or systemic security failures. The museum's high-value assets and international profile make it a recurring target.",
+      "immediate_forecast_24h": "Increased protest activity around the museum; potential for opportunistic crimes during security disruptions; possible additional security measures or closures affecting operations.",
+      "strategic_outlook": "Potential for copycat incidents at other high-value cultural sites; long-term security protocol reviews; possible insurance and liability implications for cultural institutions globally.",
+      "operational_impact": "Disrupted museum operations; increased security screening requirements; potential travel delays for visitors; heightened alert for cultural asset protection details.",
+      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (2 km)"
+    }
+  },
+  {
+    "id": "95a78b72370a91914f6c91515759c0e5",
+    "timestamp": "2025-12-15T10:00:30.581930",
+    "original_title": "Louvre goes on strike in fresh blow to Paris museum after jewel heist",
+    "link": "https://www.france24.com/en/europe/20251215-louvre-museum-on-strike-after-jewel-heist-and-june-shutdown",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Paris",
+      "latitude": 48.8566,
+      "longitude": 2.3522,
+      "detailed_analysis": "Louvre museum staff strike due to security failures, overcrowding, and poor working conditions following a recent jewel heist. While the heist itself (Risk 5-8) occurred previously, the current event is a labor strike affecting operations but not directly involving active criminal activity against assets at this moment.",
+      "immediate_forecast_24h": "Potential disruption to museum operations and local tourism; increased public attention may strain security resources. No immediate escalation to violence or additional theft expected.",
+      "strategic_outlook": "If unresolved, strikes could spread to other cultural institutions; may prompt review of security protocols but unlikely to impact broader transport or logistics sectors.",
+      "operational_impact": "Minimal direct impact on cargo, aviation, or personnel beyond localized museum security concerns. Secondary risk of opportunistic crime due to distracted security presence.",
+      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (2 km)"
     }
   }
 ]
