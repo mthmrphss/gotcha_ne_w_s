@@ -93,5 +93,24 @@
       "operational_impact": "Monitor border and port operations for disruptions; review cargo screening procedures for stowaway risks; assess potential for increased migration-related delays or security incidents in transit zones.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "4489a78795c48981a9accb76531075e2",
+    "timestamp": "2025-12-15T05:03:11.404838",
+    "original_title": "Police Plan to Charge Suspect",
+    "link": "https://www.nytimes.com/live/2025/12/14/world/sydney-bondi-beach-shooting",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 9,
+      "location": "Unknown city, Australia",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Event indicates a mass-casualty attack during a Jewish holiday celebration in Australia, attributed to a father and son; the immediate risk is to public safety at mass gatherings and to personnel responding to incidents; potential for ongoing threats or copycat incidents; potential for social and political backlash and security gaps at venues and transit corridors; likely investigation will involve cross-jurisdictional law enforcement and intelligence sharing; possible links to extremist networks; current operational risk remains elevated until the suspect is apprehended or the security posture is normalized.",
+      "immediate_forecast_24h": "Expect heightened public security at religious and cultural events nationwide; increased police presence at venues, transit hubs, and media; possible advisories or temporary closures; ongoing manhunt or containment operations; monitoring of social media for threats and misinformation.",
+      "strategic_outlook": "Over the medium term, authorities will reassess protective measures around soft targets such as places of worship and mass gatherings; potential resource reallocation to threat surveillance, community outreach, and event risk assessment; emphasis on interagency information sharing and public communication; potential policy enhancements for threat detection and incident response.",
+      "operational_impact": "SOC focus will intensify on incident response and threat monitoring; potential surge staffing and 24/7 monitoring; coordination with state police and national security partners; possible disruptions to public events or travel if additional threats arise; heightened security around Jewish communities and related organizations.",
+      "proximity_alert": null
+    }
   }
 ]
