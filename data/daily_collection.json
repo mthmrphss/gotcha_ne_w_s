@@ -663,5 +663,43 @@
       "operational_impact": "Elevated threat to personnel in Ukraine and bordering regions. Possible disruptions to cargo routes through Black Sea. Aviation may face increased GPS jamming and airspace restrictions. Enhanced security protocols recommended for all assets in Eastern Europe.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "3ce392dbf008624cab1e09de67662fc2",
+    "timestamp": "2025-12-16T09:51:32.590631",
+    "original_title": "Photos show the scene of a deadly attack on Sydney’s Bondi Beach - AP News",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ1lubkNoZWdRNHJjd2hRb0R3RDJ5MHBvVzN6T0VuRTVFOVp5SkdZcGxIbDMzS2h6NHBRTklld3gxckw1TTkwV1BIWHdTZ2hiQkVwUjBLc1ExUmw1eFdIZnZNRHpCVzd2QVBJcWJ3WWpXN1hNQVRQUXlTeTdPbWw4VzN6QXhWelBYMjA3bXYyVTFyQTF1dWpGT0RpRjJzdm5sdGxNVWVJeWJBV3ljcTBJ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 8,
+      "location": "Sydney, Australia",
+      "latitude": -33.8688,
+      "longitude": 151.2093,
+      "detailed_analysis": "Deadly attack at Bondi Beach indicates potential terrorist or mass casualty event. Public spaces with high tourist concentration are soft targets. Requires immediate investigation into motive, perpetrators, and potential follow-up attacks. Coordination with local law enforcement and intelligence agencies needed.",
+      "immediate_forecast_24h": "Heightened security alert for public spaces in Sydney. Possible copycat attacks or secondary incidents. Increased police presence and public vigilance recommended. Potential travel disruptions to/from affected area.",
+      "strategic_outlook": "Possible shift in attack methodology toward soft targets in Western countries. May indicate new threat actor or inspired lone wolf. Could impact tourism and public event security protocols long-term.",
+      "operational_impact": "Immediate: Enhanced security screening at transportation hubs. Personnel advised to avoid crowded public areas in Sydney. Medium-term: Possible increased security measures for assets and personnel in Australia. Review of security protocols for public-facing operations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "cf2d71274905ba32c52868e3bbea4157",
+    "timestamp": "2025-12-16T09:51:41.590439",
+    "original_title": "Cartels in Mexico take a leap forward with narco-drones: ‘It is criminal groups that are leading the innovation race’",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pny0ap/cartels_in_mexico_take_a_leap_forward_with/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Crime/Theft",
+      "risk_score": 7,
+      "location": "Mexico",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Mexican cartels are increasingly using drones for narcotics smuggling and surveillance operations, representing a technological escalation in criminal tactics. These narco-drones enable more sophisticated smuggling operations across borders and difficult terrain while reducing detection risks compared to traditional methods. The innovation indicates criminal organizations are adapting technology faster than law enforcement countermeasures in some cases.",
+      "immediate_forecast_24h": "Continued drone operations likely for surveillance and small-scale smuggling. Potential for increased drone activity near border regions and known trafficking routes. Low probability of immediate large-scale incidents.",
+      "strategic_outlook": "Long-term trend shows criminal organizations will continue developing more advanced drone capabilities including longer range, heavier payloads, and possible weaponization. This represents an evolving threat to border security and law enforcement operations that requires counter-drone technology development.",
+      "operational_impact": "Increased surveillance requirements for drone detection along smuggling routes. Potential need for enhanced counter-drone capabilities at border crossings and critical infrastructure. May require updated protocols for cargo inspection and personnel security in affected regions.",
+      "proximity_alert": null
+    }
   }
 ]
