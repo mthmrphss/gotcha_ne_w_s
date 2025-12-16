@@ -1,43 +1,5 @@
 [
   {
-    "id": "3ce392dbf008624cab1e09de67662fc2",
-    "timestamp": "2025-12-16T09:51:32.590631",
-    "original_title": "Photos show the scene of a deadly attack on Sydney’s Bondi Beach - AP News",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ1lubkNoZWdRNHJjd2hRb0R3RDJ5MHBvVzN6T0VuRTVFOVp5SkdZcGxIbDMzS2h6NHBRTklld3gxckw1TTkwV1BIWHdTZ2hiQkVwUjBLc1ExUmw1eFdIZnZNRHpCVzd2QVBJcWJ3WWpXN1hNQVRQUXlTeTdPbWw4VzN6QXhWelBYMjA3bXYyVTFyQTF1dWpGT0RpRjJzdm5sdGxNVWVJeWJBV3ljcTBJ?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Terrorism",
-      "risk_score": 8,
-      "location": "Sydney, Australia",
-      "latitude": -33.8688,
-      "longitude": 151.2093,
-      "detailed_analysis": "Deadly attack at Bondi Beach indicates potential terrorist or mass casualty event. Public spaces with high tourist concentration are soft targets. Requires immediate investigation into motive, perpetrators, and potential follow-up attacks. Coordination with local law enforcement and intelligence agencies needed.",
-      "immediate_forecast_24h": "Heightened security alert for public spaces in Sydney. Possible copycat attacks or secondary incidents. Increased police presence and public vigilance recommended. Potential travel disruptions to/from affected area.",
-      "strategic_outlook": "Possible shift in attack methodology toward soft targets in Western countries. May indicate new threat actor or inspired lone wolf. Could impact tourism and public event security protocols long-term.",
-      "operational_impact": "Immediate: Enhanced security screening at transportation hubs. Personnel advised to avoid crowded public areas in Sydney. Medium-term: Possible increased security measures for assets and personnel in Australia. Review of security protocols for public-facing operations.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "cf2d71274905ba32c52868e3bbea4157",
-    "timestamp": "2025-12-16T09:51:41.590439",
-    "original_title": "Cartels in Mexico take a leap forward with narco-drones: ‘It is criminal groups that are leading the innovation race’",
-    "link": "https://www.reddit.com/r/worldnews/comments/1pny0ap/cartels_in_mexico_take_a_leap_forward_with/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Crime/Theft",
-      "risk_score": 7,
-      "location": "Mexico",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "Mexican cartels are increasingly using drones for narcotics smuggling and surveillance operations, representing a technological escalation in criminal tactics. These narco-drones enable more sophisticated smuggling operations across borders and difficult terrain while reducing detection risks compared to traditional methods. The innovation indicates criminal organizations are adapting technology faster than law enforcement countermeasures in some cases.",
-      "immediate_forecast_24h": "Continued drone operations likely for surveillance and small-scale smuggling. Potential for increased drone activity near border regions and known trafficking routes. Low probability of immediate large-scale incidents.",
-      "strategic_outlook": "Long-term trend shows criminal organizations will continue developing more advanced drone capabilities including longer range, heavier payloads, and possible weaponization. This represents an evolving threat to border security and law enforcement operations that requires counter-drone technology development.",
-      "operational_impact": "Increased surveillance requirements for drone detection along smuggling routes. Potential need for enhanced counter-drone capabilities at border crossings and critical infrastructure. May require updated protocols for cargo inspection and personnel security in affected regions.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "f7d2917c53b026839a2104d37e16265b",
     "timestamp": "2025-12-16T10:53:33.701205",
     "original_title": "Live Updates: Sydney Gunmen Were Motivated by ISIS, Australia’s Leader Says",
@@ -114,6 +76,63 @@
       "immediate_forecast_24h": "Heightened maritime surveillance and potential retaliatory actions by trafficking organizations. Possible increased naval presence and intelligence operations in eastern Pacific corridors.",
       "strategic_outlook": "Sustained military operations against maritime drug trafficking likely to continue. Potential escalation in tactics from criminal organizations, including possible attacks on naval assets or increased use of submersibles/stealth vessels.",
       "operational_impact": "Increased risk to maritime shipping from potential crossfire or misidentification. Possible delays in commercial shipping routes during military operations. Enhanced screening recommended for vessels transiting eastern Pacific zones.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "6e68fdf86217932e7d1509b011524baa",
+    "timestamp": "2025-12-16T11:36:42.554509",
+    "original_title": "Gunmen kidnap 13 worshippers in Kogi state, Nigeria",
+    "link": "http://www.africanews.com/2025/12/16/gunmen-kidnap-13-worshippers-in-kogi-state-nigeria/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 8,
+      "location": "Kogi state, Nigeria",
+      "latitude": 7.7333,
+      "longitude": 6.6833,
+      "detailed_analysis": "Armed attack on religious institution with mass abduction indicates organized militant activity. Pattern suggests potential for further religiously-motivated or ransom-driven kidnappings. Tactics involve direct assault on soft targets during predictable gathering times.",
+      "immediate_forecast_24h": "High probability of additional security incidents in central Nigeria region. Possible roadblocks/checkpoints by security forces may disrupt transport routes. Increased militant movement expected.",
+      "strategic_outlook": "Religious targeting likely to escalate inter-communal tensions. Kidnapping-for-ransom operations may expand to targeting logistics personnel and transport routes. Aviation may face increased scrutiny for potential hostage transport.",
+      "operational_impact": "Personnel movement in rural central Nigeria requires armed escort. Religious facilities and gatherings elevated risk locations. Cargo transport through region may experience delays due to security operations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "7a79a04a198a11d310809ab597418796",
+    "timestamp": "2025-12-16T11:36:54.160250",
+    "original_title": "South Sudan grounds UN aircraft and alleges illegal surveillance and smuggling",
+    "link": "http://www.africanews.com/2025/12/16/south-sudan-grounds-un-aircraft-and-alleges-illegal-surveillance-and-smuggling/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 7,
+      "location": "South Sudan",
+      "latitude": 6.8769,
+      "longitude": 31.3069,
+      "detailed_analysis": "Government grounding of UN aircraft due to allegations of illegal surveillance and smuggling represents a significant aviation security incident. While no physical crash occurred, the forced grounding and accusations create operational disruption and potential intelligence gathering concerns. The UN's denial suggests diplomatic tensions that could escalate.",
+      "immediate_forecast_24h": "Potential for expanded flight restrictions, increased scrutiny of UN/logistics flights, possible retaliatory measures. Enhanced monitoring of airspace activity recommended.",
+      "strategic_outlook": "Could lead to prolonged aviation restrictions, impact humanitarian supply chains, and create precedent for similar actions in conflict zones. May require diplomatic resolution and revised flight protocols.",
+      "operational_impact": "Immediate suspension of affected UN air operations, need for alternative transport arrangements, increased vetting of flight manifests, enhanced communication protocols with local authorities.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "61a37f183a1d12f04afb8f4d3ac8e62d",
+    "timestamp": "2025-12-16T11:37:41.553683",
+    "original_title": "Medetomidine: New drug causing extreme withdrawal crisis spreads in US",
+    "link": "https://www.france24.com/en/tv-shows/press-review/20251216-medetomidine-new-drug-causing-extreme-withdrawal-crisis-spreads-in-us",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Crime/Theft",
+      "risk_score": 6,
+      "location": "Philadelphia, USA",
+      "latitude": 39.9526,
+      "longitude": -75.1652,
+      "detailed_analysis": "Emergence of Medetomidine as a new drug threat in Philadelphia indicates potential for increased organized crime activity, drug trafficking operations, and associated violence. While not directly targeting assets/cargo/aviation, the spread of dangerous narcotics often correlates with increased criminal infrastructure that could intersect with logistics operations through smuggling attempts or compromised personnel.",
+      "immediate_forecast_24h": "No direct threat to assets or operations expected within 24 hours, but local law enforcement activity may increase in Philadelphia area, potentially affecting ground transport routes.",
+      "strategic_outlook": "Long-term potential for this drug trade to develop smuggling routes that could exploit cargo/logistics networks. Possible increased screening requirements for personnel and cargo if this becomes a significant trafficking concern.",
+      "operational_impact": "Minimal immediate impact. Recommend awareness of increased law enforcement presence in Philadelphia area. No changes to current security protocols required, but maintain vigilance for any unusual cargo screening alerts or personnel security issues related to substance abuse.",
       "proximity_alert": null
     }
   }
