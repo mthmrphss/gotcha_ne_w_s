@@ -838,5 +838,81 @@
       "operational_impact": "Minimal immediate impact. Recommend awareness of increased law enforcement presence in Philadelphia area. No changes to current security protocols required, but maintain vigilance for any unusual cargo screening alerts or personnel security issues related to substance abuse.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "2db661df23661bc0a951c2b01b83db10",
+    "timestamp": "2025-12-16T13:54:12.472505",
+    "original_title": "Live updates: Bondi Beach shooting kills at least 15, more details on suspects emerge - CNN",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13RTBQUUFoRGZHaDRhU3lWVEtVaVF1dG9UV2ZzV0xRYVl2N2xJblNFU2VVMlFKRU5ieVJMYW02QW1yWTB6YWJwdHlWeThvRVJvak1EZkkxbXh4eHZXeEsxMmtkOEVsRkFVOWo0bkFCSlprdFI3ajI4bDRtRThKN1E?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 9,
+      "location": "Bondi Beach, Sydney, Australia",
+      "latitude": -33.8915,
+      "longitude": 151.2767,
+      "detailed_analysis": "Mass shooting incident with multiple fatalities (15+ confirmed) at Bondi Beach public location. Suspect details emerging suggest potential terrorist or targeted attack methodology. High casualty count indicates significant threat to personnel and public safety in the area. Requires immediate threat assessment for similar soft targets in urban centers.",
+      "immediate_forecast_24h": "Heightened security alert for public spaces in Sydney metropolitan area. Potential for copycat incidents or secondary attacks. Increased police/military presence expected. Possible transportation disruptions around Bondi area.",
+      "strategic_outlook": "Potential long-term elevation of terrorism threat level in Australia. May trigger increased security protocols at transportation hubs, public venues, and critical infrastructure. Possible impacts on tourism and public movement patterns.",
+      "operational_impact": "Immediate personnel safety protocols activated for all assets in Sydney region. Enhanced screening at airports and ports. Temporary suspension of non-essential operations in affected area. Increased security details for high-value cargo and personnel movements.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "44fd5c123bcd511f2741f7545639587e",
+    "timestamp": "2025-12-16T13:54:22.036959",
+    "original_title": "Britain commits over $800 million to Ukraine air defense in largest single-year military package",
+    "link": "https://www.reddit.com/r/worldnews/comments/1po2he3/britain_commits_over_800_million_to_ukraine_air/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Ukraine",
+      "latitude": 48.3794,
+      "longitude": 31.1656,
+      "detailed_analysis": "UK's $800M military aid package to Ukraine for air defense systems signals heightened geopolitical tensions and potential escalation in the region. While not a kinetic event itself, this commitment increases the likelihood of retaliatory actions by adversarial state actors, possibly targeting UK or allied assets, cargo, or personnel indirectly. Aviation may face increased risks from enhanced anti-air capabilities or countermeasures.",
+      "immediate_forecast_24h": "No direct imminent threat to assets, but heightened alert for disinformation campaigns, cyber probing, or symbolic provocations against UK interests is advised.",
+      "strategic_outlook": "Sustained military support may prolong conflict dynamics, increasing long-term risks to logistics routes, diplomatic personnel, and regional stability. Potential for asymmetric retaliation (e.g., cyberattacks, sabotage) against UK or NATO infrastructure.",
+      "operational_impact": "Monitor for increased hostile reconnaissance near UK embassies, military logistics hubs, and cyber infrastructure. Aviation may experience heightened airspace restrictions or GPS spoofing in Black Sea region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "ccc0d4c83fece54c7d1c5107ce66ac18",
+    "timestamp": "2025-12-16T13:54:29.496832",
+    "original_title": "Hanukkah ceremony in New York held under tight security post Bondi attack",
+    "link": "http://www.africanews.com/2025/12/16/hanukkah-ceremony-in-new-york-held-under-tight-security-post-bondi-attack/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 10,
+      "location": "New York",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "detailed_analysis": "Event involves heightened security measures for a religious ceremony following a terror attack reference (Bondi Beach attack context). While no direct threat is reported, the security posture indicates perceived elevated risk to personnel and public gatherings. Potential for copycat attacks or targeted violence against Jewish communities during high-visibility events.",
+      "immediate_forecast_24h": "Increased security presence likely to continue during Hanukkah events. Possible protests or isolated security incidents near ceremony locations. Low probability of direct attack but heightened vigilance required.",
+      "strategic_outlook": "Increased targeting of religious and cultural events by extremist groups possible in medium term. May require sustained security enhancements for public gatherings and religious institutions globally.",
+      "operational_impact": "Enhanced security screening at events, increased patrols near Jewish institutions, potential for travel delays around event locations. Personnel should maintain heightened situational awareness during public gatherings.",
+      "proximity_alert": "YAKIN TEHDİT: Paramount Hotel (5 km)"
+    }
+  },
+  {
+    "id": "a59f6c796df840d1a3b86c82e9756335",
+    "timestamp": "2025-12-16T13:54:40.431985",
+    "original_title": "Benin jails 30 people with links to thwarted coup attempt, legal sources say",
+    "link": "https://www.france24.com/en/africa/20251216-benin-jails-30-people-with-links-to-thwarted-coup-attempt-legal-sources-say",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Benin",
+      "latitude": 9.3077,
+      "longitude": 2.3158,
+      "detailed_analysis": "Military coup attempt involving approximately 30 individuals (mostly soldiers) against President Patrice Talon. Loyalist forces successfully suppressed the attempt with support from Nigerian air force and French special forces. Indicates significant internal military dissent and potential for ongoing instability.",
+      "immediate_forecast_24h": "Heightened security presence and possible additional arrests. Potential for retaliatory actions or secondary plots. Increased scrutiny at military installations and government facilities.",
+      "strategic_outlook": "Possible prolonged political instability, increased foreign military involvement, and potential for spillover effects on regional security. May impact bilateral relations with supporting nations (Nigeria, France).",
+      "operational_impact": "Elevated threat to government personnel and assets. Possible disruptions to diplomatic and military operations. Increased vetting required for personnel in sensitive positions. No direct impact on commercial aviation or cargo operations at this time.",
+      "proximity_alert": null
+    }
   }
 ]
