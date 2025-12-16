@@ -340,5 +340,43 @@
       "operational_impact": "Security posture: raise alert level for mass gatherings; conduct extra patrols and random bag checks at beaches, venues, and transit hubs; review access control and surveillance at synagogues and community centers; communications with public and private sector partners. Potential minor impacts on throughput at ports and airports due to additional screening; resource allocation to CT operations; training and drills. Increased readiness for rapid response and incident command expansion to address potential copycat or related threats.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "d474e566f244d7290208b5570c068fc9",
+    "timestamp": "2025-12-16T05:48:40.514587",
+    "original_title": "Bondi Beach: Police investigating gunmen's trip to Philippines month before shooting - BBC",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAxNHFNX19vdml1QnllSVNHY1dZQjI2cnMtdW82MWgxLXY5UjIwTVhEbkNZYU9CRW5ITEN6Y1JNWGVzSVExTWNHZWpiX2dsdE90LTdhSg?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 8,
+      "location": "Sydney, Australia",
+      "latitude": -33.8688,
+      "longitude": 151.2093,
+      "detailed_analysis": "Police investigation into gunman's travel to the Philippines one month prior to the Bondi Beach shooting suggests potential international terror links, radicalization, or coordination. The Philippines has known militant activity, raising concerns about training, funding, or ideological influence. This elevates the threat profile beyond a lone-wolf incident.",
+      "immediate_forecast_24h": "Increased police and intelligence activity in Sydney; possible heightened security at transport hubs, public spaces, and critical infrastructure. No immediate new attack expected, but vigilance advised.",
+      "strategic_outlook": "Potential for further revelations about transnational terror networks; may lead to revised travel advisories, enhanced screening for Australia-Philippines routes, and closer interagency cooperation on counter-terrorism.",
+      "operational_impact": "Review and possibly elevate threat levels for personnel in Sydney; consider temporary travel restrictions or enhanced security protocols for staff in the region; monitor aviation and maritime routes for unusual activity.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "602212cfa64d51c4173c0e7eb6aca3dc",
+    "timestamp": "2025-12-16T05:48:49.052526",
+    "original_title": "US military kills 8 in latest attacks on vessels in eastern Pacific - Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOXY4ZkUtZm5JXzRLTVVPV1ZlcjRkb3JCZVN3S196M24xdFNLQXlQRDlZajQ5X2xwYmtjdkZ3U1Z6Z3VYY1N5UGx0NHhGYk5DZmFrT1lBWkJUWHpEVGZIcGtLU1ZVTGpRUFlmTnVqN2l5RkFJdUVoN2lsU2VUTERrbmRGX3RUb19TdlE4VGJzTTE1QkVWb0I1QWFhejJkNl9sRGlyREh4Nm1xcEd3bTRYMnVPb9IBuAFBVV95cUxNLUpWZ1hrN2VBdkpYS1JkSndpcVpidG5nbVJoeFlvWGxOUXVFU2FHM25fdjdDQ1dMS241MHdlRkFVakVBU3hDbG5qa2ZsTzY3RGI3S2VfS3dLQ3pyZTNqTXpHdGZuQkhqbEZyZ1l5a1hRMDhQSjNfTnN4LTZMQkxudTVLRHlIc1FnYlhiVzY3RDVzamJhRHpkYkpKRkNqZ1VxeXlIanhrdE9SbnFZY2VuRnd2OG9oODky?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Eastern Pacific",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "US military engagement with vessels in eastern Pacific resulting in 8 fatalities indicates active maritime conflict zone. This represents direct kinetic action against maritime targets, suggesting heightened military activity that could impact commercial shipping routes and regional stability. The eastern Pacific is a critical shipping corridor, and military operations increase collision, misidentification, or collateral damage risks to civilian vessels.",
+      "immediate_forecast_24h": "Increased naval patrols and potential retaliatory actions likely. Commercial shipping may experience route diversions, enhanced security screenings, or temporary transit delays. Possible escalation with additional engagements.",
+      "strategic_outlook": "Sustained military presence in key maritime chokepoints may lead to prolonged disruption of shipping lanes. Increased insurance premiums for vessels transiting the region. Potential for broader regional instability affecting multiple trade routes.",
+      "operational_impact": "Recommend rerouting of high-value cargo, increased AIS monitoring, and enhanced vessel security protocols. Crew safety briefings required. Possible port delays for security inspections. Aviation overflight may require additional clearance procedures.",
+      "proximity_alert": null
+    }
   }
 ]
