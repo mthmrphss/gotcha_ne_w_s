@@ -701,5 +701,85 @@
       "operational_impact": "Increased surveillance requirements for drone detection along smuggling routes. Potential need for enhanced counter-drone capabilities at border crossings and critical infrastructure. May require updated protocols for cargo inspection and personnel security in affected regions.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "f7d2917c53b026839a2104d37e16265b",
+    "timestamp": "2025-12-16T10:53:33.701205",
+    "original_title": "Live Updates: Sydney Gunmen Were Motivated by ISIS, Australia’s Leader Says",
+    "link": "https://www.nytimes.com/live/2025/12/15/world/bondi-beach-shooting-gunmen-isis",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 9,
+      "location": "Sydney, Australia",
+      "latitude": -33.8688,
+      "longitude": 151.2093,
+      "detailed_analysis": "Terror attack by ISIS-inspired gunmen targeting Jewish holiday celebration, resulting in 15 fatalities. Confirmed terrorist motivation with potential for copycat attacks or retaliatory violence. High threat to personnel and public gatherings, particularly religious/cultural events.",
+      "immediate_forecast_24h": "Elevated security alert for Jewish communities, religious sites, and public gatherings. Potential for secondary attacks, increased police/military presence, and possible transportation disruptions in Sydney area.",
+      "strategic_outlook": "Likely ISIS-inspired lone wolf or small cell terrorism trend continues. Possible radicalization ripple effects. Increased targeting of religious minorities and soft targets expected. May inspire similar attacks globally.",
+      "operational_impact": "Immediate heighten security at all Jewish facilities, airports, and transportation hubs. Review personnel travel to Sydney. Implement enhanced screening for events. Monitor for follow-on threats targeting aviation or cargo infrastructure.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "a2d912191c180ea7a83cc975e962f0cc",
+    "timestamp": "2025-12-16T10:53:43.261845",
+    "original_title": "Bodies in the canals: Satellite imagery, whistleblowers and videos reveal ethnically targeted killings by Sudan's army",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pnyx0y/bodies_in_the_canals_satellite_imagery/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Sudan (specific region unclear from title)",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Event involves ethnically targeted killings by Sudan's army, evidenced by satellite imagery, whistleblower accounts, and videos. This indicates active military operations against civilian populations, creating significant instability. While not directly targeting assets/cargo/aviation, such conflict zones inherently threaten personnel safety, disrupt supply chains, and increase risk of collateral damage to infrastructure.",
+      "immediate_forecast_24h": "High likelihood of continued military operations and violence against civilians. Possible disruptions to local transport routes, increased security force presence, and potential for retaliatory attacks. Evacuation or humanitarian operations may face elevated risks.",
+      "strategic_outlook": "Prolonged ethnic conflict likely to destabilize region further, potentially spilling into neighboring areas. May lead to increased smuggling, illegal border crossings, and weapon proliferation. International response could include sanctions or no-fly zones, affecting aviation and cargo movements long-term.",
+      "operational_impact": "All personnel in Sudan should be on high alert; non-essential travel and operations should be suspended. Supply chains through affected regions face high risk of disruption or seizure. Aviation may encounter restricted airspace or heightened security threats. Increased vigilance required for cargo screening due to potential weapon smuggling.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "54d0ac454d27d694b3afe88edbe429a7",
+    "timestamp": "2025-12-16T10:53:50.622945",
+    "original_title": "Six peacekeepers killed in Sudan drone strike mourned at UN ceremony in Kadugli",
+    "link": "http://www.africanews.com/2025/12/16/six-peacekeepers-killed-in-sudan-drone-strike-mourned-at-un-ceremony-in-kadugli/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": [
+        "Terrorism",
+        "Aviation",
+        "Conflict"
+      ],
+      "risk_score": 9,
+      "location": "Kadugli, Central Kordofan",
+      "latitude": 11.0167,
+      "longitude": 29.7167,
+      "detailed_analysis": "Drone strike targeting UN peacekeepers indicates deliberate hostile action, likely by non-state actors or rogue military elements. This represents a significant escalation in tactics, demonstrating capability to conduct precision strikes against protected personnel and assets.",
+      "immediate_forecast_24h": "High probability of retaliatory security operations, increased drone surveillance, and potential follow-up attacks on UN or humanitarian convoys in the region.",
+      "strategic_outlook": "Deteriorating security situation may lead to reduced UN mission effectiveness, withdrawal of non-essential personnel, and increased armored convoy requirements for movement in conflict zones.",
+      "operational_impact": "Immediate ground stop for UN aviation assets in Kordofan region, enhanced perimeter security at all bases, and requirement for armed escorts on all personnel movements.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "2d1ab78bde38f085ec63957cd6302682",
+    "timestamp": "2025-12-16T10:53:59.579475",
+    "original_title": "USA: Military carries out strike on three vessels in Pacific",
+    "link": "https://www.france24.com/en/video/20251216-usa-military-carries-out-strike-on-three-vessels-in-pacific",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Eastern Pacific Ocean",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "US military strike targeting narco-trafficking vessels resulted in 8 fatalities. Part of ongoing counter-narcotics operations with cumulative death toll exceeding 90. Event indicates active military engagement in maritime drug interdiction efforts with lethal force authorization.",
+      "immediate_forecast_24h": "Heightened maritime surveillance and potential retaliatory actions by trafficking organizations. Possible increased naval presence and intelligence operations in eastern Pacific corridors.",
+      "strategic_outlook": "Sustained military operations against maritime drug trafficking likely to continue. Potential escalation in tactics from criminal organizations, including possible attacks on naval assets or increased use of submersibles/stealth vessels.",
+      "operational_impact": "Increased risk to maritime shipping from potential crossfire or misidentification. Possible delays in commercial shipping routes during military operations. Enhanced screening recommended for vessels transiting eastern Pacific zones.",
+      "proximity_alert": null
+    }
   }
 ]
