@@ -1009,5 +1009,24 @@
       "operational_impact": "Public safety risk to personnel and civilians in mass gatherings and coastal urban areas; heightened security requirements for events, venues, transportation hubs; increased interagency coordination and rapid information sharing; potential temporary disruptions to event scheduling and tourism; reinforce protective security for critical infrastructure and sensitive sites; watchlists and analytics workloads may increase.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "dbf17f5d41d8c0e26ce5be9b49c740ed",
+    "timestamp": "2025-12-16T15:45:30.408788",
+    "original_title": "30 people reported jailed in Benin in connection with failed coup",
+    "link": "http://www.africanews.com/2025/12/16/30-people-reported-jailed-in-benin-in-connection-with-failed-coup/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 6,
+      "location": "Benin",
+      "latitude": 9.3077,
+      "longitude": 2.3158,
+      "detailed_analysis": "Failed coup attempt involving military personnel indicates internal instability and potential for retaliatory actions. While not directly targeting assets or transport, heightened military and police presence may disrupt logistics, increase scrutiny at ports/airports, and elevate general security posture unpredictably.",
+      "immediate_forecast_24h": "Possible increased security checks at borders, ports, and airports; minor delays possible for cargo and personnel movement. Low probability of violence spillover to transport hubs.",
+      "strategic_outlook": "Potential for prolonged political tension; monitor for further arrests, protests, or military movements that could affect supply chains or regional stability.",
+      "operational_impact": "Advise heightened vigilance for personnel in Benin; review contingency plans for supply chain disruptions. No direct aviation or cargo threats identified, but situational awareness recommended.",
+      "proximity_alert": null
+    }
   }
 ]
