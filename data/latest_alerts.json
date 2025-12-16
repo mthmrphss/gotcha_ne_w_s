@@ -93,5 +93,62 @@
       "operational_impact": "Immediate review of access logs and badge issuance procedures required; heightened vigilance for unauthorized entry attempts; possible delays in cargo and personnel movements during security reassessments.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "bd46b17cf787bcae5d538b465650cf16",
+    "timestamp": "2025-12-16T07:50:15.696105",
+    "original_title": "Bondi Beach gunmen went to Philippines before attack, authorities say - The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN3BucGF5TTNUeHV5QWNubDFtYzNlb3JTaGhrck5Ja25lbHZyUjNFRVlGZHJ4cjlRd2wtQjVkdW9pTGRZOVMyX2VZOWZndC1mZnhwdnBJX1lGVVUxNVluQXkxOVZtZUthNi1VMW5tVTlTTXExVlNnYWRYT01NZWhaeDh4emtEVFROOFFlUE9DOERLa0JzcVE?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 8,
+      "location": "Bondi Beach, Sydney, Australia",
+      "latitude": -33.8915,
+      "longitude": 151.2767,
+      "detailed_analysis": "Attackers traveled to Philippines prior to conducting mass shooting at Bondi Beach shopping center, indicating potential foreign training, coordination, or radicalization links. The international travel component suggests organized planning and possible transnational terrorist connections rather than isolated domestic incident.",
+      "immediate_forecast_24h": "Heightened security alert for Australian public spaces, particularly shopping centers and tourist areas. Possible increased police/military presence. Potential for copycat attacks or related incidents given international connections.",
+      "strategic_outlook": "Requires investigation into Philippines connections for training camps, radical networks, or logistical support. May indicate emerging Australia-Philippines terrorist corridor. Could prompt enhanced border screening and intelligence sharing between Australian and Southeast Asian security agencies.",
+      "operational_impact": "Immediate: Enhanced screening for Australia-bound travelers from Philippines. Medium-term: Review security protocols at soft targets nationwide. Long-term: Potential need for increased counter-terrorism cooperation with Philippine authorities and review of foreign fighter monitoring programs.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "60bb32c27d440ee27e1e34341dbf055b",
+    "timestamp": "2025-12-16T07:50:32.526300",
+    "original_title": "US Army names 2 Iowa National Guard members killed in attack in Syria - ABC News",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObkRUNlhva3hRYmh4YWplNGtheFZYci1pd1FHQ2tEbTJDbEZPVkRtbzBybFlycnMxMnFJSzdYT2JsenJUb2ljREtXRHVoU3NBU0xzdVl4eFczcHV3bnU3YUJVc2Y3dF9VVGxoX3I3bDY0a3ZRTmM5QWpMTmtxQU1ROEJGeTBnZkx1RlhxQ09sYlBBaGhEX042YlRuWdIBoAFBVV95cUxOMzhfZjJOTk1TaHR0TWRIY3NaMVF3dFZzT2NpeUJEdTIxM0VpekJKSWVURm9wZndBbWJ1cUo5Mk9yNGxYX2M1UnZmYTMzcDJwekJwTGtfT1JPV2dFcE1rUERXUXQyY1VqNU1STHJ1bWdEVmhfckFkLUpEVF9nRjA2WTBzZGtqQ2x5Z3Axd0E5TnZfTWhSVy1uSnhkN0VDWUxx?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Syria",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Two Iowa National Guard members killed in attack in Syria indicates active hostile engagement against US military personnel. This represents a direct threat to personnel security in conflict zones and suggests heightened regional instability. Attack methodology not specified but likely involves insurgent or terrorist tactics.",
+      "immediate_forecast_24h": "Increased security posture for US forces in Syria expected. Possible retaliatory measures or heightened patrols. Additional attacks against coalition forces remain probable given demonstrated hostile intent.",
+      "strategic_outlook": "Sustained threat environment for US and coalition personnel in Syria. May lead to reinforced security protocols, potential changes in force deployment, and possible escalation of military responses against hostile actors in the region.",
+      "operational_impact": "Immediate personnel safety concerns for all US assets in Syria. Possible temporary suspension of non-essential movements. Enhanced force protection measures required. Potential impact on supply chain and logistics operations due to increased security protocols.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "2b61150e1c5f3f9bc56d489db2f78fac",
+    "timestamp": "2025-12-16T07:50:43.256672",
+    "original_title": "US says for the first time it will respond militarily if Russia attacks Ukraine again – Polish PM",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pnvyuf/us_says_for_the_first_time_it_will_respond/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Ukraine",
+      "latitude": 48.3794,
+      "longitude": 31.1656,
+      "detailed_analysis": "US military commitment to respond if Russia attacks Ukraine represents significant escalation in geopolitical tensions. This increases likelihood of direct military confrontation between nuclear powers, with potential spillover effects on regional security, aviation routes, and supply chains. Critical infrastructure, including ports and transportation networks in Ukraine and Black Sea region, could become targets or collateral damage.",
+      "immediate_forecast_24h": "Increased military readiness monitoring required. Possible uptick in cyber probing against US/EU assets. Commercial aviation may reroute around conflict zone airspace. Heightened alert for disinformation campaigns targeting transportation and logistics sectors.",
+      "strategic_outlook": "Sustained elevated risk of kinetic conflict with potential for rapid escalation. Maritime shipping in Black Sea may face increased insurance premiums and routing changes. Energy supply chains through region face disruption risk. Possible increase in asymmetric threats against Western interests globally.",
+      "operational_impact": "Recommend heightened surveillance of critical infrastructure. Review contingency plans for supply chain disruptions. Increase cybersecurity monitoring for critical systems. Prepare for potential aviation rerouting and increased military air traffic in region. Monitor port operations in Black Sea for disruptions.",
+      "proximity_alert": null
+    }
   }
 ]
