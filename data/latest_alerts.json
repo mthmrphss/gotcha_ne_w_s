@@ -1,173 +1,59 @@
 [
   {
-    "id": "1e158fdb06ea6e9d1687e0b90708e685",
-    "timestamp": "2025-12-17T10:52:43.800557",
-    "original_title": "Jet2 flight LS1451 is declaring an emergency over Portugal and diverting - airlive",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN0VMUy1lOHd3YlhQZGx3aGc1RXRtdFhHbVZnWmVOMlZLbVJRQTZkaDNsNkJORG81ZmhBUTJTM0lWa3hEbDlYc3o3RTlJbWtmS0FFUkxtWVptUmxmX2pZYXV6ZTd6ZUxXUVMySUNRc0tDb19jZ3BEaWFMbVJTZmhvSDVGdE9COWJWTUxpR2h6QVhmcU1iZlBUMms4UjczdUlMTWsxeGJyNGptODlySkxWaVNhc3U?oc=5",
-    "source_name": "Live Flight Emergencies (Squawk)",
-    "ai_analysis": {
-      "category": "Aviation",
-      "risk_score": 7,
-      "location": "Portugal (airspace)",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "Jet2 LS1451 declared an emergency and diverted while over Portugal. The nature of the emergency is unspecified, but aviation emergencies typically involve mechanical failure, medical issues, or security concerns. Given the diversion and declaration, this suggests a non-routine event requiring immediate response, though not necessarily a crash.",
-      "immediate_forecast_24h": "Increased scrutiny on Jet2 operations; potential delays or diversions for similar routes; possible follow-up investigations by aviation authorities.",
-      "strategic_outlook": "May lead to enhanced safety protocols for Jet2 or similar carriers if the issue is systemic; unlikely to indicate broader threat trends unless further incidents occur.",
-      "operational_impact": "Temporary disruption to flight schedules; possible resource allocation for emergency response and investigation; minor reputational risk for Jet2.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "2200f4555574e01c8b7a78f702ec17c7",
-    "timestamp": "2025-12-17T10:52:54.815781",
-    "original_title": "UK pledges over $800 million for Ukraine's air defenses, Germany to donate Sidewinder missiles",
-    "link": "https://www.reddit.com/r/worldnews/comments/1potefa/uk_pledges_over_800_million_for_ukraines_air/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 7,
-      "location": "Ukraine",
-      "latitude": 48.3794,
-      "longitude": 31.1656,
-      "detailed_analysis": "UK pledges $800M for Ukrainian air defenses and Germany donates Sidewinder missiles, indicating escalation in military support. This increases the likelihood of intensified aerial engagements and potential retaliatory strikes by opposing forces. The influx of advanced weaponry may provoke countermeasures targeting supply routes, logistics hubs, or allied assets in the region.",
-      "immediate_forecast_24h": "Heightened alert for possible increased drone/missile activity in conflict zones. Potential for retaliatory strikes on military/logistics targets. No direct threat to commercial aviation or cargo outside conflict area.",
-      "strategic_outlook": "Sustained military aid likely to prolong conflict intensity. Possible expansion of targeting to include supply chains or logistics nodes. Increased risk of collateral damage to civilian infrastructure near conflict zones.",
-      "operational_impact": "Monitor air defense alerts in Ukraine. Review contingency plans for personnel in region. No immediate impact on global cargo/aviation outside conflict zone, but watch for potential escalation affecting Black Sea routes.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "6cda169e228b3cb3fbc1ded7835b4666",
-    "timestamp": "2025-12-17T10:53:02.496978",
-    "original_title": "Merz Says German Troops Could Counter Russian Attacks in Ukraine",
-    "link": "https://www.reddit.com/r/worldnews/comments/1pot5fw/merz_says_german_troops_could_counter_russian/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 8,
-      "location": "Ukraine",
-      "latitude": 48.3794,
-      "longitude": 31.1656,
-      "detailed_analysis": "Statement by German opposition leader Friedrich Merz suggesting potential deployment of German troops to counter Russian attacks in Ukraine represents a significant escalation in Western involvement. This rhetoric increases likelihood of direct NATO-Russia confrontation, potential retaliatory measures against German interests, and heightened targeting of Western assets in region.",
-      "immediate_forecast_24h": "Increased cyber probing against German government/military networks, possible disinformation campaigns targeting German political leadership, heightened alert for espionage activities against German diplomatic and military facilities. No immediate kinetic escalation expected.",
-      "strategic_outlook": "Medium-term risk of mission creep in NATO involvement, potential for asymmetric retaliation against German commercial/logistical interests globally, increased targeting of German nationals in Eastern Europe. Possible supply chain disruptions for German companies operating in region.",
-      "operational_impact": "Elevate threat level for German diplomatic missions, military assets, and commercial interests in Eastern Europe. Recommend enhanced physical security for German transport/logistics hubs. Monitor for increased cyber targeting of German critical infrastructure. Review evacuation protocols for German nationals in Ukraine and bordering nations.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "0167b37d8451ffd6cd645fdbf85811da",
-    "timestamp": "2025-12-17T10:53:11.547248",
-    "original_title": "Louvre staff vote to extend strike over working conditions, unions say",
-    "link": "https://www.france24.com/en/france/20251217-louvre-staff-weigh-extending-strike-over-working-conditions",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Civil Unrest",
-      "risk_score": 10,
-      "location": "Paris, France",
-      "latitude": 48.8566,
-      "longitude": 2.3522,
-      "detailed_analysis": "Louvre Museum staff strike over working conditions represents localized labor dispute with potential for protest activity and service disruptions. While not directly targeting assets or personnel with malicious intent, the action could create operational challenges through reduced staffing, temporary closures, or protest gatherings near the museum premises.",
-      "immediate_forecast_24h": "Possible museum access disruptions, increased police presence in surrounding areas, minor traffic impacts from potential protests. No direct threat to aviation, cargo, or personnel safety expected.",
-      "strategic_outlook": "Labor disputes typically resolve through negotiation. May inspire similar actions at other cultural institutions but unlikely to escalate into broader civil unrest affecting critical infrastructure or transport networks.",
-      "operational_impact": "Minimal impact on security operations. Recommend monitoring for any escalation that might affect nearby government buildings or tourist transportation routes. No cargo or aviation implications identified.",
-      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (2 km)"
-    }
-  },
-  {
-    "id": "bf08ab67d5c0c7f53ab9eac084f37faa",
-    "timestamp": "2025-12-17T10:53:20.357472",
-    "original_title": "France: Macron vows to fight drug trafficking",
-    "link": "https://www.france24.com/en/video/20251217-france-macron-vows-to-fight-drug-trafficking",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Crime/Theft",
-      "risk_score": 10,
-      "location": "Marseille, France",
-      "latitude": 43.2965,
-      "longitude": 5.3698,
-      "detailed_analysis": "President Macron's announcement of tougher penalties for drug users and targeting trafficking network leaders indicates escalated government action against organized crime in Marseille. This follows the murder of an anti-drug activist's brother, suggesting potential for retaliatory violence between gangs and increased law enforcement operations. The heightened crackdown may disrupt existing trafficking routes and trigger temporary instability in criminal operations.",
-      "immediate_forecast_24h": "Increased police and military presence in Marseille likely, with potential for clashes between security forces and trafficking groups. Possible short-term disruption to port and logistics operations if raids target storage facilities or transport networks used by criminal organizations.",
-      "strategic_outlook": "Sustained government pressure may fragment trafficking networks, potentially leading to violent power struggles among rival groups. Possible collateral impacts on legitimate cargo operations through port of Marseille if criminal elements use commercial shipping for concealment. Risk of corruption attempts targeting port/aviation personnel.",
-      "operational_impact": "Enhanced security screening at Marseille facilities; possible delays in cargo processing. Personnel in high-risk areas should maintain heightened situational awareness. Potential for incidental discovery of concealed contraband during transportation security checks.",
-      "proximity_alert": "YAKIN TEHDİT: Marseille Provence Airport (0 km)"
-    }
-  },
-  {
-    "id": "6388c6340cb1aa01525e0924ba92ee5e",
-    "timestamp": "2025-12-17T11:37:14.822341",
-    "original_title": "Texas and American synagogues upping security after attack in Australia - The Victoria Advocate",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOakQzSmNDR0Vra09kMWpteERQcVVwWFVBQmtMTzk2dnZoM3lSLW5pV2c4WWZDdGxuOWtaVVJ2UFlET3A4empPM01BMlJ5V1l6SmVxMmZ2MGJvejBKNXFZWlRoNUZwd1llRklBVnhsc3Z1UWU1UUZjcWxrYjFERUhOdVVSN1VzQ095YTNnZXQtTlFRbW1uRzN4a0xEMU1GUkJkT3ozVEh4RWVsT0l2aG1fRm93?oc=5",
+    "id": "b6262840fa9c554ce3fb5b9fe3592e78",
+    "timestamp": "2025-12-17T13:47:43.517342",
+    "original_title": "Funerals begin for Bondi Beach terror attack victims as suspect is charged after waking from coma - CBS News",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbEFoMnN6V3V3MWZxbkJNV25GQ2otYmFEMmdTc3c0eUcwWlVNNUpJT2tidzdCVUtvbmNSUE5qUnI4aU9TaWNUUWVWRWNZdjI4YWtIV2dmNndpa2lvd2dxWEZHV1AxVVpkbmM3UFAyZ2t2dFhuWkNiX3EwQkRVdkhIaUhqcHBfNVEwYjFBbWxlRDNqVFBOT3BGSlVR0gGfAUFVX3lxTE81S0d0Tmk2a1JxaS11dFRrV1BfdkVuX0Fsa19Ta3BKVjhLZHowR2dpN1FURkFfWlVfcUNpVnRlZWg5S1BfbUt1NzU3Q0Rpa3c4QVdyM3NJakU4OVBqWDBEQ2VpajUtWFlyNTRzUEd0T2Z5MThXNUVvVEVmT05pNzFSUkhrWkczME9HalUtVGRvODNTN3VNaVFXR2ZTeHBHUQ?oc=5",
     "source_name": "Google News (Breaking)",
     "ai_analysis": {
       "category": "Terrorism",
-      "risk_score": 7,
-      "location": "Texas, United States",
-      "latitude": 31.0,
-      "longitude": -100.0,
-      "detailed_analysis": "Synagogues in Texas and across the United States are increasing security measures in response to a terrorist attack targeting a synagogue in Australia. This indicates a potential transnational threat pattern against Jewish institutions, requiring heightened vigilance and protective measures for personnel and facilities.",
-      "immediate_forecast_24h": "Increased security patrols and possible temporary closures at Jewish institutions; potential for copycat incidents or coordinated attacks cannot be ruled out.",
-      "strategic_outlook": "Long-term elevated threat level for religious institutions, particularly synagogues; may require sustained security enhancements and intelligence sharing between international law enforcement agencies.",
-      "operational_impact": "Increased security staffing requirements, enhanced access control measures, and potential disruption to normal operations at affected facilities; may require coordination with local law enforcement for threat assessment and response planning.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "8b201cfa763ce38510c608b0221e7a78",
-    "timestamp": "2025-12-17T11:37:44.516204",
-    "original_title": "Suspect in Bondi Beach Killings Is Charged With Murder and Terrorism",
-    "link": "https://www.nytimes.com/2025/12/17/world/asia/australia-bondi-beach-shooting.html",
-    "source_name": "NewYork Times",
-    "ai_analysis": {
-      "category": "Terrorism",
       "risk_score": 9,
-      "location": "Bondi Beach, Sydney",
+      "location": "Bondi Beach, Sydney, Australia",
       "latitude": -33.8915,
       "longitude": 151.2767,
-      "detailed_analysis": "Terrorism-related murder charges indicate potential ideological motivation and possible planning. Suspect's survival and awakening from coma may lead to intelligence gathering opportunities but also creates potential for copycat attacks or retaliation. Public location attack suggests soft target methodology.",
-      "immediate_forecast_24h": "Increased police and security presence in Bondi area. Possible additional arrests as investigation continues. Enhanced screening at transport hubs. Potential for public demonstrations or vigilante actions.",
-      "strategic_outlook": "Possible escalation of similar attacks in crowded public spaces. May inspire domestic extremist elements. Could lead to tightened security protocols at Australian public venues and transportation infrastructure. Potential for international travel advisories affecting aviation and cargo screening procedures.",
-      "operational_impact": "Immediate: Heightened security alert level for Australian operations. Personnel travel to Sydney area requires enhanced security protocols. Medium-term: Review of public venue security measures. Possible increased screening for cargo and personnel movements in affected region.",
+      "detailed_analysis": "Terror attack at Bondi Beach shopping center resulted in multiple fatalities and injuries. Suspect was in coma but has now been charged, indicating law enforcement has control of the perpetrator. Event meets terrorism criteria due to intentional mass violence in public space.",
+      "immediate_forecast_24h": "Heightened security presence expected at public gatherings, especially funerals for victims. Potential for copycat incidents or retaliatory actions cannot be ruled out. Increased vigilance recommended for crowded areas and transportation hubs.",
+      "strategic_outlook": "Possible increase in security measures at soft targets across major Australian cities. May lead to enhanced surveillance and security screening procedures in public spaces. Could influence national counter-terrorism policies and public safety campaigns.",
+      "operational_impact": "Immediate security upgrades required for personnel in Sydney area. Enhanced screening procedures recommended for high-value assets and personnel movements. Temporary travel advisories may be issued for non-essential movement near affected areas. Increased coordination with local law enforcement advised.",
       "proximity_alert": null
     }
   },
   {
-    "id": "269f0e9724759d5dd49947f46b0ebcf9",
-    "timestamp": "2025-12-17T11:37:52.913320",
-    "original_title": "Western peacekeepers in Ukraine could retaliate against Russian attacks post-ceasefire, Merz says",
-    "link": "https://www.reddit.com/r/worldnews/comments/1poto8t/western_peacekeepers_in_ukraine_could_retaliate/",
+    "id": "b3f09422c9a65cfd60710011bd0b8601",
+    "timestamp": "2025-12-17T13:48:02.538394",
+    "original_title": "Spanish police evict 400 migrants from squat deemed safety hazard",
+    "link": "https://www.reddit.com/r/worldnews/comments/1powo48/spanish_police_evict_400_migrants_from_squat/",
     "source_name": "Reddit r/WorldNews",
     "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 7,
-      "location": "Ukraine",
-      "latitude": 48.3794,
-      "longitude": 31.1656,
-      "detailed_analysis": "Statement by German opposition leader Friedrich Merz suggests potential escalation in Ukraine if Western peacekeepers face Russian attacks post-ceasefire. While not an active event, it signals heightened geopolitical tensions and possibility of retaliatory military action involving international forces, increasing risk to personnel and assets in the region.",
-      "immediate_forecast_24h": "No immediate physical escalation expected, but heightened alert for diplomatic/military posturing, potential misinformation campaigns, and increased monitoring of peacekeeper movements.",
-      "strategic_outlook": "Medium-term risk of miscalculation or provocation leading to direct confrontations between Western and Russian forces, possibly impacting supply routes, aviation corridors, and personnel safety in contested areas.",
-      "operational_impact": "Recommend increased vigilance for personnel in/transiting Ukraine, review contingency plans for potential evacuation or securement of assets, and monitor communications for signs of escalating rhetoric or troop movements.",
+      "category": "Border/Migration",
+      "risk_score": 5,
+      "location": "Spain",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Spanish police evicted 400 migrants from a squat due to safety hazards. While not directly targeting transport infrastructure, large-scale migrant evictions can lead to secondary movements, potential stowaway attempts, or disruptions near ports, airports, or cargo hubs as displaced individuals seek shelter or transit options.",
+      "immediate_forecast_24h": "Increased police presence and possible protests near the eviction site; heightened vigilance recommended for transport nodes in the region due to potential migrant movement.",
+      "strategic_outlook": "Continued migration pressure may lead to recurring squatting and evictions, increasing the likelihood of incidental disruptions to logistics and transport operations if migrants seek refuge in or near critical infrastructure.",
+      "operational_impact": "Monitor for increased stowaway risks in cargo shipments, especially maritime and rail; possible brief disruptions if protests or unauthorized access attempts occur near transport facilities.",
       "proximity_alert": null
     }
   },
   {
-    "id": "ac7800aadf8b68e8b1806887f78a059c",
-    "timestamp": "2025-12-17T11:38:01.829798",
-    "original_title": "In Ukraine, Kyiv residents haunted by nightly Russian attacks",
-    "link": "https://www.france24.com/en/tv-shows/focus/20251217-in-ukraine-kyiv-residents-haunted-by-nightly-russian-attacks",
+    "id": "212b3f350898fa04b617fa9c8c411e7c",
+    "timestamp": "2025-12-17T13:48:16.718368",
+    "original_title": "Gaza struggles in winter conditions: Torrential rains kill 12",
+    "link": "https://www.france24.com/en/video/20251217-gaza-struggles-in-winter-conditions-torrential-rains-kill-12",
     "source_name": "France 24 ME",
     "ai_analysis": {
       "category": "Conflict",
-      "risk_score": 10,
-      "location": "Kyiv, Ukraine",
-      "latitude": 50.4501,
-      "longitude": 30.5234,
-      "detailed_analysis": "Sustained Russian military campaign involving coordinated drone and missile attacks targeting civilian population centers. Pattern indicates systematic bombardment approximately weekly, with significant civilian casualties (330+ killed, 900+ injured) and infrastructure damage. Attacks demonstrate capability to penetrate urban defenses and cause mass disruption.",
-      "immediate_forecast_24h": "High probability of continued aerial bombardment patterns. Expect potential missile/drone incursions during nighttime hours. Critical infrastructure and residential areas remain primary targets.",
-      "strategic_outlook": "Ongoing conflict likely to persist with regular aerial assaults. Russian forces demonstrating sustained capability to launch complex combined attacks. Civilian areas will remain vulnerable to precision strikes and psychological warfare tactics.",
-      "operational_impact": "Severe disruption to personnel safety and mobility. Critical infrastructure at continuous risk. All operations in Kyiv region require enhanced security protocols, emergency evacuation plans, and 24/7 threat monitoring. Supply chains and cargo movements highly vulnerable to attack.",
-      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
+      "risk_score": 7,
+      "location": "Gaza Strip",
+      "latitude": 31.5,
+      "longitude": 34.5,
+      "detailed_analysis": "Severe weather conditions in Gaza are exacerbating existing conflict-related infrastructure damage, leading to displacement and fatalities. While not a direct security incident, the destruction of shelter and displacement patterns could create vulnerabilities for personnel and assets, potentially increasing desperation and opportunistic crime in logistics/supply chains.",
+      "immediate_forecast_24h": "Continued adverse weather may worsen humanitarian conditions, potentially straining aid delivery routes and increasing crowd movements near supply points, raising incidental security risks.",
+      "strategic_outlook": "Prolonged displacement and infrastructure collapse may fuel civil unrest or create environments where cargo theft or unauthorized border movements become more likely as desperation increases.",
+      "operational_impact": "Monitor aid convoys for potential hijacking or looting; assess personnel safety in affected areas due to structural collapses and crowd behavior; possible delays in logistics from flooded routes or diverted resources.",
+      "proximity_alert": null
     }
   }
 ]
