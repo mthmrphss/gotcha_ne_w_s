@@ -986,5 +986,43 @@
       "operational_impact": "Immediate threat to personnel attending political events. Requires enhanced protective details for high-profile individuals. May necessitate temporary security reassignments and increased venue screening protocols.",
       "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (1 km)"
     }
+  },
+  {
+    "id": "356f5544a2ae5bf284ee9e3ea51ab056",
+    "timestamp": "2025-12-17T19:34:08.450980",
+    "original_title": "Allies pledge record $45bn for Ukraine in 2025 as 17 nations announce 2026 commitments",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pp5kvj/allies_pledge_record_45bn_for_ukraine_in_2025_as/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Ukraine",
+      "latitude": 48.3794,
+      "longitude": 31.1656,
+      "detailed_analysis": "Record $45bn military aid pledge to Ukraine in 2025, with 17 nations committing to 2026 support, indicates sustained Western backing for ongoing conflict. This level of funding suggests increased military capabilities for Ukraine, potentially escalating conflict intensity. May provoke retaliatory measures from opposing forces, including possible strikes on logistics routes, supply depots, or military assets.",
+      "immediate_forecast_24h": "Increased monitoring of supply routes and military convoys; possible heightened cyber activity targeting donor nations' infrastructure; potential for retaliatory propaganda or limited strikes against Ukrainian logistics targets.",
+      "strategic_outlook": "Sustained Western funding likely prolongs conflict duration. Expect increased targeting of military supply chains, possible expansion of conflict-related cyber operations, and potential for escalation in Black Sea region. Donor nations may face increased hybrid threats.",
+      "operational_impact": "Enhanced monitoring required for: 1) Military supply convoys (road/rail/air) 2) Cyber threats to donor nation infrastructure 3) Possible asymmetric attacks on Western interests 4) Increased drone activity in conflict zone 5) Potential for maritime threats in Black Sea",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "020ed794f64fca349649f826b4b84266",
+    "timestamp": "2025-12-17T19:34:22.614913",
+    "original_title": "Strikes and a $100 million heist push the Louvre into historic crisis",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pp5bqk/strikes_and_a_100_million_heist_push_the_louvre/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Crime/Theft",
+      "risk_score": 10,
+      "location": "Paris, France",
+      "latitude": 48.8606,
+      "longitude": 2.3376,
+      "detailed_analysis": "A $100 million heist at the Louvre, combined with ongoing strikes, indicates a significant security breach and operational disruption. The theft suggests potential insider involvement or sophisticated external planning, while labor unrest may degrade physical and procedural security, creating vulnerabilities for further incidents.",
+      "immediate_forecast_24h": "Increased security presence likely; potential for escalated protests or opportunistic criminal activity due to distracted resources and public unrest.",
+      "strategic_outlook": "Long-term risk to high-value cultural assets; possible copycat incidents or organized crime targeting museums globally if security gaps are exposed. Labor disputes may persist, affecting institutional stability.",
+      "operational_impact": "Immediate lockdown or enhanced screening for personnel and cargo; possible delays in logistics and heightened vigilance for aviation and personnel movements in the area due to collateral disruption.",
+      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (1 km)"
+    }
   }
 ]
