@@ -188,5 +188,43 @@
       "operational_impact": "Monitor border surveillance feeds; brief personnel in region on contingency protocols; coordinate with NATO allies for intelligence sharing; no expected disruption to cargo or aviation routes at this time.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "be14b05dfad8d62c32799e312d8a04e8",
+    "timestamp": "2025-12-17T22:44:02.514263",
+    "original_title": "Two injured in Silver Springs plane crash - Nevada Appeal",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcnI4ZUxzQzVDT1U5dnNrY2t1ZzJhT2x3UUNfd2pYUEo4V3RNamZmS1RtVkpBVm5mcFZDNjZzME1mLXJhTkFRTEFvWU92UGVEMi1TcTZrcDRNRkVRYUR1WndETl9pU2pDYTRPc0lIV1p5UXBuazgtSWsxVkpLVVN4eVQxcEViQlhpaEpWdVFaOTc0QQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 7,
+      "location": "Silver Springs, Nevada",
+      "latitude": 39.4155,
+      "longitude": -119.2244,
+      "detailed_analysis": "Plane crash incident with two injuries reported. Aviation accidents inherently carry elevated risk due to potential for casualties, infrastructure disruption, and secondary hazards. Requires immediate investigation to determine cause (mechanical failure, pilot error, or external factors). Silver Springs area may have limited emergency response capabilities.",
+      "immediate_forecast_24h": "Increased emergency response activity in Silver Springs area. Potential for temporary airspace restrictions. Possible media attention amplifying public concern about aviation safety. Secondary risks from fuel leaks or fire at crash site.",
+      "strategic_outlook": "Potential for increased regulatory scrutiny on regional aviation operations. May impact local flight training or small aircraft operations if pattern emerges. Unlikely to indicate broader threat pattern unless additional context suggests intentional action or systemic failure.",
+      "operational_impact": "Monitor for additional incidents in region. Coordinate with local authorities for casualty updates and crash investigation results. Review flight patterns and operations in Nevada region for potential adjustments. Brief personnel on increased situational awareness for aviation operations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "98892a508fc50619e4d849ffd54cfe52",
+    "timestamp": "2025-12-17T22:44:12.001975",
+    "original_title": "Ukraine drone debris sparks fire at Russia's Slavyansk refinery, authorities say",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pp9b5q/ukraine_drone_debris_sparks_fire_at_russias/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Slavyansk, Russia",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Drone debris from Ukrainian attack caused fire at Slavyansk oil refinery. This represents direct kinetic targeting of critical energy infrastructure as part of ongoing conflict operations. Refineries are high-value targets due to economic and strategic importance.",
+      "immediate_forecast_24h": "High probability of continued drone attacks on Russian energy infrastructure. Potential for retaliatory strikes. Increased aerial threat activity in border regions.",
+      "strategic_outlook": "Sustained targeting of energy infrastructure likely to continue as conflict persists. May lead to broader economic impacts and potential escalation in targeting methodology.",
+      "operational_impact": "Increased security posture required for all energy infrastructure assets in region. Enhanced drone detection and countermeasures recommended. Potential supply chain disruptions for petroleum products.",
+      "proximity_alert": null
+    }
   }
 ]
