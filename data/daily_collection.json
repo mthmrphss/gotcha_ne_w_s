@@ -112,5 +112,43 @@
       "operational_impact": "Avoid all Venezuelan maritime routes. Reroute cargo/aviation around conflict zone. Heighten security for personnel in region. Prepare for potential port disruptions and supply chain delays.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "ee806a25c9c9304b08ff71a4b50e91cb",
+    "timestamp": "2025-12-17T04:57:45.301794",
+    "original_title": "ISIS and the Bondi Beach Attack - The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZUYtSVdiMllhQzdpNUY4QjkxbmxPM3h4aUpyYzJvcVR6UkJ5MVVxY2JLbzBXQ1N5TWxXREpiS3pKUG5HVkF3VkJSV3JrTnBibjNsYTRRT0o0amp1UDhEM1Raa29KRGs3ZEZLLV9nTzhoTHFKQV91Y3hXV3AzdTFRYXpyR3JTMy0wbXJn?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 7,
+      "location": "Bondi Beach, Sydney, New South Wales, Australia",
+      "latitude": -33.8915,
+      "longitude": 151.2767,
+      "detailed_analysis": "Event is a reported terrorist attack in Bondi Beach with claimed ISIS affiliation. The NYT article discusses suspected links to ISIS and ongoing investigation. Indicators of imminent threat appear limited; no confirmed additional plots yet. The primary risk is to public safety at crowded outdoor venues and to law enforcement personnel. Potential for copycat attempts and increased extremist propaganda around public gatherings. Authorities may heighten coastal security, monitor public events, and coordinate with national security partners. Aviation impact is indirect but could rise if security advisories trigger flight inconveniences or if beaches become security hotspots during travel peaks.",
+      "immediate_forecast_24h": "Expect heightened police and counterterrorism presence at beaches and tourist hotspots in Sydney and NSW. Possible closures of popular outdoor venues, tighter security screenings for large gatherings, and increased monitoring of social media and international travel advisories. Potential ripple effects on local tourism and event schedules; minimal immediate cargo disruption but possible minor delays at ports if security posture escalates.",
+      "strategic_outlook": "Over the next days to weeks, security posture around public events and coastal tourism may tighten; international collaboration with counterterrorism partners and shared threat intelligence will likely intensify. Longer-term, increased investment in surveillance, community outreach, and protective measures for crowded venues; potential impact on travel advisories and tourism strategies.",
+      "operational_impact": "Public safety risk to personnel deployed at beaches and events; risk to civilians; minimal direct cargo risk. Potential need for additional security assets at ports and airports due to elevated threat level; possible delays for passenger flights due to heightened checks; risk to ships near port if port security protocols tighten; business continuity impacts for tourism-related assets.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "e732ee10be92a13280832af0b60ace49",
+    "timestamp": "2025-12-17T04:58:01.772296",
+    "original_title": "Aftermath Of Ukraine’s Underwater Drone Attack On Russian Submarine Seen In Satellite Imagery",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pondgc/aftermath_of_ukraines_underwater_drone_attack_on/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Sevastopol, Crimea",
+      "latitude": 44.5,
+      "longitude": 33.5,
+      "detailed_analysis": "Satellite imagery confirms successful Ukrainian drone strike against Russian submarine, indicating escalation in naval warfare capabilities and demonstrating Ukraine's growing asymmetric capabilities in the Black Sea theater. Attack likely targeted strategic naval assets.",
+      "immediate_forecast_24h": "Heightened Russian naval alert status, possible retaliatory strikes against Ukrainian port infrastructure, increased maritime surveillance and anti-drone operations in Black Sea",
+      "strategic_outlook": "Persistent naval conflict in Black Sea, increased underwater drone warfare, potential targeting of commercial shipping lanes, elevated risk to all vessels in region",
+      "operational_impact": "Maritime operations in Black Sea require enhanced anti-drone measures, vessel security protocols, and real-time intelligence monitoring. All naval and commercial traffic should exercise extreme caution.",
+      "proximity_alert": null
+    }
   }
 ]
