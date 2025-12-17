@@ -530,5 +530,100 @@
       "operational_impact": "Increased security screening at airports for religious/cultural events. Enhanced monitoring of public transport hubs near Jewish community areas. Possible temporary closures or diversions around event sites. Personnel traveling to/from religious events require heightened situational awareness.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "1e158fdb06ea6e9d1687e0b90708e685",
+    "timestamp": "2025-12-17T10:52:43.800557",
+    "original_title": "Jet2 flight LS1451 is declaring an emergency over Portugal and diverting - airlive",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN0VMUy1lOHd3YlhQZGx3aGc1RXRtdFhHbVZnWmVOMlZLbVJRQTZkaDNsNkJORG81ZmhBUTJTM0lWa3hEbDlYc3o3RTlJbWtmS0FFUkxtWVptUmxmX2pZYXV6ZTd6ZUxXUVMySUNRc0tDb19jZ3BEaWFMbVJTZmhvSDVGdE9COWJWTUxpR2h6QVhmcU1iZlBUMms4UjczdUlMTWsxeGJyNGptODlySkxWaVNhc3U?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 7,
+      "location": "Portugal (airspace)",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Jet2 LS1451 declared an emergency and diverted while over Portugal. The nature of the emergency is unspecified, but aviation emergencies typically involve mechanical failure, medical issues, or security concerns. Given the diversion and declaration, this suggests a non-routine event requiring immediate response, though not necessarily a crash.",
+      "immediate_forecast_24h": "Increased scrutiny on Jet2 operations; potential delays or diversions for similar routes; possible follow-up investigations by aviation authorities.",
+      "strategic_outlook": "May lead to enhanced safety protocols for Jet2 or similar carriers if the issue is systemic; unlikely to indicate broader threat trends unless further incidents occur.",
+      "operational_impact": "Temporary disruption to flight schedules; possible resource allocation for emergency response and investigation; minor reputational risk for Jet2.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "2200f4555574e01c8b7a78f702ec17c7",
+    "timestamp": "2025-12-17T10:52:54.815781",
+    "original_title": "UK pledges over $800 million for Ukraine's air defenses, Germany to donate Sidewinder missiles",
+    "link": "https://www.reddit.com/r/worldnews/comments/1potefa/uk_pledges_over_800_million_for_ukraines_air/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Ukraine",
+      "latitude": 48.3794,
+      "longitude": 31.1656,
+      "detailed_analysis": "UK pledges $800M for Ukrainian air defenses and Germany donates Sidewinder missiles, indicating escalation in military support. This increases the likelihood of intensified aerial engagements and potential retaliatory strikes by opposing forces. The influx of advanced weaponry may provoke countermeasures targeting supply routes, logistics hubs, or allied assets in the region.",
+      "immediate_forecast_24h": "Heightened alert for possible increased drone/missile activity in conflict zones. Potential for retaliatory strikes on military/logistics targets. No direct threat to commercial aviation or cargo outside conflict area.",
+      "strategic_outlook": "Sustained military aid likely to prolong conflict intensity. Possible expansion of targeting to include supply chains or logistics nodes. Increased risk of collateral damage to civilian infrastructure near conflict zones.",
+      "operational_impact": "Monitor air defense alerts in Ukraine. Review contingency plans for personnel in region. No immediate impact on global cargo/aviation outside conflict zone, but watch for potential escalation affecting Black Sea routes.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "6cda169e228b3cb3fbc1ded7835b4666",
+    "timestamp": "2025-12-17T10:53:02.496978",
+    "original_title": "Merz Says German Troops Could Counter Russian Attacks in Ukraine",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pot5fw/merz_says_german_troops_could_counter_russian/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Ukraine",
+      "latitude": 48.3794,
+      "longitude": 31.1656,
+      "detailed_analysis": "Statement by German opposition leader Friedrich Merz suggesting potential deployment of German troops to counter Russian attacks in Ukraine represents a significant escalation in Western involvement. This rhetoric increases likelihood of direct NATO-Russia confrontation, potential retaliatory measures against German interests, and heightened targeting of Western assets in region.",
+      "immediate_forecast_24h": "Increased cyber probing against German government/military networks, possible disinformation campaigns targeting German political leadership, heightened alert for espionage activities against German diplomatic and military facilities. No immediate kinetic escalation expected.",
+      "strategic_outlook": "Medium-term risk of mission creep in NATO involvement, potential for asymmetric retaliation against German commercial/logistical interests globally, increased targeting of German nationals in Eastern Europe. Possible supply chain disruptions for German companies operating in region.",
+      "operational_impact": "Elevate threat level for German diplomatic missions, military assets, and commercial interests in Eastern Europe. Recommend enhanced physical security for German transport/logistics hubs. Monitor for increased cyber targeting of German critical infrastructure. Review evacuation protocols for German nationals in Ukraine and bordering nations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "0167b37d8451ffd6cd645fdbf85811da",
+    "timestamp": "2025-12-17T10:53:11.547248",
+    "original_title": "Louvre staff vote to extend strike over working conditions, unions say",
+    "link": "https://www.france24.com/en/france/20251217-louvre-staff-weigh-extending-strike-over-working-conditions",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Paris, France",
+      "latitude": 48.8566,
+      "longitude": 2.3522,
+      "detailed_analysis": "Louvre Museum staff strike over working conditions represents localized labor dispute with potential for protest activity and service disruptions. While not directly targeting assets or personnel with malicious intent, the action could create operational challenges through reduced staffing, temporary closures, or protest gatherings near the museum premises.",
+      "immediate_forecast_24h": "Possible museum access disruptions, increased police presence in surrounding areas, minor traffic impacts from potential protests. No direct threat to aviation, cargo, or personnel safety expected.",
+      "strategic_outlook": "Labor disputes typically resolve through negotiation. May inspire similar actions at other cultural institutions but unlikely to escalate into broader civil unrest affecting critical infrastructure or transport networks.",
+      "operational_impact": "Minimal impact on security operations. Recommend monitoring for any escalation that might affect nearby government buildings or tourist transportation routes. No cargo or aviation implications identified.",
+      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (2 km)"
+    }
+  },
+  {
+    "id": "bf08ab67d5c0c7f53ab9eac084f37faa",
+    "timestamp": "2025-12-17T10:53:20.357472",
+    "original_title": "France: Macron vows to fight drug trafficking",
+    "link": "https://www.france24.com/en/video/20251217-france-macron-vows-to-fight-drug-trafficking",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Crime/Theft",
+      "risk_score": 10,
+      "location": "Marseille, France",
+      "latitude": 43.2965,
+      "longitude": 5.3698,
+      "detailed_analysis": "President Macron's announcement of tougher penalties for drug users and targeting trafficking network leaders indicates escalated government action against organized crime in Marseille. This follows the murder of an anti-drug activist's brother, suggesting potential for retaliatory violence between gangs and increased law enforcement operations. The heightened crackdown may disrupt existing trafficking routes and trigger temporary instability in criminal operations.",
+      "immediate_forecast_24h": "Increased police and military presence in Marseille likely, with potential for clashes between security forces and trafficking groups. Possible short-term disruption to port and logistics operations if raids target storage facilities or transport networks used by criminal organizations.",
+      "strategic_outlook": "Sustained government pressure may fragment trafficking networks, potentially leading to violent power struggles among rival groups. Possible collateral impacts on legitimate cargo operations through port of Marseille if criminal elements use commercial shipping for concealment. Risk of corruption attempts targeting port/aviation personnel.",
+      "operational_impact": "Enhanced security screening at Marseille facilities; possible delays in cargo processing. Personnel in high-risk areas should maintain heightened situational awareness. Potential for incidental discovery of concealed contraband during transportation security checks.",
+      "proximity_alert": "YAKIN TEHDİT: Marseille Provence Airport (0 km)"
+    }
   }
 ]
