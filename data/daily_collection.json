@@ -397,5 +397,62 @@
       "operational_impact": "Recommend rerouting high-value cargo/aviation assets from conflict zones. Enhance surveillance and threat monitoring for Pacific operations. Prepare for potential port/airport closures or restricted airspace. Increase security posture for personnel in region.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "185113cd5fc057083caa265800fb5dcf",
+    "timestamp": "2025-12-18T06:59:45.684730",
+    "original_title": "Government admits failures by Army and air traffic controllers in DCA crash - The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY293OGdYQllZeEd5QmwzcVliNWYxREdLM2xjdFgwb1Jkb3NBS3NkV1ZRdGVYTWFfTjRRa0NkR0VzX2hPUnlrUHZzTHVmcGhhR0RmczZ6MVBDWGswZlU5dEdmNy1pTF9xTGlVU0FuMWYtZ3VjbHF1X3Y0MjNDSEx5R2hOTWQzenZ5N3lpVHRhQQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Washington D.C.",
+      "latitude": 38.9072,
+      "longitude": -77.0369,
+      "detailed_analysis": "Government admission of Army and air traffic controller failures at DCA (Ronald Reagan Washington National Airport) indicates systemic operational vulnerabilities. Military involvement suggests potential coordination gaps between civilian and defense aviation systems. This incident reveals critical infrastructure weaknesses that could be exploited by threat actors.",
+      "immediate_forecast_24h": "Increased scrutiny on DCA operations, potential temporary flight restrictions, enhanced security protocols between military and civilian aviation coordination. Possible secondary investigations into similar airport vulnerabilities nationwide.",
+      "strategic_outlook": "Long-term review of military-civilian aviation interface protocols likely. Potential for regulatory overhaul and increased security measures at major airports. Possible copycat incidents or targeted exploitation of identified vulnerabilities by malicious actors.",
+      "operational_impact": "Immediate: Enhanced security screening at DCA, revised ATC procedures. Medium-term: Potential fleet groundings for safety checks, increased personnel training requirements. Strategic: Possible reassessment of military aircraft operations in civilian airspace nationwide.",
+      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (1 km)"
+    }
+  },
+  {
+    "id": "986d0ac181570a0160042dee6f8463bc",
+    "timestamp": "2025-12-18T06:59:53.325249",
+    "original_title": "US military says it carried out lethal strike on vessel in Pacific, killing four, as Trump addresses country – as it happened - The Guardian",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVllZd2FoSGlZSDg1NGhFYTZ2dEdzLTcwSDlyQ2dpOVY3QUlPaTRYY3Zac2lSdGVwU2l5V3dOWGtpVnZOaVdYcjUxMlZ6MGp2ZFo2RzJ2X0d1LXdYTkFJZVFnWV9QQlBNTFZZeFhFbFNJSTYtX1hnWXBzOERjbjJhYjY4YmVDaS10V0NiVGxFYW9zUHhNUDRTbVlOcmlwUEpsd2hHXzEwQTZTSmQ2cjhfc285NlRLNGdIbXB3SUhkWVIzTWRvWkpUdEFBZzl6d3BMOXE4?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Pacific Ocean",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "US military conducted lethal strike against maritime vessel in Pacific region resulting in four fatalities. Event occurred during high-profile political address, suggesting potential strategic timing. No specific vessel type or exact coordinates provided, but military engagement indicates elevated regional tensions. Requires monitoring for retaliatory actions against US assets.",
+      "immediate_forecast_24h": "Increased alert level for all US military and commercial assets in Pacific region. Potential for retaliatory attacks against naval vessels, aircraft, or port facilities. Enhanced ISR monitoring recommended.",
+      "strategic_outlook": "Possible escalation of maritime tensions in Pacific theater. May impact shipping lanes and require increased naval patrols. Could lead to broader regional instability affecting commercial maritime operations.",
+      "operational_impact": "Heightened threat to US and allied naval assets, potential for collateral damage to commercial shipping. Increased risk to personnel in Pacific operations. Possible supply chain disruptions if conflict escalates.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "7f2a60f610c9651a9cf48363463068b0",
+    "timestamp": "2025-12-18T07:00:03.605264",
+    "original_title": "EU leaders to meet for crunch summit on massive loan to Ukraine",
+    "link": "https://www.france24.com/en/europe/20251218-eu-leaders-to-meet-for-crunch-summit-on-massive-loan-to-ukraine",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Rostov region",
+      "latitude": 47.2357,
+      "longitude": 39.7015,
+      "detailed_analysis": "Ukrainian drone attack on a cargo vessel in Rostov region resulted in two crew member fatalities, indicating escalation of conflict-related maritime targeting. EU summit on frozen Russian assets may provoke retaliatory actions.",
+      "immediate_forecast_24h": "Heightened risk of retaliatory strikes on maritime/logistics targets in Black Sea region; possible cyber disruptions targeting EU/Ukrainian assets.",
+      "strategic_outlook": "Sustained targeting of transport infrastructure likely as conflict intensifies; increased maritime security protocols advised for vessels near conflict zones.",
+      "operational_impact": "Potential delays for cargo/aviation routes near southern Russia; elevated threat to personnel in Rostov/adjacent regions; recommend rerouting high-value assets.",
+      "proximity_alert": "YAKIN TEHDİT: Rostov-on-Don International Airport (3 km)"
+    }
   }
 ]
