@@ -682,5 +682,43 @@
       "operational_impact": "Requires enhanced pre-flight risk assessments for West African routes; may necessitate alternative routing plans; increased monitoring of regional political/military developments; potential for similar incidents affecting other international flights in the region.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "0bcd6d8cc991564aa4d6478e9d6ac73c",
+    "timestamp": "2025-12-18T14:51:57.266247",
+    "original_title": "Over 1,000 Were Killed in Attack on Camp in Darfur, Sudan, U.N. Says",
+    "link": "https://www.nytimes.com/2025/12/18/world/africa/sudan-rsf-attack-darfur-un.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 9,
+      "location": "Darfur, Sudan",
+      "latitude": 12.8628,
+      "longitude": 25.15,
+      "detailed_analysis": "Large-scale paramilitary attack resulting in mass casualties indicates active conflict zone with extreme violence against civilians. The reduction of UN aid due to Western funding cuts creates secondary humanitarian crisis with spreading hunger, increasing desperation and potential for further violence against remaining aid operations.",
+      "immediate_forecast_24h": "High probability of continued violence and attacks against remaining humanitarian assets. Increased targeting of aid convoys and personnel likely as hunger spreads. Possible retaliatory attacks between warring factions.",
+      "strategic_outlook": "Sustained conflict expected to worsen humanitarian crisis. Aid operations will face extreme security challenges. Regional spillover possible as refugees flee violence and hunger. Aviation assets at high risk if used for aid delivery.",
+      "operational_impact": "All personnel movements in Darfur require armed escort. Aid convoys high-risk targets. Aviation support for evacuation/resupply extremely dangerous. Cargo shipments subject to interception, looting, or attack. Complete security reassessment required for any operations in region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "93c67e81b6fd85cbaf90bc12ae099b8f",
+    "timestamp": "2025-12-18T14:52:06.715317",
+    "original_title": "SBU says drones hit Russian equipment worth hundreds of millions at Belbek airfield in occupied Crimea",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pprpvx/sbu_says_drones_hit_russian_equipment_worth/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Belbek, Crimea",
+      "latitude": 44.5,
+      "longitude": 33.6,
+      "detailed_analysis": "Confirmed drone strike on Russian military equipment at Belbek airfield, resulting in significant material damage estimated at hundreds of millions. This represents a direct kinetic attack on military infrastructure in a contested region, indicating escalation in conflict capabilities and targeting strategies. The use of drones demonstrates evolving asymmetric warfare methods against high-value assets.",
+      "immediate_forecast_24h": "High probability of retaliatory actions, increased air defense readiness, potential for secondary strikes or counter-strikes. Enhanced security measures expected at all military installations in Crimea and surrounding regions. Possible disruption to civilian air traffic in Black Sea region due to heightened military activity.",
+      "strategic_outlook": "Continued escalation of drone warfare tactics likely, with increased targeting of military infrastructure. Potential for expanded conflict zone as both sides develop and deploy more sophisticated unmanned systems. Long-term risk of conventional military response escalation remains elevated.",
+      "operational_impact": "Immediate suspension of non-essential operations in Crimean airspace recommended. Enhanced security protocols for all assets in Black Sea region. Increased monitoring of drone activity near critical infrastructure. Potential for supply chain disruptions if conflict expands to maritime routes. Personnel in region should maintain heightened situational awareness.",
+      "proximity_alert": null
+    }
   }
 ]
