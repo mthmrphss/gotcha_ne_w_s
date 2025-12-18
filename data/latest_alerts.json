@@ -74,5 +74,62 @@
       "operational_impact": "Ground transportation delays expected in central Brussels. Personnel should avoid protest areas and monitor local traffic advisories. No expected impact on cargo routes or aviation operations unless protest scope expands unexpectedly.",
       "proximity_alert": "YAKIN TEHDİT: SHERATON AIRPORT (0 km)"
     }
+  },
+  {
+    "id": "7921e1799afdcb842541fb353d398b96",
+    "timestamp": "2025-12-18T09:52:58.686286",
+    "original_title": "No evidence alleged Bondi gunmen received military training in the Philippines, says security adviser - WHTC",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbC00bmhFNFFUdXU5cjRuVlNJNjRlVUpNNHA0RVRySmpCelZPQm1qclZiRk9nRG1ZVDlwSzdTV29qeGp5MTdUZUhaVjF2ZW9uaTZDTmtTODRRQm5lYkdmV01HMENBQzNtQXZReWVDeEx1NTVVSWFIV2xEdXJPUHA2WF9RVmdkMHpkWjVrcUJVaGo2NC13WTl5RllqUFh4RklPUXgyd05PNWhYOS1mckRlZ2ZKSUhDUWl0bjF3OE4xdmNodXRmSDN1Tw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 4,
+      "location": "Bondi, Australia",
+      "latitude": -33.8915,
+      "longitude": 151.2767,
+      "detailed_analysis": "Article discusses alleged Bondi gunmen and potential foreign military training links, though authorities state no evidence supports Philippines training claims. While not confirming direct threat, the mention of foreign terrorist training connections warrants monitoring for potential radicalization patterns or copycat incidents.",
+      "immediate_forecast_24h": "Low probability of immediate operational impact. Continue standard threat monitoring protocols for public spaces and transportation hubs.",
+      "strategic_outlook": "Potential for increased scrutiny on individuals with foreign training connections. May indicate evolving terrorist recruitment patterns requiring enhanced intelligence sharing with regional partners.",
+      "operational_impact": "No direct impact on assets or operations. Maintain current threat level but increase awareness of suspicious activity reporting in public transit and crowded areas.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "90e1183223ace4a2a5a010bae11b2508",
+    "timestamp": "2025-12-18T09:53:09.358041",
+    "original_title": "Russian attack on Ukraine's Zaporizhzhia injures 26, governor says",
+    "link": "https://www.reddit.com/r/worldnews/comments/1ppmtmr/russian_attack_on_ukraines_zaporizhzhia_injures/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Zaporizhzhia, Ukraine",
+      "latitude": 47.8388,
+      "longitude": 35.1396,
+      "detailed_analysis": "Russian military attack on Ukrainian city Zaporizhzhia resulting in 26 injuries. This represents direct kinetic warfare targeting civilian infrastructure/population centers. Zaporizhzhia is strategically significant due to nuclear power plant presence and industrial capacity. Attack methodology likely involves missiles/drones based on pattern of previous strikes.",
+      "immediate_forecast_24h": "High probability of follow-up strikes on Zaporizhzhia or nearby regions. Possible escalation targeting energy infrastructure or transportation hubs. Increased air defense activity expected. Civilian evacuation operations may be disrupted.",
+      "strategic_outlook": "Ongoing conflict likely to maintain or increase intensity. Critical infrastructure remains vulnerable. Regional instability may affect Black Sea shipping routes and overflight patterns. Potential for spillover effects on neighboring countries' security.",
+      "operational_impact": "All personnel in Zaporizhzhia region at elevated risk. Air travel in eastern Ukraine airspace remains hazardous. Ground transport routes potentially compromised. Cargo shipments through region subject to delays and security screening requirements. Enhanced security protocols recommended for all assets in conflict zone.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "b1d566fa4f8eae1c859e35973b8cf040",
+    "timestamp": "2025-12-18T09:53:17.192944",
+    "original_title": "Ukraine says 180,000 consumers were left without power after Russian overnight attack",
+    "link": "https://www.reddit.com/r/worldnews/comments/1ppmgig/ukraine_says_180000_consumers_were_left_without/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Ukraine",
+      "latitude": 48.3794,
+      "longitude": 31.1656,
+      "detailed_analysis": "Russian overnight attack targeting Ukrainian energy infrastructure, resulting in 180,000 consumers losing power. This represents a deliberate targeting of civilian infrastructure as part of ongoing conflict operations, indicating escalation in tactics aimed at disrupting essential services and creating humanitarian pressure.",
+      "immediate_forecast_24h": "High probability of continued or retaliatory attacks on energy systems. Potential for cascading effects on transportation, communications, and other critical infrastructure. Increased security alert status recommended for all assets in region.",
+      "strategic_outlook": "Persistent targeting of energy infrastructure likely to continue as conflict strategy. May lead to prolonged power disruptions affecting logistics, supply chains, and civilian mobility. Potential for similar tactics to be employed against other critical infrastructure targets.",
+      "operational_impact": "Power disruptions will affect cargo operations, refrigeration-dependent shipments, and fuel availability. Aviation may experience navigation/communication challenges. Personnel movement and security operations complicated by blackout conditions. Essential services degradation increases overall operational complexity.",
+      "proximity_alert": null
+    }
   }
 ]
