@@ -454,5 +454,43 @@
       "operational_impact": "Increased vigilance required on private flight operations; possible temporary flight restrictions near incident location during investigation; enhanced monitoring of aviation maintenance records and pilot certifications.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "fa2e2da9a796242e1971d16f1810ba66",
+    "timestamp": "2025-12-19T07:40:57.542442",
+    "original_title": "Drones Hit Seven Russian Regions, Disrupt Power, Spark Fire at Major Chemical Plant",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pqey20/drones_hit_seven_russian_regions_disrupt_power/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Seven Russian regions",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Coordinated drone attacks targeting critical infrastructure across multiple regions, including power disruption and a major chemical plant fire. Indicates sophisticated offensive capabilities with potential for cascading effects on industrial operations and supply chains.",
+      "immediate_forecast_24h": "High probability of continued or escalated drone operations, potential for additional infrastructure targeting, and possible retaliatory measures affecting regional stability.",
+      "strategic_outlook": "Sustained asymmetric warfare tactics likely to persist, increasing vulnerability of industrial and energy assets. May trigger heightened security measures and potential escalation in conflict dynamics.",
+      "operational_impact": "Critical infrastructure disruption affecting power-dependent operations, potential chemical hazard contamination, supply chain interruptions, and increased security alert levels for assets in affected regions.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "656c414513a48b8784c41caec5786cf2",
+    "timestamp": "2025-12-19T07:41:10.744416",
+    "original_title": "Sudan: UN says RSF killed 1,000 civilians in Zamzam refugee camp in April",
+    "link": "http://www.africanews.com/2025/12/19/sudan-un-says-rsf-killed-1000-civilians-in-zamzam-refugee-camp-in-april/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Zamzam, Darfur, Sudan",
+      "latitude": 13.5,
+      "longitude": 25.0,
+      "detailed_analysis": "RSF paramilitary forces conducted a targeted attack on a refugee camp, resulting in mass civilian casualties. This indicates active conflict escalation in Darfur with deliberate targeting of non-combatants. The attack demonstrates RSF's operational capability and willingness to engage in high-casualty operations against vulnerable populations.",
+      "immediate_forecast_24h": "High probability of continued RSF operations in Darfur region. Potential for retaliatory attacks, increased military movement, and possible expansion of conflict zones. Refugee flows may increase dramatically from affected areas.",
+      "strategic_outlook": "Darfur region likely to experience prolonged instability with periodic high-intensity conflict. RSF operations may expand to other refugee concentrations. International response could include sanctions or peacekeeping deployments, potentially escalating tensions further.",
+      "operational_impact": "All personnel and assets in Darfur region at immediate risk. Evacuation recommended for non-essential personnel. Cargo routes through Sudan may experience disruptions. Aviation operations face increased risk from potential anti-aircraft activity or airport targeting. Border regions with Chad and CAR may see increased refugee flows and cross-border incidents.",
+      "proximity_alert": null
+    }
   }
 ]
