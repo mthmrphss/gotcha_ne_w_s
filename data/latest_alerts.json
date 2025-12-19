@@ -1,43 +1,5 @@
 [
   {
-    "id": "aa93af499ad405871b0b1d26c0919e1a",
-    "timestamp": "2025-12-19T21:34:45.080996",
-    "original_title": "Seven Colombian soldiers killed in guerrilla attack with drones and explosives, military says",
-    "link": "https://www.reddit.com/r/worldnews/comments/1pqupdz/seven_colombian_soldiers_killed_in_guerrilla/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 8,
-      "location": "Colombia",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "ELN guerrilla group conducted a coordinated attack using drones and explosives against a Colombian military base, resulting in 7 soldier fatalities. This demonstrates increased tactical sophistication with drone-enabled explosive delivery capabilities. The attack indicates active insurgent operations targeting state security forces.",
-      "immediate_forecast_24h": "High probability of increased military patrols and security operations in the region. Potential for retaliatory strikes against ELN positions. Possible temporary airspace restrictions near conflict zones.",
-      "strategic_outlook": "Sustained asymmetric warfare likely to continue. ELN's drone capabilities represent an evolving threat vector that could be adapted against other targets. Regional instability may affect supply chain security and personnel movement in conflict areas.",
-      "operational_impact": "Elevated threat to personnel in conflict zones. Possible disruptions to ground transport routes. Aviation operations may face increased drone-related security protocols. Cargo movements through affected regions require enhanced security assessments.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "daa7a5b9fca48fc633bbaa6ebf0f64e7",
-    "timestamp": "2025-12-19T21:35:07.524759",
-    "original_title": "Sudan: RSF kills over 1,000 civilians in Zamzam refugee camp in April, UN reports",
-    "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20251219-sudan-rsf-kills-over-1-000-civilians-in-zamzam-refugee-camp-in-april-un-reports",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 8,
-      "location": "Zamzam refugee camp, Sudan",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "UN Human Rights Office reports that the Rapid Support Forces conducted a three-day attack on Zamzam refugee camp in April, resulting in over 1,000 civilian deaths and including acts of sexual violence. The attack underscores grave violations of international humanitarian law and poses an immediate threat to civilians and humanitarian operations in and around the camp. It indicates a volatile security environment for refugees and aid workers, with potential for further violence, displacement, and disruption of aid convoys and essential services. The involvement of a non-state armed actor and the timing amid ongoing conflict raise the risk of spillover into nearby areas and compounding access challenges for humanitarian agencies.",
-      "immediate_forecast_24h": "Likelihood of continued security disruption around Zamzam and adjacent camps. Possible evacuation or shelter-in-place directives for civilians and personnel; delays or redirection of aid convoys; heightened security posture by NGOs and UN agencies; monitoring for retaliatory or opportunistic attacks.",
-      "strategic_outlook": "Sustained insecurity in Sudan’s conflict zones could degrade humanitarian access for weeks to months, elevating risks to personnel and cargo, complicating procurement and distribution, and potentially triggering international inquiries or sanctions. Agencies should evaluate alternative routes, increase convoy protection, strengthen liaison with UN bodies, and review contingency plans for staff safety and camp-based operations.",
-      "operational_impact": "High risk to personnel safety near refugee camps and in transit corridors; potential damage or looting of aid stocks and facilities; possible suspension of relief operations, curtailment of food, medical, and shelter services; need for enhanced escorts, security coordination with UN missions, and rapid relocation plans for high-risk staff.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "97f3b53ab9580d1264c44a8bae9d039b",
     "timestamp": "2025-12-19T22:41:45.169497",
     "original_title": "Greg Biffle plane crash: Federal investigators share new details about crash, wreckage, investigation - WBTV",
@@ -92,6 +54,82 @@
       "strategic_outlook": "This incident may indicate growing radicalization trends in urban centers. Could lead to increased security measures for Jewish institutions, public events, and potentially affect employee travel safety protocols. May require enhanced coordination between law enforcement and private security teams for personnel protection.",
       "operational_impact": "Personnel in Toronto should exercise heightened situational awareness, especially in public spaces. Consider implementing travel advisories for the area and reviewing security protocols for employees working in or traveling to Toronto. No immediate impact on cargo or aviation operations, but monitoring recommended for any escalation patterns.",
       "proximity_alert": "YAKIN TEHDİT: Toronto Pearson International Airport (19 km)"
+    }
+  },
+  {
+    "id": "3d6408680d6276223f9581f9978ccf1f",
+    "timestamp": "2025-12-19T23:35:03.782768",
+    "original_title": "U.S. forces launch strike against ISIS in Syria in retaliation for attack that killed 3 Americans - NBC News",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeFl6eHZZc1Q3MFhNdXdLUU9QeDkxV1VkUVdiRjlMSGJtSjV5TWhpd05EcWNIcVNDSEU2TEo3MEFiR2M1ZndTUmdiTExtQjluTXVacjlQLU9sZ0FsR1dWNDdqVnB6Ym5nMENUTTVMeGhid0ZpZFc0MnN3bDdMV0dCZXdCVUF4YTdoY1VqMHhBMmxuU01ZUDdPNGI4OGhEXzl1a290MDVpV1BUMlFFQ200WkRFTTZsME8t0gFWQVVfeXFMT1NCUFhVZkM0OHR2X0lYbC1faXkxV3ZxdzJYeE5WYkt0dmY4RWk2YXZrVmRDek50MGpMZS00VU5Ob055UWpDSkZzUUNnUkdPTG5JN2EzYkE?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Syria",
+      "latitude": 35.0,
+      "longitude": 38.0,
+      "detailed_analysis": "U.S. retaliatory airstrike against ISIS targets in Syria following attack that killed 3 American personnel. Indicates active military engagement in region with potential for escalation. ISIS remains operational capability to conduct attacks against U.S. forces and interests.",
+      "immediate_forecast_24h": "Heightened alert for U.S. military and personnel in Syria/Iraq region. Possible ISIS retaliatory attacks against U.S. assets. Increased drone/rocket attack risk on bases. Potential for expanded U.S. military operations.",
+      "strategic_outlook": "Sustained counter-terrorism operations likely to continue. ISIS will seek to demonstrate resilience through additional attacks. Regional tension may increase with potential for broader conflict engagement. Aviation operations at risk from MANPADS and drone threats.",
+      "operational_impact": "All U.S. military and contractor personnel in Syria/Iraq at elevated risk. Aviation operations require enhanced security protocols. Cargo movements may face increased targeting. Personnel movement restrictions likely. Force protection condition elevated.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "165a110bd45f750f8371a5199a676e37",
+    "timestamp": "2025-12-19T23:35:28.872329",
+    "original_title": "BBC News: US carries out 'massive' strike against IS in Syria",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pqzdfv/bbc_news_us_carries_out_massive_strike_against_is/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Syria",
+      "latitude": 35.0,
+      "longitude": 38.0,
+      "detailed_analysis": "US-led airstrikes against IS targets in Syria represent a significant kinetic military operation. While targeting terrorist infrastructure, collateral damage and retaliatory actions could emerge. IS remnants may attempt asymmetric attacks against US/allied personnel, assets, or regional logistics routes. Aviation may face increased drone or MANPADS threats in Syrian airspace.",
+      "immediate_forecast_24h": "Heightened alert for retaliatory attacks against US or coalition forces in Syria/Iraq. Possible increased drone activity or indirect fire targeting military bases. Civilian areas near conflict zones may experience collateral damage incidents.",
+      "strategic_outlook": "Sustained military operations likely to continue, potentially escalating regional tensions. IS may attempt to demonstrate resilience through high-profile attacks. Possible increased targeting of supply convoys or logistics hubs supporting coalition operations.",
+      "operational_impact": "All personnel in Syria/Iraq region should maintain heightened situational awareness. Aviation operations in eastern Syria require enhanced anti-drone and MANPADS protocols. Cargo movements through conflict-adjacent areas may face increased IED or ambush risks. Consider temporary hardening of perimeter security at forward operating bases.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "ed0c890d5b4ec36eb43d568d45f8c894",
+    "timestamp": "2025-12-19T23:35:36.279171",
+    "original_title": "US strikes Islamic State group targets in Syria, US officials say",
+    "link": "https://www.france24.com/en/live-news/20251219-us-strikes-islamic-state-group-targets-in-syria-us-officials-say",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Central Syria",
+      "latitude": 34.557,
+      "longitude": 38.284,
+      "detailed_analysis": "US airstrikes targeting Islamic State positions in central Syria represent a significant escalation in military operations, likely increasing regional instability. Retaliatory nature of strikes suggests heightened tensions, with potential for asymmetric responses against US assets, personnel, or interests in the region.",
+      "immediate_forecast_24h": "Elevated risk of retaliatory attacks against US military or diplomatic facilities; possible increased insurgent activity targeting aviation, supply routes, or personnel convoys in Syria and neighboring areas.",
+      "strategic_outlook": "Prolonged conflict dynamics expected; potential for expanded operations or further escalation. May impact regional cargo transit, aviation routes, and security protocols for personnel and assets in conflict-adjacent zones.",
+      "operational_impact": "Increased vigilance required for personnel and assets in Syria and surrounding regions; possible disruptions to air and ground cargo movements; heightened threat to aviation from MANPADS or drone activity.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "d3f4a567b753b0826a6770c97c31f11f",
+    "timestamp": "2025-12-19T23:35:44.444021",
+    "original_title": "Senegal - Level 1: Exercise Normal Precautions",
+    "link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/senegal-travel-advisory.html",
+    "source_name": "US State Dept",
+    "ai_analysis": {
+      "category": "Crime/Theft",
+      "risk_score": 6,
+      "location": "Casamance region",
+      "latitude": 12.5,
+      "longitude": -15.5,
+      "detailed_analysis": "Separatist rebel groups and armed bandits operate in Casamance region, conducting armed robberies primarily on secondary roads and during nighttime. Landmines and unexploded ordnance from prior conflicts remain a threat in border and rural areas, with locations often unmarked. Main roads and daylight travel are considered lower risk based on embassy restrictions.",
+      "immediate_forecast_24h": "No specific imminent threat indicated, but persistent risk of criminal activity and landmine hazards in Casamance region. Normal precautions advised elsewhere in Senegal.",
+      "strategic_outlook": "Long-standing regional conflict dynamics likely to maintain elevated risk environment in Casamance. Criminal elements may exploit limited government control in remote areas. Landmine clearance operations remain incomplete.",
+      "operational_impact": "Personnel movement restricted to main roads and daylight hours in Casamance. Cargo transport should avoid secondary routes and nighttime operations. Enhanced security protocols recommended for high-value shipments through the region.",
+      "proximity_alert": null
     }
   }
 ]

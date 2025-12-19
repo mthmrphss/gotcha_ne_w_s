@@ -150,5 +150,81 @@
       "operational_impact": "Personnel in Toronto should exercise heightened situational awareness, especially in public spaces. Consider implementing travel advisories for the area and reviewing security protocols for employees working in or traveling to Toronto. No immediate impact on cargo or aviation operations, but monitoring recommended for any escalation patterns.",
       "proximity_alert": "YAKIN TEHDİT: Toronto Pearson International Airport (19 km)"
     }
+  },
+  {
+    "id": "3d6408680d6276223f9581f9978ccf1f",
+    "timestamp": "2025-12-19T23:35:03.782768",
+    "original_title": "U.S. forces launch strike against ISIS in Syria in retaliation for attack that killed 3 Americans - NBC News",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeFl6eHZZc1Q3MFhNdXdLUU9QeDkxV1VkUVdiRjlMSGJtSjV5TWhpd05EcWNIcVNDSEU2TEo3MEFiR2M1ZndTUmdiTExtQjluTXVacjlQLU9sZ0FsR1dWNDdqVnB6Ym5nMENUTTVMeGhid0ZpZFc0MnN3bDdMV0dCZXdCVUF4YTdoY1VqMHhBMmxuU01ZUDdPNGI4OGhEXzl1a290MDVpV1BUMlFFQ200WkRFTTZsME8t0gFWQVVfeXFMT1NCUFhVZkM0OHR2X0lYbC1faXkxV3ZxdzJYeE5WYkt0dmY4RWk2YXZrVmRDek50MGpMZS00VU5Ob055UWpDSkZzUUNnUkdPTG5JN2EzYkE?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Syria",
+      "latitude": 35.0,
+      "longitude": 38.0,
+      "detailed_analysis": "U.S. retaliatory airstrike against ISIS targets in Syria following attack that killed 3 American personnel. Indicates active military engagement in region with potential for escalation. ISIS remains operational capability to conduct attacks against U.S. forces and interests.",
+      "immediate_forecast_24h": "Heightened alert for U.S. military and personnel in Syria/Iraq region. Possible ISIS retaliatory attacks against U.S. assets. Increased drone/rocket attack risk on bases. Potential for expanded U.S. military operations.",
+      "strategic_outlook": "Sustained counter-terrorism operations likely to continue. ISIS will seek to demonstrate resilience through additional attacks. Regional tension may increase with potential for broader conflict engagement. Aviation operations at risk from MANPADS and drone threats.",
+      "operational_impact": "All U.S. military and contractor personnel in Syria/Iraq at elevated risk. Aviation operations require enhanced security protocols. Cargo movements may face increased targeting. Personnel movement restrictions likely. Force protection condition elevated.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "165a110bd45f750f8371a5199a676e37",
+    "timestamp": "2025-12-19T23:35:28.872329",
+    "original_title": "BBC News: US carries out 'massive' strike against IS in Syria",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pqzdfv/bbc_news_us_carries_out_massive_strike_against_is/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Syria",
+      "latitude": 35.0,
+      "longitude": 38.0,
+      "detailed_analysis": "US-led airstrikes against IS targets in Syria represent a significant kinetic military operation. While targeting terrorist infrastructure, collateral damage and retaliatory actions could emerge. IS remnants may attempt asymmetric attacks against US/allied personnel, assets, or regional logistics routes. Aviation may face increased drone or MANPADS threats in Syrian airspace.",
+      "immediate_forecast_24h": "Heightened alert for retaliatory attacks against US or coalition forces in Syria/Iraq. Possible increased drone activity or indirect fire targeting military bases. Civilian areas near conflict zones may experience collateral damage incidents.",
+      "strategic_outlook": "Sustained military operations likely to continue, potentially escalating regional tensions. IS may attempt to demonstrate resilience through high-profile attacks. Possible increased targeting of supply convoys or logistics hubs supporting coalition operations.",
+      "operational_impact": "All personnel in Syria/Iraq region should maintain heightened situational awareness. Aviation operations in eastern Syria require enhanced anti-drone and MANPADS protocols. Cargo movements through conflict-adjacent areas may face increased IED or ambush risks. Consider temporary hardening of perimeter security at forward operating bases.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "ed0c890d5b4ec36eb43d568d45f8c894",
+    "timestamp": "2025-12-19T23:35:36.279171",
+    "original_title": "US strikes Islamic State group targets in Syria, US officials say",
+    "link": "https://www.france24.com/en/live-news/20251219-us-strikes-islamic-state-group-targets-in-syria-us-officials-say",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Central Syria",
+      "latitude": 34.557,
+      "longitude": 38.284,
+      "detailed_analysis": "US airstrikes targeting Islamic State positions in central Syria represent a significant escalation in military operations, likely increasing regional instability. Retaliatory nature of strikes suggests heightened tensions, with potential for asymmetric responses against US assets, personnel, or interests in the region.",
+      "immediate_forecast_24h": "Elevated risk of retaliatory attacks against US military or diplomatic facilities; possible increased insurgent activity targeting aviation, supply routes, or personnel convoys in Syria and neighboring areas.",
+      "strategic_outlook": "Prolonged conflict dynamics expected; potential for expanded operations or further escalation. May impact regional cargo transit, aviation routes, and security protocols for personnel and assets in conflict-adjacent zones.",
+      "operational_impact": "Increased vigilance required for personnel and assets in Syria and surrounding regions; possible disruptions to air and ground cargo movements; heightened threat to aviation from MANPADS or drone activity.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "d3f4a567b753b0826a6770c97c31f11f",
+    "timestamp": "2025-12-19T23:35:44.444021",
+    "original_title": "Senegal - Level 1: Exercise Normal Precautions",
+    "link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/senegal-travel-advisory.html",
+    "source_name": "US State Dept",
+    "ai_analysis": {
+      "category": "Crime/Theft",
+      "risk_score": 6,
+      "location": "Casamance region",
+      "latitude": 12.5,
+      "longitude": -15.5,
+      "detailed_analysis": "Separatist rebel groups and armed bandits operate in Casamance region, conducting armed robberies primarily on secondary roads and during nighttime. Landmines and unexploded ordnance from prior conflicts remain a threat in border and rural areas, with locations often unmarked. Main roads and daylight travel are considered lower risk based on embassy restrictions.",
+      "immediate_forecast_24h": "No specific imminent threat indicated, but persistent risk of criminal activity and landmine hazards in Casamance region. Normal precautions advised elsewhere in Senegal.",
+      "strategic_outlook": "Long-standing regional conflict dynamics likely to maintain elevated risk environment in Casamance. Criminal elements may exploit limited government control in remote areas. Landmine clearance operations remain incomplete.",
+      "operational_impact": "Personnel movement restricted to main roads and daylight hours in Casamance. Cargo transport should avoid secondary routes and nighttime operations. Enhanced security protocols recommended for high-value shipments through the region.",
+      "proximity_alert": null
+    }
   }
 ]
