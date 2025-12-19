@@ -682,5 +682,24 @@
       "operational_impact": "Monitor protest locations for route planning avoidance. Enhanced physical security recommended for high-value assets in urban areas. Potential for delayed cargo movements due to road closures. Aviation operations currently unaffected but monitor for strike announcements or airspace restrictions if unrest escalates.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "5ee7f0f24ad3cc006b00c14140171015",
+    "timestamp": "2025-12-19T10:49:44.977949",
+    "original_title": "Dubai travellers hit by Christmas chaos after flights delayed and cancelled",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/dubai-airport-thunderstorms-uae-weather-emirates-b2887637.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Dubai",
+      "latitude": 25.2048,
+      "longitude": 55.2708,
+      "detailed_analysis": "Severe thunderstorms at Dubai International Airport (DXB) caused flight delays and cancellations, disrupting operations at the world's busiest international airport. No evidence of malicious activity, terrorism, or criminal intent; purely weather-related disruption.",
+      "immediate_forecast_24h": "Continued flight disruptions likely as airport operations recover; residual delays and cancellations expected. No escalation to security threats anticipated.",
+      "strategic_outlook": "Minimal mid-to-long-term security implications. Airport and airline recovery procedures standard; no indication of systemic vulnerabilities or targeted risks to assets, cargo, or personnel beyond operational delays.",
+      "operational_impact": "Temporary disruption to passenger travel, potential backlog in cargo logistics. No direct threat to personnel safety or asset security; standard weather contingency protocols in effect.",
+      "proximity_alert": "YAKIN TEHDİT: DUBAİ (16 km)"
+    }
   }
 ]
