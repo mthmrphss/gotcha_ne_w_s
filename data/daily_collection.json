@@ -701,5 +701,62 @@
       "operational_impact": "Temporary disruption to passenger travel, potential backlog in cargo logistics. No direct threat to personnel safety or asset security; standard weather contingency protocols in effect.",
       "proximity_alert": "YAKIN TEHDİT: DUBAİ (16 km)"
     }
+  },
+  {
+    "id": "322e2acab4008dde16aa080e83801704",
+    "timestamp": "2025-12-19T11:33:41.064363",
+    "original_title": "Germany’s Christmas Markets Are Now Ringed With Security Barriers",
+    "link": "https://www.nytimes.com/2025/12/19/world/europe/germany-christmas-market-security-bollard-attacks.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 7,
+      "location": "Germany",
+      "latitude": 51.1657,
+      "longitude": 10.4515,
+      "detailed_analysis": "Proactive installation of physical security barriers (concrete blocks, chain barriers, mobile bollards) indicates credible threat intelligence of vehicle-ramming attacks targeting high-density public gatherings. This aligns with historical attack patterns observed in European Christmas markets. The use of hand-cranked crane systems suggests consideration for both security and operational flexibility.",
+      "immediate_forecast_24h": "Heightened security posture at all German Christmas markets with increased physical barriers and likely enhanced police/security presence. No specific imminent threat indicated but defensive measures suggest elevated concern.",
+      "strategic_outlook": "Persistent terrorism threat to soft targets in public spaces across Europe during holiday seasons. Likely continuation of vehicle-ramming mitigation tactics. Potential for threat actors to shift tactics or target less hardened locations.",
+      "operational_impact": "Increased screening at event perimeters, potential traffic disruptions near markets, enhanced surveillance operations. Personnel should maintain heightened situational awareness in crowded public areas. No direct impact to aviation or cargo operations identified.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "e0e294205436cadabb9a34a6b61cb57c",
+    "timestamp": "2025-12-19T11:33:49.154585",
+    "original_title": "Putin Reaffirms Broad Military Goals for Russia in Ukraine",
+    "link": "https://www.nytimes.com/2025/12/18/world/europe/putin-russia-ukraine.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Ukraine",
+      "latitude": 48.3794,
+      "longitude": 31.1656,
+      "detailed_analysis": "Putin's reaffirmation of broad military goals indicates sustained Russian offensive operations in Ukraine. This increases likelihood of escalated attacks on critical infrastructure, supply routes, and transportation networks. Potential for spillover effects on regional cargo, aviation, and personnel security.",
+      "immediate_forecast_24h": "Heightened military activity expected across conflict zones. Increased risk of missile/drone attacks on logistics hubs, potential airspace restrictions, and possible targeting of supply convoys. Enhanced vigilance required for all assets in region.",
+      "strategic_outlook": "Sustained conflict likely through 2024 with potential for escalation. Russian operations may increasingly target transportation infrastructure to disrupt Ukrainian supply lines. Regional aviation may face continued airspace violations and navigation hazards.",
+      "operational_impact": "All personnel and assets in Ukraine at elevated risk. Cargo operations face disruption from military operations and potential infrastructure damage. Aviation routes may require frequent rerouting. Increased security protocols recommended for all ground movements and supply chains.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "c4bb3fe72db74d2de0045e80d5f54326",
+    "timestamp": "2025-12-19T11:33:58.331105",
+    "original_title": "Belarusian leader says Russia deployed its latest nuclear-capable Oreshnik missile to the country",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pqija8/belarusian_leader_says_russia_deployed_its_latest/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Belarus",
+      "latitude": 53.7098,
+      "longitude": 27.9534,
+      "detailed_analysis": "Deployment of Russia's latest nuclear-capable Oreshnik missile system to Belarus represents a significant escalation in regional military posture. This increases strategic threat projection capabilities against NATO members and neighboring countries. The system's nuclear capability introduces potential for miscalculation or accidental escalation during heightened tensions. Belarus serves as a forward deployment location, reducing response times for potential engagements.",
+      "immediate_forecast_24h": "Increased NATO aerial surveillance along Belarusian airspace, possible heightened readiness levels for neighboring military forces. No immediate kinetic action expected but diplomatic protests likely. Enhanced monitoring of Russian/Belarusian military communications recommended.",
+      "strategic_outlook": "Long-term positioning indicates sustained Russian strategic presence in Belarus. This deployment likely part of broader pattern of nuclear posturing and force projection. May trigger reciprocal NATO deployments or exercises in Eastern Europe. Creates persistent escalation risk in region with potential for miscalculation during crises.",
+      "operational_impact": "Elevated threat level for all assets in Belarus and bordering NATO countries. Aviation routes may be affected by increased military air activity. Personnel in region face heightened risk in event of escalation. Cargo operations may experience enhanced scrutiny at border crossings. Recommend reviewing emergency evacuation protocols for personnel in affected areas.",
+      "proximity_alert": "YAKIN TEHDİT: Minsk National Airport (20 km)"
+    }
   }
 ]
