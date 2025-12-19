@@ -986,5 +986,43 @@
       "operational_impact": "All personnel and asset movements in/out of Gaza require extreme risk assessment. Medical evacuations face high probability of delays, denials, or intercepts. Cargo shipments for humanitarian aid at elevated risk of diversion or seizure.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "ba097bb54c6ada65cc1359a8070cb3d1",
+    "timestamp": "2025-12-19T15:44:44.254908",
+    "original_title": "Ukraine video claims to show long-range attack on oil tanker in Mediterranean - BBC",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82b0FEUHhPSXUxdXZLaGxQbTRsbTBjVDlWNVM5TXBfT2I3bjFjLXNkYkhpZEl0ejlfbXJTVTZEWUYxZXJHLUlWeV85VUFQdHpPeTktbA?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Mediterranean Sea",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Ukrainian forces claim long-range attack on oil tanker in Mediterranean, indicating expansion of maritime conflict capabilities. This represents a significant escalation in targeting energy infrastructure at distance, potentially disrupting shipping lanes and energy supply chains. The attack demonstrates capability to project force beyond immediate conflict zone.",
+      "immediate_forecast_24h": "Increased maritime security alerts in Eastern Mediterranean. Potential for retaliatory actions. Possible disruption to shipping routes and increased insurance premiums for vessels in region. Enhanced monitoring of maritime traffic recommended.",
+      "strategic_outlook": "Conflict may expand to include maritime economic targets beyond Black Sea. Energy infrastructure and commercial shipping at increased risk. Potential for broader regional maritime security crisis if attacks continue or escalate.",
+      "operational_impact": "Immediate rerouting of high-value cargo vessels recommended. Enhanced security screening for vessels transiting Eastern Mediterranean. Increased monitoring of Ukrainian/Russian maritime activity. Potential for supply chain disruptions affecting energy markets.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "6bf930dec42676affe4ea96a4a19ab04",
+    "timestamp": "2025-12-19T15:45:08.096740",
+    "original_title": "Russian drone crashes in Türkiye's Izmit province near Istanbul amid escalation",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pqo4qj/russian_drone_crashes_in_türkiyes_izmit_province/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 8,
+      "location": "Izmit, Kocaeli Province",
+      "latitude": 40.7667,
+      "longitude": 29.9167,
+      "detailed_analysis": "A military drone of Russian origin crashed near Istanbul, a major global hub, during a period of regional escalation. This indicates potential for miscalculation, espionage, or loss of control in sensitive airspace, raising immediate aviation safety and geopolitical tension concerns.",
+      "immediate_forecast_24h": "Increased drone activity, possible airspace monitoring enhancements, and heightened alert levels for aviation assets in the region; potential for further incidents if escalation continues.",
+      "strategic_outlook": "Ongoing regional conflicts may lead to repeated intrusions or accidents involving unmanned systems, requiring sustained vigilance and possibly adjustments to air defense and diplomatic protocols.",
+      "operational_impact": "Temporary disruptions to flight paths, enhanced security screenings for cargo and personnel in aviation sectors, and possible delays due to increased scrutiny of air traffic in the affected area.",
+      "proximity_alert": null
+    }
   }
 ]
