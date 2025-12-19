@@ -1328,5 +1328,24 @@
       "operational_impact": "Temporary disruption to PIA's Jeddah-Lahore route; resource diversion for incident investigation; potential increased screening procedures for Pakistan-origin flights; possible cascading delays affecting connecting flights.",
       "proximity_alert": "YAKIN TEHDİT: King Fahd International Airport (29 km)"
     }
+  },
+  {
+    "id": "654f2e23d9c873455e788fc816c75d15",
+    "timestamp": "2025-12-19T19:44:25.759717",
+    "original_title": "French government warns farmers against Christmas blockades over cattle cull",
+    "link": "https://www.france24.com/en/europe/20251219-french-government-warns-farmers-against-christmas-blockades-over-cattle-cull",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 6,
+      "location": "France",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Farmers' unions threatening blockades during Christmas holiday season in response to government-ordered cattle culls. Previous protests have demonstrated capacity for disruptive actions including road blockages. Holiday timing increases potential impact on supply chains and transportation networks.",
+      "immediate_forecast_24h": "High probability of localized road blockades forming, particularly in agricultural regions. Potential for rapid escalation if government negotiations fail. Secondary impacts on cargo transit times likely.",
+      "strategic_outlook": "Agricultural protests may persist through holiday season, potentially expanding to other sectors. Government response will determine duration. Could inspire similar actions in neighboring countries facing agricultural issues.",
+      "operational_impact": "Road transportation delays for cargo and personnel. Possible fuel supply disruptions if blockades target refineries or distribution centers. Increased security required for high-value shipments in affected regions.",
+      "proximity_alert": null
+    }
   }
 ]
