@@ -1,24 +1,5 @@
 [
   {
-    "id": "654f2e23d9c873455e788fc816c75d15",
-    "timestamp": "2025-12-19T19:44:25.759717",
-    "original_title": "French government warns farmers against Christmas blockades over cattle cull",
-    "link": "https://www.france24.com/en/europe/20251219-french-government-warns-farmers-against-christmas-blockades-over-cattle-cull",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Civil Unrest",
-      "risk_score": 6,
-      "location": "France",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "Farmers' unions threatening blockades during Christmas holiday season in response to government-ordered cattle culls. Previous protests have demonstrated capacity for disruptive actions including road blockages. Holiday timing increases potential impact on supply chains and transportation networks.",
-      "immediate_forecast_24h": "High probability of localized road blockades forming, particularly in agricultural regions. Potential for rapid escalation if government negotiations fail. Secondary impacts on cargo transit times likely.",
-      "strategic_outlook": "Agricultural protests may persist through holiday season, potentially expanding to other sectors. Government response will determine duration. Could inspire similar actions in neighboring countries facing agricultural issues.",
-      "operational_impact": "Road transportation delays for cargo and personnel. Possible fuel supply disruptions if blockades target refineries or distribution centers. Increased security required for high-value shipments in affected regions.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "2f5080bee84f74501059d811a7e660e8",
     "timestamp": "2025-12-19T20:42:43.587088",
     "original_title": "Biffle plane crash update: Plane in air for 5 minutes before turning back, NTSB says - Charlotte Observer",
@@ -72,6 +53,44 @@
       "immediate_forecast_24h": "High probability of continued security operations, possible additional attacks or copycat incidents, transportation disruptions, and increased security screening at transit hubs across Taiwan. Possible travel advisories issued by foreign governments.",
       "strategic_outlook": "Potential for sustained targeting of transportation infrastructure if attacks are part of broader campaign. May trigger increased security funding, intelligence sharing requirements, and potential regional security cooperation. Could impact business travel confidence and tourism in medium term.",
       "operational_impact": "Immediate suspension of metro services in affected areas, enhanced security screening at all transit points, increased patrols, possible travel delays. Personnel should avoid non-essential travel through metro systems. Cargo screening may experience delays due to redirected security resources.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "aa93af499ad405871b0b1d26c0919e1a",
+    "timestamp": "2025-12-19T21:34:45.080996",
+    "original_title": "Seven Colombian soldiers killed in guerrilla attack with drones and explosives, military says",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pqupdz/seven_colombian_soldiers_killed_in_guerrilla/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Colombia",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "ELN guerrilla group conducted a coordinated attack using drones and explosives against a Colombian military base, resulting in 7 soldier fatalities. This demonstrates increased tactical sophistication with drone-enabled explosive delivery capabilities. The attack indicates active insurgent operations targeting state security forces.",
+      "immediate_forecast_24h": "High probability of increased military patrols and security operations in the region. Potential for retaliatory strikes against ELN positions. Possible temporary airspace restrictions near conflict zones.",
+      "strategic_outlook": "Sustained asymmetric warfare likely to continue. ELN's drone capabilities represent an evolving threat vector that could be adapted against other targets. Regional instability may affect supply chain security and personnel movement in conflict areas.",
+      "operational_impact": "Elevated threat to personnel in conflict zones. Possible disruptions to ground transport routes. Aviation operations may face increased drone-related security protocols. Cargo movements through affected regions require enhanced security assessments.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "daa7a5b9fca48fc633bbaa6ebf0f64e7",
+    "timestamp": "2025-12-19T21:35:07.524759",
+    "original_title": "Sudan: RSF kills over 1,000 civilians in Zamzam refugee camp in April, UN reports",
+    "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20251219-sudan-rsf-kills-over-1-000-civilians-in-zamzam-refugee-camp-in-april-un-reports",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Zamzam refugee camp, Sudan",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "UN Human Rights Office reports that the Rapid Support Forces conducted a three-day attack on Zamzam refugee camp in April, resulting in over 1,000 civilian deaths and including acts of sexual violence. The attack underscores grave violations of international humanitarian law and poses an immediate threat to civilians and humanitarian operations in and around the camp. It indicates a volatile security environment for refugees and aid workers, with potential for further violence, displacement, and disruption of aid convoys and essential services. The involvement of a non-state armed actor and the timing amid ongoing conflict raise the risk of spillover into nearby areas and compounding access challenges for humanitarian agencies.",
+      "immediate_forecast_24h": "Likelihood of continued security disruption around Zamzam and adjacent camps. Possible evacuation or shelter-in-place directives for civilians and personnel; delays or redirection of aid convoys; heightened security posture by NGOs and UN agencies; monitoring for retaliatory or opportunistic attacks.",
+      "strategic_outlook": "Sustained insecurity in Sudan’s conflict zones could degrade humanitarian access for weeks to months, elevating risks to personnel and cargo, complicating procurement and distribution, and potentially triggering international inquiries or sanctions. Agencies should evaluate alternative routes, increase convoy protection, strengthen liaison with UN bodies, and review contingency plans for staff safety and camp-based operations.",
+      "operational_impact": "High risk to personnel safety near refugee camps and in transit corridors; potential damage or looting of aid stocks and facilities; possible suspension of relief operations, curtailment of food, medical, and shelter services; need for enhanced escorts, security coordination with UN missions, and rapid relocation plans for high-risk staff.",
       "proximity_alert": null
     }
   }
