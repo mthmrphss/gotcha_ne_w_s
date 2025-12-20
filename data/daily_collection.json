@@ -739,5 +739,24 @@
       "operational_impact": "All maritime operations in Odesa port suspended. Evacuation of non-essential personnel recommended. Cargo shipments diverted to alternative ports. Heightened security posture for all assets in Black Sea region. Personnel travel to Odesa region prohibited.",
       "proximity_alert": "YAKIN TEHDİT: Odessa International Airport (5 km)"
     }
+  },
+  {
+    "id": "7d3246c10384998d198c4235f7aae389",
+    "timestamp": "2025-12-20T13:34:30.835267",
+    "original_title": "U.S. Strikes on Syria Underscore Scale of Challenge for Its President",
+    "link": "https://www.nytimes.com/2025/12/20/world/middleeast/us-strikes-syria-aftermath.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Syria",
+      "latitude": 35.0,
+      "longitude": 38.0,
+      "detailed_analysis": "U.S. airstrikes targeting Islamic State positions in Syria indicate ongoing military operations in the region. While Syrian government claims to be intensifying anti-IS efforts, the presence of multiple armed actors increases complexity. Potential for collateral damage to infrastructure, retaliatory attacks, or escalation exists.",
+      "immediate_forecast_24h": "Heightened alert for possible retaliatory attacks against U.S. or coalition assets in region. Increased drone activity and potential for improvised explosive devices near military/logistics routes. Possible disruption to air operations in eastern Syria.",
+      "strategic_outlook": "Sustained military operations likely to continue, creating persistent risk environment. Potential for spillover effects into neighboring countries. Islamic State may attempt high-profile attacks to demonstrate resilience.",
+      "operational_impact": "Avoid non-essential travel to eastern Syria. Enhance perimeter security for facilities in region. Monitor airspace for unauthorized UAV activity. Prepare for potential supply chain disruptions due to road closures or checkpoint enhancements.",
+      "proximity_alert": null
+    }
   }
 ]
