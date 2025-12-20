@@ -321,5 +321,62 @@
       "operational_impact": "Avoid non-essential travel to protest areas; expect transportation disruptions in central districts; increased screening at public venues; possible temporary closures of transit hubs during demonstrations.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "6268be1ba27b60190cb0572a30c55d8c",
+    "timestamp": "2025-12-20T06:54:47.154887",
+    "original_title": "Authorities narrow search for suspect in Forsyth Park acid attack - WJCL",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVjdMaVRKay1aSnI1RXhocW1zVTg0azE3a1JPMU1QelR2cXdfOFR2VG1McFp2S1d5dnJnRFVmSGlnSEIxU2xLbUFqRjJqLVVXWHgxbW9uVFhBOWVoRkVCVnRJdndHakN4UUdYalNhb25nN1Z5QUZlcTlQa0NWMzdXZ2dPXzRwYU0yZ2c?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Crime/Theft",
+      "risk_score": 6,
+      "location": "Savannah, Georgia",
+      "latitude": 32.0809,
+      "longitude": -81.0912,
+      "detailed_analysis": "Acid attack in public park indicates targeted chemical assault with potential for severe injury. Method suggests premeditation and potential escalation in violent crime tactics. Forsyth Park is a high-traffic public space, increasing visibility and potential for collateral damage.",
+      "immediate_forecast_24h": "Heightened police presence and investigation activity in Savannah area. Possible additional security measures at public venues. Risk of copycat incidents or retaliatory violence remains low but not negligible.",
+      "strategic_outlook": "Potential for similar attacks if suspect not apprehended. May indicate emerging trend of chemical weapon use in personal disputes. Could prompt review of public space security protocols and hazardous material regulations.",
+      "operational_impact": "Increased vigilance required for personnel in Savannah area. Temporary avoidance of Forsyth Park recommended. Review personal security protocols for public space operations. Monitor local law enforcement updates for suspect description.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "adbf0952fab58e49642245e74791d670",
+    "timestamp": "2025-12-20T06:54:57.463205",
+    "original_title": "US military launches strikes in Syria targeting Islamic State fighters after American deaths - The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSU1GRWcyTkZiazZuaTJ5YUlXbzJ4NDN6aUdhWnNZM1A5M3c4UElYOGlORGhZbWtISHYyYUczZHNUVDdhRmx0YTVJdWltOVFwMUhnbC1qRnJZVU9uRi1xNGhnQm5vd3NDLVRPNDhfTXNIVE4weDk3MHhHT3pQdFNpVDQ4bXlkeVpWTjYyQVFiNWRRRzNjUE5peGd3c2V3Zzg1WFFPZXZWdkc3Um9Wbm03S05MVUl0a2lGVVdpenVuWnJLaEpJQXR0dERkWlE?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Syria",
+      "latitude": 35.0,
+      "longitude": 38.0,
+      "detailed_analysis": "US military airstrikes targeting Islamic State fighters in Syria following American casualties. This represents active kinetic military operations with potential for escalation, retaliatory attacks, and increased regional instability. Threat extends to all US and allied assets in the region.",
+      "immediate_forecast_24h": "High probability of retaliatory attacks against US military and commercial interests in Syria and Iraq. Increased drone and rocket attack threats to bases, convoys, and aviation assets. Possible targeting of civilian infrastructure.",
+      "strategic_outlook": "Sustained military operations likely to continue, potentially expanding to other regions. Islamic State may intensify asymmetric attacks against Western targets. Regional tensions could escalate involving other state and non-state actors.",
+      "operational_impact": "Immediate threat to all personnel and assets in Syria/Iraq region. Require heightened force protection, convoy security, and aviation threat monitoring. Potential for supply chain disruptions and increased insurance premiums for regional operations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "e0a12fb1c5dece164381687d7684e60a",
+    "timestamp": "2025-12-20T06:55:07.535565",
+    "original_title": "US launches retaliatory strikes Islamic State group targets in Syria",
+    "link": "https://www.france24.com/en/live-news/20251219-us-strikes-islamic-state-group-targets-in-syria-us-officials-say",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Central Syria",
+      "latitude": 34.55,
+      "longitude": 38.27,
+      "detailed_analysis": "US retaliatory airstrikes against Islamic State targets in central Syria following attack on US personnel. This represents an escalation in military operations with potential for retaliatory attacks against US assets in the region. Aviation and personnel at heightened risk due to active conflict zone operations.",
+      "immediate_forecast_24h": "High probability of continued airstrikes and potential retaliatory attacks by Islamic State forces. Increased threat to US military assets, personnel, and aviation operations in Syrian airspace. Possible expansion of conflict to neighboring regions.",
+      "strategic_outlook": "Sustained military engagement likely to continue, potentially expanding US military presence in Syria. Islamic State may attempt asymmetric attacks against US interests globally. Regional instability may affect cargo routes and aviation security in Middle East.",
+      "operational_impact": "Heightened threat level for all US assets in Syria and surrounding regions. Aviation operations require enhanced security protocols. Personnel movements restricted to essential operations only. Cargo shipments through region may face delays or rerouting.",
+      "proximity_alert": null
+    }
   }
 ]
