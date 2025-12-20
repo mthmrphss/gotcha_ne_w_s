@@ -758,5 +758,24 @@
       "operational_impact": "Avoid non-essential travel to eastern Syria. Enhance perimeter security for facilities in region. Monitor airspace for unauthorized UAV activity. Prepare for potential supply chain disruptions due to road closures or checkpoint enhancements.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "b8abc5dc2c22fdff8f2b9d3cf801b035",
+    "timestamp": "2025-12-20T15:25:56.836895",
+    "original_title": "Eight killed in Russian strike on Odessa",
+    "link": "https://www.france24.com/en/video/20251220-eight-killed-in-russian-strike-on-odessa",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Odesa, Ukraine",
+      "latitude": 46.4825,
+      "longitude": 30.7233,
+      "detailed_analysis": "Russian missile strike targeting port infrastructure resulted in 8 fatalities and 27 wounded. Event coincides with planned diplomatic talks between Russian and US negotiators, suggesting potential strategic timing to influence negotiations or demonstrate military capability despite diplomatic efforts.",
+      "immediate_forecast_24h": "High probability of continued missile strikes on Odesa port infrastructure and surrounding areas. Possible escalation in southern Ukraine as Russia may attempt to disrupt maritime logistics and demonstrate military presence during diplomatic negotiations.",
+      "strategic_outlook": "Sustained targeting of Ukrainian port cities likely to continue as Russia seeks to cripple export capabilities and maintain pressure during diplomatic engagements. Potential for expanded strikes on Black Sea shipping lanes or adjacent NATO territories increases geopolitical risk.",
+      "operational_impact": "Critical port operations in Odesa severely disrupted. Maritime shipping routes in Black Sea at elevated risk. All personnel and assets in Odesa region require immediate threat reassessment. Evacuation protocols for non-essential personnel recommended. Air defense systems likely overwhelmed.",
+      "proximity_alert": "YAKIN TEHDİT: Odessa International Airport (5 km)"
+    }
   }
 ]

@@ -1,21 +1,40 @@
 [
   {
-    "id": "7d3246c10384998d198c4235f7aae389",
-    "timestamp": "2025-12-20T13:34:30.835267",
-    "original_title": "U.S. Strikes on Syria Underscore Scale of Challenge for Its President",
-    "link": "https://www.nytimes.com/2025/12/20/world/middleeast/us-strikes-syria-aftermath.html",
-    "source_name": "NewYork Times",
+    "id": "a3f91f2336dd693df05860cd1f16ca65",
+    "timestamp": "2025-12-20T15:25:30.846236",
+    "original_title": "3 killed in Taiwan knife attack, with the suspect later falling to his death from a department store - WRDW",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb3ZHNVhQWkFUNVVTVkxSd3JTM21GRnkzOUFGUms3Sy0zRldkaXRKSXhTLW1tM2cwYkNodzg2U2xQZ0I5MGhLMDRYRlZGMTdXT0VlRDNaMjZOOWp2X210cFRyeEQyVElaQ0tfaHYzbXNUYldneHl0R0EzMURNTWxFZWxBbFNxV3oxRElHazgzcTZERm1MM0VvQmY1LU1pZ1B4ZmNHQ2xIZHZKX1BGdEw0THNKR2lSUdIBygFBVV95cUxQWXlOY1R1X0UzNEhFbHh6SEwtVjNBZXhCNEY3bUJrcE9fQ1pRd0laZnJybXBMeE43UHZYSmtIYUU1d2dOSFpHNF9kWVdLZzdYbGk3ZUM0SzhaY1lRcm1GQ2hvX0s0aFNfbmNydHEwV3Y5UGF4WDhKUzVnX1lGYjJQRlhjdGFfcTdFTnl2OXNab25VTE9NZE5IWlI0S01JeVVOeUtGVWNma1lFelRLWm5SeVhOd2pCbHdCSVVGUTdKbHFyWmVpWGpydkJB?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Crime/Theft",
+      "risk_score": 2,
+      "location": "Taiwan",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Isolated knife attack resulting in 3 fatalities, followed by suspect's apparent suicide. No indication of organized crime, terrorism, or targeting of specific assets/cargo. Appears to be personal or random violent crime with no broader operational implications for security assets.",
+      "immediate_forecast_24h": "Local law enforcement investigation ongoing, but no expected escalation or additional threats to assets, cargo, or personnel beyond standard security awareness.",
+      "strategic_outlook": "No change to threat landscape for corporate assets. Does not indicate emerging patterns requiring security posture adjustments for Taiwan operations.",
+      "operational_impact": "Minimal. Standard travel advisories for personnel in effect. No cargo/aviation disruptions anticipated. Maintain normal security protocols.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "b8abc5dc2c22fdff8f2b9d3cf801b035",
+    "timestamp": "2025-12-20T15:25:56.836895",
+    "original_title": "Eight killed in Russian strike on Odessa",
+    "link": "https://www.france24.com/en/video/20251220-eight-killed-in-russian-strike-on-odessa",
+    "source_name": "France 24 ME",
     "ai_analysis": {
       "category": "Conflict",
-      "risk_score": 7,
-      "location": "Syria",
-      "latitude": 35.0,
-      "longitude": 38.0,
-      "detailed_analysis": "U.S. airstrikes targeting Islamic State positions in Syria indicate ongoing military operations in the region. While Syrian government claims to be intensifying anti-IS efforts, the presence of multiple armed actors increases complexity. Potential for collateral damage to infrastructure, retaliatory attacks, or escalation exists.",
-      "immediate_forecast_24h": "Heightened alert for possible retaliatory attacks against U.S. or coalition assets in region. Increased drone activity and potential for improvised explosive devices near military/logistics routes. Possible disruption to air operations in eastern Syria.",
-      "strategic_outlook": "Sustained military operations likely to continue, creating persistent risk environment. Potential for spillover effects into neighboring countries. Islamic State may attempt high-profile attacks to demonstrate resilience.",
-      "operational_impact": "Avoid non-essential travel to eastern Syria. Enhance perimeter security for facilities in region. Monitor airspace for unauthorized UAV activity. Prepare for potential supply chain disruptions due to road closures or checkpoint enhancements.",
-      "proximity_alert": null
+      "risk_score": 10,
+      "location": "Odesa, Ukraine",
+      "latitude": 46.4825,
+      "longitude": 30.7233,
+      "detailed_analysis": "Russian missile strike targeting port infrastructure resulted in 8 fatalities and 27 wounded. Event coincides with planned diplomatic talks between Russian and US negotiators, suggesting potential strategic timing to influence negotiations or demonstrate military capability despite diplomatic efforts.",
+      "immediate_forecast_24h": "High probability of continued missile strikes on Odesa port infrastructure and surrounding areas. Possible escalation in southern Ukraine as Russia may attempt to disrupt maritime logistics and demonstrate military presence during diplomatic negotiations.",
+      "strategic_outlook": "Sustained targeting of Ukrainian port cities likely to continue as Russia seeks to cripple export capabilities and maintain pressure during diplomatic engagements. Potential for expanded strikes on Black Sea shipping lanes or adjacent NATO territories increases geopolitical risk.",
+      "operational_impact": "Critical port operations in Odesa severely disrupted. Maritime shipping routes in Black Sea at elevated risk. All personnel and assets in Odesa region require immediate threat reassessment. Evacuation protocols for non-essential personnel recommended. Air defense systems likely overwhelmed.",
+      "proximity_alert": "YAKIN TEHDİT: Odessa International Airport (5 km)"
     }
   }
 ]
