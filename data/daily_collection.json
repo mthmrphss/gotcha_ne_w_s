@@ -36,5 +36,24 @@
       "operational_impact": "Recommend rerouting high-value cargo flights away from potential conflict zones. Increase security screening for personnel traveling to/from region. Monitor FAA and international aviation authority advisories. Prepare for possible fuel surcharges and insurance premium increases for regional operations.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "d8fc72a494845361cd89b44b926fe4a6",
+    "timestamp": "2025-12-20T21:40:57.772302",
+    "original_title": "Portuguese PM makes first Kyiv visit, offers troops and drone partnership",
+    "link": "https://www.reddit.com/r/worldnews/comments/1prpgu9/portuguese_pm_makes_first_kyiv_visit_offers/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Kyiv, Ukraine",
+      "latitude": 50.4501,
+      "longitude": 30.5234,
+      "detailed_analysis": "Portuguese PM's visit to Kyiv and offer of troops/drone partnership represents escalation in foreign military support to Ukraine. While not directly targeting assets/cargo/aviation, this increases geopolitical tensions and potential for retaliatory actions by opposing forces. Drone partnership specifically introduces new capability vectors that could be targeted.",
+      "immediate_forecast_24h": "Increased diplomatic activity; possible heightened security around diplomatic personnel; potential for disinformation campaigns targeting Portuguese-Ukrainian cooperation",
+      "strategic_outlook": "Long-term military cooperation increases likelihood of Portuguese assets becoming secondary targets; drone technology transfer may create new vulnerabilities in supply chains",
+      "operational_impact": "Monitor Portuguese diplomatic movements; assess drone technology security protocols; review protection measures for allied military personnel in conflict zones",
+      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
+    }
   }
 ]
