@@ -321,5 +321,43 @@
       "operational_impact": "Enhanced border screening protocols recommended for cargo/personnel vehicles. Coordination required with US CBP/HSI for intelligence sharing on known smuggling routes. Potential for armed confrontations during interdiction attempts poses safety risk to personnel.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "6a42cc0fc583e627ff4a4d0e0d9efcdd",
+    "timestamp": "2025-12-21T09:27:14.425594",
+    "original_title": "A Neighborhood in India Fears Being Blamed for a Distant Atrocity",
+    "link": "https://www.nytimes.com/2025/12/21/world/asia/india-muslims-emigration-australia.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 7,
+      "location": "Australia (origin: India)",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Attack at Hanukkah celebration in Australia with perpetrator originating from Muslim area in India. Indicates potential transnational terrorism link with possible religious/ethnic motivations. While the attack occurred in Australia, the origin connection suggests possible radicalization networks spanning international migrant communities.",
+      "immediate_forecast_24h": "Elevated threat for Jewish communities and events globally. Potential for copycat attacks or retaliatory violence. Increased vigilance required for religious gatherings and diaspora communities.",
+      "strategic_outlook": "Possible escalation of inter-community tensions in regions with significant Indian diaspora. May indicate emerging transnational radicalization patterns within migrant communities seeking economic opportunities abroad.",
+      "operational_impact": "Enhanced security screening for personnel/cargo from affected regions. Increased monitoring of communications and travel patterns between origin and attack locations. Potential for supply chain disruptions if security measures intensify.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "204bb151f2ed124cbbb9fed1ba5f0a29",
+    "timestamp": "2025-12-21T09:27:22.877468",
+    "original_title": "Thai deadly border clashes displace over half a million in Cambodia",
+    "link": "https://www.france24.com/en/live-news/20251221-thai-border-clashes-displace-over-half-a-million-in-cambodia",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Cambodia-Thailand Border",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Border clashes involving drones and air strikes have displaced over 500,000 Cambodians, indicating active military engagement and potential escalation. Aviation assets are at risk due to drone usage and airstrikes, while personnel and cargo routes near the border face disruption from conflict dynamics and mass displacement.",
+      "immediate_forecast_24h": "Continued clashes likely; possible further drone/airstrike activity, border closures, and heightened military presence disrupting transport and logistics.",
+      "strategic_outlook": "Prolonged conflict may destabilize regional supply chains, increase smuggling risks, and threaten aviation safety near border airspace. Displacement could lead to stowaway attempts or unauthorized border crossings affecting cargo and personnel movement.",
+      "operational_impact": "Avoid all non-essential travel and cargo shipments through the conflict zone; monitor aviation advisories for potential no-fly zones; expect delays and rerouting for logistics operations in the region.",
+      "proximity_alert": null
+    }
   }
 ]
