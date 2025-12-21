@@ -1,24 +1,5 @@
 [
   {
-    "id": "472e6a246823a9b16834b804d18c778e",
-    "timestamp": "2025-12-21T16:32:09.739157",
-    "original_title": "Serbia's students protest against university pressure after railway station tragedy",
-    "link": "https://www.reddit.com/r/worldnews/comments/1psahie/serbias_students_protest_against_university/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Civil Unrest",
-      "risk_score": 10,
-      "location": "Belgrade, Serbia",
-      "latitude": 44.7866,
-      "longitude": 20.4489,
-      "detailed_analysis": "Student protests in Belgrade following a railway station tragedy indicate potential for civil unrest. While the event itself appears to be a domestic protest movement, it could escalate and potentially impact transportation infrastructure, government buildings, or create general disruption in urban centers. No direct threats to aviation, cargo, or personnel identified in initial reporting, but mass gatherings increase general security risks.",
-      "immediate_forecast_24h": "Possible continuation of protests with potential for road closures, increased police presence, and minor disruptions to public transportation around university areas and government buildings. Low probability of violence but cannot be ruled out entirely.",
-      "strategic_outlook": "If protests persist or escalate, could lead to broader civil unrest affecting logistics and transportation routes. May trigger increased security measures at critical infrastructure. Unlikely to directly impact aviation or cargo operations unless protests spread to airport areas or major highways.",
-      "operational_impact": "Minimal direct impact on assets, cargo, or aviation. Personnel in Belgrade should avoid protest areas and monitor local news. Increased vigilance recommended for ground transportation near university districts and government centers. No changes to aviation security protocols required at this time.",
-      "proximity_alert": "YAKIN TEHDİT: Belgrade Nikola Tesla Airport (12 km)"
-    }
-  },
-  {
     "id": "86ad5dca9cfd44c75d0f37712e4cb03f",
     "timestamp": "2025-12-21T17:23:01.937166",
     "original_title": "Multiple gunmen attack a South African pub, killing 9 people and wounding 10 - PBS",
@@ -53,6 +34,25 @@
       "immediate_forecast_24h": "Increased police presence and potential temporary security lockdowns in the affected area. Possible retaliatory violence cannot be ruled out given the pattern of similar recent incidents.",
       "strategic_outlook": "Persistent high crime environment likely to continue affecting personnel safety. No direct threat to cargo or aviation assets identified from this specific incident, but general crime environment elevates risks to all ground operations and personnel movements.",
       "operational_impact": "Personnel in South Africa should maintain heightened situational awareness, avoid high-risk areas especially at night, and review personal security protocols. No immediate impact on cargo or aviation operations, but general crime environment requires enhanced security measures for all ground transportation and logistics.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "6a05e8bf2a2c0b1a37ab04628c22c21d",
+    "timestamp": "2025-12-21T17:43:22.237594",
+    "original_title": "Two Indian students ‘forcibly recruited’ into Russian army die in Ukraine",
+    "link": "https://www.reddit.com/r/worldnews/comments/1psbwzw/two_indian_students_forcibly_recruited_into/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Ukraine",
+      "latitude": 48.3794,
+      "longitude": 31.1656,
+      "detailed_analysis": "Two Indian students reportedly forcibly recruited into Russian military operations in Ukraine have died, indicating potential coercion of foreign nationals into active conflict zones. This raises concerns about indirect targeting of civilian populations, possible retaliation risks, and escalatory recruitment tactics in contested regions.",
+      "immediate_forecast_24h": "Increased scrutiny on foreign nationals in conflict zones; possible diplomatic tensions between India and Russia; heightened alert for similar recruitment incidents.",
+      "strategic_outlook": "Potential for expanded forced recruitment campaigns targeting vulnerable populations; increased risk to international students/workers in conflict-adjacent regions; possible retaliatory actions against involved state actors.",
+      "operational_impact": "Review security protocols for personnel in Eastern Europe; enhance tracking of staff in high-risk areas; consider temporary travel advisories for non-essential movement near conflict zones.",
       "proximity_alert": null
     }
   }
