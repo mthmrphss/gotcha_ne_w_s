@@ -55,5 +55,43 @@
       "operational_impact": "Minimal direct impact on cargo, aviation, or personnel operations. Advise heightened situational awareness for personnel in the region and review local security protocols if operating nearby.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "2f9dfc88cb85124c8d169494bd36de3a",
+    "timestamp": "2025-12-21T14:24:37.721401",
+    "original_title": "3 kids steal and crash car into home after watching YouTube tutorials: Newburgh Heights Police - Cleveland 19 News",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRDEyVHVDNUdvTEpRWGktUDBZS0tJc3hyMzlrNVA4SlRGNjMyM3VWamdJc3lENHBaOU1EVi1QN3JzUDliLTBONHZBOThwWTFsYjd2czJobjZWaDVpSThEWWNGTVJfQjg2bEllYW82R2RTVDJyZUlxemJNS3ctNUhIQ1p0ejBuVE5BY0ZZT1dMbENYdnM4UHRhdWp5VURoQTdaQzZ6a0VvUEF4T0Z1MktxS05vVEpnbUhHX1RTUG9CYzFOdVc1MVpKTw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Crime/Theft",
+      "risk_score": 1,
+      "location": "Newburgh Heights, Ohio",
+      "latitude": 41.45,
+      "longitude": -81.6668,
+      "detailed_analysis": "Three minors stole a vehicle using techniques learned from YouTube tutorials and subsequently crashed it into a residential property. This is a localized criminal incident involving juvenile delinquency and property damage, with no indication of organized crime, terrorism, or threat to critical infrastructure, cargo, or aviation assets.",
+      "immediate_forecast_24h": "No immediate escalation expected. Local law enforcement handling; unlikely to affect operations beyond routine police response.",
+      "strategic_outlook": "Minimal long-term impact. May highlight concerns regarding online content influencing criminal behavior but does not pose a sustained threat to assets or personnel.",
+      "operational_impact": "None. Incident is isolated, non-targeted, and unrelated to cargo, aviation, or organized threats.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "77f835c85a963a6206214da6e4a1df06",
+    "timestamp": "2025-12-21T14:24:51.246258",
+    "original_title": "The week in pictures: Terror and heroism in Sydney, disappearing Epstein files and EU farmer protests",
+    "link": "https://www.france24.com/en/culture/20251221-the-week-in-pictures-terror-and-heroism-in-sydney-disappearing-epstein-files-and-eu-farmer-protests",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 8,
+      "location": "Sydney, Australia",
+      "latitude": -33.8688,
+      "longitude": 151.2093,
+      "detailed_analysis": "Mass shooting incident at Bondi Beach involving two assailants, with a bystander intervention to disarm one perpetrator. Indicates potential terrorist or active shooter scenario in a high-traffic public area with significant international visibility.",
+      "immediate_forecast_24h": "Increased security patrols and potential copycat incidents; possible travel advisories for Sydney area; heightened screening at transportation hubs.",
+      "strategic_outlook": "Potential for inspired attacks globally; may trigger increased security measures at tourist destinations and public gatherings; could impact Australia's security posture long-term.",
+      "operational_impact": "Immediate threat to personnel in Sydney; possible delays in cargo/aviation due to enhanced security; potential for travel restrictions or advisories affecting operations.",
+      "proximity_alert": null
+    }
   }
 ]
