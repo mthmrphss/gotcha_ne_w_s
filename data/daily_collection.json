@@ -663,5 +663,43 @@
       "operational_impact": "Avoid non-essential maritime traffic near Venezuelan EEZ; heighten vigilance for naval activity; prepare for potential port delays or routing changes; monitor for GPS spoofing or communications interference",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "da9a099b6bd7ae38b0298a62fe84eb89",
+    "timestamp": "2025-12-21T15:42:05.600984",
+    "original_title": "Bekkersdal shooting: Gunmen kill nine in South Africa tavern attack - BBC",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yMlVpaW4tTmlPUEJKR2t1ZVVOcHZJZk5KLVpReDNxLTUza3VHMS11Vm83QUV4ZkxmODhFREh4RFRyNWN6d0d1bkpadFhUdnlYcmR5bVNwUVo2QdIBX0FVX3lxTE16a2tIajMwNlFqeHRjSThaaVIzZUptTFRHOXFQUkoyeUFwUUtwTUszSjZtaEtUejJaRmdURkVFUDUyek40bklwY3pFTUNhMFBVUnk2Y2FhUy15cVpfWEM0?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Crime/Theft",
+      "risk_score": 7,
+      "location": "Bekkersdal, South Africa",
+      "latitude": -26.2833,
+      "longitude": 27.6833,
+      "detailed_analysis": "Mass shooting incident at a tavern involving multiple gunmen resulting in 9 fatalities. Pattern suggests organized criminal activity rather than random violence. High potential for retaliatory attacks or escalation in the region. No direct threat to aviation, cargo, or personnel assets identified in initial reporting, but demonstrates elevated violent crime environment.",
+      "immediate_forecast_24h": "Increased police presence and possible roadblocks in Bekkersdal area. Potential for retaliatory violence or additional gang-related incidents. No immediate threat to transportation infrastructure or logistics operations.",
+      "strategic_outlook": "Ongoing gang violence and organized crime in South Africa's townships may create peripheral risks to cargo transport through increased crime rates and potential for collateral damage. No direct strategic impact on aviation or maritime operations.",
+      "operational_impact": "Minimal direct impact on assets/cargo/aviation. Personnel in the region should exercise heightened situational awareness and avoid high-risk areas. No changes to security protocols required for transportation or logistics operations at this time.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "291493a772373912eebd9a258d3e8490",
+    "timestamp": "2025-12-21T15:42:21.392002",
+    "original_title": "A PIA Boeing 777 performed a 10 min emergency descent after deployment of oxygen masks over Saudi Arabia - airlive",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTWtzbllQR25kOHN4LS1SYnVGX3BnZGxkWjNPSzl5RGFLei1XTm9LVi1wb2xLM3cxd0k2TTRReXhhR3VkNk1rRTdkd0xjTTBBUjlNZ2EwR2R4b3VpX3I2bnBlMlJnakNnR1JORUJVcEo1V1VTRWlsX3B1ZThIa0VHVHJsMTdHWFdScnZZM3NVZ1lqOFl1V052eHVCVnBlT3hpa0pDYVdiNXJ3akZIN2RkOVBxOXZ3N3lndW9VNHc1anRpeEZkYTZEejZuOTU2Zl8yUm8yUG9UYmNVXy1FLUE?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 7,
+      "location": "Saudi Arabia",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "A PIA Boeing 777 experienced an emergency descent and deployment of oxygen masks, indicating a potential pressurization failure or other critical system malfunction. While no crash occurred, the event represents a significant aviation safety incident with potential implications for aircraft integrity, crew response protocols, and passenger safety.",
+      "immediate_forecast_24h": "Increased scrutiny on PIA and Boeing 777 operations; possible temporary grounding for inspections; potential delays or reroutes for similar aircraft in the region.",
+      "strategic_outlook": "May lead to enhanced maintenance checks for Boeing 777 fleets, revised emergency procedures, and closer monitoring of aviation safety compliance in the region.",
+      "operational_impact": "Possible temporary suspension of affected aircraft; increased coordination with aviation authorities; heightened alert for similar incidents in the airspace.",
+      "proximity_alert": null
+    }
   }
 ]
