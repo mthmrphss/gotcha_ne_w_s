@@ -1,43 +1,5 @@
 [
   {
-    "id": "f6a26d808599e6c22a132b5a867eaff8",
-    "timestamp": "2025-12-21T14:43:55.025813",
-    "original_title": "Ukraine, Portugal sign partnership to produce sea drones, Zelensky says",
-    "link": "https://www.reddit.com/r/worldnews/comments/1ps7vdw/ukraine_portugal_sign_partnership_to_produce_sea/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 4,
-      "location": "Ukraine, Portugal",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "Partnership between Ukraine and Portugal to produce sea drones represents a military technology transfer and defense industry collaboration. While not an immediate kinetic threat, this development escalates defense capabilities in the Black Sea region and may provoke retaliatory measures from opposing forces, potentially including cyber attacks, espionage targeting defense contractors, or increased maritime reconnaissance activities.",
-      "immediate_forecast_24h": "Low probability of immediate operational impact. Potential for increased OSINT gathering and cyber reconnaissance against involved defense entities. No direct threat to assets or personnel in next 24 hours.",
-      "strategic_outlook": "Medium-term escalation in naval drone capabilities may alter Black Sea maritime security dynamics. Possible increased targeting of maritime infrastructure, shipping lanes, or port facilities by opposing forces. Defense supply chains may face heightened espionage and cyber intrusion attempts.",
-      "operational_impact": "Enhanced maritime surveillance recommended for Black Sea shipping lanes. Defense contractors involved in drone production should review cybersecurity posture. No changes to current asset protection protocols required immediately.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "7498afdce53ebfac1b0f394d8f27dc03",
-    "timestamp": "2025-12-21T14:44:04.861419",
-    "original_title": "Brit Acting ‘Erratically’ Tried To Grab Cop’s Sidearm At Melbourne Airport… Police Now On High Alert",
-    "link": "https://www.paddleyourownkanoo.com/2025/12/21/brit-acting-erratically-tried-to-grab-cops-sidearm-at-melbourne-airport-police-now-on-high-alert/",
-    "source_name": "Paddle Your Own Kanoo",
-    "ai_analysis": {
-      "category": "Aviation",
-      "risk_score": 10,
-      "location": "Melbourne, Australia",
-      "latitude": -37.8136,
-      "longitude": 144.9631,
-      "detailed_analysis": "Attempted weapon seizure by erratic individual at Melbourne Airport security checkpoint. Incident involved physical struggle with law enforcement, requiring taser and pepper spray deployment. Event follows similar recent security incidents, indicating potential pattern of targeting airport security personnel.",
-      "immediate_forecast_24h": "Heightened security posture at Australian airports with increased police presence and enhanced screening protocols. Potential for flight delays due to additional security measures. Possible copycat incidents or coordinated testing of security responses.",
-      "strategic_outlook": "Persistent threat to aviation security from individuals targeting law enforcement weapons. May indicate testing of airport security response capabilities or attempts to acquire firearms for more significant attacks. Requires ongoing assessment of airport security vulnerabilities.",
-      "operational_impact": "Immediate: Enhanced screening, increased armed patrols, and potential access restrictions in secure areas. Medium-term: Review of officer weapon retention protocols and response procedures for erratic behavior in airport environments. Personnel advised to maintain heightened situational awareness near security checkpoints.",
-      "proximity_alert": "YAKIN TEHDİT: Melbourne Havalimanı (0 km)"
-    }
-  },
-  {
     "id": "8e0b2aebcf48fe3ffa447cadc2b7c3c1",
     "timestamp": "2025-12-21T15:25:47.555755",
     "original_title": "Russian forces take Ukrainian villagers across border, media says",
@@ -111,6 +73,25 @@
       "strategic_outlook": "May lead to enhanced maintenance checks for Boeing 777 fleets, revised emergency procedures, and closer monitoring of aviation safety compliance in the region.",
       "operational_impact": "Possible temporary suspension of affected aircraft; increased coordination with aviation authorities; heightened alert for similar incidents in the airspace.",
       "proximity_alert": null
+    }
+  },
+  {
+    "id": "472e6a246823a9b16834b804d18c778e",
+    "timestamp": "2025-12-21T16:32:09.739157",
+    "original_title": "Serbia's students protest against university pressure after railway station tragedy",
+    "link": "https://www.reddit.com/r/worldnews/comments/1psahie/serbias_students_protest_against_university/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Belgrade, Serbia",
+      "latitude": 44.7866,
+      "longitude": 20.4489,
+      "detailed_analysis": "Student protests in Belgrade following a railway station tragedy indicate potential for civil unrest. While the event itself appears to be a domestic protest movement, it could escalate and potentially impact transportation infrastructure, government buildings, or create general disruption in urban centers. No direct threats to aviation, cargo, or personnel identified in initial reporting, but mass gatherings increase general security risks.",
+      "immediate_forecast_24h": "Possible continuation of protests with potential for road closures, increased police presence, and minor disruptions to public transportation around university areas and government buildings. Low probability of violence but cannot be ruled out entirely.",
+      "strategic_outlook": "If protests persist or escalate, could lead to broader civil unrest affecting logistics and transportation routes. May trigger increased security measures at critical infrastructure. Unlikely to directly impact aviation or cargo operations unless protests spread to airport areas or major highways.",
+      "operational_impact": "Minimal direct impact on assets, cargo, or aviation. Personnel in Belgrade should avoid protest areas and monitor local news. Increased vigilance recommended for ground transportation near university districts and government centers. No changes to aviation security protocols required at this time.",
+      "proximity_alert": "YAKIN TEHDİT: Belgrade Nikola Tesla Airport (12 km)"
     }
   }
 ]
