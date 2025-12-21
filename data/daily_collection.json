@@ -777,5 +777,43 @@
       "operational_impact": "Review security protocols for personnel in Eastern Europe; enhance tracking of staff in high-risk areas; consider temporary travel advisories for non-essential movement near conflict zones.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "2f030bd645e85d550c2238aa9c43ab0a",
+    "timestamp": "2025-12-21T19:21:13.964773",
+    "original_title": "‘We are unbreakable’: defiance marks Bondi attack commemoration after PM is booed - The Guardian",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQekl5ZEIxeGtzRjJkckVDYWJmTWFRd1dKSGNyUUZzS2h1YWRsYTNxV1Vldl8zZTFXMUViVGtDdFFWdWFpYXp0T01GYjdGNWc2cUhKYkVUY2NhT0hmRTBMVWNlZF9ibXVQTnByTThscmhtWXdRUmRIVnBvRG1FdFcwMVEyVDlmem10VEx5QkNYQjhnbDJpX1NPamlnakNHdEhyZjYwSExLeXpWM0RzQXd0cm91a3dQNDZZa1dWaHkybG1EWFZ3RjFramt6bEk0Zw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 8,
+      "location": "Bondi, Sydney, Australia",
+      "latitude": -33.8915,
+      "longitude": 151.2767,
+      "detailed_analysis": "Event commemorates a previous attack at Bondi, indicating ongoing public trauma and potential for copycat incidents or retaliatory actions. Public booing of PM suggests heightened political tensions that could be exploited by threat actors. The 'unbreakable' defiance messaging may provoke further antagonism from extremist groups.",
+      "immediate_forecast_24h": "Elevated risk of opportunistic attacks targeting public gatherings or symbolic locations. Potential for increased police/security presence to trigger confrontations. Possible surveillance activities by both security forces and hostile elements.",
+      "strategic_outlook": "Medium-term radicalization potential among isolated individuals inspired by the event. Possible escalation in rhetoric from both extremist groups and government officials. Increased targeting of soft targets in public spaces likely over coming weeks.",
+      "operational_impact": "Recommend heightened vigilance at all Australian assets, particularly public-facing locations. Review emergency response protocols for mass casualty events. Monitor social media for threat rhetoric. Consider temporary increase in security personnel at high-profile sites.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "db026b8ea0ab07d475770374abfdd628",
+    "timestamp": "2025-12-21T19:21:26.833831",
+    "original_title": "Australia Mourns Bondi Beach Shooting Victims",
+    "link": "https://www.nytimes.com/2025/12/21/world/asia/australia-mourns-bondi-beach-shooting-victims.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 8,
+      "location": "Sydney, Australia",
+      "latitude": -33.8688,
+      "longitude": 151.2093,
+      "detailed_analysis": "Mass shooting event at Bondi Beach with 15 fatalities during Hanukkah celebration. Emerging political divisions and anti-immigration rhetoric suggest potential for copycat attacks or escalating ethnic/religious tensions. Event shows characteristics of targeted violence rather than random crime.",
+      "immediate_forecast_24h": "Heightened security alert for public gatherings, especially religious/cultural events. Possible protests or counter-protests. Increased police/military presence in major cities. Potential for retaliatory incidents.",
+      "strategic_outlook": "Could trigger sustained period of social unrest and polarization. May lead to tighter security measures at public venues, transportation hubs, and critical infrastructure. Possible impact on Australia's immigration policies and international relations.",
+      "operational_impact": "Increased security screening at airports and ports. Enhanced patrols around Jewish communities and immigrant neighborhoods. Temporary travel advisories possible. Cargo screening may intensify at major logistics hubs.",
+      "proximity_alert": null
+    }
   }
 ]
