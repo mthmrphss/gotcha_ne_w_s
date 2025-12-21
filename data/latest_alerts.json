@@ -1,24 +1,5 @@
 [
   {
-    "id": "94cf6f36ed31c28bb01b715119be6992",
-    "timestamp": "2025-12-21T09:44:13.121266",
-    "original_title": "Gunmen kill nine in South Africa tavern attack - bbc.com",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yMlVpaW4tTmlPUEJKR2t1ZVVOcHZJZk5KLVpReDNxLTUza3VHMS11Vm83QUV4ZkxmODhFREh4RFRyNWN6d0d1bkpadFhUdnlYcmR5bVNwUVo2QdIBX0FVX3lxTE16a2tIajMwNlFqeHRjSThaaVIzZUptTFRHOXFQUkoyeUFwUUtwTUszSjZtaEtUejJaRmdURkVFUDUyek40bklwY3pFTUNhMFBVUnk2Y2FhUy15cVpfWEM0?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Crime/Theft",
-      "risk_score": 6,
-      "location": "South Africa",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "Armed attack on a tavern resulting in nine fatalities. Pattern suggests organized criminal activity rather than terrorism. No direct threat to cargo, aviation assets, or personnel in transit, but indicates elevated violent crime risk in the region.",
-      "immediate_forecast_24h": "Possible increased police presence and temporary security operations in the area. Low probability of immediate follow-up attacks, but general crime advisory warranted for personnel in South Africa.",
-      "strategic_outlook": "Persistent high crime rates in South Africa may continue to pose indirect risks to personnel safety and local operations. No specific escalation pattern indicating broader systemic threat to logistics or transport infrastructure.",
-      "operational_impact": "Minimal direct impact on cargo or aviation operations. Personnel in the region should exercise heightened situational awareness and adhere to security protocols for high-crime areas.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "506b681e0290810488a9903d0a026288",
     "timestamp": "2025-12-21T10:27:33.634365",
     "original_title": "Bondi attack: A deliberate terror attack on Australian Jews - The Jerusalem Post",
@@ -110,6 +91,44 @@
       "immediate_forecast_24h": "Heightened security presence expected at Jewish community events and public gatherings in Sydney. Potential for increased police patrols and security screening at major public venues. Low probability of immediate follow-up attacks but elevated alert status recommended.",
       "strategic_outlook": "Possible increase in religious/ethnic tensions in the region. May lead to enhanced security protocols for public events and religious institutions. Could inspire similar attacks by lone actors or small groups. Intelligence sharing with international partners likely increased.",
       "operational_impact": "Increased security screening at airports and ports for personnel and cargo. Enhanced vigilance for suspicious activity around Jewish institutions and public gatherings. Temporary travel advisories possible for personnel in Sydney area. Cargo screening may be heightened for suspicious packages.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "6d22d9baeea838671e8ba019a503e06d",
+    "timestamp": "2025-12-21T11:21:57.832991",
+    "original_title": "In deadly D.C. plane crash, city lights may have played a role. See how. - The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNG56ZUUxeE9LNXcwcldHSDJRTVVPclU2dXZ0WmR0LWdobDYyOER1S3JpanYzRlM3amx6d2UwNVpzbkdyb2hPSHRFQ0hDaWRPeGVtSU1sYUNGX3AxV2ZiZ0pPQ2JoeUtkTVdaRGhqc094a0U0Qk9YaFhWRE8xd3pndk9md2VrNmdDNVlvYVpsNA?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Washington D.C.",
+      "latitude": 38.9072,
+      "longitude": -77.0369,
+      "detailed_analysis": "Deadly aircraft crash in Washington D.C. with preliminary reports suggesting city lighting may have contributed to the incident. While initial indicators point to potential pilot disorientation due to urban light pollution rather than intentional acts, the location near the U.S. capital elevates security concerns. Requires immediate investigation to rule out sabotage, system compromise, or other malicious activity given the high-profile location.",
+      "immediate_forecast_24h": "Increased aviation security scrutiny in D.C. airspace, potential temporary flight restrictions, enhanced monitoring of general aviation traffic, and coordination with local law enforcement for crash site security.",
+      "strategic_outlook": "Possible review of urban area flight procedures, enhanced pilot training for night operations in high-light environments, and potential updates to aviation security protocols for flights near critical government infrastructure.",
+      "operational_impact": "Temporary airspace restrictions, increased ATC vigilance, enhanced screening for general aviation in the region, and coordination with DHS/FAA for threat assessment. All personnel should maintain heightened awareness for follow-on incidents or copycat events.",
+      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (1 km)"
+    }
+  },
+  {
+    "id": "1367bb1620910d1677f5e7e28378a3d5",
+    "timestamp": "2025-12-21T11:22:09.322957",
+    "original_title": "Jordan confirms its role in US strikes - Northwest Arkansas Democrat-Gazette",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbnpPZnFpYXhLb2NRV3lEQk9oSWQ1SXdmaVVaa282b3JvaDBqT3JzQ0ZYMnd3MHJ4bkpobnl3WWpIUjRWbUNyUHdwSlBaSmNlLVVTdm0tUDZoMVlwa3A2QVg3WGluQVNpTEY2TnZJcEV4YmdfQzNzNEJBZFdIUjhaRlJQaHNlQjZwd19penpmVlQ1ZThacG9pNg?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Jordan",
+      "latitude": 31.24,
+      "longitude": 36.51,
+      "detailed_analysis": "Jordan's confirmed participation in US-led strikes indicates active military engagement in regional conflicts. This represents elevated risk to personnel and assets due to potential retaliatory actions from targeted groups. The involvement suggests heightened regional tensions that could escalate into broader conflict scenarios affecting multiple sectors.",
+      "immediate_forecast_24h": "Increased threat of retaliatory attacks against Jordanian and US interests, possible escalation of regional tensions, heightened security alert levels for military and diplomatic personnel",
+      "strategic_outlook": "Sustained elevated risk environment for personnel and assets in Jordan and surrounding regions, potential for expanded military operations, increased targeting of Western interests by opposition forces",
+      "operational_impact": "Requires immediate security posture review for all assets in region, potential travel restrictions for personnel, enhanced physical security measures at facilities, possible supply chain disruptions due to regional instability",
       "proximity_alert": null
     }
   }
