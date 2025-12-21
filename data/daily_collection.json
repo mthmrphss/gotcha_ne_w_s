@@ -530,5 +530,62 @@
       "operational_impact": "Increased security screening for personnel and assets in Sydney area. Enhanced vigilance required for public gatherings and transportation hubs. Possible delays in cargo movements near memorial sites due to security cordons.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "e268a5d1aa00ce668169ec0107072947",
+    "timestamp": "2025-12-21T13:33:00.002204",
+    "original_title": "Thousands of mourners gather at Bondi Beach to honor victims of antisemitic attack - CBS News",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQ1kwSWZ1MW94Z1RFZ3QzcUNIMzFNM2w2MnROX3QtMDd5aW9PZDdSQ2JwR2ZZOGxJT3hPQ1Y1aEJRMmpNZ243aFQ5OGJFWE1YZW0yTUhWUHpXZWRZX3lkRXdGYmNxVTRlQXhtZkJRSWhiM2l4d3M0ajAzYW4yY2ZqM1BMWdIBiAFBVV95cUxQa2tiZFlqQS1LM2FuejRWSUY2aDhBN2htMk5tLXVyb3puVkhmSmJWZUZTN0N5MlIyWjhfYXJyOEFPV0xGR0M0MDJ1dm1ENWtHU3F5NUpWZ2hhazNyNGRmMEh1em9GTV8tRmdRMHlzZE1Kcmx4b0dLZ0dfNTRxNkNfdXRYM2ZEOE5j?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 7,
+      "location": "Bondi Beach, Sydney",
+      "latitude": -33.8915,
+      "longitude": 151.2767,
+      "detailed_analysis": "Large public gathering in response to an antisemitic attack indicates elevated community tensions and potential for further targeted violence or retaliatory actions. While the event itself is a memorial, it reflects underlying ideological conflict that could manifest in threats to personnel or assets associated with specific groups or locations.",
+      "immediate_forecast_24h": "Increased police/security presence likely; possibility of isolated incidents or copycat behavior, though the gathering itself is organized and peaceful.",
+      "strategic_outlook": "Prolonged elevation in community tension may require sustained security measures for Jewish-affiliated assets, personnel, and public venues; potential for inspired lone-actor threats.",
+      "operational_impact": "Recommend heightened vigilance for personnel and assets in Sydney, especially near Jewish community sites; review access controls and monitor local threat intelligence for escalation.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "a14775b17ac0b583e21d11c697a9c488",
+    "timestamp": "2025-12-21T13:33:17.849659",
+    "original_title": "Australia vows to strengthen hate speech laws, gun control in wake of Bondi Beach attack - Fox News",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVC1nNXJZTENrYzFnRUxzUEt5UkN2UDZxdkMwb3pKTzRnRTdWWUFzM0RkbjJxMktuaHFKbGQzUFlBVXI1MjR1cHRUekZDV2pJQ0E4dUpPeGhKVjBPbjdXX2RFQzNTR2hieTk5N1Zvbkx6cnlsQ0lnYUZIS0tSRTRmVXFlY0J5WDZkeXNDSGFoYm9kdndfMjN1XzJfQjVVWWJwNjZ6MC1WU1JjZHhy?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 7,
+      "location": "Sydney, Australia",
+      "latitude": -33.8688,
+      "longitude": 151.2093,
+      "detailed_analysis": "The Bondi Beach attack represents a significant violent incident likely to prompt immediate government response. While specific details about the attack aren't provided, the mention of strengthened hate speech laws and gun control suggests a terrorism or mass violence event rather than routine crime. The political response indicates elevated national security concerns and potential for copycat incidents or retaliatory actions.",
+      "immediate_forecast_24h": "Increased security presence and surveillance in major Australian cities, particularly Sydney. Possible protests or counter-protests related to hate speech legislation. Enhanced screening at transportation hubs and public venues.",
+      "strategic_outlook": "Long-term tightening of security protocols for public spaces and transportation infrastructure. Potential for increased inter-agency coordination on threat intelligence. Possible rise in threat reporting and need for enhanced personnel security measures in high-profile locations.",
+      "operational_impact": "Immediate review of security protocols for Australian assets and personnel. Enhanced vigilance at all Australian facilities and during transport operations. Temporary suspension of non-essential movements in affected areas until threat assessment is updated.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "7bcdabc193c329fe1a52fc9294fcc90e",
+    "timestamp": "2025-12-21T13:33:28.533855",
+    "original_title": "9 killed, 10 wounded in South Africa pub shooting",
+    "link": "http://www.africanews.com/2025/12/21/9-killed-10-wounded-in-south-africa-pub-shooting/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Crime/Theft",
+      "risk_score": 6,
+      "location": "South Africa",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Mass shooting incident at a pub with 9 fatalities and 10 wounded, indicating organized criminal activity or gang violence. No direct threat to aviation, cargo, or personnel assets in transit, but reflects elevated violent crime risk in the region.",
+      "immediate_forecast_24h": "Potential for increased police presence, temporary business disruptions, and possible retaliatory violence in the area. No expected direct operational impact on transport or logistics.",
+      "strategic_outlook": "South Africa continues to experience high levels of violent crime; such incidents may contribute to broader security concerns but remain localized rather than systemic threats to assets or supply chains.",
+      "operational_impact": "Minimal direct impact on cargo, aviation, or personnel operations. Advise heightened situational awareness for personnel in the region and review local security protocols if operating nearby.",
+      "proximity_alert": null
+    }
   }
 ]
