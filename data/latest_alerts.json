@@ -74,5 +74,43 @@
       "operational_impact": "Immediate: Enhanced screening, increased armed patrols, and potential access restrictions in secure areas. Medium-term: Review of officer weapon retention protocols and response procedures for erratic behavior in airport environments. Personnel advised to maintain heightened situational awareness near security checkpoints.",
       "proximity_alert": "YAKIN TEHDİT: Melbourne Havalimanı (0 km)"
     }
+  },
+  {
+    "id": "8e0b2aebcf48fe3ffa447cadc2b7c3c1",
+    "timestamp": "2025-12-21T15:25:47.555755",
+    "original_title": "Russian forces take Ukrainian villagers across border, media says",
+    "link": "https://www.reddit.com/r/worldnews/comments/1ps8wrk/russian_forces_take_ukrainian_villagers_across/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Ukraine-Russia border region",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Russian forces conducting forced relocation of Ukrainian civilians across international border. This represents escalation in conflict tactics with potential for increased regional instability. Direct threat to personnel safety through unlawful detention and forced movement. Creates humanitarian crisis that could spill into neighboring regions and disrupt supply chains.",
+      "immediate_forecast_24h": "High probability of continued forced relocations, potential for border clashes, increased military activity in border regions. Possible retaliatory actions from Ukrainian forces. Humanitarian organizations may attempt intervention, creating additional operational complexity.",
+      "strategic_outlook": "This tactic likely indicates preparation for extended occupation or demographic changes in contested areas. May lead to prolonged instability along border regions, increased sanctions, and potential for broader international response. Could trigger refugee flows affecting neighboring countries' infrastructure and security.",
+      "operational_impact": "Immediate suspension of non-essential operations within 50km of Ukraine-Russia border. Enhanced security protocols for personnel movement in affected regions. Cargo routes may require rerouting. Aviation operations at risk from potential escalation to airspace violations or anti-aircraft activity. Increased monitoring of supply chain integrity due to potential for conflict-related disruptions.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "99f0ca993624626e25af5ab0879d2758",
+    "timestamp": "2025-12-21T15:25:54.683755",
+    "original_title": "US Is Said to Board Third Tanker Off Venezuela as Tensions Mount",
+    "link": "https://www.reddit.com/r/worldnews/comments/1ps8g6u/us_is_said_to_board_third_tanker_off_venezuela_as/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Venezuelan Waters, Caribbean Sea",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "US boarding of third tanker indicates escalating maritime enforcement operations near Venezuela, likely related to sanctions enforcement or interdiction of illicit shipments. Pattern suggests sustained naval presence and heightened bilateral tensions. Potential for confrontational encounters with Venezuelan naval forces or armed resistance during boardings.",
+      "immediate_forecast_24h": "High probability of additional maritime interdiction operations; increased naval activity in region; possible Venezuelan military response or diplomatic protests",
+      "strategic_outlook": "Sustained maritime standoff likely; potential for escalation to vessel seizures, armed clashes, or expansion to other shipping lanes; may impact regional shipping insurance rates and vessel routing",
+      "operational_impact": "Avoid non-essential maritime traffic near Venezuelan EEZ; heighten vigilance for naval activity; prepare for potential port delays or routing changes; monitor for GPS spoofing or communications interference",
+      "proximity_alert": null
+    }
   }
 ]
