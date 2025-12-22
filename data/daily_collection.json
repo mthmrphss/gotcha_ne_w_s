@@ -361,5 +361,24 @@
       "operational_impact": "Security posture at critical assets—public venues, religious centers, and transport networks—will remain elevated. Operational effects include increased staffing for protective security, potential delays or restrictions around large events, enhanced surveillance, and tighter access controls. Investigations may affect travel advisories and event planning, with possible resource reallocation within emergency services to sustain mass-casualty response readiness.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "77bc724e32ee45898811eb7c6fcfb024",
+    "timestamp": "2025-12-22T09:36:04.723428",
+    "original_title": "Bondi Beach Shooting Suspects Also Used Pipe Bombs in Attack, Police Say - The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQc09HZnhKQ3hiemp4N3IyYndCdVVlYjZFZGJkXzd0aVpGMkpDdEJjNS1jc3hINWdURHM0cXVyd0xGdWw5Q2dpTmlXZVlGa1pKb2ltLVJ3T2ZvYnQ1RnBBcjRDQmFVZVVtelVDZkg3ZDhVVmlKWTQ1aVFZcEltY2w2bXRJWE9PRW12Z0doUW0zWQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 8,
+      "location": "Bondi Beach, Sydney, New South Wales, Australia",
+      "latitude": -33.8916,
+      "longitude": 151.2767,
+      "detailed_analysis": "Event: Bondi Beach shooting suspects used pipe bombs in an attack; this indicates improvised explosive devices and a willingness to employ multiple methods against public venues. Immediate risk to pedestrians and responders in open coastal areas is elevated, with potential for additional attacks or secondary devices. Public venues, mass gatherings, and coastal corridors could be targets; if the attackers attempted to target transit hubs or tourist infrastructure, regional impact could spread. Cargo-related risk appears low in this report, but supply chains could be affected by increased security measures and public event cancellations. Aviation implications are indirect but noteworthy: airports and airlines may implement enhanced screening and patrols in response to elevated threat perceptions, and there is a risk of disruptions if authorities widen perimeter security near airports or during large events. Personnel risk to law enforcement and first responders is elevated given active incidents and potential for further violence.",
+      "immediate_forecast_24h": "Expect continued high alert in New South Wales with ongoing police operations, beach closures or restricted access to public venues, and enhanced security at crowded events and transport hubs. Possible briefings or advisories may be issued; watch for a surge in requests for public safety information and increased reporting of suspicious behavior.",
+      "strategic_outlook": "Short-term: sustained security posture with EOD and counterterrorism teams operating, amplified user reports and interagency coordination. Medium-term: heightened protective security measures around coastal urban centers, improved surveillance and community engagement, and revision of response protocols for mass casualty events. Long-term: potential policy focus on public venue hardening, rapid-response capabilities, and resilience planning to reduce casualties from similar attacks.",
+      "operational_impact": "Public safety risk remains high for personnel and civilians in open public spaces; expect increased law enforcement presence, bag checks, traffic restrictions near beaches and event venues, and potential temporary closures affecting tourism. Cargo/logistics in the immediate vicinity are unlikely to be targeted, but supply chains may experience delays due to security checks or event restrictions. Aviation is not the primary target in this report, but airports may see heightened screening, surveillance, and inter-agency coordination to mitigate spillover risk. Organizations should review emergency response plans, ensure clear comms with local authorities, and validate threat-hunting and incident-communication drills.",
+      "proximity_alert": null
+    }
   }
 ]
