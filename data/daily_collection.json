@@ -169,5 +169,43 @@
       "operational_impact": "Recommend increased vigilance around government buildings, transportation hubs, and major logistics routes. Coordinate with local law enforcement for protest intelligence. Consider rerouting high-value cargo during anticipated protest windows. Review emergency protocols for staff movement in affected areas.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "ef676a1541e22f01c59e316421868ba7",
+    "timestamp": "2025-12-22T05:31:07.751607",
+    "original_title": "In the Bondi Beach attack, the real battle is invisible - Mission Network News",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOR1VkMGNMZVZjRFpaVHpHWk5YV3daVll6TlZOTkRTcl9Rems4enNVVlZ6RDEtMGNENHZaTGNHZTBWOUM5VHgxWW5RZWRvTXItOWpPV0NGVTQtVFMtREUxLUZ1ZlZib18tVWtDUXQtakxtOWlMMzNZMEJxWjZoYzE0SHFQVml2UlB0dDRwYkJ4bw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 8,
+      "location": "Bondi Beach, Sydney",
+      "latitude": -33.8915,
+      "longitude": 151.2767,
+      "detailed_analysis": "The Bondi Beach attack reference suggests a terrorism-related event with potential invisible/cyber warfare components. The title 'the real battle is invisible' indicates possible cyber operations, psychological warfare, or covert tactics targeting public spaces. Bondi Beach is a high-profile tourist destination, making it a symbolic target. The invisible nature could imply cyber attacks on infrastructure, disinformation campaigns, or non-kinetic threats that still impact security operations.",
+      "immediate_forecast_24h": "Increased security patrols and surveillance likely in Bondi area. Potential for follow-on cyber incidents targeting transportation or communication systems. Possible travel advisories for the region.",
+      "strategic_outlook": "Long-term elevation of threat level for Australian coastal tourist destinations. Potential for copycat incidents or expanded targeting of soft targets. May require enhanced intelligence sharing with regional partners.",
+      "operational_impact": "Increased SOC monitoring of Australian network traffic, especially around critical infrastructure. Enhanced physical security protocols for personnel in Sydney region. Possible temporary closures or restricted access to Bondi Beach area for security sweeps.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "e7b94588674269c93e753b4352982f16",
+    "timestamp": "2025-12-22T05:31:21.201411",
+    "original_title": "Police allege Bondi shooters had ‘tennis ball bomb’ and made IS-inspired video manifesto, court documents reveal",
+    "link": "https://www.reddit.com/r/worldnews/comments/1psqub5/police_allege_bondi_shooters_had_tennis_ball_bomb/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 9,
+      "location": "Bondi, Sydney, Australia",
+      "latitude": -33.8915,
+      "longitude": 151.2767,
+      "detailed_analysis": "Terrorist attack involving improvised explosive devices (tennis ball bombs) and firearms at Bondi location. IS-inspired video manifesto indicates ideological motivation. Active shooters engaged by police. High threat to personnel and public safety in crowded urban area.",
+      "immediate_forecast_24h": "Elevated security response ongoing. Potential for additional devices or accomplices. Increased police/military presence. Possible transportation disruptions in Sydney area. Continued threat of copycat attacks or sympathetic actions.",
+      "strategic_outlook": "Likely inspiration for similar attacks globally. Potential for increased radicalization efforts. May lead to enhanced security measures at public venues and transportation hubs internationally. Possible ISIS claims of responsibility or encouragement.",
+      "operational_impact": "Immediate: Avoid Bondi area and crowded public spaces in Sydney. Enhanced screening at airports and transportation hubs. Medium-term: Review security protocols for public venues. Increase vigilance for suspicious packages. Long-term: Potential policy changes regarding surveillance and counter-terrorism operations.",
+      "proximity_alert": null
+    }
   }
 ]
