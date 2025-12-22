@@ -226,5 +226,43 @@
       "operational_impact": "Avoid non-essential travel to border regions. Heighten security for personnel and assets near border areas. Monitor border crossing status for cargo movements. Potential delays in cross-border logistics and supply chains.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "7d9086f73f79d885210bf7e655fd34b6",
+    "timestamp": "2025-12-22T07:30:20.126232",
+    "original_title": "Homemade bombs thrown before Bondi mass shooting, but failed to detonate, police tell court - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOEVOc3dGMFp4Q1lKSlcyaUpZVlZQdGRmYnlZVDQzQ0F2UDZxLXozQXZIU3hFUlVUbmpGYWEtbFc4ZnBMaDRZeVdyWlJVTEl4X3dWcXJsTjVnWEJxYnA0TzZPdWQ1aWFMOVRmbUxNcjVaWlI1dG12Q0VQd21vMk1DbG56eUFYeTM0QXFqVzV2U2JTWF9Zam90cDJhSXdBTkJ6SWphZ1FtZzl5cEtEWU9NVlpPM1FLMTA5VXdWaFV4NGFfX1cxT2Z1d1RR?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 8,
+      "location": "Bondi, Sydney, Australia",
+      "latitude": -33.8915,
+      "longitude": 151.2767,
+      "detailed_analysis": "Incident involves attempted detonation of homemade bombs preceding a mass shooting event, indicating coordinated terrorist/criminal planning. Failed detonation suggests either amateur construction or possible intervention, but demonstrates clear intent to cause mass casualties. Event occurred in high-density public area (Bondi), increasing potential impact on personnel and public safety.",
+      "immediate_forecast_24h": "Elevated security alert for Sydney metropolitan area. Potential for copycat incidents or secondary attacks. Increased police/military presence likely. Possible transportation disruptions in Bondi area during investigation.",
+      "strategic_outlook": "Potential shift toward improvised explosive tactics in domestic terrorism/criminal operations. May indicate new threat actors or evolving tactics. Requires review of security protocols for public spaces and transportation hubs.",
+      "operational_impact": "Immediate: Heightened screening at airports, ports, and critical infrastructure. Medium-term: Possible increased security measures for cargo screening, personnel movement protocols in urban centers. Long-term: Potential policy changes regarding explosive precursor materials.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "87e79022acb854f5c10e8ab856463b58",
+    "timestamp": "2025-12-22T07:30:29.963127",
+    "original_title": "Russian general killed in explosion in Moscow, officials say",
+    "link": "https://www.reddit.com/r/worldnews/comments/1psthp6/russian_general_killed_in_explosion_in_moscow/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 10,
+      "location": "Moscow",
+      "latitude": 55.7558,
+      "longitude": 37.6173,
+      "detailed_analysis": "Assassination of high-ranking military official via explosion indicates targeted political violence. Method suggests possible insider threat, IED, or sophisticated attack. Creates immediate security vacuum and potential retaliation scenarios. Elevated threat to military and government personnel in region.",
+      "immediate_forecast_24h": "Heightened security alerts, possible retaliatory strikes, increased military presence in Moscow. Potential for secondary attacks or false flag operations. Enhanced screening at transportation hubs.",
+      "strategic_outlook": "Likely escalation in targeted killings between conflict parties. Possible increase in security measures affecting cargo and personnel movement. Potential for broader destabilization if attribution leads to international involvement.",
+      "operational_impact": "Immediate travel advisories for personnel in Moscow. Enhanced security protocols for high-value assets and personnel transport. Possible delays in cargo movements due to increased security screenings. Aviation may experience heightened security measures at Moscow airports.",
+      "proximity_alert": "YAKIN TEHDİT: Vnukovo International Airport (27 km)"
+    }
   }
 ]
