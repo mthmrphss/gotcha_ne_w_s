@@ -1,24 +1,5 @@
 [
   {
-    "id": "77bc724e32ee45898811eb7c6fcfb024",
-    "timestamp": "2025-12-22T09:36:04.723428",
-    "original_title": "Bondi Beach Shooting Suspects Also Used Pipe Bombs in Attack, Police Say - The New York Times",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQc09HZnhKQ3hiemp4N3IyYndCdVVlYjZFZGJkXzd0aVpGMkpDdEJjNS1jc3hINWdURHM0cXVyd0xGdWw5Q2dpTmlXZVlGa1pKb2ltLVJ3T2ZvYnQ1RnBBcjRDQmFVZVVtelVDZkg3ZDhVVmlKWTQ1aVFZcEltY2w2bXRJWE9PRW12Z0doUW0zWQ?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Terrorism",
-      "risk_score": 8,
-      "location": "Bondi Beach, Sydney, New South Wales, Australia",
-      "latitude": -33.8916,
-      "longitude": 151.2767,
-      "detailed_analysis": "Event: Bondi Beach shooting suspects used pipe bombs in an attack; this indicates improvised explosive devices and a willingness to employ multiple methods against public venues. Immediate risk to pedestrians and responders in open coastal areas is elevated, with potential for additional attacks or secondary devices. Public venues, mass gatherings, and coastal corridors could be targets; if the attackers attempted to target transit hubs or tourist infrastructure, regional impact could spread. Cargo-related risk appears low in this report, but supply chains could be affected by increased security measures and public event cancellations. Aviation implications are indirect but noteworthy: airports and airlines may implement enhanced screening and patrols in response to elevated threat perceptions, and there is a risk of disruptions if authorities widen perimeter security near airports or during large events. Personnel risk to law enforcement and first responders is elevated given active incidents and potential for further violence.",
-      "immediate_forecast_24h": "Expect continued high alert in New South Wales with ongoing police operations, beach closures or restricted access to public venues, and enhanced security at crowded events and transport hubs. Possible briefings or advisories may be issued; watch for a surge in requests for public safety information and increased reporting of suspicious behavior.",
-      "strategic_outlook": "Short-term: sustained security posture with EOD and counterterrorism teams operating, amplified user reports and interagency coordination. Medium-term: heightened protective security measures around coastal urban centers, improved surveillance and community engagement, and revision of response protocols for mass casualty events. Long-term: potential policy focus on public venue hardening, rapid-response capabilities, and resilience planning to reduce casualties from similar attacks.",
-      "operational_impact": "Public safety risk remains high for personnel and civilians in open public spaces; expect increased law enforcement presence, bag checks, traffic restrictions near beaches and event venues, and potential temporary closures affecting tourism. Cargo/logistics in the immediate vicinity are unlikely to be targeted, but supply chains may experience delays due to security checks or event restrictions. Aviation is not the primary target in this report, but airports may see heightened screening, surveillance, and inter-agency coordination to mitigate spillover risk. Organizations should review emergency response plans, ensure clear comms with local authorities, and validate threat-hunting and incident-communication drills.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "8a196fafb75394be9e47c7b660e48998",
     "timestamp": "2025-12-22T10:30:41.781752",
     "original_title": "'Extremely cunning' suspect in deadly Taiwan knife attack planned it for over a year - ABC News",
@@ -130,6 +111,82 @@
       "strategic_outlook": "Prolonged instability likely; ASEAN/US mediation may temporarily de-escalate but underlying territorial disputes remain unresolved. Increased military presence and border fortifications anticipated.",
       "operational_impact": "Ground transport routes near border compromised; potential for aviation disruptions if conflict spills into airspace. Personnel in affected areas face high risk; contingency plans for relocation and supply rerouting advised.",
       "proximity_alert": null
+    }
+  },
+  {
+    "id": "474924b98f7faa17961179ba24af3a0a",
+    "timestamp": "2025-12-22T11:25:03.625117",
+    "original_title": "Cybersecurity News: President’s cyber bill, Iranian APT resurfaces, Kimwolf DDoS attack - CISO Series",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWGlTemstbE9SejY4ejROendzYU8wSy1CQkVTb0ZnM1MyamhVNFZ1cFVUUUk1UUFkQm9pTXRjMXdvVklpbE56Qk16M3VBdDhlbVNRcERqMW5BNWRnNThDd0JoWE8zdFVZemZfdDJKRzdicEVGamJ0MnZEZTlqX2xlMDFhM3JkMDJYdk1pR3VlbDFZMGNDaFZER0dGRHQ1c1FjN01tamI3eW5DcUk?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 7,
+      "location": "Global/Unspecified",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Headline indicates three key cyber threats: new presidential cyber legislation (potential policy shifts), resurgence of Iranian APT activity (nation-state threat), and Kimwolf DDoS attack (disruptive cyber operations). Iranian APTs typically target critical infrastructure, government systems, and corporate networks, while DDoS attacks can disrupt operations and services. Combined legislative and threat activity suggests elevated cyber risk environment.",
+      "immediate_forecast_24h": "Increased scanning/probing activity likely from Iranian APT groups; potential DDoS attacks against high-profile targets. Organizations should review defensive postures and ensure DDoS mitigation is active.",
+      "strategic_outlook": "Persistent cyber threats from nation-state actors (Iran) expected to continue targeting aviation, logistics, and government assets. DDoS campaigns may expand to critical infrastructure. Legislative changes may introduce new compliance requirements.",
+      "operational_impact": "Potential service disruptions to digital assets, increased need for network monitoring, possible credential harvesting campaigns affecting personnel. Cargo tracking systems and aviation logistics platforms could be targeted.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "d8694aedc9f9fc46463196b1b5698eb5",
+    "timestamp": "2025-12-22T11:25:44.574130",
+    "original_title": "Ukrainian drone attack damages two vessels in Russia's Krasnodar, officials say",
+    "link": "https://www.reddit.com/r/worldnews/comments/1psx95d/ukrainian_drone_attack_damages_two_vessels_in/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Krasnodar, Russia",
+      "latitude": 45.0355,
+      "longitude": 38.9753,
+      "detailed_analysis": "Ukrainian drone strike targeting vessels in Russian port infrastructure indicates escalation of cross-border attacks on maritime assets. Attack methodology suggests potential for similar operations against other transport/logistics hubs in the region. Vessel damage confirms operational capability to penetrate Russian defenses.",
+      "immediate_forecast_24h": "High probability of retaliatory strikes or increased security measures at Russian Black Sea ports. Possible disruptions to maritime traffic and enhanced drone detection protocols in the region.",
+      "strategic_outlook": "Sustained targeting of transport infrastructure likely to continue as conflict persists. Maritime assets in Black Sea region remain vulnerable to asymmetric drone warfare. Potential for escalation to include other critical infrastructure targets.",
+      "operational_impact": "Increased security screening for vessels operating in/near conflict zones. Enhanced drone detection systems recommended for port facilities. Temporary shipping delays possible due to security reinforcements. Personnel in region should maintain heightened situational awareness.",
+      "proximity_alert": "YAKIN TEHDİT: Krasnodar Pashkovsky International Airport (0 km)"
+    }
+  },
+  {
+    "id": "aee5daba49ae901a8faf290dd25f500f",
+    "timestamp": "2025-12-22T11:25:58.761298",
+    "original_title": "Russian general killed in car bomb in southern Moscow",
+    "link": "http://www.africanews.com/2025/12/22/russian-general-killed-in-car-bomb-in-southern-moscow/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 10,
+      "location": "Moscow, Russia",
+      "latitude": 55.7558,
+      "longitude": 37.6173,
+      "detailed_analysis": "Car bomb assassination of high-ranking military official with alleged Ukrainian involvement indicates targeted political violence. Method suggests sophisticated planning and execution capabilities. Potential for retaliatory actions and escalation in conflict dynamics.",
+      "immediate_forecast_24h": "Heightened security alert for Russian officials and military personnel. Possible increased checkpoints and surveillance in Moscow. Potential for retaliatory strikes against Ukrainian interests.",
+      "strategic_outlook": "Escalation in covert operations between Russia and Ukraine. Increased targeting of military and political figures. Possible expansion of asymmetric warfare tactics in urban centers.",
+      "operational_impact": "Review security protocols for high-value personnel movements. Enhance vehicle inspection procedures. Monitor communications for threat chatter. Coordinate with intelligence partners for early warning indicators.",
+      "proximity_alert": "YAKIN TEHDİT: Vnukovo International Airport (27 km)"
+    }
+  },
+  {
+    "id": "422d388025b924eb9f7d5324260d12f4",
+    "timestamp": "2025-12-22T11:26:30.310331",
+    "original_title": "Russian general killed in bomb attack in a suspected Ukraine intelligence services operation",
+    "link": "https://www.france24.com/en/video/20251222-russian-general-killed-in-bomb-attack-in-a-suspected-ukraine-intelligence-services-operation",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 10,
+      "location": "Moscow, Southern Administrative District, Russia",
+      "latitude": 55.65,
+      "longitude": 37.58,
+      "detailed_analysis": "High-profile VBIED assassination of a Russian general in southern Moscow; Russian investigators allege possible Ukrainian special services involvement. This indicates a high-threat, politically motivated act targeting security/political assets, with potential to escalate tensions and provoke retaliatory actions. Indicators suggest a heightened threat environment for security forces and government facilities, with increased risk of copycat attacks against officials, critical infrastructure, or soft targets in urban centers. Operational implications include reinforcing perimeters around sensitive facilities, expanding vehicle screening and surveillance, and coordinating with national and regional partners to monitor for similar attack patterns. There is an elevated risk to personnel and transportation nodes during official movements; information operations and mis/disinformation campaigns may accompany the incident.",
+      "immediate_forecast_24h": "Expect elevated security alerts and expanded screening around government facilities, transport hubs, and high-value assets. Possible temporary travel restrictions or advisories for official movements; increased scrutiny of VBIED indicators and suspicious vehicles. Potential for follow-on threats or attempts to imitate the attack, with heightened media attention and public safety campaigns.",
+      "strategic_outlook": "Security posture across the region is likely to tighten in the near term: enhanced access controls around sensitive sites, intensified intelligence sharing with allies, and greater protection for personnel. If attribution to a state actor is confirmed, expect diplomatic signaling, potential sanctions or escalatory measures, and broader regional risk considerations. Indirect risks to civilian infrastructure exist if security measures disrupt normal operations.",
+      "operational_impact": "Assets: stronger protective measures for high-value targets and critical government facilities; possible strain on security and logistics for protective operations. Cargo: direct impact limited, but potential minor delays if transport corridors face additional screening. Aviation: low direct impact; possible brief security checks near airports or travel advisories affecting official movements. Personnel: increased risk environment for security teams and officials; longer response times for incidents and potential changes to travel schedules and assignments.",
+      "proximity_alert": "YAKIN TEHDİT: Vnukovo International Airport (20 km)"
     }
   }
 ]
