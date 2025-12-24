@@ -2,7 +2,7 @@ name: Daily Security Briefing
 
 on:
   schedule:
-    # Her gün saat 20:00 UTC'de çalış (Türkiye saati ile 00:00)
+    # Her gün saat 20:00 UTC'de çalış (Türkiye saati ile 23:00 veya 00:00)
     - cron: '0 20 * * *'
   workflow_dispatch: # Manuel tetikleme için
 
@@ -22,12 +22,17 @@ jobs:
         with:
           python-version: '3.10'
 
+      # DÜZELTME 1: g4f kaldırıldı, groq ve gerekli diğer paketler eklendi
       - name: Install Dependencies
         run: |
-          pip install g4f requests curl_cffi
+          pip install groq requests feedparser python-dotenv
 
+      # DÜZELTME 2: Secret burada python koduna aktarılıyor
       - name: Run Daily Briefing Script
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
         run: |
+          # DİKKAT: Scriptinin "src" klasörü içinde olduğundan emin ol
           python src/daily_briefing.py
 
       - name: Commit Report
@@ -35,6 +40,8 @@ jobs:
           git config --global user.name 'IntelBot'
           git config --global user.email 'bot@noreply.github.com'
           
-          git add data/daily_final_report.json data/daily_collection.json
+          # data klasöründeki tüm değişiklikleri ekle
+          git add data/
+          
           git commit -m "Daily Report Generated: $(date -u)" || echo "No changes"
           git push
