@@ -1,21 +1,40 @@
 [
   {
-    "id": "3c620ea34a8d683cd2fa5b2d88eba115",
-    "timestamp": "2025-12-24T15:47:04.250833",
-    "original_title": "Investigators probe plane crash in Turkey that killed Libyan military officials - CBS News",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRExWOEYwT3YxcFBCaGJpNmRSMnBoWno4TlFUVUh0T3NvX1BnV3NfaXZXY2Nycy12cjA2N3dQTC1DLTdTS2ZfMTcxelRvTGpmcWxtb2xDSWd1dndQTlJCMEVRdnFINE13bFhST0NmY0VYT1F0Q01PZ01rbmZHYVk1cFYtaVlxLTk4Wnpv0gGQAUFVX3lxTFA0dzFBbDN0OGJ0VDBZeUs1WGZxbkF1MDBkUnNhNURtaFJNeHNTa1FBbXA4OGUxSFUydVFmVkNfZ1Z4allUdkdVT21YX0RVbVVuZDd5MkpyS3VrUGRQclhaVzR5X0RVTzd4N19fcmhnb3VvYllKT0RDVnoyQ0ZNMHRFaFA2ZWEwZzZ6YzZ4MERVTQ?oc=5",
-    "source_name": "Google News (Breaking)",
+    "id": "70033b3c03c481c0ef877c53cee05714",
+    "timestamp": "2025-12-24T17:25:01.858894",
+    "original_title": "China may be assisting Russia with satellite imagery. Chinese satellite images coincided with strikes on specific Ukrainian energy facilities, according to Ukrainian President and Head of the Center for Countering Disinformation",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pus7dt/china_may_be_assisting_russia_with_satellite/",
+    "source_name": "Reddit r/WorldNews",
     "ai_analysis": {
-      "category": "Aviation",
-      "risk_score": 8,
-      "location": "Ankara, Turkey",
-      "latitude": 39.9334,
-      "longitude": 32.8597,
-      "detailed_analysis": "A private jet carrying Libya's top military officials, including the chief of staff, crashed shortly after takeoff from Ankara on 24 Dec 2025. All eight occupants were killed. Preliminary statements attribute the accident to a technical malfunction, with no evidence of sabotage, terrorism, or criminal activity.",
-      "immediate_forecast_24h": "Turkish authorities are conducting on‑site investigations, recovering flight data recorders and securing the crash area. No further aviation disruptions are expected, but heightened monitoring of regional air traffic may occur.",
-      "strategic_outlook": "The loss of senior Libyan military leadership could affect Libya‑Turkey defense cooperation and regional security dynamics. It may prompt reviews of aircraft maintenance standards for high‑profile diplomatic and military flights.",
-      "operational_impact": "Short‑term impact includes disruption of scheduled diplomatic and military travel between Libya and Turkey, and potential delays in logistics tied to the delegation's mission. Longer‑term effects may involve stricter safety protocols for private and military aviation assets.",
-      "proximity_alert": null
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Ukraine",
+      "latitude": 50.4501,
+      "longitude": 30.5234,
+      "detailed_analysis": "Chinese satellite imagery appears to have been shared with Russia, enabling precise targeting of Ukrainian energy infrastructure. This suggests an escalation in intelligence support that could increase the frequency and accuracy of strikes, posing heightened risk to critical infrastructure, transport corridors, and personnel operating in the region.",
+      "immediate_forecast_24h": "Further coordinated attacks on energy sites are likely, potentially accompanied by cyber intrusions against grid control systems, increasing the chance of secondary disruptions to logistics and aviation routes near conflict zones.",
+      "strategic_outlook": "Sustained Chinese intelligence assistance could deepen the conflict, leading to more sophisticated, multi-domain operations that blend kinetic strikes with cyber and electronic warfare, extending the threat horizon for regional and global supply chains.",
+      "operational_impact": "Disruption to cargo flows through Ukraine, heightened risk to aviation corridors over contested airspace, and increased security requirements for personnel and assets operating near targeted facilities.",
+      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
+    }
+  },
+  {
+    "id": "d33aff59f2a85eb4ee364741618a3b15",
+    "timestamp": "2025-12-24T17:25:12.698863",
+    "original_title": "Three people killed in Moscow car explosion, Russian authorities say",
+    "link": "http://www.africanews.com/2025/12/24/three-people-killed-in-moscow-car-explosion-russian-authorities-say/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 10,
+      "location": "Moscow, Russia",
+      "latitude": 55.75222,
+      "longitude": 37.61556,
+      "detailed_analysis": "A car bomb in Moscow killed three people, including two police officers, just two days after a similar attack that killed a top general. The pattern suggests a coordinated terrorist campaign targeting security forces and high‑profile officials, indicating an elevated threat to personnel and public safety in the capital.",
+      "immediate_forecast_24h": "Heightened police and security presence in Moscow, possible road closures, checkpoints, and increased patrols. Additional explosive devices or secondary attacks cannot be ruled out within the next 24 hours.",
+      "strategic_outlook": "If the attacks are part of an organized extremist effort, the threat level may remain elevated for weeks, with potential expansion to other urban centers. Authorities may implement broader counter‑terrorism measures and intelligence operations.",
+      "operational_impact": "Disruption to road traffic and public transport in affected districts, increased security checks for cargo and personnel movement, and possible delays in logistics operations due to heightened alert status.",
+      "proximity_alert": "YAKIN TEHDİT: Vnukovo International Airport (27 km)"
     }
   }
 ]
