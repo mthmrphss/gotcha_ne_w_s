@@ -1,11 +1,11 @@
 name: Global Intelligence Operations
 
 on:
-  push:                   # Kod güncellenince çalış
+  push:
     branches: ["main"]
   schedule:
     - cron: '*/30 * * * *' # Her 30 dakikada bir çalış
-  workflow_dispatch:      # Manuel tetikleme butonu
+  workflow_dispatch:       # Manuel tetikleme butonu
 
 permissions:
   contents: write         # Repoya yazma izni
@@ -13,7 +13,7 @@ permissions:
 jobs:
   analyze_security_events:
     runs-on: ubuntu-latest
-    timeout-minutes: 15   # 15 dk zaman aşımı
+    timeout-minutes: 15
 
     steps:
       - name: Checkout Repository
@@ -25,16 +25,18 @@ jobs:
           python-version: '3.10'
           cache: 'pip'
 
+      # DÜZELTME 1: g4f ve gereksizleri sildim. groq ve dotenv ekledim.
       - name: Install Dependencies
         run: |
-          pip install g4f feedparser requests curl_cffi
-          pip install --upgrade --force-reinstall greenlet gevent
+          pip install --upgrade pip
+          pip install groq feedparser requests python-dotenv
 
+      # DÜZELTME 2: API Key'i secret'tan alıp koda enjekte ettim.
       - name: Run Intelligence Analyzer
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
         run: |
-          # Dosyanız src klasöründeyse: python src/analyze.py
-          # Dosyanız ana dizindeyse: python analyze.py
-          # Sizin paylaştığınız snippet'e göre src/ içinde görünüyor:
+          # Python kodunuz src klasörü içindeyse:
           python src/analyze.py
 
       - name: Commit and Push Results
@@ -42,10 +44,10 @@ jobs:
           git config --global user.name 'IntelBot'
           git config --global user.email 'bot@noreply.github.com'
           
-          # Değişiklik var mı kontrol et
+          # data klasöründeki değişiklikleri kontrol et
           if [[ -n $(git status -s data/) ]]; then
-            # --- KRİTİK GÜNCELLEME BURADA ---
-            # daily_collection.json dosyasını da ekledik
+            
+            # DÜZELTME 3: Tüm veri dosyalarını garantiye alarak ekliyoruz
             git add data/latest_alerts.json data/history.json data/daily_collection.json
             
             git commit -m "Intel Update: $(date -u)"
