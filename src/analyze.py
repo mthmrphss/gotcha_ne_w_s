@@ -6,17 +6,22 @@ import time
 import requests
 import math
 from datetime import datetime, timedelta
-from g4f.client import Client
-from g4f.Provider import PollinationsAI
+from groq import Groq
+from dotenv import load_dotenv  # <--- EKLENDI: .env okumak için
+
+# --- ORTAM DEĞİŞKENLERİNİ YÜKLE ---
+load_dotenv()  # .env dosyasındaki şifreleri yükler
 
 # --- AYARLAR ---
 ASSETS_FILE = "assets.json"
 HISTORY_FILE = "data/history.json"
 OUTPUT_FILE = "data/latest_alerts.json"
-DAILY_COLLECTION_FILE = "data/daily_collection.json" # <--- YENİ: Günlük Havuz Dosyası
+DAILY_COLLECTION_FILE = "data/daily_collection.json"
 
-# Bu süre (dakika) dolan haberler JSON'dan silinir.
-# Power Automate saat başı (60 dk) çalışıyorsa, burayı 65-70 yapmak güvenlidir.
+# API Key kontrolü (Hata varsa baştan uyarır)
+if not os.getenv("GROQ_API_KEY"):
+    raise ValueError("HATA: .env dosyasında GROQ_API_KEY bulunamadı!")
+
 RETENTION_MINUTES = 70 
 
 HEADERS = {
@@ -44,18 +49,9 @@ RSS_SOURCES = [
         "name": "Live Flight Emergencies (Squawk)",
         "url": "https://news.google.com/rss/search?q=(squawk+7700+OR+squawk+7500+OR+emergency+landing)+when:1h&hl=en-US&gl=US&ceid=US:en"
     },
-    {
-        "name": "Reddit r/Geopolitics",
-        "url": "https://www.reddit.com/r/geopolitics/new/.rss"
-    },
-    {
-        "name": "Reddit r/WorldNews",
-        "url": "https://www.reddit.com/r/worldnews/new/.rss"
-    },
-    {
-        "name": "War on the Rocks",
-        "url": "https://warontherocks.com/feed/"
-    },
+    { "name": "Reddit r/Geopolitics", "url": "https://www.reddit.com/r/geopolitics/new/.rss" },
+    { "name": "Reddit r/WorldNews", "url": "https://www.reddit.com/r/worldnews/new/.rss" },
+    { "name": "War on the Rocks", "url": "https://warontherocks.com/feed/" },
     { "name": "Africa News", "url": "https://www.africanews.com/feed/rss" },
     { "name": "France 24 ME", "url": "https://www.france24.com/en/rss" },
     { "name": "US State Dept", "url": "https://travel.state.gov/_res/rss/TAsTWs.xml" },
@@ -86,7 +82,9 @@ def load_assets():
 
 def load_history():
     if not os.path.exists(HISTORY_FILE): return []
-    with open(HISTORY_FILE, 'r', encoding='utf-8') as f: return json.load(f)
+    try:
+        with open(HISTORY_FILE, 'r', encoding='utf-8') as f: return json.load(f)
+    except: return []
 
 def save_history(history_list):
     with open(HISTORY_FILE, 'w', encoding='utf-8') as f:
@@ -116,8 +114,10 @@ def calculate_distance(lat1, lon1, lat2, lon2):
     c = 2 * math.atan2(math.sqrt(a), math.sqrt(1-a))
     return R * c
 
-def analyze_with_g4f(title, summary):
-    client = Client()
+def analyze_with_groq(title, summary):
+    # API Key otomatik olarak os.environ'dan alınır
+    client = Groq(api_key=os.environ.get("GROQ_API_KEY"))
+    
     prompt = f"""
     ACT AS: Security Operations Center (SOC) Analyst.
     TASK: Analyze news for threats to Assets, Cargo, Aviation, and Personnel.
@@ -132,51 +132,36 @@ def analyze_with_g4f(title, summary):
     4. AVIATION: Bomb threats, drone sightings, strikes, crashes => Risk 6-9.
     5. "Crash" in aviation = HIGH RISK. "Crash" on road = LOW RISK (0).
 
-    OUTPUT: Raw JSON string only:
-    - category: [Terrorism, Aviation, Crime/Theft, Border/Migration, Civil Unrest, Cyber, Conflict, Other, Irrelevant]
-    - risk_score: (Integer 0-10. If 0, Ignore)
-    - location: (String) City/Region
-    - latitude: (Float) 0.0 if unknown
-    - longitude: (Float) 0.0 if unknown
-    - detailed_analysis: (String)
-    - immediate_forecast_24h: (String)
-    - strategic_outlook: (String)
-    - operational_impact: (String)
+    OUTPUT: Raw JSON string only (NO MARKDOWN blocks):
+    {{
+        "category": "Terrorism/Aviation/Crime/Border/Civil Unrest/Cyber/Conflict/Other/Irrelevant",
+        "risk_score": 0,
+        "location": "City, Country",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "detailed_analysis": "Summary of the threat...",
+        "immediate_forecast_24h": "What happens next...",
+        "strategic_outlook": "Long term view...",
+        "operational_impact": "Impact on transport/logistics..."
+    }}
     """
     try:
+        # Resmi Groq Çağrısı
         response = client.chat.completions.create(
-            model="deepseek", 
-            provider=PollinationsAI,
+            model="llama-3.3-70b-versatile", # En güçlü ve hızlı modellerden biri
             messages=[{"role": "user", "content": prompt}],
+            temperature=0, # Analiz için tutarlılık önemli
+            response_format={"type": "json_object"} # JSON dönmesini garantiye alır
         )
-        return clean_and_parse_json(response.choices[0].message.content)
-    except:
-        try:
-            response = client.chat.completions.create(
-                model="openai", provider=PollinationsAI,
-                messages=[{"role": "user", "content": prompt}]
-            )
-            return clean_and_parse_json(response.choices[0].message.content)
-        except: return None
+        return json.loads(response.choices[0].message.content)
+    except Exception as e:
+        print(f"AI Error: {e}")
+        return None
 
-def clean_and_parse_json(content):
-    if not content: return None
-    try:
-        text = content.strip()
-        if "```json" in text: text = text.split("```json")[1].split("```")[0]
-        elif "```" in text: text = text.split("```")[1].split("```")[0]
-        return json.loads(text)
-    except: return None
-
-# --- YENİ FONKSİYON: GÜNLÜK HAVUZA EKLEME ---
 def update_daily_collection(new_alerts):
-    """
-    Yeni bulunan önemli haberleri günlük havuza (daily_collection.json) ekler.
-    Kriter: Risk >= 6 VEYA Yakın Tehdit (Proximity)
-    """
     if not new_alerts: return
-
-    # Dosya yoksa boş liste oluştur
+    
+    # Dosya okuma/oluşturma
     if os.path.exists(DAILY_COLLECTION_FILE):
         try:
             with open(DAILY_COLLECTION_FILE, 'r', encoding='utf-8') as f:
@@ -189,17 +174,17 @@ def update_daily_collection(new_alerts):
     added_count = 0
 
     for alert in new_alerts:
-        # Daha önce eklenmişse atla
         if alert['id'] in existing_ids: continue
         
-        # KRİTERLER:
-        # 1. Risk Skoru 6 ve üzeri olanlar (Önemli Olaylar)
-        # 2. Varlıklarımıza yakın tehdit içerenler (Proximity)
-        # 3. Kategori Havacılık ise ve risk >= 5 ise (Opsiyonel hassasiyet)
+        # Risk Analizi
+        if not alert.get('ai_analysis'): continue # Analiz yoksa atla
         
-        is_high_risk = alert['ai_analysis']['risk_score'] >= 6
+        risk_score = alert['ai_analysis'].get('risk_score', 0)
+        category = alert['ai_analysis'].get('category', 'Other')
         has_proximity = alert['ai_analysis'].get('proximity_alert') is not None
-        is_aviation_risk = (alert['ai_analysis']['category'] == "Aviation" and alert['ai_analysis']['risk_score'] >= 5)
+        
+        is_high_risk = risk_score >= 6
+        is_aviation_risk = (category == "Aviation" and risk_score >= 5)
         
         if is_high_risk or has_proximity or is_aviation_risk:
             daily_data.append(alert)
@@ -217,7 +202,6 @@ def main():
     history = load_history()
     processed_hashes = [item['id'] for item in history]
     
-    # 1. MEVCUT DOSYAYI OKU (BİRİKTİRMEK İÇİN)
     current_alerts = load_current_alerts()
     new_alerts_found = []
     
@@ -235,11 +219,12 @@ def main():
             combined_text = (title + " " + summary).lower()
             if any(ignore in combined_text for ignore in IGNORE_WORDS): continue
             if not any(word in combined_text for word in KEYWORDS): continue
+            
             news_hash = get_content_hash(title)
             if news_hash in processed_hashes: continue
             
             print(f"\n>>> Analyzing: {title}")
-            analysis = analyze_with_g4f(title, summary)
+            analysis = analyze_with_groq(title, summary) # Fonksiyon adı güncellendi
             
             if analysis:
                 score = analysis.get('risk_score', 0)
@@ -287,9 +272,9 @@ def main():
                 }
                 new_alerts_found.append(alert_obj)
                 history.append({"id": news_hash, "timestamp": datetime.now().isoformat()})
-                time.sleep(2)
+                time.sleep(1) # Rate limit koruması
 
-    # 2. ANLIK AKIŞ İÇİN KAYIT (Power Automate - Kayan Pencere)
+    # Temizlik ve Kayıt
     combined_alerts = current_alerts + new_alerts_found
     final_alerts = []
     now = datetime.now()
@@ -303,7 +288,7 @@ def main():
             if age_minutes < RETENTION_MINUTES:
                 final_alerts.append(alert)
             else:
-                print(f"Dropping expired alert: {alert['original_title'][:30]}... ({int(age_minutes)} min old)")
+                pass # Süresi dolanlar sessizce silinir
         except:
             final_alerts.append(alert)
 
@@ -313,11 +298,7 @@ def main():
     if new_alerts_found:
         print(f"\nSUCCESS: {len(new_alerts_found)} NEW alerts added.")
         save_history(history)
-        
-        # --- GÜNLÜK ÖZET İÇİN KAYIT ---
-        # Önemli haberleri günlük havuza at
         update_daily_collection(new_alerts_found)
-        
     else:
         print(f"\nNo NEW incidents. Total active buffer: {len(final_alerts)}")
 
