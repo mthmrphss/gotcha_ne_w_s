@@ -148,7 +148,7 @@ def analyze_with_groq(title, summary):
     try:
         # Resmi Groq Çağrısı
         response = client.chat.completions.create(
-            model="llama-3.3-70b-versatile", # En güçlü ve hızlı modellerden biri
+            model="groq/compound", # En güçlü ve hızlı modellerden biri
             messages=[{"role": "user", "content": prompt}],
             temperature=0, # Analiz için tutarlılık önemli
             response_format={"type": "json_object"} # JSON dönmesini garantiye alır
