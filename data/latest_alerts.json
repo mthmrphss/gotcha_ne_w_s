@@ -1,24 +1,5 @@
 [
   {
-    "id": "29f46feaa7f64899d825cba6881af07f",
-    "timestamp": "2025-12-24T19:41:07.735001",
-    "original_title": "Blast hits mosque during evening prayers in Nigeria’s Maiduguri, witness says",
-    "link": "https://www.reddit.com/r/worldnews/comments/1puvc0i/blast_hits_mosque_during_evening_prayers_in/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Terrorism",
-      "risk_score": 8,
-      "location": "Maiduguri, Nigeria",
-      "latitude": 11.85,
-      "longitude": 13.16,
-      "detailed_analysis": "A blast occurred at a mosque during evening prayers in Maiduguri, Nigeria, killing at least 7 people. The incident is suspected to be a terrorist attack, possibly by Boko Haram or its offshoot ISWAP, which have been active in the region. This event poses a high risk to personnel and assets in the area.",
-      "immediate_forecast_24h": "In the next 24 hours, heightened security measures are expected, with possible roadblocks, increased military patrols, and a risk of further attacks or retaliatory actions. Public gatherings may be restricted and movement in the city could be disrupted.",
-      "strategic_outlook": "The long‑term outlook indicates continued instability in northeastern Nigeria due to the ongoing insurgency. Security forces are likely to increase their presence, and the threat of similar attacks on civilian and possibly critical infrastructure remains elevated.",
-      "operational_impact": "Local transportation and logistics may face delays due to security checkpoints, road closures, and heightened inspections. Personnel movements could be restricted, and supply chains for humanitarian aid and commercial goods may experience disruptions around Maiduguri.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "06e191d7e20cf0736b5454c868dede5d",
     "timestamp": "2025-12-24T20:29:54.626238",
     "original_title": "Ukraine and US agree updated 20-point peace plan after Moscow hit by another deadly bombing",
@@ -53,6 +34,44 @@
       "immediate_forecast_24h": "Heightened security measures are expected in the next 24 hours, including increased police and military presence, possible roadblocks, and heightened alert levels at public venues. There is a risk of additional unrest or retaliatory incidents.",
       "strategic_outlook": "In the longer term, the attack may prompt a sustained security crackdown, increased intelligence operations, and possible restrictions on movement in and around Maiduguri. This could affect regional stability and may lead to periodic disruptions of civilian activities and transport corridors.",
       "operational_impact": "The incident could cause delays and increased scrutiny for transport and logistics operations in the area, with possible rerouting of cargo and heightened checks on personnel movement. Security protocols for staff and assets in the region will likely be tightened.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "fd2a176fd3f4aabd8260ddf41c9c514f",
+    "timestamp": "2025-12-24T21:24:59.634564",
+    "original_title": "2 people hurt in plane crash into North Sacramento field - CBS News",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORGdWeXJWQzAtV2NIcFRjSzVfZjVFaklqZHg0S0l1MnRLTDAzY1E2eDhlenR2Uk1Vc0l1WkdiUlJqN3B4bTJkRnNTQVJaQzctSjNWekZTckx6TGR6Z3pVYWRKX3lMQjRTTkZ5T0lVQS00SDJIX2xiLXZ1al9DSDU1NjJ0QlRkdTgwSU55akZsVFpHWVJ1MVA5UzJRTQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 7,
+      "location": "North Sacramento, California, USA",
+      "latitude": 38.5823,
+      "longitude": -121.4944,
+      "detailed_analysis": "A small plane crashed in a field in North Sacramento, injuring two people on board. The crash occurred near Claire Avenue and Rio Linda Boulevard. The incident is categorized as an aviation risk, specifically a crash, which poses a significant threat to personnel and aviation assets.",
+      "immediate_forecast_24h": "In the next 24 hours authorities will focus on rescue, medical care for the injured, and securing the crash site. Aviation regulators (FAA/NTSB) will likely initiate an investigation, and nearby airspace may see temporary restrictions.",
+      "strategic_outlook": "A thorough investigation will determine cause (mechanical failure, pilot error, weather, etc.). Findings could lead to safety advisories, inspections of similar aircraft, and possible regulatory actions to prevent recurrence.",
+      "operational_impact": "Short‑term impact on local air traffic is minimal, limited to temporary airspace closures. Broader logistics are unlikely to be affected, though operators of similar small aircraft may increase safety checks and pilots may exercise heightened caution.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "0ae7bd3cd837f04b8a3efd89545dc99c",
+    "timestamp": "2025-12-24T21:25:28.152734",
+    "original_title": "2 critical after plane crashes in Sacramento - ABC10",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV2ZVN2p3blEweGNVSUY2TWVqNVFWSDJVdHlleVhSVjcyc0d6Qi0wTnVBWUJJOGdvWmJUS1NXTEE5MWpkSlFRNWl1Rk9oM3N0THZhcHFkTFJHYko4eEZxYU0yUVdOYkVnMXNRdDJERmRPRkhtSThQZVlHak90a1VMZFdIQ21ab0lLTzYxcTduQlRaYWZhbm5pblQ1dlQtVkJBM1BmZEV4UXNUSExXX1VIWHlxbGkySGFCYzdBazlsZF8?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 8,
+      "location": "Sacramento, USA",
+      "latitude": 38.5816,
+      "longitude": -121.4944,
+      "detailed_analysis": "A small aircraft crashed in North Sacramento near Claire Avenue and Rio Linda Boulevard, close to an elementary school. Two occupants were critically injured, one requiring extrication from the wreckage. No additional details on aircraft type or cause have been released. The incident is classified as a high‑risk aviation event per SOP.",
+      "immediate_forecast_24h": "Emergency responders are on scene, providing medical care and securing the crash site. Expect temporary road closures, possible airspace restrictions, and heightened public concern in the surrounding neighborhood.",
+      "strategic_outlook": "An investigation by the NTSB and FAA will be launched to determine cause. Findings may lead to revised flight‑path restrictions, increased surveillance of low‑altitude traffic, and potential regulatory reviews for small‑plane operations in urban areas.",
+      "operational_impact": "Short‑term disruption to local air traffic and ground transportation near the crash site. Logistics firms may experience minor delays if nearby routes are rerouted. No direct cargo loss reported, but heightened security awareness could affect flight scheduling and crew readiness in the region.",
       "proximity_alert": null
     }
   }

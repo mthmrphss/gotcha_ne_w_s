@@ -340,5 +340,43 @@
       "operational_impact": "The incident could cause delays and increased scrutiny for transport and logistics operations in the area, with possible rerouting of cargo and heightened checks on personnel movement. Security protocols for staff and assets in the region will likely be tightened.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "fd2a176fd3f4aabd8260ddf41c9c514f",
+    "timestamp": "2025-12-24T21:24:59.634564",
+    "original_title": "2 people hurt in plane crash into North Sacramento field - CBS News",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORGdWeXJWQzAtV2NIcFRjSzVfZjVFaklqZHg0S0l1MnRLTDAzY1E2eDhlenR2Uk1Vc0l1WkdiUlJqN3B4bTJkRnNTQVJaQzctSjNWekZTckx6TGR6Z3pVYWRKX3lMQjRTTkZ5T0lVQS00SDJIX2xiLXZ1al9DSDU1NjJ0QlRkdTgwSU55akZsVFpHWVJ1MVA5UzJRTQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 7,
+      "location": "North Sacramento, California, USA",
+      "latitude": 38.5823,
+      "longitude": -121.4944,
+      "detailed_analysis": "A small plane crashed in a field in North Sacramento, injuring two people on board. The crash occurred near Claire Avenue and Rio Linda Boulevard. The incident is categorized as an aviation risk, specifically a crash, which poses a significant threat to personnel and aviation assets.",
+      "immediate_forecast_24h": "In the next 24 hours authorities will focus on rescue, medical care for the injured, and securing the crash site. Aviation regulators (FAA/NTSB) will likely initiate an investigation, and nearby airspace may see temporary restrictions.",
+      "strategic_outlook": "A thorough investigation will determine cause (mechanical failure, pilot error, weather, etc.). Findings could lead to safety advisories, inspections of similar aircraft, and possible regulatory actions to prevent recurrence.",
+      "operational_impact": "Short‑term impact on local air traffic is minimal, limited to temporary airspace closures. Broader logistics are unlikely to be affected, though operators of similar small aircraft may increase safety checks and pilots may exercise heightened caution.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "0ae7bd3cd837f04b8a3efd89545dc99c",
+    "timestamp": "2025-12-24T21:25:28.152734",
+    "original_title": "2 critical after plane crashes in Sacramento - ABC10",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV2ZVN2p3blEweGNVSUY2TWVqNVFWSDJVdHlleVhSVjcyc0d6Qi0wTnVBWUJJOGdvWmJUS1NXTEE5MWpkSlFRNWl1Rk9oM3N0THZhcHFkTFJHYko4eEZxYU0yUVdOYkVnMXNRdDJERmRPRkhtSThQZVlHak90a1VMZFdIQ21ab0lLTzYxcTduQlRaYWZhbm5pblQ1dlQtVkJBM1BmZEV4UXNUSExXX1VIWHlxbGkySGFCYzdBazlsZF8?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 8,
+      "location": "Sacramento, USA",
+      "latitude": 38.5816,
+      "longitude": -121.4944,
+      "detailed_analysis": "A small aircraft crashed in North Sacramento near Claire Avenue and Rio Linda Boulevard, close to an elementary school. Two occupants were critically injured, one requiring extrication from the wreckage. No additional details on aircraft type or cause have been released. The incident is classified as a high‑risk aviation event per SOP.",
+      "immediate_forecast_24h": "Emergency responders are on scene, providing medical care and securing the crash site. Expect temporary road closures, possible airspace restrictions, and heightened public concern in the surrounding neighborhood.",
+      "strategic_outlook": "An investigation by the NTSB and FAA will be launched to determine cause. Findings may lead to revised flight‑path restrictions, increased surveillance of low‑altitude traffic, and potential regulatory reviews for small‑plane operations in urban areas.",
+      "operational_impact": "Short‑term disruption to local air traffic and ground transportation near the crash site. Logistics firms may experience minor delays if nearby routes are rerouted. No direct cargo loss reported, but heightened security awareness could affect flight scheduling and crew readiness in the region.",
+      "proximity_alert": null
+    }
   }
 ]
