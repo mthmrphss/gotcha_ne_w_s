@@ -93,5 +93,43 @@
       "operational_impact": "The incident may lead to restrictions on air travel or changes to flight routes in the region, and could also impact ground transportation and logistics. Personnel and cargo in the area may be at increased risk due to the potential for further conflict or instability.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "27f5bc08e12793548489ef5e2082f791",
+    "timestamp": "2025-12-25T14:47:01.863597",
+    "original_title": "Venezuela’s Maduro using U.S. military threat to crack down on dissent - The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRndoNzdBUGZQc3AyQVhVSkxFZmhsek5yRmtDSjUwSUhpb25xc3E0RXpCQktKZ09kNVNxR2g5blFVZ0haOFlkNTg2OGUxX3pwYmNVYkZsY2c5a1Y0cHNwUThFUTNOaGVhUHRGZF9sTmtwNEpMNEJqaTVOSV85RUx2X0YzV2E0WkNGbjlTaW5fTWUtYlE?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Caracas, Venezuela",
+      "latitude": 10.488,
+      "longitude": -66.879,
+      "detailed_analysis": "Venezuelan President Maduro is using the perceived U.S. military threat to justify a crackdown on dissent, potentially leading to increased instability and unrest in the country, which could impact aviation and cargo operations.",
+      "immediate_forecast_24h": "Increased security measures and potential protests or demonstrations in major cities, including Caracas, which may cause disruptions to transport and logistics.",
+      "strategic_outlook": "Long-term instability and conflict in Venezuela could lead to a deterioration of the security environment, affecting the safety of assets, cargo, aviation, and personnel in the region.",
+      "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics operations in Venezuela due to increased security measures, protests, or conflict, which could have a ripple effect on regional and global supply chains.",
+      "proximity_alert": "YAKIN TEHDİT: Maiquetía \"Simón Bolívar\" International Airport (4 km)"
+    }
+  },
+  {
+    "id": "476621ab990883a4ed0d6db6102b88c6",
+    "timestamp": "2025-12-25T14:47:06.423010",
+    "original_title": "Russian bombers fly near Britain, NATO scrambles fighter jets",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pvemza/russian_bombers_fly_near_britain_nato_scrambles/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 8,
+      "location": "Britain",
+      "latitude": 54.7589,
+      "longitude": -4.5729,
+      "detailed_analysis": "Russian bombers flying near Britain prompted NATO to scramble fighter jets, indicating heightened military activity and potential for escalation in the region.",
+      "immediate_forecast_24h": "Increased military presence and surveillance in the area, potential for further incidents or interceptions.",
+      "strategic_outlook": "Long-term tensions between Russia and NATO may continue to escalate, posing a threat to regional stability and aviation security.",
+      "operational_impact": "Potential disruptions to air traffic, increased security measures for aviation and logistics operations in the region.",
+      "proximity_alert": null
+    }
   }
 ]
