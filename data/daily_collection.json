@@ -720,5 +720,43 @@
       "operational_impact": "Potential delays or disruptions to transport and logistics services in the area, particularly those serving the Jewish community or relying on routes near Bondi Beach.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "cfe92397e6e049260555eb04724030ea",
+    "timestamp": "2025-12-25T17:24:20.459659",
+    "original_title": "No Power, No Heat, No Water: Odesa’s Days of Hell Under Russian Fire",
+    "link": "https://www.nytimes.com/2025/12/25/world/europe/ukraine-odesa.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Odesa, Ukraine",
+      "latitude": 46.48,
+      "longitude": 30.73,
+      "detailed_analysis": "The repeated attacks on Odesa's infrastructure by Russian forces pose a significant threat to the city's assets, cargo, aviation, and personnel. The lack of power, heat, and water exacerbates the situation, particularly for vulnerable populations such as older people and those with disabilities.",
+      "immediate_forecast_24h": "Continued attacks on infrastructure are likely, leading to further disruptions in essential services and potential humanitarian crises.",
+      "strategic_outlook": "The long-term impact of these attacks could lead to a destabilization of the region, affecting trade and logistics in the Black Sea area.",
+      "operational_impact": "Transport and logistics operations in and around Odesa may be severely impacted, with potential delays or disruptions in cargo shipments and aviation services.",
+      "proximity_alert": "YAKIN TEHDİT: Odessa International Airport (5 km)"
+    }
+  },
+  {
+    "id": "dc007959f839adee9b29e25aee78d6ee",
+    "timestamp": "2025-12-25T17:24:23.241270",
+    "original_title": "Ukraine’s Storm Shadow Missiles Strike Deep Into Russia, Hitting Key Oil Refinery, Video",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pvhg6c/ukraines_storm_shadow_missiles_strike_deep_into/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Russia",
+      "latitude": 60.0,
+      "longitude": 100.0,
+      "detailed_analysis": "Ukraine's Storm Shadow missiles have struck deep into Russia, hitting a key oil refinery. This escalation in conflict poses significant risks to aviation and logistics in the region.",
+      "immediate_forecast_24h": "Increased military activity and potential for further strikes, impacting air traffic and logistics operations in the region.",
+      "strategic_outlook": "Long-term disruption to oil supplies and potential for further escalation in the conflict, affecting global energy markets and logistics.",
+      "operational_impact": "Potential for flight restrictions, increased security measures, and disruptions to supply chains in the region.",
+      "proximity_alert": null
+    }
   }
 ]
