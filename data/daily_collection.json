@@ -606,5 +606,62 @@
       "operational_impact": "Potential disruptions to air traffic, increased security measures for aviation and logistics operations in the region.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "bf40fb0e639d6157570a1c48ff2112b1",
+    "timestamp": "2025-12-25T15:27:37.657909",
+    "original_title": "India successfully tests nuclear-capable K-4 missile from INS Arighaat: Sources",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pvf3bl/india_successfully_tests_nuclearcapable_k4/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "India",
+      "latitude": 20.0,
+      "longitude": 77.0,
+      "detailed_analysis": "India's successful test of the nuclear-capable K-4 missile from INS Arighaat poses a significant threat to regional stability and security, potentially escalating tensions with neighboring countries.",
+      "immediate_forecast_24h": "Increased military activity and heightened alertness in the region, with potential for retaliatory actions or diplomatic fallout.",
+      "strategic_outlook": "Long-term implications for regional balance of power, with potential for an arms race or increased military spending among neighboring countries.",
+      "operational_impact": "Potential disruption to air and sea transport in the region, with increased risk of military conflict or accidental escalation affecting logistics and supply chains.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "aba146fd318a7cefd2cd7fc5f5b01266",
+    "timestamp": "2025-12-25T15:27:40.303485",
+    "original_title": "Nigeria: Rescued teacher reunites with family as last captives are freed",
+    "link": "http://www.africanews.com/2025/12/25/nigeria-rescued-teacher-reunites-with-family-as-last-captives-are-freed/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict/Crime",
+      "risk_score": 6,
+      "location": "Niger State, Nigeria",
+      "latitude": 10.0333,
+      "longitude": 5.2333,
+      "detailed_analysis": "The event involves the abduction of students and teachers from a school in Niger State, Nigeria, indicating a high level of insecurity and potential for future attacks on soft targets such as schools. The fact that the last captives have been freed does not necessarily mean the threat has been neutralized.",
+      "immediate_forecast_24h": "In the next 24 hours, there is a possibility of retaliatory attacks or further kidnappings in the region, especially if the perpetrators feel threatened or cornered. Security forces may increase their presence in the area.",
+      "strategic_outlook": "Long term, the region may experience increased instability and insecurity, potentially affecting transport and logistics operations. The threat of terrorism and crime may persist, requiring continuous monitoring and assessment.",
+      "operational_impact": "The operational impact on transport and logistics in the region may be significant, with potential disruptions to supply chains, increased security measures, and higher costs for transportation and insurance. Aviation and cargo operations may need to exercise extreme caution when operating in or near the affected area.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "0e5c2ae726096985b0188ace6d4d8600",
+    "timestamp": "2025-12-25T15:27:43.114458",
+    "original_title": "Qatar - Level 1: Exercise Normal Precautions",
+    "link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/qatar-travel-advisory.html",
+    "source_name": "US State Dept",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 6,
+      "location": "Qatar",
+      "latitude": 25.354826,
+      "longitude": 51.183884,
+      "detailed_analysis": "The Federal Aviation Administration (FAA) has issued a Notice to Airmen (NOTAM) and/or a Special Federal Aviation Regulation (SFAR) for Qatar due to risks to civil aviation from political and military tensions in the region.",
+      "immediate_forecast_24h": "No immediate threats are reported, but U.S. operators are advised to review current threat information and report safety or security incidents.",
+      "strategic_outlook": "Ongoing political and military tensions in the region may continue to pose risks to civil aviation, requiring continued vigilance and monitoring of the situation.",
+      "operational_impact": "Potential disruptions to air travel and cargo operations due to increased security measures or airspace restrictions, but no significant impact is expected at this time.",
+      "proximity_alert": null
+    }
   }
 ]
