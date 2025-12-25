@@ -435,5 +435,24 @@
       "operational_impact": "Enhanced security protocols for public venues and transport nodes, possible delays or rerouting of events due to security sweeps, and allocation of resources to protect personnel and critical infrastructure.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "ab25785fc866539d71b8314bed9f50ac",
+    "timestamp": "2025-12-25T08:36:58.862802",
+    "original_title": "Oil tanks catch fire after drone attack at Russian port - chinadailyasia.com",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5wZHBJdkhZTUZvLTZwMXBjS2tDelhRZXlpZTdlSDBQMnVxSzUydlFuSkhOakF5d2tHYjJ0YktxTTRHZWRtVW1rS1VSQmJ1NGJlaXN4UVdiTFA?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Temryuk, Russia",
+      "latitude": 45.0272,
+      "longitude": 37.0864,
+      "detailed_analysis": "A drone attack targeted the Russian Black Sea port of Temryuk, igniting two oil storage tanks and burning roughly 2,000 m². No casualties were reported, but 70 firefighters and 18 pieces of equipment were deployed. The strike demonstrates the vulnerability of critical energy infrastructure to hostile UAV operations, potentially affecting regional oil export capacity.",
+      "immediate_forecast_24h": "Further UAV activity is likely as both sides continue to contest the Black Sea corridor. Additional attacks on nearby ports (e.g., Taman) may occur, prompting heightened air‑defense alerts and possible temporary suspension of loading operations.",
+      "strategic_outlook": "Sustained drone campaigns could degrade Russia’s oil export throughput, influencing global oil markets and escalating the Russia‑Ukraine conflict. Persistent threats may drive investments in hardened infrastructure, counter‑UAV systems, and alternative routing of petroleum products.",
+      "operational_impact": "Port operations are disrupted: loading/unloading schedules are delayed, storage capacity is reduced, and insurance premiums for cargo handling rise. Supply‑chain planners should anticipate longer transit times for oil shipments from the Black Sea and consider rerouting via alternative terminals or overland routes.",
+      "proximity_alert": null
+    }
   }
 ]
