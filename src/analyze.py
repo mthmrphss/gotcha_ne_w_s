@@ -7,10 +7,10 @@ import requests
 import math
 from datetime import datetime, timedelta
 from groq import Groq
-from dotenv import load_dotenv  # <--- EKLENDI: .env okumak için
+from dotenv import load_dotenv
 
 # --- ORTAM DEĞİŞKENLERİNİ YÜKLE ---
-load_dotenv()  # .env dosyasındaki şifreleri yükler
+load_dotenv()
 
 # --- AYARLAR ---
 ASSETS_FILE = "assets.json"
@@ -18,7 +18,7 @@ HISTORY_FILE = "data/history.json"
 OUTPUT_FILE = "data/latest_alerts.json"
 DAILY_COLLECTION_FILE = "data/daily_collection.json"
 
-# API Key kontrolü (Hata varsa baştan uyarır)
+# API Key kontrolü
 if not os.getenv("GROQ_API_KEY"):
     raise ValueError("HATA: .env dosyasında GROQ_API_KEY bulunamadı!")
 
@@ -114,9 +114,12 @@ def calculate_distance(lat1, lon1, lat2, lon2):
     c = 2 * math.atan2(math.sqrt(a), math.sqrt(1-a))
     return R * c
 
+# --- GÜNCELLENEN FONKSİYON ---
 def analyze_with_groq(title, summary):
-    # API Key otomatik olarak os.environ'dan alınır
     client = Groq(api_key=os.environ.get("GROQ_API_KEY"))
+    
+    # Hata veren 'compound' yerine daha stabil ve yüksek limitli model seçildi
+    MODEL_ID = "llama-3.3-70b-versatile"
     
     prompt = f"""
     ACT AS: Security Operations Center (SOC) Analyst.
@@ -145,18 +148,34 @@ def analyze_with_groq(title, summary):
         "operational_impact": "Impact on transport/logistics..."
     }}
     """
-    try:
-        # Resmi Groq Çağrısı
-        response = client.chat.completions.create(
-            model="groq/compound", # En güçlü ve hızlı modellerden biri
-            messages=[{"role": "user", "content": prompt}],
-            temperature=0, # Analiz için tutarlılık önemli
-            response_format={"type": "json_object"} # JSON dönmesini garantiye alır
-        )
-        return json.loads(response.choices[0].message.content)
-    except Exception as e:
-        print(f"AI Error: {e}")
-        return None
+    
+    # Retry (Yeniden Deneme) Mekanizması
+    max_retries = 3
+    for attempt in range(max_retries):
+        try:
+            response = client.chat.completions.create(
+                model=MODEL_ID,
+                messages=[{"role": "user", "content": prompt}],
+                temperature=0,
+                response_format={"type": "json_object"},
+                max_tokens=1024 # Token kontrolü
+            )
+            return json.loads(response.choices[0].message.content)
+            
+        except Exception as e:
+            error_msg = str(e)
+            print(f"⚠️ AI Error (Attempt {attempt+1}/{max_retries}): {error_msg}")
+            
+            # Rate limit (429) hatası ise bekle ve tekrar dene
+            if "429" in error_msg:
+                wait_time = 5 * (attempt + 1)
+                print(f"⏳ Rate limit hit. Waiting {wait_time}s...")
+                time.sleep(wait_time)
+            else:
+                # Başka bir hataysa (JSON hatası vb.) direkt çık
+                return None
+    
+    return None
 
 def update_daily_collection(new_alerts):
     if not new_alerts: return
@@ -224,7 +243,7 @@ def main():
             if news_hash in processed_hashes: continue
             
             print(f"\n>>> Analyzing: {title}")
-            analysis = analyze_with_groq(title, summary) # Fonksiyon adı güncellendi
+            analysis = analyze_with_groq(title, summary)
             
             if analysis:
                 score = analysis.get('risk_score', 0)
