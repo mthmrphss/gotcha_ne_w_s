@@ -2069,5 +2069,81 @@
       "operational_impact": "Potential disruptions to transport and logistics operations in northern Israel, including road closures and increased security checks. Cargo and personnel movement may be affected, with possible delays or rerouting of shipments.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "8bc77b2810481e9ae14731c7a9e63cef",
+    "timestamp": "2025-12-26T14:27:27.011953",
+    "original_title": "2 Killed in Car Ramming and Stabbing in Israel, Authorities Say",
+    "link": "https://www.nytimes.com/2025/12/26/world/middleeast/israel-car-ramming.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Terrorism/Civil Unrest/Conflict",
+      "risk_score": 8,
+      "location": "Israel",
+      "latitude": 31.7833,
+      "longitude": 35.2167,
+      "detailed_analysis": "A car ramming and stabbing attack in Israel has resulted in 2 fatalities, occurring amid heightened tensions between Israelis and Palestinians in the Israeli-occupied West Bank. This incident poses a significant threat to personnel and could potentially disrupt cargo and aviation operations in the region.",
+      "immediate_forecast_24h": "Increased security measures are expected in the region, potentially causing delays or disruptions to transport and logistics operations. Further clashes or attacks cannot be ruled out, given the current heightened tensions.",
+      "strategic_outlook": "The ongoing conflict between Israelis and Palestinians may lead to continued instability in the region, posing long-term risks to assets, cargo, aviation, and personnel. Enhanced security protocols and contingency planning are essential for mitigating these risks.",
+      "operational_impact": "Transport and logistics operations in the region may be affected by increased security checks, potential roadblocks, or other measures aimed at preventing further attacks. Aviation operations may also be impacted, particularly if the situation escalates or if there are concerns about the safety of aircraft or passengers.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "55ebcc1581b6620eaab8588df7d582da",
+    "timestamp": "2025-12-26T14:27:28.855085",
+    "original_title": "6 Killed in Syria Mosque Blast, Government Says",
+    "link": "https://www.nytimes.com/2025/12/26/world/middleeast/syria-homs-mosque-explosion.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Civil Unrest",
+      "risk_score": 8,
+      "location": "Syria",
+      "latitude": 35.0,
+      "longitude": 38.0,
+      "detailed_analysis": "Explosion at a mosque in Syria resulted in 6 fatalities, with no group claiming responsibility. The incident occurred during Friday Prayer, indicating a potential targeting of civilians or places of worship.",
+      "immediate_forecast_24h": "Increased security measures are expected in the vicinity of mosques and other public gathering places. Potential for retaliatory attacks or further unrest in the region.",
+      "strategic_outlook": "The ongoing conflict in Syria continues to pose a significant threat to regional stability, with potential spillover effects into neighboring countries. The lack of claim of responsibility may indicate a complex web of actors involved.",
+      "operational_impact": "Transportation and logistics operations in the region may be affected due to increased security checks, potential roadblocks, or airspace restrictions. Personnel and assets in the area should exercise extreme caution.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "9dffc3fbc093cb9df926f31c89ec1e37",
+    "timestamp": "2025-12-26T14:27:31.683629",
+    "original_title": "NATO chief Rutte: China and Russia Could Launch Simultaneous Attacks on Taiwan and Europe",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pw4zkb/nato_chief_rutte_china_and_russia_could_launch/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Taiwan and Europe",
+      "latitude": 25.033,
+      "longitude": 121.633,
+      "detailed_analysis": "NATO chief warns of potential simultaneous attacks by China and Russia on Taiwan and Europe, posing a significant threat to regional stability and global security.",
+      "immediate_forecast_24h": "Heightened tensions and increased military presence in the region, potential for miscalculations or accidental clashes.",
+      "strategic_outlook": "Long-term escalation of tensions between major world powers, potentially leading to a broader conflict with significant implications for global trade, security, and stability.",
+      "operational_impact": "Potential disruptions to air and sea transportation, increased security measures, and possible restrictions on cargo and personnel movement in the affected regions.",
+      "proximity_alert": "YAKIN TEHDİT: Taiwan Taoyuan International Airport (7 km)"
+    }
+  },
+  {
+    "id": "0bc346c901ad16c1e210b0fdd07bb94f",
+    "timestamp": "2025-12-26T14:27:34.519914",
+    "original_title": "US cooperation with Nigerian government targets Islamic State group",
+    "link": "https://www.france24.com/en/video/20251226-us-cooperation-with-nigerian-government-targets-islamic-state-group",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Terrorism/Aviation/Conflict",
+      "risk_score": 8,
+      "location": "Nigeria",
+      "latitude": 9.081999,
+      "longitude": 8.675277,
+      "detailed_analysis": "US cooperation with the Nigerian government has led to precision air strikes targeting the Islamic State group, resulting in the death of multiple militants. This indicates a heightened level of counter-terrorism operations in the region.",
+      "immediate_forecast_24h": "Increased security measures are expected in Nigeria, particularly in areas known to have Islamic State group activity. There may be a heightened risk of retaliatory attacks or further military operations.",
+      "strategic_outlook": "The cooperation between the US and Nigeria is likely to continue, leading to sustained pressure on terrorist groups in the region. This could lead to a decrease in terrorist activity over time, but may also lead to increased instability in the short term.",
+      "operational_impact": "The air strikes and increased military presence may impact aviation operations in Nigeria, particularly in terms of security screening and potential flight disruptions. Cargo and logistics operations may also be affected, especially if there are concerns about the safety of transport routes.",
+      "proximity_alert": null
+    }
   }
 ]
