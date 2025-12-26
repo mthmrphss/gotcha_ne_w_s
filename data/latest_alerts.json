@@ -1,43 +1,5 @@
 [
   {
-    "id": "6204c64bb9f4184c5b7717ff71fd67fd",
-    "timestamp": "2025-12-26T10:29:22.491980",
-    "original_title": "US Orders Military to Enforce ‘Quarantine’ of Venezuelan Oil - Marine News Magazine",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWEhOeHVnZV9mUS1pS0d0QWFrQ202d1hsTFhMQ1dvWkFQOFp4YzV2OUY0aEFNSVQ4UjVjRUxZV2t4aldzMDd0VjJiaXBXazlpZENoRmluZVpUUld4VDhoT2pEam8wVEJNT2VhcTBxTkVJalBGRmpTV0ROUjczWGVUUVl3?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 8,
-      "location": "Venezuela, South America",
-      "latitude": 7.0,
-      "longitude": -67.0,
-      "detailed_analysis": "The US has ordered the military to enforce a 'quarantine' of Venezuelan oil, which could lead to increased tensions and potential conflict in the region, affecting maritime trade and logistics.",
-      "immediate_forecast_24h": "Increased naval presence in the region, potential disruptions to oil shipments, and heightened security measures for vessels and personnel.",
-      "strategic_outlook": "Long-term implications for global oil markets, potential escalation of conflict, and impact on regional stability.",
-      "operational_impact": "Potential delays or disruptions to cargo shipments, increased security protocols for vessels and personnel, and heightened risk of piracy or other maritime threats.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "34e92c450792f474a88cd1f2da4a1007",
-    "timestamp": "2025-12-26T10:29:28.979533",
-    "original_title": "Zelensky holds talks with US negotiators, as fighting continues on the Ukrainian ground",
-    "link": "https://www.france24.com/en/video/20251226-zelensky-holds-talks-with-us-negotiators-as-fighting-continues-on-the-ukrainian-ground",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict/Civil Unrest",
-      "risk_score": 8,
-      "location": "Ukraine",
-      "latitude": 49.0,
-      "longitude": 32.0,
-      "detailed_analysis": "Ongoing fighting between Ukrainian and Russian forces, with over 100 missiles launched into Ukraine overnight, poses a significant threat to assets, cargo, aviation, and personnel in the region.",
-      "immediate_forecast_24h": "Continued clashes and potential escalation of violence, despite diplomatic efforts towards a peace agreement.",
-      "strategic_outlook": "Prolonged conflict may lead to increased instability, disruption of supply chains, and heightened security risks for transport and logistics operations in the region.",
-      "operational_impact": "Potential for disruptions to air traffic, cargo transport, and personnel movements due to ongoing conflict and missile strikes.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "c55802cc297e227c02debe986d725dd3",
     "timestamp": "2025-12-26T10:49:15.721641",
     "original_title": "Why has Trump ordered strikes in Nigeria and what has it got to do with the persecution of Christians? - The Guardian",
@@ -148,6 +110,44 @@
       "immediate_forecast_24h": "No significant changes expected in the next 24 hours, but travelers should remain cautious and follow local guidelines.",
       "strategic_outlook": "Long-term stability in the region is uncertain due to ongoing separatist activity and the presence of landmines, which may impact travel and logistics.",
       "operational_impact": "Transport and logistics operations in the Casamance region may be affected by the increased risk of crime and the presence of landmines, requiring additional security measures and precautions.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "34fd7b42afc6482a33b8081cdcb183e9",
+    "timestamp": "2025-12-26T11:42:23.303344",
+    "original_title": "Operation Hawkeye: US Attack on ISIS in Syria Leaves Open Questions - Military.com",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSFRQYmFkUnBfWlJfN3REOXdfTS1Fa1Jkejc0enk2U0h2QnBNeHhadjZGVWVyQ2lYWlI5dllwWnZnRzl5RjFxeDlQV29VeTRTd1RHUDQwY0ZybFAtQVBfazZOWkU3eG04ZzhPMVJNcHdvRzFJMTFjMDBtUDZYaVBKRXZKVFlEdE4tMDI5LURGaFFjelA0NV9CRXVMMmlwQjhnZlpIZFl5cmpQNlVwQ3F2OG5lSlpVcHlDVUZIa2lZajVXX0U?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "Syria",
+      "latitude": 35.0,
+      "longitude": 38.0,
+      "detailed_analysis": "US attack on ISIS in Syria may lead to retaliatory actions against US assets, cargo, aviation, and personnel. The operation's impact on regional stability and potential escalation of conflict pose significant risks.",
+      "immediate_forecast_24h": "Increased security measures are expected in the region, with potential for retaliatory attacks or drone sightings. Aviation and cargo operations may be affected by heightened security protocols.",
+      "strategic_outlook": "Long-term, the operation may lead to a shift in regional dynamics, with potential for increased conflict or instability. This could impact transport and logistics operations in the region, requiring enhanced security measures and contingency planning.",
+      "operational_impact": "Transport and logistics operations in the region may be impacted by increased security measures, potential airspace restrictions, and heightened risk of retaliatory attacks. Cargo and aviation operations should exercise extreme caution and consider alternative routes or enhanced security protocols.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "a8ceb381aea638ffffcaaf8f9aa3c6d9",
+    "timestamp": "2025-12-26T11:42:29.220918",
+    "original_title": "Deadly blast hits Alawite mosque in Syria's Homs province",
+    "link": "https://www.france24.com/en/middle-east/20251226-blast-alawite-mosque-in-syria-homs-province-kills-least-five",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Civil Unrest",
+      "risk_score": 8,
+      "location": "Homs, Syria",
+      "latitude": 34.7333,
+      "longitude": 36.7114,
+      "detailed_analysis": "A deadly blast hit an Alawite mosque in Homs province, Syria, resulting in at least five deaths and 21 injuries. This incident indicates a high level of sectarian tension and potential for further violence, posing a significant threat to personnel and assets in the region.",
+      "immediate_forecast_24h": "Increased security measures are expected in the Homs province, with potential for retaliatory attacks or further violence. Aviation and cargo operations in the region may be impacted by heightened security protocols.",
+      "strategic_outlook": "The long-term outlook for the region remains unstable, with ongoing conflict and sectarian tensions posing a persistent threat to assets, cargo, aviation, and personnel. The risk of terrorism and civil unrest is likely to remain elevated, requiring continued vigilance and adaptive security measures.",
+      "operational_impact": "The blast may impact transport and logistics operations in the region, particularly for personnel and cargo transiting through or near Homs province. Aviation operations may also be affected, with potential for increased security screening, route changes, or other precautions to mitigate the risk of further attacks.",
       "proximity_alert": null
     }
   }
