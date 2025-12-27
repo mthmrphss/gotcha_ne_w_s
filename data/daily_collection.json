@@ -3589,5 +3589,43 @@
       "operational_impact": "Potential disruptions to air traffic, increased security measures at airports, and heightened risk of attacks on logistics and transportation infrastructure in the region.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "4b6b0821891766ffc15cce66dbc002d3",
+    "timestamp": "2025-12-27T15:43:25.978445",
+    "original_title": "Russia pummels Kyiv ahead of Zelensky-Trump meeting",
+    "link": "https://www.france24.com/en/video/20251227-russia-pummels-kyiv-ahead-of-zelensky-trump-meeting",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 10,
+      "location": "Kyiv, Ukraine",
+      "latitude": 50.4501,
+      "longitude": 30.5236,
+      "detailed_analysis": "Russia's drone and missile attack on Kyiv indicates a heightened state of conflict, posing significant threats to aviation, personnel, and potentially cargo. The attack's timing ahead of the Zelensky-Trump meeting suggests an attempt to exert pressure or disrupt diplomatic efforts.",
+      "immediate_forecast_24h": "Increased military activity and potential for further attacks on Ukrainian cities, including Kyiv. Elevated risk of drone sightings and missile strikes affecting aviation and ground operations.",
+      "strategic_outlook": "Long-term escalation of the conflict could lead to sustained disruptions in logistics, aviation, and personnel safety. The situation may prompt increased security measures and potential restrictions on air travel and cargo transport in the region.",
+      "operational_impact": "Immediate disruptions to power and essential services in Kyiv, with potential knock-on effects for transport and logistics operations. Elevated risk environment may necessitate enhanced security protocols for personnel and assets in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
+    }
+  },
+  {
+    "id": "fed6f70aaffbc21ef9fe010af87aa2ef",
+    "timestamp": "2025-12-27T15:43:27.963498",
+    "original_title": "Russian drones, missiles pound Ukraine ahead of Zelensky's US visit",
+    "link": "https://www.france24.com/en/video/20251227-russian-drones-missiles-pound-ukraine-ahead-of-zelensky-s-us-visit",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 10,
+      "location": "Kyiv, Ukraine",
+      "latitude": 50.4501,
+      "longitude": 30.5236,
+      "detailed_analysis": "Russian drones and missiles have attacked Kyiv and other parts of Ukraine, posing a significant threat to aviation and personnel in the region. The attack comes ahead of a crucial meeting between Ukrainian President Volodymyr Zelensky and US President Donald Trump to discuss a plan to end the ongoing war.",
+      "immediate_forecast_24h": "Increased military activity and potential for further drone and missile attacks in the region, posing a high risk to aviation and personnel. Disruptions to air traffic and logistics are likely.",
+      "strategic_outlook": "The ongoing conflict between Russia and Ukraine is expected to continue, with potential for further escalation and increased risk to aviation, cargo, and personnel in the region. Long-term instability and security concerns may impact transport and logistics operations.",
+      "operational_impact": "The attack may cause disruptions to air traffic, logistics, and transport operations in the region. Cargo and personnel may be at risk due to the increased military activity, and transport companies may need to take additional security measures to ensure safe operations.",
+      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
+    }
   }
 ]

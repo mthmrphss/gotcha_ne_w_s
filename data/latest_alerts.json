@@ -1,24 +1,5 @@
 [
   {
-    "id": "c8a3f3b81e9a8df424fc6f539ef14c7e",
-    "timestamp": "2025-12-27T14:24:45.215052",
-    "original_title": "Analysis: ISIL attacks could undermine US-Syria security collaboration - Al Jazeera",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ0VkUXRseElEcXJrbEVtQ3N1QWdicnA3QWxLU2JLdTJqNHpaVVI4NGg2VWlrTzdPV0tsOWN0RFJJUUU5R1JmbjZTTl9ZMmdvaFhCdUE1dU9xVWIyRl9welVBVGplQm5QVzNtaTlTN1JsRmF2akNscVRHX2E0eEM5X3BRXzJwRXdwQ2VXN1hFT09ZdWptWjhPYjRpM3REeFV2QXA0M2xSQlc1OUVibEpxOGY2QWNkd9IBuwFBVV95cUxQSFdYZDEyRHpySllZWDNNMm8tVDlRbVBxS2w4Ukg3TUJKSVg0NDBtU3pEMUFOT1ZrTmNyS2xpMGRUSXV2NFRieHdETktGUVZSLTE5MGdCRVV4Tk5ibzlNa0h1aGRLbThYNkVmSHJ3SFFKY2dYOVVhMndoc19jaVhhNVlOV2h2cUtFQk84R04tUmZhT1NScUxiNTFFNUxKNjFzaEExS1QtOHdPT1kwODgyVXlNRFk0LTFVTVhj?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Terrorism/Conflict",
-      "risk_score": 7,
-      "location": "Syria",
-      "latitude": 35.0,
-      "longitude": 38.0,
-      "detailed_analysis": "ISIL attacks could undermine US-Syria security collaboration, posing a threat to regional stability and potentially impacting aviation and cargo operations.",
-      "immediate_forecast_24h": "Increased security measures are expected in the region, with potential for heightened tensions and clashes between US-backed forces and ISIL militants.",
-      "strategic_outlook": "Long-term collaboration between the US and Syria may be compromised, leading to a power vacuum that could be exploited by extremist groups, further destabilizing the region.",
-      "operational_impact": "Potential disruptions to aviation and cargo operations, including increased security screenings, route changes, and possible suspension of services to affected areas.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "4ce98e44efa1be687bdce5a128885dfa",
     "timestamp": "2025-12-27T15:25:40.931674",
     "original_title": "Army chief says Switzerland can’t defend itself from full-scale attack - whbl.com",
@@ -73,6 +54,44 @@
       "strategic_outlook": "Long-term instability in Yemen could lead to increased security risks for aviation and cargo operations, as well as potential spillover effects into neighboring countries.",
       "operational_impact": "Potential disruptions to air traffic, increased security measures at airports, and heightened risk of attacks on logistics and transportation infrastructure in the region.",
       "proximity_alert": null
+    }
+  },
+  {
+    "id": "4b6b0821891766ffc15cce66dbc002d3",
+    "timestamp": "2025-12-27T15:43:25.978445",
+    "original_title": "Russia pummels Kyiv ahead of Zelensky-Trump meeting",
+    "link": "https://www.france24.com/en/video/20251227-russia-pummels-kyiv-ahead-of-zelensky-trump-meeting",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 10,
+      "location": "Kyiv, Ukraine",
+      "latitude": 50.4501,
+      "longitude": 30.5236,
+      "detailed_analysis": "Russia's drone and missile attack on Kyiv indicates a heightened state of conflict, posing significant threats to aviation, personnel, and potentially cargo. The attack's timing ahead of the Zelensky-Trump meeting suggests an attempt to exert pressure or disrupt diplomatic efforts.",
+      "immediate_forecast_24h": "Increased military activity and potential for further attacks on Ukrainian cities, including Kyiv. Elevated risk of drone sightings and missile strikes affecting aviation and ground operations.",
+      "strategic_outlook": "Long-term escalation of the conflict could lead to sustained disruptions in logistics, aviation, and personnel safety. The situation may prompt increased security measures and potential restrictions on air travel and cargo transport in the region.",
+      "operational_impact": "Immediate disruptions to power and essential services in Kyiv, with potential knock-on effects for transport and logistics operations. Elevated risk environment may necessitate enhanced security protocols for personnel and assets in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
+    }
+  },
+  {
+    "id": "fed6f70aaffbc21ef9fe010af87aa2ef",
+    "timestamp": "2025-12-27T15:43:27.963498",
+    "original_title": "Russian drones, missiles pound Ukraine ahead of Zelensky's US visit",
+    "link": "https://www.france24.com/en/video/20251227-russian-drones-missiles-pound-ukraine-ahead-of-zelensky-s-us-visit",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 10,
+      "location": "Kyiv, Ukraine",
+      "latitude": 50.4501,
+      "longitude": 30.5236,
+      "detailed_analysis": "Russian drones and missiles have attacked Kyiv and other parts of Ukraine, posing a significant threat to aviation and personnel in the region. The attack comes ahead of a crucial meeting between Ukrainian President Volodymyr Zelensky and US President Donald Trump to discuss a plan to end the ongoing war.",
+      "immediate_forecast_24h": "Increased military activity and potential for further drone and missile attacks in the region, posing a high risk to aviation and personnel. Disruptions to air traffic and logistics are likely.",
+      "strategic_outlook": "The ongoing conflict between Russia and Ukraine is expected to continue, with potential for further escalation and increased risk to aviation, cargo, and personnel in the region. Long-term instability and security concerns may impact transport and logistics operations.",
+      "operational_impact": "The attack may cause disruptions to air traffic, logistics, and transport operations in the region. Cargo and personnel may be at risk due to the increased military activity, and transport companies may need to take additional security measures to ensure safe operations.",
+      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
     }
   }
 ]
