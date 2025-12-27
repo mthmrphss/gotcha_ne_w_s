@@ -1,43 +1,5 @@
 [
   {
-    "id": "3a95f2045f536254246b9cd85b4cbf6e",
-    "timestamp": "2025-12-27T16:32:38.699247",
-    "original_title": "FBI Foils Alleged New Year’s Eve Terror Attack Plot in Los Angeles - lamag.com",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TczBhUWZlY0NsQ2d4ZUpUeGJmYTJRVzhOV1haS1JGcW9CcVV1WnJnSUcyNFlOZlp3UWlDTnBRYnRsNWNNU1NMNzNaWEdZejRtZnBRM1oyWmpRLUdLcmx6Nw?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Terrorism/Aviation/Crime",
-      "risk_score": 10,
-      "location": "Los Angeles, USA",
-      "latitude": 34.0522,
-      "longitude": -118.2437,
-      "detailed_analysis": "The FBI has foiled an alleged terror attack plot in Los Angeles on New Year's Eve, indicating a high level of threat to public safety and security, potentially impacting aviation and logistics in the region.",
-      "immediate_forecast_24h": "Increased security measures are expected in the Los Angeles area, particularly around major transportation hubs and public gathering points, which may cause minor disruptions to logistics and transport operations.",
-      "strategic_outlook": "The foiled plot highlights the ongoing threat of terrorism and the need for continued vigilance and cooperation between law enforcement agencies and the public to prevent such incidents, potentially leading to long-term enhancements in security protocols and intelligence sharing.",
-      "operational_impact": "The immediate impact on transport and logistics is expected to be minimal, but the event may lead to increased security checks and screenings at airports and other transportation hubs, potentially causing delays and requiring adjustments in operational planning.",
-      "proximity_alert": "YAKIN TEHDİT: Los Angeles International Airport (20 km)"
-    }
-  },
-  {
-    "id": "7834ab0971daf234cd77102845fba64e",
-    "timestamp": "2025-12-27T16:32:44.640295",
-    "original_title": "Russia says it used missiles, drones to attack Ukraine, ahead of Zelenskyy-Trump peace talks in U.S. | CBC News",
-    "link": "https://www.reddit.com/r/worldnews/comments/1px1wo4/russia_says_it_used_missiles_drones_to_attack/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict/Aviation",
-      "risk_score": 10,
-      "location": "Kyiv, Ukraine",
-      "latitude": 50.4333,
-      "longitude": 30.5167,
-      "detailed_analysis": "Russia has used missiles and drones to attack Ukraine, which poses a significant threat to aviation and personnel in the region. The attack comes ahead of peace talks between Zelenskyy and Trump in the U.S.",
-      "immediate_forecast_24h": "Increased tensions and potential for further attacks in the region, which may impact flight operations and personnel safety.",
-      "strategic_outlook": "The conflict in Ukraine is likely to continue, with potential for escalation, which may have long-term impacts on regional stability and global security.",
-      "operational_impact": "Potential disruptions to air traffic, increased security measures, and risks to personnel and assets in the region.",
-      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
-    }
-  },
-  {
     "id": "9fcb4a0f30ed7ae4513046a25d346e42",
     "timestamp": "2025-12-27T17:23:26.450594",
     "original_title": "US launches strikes against Islamic State in Nigeria - BBC",
@@ -91,6 +53,25 @@
       "immediate_forecast_24h": "Increased military presence and potential for retaliatory actions, with heightened security measures at airports and surrounding areas.",
       "strategic_outlook": "Long-term implications for regional security and potential for increased foreign military involvement, with possible effects on cargo transport and logistics in the area.",
       "operational_impact": "Potential disruptions to air traffic and logistics operations, with increased security protocols and possible rerouting of flights and cargo shipments.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "3d08eea06b5cbaa3475d1b87a2cac917",
+    "timestamp": "2025-12-27T17:42:55.421085",
+    "original_title": "US air strikes won’t fix Nigeria’s security crisis but could make it worse - Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPR3gxdDlDNjZRTWh2RldZOC1wRml6VU1qVzFPSFJyc1Z1bGtOYnJtaG9CZ3hZd2hvZkpmM1BhSndUY1RteS1VLUtrZmxPNUxhQmVJU0tEcXFzYk5oLUs1ME5zYUpRU1BnRTFrTDJlb2tSNG5haWtqQ0R2OUdYTjNENmNRcXJBTkh3QnhxZU1EdnJFWko1ZzJvWllxZk1QUmgyODgzN1pyenBuMzNUUzhWajZCLTFZV2ZaUVHSAb8BQVVfeXFMTWJQUGg1RS1aNkRUWmxXZ3hBX2daaWlEcTk3MzBMZ0thVWYyY090NjQwMmpnWlBxbW5ZTzRqaGZ6bmhDMzEtSXJIZmpfNnRKUGNyanFIMkZWMFBiWnlCTF9Xc2VUWDJ6QWFKRnotR0htVV85NU05VEVBMkp4WVJ5NDRjQmdCSUljNVJmeTBVcFNKY1NRZVdaWGdUZmhIZEhsZnp5a2F1ak1MMExwU294SVltcVdRTTJLUFQtT3J3S0k?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 7,
+      "location": "Nigeria",
+      "latitude": 9.081999,
+      "longitude": 8.675277,
+      "detailed_analysis": "US air strikes in Nigeria may exacerbate the existing security crisis, potentially leading to increased instability and violence, affecting aviation, cargo, and personnel safety.",
+      "immediate_forecast_24h": "Heightened tensions and potential for retaliatory attacks or protests, impacting transport and logistics operations in the region.",
+      "strategic_outlook": "Long-term instability in Nigeria could lead to sustained security threats, affecting trade and economic development, with potential spillover effects into neighboring countries.",
+      "operational_impact": "Increased risk of disruptions to air travel, cargo transport, and personnel movements, with potential for evacuation or relocation of staff and assets.",
       "proximity_alert": null
     }
   }
