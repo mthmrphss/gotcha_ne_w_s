@@ -3399,5 +3399,62 @@
       "operational_impact": "Potential disruptions to air travel and cargo operations, increased security screening and protocols, possible restrictions on personnel movement in the region.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "929a11c1240ddaea4588c9d6ac003693",
+    "timestamp": "2025-12-27T12:53:11.263361",
+    "original_title": "Fifteen injured in knife and chemical attack at tyre factory in Japan",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pwwpwr/fifteen_injured_in_knife_and_chemical_attack_at/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Terrorism/Crime/Civil Unrest",
+      "risk_score": 10,
+      "location": "Japan",
+      "latitude": 35.6895,
+      "longitude": 139.767,
+      "detailed_analysis": "A knife and chemical attack at a tyre factory in Japan has resulted in 15 injuries, indicating a potential threat to personnel and industrial sites. The attack's motivation and perpetrator are unknown, raising concerns about potential copycat incidents or further escalation.",
+      "immediate_forecast_24h": "Increased security measures are expected at industrial sites and public areas, with potential disruptions to operations and logistics. The incident may also lead to heightened tensions and vigilance among the public and authorities.",
+      "strategic_outlook": "This incident highlights the need for enhanced security protocols and emergency response plans at industrial sites, particularly those with high-risk chemical materials. Long-term, it may lead to increased investment in security measures and intelligence gathering to prevent similar attacks.",
+      "operational_impact": "The attack may cause short-term disruptions to the tyre factory's operations and potentially impact the supply chain. However, the overall impact on transport and logistics is expected to be minimal, as the incident is localized and not directly related to critical infrastructure or major transportation hubs.",
+      "proximity_alert": "YAKIN TEHDİT: Haneda Airport (16 km)"
+    }
+  },
+  {
+    "id": "d3a6fab5539960a473ff42b4d1d506dc",
+    "timestamp": "2025-12-27T12:53:13.772759",
+    "original_title": "Deadly blast hits Alawite mosque in Syria's Homs",
+    "link": "https://www.france24.com/en/video/20251227-deadly-blast-hits-alawite-mosque-in-syria-s-homs",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "Homs, Syria",
+      "latitude": 34.7333,
+      "longitude": 36.7097,
+      "detailed_analysis": "A deadly blast hit an Alawite mosque in Homs province, Syria, resulting in at least eight fatalities and 18 injuries. An Islamist militant group has claimed responsibility for the attack, indicating a high level of terrorist activity in the region.",
+      "immediate_forecast_24h": "Increased security measures are expected in the vicinity of the blast, with potential for retaliatory attacks or further violence in the short term.",
+      "strategic_outlook": "The ongoing conflict in Syria continues to pose a significant threat to regional stability, with potential for escalation of violence and further attacks on civilian targets.",
+      "operational_impact": "The attack may impact transport and logistics operations in the region, particularly for personnel and cargo transiting through or near Homs province, due to increased security risks and potential for further violence.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "7634220c127b273a70562a2bed3fcbdf",
+    "timestamp": "2025-12-27T12:53:15.530124",
+    "original_title": "Saudi Arabia demands Yemen separatists withdraw forces 'peacefully'",
+    "link": "https://www.france24.com/en/live-news/20251227-saudi-arabia-demands-yemen-separatists-withdraw-forces",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 7,
+      "location": "Hadramawt, Yemen",
+      "latitude": 16.0,
+      "longitude": 49.0,
+      "detailed_analysis": "Saudi Arabia's demand for Yemen separatists to withdraw forces 'peacefully' indicates a heightened state of tension and potential for military confrontation, which could impact aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Increased military activity and potential airstrikes in the region, posing a risk to aviation and cargo transport.",
+      "strategic_outlook": "Prolonged conflict could lead to instability in the region, affecting trade routes and logistics, with potential for spillover into neighboring countries.",
+      "operational_impact": "Possible disruptions to air traffic, cargo transport, and personnel movement in the region, with increased security measures and potential for airspace restrictions.",
+      "proximity_alert": null
+    }
   }
 ]
