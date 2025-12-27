@@ -2867,5 +2867,24 @@
       "operational_impact": "The attack may disrupt air traffic and logistics in Ukraine, posing a significant risk to cargo and personnel. Airlines and logistics companies should exercise caution and consider alternative routes or measures to mitigate the risks.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "5f5714105384f831a5f81cdbe7d52a3c",
+    "timestamp": "2025-12-27T07:41:47.462828",
+    "original_title": "Live: Russia attacks Kyiv with missiles and drones, injuring at least 8",
+    "link": "https://www.france24.com/en/europe/20251227-live-poland-temporarily-closes-two-airports-after-russian-strikes-on-ukraine",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 10,
+      "location": "Kyiv, Ukraine",
+      "latitude": 50.4501,
+      "longitude": 30.5236,
+      "detailed_analysis": "Russia's attack on Kyiv with missiles and drones has resulted in injuries and emergency power cuts, indicating a significant threat to aviation and personnel in the region.",
+      "immediate_forecast_24h": "Further attacks are possible, and Poland's decision to scramble fighter jets and close airports suggests a heightened state of alert in the region, potentially disrupting air traffic and logistics.",
+      "strategic_outlook": "The ongoing conflict between Russia and Ukraine continues to pose a significant threat to regional stability, with potential long-term impacts on aviation, cargo, and personnel safety.",
+      "operational_impact": "The attacks and subsequent emergency measures may cause delays or disruptions to flights, cargo transport, and logistics operations in the region, with potential ripple effects on global supply chains.",
+      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
+    }
   }
 ]
