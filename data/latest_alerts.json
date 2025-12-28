@@ -1,24 +1,5 @@
 [
   {
-    "id": "37c2da3021628ad6da3fe2b5ad9f9ace",
-    "timestamp": "2025-12-28T14:45:44.240806",
-    "original_title": "Clashes erupt in Syria as Alawite minority protests deadly Homs mosque bombing",
-    "link": "https://www.france24.com/en/middle-east/20251228-clashes-erupt-syria-alawite-minority-protests-deadly-homs-mosque-bombing",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict/Civil Unrest",
-      "risk_score": 6,
-      "location": "Latakia, Syria",
-      "latitude": 35.5333,
-      "longitude": 35.7833,
-      "detailed_analysis": "Clashes between Alawite minority protesters and security forces in Latakia and Tartous, following a deadly mosque bombing in Homs, pose a significant threat to personnel and assets in the region.",
-      "immediate_forecast_24h": "Further protests and clashes are likely, potentially spreading to other areas, and may impact local transportation and logistics.",
-      "strategic_outlook": "The ongoing conflict in Syria continues to pose a long-term risk to regional stability, with potential for escalation and spillover into neighboring countries.",
-      "operational_impact": "Transportation and logistics operations in the region may be disrupted due to the unrest, and personnel may be at risk of injury or kidnapping.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "ca3eecbedd95137a9e60efc8eec1ecfb",
     "timestamp": "2025-12-28T15:26:18.673170",
     "original_title": "West Dallas security guard questioned after fatal parking lot shooting - FOX 4 News Dallas-Fort Worth",
@@ -111,6 +92,25 @@
       "strategic_outlook": "The long-term impact of this incident will depend on the findings of the investigation. If the crash was due to a mechanical failure or human error, it may lead to changes in maintenance procedures or pilot training. If the crash was intentional, it could have significant implications for aviation security.",
       "operational_impact": "The crash may cause disruptions to local air traffic, and there may be increased security measures put in place at nearby airports. The incident highlights the importance of robust safety and security protocols in aviation.",
       "proximity_alert": "YAKIN TEHDİT: Hartsfield–Jackson Atlanta International Airport (22 km)"
+    }
+  },
+  {
+    "id": "1fbb785cfd8d7a0aa2193cf5a2f29489",
+    "timestamp": "2025-12-28T16:33:10.380469",
+    "original_title": "UK restricts DRC visas over migrant return row",
+    "link": "http://www.africanews.com/2025/12/28/uk-restricts-drc-visas-over-migrant-return-row/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Border/Civil Unrest",
+      "risk_score": 10,
+      "location": "Kinshasa, Democratic Republic of the Congo",
+      "latitude": -4.32,
+      "longitude": 15.3,
+      "detailed_analysis": "The row between the UK and the DRC over migrant return policy may lead to increased tensions and potential border breaches, affecting transport and logistics in the region.",
+      "immediate_forecast_24h": "Tensions between the two countries are likely to escalate, potentially leading to disruptions in air travel and cargo transport.",
+      "strategic_outlook": "The long-term impact of this dispute may lead to increased security measures at borders and airports, potentially affecting the efficiency of logistics and transport operations.",
+      "operational_impact": "Air cargo and passenger flights between the UK and the DRC may be affected, with potential delays or cancellations due to increased security screening and border control measures.",
+      "proximity_alert": "YAKIN TEHDİT: N'djili Airport (4 km)"
     }
   }
 ]
