@@ -1,24 +1,5 @@
 [
   {
-    "id": "1fbb785cfd8d7a0aa2193cf5a2f29489",
-    "timestamp": "2025-12-28T16:33:10.380469",
-    "original_title": "UK restricts DRC visas over migrant return row",
-    "link": "http://www.africanews.com/2025/12/28/uk-restricts-drc-visas-over-migrant-return-row/",
-    "source_name": "Africa News",
-    "ai_analysis": {
-      "category": "Border/Civil Unrest",
-      "risk_score": 10,
-      "location": "Kinshasa, Democratic Republic of the Congo",
-      "latitude": -4.32,
-      "longitude": 15.3,
-      "detailed_analysis": "The row between the UK and the DRC over migrant return policy may lead to increased tensions and potential border breaches, affecting transport and logistics in the region.",
-      "immediate_forecast_24h": "Tensions between the two countries are likely to escalate, potentially leading to disruptions in air travel and cargo transport.",
-      "strategic_outlook": "The long-term impact of this dispute may lead to increased security measures at borders and airports, potentially affecting the efficiency of logistics and transport operations.",
-      "operational_impact": "Air cargo and passenger flights between the UK and the DRC may be affected, with potential delays or cancellations due to increased security screening and border control measures.",
-      "proximity_alert": "YAKIN TEHDİT: N'djili Airport (4 km)"
-    }
-  },
-  {
     "id": "8089741bacaba4d9a94942056c80574a",
     "timestamp": "2025-12-28T17:24:09.781030",
     "original_title": "Small plane crashes in Doraville backyard, pilot and copilot walk away with minor injuries - 11Alive.com",
@@ -34,6 +15,25 @@
       "immediate_forecast_24h": "Investigations into the cause of the crash will likely begin immediately, and there may be a temporary disruption to local air traffic. However, no major disruptions to aviation operations are expected in the next 24 hours.",
       "strategic_outlook": "The incident highlights the importance of maintaining aviation safety standards and ensuring that pilots are properly trained. It may also lead to a review of safety protocols and procedures in the affected area.",
       "operational_impact": "The crash may cause some delays or disruptions to local air traffic, but it is unlikely to have a significant impact on national or international aviation operations. Cargo and personnel transport are not directly affected.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "edb920a2efb586b5acadcde73c2a9b0e",
+    "timestamp": "2025-12-28T17:43:57.263223",
+    "original_title": "Libya mourns military chief killed in Turkey plane crash - The Virginian-Pilot",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU2tXaThrSjB6TjR3WjNhV09ZbUpaMjNPbFBETG5PbU45UEd6R3JvaHVYSkdqSHpFMTdJNEtYMVc2eWxVWDBkU1MwSndZZjNVZ0l1ekxlMkRSaHlHOVl5MDMxbjRvUkZVbGtKc0pjZjlRemw0U3FUOTctR1RMMnhxOVkwR3FheVdJRm1UTGFpbk82bzJOR0gyb1JTNnQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 8,
+      "location": "Turkey/Libya",
+      "latitude": 39.0,
+      "longitude": 35.0,
+      "detailed_analysis": "A military chief from Libya was killed in a plane crash in Turkey, which may lead to increased tensions and potential retaliation, impacting aviation and regional stability.",
+      "immediate_forecast_24h": "Heightened security measures are expected in Turkey and Libya, with potential disruptions to air travel and logistics.",
+      "strategic_outlook": "The incident may exacerbate existing conflicts in the region, leading to long-term instability and increased risk to aviation and personnel.",
+      "operational_impact": "Potential disruptions to air travel, increased security checks, and heightened risk of retaliation or unrest in the region, affecting transport and logistics operations.",
       "proximity_alert": null
     }
   }
