@@ -4330,5 +4330,43 @@
       "operational_impact": "Potential disruptions to transport and logistics operations, including possible roadblocks, protests, or demonstrations, may affect the movement of goods and people in the region.",
       "proximity_alert": "YAKIN TEHDİT: Conakry International Airport (8 km)"
     }
+  },
+  {
+    "id": "57b6eb2f0cde5a167ebecd5413481eae",
+    "timestamp": "2025-12-28T12:54:10.678811",
+    "original_title": "In Syria, Alawites took to the streets to protest sectarian attacks against them.",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pxqjx4/in_syria_alawites_took_to_the_streets_to_protest/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 6,
+      "location": "Syria",
+      "latitude": 35.0,
+      "longitude": 38.0,
+      "detailed_analysis": "Protests by Alawites in Syria's coastal region following a mosque bombing indicate heightened sectarian tensions, potentially destabilizing the area and affecting local transport and logistics.",
+      "immediate_forecast_24h": "Increased protests and potential clashes between different sectarian groups, possibly affecting major roads and transport hubs.",
+      "strategic_outlook": "Long-term instability in the region could lead to sustained disruptions in cargo transport, aviation, and personnel movements, necessitating alternative routes or enhanced security measures.",
+      "operational_impact": "Potential disruptions to ground and air transport, increased security checks, and possible rerouting of cargo and personnel to avoid affected areas.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "fb270b1496fa26a213bf0f32ebd7ce66",
+    "timestamp": "2025-12-28T12:54:13.069230",
+    "original_title": "Kyiv 'not rushing to resolve conflict by peaceful means,' Putin says",
+    "link": "http://www.africanews.com/2025/12/28/russia-claims-to-have-captured-two-ukrainian-cities-as-zelenskyy-heads-for-peace-talks-wit/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Kyiv, Ukraine",
+      "latitude": 50.4501,
+      "longitude": 30.5236,
+      "detailed_analysis": "Russian President Vladimir Putin's statement indicates a heightened threat of military action, which could impact aviation, cargo, and personnel in the region.",
+      "immediate_forecast_24h": "Increased tensions and potential for military escalation, with possible disruptions to air traffic and logistics in the region.",
+      "strategic_outlook": "Long-term instability and conflict in the region could lead to sustained disruptions to transport and logistics, with potential for spillover effects into neighboring countries.",
+      "operational_impact": "Potential for flight restrictions, cargo delays, and increased security measures for personnel and assets in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
+    }
   }
 ]
