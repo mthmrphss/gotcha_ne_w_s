@@ -4064,5 +4064,81 @@
       "operational_impact": "Airports and airlines may need to reassess their security procedures, potentially leading to increased costs and modifications to check-in and baggage handling processes.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "4e744a04a6a8b6c0389fa54571654fe2",
+    "timestamp": "2025-12-28T08:34:52.646010",
+    "original_title": "Democracy is under attack, right here in Colorado | Jon Caldara - Colorado Politics",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVzZFLUpudUhKRTNQUERKRk5YQ05kZWlCV3BjMkNhT0lzLVVBblJHUGZPMkZHbHl1UWNUWWpGNFA3Y3RKQ3pNWTlIaF9ranZrbVdnVERhMzVhVXMwdU8xV3ZlMld2YTRjYnhtdHM4UVd3d2lJZGZwd1RWalpyS3JaOXZWdTJxekNIbUhxTXF4azl4QzZDeWhIajFSUTF3WjkxNkNVcWpGSHE?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Colorado, USA",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "detailed_analysis": "The article discusses a perceived attack on democracy in Colorado, which may lead to civil unrest. However, there is no direct mention of threats to assets, cargo, aviation, or personnel.",
+      "immediate_forecast_24h": "No immediate threats are expected, but the situation may escalate if protests or demonstrations occur.",
+      "strategic_outlook": "The long-term impact of this event on transport and logistics in Colorado is likely to be minimal, but it may contribute to a broader climate of instability.",
+      "operational_impact": "No direct operational impact is expected, but companies operating in Colorado should be aware of the potential for civil unrest and plan accordingly.",
+      "proximity_alert": "YAKIN TEHDİT: DENVER (7 km)"
+    }
+  },
+  {
+    "id": "ed5b835e4ae4f3fec50c760bbc04c2d8",
+    "timestamp": "2025-12-28T08:34:54.492929",
+    "original_title": "Sydney Could See Army Patrols After Bondi Attack, Premier Says - Bloomberg.com",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMTlCUGZyMnM1QlNXcmk5ZG9PM0hSQ21vNlB6WjFuY0hwQXE4UW9mMFVtLWlXSkhXMERERjl4Qmg1T0NMRExvemFVUF9FNnRORVpwZVlndVAyd3JqS3F0TGMzRklmemVySFZSSUp6SjZfV2Z3Q01WbWtta29nRHBxTVY4ekpKb0Y4RjFaUEJiZGZyRXhQcXpPUVhBb25SNHh4RUI3VWw1UXJqUlU0dHpnSG1n?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Civil Unrest/Terrorism",
+      "risk_score": 6,
+      "location": "Sydney, Australia",
+      "latitude": -33.8688,
+      "longitude": 151.2093,
+      "detailed_analysis": "The recent attack in Bondi has prompted the Premier to consider deploying army patrols in Sydney, indicating a heightened security concern and potential for civil unrest or further terrorist activities.",
+      "immediate_forecast_24h": "Increased security presence and potential for protests or demonstrations in response to the proposed army patrols, which may lead to disruptions in transportation and logistics.",
+      "strategic_outlook": "Long-term implications may include a shift in security protocols for major cities in Australia, potentially affecting the way cargo and personnel are managed and protected.",
+      "operational_impact": "Transportation and logistics operations in Sydney may experience delays or increased security checks, affecting the movement of assets, cargo, and personnel.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "3757269a5db1ce249c1c4b2ac0f96488",
+    "timestamp": "2025-12-28T08:34:58.743358",
+    "original_title": "Families Demand Answers a Year After Deadliest Plane Crash in South Korea",
+    "link": "https://www.nytimes.com/2025/12/28/world/asia/jeju-air-crash-investigation-anniversary.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 8,
+      "location": "Jeju, South Korea",
+      "latitude": 33.5173,
+      "longitude": 126.5322,
+      "detailed_analysis": "The Jeju Air disaster, which resulted in 179 fatalities, remains shrouded in mystery despite multiple investigations. The lack of clarity surrounding the incident poses a significant threat to aviation safety and security.",
+      "immediate_forecast_24h": "Protests by victims' families may continue, potentially disrupting air travel. No immediate threats to other flights are reported, but the situation bears monitoring.",
+      "strategic_outlook": "The long-term impact on South Korea's aviation industry could be significant if the cause of the crash remains unclear, potentially affecting passenger confidence and airline operations.",
+      "operational_impact": "The incident may lead to increased security measures and scrutiny of aviation safety protocols in South Korea, potentially affecting flight schedules and logistics operations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "9855e9f2603bca5a8b01c1d8f2eafcdb",
+    "timestamp": "2025-12-28T08:35:01.446927",
+    "original_title": "Russia downs 111 Ukrainian drones in three hours, defence ministry says",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pxmb7t/russia_downs_111_ukrainian_drones_in_three_hours/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Ukraine/Russia",
+      "latitude": 48.3794,
+      "longitude": 31.1656,
+      "detailed_analysis": "Russia has downed 111 Ukrainian drones in a three-hour period, indicating a significant escalation in the conflict and a high level of threat to aviation assets.",
+      "immediate_forecast_24h": "Increased drone activity and potential for further military engagements in the region, posing a risk to aviation and personnel.",
+      "strategic_outlook": "The conflict between Russia and Ukraine is likely to continue, with potential for further escalation and increased threats to aviation, cargo, and personnel.",
+      "operational_impact": "Transport and logistics operations in the region may be disrupted due to the conflict, and aviation assets may be at risk of being targeted or downed.",
+      "proximity_alert": null
+    }
   }
 ]
