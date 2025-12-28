@@ -1,62 +1,5 @@
 [
   {
-    "id": "9f6bfc02a9f905834a409a7a5b9045d6",
-    "timestamp": "2025-12-28T09:27:41.981532",
-    "original_title": "Sydney could see army patrols after Bondi attack, premier says - chinadailyasia.com",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBMajBjc0Z2X2o0bWhEVkZEWWc4N1pZVnphTWo4WjZnaWFKR01oMmJCV3RIN21FU205VkJ4eXlvaG9mTGdsNE1yaUl2dDBVTFVnQktfejVRM3Y?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Civil Unrest/Terrorism",
-      "risk_score": 6,
-      "location": "Sydney, Australia",
-      "latitude": -33.8688,
-      "longitude": 151.2093,
-      "detailed_analysis": "The premier of Sydney has announced possible army patrols after a recent attack in Bondi, indicating a heightened security concern and potential for civil unrest or terrorism.",
-      "immediate_forecast_24h": "Increased security presence and potential for further incidents or protests in the area, affecting local transport and logistics.",
-      "strategic_outlook": "Long-term implications for security measures in public areas and potential impact on tourism and local businesses.",
-      "operational_impact": "Possible disruptions to transport and logistics in the Sydney area, particularly around Bondi, due to increased security measures and potential civil unrest.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "0fbd753c4131267549a9a04da28a1e62",
-    "timestamp": "2025-12-28T09:27:43.864706",
-    "original_title": "Week in review: WatchGuard Firebox firewalls attacked, infosec enthusiasts targeted with fake PoCs - Help Net Security",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMmthcnptT1JzUmFSY3d6XzlQTkZobVZiQ1RkRWJHMDZESHlHZVdydUx0UWVYSlhud1o1RjV5c1dOeHNTcWdFSllIMjNHMlFiNl9CTTI2eklPdE5nVTRYd1JtOWhpYjJlLVIzMVZNTDZnZ0l1QWpQZ1paM2dUbGlwam5pZzdzeUE0M011ejF2LUItQXR1SVNnX285NE9XVGZXOHpnWFpMSGpsSGJ5RUxkY2N2bWRUejllSnFsMkNVcnc3cFZ6V2VwNk1keFRfemJPeWNvX2FvOA?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Cyber",
-      "risk_score": 6,
-      "location": "Global",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "WatchGuard Firebox firewalls have been attacked, and infosec enthusiasts are being targeted with fake proof-of-concepts, indicating a potential increase in cyber threats to network security",
-      "immediate_forecast_24h": "Increased vigilance is advised as these attacks may escalate, potentially compromising sensitive information and disrupting operations",
-      "strategic_outlook": "Long-term, these types of attacks may lead to more sophisticated cyber threats, emphasizing the need for robust cybersecurity measures and continuous monitoring",
-      "operational_impact": "Potential disruption to logistics and transport operations that rely on WatchGuard Firebox firewalls, as well as targeted individuals and organizations in the infosec community",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "f6c70f1a170e72341146478ba10c426a",
-    "timestamp": "2025-12-28T09:27:50.723967",
-    "original_title": "Russia’s hybrid-warfare attacks in Europe dropped this year, but could they pick up in 2026?",
-    "link": "https://www.france24.com/en/europe/20251228-russia-hybrid-warfare-attacks-europe-dropped-this-year-but-could-they-pick-up-2026",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Terrorism/Conflict",
-      "risk_score": 7,
-      "location": "Europe",
-      "latitude": 50.0,
-      "longitude": 10.0,
-      "detailed_analysis": "Hybrid-warfare attacks in Europe, including sabotage and drone incursions, have decreased in 2025 but may pick up in 2026, posing a potential threat to assets, cargo, aviation, and personnel",
-      "immediate_forecast_24h": "No immediate increase in attacks expected, but ongoing vigilance is required",
-      "strategic_outlook": "The Kremlin's strategy may be shifting, potentially leading to increased hybrid-warfare attacks in 2026, affecting European security and transport logistics",
-      "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics operations, with increased security measures likely to be implemented",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "ad9239e530dc1e9692a958a4945863cd",
     "timestamp": "2025-12-28T09:44:39.218332",
     "original_title": "Guinea votes in first polls since 2021 coup, military leader likely to win - Al Jazeera",
@@ -130,6 +73,63 @@
       "strategic_outlook": "The outcome of the election will likely have a significant impact on the country's stability and security, with potential long-term implications for transport and logistics operations.",
       "operational_impact": "Potential disruptions to transport operations, including roadblocks, protests, or curfews, may affect the movement of assets, cargo, and personnel.",
       "proximity_alert": "YAKIN TEHDİT: Conakry International Airport (8 km)"
+    }
+  },
+  {
+    "id": "16f9f6f42159c3454f0c2cbadf7f7c35",
+    "timestamp": "2025-12-28T10:46:45.976190",
+    "original_title": "Homs Attack Hits a Place of Worship—and a City’s Fragile Sense of Safety - The Media Line",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeTFSOU9VWXZ6cU5ma2ItMVA2OTdFcHo1bTgyS0d6QkdvdGU2VGZ0ODlmUTZYMUlTOVdyRFhiRkRrRllqejUzUHZPMUE2TDhCMjU2QzRBdzRhVzdGMXpTUGpGeUZMSDM2TkQ2MzRzZkxzYV9hYkZ6SWF4aV9WVEJiQWhwRUsycFoyOTQ0V01ONEtCNVliaVFXQTZEVzBWNmZNdERWQTJGOXAyb0ZzZWhPX2VEZTdzaGc?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism/Civil Unrest/Conflict",
+      "risk_score": 8,
+      "location": "Homs, Syria",
+      "latitude": 34.7333,
+      "longitude": 36.7114,
+      "detailed_analysis": "A recent attack on a place of worship in Homs has heightened concerns over the city's fragile sense of safety, indicating a potential increase in terrorist activities and civil unrest that could impact local assets, cargo, aviation, and personnel.",
+      "immediate_forecast_24h": "Increased security measures are expected in the short term, with potential for further clashes or attacks, affecting transport and logistics operations in the area.",
+      "strategic_outlook": "The long-term outlook suggests continued instability in the region, posing significant risks to assets, cargo, aviation, and personnel, with potential for escalation of conflict and terrorism.",
+      "operational_impact": "The attack may lead to increased security checks, potential route closures, and operational disruptions for transport and logistics companies, necessitating contingency planning and enhanced security protocols.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "d203d6738cfe53b17c649889b83f472f",
+    "timestamp": "2025-12-28T10:46:51.609927",
+    "original_title": "Parents of Guinea's missing migrants face torment",
+    "link": "https://www.france24.com/en/video/20251228-parents-of-guinea-s-missing-migrants-face-torment",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Border",
+      "risk_score": 5,
+      "location": "Guinea",
+      "latitude": 9.9456,
+      "longitude": -9.6964,
+      "detailed_analysis": "The disappearance of thousands of young undocumented migrants from Guinea along migration routes poses a significant risk to the safety and security of personnel and cargo in the region. The uncertainty and helplessness of the families of the missing migrants may lead to social unrest and potential border breaches.",
+      "immediate_forecast_24h": "Increased tensions and potential protests by families of missing migrants, potentially disrupting border crossings and logistics operations.",
+      "strategic_outlook": "Long-term instability and insecurity in the region may lead to increased migration attempts, further straining border security and logistics operations.",
+      "operational_impact": "Potential disruptions to transport and logistics operations, particularly at border crossings, due to increased security measures and social unrest.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "f517b88318683f415aaa341d38663e98",
+    "timestamp": "2025-12-28T10:46:54.337234",
+    "original_title": "Airlines Launch Study Into Why Passengers Risk Their Lives to Take Bags During Emergency Evacuations",
+    "link": "https://www.paddleyourownkanoo.com/2025/12/28/airlines-launch-study-into-why-passengers-risk-their-lives-to-take-bags-during-emergency-evacuations/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 6,
+      "location": "Unknown",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Passengers delaying evacuation to retrieve luggage poses a significant threat to safety during emergency situations, potentially leading to injuries or fatalities.",
+      "immediate_forecast_24h": "Airlines will conduct a study to understand passenger behavior, which may lead to changes in emergency procedures or passenger education campaigns.",
+      "strategic_outlook": "The study's findings may influence aviation industry standards and regulations regarding emergency evacuations and passenger luggage handling.",
+      "operational_impact": "Potential changes to emergency procedures, passenger briefing, and luggage handling policies may impact flight operations and passenger experience.",
+      "proximity_alert": null
     }
   }
 ]
