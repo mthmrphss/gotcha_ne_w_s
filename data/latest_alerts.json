@@ -1,24 +1,5 @@
 [
   {
-    "id": "625efb744017817e78f28a665703095a",
-    "timestamp": "2025-12-28T07:42:58.297365",
-    "original_title": "Business class passenger jailed for 20 months for stealing another person’s bag",
-    "link": "https://www.independent.co.uk/travel/news-and-advice/singapore-airlines-flight-luggage-stealing-jail-business-class-b2891082.html",
-    "source_name": "Independent Travel",
-    "ai_analysis": {
-      "category": "Crime",
-      "risk_score": 6,
-      "location": "Unknown",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "A business class passenger was jailed for stealing another person's bag containing items worth tens of thousands of pounds, highlighting the risk of cargo theft in aviation.",
-      "immediate_forecast_24h": "Increased security measures may be implemented in airports to prevent similar incidents, but no immediate disruptions to flights are expected.",
-      "strategic_outlook": "The incident underscores the need for enhanced security protocols and passenger screening to prevent cargo theft and ensure the safety of passengers and their belongings.",
-      "operational_impact": "Airports and airlines may need to reassess their security procedures, potentially leading to increased costs and modifications to check-in and baggage handling processes.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "4e744a04a6a8b6c0389fa54571654fe2",
     "timestamp": "2025-12-28T08:34:52.646010",
     "original_title": "Democracy is under attack, right here in Colorado | Jon Caldara - Colorado Politics",
@@ -91,6 +72,63 @@
       "immediate_forecast_24h": "Increased drone activity and potential for further military engagements in the region, posing a risk to aviation and personnel.",
       "strategic_outlook": "The conflict between Russia and Ukraine is likely to continue, with potential for further escalation and increased threats to aviation, cargo, and personnel.",
       "operational_impact": "Transport and logistics operations in the region may be disrupted due to the conflict, and aviation assets may be at risk of being targeted or downed.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "9f6bfc02a9f905834a409a7a5b9045d6",
+    "timestamp": "2025-12-28T09:27:41.981532",
+    "original_title": "Sydney could see army patrols after Bondi attack, premier says - chinadailyasia.com",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBMajBjc0Z2X2o0bWhEVkZEWWc4N1pZVnphTWo4WjZnaWFKR01oMmJCV3RIN21FU205VkJ4eXlvaG9mTGdsNE1yaUl2dDBVTFVnQktfejVRM3Y?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Civil Unrest/Terrorism",
+      "risk_score": 6,
+      "location": "Sydney, Australia",
+      "latitude": -33.8688,
+      "longitude": 151.2093,
+      "detailed_analysis": "The premier of Sydney has announced possible army patrols after a recent attack in Bondi, indicating a heightened security concern and potential for civil unrest or terrorism.",
+      "immediate_forecast_24h": "Increased security presence and potential for further incidents or protests in the area, affecting local transport and logistics.",
+      "strategic_outlook": "Long-term implications for security measures in public areas and potential impact on tourism and local businesses.",
+      "operational_impact": "Possible disruptions to transport and logistics in the Sydney area, particularly around Bondi, due to increased security measures and potential civil unrest.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "0fbd753c4131267549a9a04da28a1e62",
+    "timestamp": "2025-12-28T09:27:43.864706",
+    "original_title": "Week in review: WatchGuard Firebox firewalls attacked, infosec enthusiasts targeted with fake PoCs - Help Net Security",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMmthcnptT1JzUmFSY3d6XzlQTkZobVZiQ1RkRWJHMDZESHlHZVdydUx0UWVYSlhud1o1RjV5c1dOeHNTcWdFSllIMjNHMlFiNl9CTTI2eklPdE5nVTRYd1JtOWhpYjJlLVIzMVZNTDZnZ0l1QWpQZ1paM2dUbGlwam5pZzdzeUE0M011ejF2LUItQXR1SVNnX285NE9XVGZXOHpnWFpMSGpsSGJ5RUxkY2N2bWRUejllSnFsMkNVcnc3cFZ6V2VwNk1keFRfemJPeWNvX2FvOA?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 6,
+      "location": "Global",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "WatchGuard Firebox firewalls have been attacked, and infosec enthusiasts are being targeted with fake proof-of-concepts, indicating a potential increase in cyber threats to network security",
+      "immediate_forecast_24h": "Increased vigilance is advised as these attacks may escalate, potentially compromising sensitive information and disrupting operations",
+      "strategic_outlook": "Long-term, these types of attacks may lead to more sophisticated cyber threats, emphasizing the need for robust cybersecurity measures and continuous monitoring",
+      "operational_impact": "Potential disruption to logistics and transport operations that rely on WatchGuard Firebox firewalls, as well as targeted individuals and organizations in the infosec community",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "f6c70f1a170e72341146478ba10c426a",
+    "timestamp": "2025-12-28T09:27:50.723967",
+    "original_title": "Russia’s hybrid-warfare attacks in Europe dropped this year, but could they pick up in 2026?",
+    "link": "https://www.france24.com/en/europe/20251228-russia-hybrid-warfare-attacks-europe-dropped-this-year-but-could-they-pick-up-2026",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict",
+      "risk_score": 7,
+      "location": "Europe",
+      "latitude": 50.0,
+      "longitude": 10.0,
+      "detailed_analysis": "Hybrid-warfare attacks in Europe, including sabotage and drone incursions, have decreased in 2025 but may pick up in 2026, posing a potential threat to assets, cargo, aviation, and personnel",
+      "immediate_forecast_24h": "No immediate increase in attacks expected, but ongoing vigilance is required",
+      "strategic_outlook": "The Kremlin's strategy may be shifting, potentially leading to increased hybrid-warfare attacks in 2026, affecting European security and transport logistics",
+      "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics operations, with increased security measures likely to be implemented",
       "proximity_alert": null
     }
   }
