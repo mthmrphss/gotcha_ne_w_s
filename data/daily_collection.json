@@ -5888,5 +5888,62 @@
       "operational_impact": "Flight operations may be temporarily disrupted for investigation and inspection, but overall impact on transport and logistics is expected to be minimal.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "31c5f4c05d704e574fec3f1b635ed11c",
+    "timestamp": "2025-12-29T11:26:04.553111",
+    "original_title": "Several Passengers Injured After Severe Turbulence Hits Ryanair Flight - Simple Flying",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNmVTS3FvTHRKTGxQQzZsVmFlOEJpWXFvZ1FpQVJWR2IwdWp6LXFjcVNjOFNrVmc2blZXVmUyVXppd1V2VzRieTZLZ21oQ1FOaHFicjNjWjNSd1cxZjhUanQ4REkxcXB0a2M3Sy1FeFdCS0xDLVRITkh3emdPZjY0Q1FERVBMTjJGZTU5MHZ3WHNTZ083?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 6,
+      "location": "Unknown, Europe",
+      "latitude": 50.0,
+      "longitude": 10.0,
+      "detailed_analysis": "Severe turbulence hit a Ryanair flight, resulting in several passenger injuries. The incident highlights the potential risks associated with unexpected weather conditions during flights.",
+      "immediate_forecast_24h": "No further incidents of severe turbulence are expected in the next 24 hours, but airlines and passengers should remain vigilant and prepared for unexpected weather conditions.",
+      "strategic_outlook": "The long-term outlook suggests that airlines will need to continue monitoring weather conditions closely and take necessary precautions to minimize the risk of injuries to passengers and crew.",
+      "operational_impact": "The incident may lead to increased scrutiny of airline safety protocols and weather monitoring systems, potentially resulting in additional safety measures and procedures to mitigate the risk of similar incidents in the future.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "0003f08b0b753200f6a1d56be5ef5598",
+    "timestamp": "2025-12-29T11:26:06.517517",
+    "original_title": "Ryanair flight turns back to UK airport after turbulence 'flings people from seats' - Cornwall Live",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPN041b3RHRkYwaVdQMnpGWGZYUUJfT01VMGNnZTVxaWs5MDhRVVd4aU52UlREekEtS1JQTEp6THBSVnpWcEZNNkRDM3lLTUo3dGtPVEVwYnl6VG43UkdqU2FtLTlqbjNJSUk4M1JwUXEyZ3dDaFY1NHdCc1NBa1JHc1dzN29xVkRUWXRUQ0hNeUNMRngwazRMdmwwM1ZrNTBrUEJaaQ?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 6,
+      "location": "UK",
+      "latitude": 54.0,
+      "longitude": -2.0,
+      "detailed_analysis": "A Ryanair flight experienced severe turbulence, causing people to be flung from their seats, and was forced to turn back to a UK airport. The incident highlights the potential risks associated with in-flight turbulence and the importance of ensuring passenger safety.",
+      "immediate_forecast_24h": "The affected flight will likely undergo a thorough inspection and maintenance check before returning to service. Passengers may experience delays or cancellations of flights. No further incidents of severe turbulence are expected in the short term.",
+      "strategic_outlook": "The incident may lead to a review of turbulence forecasting and mitigation strategies by airlines and aviation authorities. It may also result in increased awareness and education for passengers on the importance of following safety instructions during flights.",
+      "operational_impact": "The incident may cause short-term disruptions to flight schedules and passenger travel plans. Airlines may need to adjust their routes or flight plans to avoid areas of turbulence, potentially leading to increased fuel costs and flight times.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "e1659f1a6b97a4068293b7585319509d",
+    "timestamp": "2025-12-29T11:26:09.184849",
+    "original_title": "Tehran shopkeepers extend strikes into second day",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pyj1qm/tehran_shopkeepers_extend_strikes_into_second_day/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Shopkeepers in Tehran have extended their strikes into a second day, potentially disrupting local commerce and logistics. However, there is no direct indication of a threat to aviation, cargo, or personnel at this time.",
+      "immediate_forecast_24h": "The situation may escalate or de-escalate depending on government responses and the shopkeepers' demands. Monitoring the situation for any signs of violence or expansion of the strike to other sectors is necessary.",
+      "strategic_outlook": "Long-term, the strike could have implications for Iran's economic stability and potentially affect international trade and relations. However, the immediate impact on assets, cargo, aviation, and personnel appears to be minimal.",
+      "operational_impact": "There may be minor disruptions to local supply chains and logistics due to the strike, but no significant operational impact on aviation or cargo transport is anticipated at this time.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
   }
 ]
