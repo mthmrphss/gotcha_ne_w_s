@@ -1,119 +1,5 @@
 [
   {
-    "id": "f77c2334f6fb8d4b74e6d4ade3521a2e",
-    "timestamp": "2025-12-29T14:28:48.082706",
-    "original_title": "Explosions reportedly rock Russia's Khanskaya military airfield",
-    "link": "https://www.reddit.com/r/worldnews/comments/1pynfvw/explosions_reportedly_rock_russias_khanskaya/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Aviation/Conflict",
-      "risk_score": 8,
-      "location": "Khanskaya, Russia",
-      "latitude": 51.0333,
-      "longitude": 36.7667,
-      "detailed_analysis": "Explosions have reportedly rocked Russia's Khanskaya military airfield, indicating a potential attack on a military aviation asset. This could have significant implications for regional security and aviation operations.",
-      "immediate_forecast_24h": "Increased military activity and heightened security measures are expected in the surrounding area. There may be disruptions to local air traffic and potential for further incidents.",
-      "strategic_outlook": "The long-term impact of this incident could lead to escalated tensions between nations, potentially affecting global aviation and logistics. Enhanced security protocols may be implemented at military airfields and surrounding areas.",
-      "operational_impact": "Potential disruptions to air traffic, increased security checks, and heightened alertness for aviation personnel and cargo operations in the region. This may lead to delays and increased costs for logistics and transportation companies.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "c30cc3bdf0211a77ff87ab431138f636",
-    "timestamp": "2025-12-29T14:28:49.900384",
-    "original_title": "Iran’s currency collapse sparks second day of protests",
-    "link": "https://www.reddit.com/r/worldnews/comments/1pynct2/irans_currency_collapse_sparks_second_day_of/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Civil Unrest",
-      "risk_score": 10,
-      "location": "Tehran, Iran",
-      "latitude": 35.6892,
-      "longitude": 51.389,
-      "detailed_analysis": "Protests sparked by Iran's currency collapse may lead to instability and potential disruptions to transportation and logistics in the region.",
-      "immediate_forecast_24h": "Protests are likely to continue, potentially spreading to other cities, and may lead to clashes with security forces.",
-      "strategic_outlook": "The economic instability and resulting civil unrest may have long-term implications for the region's security and stability, potentially affecting trade and transportation routes.",
-      "operational_impact": "Potential disruptions to air and ground transportation, as well as cargo handling and logistics operations, due to protests and unrest in the region.",
-      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
-    }
-  },
-  {
-    "id": "340c7845c506abf4e9869e9cf3cb0a50",
-    "timestamp": "2025-12-29T14:28:53.087931",
-    "original_title": "Syrian Alawites protest after deadly mosque bombing",
-    "link": "https://www.france24.com/en/video/20251229-syrian-alawites-protest-after-deadly-mosque-bombing",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Civil Unrest/Conflict",
-      "risk_score": 6,
-      "location": "Syria",
-      "latitude": 35.0,
-      "longitude": 38.0,
-      "detailed_analysis": "Protests and clashes between Alawite demonstrators and security forces have resulted in casualties, indicating heightened tensions and potential for further unrest, which could impact transport and logistics in the region.",
-      "immediate_forecast_24h": "Increased security presence and potential for further clashes between protesters and security forces, with a risk of spill-over into other areas, affecting aviation and cargo operations.",
-      "strategic_outlook": "Long-term instability in Syria could lead to sustained civil unrest, affecting the safety and security of personnel, assets, and cargo, with potential for conflict escalation.",
-      "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics operations in Syria, with possible knock-on effects for regional transport networks.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "7a5b71ad68fb2728202a5ffeb660f1af",
-    "timestamp": "2025-12-29T14:50:49.965205",
-    "original_title": "Chinese military drills a warning to 'separatist forces' and 'external interference' in Taiwan",
-    "link": "https://www.france24.com/en/video/20251229-chinese-military-drills-a-warning-to-separatist-forces-and-external-interference-in-taiwan",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 8,
-      "location": "Taiwan",
-      "latitude": 23.5,
-      "longitude": 121.0,
-      "detailed_analysis": "China's military drills around Taiwan pose a significant threat to regional stability, potentially impacting aviation and maritime transport in the area. The drills are a response to perceived separatist forces and external interference, increasing tensions between China, the US, and Japan.",
-      "immediate_forecast_24h": "The situation is likely to remain tense, with China possibly extending its military exercises. This could lead to increased naval and air activity, potentially disrupting commercial flights and shipping lanes.",
-      "strategic_outlook": "The long-term implications of these drills could lead to a heightened state of alert for the region, potentially affecting trade and travel. An invasion of Taiwan, although not imminent, remains a possibility, which would have severe consequences for global supply chains and aviation.",
-      "operational_impact": "The military drills may cause disruptions to air traffic and shipping in the region, potentially affecting cargo transport and personnel movement. Airlines and shipping companies should be prepared for possible route changes or delays.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "1180bc4a7bb474f1d3d19c3d84447660",
-    "timestamp": "2025-12-29T14:50:51.846013",
-    "original_title": "Netanyahu and Trump to meet for talks on Gaza peace plan and Iran",
-    "link": "https://www.france24.com/en/video/20251229-netanyahu-and-trump-to-meet-for-talks-on-gaza-peace-plan-and-iran",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 6,
-      "location": "Florida, USA",
-      "latitude": 27.6648,
-      "longitude": -81.5158,
-      "detailed_analysis": "The meeting between Netanyahu and Trump may lead to increased tensions with Iran, potentially affecting aviation and cargo operations in the region.",
-      "immediate_forecast_24h": "Heightened security measures may be implemented in Florida and surrounding areas, with potential disruptions to air travel and logistics.",
-      "strategic_outlook": "Escalating tensions between the US, Israel, and Iran could lead to long-term instability in the region, impacting global supply chains and aviation security.",
-      "operational_impact": "Potential disruptions to air travel, increased security screenings, and possible delays in cargo shipments may occur due to heightened security measures and tensions in the region.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "94ca752db526cb8f3ca5f62a98ddcb63",
-    "timestamp": "2025-12-29T14:50:54.159380",
-    "original_title": "First UN visit to Sudan's El-Fasher finds traumatised civilians amid reports of mass atrocities",
-    "link": "https://www.france24.com/en/africa/20251229-first-un-visit-to-sudan-el-fasher-finds-traumatised-civilians-amid-reports-mass-atrocities-rsf",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict/Civil Unrest",
-      "risk_score": 7,
-      "location": "El-Fasher, Sudan",
-      "latitude": 13.6333,
-      "longitude": 25.3333,
-      "detailed_analysis": "The situation in El-Fasher, Sudan, is critical with reports of mass atrocities and traumatised civilians. The lack of basic necessities like water and sanitation poses significant humanitarian concerns. The presence of paramilitary forces, specifically the Rapid Support Forces, indicates a high level of instability and potential for further violence.",
-      "immediate_forecast_24h": "The situation is likely to remain volatile with potential for increased violence or clashes between different factions. Humanitarian efforts may face significant challenges in reaching affected populations.",
-      "strategic_outlook": "The long-term outlook for the region remains grim, with potential for prolonged conflict and humanitarian crises. The international community's response, including the UN's efforts, will be crucial in mitigating the situation and providing aid to those in need.",
-      "operational_impact": "The conflict and instability in the region are likely to significantly impact transport and logistics operations. Roads and airports may be closed or subject to strict controls, and the movement of cargo and personnel could be severely restricted. Aviation operations may also be at risk due to the potential for violence or unrest near airports.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "212d676df953830532b1b6550883dd4c",
     "timestamp": "2025-12-29T15:30:38.571632",
     "original_title": "Russia says Ukraine tried to attack Putin's residence so Moscow's negotiating stance will change",
@@ -149,6 +35,63 @@
       "strategic_outlook": "In the long term, the conflict in southern Ukraine may lead to a prolonged and unstable security environment, with potential for widespread destruction, displacement of people, and disruption of regional trade and commerce.",
       "operational_impact": "The conflict may impact transport and logistics operations in the region, including aviation, with potential for flight disruptions, airport closures, and increased security measures. Cargo and personnel movement may also be affected, with potential for delays, detours, and increased risk of theft, damage, or loss.",
       "proximity_alert": "YAKIN TEHDİT: Odessa International Airport (6 km)"
+    }
+  },
+  {
+    "id": "7957b49ca9ef40b8d4da8e17fcd15084",
+    "timestamp": "2025-12-29T16:34:32.939050",
+    "original_title": "Iran Central Bank governor resigns as protests erupt over currency drop",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pyqds9/iran_central_bank_governor_resigns_as_protests/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The resignation of the Iran Central Bank governor amid protests over currency drop indicates economic instability and potential for further unrest, which could impact transport and logistics operations in the region.",
+      "immediate_forecast_24h": "Protests may continue or escalate, potentially disrupting local transportation and logistics, but no immediate threat to aviation or major cargo operations is apparent.",
+      "strategic_outlook": "Long-term economic instability in Iran could lead to increased migration, smuggling, or other criminal activities, potentially affecting regional security and transport.",
+      "operational_impact": "Minimal direct impact on aviation or cargo operations expected at this time, but monitoring of the situation is recommended due to the potential for escalation or spillover effects.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "59dda21ce940d88d8413983976408df7",
+    "timestamp": "2025-12-29T16:34:34.649545",
+    "original_title": "Iranian protests rage as rial plunges, officials blame ‘enemy psychological warfare’",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pyq8hf/iranian_protests_rage_as_rial_plunges_officials/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Protests in Iran due to the plunging value of the rial, with officials blaming 'enemy psychological warfare', could lead to instability and potential disruptions to transport and logistics in the region.",
+      "immediate_forecast_24h": "Increased protests and potential clashes between protesters and security forces, with possible disruptions to air travel and ground transportation.",
+      "strategic_outlook": "Long-term instability in Iran could lead to increased tensions with neighboring countries and global powers, potentially affecting regional trade and aviation routes.",
+      "operational_impact": "Potential disruptions to cargo transport, aviation, and personnel movement in and out of Iran, with possible increased security measures and travel restrictions.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "1545856e3e95307e55e8a27de1e8c979",
+    "timestamp": "2025-12-29T16:34:37.267781",
+    "original_title": "Taiwan: Chinese military releases footage of drills around the island",
+    "link": "https://www.france24.com/en/video/20251229-taiwan-chinese-military-releases-footage-of-drills-around-the-island",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Taiwan",
+      "latitude": 23.5,
+      "longitude": 121.0,
+      "detailed_analysis": "The Chinese military's release of footage showing drills around Taiwan indicates a significant show of force, escalating tensions in the region. This could potentially disrupt air and sea traffic, posing a threat to aviation and cargo operations.",
+      "immediate_forecast_24h": "Increased military presence and activity around Taiwan may lead to temporary airspace restrictions or maritime route adjustments, affecting flight schedules and cargo shipments.",
+      "strategic_outlook": "Prolonged tensions between China and Taiwan, exacerbated by US arms sales and diplomatic disputes with Japan, could lead to a long-term increase in military activity, impacting regional stability and the security of transport operations.",
+      "operational_impact": "Potential disruptions to air and sea traffic, increased security measures for cargo and personnel, and heightened vigilance for potential cyber threats or espionage targeting logistics and transportation systems.",
+      "proximity_alert": null
     }
   }
 ]
