@@ -1,43 +1,5 @@
 [
   {
-    "id": "38f3f2ebc0742405ee4a831186c9f9a1",
-    "timestamp": "2025-12-29T19:41:23.431894",
-    "original_title": "S.Korea, Poland to sign 3rd-stage export contract for Chunmoo multiple rocket launchers and 80km range guided missiles",
-    "link": "https://www.reddit.com/r/worldnews/comments/1pyvo0l/skorea_poland_to_sign_3rdstage_export_contract/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 10,
-      "location": "Seoul, South Korea and Warsaw, Poland",
-      "latitude": 37.5665,
-      "longitude": 126.9779,
-      "detailed_analysis": "The export contract between South Korea and Poland for Chunmoo multiple rocket launchers and guided missiles may increase tensions in the region and pose a threat to aviation and personnel in the event of a conflict.",
-      "immediate_forecast_24h": "No immediate impact expected, but increased military activity may be observed in the region.",
-      "strategic_outlook": "The signing of the contract may lead to a long-term increase in military capabilities for Poland, potentially altering the regional balance of power and posing a threat to assets and personnel.",
-      "operational_impact": "Potential disruption to air traffic and logistics in the region due to increased military activity, but no immediate impact on cargo or aviation operations expected.",
-      "proximity_alert": "YAKIN TEHDİT: Incheon International Airport (14 km)"
-    }
-  },
-  {
-    "id": "8d55bf3d6f13aad2b7d2cfb32e5815fc",
-    "timestamp": "2025-12-29T19:41:51.368889",
-    "original_title": "Russia says Ukraine attacked Putin's home, Kyiv calls this 'lie'",
-    "link": "https://www.france24.com/en/video/20251229-russia-says-ukraine-attacked-putin-s-home-kyiv-calls-this-lie",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict/Aviation",
-      "risk_score": 8,
-      "location": "Novgorod, Russia",
-      "latitude": 58.52,
-      "longitude": 31.27,
-      "detailed_analysis": "Russia accused Ukraine of firing dozens of drones at one of President Vladimir Putin's homes, which could escalate the conflict and pose a threat to aviation safety in the region.",
-      "immediate_forecast_24h": "Increased military activity and heightened tensions between Russia and Ukraine, potentially leading to more drone strikes or other attacks.",
-      "strategic_outlook": "Long-term escalation of the conflict could lead to increased instability in the region, affecting air travel and logistics, and potentially drawing in other countries.",
-      "operational_impact": "Potential disruption to air traffic and logistics in the region, with possible restrictions on drone usage and increased security measures for high-profile targets.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "a5b5a910955e72ecd911e18127e64594",
     "timestamp": "2025-12-29T20:31:39.178136",
     "original_title": "2 New Jersey pilots killed in a helicopter collision frequented a cafe together near the crash site - AP News",
@@ -92,6 +54,44 @@
       "strategic_outlook": "Long-term escalation of conflict could lead to significant disruptions in global oil supplies, increased risk of terrorism, and heightened security measures for aviation and logistics.",
       "operational_impact": "Potential for flight restrictions, increased security screening, and delays in cargo transport due to conflict in the region, affecting both aviation and logistics operations.",
       "proximity_alert": null
+    }
+  },
+  {
+    "id": "d02f5c71ada4356f96b54382ec584afc",
+    "timestamp": "2025-12-29T21:25:33.071382",
+    "original_title": "China stages military drills around Taiwan to warn 'external forces' after US, Japan tensions - ABC News",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeDlVYW1Zb0I0RklBcXczeW4zMWs1YnRybXp4QkJaRVk2UmlhTU5QZHRZbEZINUtKYTZOd3hDU0NJOENmSmk2c1h3eGc4Zi1iSGhNOGc2dmh6dmNRakl5d1gxLTB3RHpGOEdMY0VEaHUxSmREcVZ2WHA4RF9iZkhGU01RWTB3Y3dFbUJIRU9rdGNwN0thclFlV2I5NWtsbFE4eThmdHlxNDlDNUdYUW1fakFuLUzSAboBQVVfeXFMT1dTdE1lLVhUbDlxQ0VOMFdmeWRNV0pzSU1scHF4QmxDcUhNem1sS0xCSGhUWGtVaUEzUGRMQV9zOVNoRFhrQTU1aURZcjQ0ZDg5aTNBQU1DLWR5Yi1zZXZfM1ZVSnBWb0N3TVpJRjFBYno3ZDlQd0ktUXlVUFJvNmdaSFM3Yml5aTBtV0hkcG1KZW9JNXhoRmIxWlJGdk5rYmtNSlpLVWx2R0ZqYy1WYTRZVXRUQlg4MXZR?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Taiwan, China",
+      "latitude": 23.5,
+      "longitude": 121.0,
+      "detailed_analysis": "China's military drills around Taiwan pose a significant threat to aviation and regional stability, potentially disrupting air traffic and logistics in the area.",
+      "immediate_forecast_24h": "Increased military activity and tensions in the region may lead to airspace restrictions, affecting flight routes and schedules.",
+      "strategic_outlook": "Escalating tensions between China, the US, and Japan could lead to a prolonged period of instability, impacting trade and transport in the Asia-Pacific region.",
+      "operational_impact": "Potential disruptions to air cargo and passenger flights, increased security measures, and possible rerouting of flights to avoid the affected area.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "787c74c02bf12935336af9e21a034670",
+    "timestamp": "2025-12-29T21:25:37.740069",
+    "original_title": "More than 3,000 migrants die on route to Spain in 2025 as borders tighten",
+    "link": "http://www.africanews.com/2025/12/29/more-than-3000-migrants-die-on-route-to-spain-in-2025-as-borders-tighten/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Border",
+      "risk_score": 10,
+      "location": "Spain",
+      "latitude": 40.4168,
+      "longitude": -3.7038,
+      "detailed_analysis": "Over 3,000 migrant deaths reported while attempting to reach Spain by sea, indicating a significant risk to border security and potential disruptions to transport and logistics due to increased border control measures.",
+      "immediate_forecast_24h": "Tightened border controls may lead to increased tensions and potential clashes between migrants and authorities, but no immediate escalation is expected within the next 24 hours.",
+      "strategic_outlook": "The long-term impact of tightened border controls may lead to increased smuggling and human trafficking attempts, posing a continued risk to border security and transport logistics.",
+      "operational_impact": "Potential delays and increased security measures at Spanish ports and borders may impact cargo and personnel movement, requiring enhanced security protocols and contingency planning for transport and logistics operations.",
+      "proximity_alert": "YAKIN TEHDİT: Adolfo Suárez Madrid–Barajas Airport (14 km)"
     }
   }
 ]
