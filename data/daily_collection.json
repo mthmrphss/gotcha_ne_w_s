@@ -6154,5 +6154,62 @@
       "operational_impact": "Potential disruptions to air and sea traffic, increased security measures for cargo and personnel, and heightened risk of conflict-related incidents affecting transport and logistics in the region.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "f77c2334f6fb8d4b74e6d4ade3521a2e",
+    "timestamp": "2025-12-29T14:28:48.082706",
+    "original_title": "Explosions reportedly rock Russia's Khanskaya military airfield",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pynfvw/explosions_reportedly_rock_russias_khanskaya/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 8,
+      "location": "Khanskaya, Russia",
+      "latitude": 51.0333,
+      "longitude": 36.7667,
+      "detailed_analysis": "Explosions have reportedly rocked Russia's Khanskaya military airfield, indicating a potential attack on a military aviation asset. This could have significant implications for regional security and aviation operations.",
+      "immediate_forecast_24h": "Increased military activity and heightened security measures are expected in the surrounding area. There may be disruptions to local air traffic and potential for further incidents.",
+      "strategic_outlook": "The long-term impact of this incident could lead to escalated tensions between nations, potentially affecting global aviation and logistics. Enhanced security protocols may be implemented at military airfields and surrounding areas.",
+      "operational_impact": "Potential disruptions to air traffic, increased security checks, and heightened alertness for aviation personnel and cargo operations in the region. This may lead to delays and increased costs for logistics and transportation companies.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "c30cc3bdf0211a77ff87ab431138f636",
+    "timestamp": "2025-12-29T14:28:49.900384",
+    "original_title": "Iran’s currency collapse sparks second day of protests",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pynct2/irans_currency_collapse_sparks_second_day_of/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Protests sparked by Iran's currency collapse may lead to instability and potential disruptions to transportation and logistics in the region.",
+      "immediate_forecast_24h": "Protests are likely to continue, potentially spreading to other cities, and may lead to clashes with security forces.",
+      "strategic_outlook": "The economic instability and resulting civil unrest may have long-term implications for the region's security and stability, potentially affecting trade and transportation routes.",
+      "operational_impact": "Potential disruptions to air and ground transportation, as well as cargo handling and logistics operations, due to protests and unrest in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "340c7845c506abf4e9869e9cf3cb0a50",
+    "timestamp": "2025-12-29T14:28:53.087931",
+    "original_title": "Syrian Alawites protest after deadly mosque bombing",
+    "link": "https://www.france24.com/en/video/20251229-syrian-alawites-protest-after-deadly-mosque-bombing",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 6,
+      "location": "Syria",
+      "latitude": 35.0,
+      "longitude": 38.0,
+      "detailed_analysis": "Protests and clashes between Alawite demonstrators and security forces have resulted in casualties, indicating heightened tensions and potential for further unrest, which could impact transport and logistics in the region.",
+      "immediate_forecast_24h": "Increased security presence and potential for further clashes between protesters and security forces, with a risk of spill-over into other areas, affecting aviation and cargo operations.",
+      "strategic_outlook": "Long-term instability in Syria could lead to sustained civil unrest, affecting the safety and security of personnel, assets, and cargo, with potential for conflict escalation.",
+      "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics operations in Syria, with possible knock-on effects for regional transport networks.",
+      "proximity_alert": null
+    }
   }
 ]
