@@ -1,43 +1,5 @@
 [
   {
-    "id": "212d676df953830532b1b6550883dd4c",
-    "timestamp": "2025-12-29T15:30:38.571632",
-    "original_title": "Russia says Ukraine tried to attack Putin's residence so Moscow's negotiating stance will change",
-    "link": "https://www.reddit.com/r/worldnews/comments/1pyp4gd/russia_says_ukraine_tried_to_attack_putins/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 10,
-      "location": "Moscow, Russia",
-      "latitude": 55.7558,
-      "longitude": 37.6176,
-      "detailed_analysis": "Russia claims Ukraine attempted to attack Putin's residence, which may escalate tensions and alter Moscow's negotiating stance, potentially affecting regional stability and security.",
-      "immediate_forecast_24h": "Increased military alertness and potential retaliation from Russia, heightened security measures around key infrastructure and government facilities.",
-      "strategic_outlook": "Long-term escalation of the conflict, potential expansion of military operations, and increased tensions between Russia and Ukraine, affecting regional trade, transport, and logistics.",
-      "operational_impact": "Potential disruptions to air traffic, increased security checks, and possible restrictions on cargo transport and personnel movement in the region.",
-      "proximity_alert": "YAKIN TEHDİT: Vnukovo International Airport (27 km)"
-    }
-  },
-  {
-    "id": "5b2b47e03fa95cc32822c33752fddcc4",
-    "timestamp": "2025-12-29T15:30:40.621324",
-    "original_title": "Putin tells army to press on with campaign to take southern Ukrainian region",
-    "link": "https://www.reddit.com/r/worldnews/comments/1pyol83/putin_tells_army_to_press_on_with_campaign_to/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 10,
-      "location": "Southern Ukraine",
-      "latitude": 46.4853,
-      "longitude": 30.7233,
-      "detailed_analysis": "The ongoing conflict in southern Ukraine poses a significant threat to assets, cargo, aviation, and personnel in the region. The Russian army's campaign to take control of the region may lead to increased violence, destruction of infrastructure, and disruption of logistics and transportation.",
-      "immediate_forecast_24h": "In the next 24 hours, the situation is likely to escalate, with potential clashes between Russian and Ukrainian forces, and possible attacks on critical infrastructure, such as airports, seaports, and transportation hubs.",
-      "strategic_outlook": "In the long term, the conflict in southern Ukraine may lead to a prolonged and unstable security environment, with potential for widespread destruction, displacement of people, and disruption of regional trade and commerce.",
-      "operational_impact": "The conflict may impact transport and logistics operations in the region, including aviation, with potential for flight disruptions, airport closures, and increased security measures. Cargo and personnel movement may also be affected, with potential for delays, detours, and increased risk of theft, damage, or loss.",
-      "proximity_alert": "YAKIN TEHDİT: Odessa International Airport (6 km)"
-    }
-  },
-  {
     "id": "7957b49ca9ef40b8d4da8e17fcd15084",
     "timestamp": "2025-12-29T16:34:32.939050",
     "original_title": "Iran Central Bank governor resigns as protests erupt over currency drop",
@@ -91,6 +53,63 @@
       "immediate_forecast_24h": "Increased military presence and activity around Taiwan may lead to temporary airspace restrictions or maritime route adjustments, affecting flight schedules and cargo shipments.",
       "strategic_outlook": "Prolonged tensions between China and Taiwan, exacerbated by US arms sales and diplomatic disputes with Japan, could lead to a long-term increase in military activity, impacting regional stability and the security of transport operations.",
       "operational_impact": "Potential disruptions to air and sea traffic, increased security measures for cargo and personnel, and heightened vigilance for potential cyber threats or espionage targeting logistics and transportation systems.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "c7e71415eeed4e02c2b184b7d951bb69",
+    "timestamp": "2025-12-29T17:24:45.531738",
+    "original_title": "Senior Libyan military officials among fatalities of Falcon 50 crash - Aviation International News",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxON2hNa290M2pncUpWdDhROGVESWxPNUhLQXI3Nmt5Z1hPZ2piYmxMdVN2d0NUR0RoYWJxbThWUmRJSjlIaFZtSHhjLVdEOU9LakNLU215cWU5aHdCV0RXc2lYekJOWlRldElOM0J3Sm5seEJ6ZlcxSFFOUnZQaWpCLXdkSkstd3dxa0RNeTlVRUdjay1xTTFtZkF6ZDhjb3I4Tm9JUlZ2N0NEbXdMWUN0VEdIZXBNTnZYNm16VTZIV3JfUDA?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 8,
+      "location": "Libya",
+      "latitude": 32.8667,
+      "longitude": 11.75,
+      "detailed_analysis": "A Falcon 50 aircraft crashed, resulting in fatalities of senior Libyan military officials. The incident may indicate a potential security threat to aviation assets and personnel.",
+      "immediate_forecast_24h": "Increased security measures are expected at Libyan airports and potential disruptions to flight operations. There may be a heightened sense of alertness among aviation authorities and military personnel.",
+      "strategic_outlook": "The incident could lead to a review of aviation security protocols in Libya and potentially impact the country's ability to ensure safe air travel. It may also have implications for regional stability and security.",
+      "operational_impact": "Potential delays or cancellations of flights to and from Libya, increased security screening for passengers and cargo, and possible restrictions on air travel to the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "402c524611258883c014172a6d508ad8",
+    "timestamp": "2025-12-29T17:24:48.654923",
+    "original_title": "Russia says Ukrainian drone attack targeted one of Putin’s residences, a claim rejected by Kyiv | CNN",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pys28o/russia_says_ukrainian_drone_attack_targeted_one/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 10,
+      "location": "Moscow, Russia",
+      "latitude": 55.7558,
+      "longitude": 37.6176,
+      "detailed_analysis": "A reported Ukrainian drone attack targeted one of Putin's residences, a claim rejected by Kyiv. This incident indicates an escalation in the conflict between Russia and Ukraine, with potential implications for aviation security and regional stability.",
+      "immediate_forecast_24h": "Increased tensions between Russia and Ukraine, potential for retaliatory actions, and heightened security measures around critical infrastructure and high-profile targets.",
+      "strategic_outlook": "Long-term escalation of the conflict could lead to increased instability in the region, affecting trade, logistics, and aviation. The use of drones in attacks may become a more significant concern for security forces.",
+      "operational_impact": "Potential disruptions to air travel and logistics in the region, increased security screening, and possible restrictions on drone usage. The incident may also lead to enhanced security protocols for high-profile individuals and critical infrastructure.",
+      "proximity_alert": "YAKIN TEHDİT: Vnukovo International Airport (27 km)"
+    }
+  },
+  {
+    "id": "6a8a3103649a369935b609c6033349de",
+    "timestamp": "2025-12-29T17:24:50.406203",
+    "original_title": "Zelenskyy: Russia Fabricated Drone Plot to Justify Attacks on State Targets",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pyrg25/zelenskyy_russia_fabricated_drone_plot_to_justify/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "Ukrainian President Zelenskyy claims Russia fabricated a drone plot to justify attacks on state targets, indicating a heightened state of conflict and potential for aviation-related threats.",
+      "immediate_forecast_24h": "Increased tensions between Ukraine and Russia, potential for drone sightings or attacks on state targets, and elevated security measures in the region.",
+      "strategic_outlook": "Long-term escalation of the conflict, potential for widespread attacks on critical infrastructure, and increased risk to aviation and logistics operations in the region.",
+      "operational_impact": "Potential disruptions to air traffic, increased security screening, and heightened risk to personnel and cargo in the region.",
       "proximity_alert": null
     }
   }
