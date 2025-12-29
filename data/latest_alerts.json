@@ -93,5 +93,43 @@
       "operational_impact": "Cargo and logistics operations in the region may be disrupted due to increased security measures and potential retaliation. Personnel and assets in the region should be prepared for potential evacuations or increased security protocols.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "38f3f2ebc0742405ee4a831186c9f9a1",
+    "timestamp": "2025-12-29T19:41:23.431894",
+    "original_title": "S.Korea, Poland to sign 3rd-stage export contract for Chunmoo multiple rocket launchers and 80km range guided missiles",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pyvo0l/skorea_poland_to_sign_3rdstage_export_contract/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Seoul, South Korea and Warsaw, Poland",
+      "latitude": 37.5665,
+      "longitude": 126.9779,
+      "detailed_analysis": "The export contract between South Korea and Poland for Chunmoo multiple rocket launchers and guided missiles may increase tensions in the region and pose a threat to aviation and personnel in the event of a conflict.",
+      "immediate_forecast_24h": "No immediate impact expected, but increased military activity may be observed in the region.",
+      "strategic_outlook": "The signing of the contract may lead to a long-term increase in military capabilities for Poland, potentially altering the regional balance of power and posing a threat to assets and personnel.",
+      "operational_impact": "Potential disruption to air traffic and logistics in the region due to increased military activity, but no immediate impact on cargo or aviation operations expected.",
+      "proximity_alert": "YAKIN TEHDİT: Incheon International Airport (14 km)"
+    }
+  },
+  {
+    "id": "8d55bf3d6f13aad2b7d2cfb32e5815fc",
+    "timestamp": "2025-12-29T19:41:51.368889",
+    "original_title": "Russia says Ukraine attacked Putin's home, Kyiv calls this 'lie'",
+    "link": "https://www.france24.com/en/video/20251229-russia-says-ukraine-attacked-putin-s-home-kyiv-calls-this-lie",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Novgorod, Russia",
+      "latitude": 58.52,
+      "longitude": 31.27,
+      "detailed_analysis": "Russia accused Ukraine of firing dozens of drones at one of President Vladimir Putin's homes, which could escalate the conflict and pose a threat to aviation safety in the region.",
+      "immediate_forecast_24h": "Increased military activity and heightened tensions between Russia and Ukraine, potentially leading to more drone strikes or other attacks.",
+      "strategic_outlook": "Long-term escalation of the conflict could lead to increased instability in the region, affecting air travel and logistics, and potentially drawing in other countries.",
+      "operational_impact": "Potential disruption to air traffic and logistics in the region, with possible restrictions on drone usage and increased security measures for high-profile targets.",
+      "proximity_alert": null
+    }
   }
 ]
