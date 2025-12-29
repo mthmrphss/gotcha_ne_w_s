@@ -6572,5 +6572,62 @@
       "operational_impact": "Potential disruption to air traffic and logistics in the region, with possible restrictions on drone usage and increased security measures for high-profile targets.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "a5b5a910955e72ecd911e18127e64594",
+    "timestamp": "2025-12-29T20:31:39.178136",
+    "original_title": "2 New Jersey pilots killed in a helicopter collision frequented a cafe together near the crash site - AP News",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVzFuUjQ4YThQZmswazVMVjFZNVdVbTVJRmlXSW9LSmFMbkx0aWREM0lJM1ZsOGZVQWJlTFBKaWNLaEpYSUZyREotUHl1bGhWX2xwLXdWVDJudnkySDZMU3AzUkZseF9kQ2k0XzFCUVpRYmNFYVVKOXlEcWlMbVFhcXhiMEtheDUxLXJJQkJnc3hWcW5BVnJ1U0RsVndZNFlYMFE?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 8,
+      "location": "New Jersey, USA",
+      "latitude": 40.0583,
+      "longitude": -74.4057,
+      "detailed_analysis": "A helicopter collision in New Jersey resulted in the deaths of two pilots, indicating a significant risk to aviation safety. The incident may have implications for helicopter operations and safety protocols in the region.",
+      "immediate_forecast_24h": "Investigations into the cause of the collision are likely to commence, with potential disruptions to local air traffic. There may be increased scrutiny of helicopter safety and operations in the area.",
+      "strategic_outlook": "The long-term impact of this incident may lead to changes in aviation regulations, safety procedures, or helicopter maintenance protocols to mitigate the risk of similar collisions in the future.",
+      "operational_impact": "The incident may affect helicopter operations and logistics in the region, potentially leading to delays or changes in flight schedules. The impact on personnel and cargo transport may be significant, depending on the scale of the response and investigation.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "9f10d6a30f0ac4bb5273ad07dec84825",
+    "timestamp": "2025-12-29T20:31:41.918305",
+    "original_title": "Russia Threatens to Toughen Its Stance on Ending the War in Ukraine",
+    "link": "https://www.nytimes.com/2025/12/29/world/europe/russia-claims-ukraine-attack-putin.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Moscow, Russia",
+      "latitude": 55.7558,
+      "longitude": 37.6176,
+      "detailed_analysis": "Russia has threatened to toughen its stance on ending the war in Ukraine, following a reported Ukrainian drone attack on a residence of President Vladimir V. Putin, which Ukraine has denied. This escalation may lead to increased tensions and potential disruptions to aviation and logistics in the region.",
+      "immediate_forecast_24h": "Increased military activity and heightened security measures are expected in the region, potentially affecting air traffic and cargo operations.",
+      "strategic_outlook": "The conflict may lead to a prolonged period of instability, affecting trade and transport routes, and potentially drawing in other nations, further complicating the situation.",
+      "operational_impact": "Potential disruptions to air traffic, increased security checks, and possible restrictions on cargo movements may impact transport and logistics operations in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Vnukovo International Airport (27 km)"
+    }
+  },
+  {
+    "id": "f721152d93a45178442d73b2ab1a485c",
+    "timestamp": "2025-12-29T20:31:44.490787",
+    "original_title": "Trump says he'd back Israeli attack on Iran if it continues with nuclear, missile programs",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1pywsud/trump_says_hed_back_israeli_attack_on_iran_if_it/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Iran, Israel",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The statement by Trump regarding support for an Israeli attack on Iran if it continues with nuclear and missile programs increases tensions between the two nations and could lead to military conflict, potentially disrupting air travel and logistics in the region.",
+      "immediate_forecast_24h": "Increased diplomatic tensions and possible military mobilization, with a heightened risk of aviation disruptions due to potential airstrikes or missile launches.",
+      "strategic_outlook": "Long-term escalation of conflict could lead to significant disruptions in global oil supplies, increased risk of terrorism, and heightened security measures for aviation and logistics.",
+      "operational_impact": "Potential for flight restrictions, increased security screening, and delays in cargo transport due to conflict in the region, affecting both aviation and logistics operations.",
+      "proximity_alert": null
+    }
   }
 ]
