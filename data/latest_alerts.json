@@ -1,24 +1,5 @@
 [
   {
-    "id": "8deffe6a5bae265746fd444ea78a88d6",
-    "timestamp": "2025-12-30T13:43:28.897735",
-    "original_title": "Iran: Protests over the cost of living",
-    "link": "https://www.france24.com/en/video/20251230-iran-protests-over-the-cost-of-living",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Civil Unrest",
-      "risk_score": 10,
-      "location": "Tehran, Iran",
-      "latitude": 35.6892,
-      "longitude": 51.389,
-      "detailed_analysis": "Protests over the cost of living in Iran may lead to disruptions in supply chains and logistics, potentially affecting cargo and personnel movement.",
-      "immediate_forecast_24h": "Protests are likely to continue, with potential for increased unrest and clashes with authorities.",
-      "strategic_outlook": "The economic situation in Iran may continue to deteriorate, leading to prolonged civil unrest and potential instability.",
-      "operational_impact": "Transportation and logistics operations may be disrupted, and personnel may face increased risks due to the protests and potential unrest.",
-      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
-    }
-  },
-  {
     "id": "85526f50ed834649f27d3971f823ae55",
     "timestamp": "2025-12-30T14:28:20.692229",
     "original_title": "Have Russian claims of Ukraine attack on Putin home ended hopes for peace? - Al Jazeera",
@@ -53,6 +34,63 @@
       "immediate_forecast_24h": "Increased military presence and tensions are expected to continue, with potential for miscalculations or accidents that could escalate the situation.",
       "strategic_outlook": "Long-term implications include heightened tensions between China and Taiwan, potentially affecting global supply chains and trade routes, as well as increased risk of conflict in the region.",
       "operational_impact": "Potential disruptions to air traffic, shipping lanes, and logistics operations in the region, with possible rerouting of flights and cargo vessels to avoid the area.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "90ec10c443a907d472d28bf5a2e63bbb",
+    "timestamp": "2025-12-30T15:30:12.684191",
+    "original_title": "Russian “Ghost Ship” Sank While Smuggling Nuclear Reactor Parts Likely Bound for North Korea | United24",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1pzk12a/russian_ghost_ship_sank_while_smuggling_nuclear/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Crime/Conflict",
+      "risk_score": 7,
+      "location": "Unknown, International Waters",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "A Russian 'ghost ship' sank while smuggling nuclear reactor parts likely bound for North Korea, indicating a significant threat to global security and potential proliferation of nuclear materials.",
+      "immediate_forecast_24h": "Increased surveillance and interception efforts by international authorities are expected in response to this incident, potentially disrupting smuggling operations and heightening tensions between involved nations.",
+      "strategic_outlook": "Long-term implications include heightened scrutiny of maritime traffic, especially in regions known for smuggling, and potential escalation of diplomatic tensions between nations involved in or affected by the smuggling operation.",
+      "operational_impact": "The incident may lead to increased security measures for cargo ships, particularly those carrying sensitive or restricted materials, and could impact the efficiency and cost of international maritime trade.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "ae443dbf19fd39a14163e581dd12682e",
+    "timestamp": "2025-12-30T15:30:15.091967",
+    "original_title": "Zelensky: Drone strike on Putin residence accusation ‘complete fabrication’",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pzklru/zelensky_drone_strike_on_putin_residence/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 10,
+      "location": "Moscow, Russia",
+      "latitude": 55.7558,
+      "longitude": 37.6176,
+      "detailed_analysis": "Ukrainian President Zelensky denies accusations of a drone strike on Putin's residence, calling it a 'complete fabrication'. The situation is tense, with potential for escalation in the conflict between Ukraine and Russia.",
+      "immediate_forecast_24h": "Increased security measures around high-profile targets, potential for retaliatory actions or further accusations.",
+      "strategic_outlook": "Ongoing conflict between Ukraine and Russia may lead to increased instability in the region, potentially affecting aviation and logistics operations.",
+      "operational_impact": "Potential for disruptions to air travel, increased security screening, and heightened alertness for drone sightings or other aerial threats.",
+      "proximity_alert": "YAKIN TEHDİT: Vnukovo International Airport (27 km)"
+    }
+  },
+  {
+    "id": "d2afc8ffb74a7cfc8be67504b9f429e2",
+    "timestamp": "2025-12-30T15:32:50.865875",
+    "original_title": "Aer Lingus flight makes emergency landing at UK airport",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/passengers-evacuation-aer-lingus-emergency-b2892035.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 6,
+      "location": "UK",
+      "latitude": 54.0,
+      "longitude": -2.0,
+      "detailed_analysis": "An Aer Lingus flight made an emergency landing at a UK airport after departing from Barbados, indicating a potential safety or security issue.",
+      "immediate_forecast_24h": "Investigations into the cause of the emergency landing will likely be conducted, and the airline may face disruptions to its operations.",
+      "strategic_outlook": "The incident may lead to increased scrutiny of the airline's safety procedures and potential changes to its emergency protocols.",
+      "operational_impact": "The emergency landing may cause delays or cancellations of flights, affecting passengers and cargo, and potentially disrupting logistics operations.",
       "proximity_alert": null
     }
   }
