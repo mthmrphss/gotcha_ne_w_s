@@ -1,24 +1,5 @@
 [
   {
-    "id": "e67bcb55a0afaefcc1bc87192aab0bcc",
-    "timestamp": "2025-12-30T20:33:45.854136",
-    "original_title": "Dozens detained in Turkey as authorities intensify operations against IS",
-    "link": "http://www.africanews.com/2025/12/30/dozens-detained-in-turkey-as-authorities-intensify-operations-against-is/",
-    "source_name": "Africa News",
-    "ai_analysis": {
-      "category": "Terrorism/Civil Unrest",
-      "risk_score": 6,
-      "location": "Istanbul, Turkey",
-      "latitude": 41.0083,
-      "longitude": 28.975,
-      "detailed_analysis": "Turkish authorities have launched large-scale operations against the Islamic State (IS) terror group, detaining dozens of people in Istanbul and Ankara, indicating a heightened security posture and potential for further disruptions",
-      "immediate_forecast_24h": "Increased security checks and potential for further arrests or operations, potentially affecting transportation and logistics in the region",
-      "strategic_outlook": "Long-term efforts to prevent IS attacks may lead to sustained security measures, potentially impacting travel and cargo operations in Turkey",
-      "operational_impact": "Potential delays or disruptions to air travel, cargo transport, and personnel movement in and around Istanbul and Ankara due to heightened security",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "e2f149dd4481339f4ccd2625c2f6a626",
     "timestamp": "2025-12-30T21:26:50.258723",
     "original_title": "Why is China holding military drills encircling Taiwan now? - NPR",
@@ -72,6 +53,25 @@
       "immediate_forecast_24h": "Increased security measures are expected in affected countries, potentially causing delays in cargo transport and aviation operations. The situation is volatile and may escalate further.",
       "strategic_outlook": "Long-term instability in the region may lead to increased security costs, potential rerouting of cargo and aviation operations, and heightened risk of crime and terrorism. Proactive measures should be taken to mitigate these risks.",
       "operational_impact": "Potential disruptions to supply chains, increased security protocols for personnel, and possible rerouting of flights or cargo shipments to avoid affected areas.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "d1ae7b2ee35aea6af4267f1997f81e4b",
+    "timestamp": "2025-12-30T21:46:48.205102",
+    "original_title": "Turkey arrests 357 people in operation against Islamic State group",
+    "link": "https://www.france24.com/en/asia-pacific/20251230-turkey-arrests-357-people-in-operation-against-islamic-state-group",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 7,
+      "location": "Turkey",
+      "latitude": 39.0,
+      "longitude": 35.0,
+      "detailed_analysis": "Turkey has arrested 357 people linked to the Islamic State group, indicating a potential threat to aviation and personnel during Christmas and New Year, suggesting a heightened state of alert is necessary",
+      "immediate_forecast_24h": "Increased security measures are expected at airports and public gatherings, with potential for travel disruptions",
+      "strategic_outlook": "The threat from the Islamic State group remains high in the region, and continued vigilance is required to prevent attacks on assets, cargo, aviation, and personnel",
+      "operational_impact": "Potential for increased security screening, delays, and cancellations of flights, as well as enhanced security protocols for cargo and personnel",
       "proximity_alert": null
     }
   }
