@@ -1,43 +1,5 @@
 [
   {
-    "id": "0178a1ff5e78e3b2cc225823cc81ed2d",
-    "timestamp": "2025-12-30T04:44:01.695762",
-    "original_title": "China kicks off second day of military drills around Taiwan - Al Jazeera",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNlgyaFdRUjhyMmRtSmlRUnhHR0xycEFCTF9Zd05FeFZiQnVVTFFHQndBTXBaLTQ5NGp0aGtsV0d5VVNiWFZIZ3FGc2o0bDZnQTdGemNld0Q0Y25JNmI2alVNR29qX3Z2UHFQcWZTbm9MTXN5b0xUNnN4Y0JWakUwTmUwVUliSk43Wmo4UW1wSUVPSUpzaEpRNG0yMVdEVEtGSFMw0gGoAUFVX3lxTE9fdjlPNEVwVU92SzBnRU9TSEM4OUJlOVBIcEVSTE9qcVhXT3lVaThxT1VQMDVjUERNMFBwWm1fLUNTYWV3dXE1RHRsMWgxMUUzQ2hKVzA1ZGlBU3o4aHFHS19LUFZXMXNKV21iSHpmWklEbEtROEktSnZYT0l3Vy13Y2ZYVlYxTHNPdGVsUURkRUU3SVlnQ0ZHcFNyY1hnQVQ5eWtuUHJnUA?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 8,
-      "location": "Taiwan, China",
-      "latitude": 23.5,
-      "longitude": 121.0,
-      "detailed_analysis": "China's military drills around Taiwan pose a significant threat to regional stability, potentially disrupting air traffic and maritime trade routes. The increased military presence could lead to accidents or miscalculations, affecting aviation and cargo operations.",
-      "immediate_forecast_24h": "Heightened tensions and increased military activity are expected to continue in the short term, with potential disruptions to air and sea traffic in the region.",
-      "strategic_outlook": "The long-term implications of China's military drills around Taiwan could lead to a permanent increase in military presence, altering the regional security landscape and potentially affecting global trade routes.",
-      "operational_impact": "The military drills may cause delays or rerouting of flights and cargo ships, impacting logistics and supply chains. Airlines and shipping companies may need to adjust their routes or schedules to avoid the affected areas.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "2a6aab1e518667f7960f896d3698db3c",
-    "timestamp": "2025-12-30T04:44:09.141760",
-    "original_title": "Saudi-led coalition says targeted weapons shipments from UAE in Yemen",
-    "link": "https://www.france24.com/en/live-news/20251230-saudi-led-coalition-says-targeted-arms-shipments-from-uae-in-yemen",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict/Aviation",
-      "risk_score": 8,
-      "location": "Yemen",
-      "latitude": 15.0,
-      "longitude": 48.0,
-      "detailed_analysis": "The Saudi-led coalition's air strikes on weapons and combat vehicles being unloaded in Yemen from ships arriving from the UAE pose a significant threat to aviation and cargo security in the region. The escalation of tensions between Riyadh and Abu Dhabi-backed factions could lead to further instability and conflict.",
-      "immediate_forecast_24h": "Increased military activity and air strikes are expected in the region, potentially disrupting air traffic and cargo operations. There is a high risk of collateral damage to civilian infrastructure and personnel.",
-      "strategic_outlook": "The ongoing conflict in Yemen is likely to continue, with the potential for further escalation and spillover into neighboring countries. This could lead to long-term disruptions to regional air traffic and cargo operations, as well as increased security risks for personnel and assets.",
-      "operational_impact": "The air strikes and conflict in Yemen may impact air traffic control, cargo handling, and logistics operations in the region. There may be disruptions to supply chains, and increased security measures may be necessary to protect personnel and assets.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "cc7a6228707bc8098ebb3e50668fe552",
     "timestamp": "2025-12-30T05:30:22.802950",
     "original_title": "Aid workers find little life in Sudan's al-Fashir after paramilitary takeover",
@@ -54,6 +16,82 @@
       "strategic_outlook": "Long-term instability in the region could lead to sustained disruptions in transport and logistics, affecting both local and international operations, with potential for spill-over into neighboring regions.",
       "operational_impact": "Potential disruptions to air and ground transport, increased risk to personnel and cargo, and challenges in maintaining the security of aid deliveries and other critical supplies.",
       "proximity_alert": null
+    }
+  },
+  {
+    "id": "79d844ae4bc99553b7d5377b28f29bef",
+    "timestamp": "2025-12-30T06:28:58.579652",
+    "original_title": "Executives say cybersecurity has outgrown the IT department - Help Net Security",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNW1PcEJRNHdqaU5BcVRFVmp6ZGdzVDNwNnlKWjkwV0FVa1JpYmxnM3dpR2twUG0xaXo5VFktaHRCVkRsLW5OWFYtSklGOEt5UVVqRnpyRnlFeGVzV3JDWDZuZ1AyWTc3cTdKVG1zbnZmbGJRMzJkNDJPSnZILWlDUU80VHltdTBEdFdMT1V5ZFJGaUNoVS12VQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 6,
+      "location": "Global",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Executives believe cybersecurity has expanded beyond the IT department, indicating a growing concern for cyber threats across all aspects of business operations, including those related to assets, cargo, aviation, and personnel.",
+      "immediate_forecast_24h": "Increased awareness and discussions among executives about the need for enhanced cybersecurity measures are expected, potentially leading to short-term adjustments in security protocols.",
+      "strategic_outlook": "Long-term, this trend may lead to significant investments in cybersecurity, potentially altering how companies approach and integrate security into their operations, affecting transport and logistics through more secure digital systems.",
+      "operational_impact": "The recognition of cybersecurity as a broader business concern rather than solely an IT issue may lead to more comprehensive security measures, potentially reducing the risk of cyber-attacks on critical infrastructure, including those related to aviation and cargo management.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "45d721988f4d2f854153790e1f2ab2b0",
+    "timestamp": "2025-12-30T06:29:03.338778",
+    "original_title": "Russia accuses Ukraine of drone attack on Putin's residence; Trump reacts",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pzajf3/russia_accuses_ukraine_of_drone_attack_on_putins/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 10,
+      "location": "Moscow, Russia",
+      "latitude": 55.7558,
+      "longitude": 37.6176,
+      "detailed_analysis": "A drone attack on Putin's residence has been reported, with Russia accusing Ukraine of the incident. This event has the potential to escalate tensions between the two nations and impact regional stability.",
+      "immediate_forecast_24h": "Increased military alertness and potential retaliation from Russia are expected in the short term. This may lead to heightened security measures in the region, affecting aviation and logistics operations.",
+      "strategic_outlook": "The long-term implications of this incident could lead to increased conflict between Russia and Ukraine, potentially drawing in other nations and affecting global stability. This may result in prolonged disruptions to transport and logistics in the region.",
+      "operational_impact": "Aviation and logistics operations in the region may be impacted due to increased security measures, potential airspace restrictions, and supply chain disruptions. Cargo and personnel movement may be affected, and contingency planning is recommended.",
+      "proximity_alert": "YAKIN TEHDİT: Vnukovo International Airport (27 km)"
+    }
+  },
+  {
+    "id": "c55d7a5e1112f55f1ab8cf3033529e35",
+    "timestamp": "2025-12-30T06:29:05.570143",
+    "original_title": "China military drills to disrupt international flights to, from Taiwan",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pzacyd/china_military_drills_to_disrupt_international/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Taiwan, China",
+      "latitude": 23.5,
+      "longitude": 121.0,
+      "detailed_analysis": "China's military drills are expected to disrupt international flights to and from Taiwan, posing a significant threat to aviation safety and security. The drills may lead to airspace restrictions, flight delays, and cancellations, affecting cargo and passenger transport.",
+      "immediate_forecast_24h": "Increased military activity in the region, potential for flight disruptions and airspace restrictions. Airlines and cargo operators may need to reroute or reschedule flights to avoid affected areas.",
+      "strategic_outlook": "Escalating tensions between China and Taiwan may lead to prolonged disruptions to air travel and cargo transport. The situation may also impact regional stability and global supply chains.",
+      "operational_impact": "Flight disruptions, potential for cargo delays, increased security measures at airports, and possible restrictions on air traffic in the region. Airlines, cargo operators, and logistics companies should monitor the situation closely and plan for contingencies.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "364831f3ae112cfcecf505d0dd505267",
+    "timestamp": "2025-12-30T06:29:08.504376",
+    "original_title": "Live: Trump 'very angry' about alleged Ukrainian attack on Putin's home",
+    "link": "https://www.france24.com/en/europe/20251230-live-trump-very-angry-about-alleged-ukrainian-attack-on-putin-s-home",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 10,
+      "location": "Northern Russia, Russia",
+      "latitude": 60.0,
+      "longitude": 30.0,
+      "detailed_analysis": "Alleged Ukrainian attack on Putin's residence in northern Russia, with claims of state terrorism and potential escalation of conflict. No evidence provided, and Ukraine dismisses claims as baseless.",
+      "immediate_forecast_24h": "Tensions between Russia and Ukraine may escalate, potentially affecting regional stability and transport logistics. Russia may review its negotiating stance, but negotiations are unlikely to cease immediately.",
+      "strategic_outlook": "Long-term implications of the alleged attack may lead to increased military presence and heightened security measures in the region, potentially disrupting cargo and aviation operations.",
+      "operational_impact": "Potential disruptions to transport and logistics in the region, particularly for cargo and aviation operations. Increased security measures may lead to delays and additional costs for operators.",
+      "proximity_alert": "YAKIN TEHDİT: Pulkovo Airport (26 km)"
     }
   }
 ]
