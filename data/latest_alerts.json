@@ -36,5 +36,43 @@
       "operational_impact": "Potential for increased security checks and delays in the Sydney area, particularly in tourist destinations like Bondi Beach. Aviation and cargo operations are not directly impacted, but vigilance may be heightened.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "0178a1ff5e78e3b2cc225823cc81ed2d",
+    "timestamp": "2025-12-30T04:44:01.695762",
+    "original_title": "China kicks off second day of military drills around Taiwan - Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNlgyaFdRUjhyMmRtSmlRUnhHR0xycEFCTF9Zd05FeFZiQnVVTFFHQndBTXBaLTQ5NGp0aGtsV0d5VVNiWFZIZ3FGc2o0bDZnQTdGemNld0Q0Y25JNmI2alVNR29qX3Z2UHFQcWZTbm9MTXN5b0xUNnN4Y0JWakUwTmUwVUliSk43Wmo4UW1wSUVPSUpzaEpRNG0yMVdEVEtGSFMw0gGoAUFVX3lxTE9fdjlPNEVwVU92SzBnRU9TSEM4OUJlOVBIcEVSTE9qcVhXT3lVaThxT1VQMDVjUERNMFBwWm1fLUNTYWV3dXE1RHRsMWgxMUUzQ2hKVzA1ZGlBU3o4aHFHS19LUFZXMXNKV21iSHpmWklEbEtROEktSnZYT0l3Vy13Y2ZYVlYxTHNPdGVsUURkRUU3SVlnQ0ZHcFNyY1hnQVQ5eWtuUHJnUA?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Taiwan, China",
+      "latitude": 23.5,
+      "longitude": 121.0,
+      "detailed_analysis": "China's military drills around Taiwan pose a significant threat to regional stability, potentially disrupting air traffic and maritime trade routes. The increased military presence could lead to accidents or miscalculations, affecting aviation and cargo operations.",
+      "immediate_forecast_24h": "Heightened tensions and increased military activity are expected to continue in the short term, with potential disruptions to air and sea traffic in the region.",
+      "strategic_outlook": "The long-term implications of China's military drills around Taiwan could lead to a permanent increase in military presence, altering the regional security landscape and potentially affecting global trade routes.",
+      "operational_impact": "The military drills may cause delays or rerouting of flights and cargo ships, impacting logistics and supply chains. Airlines and shipping companies may need to adjust their routes or schedules to avoid the affected areas.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "2a6aab1e518667f7960f896d3698db3c",
+    "timestamp": "2025-12-30T04:44:09.141760",
+    "original_title": "Saudi-led coalition says targeted weapons shipments from UAE in Yemen",
+    "link": "https://www.france24.com/en/live-news/20251230-saudi-led-coalition-says-targeted-arms-shipments-from-uae-in-yemen",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Yemen",
+      "latitude": 15.0,
+      "longitude": 48.0,
+      "detailed_analysis": "The Saudi-led coalition's air strikes on weapons and combat vehicles being unloaded in Yemen from ships arriving from the UAE pose a significant threat to aviation and cargo security in the region. The escalation of tensions between Riyadh and Abu Dhabi-backed factions could lead to further instability and conflict.",
+      "immediate_forecast_24h": "Increased military activity and air strikes are expected in the region, potentially disrupting air traffic and cargo operations. There is a high risk of collateral damage to civilian infrastructure and personnel.",
+      "strategic_outlook": "The ongoing conflict in Yemen is likely to continue, with the potential for further escalation and spillover into neighboring countries. This could lead to long-term disruptions to regional air traffic and cargo operations, as well as increased security risks for personnel and assets.",
+      "operational_impact": "The air strikes and conflict in Yemen may impact air traffic control, cargo handling, and logistics operations in the region. There may be disruptions to supply chains, and increased security measures may be necessary to protect personnel and assets.",
+      "proximity_alert": null
+    }
   }
 ]
