@@ -8035,5 +8035,62 @@
       "operational_impact": "The heist may cause a temporary disruption to banking operations in the affected area, but is unlikely to have a significant impact on the overall transport and logistics sector.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "2f446bbb3e1e3b5408822aeb479258ce",
+    "timestamp": "2025-12-30T18:41:08.959875",
+    "original_title": "Protests Over Iran’s Currency Crash and Inflation Spread to Universities",
+    "link": "https://www.nytimes.com/2025/12/30/world/middleeast/iran-protests-currency-inflation-universities.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Protests over Iran's currency crash and inflation have spread to universities, putting pressure on Iranian leaders. The situation is volatile, with potential for escalation due to threats of military strikes from Israel and the United States.",
+      "immediate_forecast_24h": "Protests are likely to continue, potentially spreading to other areas. There is a risk of clashes between protesters and security forces, which could impact transport and logistics in the region.",
+      "strategic_outlook": "The long-term outlook is uncertain, with the potential for further escalation of tensions between Iran, Israel, and the United States. This could lead to increased instability in the region, affecting aviation, cargo, and personnel.",
+      "operational_impact": "The protests and potential for further unrest may impact transport and logistics in Iran, particularly in the aviation sector. There is a risk of disruptions to flights, and cargo operations may be affected by the unrest.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "06533a6c220c54e3447f0c9992281991",
+    "timestamp": "2025-12-30T18:41:11.528380",
+    "original_title": "Saudi Arabia strikes Yemen port al-Mukalla over UAE weapons shipment",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pzpzbj/saudi_arabia_strikes_yemen_port_almukalla_over/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "al-Mukalla, Yemen",
+      "latitude": 14.5333,
+      "longitude": 49.1333,
+      "detailed_analysis": "Saudi Arabia has struck the Yemen port of al-Mukalla due to a UAE weapons shipment, indicating heightened tensions and potential for further conflict in the region, which could impact aviation and cargo operations.",
+      "immediate_forecast_24h": "Increased military activity and potential for retaliatory strikes in the region, posing a threat to aviation and cargo safety.",
+      "strategic_outlook": "Long-term instability in the region could lead to sustained disruptions in cargo and aviation operations, affecting global supply chains and logistics.",
+      "operational_impact": "Potential for delays or cancellations of flights and cargo shipments through al-Mukalla and surrounding areas, with possible ripple effects on regional and global logistics operations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "663775a757accdfbfd7fbd3838def05a",
+    "timestamp": "2025-12-30T18:42:39.424607",
+    "original_title": "U.S. Foreign Policy Surprises in 2025",
+    "link": "https://warontherocks.com/2025/12/u-s-foreign-policy-surprises-in-2025/",
+    "source_name": "War on the Rocks",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 6,
+      "location": "Southern Caribbean",
+      "latitude": 12.0,
+      "longitude": -68.0,
+      "detailed_analysis": "The buildup of U.S. forces in the southern Caribbean and strikes on Iran may lead to increased tensions and potential conflict, posing a risk to aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Heightened military activity and potential for escalation in the region, with possible disruptions to air traffic and shipping lanes.",
+      "strategic_outlook": "Long-term instability in the region may lead to increased security measures and potential for conflict, affecting transport and logistics operations.",
+      "operational_impact": "Potential for flight delays or cancellations, increased security checks for cargo and personnel, and possible disruptions to supply chains.",
+      "proximity_alert": null
+    }
   }
 ]
