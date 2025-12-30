@@ -1,43 +1,5 @@
 [
   {
-    "id": "dc167cd3eed577dbbb1d8c0a99dda9a4",
-    "timestamp": "2025-12-30T03:49:37.101307",
-    "original_title": "Saudi-led coalition launches air strike at Yemen's Mukalla port",
-    "link": "https://www.reddit.com/r/worldnews/comments/1pz7jq1/saudiled_coalition_launches_air_strike_at_yemens/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict/Aviation",
-      "risk_score": 8,
-      "location": "Mukalla, Yemen",
-      "latitude": 14.5333,
-      "longitude": 49.1333,
-      "detailed_analysis": "The Saudi-led coalition has launched an air strike at Yemen's Mukalla port, posing a significant threat to aviation and cargo operations in the region. The strike may disrupt logistics and transportation, and could potentially lead to further escalation of the conflict.",
-      "immediate_forecast_24h": "Increased tensions and potential for further air strikes or retaliation in the next 24 hours, with possible disruptions to air traffic and cargo operations.",
-      "strategic_outlook": "Long-term instability and conflict in the region may lead to sustained disruptions to transportation and logistics, with potential for increased risk to personnel and assets.",
-      "operational_impact": "Air strikes and conflict in the region may impact aviation operations, including flight routes and cargo transport, with potential for delays or cancellations. Cargo and personnel in the region may be at increased risk due to the conflict.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "b33b24b2e7a0e48ee6848acf7151ddd3",
-    "timestamp": "2025-12-30T03:49:40.073611",
-    "original_title": "Australian police say Bondi Beach mass shooting suspects 'acted alone'",
-    "link": "https://www.france24.com/en/live-news/20251230-police-say-bondi-beach-mass-shooting-suspects-acted-alone",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Terrorism/Crime",
-      "risk_score": 6,
-      "location": "Sydney, Australia",
-      "latitude": -33.8688,
-      "longitude": 151.2093,
-      "detailed_analysis": "A mass shooting occurred at Bondi Beach, Sydney, with a father and son accused of acting alone without links to a wider terrorist cell. Overseas travel had raised suspicions, but no evidence of a larger plot has been found.",
-      "immediate_forecast_24h": "Increased security presence expected in the area, with potential for heightened alertness and surveillance. No immediate indication of further attacks or threats.",
-      "strategic_outlook": "Long-term implications may include increased scrutiny of individuals with overseas travel history and potential revisions to security protocols in public areas.",
-      "operational_impact": "Potential for increased security checks and delays in the Sydney area, particularly in tourist destinations like Bondi Beach. Aviation and cargo operations are not directly impacted, but vigilance may be heightened.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "0178a1ff5e78e3b2cc225823cc81ed2d",
     "timestamp": "2025-12-30T04:44:01.695762",
     "original_title": "China kicks off second day of military drills around Taiwan - Al Jazeera",
@@ -72,6 +34,25 @@
       "immediate_forecast_24h": "Increased military activity and air strikes are expected in the region, potentially disrupting air traffic and cargo operations. There is a high risk of collateral damage to civilian infrastructure and personnel.",
       "strategic_outlook": "The ongoing conflict in Yemen is likely to continue, with the potential for further escalation and spillover into neighboring countries. This could lead to long-term disruptions to regional air traffic and cargo operations, as well as increased security risks for personnel and assets.",
       "operational_impact": "The air strikes and conflict in Yemen may impact air traffic control, cargo handling, and logistics operations in the region. There may be disruptions to supply chains, and increased security measures may be necessary to protect personnel and assets.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "cc7a6228707bc8098ebb3e50668fe552",
+    "timestamp": "2025-12-30T05:30:22.802950",
+    "original_title": "Aid workers find little life in Sudan's al-Fashir after paramilitary takeover",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pz9b4d/aid_workers_find_little_life_in_sudans_alfashir/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 7,
+      "location": "al-Fashir, Sudan",
+      "latitude": 13.6333,
+      "longitude": 25.35,
+      "detailed_analysis": "Aid workers have reported minimal life in Sudan's al-Fashir following a paramilitary takeover, indicating a high level of instability and potential for violence in the region, which could impact local and regional transport and logistics operations.",
+      "immediate_forecast_24h": "Increased tensions and potential clashes between paramilitary groups and local populations, with possible disruptions to aid deliveries and local commerce.",
+      "strategic_outlook": "Long-term instability in the region could lead to sustained disruptions in transport and logistics, affecting both local and international operations, with potential for spill-over into neighboring regions.",
+      "operational_impact": "Potential disruptions to air and ground transport, increased risk to personnel and cargo, and challenges in maintaining the security of aid deliveries and other critical supplies.",
       "proximity_alert": null
     }
   }
