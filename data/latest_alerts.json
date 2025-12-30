@@ -1,24 +1,5 @@
 [
   {
-    "id": "b4b2edca072dd6b16111d04f009d950a",
-    "timestamp": "2025-12-30T14:49:52.108424",
-    "original_title": "China encircles Taiwan in massive military display",
-    "link": "https://www.reddit.com/r/worldnews/comments/1pzjuu8/china_encircles_taiwan_in_massive_military_display/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 8,
-      "location": "Taiwan, China",
-      "latitude": 23.5,
-      "longitude": 121.0,
-      "detailed_analysis": "China's military display encircling Taiwan poses a significant threat to regional stability and aviation safety, potentially disrupting air traffic and logistics in the area.",
-      "immediate_forecast_24h": "Increased military presence and tensions are expected to continue, with potential for miscalculations or accidents that could escalate the situation.",
-      "strategic_outlook": "Long-term implications include heightened tensions between China and Taiwan, potentially affecting global supply chains and trade routes, as well as increased risk of conflict in the region.",
-      "operational_impact": "Potential disruptions to air traffic, shipping lanes, and logistics operations in the region, with possible rerouting of flights and cargo vessels to avoid the area.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "90ec10c443a907d472d28bf5a2e63bbb",
     "timestamp": "2025-12-30T15:30:12.684191",
     "original_title": "Russian “Ghost Ship” Sank While Smuggling Nuclear Reactor Parts Likely Bound for North Korea | United24",
@@ -111,6 +92,25 @@
       "strategic_outlook": "The long-term implications of this recognition may lead to changes in regional dynamics, potentially affecting trade routes, aviation security, and personnel safety in the Horn of Africa.",
       "operational_impact": "Minimal immediate impact on transport and logistics, but potential for increased security measures and travel restrictions in the region.",
       "proximity_alert": "YAKIN TEHDİT: Paramount Hotel (5 km)"
+    }
+  },
+  {
+    "id": "81b64055b034dad7b5a14749415a7a4a",
+    "timestamp": "2025-12-30T16:35:54.680981",
+    "original_title": "‘Data is control’: what we learned from a year investigating the Israeli military’s ties to big tech",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1pzlkno/data_is_control_what_we_learned_from_a_year/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Cyber/Conflict",
+      "risk_score": 6,
+      "location": "Israel",
+      "latitude": 31.7833,
+      "longitude": 35.2167,
+      "detailed_analysis": "Investigation into Israeli military's ties to big tech reveals potential cyber threats and data breaches, which could compromise national security and impact global logistics and transport",
+      "immediate_forecast_24h": "Increased scrutiny of Israeli military's tech partnerships, potential for data leaks or cyber attacks",
+      "strategic_outlook": "Long-term implications for global cybersecurity, potential for increased tensions between nations, and impact on international trade and commerce",
+      "operational_impact": "Potential disruptions to supply chains, logistics, and transport operations due to cyber threats or data breaches",
+      "proximity_alert": null
     }
   }
 ]
