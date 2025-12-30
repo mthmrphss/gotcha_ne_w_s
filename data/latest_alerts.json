@@ -93,5 +93,81 @@
       "operational_impact": "Potential for delays or disruptions to cargo shipments, increased security measures for aviation operations, and heightened risk of attacks on personnel and assets in the region.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "5254a9e234f4de113a46d64ff923a8ea",
+    "timestamp": "2025-12-30T07:29:18.309794",
+    "original_title": "China fires several rockets around Taiwan during live military drills - Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNlgyaFdRUjhyMmRtSmlRUnhHR0xycEFCTF9Zd05FeFZiQnVVTFFHQndBTXBaLTQ5NGp0aGtsV0d5VVNiWFZIZ3FGc2o0bDZnQTdGemNld0Q0Y25JNmI2alVNR29qX3Z2UHFQcWZTbm9MTXN5b0xUNnN4Y0JWakUwTmUwVUliSk43Wmo4UW1wSUVPSUpzaEpRNG0yMVdEVEtGSFMw0gGoAUFVX3lxTE9fdjlPNEVwVU92SzBnRU9TSEM4OUJlOVBIcEVSTE9qcVhXT3lVaThxT1VQMDVjUERNMFBwWm1fLUNTYWV3dXE1RHRsMWgxMUUzQ2hKVzA1ZGlBU3o4aHFHS19LUFZXMXNKV21iSHpmWklEbEtROEktSnZYT0l3Vy13Y2ZYVlYxTHNPdGVsUURkRUU3SVlnQ0ZHcFNyY1hnQVQ5eWtuUHJnUA?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Taiwan, China",
+      "latitude": 23.5,
+      "longitude": 121.0,
+      "detailed_analysis": "China has fired several rockets around Taiwan during live military drills, posing a significant threat to aviation and regional stability. The drills may disrupt air traffic and pose a risk to aircraft in the vicinity.",
+      "immediate_forecast_24h": "Increased military activity and tensions in the region are expected to continue, with potential disruptions to air travel and logistics. The situation may escalate further, leading to additional security measures and restrictions.",
+      "strategic_outlook": "The long-term implications of these military drills may lead to increased tensions between China and Taiwan, potentially affecting trade and economic relationships in the region. The situation may also impact global supply chains and logistics, particularly for companies with operations in the region.",
+      "operational_impact": "The military drills and rocket firings may cause disruptions to air traffic, potentially leading to flight delays or cancellations. Shipping and logistics operations in the region may also be affected, with potential delays or increased security measures for cargo and personnel.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "55ceb618ba291b48a0ae90f77913fa57",
+    "timestamp": "2025-12-30T07:29:22.679321",
+    "original_title": "Lithuania’s far right party Dawn of Nemunas is weighing up a move into the far-right Patriots for Europe group in the European Parliament, according to party leader Remigijus Žemaitaitis",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pzbns1/lithuanias_far_right_party_dawn_of_nemunas_is/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest/Other",
+      "risk_score": 10,
+      "location": "Lithuania",
+      "latitude": 54.6872,
+      "longitude": 25.2797,
+      "detailed_analysis": "Lithuania's far-right party, Dawn of Nemunas, is considering joining the far-right Patriots for Europe group in the European Parliament, which may lead to increased tensions and potential civil unrest.",
+      "immediate_forecast_24h": "No immediate threats to assets, cargo, aviation, or personnel are expected, but the situation will be monitored for potential escalation.",
+      "strategic_outlook": "The rise of far-right movements in Europe may lead to increased instability and potential security threats in the long term, particularly if such groups gain more influence in European politics.",
+      "operational_impact": "Currently, no direct operational impact on transport or logistics is anticipated, but the situation will be closely watched for any signs of disruption or increased security measures.",
+      "proximity_alert": "YAKIN TEHDİT: Vilnius International Airport (5 km)"
+    }
+  },
+  {
+    "id": "5323c25fb2ae1050a325ffed261b48af",
+    "timestamp": "2025-12-30T07:29:26.545926",
+    "original_title": "Iran's president urges government to listen to protesters 'legitimate demands'",
+    "link": "https://www.france24.com/en/middle-east/20251230-iran-s-president-urges-government-to-listen-to-protesters-legitimate-demands",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Protests by shopkeepers in Tehran due to Iran's currency hitting new lows, with the president urging the government to listen to protesters' legitimate demands, indicating potential for increased unrest but no direct threat to assets, cargo, aviation, or personnel at this time.",
+      "immediate_forecast_24h": "Protests may continue or escalate, potentially disrupting local commerce and transport, but no significant impact on international logistics or aviation expected in the next 24 hours.",
+      "strategic_outlook": "Long-term economic instability in Iran could lead to increased civil unrest, potentially affecting regional stability and trade, but current protests are focused on domestic economic issues.",
+      "operational_impact": "Minimal direct impact on transport or logistics expected, but potential for disruptions to local supply chains and commerce; monitoring of the situation is advised for any changes that could affect operations.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "bccfa09822bf57aa5ad8f2277dadb5c8",
+    "timestamp": "2025-12-30T07:29:28.391012",
+    "original_title": "Yemen declares emergency as Saudi Arabia bombs Mukalla port over UAE weapons shipment",
+    "link": "https://www.france24.com/en/live-news/20251230-saudi-led-coalition-says-targeted-arms-shipments-from-uae-in-yemen",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Aviation/Crime",
+      "risk_score": 8,
+      "location": "Mukalla, Yemen",
+      "latitude": 14.5333,
+      "longitude": 49.1333,
+      "detailed_analysis": "Saudi Arabia's bombing of Mukalla port due to an alleged UAE weapons shipment to separatist forces signals a significant escalation in regional tensions, posing a high risk to aviation, cargo, and personnel in the area.",
+      "immediate_forecast_24h": "Increased military activity and potential for further airstrikes in the region, heightened security measures at ports and airports, possible disruptions to cargo and aviation operations.",
+      "strategic_outlook": "Long-term instability and conflict in the region may lead to sustained disruptions to transport and logistics, impacting global supply chains and requiring adaptive security measures.",
+      "operational_impact": "Potential for delays or cancellations of flights and cargo shipments, increased security checks, and heightened vigilance for potential attacks on aviation and logistics infrastructure.",
+      "proximity_alert": null
+    }
   }
 ]
