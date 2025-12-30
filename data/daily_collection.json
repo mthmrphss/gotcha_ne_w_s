@@ -6952,5 +6952,43 @@
       "operational_impact": "Potential disruptions to logistics and transport in the region, increased security risks for personnel and cargo, and heightened vigilance required for aviation and maritime operations.",
       "proximity_alert": "YAKIN TEHDİT: Maiquetía \"Simón Bolívar\" International Airport (4 km)"
     }
+  },
+  {
+    "id": "dc167cd3eed577dbbb1d8c0a99dda9a4",
+    "timestamp": "2025-12-30T03:49:37.101307",
+    "original_title": "Saudi-led coalition launches air strike at Yemen's Mukalla port",
+    "link": "https://www.reddit.com/r/worldnews/comments/1pz7jq1/saudiled_coalition_launches_air_strike_at_yemens/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Mukalla, Yemen",
+      "latitude": 14.5333,
+      "longitude": 49.1333,
+      "detailed_analysis": "The Saudi-led coalition has launched an air strike at Yemen's Mukalla port, posing a significant threat to aviation and cargo operations in the region. The strike may disrupt logistics and transportation, and could potentially lead to further escalation of the conflict.",
+      "immediate_forecast_24h": "Increased tensions and potential for further air strikes or retaliation in the next 24 hours, with possible disruptions to air traffic and cargo operations.",
+      "strategic_outlook": "Long-term instability and conflict in the region may lead to sustained disruptions to transportation and logistics, with potential for increased risk to personnel and assets.",
+      "operational_impact": "Air strikes and conflict in the region may impact aviation operations, including flight routes and cargo transport, with potential for delays or cancellations. Cargo and personnel in the region may be at increased risk due to the conflict.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "b33b24b2e7a0e48ee6848acf7151ddd3",
+    "timestamp": "2025-12-30T03:49:40.073611",
+    "original_title": "Australian police say Bondi Beach mass shooting suspects 'acted alone'",
+    "link": "https://www.france24.com/en/live-news/20251230-police-say-bondi-beach-mass-shooting-suspects-acted-alone",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Terrorism/Crime",
+      "risk_score": 6,
+      "location": "Sydney, Australia",
+      "latitude": -33.8688,
+      "longitude": 151.2093,
+      "detailed_analysis": "A mass shooting occurred at Bondi Beach, Sydney, with a father and son accused of acting alone without links to a wider terrorist cell. Overseas travel had raised suspicions, but no evidence of a larger plot has been found.",
+      "immediate_forecast_24h": "Increased security presence expected in the area, with potential for heightened alertness and surveillance. No immediate indication of further attacks or threats.",
+      "strategic_outlook": "Long-term implications may include increased scrutiny of individuals with overseas travel history and potential revisions to security protocols in public areas.",
+      "operational_impact": "Potential for increased security checks and delays in the Sydney area, particularly in tourist destinations like Bondi Beach. Aviation and cargo operations are not directly impacted, but vigilance may be heightened.",
+      "proximity_alert": null
+    }
   }
 ]
