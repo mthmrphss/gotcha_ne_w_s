@@ -1,24 +1,5 @@
 [
   {
-    "id": "2800f2603c0eb0cf6fdcc6bc43c454ab",
-    "timestamp": "2025-12-31T19:41:03.562168",
-    "original_title": "Police investigating potential security threat to Cleveland Hopkins International Airport - Cleveland 19 News",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb1ZZYWhUaFYwSGp5clI0MEpIeEkzOUFyZDIydmtzZlhYZmtwc09BLUdSVEE3TkszWmwteWhfbUpJdmY0NzFEaFdrRXJrV29kVHdGdFBlYy0zVndfZURqdHFEcFAtV250RVJMLXZRcno1Q0NETEtOeHNMNmlPVGNvRktTSzhDTnNQc0pjV01lVTZOWEFodWpOSkRyMmhHaFJTVlFpbl9NR3NWM3E3Mkxybl91cF8tbW55M3FMaHpNU0J1NWxE?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Aviation/Crime",
-      "risk_score": 7,
-      "location": "Cleveland, USA",
-      "latitude": 41.4117,
-      "longitude": -81.8499,
-      "detailed_analysis": "A potential security threat is being investigated at Cleveland Hopkins International Airport, indicating a possible risk to aviation safety and security.",
-      "immediate_forecast_24h": "Increased security measures are likely to be implemented at the airport, potentially causing minor disruptions to flights and passenger traffic.",
-      "strategic_outlook": "The incident highlights the need for continued vigilance and robust security protocols at airports to prevent and respond to potential threats.",
-      "operational_impact": "The investigation and any subsequent security enhancements may cause short-term operational delays, but are essential to ensuring the safety of passengers, personnel, and cargo.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "d3d621fddd160553e42eb51d81e2cb4e",
     "timestamp": "2025-12-31T19:42:40.306221",
     "original_title": "Measles cases detected at two major US airports with officials warning travellers to get tested",
@@ -54,6 +35,25 @@
       "strategic_outlook": "Prolonged civil unrest could have long-term implications for the regional economy, trade, and security, potentially affecting aviation and cargo operations.",
       "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics operations due to the shutdowns and protests, with possible delays or cancellations of flights and shipments.",
       "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "0e2383cd6233bbf431318cc39a606726",
+    "timestamp": "2025-12-31T20:48:08.231565",
+    "original_title": "One killed, several security forces wounded in Syria's Aleppo after suicide attack - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORl9lWnB6LWJDUXBGRllUdlk3MGtYTDBhSTBVQ3F5ZFJPUndEcDktYnZ6WDdNbkVOa2FOc3lkdk9DekFabHBpcm5nRFpDYnNXOE5hMlJPRE41WXpSNE9wck1lZGVjYVgyMW9YWGp6Ny1HWGp5RnNWWDJ5WXgtN3EydUVnY0VhV3VOMUxXQ1I3cUtvZHR2Tks2bXY4akVYajgtb1NFT2pPQQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Aleppo, Syria",
+      "latitude": 36.2019,
+      "longitude": 37.1619,
+      "detailed_analysis": "A suicide attack in Aleppo, Syria has resulted in one death and several security forces wounded, indicating a high level of threat to personnel and potential disruption to local assets and cargo operations.",
+      "immediate_forecast_24h": "Increased security presence and potential for retaliatory attacks or further violence in the short term, affecting local stability and transport operations.",
+      "strategic_outlook": "Long-term instability and conflict in Syria continue to pose significant risks to assets, cargo, aviation, and personnel, with potential for escalation or spillover into neighboring regions.",
+      "operational_impact": "Transport and logistics operations in the region may be disrupted due to increased security measures, potential for further attacks, and ongoing conflict, necessitating heightened vigilance and contingency planning.",
+      "proximity_alert": "YAKIN TEHDİT: Aleppo International Airport (6 km)"
     }
   }
 ]
