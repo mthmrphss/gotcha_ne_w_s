@@ -606,5 +606,62 @@
       "operational_impact": "Potential disruptions to air travel, cargo transport, and supply chains, as well as increased risk to personnel and assets in the region.",
       "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
     }
+  },
+  {
+    "id": "929ab10e75f2ecde717a4ad70e5b492a",
+    "timestamp": "2025-12-31T10:49:54.510413",
+    "original_title": "Syrian man arrested in Dutch port city two weeks ago was plotting a Christmas terrorist attack in Europe, prosecutors allege",
+    "link": "https://www.reddit.com/r/worldnews/comments/1q0a6np/syrian_man_arrested_in_dutch_port_city_two_weeks/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Terrorism/Crime",
+      "risk_score": 10,
+      "location": "Dutch port city, Netherlands",
+      "latitude": 51.9244,
+      "longitude": 4.4786,
+      "detailed_analysis": "A Syrian man was arrested in a Dutch port city for allegedly plotting a Christmas terrorist attack in Europe. The plot's specifics are not detailed, but the fact that it was planned during a peak holiday season suggests a high potential for damage and disruption to both personnel and assets.",
+      "immediate_forecast_24h": "Increased security measures are expected in European cities, particularly in areas with high foot traffic during the holiday season. This may lead to delays or disruptions in logistics and transportation.",
+      "strategic_outlook": "The long-term impact of this plot could lead to increased security protocols in European ports and cities, potentially affecting the efficiency of cargo transport and aviation operations. It may also lead to heightened tensions and increased surveillance of potential terrorist activities.",
+      "operational_impact": "The immediate operational impact is likely to be minimal since the plot was foiled, but the strategic outlook suggests potential increases in security checks, which could slow down cargo and passenger movement through affected areas.",
+      "proximity_alert": "YAKIN TEHDİT: Rotterdam The Hague Airport (4 km)"
+    }
+  },
+  {
+    "id": "e35d96e23d9923e1db3f40932b0af018",
+    "timestamp": "2025-12-31T10:49:56.449297",
+    "original_title": "Ukraine Sets New Record With 24 Strikes on Russian Oil & Gas Sites in December",
+    "link": "https://www.reddit.com/r/worldnews/comments/1q0a30p/ukraine_sets_new_record_with_24_strikes_on/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Ukraine/Russia",
+      "latitude": 48.3794,
+      "longitude": 31.1656,
+      "detailed_analysis": "Ukraine has conducted 24 strikes on Russian oil and gas sites in December, setting a new record. This escalation in conflict poses significant risks to assets, cargo, aviation, and personnel in the region.",
+      "immediate_forecast_24h": "Increased tensions between Ukraine and Russia are expected, with potential for further strikes or retaliatory actions. This may lead to disruptions in oil and gas supplies, as well as potential risks to aviation and transport in the region.",
+      "strategic_outlook": "The long-term outlook for the region remains uncertain, with ongoing conflict and tensions between Ukraine and Russia. This may lead to sustained disruptions to transport and logistics, as well as potential risks to assets and personnel.",
+      "operational_impact": "The conflict may impact transport and logistics operations in the region, including potential disruptions to oil and gas supplies, as well as risks to aviation and cargo. Operators should exercise caution and monitor the situation closely to minimize risks.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "81ce568ce5a640fdcdf9ddf1acca4035",
+    "timestamp": "2025-12-31T10:49:58.873332",
+    "original_title": "'Iran's Tainanmen': Video of protester defying police in Iran goes viral",
+    "link": "https://www.france24.com/en/video/20251231-iran-s-tainanmen-video-of-protester-defying-police-in-iran-goes-viral",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Protests against economic hardship in Iran have led to demonstrations and clashes with police, with a notable incident of a protester defying police going viral. The situation may escalate and affect transport and logistics in the region.",
+      "immediate_forecast_24h": "Continued protests and potential escalation of violence, with possible disruptions to local transport and logistics.",
+      "strategic_outlook": "Long-term instability in Iran could impact regional trade and transport, with potential for increased security measures and disruptions to supply chains.",
+      "operational_impact": "Potential disruptions to ground transport and logistics in Tehran and surrounding areas, with possible impacts on cargo and personnel movement.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
   }
 ]
