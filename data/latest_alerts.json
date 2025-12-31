@@ -36,5 +36,43 @@
       "operational_impact": "The emergency declaration may cause delays or disruptions to military logistics and transport operations, particularly if the aircraft is carrying critical cargo or personnel. It may also have an impact on the availability of air assets for military operations in the region.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "79f76983fcee37a4f1d28858bfef0bd8",
+    "timestamp": "2025-12-31T07:47:30.981177",
+    "original_title": "Saudi Arabia reveals details of Yemen bombing, as UAE set to withdraw",
+    "link": "https://www.reddit.com/r/worldnews/comments/1q07dji/saudi_arabia_reveals_details_of_yemen_bombing_as/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Yemen, Saudi Arabia",
+      "latitude": 15.552,
+      "longitude": 48.516,
+      "detailed_analysis": "The recent bombing in Yemen and the UAE's decision to withdraw forces indicate heightened tensions in the region, posing a significant threat to aviation and cargo operations.",
+      "immediate_forecast_24h": "Increased military activity and potential for further clashes between Saudi Arabia and Yemen, with possible spillover effects on aviation and logistics in the region.",
+      "strategic_outlook": "Long-term instability in the region may lead to sustained risks for aviation, cargo, and personnel, with potential for increased terrorism and conflict.",
+      "operational_impact": "Potential disruptions to air traffic, cargo transport, and logistics operations in the region, with possible rerouting of flights and cargo shipments to avoid affected areas.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "9eed5540f0b0a1bac314a7699046acf1",
+    "timestamp": "2025-12-31T07:47:33.726373",
+    "original_title": "Thailand releases 18 Cambodian soldiers held prisoner since July border clashes",
+    "link": "https://www.france24.com/en/live-news/20251231-thailand-releases-18-cambodian-soldiers-held-since-july",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Border/Civil Unrest",
+      "risk_score": 6,
+      "location": "Thai-Cambodian border",
+      "latitude": 14.3572,
+      "longitude": 103.2739,
+      "detailed_analysis": "The release of 18 Cambodian soldiers after border clashes between Thailand and Cambodia indicates a temporary easing of tensions, but the conflict has caused significant displacement and loss of life, suggesting ongoing instability in the region.",
+      "immediate_forecast_24h": "The ceasefire is expected to hold in the short term, but the potential for renewed violence remains, particularly if there are disputes over the terms of the agreement or if there are incidents that provoke either side.",
+      "strategic_outlook": "The long-term outlook for the region is uncertain, with the potential for ongoing clashes and instability, which could impact trade and travel in the area. The conflict could also have broader regional implications, depending on how other countries in Southeast Asia respond.",
+      "operational_impact": "The conflict and resulting instability could impact transport and logistics in the region, particularly for ground and air cargo moving between Thailand and Cambodia. There may be increased security measures and potential delays at border crossings.",
+      "proximity_alert": null
+    }
   }
 ]
