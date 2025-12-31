@@ -1,24 +1,5 @@
 [
   {
-    "id": "e95013c67a48608b1bbfe0ad421cfac5",
-    "timestamp": "2025-12-31T14:48:16.070651",
-    "original_title": "New deep-sea search for missing Malaysia Airlines flight MH370 begins",
-    "link": "https://www.independent.co.uk/travel/news-and-advice/mh370-malaysia-airlines-flight-new-search-b2892718.html",
-    "source_name": "Independent Travel",
-    "ai_analysis": {
-      "category": "Aviation",
-      "risk_score": 6,
-      "location": "Indian Ocean",
-      "latitude": -20.0,
-      "longitude": 80.0,
-      "detailed_analysis": "A new deep-sea search for missing Malaysia Airlines flight MH370 has begun, indicating ongoing concerns and efforts to resolve the mystery of the flight's disappearance",
-      "immediate_forecast_24h": "The search operation is expected to continue without any immediate impact on current aviation operations, but the discovery of the wreckage could potentially reveal new information about the cause of the disappearance",
-      "strategic_outlook": "The long-term implications of this search could lead to improved safety measures and protocols in aviation, particularly in relation to tracking and monitoring flights over remote areas",
-      "operational_impact": "The search operation may have a minimal impact on air traffic in the region, but the findings could have significant implications for the aviation industry as a whole, particularly in terms of safety and security",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "7ef0c1a077b2948ff145a8c175f630f8",
     "timestamp": "2025-12-31T15:46:14.967397",
     "original_title": "Sydney sends message of peace for New Year's after Bondi terror attack - BBC",
@@ -34,6 +15,44 @@
       "immediate_forecast_24h": "Increased security measures are expected in the region, particularly around New Year's celebrations, which may cause disruptions to transport and logistics. The risk of further attacks or incidents is elevated.",
       "strategic_outlook": "The long-term impact of this incident may lead to increased security protocols and surveillance in the region, potentially affecting the efficiency and cost of transport and logistics operations.",
       "operational_impact": "Transport and logistics operations in the region may experience delays or disruptions due to increased security measures, and companies should be prepared for potential changes in the security landscape.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "ff1822ad93db14cbca1b4c54a7ec5946",
+    "timestamp": "2025-12-31T16:34:08.338971",
+    "original_title": "China announces it 'successfully completed' Taiwan military maneuvers - PBS",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNGdZRmJ4UWh1WXRwcXJyWkRCYklnOE5NRkktT2NySU9tbUFkUW95S1F0X1pvdjFXVm5SeHNNTEVraHRVOUM5Ym5YdlNRTGRpYzQ1b2xGd2tULVRjMVRORUlFWTBfT1BTUTZwbmwzVTRhRVY3SkN6T0RvaW5rTUhoRkd3YW9MRlBvYlp1ZFJlVDNJZXV4WHFLSldnX20xNnViMHpJR9IBqgFBVV95cUxNOVIwN0tOVWFqMFJxRDhfRGItNEl6bi1Ra3k3VzQtanpId0FBSUwzeXdmVDNKOHFDRE10aWlHMVlKTlg3UzhKOVpHQ1RvLVBwZFktTjVNN0JzcUd2YnBUWHJtM19KdzNBbTFIR2cyRlNCZFh3UUhyRlZDancwZVk5TEEySTljWEdXeldvWVdxMVEtUWE4dS05V2FpTkxKRUZzdG1VU3BpNm1ZUQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Taiwan, China",
+      "latitude": 23.5,
+      "longitude": 121.0,
+      "detailed_analysis": "China's successful completion of military maneuvers near Taiwan poses a significant threat to regional stability and aviation security. The increased military presence could lead to heightened tensions, potentially disrupting air traffic and logistics in the area.",
+      "immediate_forecast_24h": "In the next 24 hours, there is a high likelihood of continued military activity in the region, which may lead to airspace restrictions or closures, affecting flight operations and cargo transport.",
+      "strategic_outlook": "In the long term, the escalation of military tensions between China and Taiwan could lead to a prolonged period of instability, affecting trade and economic relations in the region. This may result in increased security measures, potentially impacting the efficiency of logistics and supply chain operations.",
+      "operational_impact": "The military maneuvers may cause disruptions to air traffic, potentially leading to flight delays or cancellations. Additionally, the increased military presence could lead to enhanced security screenings, affecting cargo processing times and overall logistics efficiency.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "61155a4842065f7ee010a57412203ab4",
+    "timestamp": "2025-12-31T16:35:34.619684",
+    "original_title": "Russia plans to conduct military exercises in the Northern Territories of the Kuril Islands of Japan for two months, from New Year's Day to March 1st",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1q0f4he/russia_plans_to_conduct_military_exercises_in_the/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Kuril Islands, Japan",
+      "latitude": 45.493333,
+      "longitude": 148.620556,
+      "detailed_analysis": "Russia's planned military exercises in the Northern Territories of the Kuril Islands pose a significant threat to regional stability and may impact aviation and maritime transport in the area.",
+      "immediate_forecast_24h": "Increased military activity in the region may lead to heightened tensions between Russia and Japan, potentially affecting air traffic and shipping routes.",
+      "strategic_outlook": "The exercises may be a demonstration of Russia's military capabilities and a show of force in the region, which could have long-term implications for regional security and stability.",
+      "operational_impact": "Potential disruptions to air traffic and shipping routes, increased risk of accidents or incidents involving military aircraft or vessels, and possible impacts on logistics and supply chains in the region.",
       "proximity_alert": null
     }
   }
