@@ -93,5 +93,43 @@
       "operational_impact": "Minimal direct impact on transport and logistics, but potential for disruptions if civil unrest occurs.",
       "proximity_alert": "YAKIN TEHDİT: San Francisco International Airport (17 km)"
     }
+  },
+  {
+    "id": "14c004787569e5b9d909c2ef2a61e2b3",
+    "timestamp": "2025-12-31T23:26:23.896055",
+    "original_title": "Local families mark one year since Bourbon Street terror attack - WAFB",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQV0FCeGF2U1FzTFc4azJLaFRTWGpwOHNaaDE2akU0dGtONzlhaDdJaWtLNnpwdlpGRGVoZ28xQ3dRcURxR0V0aFhoaWMzWHhQVTJXTV9XZGhyNVRUV0hWaWRXRnMxRmlFVVZRanh0RDJETHZNMlhreGZfd2swX3FRcVNiSnl3NXBGb1cxeTZyQ1AxNzE0X3E2UTFKVVI?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism/Civil Unrest",
+      "risk_score": 6,
+      "location": "New Orleans, USA",
+      "latitude": 29.9511,
+      "longitude": -90.0715,
+      "detailed_analysis": "The event marks the one-year anniversary of a terror attack on Bourbon Street, indicating a potential for increased security measures and vigilance in the area. The attack's impact on local families and the community may lead to heightened tensions and emotional responses.",
+      "immediate_forecast_24h": "Increased security presence and potential for memorial events or gatherings, which may cause temporary disruptions to traffic and pedestrian flow in the area.",
+      "strategic_outlook": "Long-term, the anniversary may serve as a reminder of the need for sustained security efforts and community engagement to prevent similar incidents. It could also lead to reviews of security protocols and emergency response plans.",
+      "operational_impact": "Potential for short-term operational delays or diversions in the immediate area due to security measures or events. However, the overall impact on transport and logistics in the region is expected to be minimal.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "a8d05c56401c239549728fb017d0d53b",
+    "timestamp": "2025-12-31T23:26:28.825685",
+    "original_title": "US Coast Guard searches for survivors after strike on suspected drug vessels",
+    "link": "https://www.reddit.com/r/worldnews/comments/1q0pw3j/us_coast_guard_searches_for_survivors_after/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Crime/Conflict",
+      "risk_score": 10,
+      "location": "US Coast",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "detailed_analysis": "A strike on suspected drug vessels has resulted in a search for survivors by the US Coast Guard, indicating a high level of criminal activity and potential conflict in the area.",
+      "immediate_forecast_24h": "Increased security presence and potential for further law enforcement action in the area, with possible disruptions to maritime traffic.",
+      "strategic_outlook": "Long-term efforts to combat drug smuggling and related criminal activity in the region may lead to enhanced security measures and cooperation between law enforcement agencies.",
+      "operational_impact": "Potential delays or disruptions to cargo shipments and maritime transport in the area, with possible increased security protocols for vessels and personnel.",
+      "proximity_alert": "YAKIN TEHDİT: Miami International Airport (10 km)"
+    }
   }
 ]
