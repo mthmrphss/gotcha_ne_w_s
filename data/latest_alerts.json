@@ -93,5 +93,43 @@
       "operational_impact": "Transportation and logistics operations in Tehran may be affected due to the protests, with potential delays or disruptions to cargo movement. Aviation operations may also be impacted if the protests spread to the airport or affect air traffic control.",
       "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
     }
+  },
+  {
+    "id": "2800f2603c0eb0cf6fdcc6bc43c454ab",
+    "timestamp": "2025-12-31T19:41:03.562168",
+    "original_title": "Police investigating potential security threat to Cleveland Hopkins International Airport - Cleveland 19 News",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb1ZZYWhUaFYwSGp5clI0MEpIeEkzOUFyZDIydmtzZlhYZmtwc09BLUdSVEE3TkszWmwteWhfbUpJdmY0NzFEaFdrRXJrV29kVHdGdFBlYy0zVndfZURqdHFEcFAtV250RVJMLXZRcno1Q0NETEtOeHNMNmlPVGNvRktTSzhDTnNQc0pjV01lVTZOWEFodWpOSkRyMmhHaFJTVlFpbl9NR3NWM3E3Mkxybl91cF8tbW55M3FMaHpNU0J1NWxE?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation/Crime",
+      "risk_score": 7,
+      "location": "Cleveland, USA",
+      "latitude": 41.4117,
+      "longitude": -81.8499,
+      "detailed_analysis": "A potential security threat is being investigated at Cleveland Hopkins International Airport, indicating a possible risk to aviation safety and security.",
+      "immediate_forecast_24h": "Increased security measures are likely to be implemented at the airport, potentially causing minor disruptions to flights and passenger traffic.",
+      "strategic_outlook": "The incident highlights the need for continued vigilance and robust security protocols at airports to prevent and respond to potential threats.",
+      "operational_impact": "The investigation and any subsequent security enhancements may cause short-term operational delays, but are essential to ensuring the safety of passengers, personnel, and cargo.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "d3d621fddd160553e42eb51d81e2cb4e",
+    "timestamp": "2025-12-31T19:42:40.306221",
+    "original_title": "Measles cases detected at two major US airports with officials warning travellers to get tested",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/measles-new-jersey-boston-airports-b2892835.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Other",
+      "risk_score": 10,
+      "location": "Newark and Boston, USA",
+      "latitude": 40.6925,
+      "longitude": -74.1685,
+      "detailed_analysis": "Measles cases detected at Newark Liberty International Airport and Boston Logan International Airport, posing a health risk to travellers and personnel",
+      "immediate_forecast_24h": "Travellers may face increased health screenings and potential quarantine measures, with officials warning of further cases",
+      "strategic_outlook": "The outbreak may lead to increased health and safety protocols at US airports, potentially impacting travel and logistics operations",
+      "operational_impact": "Minimal direct impact on cargo and aviation operations, but potential for increased delays and disruptions due to health screenings and precautions",
+      "proximity_alert": "YAKIN TEHDİT: Newark International Airport (0 km)"
+    }
   }
 ]
