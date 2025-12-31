@@ -663,5 +663,62 @@
       "operational_impact": "Potential disruptions to ground transport and logistics in Tehran and surrounding areas, with possible impacts on cargo and personnel movement.",
       "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
     }
+  },
+  {
+    "id": "28ea7a12c938f87da10bd5a59a123b22",
+    "timestamp": "2025-12-31T11:25:16.016854",
+    "original_title": "AllerVie Health Patients Affected by Ransomware Attack - The HIPAA Journal",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvVHM4Nm1WLXlWWW9xUDUtcm5CU2JTMkFXc3ExdUx0RmYzd1pEenR6TEdxTWtUYkhTZ0s5U1pXa3NMck5GYUxUYUd5bnpRVEhVNk1HWTZxb2N3WE1LWnZiMkQwdWpFLU9n?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 6,
+      "location": "Unknown, USA",
+      "latitude": 37.0902,
+      "longitude": -95.7129,
+      "detailed_analysis": "A ransomware attack has affected AllerVie Health patients, potentially compromising sensitive medical information and disrupting healthcare services.",
+      "immediate_forecast_24h": "The situation is likely to unfold with the attackers demanding a ransom in exchange for the decryption key, and the healthcare provider working to contain and mitigate the damage.",
+      "strategic_outlook": "This incident highlights the growing threat of cyberattacks in the healthcare sector, emphasizing the need for robust cybersecurity measures to protect sensitive patient data and maintain continuity of care.",
+      "operational_impact": "The attack may impact the ability of AllerVie Health to provide medical services, potentially disrupting the supply chain and logistics of medical supplies and equipment.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "f6aa89712c23cd5023ad37e9b33e8439",
+    "timestamp": "2025-12-31T11:25:23.021746",
+    "original_title": "Protesters take to the streets of Iran as the country's economy collapses",
+    "link": "https://www.reddit.com/r/worldnews/comments/1q0aq8a/protesters_take_to_the_streets_of_iran_as_the/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 6,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Protesters taking to the streets of Iran due to the country's economic collapse poses a significant threat to the stability and security of the region, potentially impacting transport and logistics operations.",
+      "immediate_forecast_24h": "Increased protests and potential clashes with authorities are expected, which may lead to disruptions in transportation and logistics services.",
+      "strategic_outlook": "The ongoing economic crisis and civil unrest may lead to a long-term destabilization of the region, affecting trade and commerce, including aviation and cargo operations.",
+      "operational_impact": "Potential disruptions to air travel, cargo transport, and supply chain operations are expected due to the civil unrest, and companies operating in the region should be prepared for possible delays or cancellations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "9dbc217e2f40494a59c6462badc39c0a",
+    "timestamp": "2025-12-31T11:25:25.030188",
+    "original_title": "Russia Shows Video of Drone It Says Ukraine Fired at Putin Residence",
+    "link": "https://www.reddit.com/r/worldnews/comments/1q0aay6/russia_shows_video_of_drone_it_says_ukraine_fired/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 10,
+      "location": "Moscow, Russia",
+      "latitude": 55.7558,
+      "longitude": 37.6176,
+      "detailed_analysis": "A drone was allegedly fired at Putin's residence, indicating a significant escalation in the conflict between Russia and Ukraine, with potential implications for aviation security and transport logistics in the region.",
+      "immediate_forecast_24h": "Increased security measures are expected around high-profile targets and potential retaliatory actions from Russia, which may impact flight operations and cargo transport in the region.",
+      "strategic_outlook": "The incident may lead to a prolonged period of heightened tensions between Russia and Ukraine, potentially affecting global supply chains, aviation security protocols, and regional stability.",
+      "operational_impact": "Potential disruptions to air traffic, increased security screening, and possible restrictions on cargo transport may occur, affecting the efficiency and reliability of logistics operations in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Vnukovo International Airport (27 km)"
+    }
   }
 ]
