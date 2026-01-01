@@ -587,5 +587,62 @@
       "operational_impact": "The crash may impact local aviation operations, potentially causing delays or disruptions to flights, and highlighting the need for enhanced safety measures to prevent similar incidents in the future.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "2ddf796045c1bb8d2f187820968ed53b",
+    "timestamp": "2026-01-01T09:32:06.627684",
+    "original_title": "Galveston Plane Crash Survivors Show Recovery Progress - Iowa Park Leader",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPLXlVTUV3UFZucHpfQkdtNjJrQVVSNG9kQnhsOXBTazdsUDl4NlFUSXZiVU5EWk13NXBZUjJHU1EtVm1IM2FKa20ySDhGYlp3amVzZTFSMm02UVJkb1Rzb0lrOE1BWENNeENHNFpVbkNlazk0Y29wTVkxejlrNFZ3RWtiSElBaFExSVl4Z3ZzNA?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 6,
+      "location": "Galveston, USA",
+      "latitude": 29.3013,
+      "longitude": -94.7977,
+      "detailed_analysis": "A plane crash occurred in Galveston, but the article focuses on the recovery progress of the survivors, indicating no ongoing or immediate threat to assets, cargo, aviation, or personnel.",
+      "immediate_forecast_24h": "No significant changes or developments are expected in the next 24 hours, as the incident has already occurred and is being managed.",
+      "strategic_outlook": "The incident may lead to increased scrutiny of aviation safety in the region, but no long-term strategic impact is anticipated at this time.",
+      "operational_impact": "The crash may have caused temporary disruptions to local air traffic, but normal operations are likely to resume shortly, with no significant impact on transport or logistics expected.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "419bc24f8de60b55e5583738955f9571",
+    "timestamp": "2026-01-01T09:32:08.678673",
+    "original_title": "Iranian security force member killed as economic protests spread - TRT World",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1UNEM2MWpaaGZzVjhLSnI4eGVZQnkzdWpPdGZXalM0QzNyVU9KeDAtV0RGS19wdXpKcFNvQ2Ffc2ttdVJFZmNlaUVsQnprV2JBWVAtNUlXS2TSAV5BVV95cUxNVmhOdmI1UFpHZUl4SlhZUVdaUGVLNk9PeGF5M0dSRzNjU3Y0VTBPSTVmLWgtbW45MzNPRG03cXAtc3BHVEF0N1hwN2U1eHF3cmJzUWFqRmNxZWJrM1dn?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 6,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Economic protests in Iran have resulted in the death of a security force member, indicating a heightened level of unrest and potential for further violence. This could impact the safety of personnel and assets in the region.",
+      "immediate_forecast_24h": "Protests are likely to continue, potentially spreading to other areas and escalating in intensity. There is a risk of clashes between protesters and security forces, which could lead to further casualties.",
+      "strategic_outlook": "The ongoing economic protests in Iran could have long-term implications for the stability of the region, potentially affecting trade and transport routes. The situation bears monitoring for any signs of escalation or spread to other areas.",
+      "operational_impact": "The unrest could impact the movement of cargo and personnel in Iran, particularly if protests affect major transport hubs or routes. Aviation operations may also be affected if the situation escalates or if there are concerns about the safety of aircraft or passengers.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "7ac23ff8b0193bff75350ff13e6b5b65",
+    "timestamp": "2026-01-01T09:32:13.113280",
+    "original_title": "‘We want the mullahs gone’: economic crisis sparks biggest protests in Iran since 2022",
+    "link": "https://www.reddit.com/r/worldnews/comments/1q0zvbv/we_want_the_mullahs_gone_economic_crisis_sparks/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 6,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The economic crisis in Iran has sparked the biggest protests since 2022, with demonstrators calling for the removal of the mullahs. This unrest could potentially disrupt logistics and transportation in the region, particularly if protests escalate or spread to key infrastructure points.",
+      "immediate_forecast_24h": "Protests are likely to continue, potentially leading to clashes with security forces and further destabilization. There is a risk of disruption to transport hubs and key routes.",
+      "strategic_outlook": "The long-term outlook for Iran is uncertain, with the potential for ongoing civil unrest and instability. This could have significant implications for regional security and the safe passage of goods and personnel.",
+      "operational_impact": "Transportation and logistics operations in Iran may be affected, with potential delays or disruptions to cargo movements. Aviation operations may also be impacted, particularly if protests target airports or other critical infrastructure.",
+      "proximity_alert": null
+    }
   }
 ]
