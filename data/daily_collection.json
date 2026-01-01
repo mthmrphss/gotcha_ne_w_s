@@ -1100,5 +1100,81 @@
       "operational_impact": "Shipping and logistics companies should exercise caution when navigating the region, with potential for delays or disruptions due to military operations or increased security measures.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "f14e5efbedab2d6c14e6b5bd7c4a9c0b",
+    "timestamp": "2026-01-01T19:22:44.211915",
+    "original_title": "Russia hands to U.S. what it says is proof of attempted Ukrainian strike on Putin residence - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR3dsa3VqZlZ0ckFxUXZoellteFdGbFZQc21qY0xIOGZNTnduT1NoRDQyV2x6U3p2SXd5aGE0R2YyRTdXQVdqbnJ0REhsMjUtRTBPa2YxbmVEUFhDOGpVbl9CN09GNVNsVzVQWlZ6R3JrQTE5ZGJyV2h3LUlnTnFVRUJYNi1ZOHN1RzdRVWtVYXNPQ3ZlVVl2TFBEVDhrYkNobEk3SXpiSkVZNll2d2l1Wl9SUHRBM2Q5eWFLX090a2ZXckk?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 10,
+      "location": "Moscow, Russia",
+      "latitude": 55.7558,
+      "longitude": 37.6176,
+      "detailed_analysis": "Russia claims to have proof of an attempted Ukrainian strike on Putin's residence, which could escalate tensions between the two nations and potentially impact aviation and logistics in the region.",
+      "immediate_forecast_24h": "Increased military alertness and potential retaliation from Russia, with possible airspace restrictions or closures.",
+      "strategic_outlook": "Long-term escalation of the conflict could lead to increased security measures, trade restrictions, and disruptions to global supply chains.",
+      "operational_impact": "Potential delays or cancellations of flights, increased security screening for cargo and personnel, and possible rerouting of logistics operations to avoid affected areas.",
+      "proximity_alert": "YAKIN TEHDİT: Vnukovo International Airport (27 km)"
+    }
+  },
+  {
+    "id": "5583348c462b2698aecfb089d85b5c62",
+    "timestamp": "2026-01-01T19:22:47.322035",
+    "original_title": "Guinea’s Coup Leader Wins Election After Barring Leading Opponents",
+    "link": "https://www.nytimes.com/2026/01/01/world/africa/guinea-election-mamady-doumbouya.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Conakry, Guinea",
+      "latitude": 9.5379,
+      "longitude": -13.6773,
+      "detailed_analysis": "The recent election win by Guinea's coup leader, Col. Mamady Doumbouya, after barring leading opponents, may lead to increased civil unrest and potential conflict, posing a threat to assets, cargo, aviation, and personnel in the region.",
+      "immediate_forecast_24h": "Potential protests and demonstrations are expected in the short term, which may disrupt transportation and logistics operations.",
+      "strategic_outlook": "The long-term stability of the region is uncertain, and the risk of conflict may increase if opposition groups continue to be suppressed, potentially affecting trade and economic activities.",
+      "operational_impact": "Transportation and logistics operations in Guinea may be impacted due to potential civil unrest, and companies should consider contingency plans to mitigate risks to their assets, cargo, and personnel.",
+      "proximity_alert": "YAKIN TEHDİT: Conakry International Airport (8 km)"
+    }
+  },
+  {
+    "id": "64b957e53042fe2c44c96878dc7dfdfd",
+    "timestamp": "2026-01-01T19:22:49.164018",
+    "original_title": "Iran Protests Turn Deadly as Violence and Anger Spread",
+    "link": "https://www.nytimes.com/2026/01/01/world/middleeast/iran-protests-deaths.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 6,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The protests in Iran have turned deadly, with financial pressures fueling widespread demonstrations. The situation poses a significant threat to personnel and assets, particularly in areas where protests are most intense.",
+      "immediate_forecast_24h": "The protests are likely to continue, with the potential for further violence and unrest. Authorities may impose curfews or restrictions on movement, impacting logistics and transport operations.",
+      "strategic_outlook": "The long-term implications of the protests are uncertain, but they may lead to increased instability and potential conflict in the region, affecting aviation and cargo operations.",
+      "operational_impact": "Transport and logistics operations in Iran may be disrupted due to the protests, with potential delays or cancellations of flights, and increased security measures at airports and other critical infrastructure.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "05ee376b805d7aa5217f9798dc3fba7d",
+    "timestamp": "2026-01-01T19:24:54.486425",
+    "original_title": "Putin voices confidence in war victory",
+    "link": "https://www.france24.com/en/video/20260101-putin-voices-confidence-in-war-victory",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 10,
+      "location": "Moscow, Russia",
+      "latitude": 55.7558,
+      "longitude": 37.6176,
+      "detailed_analysis": "A Ukrainian drone was reportedly shot down near one of Vladimir Putin's residences, with Russia planning to provide evidence to the US. This incident raises concerns about the escalation of the conflict and potential targeting of high-profile individuals or locations.",
+      "immediate_forecast_24h": "Increased tensions between Russia and Ukraine, potential for retaliatory actions, and heightened security measures around key infrastructure and personnel.",
+      "strategic_outlook": "The ongoing conflict may lead to further incidents involving drones or other aerial threats, potentially disrupting aviation operations and impacting transport logistics in the region.",
+      "operational_impact": "Possible restrictions on airspace, enhanced security protocols for flights and cargo operations, and increased vigilance for potential drone sightings or other aerial threats.",
+      "proximity_alert": "YAKIN TEHDİT: Vnukovo International Airport (27 km)"
+    }
   }
 ]
