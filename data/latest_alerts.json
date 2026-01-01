@@ -93,5 +93,24 @@
       "operational_impact": "The incident may cause disruptions to flight schedules, and cargo transport may be affected if the flight is carrying cargo. The emergency declaration may also lead to increased security screening for passengers and cargo on subsequent flights.",
       "proximity_alert": "YAKIN TEHDİT: Heathrow Airport (23 km)"
     }
+  },
+  {
+    "id": "4a62430e3ccdbd4b54e71db09a832666",
+    "timestamp": "2026-01-01T14:47:12.483417",
+    "original_title": "US military says five killed in strike on alleged drug boats",
+    "link": "https://www.reddit.com/r/worldnews/comments/1q15gc1/us_military_says_five_killed_in_strike_on_alleged/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Crime",
+      "risk_score": 7,
+      "location": "Unknown, International Waters",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "A US military strike on alleged drug boats has resulted in five fatalities, indicating a high level of conflict and criminal activity in the area, potentially disrupting maritime logistics and transport.",
+      "immediate_forecast_24h": "Increased military presence and patrols in the area, potential for further clashes or strikes, and heightened security measures for cargo and personnel.",
+      "strategic_outlook": "Long-term efforts to combat drug trafficking and smuggling in the region may lead to sustained military presence, increased surveillance, and cooperation between international authorities, potentially reducing the risk of cargo theft and smuggling.",
+      "operational_impact": "Maritime transport and logistics in the area may be affected by increased security measures, potential delays, and rerouting of cargo ships to avoid high-risk areas.",
+      "proximity_alert": null
+    }
   }
 ]
