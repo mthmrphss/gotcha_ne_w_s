@@ -1,24 +1,5 @@
 [
   {
-    "id": "05ee376b805d7aa5217f9798dc3fba7d",
-    "timestamp": "2026-01-01T19:24:54.486425",
-    "original_title": "Putin voices confidence in war victory",
-    "link": "https://www.france24.com/en/video/20260101-putin-voices-confidence-in-war-victory",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict/Aviation",
-      "risk_score": 10,
-      "location": "Moscow, Russia",
-      "latitude": 55.7558,
-      "longitude": 37.6176,
-      "detailed_analysis": "A Ukrainian drone was reportedly shot down near one of Vladimir Putin's residences, with Russia planning to provide evidence to the US. This incident raises concerns about the escalation of the conflict and potential targeting of high-profile individuals or locations.",
-      "immediate_forecast_24h": "Increased tensions between Russia and Ukraine, potential for retaliatory actions, and heightened security measures around key infrastructure and personnel.",
-      "strategic_outlook": "The ongoing conflict may lead to further incidents involving drones or other aerial threats, potentially disrupting aviation operations and impacting transport logistics in the region.",
-      "operational_impact": "Possible restrictions on airspace, enhanced security protocols for flights and cargo operations, and increased vigilance for potential drone sightings or other aerial threats.",
-      "proximity_alert": "YAKIN TEHDİT: Vnukovo International Airport (27 km)"
-    }
-  },
-  {
     "id": "a710bd91f369249ef805f904088413c7",
     "timestamp": "2026-01-01T20:31:03.187191",
     "original_title": "U.S. says China's military activities near Taiwan \"increase tensions unnecessarily\" - CBS News",
@@ -34,6 +15,44 @@
       "immediate_forecast_24h": "In the next 24 hours, there is a possibility of increased military maneuvers and heightened tensions between the U.S., China, and Taiwan, which could lead to temporary disruptions in air and sea traffic.",
       "strategic_outlook": "In the long term, the increased tensions between the U.S., China, and Taiwan could lead to a destabilization of the region, potentially affecting global supply chains and trade routes. This could result in increased costs and delays for cargo and aviation operations.",
       "operational_impact": "The increased military activities near Taiwan could impact flight routes and shipping lanes, potentially causing delays and disruptions to cargo and aviation operations. This may require transport and logistics companies to re-route or adjust their schedules to avoid the affected areas.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "2025df7ec170d7805d0cc41ac81a2810",
+    "timestamp": "2026-01-01T21:26:09.104047",
+    "original_title": "Peruvian municipal officials say three killed in attack on informal mine - Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPenFuMnVxdHFhcnVBcDF3SWpXQkZxZTk2S2pJX0tuYXh0cDBvT0ZwN0V6Mko2eFVRQmR6bmNTZzNGb3g4bTRNTlE3RnVQdWlsemJMa1VmRFRIWkJ1T3Fxa3VjSWtaenltdzdJSTNMeC1hTHZoQnRYcWFNUGcxYlZFOXpZa01WVFBkZ1pmU244TTlMTVVUbWJVYVc3OHphOWFBQzUwSW05QTBPQklnXy1Xbll30gG3AUFVX3lxTFBUWWVISXVPczBGaWNjb2FuR2xLZlVEdkFDcDYyTk1WYUExZFMxRXFOb2VKcEpWYkZXcUtBSjdFTGFvbXQ3SkV4WU9FSkppNlFEYldBTkRWY3BUQV8weHotZ1haZktJQWQtNXFQTGpJSkl1aHhMVmw2al9Lai1xV2tHeW12UzAyVVFtd01RWXhyS19EZFdHTG9UWS1xTEdWMld1cHN0SGtILWtuc2ptU0hyTkQxZklYRQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Crime/Conflict",
+      "risk_score": 6,
+      "location": "Peru",
+      "latitude": -10.0,
+      "longitude": -76.0,
+      "detailed_analysis": "Attack on an informal mine in Peru resulted in three fatalities, indicating a high level of violence and potential instability in the region, which could impact local cargo and personnel security.",
+      "immediate_forecast_24h": "Increased security presence expected in the area, potential for further clashes or retaliatory attacks, and possible disruptions to local mining operations.",
+      "strategic_outlook": "Long-term instability in the region could lead to increased criminal activity, affecting cargo security and transport logistics, and potentially spilling over into other areas of the country.",
+      "operational_impact": "Transport and logistics operations in the region may be affected by increased security measures, potential roadblocks, or community unrest, requiring contingency planning and enhanced security protocols.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "67647eb1ee203a13525922b06c9dfd42",
+    "timestamp": "2026-01-01T21:26:12.640746",
+    "original_title": "Azerbaijan-Armenia peace plan hinges on narrow strip of land along Iran border",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1q1d8px/azerbaijanarmenia_peace_plan_hinges_on_narrow/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict/Border",
+      "risk_score": 6,
+      "location": "Azerbaijan-Armenia border, near Iran",
+      "latitude": 39.2,
+      "longitude": 46.5,
+      "detailed_analysis": "The peace plan between Azerbaijan and Armenia hinges on a narrow strip of land along the Iran border, which could lead to increased tensions and conflict in the region, potentially affecting cargo transport and aviation.",
+      "immediate_forecast_24h": "Tensions may escalate in the short term, with potential for clashes or skirmishes along the border, but a major outbreak of violence is unlikely in the next 24 hours.",
+      "strategic_outlook": "The long-term outlook is uncertain, with the potential for a lasting peace agreement or further conflict, depending on the actions of the parties involved and the international community.",
+      "operational_impact": "The conflict could impact transport and logistics in the region, particularly for cargo shipments and aviation, with potential for delays, disruptions, or even airspace closures.",
       "proximity_alert": null
     }
   }
