@@ -834,5 +834,43 @@
       "operational_impact": "The conflict may impact air traffic and cargo operations in the region, with potential for delays or cancellations, and may also affect personnel and asset security.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "b30b7b645bd36b4353cdcdefbd6b8b77",
+    "timestamp": "2026-01-01T13:39:21.029438",
+    "original_title": "New Orleans marks one year since Bourbon Street terror attack - WWLTV.com",
+    "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPOWVLbzNYNTdLZnluaEpVWVY1WUk3Tmp2THpjN01ZUnI2VUc4cE53WnZSS1lPS1hFVEtVa0pMQ2dkcV95MkFnQ2p5S0NIbzE1LXd0dm5UVVpoTkRLbG1pU0VjN3lyZ2U3T2dsdjNGa1A4d2w4SW1NVlVRZVQySENQMkl3NDAtUjdhZ0VDREtieFFEd240RGRLOVhfV2E1V0tPRE9MN2NyYkVDTk1HRV9Cbkw3RHF4RVBrUV9GMzlEUzQ1RWk2YjFIUDNvd2xkd1hjeTB4WThfQU9jNXBOWE9PR2s2QU5mZ0xCNHNTYzhJd0ZpazB3Y2k5anM0My1lc084TUlvTHQzUllidjRFYlJOWXZ6ekhxVEZtME5yZjF0ejZkWEh2RmRFZXdzblVXeVpLUmMxMlVWbDl3dmJfbW9DeQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism/Civil Unrest",
+      "risk_score": 6,
+      "location": "New Orleans, USA",
+      "latitude": 29.9511,
+      "longitude": -90.0715,
+      "detailed_analysis": "The event marks the one-year anniversary of a terror attack on Bourbon Street, indicating a potential for increased security measures and vigilance in the area. The attack's impact on local security and potential for copycat incidents are concerns.",
+      "immediate_forecast_24h": "Enhanced security presence in the area, potential for protests or memorial events, and heightened vigilance among law enforcement and the public.",
+      "strategic_outlook": "Long-term implications include the potential for sustained increased security measures in high-risk areas, possible changes in crowd control strategies, and ongoing assessments of terror threat levels.",
+      "operational_impact": "Potential for increased security checks, altered traffic patterns, and heightened awareness among personnel and the public in areas prone to such incidents, which could impact logistics and transport operations in the vicinity.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "b234a4fc92f18bf7b32736828c2627e5",
+    "timestamp": "2026-01-01T13:40:43.688611",
+    "original_title": "How Two Powerful U.S. Allies Came to Blows in Yemen",
+    "link": "https://www.nytimes.com/2026/01/01/world/middleeast/uae-saudi-arabia-yemen.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "Yemen",
+      "latitude": 15.552,
+      "longitude": 48.516,
+      "detailed_analysis": "The confrontation between Saudi Arabia and the United Arab Emirates in Yemen poses a significant threat to regional stability, potentially impacting aviation, cargo, and personnel in the area.",
+      "immediate_forecast_24h": "Escalation of tensions may lead to increased military activity, affecting air traffic and logistics in the region.",
+      "strategic_outlook": "Long-term implications of this conflict could lead to a shift in regional alliances, affecting global supply chains and security operations.",
+      "operational_impact": "Potential disruptions to air travel, cargo transport, and personnel movement in and around Yemen, with possible spillover effects into neighboring countries.",
+      "proximity_alert": null
+    }
   }
 ]
