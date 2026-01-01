@@ -359,5 +359,43 @@
       "operational_impact": "Potential disruptions to air traffic, increased security screening, and possible restrictions on flights to and from the region.",
       "proximity_alert": "YAKIN TEHDİT: Vnukovo International Airport (27 km)"
     }
+  },
+  {
+    "id": "b975c3480a3723b3800d60a41668c1ba",
+    "timestamp": "2026-01-01T05:51:23.961555",
+    "original_title": "Taiwan’s president pledges to defend island’s sovereignty after China’s military drills - NBC News",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOLVhpcEJOQ2xWMENIVUhzOC0wSWtpRHlsYUt2Z3U4X2dKZERoTng4LUlzOHJNMktkckE3RFRBc1JLVGZpLVB6NGxYWFZ5aU5kS0tiektFQlRsaHdXUG9HRGdvU09hWG5NT1UxdThXOENuaUVnV0JlSm5NbkdEWXZFOVNkSFJzdnFpRnNFUEQtV2hRWkQySmpqM1FXSXVvNVBGR3JjcUctaXBHcE9oWkVwMNIBVkFVX3lxTE9DeFFWVUxNMm4wZVRFZTdYdS1RYno0T3o1NFZ0VmY4a3pqRkhZWk8xQ1AwV252elBZZk40SWtJM2RaNzJFWlFMMk52RnlyNG96V2NHLTNB?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Taiwan",
+      "latitude": 23.5,
+      "longitude": 121.0,
+      "detailed_analysis": "China's military drills near Taiwan pose a significant threat to the island's sovereignty, and the president's pledge to defend it increases tensions, potentially impacting aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Increased military activity and heightened tensions between China and Taiwan, potentially disrupting air traffic and cargo shipments.",
+      "strategic_outlook": "Long-term escalation of tensions could lead to trade disruptions, increased security measures, and potential conflicts affecting regional logistics and transport.",
+      "operational_impact": "Potential delays or cancellations of flights and cargo shipments, increased security checks, and possible rerouting of air traffic and cargo vessels to avoid the affected area.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "5a6c2e4d91ceb45f2367945683ddbde3",
+    "timestamp": "2026-01-01T05:51:25.632303",
+    "original_title": "Russian drone attack kills three children - News and Sentinel",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVkdUOW90bTF0WVZ4RnhTTGI5M0RDWmEtN2lOaDE1RzlJUjhnTVQ4VDhaOFpwdGwya3g0YklkVEJpWUZTWVhHamkzTU9XYVRLOVUwanpoMmR1ZFVmaXhoNkRGZTJZU2dzQlEwY3Rva3ZSM2NPWXBXeFJzNWlpUXoydEtVYjJiaVFsRTF3SjF6d2g2WHBQeU0tOWloSERJVDA?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Ukraine, Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "A Russian drone attack has resulted in the deaths of three children, indicating a high level of threat to personnel and potentially to aviation assets in the region.",
+      "immediate_forecast_24h": "Increased tensions and potential for further drone attacks in the region, posing a significant risk to aviation and personnel.",
+      "strategic_outlook": "The ongoing conflict in Ukraine poses a long-term risk to aviation, cargo, and personnel in the region, with potential for escalation and increased violence.",
+      "operational_impact": "Transport and logistics operations in the region may be disrupted or suspended due to the increased risk of drone attacks and conflict, with potential for significant delays and losses.",
+      "proximity_alert": null
+    }
   }
 ]
