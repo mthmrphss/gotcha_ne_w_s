@@ -1,24 +1,5 @@
 [
   {
-    "id": "4a62430e3ccdbd4b54e71db09a832666",
-    "timestamp": "2026-01-01T14:47:12.483417",
-    "original_title": "US military says five killed in strike on alleged drug boats",
-    "link": "https://www.reddit.com/r/worldnews/comments/1q15gc1/us_military_says_five_killed_in_strike_on_alleged/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict/Crime",
-      "risk_score": 7,
-      "location": "Unknown, International Waters",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "A US military strike on alleged drug boats has resulted in five fatalities, indicating a high level of conflict and criminal activity in the area, potentially disrupting maritime logistics and transport.",
-      "immediate_forecast_24h": "Increased military presence and patrols in the area, potential for further clashes or strikes, and heightened security measures for cargo and personnel.",
-      "strategic_outlook": "Long-term efforts to combat drug trafficking and smuggling in the region may lead to sustained military presence, increased surveillance, and cooperation between international authorities, potentially reducing the risk of cargo theft and smuggling.",
-      "operational_impact": "Maritime transport and logistics in the area may be affected by increased security measures, potential delays, and rerouting of cargo ships to avoid high-risk areas.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "b898990920d20bfbe33d30a173d48907",
     "timestamp": "2026-01-01T15:28:54.377435",
     "original_title": "One year later after terror attack, New Orleans waits for permanent Bourbon Street safety plan - WWLTV.com",
@@ -72,6 +53,25 @@
       "immediate_forecast_24h": "Increased security measures are likely to be implemented in the area, with a potential for heightened tensions and disruptions to local businesses and transportation. Further attacks or incidents are possible but not imminent.",
       "strategic_outlook": "The long-term impact of the attack will depend on the effectiveness of the investigation and the implementation of security measures to prevent similar incidents. The incident may lead to increased investment in surveillance and security infrastructure in the area.",
       "operational_impact": "The attack may cause disruptions to local transportation and logistics, particularly in the tourism and hospitality sectors. Cargo and personnel movement in the area may be subject to increased security screening and delays.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "5c2eb2840d3c6e96ff77f98fe0786dcc",
+    "timestamp": "2026-01-01T16:35:08.560095",
+    "original_title": "Blast in Switzerland: At least 40 killed, several injured in huge explosion at ski resort bar",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1q16gft/blast_in_switzerland_at_least_40_killed_several/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Terrorism/Civil Unrest",
+      "risk_score": 8,
+      "location": "Ski Resort, Switzerland",
+      "latitude": 46.5167,
+      "longitude": 7.9667,
+      "detailed_analysis": "A blast at a ski resort bar in Switzerland has resulted in at least 40 fatalities and several injuries. The cause of the explosion is currently unknown, but it has the potential to be a terrorist attack or a criminal act, posing a significant threat to personnel and public safety.",
+      "immediate_forecast_24h": "Increased security measures are expected to be implemented in the surrounding area, with potential disruptions to local transportation and tourism. The investigation into the cause of the blast will likely be a priority, with authorities working to determine if it was an intentional act.",
+      "strategic_outlook": "The long-term impact of this incident could be a heightened sense of security awareness in public gathering places, particularly in tourist areas. This may lead to increased security protocols and measures to prevent similar incidents in the future.",
+      "operational_impact": "The blast may cause disruptions to local transportation, particularly in the ski resort area, as security measures are increased. This could impact the movement of people and cargo, with potential delays or restrictions in the area.",
       "proximity_alert": null
     }
   }
