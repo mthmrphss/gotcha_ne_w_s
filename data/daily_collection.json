@@ -720,5 +720,62 @@
       "operational_impact": "Shipping and logistics operations in the Baltic Sea region may be affected, with potential delays and increased security checks, while telecommunications services may also be impacted due to the sabotage of the undersea cable.",
       "proximity_alert": "YAKIN TEHDİT: Helsinki Airport (16 km)"
     }
+  },
+  {
+    "id": "d07fa9040729c3cfb743a38cfb488429",
+    "timestamp": "2026-01-01T11:24:40.487954",
+    "original_title": "Russia accuses Ukraine of killing 24 people in New Year drone strike - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVjY3Y3RPUk8tbXlkQVZfY19FQTk0bGI1M0FSUWNrR3dNLTZrV3dyY000TDhnbkJ2dXVwakUwVmVncjE1VEo3SElGYzAxTnd4TXJIem9kcm53Ym9BZENqcW44cVIxS2pta1k4YWtUWnR5SzNvVzFGWnZHczZZcU1leTRaSnJEV0wxUWtBTmxPZTZzMkdqbHo5Qmh5bmhFX3prUmtSS2tpcnRsNlNQM05SZGtSLVhiaUhCbzcwZy1MVlV3SVE?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Ukraine/Russia",
+      "latitude": 48.3794,
+      "longitude": 31.1656,
+      "detailed_analysis": "A drone strike allegedly carried out by Ukraine has resulted in the deaths of 24 people in Russia, significantly escalating tensions between the two nations and posing a substantial threat to aviation and regional stability.",
+      "immediate_forecast_24h": "Heightened military alertness and potential for retaliatory actions from Russia, increasing the risk of further drone strikes or military engagements in the region.",
+      "strategic_outlook": "Long-term escalation of the conflict could lead to increased instability in the region, affecting aviation routes, cargo transport, and the safety of personnel, with potential spillover effects on global security and trade.",
+      "operational_impact": "Potential disruptions to air traffic, increased security measures for cargo and personnel, and heightened vigilance for drone sightings or strikes in the region, necessitating contingency planning for transport and logistics operations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "99d6fae6d2aa9d5632fd61cad5bd8136",
+    "timestamp": "2026-01-01T11:24:45.972877",
+    "original_title": "Flight makes emergency landing after engine shuts down mid-air - MSN",
+    "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPNmJsMVhYMVJJaGg4Mk5MYTBzREFDUzhPVVhTQ0NqQ1VhRUZ3YWtaMjhQbDRoSTk2Z2VmMXFFb0JMdmR3MWxNek4tYkJPQkNCZlBJcUZkZHFUWmVzOFhfQkFJTUpQQ00zems4QzlQOWdDOUE0dHFqaGozcXYzOG5ybzF4V3NEZWRGbG1uUmNjeGpqdTZxdm55Rmw5NDQ5RGx5N25mQ2VRbEVrZWVpYkdXU3h0Q0E5WndoZjBIWklZWUdCUEZrWEVGVHFQbDFzNENWa19UbHJpMm1yWm5TTWZHV2lPZTIzOExGZW9RM1BsWXZmREI2SHJvT2w4S0FmVzFrc0p1TGRSUmJyMmRzR0JFY05PaGNZSldFLVY4SW53bUotbk8xb25tMEd5WDRSQnZaSTZ2U0hGamJtNWF2VkRPZ29sZGhDRzQ?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 8,
+      "location": "Unknown, Unknown",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "A flight made an emergency landing after one of its engines shut down mid-air, posing a significant risk to the safety of passengers and crew. The cause of the engine shutdown is unknown and could be due to mechanical failure, human error, or other factors.",
+      "immediate_forecast_24h": "Investigations into the cause of the engine shutdown will likely begin immediately, and the airline may ground similar aircraft as a precaution. Passengers may experience delays or cancellations of flights.",
+      "strategic_outlook": "The incident highlights the importance of regular maintenance and safety inspections to prevent such incidents. Airlines and regulatory bodies may review and update their safety protocols to minimize the risk of engine shutdowns in the future.",
+      "operational_impact": "The incident may impact the airline's operations, leading to potential delays, cancellations, and changes in flight schedules. The airline's reputation and passenger confidence may also be affected, potentially leading to a decline in bookings and revenue.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "2e1d958af932786119f01b6fea22658b",
+    "timestamp": "2026-01-01T11:24:50.978925",
+    "original_title": "How safe was air travel in 2025?",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/air-safety-2025-fatal-accidents-b2893039.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 6,
+      "location": "Global",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Report indicates 24 crew members and 13 passengers were seriously injured during flight turbulence, highlighting potential safety concerns for air travel",
+      "immediate_forecast_24h": "Increased vigilance and monitoring of flight turbulence, potential for similar incidents to occur",
+      "strategic_outlook": "Long-term focus on improving in-flight safety measures and mitigating the impact of turbulence on passengers and crew",
+      "operational_impact": "Potential for increased delays or cancellations due to turbulence, impact on passenger and crew safety",
+      "proximity_alert": null
+    }
   }
 ]
