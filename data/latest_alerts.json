@@ -1,62 +1,5 @@
 [
   {
-    "id": "32226d1ec262c0e357d0ba397eadd657",
-    "timestamp": "2026-01-02T09:31:54.123119",
-    "original_title": "Trump says US will intervene if Iran violently suppresses peaceful protests",
-    "link": "https://www.reddit.com/r/worldnews/comments/1q1twwe/trump_says_us_will_intervene_if_iran_violently/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict/Civil Unrest",
-      "risk_score": 10,
-      "location": "Tehran, Iran",
-      "latitude": 35.6892,
-      "longitude": 51.389,
-      "detailed_analysis": "The US has threatened to intervene if Iran violently suppresses peaceful protests, which could lead to increased tensions and potential conflict in the region, affecting aviation and cargo operations.",
-      "immediate_forecast_24h": "Increased protests and potential government crackdowns, with a high likelihood of violence and unrest in major cities.",
-      "strategic_outlook": "Long-term instability in the region could lead to disruptions in global supply chains, increased security measures for aviation and cargo, and potential sanctions or trade restrictions.",
-      "operational_impact": "Potential disruptions to air travel, cargo shipments, and logistics operations in the region, with possible rerouting of flights and cargo to avoid areas of conflict.",
-      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
-    }
-  },
-  {
-    "id": "9b9a6c3ba5b910034e7a02d9c7653451",
-    "timestamp": "2026-01-02T09:31:56.727892",
-    "original_title": "'Locked and loaded': Trump says US will intervene if Iranian regime kills peaceful protesters",
-    "link": "https://www.france24.com/en/asia-pacific/20260102-trump-warns-us-will-rescue-iran-kills-peaceful-protesters",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict/Civil Unrest",
-      "risk_score": 10,
-      "location": "Tehran, Iran",
-      "latitude": 35.6892,
-      "longitude": 51.389,
-      "detailed_analysis": "The situation in Iran is escalating due to the cost-of-living crisis, with clashes between protesters and security forces resulting in fatalities. The US has warned of potential intervention if the situation worsens, particularly if peaceful protesters are killed.",
-      "immediate_forecast_24h": "Increased tensions and potential for further clashes between protesters and security forces, with a heightened risk of US intervention.",
-      "strategic_outlook": "Long-term instability in Iran could lead to regional destabilization, affecting trade routes and global oil prices, with potential implications for aviation and cargo security.",
-      "operational_impact": "Potential disruptions to air travel and cargo transport in the region, with increased security measures and possible restrictions on flights and shipments to and from Iran.",
-      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
-    }
-  },
-  {
-    "id": "c09895e24f147dbd7beb4fcc0d0dac12",
-    "timestamp": "2026-01-02T09:31:58.786715",
-    "original_title": "Yemen province launches 'peaceful' bid to retake bases after UAE-backed separatist advance",
-    "link": "https://www.france24.com/en/middle-east/20260102-yemen-province-launches-peaceful-bid-to-retake-bases-after-uae-backed-separatist-advance",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict/Civil Unrest",
-      "risk_score": 6,
-      "location": "Hadramawt, Yemen",
-      "latitude": 16.0,
-      "longitude": 49.0,
-      "detailed_analysis": "The situation in Yemen's Hadramawt province is escalating due to the UAE-backed Southern Transitional Council's advance, prompting the Saudi-backed governor to launch a 'peaceful operation' to retake military positions. This could lead to increased instability and potential clashes, affecting aviation and logistics in the region.",
-      "immediate_forecast_24h": "Tensions are expected to rise in the short term, with potential for skirmishes or confrontations between opposing forces. Aviation and cargo operations may be disrupted or suspended due to the uncertain security environment.",
-      "strategic_outlook": "The long-term outlook for the region remains uncertain, with the potential for ongoing conflict and instability. This could lead to increased risks for assets, cargo, aviation, and personnel, and may require adjustments to transport and logistics operations to mitigate these risks.",
-      "operational_impact": "The conflict in Hadramawt province may impact air traffic control, airport operations, and cargo handling, potentially leading to delays or cancellations of flights. Ground transportation and logistics may also be affected, with increased risks of theft, smuggling, or other criminal activities.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "6ea78d891f66b624d4005511c85d4c67",
     "timestamp": "2026-01-02T10:29:46.998388",
     "original_title": "Yemen's Hadramout to launch 'peaceful operation' to reclaim military sites, says region's Saudi-backed governor - Reuters",
@@ -149,6 +92,25 @@
       "strategic_outlook": "Long-term escalation of the conflict could lead to increased instability in the region, affecting transport and logistics operations, particularly in the aviation sector.",
       "operational_impact": "Potential disruption to air traffic, increased security screening, and possible restrictions on cargo transport in the region.",
       "proximity_alert": "YAKIN TEHDİT: Kherson International Airport (9 km)"
+    }
+  },
+  {
+    "id": "afeb98489468a75517a39d25cead5d82",
+    "timestamp": "2026-01-02T10:49:46.750303",
+    "original_title": "England's extreme patriots: Inside the growing nationalist movement",
+    "link": "https://www.france24.com/en/tv-shows/reporters/20260102-england-s-extreme-patriots-inside-the-growing-nationalist-movement",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "London, England",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "detailed_analysis": "A growing nationalist movement in England, with demonstrations and mass rallies, may lead to increased tensions and potential disruptions to transport and logistics, particularly if protests target areas with high volumes of cargo or passenger traffic.",
+      "immediate_forecast_24h": "Protests and demonstrations are likely to continue, potentially causing local disruptions to traffic and transport, but no major incidents are expected in the next 24 hours.",
+      "strategic_outlook": "The rise of nationalist activism in England may lead to long-term increases in civil unrest, potentially affecting the stability of the region and the security of assets, cargo, aviation, and personnel.",
+      "operational_impact": "Transport and logistics operations may be affected by protests and demonstrations, particularly in areas with high volumes of cargo or passenger traffic, and companies should be prepared for potential disruptions and delays.",
+      "proximity_alert": "YAKIN TEHDİT: Heathrow Airport (23 km)"
     }
   }
 ]
