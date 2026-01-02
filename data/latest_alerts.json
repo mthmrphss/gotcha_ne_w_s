@@ -1,24 +1,5 @@
 [
   {
-    "id": "b0e343c35cfa143053da7576c3590eaf",
-    "timestamp": "2026-01-02T07:30:38.809089",
-    "original_title": "One year since New Orleans terrorist attack | National News | 2news.com - KTVN",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSUE2anNwODVIYUh5MmlmRU8yMGU3d2pJakRnTjlIVkMzdDZ1U3RqOEkzdWlNLVVibUZLbzJaYk5IMmZMWk9VVkR5T3Jxc2hFSkZGcXRCazV2cHZfOFRPWk5BM0syV0JHVXpMVDItVE1kcHlpTE14WEROcVZSVW8xYTVsUGRITE5kdkhXaU9udGI2MlF2akJab3NOMG5SeFc2Y3pZYUJkOXpVSFN5S0VDbTVNNU1TT0dtMi11S29MV0c5MWlwQUE?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Terrorism",
-      "risk_score": 8,
-      "location": "New Orleans, USA",
-      "latitude": 29.9511,
-      "longitude": -90.0715,
-      "detailed_analysis": "The event marks the one-year anniversary of a terrorist attack in New Orleans, indicating a potential heightened threat level due to possible commemorative or retaliatory actions by terrorist groups.",
-      "immediate_forecast_24h": "Increased security measures are expected in and around New Orleans, with potential disruptions to transportation and logistics. There is a heightened risk of copycat attacks or other security incidents.",
-      "strategic_outlook": "The long-term impact of the anniversary of the terrorist attack may lead to sustained vigilance and security measures in the region, affecting the operational environment for assets, cargo, aviation, and personnel.",
-      "operational_impact": "Transportation and logistics operations in New Orleans may experience delays or increased security checks, affecting the movement of assets, cargo, and personnel. Aviation security may be particularly heightened.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "92020fb0e0fa3142e0ab75b4b6d75020",
     "timestamp": "2026-01-02T08:38:00.587877",
     "original_title": "U.S. urges China to halt military pressure on Taiwan, days after Japan and others - The Japan Times",
@@ -130,6 +111,63 @@
       "strategic_outlook": "The lack of progress in establishing effective crisis communication channels between the US and Chinese militaries may lead to increased risks of miscalculation and conflict in the long term.",
       "operational_impact": "No direct operational impact on transport or logistics is expected, but ongoing tensions may lead to increased security measures and potential disruptions to trade and commerce.",
       "proximity_alert": "YAKIN TEHDİT: Beijing Capital International Airport (25 km)"
+    }
+  },
+  {
+    "id": "32226d1ec262c0e357d0ba397eadd657",
+    "timestamp": "2026-01-02T09:31:54.123119",
+    "original_title": "Trump says US will intervene if Iran violently suppresses peaceful protests",
+    "link": "https://www.reddit.com/r/worldnews/comments/1q1twwe/trump_says_us_will_intervene_if_iran_violently/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The US has threatened to intervene if Iran violently suppresses peaceful protests, which could lead to increased tensions and potential conflict in the region, affecting aviation and cargo operations.",
+      "immediate_forecast_24h": "Increased protests and potential government crackdowns, with a high likelihood of violence and unrest in major cities.",
+      "strategic_outlook": "Long-term instability in the region could lead to disruptions in global supply chains, increased security measures for aviation and cargo, and potential sanctions or trade restrictions.",
+      "operational_impact": "Potential disruptions to air travel, cargo shipments, and logistics operations in the region, with possible rerouting of flights and cargo to avoid areas of conflict.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "9b9a6c3ba5b910034e7a02d9c7653451",
+    "timestamp": "2026-01-02T09:31:56.727892",
+    "original_title": "'Locked and loaded': Trump says US will intervene if Iranian regime kills peaceful protesters",
+    "link": "https://www.france24.com/en/asia-pacific/20260102-trump-warns-us-will-rescue-iran-kills-peaceful-protesters",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The situation in Iran is escalating due to the cost-of-living crisis, with clashes between protesters and security forces resulting in fatalities. The US has warned of potential intervention if the situation worsens, particularly if peaceful protesters are killed.",
+      "immediate_forecast_24h": "Increased tensions and potential for further clashes between protesters and security forces, with a heightened risk of US intervention.",
+      "strategic_outlook": "Long-term instability in Iran could lead to regional destabilization, affecting trade routes and global oil prices, with potential implications for aviation and cargo security.",
+      "operational_impact": "Potential disruptions to air travel and cargo transport in the region, with increased security measures and possible restrictions on flights and shipments to and from Iran.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "c09895e24f147dbd7beb4fcc0d0dac12",
+    "timestamp": "2026-01-02T09:31:58.786715",
+    "original_title": "Yemen province launches 'peaceful' bid to retake bases after UAE-backed separatist advance",
+    "link": "https://www.france24.com/en/middle-east/20260102-yemen-province-launches-peaceful-bid-to-retake-bases-after-uae-backed-separatist-advance",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 6,
+      "location": "Hadramawt, Yemen",
+      "latitude": 16.0,
+      "longitude": 49.0,
+      "detailed_analysis": "The situation in Yemen's Hadramawt province is escalating due to the UAE-backed Southern Transitional Council's advance, prompting the Saudi-backed governor to launch a 'peaceful operation' to retake military positions. This could lead to increased instability and potential clashes, affecting aviation and logistics in the region.",
+      "immediate_forecast_24h": "Tensions are expected to rise in the short term, with potential for skirmishes or confrontations between opposing forces. Aviation and cargo operations may be disrupted or suspended due to the uncertain security environment.",
+      "strategic_outlook": "The long-term outlook for the region remains uncertain, with the potential for ongoing conflict and instability. This could lead to increased risks for assets, cargo, aviation, and personnel, and may require adjustments to transport and logistics operations to mitigate these risks.",
+      "operational_impact": "The conflict in Hadramawt province may impact air traffic control, airport operations, and cargo handling, potentially leading to delays or cancellations of flights. Ground transportation and logistics may also be affected, with increased risks of theft, smuggling, or other criminal activities.",
+      "proximity_alert": null
     }
   }
 ]
