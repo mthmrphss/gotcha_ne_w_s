@@ -1,62 +1,5 @@
 [
   {
-    "id": "2496251bbf6c348f2a251ed27bb38f3b",
-    "timestamp": "2026-01-02T12:55:40.086749",
-    "original_title": "Trump Says U.S. Is ‘Locked and Loaded’ if Iran Kills Protesters",
-    "link": "https://www.nytimes.com/2026/01/02/world/middleeast/trump-iran-protests.html",
-    "source_name": "NewYork Times",
-    "ai_analysis": {
-      "category": "Conflict/Civil Unrest",
-      "risk_score": 10,
-      "location": "Tehran, Iran",
-      "latitude": 35.6892,
-      "longitude": 51.389,
-      "detailed_analysis": "The situation in Iran is escalating due to protests over economic hardship, and the U.S. President's remarks suggest a potential for military intervention, which could lead to increased instability and potential threats to aviation and personnel in the region.",
-      "immediate_forecast_24h": "Increased tensions between the U.S. and Iran, potential for further protests and clashes, and a heightened risk of military action.",
-      "strategic_outlook": "Long-term instability in the region, potential for increased terrorism and conflict, and a continued risk to aviation, cargo, and personnel.",
-      "operational_impact": "Potential disruptions to air travel, increased security measures, and a heightened risk of attacks on personnel and assets in the region.",
-      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
-    }
-  },
-  {
-    "id": "1355c760df907c5d06d2c96c0321bc01",
-    "timestamp": "2026-01-02T12:55:43.180271",
-    "original_title": "Zelensky offers Military Intelligence Head Budanov to take charge of the President's Office",
-    "link": "https://www.reddit.com/r/worldnews/comments/1q1wtu5/zelensky_offers_military_intelligence_head/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict/Other",
-      "risk_score": 10,
-      "location": "Kyiv, Ukraine",
-      "latitude": 50.4501,
-      "longitude": 30.5236,
-      "detailed_analysis": "The appointment of Military Intelligence Head Budanov as the new chief of staff may indicate a shift in Ukraine's strategic priorities, potentially impacting the country's security and defense posture.",
-      "immediate_forecast_24h": "No immediate changes in the security situation are expected, but the development may lead to adjustments in Ukraine's military strategy and operations.",
-      "strategic_outlook": "The long-term implications of this appointment may include a more aggressive stance against Russian forces, potentially escalating the conflict and affecting regional stability.",
-      "operational_impact": "The change in leadership may have minimal direct impact on transport and logistics operations in the short term, but the evolving security situation in Ukraine should be closely monitored for potential disruptions.",
-      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
-    }
-  },
-  {
-    "id": "9b96ca6ec1d561b61c034a5c70dbae18",
-    "timestamp": "2026-01-02T12:55:45.477562",
-    "original_title": "Russians bomb ecopark near Khakriv, injuring woman, killing animals",
-    "link": "https://www.reddit.com/r/worldnews/comments/1q1wr58/russians_bomb_ecopark_near_khakriv_injuring_woman/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict/Civil Unrest",
-      "risk_score": 10,
-      "location": "Kharkiv, Ukraine",
-      "latitude": 49.9935,
-      "longitude": 36.2304,
-      "detailed_analysis": "The bombing of an ecopark near Kharkiv by Russians has resulted in injuries to a woman and the death of animals, indicating an escalation of conflict in the region. This event poses a significant threat to personnel and potentially to aviation and cargo operations in the area.",
-      "immediate_forecast_24h": "Increased military activity and potential for further attacks on civilian targets are expected in the next 24 hours, posing a high risk to assets, cargo, and personnel in the region.",
-      "strategic_outlook": "The ongoing conflict in Ukraine is likely to continue, with potential for further escalation and increased risk to transport and logistics operations. The targeting of civilian areas and infrastructure may become more frequent, posing long-term risks to assets and personnel.",
-      "operational_impact": "The bombing highlights the need for enhanced security measures for assets, cargo, and personnel in conflict zones. Transport and logistics operations should be carefully planned and executed to minimize risk, with contingency plans in place for potential disruptions or attacks.",
-      "proximity_alert": "YAKIN TEHDİT: Kharkiv International Airport (8 km)"
-    }
-  },
-  {
     "id": "d618f27c268afbac861d744af57d8bd0",
     "timestamp": "2026-01-02T13:39:20.794438",
     "original_title": "Ukraine’s Zelensky Names Kyrylo Budanov as New Chief of Staff",
@@ -73,6 +16,25 @@
       "strategic_outlook": "The long-term implications of this appointment could lead to changes in Ukraine's military strategy and political landscape, potentially influencing regional security dynamics.",
       "operational_impact": "Currently, no direct operational impact on transport or logistics is anticipated, but the situation will continue to be assessed for any changes that could affect these areas.",
       "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
+    }
+  },
+  {
+    "id": "3974386efaa8aef34bf109baa2e86d21",
+    "timestamp": "2026-01-02T14:28:22.030411",
+    "original_title": "Iranian officials warn Trump not to cross ‘red line’ over threats to intervene in protests | Iran",
+    "link": "https://www.reddit.com/r/worldnews/comments/1q1yxgy/iranian_officials_warn_trump_not_to_cross_red/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Iranian officials have warned the US not to intervene in the ongoing protests, threatening unspecified consequences if the US crosses a 'red line'. This escalation in rhetoric increases the risk of conflict and civil unrest, potentially impacting aviation and logistics in the region.",
+      "immediate_forecast_24h": "Increased tensions between the US and Iran may lead to heightened security measures at airports and border crossings, potentially causing disruptions to flights and cargo shipments.",
+      "strategic_outlook": "The situation may lead to a long-term increase in instability in the region, affecting trade and transport routes. The US and its allies may impose additional sanctions, further straining relations and increasing the risk of miscalculation.",
+      "operational_impact": "Potential disruptions to air travel and cargo shipments, increased security checks, and possible restrictions on the movement of personnel and assets in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
     }
   }
 ]
