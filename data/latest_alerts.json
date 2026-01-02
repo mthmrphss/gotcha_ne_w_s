@@ -1,24 +1,5 @@
 [
   {
-    "id": "d618f27c268afbac861d744af57d8bd0",
-    "timestamp": "2026-01-02T13:39:20.794438",
-    "original_title": "Ukraine’s Zelensky Names Kyrylo Budanov as New Chief of Staff",
-    "link": "https://www.nytimes.com/2026/01/02/world/europe/zelensky-budanov-ukraine-chief-of-staff-yermak.html",
-    "source_name": "NewYork Times",
-    "ai_analysis": {
-      "category": "Conflict/Politics",
-      "risk_score": 10,
-      "location": "Kyiv, Ukraine",
-      "latitude": 50.4501,
-      "longitude": 30.5236,
-      "detailed_analysis": "The appointment of Kyrylo Budanov as the new Chief of Staff may lead to internal power struggles and potential instability within the Ukrainian government, but does not directly pose a threat to assets, cargo, aviation, or personnel at this time.",
-      "immediate_forecast_24h": "No immediate impact expected, but the situation will be monitored for potential developments that could affect the security landscape.",
-      "strategic_outlook": "The long-term implications of this appointment could lead to changes in Ukraine's military strategy and political landscape, potentially influencing regional security dynamics.",
-      "operational_impact": "Currently, no direct operational impact on transport or logistics is anticipated, but the situation will continue to be assessed for any changes that could affect these areas.",
-      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
-    }
-  },
-  {
     "id": "3974386efaa8aef34bf109baa2e86d21",
     "timestamp": "2026-01-02T14:28:22.030411",
     "original_title": "Iranian officials warn Trump not to cross ‘red line’ over threats to intervene in protests | Iran",
@@ -35,6 +16,25 @@
       "strategic_outlook": "The situation may lead to a long-term increase in instability in the region, affecting trade and transport routes. The US and its allies may impose additional sanctions, further straining relations and increasing the risk of miscalculation.",
       "operational_impact": "Potential disruptions to air travel and cargo shipments, increased security checks, and possible restrictions on the movement of personnel and assets in the region.",
       "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "ff8989c166b601e1fc091920a337ac54",
+    "timestamp": "2026-01-02T14:49:11.413925",
+    "original_title": "LIVE: Fighting breaks out in eastern Yemen along border with Saudi Arabia - Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTm1PT1pud3ZqZWxJU215RXVMcnliWjVSdXh0N3VJY3FQWW5keUpJdXgtRTRMZVVCckxScEt6UFlleGpkcGltUG9iSWpCWTNRcDd1NTc5aFl6RDBWYmdvaGdJbWxWa1NkUmg4X0RFcFZQUWVZS1ViRlpSdGRraHR6anhuVDByZkg5V2YtNGNKcTdDSlkwQTVOLVhySEduQmliUEFTU1pKaE92VnlIRmZicDBUSEJCMHI4NHNuTjRR0gHDAUFVX3lxTE13WlFSWG4zSEt5UTY2RU5YQXNKbEd0NWFZeTNDZ0xXejVDU3JTQTVwRlZBNjQ3SHg5eVowSjNEa1NtN3pIRUx4NVNyWkl0bUJGSVdNQUVtaDFfSVFURlptQThpZllaYV93M1RDSHhwOWpqM3NmUXFZekZpQ3ZLUFlXbWZmZ1plNEh2czZMc2p6RHQ0bzJnb3RvNk9kb2dXZHRtdGFoRUpnUTItZ0hIWXBmVW1iTXJOSGFPeGpCUkVDSFIwUQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 7,
+      "location": "Eastern Yemen, Yemen",
+      "latitude": 16.9283,
+      "longitude": 51.7873,
+      "detailed_analysis": "Fighting has broken out in eastern Yemen along the border with Saudi Arabia, posing a significant threat to regional stability and potentially impacting aviation and logistics operations in the area.",
+      "immediate_forecast_24h": "The situation is likely to remain volatile, with potential for further clashes and disruptions to transport and logistics in the region.",
+      "strategic_outlook": "The conflict in Yemen has been ongoing for several years, and this latest escalation highlights the continued instability in the region, which could have long-term implications for trade and security in the area.",
+      "operational_impact": "The fighting may impact air traffic and logistics operations in the region, particularly for flights and cargo shipments traveling through or near Yemeni airspace, and could also affect personnel and asset security in the area.",
+      "proximity_alert": null
     }
   }
 ]
