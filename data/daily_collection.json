@@ -226,5 +226,24 @@
       "operational_impact": "The planned attack may have a minimal direct impact on transport and logistics operations, but it could lead to increased security checks and protocols in public places, potentially causing minor disruptions to the movement of people and goods.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "4c7aad8ef23d84939ae61e9ec63f411c",
+    "timestamp": "2026-01-02T23:43:52.227785",
+    "original_title": "Trump threatens Iran over protest crackdown as deadly unrest flares",
+    "link": "https://www.france24.com/en/video/20260102-trump-threatens-iran-over-protest-crackdown-as-deadly-unrest-flares",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 7,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The exchange of threats between the US and Iranian officials amidst widening protests across Iran poses a significant risk to regional stability and potentially to aviation and cargo operations in the area.",
+      "immediate_forecast_24h": "Escalation of protests and potential for further US-Iran tensions, possibly affecting air travel and cargo transport in the region.",
+      "strategic_outlook": "Long-term instability in the region could lead to increased security measures, potential airspace restrictions, and heightened vigilance for aviation and cargo operations.",
+      "operational_impact": "Possible delays or rerouting of flights and cargo shipments due to increased tensions and unrest, affecting personnel and asset security.",
+      "proximity_alert": null
+    }
   }
 ]
