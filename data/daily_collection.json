@@ -1081,5 +1081,43 @@
       "operational_impact": "High risk of disruptions to air travel, cargo transport, and personnel movement due to the ongoing conflict, with potential for strikes on critical infrastructure.",
       "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
     }
+  },
+  {
+    "id": "b7ef14c427aea82fbd68430a85d4c4fc",
+    "timestamp": "2026-01-03T11:41:12.938908",
+    "original_title": "Russia condemns US military action in Venezuela",
+    "link": "https://www.reddit.com/r/worldnews/comments/1q2sbsh/russia_condemns_us_military_action_in_venezuela/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 6,
+      "location": "Venezuela",
+      "latitude": 7.0,
+      "longitude": -67.0,
+      "detailed_analysis": "The US military action in Venezuela has been condemned by Russia, indicating a potential escalation of tensions between major world powers. This could lead to increased instability in the region, affecting aviation and cargo operations.",
+      "immediate_forecast_24h": "Heightened tensions between the US and Russia may lead to increased diplomatic rhetoric, but the immediate risk of military action remains low. However, the situation bears close monitoring for any signs of escalation.",
+      "strategic_outlook": "The long-term implications of this event could include increased instability in the region, potentially affecting trade and logistics. The involvement of major world powers raises the stakes, and any miscalculation could lead to significant consequences.",
+      "operational_impact": "Aviation and cargo operations in the region may be affected by increased tensions and potential instability. Airlines and logistics companies should be prepared for possible disruptions, including changes to flight routes or cargo handling procedures.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "0ba22de48e96da073a26f4880344ca08",
+    "timestamp": "2026-01-03T11:41:56.719170",
+    "original_title": "'Rioters must be put in their place,' says Iran’s Khamenei as death toll reaches at least 10",
+    "link": "https://www.france24.com/en/asia-pacific/20260103-iran-supreme-leader-condemns-rioters-protest-death-toll-reaches-10",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Protests in Iran have turned violent, with at least 10 people killed, including members of the security services. The supreme leader's statement may escalate the situation, posing a threat to personnel and assets in the region.",
+      "immediate_forecast_24h": "Increased violence and unrest are expected in the short term, with potential for further clashes between protesters and security forces.",
+      "strategic_outlook": "The situation may lead to long-term instability in the region, affecting aviation, cargo, and personnel movements. The Iranian government's response to the protests will be crucial in determining the outcome.",
+      "operational_impact": "Transport and logistics operations in Iran may be disrupted due to the unrest, with potential for delays or cancellations of flights, and increased security measures at airports and other critical infrastructure.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
   }
 ]
