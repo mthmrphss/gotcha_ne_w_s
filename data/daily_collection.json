@@ -397,5 +397,24 @@
       "operational_impact": "The unrest may cause disruptions to transport and logistics, including potential delays or cancellations of flights, and increased risk to personnel and assets. Cargo operations may also be affected, particularly if protests target key infrastructure such as ports or airports.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "efc086d2ddf7f536710a913608ef7512",
+    "timestamp": "2026-01-03T05:48:30.016519",
+    "original_title": "Trump threat to intervene over protests 'reckless', says Iran foreign minister",
+    "link": "https://www.reddit.com/r/worldnews/comments/1q2maqs/trump_threat_to_intervene_over_protests_reckless/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The threat by Trump to intervene in Iran's protests has been labeled as 'reckless' by the Iranian foreign minister, indicating a heightened state of tension between the two nations. This could potentially escalate into a conflict affecting aviation and logistics in the region.",
+      "immediate_forecast_24h": "Increased diplomatic tensions and potential for protests to escalate, possibly affecting airport operations and flights in and out of Iran.",
+      "strategic_outlook": "Long-term instability in the region could lead to increased security measures, potential airspace restrictions, and heightened risk of conflict, all of which could significantly impact aviation and cargo operations.",
+      "operational_impact": "Potential for flight disruptions, increased security checks, and possible restrictions on cargo transport to and from Iran, affecting logistics and supply chains.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
   }
 ]

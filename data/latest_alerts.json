@@ -1,24 +1,5 @@
 [
   {
-    "id": "0962c6967686a31b94ccc832c0b0c702",
-    "timestamp": "2026-01-03T04:37:26.371967",
-    "original_title": "US: FBI arrests man over alleged NYE attack plot - dw.com",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZFRXbUMyRThLLVZBUDhoMkhkSzBXTGh1X2xOdDhRTGdmV1czbGJSS01ENllhYTJZLVlTTE4zNWhhb2JMSE1YOHhlcDBvMnJVNlpyUmtOdWFLNGJOemQ4RURVMWpLZnJ3SnU5STBzbmstQ3M2M1Qyc01ZUUpNNlNEYlktVUp1bm_SAYcBQVVfeXFMTjhEbVh4UXlrZ0ZnbVc0eFY2Z2ZqWFE2c2NPVVVqUUJaYXJVbl9qY1dOWDBDQUtUWjhEZjVZVldrcXZKRjYxTDNBWkx6NmEySVNuWTJRdFhWUDVlTUFPUlVYM2JmTFQ3UnNEeE9leEtrWHI3U0d4SUQ0NlREQkRESWh1VHZaMDJ3?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Terrorism/Crime",
-      "risk_score": 10,
-      "location": "New York, USA",
-      "latitude": 40.7128,
-      "longitude": -74.006,
-      "detailed_analysis": "The FBI has arrested a man over an alleged plot to attack on New Year's Eve, indicating a potential threat to public safety and security. The plot's specifics are not detailed, but the arrest suggests a possible disruption to celebrations and gatherings.",
-      "immediate_forecast_24h": "Enhanced security measures are likely to be implemented in public areas, particularly in New York, to mitigate potential threats. The situation is being monitored closely by law enforcement agencies.",
-      "strategic_outlook": "The long-term impact of this incident may lead to increased security protocols for public events, potentially affecting the operational efficiency of logistics and transportation services in the region.",
-      "operational_impact": "The alleged plot may cause disruptions to transport and logistics in the short term, especially around New York, due to heightened security checks and potential delays.",
-      "proximity_alert": "YAKIN TEHDİT: Paramount Hotel (5 km)"
-    }
-  },
-  {
     "id": "767431f22aee84ede1326d85763e267c",
     "timestamp": "2026-01-03T05:28:42.008383",
     "original_title": "FBI Says It Thwarted New Year’s Eve Attack Plot in North Carolina - theintelligencer.net",
@@ -73,6 +54,25 @@
       "strategic_outlook": "The ongoing economic struggles in Iran may continue to fuel unrest and protests, posing a long-term risk to stability in the region. This could have implications for aviation, cargo, and personnel operating in or near Iran.",
       "operational_impact": "The unrest may cause disruptions to transport and logistics, including potential delays or cancellations of flights, and increased risk to personnel and assets. Cargo operations may also be affected, particularly if protests target key infrastructure such as ports or airports.",
       "proximity_alert": null
+    }
+  },
+  {
+    "id": "efc086d2ddf7f536710a913608ef7512",
+    "timestamp": "2026-01-03T05:48:30.016519",
+    "original_title": "Trump threat to intervene over protests 'reckless', says Iran foreign minister",
+    "link": "https://www.reddit.com/r/worldnews/comments/1q2maqs/trump_threat_to_intervene_over_protests_reckless/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The threat by Trump to intervene in Iran's protests has been labeled as 'reckless' by the Iranian foreign minister, indicating a heightened state of tension between the two nations. This could potentially escalate into a conflict affecting aviation and logistics in the region.",
+      "immediate_forecast_24h": "Increased diplomatic tensions and potential for protests to escalate, possibly affecting airport operations and flights in and out of Iran.",
+      "strategic_outlook": "Long-term instability in the region could lead to increased security measures, potential airspace restrictions, and heightened risk of conflict, all of which could significantly impact aviation and cargo operations.",
+      "operational_impact": "Potential for flight disruptions, increased security checks, and possible restrictions on cargo transport to and from Iran, affecting logistics and supply chains.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
     }
   }
 ]
