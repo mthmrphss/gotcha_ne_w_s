@@ -245,5 +245,43 @@
       "operational_impact": "Aviation and cargo operations may be indirectly affected due to the civil unrest, with potential for disruptions to supply chains and increased security measures at airports and logistics hubs.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "335e4545ea974271e214d47ebaa5c66b",
+    "timestamp": "2026-01-03T23:43:21.926674",
+    "original_title": "‘Mixed emotions’: U.S. strikes in Venezuela, capture of Maduro leaves Philly region conflicted - WHYY",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSDIxdjY3QWFhV19ZRlVPdVZTaVVTYV80WjhOd2Q4Zk9pTllNZWtOWmVTQnFFOVQ5YzJvRW5ZbnhuV1ZyVmlpZFBLMlFMYUsyQjBIaFJ5bm1Zd2ZLQUlKUDl5dU54ek1MVGlienBmVXRELW1COXU4dXR2SDUzcUpMWnBjbUVHbmo3?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 7,
+      "location": "Venezuela",
+      "latitude": 7.0,
+      "longitude": -67.0,
+      "detailed_analysis": "The U.S. strikes in Venezuela and the capture of Maduro have created a high level of uncertainty and potential for civil unrest, which could impact aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Increased tensions and potential for protests or violence in the next 24 hours, which could disrupt transport and logistics operations.",
+      "strategic_outlook": "Long-term instability in Venezuela could lead to ongoing disruptions to aviation and cargo operations, as well as potential risks to personnel and assets in the region.",
+      "operational_impact": "Potential disruptions to air travel and cargo transport in and out of Venezuela, as well as increased security risks for personnel and assets in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "a718baa8511ae4b1279cd3f5ca3b6ab6",
+    "timestamp": "2026-01-03T23:43:23.672043",
+    "original_title": "Venezuela latest: Captured Venezuelan leader Maduro arrives in New York after US strikes - BBC",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1CNkowMksxZEhSRlFvWWpqYTh0TmtZMHYxVUwwRER4WEZ1Umstc0t6RHdNQ0tSYzdnOEtuay0yczdnYUY1TXhOOEQydUk5SlNUdE1zbA?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "New York, USA",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "detailed_analysis": "The capture of Venezuelan leader Maduro and his arrival in New York after US strikes indicates a high level of conflict and civil unrest, potentially impacting aviation and personnel security in the region.",
+      "immediate_forecast_24h": "Increased security measures are expected at New York airports and potentially other major US airports, with possible protests or demonstrations in response to the event.",
+      "strategic_outlook": "The situation may lead to long-term diplomatic tensions between the US and Venezuela, potentially affecting cargo and aviation operations in the region.",
+      "operational_impact": "Transport and logistics operations may be impacted due to increased security checks, potential protests, and diplomatic tensions, requiring contingency planning and enhanced security measures.",
+      "proximity_alert": "YAKIN TEHDİT: Paramount Hotel (5 km)"
+    }
   }
 ]
