@@ -1480,5 +1480,43 @@
       "operational_impact": "The cancellation of flights will impact passenger travel, cargo transport, and overall logistics in the Caribbean region. Airlines, airports, and logistics providers should be prepared for potential long-term disruptions and develop contingency plans to mitigate the effects.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "7d95a82d78ca03662682ec8211a01f55",
+    "timestamp": "2026-01-03T15:43:42.095830",
+    "original_title": "U.S. hit Venezuela with 'large-scale strike,' captured Nicolás Maduro, Trump says - NPR",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9uVF93czFHaV9VYWJJTnRjejZXc0pzV3dINmZqMmhPRXNlOXVZSG5na3d6bG5maDFDRGRseTFObFEzQUlBVUw0aFR0SThTMVZwV3djV004cWJHNnVMSXVobjBORGpReUZWYnNubVdQMW1uN0dhenVjb1ZIYw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Venezuela",
+      "latitude": 7.0,
+      "longitude": -67.0,
+      "detailed_analysis": "A large-scale strike by the U.S. on Venezuela, resulting in the capture of Nicolás Maduro, poses significant risks to assets, cargo, aviation, and personnel in the region due to potential escalation and instability.",
+      "immediate_forecast_24h": "Increased tensions and potential for retaliatory actions from Venezuela or its allies, affecting air travel and cargo operations in the region.",
+      "strategic_outlook": "Long-term instability and conflict in Venezuela could lead to sustained disruptions in regional logistics and aviation, with potential spillover effects into neighboring countries.",
+      "operational_impact": "Transport and logistics operations in Venezuela and surrounding areas may be severely impacted, with potential for airspace closures, port disruptions, and increased security measures.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "cb943dbcc149a108de549cd4875dca74",
+    "timestamp": "2026-01-03T15:44:16.522624",
+    "original_title": "The Gambia: Dozens missing after boat carrying over 200 migrants capsized",
+    "link": "http://www.africanews.com/2026/01/03/the-gambia-dozens-missing-after-boat-carrying-over-200-migrants-capsized/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Border",
+      "risk_score": 10,
+      "location": "Banjul, The Gambia",
+      "latitude": 13.45,
+      "longitude": -16.58,
+      "detailed_analysis": "A boat carrying over 200 migrants capsized off the coast of The Gambia, resulting in at least 7 deaths and over 100 survivors rescued. The incident highlights the risks associated with migrant transport and border breaches.",
+      "immediate_forecast_24h": "Search and rescue operations are expected to continue, with potential for additional casualties or survivors to be found. The incident may also lead to increased security measures along the coast.",
+      "strategic_outlook": "The long-term implications of this incident may include increased scrutiny of migrant transport routes and potential changes to border security policies in the region.",
+      "operational_impact": "The incident may impact maritime transport and logistics in the region, particularly for vessels carrying migrants or engaging in smuggling activities.",
+      "proximity_alert": "YAKIN TEHDİT: BANJUL (2 km)"
+    }
   }
 ]
