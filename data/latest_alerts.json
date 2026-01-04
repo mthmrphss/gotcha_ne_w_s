@@ -1,21 +1,59 @@
 [
   {
-    "id": "e9c7332380478219ded452d308324df8",
-    "timestamp": "2026-01-04T05:50:08.020976",
-    "original_title": "Maduro Arrives in N.Y.; Trump Says U.S. Will ‘Run’ Venezuela",
-    "link": "https://www.nytimes.com/live/2026/01/03/world/trump-united-states-strikes-venezuela",
-    "source_name": "NewYork Times",
+    "id": "b3652b79d0b13203e34fc970ff9330b3",
+    "timestamp": "2026-01-04T07:27:37.432858",
+    "original_title": "See How Maduro's Capture Unfolded After U.S. Strikes in Venezuela - The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVktFcEpUY3RVeDc3Rkg2ODctTlJDOU81aFpqRzFMbUJZLWRpTnJpT1dRNkx2bjFLMUZ2UVAzVUpGT3NXYVcxb1U5aFp4S1QxNHkxZmhuYml1ME10cTc5Qy1uVVlnN0FURF9Hem5ZQWpNblBuTG5la0R3azRIYmpBV0V6Ymo0Yk90OUxQT3c3OHFkSWttTzdfYUEtUGhTM0hIeXpTNnlpbw?oc=5",
+    "source_name": "Google News (Breaking)",
     "ai_analysis": {
-      "category": "Conflict/Crime",
+      "category": "Conflict/Civil Unrest",
       "risk_score": 10,
-      "location": "New York, USA",
-      "latitude": 40.7128,
-      "longitude": -74.006,
-      "detailed_analysis": "The arrival of Nicolás Maduro in New York and his detention on drugs and weapons charges may lead to increased tensions and potential unrest, particularly given the demand for his return by Venezuela's interim leader. This situation could have implications for aviation and cargo security, especially if protests or demonstrations occur near airports or logistics hubs.",
-      "immediate_forecast_24h": "Heightened security measures are likely to be implemented in the vicinity of Maduro's detention and at major transportation hubs in New York. There is a possibility of protests or demonstrations, which could lead to disruptions in traffic and logistics operations.",
-      "strategic_outlook": "The long-term implications of this event could involve strained diplomatic relations between the U.S. and Venezuela, potentially affecting trade and aviation agreements. This might lead to increased security protocols for cargo and aviation, impacting operational efficiency and costs.",
-      "operational_impact": "Transport and logistics operations in the New York area may experience delays or increased security checks, particularly if demonstrations or unrest occur near major transportation hubs. Cargo shipments, especially those related to or originating from Venezuela, might face additional scrutiny or delays.",
-      "proximity_alert": "YAKIN TEHDİT: Paramount Hotel (5 km)"
+      "location": "Caracas, Venezuela",
+      "latitude": 10.488,
+      "longitude": -66.879,
+      "detailed_analysis": "The capture of Maduro after U.S. strikes in Venezuela indicates a high level of conflict and civil unrest, posing significant risks to assets, cargo, aviation, and personnel in the region.",
+      "immediate_forecast_24h": "Increased military presence and potential for retaliatory actions, heightened security measures at airports and ports, possible disruptions to logistics and supply chains.",
+      "strategic_outlook": "Long-term instability and potential for ongoing conflict, impact on regional trade and economic stability, increased security concerns for international companies operating in Venezuela.",
+      "operational_impact": "Potential for flight disruptions, cargo delays, and increased security protocols for personnel and assets, recommendation for enhanced situational awareness and contingency planning for operations in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Maiquetía \"Simón Bolívar\" International Airport (4 km)"
+    }
+  },
+  {
+    "id": "751951d7a7763cc0439d088e8b042026",
+    "timestamp": "2026-01-04T07:27:42.829005",
+    "original_title": "Cocaine, corruption and machine guns: What led to the indictment of Venezuela's Maduro",
+    "link": "https://www.france24.com/en/americas/20260104-cocaine-corruption-and-machine-guns-what-led-to-the-indictment-of-venezuela-maduro",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Crime",
+      "risk_score": 7,
+      "location": "Venezuela, South America",
+      "latitude": 7.0,
+      "longitude": -67.0,
+      "detailed_analysis": "The indictment of Venezuelan President Nicolás Maduro and his wife for running a corrupt government that trafficked thousands of tons of cocaine into the US poses a significant threat to cargo and logistics in the region. The involvement of high-ranking government officials in drug trafficking increases the risk of smuggling and heists in logistics.",
+      "immediate_forecast_24h": "Increased security measures are expected at ports and borders in the region, potentially causing delays in cargo transport. The situation may also lead to increased tensions between the US and Venezuela, affecting aviation and trade.",
+      "strategic_outlook": "The long-term implications of this indictment may lead to a shift in the balance of power in the region, potentially affecting trade agreements and cargo routes. The increased focus on combating drug trafficking may also lead to improved security measures and cooperation between countries.",
+      "operational_impact": "Cargo transport and logistics in the region may be affected by increased security measures, potential delays, and changes in trade agreements. Aviation may also be impacted by increased tensions between countries and potential changes in air traffic routes.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "60e8ec3e3dd7d0d753076a6addbd7b19",
+    "timestamp": "2026-01-04T07:27:44.688858",
+    "original_title": "UK, France strike suspected IS arms site near Syria's Palmyra",
+    "link": "https://www.france24.com/en/middle-east/20260104-uk-france-strike-suspected-islamic-state-is-arms-site-near-syria-palmyra",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "Palmyra, Syria",
+      "latitude": 34.5597,
+      "longitude": 38.2639,
+      "detailed_analysis": "The UK and France conducted overnight air strikes on a suspected Islamic State arms site near Palmyra, Syria, indicating heightened military activity and potential for retaliation or escalation in the region.",
+      "immediate_forecast_24h": "Increased military presence and potential for further airstrikes or retaliatory actions from IS or its affiliates, posing a threat to aviation and personnel in the region.",
+      "strategic_outlook": "Long-term instability and conflict in the region may lead to sustained threats to assets, cargo, aviation, and personnel, with potential for spillover into neighboring countries or global terrorism.",
+      "operational_impact": "Potential disruptions to air traffic and logistics in the region, with increased security measures and vigilance recommended for aviation and cargo operations.",
+      "proximity_alert": null
     }
   }
 ]
