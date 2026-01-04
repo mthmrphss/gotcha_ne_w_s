@@ -74,5 +74,43 @@
       "operational_impact": "Potential delays or cancellations of flights, increased security screening for cargo and passengers, and possible rerouting of flights to avoid the region.",
       "proximity_alert": "YAKIN TEHDİT: Maiquetía \"Simón Bolívar\" International Airport (4 km)"
     }
+  },
+  {
+    "id": "cfc77ec55ed51c96aa7b02cae1a55a03",
+    "timestamp": "2026-01-04T08:35:59.728061",
+    "original_title": "Protests continue in Iran for seventh night as death toll rises to 16",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1q3k4vs/protests_continue_in_iran_for_seventh_night_as/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 6,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Protests in Iran have continued for the seventh night, resulting in a rising death toll of 16. The situation poses a risk to personnel and assets in the region due to potential escalation of violence and unrest.",
+      "immediate_forecast_24h": "The protests are likely to continue, with a potential for increased violence and clashes between protesters and security forces. This may lead to disruptions in transportation and logistics in the region.",
+      "strategic_outlook": "The long-term outlook for the region is uncertain, with the potential for ongoing civil unrest and instability. This could have a significant impact on aviation, cargo, and personnel in the region, particularly if the situation escalates further.",
+      "operational_impact": "The protests and civil unrest in Iran may cause disruptions to transportation and logistics, including potential delays or cancellations of flights, and increased security measures at airports and other transportation hubs.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "18c3f10326f67eaddaa60644924f6341",
+    "timestamp": "2026-01-04T08:36:04.262171",
+    "original_title": "Airlines Rush To Restart Caribbean Flights After FAA Lets Safety Alert Expire",
+    "link": "https://www.paddleyourownkanoo.com/2026/01/04/airlines-rush-to-restart-caribbean-flights-after-faa-lets-safety-alert-expire/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 6,
+      "location": "Caribbean",
+      "latitude": 15.0,
+      "longitude": -60.0,
+      "detailed_analysis": "The FAA's expired safety alert has led to a rush of airlines restarting flights to and from the Caribbean, potentially increasing the risk of accidents or security breaches due to the sudden surge in air traffic.",
+      "immediate_forecast_24h": "Increased air traffic in the Caribbean region may lead to heightened security measures and potential delays, but no immediate threats have been reported.",
+      "strategic_outlook": "The long-term impact of the expired safety alert on the Caribbean aviation industry will depend on the FAA's future actions and the airlines' ability to adapt to changing security requirements.",
+      "operational_impact": "The restart of flights may cause operational challenges, such as managing increased air traffic and ensuring compliance with security protocols, which could affect transport and logistics in the region.",
+      "proximity_alert": null
+    }
   }
 ]
