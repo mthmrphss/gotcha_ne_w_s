@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "id": "51b053938a6520f260f1b16f21d0e53d",
+    "timestamp": "2026-01-04T20:30:38.110649",
+    "original_title": "Live Updates: As Venezuela Projects Defiance, Rubio Says U.S. Will Use ‘Leverage’ to Advance Its Interests",
+    "link": "https://www.nytimes.com/live/2026/01/04/world/trump-us-venezuela-maduro",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 7,
+      "location": "Venezuela",
+      "latitude": 7.0,
+      "longitude": -67.0,
+      "detailed_analysis": "The situation in Venezuela is volatile due to the ongoing conflict and the US considering using leverage to advance its interests. The death toll from the recent raid has risen to 80, indicating a high level of violence and instability.",
+      "immediate_forecast_24h": "The conflict is likely to escalate in the next 24 hours, with potential for further violence and unrest. The US may impose additional sanctions or take other measures to pressure the Venezuelan government.",
+      "strategic_outlook": "The long-term outlook for Venezuela is uncertain, with the potential for prolonged conflict and instability. The situation may lead to a humanitarian crisis, with significant impacts on the local population and regional security.",
+      "operational_impact": "The conflict in Venezuela may impact transport and logistics operations in the region, particularly for cargo and aviation. There is a risk of disruptions to oil supplies, and the military quarantine may affect the movement of goods and people.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "a642a5a9a741bd3d12b829774ee269fc",
+    "timestamp": "2026-01-04T20:30:40.902011",
+    "original_title": "France, UK conduct joint strikes against IS in Syria",
+    "link": "https://www.reddit.com/r/worldnews/comments/1q3ziha/france_uk_conduct_joint_strikes_against_is_in/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "Syria",
+      "latitude": 35.0,
+      "longitude": 38.0,
+      "detailed_analysis": "Joint military strikes by France and the UK against IS in Syria pose a significant threat to aviation and regional stability, potentially disrupting air traffic and logistics in the area.",
+      "immediate_forecast_24h": "Increased military activity in the region may lead to heightened tensions and potential retaliatory actions, affecting air travel and cargo operations.",
+      "strategic_outlook": "The ongoing conflict in Syria, combined with international military involvement, suggests a prolonged period of instability, which could impact global supply chains and aviation security.",
+      "operational_impact": "Potential disruptions to air traffic control, increased security measures at airports, and heightened vigilance for potential terrorist attacks on aviation targets",
+      "proximity_alert": null
+    }
+  }
+]
