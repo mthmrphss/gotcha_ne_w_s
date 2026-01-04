@@ -1043,5 +1043,62 @@
       "operational_impact": "The incident may cause delays, cancellations, and rerouting of flights, affecting the movement of passengers, cargo, and personnel in the region.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "e29c24caade298c73bf1e14ae810ee06",
+    "timestamp": "2026-01-04T13:34:20.164561",
+    "original_title": "Death toll from Russian strike on Kharkiv rises to four",
+    "link": "https://www.reddit.com/r/worldnews/comments/1q3ocq5/death_toll_from_russian_strike_on_kharkiv_rises/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Kharkiv, Ukraine",
+      "latitude": 49.9935,
+      "longitude": 36.2304,
+      "detailed_analysis": "A Russian strike on Kharkiv has resulted in a death toll of four, indicating an escalation of conflict in the region. This event poses a significant threat to personnel and assets in the area.",
+      "immediate_forecast_24h": "Further strikes or retaliatory actions are possible in the next 24 hours, potentially leading to increased violence and instability in the region.",
+      "strategic_outlook": "The ongoing conflict in Ukraine continues to pose a long-term threat to regional stability, with potential for further escalation and impact on global security.",
+      "operational_impact": "The strike may disrupt logistics and transportation operations in the region, particularly for cargo and personnel. Aviation operations may also be affected due to the conflict.",
+      "proximity_alert": "YAKIN TEHDİT: Kharkiv International Airport (8 km)"
+    }
+  },
+  {
+    "id": "9fa84906526e4e5334d88a668d82f607",
+    "timestamp": "2026-01-04T13:34:22.664505",
+    "original_title": "Renewed fighting near Uvira raises tensions in Eastern DR Congo",
+    "link": "http://www.africanews.com/2026/01/04/renewed-fighting-near-uvira-raises-tensions-in-eastern-dr-congo/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 6,
+      "location": "Uvira, Democratic Republic of Congo",
+      "latitude": -3.4067,
+      "longitude": 29.1333,
+      "detailed_analysis": "Renewed fighting near Uvira in South Kivu province raises concerns for the safety of assets, cargo, aviation, and personnel in the region due to potential escalation of violence and instability.",
+      "immediate_forecast_24h": "Increased tensions and potential clashes between armed groups may disrupt transport and logistics operations, posing a threat to personnel and cargo in the immediate vicinity.",
+      "strategic_outlook": "Long-term instability in the region could lead to sustained disruptions in supply chains, impacting the overall security and efficiency of operations in Eastern DR Congo.",
+      "operational_impact": "Potential delays or cancellations of flights and ground transport, increased security measures for personnel and cargo, and heightened vigilance for potential attacks or kidnappings.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "e128c5b641bd48acaa01173c2edfdc0c",
+    "timestamp": "2026-01-04T13:34:24.707306",
+    "original_title": "The week in pictures: New Year celebrations, Venezuela's Maduro captured and AFCON 2025",
+    "link": "https://www.france24.com/en/americas/20260104-the-week-in-pictures-new-year-celebrations-venezuela-s-maduro-captured-and-afcon-2025",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 6,
+      "location": "Venezuela",
+      "latitude": 7.0,
+      "longitude": -67.0,
+      "detailed_analysis": "The capture of Venezuela's Nicolas Maduro by US forces may lead to increased tensions and potential unrest in the region, affecting aviation and cargo operations.",
+      "immediate_forecast_24h": "Escalating tensions between Saudi Arabia and the United Arab Emirates in Yemen may spread to other regions, including Venezuela, and impact global logistics and transport.",
+      "strategic_outlook": "The situation in Venezuela and Yemen may lead to a long-term increase in conflict and instability in the region, affecting global supply chains and transport operations.",
+      "operational_impact": "Potential disruptions to air traffic, cargo shipments, and personnel movements in the region, with possible spillover effects on global logistics and transport operations.",
+      "proximity_alert": null
+    }
   }
 ]
