@@ -1,62 +1,5 @@
 [
   {
-    "id": "e29c24caade298c73bf1e14ae810ee06",
-    "timestamp": "2026-01-04T13:34:20.164561",
-    "original_title": "Death toll from Russian strike on Kharkiv rises to four",
-    "link": "https://www.reddit.com/r/worldnews/comments/1q3ocq5/death_toll_from_russian_strike_on_kharkiv_rises/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict/Civil Unrest",
-      "risk_score": 10,
-      "location": "Kharkiv, Ukraine",
-      "latitude": 49.9935,
-      "longitude": 36.2304,
-      "detailed_analysis": "A Russian strike on Kharkiv has resulted in a death toll of four, indicating an escalation of conflict in the region. This event poses a significant threat to personnel and assets in the area.",
-      "immediate_forecast_24h": "Further strikes or retaliatory actions are possible in the next 24 hours, potentially leading to increased violence and instability in the region.",
-      "strategic_outlook": "The ongoing conflict in Ukraine continues to pose a long-term threat to regional stability, with potential for further escalation and impact on global security.",
-      "operational_impact": "The strike may disrupt logistics and transportation operations in the region, particularly for cargo and personnel. Aviation operations may also be affected due to the conflict.",
-      "proximity_alert": "YAKIN TEHDİT: Kharkiv International Airport (8 km)"
-    }
-  },
-  {
-    "id": "9fa84906526e4e5334d88a668d82f607",
-    "timestamp": "2026-01-04T13:34:22.664505",
-    "original_title": "Renewed fighting near Uvira raises tensions in Eastern DR Congo",
-    "link": "http://www.africanews.com/2026/01/04/renewed-fighting-near-uvira-raises-tensions-in-eastern-dr-congo/",
-    "source_name": "Africa News",
-    "ai_analysis": {
-      "category": "Conflict/Civil Unrest",
-      "risk_score": 6,
-      "location": "Uvira, Democratic Republic of Congo",
-      "latitude": -3.4067,
-      "longitude": 29.1333,
-      "detailed_analysis": "Renewed fighting near Uvira in South Kivu province raises concerns for the safety of assets, cargo, aviation, and personnel in the region due to potential escalation of violence and instability.",
-      "immediate_forecast_24h": "Increased tensions and potential clashes between armed groups may disrupt transport and logistics operations, posing a threat to personnel and cargo in the immediate vicinity.",
-      "strategic_outlook": "Long-term instability in the region could lead to sustained disruptions in supply chains, impacting the overall security and efficiency of operations in Eastern DR Congo.",
-      "operational_impact": "Potential delays or cancellations of flights and ground transport, increased security measures for personnel and cargo, and heightened vigilance for potential attacks or kidnappings.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "e128c5b641bd48acaa01173c2edfdc0c",
-    "timestamp": "2026-01-04T13:34:24.707306",
-    "original_title": "The week in pictures: New Year celebrations, Venezuela's Maduro captured and AFCON 2025",
-    "link": "https://www.france24.com/en/americas/20260104-the-week-in-pictures-new-year-celebrations-venezuela-s-maduro-captured-and-afcon-2025",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict/Civil Unrest",
-      "risk_score": 6,
-      "location": "Venezuela",
-      "latitude": 7.0,
-      "longitude": -67.0,
-      "detailed_analysis": "The capture of Venezuela's Nicolas Maduro by US forces may lead to increased tensions and potential unrest in the region, affecting aviation and cargo operations.",
-      "immediate_forecast_24h": "Escalating tensions between Saudi Arabia and the United Arab Emirates in Yemen may spread to other regions, including Venezuela, and impact global logistics and transport.",
-      "strategic_outlook": "The situation in Venezuela and Yemen may lead to a long-term increase in conflict and instability in the region, affecting global supply chains and transport operations.",
-      "operational_impact": "Potential disruptions to air traffic, cargo shipments, and personnel movements in the region, with possible spillover effects on global logistics and transport operations.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "735d1a7386a22da80b8fa5e98e16e52a",
     "timestamp": "2026-01-04T14:25:10.957660",
     "original_title": "FBI Says it Disrupted a New Year's Eve Attack Plan Inspired by Islamic State Group - Military.com",
@@ -149,6 +92,44 @@
       "strategic_outlook": "The situation may escalate into a long-term conflict, affecting trade and logistics in the region. The US involvement in the capture of Maduro could lead to a power vacuum, increasing the risk of civil unrest and crime.",
       "operational_impact": "Cargo and personnel in the region should exercise extreme caution, with potential for delays or disruptions to logistics operations. Aviation operators should be prepared for possible airspace restrictions or security checks.",
       "proximity_alert": "YAKIN TEHDİT: Maiquetía \"Simón Bolívar\" International Airport (4 km)"
+    }
+  },
+  {
+    "id": "62c38f6507e73100c1f41a2f009cb50c",
+    "timestamp": "2026-01-04T15:26:01.395513",
+    "original_title": "Iran Faces Economic Challenges and Military Threats",
+    "link": "https://www.nytimes.com/2026/01/04/world/middleeast/iran-protests.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Iran faces economic challenges and military threats amid anti-government protests, potentially impacting aviation and cargo operations due to increased tensions with Israel and the United States.",
+      "immediate_forecast_24h": "Escalation of protests and potential military action, affecting air traffic and logistics in the region.",
+      "strategic_outlook": "Long-term instability in Iran could lead to sustained disruptions in regional transport and logistics, with potential spillover effects on global supply chains.",
+      "operational_impact": "Possible delays or cancellations of flights, increased security measures at airports, and heightened risk of cargo theft or damage due to civil unrest.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "eba87d4eca39668384c007512a72d0f5",
+    "timestamp": "2026-01-04T15:26:05.136782",
+    "original_title": "At least 30 killed in market attack in Nigeria’s Niger State",
+    "link": "http://www.africanews.com/2026/01/04/at-least-30-killed-in-market-attack-in-nigerias-niger-state/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Terrorism/Crime/Civil Unrest",
+      "risk_score": 7,
+      "location": "Demo village, Niger State, Nigeria",
+      "latitude": 9.7333,
+      "longitude": 6.0667,
+      "detailed_analysis": "Armed attack on a market in Niger State, Nigeria, resulting in at least 30 deaths and several abductions, with potential for further instability and violence in the region",
+      "immediate_forecast_24h": "Increased security presence expected, potential for retaliatory attacks or further violence, heightened alert for personnel and cargo in the area",
+      "strategic_outlook": "Long-term instability and insecurity in the region may lead to increased risk for assets, cargo, aviation, and personnel, with potential for spillover into neighboring areas",
+      "operational_impact": "Potential disruption to logistics and transport operations in the region, increased risk of cargo theft or hijacking, and elevated threat to personnel safety",
+      "proximity_alert": null
     }
   }
 ]

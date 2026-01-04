@@ -1195,5 +1195,43 @@
       "operational_impact": "Cargo and personnel in the region should exercise extreme caution, with potential for delays or disruptions to logistics operations. Aviation operators should be prepared for possible airspace restrictions or security checks.",
       "proximity_alert": "YAKIN TEHDİT: Maiquetía \"Simón Bolívar\" International Airport (4 km)"
     }
+  },
+  {
+    "id": "62c38f6507e73100c1f41a2f009cb50c",
+    "timestamp": "2026-01-04T15:26:01.395513",
+    "original_title": "Iran Faces Economic Challenges and Military Threats",
+    "link": "https://www.nytimes.com/2026/01/04/world/middleeast/iran-protests.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Iran faces economic challenges and military threats amid anti-government protests, potentially impacting aviation and cargo operations due to increased tensions with Israel and the United States.",
+      "immediate_forecast_24h": "Escalation of protests and potential military action, affecting air traffic and logistics in the region.",
+      "strategic_outlook": "Long-term instability in Iran could lead to sustained disruptions in regional transport and logistics, with potential spillover effects on global supply chains.",
+      "operational_impact": "Possible delays or cancellations of flights, increased security measures at airports, and heightened risk of cargo theft or damage due to civil unrest.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "eba87d4eca39668384c007512a72d0f5",
+    "timestamp": "2026-01-04T15:26:05.136782",
+    "original_title": "At least 30 killed in market attack in Nigeria’s Niger State",
+    "link": "http://www.africanews.com/2026/01/04/at-least-30-killed-in-market-attack-in-nigerias-niger-state/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Terrorism/Crime/Civil Unrest",
+      "risk_score": 7,
+      "location": "Demo village, Niger State, Nigeria",
+      "latitude": 9.7333,
+      "longitude": 6.0667,
+      "detailed_analysis": "Armed attack on a market in Niger State, Nigeria, resulting in at least 30 deaths and several abductions, with potential for further instability and violence in the region",
+      "immediate_forecast_24h": "Increased security presence expected, potential for retaliatory attacks or further violence, heightened alert for personnel and cargo in the area",
+      "strategic_outlook": "Long-term instability and insecurity in the region may lead to increased risk for assets, cargo, aviation, and personnel, with potential for spillover into neighboring areas",
+      "operational_impact": "Potential disruption to logistics and transport operations in the region, increased risk of cargo theft or hijacking, and elevated threat to personnel safety",
+      "proximity_alert": null
+    }
   }
 ]
