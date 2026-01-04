@@ -1,43 +1,5 @@
 [
   {
-    "id": "cfc77ec55ed51c96aa7b02cae1a55a03",
-    "timestamp": "2026-01-04T08:35:59.728061",
-    "original_title": "Protests continue in Iran for seventh night as death toll rises to 16",
-    "link": "https://www.reddit.com/r/geopolitics/comments/1q3k4vs/protests_continue_in_iran_for_seventh_night_as/",
-    "source_name": "Reddit r/Geopolitics",
-    "ai_analysis": {
-      "category": "Civil Unrest",
-      "risk_score": 6,
-      "location": "Iran",
-      "latitude": 32.0,
-      "longitude": 53.0,
-      "detailed_analysis": "Protests in Iran have continued for the seventh night, resulting in a rising death toll of 16. The situation poses a risk to personnel and assets in the region due to potential escalation of violence and unrest.",
-      "immediate_forecast_24h": "The protests are likely to continue, with a potential for increased violence and clashes between protesters and security forces. This may lead to disruptions in transportation and logistics in the region.",
-      "strategic_outlook": "The long-term outlook for the region is uncertain, with the potential for ongoing civil unrest and instability. This could have a significant impact on aviation, cargo, and personnel in the region, particularly if the situation escalates further.",
-      "operational_impact": "The protests and civil unrest in Iran may cause disruptions to transportation and logistics, including potential delays or cancellations of flights, and increased security measures at airports and other transportation hubs.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "18c3f10326f67eaddaa60644924f6341",
-    "timestamp": "2026-01-04T08:36:04.262171",
-    "original_title": "Airlines Rush To Restart Caribbean Flights After FAA Lets Safety Alert Expire",
-    "link": "https://www.paddleyourownkanoo.com/2026/01/04/airlines-rush-to-restart-caribbean-flights-after-faa-lets-safety-alert-expire/",
-    "source_name": "Paddle Your Own Kanoo",
-    "ai_analysis": {
-      "category": "Aviation",
-      "risk_score": 6,
-      "location": "Caribbean",
-      "latitude": 15.0,
-      "longitude": -60.0,
-      "detailed_analysis": "The FAA's expired safety alert has led to a rush of airlines restarting flights to and from the Caribbean, potentially increasing the risk of accidents or security breaches due to the sudden surge in air traffic.",
-      "immediate_forecast_24h": "Increased air traffic in the Caribbean region may lead to heightened security measures and potential delays, but no immediate threats have been reported.",
-      "strategic_outlook": "The long-term impact of the expired safety alert on the Caribbean aviation industry will depend on the FAA's future actions and the airlines' ability to adapt to changing security requirements.",
-      "operational_impact": "The restart of flights may cause operational challenges, such as managing increased air traffic and ensuring compliance with security protocols, which could affect transport and logistics in the region.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "f71d10bf9a8ed77edfb820521162526e",
     "timestamp": "2026-01-04T09:26:27.298802",
     "original_title": "FBI says it foiled an ISIS-inspired New Year's Eve terror attack in North Carolina - Scripps News",
@@ -148,6 +110,44 @@
       "immediate_forecast_24h": "Increased security measures are expected at ports and borders in the region, potentially causing delays in cargo transport. The situation may also lead to increased tensions between the US and Venezuela, affecting aviation and trade.",
       "strategic_outlook": "The long-term implications of this event may include increased scrutiny of cargo shipments from Venezuela, potentially leading to changes in trade policies and regulations. This could have a significant impact on the logistics industry, particularly for companies involved in international trade.",
       "operational_impact": "The threat of smuggling and heists in logistics may lead to increased security costs for companies operating in the region. Additionally, the potential for delays and changes in trade policies may require companies to reassess their supply chain strategies and contingency plans.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "62b6248873a219d4d359de7d8cdf94ea",
+    "timestamp": "2026-01-04T10:27:12.129003",
+    "original_title": "How the US attack on Venezuela, abduction of Maduro unfolded - Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNY0RzeldGRDlfWGl4UV9OZHRoQ2V1aW16OEcybWlSQTl5ZHpnQV9aRVFpQ1pjUmllZTQ5cFFiUlA4VzhJeVNuZDlYdWhndGxrZE1CYmNBYnV6eFQtSU5IdElXNlRnMFl5bmNCMEdtbkxpQkprSFhwOEJrSWRtdUhXWjdLU3VaQkEwc214bmVyRzdZYXZ6ZUhIOUtRZ21IYy040gGmAUFVX3lxTE5falVXZ1VGUW1YN1EtLV84R1YtQmZLYnp5LVdXdHB1OUZMWjBMT2ZWaTdURnM1UDhNWjVFYWNQRzNKOFdkQURlNmNSZ2JUNnJDeTdqaE1FWVhaTWllSktJeG5GOUpEU2ZpbDExdUhJUkFncDI1SmoxQXF5UHMySHVzdDNwQTdwa3NDSWpwLVc0SHd6Wm4yWFByM1BybkNqV0w0REN3VkE?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "Venezuela",
+      "latitude": 7.0,
+      "longitude": -67.0,
+      "detailed_analysis": "The US attack on Venezuela and the abduction of Maduro pose significant threats to regional stability, potentially disrupting cargo and aviation operations, as well as putting personnel at risk.",
+      "immediate_forecast_24h": "Increased tensions and potential for further conflict, with possible disruptions to transport and logistics in the region.",
+      "strategic_outlook": "Long-term instability in the region could lead to sustained disruptions to cargo and aviation operations, as well as increased risks to personnel and assets.",
+      "operational_impact": "Potential disruptions to air and ground transport, increased security measures, and potential for supply chain delays or disruptions.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "07b5603fbdfea3f2ee8b4906afc08f4e",
+    "timestamp": "2026-01-04T10:27:13.780960",
+    "original_title": "US Venezuela Attack LIVE: India Appeals To Address Venezuela Issue \"Peacefully Through Dialogue\" - NDTV",
+    "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNRHdVaUlRQUhLbDlBZlhyM3BSTWhHVmhTSHBoUC1ONjMwWk0zbmtiNnJyeFRLQWw0SzJKVThqTVlwRlozS2lUWlEtR3F4alA2X2xpNHhyM0JIQllBLUhDelpNWVdIaENYbG9wbWwyUHNUSXJpcllQb0VOMjVoS3BJZnFDNTFEc2JmS25hRHBfV0lnNXRyYmRySlV2TzdvbkZaLVNyeERfVGU1NEtXRXBRRWFJRnFZZkdycjNDWXhqMUtnXzZ4NVVRZXBJVE1ha3dEV0dxcUJ3RGFZWnFaREctNjlVOUprRGgtdnZuZkZ6dWFULXd2Nmg1S0xVam9ac2RlV2Z0cHc1Q19pWXAzNmFRR1RJek1TNFlralA40gGjAkFVX3lxTFBvRl9TUE9LTG0wcXp5MURzcms5Z2F2anFDTTBia1ZUWVJNNGYySDlGS2FOSmpZcFNraTlPR2lya09uUk5VZ04xRFcyQ2Z0eFVNRmx1TGFYb1dLZ0pkZHFVVTM5U2ZpOGFtYW0tTzdfTzgxQ1lVNVJKMUhqLVhsaW5QU2d1ZXUwZ0ZWd2tKeVFpMDJmbEhaTnJ2ZXZvNmlHeTlQV1RIYVdDNHNZanVIZnVjaTZVVTd2RmREQUVwaXo5aE92X01aVmxncW9uVkxTeEx6RGoxR3libWRHaWQ0S0N5Nll4dnBxYlA4am9McVpaYmlZd1YyQlNLZFpzOWdyQ0ZaTXpobzR1U2hKUFJpcC1lMTRjcWZVZm14OVFDMk92WkJHVQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 6,
+      "location": "Venezuela",
+      "latitude": 7.0,
+      "longitude": -67.0,
+      "detailed_analysis": "The situation between the US and Venezuela is escalating, with India appealing for a peaceful resolution through dialogue. This could potentially impact aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Increased tensions may lead to disruptions in air travel and cargo transport, with potential for further escalation.",
+      "strategic_outlook": "Long-term instability in the region could have significant implications for global trade and aviation, particularly if the situation escalates into a full-scale conflict.",
+      "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics operations in the region, with possible knock-on effects for global supply chains.",
       "proximity_alert": null
     }
   }
