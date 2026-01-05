@@ -36,5 +36,62 @@
       "operational_impact": "Possible delays or cancellations of flights, increased security measures at airports and logistics hubs, potential disruptions to supply chains.",
       "proximity_alert": "YAKIN TEHDİT: Paramount Hotel (5 km)"
     }
+  },
+  {
+    "id": "cb53addfb649e4f7f4aff5fcae92060a",
+    "timestamp": "2026-01-05T22:28:21.048873",
+    "original_title": "Making sense of the US military operation in Venezuela - Brookings",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZXZtRDAwdXFRdTFfRnBHQlZTaEY3MHZ3OUhtV1BHSFZ2dXJNZlVzcW9lTC1nVVRULXMyZU9pWTIwdDE2WTk1dFRiNUhFRUNwV29BaGFjSUxiUXZ5MWdWS1ZKazlhYVVhS2RSR0JWVWp4elo5RkVTeVFSUmVkZXJRNjU2bWxfRFVnTGlfVE11bEVOazRx?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Venezuela",
+      "latitude": 7.0,
+      "longitude": -67.0,
+      "detailed_analysis": "The US military operation in Venezuela poses a significant threat to assets, cargo, aviation, and personnel in the region due to potential conflict escalation and instability.",
+      "immediate_forecast_24h": "Increased tensions and potential clashes between US and Venezuelan forces, affecting transport and logistics operations in the area.",
+      "strategic_outlook": "Long-term instability and conflict in Venezuela could lead to a prolonged disruption of supply chains and increased security risks for assets and personnel.",
+      "operational_impact": "Potential disruption to air and ground transportation, increased security measures, and possible evacuation of personnel from the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "586feb54232e580722edfa23ce50a765",
+    "timestamp": "2026-01-05T22:28:24.842434",
+    "original_title": "Venezuela Live Updates: At U.N. Emergency Meeting, U.S. Allies Criticize Military Action in Caracas",
+    "link": "https://www.nytimes.com/live/2026/01/05/world/venezuela-maduro-trump",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Caracas, Venezuela",
+      "latitude": 10.488,
+      "longitude": -66.879,
+      "detailed_analysis": "The military incursion into Caracas and the capture of the Venezuelan president pose significant risks to assets, cargo, aviation, and personnel in the region due to potential escalation of conflict and civil unrest.",
+      "immediate_forecast_24h": "Increased tensions and potential for further clashes between opposing forces, posing immediate risks to aviation and logistics operations in the area.",
+      "strategic_outlook": "Long-term instability in Venezuela could lead to sustained disruptions in regional transport and logistics, affecting cargo and personnel movement.",
+      "operational_impact": "Potential for flight disruptions, airspace restrictions, and increased security measures at airports and logistics hubs, affecting operational efficiency and safety.",
+      "proximity_alert": "YAKIN TEHDİT: Maiquetía \"Simón Bolívar\" International Airport (4 km)"
+    }
+  },
+  {
+    "id": "bc640193749b2ce9a482b509436cbc5a",
+    "timestamp": "2026-01-05T22:29:28.905361",
+    "original_title": "Donald Trump threatens other countries after Venezuela strikes",
+    "link": "https://www.france24.com/en/video/20260105-donald-trump-threatens-other-countries-after-venezuela-strikes",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 7,
+      "location": "Venezuela",
+      "latitude": 7.0,
+      "longitude": -67.0,
+      "detailed_analysis": "The threat by Donald Trump against other countries following Venezuela strikes indicates a heightened state of tension that could escalate into conflict, potentially affecting aviation, cargo, and personnel in the region.",
+      "immediate_forecast_24h": "Increased military readiness and potential for airspace restrictions or closures, impacting flight operations and logistics in the area.",
+      "strategic_outlook": "Long-term instability in the region could lead to sustained disruptions in transport and logistics, with potential for spill-over effects into neighboring countries.",
+      "operational_impact": "Possible delays or cancellations of flights, increased security measures for cargo and personnel, and heightened vigilance for potential cyber threats or sabotage targeting critical infrastructure.",
+      "proximity_alert": null
+    }
   }
 ]
