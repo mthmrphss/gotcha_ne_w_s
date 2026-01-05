@@ -1138,5 +1138,43 @@
       "operational_impact": "Transportation and logistics companies operating in the region should be aware of potential disruptions and take necessary precautions to ensure the security of their assets, cargo, and personnel.",
       "proximity_alert": "YAKIN TEHDİT: Paramount Hotel (5 km)"
     }
+  },
+  {
+    "id": "c1764072f5b7919a03d7f5fa3e1a3c9b",
+    "timestamp": "2026-01-05T15:32:09.694352",
+    "original_title": "Sudan: tens of thousands displaced by latest front in civil war",
+    "link": "http://www.africanews.com/2026/01/05/sudan-tens-of-thousands-displaced-by-latest-front-in-civil-war/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Sudan",
+      "latitude": 15.6333,
+      "longitude": 32.5333,
+      "detailed_analysis": "The ongoing civil war in Sudan has led to the displacement of tens of thousands of people, indicating a high level of instability and potential for further violence, which could impact transport and logistics operations in the region.",
+      "immediate_forecast_24h": "The conflict is likely to continue, with potential for increased violence and displacement, affecting roads and potentially aviation in the near term.",
+      "strategic_outlook": "The long-term outlook for Sudan remains unstable, with potential for protracted conflict, which could lead to increased security risks for assets, cargo, aviation, and personnel in the region.",
+      "operational_impact": "The conflict may disrupt supply chains, impact fuel availability, and increase the risk of theft, hijacking, or other security incidents for transport and logistics operations in Sudan.",
+      "proximity_alert": "YAKIN TEHDİT: Khartoum International Airport (5 km)"
+    }
+  },
+  {
+    "id": "7cc8e1867e7e9c622a96e0a06406b70e",
+    "timestamp": "2026-01-05T15:32:11.870912",
+    "original_title": "After Venezuela, Colombia? Trump escalates Latin America tensions",
+    "link": "https://www.france24.com/en/video/20260105-after-venezuela-colombia-trump-escalates-latin-america-tensions",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Bogota, Colombia",
+      "latitude": 4.6097,
+      "longitude": -74.0817,
+      "detailed_analysis": "The threat of U.S. military action against Colombia's government poses a significant risk to regional stability, potentially disrupting cargo and aviation operations. The comments made by President Trump could escalate tensions and lead to civil unrest, affecting personnel and assets in the region.",
+      "immediate_forecast_24h": "Increased diplomatic tensions and potential protests in Colombia, with possible disruptions to transportation and logistics. Aviation operations may be affected by increased security measures or airspace restrictions.",
+      "strategic_outlook": "Long-term instability in the region could lead to increased crime and smuggling activities, affecting cargo security and logistics. The situation may also lead to a rise in migrant movements, potentially impacting border security and transport operations.",
+      "operational_impact": "Potential disruptions to air and ground transportation, increased security measures, and possible delays or cancellations of flights and cargo shipments. Personnel and assets in the region may be at risk due to civil unrest and potential conflict.",
+      "proximity_alert": "YAKIN TEHDİT: El Dorado International Airport (12 km)"
+    }
   }
 ]
