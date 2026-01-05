@@ -1,62 +1,5 @@
 [
   {
-    "id": "228b3d3762606631c6b18a78254d1e65",
-    "timestamp": "2026-01-05T08:42:45.553755",
-    "original_title": "Russia targets capital and Kyiv Oblast, killing at least 2, damaging medical center",
-    "link": "https://www.reddit.com/r/worldnews/comments/1q4fvbn/russia_targets_capital_and_kyiv_oblast_killing_at/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict/Civil Unrest",
-      "risk_score": 10,
-      "location": "Kyiv, Ukraine",
-      "latitude": 50.4501,
-      "longitude": 30.5236,
-      "detailed_analysis": "Russia has targeted the capital and Kyiv Oblast, resulting in at least 2 deaths and damage to a medical center. This escalation of violence poses a significant threat to assets, cargo, aviation, and personnel in the region.",
-      "immediate_forecast_24h": "Further attacks are likely, and the situation may deteriorate, leading to increased instability and risk to transport and logistics operations.",
-      "strategic_outlook": "The ongoing conflict in Ukraine is expected to continue, with potential long-term implications for regional stability and global security. This may lead to sustained disruptions to supply chains and transportation networks.",
-      "operational_impact": "Transport and logistics operations in the region may be severely impacted, with potential disruptions to air and ground transportation, and increased risk to personnel and assets. Cargo and supply chains may be delayed or diverted, and security measures may need to be enhanced to mitigate the risks.",
-      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
-    }
-  },
-  {
-    "id": "6cc8efdc592dc3a99b8acf113a10865b",
-    "timestamp": "2026-01-05T08:42:48.788586",
-    "original_title": "Nigeria: Death toll rises to 50 in Niger state market attack",
-    "link": "http://www.africanews.com/2026/01/05/nigeria-death-toll-rises-to-50-in-niger-state-market-attack/",
-    "source_name": "Africa News",
-    "ai_analysis": {
-      "category": "Terrorism/Civil Unrest/Conflict",
-      "risk_score": 8,
-      "location": "Niger state, Nigeria",
-      "latitude": 10.0,
-      "longitude": 6.0,
-      "detailed_analysis": "The attack on the market in Niger state, resulting in a significant death toll and hostages taken, poses a substantial threat to personnel and potentially to cargo and aviation if the situation escalates or if the perpetrators have broader targets in mind.",
-      "immediate_forecast_24h": "Increased security presence is expected, with potential for further clashes or hostage situations. The situation may remain volatile, with a risk of additional attacks or retaliations.",
-      "strategic_outlook": "Long-term stability in the region could be compromised, potentially leading to increased insurgency activities, which might affect transport and logistics operations, including aviation and cargo movements.",
-      "operational_impact": "Transport and logistics operations in and around Niger state may be disrupted due to the heightened security situation, with potential for delays, increased security checks, or even temporary cessation of services to ensure safety of personnel and assets.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "1ceae79c9c1aa48f094148446216b639",
-    "timestamp": "2026-01-05T08:42:50.795465",
-    "original_title": "Maduro to make first appearance in a US courtroom on narco trafficking charges",
-    "link": "https://www.france24.com/en/live-news/20260105-trump-declares-us-in-charge-of-venezuela-and-maduro-goes-to-court",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict/Crime",
-      "risk_score": 10,
-      "location": "New York, USA",
-      "latitude": 40.7128,
-      "longitude": -74.006,
-      "detailed_analysis": "Venezuelan President Nicolás Maduro's appearance in a US courtroom on narco trafficking charges may lead to increased tensions between the US and Venezuela, potentially affecting cargo and aviation operations.",
-      "immediate_forecast_24h": "Heightened security measures are expected at the courthouse and surrounding areas, with potential protests or demonstrations. The UN Security Council emergency session may lead to diplomatic tensions.",
-      "strategic_outlook": "Long-term implications may include strained US-Venezuela relations, potentially affecting trade and logistics operations. The situation may also impact regional stability in South America.",
-      "operational_impact": "Potential disruptions to cargo and aviation operations due to increased security measures or diplomatic tensions. Operators should monitor the situation closely and be prepared for possible changes in regulations or security protocols.",
-      "proximity_alert": "YAKIN TEHDİT: Paramount Hotel (5 km)"
-    }
-  },
-  {
     "id": "8e941b760cbacf285d9ca683f95cb5a6",
     "timestamp": "2026-01-05T09:40:16.179457",
     "original_title": "Ukraine says Russian strike on Kyiv leaves first civilians dead this year - Reuters",
@@ -149,6 +92,101 @@
       "strategic_outlook": "The long-term impact of this disruption may be significant, with potential effects on the aviation industry, logistics, and the economy. The airport's reputation and passenger trust may also be affected.",
       "operational_impact": "The disruption has already caused significant operational impact, with flights cancelled, and passengers stranded. The situation may lead to increased costs, reduced efficiency, and potential losses for airlines, logistics companies, and other stakeholders.",
       "proximity_alert": "YAKIN TEHDİT: Amsterdam Airport Schiphol (11 km)"
+    }
+  },
+  {
+    "id": "69025c9baa53c7b74fc1ff0fc35453c7",
+    "timestamp": "2026-01-05T10:33:48.080723",
+    "original_title": "Plane Crash at MA Airport Leaves Pilot Dead - Fire Engineering",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPN2d2TGswU3ZvS3g4R1BKTnVjQkU0UDkyUEY0VVFUcUxjRnYtN1dJb0JuZ00xbVVZZGZzZzdKWl9RdlZ1Y2NhVFFtYjFoajFtUUNWNWFHZHZGWUlRMDFYQzlHcW9IWXlkRXU0QzNyQ0FkcE5VTjR4dVYxVHVfaklndmpucjhlTDV1NHhkaXh6WjZhaHc?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "MA, USA",
+      "latitude": 42.4072,
+      "longitude": -71.0275,
+      "detailed_analysis": "A plane crash occurred at a Massachusetts airport, resulting in the death of the pilot. The incident poses a significant threat to aviation safety and security.",
+      "immediate_forecast_24h": "Investigations into the cause of the crash are likely to commence immediately, with potential disruptions to airport operations and flights.",
+      "strategic_outlook": "The incident may lead to increased scrutiny of aviation safety protocols and regulations, potentially resulting in enhanced security measures and procedures.",
+      "operational_impact": "The crash may cause delays or cancellations of flights, affecting cargo and passenger transport, and potentially disrupting logistics operations.",
+      "proximity_alert": "YAKIN TEHDİT: General Edward Lawrence Logan International Airport (6 km)"
+    }
+  },
+  {
+    "id": "dd6b85a56cad4f68e4f69e29bfe90e28",
+    "timestamp": "2026-01-05T10:33:49.879714",
+    "original_title": "What lies ahead for Venezuela after U.S. attack? - NPR",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR3ZKZjNYS2hNRFB6d2U0cG45NWFYX2x1bjU0eVYtM3hRN2J6TTQ5QzdScE4zQWFZU0JHQWpmZGpub29jNUtzVEFnMGE1VVJQVTVJbkpWRWtld3ZvTWM5TFBWUlFORmJZS1Bhckhmamg3eUYxd19PNlRDNXRRTllSWVdHazNRNC1YU3NwNDIzVzVzTnIzb3c?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 6,
+      "location": "Venezuela",
+      "latitude": 7.0,
+      "longitude": -67.0,
+      "detailed_analysis": "The recent U.S. attack on Venezuela poses significant threats to the country's stability, potentially leading to civil unrest, protests, and disruptions to critical infrastructure, including aviation and logistics.",
+      "immediate_forecast_24h": "Increased tensions and potential for violent clashes between government forces and opposition groups, as well as possible disruptions to air travel and cargo operations.",
+      "strategic_outlook": "Long-term instability and conflict could lead to a decline in economic activity, including trade and commerce, with potential impacts on regional security and global markets.",
+      "operational_impact": "Potential disruptions to air travel, cargo operations, and logistics, as well as increased risks to personnel and assets due to civil unrest and conflict.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "5afcb131b4ecb126b75899e669cfc9b9",
+    "timestamp": "2026-01-05T10:33:55.114169",
+    "original_title": "Iranians to Receive Monthly Payment of 7$ For 4 Months Amid Economic Woes, Protests, Government announces.",
+    "link": "https://www.reddit.com/r/worldnews/comments/1q4hop0/iranians_to_receive_monthly_payment_of_7_for_4/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The Iranian government's announcement of a monthly payment of $7 for 4 months to its citizens amid economic woes and protests may lead to temporary relief, but the underlying issues driving the unrest are unlikely to be fully addressed. This could lead to continued civil unrest, potentially impacting transport and logistics operations in the country.",
+      "immediate_forecast_24h": "Protests may continue or escalate in the short term, potentially disrupting ground transportation and logistics operations. However, the immediate risk to aviation, cargo, and personnel is considered low.",
+      "strategic_outlook": "The long-term economic and political stability of Iran remains a concern, and the potential for further civil unrest or conflict cannot be ruled out. This may have strategic implications for transport and logistics operations in the region, particularly if the situation escalates or spreads to other countries.",
+      "operational_impact": "The current situation in Iran may lead to operational disruptions, particularly for ground transportation and logistics. However, the impact on aviation and cargo operations is currently considered low. Personnel operating in the region should exercise caution and monitor the situation closely.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "d329bf52028885e2d93a96ca0adaf531",
+    "timestamp": "2026-01-05T10:33:56.854003",
+    "original_title": "North Korea’s Hypersonic Missile Launch: A Major Development and the First Test of 2026",
+    "link": "https://www.reddit.com/r/worldnews/comments/1q4hkk2/north_koreas_hypersonic_missile_launch_a_major/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Pyongyang, North Korea",
+      "latitude": 39.0392,
+      "longitude": 125.7625,
+      "detailed_analysis": "North Korea's hypersonic missile launch poses a significant threat to regional and global security, potentially impacting aviation and logistics in the area.",
+      "immediate_forecast_24h": "Increased military activity and heightened tensions in the region are expected, with potential disruptions to air traffic and shipping lanes.",
+      "strategic_outlook": "The development of hypersonic missiles by North Korea could lead to a significant shift in the regional balance of power, with long-term implications for global security and trade.",
+      "operational_impact": "Potential disruptions to air traffic, shipping lanes, and logistics operations in the region, with increased risk of conflict and instability affecting personnel, cargo, and aviation assets.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "1eb018ccba6a675a46edb71150911b53",
+    "timestamp": "2026-01-05T10:34:00.767022",
+    "original_title": "Gunmen kill at least 30 villagers and abduct others during raid in northern Nigeria",
+    "link": "https://www.france24.com/en/video/20260105-gunmen-kill-at-least-30-villagers-and-abduct-others-during-raid-in-northern-nigeria",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Crime",
+      "risk_score": 8,
+      "location": "Niger state, Nigeria",
+      "latitude": 10.0,
+      "longitude": 6.0,
+      "detailed_analysis": "Gunmen killed at least 30 villagers and abducted others during a raid in northern Nigeria, indicating a high level of violence and instability in the region, posing a significant threat to personnel and potentially disrupting cargo and aviation operations.",
+      "immediate_forecast_24h": "Further attacks or abductions are possible in the short term, and the situation is likely to remain volatile, with potential for increased violence or retaliation.",
+      "strategic_outlook": "The long-term outlook for the region remains uncertain, with ongoing conflict and instability likely to continue, posing a persistent threat to assets, cargo, aviation, and personnel, and potentially disrupting supply chains and logistics operations.",
+      "operational_impact": "The attack may impact transport and logistics operations in the region, particularly for cargo and personnel, and aviation operations may also be affected, with potential for increased security measures or route changes to mitigate the risk of further attacks.",
+      "proximity_alert": null
     }
   }
 ]
