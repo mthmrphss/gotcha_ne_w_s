@@ -1,43 +1,5 @@
 [
   {
-    "id": "c1764072f5b7919a03d7f5fa3e1a3c9b",
-    "timestamp": "2026-01-05T15:32:09.694352",
-    "original_title": "Sudan: tens of thousands displaced by latest front in civil war",
-    "link": "http://www.africanews.com/2026/01/05/sudan-tens-of-thousands-displaced-by-latest-front-in-civil-war/",
-    "source_name": "Africa News",
-    "ai_analysis": {
-      "category": "Conflict/Civil Unrest",
-      "risk_score": 10,
-      "location": "Sudan",
-      "latitude": 15.6333,
-      "longitude": 32.5333,
-      "detailed_analysis": "The ongoing civil war in Sudan has led to the displacement of tens of thousands of people, indicating a high level of instability and potential for further violence, which could impact transport and logistics operations in the region.",
-      "immediate_forecast_24h": "The conflict is likely to continue, with potential for increased violence and displacement, affecting roads and potentially aviation in the near term.",
-      "strategic_outlook": "The long-term outlook for Sudan remains unstable, with potential for protracted conflict, which could lead to increased security risks for assets, cargo, aviation, and personnel in the region.",
-      "operational_impact": "The conflict may disrupt supply chains, impact fuel availability, and increase the risk of theft, hijacking, or other security incidents for transport and logistics operations in Sudan.",
-      "proximity_alert": "YAKIN TEHDİT: Khartoum International Airport (5 km)"
-    }
-  },
-  {
-    "id": "7cc8e1867e7e9c622a96e0a06406b70e",
-    "timestamp": "2026-01-05T15:32:11.870912",
-    "original_title": "After Venezuela, Colombia? Trump escalates Latin America tensions",
-    "link": "https://www.france24.com/en/video/20260105-after-venezuela-colombia-trump-escalates-latin-america-tensions",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict/Civil Unrest",
-      "risk_score": 10,
-      "location": "Bogota, Colombia",
-      "latitude": 4.6097,
-      "longitude": -74.0817,
-      "detailed_analysis": "The threat of U.S. military action against Colombia's government poses a significant risk to regional stability, potentially disrupting cargo and aviation operations. The comments made by President Trump could escalate tensions and lead to civil unrest, affecting personnel and assets in the region.",
-      "immediate_forecast_24h": "Increased diplomatic tensions and potential protests in Colombia, with possible disruptions to transportation and logistics. Aviation operations may be affected by increased security measures or airspace restrictions.",
-      "strategic_outlook": "Long-term instability in the region could lead to increased crime and smuggling activities, affecting cargo security and logistics. The situation may also lead to a rise in migrant movements, potentially impacting border security and transport operations.",
-      "operational_impact": "Potential disruptions to air and ground transportation, increased security measures, and possible delays or cancellations of flights and cargo shipments. Personnel and assets in the region may be at risk due to civil unrest and potential conflict.",
-      "proximity_alert": "YAKIN TEHDİT: El Dorado International Airport (12 km)"
-    }
-  },
-  {
     "id": "bd41f06f3385bf574e0dffaa294f36bc",
     "timestamp": "2026-01-05T16:35:36.100511",
     "original_title": "Watch live: UN Security Council holds emergency meeting on Venezuela - The Hill",
@@ -206,6 +168,44 @@
       "strategic_outlook": "Long-term stability in Venezuela is uncertain, with potential for ongoing conflict or civil unrest. This could lead to increased risks for assets, cargo, aviation, and personnel, particularly if the situation escalates or if there are further power outages or disruptions to critical infrastructure.",
       "operational_impact": "Potential disruptions to transport and logistics due to power outages, protests, or conflict. Aviation operations may be affected by the instability, and cargo security could be compromised due to the increased risk of theft or smuggling.",
       "proximity_alert": "YAKIN TEHDİT: Maiquetía \"Simón Bolívar\" International Airport (4 km)"
+    }
+  },
+  {
+    "id": "31d83135aba8f631fe2346ee5cd8b3cf",
+    "timestamp": "2026-01-05T17:29:10.519075",
+    "original_title": "The US has \"violated the UN charter\" says Venezuela at UNSC",
+    "link": "https://www.france24.com/en/video/20260105-the-us-has-violated-the-un-charter-says-venezuela-at-unsc",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "New York, USA",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "detailed_analysis": "Venezuela's UN envoy accused the US of violating the UN charter, citing an 'illegitimate armed attack with no legal justification', amid tensions related to Maduro's appearance in a Manhattan federal court on drug charges.",
+      "immediate_forecast_24h": "Tensions between the US and Venezuela are expected to remain high, with potential for increased diplomatic rhetoric and protests.",
+      "strategic_outlook": "The situation may escalate into a long-term diplomatic standoff, potentially affecting international relations and trade, but no immediate impact on aviation, cargo, or personnel is anticipated.",
+      "operational_impact": "No direct operational impact on transport or logistics is expected, but increased security measures may be implemented at diplomatic missions and international events.",
+      "proximity_alert": "YAKIN TEHDİT: Paramount Hotel (5 km)"
+    }
+  },
+  {
+    "id": "dddb4f744328da72ddfd8559f7bf7511",
+    "timestamp": "2026-01-05T17:29:12.529849",
+    "original_title": "Is Venezuela really a primary drug trafficker to the United States?",
+    "link": "https://www.france24.com/en/video/20260105-is-venezuela-really-a-primary-drug-trafficker-to-the-united-states",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Crime",
+      "risk_score": 6,
+      "location": "Venezuela, South America",
+      "latitude": 7.0,
+      "longitude": -67.0,
+      "detailed_analysis": "Venezuela has been accused of being a primary drug trafficker to the United States, which poses a significant threat to cargo and logistics security. The country's involvement in drug trafficking could lead to increased smuggling and heists in logistics, affecting the safety of assets, cargo, and personnel.",
+      "immediate_forecast_24h": "In the next 24 hours, there is a high likelihood of increased security measures at ports and borders to prevent drug smuggling. This could lead to delays and disruptions in cargo transport.",
+      "strategic_outlook": "In the long term, the situation in Venezuela could lead to a significant increase in drug-related crime, affecting not only the United States but also other countries in the region. This could lead to a destabilization of the region and increased security threats to aviation, cargo, and personnel.",
+      "operational_impact": "The situation in Venezuela could lead to increased security protocols for cargo transport, including increased inspections and surveillance. This could lead to delays and increased costs for logistics companies, as well as a higher risk of theft and smuggling.",
+      "proximity_alert": null
     }
   }
 ]
