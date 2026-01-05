@@ -1,134 +1,77 @@
 [
   {
-    "id": "89388c873537eabd8ed83ad988d53b46",
-    "timestamp": "2026-01-05T11:25:58.173567",
-    "original_title": "Cybersecurity News: Palo Alto AI warning, Resecurity hack fiasco, Christmas ColdFusion attack - CISO Series",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaThpLVZhdl85dExhZFc1WE9HVWYzMEstUVkxYm92ZTAwNG1rcmJqQjhIX2t3d0kxWXdaSUdSQUwtYlpDWFBLX080czNqRkUwblpTZU5jZlRTQTh4eDNqWHZqZkREYmVfdmloVWhEdG9nNkVkNEFWeTE2cjRkNEtKM0FoUGowbFpWODBjVjZHX0QxWGJqaGVlTDFfUGswQm5MYTBTTjJUQ1FMZXYxeS1mMm9US24?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Cyber",
-      "risk_score": 6,
-      "location": "Global",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "Palo Alto AI warning, Resecurity hack fiasco, and Christmas ColdFusion attack indicate potential cybersecurity threats to aviation, cargo, and personnel. These threats could compromise sensitive information and disrupt operations.",
-      "immediate_forecast_24h": "Increased vigilance is expected from security teams to mitigate potential attacks. Companies may issue patches or updates to address vulnerabilities.",
-      "strategic_outlook": "Long-term, these threats highlight the need for robust cybersecurity measures, including AI-powered threat detection and regular security audits, to protect against evolving cyber threats.",
-      "operational_impact": "Potential disruption to logistics, aviation, and personnel operations due to cyber attacks. Proactive measures, such as employee training and incident response planning, can help minimize the impact.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "586d48d89b64583339e3dfc0f7cb1795",
-    "timestamp": "2026-01-05T11:26:00.281763",
-    "original_title": "Trump push to politicize US military ‘reminiscent of Stalin’, top general warns - The Guardian",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSTBvUlFvX3p0LUNqY2dXVHM2WjB2bHZOVXAwZ25QbWx5M1N0cUtWemVTcjFSNlJfNkhUdTFpbHp0UFEzWVV6Y2ZkcWNPNXQwSXA5MWhuN2I0ZVB5X2FBTUljSXFsWFdnUHE0aEFCUUd2Q2lxSkNvWXdqUXV0TjZFWTdwdno3a00?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Conflict/Politics",
-      "risk_score": 10,
-      "location": "Washington D.C., USA",
-      "latitude": 38.8951,
-      "longitude": -77.0364,
-      "detailed_analysis": "The article discusses a top general's warning about the politicization of the US military, drawing comparisons to Stalin's regime. This does not directly imply a threat to assets, cargo, aviation, or personnel but indicates a potential destabilization of the military's role in the US.",
-      "immediate_forecast_24h": "No immediate action or threat is expected in the next 24 hours, as this is a political statement rather than a direct threat.",
-      "strategic_outlook": "Long-term, the politicization of the military could lead to instability and undermine trust in institutions, potentially affecting national security and, by extension, the safety of assets, cargo, aviation, and personnel.",
-      "operational_impact": "Currently, there is no direct operational impact on transport or logistics. However, ongoing political instability could indirectly affect these sectors through changes in policy, public perception, or security measures.",
-      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
-    }
-  },
-  {
-    "id": "84fcf299956066f6fa05600a761e4308",
-    "timestamp": "2026-01-05T11:26:04.095032",
-    "original_title": "Russian defense-linked Energiya plant burns after latest Ukrainian drone strike",
-    "link": "https://www.reddit.com/r/worldnews/comments/1q4izti/russian_defenselinked_energiya_plant_burns_after/",
+    "id": "c6fbf7178d84a4a1cb4bae3cd5a414d0",
+    "timestamp": "2026-01-05T13:01:28.969385",
+    "original_title": "Russian missile parts factory in flames after Ukrainian drone attack, media report",
+    "link": "https://www.reddit.com/r/worldnews/comments/1q4koap/russian_missile_parts_factory_in_flames_after/",
     "source_name": "Reddit r/WorldNews",
     "ai_analysis": {
       "category": "Conflict/Aviation",
-      "risk_score": 8,
+      "risk_score": 10,
       "location": "Russia",
-      "latitude": 56.0,
-      "longitude": 38.0,
-      "detailed_analysis": "A Ukrainian drone strike has hit the Russian defense-linked Energiya plant, causing a fire. This incident has the potential to escalate the conflict and impact aviation and logistics in the region.",
-      "immediate_forecast_24h": "Increased tensions between Ukraine and Russia, potential for retaliatory strikes, and heightened security measures at nearby airports and logistics hubs.",
-      "strategic_outlook": "Long-term disruption to Russian defense manufacturing capabilities, potential for increased sanctions, and ongoing conflict in the region, affecting air travel and cargo transport.",
-      "operational_impact": "Possible delays or cancellations of flights, increased security checks, and potential disruptions to supply chains and logistics operations in the region.",
+      "latitude": 55.7558,
+      "longitude": 37.6176,
+      "detailed_analysis": "A Ukrainian drone attack on a Russian missile parts factory has resulted in a fire, indicating an escalation of conflict and potential disruption to Russian military capabilities and supply chains.",
+      "immediate_forecast_24h": "Increased tensions between Ukraine and Russia, potential for retaliatory actions, and heightened security measures in the region.",
+      "strategic_outlook": "Long-term implications for the conflict in Ukraine, potential for expanded military actions, and impact on global security and trade.",
+      "operational_impact": "Potential disruptions to air traffic and logistics in the region, increased security protocols for aviation and cargo operations, and heightened vigilance for drone-related threats.",
+      "proximity_alert": "YAKIN TEHDİT: Vnukovo International Airport (27 km)"
+    }
+  },
+  {
+    "id": "f93c14bcfec02e1076f3e0e2f3762cdb",
+    "timestamp": "2026-01-05T13:01:31.662508",
+    "original_title": "Nicolas Maduro due in US court on narco-terrorist charges",
+    "link": "https://www.france24.com/en/video/20260105-nicolas-maduro-due-in-us-court-on-narco-terrorist-charges",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict",
+      "risk_score": 10,
+      "location": "New York, USA",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "detailed_analysis": "The extradition of Nicolas Maduro to the US on narco-terrorist charges may lead to increased tensions between the US and Venezuela, potentially affecting aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Heightened security measures are expected at New York airports and courthouses, with potential disruptions to flights and logistics operations.",
+      "strategic_outlook": "The situation may escalate into a diplomatic crisis, affecting trade relationships and transport operations between the US and Venezuela in the long term.",
+      "operational_impact": "Potential delays and disruptions to cargo and aviation operations, particularly those related to oil and fuel transportation, due to increased security measures and diplomatic tensions.",
+      "proximity_alert": "YAKIN TEHDİT: Paramount Hotel (5 km)"
+    }
+  },
+  {
+    "id": "84bd0c4d05b6a0111524c1aa489ed7dd",
+    "timestamp": "2026-01-05T13:01:33.419143",
+    "original_title": "Papers call for 'Venezuelan resistance' after Maduro's capture",
+    "link": "https://www.france24.com/en/tv-shows/press-review/20260105-papers-call-for-venezuelan-resistance-after-maduro-s-capture",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 6,
+      "location": "Venezuela",
+      "latitude": 7.0,
+      "longitude": -67.0,
+      "detailed_analysis": "The abduction of Nicolas Maduro has sparked calls for 'Venezuelan resistance', indicating potential civil unrest and conflict in the region, which could impact aviation and cargo operations.",
+      "immediate_forecast_24h": "Increased tensions and protests are expected in the short term, potentially disrupting air travel and logistics in Venezuela.",
+      "strategic_outlook": "The situation may escalate into a full-blown conflict, affecting regional stability and having long-term implications for aviation, cargo, and personnel safety.",
+      "operational_impact": "Potential disruptions to air travel, cargo operations, and logistics in Venezuela and surrounding regions, with possible spillover effects on global supply chains.",
       "proximity_alert": null
     }
   },
   {
-    "id": "85f6e16bac5ca627f8bf6d084247981f",
-    "timestamp": "2026-01-05T11:26:05.896408",
-    "original_title": "Russians kill at least 6 people, including 3-year-old child, in missile attack on apartment building in Kharkiv",
-    "link": "https://www.reddit.com/r/worldnews/comments/1q4ipqf/russians_kill_at_least_6_people_including/",
-    "source_name": "Reddit r/WorldNews",
+    "id": "f821b242a890bc0313faeeb49948e9a3",
+    "timestamp": "2026-01-05T13:01:35.357695",
+    "original_title": "Yemeni forces regain control of strategic port after days of airstrikes",
+    "link": "https://www.france24.com/en/video/20260105-yemeni-forces-regain-control-of-strategic-port-after-days-of-airstrikes",
+    "source_name": "France 24 ME",
     "ai_analysis": {
       "category": "Conflict/Civil Unrest",
-      "risk_score": 10,
-      "location": "Kharkiv, Ukraine",
-      "latitude": 49.9935,
-      "longitude": 36.2304,
-      "detailed_analysis": "Missile attack on an apartment building in Kharkiv resulted in at least 6 fatalities, including a 3-year-old child. The attack poses a significant threat to the safety of civilians and infrastructure in the region.",
-      "immediate_forecast_24h": "Increased military activity and potential for further attacks in the region, posing a high risk to personnel and assets.",
-      "strategic_outlook": "The ongoing conflict in Ukraine continues to pose a significant threat to regional stability, with potential long-term impacts on global supply chains and logistics.",
-      "operational_impact": "Potential disruptions to transport and logistics operations in the region, with increased risk of damage to infrastructure and assets.",
-      "proximity_alert": "YAKIN TEHDİT: Kharkiv International Airport (8 km)"
-    }
-  },
-  {
-    "id": "fbf4a4bc8c589d8103246552bf7d1566",
-    "timestamp": "2026-01-05T11:26:09.489349",
-    "original_title": "Why Europe bows to US influence: \"The Owned Continent\"",
-    "link": "https://www.france24.com/en/video/20260105-why-europe-bows-to-us-influence-the-owned-continent",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict/International Relations",
-      "risk_score": 10,
-      "location": "Europe, Caracas",
-      "latitude": 48.8567,
-      "longitude": 2.2945,
-      "detailed_analysis": "The situation involves a geopolitical conflict between the US and Caracas, with Europe's reaction being muted. The context does not directly imply a threat to assets, cargo, aviation, or personnel but highlights the complex international relations and potential for future conflicts.",
-      "immediate_forecast_24h": "No immediate threats are anticipated in the next 24 hours, but the situation will be closely monitored for any developments that could affect international stability and security.",
-      "strategic_outlook": "Long-term, the dynamics between the US, Europe, and other nations could lead to shifts in global alliances and policies, potentially impacting trade, security, and diplomatic relations.",
-      "operational_impact": "Currently, there's no direct operational impact on transport or logistics, but any escalation in tensions could lead to changes in trade policies, security measures, or travel advisories.",
-      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (1 km)"
-    }
-  },
-  {
-    "id": "48ec1ad9d2b3c5903db7cb93588afd9a",
-    "timestamp": "2026-01-05T11:26:11.905929",
-    "original_title": "France's Prime Minister meets with farmer's trade unions as protests resume",
-    "link": "https://www.france24.com/en/video/20260105-france-s-prime-minister-meets-with-farmer-s-trade-unions-as-protests-resume",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Civil Unrest",
-      "risk_score": 10,
-      "location": "Paris, France",
-      "latitude": 48.8567,
-      "longitude": 2.3508,
-      "detailed_analysis": "Protests by farmer's trade unions may cause disruptions to transportation and logistics, potentially affecting cargo and personnel movement.",
-      "immediate_forecast_24h": "Protests are expected to continue, with potential blockages of roads and highways, but no immediate threat to aviation or major cargo thefts.",
-      "strategic_outlook": "The situation may escalate if the government does not meet the demands of the farmer's unions, leading to prolonged disruptions and potential supply chain issues.",
-      "operational_impact": "Transportation and logistics companies should be prepared for potential delays and disruptions, and consider alternative routes to minimize the impact of the protests.",
-      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (2 km)"
-    }
-  },
-  {
-    "id": "ca0d9715da4aea8cfeef4aa3d91af5c2",
-    "timestamp": "2026-01-05T11:44:05.499962",
-    "original_title": "Britain says it and France bombed suspected Islamic State arms dump in Syria | CNN",
-    "link": "https://www.reddit.com/r/worldnews/comments/1q4jcpd/britain_says_it_and_france_bombed_suspected/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Terrorism/Conflict",
-      "risk_score": 8,
-      "location": "Syria",
-      "latitude": 35.0,
-      "longitude": 38.0,
-      "detailed_analysis": "Britain and France have bombed a suspected Islamic State arms dump in Syria, indicating a heightened level of military activity and potential for retaliation or escalation in the region.",
-      "immediate_forecast_24h": "Increased military activity and potential for Islamic State retaliation in the region, posing a threat to aviation and personnel.",
-      "strategic_outlook": "Long-term instability in the region, with potential for ongoing conflict and terrorism, impacting transport and logistics operations.",
-      "operational_impact": "Potential disruption to air transport and logistics operations in the region, with increased risk to personnel and assets.",
+      "risk_score": 7,
+      "location": "Mukalla, Yemen",
+      "latitude": 14.5333,
+      "longitude": 49.1333,
+      "detailed_analysis": "Yemeni forces have regained control of the strategic port city of Mukalla after days of airstrikes, indicating a high level of conflict and instability in the region, which could impact cargo and personnel safety.",
+      "immediate_forecast_24h": "Increased military presence and potential for further clashes between government forces and southern separatists, posing a risk to aviation and cargo operations in the area.",
+      "strategic_outlook": "Long-term instability and conflict in Yemen may lead to continued disruptions to transport and logistics, with potential for spillover into neighboring countries.",
+      "operational_impact": "Potential disruptions to cargo shipments and aviation operations due to conflict, with increased risk of damage or loss of assets and personnel.",
       "proximity_alert": null
     }
   }
