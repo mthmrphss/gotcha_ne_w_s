@@ -1,43 +1,5 @@
 [
   {
-    "id": "58f94b8ece909da5dcfda2ea79a35b18",
-    "timestamp": "2026-01-05T06:53:37.071579",
-    "original_title": "Live: 32 Cubans killed during US operation to capture Maduro, Havana says",
-    "link": "https://www.france24.com/en/americas/20260105-live-maduro-us-court-new-york-federal-indictment",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 10,
-      "location": "Caracas, Venezuela",
-      "latitude": 10.488,
-      "longitude": -66.879,
-      "detailed_analysis": "A US operation to capture Venezuelan President Nicolas Maduro has resulted in the death of 32 Cuban nationals, indicating a significant escalation of conflict in the region, potentially affecting aviation, cargo, and personnel safety.",
-      "immediate_forecast_24h": "Increased tensions between the US and Venezuela, potential for retaliatory actions, and heightened security measures in the region, which may impact flight operations and cargo transport.",
-      "strategic_outlook": "Long-term instability in Venezuela, potential for widespread unrest, and implications for regional security, which could lead to sustained disruptions in aviation and logistics operations.",
-      "operational_impact": "Potential disruptions to air travel, cargo transport, and personnel movements in and out of Venezuela, with possible spillover effects into neighboring countries, necessitating enhanced security protocols and contingency planning.",
-      "proximity_alert": "YAKIN TEHDİT: Maiquetía \"Simón Bolívar\" International Airport (4 km)"
-    }
-  },
-  {
-    "id": "8e35e75482e9f469ebd6dbab47802b7b",
-    "timestamp": "2026-01-05T06:53:39.109701",
-    "original_title": "Trump ramps up pressure on Iran after fresh clashes erupt",
-    "link": "https://www.france24.com/en/middle-east/20260105-donald-trump-iran-clashes",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict/Civil Unrest",
-      "risk_score": 7,
-      "location": "Iran",
-      "latitude": 32.0,
-      "longitude": 53.0,
-      "detailed_analysis": "The situation in Iran is escalating with deadly clashes between protesters and security forces, and the US President warning of severe consequences if more protesters die, indicating a high level of tension and potential for further unrest.",
-      "immediate_forecast_24h": "Increased protests and clashes are expected, potentially disrupting transport and logistics in the region, with a heightened risk of violence and instability.",
-      "strategic_outlook": "The long-term outlook is uncertain, with the potential for prolonged civil unrest, increased international tensions, and potential economic sanctions, all of which could impact regional stability and global trade.",
-      "operational_impact": "Potential disruptions to air and ground transport, increased security measures, and possible restrictions on cargo and personnel movement, with a focus on mitigating risks to assets, cargo, aviation, and personnel in the region.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "09cde6d8d300225f6540a00f2d8e4eec",
     "timestamp": "2026-01-05T07:35:06.907286",
     "original_title": "Trump spurns Kremlin’s Putin residence attack claim, Russia kills 2 in Kyiv - Al Jazeera",
@@ -73,6 +35,63 @@
       "strategic_outlook": "Long-term escalation of conflict could disrupt global supply chains, particularly those relying on Venezuelan or Cuban ports and infrastructure",
       "operational_impact": "Potential for increased security measures, delays, or disruptions to cargo and personnel transport in the region",
       "proximity_alert": null
+    }
+  },
+  {
+    "id": "228b3d3762606631c6b18a78254d1e65",
+    "timestamp": "2026-01-05T08:42:45.553755",
+    "original_title": "Russia targets capital and Kyiv Oblast, killing at least 2, damaging medical center",
+    "link": "https://www.reddit.com/r/worldnews/comments/1q4fvbn/russia_targets_capital_and_kyiv_oblast_killing_at/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Kyiv, Ukraine",
+      "latitude": 50.4501,
+      "longitude": 30.5236,
+      "detailed_analysis": "Russia has targeted the capital and Kyiv Oblast, resulting in at least 2 deaths and damage to a medical center. This escalation of violence poses a significant threat to assets, cargo, aviation, and personnel in the region.",
+      "immediate_forecast_24h": "Further attacks are likely, and the situation may deteriorate, leading to increased instability and risk to transport and logistics operations.",
+      "strategic_outlook": "The ongoing conflict in Ukraine is expected to continue, with potential long-term implications for regional stability and global security. This may lead to sustained disruptions to supply chains and transportation networks.",
+      "operational_impact": "Transport and logistics operations in the region may be severely impacted, with potential disruptions to air and ground transportation, and increased risk to personnel and assets. Cargo and supply chains may be delayed or diverted, and security measures may need to be enhanced to mitigate the risks.",
+      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
+    }
+  },
+  {
+    "id": "6cc8efdc592dc3a99b8acf113a10865b",
+    "timestamp": "2026-01-05T08:42:48.788586",
+    "original_title": "Nigeria: Death toll rises to 50 in Niger state market attack",
+    "link": "http://www.africanews.com/2026/01/05/nigeria-death-toll-rises-to-50-in-niger-state-market-attack/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Terrorism/Civil Unrest/Conflict",
+      "risk_score": 8,
+      "location": "Niger state, Nigeria",
+      "latitude": 10.0,
+      "longitude": 6.0,
+      "detailed_analysis": "The attack on the market in Niger state, resulting in a significant death toll and hostages taken, poses a substantial threat to personnel and potentially to cargo and aviation if the situation escalates or if the perpetrators have broader targets in mind.",
+      "immediate_forecast_24h": "Increased security presence is expected, with potential for further clashes or hostage situations. The situation may remain volatile, with a risk of additional attacks or retaliations.",
+      "strategic_outlook": "Long-term stability in the region could be compromised, potentially leading to increased insurgency activities, which might affect transport and logistics operations, including aviation and cargo movements.",
+      "operational_impact": "Transport and logistics operations in and around Niger state may be disrupted due to the heightened security situation, with potential for delays, increased security checks, or even temporary cessation of services to ensure safety of personnel and assets.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "1ceae79c9c1aa48f094148446216b639",
+    "timestamp": "2026-01-05T08:42:50.795465",
+    "original_title": "Maduro to make first appearance in a US courtroom on narco trafficking charges",
+    "link": "https://www.france24.com/en/live-news/20260105-trump-declares-us-in-charge-of-venezuela-and-maduro-goes-to-court",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Crime",
+      "risk_score": 10,
+      "location": "New York, USA",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "detailed_analysis": "Venezuelan President Nicolás Maduro's appearance in a US courtroom on narco trafficking charges may lead to increased tensions between the US and Venezuela, potentially affecting cargo and aviation operations.",
+      "immediate_forecast_24h": "Heightened security measures are expected at the courthouse and surrounding areas, with potential protests or demonstrations. The UN Security Council emergency session may lead to diplomatic tensions.",
+      "strategic_outlook": "Long-term implications may include strained US-Venezuela relations, potentially affecting trade and logistics operations. The situation may also impact regional stability in South America.",
+      "operational_impact": "Potential disruptions to cargo and aviation operations due to increased security measures or diplomatic tensions. Operators should monitor the situation closely and be prepared for possible changes in regulations or security protocols.",
+      "proximity_alert": "YAKIN TEHDİT: Paramount Hotel (5 km)"
     }
   }
 ]
