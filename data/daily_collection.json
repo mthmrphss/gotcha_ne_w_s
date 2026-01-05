@@ -1385,5 +1385,62 @@
       "operational_impact": "The situation in Venezuela could lead to increased security protocols for cargo transport, including increased inspections and surveillance. This could lead to delays and increased costs for logistics companies, as well as a higher risk of theft and smuggling.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "3aa14907bfee5be7d7d1c6c6b4093e1f",
+    "timestamp": "2026-01-05T17:50:33.179535",
+    "original_title": "Berlin mayor warns on infrastructure after power station attack",
+    "link": "https://www.reddit.com/r/worldnews/comments/1q4skmq/berlin_mayor_warns_on_infrastructure_after_power/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Terrorism/Civil Unrest",
+      "risk_score": 10,
+      "location": "Berlin, Germany",
+      "latitude": 52.52,
+      "longitude": 13.405,
+      "detailed_analysis": "The attack on a power station in Berlin has prompted the mayor to warn about the vulnerability of the city's infrastructure, indicating a potential threat to critical assets and personnel.",
+      "immediate_forecast_24h": "Increased security measures are expected in the short term, potentially causing disruptions to daily operations and transport in the city.",
+      "strategic_outlook": "This incident may signal a heightened threat environment for critical infrastructure in major cities, necessitating enhanced security protocols and contingency planning for potential future attacks.",
+      "operational_impact": "The attack and subsequent warnings could lead to increased surveillance, possible delays, or rerouting of cargo and aviation operations in and around Berlin, affecting logistics and supply chains.",
+      "proximity_alert": "YAKIN TEHDİT: Berlin Tegel Airport (0 km)"
+    }
+  },
+  {
+    "id": "37f4348e0613033c108e68a7da6d5912",
+    "timestamp": "2026-01-05T17:50:34.977643",
+    "original_title": "President Nicolas Maduro pleads not guilty to charges of narco-terrorism",
+    "link": "https://www.reddit.com/r/worldnews/comments/1q4sjhc/president_nicolas_maduro_pleads_not_guilty_to/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Terrorism/Crime",
+      "risk_score": 10,
+      "location": "Caracas, Venezuela",
+      "latitude": 10.488,
+      "longitude": -66.879,
+      "detailed_analysis": "President Nicolas Maduro's plea of not guilty to charges of narco-terrorism may lead to increased tensions and potential instability in the region, affecting cargo and aviation operations.",
+      "immediate_forecast_24h": "Heightened security measures are expected in the short term, potentially causing delays or disruptions to logistics and transport operations.",
+      "strategic_outlook": "Long-term implications may include increased scrutiny of cargo and aviation operations in Venezuela, potentially leading to changes in regulations or security protocols.",
+      "operational_impact": "Potential disruptions to cargo and aviation operations, increased security measures, and heightened risk of crime or terrorism in the region may impact transport and logistics operations.",
+      "proximity_alert": "YAKIN TEHDİT: Maiquetía \"Simón Bolívar\" International Airport (4 km)"
+    }
+  },
+  {
+    "id": "e8e6b0ff932b1231379378e929f8bd2e",
+    "timestamp": "2026-01-05T17:50:37.503096",
+    "original_title": "Venezuela : What's happening at the Colombian–Venezuelan border ?",
+    "link": "https://www.france24.com/en/video/20260105-venezuela-what-s-happening-at-the-colombian%E2%80%93venezuelan-border",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Border/Civil Unrest/Conflict",
+      "risk_score": 6,
+      "location": "Colombian–Venezuelan border",
+      "latitude": 7.0,
+      "longitude": -72.0,
+      "detailed_analysis": "The situation at the Colombian–Venezuelan border is volatile, with potential for clashes and disruptions to transport and logistics. The presence of migrants and potential for border breaches could impact cargo and personnel safety.",
+      "immediate_forecast_24h": "Increased tensions and potential for skirmishes between border patrols and migrants, with possible disruptions to cargo transport and aviation in the region.",
+      "strategic_outlook": "Long-term instability at the border could lead to sustained disruptions to trade and transport, with potential for increased crime and smuggling activities.",
+      "operational_impact": "Transport and logistics operations in the region may be impacted, with potential for delays, increased security measures, and heightened risk to personnel and cargo.",
+      "proximity_alert": null
+    }
   }
 ]
