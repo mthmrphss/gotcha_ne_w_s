@@ -1,24 +1,5 @@
 [
   {
-    "id": "75675cf0af6498e7ed9c79d1c030dd14",
-    "timestamp": "2026-01-05T19:43:37.003751",
-    "original_title": "Air France Flight with A330 Makes Emergency Landing in Munich - Aviation A2Z",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNFpFeGRHcXBIMlUtUjkwMk9jcjQzUDQ5Qmd0TThHYlNVMndObGgtcFYtWkpBaGl3NjVoS2xHLXkzRFJrYkVLUHpoZ0hGSThqZjVULUJDZmVNUHd0NkhMMGdqWHRjMXZXVjlNVEdKX3d0SDlrZFVyOVA3SGM0R1pjTWlxczJfZXFRTTE0YlRqNU5UTk5Jd2JSbEdiMTEzeWtWRjVsZGcyd1NjWjQ?oc=5",
-    "source_name": "Live Flight Emergencies (Squawk)",
-    "ai_analysis": {
-      "category": "Aviation",
-      "risk_score": 10,
-      "location": "Munich, Germany",
-      "latitude": 48.1351,
-      "longitude": 11.5818,
-      "detailed_analysis": "Air France Flight with A330 made an emergency landing in Munich, the cause of which is not specified in the provided context. This incident could potentially be related to a technical issue, medical emergency, or other aviation-related concerns.",
-      "immediate_forecast_24h": "Investigations into the cause of the emergency landing are likely to commence immediately. There may be disruptions to Air France's flight schedule, and passengers may experience delays.",
-      "strategic_outlook": "The long-term impact of this incident will depend on the root cause of the emergency landing. If it is found to be a technical issue, Air France may need to inspect and potentially ground other A330 aircraft in their fleet, leading to potential strategic and operational changes.",
-      "operational_impact": "The emergency landing may cause short-term disruptions to air travel, particularly for passengers booked on Air France flights. There could also be a ripple effect on the overall air travel schedule at Munich airport, potentially impacting other airlines and flights.",
-      "proximity_alert": "YAKIN TEHDİT: Munich Airport (0 km)"
-    }
-  },
-  {
     "id": "9228c448ee0c121f4f729c46bee52297",
     "timestamp": "2026-01-05T20:33:09.207363",
     "original_title": "Nurses condemn Trump’s unilateral military action against Venezuela - National Nurses United",
@@ -34,6 +15,25 @@
       "immediate_forecast_24h": "Heightened security measures and potential disruptions to air travel and cargo transport in and out of Venezuela.",
       "strategic_outlook": "Long-term instability and conflict in Venezuela could lead to sustained disruptions to regional transport and logistics, with potential spillover effects into neighboring countries.",
       "operational_impact": "Potential delays or cancellations of flights, increased security checks, and disruptions to cargo transport and logistics operations in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "1ec7af270d156d0825202ce7460ede7d",
+    "timestamp": "2026-01-05T21:28:48.404167",
+    "original_title": "US attack on Greenland would mean end of Nato, says Danish PM",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1q4w472/us_attack_on_greenland_would_mean_end_of_nato/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Greenland, Denmark",
+      "latitude": 64.5167,
+      "longitude": -51.7333,
+      "detailed_analysis": "The Danish PM has stated that a US attack on Greenland would mean the end of NATO, indicating a high level of geopolitical tension and potential for conflict.",
+      "immediate_forecast_24h": "Increased diplomatic tensions and potential for military posturing between the US and NATO allies.",
+      "strategic_outlook": "Long-term implications for global security and stability, with potential for a significant shift in the balance of power.",
+      "operational_impact": "Potential disruptions to air and sea transport in the region, as well as increased security measures for personnel and cargo.",
       "proximity_alert": null
     }
   }
