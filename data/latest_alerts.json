@@ -1,62 +1,5 @@
 [
   {
-    "id": "d869a079f1b642568e5d9b7385eacaad",
-    "timestamp": "2026-01-05T05:10:37.196459",
-    "original_title": "Sentinel Security Life and Atlantic Coast Life disclose cyberbreach - Insurance Business",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcHhjUjYzUFdjcGJ3UFVKTXRWbzFTcWVkVTVXSGpReHJSenlRZkN0d21kUy1VTVN4RnZGeC1BeVQyLUVwUzU4aEFNejZ0TXpLMjFMcXE0QzZfeXZYdjRGMjBjWGozdDNTQXlONDhLVVI0bkxXcFNrRDZxak9Mek5pNlJDbGNSb2ZPOTlneTZZUXFDMnpaSnJiVXJZUURNZHNzRlA2Zk5jSV9ndWJwMUJfYm4xMEtub21TSUNKNVFKTmRYeUp1dXNMbmZlQ3JQRC1mR2dfUA?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Cyber",
-      "risk_score": 6,
-      "location": "Unknown, USA",
-      "latitude": 37.0902,
-      "longitude": -95.7129,
-      "detailed_analysis": "Sentinel Security Life and Atlantic Coast Life have disclosed a cyberbreach, which may compromise sensitive customer data and potentially disrupt business operations.",
-      "immediate_forecast_24h": "In the next 24 hours, the breach may lead to further unauthorized access to systems, potential data leaks, and increased risk of phishing or social engineering attacks targeting customers or employees.",
-      "strategic_outlook": "In the long term, the breach may result in reputational damage, financial losses, and potential regulatory penalties for the affected companies, highlighting the need for enhanced cybersecurity measures in the insurance industry.",
-      "operational_impact": "The cyberbreach may impact the operational efficiency of Sentinel Security Life and Atlantic Coast Life, potentially disrupting services, delaying claims processing, and affecting customer trust in the companies.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "b3510007ea40c9156dae51d5b63bc777",
-    "timestamp": "2026-01-05T05:10:38.934182",
-    "original_title": "Military marine flare found at SF's Ocean Beach - NBC Bay Area",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTndkRWZETUtPRWZJWFdZd00zdldwVE1UNXJHbkFGemxIeEgzS3g2Mk1PaDYtbWdMd1ZnME5VSkZNZWwyYVNkOWZYbk5leDNwWG5jUWRIaEwwUjEtOEFOZ2p3U0QtaUxpekhxUjVNalNHaWpvQkt6YWNVb2gybjNTTXRVUHHSAYwBQVVfeXFMUHM1MkF4NWxSUmpUdmRsamNxb195dmhPUElWX0h0OVJaN2NFaHB1MzJTbUppR2hudFVOZjFpZFZXT3FFMTdicFBCeTFnLVFOQ3ZCbkdLdWdqTjMwWC1tdlNzbHh1aUFoNFpidzdSZmpZd1JDYkR4TVk1bGxwbUhrMEZRVk9XSFpnX3lhNU8?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Other",
-      "risk_score": 10,
-      "location": "San Francisco, USA",
-      "latitude": 37.7749,
-      "longitude": -122.4194,
-      "detailed_analysis": "A military marine flare was found at Ocean Beach in San Francisco, but there is no indication of malicious intent or a direct threat to assets, cargo, aviation, or personnel.",
-      "immediate_forecast_24h": "The situation is expected to be resolved without further incident, with local authorities handling the disposal of the flare.",
-      "strategic_outlook": "The discovery of a military marine flare in a public area highlights the need for continued vigilance and cooperation between law enforcement and the public to identify and report potential threats.",
-      "operational_impact": "No significant operational impact is expected, as the incident appears to be isolated and does not affect transport or logistics operations in the area.",
-      "proximity_alert": "YAKIN TEHDİT: San Francisco International Airport (17 km)"
-    }
-  },
-  {
-    "id": "8a3ca695f2c95e5faf4de1a8df8e0db5",
-    "timestamp": "2026-01-05T05:10:43.411565",
-    "original_title": "Live: Maduro to make first US court appearance in New York amid Federal indictment",
-    "link": "https://www.france24.com/en/americas/20260105-live-maduro-us-court-new-york-federal-indictment",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Crime/Terrorism/Civil Unrest",
-      "risk_score": 10,
-      "location": "Caracas, Venezuela",
-      "latitude": 10.488,
-      "longitude": -66.879,
-      "detailed_analysis": "The detention of Nicolas Maduro in a military raid and his upcoming court appearance in the US on charges of 'narcoterrorism' could lead to civil unrest and potential instability in Venezuela, affecting cargo and personnel safety.",
-      "immediate_forecast_24h": "Uncertainty and potential protests in Venezuela, with possible disruptions to logistics and transport operations.",
-      "strategic_outlook": "Long-term instability in Venezuela could lead to increased crime and smuggling activities, posing a risk to cargo and aviation security in the region.",
-      "operational_impact": "Potential disruptions to air and ground transport operations in Venezuela, with possible delays or cancellations of flights and cargo shipments.",
-      "proximity_alert": "YAKIN TEHDİT: Maiquetía \"Simón Bolívar\" International Airport (4 km)"
-    }
-  },
-  {
     "id": "fa10e0626240f09ca2c3c70b8ff52734",
     "timestamp": "2026-01-05T05:58:09.252978",
     "original_title": "Will Congress buck Trump after Venezuela attack? - NJ Spotlight News",
@@ -91,6 +34,44 @@
       "immediate_forecast_24h": "Increased security presence is expected in the area, with potential for further clashes between security forces and the attackers. There may be disruptions to local transport and logistics operations.",
       "strategic_outlook": "The attack highlights the ongoing security challenges in Nigeria, particularly in the northern regions. It may lead to increased security measures and potential restrictions on movement in the area, affecting transport and logistics operations in the long term.",
       "operational_impact": "The attack may impact local cargo transport and logistics operations, particularly in the affected area. There may be increased security checks and potential delays in the movement of goods and personnel.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "58f94b8ece909da5dcfda2ea79a35b18",
+    "timestamp": "2026-01-05T06:53:37.071579",
+    "original_title": "Live: 32 Cubans killed during US operation to capture Maduro, Havana says",
+    "link": "https://www.france24.com/en/americas/20260105-live-maduro-us-court-new-york-federal-indictment",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Caracas, Venezuela",
+      "latitude": 10.488,
+      "longitude": -66.879,
+      "detailed_analysis": "A US operation to capture Venezuelan President Nicolas Maduro has resulted in the death of 32 Cuban nationals, indicating a significant escalation of conflict in the region, potentially affecting aviation, cargo, and personnel safety.",
+      "immediate_forecast_24h": "Increased tensions between the US and Venezuela, potential for retaliatory actions, and heightened security measures in the region, which may impact flight operations and cargo transport.",
+      "strategic_outlook": "Long-term instability in Venezuela, potential for widespread unrest, and implications for regional security, which could lead to sustained disruptions in aviation and logistics operations.",
+      "operational_impact": "Potential disruptions to air travel, cargo transport, and personnel movements in and out of Venezuela, with possible spillover effects into neighboring countries, necessitating enhanced security protocols and contingency planning.",
+      "proximity_alert": "YAKIN TEHDİT: Maiquetía \"Simón Bolívar\" International Airport (4 km)"
+    }
+  },
+  {
+    "id": "8e35e75482e9f469ebd6dbab47802b7b",
+    "timestamp": "2026-01-05T06:53:39.109701",
+    "original_title": "Trump ramps up pressure on Iran after fresh clashes erupt",
+    "link": "https://www.france24.com/en/middle-east/20260105-donald-trump-iran-clashes",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 7,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The situation in Iran is escalating with deadly clashes between protesters and security forces, and the US President warning of severe consequences if more protesters die, indicating a high level of tension and potential for further unrest.",
+      "immediate_forecast_24h": "Increased protests and clashes are expected, potentially disrupting transport and logistics in the region, with a heightened risk of violence and instability.",
+      "strategic_outlook": "The long-term outlook is uncertain, with the potential for prolonged civil unrest, increased international tensions, and potential economic sanctions, all of which could impact regional stability and global trade.",
+      "operational_impact": "Potential disruptions to air and ground transport, increased security measures, and possible restrictions on cargo and personnel movement, with a focus on mitigating risks to assets, cargo, aviation, and personnel in the region.",
       "proximity_alert": null
     }
   }
