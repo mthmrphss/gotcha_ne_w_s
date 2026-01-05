@@ -1,24 +1,5 @@
 [
   {
-    "id": "1ec7af270d156d0825202ce7460ede7d",
-    "timestamp": "2026-01-05T21:28:48.404167",
-    "original_title": "US attack on Greenland would mean end of Nato, says Danish PM",
-    "link": "https://www.reddit.com/r/geopolitics/comments/1q4w472/us_attack_on_greenland_would_mean_end_of_nato/",
-    "source_name": "Reddit r/Geopolitics",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 8,
-      "location": "Greenland, Denmark",
-      "latitude": 64.5167,
-      "longitude": -51.7333,
-      "detailed_analysis": "The Danish PM has stated that a US attack on Greenland would mean the end of NATO, indicating a high level of geopolitical tension and potential for conflict.",
-      "immediate_forecast_24h": "Increased diplomatic tensions and potential for military posturing between the US and NATO allies.",
-      "strategic_outlook": "Long-term implications for global security and stability, with potential for a significant shift in the balance of power.",
-      "operational_impact": "Potential disruptions to air and sea transport in the region, as well as increased security measures for personnel and cargo.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "982699693be91f3f0bab49cbfa238447",
     "timestamp": "2026-01-05T21:48:19.630144",
     "original_title": "Maduro makes first US court appearance after capture",
@@ -92,6 +73,44 @@
       "strategic_outlook": "Long-term instability in the region could lead to sustained disruptions in transport and logistics, with potential for spill-over effects into neighboring countries.",
       "operational_impact": "Possible delays or cancellations of flights, increased security measures for cargo and personnel, and heightened vigilance for potential cyber threats or sabotage targeting critical infrastructure.",
       "proximity_alert": null
+    }
+  },
+  {
+    "id": "fa0bf95372fab64c36ae083aeaf9a63d",
+    "timestamp": "2026-01-05T22:49:34.898159",
+    "original_title": "Iran to try risky economic concessions as it attempts to quell protesters’ anger | Iran",
+    "link": "https://www.reddit.com/r/worldnews/comments/1q507gz/iran_to_try_risky_economic_concessions_as_it/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Iran's attempt to quell protesters' anger through risky economic concessions may lead to increased unrest and potential instability, affecting transport and logistics operations in the region.",
+      "immediate_forecast_24h": "Protests may continue or escalate, potentially disrupting transportation and logistics operations, especially in urban areas.",
+      "strategic_outlook": "The situation may lead to long-term instability, affecting trade and economic activities, and potentially impacting the security of assets, cargo, and personnel in the region.",
+      "operational_impact": "Transport and logistics operations may be disrupted due to protests, roadblocks, or other security concerns, requiring alternative routes or contingency planning to ensure the safe and timely delivery of goods and services.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "1a58a5ba4d457412cd7bfd8630b9bb49",
+    "timestamp": "2026-01-05T22:50:07.650518",
+    "original_title": "Protests outside US courtroom in New York where Maduro was heard",
+    "link": "https://www.france24.com/en/video/20260105-protests-outside-us-courtroom-in-new-york-where-maduro-was-heard",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "New York, USA",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "detailed_analysis": "Protests outside a US courtroom in New York where Maduro was heard may lead to disruptions in the surrounding area, but there is no direct indication of a threat to assets, cargo, aviation, or personnel at this time.",
+      "immediate_forecast_24h": "The protests are likely to continue, potentially causing traffic congestion and disruptions in the area, but no significant escalation is expected in the next 24 hours.",
+      "strategic_outlook": "The situation is being monitored, but it is not expected to have a long-term impact on transport or logistics in the area.",
+      "operational_impact": "Minimal impact on transport and logistics is expected, but security measures may be increased in the area as a precaution.",
+      "proximity_alert": "YAKIN TEHDİT: Paramount Hotel (5 km)"
     }
   }
 ]
