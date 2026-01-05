@@ -1,24 +1,5 @@
 [
   {
-    "id": "982699693be91f3f0bab49cbfa238447",
-    "timestamp": "2026-01-05T21:48:19.630144",
-    "original_title": "Maduro makes first US court appearance after capture",
-    "link": "http://www.africanews.com/2026/01/05/maduro-makes-first-us-court-appearance-after-capture/",
-    "source_name": "Africa News",
-    "ai_analysis": {
-      "category": "Conflict/Civil Unrest",
-      "risk_score": 10,
-      "location": "New York, USA",
-      "latitude": 40.7128,
-      "longitude": -74.006,
-      "detailed_analysis": "The capture of Venezuelan leader Nicolás Maduro by US military operation may lead to increased tensions and potential unrest in the region, affecting aviation and logistics operations.",
-      "immediate_forecast_24h": "Potential protests and demonstrations in New York and Caracas, possible disruptions to air travel and cargo operations.",
-      "strategic_outlook": "Long-term implications for regional stability and potential escalation of conflict, impacting trade and transport routes.",
-      "operational_impact": "Possible delays or cancellations of flights, increased security measures at airports and logistics hubs, potential disruptions to supply chains.",
-      "proximity_alert": "YAKIN TEHDİT: Paramount Hotel (5 km)"
-    }
-  },
-  {
     "id": "cb53addfb649e4f7f4aff5fcae92060a",
     "timestamp": "2026-01-05T22:28:21.048873",
     "original_title": "Making sense of the US military operation in Venezuela - Brookings",
@@ -111,6 +92,25 @@
       "strategic_outlook": "The situation is being monitored, but it is not expected to have a long-term impact on transport or logistics in the area.",
       "operational_impact": "Minimal impact on transport and logistics is expected, but security measures may be increased in the area as a precaution.",
       "proximity_alert": "YAKIN TEHDİT: Paramount Hotel (5 km)"
+    }
+  },
+  {
+    "id": "81c76b894e3fb12d61b250f8ce373cca",
+    "timestamp": "2026-01-05T23:27:34.012664",
+    "original_title": "3 men, Tokyo Electron Taiwan indicted over new TSMC trade secret theft - Focus Taiwan",
+    "link": "https://www.reddit.com/r/worldnews/comments/1q51b7t/3_men_tokyo_electron_taiwan_indicted_over_new/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Crime",
+      "risk_score": 10,
+      "location": "Taipei, Taiwan",
+      "latitude": 25.033,
+      "longitude": 121.5654,
+      "detailed_analysis": "Three men from Tokyo Electron Taiwan have been indicted for allegedly stealing trade secrets from TSMC, a major semiconductor manufacturer. This incident highlights the risk of intellectual property theft and corporate espionage in the technology sector.",
+      "immediate_forecast_24h": "No immediate disruption to logistics or transport operations is expected, but the incident may lead to increased security measures and scrutiny of supply chain partners.",
+      "strategic_outlook": "The long-term impact of this incident could be significant, as it may lead to a loss of trust among business partners and potentially damage the reputation of companies involved. It may also lead to increased investment in cybersecurity and intellectual property protection measures.",
+      "operational_impact": "The incident may lead to increased scrutiny of supply chain partners and logistics operations, particularly in the technology sector. Companies may need to review their security protocols and implement additional measures to protect their intellectual property.",
+      "proximity_alert": "YAKIN TEHDİT: Taiwan Taoyuan International Airport (0 km)"
     }
   }
 ]
