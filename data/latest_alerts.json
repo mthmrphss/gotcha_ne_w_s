@@ -93,5 +93,24 @@
       "operational_impact": "The attack highlights the risks to ground transport, particularly for military and security personnel. It may also indirectly affect cargo movements and aviation operations in the region due to heightened security concerns and potential disruptions to supply chains.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "9222e4d86522e5a10c142f61da3fc74d",
+    "timestamp": "2026-01-06T13:46:09.681245",
+    "original_title": "Five dead, flights cancelled as snow and ice wreak havoc across Europe",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/cold-weather-flights-france-europe-b2895339.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Aviation/Civil Unrest",
+      "risk_score": 10,
+      "location": "Europe",
+      "latitude": 48.8567,
+      "longitude": 2.2945,
+      "detailed_analysis": "Heavy snowfall has forced the closure of several airports and the cancellation of hundreds of flights across Europe, resulting in significant disruptions to air travel and potential impacts on cargo and personnel.",
+      "immediate_forecast_24h": "Further flight cancellations and travel disruptions are expected as the weather conditions persist, with potential for increased risk to aviation operations and safety.",
+      "strategic_outlook": "The long-term impact of this event will depend on the ability of airports and airlines to recover from the disruptions and implement measures to mitigate the effects of future severe weather events.",
+      "operational_impact": "The closure of airports and cancellation of flights will have a significant impact on transport and logistics operations, with potential delays and disruptions to cargo and personnel movements.",
+      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (1 km)"
+    }
   }
 ]
