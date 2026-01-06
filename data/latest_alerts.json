@@ -1,43 +1,5 @@
 [
   {
-    "id": "fc517f8f37e0b35ee434c598ee8548ab",
-    "timestamp": "2026-01-06T15:31:13.346744",
-    "original_title": "U.S. Attack to Seize Greenland Would End NATO, Danish Prime Minister Says",
-    "link": "https://www.reddit.com/r/geopolitics/comments/1q5kwte/us_attack_to_seize_greenland_would_end_nato/",
-    "source_name": "Reddit r/Geopolitics",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 8,
-      "location": "Greenland, Denmark",
-      "latitude": 64.5167,
-      "longitude": -51.7167,
-      "detailed_analysis": "The statement by the Danish Prime Minister suggests a potential conflict between the U.S. and Denmark over Greenland, which could have significant implications for NATO and regional stability.",
-      "immediate_forecast_24h": "Tensions between the U.S. and Denmark are likely to escalate, with potential diplomatic fallout and increased military presence in the region.",
-      "strategic_outlook": "A conflict over Greenland could lead to a re-evaluation of NATO's role and structure, potentially destabilizing the regional security landscape and impacting global geopolitics.",
-      "operational_impact": "Potential disruptions to air and sea transport in the North Atlantic, as well as increased security measures for personnel and cargo in the region.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "d28a335b590341da64e562eed6a37d37",
-    "timestamp": "2026-01-06T15:31:15.794889",
-    "original_title": "Security forces clash with protesters in Iran's main market as at least 35 killed in demonstrations",
-    "link": "https://www.reddit.com/r/worldnews/comments/1q5kv5d/security_forces_clash_with_protesters_in_irans/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Civil Unrest/Conflict",
-      "risk_score": 10,
-      "location": "Tehran, Iran",
-      "latitude": 35.6892,
-      "longitude": 51.389,
-      "detailed_analysis": "Protests in Iran's main market have turned violent, with security forces clashing with protesters, resulting in at least 35 deaths. The situation is volatile and may impact the safety of assets, cargo, aviation, and personnel in the region.",
-      "immediate_forecast_24h": "The situation is likely to remain volatile, with further clashes between security forces and protesters possible. Disruptions to transport and logistics are expected, and there is a risk of escalation to other parts of the country.",
-      "strategic_outlook": "The long-term outlook is uncertain, but the current unrest may lead to increased instability in the region, potentially affecting trade and economic activity. The situation may also lead to increased security measures, which could impact the movement of goods and people.",
-      "operational_impact": "The unrest may impact the movement of cargo, particularly in the vicinity of the main market. Aviation operations may also be affected, with potential disruptions to flight schedules and airport operations. Personnel in the region should exercise caution and follow local advice to ensure their safety.",
-      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
-    }
-  },
-  {
     "id": "65b427175f0d6c36166966413568120e",
     "timestamp": "2026-01-06T16:38:16.972701",
     "original_title": "Trump calls Venezuela strikes ‘amazing’ and ‘brilliant’ in remarks to House Republicans – live - The Guardian",
@@ -73,6 +35,63 @@
       "strategic_outlook": "Long-term instability and conflict in Venezuela could lead to increased risks for assets, cargo, aviation, and personnel, with potential for spillover effects into neighboring countries.",
       "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics operations in Venezuela, with possible delays or cancellations, and increased security protocols for personnel and assets.",
       "proximity_alert": "YAKIN TEHDİT: Maiquetía \"Simón Bolívar\" International Airport (4 km)"
+    }
+  },
+  {
+    "id": "c3363cdc39c2969f4aa3057f285bbff0",
+    "timestamp": "2026-01-06T17:29:47.791382",
+    "original_title": "Venezuela latest: Trump says 'many' Cuban soldiers killed in Caracas raid but calls operation 'brilliant' - BBC",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1POXdVZHFyUlVmVlllUVRfaF90Q0NnNldnSWhoSlFDYmhLVXRBRWpSVFh3a2JFUzktT3hDcGhyeHB3cjJoMFVZdWVUWnlnZk9EemJiOQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Caracas, Venezuela",
+      "latitude": 10.488,
+      "longitude": -66.879,
+      "detailed_analysis": "The situation in Caracas, Venezuela, has escalated with reports of a raid and Cuban soldiers being killed. The involvement of foreign military personnel and the US President's statement on the operation's brilliance indicate a high level of tension and potential for further conflict.",
+      "immediate_forecast_24h": "Increased military presence and potential for retaliatory actions from involved parties, posing a risk to personnel and assets in the region.",
+      "strategic_outlook": "Long-term instability in Venezuela could lead to sustained conflict, affecting regional security and potentially disrupting cargo and aviation operations.",
+      "operational_impact": "Transport and logistics operations in and around Caracas may be disrupted due to the conflict, and there is a heightened risk of violence against personnel and assets.",
+      "proximity_alert": "YAKIN TEHDİT: Maiquetía \"Simón Bolívar\" International Airport (4 km)"
+    }
+  },
+  {
+    "id": "5645375234875246d35f3bf42ef66be3",
+    "timestamp": "2026-01-06T17:29:51.775970",
+    "original_title": "Iran anti-government protests spread to majority of provinces",
+    "link": "https://www.reddit.com/r/worldnews/comments/1q5nu5y/iran_antigovernment_protests_spread_to_majority/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 6,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Anti-government protests have spread to the majority of provinces in Iran, indicating a high level of unrest and potential for further escalation. This could lead to disruptions in transportation, logistics, and supply chains.",
+      "immediate_forecast_24h": "Protests are likely to continue, with potential for increased violence and clashes between protesters and security forces. Disruptions to air travel and ground transportation are possible.",
+      "strategic_outlook": "The ongoing unrest in Iran could lead to long-term instability, affecting the country's economy, trade relationships, and overall security environment. This may have a lasting impact on the aviation and logistics sectors.",
+      "operational_impact": "Potential disruptions to flights, cargo shipments, and ground transportation in Iran. Airlines and logistics companies may need to reassess their operations and consider alternative routes or contingency plans.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "cfb7dade252ff3c415ed32360cea0232",
+    "timestamp": "2026-01-06T17:29:54.738294",
+    "original_title": "Iran’s youth on the front lines of protests face worsening crackdown",
+    "link": "https://www.france24.com/en/asia-pacific/20260106-young-people-front-lines-iran-inflation-protests-face-worsening-crackdown",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The worsening crackdown on protests in Iran, particularly targeting the youth, may lead to increased unrest and potential radicalization, posing a threat to the stability of the region and potentially affecting aviation and cargo operations.",
+      "immediate_forecast_24h": "Expect continued protests and potential escalation of violence, with a high likelihood of further arrests and injuries.",
+      "strategic_outlook": "The long-term outlook suggests a potentially prolonged period of civil unrest, which could impact the country's economy, aviation, and cargo operations, as well as pose a risk to personnel and assets in the region.",
+      "operational_impact": "The unrest may lead to disruptions in logistics and supply chains, particularly for cargo and aviation operations, with potential delays or cancellations of flights and shipments.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
     }
   }
 ]
