@@ -1,24 +1,5 @@
 [
   {
-    "id": "9222e4d86522e5a10c142f61da3fc74d",
-    "timestamp": "2026-01-06T13:46:09.681245",
-    "original_title": "Five dead, flights cancelled as snow and ice wreak havoc across Europe",
-    "link": "https://www.independent.co.uk/travel/news-and-advice/cold-weather-flights-france-europe-b2895339.html",
-    "source_name": "Independent Travel",
-    "ai_analysis": {
-      "category": "Aviation/Civil Unrest",
-      "risk_score": 10,
-      "location": "Europe",
-      "latitude": 48.8567,
-      "longitude": 2.2945,
-      "detailed_analysis": "Heavy snowfall has forced the closure of several airports and the cancellation of hundreds of flights across Europe, resulting in significant disruptions to air travel and potential impacts on cargo and personnel.",
-      "immediate_forecast_24h": "Further flight cancellations and travel disruptions are expected as the weather conditions persist, with potential for increased risk to aviation operations and safety.",
-      "strategic_outlook": "The long-term impact of this event will depend on the ability of airports and airlines to recover from the disruptions and implement measures to mitigate the effects of future severe weather events.",
-      "operational_impact": "The closure of airports and cancellation of flights will have a significant impact on transport and logistics operations, with potential delays and disruptions to cargo and personnel movements.",
-      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (1 km)"
-    }
-  },
-  {
     "id": "be19d2bc0bb9bdbb84bfd620e9afa0ad",
     "timestamp": "2026-01-06T14:30:15.460758",
     "original_title": "Fifth anniversary of the Jan. 6 attack brings fresh division to the Capitol - Oregon Public Broadcasting - OPB",
@@ -54,6 +35,44 @@
       "strategic_outlook": "Long-term escalation of conflict between Ukraine and Russia, potentially drawing in other nations and affecting global supply chains, trade, and security. This could lead to increased instability and risk in the region, impacting transport and logistics operations.",
       "operational_impact": "Potential disruptions to air and ground transport, increased security measures, and possible restrictions on cargo movement in the region. Operators should exercise caution and monitor the situation closely to minimize risks to assets, cargo, aviation, and personnel.",
       "proximity_alert": null
+    }
+  },
+  {
+    "id": "fc517f8f37e0b35ee434c598ee8548ab",
+    "timestamp": "2026-01-06T15:31:13.346744",
+    "original_title": "U.S. Attack to Seize Greenland Would End NATO, Danish Prime Minister Says",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1q5kwte/us_attack_to_seize_greenland_would_end_nato/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Greenland, Denmark",
+      "latitude": 64.5167,
+      "longitude": -51.7167,
+      "detailed_analysis": "The statement by the Danish Prime Minister suggests a potential conflict between the U.S. and Denmark over Greenland, which could have significant implications for NATO and regional stability.",
+      "immediate_forecast_24h": "Tensions between the U.S. and Denmark are likely to escalate, with potential diplomatic fallout and increased military presence in the region.",
+      "strategic_outlook": "A conflict over Greenland could lead to a re-evaluation of NATO's role and structure, potentially destabilizing the regional security landscape and impacting global geopolitics.",
+      "operational_impact": "Potential disruptions to air and sea transport in the North Atlantic, as well as increased security measures for personnel and cargo in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "d28a335b590341da64e562eed6a37d37",
+    "timestamp": "2026-01-06T15:31:15.794889",
+    "original_title": "Security forces clash with protesters in Iran's main market as at least 35 killed in demonstrations",
+    "link": "https://www.reddit.com/r/worldnews/comments/1q5kv5d/security_forces_clash_with_protesters_in_irans/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Protests in Iran's main market have turned violent, with security forces clashing with protesters, resulting in at least 35 deaths. The situation is volatile and may impact the safety of assets, cargo, aviation, and personnel in the region.",
+      "immediate_forecast_24h": "The situation is likely to remain volatile, with further clashes between security forces and protesters possible. Disruptions to transport and logistics are expected, and there is a risk of escalation to other parts of the country.",
+      "strategic_outlook": "The long-term outlook is uncertain, but the current unrest may lead to increased instability in the region, potentially affecting trade and economic activity. The situation may also lead to increased security measures, which could impact the movement of goods and people.",
+      "operational_impact": "The unrest may impact the movement of cargo, particularly in the vicinity of the main market. Aviation operations may also be affected, with potential disruptions to flight schedules and airport operations. Personnel in the region should exercise caution and follow local advice to ensure their safety.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
     }
   }
 ]
