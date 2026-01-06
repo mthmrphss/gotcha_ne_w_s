@@ -644,5 +644,43 @@
       "operational_impact": "The unrest may cause disruptions to air travel, cargo operations, and logistics in Iran, potentially affecting personnel and assets in the region. Airlines and logistics companies should monitor the situation closely and be prepared for potential disruptions.",
       "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
     }
+  },
+  {
+    "id": "fecff09abd06c802594963effaf3cf48",
+    "timestamp": "2026-01-06T11:25:47.548573",
+    "original_title": "Ukraine hit Russia’s major oil depot and artillery arsenal as explosions rock multiple Russian cities in latest overnight drone assault",
+    "link": "https://www.reddit.com/r/worldnews/comments/1q5fv2o/ukraine_hit_russias_major_oil_depot_and_artillery/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Multiple Russian cities, Russia",
+      "latitude": 60.0,
+      "longitude": 100.0,
+      "detailed_analysis": "Ukraine has conducted a drone assault on multiple Russian cities, targeting a major oil depot and artillery arsenal, resulting in explosions. This indicates an escalation of conflict and potential disruption to logistics and supply chains.",
+      "immediate_forecast_24h": "Increased tensions between Ukraine and Russia, potential for further drone attacks or retaliatory measures, and heightened security measures in affected areas.",
+      "strategic_outlook": "Long-term implications for regional stability, potential for expanded conflict, and impact on global energy markets. Increased security measures may be implemented in the region, affecting transport and logistics operations.",
+      "operational_impact": "Potential disruptions to oil supply chains, increased risk of attacks on critical infrastructure, and heightened security protocols for aviation and logistics operations in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "650fead74706178aefd72c43dc789e67",
+    "timestamp": "2026-01-06T11:25:49.443600",
+    "original_title": "Iran: Continuation of Nationwide Protests Amid Heightened Security Measures",
+    "link": "https://www.reddit.com/r/worldnews/comments/1q5fl5v/iran_continuation_of_nationwide_protests_amid/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 6,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Nationwide protests in Iran amid heightened security measures pose a significant threat to the stability of the region, potentially impacting aviation, cargo, and personnel. The protests may lead to disruptions in logistics and transportation, affecting the movement of goods and people.",
+      "immediate_forecast_24h": "Protests are likely to continue, with a high possibility of clashes between protesters and security forces, potentially leading to further instability and disruptions.",
+      "strategic_outlook": "The ongoing protests may lead to a long-term destabilization of the region, affecting trade and economic activities, and potentially impacting the security of assets, cargo, and personnel.",
+      "operational_impact": "The protests may cause disruptions to flight operations, cargo handling, and logistics, potentially leading to delays or cancellations of flights and shipments. Personnel may also be affected, with potential risks to their safety and security.",
+      "proximity_alert": null
+    }
   }
 ]
