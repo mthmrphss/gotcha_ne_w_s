@@ -93,5 +93,62 @@
       "operational_impact": "The power outage may impact logistics and transportation in the region, particularly if it affects fueling stations, airports, or other critical transportation infrastructure, and may also affect the movement of personnel and cargo.",
       "proximity_alert": "YAKIN TEHDİT: Berlin Tegel Airport (0 km)"
     }
+  },
+  {
+    "id": "7140b6612fee2a21847eb3f4e9dc4c20",
+    "timestamp": "2026-01-06T21:27:49.884055",
+    "original_title": "Venezuelan Official Says at Least 40 People Were Killed in U.S. Attack - The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWDMzTFQzR0V2YTJoam9CbVEyS21MU0hCOFQyWVBQamduYnlNSzVEaUhiZDN5bWNQUkJZRXZXODBWN3plSDJNUi1tQTVIdng0SjZ1MkhNWEE5eldVZVZmNnlqZDNaV0U0OVdlNTkyUXRVRDUtY0VvR05Vd3dSMWkzcWwzRWFON2MtaGhac3NEcnp3VFdZ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Venezuela",
+      "latitude": 7.0,
+      "longitude": -67.0,
+      "detailed_analysis": "A Venezuelan official reported at least 40 people were killed in a U.S. attack, indicating a significant escalation of conflict that could impact regional stability and potentially affect aviation and cargo operations.",
+      "immediate_forecast_24h": "Increased tensions between the U.S. and Venezuela are expected, potentially leading to heightened security measures and disruptions to transport and logistics in the region.",
+      "strategic_outlook": "The long-term implications of this conflict could include prolonged instability in the region, affecting trade routes and the safety of personnel and assets.",
+      "operational_impact": "Potential disruptions to air traffic, increased security checks, and possible restrictions on cargo movement could impact operational efficiency and safety in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "afce4b16d692dce2fad50f5e1a5f1a0f",
+    "timestamp": "2026-01-06T21:27:56.188464",
+    "original_title": "Trump weighs using U.S. military to acquire Greenland: White House",
+    "link": "https://www.reddit.com/r/worldnews/comments/1q5vlrs/trump_weighs_using_us_military_to_acquire/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Greenland",
+      "latitude": 64.1733,
+      "longitude": -51.7213,
+      "detailed_analysis": "The potential use of U.S. military to acquire Greenland poses a significant threat to regional stability and could lead to conflict with Denmark, which currently owns the territory. This could have far-reaching implications for global politics and international relations.",
+      "immediate_forecast_24h": "Tensions between the U.S. and Denmark are likely to escalate in the short term, with diplomatic efforts underway to resolve the situation. Military mobilization is possible but unlikely in the next 24 hours.",
+      "strategic_outlook": "The long-term implications of this development could be significant, with potential consequences for NATO alliances, Arctic sovereignty, and global security. The situation bears close monitoring for any signs of escalation or de-escalation.",
+      "operational_impact": "The potential conflict could impact aviation and shipping operations in the region, particularly if military assets are deployed. Cargo and logistics operations may also be affected, especially if trade restrictions or sanctions are imposed.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "5a570e201e29ae74e43bec8df61a04e0",
+    "timestamp": "2026-01-06T21:27:58.141607",
+    "original_title": "Trump, advisers discussing options for acquiring Greenland and US military is always an option, White House says",
+    "link": "https://www.reddit.com/r/worldnews/comments/1q5v0cv/trump_advisers_discussing_options_for_acquiring/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Other",
+      "risk_score": 6,
+      "location": "Greenland",
+      "latitude": 64.0,
+      "longitude": -51.0,
+      "detailed_analysis": "The White House has announced that Trump and his advisers are discussing options for acquiring Greenland, with the US military being considered as an option. This development has the potential to escalate into a geopolitical conflict, affecting aviation and logistics in the region.",
+      "immediate_forecast_24h": "Tensions between the US and Denmark (which currently owns Greenland) may rise, potentially leading to increased military presence in the area. Aviation and cargo operations may be affected by increased security measures.",
+      "strategic_outlook": "A long-term conflict or dispute over Greenland could have significant implications for global trade, aviation, and logistics. The region's strategic location and natural resources make it a valuable asset, and any conflict could lead to increased military presence and security measures.",
+      "operational_impact": "Potential disruptions to aviation and cargo operations in the region, including increased security screening, airspace restrictions, and possible rerouting of flights. Logistics and supply chain operations may also be affected by increased tensions and potential conflict.",
+      "proximity_alert": null
+    }
   }
 ]
