@@ -1290,5 +1290,62 @@
       "operational_impact": "Potential disruptions to air and sea transport in the North Atlantic, increased security measures, and possible restrictions on cargo and personnel movement in the region.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "fc349ce46c5e1cce1acf657524d42f64",
+    "timestamp": "2026-01-07T14:31:57.761624",
+    "original_title": "White House says military 'always an option' in Greenland as European leaders reject US takeover",
+    "link": "https://www.reddit.com/r/worldnews/comments/1q6giqj/white_house_says_military_always_an_option_in/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 6,
+      "location": "Greenland",
+      "latitude": 72.0,
+      "longitude": -40.0,
+      "detailed_analysis": "The White House has stated that military action is an option in Greenland, following European leaders' rejection of a potential US takeover. This development introduces a heightened risk of conflict in the region, which could impact aviation and cargo operations.",
+      "immediate_forecast_24h": "Tensions between the US and European leaders are expected to escalate, potentially leading to increased military presence in the region. Aviation and cargo operations may experience disruptions due to heightened security measures.",
+      "strategic_outlook": "A long-term conflict in Greenland could have significant implications for global trade and aviation, particularly if it involves European and US military forces. The region's strategic importance due to its location and natural resources makes it a critical area of interest.",
+      "operational_impact": "Potential disruptions to aviation and cargo operations, increased security measures, and possible restrictions on airspace and shipping lanes. Personnel and assets in the region may be at risk due to the heightened tensions and potential for conflict.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "902c693a1fd81346242dc33ac1eb1fd5",
+    "timestamp": "2026-01-07T14:32:00.459509",
+    "original_title": "'Breaking point'? Iranian protests reflect 'a multi-layered convergence of dissatisfaction'",
+    "link": "https://www.france24.com/en/video/20260107-breaking-point-iranian-protests-reflect-a-multi-layered-convergence-of-dissatisfaction",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The current protests in Iran reflect a multi-layered convergence of dissatisfaction among the population, driven by economic crisis, inequality, and sociopolitical grievances. The regime's disconnection from the youth and everyday Iranians has exacerbated the situation. The warning by Iran's top judge against protesters, accusing Israel and the US of hybrid methods to disrupt the country, indicates a heightened state of tension.",
+      "immediate_forecast_24h": "The protests are likely to continue, with potential for escalation and increased violence. The regime's response may become more severe, leading to further instability.",
+      "strategic_outlook": "The long-term outlook for Iran is uncertain, with the potential for significant changes in the country's political landscape. The economic crisis and sociopolitical grievances are likely to persist, driving continued unrest and instability.",
+      "operational_impact": "The protests and potential for escalation may impact transport and logistics operations in Iran, particularly in areas where protests are concentrated. Aviation and cargo operations may be affected by the unrest, and personnel may face increased risks when traveling to or within the country.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "d6b1789dc4aed36788d9352cfd7d69ed",
+    "timestamp": "2026-01-07T14:32:04.496808",
+    "original_title": "Could Amsterdam airport chaos drive more passengers to fly direct?",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/amsterdam-chaos-flights-uk-cancelled-snow-b2895815.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Amsterdam, Netherlands",
+      "latitude": 52.3122,
+      "longitude": 4.7639,
+      "detailed_analysis": "The chaos at Amsterdam Schiphol airport may lead to increased passenger demand for direct flights, potentially affecting airline operations and logistics.",
+      "immediate_forecast_24h": "Passenger traffic and flight schedules may be impacted in the short term, but no immediate security threats are reported.",
+      "strategic_outlook": "The long-term impact may lead to a shift in airline strategies, focusing on direct flights and potentially reducing the reliance on hub-and-spoke models.",
+      "operational_impact": "The chaos may cause delays and disruptions to cargo and passenger flights, but no significant security threats are identified at this time.",
+      "proximity_alert": "YAKIN TEHDİT: Amsterdam Airport Schiphol (11 km)"
+    }
   }
 ]
