@@ -1043,5 +1043,62 @@
       "operational_impact": "Potential disruptions to transport and logistics operations, increased risk to personnel, and possible restrictions on movement and access to certain areas.",
       "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
     }
+  },
+  {
+    "id": "ee7a979912737b9cbf4e97345b4b0f21",
+    "timestamp": "2026-01-07T11:45:09.204662",
+    "original_title": "Mint Hill man accused in New Year's Eve terror plot faces detention hearing in federal court - WCNC",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSERMV21kaU5kTlVldmx6dFREaHFITDczSUo2cmpLNzAzNVNOSDhCdUNTU0xCTFJqdzF0ckt2ZndwQXQ4VUVudEFscWxqWndYdk5rMVlEZWcyaHNaVVFCTmtrTzdpdHJLYXhDYzVjbFhWekY2RDhXUWNKN0ZWNnZhZ2FiSkV0aXZNYzBZU0FYcVpsazFFaXZ6UjBCSDNuaWJoYWlJY1hueTB1YjZlX05jTTdrV01Tb3UtUFk5OTY5N2tGYTNrU25ZR3poc2JXYlp0aUJWbUJteWY4cV9EREJv?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism/Aviation/Crime",
+      "risk_score": 8,
+      "location": "Mint Hill, USA",
+      "latitude": 35.1765,
+      "longitude": -80.6484,
+      "detailed_analysis": "A Mint Hill man has been accused of being involved in a New Year's Eve terror plot, indicating a potential threat to aviation and public safety. The plot's specifics are not detailed, but the fact that it's being taken to federal court suggests a serious level of concern.",
+      "immediate_forecast_24h": "The detention hearing may reveal more details about the plot and the individual's involvement. Enhanced security measures may be implemented in response to the perceived threat, particularly around airports and public gatherings.",
+      "strategic_outlook": "The long-term impact could involve increased security protocols for aviation and public events, potentially affecting travel times and logistics. The incident may also lead to a review of current counter-terrorism strategies and intelligence gathering methods.",
+      "operational_impact": "Potential delays or increased security checks at airports, possible cancellations of public events, and heightened vigilance among law enforcement and security personnel. Cargo and personnel movement may be affected by these increased security measures.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "2c03fc598e41184d045af1886851db1f",
+    "timestamp": "2026-01-07T11:45:13.365197",
+    "original_title": "Aleppo schools universities remain closed following deadly clashes",
+    "link": "https://www.france24.com/en/aleppo-schools-universities-remain-closed-following-deadly-clashes",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Aleppo, Syria",
+      "latitude": 36.201,
+      "longitude": 37.161,
+      "detailed_analysis": "Clashes between government forces and Kurdish SDF forces have resulted in civilian casualties and the suspension of flights to Aleppo, indicating a high level of instability and potential for further violence.",
+      "immediate_forecast_24h": "Continued clashes and unrest are likely, with potential for further disruptions to air travel and ground transportation.",
+      "strategic_outlook": "The conflict in Aleppo may lead to long-term instability and disruption of logistics and transportation in the region, posing a significant threat to assets, cargo, aviation, and personnel.",
+      "operational_impact": "Flights to Aleppo have been suspended, and schools and universities remain closed, indicating a significant impact on local operations and potential disruptions to regional logistics and transportation.",
+      "proximity_alert": "YAKIN TEHDİT: Aleppo International Airport (6 km)"
+    }
+  },
+  {
+    "id": "000dbdeeaed1d51ad4ebcbe3851882c9",
+    "timestamp": "2026-01-07T11:45:15.859505",
+    "original_title": "Snow forces flight and train cancellations in France",
+    "link": "https://www.france24.com/en/snow-forces-flight-and-train-cancellations-in-france",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Aviation/Other",
+      "risk_score": 10,
+      "location": "Paris, France",
+      "latitude": 48.8567,
+      "longitude": 2.3508,
+      "detailed_analysis": "Snowfall and cold weather have caused flight cancellations at Paris's Charles de Gaulle and Orly airports, with around 140 flights cancelled. Public bus services have been suspended, but most metro and rail systems are operational.",
+      "immediate_forecast_24h": "Further disruptions to flights and ground transportation are possible if the weather conditions persist.",
+      "strategic_outlook": "The cold snap is expected to be short-term, but it may have a minor impact on the overall aviation and logistics operations in the region.",
+      "operational_impact": "Minimal to moderate disruptions to air travel and ground transportation, with potential delays and cancellations.",
+      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (2 km)"
+    }
   }
 ]
