@@ -1556,5 +1556,43 @@
       "operational_impact": "Disruption to oil supply chains, potential delays or increased costs for shipping and logistics companies operating in the regions.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "488de81f01db52275b049b910a9cbf00",
+    "timestamp": "2026-01-07T19:44:13.069787",
+    "original_title": "Germany news: Power back in Berlin after arson attack - DW",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPelE1alc2cUxPdFkwX0xwSXBJeXE3U0xjWUVhZmVocWdueGZiMU50c0VjcGUwM3BBU3NxWWY4cEhLQlpxV1NjaURZd1R1NkJ5UExjTlRxSDlSZWJBbkFkSlpiNTUwQ1B0eTF0Tk1pYnVScGlKYTg0ZmJ1MEk4UkVTU2lRazZ1UWZsTkdjOFYxYVg0QQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Crime/Civil Unrest",
+      "risk_score": 10,
+      "location": "Berlin, Germany",
+      "latitude": 52.52,
+      "longitude": 13.405,
+      "detailed_analysis": "An arson attack in Berlin has caused a power outage, indicating a potential threat to critical infrastructure and public services. The attack's impact on the city's logistics and transportation systems is being assessed.",
+      "immediate_forecast_24h": "Power has been restored, but the possibility of further attacks or disruptions to critical infrastructure cannot be ruled out. Enhanced security measures are likely to be implemented in the short term.",
+      "strategic_outlook": "The long-term implications of this incident may include increased security protocols for critical infrastructure and potential collaborations between law enforcement agencies to prevent similar attacks.",
+      "operational_impact": "The attack may cause delays or disruptions to cargo and personnel movement in the affected area, particularly if security measures are heightened or infrastructure is damaged.",
+      "proximity_alert": "YAKIN TEHDİT: Berlin Tegel Airport (0 km)"
+    }
+  },
+  {
+    "id": "5a4facaff3dd693cbba380a36a3f8738",
+    "timestamp": "2026-01-07T19:44:17.513595",
+    "original_title": "Russian Official Threatens Military Retaliation, Including Nuclear Response, After US Seizes Oil Tankers",
+    "link": "https://www.reddit.com/r/worldnews/comments/1q6pcsx/russian_official_threatens_military_retaliation/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "International Waters, Global",
+      "latitude": 40.7128,
+      "longitude": 74.006,
+      "detailed_analysis": "A Russian official has threatened military retaliation, including a nuclear response, after the US seized oil tankers. This escalation poses a significant threat to global security, particularly in the maritime and aviation sectors.",
+      "immediate_forecast_24h": "Increased tensions between Russia and the US, potential for further escalation, and heightened security measures in international waters and airspace.",
+      "strategic_outlook": "Long-term implications include a heightened risk of conflict, potential disruption to global oil supplies, and increased security protocols for aviation and maritime operations.",
+      "operational_impact": "Potential delays or disruptions to cargo shipments, increased security checks for aviation and maritime operations, and heightened vigilance for potential cyber threats or sabotage.",
+      "proximity_alert": null
+    }
   }
 ]
