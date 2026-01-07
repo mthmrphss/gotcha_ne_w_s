@@ -473,5 +473,62 @@
       "operational_impact": "The conflict could impact maritime transport and logistics, particularly oil tankers, with potential delays, increased security measures, and higher insurance costs.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "a891c8f9361ecd6db603bca25c35801f",
+    "timestamp": "2026-01-07T05:32:26.575647",
+    "original_title": "Emirates Boeing 777 Emergency Descent Due to Cabin Pressurization Issue on Dubai to Cairo Flight - Aero News Journal",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNU2c5VTl4SjgxWnVhbHhVQ3dSTU5WZFFMRFdPYnBaelE0SUdfdUVZUEkyZFhyYXg3U3YtanZsMzhfUXNuSm9zQjBXRkF0SkxVUVdFbDBIV0dSdlZxZUNfRm1NVmNzdURwREhuSTJ0MnZ2ZmRtc182aW5MMGZuQm5wbWNHRU9oQ2JUcVE?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 6,
+      "location": "Dubai to Cairo",
+      "latitude": 25.276987,
+      "longitude": 32.663717,
+      "detailed_analysis": "An Emirates Boeing 777 experienced a cabin pressurization issue, resulting in an emergency descent on a flight from Dubai to Cairo. This incident poses a significant risk to aviation safety and highlights the importance of maintaining aircraft systems.",
+      "immediate_forecast_24h": "The incident may cause delays or cancellations of flights on the same route, and an investigation will likely be launched to determine the cause of the pressurization issue.",
+      "strategic_outlook": "In the long term, this incident may lead to increased scrutiny of aircraft maintenance and safety procedures, potentially resulting in improved safety standards for the aviation industry.",
+      "operational_impact": "The incident may impact the operations of Emirates and other airlines, potentially affecting cargo and passenger transport between Dubai and Cairo.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "943797a6c06036882e3e4a82984840f6",
+    "timestamp": "2026-01-07T05:32:29.302673",
+    "original_title": "Syrian government and SDF trade blame as violence resumes in Aleppo",
+    "link": "https://www.reddit.com/r/worldnews/comments/1q669k5/syrian_government_and_sdf_trade_blame_as_violence/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Aleppo, Syria",
+      "latitude": 36.2017,
+      "longitude": 37.1619,
+      "detailed_analysis": "The resumption of violence in Aleppo between the Syrian government and SDF poses a significant threat to assets, cargo, aviation, and personnel in the region. The conflict may lead to disruptions in logistics, potential damage to infrastructure, and increased risk of violence against personnel.",
+      "immediate_forecast_24h": "The situation is likely to escalate in the next 24 hours, with potential for increased violence, displacement of civilians, and disruptions to transport and logistics.",
+      "strategic_outlook": "The long-term outlook for the region remains unstable, with ongoing conflict and tensions between the Syrian government and SDF. This may lead to prolonged disruptions to logistics and transport, as well as increased risk of violence against assets and personnel.",
+      "operational_impact": "The conflict in Aleppo may impact operational activities such as cargo transport, aviation, and personnel movement. It is essential to monitor the situation closely and take necessary precautions to ensure the safety of assets, cargo, and personnel.",
+      "proximity_alert": "YAKIN TEHDİT: Aleppo International Airport (6 km)"
+    }
+  },
+  {
+    "id": "4e0d276e85eab589ffe2fdf7f17acaaa",
+    "timestamp": "2026-01-07T05:32:32.856861",
+    "original_title": "Amsterdam Schiphol Airport Facing Critical Deicing Fluid Shortage as 600+ Flights Cancelled",
+    "link": "https://www.paddleyourownkanoo.com/2026/01/07/amsterdam-schiphol-airport-facing-critical-deicing-fluid-shortage-as-600-flights-cancelled/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Amsterdam, Netherlands",
+      "latitude": 52.3081,
+      "longitude": 4.7639,
+      "detailed_analysis": "Amsterdam Schiphol Airport is facing a critical deicing fluid shortage due to severe winter weather, resulting in over 600 flight cancellations. This shortage poses a significant threat to aviation safety and operations.",
+      "immediate_forecast_24h": "Further flight disruptions and cancellations are expected as the airport struggles to manage the deicing fluid shortage. The situation may worsen if the weather conditions do not improve.",
+      "strategic_outlook": "The long-term impact of this event may lead to a review of the airport's winter weather preparedness and deicing fluid management strategies. Airlines and logistics companies may need to reassess their contingency plans for such events.",
+      "operational_impact": "The deicing fluid shortage and resulting flight cancellations will have a significant impact on transport and logistics operations, potentially leading to delays and increased costs for airlines, cargo handlers, and passengers.",
+      "proximity_alert": "YAKIN TEHDİT: Amsterdam Airport Schiphol (11 km)"
+    }
   }
 ]
