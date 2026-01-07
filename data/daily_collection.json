@@ -967,5 +967,81 @@
       "operational_impact": "The incident may cause delays or disruptions to flights at the affected airport, potentially impacting cargo and passenger operations. However, the overall impact is expected to be limited, and normal operations are likely to resume once the investigation is complete and any necessary safety measures are implemented.",
       "proximity_alert": "YAKIN TEHDİT: Heathrow Airport (1 km)"
     }
+  },
+  {
+    "id": "d356f52eb9f89d7964f04548ecdff290",
+    "timestamp": "2026-01-07T11:26:52.469316",
+    "original_title": "Saudi-led coalition strikes Yemen after STC leader ousted",
+    "link": "https://www.reddit.com/r/worldnews/comments/1q6cm8z/saudiled_coalition_strikes_yemen_after_stc_leader/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Yemen",
+      "latitude": 15.552,
+      "longitude": 48.516,
+      "detailed_analysis": "The Saudi-led coalition has launched strikes in Yemen following the ousting of the STC leader, indicating heightened tensions and potential for further conflict. This could impact aviation operations and cargo transport in the region.",
+      "immediate_forecast_24h": "Increased military activity and potential for retaliatory strikes from opposing forces, posing a risk to aviation and logistics operations in the region.",
+      "strategic_outlook": "Prolonged conflict could lead to long-term instability, affecting trade and transport routes, and potentially drawing in other regional actors.",
+      "operational_impact": "Potential disruptions to air traffic, increased security measures, and possible rerouting of flights or cargo shipments to avoid the conflict zone.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "002db831ee3f179608386dc45d6cb839",
+    "timestamp": "2026-01-07T11:26:54.770521",
+    "original_title": "Maduro supporters protest in Caracas as interim leader determine to remain in control",
+    "link": "https://www.france24.com/en/maduro-supporters-protest-in-caracas-as-interim-leader-determine-to-remain-in-control",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Caracas, Venezuela",
+      "latitude": 10.488,
+      "longitude": -66.879,
+      "detailed_analysis": "Protests by Maduro supporters in Caracas could lead to instability and potential disruptions to aviation and cargo operations, with a risk of violence and unrest affecting personnel and assets.",
+      "immediate_forecast_24h": "Increased protests and demonstrations are expected in the next 24 hours, potentially leading to clashes with security forces and disruptions to transportation and logistics.",
+      "strategic_outlook": "The situation in Venezuela is likely to remain unstable in the long term, with potential for ongoing civil unrest, conflict, and disruptions to transport and logistics, affecting the safety and security of assets, cargo, aviation, and personnel.",
+      "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics operations in and around Caracas, with a risk of delays, cancellations, and damage to assets and cargo.",
+      "proximity_alert": "YAKIN TEHDİT: Maiquetía \"Simón Bolívar\" International Airport (4 km)"
+    }
+  },
+  {
+    "id": "5b2de27dfd2dc1ef1282618f083c9305",
+    "timestamp": "2026-01-07T11:26:56.494264",
+    "original_title": "Iran's rial reaches new low amid protests and economic crisis",
+    "link": "https://www.france24.com/en/iran-s-rial-reaches-new-low-amid-protests-and-economic-crisis",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Protests and economic crisis in Iran may lead to instability and potential disruptions to transportation and logistics, but no direct threats to aviation, cargo, or personnel have been reported.",
+      "immediate_forecast_24h": "Protests may continue, potentially leading to increased security presence and possible disruptions to local transportation.",
+      "strategic_outlook": "Long-term economic instability and civil unrest may impact the overall security environment in Iran, potentially affecting transport and logistics operations.",
+      "operational_impact": "Potential delays or disruptions to ground transportation and logistics operations in Iran due to protests and security measures.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "3471bba398a349ca1ffd9ebd79f6e4c2",
+    "timestamp": "2026-01-07T11:26:58.323972",
+    "original_title": "Death toll rises as Iran's security forces clash with protesters",
+    "link": "https://www.france24.com/en/death-toll-rises-as-iran-s-security-forces-clash-with-protesters",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Protests over the soaring cost of living have led to clashes between security forces and demonstrators, resulting in a rising death toll and arrests. The situation is volatile and may impact the safety of assets, cargo, aviation, and personnel in the region.",
+      "immediate_forecast_24h": "Continued protests and potential escalation of violence between security forces and demonstrators, posing a risk to personnel and assets in the area.",
+      "strategic_outlook": "Prolonged civil unrest may lead to disruptions in logistics, supply chains, and aviation operations, affecting the overall stability of the region.",
+      "operational_impact": "Potential disruptions to transport and logistics operations, increased risk to personnel, and possible restrictions on movement and access to certain areas.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
   }
 ]
