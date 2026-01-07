@@ -568,5 +568,62 @@
       "operational_impact": "The crash may have a limited impact on commercial air traffic, but it could lead to increased security measures and surveillance in the region, potentially affecting cargo and logistics operations.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "af3cda1125ea505416a5e1d9b866d7c1",
+    "timestamp": "2026-01-07T07:32:11.891142",
+    "original_title": "Agent Grant: Agentic AI for Identity Attack Surface Management - Qualys",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPd3o0cGhYZkhxSEg3VkkzOG1odWp2RllpcGhuN1liaGJxcjdGMEhQN2M1VXc5N3I4OHhadkVsbHl6LUtPQlMzUVYtNXNHbjMzNC1uUVItRDNqbHlWUTJJTTlyUUpFQmUwUEkxTlpscWRNMHptX0Zid0hhcTZkYTlLT1ljdjFaazZlOHlvYWZDZWw4UQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 6,
+      "location": "Unknown, Global",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "The introduction of Agent Grant, an Agentic AI for Identity Attack Surface Management by Qualys, indicates a potential threat to cybersecurity in the aviation and logistics sectors. This AI-powered tool could be used to manage and mitigate identity-based attacks, but its capabilities could also be exploited by malicious actors to launch more sophisticated attacks.",
+      "immediate_forecast_24h": "In the next 24 hours, there is a low likelihood of a direct cyber attack on aviation or logistics systems using Agent Grant. However, the potential for increased reconnaissance and vulnerability scanning by malicious actors cannot be ruled out.",
+      "strategic_outlook": "In the long term, the development and deployment of AI-powered tools like Agent Grant could lead to an escalation in the cyber arms race, with both defenders and attackers leveraging AI to gain an advantage. This could result in more frequent and complex cyber attacks on the aviation and logistics sectors.",
+      "operational_impact": "The operational impact of Agent Grant on transport and logistics is currently limited, but as the technology evolves, it could potentially be used to disrupt or compromise critical infrastructure, such as air traffic control systems or cargo handling operations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "d2cd3f2fc325469fcac1b3905430679a",
+    "timestamp": "2026-01-07T07:32:13.697591",
+    "original_title": "Security forces clash with protesters in Iran's main market as death toll rises - Houston Public Media",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOa2ZlUFY3aGc3bVB5eEtFRmt6ZHByZkJTdHIzTzFSRURMT1Q5WmNrcG5KWG9lYTB2Y1pwRlgwa0VzLVpMTkxHcVc4R1JYSVVFdlRXZXQ0S1U3aU5RWEJhb3hEZ201bmJ5OVJqMHlGOFpzcEdCblo2VVJGcDN6eTdRb2dOSmYzbWRFV3lMenNjQTljcl9Nd2M5NjZZZmh0OWVJVk5uOGpUMEJ0TTVSZTlFbW9BRGViZi1oMHI3eGxwUEF0OXhLYjd1S2M1MzlzanY0cGVocWwxTTU?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Protesters and security forces are clashing in Iran's main market, resulting in a rising death toll. This unrest could potentially disrupt cargo and personnel movement, as well as impact aviation operations.",
+      "immediate_forecast_24h": "The situation is likely to escalate, with increased security presence and potential for further clashes. Disruptions to transport and logistics are possible.",
+      "strategic_outlook": "The ongoing unrest could lead to long-term instability in the region, affecting trade and commerce. Aviation and cargo operations may need to be adjusted or suspended until the situation stabilizes.",
+      "operational_impact": "Potential disruptions to cargo and personnel movement, as well as possible impacts on aviation operations, such as flight delays or cancellations.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "2c0385e6388e6d01bcf027aadc229c45",
+    "timestamp": "2026-01-07T07:32:19.248865",
+    "original_title": "Europe braces for further travel chaos as deadly cold snap brings more snow",
+    "link": "https://www.france24.com/en/europe/20260107-europe-braces-for-further-travel-chaos-as-deadly-cold-snap-brings-more-snow",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Aviation/Civil Unrest",
+      "risk_score": 10,
+      "location": "Paris, France",
+      "latitude": 48.8567,
+      "longitude": 2.3508,
+      "detailed_analysis": "A deadly cold snap is causing significant disruptions to air travel across Europe, with at least 40% of flights cancelled at Charles de Gaulle airport in Paris. The situation poses a threat to aviation operations and may impact personnel and cargo movement.",
+      "immediate_forecast_24h": "Further flight cancellations and travel disruptions are expected in the next 24 hours as the cold snap persists, potentially leading to increased congestion and delays at airports.",
+      "strategic_outlook": "The ongoing cold snap may lead to a prolonged period of disruption to air travel and logistics in Europe, with potential long-term impacts on supply chains and economic activity.",
+      "operational_impact": "The cancellations and disruptions may cause significant delays and increased costs for cargo and personnel movement, highlighting the need for contingency planning and alternative arrangements to mitigate the impact of the cold snap on operations.",
+      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (2 km)"
+    }
   }
 ]
