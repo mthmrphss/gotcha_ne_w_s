@@ -74,5 +74,119 @@
       "operational_impact": "Flight delays and potential cancellations may affect aviation operations and logistics in the region, with possible ripple effects on connected flights and passenger travel plans.",
       "proximity_alert": "YAKIN TEHDİT: Hartsfield–Jackson Atlanta International Airport (12 km)"
     }
+  },
+  {
+    "id": "71ac1add6e8bd8a1ac48403891c0c81b",
+    "timestamp": "2026-01-07T13:48:12.090719",
+    "original_title": "Live Updates: U.S. Forces Intercept Oil Tanker That Defied Blockade of Venezuela",
+    "link": "https://www.nytimes.com/live/2026/01/07/world/venezuela-us-trump",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Aviation/Crime",
+      "risk_score": 7,
+      "location": "International Waters, Venezuela",
+      "latitude": 12.0,
+      "longitude": -67.0,
+      "detailed_analysis": "The U.S. military intercepting a Russian-flagged oil tanker defying the blockade of Venezuela poses a significant threat to assets, cargo, aviation, and personnel due to the potential escalation of conflict between the U.S. and Russia, as well as the impact on global oil supply and maritime trade.",
+      "immediate_forecast_24h": "Increased tensions between the U.S. and Russia, potential for further interceptions or blockades, and heightened security measures in the region.",
+      "strategic_outlook": "Long-term implications for global trade, energy security, and geopolitical relations between major world powers, potentially leading to increased instability and conflict in the region.",
+      "operational_impact": "Disruptions to oil supply chains, increased costs for shipping and insurance, and potential delays or rerouting of cargo vessels in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "ba28c361193529514d8983d0e52ff630",
+    "timestamp": "2026-01-07T13:48:14.407944",
+    "original_title": "Cuba braces for worst: Tensions rising between Washington, Havana",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1q6fn5l/cuba_braces_for_worst_tensions_rising_between/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Havana, Cuba",
+      "latitude": 23.1333,
+      "longitude": -82.3833,
+      "detailed_analysis": "Rising tensions between Washington and Havana could lead to increased instability and potential unrest in Cuba, affecting aviation, cargo, and personnel safety.",
+      "immediate_forecast_24h": "Tensions are expected to remain high, with potential for protests or demonstrations in major cities.",
+      "strategic_outlook": "Prolonged tensions could lead to economic instability, impacting trade and logistics in the region.",
+      "operational_impact": "Potential disruptions to air travel, cargo shipments, and personnel movements due to increased security measures or unrest.",
+      "proximity_alert": "YAKIN TEHDİT: José Martí International Airport (16 km)"
+    }
+  },
+  {
+    "id": "62c191e3abf20ab9cb826d4ff9738430",
+    "timestamp": "2026-01-07T13:48:16.717545",
+    "original_title": "Civilians flee Kurdish areas of Aleppo as Syrian army begins shelling",
+    "link": "https://www.reddit.com/r/worldnews/comments/1q6fs78/civilians_flee_kurdish_areas_of_aleppo_as_syrian/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Aleppo, Syria",
+      "latitude": 36.201,
+      "longitude": 37.161,
+      "detailed_analysis": "The Syrian army's shelling of Kurdish areas in Aleppo poses a significant threat to civilians, assets, and personnel in the region. The conflict may lead to disruptions in logistics and transportation, as well as potential risks to aviation due to the proximity of the fighting to airports and flight paths.",
+      "immediate_forecast_24h": "Increased violence and displacement of civilians are expected in the short term, with potential for the conflict to escalate and spread to other areas.",
+      "strategic_outlook": "The long-term outlook for the region remains unstable, with ongoing conflict and tensions between various factions likely to continue. This may lead to persistent disruptions to logistics and transportation, as well as ongoing risks to assets and personnel.",
+      "operational_impact": "The conflict may impact transport and logistics operations in the region, including potential disruptions to supply chains, increased security risks for personnel and assets, and potential for damage to infrastructure.",
+      "proximity_alert": "YAKIN TEHDİT: Aleppo International Airport (6 km)"
+    }
+  },
+  {
+    "id": "0f53aa8b907330ded01d08b8645d73b7",
+    "timestamp": "2026-01-07T13:48:19.373602",
+    "original_title": "Russian oil depot in Belgorod Oblast on fire after Ukrainian drone attack, official claims",
+    "link": "https://www.reddit.com/r/worldnews/comments/1q6fagt/russian_oil_depot_in_belgorod_oblast_on_fire/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Belgorod Oblast, Russia",
+      "latitude": 50.5833,
+      "longitude": 36.5833,
+      "detailed_analysis": "A Ukrainian drone attack on a Russian oil depot in Belgorod Oblast has resulted in a fire, according to official claims. This incident has the potential to escalate the conflict between Ukraine and Russia, posing a significant threat to aviation and logistics in the region.",
+      "immediate_forecast_24h": "Increased military activity and heightened security measures are expected in the region, potentially disrupting air traffic and logistics operations. There is also a risk of retaliatory attacks from Russia.",
+      "strategic_outlook": "The long-term implications of this incident could lead to further escalation of the conflict, potentially drawing in other nations and affecting global energy markets. The use of drones in attacks may become more prevalent, posing a new threat to critical infrastructure and aviation.",
+      "operational_impact": "The attack on the oil depot may disrupt fuel supplies, affecting aviation and logistics operations in the region. Increased security measures and potential airspace restrictions could also impact flight schedules and routes.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "6870183794fadf285b90032985e51205",
+    "timestamp": "2026-01-07T13:48:21.144439",
+    "original_title": "Syrsky: Ukraine Drones Killing Russian Troops Faster Than Kremlin Can Recruit New Ones",
+    "link": "https://www.reddit.com/r/worldnews/comments/1q6f6wf/syrsky_ukraine_drones_killing_russian_troops/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "Ukrainian drones are reportedly killing Russian troops at a rate faster than the Kremlin can recruit new ones, indicating a significant escalation in the conflict and potential for increased use of drone technology in warfare.",
+      "immediate_forecast_24h": "Increased drone activity and potential for retaliation from Russian forces, posing a high risk to aviation and personnel in the region.",
+      "strategic_outlook": "Long-term implications of drone warfare could lead to a shift in military strategies and increased investment in drone technology, potentially altering the landscape of modern conflict.",
+      "operational_impact": "Potential disruptions to air traffic and logistics in the region, with increased risk to personnel and assets due to the ongoing conflict and use of drones.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "a68fc97a88d7f69e33a4ac13eb94ca08",
+    "timestamp": "2026-01-07T13:48:23.966817",
+    "original_title": "US takeover of Greenland would 'simply mean the end of NATO', says Denmark",
+    "link": "https://www.france24.com/en/us-takeover-of-greenland-would-simply-mean-the-end-of-nato-says-denmark",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Greenland, Denmark",
+      "latitude": 64.1733,
+      "longitude": -51.7213,
+      "detailed_analysis": "The potential US takeover of Greenland poses significant risks to regional stability and could have far-reaching consequences for NATO and transatlantic security relations. Denmark's strong opposition to the move suggests a high likelihood of diplomatic tensions and potential conflict.",
+      "immediate_forecast_24h": "Tensions between the US and Denmark are expected to escalate in the short term, with potential diplomatic fallout and increased military presence in the region.",
+      "strategic_outlook": "A long-term conflict or significant deterioration in US-Denmark relations could have profound implications for global security, trade, and logistics, particularly in the North Atlantic region.",
+      "operational_impact": "Potential disruptions to air and sea transport in the North Atlantic, increased security measures, and possible restrictions on cargo and personnel movement in the region.",
+      "proximity_alert": null
+    }
   }
 ]
