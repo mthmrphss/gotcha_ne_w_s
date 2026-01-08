@@ -1,24 +1,5 @@
 [
   {
-    "id": "77dc29d38a48a7896a86dc66c6c81612",
-    "timestamp": "2026-01-08T13:00:40.831479",
-    "original_title": "Syria declares Kurdish positions in Aleppo neighbourhoods 'legitimate military targets'",
-    "link": "https://www.reddit.com/r/worldnews/comments/1q7b26w/syria_declares_kurdish_positions_in_aleppo/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict/Civil Unrest",
-      "risk_score": 10,
-      "location": "Aleppo, Syria",
-      "latitude": 36.2017,
-      "longitude": 37.1619,
-      "detailed_analysis": "The Syrian government has declared Kurdish positions in Aleppo neighbourhoods as 'legitimate military targets', indicating a heightened state of conflict and potential for military action in the region. This could lead to increased violence, displacement of civilians, and disruption to local infrastructure and logistics.",
-      "immediate_forecast_24h": "In the next 24 hours, there is a high likelihood of military engagement between Syrian government forces and Kurdish positions, potentially resulting in civilian casualties and damage to infrastructure. Aviation and cargo operations in the region may be impacted due to the increased conflict.",
-      "strategic_outlook": "In the long term, the escalation of conflict in Aleppo could lead to a broader destabilization of the region, potentially drawing in other international actors and affecting regional transport and logistics. The situation bears close monitoring for its potential to impact global supply chains and aviation security.",
-      "operational_impact": "The conflict may disrupt air travel and cargo transport in and out of Aleppo, and potentially other parts of Syria. There is also a risk of spillover effects into neighboring countries, which could further impact regional logistics and transport operations.",
-      "proximity_alert": "YAKIN TEHDİT: Aleppo International Airport (6 km)"
-    }
-  },
-  {
     "id": "9ad952eaec1148bc56d032f89cf3164d",
     "timestamp": "2026-01-08T13:57:56.282966",
     "original_title": "Russia says Western troops in Ukraine would become \"legitimate military targets\"",
@@ -34,6 +15,63 @@
       "immediate_forecast_24h": "Increased tensions and potential military engagements between Russian and Western forces in Ukraine, potentially affecting aviation and cargo operations.",
       "strategic_outlook": "Long-term escalation of the conflict could lead to widespread instability in Eastern Europe, impacting global supply chains and aviation security.",
       "operational_impact": "Potential disruptions to transport and logistics in Ukraine and surrounding regions, with increased risk of attacks on Western assets and personnel.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "575f54aaae6a587cb792a3dcd0a7fba7",
+    "timestamp": "2026-01-08T14:36:09.280897",
+    "original_title": "Venezuela live updates as senators seek to block further military action, Trump plans post-Maduro oil strategy - CBS News",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOHRxRzNyTXlPSHh3MFF5aFp4dVR2TFFfT3g5eVgyVEt2R1lQMXp5YV9HcVRDQ08xS09Vb2U1Ry1WbG9femw5dU9adG5mdGNEb1RHRjFYR0xsVjNzSi1QajdISms3NVRBeXRmV2ZrZldRdmZmU1Zad1J6MlRxMEtab3d6aVltMmlZOFHSAY8BQVVfeXFMTzAwUUk0enMyS29yZGV0NkR2Ti1kNzVIcW1UYTFEUENaU2RLOVFPeFlhUHZ4dk5NNXZCRGxBRHJnNnRrdnRMRTEwX0NZazR3VmlNd2ZDc3Iwd0Zsei14MnFzSlN3UHlrLUQ4ZUF6ZTdlZWZiVlFZalo1UE9ha2R2RF9LYnFtZEh4Tlo4ZjZ2OVE?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Caracas, Venezuela",
+      "latitude": 10.488,
+      "longitude": -66.879,
+      "detailed_analysis": "The situation in Venezuela is volatile due to potential military action and political instability, which could impact aviation, cargo, and personnel safety.",
+      "immediate_forecast_24h": "Increased tensions and potential protests or clashes between opposing factions, affecting transport and logistics operations.",
+      "strategic_outlook": "Long-term instability could lead to sustained disruptions in oil production and transport, affecting global markets and logistics chains.",
+      "operational_impact": "Potential disruptions to air travel, cargo transport, and personnel movements due to increased security measures or unrest, requiring contingency planning and risk mitigation strategies.",
+      "proximity_alert": "YAKIN TEHDİT: Maiquetía \"Simón Bolívar\" International Airport (4 km)"
+    }
+  },
+  {
+    "id": "eec6fc795072e7f987e5d1f66e23d605",
+    "timestamp": "2026-01-08T14:36:14.444897",
+    "original_title": "Venezuela's crude concessions: US vows to exert control over world's largest oil reserves",
+    "link": "https://www.france24.com/en/tv-shows/people-profit/20260108-venezuela-s-crude-concessions-us-vows-to-exert-control-over-world-s-largest-oil-reserves",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Venezuela",
+      "latitude": 7.0,
+      "longitude": -67.0,
+      "detailed_analysis": "The surprise attack and capture of President Nicolas Maduro by US forces indicates a high level of conflict and instability in the region, with potential implications for the control of Venezuela's oil reserves.",
+      "immediate_forecast_24h": "Increased tensions and potential for further conflict or unrest in the short term, with possible disruptions to oil production and logistics.",
+      "strategic_outlook": "Long-term control of Venezuela's oil reserves by the US could have significant geopolitical implications, potentially altering global energy dynamics and leading to shifts in international relations.",
+      "operational_impact": "Potential disruptions to oil supply chains, increased security measures for personnel and assets, and possible restrictions on aviation and cargo operations in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "685a4b812b9cb5b9839a3a08b6e2c6a0",
+    "timestamp": "2026-01-08T14:36:18.920699",
+    "original_title": "Nervous flyer? North America’s top 10 worst airports and routes for turbulence revealed",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/turbulence-airports-flights-america-2025-list-b2896591.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 2,
+      "location": "North America",
+      "latitude": 37.0902,
+      "longitude": -95.7129,
+      "detailed_analysis": "Turbulence forecast for North America's airports and routes, no direct threat to assets, cargo, aviation, or personnel",
+      "immediate_forecast_24h": "No significant changes expected in turbulence patterns",
+      "strategic_outlook": "Long-term monitoring of turbulence may help optimize flight routes and reduce passenger discomfort",
+      "operational_impact": "Minimal impact on transport and logistics, potential for minor flight delays or route changes",
       "proximity_alert": null
     }
   }
