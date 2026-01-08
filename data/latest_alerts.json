@@ -1,24 +1,5 @@
 [
   {
-    "id": "02772e7b1049b17a6985adb8d6c8a83a",
-    "timestamp": "2026-01-08T20:36:06.958169",
-    "original_title": "Iran protest death toll climbs to 45 as regime cuts internet, intensifies crackdown",
-    "link": "https://www.reddit.com/r/worldnews/comments/1q7lya6/iran_protest_death_toll_climbs_to_45_as_regime/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Civil Unrest/Conflict",
-      "risk_score": 7,
-      "location": "Iran",
-      "latitude": 32.0,
-      "longitude": 53.0,
-      "detailed_analysis": "Protests in Iran have resulted in a significant death toll and internet shutdown, indicating a high level of unrest and potential for further escalation, which could impact transport and logistics operations in the region.",
-      "immediate_forecast_24h": "Increased crackdown by the regime is expected, potentially leading to more violence and disruptions to daily life, including possible impacts on airports, seaports, and border crossings.",
-      "strategic_outlook": "Long-term stability in Iran is uncertain, and the current situation could lead to prolonged unrest, affecting the country's ability to maintain secure and efficient transport and logistics operations.",
-      "operational_impact": "Potential disruptions to air travel, shipping, and ground transportation in and out of Iran, as well as possible impacts on global supply chains that rely on Iranian cargo or transit through the region.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "2c23c204fdc4d302c74bb0242d709778",
     "timestamp": "2026-01-08T21:29:09.215365",
     "original_title": "Nigerian bishop calls for decisive military action to ‘eliminate’ bandits - OSV News",
@@ -92,6 +73,25 @@
       "strategic_outlook": "The long-term outlook is uncertain, but the current unrest could potentially lead to significant changes in the Iranian regime, which could have far-reaching implications for regional and global stability.",
       "operational_impact": "The unrest may impact flight operations, cargo transport, and personnel movement in and out of Iran. There is a risk of delays, cancellations, and disruptions to supply chains, particularly for companies with operations or interests in the region.",
       "proximity_alert": null
+    }
+  },
+  {
+    "id": "071ef0355c84a969869e9f9e3803b100",
+    "timestamp": "2026-01-08T21:50:10.746398",
+    "original_title": "Aer Lingus Follows Through With Threat To Shutter Manchester Base After Cabin Crew Went On Strike",
+    "link": "https://www.paddleyourownkanoo.com/2026/01/08/aer-lingus-follows-through-with-threat-to-shutter-manchester-base-after-cabin-crew-went-on-strike/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Aviation/Civil Unrest",
+      "risk_score": 10,
+      "location": "Manchester, England",
+      "latitude": 53.4808,
+      "longitude": -2.2426,
+      "detailed_analysis": "Aer Lingus is shutting down its Manchester base due to a cabin crew strike, potentially leaving 200 crew members jobless. This event poses a significant risk to aviation operations and personnel.",
+      "immediate_forecast_24h": "Disruptions to Aer Lingus flights and operations from Manchester are expected, with potential cancellations and delays. The situation may escalate if the strike continues or spreads to other locations.",
+      "strategic_outlook": "The long-term impact of the base closure could lead to a reduction in Aer Lingus' operations and services from Manchester, potentially affecting the local economy and aviation industry.",
+      "operational_impact": "The shutdown of the Manchester base will likely cause significant disruptions to Aer Lingus' long-haul flights, affecting passengers, cargo, and personnel. Alternative arrangements may need to be made to mitigate the impact on operations and logistics.",
+      "proximity_alert": "YAKIN TEHDİT: Manchester Airport (14 km)"
     }
   }
 ]
