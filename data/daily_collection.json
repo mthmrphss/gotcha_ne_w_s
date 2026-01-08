@@ -302,5 +302,24 @@
       "operational_impact": "Potential disruptions to air travel and cargo operations between the US and Colombia, as well as possible increased security measures at airports and other transport hubs.",
       "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
     }
+  },
+  {
+    "id": "e09feabfaedfbdf971317d37e3275646",
+    "timestamp": "2026-01-08T05:32:11.853613",
+    "original_title": "BYOD in Banking Is Breaking Zero Trust. Device-Centric Security Won't Survive AI-Driven Attacks - The Financial Brand",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVU5saWI5WVhHTzJNb0MzVURlWm9ZQ1JWMVBYbGJGMnFZTmsybjRBUTEyVnRRbnlFUUZUQzV2X2YxWkNYcTlUNldoTmtqR2N6Y2hxWGdDZHZvUHJTSUtRNEVYLXJJUm9ia2ZzLVAxcTNOdW8xMXg2QXJfUnRwbEpzNGV4RktCakNadWNBaQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 6,
+      "location": "Global",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "The article discusses how Bring Your Own Device (BYOD) policies in the banking sector are compromising zero-trust security models, making them vulnerable to AI-driven attacks. This poses a significant threat to the security of banking systems and customer data.",
+      "immediate_forecast_24h": "In the next 24 hours, banking institutions may experience increased attempts at breaching their security systems through exploited vulnerabilities in personal devices used for work purposes.",
+      "strategic_outlook": "Long term, the banking sector will need to reassess and strengthen its security protocols to mitigate the risks associated with BYOD, potentially adopting more stringent device-centric security measures or moving towards a zero-trust model that does not rely solely on device security.",
+      "operational_impact": "The operational impact could be significant, with potential disruptions to online banking services, data breaches, and financial losses. Banking institutions will need to invest in more robust cybersecurity measures to protect their assets and customer data.",
+      "proximity_alert": null
+    }
   }
 ]
