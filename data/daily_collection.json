@@ -226,5 +226,62 @@
       "operational_impact": "Potential disruptions to air travel and cargo transport between the US and Colombia, as well as neighboring countries, due to increased tensions and possible military activity.",
       "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
     }
+  },
+  {
+    "id": "142650b7de5d3e7a357a1ba99c19c78d",
+    "timestamp": "2026-01-08T03:51:18.588762",
+    "original_title": "'A state of terror and fear': Eyewitness shares her recount of fatal Minneapolis ICE shooting - abcnews.go.com",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaDlJUm1kYmhtakpKcndjbXNwTlZ2T3E4UnhDQkZKY3FHem1fRjlRdG83ZWd4dkg1M3k5Sk1fMzRVQU15N1hYY2xJZVozX2ZnM0UzZGZ0cE0tTldvWlhYcXRNV3EtRktFVmxrZVZ5dFpQX3FzcjNjSDRZZVJBNm5reEE1UTJjdjlyRmtsWkkzMzJNRklCeGR5MEppbC1JaFNzV2ctY212WTMxUdIBrwFBVV95cUxNcFR6c0pJbnEtUnRiUHRvVS1JaE5SRWZxYXNjeE5lQzFMUHBUcnRpXzB5bU9yQlRfc3FialVFZFJTaVQ2TXFTa1RCS0FjQVdmcDNGUENYeC1jS1VtZGNQU2FtaWVydUthbE9ZTVB4TmhJaUNHU3RTcVh1U0xNVnVOYUFCWFVYU0R5V2ZUWk1hWkpsQUM5dHEwVWtCUHp1N3JweXVCMElSVmR0SVRlQU9V?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism/Crime/Civil Unrest",
+      "risk_score": 6,
+      "location": "Minneapolis, USA",
+      "latitude": 44.9778,
+      "longitude": -93.265,
+      "detailed_analysis": "A fatal shooting occurred at an ICE facility in Minneapolis, indicating a heightened state of terror and fear. This incident may lead to increased security measures and potential disruptions to transport and logistics in the area.",
+      "immediate_forecast_24h": "Increased security presence and potential protests or demonstrations in the area, which may cause disruptions to traffic and logistics.",
+      "strategic_outlook": "Long-term implications may include increased security protocols for ICE facilities and potential changes to immigration policies, which could impact the movement of people and goods.",
+      "operational_impact": "Potential disruptions to transport and logistics in the Minneapolis area, particularly for companies involved in immigration-related services or those with operations near ICE facilities.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "eef88ba81c85579c50744d4d26f17134",
+    "timestamp": "2026-01-08T03:51:21.607560",
+    "original_title": "Venezuela Updates: U.S. Forces Seize Two Tankers; Rubio Lays Out Plan for American Control",
+    "link": "https://www.nytimes.com/live/2026/01/07/world/venezuela-us-trump",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Crime",
+      "risk_score": 7,
+      "location": "Venezuela",
+      "latitude": 7.0,
+      "longitude": -67.0,
+      "detailed_analysis": "The seizure of two tankers by U.S. forces in Venezuela indicates heightened tensions and potential for conflict, which could impact cargo and shipping operations in the region. The involvement of Russian-flagged vessels adds a layer of complexity to the situation.",
+      "immediate_forecast_24h": "Escalating tensions between the U.S. and Venezuela may lead to increased military presence, potentially disrupting maritime trade and posing a risk to personnel and assets in the region.",
+      "strategic_outlook": "Long-term, the situation in Venezuela could lead to a protracted conflict, affecting regional stability and global trade routes. The involvement of multiple nations, including the U.S., Russia, and Colombia, complicates the situation and may lead to unforeseen consequences.",
+      "operational_impact": "Shipping and cargo operations in the region may be disrupted due to the increased military presence and potential for conflict. Companies with assets or personnel in the area should exercise caution and consider contingency plans to mitigate potential risks.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "20feba9d5e0881f055d5e3b0e431491f",
+    "timestamp": "2026-01-08T03:51:23.846711",
+    "original_title": "Malaysia Airlines flight from Paris turns back after guidance system issue - The Straits Times",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ1hJdFNRSW0xZDQ1UTN5c1lDTEpTN2NZc0Y5QkxxVnRLQnF5QVAtWDZpcEJtLTlrcjdzTVkxdHFXLVdHVi05TExqYTREa0dWODRDNnI1Zk1DQlF4OEtOSEFSLUlPTXNMZkh2eE5zR2lWTDI4R1NUdV9FbmRnSC0xb3NNM0s4TVJ4MUd1VWRNb3BRd3pJVE9Ia0VfMUc0WGY5S0FBMXJGbkZ2dC02M0N3M2R6dnZOWFE?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Paris, France",
+      "latitude": 48.8567,
+      "longitude": 2.3508,
+      "detailed_analysis": "A Malaysia Airlines flight from Paris experienced a guidance system issue, prompting the aircraft to turn back. This incident highlights potential technical vulnerabilities in aviation systems, which could be exploited by malicious actors or result from mechanical failure.",
+      "immediate_forecast_24h": "The immediate risk is contained as the flight has turned back, but there could be delays or cancellations in flights operated by Malaysia Airlines or other airlines using similar aircraft or systems.",
+      "strategic_outlook": "In the long term, this incident underscores the need for rigorous maintenance and inspection of aircraft systems to prevent such occurrences. It also points to the importance of having robust backup systems and emergency procedures in place.",
+      "operational_impact": "The operational impact is moderate, with potential delays or disruptions to flights. However, the incident does not appear to be related to any intentional act of sabotage or terrorism, which would have significantly elevated the risk score.",
+      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (2 km)"
+    }
   }
 ]
