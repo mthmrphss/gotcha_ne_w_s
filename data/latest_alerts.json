@@ -55,5 +55,24 @@
       "operational_impact": "The operational impact is moderate, with potential delays or disruptions to flights. However, the incident does not appear to be related to any intentional act of sabotage or terrorism, which would have significantly elevated the risk score.",
       "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (2 km)"
     }
+  },
+  {
+    "id": "8249a4ba73dc93fd0d2ebd90cd0a9420",
+    "timestamp": "2026-01-08T04:44:53.607171",
+    "original_title": "Trump invites Colombian president to White House days after threatening it with military strike",
+    "link": "https://www.reddit.com/r/worldnews/comments/1q72d54/trump_invites_colombian_president_to_white_house/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Diplomacy",
+      "risk_score": 10,
+      "location": "Washington D.C., USA",
+      "latitude": 38.8951,
+      "longitude": -77.0364,
+      "detailed_analysis": "The invitation of the Colombian president to the White House by Trump, following a threat of a military strike, indicates a high level of diplomatic tension and potential conflict. This could lead to instability in the region and impact aviation and cargo operations.",
+      "immediate_forecast_24h": "Increased diplomatic activity and potential for further escalation of tensions between the US and Colombia, with possible implications for regional stability and transport operations.",
+      "strategic_outlook": "Long-term implications for US-Colombia relations and regional security, with potential consequences for trade, aviation, and cargo operations. The situation may lead to increased security measures and potential disruptions to logistics and transport.",
+      "operational_impact": "Potential disruptions to air travel and cargo operations between the US and Colombia, as well as possible increased security measures at airports and other transport hubs.",
+      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
+    }
   }
 ]
