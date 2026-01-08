@@ -739,5 +739,43 @@
       "operational_impact": "No direct operational impact expected at this time, but changes in global geopolitics could lead to increased security measures and potential disruptions to transport logistics in the future.",
       "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
     }
+  },
+  {
+    "id": "afd3d922ec55c8e6550970a0579a2dc9",
+    "timestamp": "2026-01-08T11:27:25.633918",
+    "original_title": "Footage shows violent clashes as Iran protests spread to more areas",
+    "link": "https://www.reddit.com/r/worldnews/comments/1q7933k/footage_shows_violent_clashes_as_iran_protests/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 6,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Protests in Iran have turned violent, with clashes spreading to more areas. This could potentially disrupt logistics and transportation, especially if protests target critical infrastructure or major transportation hubs.",
+      "immediate_forecast_24h": "Increased unrest and potential for further clashes between protesters and security forces, potentially affecting major cities and transportation routes.",
+      "strategic_outlook": "Long-term instability in Iran could lead to sustained disruptions in regional logistics and transportation, affecting cargo and personnel movement.",
+      "operational_impact": "Potential disruptions to air travel, ground transportation, and logistics operations in Iran, with possible spillover effects into neighboring countries.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "687c8575e8c912319e1d64d783c8c19b",
+    "timestamp": "2026-01-08T11:27:28.908009",
+    "original_title": "Turkey offers to 'support' Syrian forces against Kurdish fighters in Aleppo",
+    "link": "https://www.france24.com/en/middle-east/20260108-turkey-offers-to-support-syrian-forces-against-kurdish-fighters-in-aleppo",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 10,
+      "location": "Aleppo, Syria",
+      "latitude": 36.2133,
+      "longitude": 37.1619,
+      "detailed_analysis": "Turkey's offer to support Syrian forces against Kurdish fighters in Aleppo may escalate the conflict, posing a threat to aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Increased military activity and potential clashes between Syrian forces and Kurdish fighters, potentially disrupting air traffic and logistics in the area.",
+      "strategic_outlook": "Prolonged conflict may lead to a destabilization of the region, affecting transport and logistics operations, and potentially drawing in other countries, increasing the risk of a broader conflict.",
+      "operational_impact": "Potential disruption to air cargo and passenger flights, increased security measures at airports, and possible restrictions on ground transportation in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Aleppo International Airport (6 km)"
+    }
   }
 ]
