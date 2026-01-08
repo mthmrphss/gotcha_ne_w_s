@@ -93,5 +93,24 @@
       "operational_impact": "The shutdown of the Manchester base will likely cause significant disruptions to Aer Lingus' long-haul flights, affecting passengers, cargo, and personnel. Alternative arrangements may need to be made to mitigate the impact on operations and logistics.",
       "proximity_alert": "YAKIN TEHDİT: Manchester Airport (14 km)"
     }
+  },
+  {
+    "id": "75b7aafa1db1d2ef22ec7202322bf27b",
+    "timestamp": "2026-01-08T22:28:39.624524",
+    "original_title": "Transatlantic flight forced to make emergency landing at Glasgow Airport - Daily Record",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd296V1JXZVRWNExOOGUtYXRMOUd0YmtaemV5NUxoTGh1c0lIQVZuYURaalhrTFl0ams4MmdHbDhmOTJHRnpUUWVtVkJpclpiTFpTeFphcThVZk5ZU2pJWUVOOU81OUxuV1I1eGpDem0ybVFhX3ZXM254T3daTlFLdE0teU1weWhUY3ZpN1IyZEcydzYtOVBEOXFKTXBkODZjS1HSAacBQVVfeXFMUGppSFRzWVFjMjZIS0pnRktiSmlZSjlSWmE1dFpfbTFEZ3RNeXAyRXhqb19GS2pLd2U2VUtuajhKRjM1d3RycWhuS3EtXzVtenB1RFl6emxranZNbXBtMHJDdWQ4bVl2NURGNEEzNXNwT0VydDZ2TTdzODdtTUZUbnRRUGEzeDFENU1TNzVGeWxyYUpGNTB4UjZIalhpMmtTbWZfSU5teUk?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 6,
+      "location": "Glasgow, Scotland",
+      "latitude": 55.8642,
+      "longitude": -4.4339,
+      "detailed_analysis": "A transatlantic flight was forced to make an emergency landing at Glasgow Airport, the cause of which is not specified in the report. This incident could potentially be related to a security threat, technical issue, or medical emergency on board.",
+      "immediate_forecast_24h": "Investigations into the cause of the emergency landing will likely be conducted, and the airport may experience some disruptions to flights. However, without further information, it is difficult to predict the exact outcome.",
+      "strategic_outlook": "The long-term impact of this incident will depend on the findings of the investigation. If the cause is related to a security threat, it could lead to increased security measures at airports. If it is a technical issue, it may lead to changes in maintenance procedures for the airline or aircraft manufacturer.",
+      "operational_impact": "The emergency landing may cause some delays or cancellations of flights at Glasgow Airport, potentially affecting cargo and passenger transport. The impact on logistics will depend on the duration of the disruption and the ability of the airport to quickly resume normal operations.",
+      "proximity_alert": null
+    }
   }
 ]
