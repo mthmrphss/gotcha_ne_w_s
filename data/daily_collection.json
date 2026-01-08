@@ -777,5 +777,43 @@
       "operational_impact": "Potential disruption to air cargo and passenger flights, increased security measures at airports, and possible restrictions on ground transportation in the region.",
       "proximity_alert": "YAKIN TEHDİT: Aleppo International Airport (6 km)"
     }
+  },
+  {
+    "id": "cc5746c6ed69d34b772a8c838e047fef",
+    "timestamp": "2026-01-08T11:46:18.865898",
+    "original_title": "Global aircraft parts shortage grounds African airlines [Business Africa]",
+    "link": "http://www.africanews.com/2026/01/08/global-aircraft-parts-shortage-grounds-african-airlines-business-africa/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 6,
+      "location": "Africa",
+      "latitude": 0.0,
+      "longitude": 25.0,
+      "detailed_analysis": "A global shortage of aircraft spare parts is grounding planes across Africa, causing widespread delays and cancellations, with smaller national airlines being affected the most.",
+      "immediate_forecast_24h": "Delays and cancellations are expected to continue in the short term, with potential for increased passenger frustration and economic losses for airlines.",
+      "strategic_outlook": "The shortage may lead to long-term disruptions in air travel, potentially affecting economic growth and trade in the region, unless a solution to the spare parts shortage is found.",
+      "operational_impact": "Grounded planes, reduced flight schedules, and increased maintenance times will impact transport and logistics operations, potentially leading to losses for airlines and related businesses.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "9669ba187f9ea60b54c2273ca7bf266b",
+    "timestamp": "2026-01-08T11:46:20.864346",
+    "original_title": "'Any great power can do as it pleases': US operation in Venezuela 'a clear violation of int'l law'",
+    "link": "https://www.france24.com/en/any-great-power-can-do-as-it-pleases-us-operation-in-venezuela-a-clear-violation-of-int-l-law",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Caracas, Venezuela",
+      "latitude": 10.488,
+      "longitude": -66.879,
+      "detailed_analysis": "The removal of a sitting head of state by a foreign military operation poses significant risks to regional stability and could lead to widespread unrest, potentially disrupting aviation and cargo operations in the area.",
+      "immediate_forecast_24h": "Increased tensions and potential for violent protests or clashes between opposing factions, with possible impacts on airport operations and cargo handling.",
+      "strategic_outlook": "Long-term instability in Venezuela could lead to sustained disruptions in regional logistics and aviation, with potential spillover effects into neighboring countries.",
+      "operational_impact": "Potential for flight disruptions, cargo delays, and increased security measures at airports and seaports in Venezuela and surrounding areas.",
+      "proximity_alert": "YAKIN TEHDİT: Maiquetía \"Simón Bolívar\" International Airport (4 km)"
+    }
   }
 ]
