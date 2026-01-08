@@ -1024,5 +1024,100 @@
       "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics operations in the region. Increased security measures may be implemented, causing delays and affecting supply chains.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "be74f449f5d63a42620c0b5fc1619b63",
+    "timestamp": "2026-01-08T16:39:19.871778",
+    "original_title": "Severe International internet outage in Iran amid ongoing protests",
+    "link": "https://www.reddit.com/r/worldnews/comments/1q7fmam/severe_international_internet_outage_in_iran_amid/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest/Cyber",
+      "risk_score": 6,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Severe international internet outage in Iran amid ongoing protests, potentially disrupting logistics, cargo, and aviation operations due to lack of connectivity and communication.",
+      "immediate_forecast_24h": "Protests may continue, and internet services may remain unstable, affecting real-time tracking and communication for transport and logistics.",
+      "strategic_outlook": "Prolonged internet outages and civil unrest could lead to increased risks for cargo, aviation, and personnel, requiring alternative communication and contingency plans.",
+      "operational_impact": "Potential delays and disruptions in cargo transport, aviation operations, and supply chain management due to limited internet connectivity and ongoing civil unrest.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "a087e6d03ebab2025a253b424d0559d3",
+    "timestamp": "2026-01-08T16:39:23.441933",
+    "original_title": "US president's agenda tests world order",
+    "link": "https://www.france24.com/en/us-president-s-agenda-tests-world-order",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Greenland, Denmark",
+      "latitude": 64.5167,
+      "longitude": -51.7167,
+      "detailed_analysis": "The US president's agenda to potentially seize Greenland poses a significant threat to regional stability and could lead to conflict, affecting aviation and cargo operations in the area.",
+      "immediate_forecast_24h": "Tensions between the US and Denmark are expected to rise, with potential diplomatic fallout and increased military presence in the region.",
+      "strategic_outlook": "A long-term conflict in the Arctic region could disrupt global supply chains, particularly for cargo shipments, and impact the sovereignty of NATO allies.",
+      "operational_impact": "Potential disruptions to air traffic and cargo logistics in the region, with possible restrictions on flights and increased security measures for personnel and assets.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "c7d566ce61bb3f1e6f67753e11a48d8a",
+    "timestamp": "2026-01-08T16:39:25.553537",
+    "original_title": "Inside Iran's nationwide protests: Security forces attack hospital after protests in western Iran",
+    "link": "https://www.france24.com/en/inside-iran-s-nationwide-protests-security-forces-attack-hospital-after-protests-in-western-iran",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 7,
+      "location": "Ilam, Iran",
+      "latitude": 33.6333,
+      "longitude": 46.4333,
+      "detailed_analysis": "Nationwide protests in Iran, driven by economic crisis, have led to security forces attacking a hospital in Ilam, resulting in injuries and detentions. The situation is volatile, with at least 36 protesters killed so far.",
+      "immediate_forecast_24h": "Increased violence and unrest expected as protests continue, with potential for further clashes between security forces and protesters.",
+      "strategic_outlook": "Long-term instability and potential for regime change, with implications for regional security and global trade.",
+      "operational_impact": "Potential disruptions to transport and logistics in the region, particularly for cargo and personnel, due to increased security measures and unrest.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "d7fc93ef564c1b768cf57c1b6fd22d4d",
+    "timestamp": "2026-01-08T16:39:27.551454",
+    "original_title": "‘I spent almost four months in a prison cell’: Journalist Mario Guevara on covering ICE",
+    "link": "https://www.france24.com/en/americas/20260108-i-spent-almost-four-months-prison-cell-journalist-mario-guevara-covering-ice",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest/Border",
+      "risk_score": 10,
+      "location": "Atlanta, USA",
+      "latitude": 33.7489,
+      "longitude": -84.3879,
+      "detailed_analysis": "Journalist Mario Guevara's arrest and detention while reporting on an anti-Trump protest highlights potential risks for personnel, particularly journalists, covering sensitive events near borders or areas with high migrant activity. The incident also underscores the challenges of reporting on ICE raids and the potential for civil unrest.",
+      "immediate_forecast_24h": "Increased tensions between law enforcement and journalists or protesters may lead to further incidents, but no immediate escalation is expected.",
+      "strategic_outlook": "Long-term, the situation may lead to increased scrutiny of press freedom and the treatment of journalists covering sensitive topics, potentially affecting the operational environment for media and logistics personnel.",
+      "operational_impact": "The incident may impact the ability of journalists and logistics personnel to operate freely, particularly in areas with high migrant activity or near borders, but is unlikely to directly affect cargo or aviation operations.",
+      "proximity_alert": "YAKIN TEHDİT: Hartsfield–Jackson Atlanta International Airport (12 km)"
+    }
+  },
+  {
+    "id": "43432f56edd22716eb5631884e7057e1",
+    "timestamp": "2026-01-08T16:39:30.599210",
+    "original_title": "Pro-Palestinian protestors block Israel-bound passengers at Italian airport",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/malpensa-airport-flight-to-israel-b2896973.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 6,
+      "location": "Italian airport",
+      "latitude": 43.0,
+      "longitude": 12.0,
+      "detailed_analysis": "Pro-Palestinian protestors blocked Israel-bound passengers, causing a two-hour delay in takeoff, indicating potential disruption to aviation operations and safety concerns for passengers and personnel",
+      "immediate_forecast_24h": "Further protests and disruptions are possible, potentially affecting flight schedules and airport operations",
+      "strategic_outlook": "The incident highlights the potential for civil unrest to impact aviation, emphasizing the need for enhanced security measures and contingency planning to mitigate such risks",
+      "operational_impact": "Delays and disruptions to flights, potential safety risks for passengers and personnel, and increased security measures may be required to prevent future incidents",
+      "proximity_alert": null
+    }
   }
 ]
