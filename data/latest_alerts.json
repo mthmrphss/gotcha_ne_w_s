@@ -1,78 +1,21 @@
 [
   {
-    "id": "afd3d922ec55c8e6550970a0579a2dc9",
-    "timestamp": "2026-01-08T11:27:25.633918",
-    "original_title": "Footage shows violent clashes as Iran protests spread to more areas",
-    "link": "https://www.reddit.com/r/worldnews/comments/1q7933k/footage_shows_violent_clashes_as_iran_protests/",
+    "id": "77dc29d38a48a7896a86dc66c6c81612",
+    "timestamp": "2026-01-08T13:00:40.831479",
+    "original_title": "Syria declares Kurdish positions in Aleppo neighbourhoods 'legitimate military targets'",
+    "link": "https://www.reddit.com/r/worldnews/comments/1q7b26w/syria_declares_kurdish_positions_in_aleppo/",
     "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Civil Unrest/Conflict",
-      "risk_score": 6,
-      "location": "Iran",
-      "latitude": 32.0,
-      "longitude": 53.0,
-      "detailed_analysis": "Protests in Iran have turned violent, with clashes spreading to more areas. This could potentially disrupt logistics and transportation, especially if protests target critical infrastructure or major transportation hubs.",
-      "immediate_forecast_24h": "Increased unrest and potential for further clashes between protesters and security forces, potentially affecting major cities and transportation routes.",
-      "strategic_outlook": "Long-term instability in Iran could lead to sustained disruptions in regional logistics and transportation, affecting cargo and personnel movement.",
-      "operational_impact": "Potential disruptions to air travel, ground transportation, and logistics operations in Iran, with possible spillover effects into neighboring countries.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "687c8575e8c912319e1d64d783c8c19b",
-    "timestamp": "2026-01-08T11:27:28.908009",
-    "original_title": "Turkey offers to 'support' Syrian forces against Kurdish fighters in Aleppo",
-    "link": "https://www.france24.com/en/middle-east/20260108-turkey-offers-to-support-syrian-forces-against-kurdish-fighters-in-aleppo",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict/Terrorism",
-      "risk_score": 10,
-      "location": "Aleppo, Syria",
-      "latitude": 36.2133,
-      "longitude": 37.1619,
-      "detailed_analysis": "Turkey's offer to support Syrian forces against Kurdish fighters in Aleppo may escalate the conflict, posing a threat to aviation and cargo operations in the region.",
-      "immediate_forecast_24h": "Increased military activity and potential clashes between Syrian forces and Kurdish fighters, potentially disrupting air traffic and logistics in the area.",
-      "strategic_outlook": "Prolonged conflict may lead to a destabilization of the region, affecting transport and logistics operations, and potentially drawing in other countries, increasing the risk of a broader conflict.",
-      "operational_impact": "Potential disruption to air cargo and passenger flights, increased security measures at airports, and possible restrictions on ground transportation in the region.",
-      "proximity_alert": "YAKIN TEHDİT: Aleppo International Airport (6 km)"
-    }
-  },
-  {
-    "id": "cc5746c6ed69d34b772a8c838e047fef",
-    "timestamp": "2026-01-08T11:46:18.865898",
-    "original_title": "Global aircraft parts shortage grounds African airlines [Business Africa]",
-    "link": "http://www.africanews.com/2026/01/08/global-aircraft-parts-shortage-grounds-african-airlines-business-africa/",
-    "source_name": "Africa News",
-    "ai_analysis": {
-      "category": "Aviation",
-      "risk_score": 6,
-      "location": "Africa",
-      "latitude": 0.0,
-      "longitude": 25.0,
-      "detailed_analysis": "A global shortage of aircraft spare parts is grounding planes across Africa, causing widespread delays and cancellations, with smaller national airlines being affected the most.",
-      "immediate_forecast_24h": "Delays and cancellations are expected to continue in the short term, with potential for increased passenger frustration and economic losses for airlines.",
-      "strategic_outlook": "The shortage may lead to long-term disruptions in air travel, potentially affecting economic growth and trade in the region, unless a solution to the spare parts shortage is found.",
-      "operational_impact": "Grounded planes, reduced flight schedules, and increased maintenance times will impact transport and logistics operations, potentially leading to losses for airlines and related businesses.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "9669ba187f9ea60b54c2273ca7bf266b",
-    "timestamp": "2026-01-08T11:46:20.864346",
-    "original_title": "'Any great power can do as it pleases': US operation in Venezuela 'a clear violation of int'l law'",
-    "link": "https://www.france24.com/en/any-great-power-can-do-as-it-pleases-us-operation-in-venezuela-a-clear-violation-of-int-l-law",
-    "source_name": "France 24 ME",
     "ai_analysis": {
       "category": "Conflict/Civil Unrest",
       "risk_score": 10,
-      "location": "Caracas, Venezuela",
-      "latitude": 10.488,
-      "longitude": -66.879,
-      "detailed_analysis": "The removal of a sitting head of state by a foreign military operation poses significant risks to regional stability and could lead to widespread unrest, potentially disrupting aviation and cargo operations in the area.",
-      "immediate_forecast_24h": "Increased tensions and potential for violent protests or clashes between opposing factions, with possible impacts on airport operations and cargo handling.",
-      "strategic_outlook": "Long-term instability in Venezuela could lead to sustained disruptions in regional logistics and aviation, with potential spillover effects into neighboring countries.",
-      "operational_impact": "Potential for flight disruptions, cargo delays, and increased security measures at airports and seaports in Venezuela and surrounding areas.",
-      "proximity_alert": "YAKIN TEHDİT: Maiquetía \"Simón Bolívar\" International Airport (4 km)"
+      "location": "Aleppo, Syria",
+      "latitude": 36.2017,
+      "longitude": 37.1619,
+      "detailed_analysis": "The Syrian government has declared Kurdish positions in Aleppo neighbourhoods as 'legitimate military targets', indicating a heightened state of conflict and potential for military action in the region. This could lead to increased violence, displacement of civilians, and disruption to local infrastructure and logistics.",
+      "immediate_forecast_24h": "In the next 24 hours, there is a high likelihood of military engagement between Syrian government forces and Kurdish positions, potentially resulting in civilian casualties and damage to infrastructure. Aviation and cargo operations in the region may be impacted due to the increased conflict.",
+      "strategic_outlook": "In the long term, the escalation of conflict in Aleppo could lead to a broader destabilization of the region, potentially drawing in other international actors and affecting regional transport and logistics. The situation bears close monitoring for its potential to impact global supply chains and aviation security.",
+      "operational_impact": "The conflict may disrupt air travel and cargo transport in and out of Aleppo, and potentially other parts of Syria. There is also a risk of spillover effects into neighboring countries, which could further impact regional logistics and transport operations.",
+      "proximity_alert": "YAKIN TEHDİT: Aleppo International Airport (6 km)"
     }
   }
 ]
