@@ -1214,5 +1214,100 @@
       "operational_impact": "Potential for increased security measures at border crossings, delays in cargo transport, and heightened risk of violence or unrest in areas near the border, affecting personnel, cargo, and aviation operations.",
       "proximity_alert": "YAKIN TEHDİT: Mexico City International Airport (6 km)"
     }
+  },
+  {
+    "id": "d9db9b14d2ef900b4eaef1ed15a840e9",
+    "timestamp": "2026-01-09T16:37:20.240617",
+    "original_title": "Protests, Seizures, and Exercises",
+    "link": "https://warontherocks.com/2026/01/protests-seizures-and-exercises/",
+    "source_name": "War on the Rocks",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Mass protests and anti-regime unrest spreading across Iran, potentially triggering US response, poses a threat to stability and security in the region, affecting aviation and cargo operations.",
+      "immediate_forecast_24h": "Escalation of protests and potential US intervention could lead to increased tensions and disruptions to transport and logistics in the short term.",
+      "strategic_outlook": "Long-term instability in Iran could have significant implications for regional security, trade, and aviation, with potential for conflict escalation and impact on global markets.",
+      "operational_impact": "Potential disruptions to air travel, cargo shipments, and supply chains due to unrest and possible US response, requiring heightened security measures and contingency planning for transport and logistics operations.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "96138b371a0e926ab931e4ba6a1c59da",
+    "timestamp": "2026-01-09T16:37:23.145000",
+    "original_title": "Sudan's al-Fashir survivors recount torture at hands of RSF fighters",
+    "link": "http://www.africanews.com/2026/01/09/sudans-al-fashir-survivors-recount-torture-at-hands-of-rsf-fighters/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 7,
+      "location": "al-Fashir, Sudan",
+      "latitude": 13.6333,
+      "longitude": 25.35,
+      "detailed_analysis": "The capture of al-Fashir by the Rapid Support Forces (RSF) and reports of torture at the hands of RSF fighters indicate a high level of instability and violence in the region, posing significant risks to personnel and potentially disrupting local logistics and transport.",
+      "immediate_forecast_24h": "Continued instability and potential for further violence in the short term, with thousands of displaced persons and a heightened risk of clashes between RSF and other groups.",
+      "strategic_outlook": "Long-term instability in Sudan could lead to increased migration and refugee movements, potentially affecting border security and regional stability, with implications for aviation and cargo transport in the broader region.",
+      "operational_impact": "Potential disruptions to local and regional transport and logistics due to conflict, with increased risk to personnel and assets, particularly in areas under RSF control or near conflict zones.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "3f215b68d954908c4468c114e7a180e5",
+    "timestamp": "2026-01-09T16:37:24.935712",
+    "original_title": "Home alone in a hostile world: Is 2026 the year Europe will fend for itself?",
+    "link": "https://www.france24.com/en/tv-shows/talking-europe/20260109-home-alone-in-a-hostile-world-is-2026-the-year-europe-will-fend-for-itself",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 6,
+      "location": "Europe",
+      "latitude": 50.0,
+      "longitude": 10.0,
+      "detailed_analysis": "The potential for military conflict between the US and Denmark over Greenland poses a significant threat to regional stability, which could impact aviation and cargo operations in Europe.",
+      "immediate_forecast_24h": "Tensions between the US and European nations may escalate, potentially leading to increased military presence and airspace restrictions.",
+      "strategic_outlook": "A prolonged conflict could lead to a significant shift in global power dynamics, affecting international relations, trade, and security protocols for years to come.",
+      "operational_impact": "Possible disruptions to air traffic, increased security measures for cargo and personnel, and potential rerouting of flights and shipments to avoid conflict zones.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "84da49106f9623a2bb6b3c3ce8172a92",
+    "timestamp": "2026-01-09T16:37:27.608050",
+    "original_title": "British Airways passengers suffer broken ankles during Heathrow flight turbulence",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/british-airways-flight-passengers-injured-turbulence-b2897359.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Heathrow, UK",
+      "latitude": 51.47,
+      "longitude": -0.4614,
+      "detailed_analysis": "Turbulence on a British Airways flight resulted in passenger injuries, including broken ankles. The incident highlights the importance of adhering to seatbelt sign announcements for safety.",
+      "immediate_forecast_24h": "No significant increase in risk expected in the next 24 hours. Standard safety protocols will likely be reinforced by the airline.",
+      "strategic_outlook": "Long-term, airlines may review and enhance their safety briefings and seatbelt sign protocols to minimize injuries during turbulence.",
+      "operational_impact": "Minimal operational impact expected. The incident may lead to a review of safety procedures but is unlikely to cause significant disruptions to flights or logistics.",
+      "proximity_alert": "YAKIN TEHDİT: Heathrow Airport (0 km)"
+    }
+  },
+  {
+    "id": "f3079aee1236c8daff722f8e0b58be8b",
+    "timestamp": "2026-01-09T16:37:29.377705",
+    "original_title": "American Airlines debuts free in-flight wi-fi (but there’s a catch)",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/american-airlines-free-inflight-wifi-launch-b2897474.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Aviation/Cyber",
+      "risk_score": 10,
+      "location": "United States",
+      "latitude": 32.7763,
+      "longitude": -96.797,
+      "detailed_analysis": "American Airlines' introduction of free in-flight wi-fi may pose a potential cyber threat, but the article does not provide specific details on the security measures in place. The rollout is happening in phases, starting with narrowbody jets.",
+      "immediate_forecast_24h": "No immediate threats are expected, but monitoring of the wi-fi system for potential vulnerabilities is recommended.",
+      "strategic_outlook": "The long-term impact of free in-flight wi-fi on aviation cybersecurity will depend on the effectiveness of American Airlines' security measures and the potential for future attacks.",
+      "operational_impact": "The introduction of free in-flight wi-fi may increase the reliance on digital systems, potentially creating new vulnerabilities in the aviation sector.",
+      "proximity_alert": "YAKIN TEHDİT: Dallas Fort Worth (3 km)"
+    }
   }
 ]
