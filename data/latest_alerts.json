@@ -1,43 +1,5 @@
 [
   {
-    "id": "1471eb2c2e40a8c334babe9c5e21a6a3",
-    "timestamp": "2026-01-09T12:59:53.407687",
-    "original_title": "Iran’s Supreme Leader Vows to ‘Not Back Down’ as Protests Swell",
-    "link": "https://www.nytimes.com/2026/01/09/world/middleeast/iran-protests-ayatollah-khamenei.html",
-    "source_name": "NewYork Times",
-    "ai_analysis": {
-      "category": "Civil Unrest/Conflict",
-      "risk_score": 10,
-      "location": "Tehran, Iran",
-      "latitude": 35.6892,
-      "longitude": 51.389,
-      "detailed_analysis": "Protests in Iran pose a threat to aviation and cargo operations due to potential disruptions and instability in the region. Ayatollah Ali Khamenei's vow to 'not back down' may escalate tensions, affecting transport and logistics.",
-      "immediate_forecast_24h": "Increased protests and potential clashes between protesters and security forces, possibly affecting airport and cargo operations.",
-      "strategic_outlook": "Long-term instability in Iran may impact regional trade and aviation, with potential for increased security measures and disruptions to cargo and personnel movement.",
-      "operational_impact": "Potential delays or cancellations of flights, increased security checks, and disruptions to cargo handling and logistics operations in Iran and surrounding regions.",
-      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
-    }
-  },
-  {
-    "id": "34210ca242b71cc3cc67364b127cb81e",
-    "timestamp": "2026-01-09T12:59:55.381655",
-    "original_title": "Live Updates: Trump Says More U.S. Attacks on Venezuela ‘Will Not Be Needed’",
-    "link": "https://www.nytimes.com/live/2026/01/09/world/venezuela-trump-us",
-    "source_name": "NewYork Times",
-    "ai_analysis": {
-      "category": "Conflict/Civil Unrest",
-      "risk_score": 10,
-      "location": "Caracas, Venezuela",
-      "latitude": 10.488,
-      "longitude": -66.879,
-      "detailed_analysis": "The situation in Venezuela appears to be stabilizing following the capture of President Nicolás Maduro and the release of political prisoners, indicating a potential decrease in tensions and conflict.",
-      "immediate_forecast_24h": "Further releases of political prisoners and potential negotiations between the U.S. and Venezuela's new leaders, leading to a temporary reduction in conflict.",
-      "strategic_outlook": "Long-term stability in Venezuela is uncertain and depends on the actions of the new leadership and the international community, potentially leading to continued unrest or gradual normalization.",
-      "operational_impact": "Transport and logistics operations in Venezuela may experience reduced disruptions due to the easing of tensions, but caution is still advised due to the unpredictable nature of the situation.",
-      "proximity_alert": "YAKIN TEHDİT: Maiquetía \"Simón Bolívar\" International Airport (4 km)"
-    }
-  },
-  {
     "id": "081d2f9963566a53f99c180f6f7d8995",
     "timestamp": "2026-01-09T13:46:28.356583",
     "original_title": "Russia fires Oreshnik hypersonic missile at Ukraine - DW",
@@ -73,6 +35,82 @@
       "strategic_outlook": "The long-term outlook for the region remains uncertain, with ongoing conflict and the potential for further escalation. This could lead to sustained disruptions to transport and logistics, as well as continued threats to personnel and assets.",
       "operational_impact": "The attack highlights the need for enhanced security measures for aviation and personnel in the region. Transport and logistics operations may need to be adjusted to account for the increased risk of attacks, and contingency plans should be in place to respond to future incidents.",
       "proximity_alert": "YAKIN TEHDİT: Lviv Danylo Halytskyi International Airport (5 km)"
+    }
+  },
+  {
+    "id": "918111a01fc61274ab487149c1e29b8d",
+    "timestamp": "2026-01-09T14:31:34.991379",
+    "original_title": "Live updates: Trump says second attack on Venezuela 'will not be needed' - NBC News",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTjNpbV9ZTkNJSGQ3YmNaMVo0MG00d1NzQjNCSkVjMGoxcm9HVXZIUnR0Rmgxb2Zhbjh2bGlpRm5ldy1FRTRNdU0yamJQSU12Q1VJcFBWTk5hR3lKVEtnLWNpQkkxX2pPUmtNOU13RDZxWGoxN3JGMFgwWkdyVWdmQTR4NHd2QUQzc2FoRlBXMlVLS2FtN3JIOVB5ODNJaEU1aXJ1eTNhMHRkS2cxMFZiRmFIN2VSa1pJSkEzUlNuX01yRnY0YjFwcEFHZjlxTExmaGFTUnI3OGtQUdIBY0FVX3lxTE9halVMUzZVc3E2a0dzUlVESGs0aFBwVko0Wm1ZS3dMNTlDZXhlMFZTbUt0em1YQXUtRTg2NDI0Umd0S3R5MkhkdDZXQ2MwY1EzR25JSkt0RG50X0Rwa3NseENFQQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 6,
+      "location": "Venezuela",
+      "latitude": 7.0,
+      "longitude": -67.0,
+      "detailed_analysis": "The situation in Venezuela is volatile due to potential military action, which could impact aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Tensions may escalate, but a second attack is deemed unlikely by Trump, which could lead to a temporary decrease in conflict levels.",
+      "strategic_outlook": "The long-term outlook for the region remains uncertain, with potential for ongoing conflict and instability affecting transport and logistics.",
+      "operational_impact": "Aviation and cargo operations in Venezuela may be impacted by the conflict, with potential for disruptions, delays, or even cessation of services.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "8776da9fdb01af5453a69c55f10e1666",
+    "timestamp": "2026-01-09T14:31:37.035097",
+    "original_title": "Trump suggests U.S. military will hit cartels on ‘land’ in Mexico - CNBC",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0eDloQ29GRWFrd1U3VTJBdGRPU3o3M0o4TkhpS2RDaGV3S044WnV6cV9uV2I2YWU1ZlJIQS1aUmNpbnR4UHBVMWZ3ZVB1UFpIVy1KM1hWWUNoeGVkNnlldjJMdExpZVJtQldiNEgtTUdNVndMT0VqN3pWV1lHWG_SAYQBQVVfeXFMTTktU24zWWItQzhLOURlNm1nYmlaVzVEalRpT084S0c1Ylh2cVNUY05zSkNqNEpPSS1sVWYycC1BRF9RTDlZNjc5ZEx6Q29qTTlWQnBsRE9KRFNDY0MwOHJPeFRKNmRUZnNCY2pmQ1dwR01aLUdvM0ZQa1F4WVF6cFRYNy1x?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Border/Crime",
+      "risk_score": 10,
+      "location": "Mexico, Mexico",
+      "latitude": 19.4326,
+      "longitude": -99.1332,
+      "detailed_analysis": "The suggestion of US military action against cartels in Mexico poses a significant threat to the region's stability, potentially impacting cargo transport, aviation, and personnel safety. Cartel retaliation could lead to increased violence and disruptions to logistics operations.",
+      "immediate_forecast_24h": "Heightened tensions along the US-Mexico border, potential for increased cartel activity, and elevated risk of violence against personnel and cargo in the region.",
+      "strategic_outlook": "Long-term instability in the region could lead to sustained disruptions to supply chains, increased costs for transport and security, and potential shifts in cargo routes to avoid high-risk areas.",
+      "operational_impact": "Transport and logistics companies operating in the region should exercise extreme caution, consider rerouting cargo, and enhance security measures to protect personnel and assets.",
+      "proximity_alert": "YAKIN TEHDİT: Mexico City International Airport (6 km)"
+    }
+  },
+  {
+    "id": "ed299b3d1213634fdd7e20036a01e752",
+    "timestamp": "2026-01-09T14:31:38.858053",
+    "original_title": "Russia uses its new ballistic missile in a major attack on Ukraine and a warning to West - AP News",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdDdvd1cxWldzUEhtZWR3ZW55TTFPNTAtY3hLb1o4NkpuLWw0NFRDcXVocndQcjF5M2hBZVJqTUZkYjY1ZGIwUlhUUmhIaVJIUVVWMG1yUVJBMks0cnNDaWJDOEZCbFREN0lxNXVtd01fcHdJMVZERmFQandQdS1FSExzYWlvVXU5MDVxVnladXJoVG12MkNGZ3MwRl82cUk?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "Russia's use of a new ballistic missile in a major attack on Ukraine poses a significant threat to regional stability and global security, with potential implications for aviation and cargo operations in the area.",
+      "immediate_forecast_24h": "Increased tensions between Russia and the West, potential for further military action, and heightened security measures in the region.",
+      "strategic_outlook": "Long-term escalation of the conflict could lead to significant disruptions in global supply chains, increased risk of cyberattacks, and potential for the conflict to spread beyond Ukraine's borders.",
+      "operational_impact": "Potential disruptions to air traffic, increased security screening for cargo and personnel, and possible restrictions on flights to and from the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "a232320665dd0b4517dfa8b0f93d8432",
+    "timestamp": "2026-01-09T14:31:43.751575",
+    "original_title": "Somalis protest Israel’s recognition of Somaliland, vow national unity",
+    "link": "http://www.africanews.com/2026/01/09/somalis-protest-israels-recognition-of-somaliland-vow-national-unity/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Mogadishu, Somalia",
+      "latitude": 2.0371,
+      "longitude": 45.3438,
+      "detailed_analysis": "Protests in Somalia against Israel's recognition of Somaliland could lead to increased tensions and potential destabilization in the Horn of Africa, affecting transport and logistics operations.",
+      "immediate_forecast_24h": "Protests may escalate, potentially disrupting air and ground transportation, but no immediate high-risk threats to aviation or cargo are reported.",
+      "strategic_outlook": "Long-term recognition of Somaliland by Israel could lead to increased conflict and instability in the region, impacting trade and transport routes.",
+      "operational_impact": "Potential disruptions to air and ground transportation, increased security measures, and possible delays in cargo shipments due to protests and unrest.",
+      "proximity_alert": "YAKIN TEHDİT: Aden Adde International Airport (5 km)"
     }
   }
 ]
