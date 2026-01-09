@@ -1,43 +1,5 @@
 [
   {
-    "id": "382b3f4fbfbc9f7acdd0ed11b17098bc",
-    "timestamp": "2026-01-09T18:41:43.355770",
-    "original_title": "Malaysia Airlines A350 Returns to Paris After Guidance System Issue - AirGuide Business",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOM0VJNTJJMGxFeUVtQklOeU9rSHpfZGZ0ZXl3eG9KYTBJMTk3X0tIQlBxWVpBMEh2R0lYUkUwV0dTVkxHZ0pEMjl5Ny1tVGZFd1FOX3RZUFY4bHF6UWt0Y1R4WEFjVmlBZWpCR0FUV1ZIbldOVU1HUzJLRElfWGhfYnN4RQ?oc=5",
-    "source_name": "Live Flight Emergencies (Squawk)",
-    "ai_analysis": {
-      "category": "Aviation",
-      "risk_score": 10,
-      "location": "Paris, France",
-      "latitude": 48.8567,
-      "longitude": 2.3508,
-      "detailed_analysis": "A Malaysia Airlines A350 experienced a guidance system issue, prompting a return to Paris. The incident highlights potential technical vulnerabilities in aviation systems.",
-      "immediate_forecast_24h": "The affected flight will likely undergo maintenance and inspection to resolve the guidance system issue, potentially causing delays in the airline's schedule.",
-      "strategic_outlook": "The incident may lead to increased scrutiny of aircraft maintenance and safety protocols, potentially resulting in improved safety standards for the aviation industry.",
-      "operational_impact": "The return of the flight to Paris may cause disruptions to passenger travel plans and potentially impact cargo transport, depending on the flight's cargo manifest.",
-      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (2 km)"
-    }
-  },
-  {
-    "id": "c073b14e057fba5f17e678463a026cf8",
-    "timestamp": "2026-01-09T18:41:47.856127",
-    "original_title": "International Airlines Cancel Flights To Iran As Country-Wide Protests Threaten Major Unrest",
-    "link": "https://www.paddleyourownkanoo.com/2026/01/09/international-airlines-cancel-flights-to-iran-as-country-wide-protests-threaten-major-unrest/",
-    "source_name": "Paddle Your Own Kanoo",
-    "ai_analysis": {
-      "category": "Civil Unrest/Aviation",
-      "risk_score": 10,
-      "location": "Tehran, Iran",
-      "latitude": 35.6892,
-      "longitude": 51.389,
-      "detailed_analysis": "Country-wide protests in Iran are threatening major unrest, prompting international airlines to cancel flights to and from the country, indicating a significant disruption to aviation operations and potential risks to personnel and assets.",
-      "immediate_forecast_24h": "Protests are expected to continue, potentially escalating and affecting airport operations, with a high likelihood of further flight cancellations and disruptions to air travel.",
-      "strategic_outlook": "The situation may lead to a prolonged period of instability, affecting not only aviation but also the broader logistics and supply chain in the region, with potential long-term implications for trade and commerce.",
-      "operational_impact": "The cancellation of flights and potential for further unrest will significantly impact transport and logistics in the region, with potential delays and disruptions to cargo shipments and the movement of personnel.",
-      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
-    }
-  },
-  {
     "id": "463db759ba2a3a73d811907dacb41a0d",
     "timestamp": "2026-01-09T19:25:34.592668",
     "original_title": "Russia uses its new hypersonic missile in major attack on Ukraine and warning to the West - PBS",
@@ -91,6 +53,82 @@
       "immediate_forecast_24h": "The medical evacuation is expected to be completed within the next 24 hours, with NASA working to ensure the safe transportation of the affected individual to a medical facility.",
       "strategic_outlook": "This event highlights the importance of emergency preparedness and response planning in space exploration, and may lead to reviews of current protocols and procedures for medical emergencies in space.",
       "operational_impact": "The medical evacuation may cause disruptions to the normal operations of the International Space Station, potentially impacting ongoing research and experiments, as well as the schedules of upcoming spaceflights.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "68271413e356d42c94e31781a3a76aee",
+    "timestamp": "2026-01-09T20:32:19.147423",
+    "original_title": "Toronto transatlantic flight makes emergency landing in Scotland - blogTO",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZFc3cUdjZElvWXZKbXBpdDNhLXgybzVYY2Fzdm0tQ1l5aGszVk9McndNNllERFlSN05MTkE0VS1US3hqck5aMWtOUTZzZHMtb1Zid0hqeTJyN2d6bTgySHRMSkpfQ0NMeldiMHFyNkFOR3ItXy1mU1I2R25zaW03czRnbkVzZ2JrRlJIY3k1blJ6X1k2blhLNTN3?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 6,
+      "location": "Scotland",
+      "latitude": 57.0,
+      "longitude": -4.0,
+      "detailed_analysis": "A Toronto transatlantic flight made an emergency landing in Scotland, the cause of which is not specified in the report. This incident could pose a risk to aviation safety and security.",
+      "immediate_forecast_24h": "Investigations into the cause of the emergency landing will likely be conducted, and any necessary measures will be taken to ensure the safety of passengers and crew.",
+      "strategic_outlook": "The incident may lead to increased scrutiny of aviation safety protocols and emergency procedures, potentially resulting in improved safety measures for transatlantic flights.",
+      "operational_impact": "The emergency landing may cause disruptions to flight schedules and passenger travel plans, with potential knock-on effects for logistics and cargo transport.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "8ea5d3a1163c4e5df31e0961ad7292c3",
+    "timestamp": "2026-01-09T20:32:22.161494",
+    "original_title": "Iran supreme leader signals upcoming crackdown on protesters 'ruining their own streets' for Trump",
+    "link": "https://www.reddit.com/r/worldnews/comments/1q8jevn/iran_supreme_leader_signals_upcoming_crackdown_on/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Iran's supreme leader has signaled an upcoming crackdown on protesters, which may lead to increased unrest and potential violence in the streets. This could impact personnel and assets in the region, particularly those associated with the US or other Western countries.",
+      "immediate_forecast_24h": "Increased security presence and potential clashes between protesters and authorities, with a high likelihood of disruptions to daily life and business operations.",
+      "strategic_outlook": "The situation may escalate into a full-blown crisis, with potential long-term implications for regional stability and global relations. This could lead to increased tensions and conflict, affecting aviation, cargo, and personnel in the region.",
+      "operational_impact": "Potential disruptions to transport and logistics, particularly for companies with operations or personnel in Iran. Aviation may also be impacted, with possible flight restrictions or cancellations.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "e248314300e3b988344d698ed4f8f04c",
+    "timestamp": "2026-01-09T20:32:25.049366",
+    "original_title": "Capturing Maduro, A Grab for Greenland, Iran Unrest",
+    "link": "https://www.france24.com/en/tv-shows/the-world-this-week/20260109-capturing-maduro-a-grab-for-greenland-iran-unrest",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Caracas, Venezuela",
+      "latitude": 10.488,
+      "longitude": -66.879,
+      "detailed_analysis": "The capture of Nicolas Maduro by U.S. forces in a swift operation may lead to civil unrest and potential instability in Venezuela, affecting aviation, cargo, and personnel safety in the region.",
+      "immediate_forecast_24h": "Increased tensions and potential protests in Caracas and other major cities in Venezuela, with possible disruptions to air travel and logistics.",
+      "strategic_outlook": "Long-term implications for regional stability, potential power vacuum, and impact on global relations, particularly with the U.S. and other nations involved in the operation.",
+      "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics in Venezuela, with possible spillover effects to neighboring countries and global supply chains.",
+      "proximity_alert": "YAKIN TEHDİT: Maiquetía \"Simón Bolívar\" International Airport (4 km)"
+    }
+  },
+  {
+    "id": "056d548636b9b7c4120b1da42ef8c558",
+    "timestamp": "2026-01-09T20:32:27.008643",
+    "original_title": "Iranian regime's 'iron fist': Internet blackout as protests swell to hundreds of thousands",
+    "link": "https://www.france24.com/en/iranian-regime-s-iron-fist-internet-blackout-as-protests-swell-to-hundreds-of-thousands",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 7,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Protests in Iran have spread nationwide to over 170 locations, with increasing discontent over the economy and anti-regime statements. The Iranian regime's response, including an internet blackout, indicates a high level of tension and potential for further unrest.",
+      "immediate_forecast_24h": "Protests are likely to continue, with the potential for increased violence and disruption to transportation and logistics. The internet blackout may limit the ability to monitor and respond to the situation.",
+      "strategic_outlook": "The current unrest has the potential to escalate into a full-blown crisis, with implications for regional stability and global trade. The Iranian regime's response will be critical in determining the outcome.",
+      "operational_impact": "The protests and internet blackout may disrupt air travel, cargo transport, and logistics operations in and out of Iran. Personnel and assets in the region should be prepared for potential disruptions and take necessary precautions to ensure safety.",
       "proximity_alert": null
     }
   }
