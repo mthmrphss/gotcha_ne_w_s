@@ -1,21 +1,40 @@
 [
   {
-    "id": "7ede3626d45cacaf3d74cd23aad4841a",
-    "timestamp": "2026-01-09T17:29:10.481513",
-    "original_title": "Investigation underway, 1 dead after crash into lake in TN - WSMV",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWWpPeUE2ZHVRRmpHZXF1dTdaVzB6ekFicjQyQ1pDb3dVNWZlT0ZER21DQkpMRWd3dDlPYVBXOXpXM1QxdXRmTGdJS0pfTkZ2RmdQNmplcHBhZ1R0Rks3VEhIQzNhMmhFMGdtNTNxeDZBNGZrMU91VFdhaEI1SFZWeE5sVUdYSXUtYXE1cTV6ZVo?oc=5",
-    "source_name": "Google News (Breaking)",
+    "id": "382b3f4fbfbc9f7acdd0ed11b17098bc",
+    "timestamp": "2026-01-09T18:41:43.355770",
+    "original_title": "Malaysia Airlines A350 Returns to Paris After Guidance System Issue - AirGuide Business",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOM0VJNTJJMGxFeUVtQklOeU9rSHpfZGZ0ZXl3eG9KYTBJMTk3X0tIQlBxWVpBMEh2R0lYUkUwV0dTVkxHZ0pEMjl5Ny1tVGZFd1FOX3RZUFY4bHF6UWt0Y1R4WEFjVmlBZWpCR0FUV1ZIbldOVU1HUzJLRElfWGhfYnN4RQ?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
     "ai_analysis": {
       "category": "Aviation",
-      "risk_score": 6,
-      "location": "Tennessee, USA",
-      "latitude": 35.5175,
-      "longitude": -86.9475,
-      "detailed_analysis": "A crash into a lake in Tennessee has resulted in one fatality, with an investigation currently underway. The circumstances surrounding the crash are not yet clear, but it has the potential to impact aviation safety and security in the region.",
-      "immediate_forecast_24h": "The investigation is expected to continue, with potential findings and updates on the cause of the crash. There may be increased surveillance and security measures in place at nearby airports and aviation facilities.",
-      "strategic_outlook": "The long-term impact of this incident will depend on the findings of the investigation. If the crash is determined to be the result of a security breach or other malicious activity, it could lead to increased security measures and protocols being implemented in the aviation industry.",
-      "operational_impact": "The crash may cause disruptions to local aviation operations, particularly if the investigation requires the closure of nearby airspace or airports. However, the overall impact on transport and logistics is expected to be minimal.",
-      "proximity_alert": null
+      "risk_score": 10,
+      "location": "Paris, France",
+      "latitude": 48.8567,
+      "longitude": 2.3508,
+      "detailed_analysis": "A Malaysia Airlines A350 experienced a guidance system issue, prompting a return to Paris. The incident highlights potential technical vulnerabilities in aviation systems.",
+      "immediate_forecast_24h": "The affected flight will likely undergo maintenance and inspection to resolve the guidance system issue, potentially causing delays in the airline's schedule.",
+      "strategic_outlook": "The incident may lead to increased scrutiny of aircraft maintenance and safety protocols, potentially resulting in improved safety standards for the aviation industry.",
+      "operational_impact": "The return of the flight to Paris may cause disruptions to passenger travel plans and potentially impact cargo transport, depending on the flight's cargo manifest.",
+      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (2 km)"
+    }
+  },
+  {
+    "id": "c073b14e057fba5f17e678463a026cf8",
+    "timestamp": "2026-01-09T18:41:47.856127",
+    "original_title": "International Airlines Cancel Flights To Iran As Country-Wide Protests Threaten Major Unrest",
+    "link": "https://www.paddleyourownkanoo.com/2026/01/09/international-airlines-cancel-flights-to-iran-as-country-wide-protests-threaten-major-unrest/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Civil Unrest/Aviation",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Country-wide protests in Iran are threatening major unrest, prompting international airlines to cancel flights to and from the country, indicating a significant disruption to aviation operations and potential risks to personnel and assets.",
+      "immediate_forecast_24h": "Protests are expected to continue, potentially escalating and affecting airport operations, with a high likelihood of further flight cancellations and disruptions to air travel.",
+      "strategic_outlook": "The situation may lead to a prolonged period of instability, affecting not only aviation but also the broader logistics and supply chain in the region, with potential long-term implications for trade and commerce.",
+      "operational_impact": "The cancellation of flights and potential for further unrest will significantly impact transport and logistics in the region, with potential delays and disruptions to cargo shipments and the movement of personnel.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
     }
   }
 ]
