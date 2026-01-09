@@ -1,24 +1,5 @@
 [
   {
-    "id": "91673db0acbfb7a15e3fc14700978e64",
-    "timestamp": "2026-01-09T21:46:42.947183",
-    "original_title": "Trump: ‘We are going to do something on Greenland whether they like it or not’",
-    "link": "https://www.reddit.com/r/worldnews/comments/1q8l3rw/trump_we_are_going_to_do_something_on_greenland/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict/Other",
-      "risk_score": 6,
-      "location": "Greenland, Denmark",
-      "latitude": 64.5167,
-      "longitude": -51.7167,
-      "detailed_analysis": "The statement by Trump regarding taking action on Greenland 'whether they like it or not' could lead to increased tensions between the US and Denmark, potentially affecting aviation and cargo operations in the region.",
-      "immediate_forecast_24h": "Heightened diplomatic tensions and potential for increased military presence in the region, which may impact air traffic and cargo shipments.",
-      "strategic_outlook": "Long-term implications could include strained relationships between the US and NATO allies, potentially affecting global security and trade agreements.",
-      "operational_impact": "Possible disruptions to air traffic and cargo operations in the North Atlantic region, with potential for increased security measures and delays.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "757140f4a7cd9c31fcf2739b91269610",
     "timestamp": "2026-01-09T22:28:20.970473",
     "original_title": "Inman city officials confirm cyber attack - FOX Carolina",
@@ -73,6 +54,25 @@
       "strategic_outlook": "The long-term outlook for general aviation safety may be impacted by this incident, with potential reviews of safety procedures and regulations. This could lead to changes in operational practices for small plane operators and potentially affect the efficiency of logistics that rely on general aviation.",
       "operational_impact": "The immediate operational impact is expected to be minimal, given the nature of the incident involving a small plane. However, the incident may lead to increased scrutiny of general aviation safety, potentially resulting in more stringent regulations or safety protocols that could impact the efficiency of logistics operations that rely on small planes.",
       "proximity_alert": null
+    }
+  },
+  {
+    "id": "b7021aa06f85401574a5c340280b5691",
+    "timestamp": "2026-01-09T23:27:25.714915",
+    "original_title": "Reuters on U.S. response to ongoing protests in Iran",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1q8nk0m/reuters_on_us_response_to_ongoing_protests_in_iran/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Ongoing protests in Iran may lead to instability and potential disruptions to aviation and logistics operations. The U.S. response to the situation may exacerbate tensions, increasing the risk of conflict.",
+      "immediate_forecast_24h": "Protests are likely to continue, with potential for increased violence and disruptions to transport infrastructure. Aviation operations may be impacted by airspace restrictions or airport closures.",
+      "strategic_outlook": "The situation in Iran has the potential to escalate into a larger conflict, which could have significant implications for global trade and logistics. Ongoing monitoring of the situation is necessary to assess the evolving risk landscape.",
+      "operational_impact": "Potential disruptions to air cargo and passenger flights, as well as overland transport operations. Shipping lines and logistics providers should be prepared for possible delays or route changes.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
     }
   }
 ]
