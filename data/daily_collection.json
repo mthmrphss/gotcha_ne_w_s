@@ -1005,5 +1005,43 @@
       "operational_impact": "Potential disruption to air traffic, increased security screening for cargo and personnel, and heightened vigilance for potential spillover effects into neighboring countries.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "1471eb2c2e40a8c334babe9c5e21a6a3",
+    "timestamp": "2026-01-09T12:59:53.407687",
+    "original_title": "Iran’s Supreme Leader Vows to ‘Not Back Down’ as Protests Swell",
+    "link": "https://www.nytimes.com/2026/01/09/world/middleeast/iran-protests-ayatollah-khamenei.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Protests in Iran pose a threat to aviation and cargo operations due to potential disruptions and instability in the region. Ayatollah Ali Khamenei's vow to 'not back down' may escalate tensions, affecting transport and logistics.",
+      "immediate_forecast_24h": "Increased protests and potential clashes between protesters and security forces, possibly affecting airport and cargo operations.",
+      "strategic_outlook": "Long-term instability in Iran may impact regional trade and aviation, with potential for increased security measures and disruptions to cargo and personnel movement.",
+      "operational_impact": "Potential delays or cancellations of flights, increased security checks, and disruptions to cargo handling and logistics operations in Iran and surrounding regions.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "34210ca242b71cc3cc67364b127cb81e",
+    "timestamp": "2026-01-09T12:59:55.381655",
+    "original_title": "Live Updates: Trump Says More U.S. Attacks on Venezuela ‘Will Not Be Needed’",
+    "link": "https://www.nytimes.com/live/2026/01/09/world/venezuela-trump-us",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Caracas, Venezuela",
+      "latitude": 10.488,
+      "longitude": -66.879,
+      "detailed_analysis": "The situation in Venezuela appears to be stabilizing following the capture of President Nicolás Maduro and the release of political prisoners, indicating a potential decrease in tensions and conflict.",
+      "immediate_forecast_24h": "Further releases of political prisoners and potential negotiations between the U.S. and Venezuela's new leaders, leading to a temporary reduction in conflict.",
+      "strategic_outlook": "Long-term stability in Venezuela is uncertain and depends on the actions of the new leadership and the international community, potentially leading to continued unrest or gradual normalization.",
+      "operational_impact": "Transport and logistics operations in Venezuela may experience reduced disruptions due to the easing of tensions, but caution is still advised due to the unpredictable nature of the situation.",
+      "proximity_alert": "YAKIN TEHDİT: Maiquetía \"Simón Bolívar\" International Airport (4 km)"
+    }
   }
 ]
