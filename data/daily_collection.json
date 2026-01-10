@@ -93,5 +93,43 @@
       "operational_impact": "Potential disruptions to air travel and cargo transport in the region, with possible rerouting of flights and increased security measures.",
       "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
     }
+  },
+  {
+    "id": "1038b1559529560c8f09ac513aa3e4be",
+    "timestamp": "2026-01-10T21:42:24.242835",
+    "original_title": "U.S., Partner Forces Strike ISIS Targets in Syria > U.S. Central Command > Press Release View - centcom.mil",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNY2p0ZGJOaUFSTlM3a095MDczOXM0aWlkazk4WThMZThoN2pweTc4VUdZdHB5RHZ4aXRFbF80V3N6ZVJqcW5TWmFaMG5ZTUE0MDVZRHBmaDMxSUcwOUFCTnVfYVplRVRtR2NuSXR2UUpUNnhwM1JMSV83WHJyZ1pxbTcxWVE4Yld0NUNiR2U2cTdNODFGcmwycW0tWWkySERicUZkenF0WklhZFRaRUtMdDVYWEthalcybDJWQnQ3OFkxN0d0MWc?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "Syria",
+      "latitude": 35.0,
+      "longitude": 38.0,
+      "detailed_analysis": "U.S. and partner forces have conducted strikes against ISIS targets in Syria, indicating ongoing conflict and potential for aviation-related threats or disruptions to logistics and transport in the region.",
+      "immediate_forecast_24h": "Increased military activity and potential for retaliatory actions from ISIS or its affiliates, posing a threat to aviation and ground transport in the region.",
+      "strategic_outlook": "Long-term instability in Syria due to ongoing conflict, potentially leading to sustained threats against assets, cargo, aviation, and personnel in the region.",
+      "operational_impact": "Potential disruptions to air transport, logistics, and supply chains in the region due to military activity and conflict, with possible spillover effects into neighboring countries.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "bff3621a4a80a6161b17e0da3113f396",
+    "timestamp": "2026-01-10T21:44:30.294174",
+    "original_title": "Maduro supporters rally as Trump signs order protecting US-held revenue from Venezuelan oil",
+    "link": "https://www.france24.com/en/americas/20260110-maduro-supporters-rally-as-trump-signs-order-protecting-us-held-revenue-from-venezuelan-oil",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Caracas, Venezuela",
+      "latitude": 10.488,
+      "longitude": -66.879,
+      "detailed_analysis": "Protests by Maduro supporters in Caracas could lead to civil unrest and potential disruptions to transportation and logistics, while the US executive order protecting US-held revenues from Venezuelan oil may escalate tensions between the US and Venezuela.",
+      "immediate_forecast_24h": "Increased protests and demonstrations are expected in the next 24 hours, potentially causing disruptions to traffic and logistics in Caracas.",
+      "strategic_outlook": "The situation may lead to a long-term escalation of tensions between the US and Venezuela, potentially affecting trade and economic relations, as well as the stability of the region.",
+      "operational_impact": "Potential disruptions to transportation and logistics in Caracas, including possible delays or cancellations of flights, and increased security measures at airports and seaports.",
+      "proximity_alert": "YAKIN TEHDİT: Maiquetía \"Simón Bolívar\" International Airport (4 km)"
+    }
   }
 ]
