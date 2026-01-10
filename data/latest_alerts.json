@@ -74,5 +74,43 @@
       "operational_impact": "Potential for flight restrictions, cargo delays, and increased security protocols for personnel and assets in the region, particularly for those involved in aviation and logistics operations.",
       "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
     }
+  },
+  {
+    "id": "79a7a4dc1d675a46536f0057863b5686",
+    "timestamp": "2026-01-10T19:40:45.592333",
+    "original_title": "Ukraine drone strike causes fire at oil depot in Russia's Volgograd region",
+    "link": "https://www.reddit.com/r/worldnews/comments/1q9d9r9/ukraine_drone_strike_causes_fire_at_oil_depot_in/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Volgograd, Russia",
+      "latitude": 48.7,
+      "longitude": 44.5,
+      "detailed_analysis": "A drone strike from Ukraine has caused a fire at an oil depot in Russia's Volgograd region, indicating an escalation of conflict and potential disruption to regional logistics and energy supplies.",
+      "immediate_forecast_24h": "Increased tensions between Ukraine and Russia, potential for retaliatory actions, and heightened security measures in the region.",
+      "strategic_outlook": "Long-term implications for regional stability, potential for expanded conflict, and impact on global energy markets.",
+      "operational_impact": "Potential disruptions to oil supplies, increased security protocols for aviation and logistics in the region, and heightened vigilance for similar drone strikes.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "2b54b3e5025adc9c34c94c192ce2e266",
+    "timestamp": "2026-01-10T19:41:18.342353",
+    "original_title": "United Nations says more than 50 Congolese refugees have died in Burundi",
+    "link": "http://www.africanews.com/2026/01/10/united-nations-says-more-than-50-congolese-refugees-have-died-in-burundi/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest/Border",
+      "risk_score": 6,
+      "location": "Burundi",
+      "latitude": -3.367,
+      "longitude": 29.917,
+      "detailed_analysis": "The situation in Burundi with over 50 Congolese refugees dying and more than 100,000 seeking refuge due to fighting between the Congolese army and M23 rebels poses a significant threat to regional stability and potentially to aviation and cargo operations in the area.",
+      "immediate_forecast_24h": "The conflict may escalate, leading to increased refugee movements and potential border breaches, affecting transport and logistics in the region.",
+      "strategic_outlook": "Long-term, the conflict could lead to a humanitarian crisis, impacting the stability of the region and potentially affecting aviation and cargo operations for an extended period.",
+      "operational_impact": "The conflict may lead to disruptions in transport and logistics, particularly for cargo and aviation, due to increased security measures, potential border closures, or direct attacks on infrastructure.",
+      "proximity_alert": null
+    }
   }
 ]
