@@ -321,5 +321,81 @@
       "operational_impact": "Transport and logistics operations in Venezuela may be disrupted due to the unstable security situation, with potential for delays or cancellations of flights and cargo shipments.",
       "proximity_alert": "YAKIN TEHDİT: Maiquetía \"Simón Bolívar\" International Airport (4 km)"
     }
+  },
+  {
+    "id": "b64301e9fc613954b9bffd5aa79b34f5",
+    "timestamp": "2026-01-10T06:39:41.852434",
+    "original_title": "Cause of plane crash unknown, says AAIB - AOL.com",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OcjFMR0tMOEJ4bHY0RTBMVGttWXY1T2lzUDNBeGhuMWxoY3dTcFlac05Xb3ZBNnVGelYydEFPVVdvTUY4d1pWNFNnRjBwbG1tcnNOYTl4NmVzaWNwVWt5YzNzbkl3Njh0NlVzM0UtemQtMzRNSngzMXB0UG5RNFk?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 8,
+      "location": "Unknown",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "A plane crash has occurred with the cause currently unknown, as stated by the AAIB. This incident poses a significant threat to aviation safety and security.",
+      "immediate_forecast_24h": "Investigations into the crash are likely to be ongoing, with potential disruptions to flight operations and increased security measures in the short term.",
+      "strategic_outlook": "The incident may lead to a review of aviation safety protocols and regulations, potentially resulting in changes to security procedures and measures to prevent similar incidents in the future.",
+      "operational_impact": "The crash may impact flight schedules, passenger confidence, and overall aviation operations, with potential ripple effects on logistics and cargo transport.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "2210c40f0056aa84a07d678d2aae34f4",
+    "timestamp": "2026-01-10T06:39:45.656837",
+    "original_title": "TRT World - Ukrainian strike leaves half a million without heat and power in Russia's Belgorod",
+    "link": "https://www.reddit.com/r/worldnews/comments/1q8wo61/trt_world_ukrainian_strike_leaves_half_a_million/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Belgorod, Russia",
+      "latitude": 50.6,
+      "longitude": 36.6,
+      "detailed_analysis": "A Ukrainian strike has caused significant disruption to essential services in Belgorod, Russia, leaving half a million people without heat and power. This event has the potential to escalate the conflict and impact the region's stability.",
+      "immediate_forecast_24h": "Increased tensions between Ukraine and Russia, potential for retaliatory strikes, and further disruptions to critical infrastructure.",
+      "strategic_outlook": "Long-term implications for regional security, potential for prolonged conflict, and impact on global geopolitical dynamics.",
+      "operational_impact": "Disruptions to transport and logistics in the region, potential for increased security measures, and impact on supply chains.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "0dc71b7f8113b75e295cda911e81dbe2",
+    "timestamp": "2026-01-10T06:39:48.348456",
+    "original_title": "Syrian army resumes operation in Aleppo’s Kurdish district after ceasefire collapses",
+    "link": "https://www.france24.com/en/middle-east/20260110-syria-urges-kurdish-fighters-to-surrender-after-ramping-up-aleppo-operation",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Aleppo, Syria",
+      "latitude": 36.201,
+      "longitude": 37.161,
+      "detailed_analysis": "The collapse of the ceasefire between the Syrian army and the Kurdish-led Syrian Democratic Forces (SDF) has led to the resumption of military operations in a Kurdish neighborhood of Aleppo, posing a significant threat to assets, cargo, aviation, and personnel in the region.",
+      "immediate_forecast_24h": "Increased violence and clashes are expected in the short term, potentially disrupting logistics and transport operations in the area.",
+      "strategic_outlook": "The long-term outlook remains uncertain, with the potential for further escalation of the conflict, impacting regional stability and security.",
+      "operational_impact": "The conflict may lead to disruptions in supply chains, increased risk of cargo theft or damage, and potential threats to aviation operations in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Aleppo International Airport (6 km)"
+    }
+  },
+  {
+    "id": "579a27ba6dd6ebff2c069f0105e76aa5",
+    "timestamp": "2026-01-10T06:39:51.008111",
+    "original_title": "Grenada - Level 2: Exercise Increased Caution",
+    "link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/grenada-travel-advisory.html",
+    "source_name": "US State Dept",
+    "ai_analysis": {
+      "category": "Crime",
+      "risk_score": 6,
+      "location": "Grenada",
+      "latitude": 12.1167,
+      "longitude": -61.6667,
+      "detailed_analysis": "Increased risk of violent crime, including armed robbery, assault, burglary, and rape, with American citizens being victims in the past. Police response times are slower than expected.",
+      "immediate_forecast_24h": "Continued elevated risk of crime, particularly at night, with potential for armed robbery and assault.",
+      "strategic_outlook": "Long-term risk of crime remains high, with potential for increased violence and impact on tourism and business operations.",
+      "operational_impact": "Transport and logistics operations may be impacted by increased crime risk, particularly for personnel and cargo. Additional security measures and precautions are recommended.",
+      "proximity_alert": null
+    }
   }
 ]
