@@ -17,5 +17,62 @@
       "operational_impact": "The incident and subsequent investigations may cause disruptions in the Bondi area, affecting local businesses and transport. On a broader scale, it could lead to increased security checks and measures at public events and sensitive locations, potentially impacting logistics and transport operations, especially those related to high-risk or symbolic targets.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "a316251b01de722c840b1e1c968ea491",
+    "timestamp": "2026-01-10T04:38:26.784991",
+    "original_title": "Blood drive honors victims of Bourbon Street terror attack in New Orleans - WWLTV.com",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbGxDMXIwaFZLVGVMcFJraWJ3cTdWNzhQYi1TRjl5RXBtLXRlcDNmUUhuYmdKMUVla3ExbjhweUNob2lBbHVNY25WYnB6YXB4NlZudVFKRFJxYXI0ZGsxaHdlNTJZNXZkOWUxVmFfR1dsdzNPTHlnbmJCbzU1MXFDZUV6Y0pYcmg5cnFtSkVXVHBLcTgzWElGTXM0M3p3TDhEUVFGXzVNZ3FhMnVkclg3eVhrOVhCaHlWcHF1YThhSGk2aEQxWkxBUVFJWTJpX0sydFNDNmZrWkFOVFFtR0lFWU5TbDMzbjh2?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism/Civil Unrest",
+      "risk_score": 6,
+      "location": "New Orleans, USA",
+      "latitude": 29.9511,
+      "longitude": -90.0715,
+      "detailed_analysis": "A blood drive is being held to honor victims of a terror attack on Bourbon Street in New Orleans, indicating a past incident with potential for future unrest or copycat attacks.",
+      "immediate_forecast_24h": "No immediate threats are reported, but the area may see increased security presence and potential for protests or vigils.",
+      "strategic_outlook": "The long-term impact of the terror attack may lead to increased security measures in public areas and potential changes in crowd control policies.",
+      "operational_impact": "Transportation and logistics in the area may be affected by increased security checks and potential road closures, but no direct impact on cargo or aviation is reported at this time.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "f8e038d76f3381cabf73d983dd5d84f6",
+    "timestamp": "2026-01-10T04:38:33.733993",
+    "original_title": "Syrian army renews strikes on Kurdish forces in Aleppo: The military launched strikes after Kurdish forces rejected what they called demands to \"surrender.\" The Syrian government has been struggling to unite disparate groups since taking power a year ago",
+    "link": "https://www.reddit.com/r/worldnews/comments/1q8uefd/syrian_army_renews_strikes_on_kurdish_forces_in/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Aleppo, Syria",
+      "latitude": 36.201,
+      "longitude": 37.161,
+      "detailed_analysis": "The Syrian army has renewed strikes on Kurdish forces in Aleppo after they rejected demands to surrender, indicating an escalation of conflict in the region. This could lead to increased instability and potential disruptions to transport and logistics.",
+      "immediate_forecast_24h": "The situation is likely to remain volatile, with potential for further clashes between the Syrian army and Kurdish forces. This could lead to disruptions to transport and logistics in the region.",
+      "strategic_outlook": "The long-term outlook for the region remains uncertain, with the potential for ongoing conflict and instability. This could have significant implications for transport and logistics, including potential disruptions to supply chains and increased security risks.",
+      "operational_impact": "The conflict in Aleppo could impact transport and logistics operations in the region, including potential disruptions to supply chains, increased security risks, and potential for damage to infrastructure.",
+      "proximity_alert": "YAKIN TEHDİT: Aleppo International Airport (6 km)"
+    }
+  },
+  {
+    "id": "a4e5a891ea74128a30876ca19f402e0c",
+    "timestamp": "2026-01-10T04:38:35.696937",
+    "original_title": "Starmer, Macron and Merz condemn Oreshnik missile strike on Lviv — Russia accused of faking pretext",
+    "link": "https://www.reddit.com/r/worldnews/comments/1q8u9hy/starmer_macron_and_merz_condemn_oreshnik_missile/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Lviv, Ukraine",
+      "latitude": 49.84,
+      "longitude": 24.02,
+      "detailed_analysis": "A missile strike on Lviv by Russia has been condemned by international leaders, indicating a significant escalation in the conflict. The strike poses a direct threat to aviation, cargo, and personnel in the region.",
+      "immediate_forecast_24h": "Increased tensions and potential for further military action in the region, posing a high risk to aviation and logistics operations.",
+      "strategic_outlook": "Long-term instability and conflict in the region could lead to sustained disruptions to transport and logistics, with potential for further escalation and spread to neighboring areas.",
+      "operational_impact": "Immediate disruption to air travel and cargo operations in the region, with potential for long-term impacts on supply chains and logistics operations.",
+      "proximity_alert": "YAKIN TEHDİT: Lviv Danylo Halytskyi International Airport (5 km)"
+    }
   }
 ]
