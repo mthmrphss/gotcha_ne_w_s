@@ -1,43 +1,5 @@
 [
   {
-    "id": "a7a974e627d44abfa4533a2e70baeeff",
-    "timestamp": "2026-01-10T21:24:30.680897",
-    "original_title": "US military says it carried out strikes across Syria targeting Islamic State - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNN2E5MFN1TTREVFVMQm5ZRU8tc2hCX3hqV3hhMXNWRWFhY1ZDVVE5cEJ3cGZXajkxQmxxaUMzWmg2LTBGbmE2OENaZGU4Vm9NcHM4V0N1OERtY0RSWVA2aUdTYkdpWEhER1lSLVpSSHVHZk84VENENlh4TXJERnJ4dkJVS2RlMGxjcEFQTEdTbUZuUlgzbW15UzFoX0xHbE0zdFNmZTdzUFMyYXc0cElLcnExYmlMcTY2SlBhd2diVUxjT1dHZTdMOGln?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Conflict/Terrorism/Aviation",
-      "risk_score": 8,
-      "location": "Syria",
-      "latitude": 35.0,
-      "longitude": 38.0,
-      "detailed_analysis": "The US military has carried out strikes across Syria targeting the Islamic State, indicating a heightened level of conflict and terrorism in the region, which could impact aviation and logistics operations.",
-      "immediate_forecast_24h": "Increased military activity and potential retaliation from Islamic State could lead to elevated tensions and instability in the region over the next 24 hours.",
-      "strategic_outlook": "The long-term outlook suggests continued instability and conflict in Syria, posing ongoing risks to aviation, logistics, and personnel in the region.",
-      "operational_impact": "The strikes and potential retaliation could impact air traffic, logistics operations, and personnel safety in Syria and surrounding areas, necessitating heightened security measures and contingency planning.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "180a46beb2f6fdfd2b2e6236b0bfb150",
-    "timestamp": "2026-01-10T21:24:32.526084",
-    "original_title": "Iran at a Crossroads: Protests, Repression, and the Risk of U.S. Military Escalation - Quincy Institute for Responsible Statecraft",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaDhVTGxCbk12OXBUWjZwdlFWRExPOGc5dHFiclJ0bzFnZVhXM3JkVzdwR3hBV3BXN2lSRkhwSXNna0d5M1JkR282ZlpIMzM1eVkwVDYzalJsZkI5ZlZYM05KYnFaRFR3bGlyQ2VuLUxmUDJuWUpodmcxd0JXVDVzY21LUWJfcWVxWm40dUtlaVlCdkpuN0RyUzY5S0dWSU13d3Y4a3JsUll0V0kxWF9HUw?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Civil Unrest/Conflict",
-      "risk_score": 10,
-      "location": "Tehran, Iran",
-      "latitude": 35.6892,
-      "longitude": 51.389,
-      "detailed_analysis": "Protests and repression in Iran pose a risk of U.S. military escalation, potentially affecting aviation and logistics in the region.",
-      "immediate_forecast_24h": "Increased tensions and potential for further protests, with a low likelihood of immediate military action.",
-      "strategic_outlook": "Long-term instability in Iran could lead to increased conflict, affecting regional aviation and cargo transport.",
-      "operational_impact": "Potential disruptions to air travel and cargo transport in the region, with possible rerouting of flights and increased security measures.",
-      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
-    }
-  },
-  {
     "id": "1038b1559529560c8f09ac513aa3e4be",
     "timestamp": "2026-01-10T21:42:24.242835",
     "original_title": "U.S., Partner Forces Strike ISIS Targets in Syria > U.S. Central Command > Press Release View - centcom.mil",
@@ -130,6 +92,25 @@
       "strategic_outlook": "Long-term instability in Iran could impact regional security and trade, affecting aviation and cargo operations in the Middle East.",
       "operational_impact": "Potential delays or cancellations of flights, increased security measures at airports, and possible disruptions to cargo transport and logistics in the region.",
       "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "b34e6440ea41172a915319dfc44e9668",
+    "timestamp": "2026-01-10T22:46:00.821843",
+    "original_title": "US and allies strike Islamic State in Syria after attack that killed three Americans - The Guardian",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLVdQcEgzaXdaWTZmQktkbnJhNFJ3QS1SRDZxQkZLM3hhaWlSdDdVSW9aTUJpSkxvanBXZTA2eTJXQkhpc2ZCV0dOaERtMTJlc0F5bmNwY3I2RWNXM0d3RDB0RlNvbml6VUZuSkRFdzVUejJ0ckFWLW5rMXNWTXBqSUhDYlNuRlBKV0FDSUxPbFlvUE4zR3JhN1N0cEctLVllUlAwV253ZXpyTlR5OUFrc1l6Tll6cVd4OWNjZkxmeXE1bHhwdXFxTE1R?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict",
+      "risk_score": 8,
+      "location": "Syria",
+      "latitude": 35.0,
+      "longitude": 38.0,
+      "detailed_analysis": "US and allies have launched a strike against Islamic State in Syria following an attack that killed three Americans, indicating a heightened state of conflict and potential for retaliatory actions",
+      "immediate_forecast_24h": "Increased military activity and potential for further clashes between US-led coalition and Islamic State in Syria, posing a threat to aviation and personnel in the region",
+      "strategic_outlook": "Long-term instability in the region, with potential for ongoing conflict and terrorism, affecting transport and logistics operations",
+      "operational_impact": "Potential disruption to air transport and logistics in the region, with increased risk to personnel and assets, requiring enhanced security measures and contingency planning",
+      "proximity_alert": null
     }
   }
 ]
