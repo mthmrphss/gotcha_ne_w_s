@@ -910,5 +910,43 @@
       "operational_impact": "Potential delays or disruptions to cargo shipments, increased security checks for aviation and logistics operations, and heightened risk of further attacks on critical infrastructure.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "57a74bb24a44cfb643523442245749ed",
+    "timestamp": "2026-01-10T15:26:51.974435",
+    "original_title": "Doctor Says More Than 200 Reported Dead in Tehran Protests",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1q93jtf/doctor_says_more_than_200_reported_dead_in_tehran/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Reports of over 200 deaths in Tehran protests indicate a high level of unrest and potential for further violence, which could impact aviation, cargo, and personnel safety in the region.",
+      "immediate_forecast_24h": "Increased security measures and potential for further clashes between protesters and authorities, potentially disrupting air travel and logistics operations.",
+      "strategic_outlook": "Prolonged unrest could lead to long-term instability in the region, affecting trade and transport routes, as well as the safety of personnel and assets.",
+      "operational_impact": "Potential disruptions to flights, cargo transport, and logistics operations in and around Tehran, with possible spillover effects to neighboring regions and global supply chains.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "523a29861fa212de696d316f17dcbaf6",
+    "timestamp": "2026-01-10T15:27:17.982072",
+    "original_title": "Cuba on edge after US captures Venezuela's Maduro",
+    "link": "https://www.france24.com/en/cuba-on-edge-after-us-captures-venezuela-s-maduro",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest/Border",
+      "risk_score": 10,
+      "location": "Havana, Cuba",
+      "latitude": 23.1333,
+      "longitude": -82.3667,
+      "detailed_analysis": "The capture of Venezuela's former President Nicolás Maduro by the US could lead to a halt in Venezuelan oil shipments to Cuba, potentially causing widespread social unrest and mass migration, which may impact the security and operations of assets, cargo, aviation, and personnel in the region.",
+      "immediate_forecast_24h": "Increased tensions and protests are expected in Cuba, with a high likelihood of disruptions to logistics and transportation services, particularly those related to oil and fuel distribution.",
+      "strategic_outlook": "The long-term implications of this event could lead to a significant shift in the regional balance of power, with potential consequences for trade, security, and migration patterns, affecting the stability and operations of assets, cargo, aviation, and personnel in the Caribbean and beyond.",
+      "operational_impact": "Transportation and logistics operations in Cuba and the surrounding region may be severely impacted, with potential disruptions to fuel supplies, increased security measures, and heightened risks of civil unrest and mass migration affecting airports, seaports, and border crossings.",
+      "proximity_alert": "YAKIN TEHDİT: José Martí International Airport (16 km)"
+    }
   }
 ]
