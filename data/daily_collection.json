@@ -986,5 +986,24 @@
       "operational_impact": "Potential disruptions to flights, cargo shipments, and personnel movement, with increased risk of delays, cancellations, or even temporary suspension of services.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "6070c76c32d0ca6e4320c8be3381cc6c",
+    "timestamp": "2026-01-10T17:45:09.838818",
+    "original_title": "Hundreds killed in Iran protests against Ayatollah Khamenei, activists claim",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1q97i5s/hundreds_killed_in_iran_protests_against/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Protests against Ayatollah Khamenei have turned violent, resulting in hundreds of casualties. The situation is volatile and may impact aviation, cargo, and personnel in the region.",
+      "immediate_forecast_24h": "Increased unrest and potential for further violence, with possible disruptions to transportation and logistics.",
+      "strategic_outlook": "Long-term instability in Iran may lead to sustained civil unrest, affecting regional security and trade.",
+      "operational_impact": "Potential disruptions to air travel, cargo transport, and personnel movement in and out of Iran, with possible spillover effects on neighboring countries.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
   }
 ]
