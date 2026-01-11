@@ -1,81 +1,5 @@
 [
   {
-    "id": "c0294aa34bb952e4ba7fd6d100e8997c",
-    "timestamp": "2026-01-11T12:54:53.260318",
-    "original_title": "‘Massacre’ feared as Iran tries to crush protests; U.S. weighs military options - The Washington Post",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBQRWQ1a3R1aUUzQmJpLVNaUU05ZjUyUzlubk9HMW1zaWdnSG1GLW1xMFRrYmRNdFhBakwwbVRRMmRHSWlkV0c0Rl9rQUtFX2FXblVKOFdmeC1yNEV0SnF2QnpLdldHVl9seTVMOHZFTkRKREltc1dzVWF2SWhTQQ?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Conflict/Civil Unrest",
-      "risk_score": 8,
-      "location": "Iran",
-      "latitude": 32.0,
-      "longitude": 53.0,
-      "detailed_analysis": "The situation in Iran is escalating with protests being met with force, leading to fears of a massacre. The U.S. is considering military options, which could further destabilize the region and impact aviation and cargo operations.",
-      "immediate_forecast_24h": "Increased violence and unrest are expected in the short term, potentially disrupting air travel and cargo transport in and out of Iran.",
-      "strategic_outlook": "The long-term implications of this conflict could lead to a prolonged period of instability in the region, affecting trade and transport routes, as well as the safety of personnel and assets.",
-      "operational_impact": "Aviation and cargo operations in Iran may be suspended or severely restricted due to the conflict, and neighboring countries may also be affected, leading to significant operational disruptions and potential losses.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "3712f4c126e8ac64eb10adeb2a761b43",
-    "timestamp": "2026-01-11T12:54:59.659638",
-    "original_title": "Russia first used Geran-5 strike drone in attacks",
-    "link": "https://www.reddit.com/r/worldnews/comments/1q9xkea/russia_first_used_geran5_strike_drone_in_attacks/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict/Aviation",
-      "risk_score": 8,
-      "location": "Ukraine, Eastern Europe",
-      "latitude": 49.0,
-      "longitude": 32.0,
-      "detailed_analysis": "Russia's use of the Geran-5 strike drone in attacks on Ukraine poses a significant threat to aviation and personnel. The drone's capabilities and potential for future deployment could lead to increased risk of strikes and crashes, impacting both military and civilian aviation.",
-      "immediate_forecast_24h": "Increased military activity and potential for further drone deployments in the region, with a high risk of aviation incidents and strikes in the next 24 hours.",
-      "strategic_outlook": "The introduction of the Geran-5 strike drone could escalate the conflict in Ukraine, leading to a long-term increase in risk for aviation and personnel in the region. This could also lead to a wider deployment of similar drones in other conflict zones, posing a global risk to aviation security.",
-      "operational_impact": "The use of the Geran-5 strike drone could lead to disruptions in air traffic, increased security measures at airports, and potential restrictions on cargo and personnel movement in the region.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "a16a1a6853e45c9d4bd989c257547b2b",
-    "timestamp": "2026-01-11T12:55:02.773493",
-    "original_title": "Live: Iran death toll rises as protesters defy crackdown",
-    "link": "https://www.france24.com/en/middle-east/20260111-live-iran-death-toll-rises-as-protesters-defy-crackdown",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Civil Unrest/Conflict",
-      "risk_score": 10,
-      "location": "Tehran, Iran",
-      "latitude": 35.6892,
-      "longitude": 51.389,
-      "detailed_analysis": "Protests in Iran have resulted in a significant death toll and a warning from Iran's parliamentary speaker that the US military and Israel would be 'legitimate targets' if America strikes the country, indicating a heightened state of tension and potential for escalation.",
-      "immediate_forecast_24h": "Continued protests and potential for further violence, with the internet shutdown likely to exacerbate the situation and limit the flow of information.",
-      "strategic_outlook": "Long-term instability in Iran could have significant implications for regional security and global trade, particularly if the situation escalates into a wider conflict.",
-      "operational_impact": "Potential disruption to air travel and logistics in the region, with possible delays or cancellations of flights and increased security measures at airports.",
-      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
-    }
-  },
-  {
-    "id": "ee4b3e57d8861ce8a176eb7a9e40938a",
-    "timestamp": "2026-01-11T12:55:04.557710",
-    "original_title": "Myanmar holds second phase of voting in first election since coup",
-    "link": "https://www.france24.com/en/myanmar-holds-second-phase-of-voting-in-first-election-since-coup",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict/Civil Unrest",
-      "risk_score": 6,
-      "location": "Myanmar",
-      "latitude": 19.7333,
-      "longitude": 95.0667,
-      "detailed_analysis": "The ongoing civil war between the military government and its armed opponents poses a significant threat to the stability of the region, potentially impacting aviation and cargo operations.",
-      "immediate_forecast_24h": "Increased tensions and potential clashes between the military and opposition groups may occur, especially in areas affected by the civil war.",
-      "strategic_outlook": "The election and its aftermath may lead to prolonged instability, affecting the overall security situation in Myanmar and potentially spilling over into neighboring countries.",
-      "operational_impact": "Transport and logistics operations may be disrupted due to the civil unrest, and aviation operations may be affected by potential bomb threats or other security concerns.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "d71c392899667e2a45941c0a5494489a",
     "timestamp": "2026-01-11T13:35:01.509801",
     "original_title": "Colombian singer Yeison Jiménez among six killed in plane crash after tragic final post - The Independent",
@@ -129,6 +53,63 @@
       "immediate_forecast_24h": "Increased tensions between Iran, the US, and Israel may lead to heightened security measures and potential disruptions to air travel and cargo transport in the next 24 hours.",
       "strategic_outlook": "The situation has the potential to escalate into a larger conflict, which could have long-term impacts on global aviation, cargo, and logistics operations, particularly in the Middle East region.",
       "operational_impact": "Potential disruptions to air travel, increased security screening, and possible rerouting of flights or cargo shipments to avoid the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "21ddff7b2e39a6ddcf512670176831a5",
+    "timestamp": "2026-01-11T14:25:47.192558",
+    "original_title": "Confronting protests, Iran vows to strike back if US attacks - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNa0NBendiQi1tb3p6V2dfMG9yS2oyZzZPdTVsWUVqb1lDZTM0eDZ1NEdKcGxoejRaYnBBQ0pVRkpNa0VtZmhWaFZXaS1xelZwRDF1NElnMUt2bUVpdktYdkJ3S3dMQ0Z6NzNqZUxMQjcwV2UxWjNMM1lPbzJTbXFVMzVWeWhOOE9vLWlCMVhUU3ByYWx4WGxicFRONHNvV29NaGQ4TzlJV3RjMVk4Y3lPUU1wNk9Udw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Iran has vowed to strike back if the US attacks, amidst ongoing protests. This escalation in tensions poses a significant threat to regional stability and could impact aviation and cargo operations.",
+      "immediate_forecast_24h": "Increased military readiness and potential for retaliatory strikes, heightened security measures at airports and critical infrastructure.",
+      "strategic_outlook": "Prolonged conflict could lead to disruptions in global supply chains, increased insurance premiums, and higher operational costs for companies with exposure to the region.",
+      "operational_impact": "Potential for flight disruptions, cargo delays, and increased security protocols for personnel and assets in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "5f749b766c9599730dbfbd899d30cf48",
+    "timestamp": "2026-01-11T14:25:48.985913",
+    "original_title": "Iran says American military bases would be 'legitimate targets' if U.S. launches strikes - WISN",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYnRtR3RPd0VmLXNNQll6Wi1RbG5haXRlaXNSNjc5RTR2TGpPRU40VW9BQWliQnlyTFNjaDNjLXZIejJxZUtvckpJY1BBZ1hxeU5yemRCRzdhRy11c19HY2pXdGtRZlFFMjRYYk4tVWRJNVY0akcwal9wekJpRU5Iaw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 8,
+      "location": "Iran, Middle East",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Iran has stated that American military bases would be considered 'legitimate targets' if the U.S. launches strikes, indicating a heightened state of tension and potential for conflict between the two nations.",
+      "immediate_forecast_24h": "Increased military readiness and potential for retaliatory strikes from both sides, posing a significant threat to regional stability and global security.",
+      "strategic_outlook": "Prolonged conflict could lead to widespread instability, impacting global trade routes, aviation, and logistics, with potential for long-term economic and geopolitical consequences.",
+      "operational_impact": "Potential for disruptions to air travel, cargo transport, and personnel movement in the region, with increased security measures and possible restrictions on movement.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "e776041c7c6de39ef73d3a608c9ee881",
+    "timestamp": "2026-01-11T14:25:53.074125",
+    "original_title": "Iran warns against US strikes as activists say death toll reaches 203",
+    "link": "https://www.reddit.com/r/worldnews/comments/1q9zwr2/iran_warns_against_us_strikes_as_activists_say/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 7,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Iran has warned against potential US strikes as the death toll from recent protests reaches 203, indicating heightened tensions and potential for further unrest that could impact aviation, cargo, and personnel safety.",
+      "immediate_forecast_24h": "Increased protests and potential for clashes between protesters and security forces, with a possibility of US involvement escalating the situation.",
+      "strategic_outlook": "Long-term instability in Iran could lead to sustained civil unrest, affecting regional security and potentially disrupting air travel and cargo operations.",
+      "operational_impact": "Potential disruptions to air travel, increased security measures for cargo and personnel, and heightened vigilance for any signs of escalating conflict in the region.",
       "proximity_alert": null
     }
   }
