@@ -1,43 +1,5 @@
 [
   {
-    "id": "d15f7ae16951e6b4669a1b9ea08aaaa3",
-    "timestamp": "2026-01-11T20:30:44.311395",
-    "original_title": "Trump weighs options on Iran as protest crackdown reportedly kills more than 500",
-    "link": "https://www.reddit.com/r/worldnews/comments/1qa9m5d/trump_weighs_options_on_iran_as_protest_crackdown/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict/Civil Unrest",
-      "risk_score": 8,
-      "location": "Iran",
-      "latitude": 32.0,
-      "longitude": 53.0,
-      "detailed_analysis": "The situation in Iran is escalating with protests and a crackdown reportedly killing over 500 people. The US is considering options, which could lead to increased tensions and potential retaliation against US interests, including aviation and cargo.",
-      "immediate_forecast_24h": "Increased unrest and potential for further violence in Iran, with possible spillover effects on regional stability and global markets.",
-      "strategic_outlook": "Long-term instability in Iran could lead to increased risk of conflict, terrorism, and disruption to global supply chains, particularly in the aviation and cargo sectors.",
-      "operational_impact": "Potential disruption to air travel and cargo operations in the region, with possible delays or cancellations due to increased security measures or unrest.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "b983bbd5a0037e725e2986908c9e9b8c",
-    "timestamp": "2026-01-11T20:31:17.333195",
-    "original_title": "Sudan PM announces govt's return to Khartoum from wartime capital Port Sudan",
-    "link": "https://www.france24.com/en/africa/20260111-sudan-pm-announces-govt-s-return-to-khartoum-from-wartime-capital-port-sudan",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict/Civil Unrest",
-      "risk_score": 10,
-      "location": "Khartoum, Sudan",
-      "latitude": 15.6333,
-      "longitude": 32.5333,
-      "detailed_analysis": "The return of the Sudanese government to Khartoum after being driven out by war may lead to increased tensions and potential clashes between government forces and the paramilitary Rapid Support Forces, posing a risk to assets, personnel, and cargo in the region.",
-      "immediate_forecast_24h": "The situation is likely to remain volatile in the short term, with potential for skirmishes or protests, but no immediate indication of a significant escalation.",
-      "strategic_outlook": "The long-term outlook depends on the government's ability to establish stability and provide services to the capital's residents, which could lead to a decrease in tensions over time, but the risk of conflict remains due to the complex political and military landscape.",
-      "operational_impact": "Transport and logistics operations in the region may face disruptions due to the uncertain security situation, and companies should exercise caution when moving assets, cargo, or personnel through or near Khartoum.",
-      "proximity_alert": "YAKIN TEHDİT: Khartoum International Airport (5 km)"
-    }
-  },
-  {
     "id": "5736028415d1a85c9a395a953d75c4ec",
     "timestamp": "2026-01-11T21:24:58.257851",
     "original_title": "Colombian singer Yeison Jiménez dies in plane crash hours before scheduled performance - Fox News",
@@ -73,6 +35,44 @@
       "strategic_outlook": "The ongoing civil unrest in Iran may lead to long-term instability, affecting the country's economy, trade relationships, and overall security landscape, potentially impacting regional and global transport and logistics.",
       "operational_impact": "The situation may lead to increased security measures, potential route closures, and disruptions to cargo and personnel movements, particularly in areas affected by the protests.",
       "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "b96850cdc59f3f6d7b057884ceb3a681",
+    "timestamp": "2026-01-11T21:42:21.483662",
+    "original_title": "Iran says it will hit back at US, Israel if attacked as protests escalate - Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYTNnQzRvRjB4eDlJb3VhckZYQXFrRWpOdUJTbTZKWS1iUWdzUERiNXBxdWx4UWZQM2RBMnFHNmhneGlPNXNxTVl2TllodkVIQkg0QmlTQ2JmY2ptbHlhY0ZTeWljcjVYZC1JSFlCZVVlVk85YTR4OEdqNzU0d09xNDg3V0RmOS1LdkFRS3NMTFZBVm9iMWxXc1hMVktNRUp3TmdrS0VYdmgwT2FQcjN3NVRwWGtPZm9IS2tfaVhFQQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Iran has threatened to retaliate against the US and Israel if attacked, amidst escalating protests. This could lead to increased tensions and potential military action, affecting aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Heightened security measures and potential disruptions to air travel and cargo shipments in and out of Iran. Protests may spread to other cities, causing further instability.",
+      "strategic_outlook": "Long-term escalation of conflict could lead to significant disruptions to global supply chains, particularly those relying on Middle Eastern air and sea routes. Increased risk of cyberattacks and terrorism targeting aviation and logistics infrastructure.",
+      "operational_impact": "Potential for flight delays or cancellations, cargo shipment disruptions, and increased security protocols for personnel and assets in the region. Companies operating in the area should review their emergency response plans and consider contingency measures.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "f005ec52778d2761c9751c3d22440a51",
+    "timestamp": "2026-01-11T21:43:39.781939",
+    "original_title": "'Hundreds more' US agents head to Minneapolis, says Homeland Security Secretary",
+    "link": "https://www.france24.com/en/americas/20260111-hundreds-more-us-agents-head-to-minneapolis-minnesota-says-homeland-security-secretary",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 6,
+      "location": "Minneapolis, USA",
+      "latitude": 44.9778,
+      "longitude": -93.265,
+      "detailed_analysis": "The deployment of hundreds of additional federal agents to Minneapolis in response to protests following the killing of Renee Nicole Good by an ICE officer indicates a heightened state of tension and potential for further unrest.",
+      "immediate_forecast_24h": "Increased protests and potential clashes between demonstrators and law enforcement are expected, which could lead to disruptions in local transportation and logistics.",
+      "strategic_outlook": "The situation may escalate if not managed carefully, potentially affecting the broader stability of the region and impacting the movement of assets, cargo, and personnel.",
+      "operational_impact": "Transportation and logistics operations in and around Minneapolis may be affected due to the civil unrest, including potential roadblocks, demonstrations, and increased security measures.",
+      "proximity_alert": null
     }
   }
 ]
