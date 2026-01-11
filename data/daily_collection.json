@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "id": "d15f7ae16951e6b4669a1b9ea08aaaa3",
+    "timestamp": "2026-01-11T20:30:44.311395",
+    "original_title": "Trump weighs options on Iran as protest crackdown reportedly kills more than 500",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qa9m5d/trump_weighs_options_on_iran_as_protest_crackdown/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The situation in Iran is escalating with protests and a crackdown reportedly killing over 500 people. The US is considering options, which could lead to increased tensions and potential retaliation against US interests, including aviation and cargo.",
+      "immediate_forecast_24h": "Increased unrest and potential for further violence in Iran, with possible spillover effects on regional stability and global markets.",
+      "strategic_outlook": "Long-term instability in Iran could lead to increased risk of conflict, terrorism, and disruption to global supply chains, particularly in the aviation and cargo sectors.",
+      "operational_impact": "Potential disruption to air travel and cargo operations in the region, with possible delays or cancellations due to increased security measures or unrest.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "b983bbd5a0037e725e2986908c9e9b8c",
+    "timestamp": "2026-01-11T20:31:17.333195",
+    "original_title": "Sudan PM announces govt's return to Khartoum from wartime capital Port Sudan",
+    "link": "https://www.france24.com/en/africa/20260111-sudan-pm-announces-govt-s-return-to-khartoum-from-wartime-capital-port-sudan",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Khartoum, Sudan",
+      "latitude": 15.6333,
+      "longitude": 32.5333,
+      "detailed_analysis": "The return of the Sudanese government to Khartoum after being driven out by war may lead to increased tensions and potential clashes between government forces and the paramilitary Rapid Support Forces, posing a risk to assets, personnel, and cargo in the region.",
+      "immediate_forecast_24h": "The situation is likely to remain volatile in the short term, with potential for skirmishes or protests, but no immediate indication of a significant escalation.",
+      "strategic_outlook": "The long-term outlook depends on the government's ability to establish stability and provide services to the capital's residents, which could lead to a decrease in tensions over time, but the risk of conflict remains due to the complex political and military landscape.",
+      "operational_impact": "Transport and logistics operations in the region may face disruptions due to the uncertain security situation, and companies should exercise caution when moving assets, cargo, or personnel through or near Khartoum.",
+      "proximity_alert": "YAKIN TEHDİT: Khartoum International Airport (5 km)"
+    }
+  }
+]
