@@ -112,5 +112,62 @@
       "operational_impact": "Possible disruptions to air traffic and cargo transport between Israel and Iran, as well as neighboring countries, due to increased security concerns and potential airspace restrictions.",
       "proximity_alert": "YAKIN TEHDİT: Ben Gurion International Airport (9 km)"
     }
+  },
+  {
+    "id": "5df78521103f721cd00e9f5f59a00380",
+    "timestamp": "2026-01-11T15:26:50.686187",
+    "original_title": "Russia strike leaves 1,000 Kyiv apartment blocks without heating",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qa1isa/russia_strike_leaves_1000_kyiv_apartment_blocks/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Kyiv, Ukraine",
+      "latitude": 50.4501,
+      "longitude": 30.5236,
+      "detailed_analysis": "A Russian strike has left 1,000 Kyiv apartment blocks without heating, indicating a significant escalation in the conflict and potential for further disruptions to critical infrastructure.",
+      "immediate_forecast_24h": "Increased risk of further strikes and disruptions to essential services, potentially affecting aviation and logistics operations in the region.",
+      "strategic_outlook": "Long-term instability and conflict in the region may lead to sustained disruptions to transport and logistics, with potential for spillover effects into neighboring countries.",
+      "operational_impact": "Heating outages may impact personnel and cargo handling capabilities at airports and logistics facilities, while increased conflict risk may lead to airspace restrictions and flight disruptions.",
+      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
+    }
+  },
+  {
+    "id": "ec0cc27ef6471207f25acf9f5134cb16",
+    "timestamp": "2026-01-11T15:26:52.401042",
+    "original_title": "Ukraine hits Russian drilling platforms in Caspian Sea, military reports",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qa16zl/ukraine_hits_russian_drilling_platforms_in/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Caspian Sea",
+      "latitude": 42.0,
+      "longitude": 50.0,
+      "detailed_analysis": "Ukraine has reportedly hit Russian drilling platforms in the Caspian Sea, indicating an escalation of conflict in the region. This could lead to increased tensions and potential disruptions to maritime trade and energy production.",
+      "immediate_forecast_24h": "Heightened military activity and potential retaliation from Russia, posing a risk to nearby shipping lanes and offshore platforms.",
+      "strategic_outlook": "Long-term implications for regional stability and global energy markets, potentially leading to increased insurance costs and shipping delays.",
+      "operational_impact": "Potential disruptions to oil and gas production, as well as increased risk to maritime transport in the Caspian Sea region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "f21d04614463d4ea7bfd78cb59bb0e46",
+    "timestamp": "2026-01-11T15:26:54.161687",
+    "original_title": "Trump is briefed on options for striking Iran as protests continue | World News",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qa14b0/trump_is_briefed_on_options_for_striking_iran_as/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The US is considering striking Iran as protests continue, posing a significant threat to regional stability and potentially impacting aviation and cargo operations in the area.",
+      "immediate_forecast_24h": "Escalation of protests and potential military action, leading to increased tensions and possible disruptions to air travel and logistics.",
+      "strategic_outlook": "Long-term instability in the region could lead to sustained disruptions to transport and logistics, with potential for spill-over effects into neighboring countries.",
+      "operational_impact": "Potential for flight restrictions, cargo delays, and increased security measures, affecting personnel and assets in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
   }
 ]
