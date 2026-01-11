@@ -1195,5 +1195,62 @@
       "operational_impact": "Potential disruption to air transport, with possible flight cancellations or delays, and increased risk of cargo delays or losses due to the civil unrest.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "6a758a829d973bdfe283bb51edabc538",
+    "timestamp": "2026-01-11T17:23:50.872602",
+    "original_title": "Death toll in Iran protests rises to more than 500, rights group says - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNa0NBendiQi1tb3p6V2dfMG9yS2oyZzZPdTVsWUVqb1lDZTM0eDZ1NEdKcGxoejRaYnBBQ0pVRkpNa0VtZmhWaFZXaS1xelZwRDF1NElnMUt2bUVpdktYdkJ3S3dMQ0Z6NzNqZUxMQjcwV2UxWjNMM1lPbzJTbXFVMzVWeWhOOE9vLWlCMVhUU3ByYWx4WGxicFRONHNvV29NaGQ4TzlJV3RjMVk4Y3lPUU1wNk9Udw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 7,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The death toll in Iran protests has risen to over 500, indicating a significant escalation of civil unrest. This could lead to disruptions in transportation, logistics, and supply chains, particularly if protests spread to major cities or key infrastructure hubs.",
+      "immediate_forecast_24h": "Protests are likely to continue, potentially leading to increased violence, roadblocks, and disruptions to air travel. There is a risk of spill-over effects into neighboring countries or regions with Iranian interests.",
+      "strategic_outlook": "The long-term outlook for Iran is uncertain, with potential for ongoing unrest, economic instability, and geopolitical tensions. This could lead to sustained disruptions to global supply chains, particularly those reliant on Iranian oil or trade routes.",
+      "operational_impact": "Transportation and logistics operations in Iran may be severely impacted, with potential for delays, cargo theft, or damage. Aviation operations may also be affected, particularly if protests target airports or air traffic control systems.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "57507aa6215219bbfd2c9a7bdbe06e69",
+    "timestamp": "2026-01-11T17:23:55.914592",
+    "original_title": "Reports Verify At Least 2,000 People Killed in Iran Protests Over Past 48 Hours",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1qa4p01/reports_verify_at_least_2000_people_killed_in/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 8,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Reports of at least 2,000 people killed in Iran protests over the past 48 hours indicate a high level of civil unrest and potential conflict, posing a significant threat to personnel and assets in the region.",
+      "immediate_forecast_24h": "The situation is likely to remain volatile, with continued protests and potential for further violence, affecting aviation, cargo, and personnel movement in the region.",
+      "strategic_outlook": "The long-term impact of the unrest could lead to increased instability in the region, affecting trade and logistics, and potentially spilling over into neighboring countries.",
+      "operational_impact": "Transportation and logistics operations in Iran and surrounding areas may be disrupted, with potential delays or cancellations of flights, and increased security measures for cargo and personnel.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "82912f6df53f0cbaa6cec48247228693",
+    "timestamp": "2026-01-11T17:24:59.009525",
+    "original_title": "Iran warns Washington it will retaliate if the US launches an attack",
+    "link": "http://www.africanews.com/2026/01/11/iran-warns-washington-it-will-retaliate-if-the-us-launches-an-attack/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Iran has warned the US of retaliation if attacked, amid a deadly crackdown on demonstrators. This escalation could impact aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Heightened tensions between the US and Iran, potential for increased military presence or action in the region.",
+      "strategic_outlook": "Long-term instability in the region could lead to sustained disruptions in aviation and cargo operations, as well as potential threats to personnel and assets.",
+      "operational_impact": "Potential for flight restrictions, cargo delays, or increased security measures in the region, affecting transport and logistics operations.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
   }
 ]

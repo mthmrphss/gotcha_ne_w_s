@@ -1,119 +1,5 @@
 [
   {
-    "id": "5df78521103f721cd00e9f5f59a00380",
-    "timestamp": "2026-01-11T15:26:50.686187",
-    "original_title": "Russia strike leaves 1,000 Kyiv apartment blocks without heating",
-    "link": "https://www.reddit.com/r/worldnews/comments/1qa1isa/russia_strike_leaves_1000_kyiv_apartment_blocks/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict/Civil Unrest",
-      "risk_score": 10,
-      "location": "Kyiv, Ukraine",
-      "latitude": 50.4501,
-      "longitude": 30.5236,
-      "detailed_analysis": "A Russian strike has left 1,000 Kyiv apartment blocks without heating, indicating a significant escalation in the conflict and potential for further disruptions to critical infrastructure.",
-      "immediate_forecast_24h": "Increased risk of further strikes and disruptions to essential services, potentially affecting aviation and logistics operations in the region.",
-      "strategic_outlook": "Long-term instability and conflict in the region may lead to sustained disruptions to transport and logistics, with potential for spillover effects into neighboring countries.",
-      "operational_impact": "Heating outages may impact personnel and cargo handling capabilities at airports and logistics facilities, while increased conflict risk may lead to airspace restrictions and flight disruptions.",
-      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
-    }
-  },
-  {
-    "id": "ec0cc27ef6471207f25acf9f5134cb16",
-    "timestamp": "2026-01-11T15:26:52.401042",
-    "original_title": "Ukraine hits Russian drilling platforms in Caspian Sea, military reports",
-    "link": "https://www.reddit.com/r/worldnews/comments/1qa16zl/ukraine_hits_russian_drilling_platforms_in/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 8,
-      "location": "Caspian Sea",
-      "latitude": 42.0,
-      "longitude": 50.0,
-      "detailed_analysis": "Ukraine has reportedly hit Russian drilling platforms in the Caspian Sea, indicating an escalation of conflict in the region. This could lead to increased tensions and potential disruptions to maritime trade and energy production.",
-      "immediate_forecast_24h": "Heightened military activity and potential retaliation from Russia, posing a risk to nearby shipping lanes and offshore platforms.",
-      "strategic_outlook": "Long-term implications for regional stability and global energy markets, potentially leading to increased insurance costs and shipping delays.",
-      "operational_impact": "Potential disruptions to oil and gas production, as well as increased risk to maritime transport in the Caspian Sea region.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "f21d04614463d4ea7bfd78cb59bb0e46",
-    "timestamp": "2026-01-11T15:26:54.161687",
-    "original_title": "Trump is briefed on options for striking Iran as protests continue | World News",
-    "link": "https://www.reddit.com/r/worldnews/comments/1qa14b0/trump_is_briefed_on_options_for_striking_iran_as/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict/Civil Unrest",
-      "risk_score": 10,
-      "location": "Tehran, Iran",
-      "latitude": 35.6892,
-      "longitude": 51.389,
-      "detailed_analysis": "The US is considering striking Iran as protests continue, posing a significant threat to regional stability and potentially impacting aviation and cargo operations in the area.",
-      "immediate_forecast_24h": "Escalation of protests and potential military action, leading to increased tensions and possible disruptions to air travel and logistics.",
-      "strategic_outlook": "Long-term instability in the region could lead to sustained disruptions to transport and logistics, with potential for spill-over effects into neighboring countries.",
-      "operational_impact": "Potential for flight restrictions, cargo delays, and increased security measures, affecting personnel and assets in the region.",
-      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
-    }
-  },
-  {
-    "id": "236f9e89b08a23a5a406f7d2a0560f71",
-    "timestamp": "2026-01-11T15:44:09.993350",
-    "original_title": "Syrian Military Takes Aleppo Neighborhoods After Clashes With Kurds - The New York Times",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZDFsN01ZcmktZFVaZGNqdnBXaDM3RGFobDJoUTRiR1dlTzFXbmVQeGJzVVFQV05Dc1BvM1dhWE80T1Nwd0NMRjZRcFdodlFQdVZSRTREWVZvcURfbzdkbVdVQ04wb005aVlMLXZ5bGxDR0RsV0ZQa2N5ZlNTOUpxMFNLOTliMTd2Q19kY1c3OFdpQ2RQZUNmU0pWM0ZQQV90?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Conflict/Civil Unrest",
-      "risk_score": 10,
-      "location": "Aleppo, Syria",
-      "latitude": 36.2,
-      "longitude": 37.1,
-      "detailed_analysis": "The Syrian military has taken control of neighborhoods in Aleppo after clashes with Kurdish forces, indicating a heightened state of conflict and instability in the region. This could lead to disruptions in cargo transport, aviation, and personnel movement.",
-      "immediate_forecast_24h": "Increased military presence and potential for further clashes may lead to temporary disruptions in logistics and transport operations in the region.",
-      "strategic_outlook": "The ongoing conflict in Syria poses a long-term risk to regional stability, potentially affecting trade routes, aviation security, and the safety of personnel and cargo.",
-      "operational_impact": "Transport and logistics operations in the region may be impacted due to the conflict, with potential delays, route changes, or increased security measures needed to mitigate risks.",
-      "proximity_alert": "YAKIN TEHDİT: Aleppo International Airport (11 km)"
-    }
-  },
-  {
-    "id": "7a6bb6bc1316e6ce82c5732dc8f2a2d4",
-    "timestamp": "2026-01-11T15:44:13.144067",
-    "original_title": "Syrian Military Takes Aleppo Neighborhoods After Clashes With Kurds",
-    "link": "https://www.nytimes.com/2026/01/11/world/middleeast/syria-military-aleppo.html",
-    "source_name": "NewYork Times",
-    "ai_analysis": {
-      "category": "Conflict/Civil Unrest",
-      "risk_score": 10,
-      "location": "Aleppo, Syria",
-      "latitude": 36.201,
-      "longitude": 37.161,
-      "detailed_analysis": "The Syrian military takeover of Aleppo neighborhoods after clashes with Kurdish-led forces indicates a heightened state of conflict and civil unrest in the region, posing a significant threat to assets, personnel, and potentially disrupting aviation and cargo operations.",
-      "immediate_forecast_24h": "Increased military presence and potential for further clashes may lead to heightened security measures, possible curfews, and disruptions to local transportation and logistics.",
-      "strategic_outlook": "The long-term impact of this conflict could lead to a destabilization of the region, affecting trade routes, aviation security, and the overall safety of personnel and assets. The situation may escalate or de-escalate based on the actions of the involved parties and international responses.",
-      "operational_impact": "Transport and logistics operations in and around Aleppo may be severely impacted due to the conflict, with potential for delays, increased security checks, and risks to personnel and cargo. Aviation operations may also be affected due to the proximity of conflict zones to airports and flight paths.",
-      "proximity_alert": "YAKIN TEHDİT: Aleppo International Airport (6 km)"
-    }
-  },
-  {
-    "id": "135176a1f9a3c7f026155d3684354132",
-    "timestamp": "2026-01-11T15:44:16.141397",
-    "original_title": "UAE and Qatar airlines suspend flights to Iran for a second day amid escalating civil unrest",
-    "link": "https://www.reddit.com/r/worldnews/comments/1qa2i61/uae_and_qatar_airlines_suspend_flights_to_iran/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Aviation/Civil Unrest",
-      "risk_score": 7,
-      "location": "Iran",
-      "latitude": 32.0,
-      "longitude": 53.0,
-      "detailed_analysis": "UAE and Qatar airlines have suspended flights to Iran for a second day due to escalating civil unrest, posing a significant threat to aviation operations and potentially affecting cargo and personnel safety.",
-      "immediate_forecast_24h": "The suspension of flights is likely to continue until the civil unrest subsides, and airlines may reroute or cancel flights to minimize risks.",
-      "strategic_outlook": "The ongoing civil unrest in Iran may lead to a prolonged disruption of air travel and logistics, affecting trade and economic activities in the region.",
-      "operational_impact": "The suspension of flights may cause delays or cancellations of cargo shipments, and airlines may need to implement additional security measures to ensure the safety of passengers and crew.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "54245a1d2d060be0e5fa785e56dc771b",
     "timestamp": "2026-01-11T16:33:00.724136",
     "original_title": "Trump weighs potential military intervention in Iran - CNN",
@@ -187,6 +73,63 @@
       "strategic_outlook": "Long-term instability in the region, potentially affecting trade routes and supply chains, with increased risk of cargo theft, smuggling, and other crimes.",
       "operational_impact": "Potential disruption to air transport, with possible flight cancellations or delays, and increased risk of cargo delays or losses due to the civil unrest.",
       "proximity_alert": null
+    }
+  },
+  {
+    "id": "6a758a829d973bdfe283bb51edabc538",
+    "timestamp": "2026-01-11T17:23:50.872602",
+    "original_title": "Death toll in Iran protests rises to more than 500, rights group says - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNa0NBendiQi1tb3p6V2dfMG9yS2oyZzZPdTVsWUVqb1lDZTM0eDZ1NEdKcGxoejRaYnBBQ0pVRkpNa0VtZmhWaFZXaS1xelZwRDF1NElnMUt2bUVpdktYdkJ3S3dMQ0Z6NzNqZUxMQjcwV2UxWjNMM1lPbzJTbXFVMzVWeWhOOE9vLWlCMVhUU3ByYWx4WGxicFRONHNvV29NaGQ4TzlJV3RjMVk4Y3lPUU1wNk9Udw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 7,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The death toll in Iran protests has risen to over 500, indicating a significant escalation of civil unrest. This could lead to disruptions in transportation, logistics, and supply chains, particularly if protests spread to major cities or key infrastructure hubs.",
+      "immediate_forecast_24h": "Protests are likely to continue, potentially leading to increased violence, roadblocks, and disruptions to air travel. There is a risk of spill-over effects into neighboring countries or regions with Iranian interests.",
+      "strategic_outlook": "The long-term outlook for Iran is uncertain, with potential for ongoing unrest, economic instability, and geopolitical tensions. This could lead to sustained disruptions to global supply chains, particularly those reliant on Iranian oil or trade routes.",
+      "operational_impact": "Transportation and logistics operations in Iran may be severely impacted, with potential for delays, cargo theft, or damage. Aviation operations may also be affected, particularly if protests target airports or air traffic control systems.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "57507aa6215219bbfd2c9a7bdbe06e69",
+    "timestamp": "2026-01-11T17:23:55.914592",
+    "original_title": "Reports Verify At Least 2,000 People Killed in Iran Protests Over Past 48 Hours",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1qa4p01/reports_verify_at_least_2000_people_killed_in/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 8,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Reports of at least 2,000 people killed in Iran protests over the past 48 hours indicate a high level of civil unrest and potential conflict, posing a significant threat to personnel and assets in the region.",
+      "immediate_forecast_24h": "The situation is likely to remain volatile, with continued protests and potential for further violence, affecting aviation, cargo, and personnel movement in the region.",
+      "strategic_outlook": "The long-term impact of the unrest could lead to increased instability in the region, affecting trade and logistics, and potentially spilling over into neighboring countries.",
+      "operational_impact": "Transportation and logistics operations in Iran and surrounding areas may be disrupted, with potential delays or cancellations of flights, and increased security measures for cargo and personnel.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "82912f6df53f0cbaa6cec48247228693",
+    "timestamp": "2026-01-11T17:24:59.009525",
+    "original_title": "Iran warns Washington it will retaliate if the US launches an attack",
+    "link": "http://www.africanews.com/2026/01/11/iran-warns-washington-it-will-retaliate-if-the-us-launches-an-attack/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Iran has warned the US of retaliation if attacked, amid a deadly crackdown on demonstrators. This escalation could impact aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Heightened tensions between the US and Iran, potential for increased military presence or action in the region.",
+      "strategic_outlook": "Long-term instability in the region could lead to sustained disruptions in aviation and cargo operations, as well as potential threats to personnel and assets.",
+      "operational_impact": "Potential for flight restrictions, cargo delays, or increased security measures in the region, affecting transport and logistics operations.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
     }
   }
 ]
