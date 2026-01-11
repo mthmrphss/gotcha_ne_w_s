@@ -131,5 +131,43 @@
       "operational_impact": "Potential disruptions to air traffic, increased security measures for cargo and personnel, and heightened vigilance for potential attacks on transportation infrastructure.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "5b8c63e50ed0523537fe2b055f29f350",
+    "timestamp": "2026-01-11T23:25:58.430965",
+    "original_title": "Hundreds of Iranian protesters feared killed; U.S. considers military strikes - The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBQRWQ1a3R1aUUzQmJpLVNaUU05ZjUyUzlubk9HMW1zaWdnSG1GLW1xMFRrYmRNdFhBakwwbVRRMmRHSWlkV0c0Rl9rQUtFX2FXblVKOFdmeC1yNEV0SnF2QnpLdldHVl9seTVMOHZFTkRKREltc1dzVWF2SWhTQQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The situation in Iran is escalating with hundreds of protesters feared killed, and the U.S. considering military strikes. This could lead to increased instability and potential threats to aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Increased tensions and potential for further clashes between protesters and security forces, with a heightened risk of military intervention from the U.S.",
+      "strategic_outlook": "Long-term instability in Iran could lead to a prolonged period of unrest, affecting regional security and potentially disrupting global supply chains and aviation operations.",
+      "operational_impact": "Potential disruptions to air cargo and passenger flights, as well as increased security measures for personnel and assets in the region. Shipping and logistics operations may also be affected by the unrest.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "d6e8fec3186dcb2a7312dc0a55f645a1",
+    "timestamp": "2026-01-11T23:26:00.269678",
+    "original_title": "‘Deliberate, targeted attack’: Suspect arrested after a fire damages a historic synagogue, police say - AZ Family",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWG1BbUx4YjhFQVA2dFQ4LUJsUHc5ZjduU0txTTNYeXZ4Z3BZUlJmeTZEbzZzcjhyc3RrSjNuZWRCU2QyQ2VZU3RTbmRmMUR4bEVRVHgwSlJLQWh1V2FPcW12bVR0bGRITlcyYWNSRlNTSG1EcVF5eFpsSUhTRFM4aXBLYWIyQlBZNi1xM0xQV040MkZxRGE3dXlfcVB1WXFsU0d5TmxNY2l3REtZR2l4QlhZNjRlQ2xReWs3THZXRnJzbjVHeFlraA?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism/Crime/Civil Unrest",
+      "risk_score": 6,
+      "location": "Unknown, USA",
+      "latitude": 37.0902,
+      "longitude": -95.7129,
+      "detailed_analysis": "A deliberate and targeted attack on a historic synagogue has resulted in a fire, with a suspect arrested. This incident has the potential to escalate into further civil unrest or copycat attacks.",
+      "immediate_forecast_24h": "Increased security measures are likely to be implemented around places of worship and potential targets, with a heightened sense of vigilance and potential protests or demonstrations.",
+      "strategic_outlook": "The long-term impact of this incident may lead to increased tensions between communities, potentially affecting social cohesion and stability. It may also lead to a review of security protocols for vulnerable targets.",
+      "operational_impact": "Transport and logistics in the surrounding area may be affected by increased security measures, protests, or demonstrations, potentially leading to disruptions or delays.",
+      "proximity_alert": null
+    }
   }
 ]
