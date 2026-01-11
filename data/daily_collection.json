@@ -397,5 +397,43 @@
       "operational_impact": "The unrest may cause disruptions to transport and logistics, including potential closures of airports, roads, and borders, and increased security measures, which could impact cargo and personnel movement.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "ebbbc56f028e5a56025961a8b3a73881",
+    "timestamp": "2026-01-11T06:41:24.667918",
+    "original_title": "Trump officials consider military options as Iranian protests spread - The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNd09FeVFUT3NkMWIyaFRJZjVtekpTWTF5d0dpZHZub2NNRXJMNGFRLXNZWVNHOFhPUDhhMW1XaUUwcGRtSWJjNlYzNHoyeEt2UXRCa1dFbGp4bE92OVViWE1HT1JoVXQzQ1V0aWFtUTZqcktHOFFiWERWNlAyTmVSZzBjQ09QelJPRlA5S2h3WQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The situation in Iran is escalating with widespread protests, and the consideration of military options by Trump officials could lead to further instability, potentially affecting aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Increased tensions and potential for clashes between protesters and security forces, with a possibility of disruptions to air travel and logistics.",
+      "strategic_outlook": "Long-term instability in Iran could have significant implications for regional security, trade, and transportation, with potential spillover effects on neighboring countries.",
+      "operational_impact": "Potential disruptions to air travel, cargo shipments, and logistics operations in the region, with possible restrictions on personnel movement and increased security measures.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "f93a311eb58adf37ebc0e2f61d1f763c",
+    "timestamp": "2026-01-11T06:41:31.908070",
+    "original_title": "Syria’s Kurdish fighters agree to leave Aleppo after days of deadly clashes",
+    "link": "https://www.france24.com/en/middle-east/20260111-syria-s-kurdish-fighters-agree-to-leave-aleppo-after-days-of-deadly-clashes",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Aleppo, Syria",
+      "latitude": 36.201,
+      "longitude": 37.161,
+      "detailed_analysis": "The agreement between Kurdish fighters and the Syrian government to withdraw from an Aleppo neighborhood after days of deadly clashes reduces the immediate risk of further conflict in the area. However, the broader conflict in Syria and the involvement of various factions, including US-backed forces, maintains a significant level of risk.",
+      "immediate_forecast_24h": "The ceasefire agreement is expected to hold in the short term, allowing for the evacuation of dead and wounded civilians and fighters. However, the potential for renewed clashes or skirmishes remains, particularly if the agreement is not fully respected by all parties.",
+      "strategic_outlook": "The long-term outlook for the region remains unstable due to the complex nature of the conflict, involving multiple factions and external actors. The situation in Aleppo and broader Syria is likely to remain volatile, with periods of relative calm punctuated by outbreaks of violence.",
+      "operational_impact": "The conflict and instability in the region are likely to continue affecting transport and logistics operations, particularly for cargo moving through or near conflict zones. Aviation operations may also be impacted due to the potential for airspace restrictions or security concerns.",
+      "proximity_alert": "YAKIN TEHDİT: Aleppo International Airport (6 km)"
+    }
   }
 ]
