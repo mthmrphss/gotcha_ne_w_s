@@ -587,5 +587,43 @@
       "operational_impact": "Potential for disruptions to air travel, cargo shipments, and logistics operations in the region due to increased military activity, airspace restrictions, or retaliatory attacks, necessitating heightened security measures and contingency planning.",
       "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
     }
+  },
+  {
+    "id": "491afdd4a1499cc9754cf92d34302063",
+    "timestamp": "2026-01-11T09:28:00.104012",
+    "original_title": "Security footage captures mob attack in West Bank - The Arkansas Democrat-Gazette",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTkdXTkpLUkhjUEUzZ0NBcjllN21GOVNNN0hZZ1VDYzZGbWl6NFMtSjkzVHVZVExRaXhxUFYxWnV4bm1RWHRXZktUemFsR09KYmFjNUxEdG83cjkxenRaeUNMYlIxSTNHM3c0NEtyUGxDTjhIdVBDeHd1eXBaLWpZS3B5NldtRFJROUREQXBVQThpM1JUUi1aU1Y2bGUxMTA?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 6,
+      "location": "West Bank",
+      "latitude": 32.0,
+      "longitude": 35.5,
+      "detailed_analysis": "A mob attack was captured on security footage in the West Bank, indicating a heightened level of civil unrest and potential conflict in the region, which could impact the safety of personnel and assets.",
+      "immediate_forecast_24h": "Increased tensions and potential for further clashes between groups, potentially disrupting local transportation and logistics.",
+      "strategic_outlook": "Ongoing instability in the region may lead to long-term disruptions to transport and logistics operations, requiring contingency planning and enhanced security measures.",
+      "operational_impact": "Potential disruptions to ground transportation, possible delays or rerouting of cargo, and increased risk to personnel safety in the affected area.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "4d345ee182cdc55a0165b0ae95358916",
+    "timestamp": "2026-01-11T09:28:04.344130",
+    "original_title": "US launches new retaliatory strikes against ISIS in Syria",
+    "link": "https://www.reddit.com/r/worldnews/comments/1q9uhch/us_launches_new_retaliatory_strikes_against_isis/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "Syria",
+      "latitude": 35.0,
+      "longitude": 38.0,
+      "detailed_analysis": "The US has launched new retaliatory strikes against ISIS in Syria, indicating an escalation of conflict in the region. This could lead to increased instability and potential threats to aviation and logistics.",
+      "immediate_forecast_24h": "Increased military activity and potential for further retaliatory strikes, posing a risk to aviation and personnel in the region.",
+      "strategic_outlook": "Long-term instability in the region could lead to ongoing threats to assets, cargo, and personnel, with potential for spillover into neighboring countries.",
+      "operational_impact": "Potential disruption to air traffic and logistics in the region, with increased risk of attacks on aviation assets and personnel.",
+      "proximity_alert": null
+    }
   }
 ]
