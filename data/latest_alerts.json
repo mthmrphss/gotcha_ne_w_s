@@ -55,5 +55,43 @@
       "operational_impact": "Potential disruptions to air cargo and passenger flights, as well as ground transportation, including roads and borders. Increased security measures may be implemented, affecting logistics and supply chains.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "2c76e8bbb8e5bc45a067208601c286b8",
+    "timestamp": "2026-01-11T10:28:47.124926",
+    "original_title": "Trump Threats and Venezuela Strike Leave Mexico Agonizing Over How to Respond",
+    "link": "https://www.nytimes.com/2026/01/11/world/americas/mexico-trump-cartels.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Mexico City, Mexico",
+      "latitude": 19.4326,
+      "longitude": -99.1332,
+      "detailed_analysis": "The situation between the US and Venezuela, combined with Mexico's cautious response, poses a risk of escalating tensions that could impact aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Tensions are likely to remain high, with potential for diplomatic fallout or protests that could affect transport and logistics in the short term.",
+      "strategic_outlook": "Long-term implications could include increased security measures at airports and border crossings, potentially affecting the efficiency of cargo and personnel movement.",
+      "operational_impact": "Potential disruptions to air travel and cargo transport due to increased security protocols or unrest, with possible delays or rerouting of flights and shipments.",
+      "proximity_alert": "YAKIN TEHDİT: Mexico City International Airport (6 km)"
+    }
+  },
+  {
+    "id": "ea8c367c6737aad7c77281c07936d65a",
+    "timestamp": "2026-01-11T10:28:50.292408",
+    "original_title": "Iran protesters defy crackdown as videos show violent clashes",
+    "link": "https://www.reddit.com/r/worldnews/comments/1q9vy4h/iran_protesters_defy_crackdown_as_videos_show/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 6,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Protesters in Iran are defying a government crackdown, with videos showing violent clashes. This unrest could potentially disrupt air travel, cargo transport, and personnel movement in and out of the country.",
+      "immediate_forecast_24h": "The situation is likely to escalate, with further clashes between protesters and security forces expected. This may lead to increased security measures at airports and other transport hubs.",
+      "strategic_outlook": "The long-term impact of this unrest on Iran's aviation and logistics sectors will depend on the government's response and the protesters' ability to maintain momentum. Prolonged unrest could lead to economic instability and reduced investor confidence.",
+      "operational_impact": "Flights to and from Iran may be delayed or cancelled, and cargo shipments may be disrupted. Personnel movement in and out of the country may also be restricted, and security protocols may be heightened.",
+      "proximity_alert": null
+    }
   }
 ]
