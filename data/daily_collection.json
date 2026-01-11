@@ -530,5 +530,62 @@
       "operational_impact": "The attack may lead to increased security checks and protocols for aviation and logistics operations in the region, potentially causing delays and disruptions to supply chains and air travel.",
       "proximity_alert": "YAKIN TEHDİT: Chertovitskoye Uluslararası Havalimanı (16 km)"
     }
+  },
+  {
+    "id": "298d0ec761d8cdb48eadad70fc263fc2",
+    "timestamp": "2026-01-11T08:35:02.296689",
+    "original_title": "Iran warns US troops and Israel will be targets if America strikes over protests as death toll rises - NPR",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPS2xWYTlYTUJrUHFoMHFsZnhRZkwybThhWVRlMWs0b0I0cGFxZVZFVjdlYlpvaExJd25VT0taSkQyMy1VWU5nMlpSYnprU0dBbXQ2TnVLcnFWU09aMVVZbzNqaS11UXo2UENkYkhlZDIxWDZvZG5GY193dFQ5eXg0YjJ3?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 8,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Iran has warned that US troops and Israel will be targets if America strikes over protests, indicating a potential escalation of conflict and increased risk to assets, cargo, aviation, and personnel in the region.",
+      "immediate_forecast_24h": "Heightened tensions and potential for retaliatory attacks against US and Israeli interests, with possible disruptions to air travel and logistics in the region.",
+      "strategic_outlook": "Long-term instability and conflict in the region could lead to sustained disruptions to global supply chains, increased security measures, and heightened risk of terrorism and cyber attacks.",
+      "operational_impact": "Potential for flight disruptions, increased security screening, and heightened risk of attacks on transportation infrastructure, with possible impacts on cargo shipments and personnel safety.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "69462dad06acd8809bc3da6cb31c78c5",
+    "timestamp": "2026-01-11T08:35:06.527633",
+    "original_title": "Trump orders US army to prepare 'contingency plans' to 'invade Greenland': Report",
+    "link": "https://www.reddit.com/r/worldnews/comments/1q9u2my/trump_orders_us_army_to_prepare_contingency_plans/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Greenland",
+      "latitude": 64.1733,
+      "longitude": -51.7213,
+      "detailed_analysis": "The report of the US army preparing contingency plans to invade Greenland poses a significant threat to regional stability and could potentially disrupt aviation and cargo operations in the area.",
+      "immediate_forecast_24h": "Tensions between the US and Denmark (which has sovereignty over Greenland) may escalate, and there could be increased military activity in the region.",
+      "strategic_outlook": "A potential invasion of Greenland could lead to a long-term conflict, affecting global supply chains, aviation routes, and regional security.",
+      "operational_impact": "Disruption to air traffic, potential closure of airspace, and increased security measures for cargo and personnel in the region are possible consequences of this developing situation.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "4be6a97295075c78e73e72e7cf759ad9",
+    "timestamp": "2026-01-11T08:35:09.030310",
+    "original_title": "Iran warns US troops, Israel will be ‘legitimate targets’ if America strikes over protests",
+    "link": "https://www.france24.com/en/middle-east/20260111-iran-warns-us-troops-israel-will-be-legitimate-targets-if-america-strikes-over-protests",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Iran's parliament has warned that US troops and Israel would be considered 'legitimate targets' if the US strikes Iran amidst ongoing mass protests. The death toll has risen to 116, and an internet blackout has exceeded 60 hours, indicating heightened tensions and potential for further escalation.",
+      "immediate_forecast_24h": "Increased likelihood of retaliatory actions from the US or Israel, potentially targeting Iranian military or government assets, which could lead to further escalation and impact on regional stability.",
+      "strategic_outlook": "Long-term implications include the potential for prolonged conflict, disruption of global oil supplies, and increased instability in the Middle East, affecting aviation, cargo, and personnel safety in the region.",
+      "operational_impact": "Potential for disruptions to air travel, cargo shipments, and logistics operations in the region due to increased military activity, airspace restrictions, or retaliatory attacks, necessitating heightened security measures and contingency planning.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
   }
 ]
