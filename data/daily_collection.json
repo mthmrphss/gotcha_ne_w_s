@@ -1062,5 +1062,62 @@
       "operational_impact": "Potential for flight restrictions, cargo delays, and increased security measures, affecting personnel and assets in the region.",
       "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
     }
+  },
+  {
+    "id": "236f9e89b08a23a5a406f7d2a0560f71",
+    "timestamp": "2026-01-11T15:44:09.993350",
+    "original_title": "Syrian Military Takes Aleppo Neighborhoods After Clashes With Kurds - The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZDFsN01ZcmktZFVaZGNqdnBXaDM3RGFobDJoUTRiR1dlTzFXbmVQeGJzVVFQV05Dc1BvM1dhWE80T1Nwd0NMRjZRcFdodlFQdVZSRTREWVZvcURfbzdkbVdVQ04wb005aVlMLXZ5bGxDR0RsV0ZQa2N5ZlNTOUpxMFNLOTliMTd2Q19kY1c3OFdpQ2RQZUNmU0pWM0ZQQV90?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Aleppo, Syria",
+      "latitude": 36.2,
+      "longitude": 37.1,
+      "detailed_analysis": "The Syrian military has taken control of neighborhoods in Aleppo after clashes with Kurdish forces, indicating a heightened state of conflict and instability in the region. This could lead to disruptions in cargo transport, aviation, and personnel movement.",
+      "immediate_forecast_24h": "Increased military presence and potential for further clashes may lead to temporary disruptions in logistics and transport operations in the region.",
+      "strategic_outlook": "The ongoing conflict in Syria poses a long-term risk to regional stability, potentially affecting trade routes, aviation security, and the safety of personnel and cargo.",
+      "operational_impact": "Transport and logistics operations in the region may be impacted due to the conflict, with potential delays, route changes, or increased security measures needed to mitigate risks.",
+      "proximity_alert": "YAKIN TEHDİT: Aleppo International Airport (11 km)"
+    }
+  },
+  {
+    "id": "7a6bb6bc1316e6ce82c5732dc8f2a2d4",
+    "timestamp": "2026-01-11T15:44:13.144067",
+    "original_title": "Syrian Military Takes Aleppo Neighborhoods After Clashes With Kurds",
+    "link": "https://www.nytimes.com/2026/01/11/world/middleeast/syria-military-aleppo.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Aleppo, Syria",
+      "latitude": 36.201,
+      "longitude": 37.161,
+      "detailed_analysis": "The Syrian military takeover of Aleppo neighborhoods after clashes with Kurdish-led forces indicates a heightened state of conflict and civil unrest in the region, posing a significant threat to assets, personnel, and potentially disrupting aviation and cargo operations.",
+      "immediate_forecast_24h": "Increased military presence and potential for further clashes may lead to heightened security measures, possible curfews, and disruptions to local transportation and logistics.",
+      "strategic_outlook": "The long-term impact of this conflict could lead to a destabilization of the region, affecting trade routes, aviation security, and the overall safety of personnel and assets. The situation may escalate or de-escalate based on the actions of the involved parties and international responses.",
+      "operational_impact": "Transport and logistics operations in and around Aleppo may be severely impacted due to the conflict, with potential for delays, increased security checks, and risks to personnel and cargo. Aviation operations may also be affected due to the proximity of conflict zones to airports and flight paths.",
+      "proximity_alert": "YAKIN TEHDİT: Aleppo International Airport (6 km)"
+    }
+  },
+  {
+    "id": "135176a1f9a3c7f026155d3684354132",
+    "timestamp": "2026-01-11T15:44:16.141397",
+    "original_title": "UAE and Qatar airlines suspend flights to Iran for a second day amid escalating civil unrest",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qa2i61/uae_and_qatar_airlines_suspend_flights_to_iran/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Aviation/Civil Unrest",
+      "risk_score": 7,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "UAE and Qatar airlines have suspended flights to Iran for a second day due to escalating civil unrest, posing a significant threat to aviation operations and potentially affecting cargo and personnel safety.",
+      "immediate_forecast_24h": "The suspension of flights is likely to continue until the civil unrest subsides, and airlines may reroute or cancel flights to minimize risks.",
+      "strategic_outlook": "The ongoing civil unrest in Iran may lead to a prolonged disruption of air travel and logistics, affecting trade and economic activities in the region.",
+      "operational_impact": "The suspension of flights may cause delays or cancellations of cargo shipments, and airlines may need to implement additional security measures to ensure the safety of passengers and crew.",
+      "proximity_alert": null
+    }
   }
 ]
