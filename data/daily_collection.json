@@ -967,5 +967,43 @@
       "operational_impact": "Potential disruptions to air travel, increased security measures for cargo and personnel, and heightened vigilance for any signs of escalating conflict in the region.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "a5138abb82bb3cc4ce754e66747c0549",
+    "timestamp": "2026-01-11T14:45:17.045362",
+    "original_title": "Hotel security guard shot and killed in downtown OKC - KOCO",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQW9UaWtaM0EyV1YzSW5RUVFaYjItUVJraFNrdElCNnlycm9KNW9PTGNJbWJXbV9FWTNiRVAxeFlZUzU3NEE5dWp2dFpjVzc1cGhLSDlJUWtTdGNNWjR1SnBEZWlUczBMQ2xPbTd1QmZ3bDA3a3BmU0s5RjBSRjI1QXlOekZ3ZmMzakRGaVhtVHgwSGVC?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Crime",
+      "risk_score": 6,
+      "location": "Oklahoma City, USA",
+      "latitude": 35.4676,
+      "longitude": -97.5164,
+      "detailed_analysis": "A hotel security guard was shot and killed in downtown Oklahoma City, indicating a potential threat to personnel and assets in the area. The incident may be related to crime or civil unrest.",
+      "immediate_forecast_24h": "Increased police presence and potential for further incidents in the area, but no immediate indication of a larger threat to aviation or cargo operations.",
+      "strategic_outlook": "Long-term concerns about the safety and security of personnel and assets in the area, potentially impacting the attractiveness of the location for businesses and travelers.",
+      "operational_impact": "Potential for increased security measures and delays in the area, but no direct impact on aviation or cargo operations at this time.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "5a5bca83b6b01cacbdddb416d8a39dfb",
+    "timestamp": "2026-01-11T14:45:22.613876",
+    "original_title": "Israel’s military held assessments as Iran protests escalate",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qa0zt8/israels_military_held_assessments_as_iran/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Israel/Iran",
+      "latitude": 32.0,
+      "longitude": 34.8,
+      "detailed_analysis": "Escalating protests in Iran have prompted Israel's military to hold assessments, indicating a potential increase in regional tensions that could impact aviation and cargo operations.",
+      "immediate_forecast_24h": "Heightened security measures and potential airspace restrictions may be implemented in response to the escalating situation.",
+      "strategic_outlook": "Prolonged unrest in Iran could lead to increased instability in the region, affecting trade routes and aviation security.",
+      "operational_impact": "Possible disruptions to air traffic and cargo transport between Israel and Iran, as well as neighboring countries, due to increased security concerns and potential airspace restrictions.",
+      "proximity_alert": "YAKIN TEHDİT: Ben Gurion International Airport (9 km)"
+    }
   }
 ]
