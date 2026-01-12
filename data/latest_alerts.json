@@ -74,5 +74,43 @@
       "operational_impact": "Potential for flight route changes, cargo delays, and increased security screening for personnel and assets in the region.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "db108a8bfa7fab2be1c7ba961a798abb",
+    "timestamp": "2026-01-12T05:05:16.090083",
+    "original_title": "South Korea to probe drones North Korea says violated its airspace",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qalxbv/south_korea_to_probe_drones_north_korea_says/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 10,
+      "location": "Seoul, South Korea",
+      "latitude": 37.5665,
+      "longitude": 126.9779,
+      "detailed_analysis": "North Korea claims that drones from South Korea have violated its airspace, prompting an investigation by South Korea. This incident has the potential to escalate tensions between the two nations and impact aviation operations in the region.",
+      "immediate_forecast_24h": "Increased military alertness and potential disruptions to air traffic in the region. South Korea's investigation may reveal more information about the drones and their origin, which could influence the situation.",
+      "strategic_outlook": "Long-term implications may include increased surveillance and security measures along the Demilitarized Zone (DMZ) and potential changes to aviation regulations or protocols to prevent similar incidents in the future.",
+      "operational_impact": "Potential disruptions to air traffic, increased security measures for aviation operations, and possible restrictions on drone usage in the region. This could affect cargo transport, aviation personnel, and overall logistics in the area.",
+      "proximity_alert": "YAKIN TEHDİT: Incheon International Airport (14 km)"
+    }
+  },
+  {
+    "id": "96f46520a996d1289376d1c4143afd50",
+    "timestamp": "2026-01-12T05:05:18.725245",
+    "original_title": "Netanyahu Backs Iran Protests Says Israel 'In Awe Of The Citizens Heroism'",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qalei9/netanyahu_backs_iran_protests_says_israel_in_awe/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Iran/Israel",
+      "latitude": 32.0,
+      "longitude": 34.8,
+      "detailed_analysis": "The statement by Netanyahu in support of Iran protests may escalate tensions between Iran and Israel, potentially affecting aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Increased rhetoric and potential for protests or demonstrations in Iran and Israel, with possible disruptions to air travel and logistics.",
+      "strategic_outlook": "Long-term instability in the region may lead to increased security measures, affecting transport and logistics operations, and potentially impacting global supply chains.",
+      "operational_impact": "Possible delays or cancellations of flights, increased security checks for cargo and passengers, and potential for unrest to spread to other countries in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Ben Gurion International Airport (9 km)"
+    }
   }
 ]
