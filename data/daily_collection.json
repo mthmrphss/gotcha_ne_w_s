@@ -929,5 +929,62 @@
       "operational_impact": "Potential disruptions to air travel, cargo transport, and personnel movement in and out of Iran, with possible spillover effects into neighboring countries.",
       "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
     }
+  },
+  {
+    "id": "19ec77169f0a7fba8eb19742276caa44",
+    "timestamp": "2026-01-12T11:44:44.026589",
+    "original_title": "Iran Prepared for War but Ready to Negotiate With U.S., Foreign Minister Says",
+    "link": "https://www.nytimes.com/2026/01/12/world/middleeast/iran-protests-trump-us.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Iran's readiness for war and willingness to negotiate with the U.S. indicates a high level of tension that could escalate into conflict, potentially affecting aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Increased military presence and heightened security measures are expected in the short term, with potential for disruptions to air travel and cargo transport.",
+      "strategic_outlook": "A prolonged conflict could lead to significant disruptions to global supply chains, particularly in the aviation and cargo sectors, with potential for long-term economic and strategic implications.",
+      "operational_impact": "Flights to and from Iran may be affected, and cargo shipments may be delayed or diverted due to increased security measures and potential conflict in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "407151445b3d73f00ad3c87be564a099",
+    "timestamp": "2026-01-12T11:44:46.790615",
+    "original_title": "German MEP urges EU to list Iran’s Revolutionary Guards as terrorist group",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qasj96/german_mep_urges_eu_to_list_irans_revolutionary/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict",
+      "risk_score": 10,
+      "location": "Brussels, EU (related to Iran)",
+      "latitude": 50.8503,
+      "longitude": 4.3517,
+      "detailed_analysis": "A German MEP is urging the EU to list Iran's Revolutionary Guards as a terrorist group, which could lead to increased tensions and potential retaliatory actions from Iran, affecting aviation and cargo security in the region.",
+      "immediate_forecast_24h": "Increased diplomatic tensions between EU and Iran, potential for Iranian retaliation against EU interests, heightened security measures at EU airports and cargo facilities.",
+      "strategic_outlook": "Long-term escalation of tensions between EU and Iran, potential for increased terrorism risk in the region, impact on global cargo and aviation security protocols.",
+      "operational_impact": "Potential delays or disruptions to air cargo and passenger flights, increased security screening and protocols, possible rerouting of flights to avoid Iranian airspace.",
+      "proximity_alert": "YAKIN TEHDİT: SHERATON AIRPORT (0 km)"
+    }
+  },
+  {
+    "id": "152e42b96a2e5554ff8f22c54c8f6819",
+    "timestamp": "2026-01-12T11:44:48.537333",
+    "original_title": "Slovakia’s pro-Russian leadership halts all military aid to Ukraine, including weapons and EU loans",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qasgjw/slovakias_prorussian_leadership_halts_all/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 6,
+      "location": "Slovakia, Ukraine",
+      "latitude": 48.669,
+      "longitude": 19.6992,
+      "detailed_analysis": "Slovakia's pro-Russian leadership has halted all military aid to Ukraine, including weapons and EU loans, which may escalate tensions and impact regional stability, potentially affecting aviation and cargo operations.",
+      "immediate_forecast_24h": "Increased tensions between Slovakia, Ukraine, and other EU countries, potential for diplomatic fallout, and possible disruptions to logistics and transport in the region.",
+      "strategic_outlook": "Long-term implications for regional security, potential for increased conflict, and impact on international relations, which may lead to changes in aviation and cargo routes, as well as increased security measures.",
+      "operational_impact": "Potential disruptions to cargo and aviation operations, increased security measures, and possible rerouting of flights and shipments to avoid affected areas.",
+      "proximity_alert": null
+    }
   }
 ]
