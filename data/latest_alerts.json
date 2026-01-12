@@ -74,5 +74,81 @@
       "operational_impact": "The resumption of flights to Tehran may be impacted by the ongoing civil unrest and potential conflict, potentially leading to flight disruptions, delays, or cancellations. Passengers and cargo may be at risk, and airlines should exercise caution when operating in the region.",
       "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
     }
+  },
+  {
+    "id": "7a48b9041cd1b1623d8a762ca4a113d3",
+    "timestamp": "2026-01-12T13:59:02.447714",
+    "original_title": "Trump threatens 'strong' military action as Iran protest deaths rise - SDPB",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ1p2NndTRURUMmRUVGJMWFRteU1sdi05WEhQTWNPTlNSZDVQNWZ3TU5LNU5PdkpjVkgxLVBjTmJmZi1sU0dDQTdlM21zUmVoN3lhcTlRV3llYU1QNzRmVHNwaE9FT2s5cDhaOHdzcXBjVWdXX0xrU01RV3JIQlEwOU5hYm1NMEUwajVfWTJlRTc0UGJQYUpSUUgzVHktd1U?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 7,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The situation in Iran is escalating with rising protest deaths and threats of strong military action, posing a significant risk to assets, cargo, aviation, and personnel in the region.",
+      "immediate_forecast_24h": "Increased tensions and potential for further violence, with possible disruptions to air travel and logistics in the region.",
+      "strategic_outlook": "Long-term instability in Iran could lead to sustained disruptions to global supply chains and increased security concerns for aviation and cargo operations.",
+      "operational_impact": "Potential for flight cancellations, cargo delays, and increased security measures for personnel and assets in the region, with possible spillover effects on global trade and commerce.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "b7b377d040f5ec26f9241c48de0b9c1b",
+    "timestamp": "2026-01-12T13:59:07.088920",
+    "original_title": "Iran: Families search for loved ones among body bags",
+    "link": "https://www.france24.com/en/video/20260112-iran-families-search-for-loved-ones-among-body-bags-1",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The situation in Tehran, Iran, is marked by ongoing protests and a heavy-handed response from the authorities, resulting in a significant number of casualties. The demonstrations, which began over economic issues, have evolved into calls for the fall of the Iranian regime, indicating a high level of civil unrest and conflict.",
+      "immediate_forecast_24h": "The protests are likely to continue, with the potential for further escalation and violence. The authorities' response may become even more severe, leading to additional casualties and instability.",
+      "strategic_outlook": "The long-term outlook for Iran is uncertain, with the potential for prolonged civil unrest, conflict, and instability. This could have significant implications for regional security and global trade, particularly if the situation escalates further.",
+      "operational_impact": "The ongoing civil unrest and conflict in Iran may impact transport and logistics operations, particularly for cargo and aviation. There is a risk of disruptions to supply chains, and companies operating in the region should exercise caution and monitor the situation closely.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "2d162a92aacf23793c988576038ce356",
+    "timestamp": "2026-01-12T13:59:08.858806",
+    "original_title": "Haiti faces humanitarian, healthcare strain as gang violence disrupts NGO operations",
+    "link": "https://www.france24.com/en/tv-shows/perspective/20260112-haiti-faces-humanitarian-healthcare-strain-as-gang-violence-disrupts-ngo-operations",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 6,
+      "location": "Haiti",
+      "latitude": 18.9712,
+      "longitude": -72.2852,
+      "detailed_analysis": "Gang violence in Haiti is disrupting NGO operations, affecting access to healthcare and displacing over 1.4 million people, posing a significant threat to personnel and potentially impacting cargo and aviation operations.",
+      "immediate_forecast_24h": "Continued gang violence and instability are expected, with potential for increased displacement and disruption to humanitarian efforts.",
+      "strategic_outlook": "Long-term instability and conflict may lead to sustained disruptions to logistics and transport, with potential for increased risk to assets and personnel.",
+      "operational_impact": "Potential disruptions to cargo and aviation operations, with increased risk to personnel and assets, may require alternative routing or enhanced security measures.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "0f7ab4511024645c9b3a89028550bec8",
+    "timestamp": "2026-01-12T13:59:10.638141",
+    "original_title": "Israel prepares for potential Iranian attack as tension grows with US",
+    "link": "https://www.france24.com/en/israel-prepares-for-potential-iranian-attack-as-tension-grows-with-us",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "Jerusalem, Israel",
+      "latitude": 31.7833,
+      "longitude": 35.2167,
+      "detailed_analysis": "Israel is preparing for a potential attack from Iran due to growing tensions between the US and Iran, with concerns that US bases in Israel could be targeted, posing a significant threat to aviation and personnel",
+      "immediate_forecast_24h": "Heightened security measures are expected in Israel, with potential disruptions to air travel and logistics, and an increased risk of retaliatory attacks",
+      "strategic_outlook": "The ongoing tensions between the US and Iran may lead to a prolonged period of instability in the region, with potential long-term impacts on global trade and security",
+      "operational_impact": "Potential disruptions to air travel, increased security checks, and possible restrictions on cargo shipments, with a high risk of attack on US bases and Israeli assets",
+      "proximity_alert": null
+    }
   }
 ]
