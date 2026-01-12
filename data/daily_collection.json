@@ -36,5 +36,43 @@
       "operational_impact": "Potential for disruptions to air travel and cargo operations due to unrest, but currently no direct threats identified.",
       "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
     }
+  },
+  {
+    "id": "d9317959a624eef412e7bc1fd5f273a8",
+    "timestamp": "2026-01-12T21:46:58.463051",
+    "original_title": "Iran protests: Fact-checking claims of AI manipulation, low turnout",
+    "link": "https://www.france24.com/en/iran-protests-fact-checking-claims-of-ai-manipulation-low-turnout",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 6,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Protests in Iran have been ongoing for two weeks, despite internet blackouts, with thousands of Iranians mobilizing. Claims of AI manipulation and low turnout have been made, but the situation remains volatile and could impact aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Protests are likely to continue, with potential for increased violence and disruption to transport and logistics. Internet blackouts may limit the ability to monitor the situation in real-time.",
+      "strategic_outlook": "The long-term impact of the protests on the Iranian government and the region is uncertain, but could lead to increased instability and security risks for aviation, cargo, and personnel.",
+      "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics in Iran and the surrounding region. Personnel and assets in the area should exercise caution and monitor the situation closely.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "d0416a1099efec866a3161e287291c8b",
+    "timestamp": "2026-01-12T21:47:00.390021",
+    "original_title": "Former Corsican separatist leader Orsoni assassinated at mother's funeral",
+    "link": "https://www.france24.com/en/france/20260112-former-corsican-separatist-leader-orsoni-assassinated-mother-funeral",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict/Crime",
+      "risk_score": 6,
+      "location": "Ajaccio, France",
+      "latitude": 41.9253,
+      "longitude": 8.7389,
+      "detailed_analysis": "The assassination of a former Corsican separatist leader at his mother's funeral indicates a high level of violence and potential for further unrest. This could lead to increased tensions and potential threats to personnel and assets in the region.",
+      "immediate_forecast_24h": "Increased security presence and potential for retaliatory actions or protests in the next 24 hours, which may impact local transportation and logistics.",
+      "strategic_outlook": "Long-term implications include the potential for escalating violence and unrest in Corsica, which could affect the stability of the region and have broader implications for European security.",
+      "operational_impact": "Potential disruptions to local transportation, increased security checks, and possible impacts on aviation and maritime operations in the region due to heightened security concerns.",
+      "proximity_alert": null
+    }
   }
 ]
