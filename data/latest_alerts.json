@@ -1,97 +1,78 @@
 [
   {
-    "id": "2bf924f3aff4aecde37ab5d91a4ce841",
-    "timestamp": "2026-01-12T11:27:16.258473",
-    "original_title": "Situation in Iran 'under total control', claims government, as death roll reaches 544",
-    "link": "https://www.reddit.com/r/worldnews/comments/1qasfzz/situation_in_iran_under_total_control_claims/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Civil Unrest/Conflict",
-      "risk_score": 10,
-      "location": "Tehran, Iran",
-      "latitude": 35.6892,
-      "longitude": 51.389,
-      "detailed_analysis": "The situation in Iran is reported to be under total control by the government, but with a high death toll of 544, indicating significant unrest and potential for further escalation, which could impact aviation, cargo, and personnel safety.",
-      "immediate_forecast_24h": "Continued protests and potential for increased violence, affecting transport and logistics operations in the region.",
-      "strategic_outlook": "Long-term instability in Iran could lead to sustained disruptions in regional transport and logistics, affecting global supply chains and aviation operations.",
-      "operational_impact": "Potential disruptions to air travel, cargo transport, and personnel movement in and out of Iran, with possible spillover effects into neighboring countries.",
-      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
-    }
-  },
-  {
-    "id": "ee2ca7ffc15724bcdc887c9e009b208a",
-    "timestamp": "2026-01-12T11:27:19.689044",
-    "original_title": "ICE holds 'largest operation ever' in Minneapolis as protests continue",
-    "link": "https://www.france24.com/en/ice-holds-largest-operation-ever-in-minneapolis-as-protests-continue",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Civil Unrest/Border",
-      "risk_score": 4,
-      "location": "Minneapolis, USA",
-      "latitude": 44.9778,
-      "longitude": -93.265,
-      "detailed_analysis": "ICE operations and protests in Minneapolis may lead to disruptions in transportation and logistics, particularly for cargo and personnel. The situation has the potential to escalate, affecting the movement of goods and people.",
-      "immediate_forecast_24h": "Continued protests and potential clashes between protesters and law enforcement, with possible disruptions to traffic and transportation infrastructure.",
-      "strategic_outlook": "The situation may lead to increased tensions and unrest in the region, potentially affecting supply chains and the movement of goods. Long-term, the situation may stabilize, but the risk of future disruptions remains.",
-      "operational_impact": "Potential delays and disruptions to cargo transport, aviation, and personnel movement in the Minneapolis area. Companies operating in the region should be prepared for possible disruptions and have contingency plans in place.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "19ec77169f0a7fba8eb19742276caa44",
-    "timestamp": "2026-01-12T11:44:44.026589",
-    "original_title": "Iran Prepared for War but Ready to Negotiate With U.S., Foreign Minister Says",
-    "link": "https://www.nytimes.com/2026/01/12/world/middleeast/iran-protests-trump-us.html",
-    "source_name": "NewYork Times",
-    "ai_analysis": {
-      "category": "Conflict/Civil Unrest",
-      "risk_score": 10,
-      "location": "Tehran, Iran",
-      "latitude": 35.6892,
-      "longitude": 51.389,
-      "detailed_analysis": "Iran's readiness for war and willingness to negotiate with the U.S. indicates a high level of tension that could escalate into conflict, potentially affecting aviation and cargo operations in the region.",
-      "immediate_forecast_24h": "Increased military presence and heightened security measures are expected in the short term, with potential for disruptions to air travel and cargo transport.",
-      "strategic_outlook": "A prolonged conflict could lead to significant disruptions to global supply chains, particularly in the aviation and cargo sectors, with potential for long-term economic and strategic implications.",
-      "operational_impact": "Flights to and from Iran may be affected, and cargo shipments may be delayed or diverted due to increased security measures and potential conflict in the region.",
-      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
-    }
-  },
-  {
-    "id": "407151445b3d73f00ad3c87be564a099",
-    "timestamp": "2026-01-12T11:44:46.790615",
-    "original_title": "German MEP urges EU to list Iran’s Revolutionary Guards as terrorist group",
-    "link": "https://www.reddit.com/r/worldnews/comments/1qasj96/german_mep_urges_eu_to_list_irans_revolutionary/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Terrorism/Conflict",
-      "risk_score": 10,
-      "location": "Brussels, EU (related to Iran)",
-      "latitude": 50.8503,
-      "longitude": 4.3517,
-      "detailed_analysis": "A German MEP is urging the EU to list Iran's Revolutionary Guards as a terrorist group, which could lead to increased tensions and potential retaliatory actions from Iran, affecting aviation and cargo security in the region.",
-      "immediate_forecast_24h": "Increased diplomatic tensions between EU and Iran, potential for Iranian retaliation against EU interests, heightened security measures at EU airports and cargo facilities.",
-      "strategic_outlook": "Long-term escalation of tensions between EU and Iran, potential for increased terrorism risk in the region, impact on global cargo and aviation security protocols.",
-      "operational_impact": "Potential delays or disruptions to air cargo and passenger flights, increased security screening and protocols, possible rerouting of flights to avoid Iranian airspace.",
-      "proximity_alert": "YAKIN TEHDİT: SHERATON AIRPORT (0 km)"
-    }
-  },
-  {
-    "id": "152e42b96a2e5554ff8f22c54c8f6819",
-    "timestamp": "2026-01-12T11:44:48.537333",
-    "original_title": "Slovakia’s pro-Russian leadership halts all military aid to Ukraine, including weapons and EU loans",
-    "link": "https://www.reddit.com/r/worldnews/comments/1qasgjw/slovakias_prorussian_leadership_halts_all/",
+    "id": "6681a333408c885300ae5ac41f3e71fa",
+    "timestamp": "2026-01-12T13:02:14.547931",
+    "original_title": "Tehran ready for 'war and dialogue' with US",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qau4of/tehran_ready_for_war_and_dialogue_with_us/",
     "source_name": "Reddit r/WorldNews",
     "ai_analysis": {
       "category": "Conflict",
-      "risk_score": 6,
-      "location": "Slovakia, Ukraine",
-      "latitude": 48.669,
-      "longitude": 19.6992,
-      "detailed_analysis": "Slovakia's pro-Russian leadership has halted all military aid to Ukraine, including weapons and EU loans, which may escalate tensions and impact regional stability, potentially affecting aviation and cargo operations.",
-      "immediate_forecast_24h": "Increased tensions between Slovakia, Ukraine, and other EU countries, potential for diplomatic fallout, and possible disruptions to logistics and transport in the region.",
-      "strategic_outlook": "Long-term implications for regional security, potential for increased conflict, and impact on international relations, which may lead to changes in aviation and cargo routes, as well as increased security measures.",
-      "operational_impact": "Potential disruptions to cargo and aviation operations, increased security measures, and possible rerouting of flights and shipments to avoid affected areas.",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Tehran's readiness for 'war and dialogue' with the US indicates a heightened state of tension, potentially impacting aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Increased military presence and heightened security measures are expected in the short term, potentially disrupting air traffic and logistics.",
+      "strategic_outlook": "The situation may escalate into a full-scale conflict, affecting global oil prices, air travel, and cargo shipments, or it may lead to a diplomatic resolution, easing tensions in the region.",
+      "operational_impact": "Potential disruptions to air traffic, increased security checks, and possible restrictions on cargo shipments may impact operational efficiency and safety in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "8bfe34df6e6e10e682444c4ef9eaab0f",
+    "timestamp": "2026-01-12T13:02:16.822457",
+    "original_title": "Fire breaks out at power plant in Russia's Rostov Oblast, Astra reports",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qatz3d/fire_breaks_out_at_power_plant_in_russias_rostov/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Other",
+      "risk_score": 10,
+      "location": "Rostov Oblast, Russia",
+      "latitude": 47.2333,
+      "longitude": 39.7,
+      "detailed_analysis": "A fire broke out at a power plant in Russia's Rostov Oblast. Although the cause is not explicitly stated as an attack, the fact that it was reported by Astra suggests potential conflict-related implications. This could impact the regional power supply and have indirect effects on aviation and cargo operations in the area.",
+      "immediate_forecast_24h": "The situation is likely to be monitored closely by local authorities and energy providers to assess and mitigate any potential disruptions to the power supply. There might be increased security measures around critical infrastructure in the region.",
+      "strategic_outlook": "In the long term, this incident could lead to a review of security protocols at power plants and other critical infrastructure in Russia, potentially enhancing security measures to prevent future incidents. It may also lead to increased tensions or conflict escalation in the region, depending on the attributed cause of the fire.",
+      "operational_impact": "The immediate operational impact is likely to be minimal on aviation directly, but there could be indirect effects if the power outage affects airport or logistics operations. Cargo transport might experience delays if the power outage impacts rail or road networks in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Rostov-on-Don International Airport (3 km)"
+    }
+  },
+  {
+    "id": "1445dbd09dbaeca03447649b86df636a",
+    "timestamp": "2026-01-12T13:02:18.712311",
+    "original_title": "UK developing ballistic missiles for Ukraine capable of striking deep inside Russia",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qatlyo/uk_developing_ballistic_missiles_for_ukraine/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Ukraine, Russia",
+      "latitude": 50.0,
+      "longitude": 30.0,
+      "detailed_analysis": "The development of ballistic missiles by the UK for Ukraine, capable of striking deep inside Russia, significantly escalates the conflict between Ukraine and Russia, posing a substantial threat to regional stability and potentially affecting aviation and cargo operations in the area.",
+      "immediate_forecast_24h": "Increased tensions between Ukraine and Russia are expected, with potential for military escalation and impact on nearby transport routes.",
+      "strategic_outlook": "Long-term, this development could lead to a broader conflict involving more countries, affecting global supply chains, aviation safety, and regional security.",
+      "operational_impact": "Potential disruptions to air traffic, increased security measures for cargo and personnel, and heightened risk of military conflict affecting transport logistics in the region.",
       "proximity_alert": null
+    }
+  },
+  {
+    "id": "188f36b9eb6ce0f2e545a2b978975a92",
+    "timestamp": "2026-01-12T13:02:22.820654",
+    "original_title": "Lufthansa To Push Ahead With Tehran Route Relaunch Despite Deadly Protests And Threat Of U.S. Strikes",
+    "link": "https://www.paddleyourownkanoo.com/2026/01/12/lufthansa-to-push-ahead-with-tehran-route-relaunch-despite-deadly-protests-and-threat-of-u-s-strikes/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Aviation/Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Lufthansa's decision to resume flights to Tehran despite deadly protests and the threat of US strikes poses a significant risk to aviation safety and security. The presence of civil unrest and potential conflict in the region increases the likelihood of disruptions to flight operations.",
+      "immediate_forecast_24h": "Increased tensions and protests are expected in the short term, potentially affecting flight operations and passenger safety. The threat of US strikes adds an additional layer of uncertainty and risk.",
+      "strategic_outlook": "The long-term outlook for the region remains uncertain, with ongoing tensions between Iran and the US contributing to an elevated risk environment. Lufthansa's decision to resume flights may be subject to change based on evolving security conditions.",
+      "operational_impact": "The resumption of flights to Tehran may be impacted by the ongoing civil unrest and potential conflict, potentially leading to flight disruptions, delays, or cancellations. Passengers and cargo may be at risk, and airlines should exercise caution when operating in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
     }
   }
 ]
