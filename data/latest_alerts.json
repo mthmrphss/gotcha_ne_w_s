@@ -1,62 +1,5 @@
 [
   {
-    "id": "083376e74af65fd2864b060eb4289d95",
-    "timestamp": "2026-01-12T18:42:22.606653",
-    "original_title": "Mexico's president says U.S. military intervention ruled out after talks with Trump | CBC News",
-    "link": "https://www.reddit.com/r/worldnews/comments/1qb2ugt/mexicos_president_says_us_military_intervention/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict/Other",
-      "risk_score": 10,
-      "location": "Mexico City, Mexico",
-      "latitude": 19.4326,
-      "longitude": -99.1332,
-      "detailed_analysis": "Mexico's president has ruled out U.S. military intervention after talks with Trump, reducing the likelihood of conflict and its impact on assets, cargo, aviation, and personnel in the region.",
-      "immediate_forecast_24h": "Stability is expected to be maintained in the short term, with no significant disruptions to transport or logistics anticipated.",
-      "strategic_outlook": "The long-term outlook suggests a continued effort to resolve issues through diplomatic means, minimizing the risk of conflict and its effects on regional security and trade.",
-      "operational_impact": "The announcement is expected to have a minimal impact on operational activities, with transport and logistics operations likely to continue without significant disruptions.",
-      "proximity_alert": "YAKIN TEHDİT: Mexico City International Airport (6 km)"
-    }
-  },
-  {
-    "id": "e442e7831795584d624e7bb5bf398096",
-    "timestamp": "2026-01-12T18:42:24.675974",
-    "original_title": "As of today, the Russian invasion of Ukraine has gone on longer than the \"Great Patriotic War\".",
-    "link": "https://www.reddit.com/r/worldnews/comments/1qb2ovc/as_of_today_the_russian_invasion_of_ukraine_has/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 8,
-      "location": "Ukraine, Eastern Europe",
-      "latitude": 49.0,
-      "longitude": 32.0,
-      "detailed_analysis": "The prolonged Russian invasion of Ukraine poses significant threats to regional stability, potentially disrupting cargo transport, aviation, and personnel safety. The conflict's escalation could lead to increased militarization, affecting logistics and supply chains.",
-      "immediate_forecast_24h": "Continued clashes and potential escalation of violence, with possible impacts on nearby countries and international relations.",
-      "strategic_outlook": "Long-term instability in the region, potentially leading to a protracted conflict with far-reaching consequences for global security, trade, and economic stability.",
-      "operational_impact": "Potential disruptions to air and ground transportation, increased security measures, and heightened risk of accidents or attacks on personnel and assets.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "ff19e7bcf2ab47d08ec74ac0ae45f20b",
-    "timestamp": "2026-01-12T18:42:27.507087",
-    "original_title": "US troops in Mexico 'not on the table', Sheinbaum tells Trump",
-    "link": "https://www.france24.com/en/americas/20260112-us-troops-mexico-not-on-the-table-sheinbaum-trump",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict/Border/Civil Unrest",
-      "risk_score": 10,
-      "location": "Mexico City, Mexico",
-      "latitude": 19.4326,
-      "longitude": -99.1332,
-      "detailed_analysis": "The rejection of US President Donald Trump's suggestion to deploy US troops on Mexican soil to combat drug cartels indicates heightened tensions between the two nations, potentially escalating into civil unrest or conflict that could impact border security and logistics.",
-      "immediate_forecast_24h": "Tensions between the US and Mexico are expected to remain high, with potential for protests or demonstrations near the border or in major cities, which could disrupt transport and logistics operations.",
-      "strategic_outlook": "Long-term, the situation could lead to increased instability in the region, affecting cargo security, aviation operations, and personnel safety, particularly if drug cartels perceive the situation as an opportunity to expand their operations.",
-      "operational_impact": "Transport and logistics operations near the US-Mexico border may be affected by increased security measures, potential protests, or conflict, leading to delays or disruptions in cargo movement and aviation operations.",
-      "proximity_alert": "YAKIN TEHDİT: Mexico City International Airport (6 km)"
-    }
-  },
-  {
     "id": "8a61f9bd493cb6434e110ae1aece5aff",
     "timestamp": "2026-01-12T19:26:08.184272",
     "original_title": "Iran to execute 26 year old protesters on Wednesday",
@@ -110,6 +53,25 @@
       "immediate_forecast_24h": "Heightened security measures and increased military presence in the region are expected in the next 24 hours, potentially leading to disruptions in air traffic and cargo operations.",
       "strategic_outlook": "A long-term conflict in the region could have severe consequences for global trade, oil prices, and regional stability, making it essential for transport and logistics operators to develop contingency plans and monitor the situation closely.",
       "operational_impact": "Potential disruptions to air traffic, increased security checks, and possible restrictions on cargo operations in the region, which could impact supply chains and transportation networks.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "a388aebd3dea819b55976f7fa53f0ed0",
+    "timestamp": "2026-01-12T20:34:37.782365",
+    "original_title": "Blackout over Iran: Can the regime keep a lid on the nationwide uprising?",
+    "link": "https://www.france24.com/en/tv-shows/the-debate/20260112-blackout-over-iran-can-the-regime-keep-a-lid-on-the-nationwide-uprising",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 7,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Nationwide uprising in Iran entering its third week, with protests and a ferocious crackdown, including internet shutdown. This could lead to disruptions in logistics, cargo transport, and aviation.",
+      "immediate_forecast_24h": "Increased unrest and potential for further crackdowns, with possible disruptions to transport and logistics. Internet shutdown may impact communication and navigation systems.",
+      "strategic_outlook": "Long-term instability in Iran could lead to sustained disruptions in regional transport and logistics, with potential for conflict escalation and impact on global supply chains.",
+      "operational_impact": "Potential for delays or disruptions to cargo transport, aviation, and personnel movement in and out of Iran, with possible ripple effects on regional and global logistics operations.",
       "proximity_alert": null
     }
   }
