@@ -625,5 +625,81 @@
       "operational_impact": "Potential for flight disruptions, airspace restrictions, and increased security measures for personnel and cargo in the region, with possible ripple effects on global supply chains.",
       "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
     }
+  },
+  {
+    "id": "6ddec947173357249fbf1f5ae772f120",
+    "timestamp": "2026-01-12T09:39:52.456746",
+    "original_title": "Iran Says It’s Quelled Protests After Hundreds Reported Killed",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qaqdya/iran_says_its_quelled_protests_after_hundreds/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 6,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Protests in Iran have been reported, with hundreds killed. The Iranian government claims to have quelled the protests, but the situation remains volatile and could impact aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Increased security measures and potential disruptions to air travel and cargo transport are expected in the short term. Protests may reignite, and the situation could escalate further.",
+      "strategic_outlook": "The long-term outlook for the region remains uncertain, with potential for ongoing civil unrest and conflict. This could lead to increased risks for aviation, cargo, and personnel in the region.",
+      "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics operations in Iran and surrounding regions. Increased security measures and precautions may be necessary to ensure the safety of assets, cargo, aviation, and personnel.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "84fab95588b9555476f723a44aac8c99",
+    "timestamp": "2026-01-12T09:39:54.666159",
+    "original_title": "Humanitarian workers face rising attacks in Eastern DR Congo",
+    "link": "http://www.africanews.com/2026/01/12/humanitarian-workers-face-rising-attacks-in-eastern-dr-congo/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 7,
+      "location": "Eastern DR Congo",
+      "latitude": -2.5,
+      "longitude": 28.0,
+      "detailed_analysis": "Humanitarian workers in eastern DR Congo are facing increased risks due to rising insecurity, with 48 incidents recorded in December 2025, half of which occurred in South Kivu.",
+      "immediate_forecast_24h": "Insecurity is likely to persist, posing a threat to humanitarian operations and personnel in the region.",
+      "strategic_outlook": "The surge in attacks on humanitarian workers may lead to a long-term destabilization of the region, affecting aid delivery and personnel safety.",
+      "operational_impact": "Transport and logistics operations in support of humanitarian efforts may be disrupted or suspended due to the increased risk, affecting the delivery of critical supplies and personnel.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "9e2a19ce003127d55e81f158c5fb6305",
+    "timestamp": "2026-01-12T09:39:56.698579",
+    "original_title": "Live: Iran open to negotiations with US based on ‘mutual respect’, foreign minister says",
+    "link": "https://www.france24.com/en/middle-east/20260112-live-trump-says-iran-wants-to-negotiate-after-us-threatens-military-intervention",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Iran's willingness to negotiate with the US based on mutual respect may reduce tensions, but the situation remains volatile due to ongoing protests and potential for military intervention.",
+      "immediate_forecast_24h": "Tensions may ease slightly as both sides consider negotiations, but protests and unrest are likely to continue in Iran.",
+      "strategic_outlook": "A long-term resolution to US-Iran tensions could positively impact regional stability and trade, but the current situation poses risks to aviation and cargo operations in the region.",
+      "operational_impact": "Potential for increased security measures at airports and borders, possible disruptions to cargo shipments and aviation operations due to unrest or military action.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "4aaf8a5cdbb17be638be5896e50b59ea",
+    "timestamp": "2026-01-12T09:39:59.728733",
+    "original_title": "British Airways ‘Crashes Out’ Of Top On-Time Airlines Just Months After Boasting About Major Improvements",
+    "link": "https://www.paddleyourownkanoo.com/2026/01/12/british-airways-crashes-out-of-top-on-time-airlines-just-months-after-boasting-about-major-improvements/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Aviation/Other",
+      "risk_score": 10,
+      "location": "London, United Kingdom",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "detailed_analysis": "British Airways has experienced a decline in on-time performance despite investing in artificial intelligence to improve operational efficiency. The term 'crashes out' is used metaphorically and does not indicate an actual aviation incident.",
+      "immediate_forecast_24h": "No immediate disruption to flights or operations expected, but potential for continued decline in on-time performance.",
+      "strategic_outlook": "British Airways may need to reassess its operational strategies and investments in technology to improve efficiency and regain its position as a top on-time airline.",
+      "operational_impact": "Minimal impact on transport and logistics, but potential for increased delays and decreased customer satisfaction.",
+      "proximity_alert": "YAKIN TEHDİT: Heathrow Airport (23 km)"
+    }
   }
 ]
