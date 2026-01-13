@@ -701,5 +701,62 @@
       "operational_impact": "The diversion of flights may cause delays, inconvenience to passengers, and potential logistical challenges for airlines and airports involved.",
       "proximity_alert": "YAKIN TEHDİT: Adolfo Suárez Madrid–Barajas Airport (14 km)"
     }
+  },
+  {
+    "id": "32dfdb75604bd28ddfe14373dd6f810c",
+    "timestamp": "2026-01-13T11:45:33.844342",
+    "original_title": "Insurers on alert as Trump threatens to attack Iran - Insurance Business",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdFJITmdMTFJOZVdWMWVYci02TDBsdEVLVmlvYWpVM3NORjg4S09PU05JcHhaR0xrNUNDbTVsY0JOdjZYS0xQYVQ3VFFFSS1HTk1QNFFPTExyQnNvQWFCM1FFZlMtdGhENEc4WEJQX2tsLWZxSVl1UjJfQ202VTNJdXZLQWtnck1lSDd2UDRtdDZMVUw4MHB0S0JZLU5Sa1ZDcWFndW5pdWhzTXJMYTBJSTd1RVVkNUEtb0QzdXRQYw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The threat of an attack on Iran by the US poses a significant risk to assets, cargo, aviation, and personnel in the region. This could lead to increased tensions, potential military action, and disruption to logistics and transportation.",
+      "immediate_forecast_24h": "Heightened security measures are expected in the region, with potential for increased military presence and airspace restrictions. Insurers are on high alert, and transport operators should be prepared for possible disruptions.",
+      "strategic_outlook": "A prolonged conflict in the region could have long-term implications for global trade, energy markets, and regional stability. Transport operators should consider contingency planning and risk mitigation strategies to minimize potential impacts.",
+      "operational_impact": "Potential disruptions to air and sea transport, increased security checks, and possible restrictions on cargo movements. Operators should monitor the situation closely and be prepared to adapt to changing circumstances.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "e86b261ff3599ded0dd1be18c5715d3f",
+    "timestamp": "2026-01-13T11:45:37.154625",
+    "original_title": "A Kurdish female fighter was executed and thrown from a building by the Syrian army",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1qbp6ey/a_kurdish_female_fighter_was_executed_and_thrown/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "Syria",
+      "latitude": 35.0,
+      "longitude": 38.0,
+      "detailed_analysis": "The execution of a Kurdish female fighter by the Syrian army indicates a high level of conflict and instability in the region, posing a significant threat to personnel and potentially disrupting aviation and cargo operations.",
+      "immediate_forecast_24h": "Escalation of violence between Kurdish forces and the Syrian army is possible, leading to increased instability and potential disruptions to transport and logistics in the region.",
+      "strategic_outlook": "The long-term outlook for the region remains uncertain, with ongoing conflict and instability likely to continue posing a threat to assets, cargo, aviation, and personnel.",
+      "operational_impact": "The conflict may impact air transport and cargo operations, particularly in areas near the conflict zone, and may also affect personnel safety and security in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "f9d2231d9738ef77b847a0bb26b73aa2",
+    "timestamp": "2026-01-13T11:45:41.550700",
+    "original_title": "Travellers stranded as icy conditions close airports across central Europe",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/vienna-airport-budapest-prague-closed-b2899470.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Budapest, Hungary",
+      "latitude": 47.4397,
+      "longitude": 19.1395,
+      "detailed_analysis": "Icy conditions have led to the temporary closure of Budapest airport due to increased safety risks, stranding travelers. This is a weather-related incident rather than a malicious threat.",
+      "immediate_forecast_24h": "Airport operations are expected to resume once the icy conditions improve, likely within the next 24 hours, depending on weather forecasts.",
+      "strategic_outlook": "This incident highlights the importance of weather monitoring and contingency planning for airports to minimize disruptions to air travel.",
+      "operational_impact": "The closure of the airport will cause delays and cancellations of flights, affecting both passengers and cargo, but the impact is expected to be temporary.",
+      "proximity_alert": "YAKIN TEHDİT: Budapest Ferenc Liszt International Airport (8 km)"
+    }
   }
 ]
