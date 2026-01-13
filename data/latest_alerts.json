@@ -74,5 +74,43 @@
       "operational_impact": "Potential disruptions to air traffic, increased security measures for airliners, and heightened awareness among aviation personnel and passengers.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "377feb3cbe008bd656991abfdee3b15c",
+    "timestamp": "2026-01-13T07:31:23.015958",
+    "original_title": "The Throwing of a Kurdish Female Fighter’s Body From a Height by Syrian Forces",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qbl215/the_throwing_of_a_kurdish_female_fighters_body/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Aleppo, Syria",
+      "latitude": 36.201,
+      "longitude": 37.161,
+      "detailed_analysis": "The incident involves the desecration of a Kurdish female fighter's body by Syrian forces, indicating heightened tensions and potential for further conflict in the region, which could impact local transport and logistics operations.",
+      "immediate_forecast_24h": "Increased violence and unrest are possible in the short term, particularly in areas with Kurdish and Syrian forces' presence, affecting local security and potentially disrupting transport routes.",
+      "strategic_outlook": "Long-term instability in the region could lead to sustained conflict, affecting not only local but also regional security, potentially impacting air transport, cargo operations, and personnel safety.",
+      "operational_impact": "Transport and logistics operations in the region may face disruptions due to the conflict, including potential risks to personnel, cargo, and aviation assets, necessitating heightened security measures and contingency planning.",
+      "proximity_alert": "YAKIN TEHDİT: Aleppo International Airport (6 km)"
+    }
+  },
+  {
+    "id": "499ef3f040960ab5220df854fb8bd92c",
+    "timestamp": "2026-01-13T07:31:24.855872",
+    "original_title": "Referee and student among hundreds killed in Iran protests",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qbkgjh/referee_and_student_among_hundreds_killed_in_iran/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 7,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Protests in Iran have resulted in hundreds of deaths, including a referee and a student, indicating a high level of unrest and potential for further violence. This could impact the safety of personnel and assets in the region.",
+      "immediate_forecast_24h": "The situation is likely to remain volatile, with potential for further clashes between protesters and security forces. There is a risk of disruption to transport and logistics in the region.",
+      "strategic_outlook": "The long-term outlook for the region is uncertain, with potential for ongoing unrest and conflict. This could have a significant impact on the safety and security of assets, cargo, aviation, and personnel in the region.",
+      "operational_impact": "The unrest in Iran could impact the safety and security of transport and logistics operations in the region, including potential disruptions to air travel, road transport, and cargo shipments.",
+      "proximity_alert": null
+    }
   }
 ]
