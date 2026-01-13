@@ -188,5 +188,43 @@
       "operational_impact": "The current situation may lead to increased security measures at the US airbase in Greenland and potentially affect cargo and personnel movements, but no significant disruptions are expected at this time.",
       "proximity_alert": "YAKIN TEHDİT: Copenhagen Airport (1 km)"
     }
+  },
+  {
+    "id": "6b0a9228eaa6b4f2687cce15be4143a3",
+    "timestamp": "2026-01-13T04:47:02.577806",
+    "original_title": "Ukraine toils to restore power and heat, Zelenskiy warns of new attack",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qbho2s/ukraine_toils_to_restore_power_and_heat_zelenskiy/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "Ukraine is experiencing significant disruptions to power and heat due to ongoing conflict, with President Zelenskiy warning of a potential new attack. This situation poses a high risk to assets, cargo, aviation, and personnel in the region.",
+      "immediate_forecast_24h": "Expect continued disruptions to essential services and potential escalation of conflict, which may impact transport and logistics operations in the area.",
+      "strategic_outlook": "The long-term outlook for the region remains uncertain, with potential for prolonged conflict and instability. This may lead to sustained disruptions to transport and logistics, as well as increased risk to assets and personnel.",
+      "operational_impact": "The conflict in Ukraine may impact air transport, with potential for flight disruptions or restrictions. Additionally, ground transport and logistics operations may be affected by the lack of power and heat, as well as potential security risks.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "1ef799335ebfa32ee14ef827bdf95577",
+    "timestamp": "2026-01-13T04:47:06.062255",
+    "original_title": "Live: Vance urges diplomacy as Trump weighs possible strikes on Iran",
+    "link": "https://www.france24.com/en/middle-east/20260113-live-vance-urges-diplomacy-as-trump-weighs-possible-strikes-on-iran",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The situation in Iran is escalating with government crackdowns on protestors, resulting in a significant number of casualties. The US President's threat of air strikes and tariffs on countries doing business with Iran increases the risk of conflict and potential disruption to aviation and logistics in the region.",
+      "immediate_forecast_24h": "The situation is likely to remain volatile, with potential for further clashes between protestors and government forces. The US President's threats may lead to increased tensions and potential military action, which could impact aviation and logistics operations in the region.",
+      "strategic_outlook": "The long-term outlook is uncertain, with potential for a prolonged period of unrest and conflict in Iran. This could lead to significant disruptions to global supply chains, particularly for companies with operations or dependencies in the region.",
+      "operational_impact": "The conflict and potential air strikes may impact aviation operations, including flight routes and schedules. Additionally, the threat of tariffs on countries doing business with Iran may disrupt logistics and supply chain operations, particularly for companies with dependencies on Iranian goods or services.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
   }
 ]
