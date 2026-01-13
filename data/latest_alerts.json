@@ -1,24 +1,5 @@
 [
   {
-    "id": "94c207a81160e478ecc8c4a4997fd929",
-    "timestamp": "2026-01-13T19:45:10.747577",
-    "original_title": "Iran says 'ready for war' as Trump weighs strikes",
-    "link": "https://www.france24.com/en/video/20260113-iran-says-ready-for-war-as-trump-weighs-strikes-1",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict/Civil Unrest",
-      "risk_score": 10,
-      "location": "Tehran, Iran",
-      "latitude": 35.6892,
-      "longitude": 51.389,
-      "detailed_analysis": "The situation in Iran is escalating with the government's brutal crackdown on protests, and the US President's comments may further inflame the situation, potentially leading to increased violence and instability.",
-      "immediate_forecast_24h": "Heightened tensions and potential for further clashes between protesters and government forces, with possible US involvement through strikes or other means, which could impact aviation and cargo operations in the region.",
-      "strategic_outlook": "Long-term instability in Iran could lead to increased risk of terrorism, cyber attacks, and disruption to global supply chains, particularly for oil and other critical commodities.",
-      "operational_impact": "Potential disruption to air travel and cargo shipments in and out of Iran, as well as neighboring countries, due to increased security measures, airspace restrictions, or direct attacks on aviation assets.",
-      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
-    }
-  },
-  {
     "id": "ce1ca994f848c93b209b5585241247e9",
     "timestamp": "2026-01-13T20:33:24.954294",
     "original_title": "US aircraft that attacked suspected drug boat reportedly disguised as civilian plane - The Guardian",
@@ -35,6 +16,25 @@
       "strategic_outlook": "Long-term implications include increased militarization of anti-drug efforts, potential for civilian casualties, and escalation of drug cartels' tactics.",
       "operational_impact": "Potential disruption to air and sea logistics, increased security protocols for cargo and personnel, and heightened vigilance for suspicious activity in the region.",
       "proximity_alert": "YAKIN TEHDİT: Miami International Airport (10 km)"
+    }
+  },
+  {
+    "id": "2e2fb653a986e2886028dea342dcd508",
+    "timestamp": "2026-01-13T21:28:48.286477",
+    "original_title": "Israeli and Arab officials have privately suggested U.S. hold off on Iran strikes",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1qc2gpz/israeli_and_arab_officials_have_privately/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Middle East",
+      "latitude": 32.0,
+      "longitude": 34.0,
+      "detailed_analysis": "Israeli and Arab officials have suggested the US hold off on Iran strikes, indicating a potential escalation of conflict in the region, which could impact aviation and cargo operations.",
+      "immediate_forecast_24h": "Increased tensions between the US, Israel, and Iran may lead to heightened security measures and potential disruptions to air travel and cargo transport in the region.",
+      "strategic_outlook": "A prolonged conflict in the Middle East could have long-term implications for global trade, aviation, and cargo security, potentially leading to increased costs, delays, and risks for transport and logistics operations.",
+      "operational_impact": "Potential disruptions to air travel, increased security screening, and possible restrictions on cargo transport may impact operational efficiency and safety in the region.",
+      "proximity_alert": null
     }
   }
 ]
