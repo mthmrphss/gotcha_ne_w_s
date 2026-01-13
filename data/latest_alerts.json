@@ -1,24 +1,5 @@
 [
   {
-    "id": "fc3239e07ca2fddc338a2c7ae0d2e07f",
-    "timestamp": "2026-01-13T21:49:43.917102",
-    "original_title": "How to Ensure that $11 Billion in Potential Arms Sales Would Actually Help Taiwan",
-    "link": "https://warontherocks.com/2026/01/how-to-ensure-that-11-billion-in-potential-arms-sales-would-actually-help-taiwan/",
-    "source_name": "War on the Rocks",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 8,
-      "location": "Taiwan",
-      "latitude": 23.5,
-      "longitude": 121.0,
-      "detailed_analysis": "The potential $11 billion arms sales to Taiwan poses a significant threat to regional stability, with China condemning the move and responding with sanctions and large-scale military exercises around Taiwan. This escalation could impact aviation and cargo operations in the region.",
-      "immediate_forecast_24h": "Increased military activity and tensions between China and Taiwan, potentially disrupting air traffic and shipping lanes.",
-      "strategic_outlook": "Long-term implications of the arms sales could lead to a heightened state of alert for the Taiwan Strait, affecting trade and transport in the region.",
-      "operational_impact": "Potential disruptions to air and sea cargo operations, as well as increased security measures for personnel and assets in the region.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "459354f364acbb67d035268a9754a1d6",
     "timestamp": "2026-01-13T22:32:19.978486",
     "original_title": "Iran protests death toll tops 2,000, activists say, in worst upheaval since 1979 revolution",
@@ -53,6 +34,63 @@
       "immediate_forecast_24h": "The situation is likely to remain volatile, with continued protests and potential clashes between demonstrators and security forces. There is a risk of disruption to transportation and logistics, particularly in urban areas.",
       "strategic_outlook": "In the long term, the outcome of the uprising is uncertain, but it could potentially lead to a change in the Iranian regime, which would have significant implications for regional stability and global security. The involvement of external actors, such as Reza Pahlavi, adds complexity to the situation.",
       "operational_impact": "The unrest in Iran may impact air travel, cargo shipments, and personnel movements in the region. Airlines and logistics companies should be prepared for potential disruptions, including flight cancellations, delays, and changes to cargo routes.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "c020654b1d72e611f759787c586ba188",
+    "timestamp": "2026-01-13T23:25:44.147718",
+    "original_title": "What’s happening in Iran? Trump threatens military action, thousands feared dead - USA Today",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNU2VvTjdCWGhXeVc4N1VOQVVpdEVTZDRDVmxMZzZkM19vMk9rbzhReTAwb3M3cTdLN1BZMFdyQ0VMZlhoa29NdFRjNFpaOUhTZmdXal9pRFNPdC10TU83S1hjWjRMY3FzcnFZNUxFMVdnZUZLQlhoT1ZyNk5VUnFmaTVoQUtxbTc5SWViT2N1U2dZYjBmLWJ5UXpCVnBQYk1ZWnFud0lnVU9PanAwUXNR?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The situation in Iran is escalating with thousands feared dead and Trump threatening military action, which could lead to significant disruptions in aviation, cargo transport, and personnel safety.",
+      "immediate_forecast_24h": "Increased tensions and potential for further violence, with possible airspace restrictions and transport disruptions in the region.",
+      "strategic_outlook": "Long-term instability in the region could lead to sustained disruptions in global supply chains, increased security measures, and heightened risk of terrorism and conflict.",
+      "operational_impact": "Potential for flight cancellations, cargo delays, and increased security protocols for personnel and assets in the region, with possible ripple effects on global logistics and transport operations.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "62867351e3b2ca671009e10ccc45f809",
+    "timestamp": "2026-01-13T23:25:45.979546",
+    "original_title": "Five Years Later: Democracy After the January 6 Capitol Attack - Ash Center",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNajI1WVloWWdKUE5KQlNib0xvaTdJVGNFQ0VoX1A3M0JtbUdlTGRDV01PRmhLLU9HQ3d5MmtadGNXcF9EUXNBODUyU1h0ZkVwTlNVR2FfNzNUT2lBUjVScWx3VlBTQ3Q5T0U0RjhENzljbVEtMVNtVzRpYlJSNEVhdkhtNXNaNEo2NUFHaGxCVlpXYlJTWVJaLTA2VQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Washington D.C., USA",
+      "latitude": 38.8951,
+      "longitude": -77.0364,
+      "detailed_analysis": "The article discusses the January 6 Capitol Attack and its impact on democracy five years later. There is no direct threat to assets, cargo, aviation, or personnel, but the event highlights the potential for civil unrest and its implications on national security and stability.",
+      "immediate_forecast_24h": "No immediate threats are expected, but the anniversary of the event may lead to increased security measures and potential protests or demonstrations.",
+      "strategic_outlook": "The long-term view suggests that the aftermath of the Capitol Attack has led to increased polarization and potential for future civil unrest, which could impact the security and stability of the region.",
+      "operational_impact": "The event may lead to increased security checks and protocols, potentially causing minor disruptions to transport and logistics in the Washington D.C. area, but no significant operational impact is expected.",
+      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
+    }
+  },
+  {
+    "id": "9008777a1470a50c2b4f124185bad706",
+    "timestamp": "2026-01-13T23:25:47.730824",
+    "original_title": "Trump faces limited set of military options on Iran - Politico",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOUNmVVNhS2dsbjRwbHpuN0VBRFFTNUpLcFF6S0RsNm1WUTRKSmlUOFRwS2ZJc2Z5QzRoem14MF9RV2t5WmlxT0hLbVF0STNVY2wtMFkxN2hpRldPUGplWlRoVElxMHFiQUFIZjVJTGNqRER1bVpvNzJvVXVCVEwzb29B?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Iran, Middle East",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The article discusses the limited military options available to the US in response to Iran, indicating a potential for conflict escalation. This could impact aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Increased tensions between the US and Iran may lead to heightened security measures and potential disruptions to air travel and cargo transport in the region.",
+      "strategic_outlook": "A prolonged conflict could have long-term implications for global supply chains, aviation security, and regional stability.",
+      "operational_impact": "Potential for flight restrictions, cargo delays, and increased security protocols for personnel and assets in the region.",
       "proximity_alert": null
     }
   }
