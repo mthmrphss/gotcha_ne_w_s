@@ -986,5 +986,43 @@
       "operational_impact": "The situation may lead to increased security measures and potential delays for cargo and personnel transiting through or near Iran, with possible disruptions to air and land transport operations.",
       "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
     }
+  },
+  {
+    "id": "68a8935ad3098d80a80eb2dd7cae5d64",
+    "timestamp": "2026-01-13T14:36:43.571332",
+    "original_title": "Syria's Kurds protest Aleppo violence as fears of wider conflict grow - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPb2hpS2hRSDZweU5BeWZieEhjTkZCNXliWlAzT09Ub0oxczlOWlNfcDIzbXlNdXJyUmhPYzlxSGJmd2ZZSTR0YjdnR0ROeWdZMF92TXQ1QXhibUpLTjlVZm1keE05NVhNd1Y2eDRFUzAtd0FGNlZFZlB5T2JiVkNNaTFJZ2pja0gwOEtCWFp5X2taME84QXBzYndaSldwM3VnWmsxUDZIb3NBYjE4VGFXdk9fMDJ1VDQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Aleppo, Syria",
+      "latitude": 36.2122,
+      "longitude": 37.1567,
+      "detailed_analysis": "Protests by Syria's Kurds in response to violence in Aleppo indicate rising tensions and potential for wider conflict, posing a threat to assets, cargo, aviation, and personnel in the region.",
+      "immediate_forecast_24h": "Escalation of protests and violence is possible, with potential for disruptions to transport and logistics in the area.",
+      "strategic_outlook": "The situation in Aleppo and surrounding areas may deteriorate further, leading to increased instability and security risks for assets and personnel in the region.",
+      "operational_impact": "Transport and logistics operations in the region may be affected by the unrest, with potential for delays, disruptions, or even suspension of services.",
+      "proximity_alert": "YAKIN TEHDİT: Aleppo International Airport (6 km)"
+    }
+  },
+  {
+    "id": "fbfe4f4a9869f1e50a587723bbfbe5eb",
+    "timestamp": "2026-01-13T14:36:49.130251",
+    "original_title": "Gunmen attack three industrial sites in western Mali, kidnap civilians",
+    "link": "http://www.africanews.com/2026/01/13/gunmen-attack-three-industrial-sites-in-western-mali-kidnap-civilians/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict/Crime/Civil Unrest",
+      "risk_score": 7,
+      "location": "Western Mali",
+      "latitude": 16.0,
+      "longitude": -8.0,
+      "detailed_analysis": "Gunmen attacked three industrial sites in western Mali, kidnapping civilians, indicating a heightened threat to personnel and assets in the region. The attacks are likely aimed at disrupting the local economy and could be part of a broader campaign by jihadists.",
+      "immediate_forecast_24h": "Increased security measures are expected in the region, with potential for further attacks on industrial sites or transportation infrastructure. Civilians and personnel in the area should exercise extreme caution.",
+      "strategic_outlook": "The long-term outlook for the region remains unstable, with the potential for continued attacks by jihadist groups. This could lead to increased costs for security and potential disruptions to supply chains and logistics operations.",
+      "operational_impact": "Transportation and logistics operations in western Mali may be impacted, with potential delays or disruptions to cargo shipments. Companies operating in the region should review their security protocols and consider alternative routes or measures to mitigate risk.",
+      "proximity_alert": null
+    }
   }
 ]
