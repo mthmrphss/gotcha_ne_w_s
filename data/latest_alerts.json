@@ -1,43 +1,5 @@
 [
   {
-    "id": "d30ae8a4796664740e1a76a10538c6ea",
-    "timestamp": "2026-01-14T22:30:23.094564",
-    "original_title": "US Evacuates Personnel from Al Udeid Air Base as Trump Weighs Military Action Against Iran - Air & Space Forces Magazine",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSWhGelJDZTlkc2x3RTh1SEVDY011UlJidjBxamg0a1VtajBFRkZaWGpxMWVDVlAyMWdDT0JJTmV3THFoSTVkY2RScE5LcmxmRTRKdU14bC0tTHJnVTdjQ1F2VWNrRlNBWUswV3UtWWhSNjVEMWUtSV9rOE5WY0FqY1FfWQ?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Conflict/Aviation",
-      "risk_score": 8,
-      "location": "Al Udeid Air Base, Qatar",
-      "latitude": 25.1167,
-      "longitude": 51.3167,
-      "detailed_analysis": "The US has evacuated personnel from Al Udeid Air Base due to potential military action against Iran, indicating a heightened threat to aviation and personnel in the region.",
-      "immediate_forecast_24h": "Increased military activity and potential retaliation from Iran may lead to further evacuations or disruptions to air operations in the next 24 hours.",
-      "strategic_outlook": "The escalation of tensions between the US and Iran may lead to a prolonged period of instability in the region, affecting aviation and logistics operations for an extended period.",
-      "operational_impact": "The evacuation of personnel and potential military action may disrupt air traffic and logistics operations in the region, potentially affecting cargo transport and personnel safety.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "f9cd013ad1a7272b3dd64e22f6d181cc",
-    "timestamp": "2026-01-14T22:33:00.061607",
-    "original_title": "Leak exposes identities of thousands of ICE, Border Patrol agents: Reports",
-    "link": "https://www.reddit.com/r/worldnews/comments/1qd0rac/leak_exposes_identities_of_thousands_of_ice/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Border/Cyber",
-      "risk_score": 6,
-      "location": "United States",
-      "latitude": 37.0902,
-      "longitude": -95.7129,
-      "detailed_analysis": "A data leak has exposed the identities of thousands of ICE and Border Patrol agents, potentially putting them at risk of targeted attacks or harassment. This could lead to increased security concerns and potential disruptions to border operations.",
-      "immediate_forecast_24h": "In the next 24 hours, we can expect increased scrutiny of the leak and potential fallout, including calls for investigations and enhanced security measures to protect affected agents.",
-      "strategic_outlook": "In the long term, this incident highlights the need for robust cybersecurity measures to protect sensitive information and the potential consequences of data breaches on national security and law enforcement operations.",
-      "operational_impact": "The leak may lead to increased security protocols and precautions for border personnel, potentially causing delays or disruptions to border crossings and logistics operations.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "60b51768d09b8d71936d9c659456f22c",
     "timestamp": "2026-01-14T23:23:50.768043",
     "original_title": "U.S. Moves Some Personnel From Qatar Air Base as Trump Weighs Military Response to Iran - The New York Times",
@@ -92,6 +54,25 @@
       "strategic_outlook": "Long-term stability in Iran is uncertain, with potential for continued unrest and conflict that could impact regional security and global trade routes, particularly if the situation escalates or spreads to other areas.",
       "operational_impact": "While there is currently no direct operational impact on transport or logistics, the situation bears monitoring due to the potential for future disruptions, especially if the unrest affects critical infrastructure or key trade routes.",
       "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "630f8e7237c7423257b2d67f8f498cdb",
+    "timestamp": "2026-01-14T23:43:49.804090",
+    "original_title": "Iran closes airspace with anticipated US attack 'imminent'",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qd1y8v/iran_closes_airspace_with_anticipated_us_attack/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 8,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Iran has closed its airspace due to an anticipated US attack, posing a significant threat to aviation and potentially affecting cargo and personnel in the region.",
+      "immediate_forecast_24h": "Increased military presence and heightened security measures are expected in the region, potentially leading to disruptions in air traffic and logistics.",
+      "strategic_outlook": "The conflict may escalate, leading to a prolonged period of instability and increased risk for assets, cargo, and personnel in the region.",
+      "operational_impact": "Flights may be grounded or rerouted, and cargo shipments may be delayed or diverted, resulting in significant operational disruptions and potential losses.",
+      "proximity_alert": null
     }
   }
 ]
