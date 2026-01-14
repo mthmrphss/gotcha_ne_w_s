@@ -1271,5 +1271,43 @@
       "operational_impact": "Potential disruptions to flights and cargo shipments in and out of Tehran, increased security measures at airports, and possible delays or cancellations of flights due to the volatile situation.",
       "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
     }
+  },
+  {
+    "id": "f0a12171c6e3a275b24a06a6087d8fd4",
+    "timestamp": "2026-01-14T19:25:21.595802",
+    "original_title": "Ukraine's Zelenskiy to declare energy emergency after Russian attacks",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qcwh55/ukraines_zelenskiy_to_declare_energy_emergency/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "Ukraine's President Zelenskiy is set to declare an energy emergency due to Russian attacks, which could lead to disruptions in energy supply and potentially impact critical infrastructure, including transportation and logistics.",
+      "immediate_forecast_24h": "Increased risk of power outages, disruptions to transportation and logistics, and potential escalation of conflict in the region.",
+      "strategic_outlook": "Long-term impact on Ukraine's energy sector, potential for prolonged conflict, and increased risk of cyber attacks on critical infrastructure.",
+      "operational_impact": "Potential disruptions to air travel, cargo transport, and personnel movement in the region, with increased risk of delays, cancellations, and security breaches.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "dd4f37b2d0e02e685f2bba574dfd8b58",
+    "timestamp": "2026-01-14T19:25:25.891103",
+    "original_title": "Suspected drones cause disruption at Heathrow airport with flights delayed",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/heathrow-airport-drones-disruption-delays-b2900532.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Heathrow, United Kingdom",
+      "latitude": 51.47,
+      "longitude": -0.4614,
+      "detailed_analysis": "Suspected drone sightings have caused disruption at Heathrow airport, resulting in flight delays. The incident highlights the potential threat of drone activity to aviation operations and the need for enhanced security measures.",
+      "immediate_forecast_24h": "Further disruptions are possible if the drone sightings continue, and airport authorities may implement additional security protocols to mitigate the threat.",
+      "strategic_outlook": "The incident underscores the importance of developing and implementing effective counter-drone technologies and strategies to protect aviation assets from similar threats in the future.",
+      "operational_impact": "The disruption may cause delays and cancellations of flights, affecting passengers, cargo, and overall airport operations, with potential ripple effects on the broader logistics and supply chain.",
+      "proximity_alert": "YAKIN TEHDİT: Heathrow Airport (0 km)"
+    }
   }
 ]
