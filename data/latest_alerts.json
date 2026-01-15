@@ -1,62 +1,5 @@
 [
   {
-    "id": "cc3a1233db50b5c7ecfb85ee17b559da",
-    "timestamp": "2026-01-15T08:39:55.393510",
-    "original_title": "Palo Alto Fixes GlobalProtect DoS Flaw That Can Crash Firewalls Without Login - The Hacker News",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTGE2ZTZWRzlYa1pxZ2FWU3NfaHZyRzhJVk5oZjE0b19uWWxKNHZBYnRaYlNQbWU0SnMyTFZnWUxSVVRUUmlVRnZYcWI1bGQ0RUp6TTdSYzYwNVpkMWNKaGJRSWlhUnJITnFRT1l3VTc4S1NBZzNtcW5RTGZoWFVVRUEzdw?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Cyber",
-      "risk_score": 8,
-      "location": "Global",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "A Denial of Service (DoS) vulnerability in Palo Alto's GlobalProtect can crash firewalls without requiring login credentials, posing a significant threat to network security and potentially disrupting operations.",
-      "immediate_forecast_24h": "Palo Alto has released a fix for the vulnerability, but the window for potential exploitation remains open until all affected systems are updated.",
-      "strategic_outlook": "The long-term impact of this vulnerability highlights the importance of regular security updates and robust cybersecurity measures to protect against evolving threats.",
-      "operational_impact": "The potential for firewalls to be crashed without login could significantly impact network availability and security, affecting both cargo and personnel by disrupting critical infrastructure and services.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "8c642f1bf2ec8d8b04adb552b4de6282",
-    "timestamp": "2026-01-15T08:39:58.509749",
-    "original_title": "Trump’s Gulf Allies Do Not Want Him to Bomb Iran",
-    "link": "https://www.nytimes.com/2026/01/14/world/middleeast/gulf-trump-iran.html",
-    "source_name": "NewYork Times",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 10,
-      "location": "Gulf Region, Middle East",
-      "latitude": 24.4667,
-      "longitude": 54.3667,
-      "detailed_analysis": "The event suggests that Gulf Arab countries are concerned about the potential consequences of rising tensions between the US and Iran, which could lead to instability in the region and impact aviation and cargo operations.",
-      "immediate_forecast_24h": "Tensions between the US and Iran are likely to remain high, with a possibility of increased military presence in the region, which could lead to disruptions in air traffic and cargo shipments.",
-      "strategic_outlook": "The long-term outlook suggests that the conflict between the US and Iran could lead to a prolonged period of instability in the region, potentially affecting aviation and cargo operations, as well as the safety of personnel and assets.",
-      "operational_impact": "The potential conflict could lead to increased security measures, such as enhanced screening and surveillance, which could cause delays and disruptions in air traffic and cargo shipments, ultimately affecting the operational efficiency of logistics and transportation companies.",
-      "proximity_alert": "YAKIN TEHDİT: ABU DHABİ (1 km)"
-    }
-  },
-  {
-    "id": "3d6da2c87b37e82e716a95143618c035",
-    "timestamp": "2026-01-15T08:40:04.148391",
-    "original_title": "Thousands in Sofia protest for fair elections and government resignation",
-    "link": "http://www.africanews.com/2026/01/15/thousands-in-sofia-protest-for-fair-elections-and-government-resignation/",
-    "source_name": "Africa News",
-    "ai_analysis": {
-      "category": "Civil Unrest",
-      "risk_score": 10,
-      "location": "Sofia, Bulgaria",
-      "latitude": 42.6979,
-      "longitude": 23.3225,
-      "detailed_analysis": "The protest in Sofia for fair elections and government resignation may lead to disruptions in the city, but there is no direct indication of a threat to aviation, cargo, or personnel. The situation is being monitored for potential escalation.",
-      "immediate_forecast_24h": "The protests are likely to continue, potentially causing traffic disruptions and affecting local businesses, but no significant escalation is expected in the next 24 hours.",
-      "strategic_outlook": "The long-term impact of the protests will depend on the government's response and the ability of the opposition to maintain momentum. If the situation escalates, it could lead to increased instability in the region.",
-      "operational_impact": "The protests may cause delays or disruptions to ground transportation, but aviation and cargo operations are unlikely to be directly affected at this time.",
-      "proximity_alert": "YAKIN TEHDİT: Sofia Airport (7 km)"
-    }
-  },
-  {
     "id": "8b03f6e89f54e886a2b3c5f878ffdd19",
     "timestamp": "2026-01-15T09:35:17.195445",
     "original_title": "Denmark Increases Military Presence In Greenland As U.S. Seeks Control - Aviation Week Network",
@@ -111,6 +54,63 @@
       "strategic_outlook": "Long-term stability in Iran is uncertain, which could impact regional security and potentially affect transport and logistics operations. Ongoing monitoring of the situation is necessary to assess any emerging threats.",
       "operational_impact": "Currently, there's no direct operational impact on transport or logistics reported. However, the situation could change rapidly, and any escalation in violence or unrest could affect aviation, cargo movements, or personnel safety.",
       "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "2902214432793f6f65df84159e6807d6",
+    "timestamp": "2026-01-15T10:32:54.934357",
+    "original_title": "The U.S. Is Pressing Mexico to Allow U.S. Forces to Fight Cartels",
+    "link": "https://www.nytimes.com/2026/01/15/world/americas/us-mexico-cartels.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Crime/Border",
+      "risk_score": 10,
+      "location": "Mexico City, Mexico",
+      "latitude": 19.4326,
+      "longitude": -99.1332,
+      "detailed_analysis": "The U.S. is pressuring Mexico to allow U.S. forces to target fentanyl labs, which could lead to increased violence and instability in the region, potentially affecting cargo and personnel safety.",
+      "immediate_forecast_24h": "Tensions between the U.S. and Mexico may escalate, with potential for increased cartel activity and violence in the short term.",
+      "strategic_outlook": "Long-term, this could lead to increased militarization of the border region, potentially disrupting logistics and transport operations.",
+      "operational_impact": "Cargo and personnel may face increased risk of theft, smuggling, and violence, particularly in areas near the U.S.-Mexico border.",
+      "proximity_alert": "YAKIN TEHDİT: Mexico City International Airport (6 km)"
+    }
+  },
+  {
+    "id": "1895a4823a4f3f0cbe399903936c8852",
+    "timestamp": "2026-01-15T10:32:58.406234",
+    "original_title": "At least 100 children killed in Gaza since ceasefire: UN",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qdfrsm/at_least_100_children_killed_in_gaza_since/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "Gaza",
+      "latitude": 31.5,
+      "longitude": 34.45,
+      "detailed_analysis": "The recent escalation in Gaza has resulted in significant civilian casualties, including at least 100 children killed since the ceasefire. This indicates a high level of instability and violence in the region, posing a substantial threat to personnel and assets.",
+      "immediate_forecast_24h": "The situation is likely to remain volatile, with potential for further clashes and civilian casualties. There may be disruptions to transport and logistics in the region.",
+      "strategic_outlook": "The long-term outlook for the region remains uncertain, with ongoing tensions and conflict likely to continue. This may lead to sustained disruptions to transport and logistics, as well as increased risk to personnel and assets.",
+      "operational_impact": "The conflict in Gaza may impact aviation and cargo operations in the region, with potential for flight disruptions, cargo delays, and increased security measures. Personnel and assets in the region should exercise extreme caution and be prepared for potential evacuations or relocations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "fdfda0606d4fa3bb7a89577f32a1aa35",
+    "timestamp": "2026-01-15T10:33:03.557817",
+    "original_title": "Passenger fury at Aer Lingus after last-minute transatlantic flight cancellations",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/aer-lingus-manchester-airport-cancellations-b2900948.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Aviation/Civil Unrest",
+      "risk_score": 10,
+      "location": "Dublin, Ireland",
+      "latitude": 53.3441,
+      "longitude": -6.2675,
+      "detailed_analysis": "Last-minute transatlantic flight cancellations by Aer Lingus have sparked passenger fury, but there is no indication of a direct threat to assets, cargo, aviation, or personnel. The situation appears to be related to operational or logistical issues rather than a security threat.",
+      "immediate_forecast_24h": "Passenger disruptions and potential protests are possible in the short term, but no significant escalation of the situation is expected.",
+      "strategic_outlook": "The long-term impact on Aer Lingus and the aviation industry may involve changes in operational procedures or customer service policies to mitigate similar situations in the future.",
+      "operational_impact": "The cancellations may cause temporary disruptions to travel plans and potentially affect cargo transport, but the overall impact on logistics is expected to be minimal.",
+      "proximity_alert": "YAKIN TEHDİT: Clayton Hotel Dublin Airport (8 km)"
     }
   }
 ]

@@ -549,5 +549,62 @@
       "operational_impact": "Currently, there's no direct operational impact on transport or logistics reported. However, the situation could change rapidly, and any escalation in violence or unrest could affect aviation, cargo movements, or personnel safety.",
       "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
     }
+  },
+  {
+    "id": "2902214432793f6f65df84159e6807d6",
+    "timestamp": "2026-01-15T10:32:54.934357",
+    "original_title": "The U.S. Is Pressing Mexico to Allow U.S. Forces to Fight Cartels",
+    "link": "https://www.nytimes.com/2026/01/15/world/americas/us-mexico-cartels.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Crime/Border",
+      "risk_score": 10,
+      "location": "Mexico City, Mexico",
+      "latitude": 19.4326,
+      "longitude": -99.1332,
+      "detailed_analysis": "The U.S. is pressuring Mexico to allow U.S. forces to target fentanyl labs, which could lead to increased violence and instability in the region, potentially affecting cargo and personnel safety.",
+      "immediate_forecast_24h": "Tensions between the U.S. and Mexico may escalate, with potential for increased cartel activity and violence in the short term.",
+      "strategic_outlook": "Long-term, this could lead to increased militarization of the border region, potentially disrupting logistics and transport operations.",
+      "operational_impact": "Cargo and personnel may face increased risk of theft, smuggling, and violence, particularly in areas near the U.S.-Mexico border.",
+      "proximity_alert": "YAKIN TEHDİT: Mexico City International Airport (6 km)"
+    }
+  },
+  {
+    "id": "1895a4823a4f3f0cbe399903936c8852",
+    "timestamp": "2026-01-15T10:32:58.406234",
+    "original_title": "At least 100 children killed in Gaza since ceasefire: UN",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qdfrsm/at_least_100_children_killed_in_gaza_since/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "Gaza",
+      "latitude": 31.5,
+      "longitude": 34.45,
+      "detailed_analysis": "The recent escalation in Gaza has resulted in significant civilian casualties, including at least 100 children killed since the ceasefire. This indicates a high level of instability and violence in the region, posing a substantial threat to personnel and assets.",
+      "immediate_forecast_24h": "The situation is likely to remain volatile, with potential for further clashes and civilian casualties. There may be disruptions to transport and logistics in the region.",
+      "strategic_outlook": "The long-term outlook for the region remains uncertain, with ongoing tensions and conflict likely to continue. This may lead to sustained disruptions to transport and logistics, as well as increased risk to personnel and assets.",
+      "operational_impact": "The conflict in Gaza may impact aviation and cargo operations in the region, with potential for flight disruptions, cargo delays, and increased security measures. Personnel and assets in the region should exercise extreme caution and be prepared for potential evacuations or relocations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "fdfda0606d4fa3bb7a89577f32a1aa35",
+    "timestamp": "2026-01-15T10:33:03.557817",
+    "original_title": "Passenger fury at Aer Lingus after last-minute transatlantic flight cancellations",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/aer-lingus-manchester-airport-cancellations-b2900948.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Aviation/Civil Unrest",
+      "risk_score": 10,
+      "location": "Dublin, Ireland",
+      "latitude": 53.3441,
+      "longitude": -6.2675,
+      "detailed_analysis": "Last-minute transatlantic flight cancellations by Aer Lingus have sparked passenger fury, but there is no indication of a direct threat to assets, cargo, aviation, or personnel. The situation appears to be related to operational or logistical issues rather than a security threat.",
+      "immediate_forecast_24h": "Passenger disruptions and potential protests are possible in the short term, but no significant escalation of the situation is expected.",
+      "strategic_outlook": "The long-term impact on Aer Lingus and the aviation industry may involve changes in operational procedures or customer service policies to mitigate similar situations in the future.",
+      "operational_impact": "The cancellations may cause temporary disruptions to travel plans and potentially affect cargo transport, but the overall impact on logistics is expected to be minimal.",
+      "proximity_alert": "YAKIN TEHDİT: Clayton Hotel Dublin Airport (8 km)"
+    }
   }
 ]
