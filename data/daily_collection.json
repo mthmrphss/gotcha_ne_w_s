@@ -74,5 +74,24 @@
       "operational_impact": "The incident may cause disruptions to air travel, particularly for Turkish Airlines and flights operating in the region, with potential knock-on effects for cargo transport and passenger services",
       "proximity_alert": "YAKIN TEHDİT: Barcelona–El Prat Airport (12 km)"
     }
+  },
+  {
+    "id": "5409ca5f9fb38279019d8378442aee62",
+    "timestamp": "2026-01-15T23:28:09.778470",
+    "original_title": "Europeans quietly shift away from US tech services, share lists of local alternatives",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qdytqt/europeans_quietly_shift_away_from_us_tech/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 10,
+      "location": "Europe",
+      "latitude": 48.8567,
+      "longitude": 2.2945,
+      "detailed_analysis": "The shift away from US tech services in Europe may lead to increased use of local alternatives, potentially reducing dependence on foreign technologies but also introducing new cybersecurity risks due to less tested and proven local solutions.",
+      "immediate_forecast_24h": "No immediate significant impact expected, but ongoing monitoring of cybersecurity threats related to the adoption of new, potentially less secure local tech services is recommended.",
+      "strategic_outlook": "Long term, this trend could lead to a more fragmented tech landscape in Europe, with both positive outcomes such as increased local innovation and negative consequences such as increased vulnerability to cyber threats due to less standardized security protocols.",
+      "operational_impact": "The operational impact on transport and logistics may be minimal in the short term but could increase as the reliance on local, potentially less secure tech services grows, necessitating enhanced cybersecurity measures to protect assets, cargo, aviation, and personnel.",
+      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (1 km)"
+    }
   }
 ]
