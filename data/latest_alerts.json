@@ -1,24 +1,5 @@
 [
   {
-    "id": "b34b511a89c89a189fb77ba7f77e8a51",
-    "timestamp": "2026-01-15T06:44:16.934144",
-    "original_title": "Iran closes airspace to most flights amid threat of US attack: Monitors - Al Jazeera",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSmdwY2g1UF9lU1ZvN3RlRDdHWUQ2OGh1X1RPVVJzdjVNUUFHQ3JZQXVjRUEzODhidkNzanlzZGJIdjBPMHlaWkpnZnFwNTYySEk1QW5hbFFjSnN6NVpjbHpkNnVCdWVfQktwSVdkTTJPN2RRcktiMmNJZ2FySGdlc2h4YlVhY3pZUFNQOEMtLXVtUi1uUTdHVG44UG1ybWhCSEEweUlucmlpOVJVRGxxM9IBtgFBVV95cUxOMmZEZVNTMDBUeEpWYTdRZzhoVDRvTTBOSHduLTJ1OGkxdXpoVWRVN3hmaTdEbkRNVWlTZ3NQZzlNUFlaeUVQOGVTcVhQSFN4Mm1lWWlIRXFyY3QyMkFTUEpFQjhXYVhIam90MFljT2w4ZHhQMzMtSEFlQXllbFJqc1N0RzNWb1pWOGQwZFZJRzl1TDZkMVNSY2VxT0hrVndhZDl3XzhlTGp5M2xIcWtBRmdFdld3QQ?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Aviation/Conflict",
-      "risk_score": 8,
-      "location": "Iran",
-      "latitude": 32.0,
-      "longitude": 53.0,
-      "detailed_analysis": "Iran has closed its airspace to most flights due to a potential US attack, posing a significant threat to aviation safety and security in the region.",
-      "immediate_forecast_24h": "Increased military activity and airspace restrictions are expected in the next 24 hours, potentially disrupting flight operations and logistics.",
-      "strategic_outlook": "The ongoing tensions between Iran and the US may lead to a prolonged period of instability in the region, affecting air travel and cargo transport.",
-      "operational_impact": "Flight cancellations, delays, and rerouting of flights are likely, with potential consequences for cargo transport, supply chains, and personnel safety.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "8db069e563fbcf98ecf4bb7f3e667c5d",
     "timestamp": "2026-01-15T07:31:51.113864",
     "original_title": "Syrian military tells civilians to evacuate contested area east of Aleppo amid rising tensions - ABC News",
@@ -92,6 +73,63 @@
       "strategic_outlook": "A prolonged conflict could lead to increased instability, affecting not only Sudan but also neighboring countries, and potentially disrupting regional trade and aviation routes.",
       "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics operations in Sudan and surrounding areas due to the conflict, with possible spillover effects on regional trade and security.",
       "proximity_alert": "YAKIN TEHDİT: Cairo International Airport (17 km)"
+    }
+  },
+  {
+    "id": "cc3a1233db50b5c7ecfb85ee17b559da",
+    "timestamp": "2026-01-15T08:39:55.393510",
+    "original_title": "Palo Alto Fixes GlobalProtect DoS Flaw That Can Crash Firewalls Without Login - The Hacker News",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTGE2ZTZWRzlYa1pxZ2FWU3NfaHZyRzhJVk5oZjE0b19uWWxKNHZBYnRaYlNQbWU0SnMyTFZnWUxSVVRUUmlVRnZYcWI1bGQ0RUp6TTdSYzYwNVpkMWNKaGJRSWlhUnJITnFRT1l3VTc4S1NBZzNtcW5RTGZoWFVVRUEzdw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 8,
+      "location": "Global",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "A Denial of Service (DoS) vulnerability in Palo Alto's GlobalProtect can crash firewalls without requiring login credentials, posing a significant threat to network security and potentially disrupting operations.",
+      "immediate_forecast_24h": "Palo Alto has released a fix for the vulnerability, but the window for potential exploitation remains open until all affected systems are updated.",
+      "strategic_outlook": "The long-term impact of this vulnerability highlights the importance of regular security updates and robust cybersecurity measures to protect against evolving threats.",
+      "operational_impact": "The potential for firewalls to be crashed without login could significantly impact network availability and security, affecting both cargo and personnel by disrupting critical infrastructure and services.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "8c642f1bf2ec8d8b04adb552b4de6282",
+    "timestamp": "2026-01-15T08:39:58.509749",
+    "original_title": "Trump’s Gulf Allies Do Not Want Him to Bomb Iran",
+    "link": "https://www.nytimes.com/2026/01/14/world/middleeast/gulf-trump-iran.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Gulf Region, Middle East",
+      "latitude": 24.4667,
+      "longitude": 54.3667,
+      "detailed_analysis": "The event suggests that Gulf Arab countries are concerned about the potential consequences of rising tensions between the US and Iran, which could lead to instability in the region and impact aviation and cargo operations.",
+      "immediate_forecast_24h": "Tensions between the US and Iran are likely to remain high, with a possibility of increased military presence in the region, which could lead to disruptions in air traffic and cargo shipments.",
+      "strategic_outlook": "The long-term outlook suggests that the conflict between the US and Iran could lead to a prolonged period of instability in the region, potentially affecting aviation and cargo operations, as well as the safety of personnel and assets.",
+      "operational_impact": "The potential conflict could lead to increased security measures, such as enhanced screening and surveillance, which could cause delays and disruptions in air traffic and cargo shipments, ultimately affecting the operational efficiency of logistics and transportation companies.",
+      "proximity_alert": "YAKIN TEHDİT: ABU DHABİ (1 km)"
+    }
+  },
+  {
+    "id": "3d6da2c87b37e82e716a95143618c035",
+    "timestamp": "2026-01-15T08:40:04.148391",
+    "original_title": "Thousands in Sofia protest for fair elections and government resignation",
+    "link": "http://www.africanews.com/2026/01/15/thousands-in-sofia-protest-for-fair-elections-and-government-resignation/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Sofia, Bulgaria",
+      "latitude": 42.6979,
+      "longitude": 23.3225,
+      "detailed_analysis": "The protest in Sofia for fair elections and government resignation may lead to disruptions in the city, but there is no direct indication of a threat to aviation, cargo, or personnel. The situation is being monitored for potential escalation.",
+      "immediate_forecast_24h": "The protests are likely to continue, potentially causing traffic disruptions and affecting local businesses, but no significant escalation is expected in the next 24 hours.",
+      "strategic_outlook": "The long-term impact of the protests will depend on the government's response and the ability of the opposition to maintain momentum. If the situation escalates, it could lead to increased instability in the region.",
+      "operational_impact": "The protests may cause delays or disruptions to ground transportation, but aviation and cargo operations are unlikely to be directly affected at this time.",
+      "proximity_alert": "YAKIN TEHDİT: Sofia Airport (7 km)"
     }
   }
 ]
