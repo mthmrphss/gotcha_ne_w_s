@@ -777,5 +777,119 @@
       "operational_impact": "The unrest may cause delays or disruptions to flights, cargo shipments, and personnel movements in and out of Iran. Transport and logistics operators should be prepared for potential disruptions and consider alternative routes or contingency plans.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "9286f158bcfb78d91aa0eff995608e39",
+    "timestamp": "2026-01-15T13:00:31.840730",
+    "original_title": "Iran Says Protester Was Not Sentenced to Death After International Outcry",
+    "link": "https://www.nytimes.com/2026/01/15/world/middleeast/iran-protests-erfan-soltani-execution.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The case of Erfan Soltani, a protester who was not sentenced to death after international outcry, indicates a potential for continued civil unrest in Iran. However, there is no direct threat to assets, cargo, aviation, or personnel at this time.",
+      "immediate_forecast_24h": "The situation is expected to remain stable, with no significant escalation of protests or violence in the next 24 hours.",
+      "strategic_outlook": "The long-term outlook suggests that the Iranian government may continue to face international pressure and potential unrest, but this is unlikely to have a significant impact on transport or logistics in the region.",
+      "operational_impact": "There is no expected operational impact on transport or logistics at this time, as the situation is primarily related to civil unrest and does not involve direct threats to assets, cargo, aviation, or personnel.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "ce63b980e02a5d7b6f975c56a7887793",
+    "timestamp": "2026-01-15T13:00:34.890534",
+    "original_title": "Europe allies begin Greenland military mission as Trump says US needs island",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1qdi8ji/europe_allies_begin_greenland_military_mission_as/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 6,
+      "location": "Greenland",
+      "latitude": 64.5167,
+      "longitude": -51.7333,
+      "detailed_analysis": "The deployment of a European military mission to Greenland, coupled with statements from the US regarding the need for the island, indicates a heightened state of geopolitical tension in the region. This could potentially lead to increased military activity, disputes over territorial claims, and impacts on local and international transport and logistics.",
+      "immediate_forecast_24h": "In the short term, there is a possibility of increased military presence and activity in the region, which could lead to temporary disruptions in air and sea traffic. However, without further escalation, the immediate impact on civilian aviation and cargo operations is expected to be minimal.",
+      "strategic_outlook": "Long term, the situation in Greenland could contribute to broader geopolitical tensions between major world powers, potentially affecting global stability and trade. This could have significant implications for international aviation, cargo transport, and the security of personnel and assets in the region.",
+      "operational_impact": "The operational impact is currently assessed as moderate, with potential for increased security measures, possible restrictions on airspace, and heightened vigilance required for cargo and personnel movements in and around Greenland. Close monitoring of the situation is advised to anticipate and prepare for any changes in the security landscape.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "880b5e76e20667ae7e348d8410797035",
+    "timestamp": "2026-01-15T13:00:37.598327",
+    "original_title": "Mourners attend mass funerals in Tehran as protest death toll exceeds 2,500",
+    "link": "http://www.africanews.com/2026/01/15/mourners-attend-mass-funerals-in-tehran-as-protest-death-toll-exceeds-2500/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Mass funerals and protests in Tehran with a high death toll indicate significant civil unrest, potentially impacting aviation, cargo, and personnel safety in the region.",
+      "immediate_forecast_24h": "Increased tensions and potential for further clashes between protesters and security forces, possibly affecting airport operations and cargo handling.",
+      "strategic_outlook": "Prolonged unrest could lead to long-term instability, affecting the overall security environment for assets, cargo, aviation, and personnel in Iran.",
+      "operational_impact": "Potential disruptions to flights, cargo transport, and logistics operations due to the unrest, with possible restrictions on movement and increased security measures.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "f19b05f328b403b1bfad10e03c583e93",
+    "timestamp": "2026-01-15T13:00:39.555359",
+    "original_title": "Several European countries and NATO allies send troops to Greenland",
+    "link": "https://www.france24.com/en/several-european-countries-and-nato-allies-send-troops-to-greenland",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 6,
+      "location": "Greenland",
+      "latitude": 64.5167,
+      "longitude": -51.7167,
+      "detailed_analysis": "The deployment of NATO troops to Greenland may lead to increased tensions and potential conflict, posing a risk to aviation and personnel in the region.",
+      "immediate_forecast_24h": "Tensions may escalate as US President Donald Trump's intentions to acquire the island become clearer, potentially leading to increased military presence and activity.",
+      "strategic_outlook": "The long-term implications of this development could lead to a shift in the regional balance of power, with potential consequences for trade, logistics, and security in the North Atlantic.",
+      "operational_impact": "The increased military presence may lead to restrictions on airspace and maritime routes, potentially disrupting cargo transport and aviation operations in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "b12cf65ccd57899624a5a6b76bcec144",
+    "timestamp": "2026-01-15T13:00:41.574661",
+    "original_title": "Haiti: Gang leader reportedly targeted in drone operation",
+    "link": "https://www.france24.com/en/video/20260115-haiti-gang-leader-targeted-in-drone-operation",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Aviation/Crime",
+      "risk_score": 7,
+      "location": "Port-au-Prince, Haiti",
+      "latitude": 18.5333,
+      "longitude": -72.3333,
+      "detailed_analysis": "A drone operation targeted the home of notorious gang leader Jimmy 'Barbecue' Cherizier, indicating potential for increased violence and instability in the region, which could impact aviation and cargo operations.",
+      "immediate_forecast_24h": "Heightened security measures are expected in the vicinity, with potential for retaliatory actions from the gang, affecting local transport and logistics.",
+      "strategic_outlook": "The situation may escalate into further conflict, affecting the overall security landscape in Haiti and potentially impacting regional aviation and cargo transport.",
+      "operational_impact": "Increased risk of disruptions to flights and cargo operations due to potential drone activity or retaliatory violence, necessitating enhanced security protocols for aviation and logistics operations in the area.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "5444ef63f2282e60ded34c400176d22f",
+    "timestamp": "2026-01-15T13:00:43.404524",
+    "original_title": "Donald Trump softens rhetoric on intervention after anti-government protests",
+    "link": "https://www.france24.com/en/donald-trump-softens-rhetoric-on-intervention-after-anti-government-protests",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The situation in Iran is volatile due to anti-government protests, but the U.S. President's softened rhetoric on intervention may reduce the likelihood of escalation.",
+      "immediate_forecast_24h": "The protests may continue, but the risk of large-scale executions or U.S. intervention appears to be decreasing.",
+      "strategic_outlook": "The long-term impact on the region's stability and global relations remains uncertain, but a decrease in tensions could lead to increased stability in the area.",
+      "operational_impact": "The current situation may cause disruptions to transport and logistics in the region, particularly if protests continue or escalate, but the softened U.S. stance may mitigate this impact.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
   }
 ]
