@@ -492,5 +492,62 @@
       "operational_impact": "The protests may cause delays or disruptions to ground transportation, but aviation and cargo operations are unlikely to be directly affected at this time.",
       "proximity_alert": "YAKIN TEHDİT: Sofia Airport (7 km)"
     }
+  },
+  {
+    "id": "8b03f6e89f54e886a2b3c5f878ffdd19",
+    "timestamp": "2026-01-15T09:35:17.195445",
+    "original_title": "Denmark Increases Military Presence In Greenland As U.S. Seeks Control - Aviation Week Network",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOVVRQ1lKYkE3akFTMFBoMkxnR0Q2UzIzRG0xdFpyVHRrSlJVcnNzVTRKem1yemxabnl4STVUT0NnemlpQ0ZNMEwwNlZHZ0ZCUEZmVDNPSXBSRkVzUXZhOElULWMyZFd3TnR0SjYxZ3piZTQ4eE10WDViUTlPZzBOaHpXS1ZtRXJ4M0NGRWRkbUxxT0w1NjM0WnJWc0xBOElyTklmNFhwNGhIVlltVlZxaGMyQWpWekc3NFpwMQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 6,
+      "location": "Greenland, Denmark",
+      "latitude": 64.5167,
+      "longitude": -51.7333,
+      "detailed_analysis": "Denmark's increased military presence in Greenland may lead to heightened tensions with the U.S., potentially affecting aviation and logistics in the region.",
+      "immediate_forecast_24h": "No immediate disruptions expected, but increased military activity may lead to airspace restrictions or cargo delays.",
+      "strategic_outlook": "Long-term implications of the U.S. seeking control in Greenland may lead to increased military presence, potentially impacting aviation routes and cargo transport.",
+      "operational_impact": "Potential for airspace restrictions, cargo delays, and increased security measures affecting transport and logistics in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "c87db09d7957af8e7dcd6e022af50bfb",
+    "timestamp": "2026-01-15T09:35:21.406148",
+    "original_title": "Inside Trump’s ‘crazy world’ of milk bottles, sled dogs and threats to bomb Iran",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qdf17j/inside_trumps_crazy_world_of_milk_bottles_sled/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "Iran, Middle East",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The article mentions threats to bomb Iran, which poses a significant risk to aviation and regional stability. The situation is volatile and could lead to an escalation of conflict.",
+      "immediate_forecast_24h": "Increased tensions between Iran and other nations, potential for military action or retaliation, and heightened security measures at airports and borders.",
+      "strategic_outlook": "Long-term instability in the region, potential for ongoing conflict, and increased security protocols for aviation and logistics operations.",
+      "operational_impact": "Potential disruptions to air travel, increased security screening, and possible restrictions on cargo shipments to and from the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "4ac5a3a1d1d7ebbf4bd9e0e8fa61b602",
+    "timestamp": "2026-01-15T09:35:26.720272",
+    "original_title": "Iran: Donald Trump says killings have halted after anti-government protests",
+    "link": "https://www.france24.com/en/iran-donald-trump-says-killings-have-halted-after-anti-government-protests",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The situation in Iran is volatile due to anti-government protests, but there's no direct indication of threats to assets, cargo, aviation, or personnel at this time. The mention of potential executions and fast trials suggests a heightened state of tension.",
+      "immediate_forecast_24h": "The situation is likely to remain tense, with potential for further protests or government crackdowns. However, without specific threats to aviation, cargo, or personnel, the immediate risk remains relatively low.",
+      "strategic_outlook": "Long-term stability in Iran is uncertain, which could impact regional security and potentially affect transport and logistics operations. Ongoing monitoring of the situation is necessary to assess any emerging threats.",
+      "operational_impact": "Currently, there's no direct operational impact on transport or logistics reported. However, the situation could change rapidly, and any escalation in violence or unrest could affect aviation, cargo movements, or personnel safety.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
   }
 ]
