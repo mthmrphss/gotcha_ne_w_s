@@ -891,5 +891,62 @@
       "operational_impact": "The current situation may cause disruptions to transport and logistics in the region, particularly if protests continue or escalate, but the softened U.S. stance may mitigate this impact.",
       "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
     }
+  },
+  {
+    "id": "491b9178655d2443e930d26adace21be",
+    "timestamp": "2026-01-15T13:58:15.521288",
+    "original_title": "Iran Says It Will Not Execute Protester Amid International Outcry",
+    "link": "https://www.nytimes.com/2026/01/15/world/middleeast/iran-protests-erfan-soltani-execution.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The Iranian judiciary's statement that Erfan Soltani was not sentenced to death may reduce tensions, but the overall situation of protests and arrests still poses a risk to stability and potentially to transport and logistics operations in the region.",
+      "immediate_forecast_24h": "Protests may continue, but the intensity could decrease due to the judiciary's announcement. However, the situation remains volatile.",
+      "strategic_outlook": "The long-term impact of the protests on Iran's internal stability and its relations with other countries could affect trade and transport in the region, including aviation and cargo operations.",
+      "operational_impact": "Minimal direct impact on aviation, cargo, or personnel is expected in the short term, but ongoing unrest could lead to disruptions in supply chains and logistics operations.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "f1716427d230208d972985cb28aa174d",
+    "timestamp": "2026-01-15T13:58:18.634195",
+    "original_title": "Residents evacuated after two WW2 German bombs found | LBC",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qdje10/residents_evacuated_after_two_ww2_german_bombs/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Aviation/Explosives",
+      "risk_score": 10,
+      "location": "London, United Kingdom",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "detailed_analysis": "Two WW2 German bombs were found, prompting the evacuation of residents. The discovery of unexploded ordnance poses a significant threat to aviation and public safety.",
+      "immediate_forecast_24h": "Bomb disposal operations are likely to be conducted, and the area may remain evacuated until the bombs are safely removed.",
+      "strategic_outlook": "The presence of unexploded WW2 ordnance in populated areas highlights the need for ongoing vigilance and explosive ordnance disposal capabilities.",
+      "operational_impact": "The evacuation and bomb disposal operations may cause disruptions to local transport and logistics, particularly if the affected area is near an airport or major transportation hub.",
+      "proximity_alert": "YAKIN TEHDİT: Heathrow Airport (23 km)"
+    }
+  },
+  {
+    "id": "1273d2d8f3558d068d6c0a2988d94196",
+    "timestamp": "2026-01-15T14:00:28.166379",
+    "original_title": "Flight forced to make emergency landing in Barcelona after network name ‘bomb threat’",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/turkish-airline-barcelona-wi-fi-bomb-b2901168.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Barcelona, Spain",
+      "latitude": 41.3879,
+      "longitude": 2.169,
+      "detailed_analysis": "A passenger created an in-flight wireless network with a name containing a bomb threat, prompting an emergency landing in Barcelona. This incident highlights the potential for malicious individuals to cause disruptions to air travel using unconventional methods.",
+      "immediate_forecast_24h": "Enhanced security measures are likely to be implemented for flights departing from and arriving in Barcelona. Passengers may experience delays and increased scrutiny of personal electronic devices.",
+      "strategic_outlook": "This incident may lead to a review of in-flight network security protocols and the implementation of more stringent measures to prevent similar disruptions in the future. Airlines and regulatory bodies may also reassess their response procedures to bomb threats.",
+      "operational_impact": "The emergency landing may cause delays and disruptions to flight schedules, potentially affecting cargo transport and passenger travel plans. Airlines may need to adjust their routes or schedules to accommodate enhanced security measures.",
+      "proximity_alert": "YAKIN TEHDİT: Barcelona–El Prat Airport (12 km)"
+    }
   }
 ]
