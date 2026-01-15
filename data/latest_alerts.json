@@ -112,5 +112,43 @@
       "operational_impact": "Potential disruptions to oil supplies, increased costs for shipping and insurance, and heightened security measures for vessels operating in the region.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "447f66fa5322d4da1db4ffd6a5a75cf4",
+    "timestamp": "2026-01-15T17:39:05.998321",
+    "original_title": "Iran Backpedals on Executions Threat but Casts Protesters as ‘Terrorists’",
+    "link": "https://www.nytimes.com/2026/01/15/world/middleeast/iran-protests-erfan-soltani-execution.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Iran's government is using fear and intimidation to control protests, labeling protesters as 'terrorists', which may lead to increased unrest and potential violence",
+      "immediate_forecast_24h": "Protests may continue, with a high likelihood of government crackdowns and potential for further escalation",
+      "strategic_outlook": "Long-term stability in Iran is uncertain, with ongoing protests and government responses potentially leading to increased instability in the region",
+      "operational_impact": "Potential disruptions to transport and logistics in Iran, particularly in areas where protests are occurring, with possible impacts on cargo and personnel movement",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "ca47c4e73b8b80565705f80701289208",
+    "timestamp": "2026-01-15T17:39:08.645829",
+    "original_title": "Iran and the Limits of American Power: What a U.S. Military Strike Would and Would Not Achieve",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1qdplet/iran_and_the_limits_of_american_power_what_a_us/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Iran, Middle East",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The article discusses the potential consequences of a US military strike on Iran, including the limits of American power and the potential risks and outcomes. This could lead to increased tensions and conflict in the region, potentially affecting aviation and cargo operations.",
+      "immediate_forecast_24h": "Increased tensions and diplomatic efforts to de-escalate the situation, potential for military posturing and increased security measures in the region.",
+      "strategic_outlook": "Long-term instability and conflict in the region, potential for proxy wars and increased terrorism, impact on global oil prices and trade routes.",
+      "operational_impact": "Potential disruption to air traffic and cargo operations in the region, increased security measures and risk of attack on aviation and logistics assets.",
+      "proximity_alert": null
+    }
   }
 ]
