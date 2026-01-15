@@ -1,62 +1,5 @@
 [
   {
-    "id": "491b9178655d2443e930d26adace21be",
-    "timestamp": "2026-01-15T13:58:15.521288",
-    "original_title": "Iran Says It Will Not Execute Protester Amid International Outcry",
-    "link": "https://www.nytimes.com/2026/01/15/world/middleeast/iran-protests-erfan-soltani-execution.html",
-    "source_name": "NewYork Times",
-    "ai_analysis": {
-      "category": "Civil Unrest",
-      "risk_score": 10,
-      "location": "Tehran, Iran",
-      "latitude": 35.6892,
-      "longitude": 51.389,
-      "detailed_analysis": "The Iranian judiciary's statement that Erfan Soltani was not sentenced to death may reduce tensions, but the overall situation of protests and arrests still poses a risk to stability and potentially to transport and logistics operations in the region.",
-      "immediate_forecast_24h": "Protests may continue, but the intensity could decrease due to the judiciary's announcement. However, the situation remains volatile.",
-      "strategic_outlook": "The long-term impact of the protests on Iran's internal stability and its relations with other countries could affect trade and transport in the region, including aviation and cargo operations.",
-      "operational_impact": "Minimal direct impact on aviation, cargo, or personnel is expected in the short term, but ongoing unrest could lead to disruptions in supply chains and logistics operations.",
-      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
-    }
-  },
-  {
-    "id": "f1716427d230208d972985cb28aa174d",
-    "timestamp": "2026-01-15T13:58:18.634195",
-    "original_title": "Residents evacuated after two WW2 German bombs found | LBC",
-    "link": "https://www.reddit.com/r/worldnews/comments/1qdje10/residents_evacuated_after_two_ww2_german_bombs/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Aviation/Explosives",
-      "risk_score": 10,
-      "location": "London, United Kingdom",
-      "latitude": 51.5074,
-      "longitude": -0.1278,
-      "detailed_analysis": "Two WW2 German bombs were found, prompting the evacuation of residents. The discovery of unexploded ordnance poses a significant threat to aviation and public safety.",
-      "immediate_forecast_24h": "Bomb disposal operations are likely to be conducted, and the area may remain evacuated until the bombs are safely removed.",
-      "strategic_outlook": "The presence of unexploded WW2 ordnance in populated areas highlights the need for ongoing vigilance and explosive ordnance disposal capabilities.",
-      "operational_impact": "The evacuation and bomb disposal operations may cause disruptions to local transport and logistics, particularly if the affected area is near an airport or major transportation hub.",
-      "proximity_alert": "YAKIN TEHDİT: Heathrow Airport (23 km)"
-    }
-  },
-  {
-    "id": "1273d2d8f3558d068d6c0a2988d94196",
-    "timestamp": "2026-01-15T14:00:28.166379",
-    "original_title": "Flight forced to make emergency landing in Barcelona after network name ‘bomb threat’",
-    "link": "https://www.independent.co.uk/travel/news-and-advice/turkish-airline-barcelona-wi-fi-bomb-b2901168.html",
-    "source_name": "Independent Travel",
-    "ai_analysis": {
-      "category": "Aviation",
-      "risk_score": 10,
-      "location": "Barcelona, Spain",
-      "latitude": 41.3879,
-      "longitude": 2.169,
-      "detailed_analysis": "A passenger created an in-flight wireless network with a name containing a bomb threat, prompting an emergency landing in Barcelona. This incident highlights the potential for malicious individuals to cause disruptions to air travel using unconventional methods.",
-      "immediate_forecast_24h": "Enhanced security measures are likely to be implemented for flights departing from and arriving in Barcelona. Passengers may experience delays and increased scrutiny of personal electronic devices.",
-      "strategic_outlook": "This incident may lead to a review of in-flight network security protocols and the implementation of more stringent measures to prevent similar disruptions in the future. Airlines and regulatory bodies may also reassess their response procedures to bomb threats.",
-      "operational_impact": "The emergency landing may cause delays and disruptions to flight schedules, potentially affecting cargo transport and passenger travel plans. Airlines may need to adjust their routes or schedules to accommodate enhanced security measures.",
-      "proximity_alert": "YAKIN TEHDİT: Barcelona–El Prat Airport (12 km)"
-    }
-  },
-  {
     "id": "af126349dfa3f2439b2642d6eef4b727",
     "timestamp": "2026-01-15T14:35:28.990867",
     "original_title": "Macron: Coalition of the Willing provides 100% military support to Ukraine",
@@ -72,6 +15,82 @@
       "immediate_forecast_24h": "Increased military activity and potential for clashes in the region, heightened security measures at airports and borders.",
       "strategic_outlook": "Long-term instability in the region, potential for widespread conflict, and disruption to global supply chains.",
       "operational_impact": "Potential disruption to air traffic, increased security checks, and possible restrictions on cargo transport in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "b4d2dc5434d6e737729e438c14c48bb6",
+    "timestamp": "2026-01-15T15:33:41.988323",
+    "original_title": "Personal Wi-Fi hotspot named “I have a bomb, everyone will die” triggered NATO Quick Reaction Alert - airlive",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNejczMW9DNHNxX0FTcG85b09VcnFqeWhWaGlmYWVEMGxGeTJORjRlcjh4Z1lrcEEyM0ZZQjNfWmdieUhKV2JwU2RjRzhoaEtybFBzNlFCSlQwOHNpa3FoMnBEMTJuNjZRUGhlVDJZbEZjRG1KTFo1WHp0MXBWR0JERTV4R0lTaWdrWDFPQlAyOV9hZVVEU3RBWDRxUXpWZGNHYUdOMXdoR1VnalVLUFpMYWt4cjdaRlNKckx4MFA5anFvNGxfdUdzVU9wNlJTQUdLWEhr?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "Unknown, Europe",
+      "latitude": 50.0,
+      "longitude": 10.0,
+      "detailed_analysis": "A personal Wi-Fi hotspot with a threatening name triggered a NATO Quick Reaction Alert, indicating a potential bomb threat. The situation is being taken seriously, and the alert was likely triggered due to the severity of the language used in the Wi-Fi hotspot's name.",
+      "immediate_forecast_24h": "Increased security measures are expected in the region, with possible disruptions to air travel and heightened vigilance among law enforcement and military personnel. The situation may escalate if the threat is deemed credible.",
+      "strategic_outlook": "This incident highlights the importance of vigilance and cooperation between law enforcement and military agencies in preventing and responding to potential terrorist threats. It also underscores the need for effective communication and information-sharing protocols to prevent similar incidents in the future.",
+      "operational_impact": "The incident may cause disruptions to air travel, particularly if the threat is deemed credible and security measures are heightened. This could lead to delays, cancellations, and increased security checks for passengers and cargo.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "50389330660623e70bb68d28a4a7a6af",
+    "timestamp": "2026-01-15T15:33:44.594134",
+    "original_title": "Arab allies breathe out after Trump pauses plans to bomb Iran",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1qdm3hj/arab_allies_breathe_out_after_trump_pauses_plans/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Middle East",
+      "latitude": 29.4574,
+      "longitude": 47.6466,
+      "detailed_analysis": "The event involves a pause in plans to bomb Iran, which could lead to a temporary reduction in tensions in the region. However, the situation remains volatile, and any miscalculation could escalate into a conflict, affecting aviation and cargo operations.",
+      "immediate_forecast_24h": "The situation is expected to remain tense, with Arab allies and other regional players closely monitoring the developments. There is a possibility of retaliatory actions or protests, which could impact transport and logistics in the region.",
+      "strategic_outlook": "The long-term outlook remains uncertain, with the potential for conflict still present. The situation could lead to increased security measures, affecting cargo and aviation operations, and potentially disrupting supply chains.",
+      "operational_impact": "The potential conflict could impact air traffic, cargo shipments, and personnel movements in the region. Airlines and logistics companies may need to reassess their operations and consider alternative routes or security measures to mitigate the risks.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "2aa8b4276e479d70a58ddcafb0b41caf",
+    "timestamp": "2026-01-15T15:33:46.784700",
+    "original_title": "Spain environment minister says attacks on social media affect perceptions of meteorology and denigrate researchers’ work",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qdm4ui/spain_environment_minister_says_attacks_on_social/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Cyber/Civil Unrest",
+      "risk_score": 10,
+      "location": "Madrid, Spain",
+      "latitude": 40.4168,
+      "longitude": -3.7038,
+      "detailed_analysis": "The Spanish environment minister has reported an increase in hate speech and attacks on social media targeting climate scientists and researchers, which may affect perceptions of meteorology and denigrate researchers' work.",
+      "immediate_forecast_24h": "No immediate physical threats are expected, but online harassment may continue to escalate.",
+      "strategic_outlook": "The long-term impact of online attacks on climate researchers may lead to decreased public trust in scientific research and institutions.",
+      "operational_impact": "No direct impact on transport or logistics is expected, but the online attacks may indirectly affect the work of researchers and scientists in related fields.",
+      "proximity_alert": "YAKIN TEHDİT: Adolfo Suárez Madrid–Barajas Airport (14 km)"
+    }
+  },
+  {
+    "id": "181f7699c05333c2588ee0609ea682eb",
+    "timestamp": "2026-01-15T15:33:48.683207",
+    "original_title": "ISS crew returns to Earth in first-ever medical evacuation",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qdlv1r/iss_crew_returns_to_earth_in_firstever_medical/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 2,
+      "location": "International Space Station, Earth",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "The ISS crew returned to Earth due to a medical evacuation, which is an unusual event but does not pose a direct threat to assets, cargo, aviation, or personnel. The situation is under control and does not indicate any malicious activity.",
+      "immediate_forecast_24h": "No immediate risks or threats are expected in the next 24 hours. The medical evacuation is an isolated incident, and normal operations are expected to resume.",
+      "strategic_outlook": "The incident highlights the importance of having emergency procedures in place for space missions. It may lead to a review of medical evacuation protocols and contingency planning for future space missions.",
+      "operational_impact": "The medical evacuation may cause a temporary disruption to the ISS operations, but it is not expected to have a significant impact on global aviation, cargo, or logistics.",
       "proximity_alert": null
     }
   }

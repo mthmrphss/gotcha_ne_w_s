@@ -967,5 +967,62 @@
       "operational_impact": "Potential disruption to air traffic, increased security checks, and possible restrictions on cargo transport in the region.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "b4d2dc5434d6e737729e438c14c48bb6",
+    "timestamp": "2026-01-15T15:33:41.988323",
+    "original_title": "Personal Wi-Fi hotspot named “I have a bomb, everyone will die” triggered NATO Quick Reaction Alert - airlive",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNejczMW9DNHNxX0FTcG85b09VcnFqeWhWaGlmYWVEMGxGeTJORjRlcjh4Z1lrcEEyM0ZZQjNfWmdieUhKV2JwU2RjRzhoaEtybFBzNlFCSlQwOHNpa3FoMnBEMTJuNjZRUGhlVDJZbEZjRG1KTFo1WHp0MXBWR0JERTV4R0lTaWdrWDFPQlAyOV9hZVVEU3RBWDRxUXpWZGNHYUdOMXdoR1VnalVLUFpMYWt4cjdaRlNKckx4MFA5anFvNGxfdUdzVU9wNlJTQUdLWEhr?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "Unknown, Europe",
+      "latitude": 50.0,
+      "longitude": 10.0,
+      "detailed_analysis": "A personal Wi-Fi hotspot with a threatening name triggered a NATO Quick Reaction Alert, indicating a potential bomb threat. The situation is being taken seriously, and the alert was likely triggered due to the severity of the language used in the Wi-Fi hotspot's name.",
+      "immediate_forecast_24h": "Increased security measures are expected in the region, with possible disruptions to air travel and heightened vigilance among law enforcement and military personnel. The situation may escalate if the threat is deemed credible.",
+      "strategic_outlook": "This incident highlights the importance of vigilance and cooperation between law enforcement and military agencies in preventing and responding to potential terrorist threats. It also underscores the need for effective communication and information-sharing protocols to prevent similar incidents in the future.",
+      "operational_impact": "The incident may cause disruptions to air travel, particularly if the threat is deemed credible and security measures are heightened. This could lead to delays, cancellations, and increased security checks for passengers and cargo.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "50389330660623e70bb68d28a4a7a6af",
+    "timestamp": "2026-01-15T15:33:44.594134",
+    "original_title": "Arab allies breathe out after Trump pauses plans to bomb Iran",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1qdm3hj/arab_allies_breathe_out_after_trump_pauses_plans/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Middle East",
+      "latitude": 29.4574,
+      "longitude": 47.6466,
+      "detailed_analysis": "The event involves a pause in plans to bomb Iran, which could lead to a temporary reduction in tensions in the region. However, the situation remains volatile, and any miscalculation could escalate into a conflict, affecting aviation and cargo operations.",
+      "immediate_forecast_24h": "The situation is expected to remain tense, with Arab allies and other regional players closely monitoring the developments. There is a possibility of retaliatory actions or protests, which could impact transport and logistics in the region.",
+      "strategic_outlook": "The long-term outlook remains uncertain, with the potential for conflict still present. The situation could lead to increased security measures, affecting cargo and aviation operations, and potentially disrupting supply chains.",
+      "operational_impact": "The potential conflict could impact air traffic, cargo shipments, and personnel movements in the region. Airlines and logistics companies may need to reassess their operations and consider alternative routes or security measures to mitigate the risks.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "2aa8b4276e479d70a58ddcafb0b41caf",
+    "timestamp": "2026-01-15T15:33:46.784700",
+    "original_title": "Spain environment minister says attacks on social media affect perceptions of meteorology and denigrate researchers’ work",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qdm4ui/spain_environment_minister_says_attacks_on_social/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Cyber/Civil Unrest",
+      "risk_score": 10,
+      "location": "Madrid, Spain",
+      "latitude": 40.4168,
+      "longitude": -3.7038,
+      "detailed_analysis": "The Spanish environment minister has reported an increase in hate speech and attacks on social media targeting climate scientists and researchers, which may affect perceptions of meteorology and denigrate researchers' work.",
+      "immediate_forecast_24h": "No immediate physical threats are expected, but online harassment may continue to escalate.",
+      "strategic_outlook": "The long-term impact of online attacks on climate researchers may lead to decreased public trust in scientific research and institutions.",
+      "operational_impact": "No direct impact on transport or logistics is expected, but the online attacks may indirectly affect the work of researchers and scientists in related fields.",
+      "proximity_alert": "YAKIN TEHDİT: Adolfo Suárez Madrid–Barajas Airport (14 km)"
+    }
   }
 ]
