@@ -1,24 +1,5 @@
 [
   {
-    "id": "8e42c093f0444a8908925c6645ad510d",
-    "timestamp": "2026-01-15T20:34:13.816702",
-    "original_title": "Trump Was Told Attack on Iran Wouldn’t Guarantee Collapse of Regime - The Wall Street Journal",
-    "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxNdGtGd3JGQmpUSGJBQUpWVWd3TFlfUjIzc0E4U3BUWEltNkZCV0QzTkJqN1RpVVQ1eEdGa0Q3OU1Rb21iTHBubUlmaFpiU253bEl4VHNTUW5zaHNQUm9tTnpYWkJWMHhuMFh0NEEzTjN2UUNxandyNkpDc2tVNEllX2NpZTVJamZTblNzcGtSLU5Fa1ppUWtmanF4UmNWZzVHZjc3bzJwRnRTYUdyRVlJNkF3cjZHSGNWY2tYSFBXM1l4NkdPZnJjNTRZdER1TU5JTzYzakNyU0xOUGxvU2VWNmRzVUx3MlAzTGJkcTBBQzFIOFQwQUIwWk1MRVU0NWUxMllPVTl6aktfZ09CU1RaS3NvMUxtcVJvUUFvUW5yWFc0NF9jTlFHTF9iYVhvWnFVeFJoTjIzdE5DQW9yN0I0NjhVTDVQOTlXaFBQczNQWnduT3VEMElUZm1nNmNXd3VEMkZmeFYtZVRFM0tqMXBRVEs3d3g0ZER1TE5VY3dGWXRFc0JZaW9USA?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 8,
-      "location": "Iran",
-      "latitude": 32.0,
-      "longitude": 53.0,
-      "detailed_analysis": "The article discusses a potential attack on Iran and its possible consequences, including the collapse of the regime. This could lead to instability in the region, affecting aviation and cargo operations.",
-      "immediate_forecast_24h": "Increased tensions between the US and Iran, potential for military action, and heightened security measures in the region.",
-      "strategic_outlook": "Long-term instability in the region could lead to increased security risks for aviation and cargo operations, potentially disrupting global supply chains.",
-      "operational_impact": "Potential disruptions to air traffic, increased security screening, and possible rerouting of flights and cargo shipments to avoid the region.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "4c88a765b15bbcf993d40c87aa366762",
     "timestamp": "2026-01-15T21:28:35.720335",
     "original_title": "Israeli military attacks villages in Lebanon’s Bekaa Valley - Al Jazeera",
@@ -54,6 +35,25 @@
       "strategic_outlook": "Long-term implications may include heightened tensions between political groups and potential for more aggressive protests, but the direct impact on transport and logistics seems minimal at this stage.",
       "operational_impact": "Minimal direct impact on aviation, cargo, or personnel, but potential for indirect effects through increased security checks or demonstrations near transport hubs.",
       "proximity_alert": "YAKIN TEHDİT: Ben Gurion International Airport (0 km)"
+    }
+  },
+  {
+    "id": "7b669a31054dda151a7d04456b613d28",
+    "timestamp": "2026-01-15T21:48:03.004398",
+    "original_title": "Turkish Airlines Flight Swarmed By Police After Passenger Posts Bomb Threat On In-Flight Wi-Fi",
+    "link": "https://www.paddleyourownkanoo.com/2026/01/15/turkish-airlines-flight-swarmed-by-police-after-passenger-posts-bomb-threat-on-in-flight-wi-fi/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Aviation/Terrorism",
+      "risk_score": 10,
+      "location": "Barcelona, Spain",
+      "latitude": 41.3879,
+      "longitude": 2.169,
+      "detailed_analysis": "A Turkish Airlines flight was intercepted by fighter jets from France and Spain after a passenger posted a bomb threat on the in-flight Wi-Fi service, prompting a significant security response upon landing",
+      "immediate_forecast_24h": "Enhanced security measures are expected at Barcelona's airport, with potential delays or cancellations of flights, and increased scrutiny of in-flight Wi-Fi usage",
+      "strategic_outlook": "This incident highlights the vulnerability of in-flight Wi-Fi to malicious activities and may lead to a review of security protocols for in-flight communications, potentially resulting in stricter regulations or improved monitoring systems",
+      "operational_impact": "The incident may cause disruptions to air travel, particularly for Turkish Airlines and flights operating in the region, with potential knock-on effects for cargo transport and passenger services",
+      "proximity_alert": "YAKIN TEHDİT: Barcelona–El Prat Airport (12 km)"
     }
   }
 ]
