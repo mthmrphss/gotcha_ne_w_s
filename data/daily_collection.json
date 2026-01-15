@@ -245,5 +245,62 @@
       "operational_impact": "Potential disruption to logistics and transport operations due to increased risk of crime, particularly for personnel and cargo. Enhanced security measures recommended.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "097329a866c7403098d8db5b5f81cb7b",
+    "timestamp": "2026-01-15T04:47:50.160279",
+    "original_title": "Zelensky declares state of emergency in Ukraine's energy sector",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qd9yys/zelensky_declares_state_of_emergency_in_ukraines/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 6,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "Ukrainian President Zelensky has declared a state of emergency in the energy sector, which could lead to potential disruptions in power supply and have a ripple effect on various sectors including aviation and logistics.",
+      "immediate_forecast_24h": "Potential power outages and disruptions in critical infrastructure, increased security measures, and possible protests or unrest in the short term.",
+      "strategic_outlook": "Long-term impact on Ukraine's economy, potential for escalation of conflict, and increased instability in the region, affecting trade and transport corridors.",
+      "operational_impact": "Possible delays or cancellations of flights, increased security checks, and potential disruptions to cargo transport and logistics operations in and around Ukraine.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "03429f8725247b7475d3d22a87eeaf82",
+    "timestamp": "2026-01-15T04:47:51.884665",
+    "original_title": "Iran warns of retaliation if Trump strikes, US withdraws some personnel from bases",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qd9sgl/iran_warns_of_retaliation_if_trump_strikes_us/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Iran, Middle East",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Iran has warned of retaliation if the US strikes, and the US has withdrawn some personnel from bases in the region, indicating a heightened state of tension and potential for conflict.",
+      "immediate_forecast_24h": "Increased military activity and heightened alertness are expected in the region, with potential for escalation of violence or retaliation.",
+      "strategic_outlook": "The situation has the potential to escalate into a larger conflict, affecting regional stability and potentially impacting global oil supplies and trade routes.",
+      "operational_impact": "Potential disruptions to air travel and logistics in the region, with possible closures of airspace or restrictions on movement, and increased security measures at airports and other transportation hubs.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "f3c8c534754accaad88b97690efd0928",
+    "timestamp": "2026-01-15T04:47:54.433330",
+    "original_title": "Live: UN Security Council to meet for 'a briefing on the situation in Iran'",
+    "link": "https://www.france24.com/en/middle-east/20260115-live-un-security-council-to-meet-for-a-briefing-on-the-situation-in-iran",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The situation in Iran is volatile due to protests and potential government crackdowns. The UN Security Council meeting may lead to increased tensions or diplomatic efforts to resolve the situation.",
+      "immediate_forecast_24h": "The UN Security Council meeting may lead to a temporary escalation of tensions, but it is unlikely to result in immediate violence or disruptions to aviation or cargo operations.",
+      "strategic_outlook": "The long-term outlook for the region is uncertain, with potential for ongoing civil unrest, conflict, or diplomatic efforts to resolve the situation. This could impact aviation, cargo, and personnel operations in the region.",
+      "operational_impact": "Potential disruptions to aviation operations, cargo transport, and personnel movements due to civil unrest or conflict. Airlines and logistics companies should monitor the situation closely and be prepared for potential disruptions or changes to operations.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
   }
 ]
