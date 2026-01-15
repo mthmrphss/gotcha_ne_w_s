@@ -302,5 +302,43 @@
       "operational_impact": "Potential disruptions to aviation operations, cargo transport, and personnel movements due to civil unrest or conflict. Airlines and logistics companies should monitor the situation closely and be prepared for potential disruptions or changes to operations.",
       "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
     }
+  },
+  {
+    "id": "aedb476713327f08f95e4baed3cbb29c",
+    "timestamp": "2026-01-15T05:33:07.587422",
+    "original_title": "Lebanese Foreign Minister claims Israel has right to attack | The Jerusalem Post",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qdb1gf/lebanese_foreign_minister_claims_israel_has_right/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Beirut, Lebanon",
+      "latitude": 33.8938,
+      "longitude": 35.5018,
+      "detailed_analysis": "Lebanese Foreign Minister's statement may escalate tensions between Lebanon and Israel, potentially affecting aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Increased military presence and heightened alertness along the Israel-Lebanon border, potential for airspace restrictions or flight disruptions.",
+      "strategic_outlook": "Prolonged conflict could lead to significant disruptions in regional trade, aviation, and logistics, with potential for spillover into neighboring countries.",
+      "operational_impact": "Airlines and cargo operators should be prepared for possible flight restrictions, airspace closures, or increased security measures in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Beirut–Rafic Hariri International Airport (0 km)"
+    }
+  },
+  {
+    "id": "2ccda3e2621ec85824cef438046dd963",
+    "timestamp": "2026-01-15T05:33:09.297158",
+    "original_title": "Suspected Arms Cargo Ship From Iran Sinks in the Caspian",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qdan7h/suspected_arms_cargo_ship_from_iran_sinks_in_the/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Crime",
+      "risk_score": 7,
+      "location": "Caspian Sea",
+      "latitude": 42.0,
+      "longitude": 50.0,
+      "detailed_analysis": "A suspected arms cargo ship from Iran has sunk in the Caspian Sea, potentially indicating a significant loss of illicit cargo and a disruption to smuggling operations in the region.",
+      "immediate_forecast_24h": "Increased naval activity and potential salvage operations in the area, with possible repercussions for regional security and stability.",
+      "strategic_outlook": "Long-term implications for regional arms trafficking and the potential for increased tensions between nations involved, with possible impacts on global security and trade.",
+      "operational_impact": "Potential disruptions to maritime trade and logistics in the Caspian Sea, with possible increased security measures and inspections for ships transiting the area.",
+      "proximity_alert": null
+    }
   }
 ]
