@@ -682,5 +682,100 @@
       "operational_impact": "Potential delays or cancellations of flights, increased security measures at airports, and disruptions to cargo transport and storage due to power outages or lack of heating.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "5040fc6e61471cb2faab04957c1ad490",
+    "timestamp": "2026-01-15T11:46:01.218439",
+    "original_title": "Reasons to believe Russia behind cyberattack on Polish power system, PM says",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qdha3o/reasons_to_believe_russia_behind_cyberattack_on/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 8,
+      "location": "Poland",
+      "latitude": 52.1293,
+      "longitude": 19.2443,
+      "detailed_analysis": "A cyberattack on the Polish power system is believed to have been carried out by Russia, according to the Polish Prime Minister. This attack could have significant implications for the country's critical infrastructure and potentially disrupt the supply chain and logistics operations.",
+      "immediate_forecast_24h": "In the next 24 hours, there is a high likelihood of further cyberattacks on Polish critical infrastructure, which could lead to power outages, disruptions to transportation systems, and other logistical challenges.",
+      "strategic_outlook": "In the long term, this incident highlights the need for increased cybersecurity measures to protect critical infrastructure from state-sponsored cyberattacks. It also underscores the importance of international cooperation to prevent and respond to such attacks.",
+      "operational_impact": "The cyberattack on the Polish power system could have a significant operational impact on the transportation and logistics sector, particularly if it leads to power outages or disruptions to critical infrastructure. This could result in delays, increased costs, and potential safety risks for personnel and cargo.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "fcc0ca3ce61d90d5088e7f172e9329f1",
+    "timestamp": "2026-01-15T11:46:03.214681",
+    "original_title": "Malaysia may seek South Korea's KF-21 fighter as F/A-18 Hornet delays threaten Air Force",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qdh8jy/malaysia_may_seek_south_koreas_kf21_fighter_as/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 10,
+      "location": "Kuala Lumpur, Malaysia",
+      "latitude": 3.1389,
+      "longitude": 101.6169,
+      "detailed_analysis": "Malaysia is considering acquiring the KF-21 fighter from South Korea due to delays in the delivery of F/A-18 Hornets, which could impact the country's air defense capabilities and potentially create a security gap.",
+      "immediate_forecast_24h": "No immediate changes in the security situation are expected, but the potential acquisition of new fighter jets could lead to increased military activity in the region.",
+      "strategic_outlook": "The long-term implications of this development could include a shift in the regional balance of power, potentially affecting the security dynamics of Southeast Asia and the relationships between Malaysia, South Korea, and other regional players.",
+      "operational_impact": "The potential acquisition of new fighter jets could impact aviation operations in the region, including changes in air traffic control procedures, increased military air activity, and potential disruptions to commercial flights.",
+      "proximity_alert": "YAKIN TEHDİT: Kuala Lumpur International Airport (9 km)"
+    }
+  },
+  {
+    "id": "9c67d9162484c63691e0b0357ab42922",
+    "timestamp": "2026-01-15T11:46:06.593772",
+    "original_title": "European military mission heads to Greenland as Trump's ambitions undeterred by talks",
+    "link": "https://www.france24.com/en/europe/20260115-european-military-mission-heads-to-greenland-as-trump-ambitions-undeterred-by-talks",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 6,
+      "location": "Greenland",
+      "latitude": 64.5167,
+      "longitude": -51.7333,
+      "detailed_analysis": "A European military mission is arriving in Greenland to boost security due to US President Donald Trump's ambitions, indicating potential conflict and increased military presence in the region.",
+      "immediate_forecast_24h": "Increased military activity and potential for heightened tensions between the US and European nations involved in the mission.",
+      "strategic_outlook": "Long-term implications include potential shifts in regional power dynamics and security arrangements, affecting aviation and cargo operations in the Arctic.",
+      "operational_impact": "Potential disruptions to aviation and cargo operations due to increased military activity, and possible restrictions on airspace and shipping lanes.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "c0bedacc0f4c033095aae3ca19200488",
+    "timestamp": "2026-01-15T11:46:08.492424",
+    "original_title": "Iran protests: The biggest challenge to the Islamic Republic since its founding",
+    "link": "https://www.france24.com/en/iran-protests-the-biggest-challenge-to-the-islamic-republic-since-its-founding",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The ongoing protests in Iran pose a significant threat to the stability of the country, which could potentially impact aviation, cargo, and personnel. The fractured opposition and uncertainty about the outcome may lead to further unrest and violence.",
+      "immediate_forecast_24h": "The protests are likely to continue, with a potential for increased violence and clashes between protesters and security forces. This may lead to disruptions in transportation and logistics.",
+      "strategic_outlook": "The long-term outcome of the protests is uncertain, but a prolonged period of unrest could have significant implications for the region, including potential impacts on trade, aviation, and security.",
+      "operational_impact": "The unrest may lead to disruptions in air travel, cargo transport, and personnel movements. There is a potential for increased security measures, including checkpoints and curfews, which could impact logistics and supply chains.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "7cdcd9d011d7259dcf12c1096960136b",
+    "timestamp": "2026-01-15T11:46:10.579877",
+    "original_title": "Iran: Death toll soars in protests after brutal crackdown",
+    "link": "https://www.france24.com/en/iran-death-toll-soars-in-protests-after-brutal-crackdown",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 8,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The situation in Iran is highly volatile due to nationwide protests and a brutal crackdown by authorities, resulting in a high death toll. This unrest could potentially disrupt aviation, cargo, and personnel operations in the region.",
+      "immediate_forecast_24h": "The protests are likely to continue, and the government's response may escalate, leading to further instability and potential disruptions to transport and logistics in the short term.",
+      "strategic_outlook": "The long-term impact of these protests on Iran's stability and the region could be significant, potentially affecting trade, aviation, and cargo operations. The situation bears close monitoring for any signs of escalation or de-escalation.",
+      "operational_impact": "The unrest may cause delays or disruptions to flights, cargo shipments, and personnel movements in and out of Iran. Transport and logistics operators should be prepared for potential disruptions and consider alternative routes or contingency plans.",
+      "proximity_alert": null
+    }
   }
 ]
