@@ -606,5 +606,81 @@
       "operational_impact": "The cancellations may cause temporary disruptions to travel plans and potentially affect cargo transport, but the overall impact on logistics is expected to be minimal.",
       "proximity_alert": "YAKIN TEHDİT: Clayton Hotel Dublin Airport (8 km)"
     }
+  },
+  {
+    "id": "2ee6b0228ba132d2266861e43fd03c01",
+    "timestamp": "2026-01-15T11:27:27.332221",
+    "original_title": "Pentagon moving carrier strike group toward Middle East amid Iran tension - NewsNation",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBGeVBCS0tRWUEyNGRMaW5oMXRJbng5bnBMU2IzMEdlX2hzakNmbnpIQ2w1OWl2a19sQ3ZQT3pVdHR5TXZBUDVERXVLenlBVTZObE9tYkZoZVB1NVlLbTZ6dTFDaU5tcFBKdXJMSnVWbTRscV9kWGdXOGc1emPSAYIBQVVfeXFMUGd0Ui1uVTFjQ3U0Q1N4aDdyd3U4NjB4NGJETzhwQXZSbGp3QW9ub2VBOE9kcFdqaGlKSlY5VVd3NXNRb0FZQ2l3WHNRVjA2ZG50X29aOW93MDRUTG8xVFF3SnY3RnIyX1U5bGdCWmU5X3pFc0xEbGVzTzZuMTZ2UzRaUQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Middle East",
+      "latitude": 29.4574,
+      "longitude": 47.6466,
+      "detailed_analysis": "The Pentagon is moving a carrier strike group towards the Middle East due to rising tensions with Iran, which could potentially lead to conflicts affecting aviation and transport in the region.",
+      "immediate_forecast_24h": "Increased military presence in the region may lead to heightened security measures and potential disruptions to air traffic and shipping lanes.",
+      "strategic_outlook": "Escalating tensions between the US and Iran could lead to long-term instability in the region, affecting global supply chains and transport logistics.",
+      "operational_impact": "Potential disruptions to air traffic, shipping lanes, and logistics operations in the Middle East, with possible ripple effects on global supply chains.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "e866ee1b66d316b2e77ddaac201e9bd1",
+    "timestamp": "2026-01-15T11:27:30.276130",
+    "original_title": "Russia Knocks Out the Heat in Ukraine",
+    "link": "https://www.nytimes.com/2026/01/15/world/europe/ukraine-kyiv-winter-heating-power-outages.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "The Kremlin's attacks on Ukraine's energy infrastructure have been the most devastating this winter, indicating a heightened threat to assets, cargo, aviation, and personnel due to the ongoing conflict.",
+      "immediate_forecast_24h": "Expect continued disruptions to critical infrastructure and potential escalation of attacks on key targets, including transportation hubs and logistics centers.",
+      "strategic_outlook": "The long-term impact of these attacks could lead to significant destabilization of the region, affecting trade routes, supply chains, and the overall security landscape.",
+      "operational_impact": "Transportation and logistics operations in and around Ukraine may face significant disruptions, including potential shortages of fuel and other essential supplies, increased security measures, and heightened risk of collateral damage.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "d62e3f52190db0049ca297ac57ac6c6a",
+    "timestamp": "2026-01-15T11:27:33.354001",
+    "original_title": "British intelligence: Russia likely lost 415,000 soldiers killed and injured in 2025",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qdgg9w/british_intelligence_russia_likely_lost_415000/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Russia, Ukraine",
+      "latitude": 48.8567,
+      "longitude": 35.8859,
+      "detailed_analysis": "British intelligence reports significant Russian military losses, potentially impacting regional stability and security. This could lead to increased tensions and conflict, affecting transport and logistics in the area.",
+      "immediate_forecast_24h": "No immediate changes expected, but ongoing conflict may escalate or de-escalate in the coming days.",
+      "strategic_outlook": "Long-term implications of the conflict could lead to shifts in regional power dynamics, affecting trade routes and security measures for assets, cargo, aviation, and personnel.",
+      "operational_impact": "Potential disruptions to transport and logistics in the region, particularly for cargo and aviation. Increased security measures may be necessary to mitigate risks.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "62c55f4344cdf2b9d188b493213a3417",
+    "timestamp": "2026-01-15T11:27:36.390605",
+    "original_title": "Ukraine: Zelensky declares energy emergency after Russian strikes",
+    "link": "https://www.france24.com/en/ukraine-zelensky-declares-energy-emergency-after-russian-strikes",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "Russian strikes on Ukraine's energy sector have led to a state of emergency, potentially disrupting heat and electricity supplies during winter. This could impact critical infrastructure, including aviation and logistics.",
+      "immediate_forecast_24h": "Increased risk of power outages and disruptions to essential services, potentially affecting airport operations and cargo handling.",
+      "strategic_outlook": "Long-term instability in the region could lead to sustained disruptions to energy supplies, impacting the overall security and efficiency of transport and logistics operations.",
+      "operational_impact": "Potential delays or cancellations of flights, increased security measures at airports, and disruptions to cargo transport and storage due to power outages or lack of heating.",
+      "proximity_alert": null
+    }
   }
 ]
