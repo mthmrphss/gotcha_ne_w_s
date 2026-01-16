@@ -112,5 +112,43 @@
       "operational_impact": "Potential for increased security measures and military operations, which may affect transport and logistics operations, particularly in areas with high military activity or near military bases.",
       "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (2 km)"
     }
+  },
+  {
+    "id": "da8dad6bb37c6b906d3eb224511d2009",
+    "timestamp": "2026-01-16T02:19:53.646487",
+    "original_title": "Trump threatens Insurrection Act as protests spread in Minnesota",
+    "link": "https://www.france24.com/en/americas/20260116-trump-insurrection-minnesota-protests",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 6,
+      "location": "Minnesota, USA",
+      "latitude": 44.9778,
+      "longitude": -93.265,
+      "detailed_analysis": "Protests and demonstrations in Minnesota pose a threat to public order and safety, potentially disrupting transportation and logistics in the area. The involvement of federal agents and the use of force may escalate tensions and lead to further unrest.",
+      "immediate_forecast_24h": "Increased protests and demonstrations are likely, potentially leading to clashes with law enforcement and disruptions to local transportation. The situation may deteriorate if the Insurrection Act is invoked, leading to a heightened military presence.",
+      "strategic_outlook": "The situation in Minnesota may be a precursor to similar unrest in other parts of the country, particularly in areas with high levels of immigration enforcement activity. The use of the Insurrection Act could set a precedent for future responses to civil unrest, potentially leading to increased militarization of law enforcement.",
+      "operational_impact": "Transportation and logistics operations in Minnesota may be disrupted due to protests and demonstrations, particularly if they occur near major transportation hubs or infrastructure. Companies operating in the area should be prepared for potential delays or disruptions to their supply chains.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "a1b45ed22965b603ad9959e67d01fa6e",
+    "timestamp": "2026-01-16T02:19:55.383407",
+    "original_title": "US court ruling puts pro-Palestinian activist Mahmoud Khalil back at risk of detention",
+    "link": "https://www.france24.com/en/americas/20260116-us-court-pro-palestinian-activist-mahmoud-khalil-detention",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "New York City, USA",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "detailed_analysis": "The US court ruling against pro-Palestinian activist Mahmoud Khalil may lead to increased tensions and potential civil unrest, particularly in areas with high concentrations of pro-Palestinian supporters. However, there is no direct indication of a threat to assets, cargo, aviation, or personnel at this time.",
+      "immediate_forecast_24h": "The situation is likely to remain calm in the short term, but protests or demonstrations may occur in response to the court ruling.",
+      "strategic_outlook": "The long-term outlook is uncertain, but the situation may escalate if Khalil is rearrested or if there are further developments in the Israeli-Palestinian conflict.",
+      "operational_impact": "The operational impact is currently low, but potential protests or demonstrations may cause disruptions to traffic and logistics in affected areas.",
+      "proximity_alert": "YAKIN TEHDİT: Paramount Hotel (5 km)"
+    }
   }
 ]

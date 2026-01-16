@@ -1,40 +1,40 @@
 [
   {
-    "id": "5409ca5f9fb38279019d8378442aee62",
-    "timestamp": "2026-01-15T23:28:09.778470",
-    "original_title": "Europeans quietly shift away from US tech services, share lists of local alternatives",
-    "link": "https://www.reddit.com/r/worldnews/comments/1qdytqt/europeans_quietly_shift_away_from_us_tech/",
-    "source_name": "Reddit r/WorldNews",
+    "id": "da8dad6bb37c6b906d3eb224511d2009",
+    "timestamp": "2026-01-16T02:19:53.646487",
+    "original_title": "Trump threatens Insurrection Act as protests spread in Minnesota",
+    "link": "https://www.france24.com/en/americas/20260116-trump-insurrection-minnesota-protests",
+    "source_name": "France 24 ME",
     "ai_analysis": {
-      "category": "Cyber",
-      "risk_score": 10,
-      "location": "Europe",
-      "latitude": 48.8567,
-      "longitude": 2.2945,
-      "detailed_analysis": "The shift away from US tech services in Europe may lead to increased use of local alternatives, potentially reducing dependence on foreign technologies but also introducing new cybersecurity risks due to less tested and proven local solutions.",
-      "immediate_forecast_24h": "No immediate significant impact expected, but ongoing monitoring of cybersecurity threats related to the adoption of new, potentially less secure local tech services is recommended.",
-      "strategic_outlook": "Long term, this trend could lead to a more fragmented tech landscape in Europe, with both positive outcomes such as increased local innovation and negative consequences such as increased vulnerability to cyber threats due to less standardized security protocols.",
-      "operational_impact": "The operational impact on transport and logistics may be minimal in the short term but could increase as the reliance on local, potentially less secure tech services grows, necessitating enhanced cybersecurity measures to protect assets, cargo, aviation, and personnel.",
-      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (1 km)"
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 6,
+      "location": "Minnesota, USA",
+      "latitude": 44.9778,
+      "longitude": -93.265,
+      "detailed_analysis": "Protests and demonstrations in Minnesota pose a threat to public order and safety, potentially disrupting transportation and logistics in the area. The involvement of federal agents and the use of force may escalate tensions and lead to further unrest.",
+      "immediate_forecast_24h": "Increased protests and demonstrations are likely, potentially leading to clashes with law enforcement and disruptions to local transportation. The situation may deteriorate if the Insurrection Act is invoked, leading to a heightened military presence.",
+      "strategic_outlook": "The situation in Minnesota may be a precursor to similar unrest in other parts of the country, particularly in areas with high levels of immigration enforcement activity. The use of the Insurrection Act could set a precedent for future responses to civil unrest, potentially leading to increased militarization of law enforcement.",
+      "operational_impact": "Transportation and logistics operations in Minnesota may be disrupted due to protests and demonstrations, particularly if they occur near major transportation hubs or infrastructure. Companies operating in the area should be prepared for potential delays or disruptions to their supply chains.",
+      "proximity_alert": null
     }
   },
   {
-    "id": "63ccadd9a3cebbc836d52eee6f685503",
-    "timestamp": "2026-01-15T23:46:27.495967",
-    "original_title": "Macron calls for €36 billion increase in defence budget by 2030",
-    "link": "https://www.france24.com/en/tv-shows/business/20260115-macron-calls-for-%E2%82%AC36-billion-increase-in-defence-budget-by-2030",
+    "id": "a1b45ed22965b603ad9959e67d01fa6e",
+    "timestamp": "2026-01-16T02:19:55.383407",
+    "original_title": "US court ruling puts pro-Palestinian activist Mahmoud Khalil back at risk of detention",
+    "link": "https://www.france24.com/en/americas/20260116-us-court-pro-palestinian-activist-mahmoud-khalil-detention",
     "source_name": "France 24 ME",
     "ai_analysis": {
-      "category": "Conflict",
+      "category": "Terrorism/Conflict/Civil Unrest",
       "risk_score": 10,
-      "location": "Paris, France",
-      "latitude": 48.8567,
-      "longitude": 2.3508,
-      "detailed_analysis": "French President Emmanuel Macron's plan to increase the defence budget by €36 billion by 2030 indicates a response to rising geopolitical tensions, which may impact regional stability and potentially affect transport and logistics operations.",
-      "immediate_forecast_24h": "No immediate impact expected, but increased military presence and activities may be observed in the coming weeks.",
-      "strategic_outlook": "The increased defence budget may lead to enhanced military capabilities, potentially altering the regional balance of power and influencing the security landscape for assets, cargo, aviation, and personnel in the long term.",
-      "operational_impact": "Potential for increased security measures and military operations, which may affect transport and logistics operations, particularly in areas with high military activity or near military bases.",
-      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (2 km)"
+      "location": "New York City, USA",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "detailed_analysis": "The US court ruling against pro-Palestinian activist Mahmoud Khalil may lead to increased tensions and potential civil unrest, particularly in areas with high concentrations of pro-Palestinian supporters. However, there is no direct indication of a threat to assets, cargo, aviation, or personnel at this time.",
+      "immediate_forecast_24h": "The situation is likely to remain calm in the short term, but protests or demonstrations may occur in response to the court ruling.",
+      "strategic_outlook": "The long-term outlook is uncertain, but the situation may escalate if Khalil is rearrested or if there are further developments in the Israeli-Palestinian conflict.",
+      "operational_impact": "The operational impact is currently low, but potential protests or demonstrations may cause disruptions to traffic and logistics in affected areas.",
+      "proximity_alert": "YAKIN TEHDİT: Paramount Hotel (5 km)"
     }
   }
 ]
