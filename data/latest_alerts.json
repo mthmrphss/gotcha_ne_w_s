@@ -1,62 +1,5 @@
 [
   {
-    "id": "2a5a8cc005f70a0646e1c80cf5ad4b2c",
-    "timestamp": "2026-01-16T08:38:43.074790",
-    "original_title": "Trump puts on hold military action against Iran after Arab Gulf allies, Israel express misgivings - The Arab Weekly",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR2YxMXhfdlVsQnBGZk85YzQtZi11QzNLTEtsUndnVFo5dkpnb2lvU3h6bVZfWG5IR3ZFYlA3aU15Nm9RT3p3UU1uZ3ZhMzc5QnY3QUlLOUlnUWdycGVWRHlJVFd0Rng3dWFMT21ETGw0V2pfa2NtSWc3T3pqZmJmQXk0SEY1dlJOaC03UVpuWlVuak9fbXhWdHdBMjZSNWhrZHBfeG9mXzFfMnl0V0swUnhpODlaQWdqbEpZ?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 8,
-      "location": "Middle East",
-      "latitude": 29.9116,
-      "longitude": 47.4818,
-      "detailed_analysis": "The US has put on hold military action against Iran after Arab Gulf allies and Israel expressed misgivings, indicating a potential de-escalation of tensions in the region. However, the situation remains volatile and could impact aviation and cargo operations.",
-      "immediate_forecast_24h": "Tensions between the US and Iran are expected to remain high, with a risk of miscalculation or unexpected events that could escalate the situation.",
-      "strategic_outlook": "The long-term outlook for the region remains uncertain, with ongoing tensions between the US, Iran, and other regional actors. This could lead to increased security measures and potential disruptions to transport and logistics operations.",
-      "operational_impact": "The situation could impact aviation operations, particularly in the Middle East, with potential flight restrictions or increased security measures. Cargo operations may also be affected, particularly if there are disruptions to shipping lanes or ports in the region.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "7eea0eec1225517bac5acf7c3c4a552b",
-    "timestamp": "2026-01-16T08:38:47.077140",
-    "original_title": "Iran protests: Authorities demanding large sums for return of protesters' bodies, BBC told",
-    "link": "https://www.reddit.com/r/worldnews/comments/1qe9unk/iran_protests_authorities_demanding_large_sums/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Civil Unrest/Conflict",
-      "risk_score": 6,
-      "location": "Iran",
-      "latitude": 32.0,
-      "longitude": 53.0,
-      "detailed_analysis": "Iranian authorities are demanding large sums of money from families of protesters in exchange for the return of their bodies, indicating a high level of tension and potential for further unrest.",
-      "immediate_forecast_24h": "Protests and demonstrations are likely to continue, with a potential for increased violence and clashes between protesters and security forces.",
-      "strategic_outlook": "The situation in Iran is likely to remain volatile, with potential long-term implications for regional stability and global trade.",
-      "operational_impact": "Transport and logistics operations in the region may be affected by the ongoing unrest, with potential disruptions to supply chains and increased security risks for personnel and assets.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "6c292fee8b1dd62de756e9729defa9a9",
-    "timestamp": "2026-01-16T08:38:49.365979",
-    "original_title": "Obedience, Ambiguity, and Punishment: The Chinese Military at Tiananmen Revisited",
-    "link": "https://warontherocks.com/2026/01/obedience-ambiguity-and-punishment-the-chinese-military-at-tiananmen-revisited/",
-    "source_name": "War on the Rocks",
-    "ai_analysis": {
-      "category": "Conflict/Civil Unrest",
-      "risk_score": 10,
-      "location": "Beijing, China",
-      "latitude": 39.9042,
-      "longitude": 116.4074,
-      "detailed_analysis": "The article discusses the Chinese military's role in maintaining authoritarian control and the potential for civil unrest, but does not mention any specific threats to assets, cargo, aviation, or personnel.",
-      "immediate_forecast_24h": "No immediate threats are expected, but the situation will be monitored for any developments that could impact regional stability.",
-      "strategic_outlook": "The long-term outlook suggests continued tensions between the Chinese government and potential opposition groups, which could lead to increased security measures and potential disruptions to transport and logistics.",
-      "operational_impact": "No direct operational impact is expected at this time, but companies with interests in China should be aware of the potential for increased security measures and plan accordingly.",
-      "proximity_alert": "YAKIN TEHDİT: Beijing Capital International Airport (25 km)"
-    }
-  },
-  {
     "id": "b16416bf6014756a79af795caef88c19",
     "timestamp": "2026-01-16T09:33:59.526776",
     "original_title": "OPSWAT Unit 515 identifies critical flaws in Delta DVP PLCs, raising concerns for ICS security - Industrial Cyber",
@@ -72,6 +15,63 @@
       "immediate_forecast_24h": "In the next 24 hours, there is a high likelihood that the vulnerability will be further analyzed and potentially exploited by malicious actors. This could lead to increased cyber attacks on industrial control systems, particularly in the aviation and logistics sectors.",
       "strategic_outlook": "In the long term, the identification of these critical flaws highlights the need for increased investment in ICS security and the implementation of robust cybersecurity measures to protect against potential threats. This includes regular vulnerability assessments, penetration testing, and the implementation of secure communication protocols.",
       "operational_impact": "The operational impact of this vulnerability could be significant, particularly if it is exploited by malicious actors. This could lead to disruptions to industrial operations, including those in the aviation and logistics sectors, which could have a ripple effect on the global supply chain.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "5c7cf1ee8111b527df1e7b0a3b4dbbc5",
+    "timestamp": "2026-01-16T10:32:51.533063",
+    "original_title": "Russia was behind attempted 2024 arson attack, Lithuania says - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTk1BMTJoTURuNzBkTG5jVkJqaDhqdDlTbnY2MHNxdVNQREVlRkNKNHZvUTc5U1hJa2RaUGhQQ3RhT2pQb3pUR01iWEZhTFI3VENHQjNDZWRDVTNQNzZ2U2VpM0hOUGdtQ3N5M1Blb3ByM0k3ODN3bjlVYVhaY3BXN1pKMlRNNGRYZ0ZVVlZ6UUZXdmpjaDUtaGZQZ3JYQTFPNVEzWjNwNEIyV25zWFE?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict",
+      "risk_score": 8,
+      "location": "Lithuania",
+      "latitude": 55.1694,
+      "longitude": 23.8813,
+      "detailed_analysis": "Lithuania has accused Russia of being behind an attempted arson attack in 2024, indicating a potential escalation of tensions between the two nations and a heightened risk of sabotage or terrorism targeting critical infrastructure, including transportation and logistics assets.",
+      "immediate_forecast_24h": "Increased vigilance is expected from Lithuanian authorities, potentially leading to enhanced security measures at key infrastructure points, including airports, seaports, and border crossings.",
+      "strategic_outlook": "The long-term implications of this accusation could lead to strained diplomatic relations between Lithuania and Russia, potentially affecting trade and the movement of goods, as well as increased security protocols for aviation and cargo operations.",
+      "operational_impact": "Transportation and logistics companies operating in or through Lithuania should be prepared for possible delays or increased security checks, particularly if the situation escalates or if similar incidents occur in the future.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "5a4036919d138eab622073c828bfad76",
+    "timestamp": "2026-01-16T10:32:55.131571",
+    "original_title": "Iran Has Had Protests Before. Will This Time Be Different?",
+    "link": "https://www.nytimes.com/2026/01/16/world/middleeast/iran-protests-regime-change.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The ongoing protests in Iran have the potential to escalate into a larger conflict, posing a threat to aviation, cargo, and personnel in the region. The unrest could lead to disruptions in logistics and transportation, as well as increased security measures at airports and border crossings.",
+      "immediate_forecast_24h": "The protests are likely to continue, with a potential for increased violence and clashes between protesters and security forces. This could lead to temporary closures of airports and border crossings, as well as disruptions to cargo and passenger flights.",
+      "strategic_outlook": "The long-term impact of the protests on the region's stability and security is uncertain. However, if the protests are successful in bringing about regime change, it could lead to a more stable and secure environment for aviation, cargo, and personnel in the region.",
+      "operational_impact": "The protests and potential conflict could lead to disruptions in logistics and transportation, including delays or cancellations of flights, as well as increased security measures at airports and border crossings. This could have a significant impact on the movement of cargo and personnel in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "85ae235da53dd26dc00647c948480abc",
+    "timestamp": "2026-01-16T10:32:59.153038",
+    "original_title": "Trump threatens to invoke Insurrection Act over protests in Minnesota",
+    "link": "https://www.france24.com/en/video/20260116-trump-threatens-to-invoke-insurrection-act-over-protests-in-minnesota-1",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 6,
+      "location": "Minnesota, USA",
+      "latitude": 44.9778,
+      "longitude": -93.265,
+      "detailed_analysis": "The situation in Minnesota is volatile due to protests sparked by federal agents' actions, and the threat of invoking the Insurrection Act could escalate tensions, potentially disrupting transport and logistics in the area.",
+      "immediate_forecast_24h": "Increased protests and potential clashes between protesters and law enforcement are expected, which may lead to roadblocks, disruptions to cargo movement, and impacts on aviation if the situation spirals out of control.",
+      "strategic_outlook": "The long-term view suggests that if the situation in Minnesota is not de-escalated, it could set a precedent for similar actions in other parts of the country, leading to widespread civil unrest and significant operational impacts on various sectors including aviation, cargo, and personnel movement.",
+      "operational_impact": "Potential disruptions to supply chains, increased security measures at airports and other critical infrastructure, and possible rerouting of cargo and flights to avoid affected areas are anticipated if the situation worsens.",
       "proximity_alert": null
     }
   }
