@@ -1,43 +1,5 @@
 [
   {
-    "id": "79a6a66ca2d41c36aebe5fb444b8e435",
-    "timestamp": "2026-01-16T21:28:27.931280",
-    "original_title": "Congressman García on ICE Terror in Minnesota: - Representative Jesus Garcia (.gov)",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPb0c4NFZwZGlIcGJsN3gwNHFQaWtYMkVYQ2tlaUtpY3pkYzdHWm5NTGdQS1BPc3lOT296NVl4RUpFUlpZUnUzMWpZZFM1NTYwN1dyQ2IwZjFrRGd6SmQ2WERVRl9pQnRNWXd6M2RqNGVUSXFCbjFaRzd4cTk2UzFQcVVfVlpZYmRkQ3pnazl5RmtPV3ZOYVVzV1lYMA?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Terrorism/Crime/Border/Civil Unrest",
-      "risk_score": 6,
-      "location": "Minnesota, USA",
-      "latitude": 44.9778,
-      "longitude": -93.265,
-      "detailed_analysis": "Congressman García's statement on ICE terror in Minnesota indicates a potential threat to national security and public safety, which may impact personnel and assets in the region.",
-      "immediate_forecast_24h": "Increased security measures and law enforcement presence are expected in the area, potentially causing disruptions to transportation and logistics.",
-      "strategic_outlook": "The situation may escalate into a larger-scale security concern, affecting border control and immigration policies, with potential long-term implications for the region's stability and security.",
-      "operational_impact": "Transportation and logistics operations in the region may be affected by increased security checks, potential border closures, or civil unrest, leading to delays and disruptions in the supply chain.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "57204a53741e821fb4817b66d7f51bcd",
-    "timestamp": "2026-01-16T21:31:52.647563",
-    "original_title": "Uganda: tensions between police and protesters as Museveni leads polls",
-    "link": "http://www.africanews.com/2026/01/16/uganda-tensions-between-police-and-protesters-as-museveni-leads-polls/",
-    "source_name": "Africa News",
-    "ai_analysis": {
-      "category": "Civil Unrest",
-      "risk_score": 6,
-      "location": "Kampala, Uganda",
-      "latitude": 0.3167,
-      "longitude": 32.5833,
-      "detailed_analysis": "Protests and tensions between police and protesters in Kampala due to presidential election results, with potential for further unrest and disruption to transport and logistics",
-      "immediate_forecast_24h": "Increased security presence and potential for further clashes between police and protesters, with possible disruptions to road transport and logistics",
-      "strategic_outlook": "Prolonged civil unrest could impact Uganda's stability and economy, affecting trade and transport in the region",
-      "operational_impact": "Potential disruptions to road transport and logistics, with possible delays or rerouting of cargo and personnel",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "5d5a8e625fc493040581a6c87c284601",
     "timestamp": "2026-01-16T21:46:48.804514",
     "original_title": "Trump’s Fateful Choice in Iran",
@@ -92,6 +54,25 @@
       "strategic_outlook": "The long-term outlook for Iran remains uncertain, with the potential for continued unrest and instability. The impact on the region and global security will depend on the actions of the Iranian authorities and the international community.",
       "operational_impact": "The situation in Iran may impact aviation and cargo operations, particularly if the unrest escalates or spreads to other areas. Transport and logistics companies should exercise caution and monitor the situation closely to minimize potential disruptions.",
       "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "f80b74b38a0622bd0c43b07ef16cf7f7",
+    "timestamp": "2026-01-16T22:50:59.376143",
+    "original_title": "Syria's Sharaa declares Kurdish a 'national language' following clashes",
+    "link": "https://www.france24.com/en/middle-east/20260116-syria-sharaa-declares-kurdish-national-language-following-clashes",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Aleppo, Syria",
+      "latitude": 36.201,
+      "longitude": 37.161,
+      "detailed_analysis": "Recent clashes between the Syrian army and Kurdish forces in Aleppo have led to the declaration of Kurdish as a national language, potentially escalating tensions and unrest in the region.",
+      "immediate_forecast_24h": "Increased military presence and potential for further clashes, but no immediate indication of direct threats to aviation, cargo, or personnel.",
+      "strategic_outlook": "Long-term implications of a decentralised federal system being rejected by Damascus may lead to sustained conflict and instability in the region, affecting transport and logistics operations.",
+      "operational_impact": "Potential for disruptions to ground transport and logistics due to conflict, but no immediate impact on aviation or cargo operations reported.",
+      "proximity_alert": "YAKIN TEHDİT: Aleppo International Airport (6 km)"
     }
   }
 ]
