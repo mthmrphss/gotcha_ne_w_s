@@ -378,5 +378,24 @@
       "operational_impact": "No direct operational impact is expected at this time, but companies with interests in China should be aware of the potential for increased security measures and plan accordingly.",
       "proximity_alert": "YAKIN TEHDİT: Beijing Capital International Airport (25 km)"
     }
+  },
+  {
+    "id": "b16416bf6014756a79af795caef88c19",
+    "timestamp": "2026-01-16T09:33:59.526776",
+    "original_title": "OPSWAT Unit 515 identifies critical flaws in Delta DVP PLCs, raising concerns for ICS security - Industrial Cyber",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSjBGZmRJdm5qemQ5N1RDS0gtQTR1aHZCLUdOQWlkN2xYTWFzeVdnRHpNLTdUdE5hQm9jd3hpazNBamsxSWxRWmJGYzZ3MFpHTXk5NUdZUFBZUG0tNjJWMDAyMkhEeGRqVUlYd0gtY1ZyaENwUlNYcUpkVkdqWVVlUVFnYVJJejQ5QzNDSEplOXpFS1c4Sk9uSmh0cmJUVUxLQmR6UU5QTUhJQkdiaENvSGJpOXlDSG9Xb0wzdHpMRzVoTHhMbV9vNkhWYWtXZlJTRkdEa1gtbjJMWkQyRXJr?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 8,
+      "location": "Global",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "OPSWAT Unit 515 has identified critical flaws in Delta DVP PLCs, which raises significant concerns for Industrial Control Systems (ICS) security. This vulnerability could potentially be exploited by malicious actors to disrupt or compromise industrial operations, including those in the aviation and logistics sectors.",
+      "immediate_forecast_24h": "In the next 24 hours, there is a high likelihood that the vulnerability will be further analyzed and potentially exploited by malicious actors. This could lead to increased cyber attacks on industrial control systems, particularly in the aviation and logistics sectors.",
+      "strategic_outlook": "In the long term, the identification of these critical flaws highlights the need for increased investment in ICS security and the implementation of robust cybersecurity measures to protect against potential threats. This includes regular vulnerability assessments, penetration testing, and the implementation of secure communication protocols.",
+      "operational_impact": "The operational impact of this vulnerability could be significant, particularly if it is exploited by malicious actors. This could lead to disruptions to industrial operations, including those in the aviation and logistics sectors, which could have a ripple effect on the global supply chain.",
+      "proximity_alert": null
+    }
   }
 ]

@@ -1,24 +1,5 @@
 [
   {
-    "id": "2d501869163668f133b7ae9bb67ce908",
-    "timestamp": "2026-01-16T07:31:25.003470",
-    "original_title": "Ex-Jammeh death squad leader pleads not guilty as landmark Gambia trial opens",
-    "link": "http://www.africanews.com/2026/01/16/ex-jammeh-death-squad-leader-pleads-not-guilty-as-landmark-gambia-trial-opens/",
-    "source_name": "Africa News",
-    "ai_analysis": {
-      "category": "Conflict/Crime",
-      "risk_score": 10,
-      "location": "Banjul, The Gambia",
-      "latitude": 13.4553,
-      "longitude": -16.5753,
-      "detailed_analysis": "The trial of a former death squad leader in The Gambia may lead to increased tensions and potential unrest, but does not directly impact aviation, cargo, or personnel at this time.",
-      "immediate_forecast_24h": "No immediate threats to assets, cargo, aviation, or personnel are expected in the next 24 hours.",
-      "strategic_outlook": "The trial may lead to long-term stability in the region, but the situation will need to be monitored for potential flashpoints.",
-      "operational_impact": "No direct operational impact on transport or logistics is expected at this time.",
-      "proximity_alert": "YAKIN TEHDİT: BANJUL (2 km)"
-    }
-  },
-  {
     "id": "2a5a8cc005f70a0646e1c80cf5ad4b2c",
     "timestamp": "2026-01-16T08:38:43.074790",
     "original_title": "Trump puts on hold military action against Iran after Arab Gulf allies, Israel express misgivings - The Arab Weekly",
@@ -73,6 +54,25 @@
       "strategic_outlook": "The long-term outlook suggests continued tensions between the Chinese government and potential opposition groups, which could lead to increased security measures and potential disruptions to transport and logistics.",
       "operational_impact": "No direct operational impact is expected at this time, but companies with interests in China should be aware of the potential for increased security measures and plan accordingly.",
       "proximity_alert": "YAKIN TEHDİT: Beijing Capital International Airport (25 km)"
+    }
+  },
+  {
+    "id": "b16416bf6014756a79af795caef88c19",
+    "timestamp": "2026-01-16T09:33:59.526776",
+    "original_title": "OPSWAT Unit 515 identifies critical flaws in Delta DVP PLCs, raising concerns for ICS security - Industrial Cyber",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSjBGZmRJdm5qemQ5N1RDS0gtQTR1aHZCLUdOQWlkN2xYTWFzeVdnRHpNLTdUdE5hQm9jd3hpazNBamsxSWxRWmJGYzZ3MFpHTXk5NUdZUFBZUG0tNjJWMDAyMkhEeGRqVUlYd0gtY1ZyaENwUlNYcUpkVkdqWVVlUVFnYVJJejQ5QzNDSEplOXpFS1c4Sk9uSmh0cmJUVUxLQmR6UU5QTUhJQkdiaENvSGJpOXlDSG9Xb0wzdHpMRzVoTHhMbV9vNkhWYWtXZlJTRkdEa1gtbjJMWkQyRXJr?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 8,
+      "location": "Global",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "OPSWAT Unit 515 has identified critical flaws in Delta DVP PLCs, which raises significant concerns for Industrial Control Systems (ICS) security. This vulnerability could potentially be exploited by malicious actors to disrupt or compromise industrial operations, including those in the aviation and logistics sectors.",
+      "immediate_forecast_24h": "In the next 24 hours, there is a high likelihood that the vulnerability will be further analyzed and potentially exploited by malicious actors. This could lead to increased cyber attacks on industrial control systems, particularly in the aviation and logistics sectors.",
+      "strategic_outlook": "In the long term, the identification of these critical flaws highlights the need for increased investment in ICS security and the implementation of robust cybersecurity measures to protect against potential threats. This includes regular vulnerability assessments, penetration testing, and the implementation of secure communication protocols.",
+      "operational_impact": "The operational impact of this vulnerability could be significant, particularly if it is exploited by malicious actors. This could lead to disruptions to industrial operations, including those in the aviation and logistics sectors, which could have a ripple effect on the global supply chain.",
+      "proximity_alert": null
     }
   }
 ]
