@@ -1,24 +1,5 @@
 [
   {
-    "id": "7f881faff1d62fd8d311525a2dbbc8e8",
-    "timestamp": "2026-01-16T16:38:37.203289",
-    "original_title": "Syria poised to attack Kurdish-held towns to pressure stalled talks, sources say",
-    "link": "https://www.reddit.com/r/geopolitics/comments/1qejmlc/syria_poised_to_attack_kurdishheld_towns_to/",
-    "source_name": "Reddit r/Geopolitics",
-    "ai_analysis": {
-      "category": "Conflict/Civil Unrest",
-      "risk_score": 10,
-      "location": "Kurdish-held towns, Syria",
-      "latitude": 36.1955,
-      "longitude": 37.0028,
-      "detailed_analysis": "Syrian forces are poised to attack Kurdish-held towns, which could lead to increased violence and instability in the region, posing a significant threat to assets, cargo, aviation, and personnel.",
-      "immediate_forecast_24h": "Escalation of violence and potential clashes between Syrian forces and Kurdish militants, with possible disruptions to transportation and logistics in the region.",
-      "strategic_outlook": "Long-term instability and conflict in the region could lead to increased security risks, disruptions to supply chains, and potential humanitarian crises.",
-      "operational_impact": "Potential disruptions to air and ground transportation, increased security measures, and potential evacuation of personnel from the region.",
-      "proximity_alert": "YAKIN TEHDİT: Aleppo International Airport (19 km)"
-    }
-  },
-  {
     "id": "f30135a70c9dbd009e8faf91e2bdb664",
     "timestamp": "2026-01-16T17:31:34.390732",
     "original_title": "Arrests reported by official media for first time since Tehran protests began",
@@ -35,6 +16,25 @@
       "strategic_outlook": "Prolonged unrest could lead to increased instability, affecting transport and logistics operations in the region, particularly if protests spread to other areas or involve critical infrastructure.",
       "operational_impact": "Potential for delays or restrictions in cargo movement and personnel travel due to security checks and protests, but currently, the impact on aviation and major cargo operations appears limited.",
       "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "03c5b0ed2049c0b5a2cf36ef71da322d",
+    "timestamp": "2026-01-16T17:51:26.664735",
+    "original_title": "A part that broke on a UPS plane that crashed in Kentucky failed 4 times on other planes years ago - AP News",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR21TQXpvNVBOLVdja2RyeS1DbUVDZHdkSjRScHZTSDJ6OHdYbkZIRFQtVkVCaDBKUDM3cERZN2xIYnI2NDdfcnJOeXJYRzZUa1dPT0lPQ1pNc1NkVlZwQ2ZqcWdXbVhjdEpDbk10a3NlX19hZDZNVWxzSWxaWktET0p0cTd0YWk0REpEOGhvT0F2elN2Wk5nRHFUZlA?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 8,
+      "location": "Kentucky, USA",
+      "latitude": 38.0407,
+      "longitude": -84.8613,
+      "detailed_analysis": "A part that broke on a UPS plane that crashed in Kentucky had previously failed 4 times on other planes, indicating a potential mechanical issue that could pose a significant threat to aviation safety",
+      "immediate_forecast_24h": "Investigations into the cause of the crash and the part's failure history are likely to continue, with potential implications for UPS and the aviation industry as a whole",
+      "strategic_outlook": "The incident highlights the importance of rigorous maintenance and inspection protocols to prevent similar failures in the future, and may lead to changes in industry standards or regulations",
+      "operational_impact": "The crash may impact UPS operations and cargo transport in the short term, with potential delays or disruptions to services, and may also have longer-term implications for the company's reputation and customer trust",
+      "proximity_alert": null
     }
   }
 ]
