@@ -834,5 +834,43 @@
       "operational_impact": "The crash may impact UPS operations and cargo transport in the short term, with potential delays or disruptions to services, and may also have longer-term implications for the company's reputation and customer trust",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "20aa4a58198f5e79e3b071c1d63d32ba",
+    "timestamp": "2026-01-16T18:42:22.934945",
+    "original_title": "Iran Protests Quelled Since Deadly Crackdown, Residents Say",
+    "link": "https://www.nytimes.com/2026/01/16/world/middleeast/iran-protests-deadly-crackdown.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The recent protests in Iran have been quelled due to a deadly crackdown, resulting in thousands of detentions. This indicates a high level of unrest and potential for further disturbances.",
+      "immediate_forecast_24h": "The situation is expected to remain tense, with a possibility of sporadic protests or demonstrations. However, the authorities' firm response is likely to maintain control.",
+      "strategic_outlook": "The long-term outlook suggests continued instability, potentially affecting the overall security environment and transport/logistics operations in the region.",
+      "operational_impact": "The civil unrest may impact ground transportation, potentially causing delays or disruptions to cargo movements and personnel travel. Aviation operations are unlikely to be directly affected at this time.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "0cb13ca3f9951dd4f6f97470eeeb5e59",
+    "timestamp": "2026-01-16T18:42:25.640368",
+    "original_title": "The videos that show 16-year-old girls are being killed in Iran protests",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1qemkfo/the_videos_that_show_16yearold_girls_are_being/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 8,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The current protests in Iran pose a significant threat to the safety of personnel, particularly in areas where demonstrations are taking place. The killing of 16-year-old girls during these protests highlights the escalating violence and potential for further unrest.",
+      "immediate_forecast_24h": "Increased violence and unrest are expected in the short term, with potential for further clashes between protesters and security forces. This may lead to disruptions in transportation and logistics.",
+      "strategic_outlook": "The long-term outlook for Iran is uncertain, with the potential for ongoing civil unrest and conflict. This could have significant implications for regional stability and global trade.",
+      "operational_impact": "The current situation in Iran may impact aviation and cargo operations, particularly if protests spread to major transportation hubs. There is also a risk of spillover into neighboring countries, which could further disrupt regional logistics and trade.",
+      "proximity_alert": null
+    }
   }
 ]
