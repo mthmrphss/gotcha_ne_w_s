@@ -492,5 +492,43 @@
       "operational_impact": "The conflict may impact overland transport routes, potentially causing delays or disruptions to cargo movements, and posing a risk to aviation operations in the region due to the potential for military activity.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "dbd6ab62476769d6c7a3015d1a2d0bb6",
+    "timestamp": "2026-01-17T10:27:59.800306",
+    "original_title": "Is the Russian Military Adapting Effectively to the Drone Age?",
+    "link": "https://www.nytimes.com/2026/01/17/world/europe/russia-debate-drones-battle-tactics.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 7,
+      "location": "Russia",
+      "latitude": 61.524,
+      "longitude": 105.3188,
+      "detailed_analysis": "The Russian military is debating the effectiveness of their current approach to battle in the face of drone technology, indicating a potential shift in their strategy and possible increased use of drones in future conflicts.",
+      "immediate_forecast_24h": "No immediate threats are reported, but the debate could lead to changes in military tactics and increased drone usage, potentially affecting aviation and cargo operations in the region.",
+      "strategic_outlook": "The adaptation of the Russian military to drone technology could lead to a significant change in the balance of power in the region, with potential implications for global aviation and cargo security.",
+      "operational_impact": "The increased use of drones by the Russian military could lead to a higher risk of drone sightings and potential strikes, affecting aviation operations and cargo transport in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "231f27e0b4acbfba7a00043cf606d20b",
+    "timestamp": "2026-01-17T10:31:17.092260",
+    "original_title": "Iran protest movement subsides amid intense crackdown",
+    "link": "https://www.france24.com/en/video/20260117-iran-protest-movement-subsides-amid-intense-crackdown-1",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The protest movement in Iran has subsided due to a severe crackdown by security forces, resulting in thousands of deaths and an internet blackout. The presence of security forces and reports of arrests of individuals described as members of terrorist groups indicate a high level of tension and potential for further unrest.",
+      "immediate_forecast_24h": "The situation is expected to remain volatile, with a possibility of further clashes between security forces and protesters. The internet blackout may continue, disrupting communication and logistics.",
+      "strategic_outlook": "The long-term outlook is uncertain, with the potential for ongoing unrest and instability in the region. This could impact trade and transportation routes, particularly for cargo and aviation.",
+      "operational_impact": "The unrest and security crackdown may affect ground transportation, cargo handling, and aviation operations in and around Tehran. There is a risk of delays, disruptions, or even suspension of services due to the unstable security environment.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
   }
 ]
