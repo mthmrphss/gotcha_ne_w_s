@@ -1,62 +1,5 @@
 [
   {
-    "id": "9996cb2e90869185d66839443982c2ac",
-    "timestamp": "2026-01-17T12:53:47.531465",
-    "original_title": "Iran’s Supreme Leader, Unbending Over Time",
-    "link": "https://www.nytimes.com/2026/01/17/world/middleeast/iran-ayatollah-khamenei.html",
-    "source_name": "NewYork Times",
-    "ai_analysis": {
-      "category": "Civil Unrest/Conflict",
-      "risk_score": 10,
-      "location": "Tehran, Iran",
-      "latitude": 35.6892,
-      "longitude": 51.389,
-      "detailed_analysis": "The current protests in Iran, coupled with Ayatollah Ali Khamenei's history of repression, may lead to increased instability and potential unrest, which could indirectly affect aviation, cargo, and personnel safety.",
-      "immediate_forecast_24h": "Protests may continue or escalate, potentially disrupting local transportation and logistics.",
-      "strategic_outlook": "Long-term instability in Iran could impact regional security and have implications for international trade and aviation.",
-      "operational_impact": "Potential disruptions to air travel, cargo transport, and personnel movement in and around Iran due to civil unrest.",
-      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
-    }
-  },
-  {
-    "id": "25883649799b94432bdc2f611acc617f",
-    "timestamp": "2026-01-17T12:53:51.861034",
-    "original_title": "Rights group says thousands of protesters killed in Iran",
-    "link": "https://www.france24.com/en/video/20260117-rights-group-says-thousands-of-protesters-killed-in-iran-1",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Civil Unrest/Conflict",
-      "risk_score": 8,
-      "location": "Iran",
-      "latitude": 32.0,
-      "longitude": 53.0,
-      "detailed_analysis": "Protests in Iran have resulted in a high number of verified deaths, with estimates suggesting the actual toll could be significantly higher. The situation is volatile, with a severe internet blackout hindering independent verification and potentially exacerbating the unrest.",
-      "immediate_forecast_24h": "Continued unrest and potential for further violence are expected, with the internet blackout likely to persist, making it difficult to assess the situation accurately.",
-      "strategic_outlook": "The long-term outlook for Iran is uncertain, with the potential for prolonged civil unrest and conflict. This could have significant implications for regional stability and global trade, particularly if the situation escalates or spreads to other areas.",
-      "operational_impact": "The unrest in Iran may impact transport and logistics operations, particularly aviation and cargo movements, due to the potential for disruptions, increased security measures, and the ongoing internet blackout affecting communication and navigation systems.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "ea46a293d44c259003c9aeb42d1a99d6",
-    "timestamp": "2026-01-17T12:53:53.677168",
-    "original_title": "Kyiv schools closed until February after Russia energy strikes",
-    "link": "https://www.france24.com/en/video/20260117-kyiv-schools-closed-until-february-after-russia-energy-strikes-1",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict/Civil Unrest",
-      "risk_score": 10,
-      "location": "Kyiv, Ukraine",
-      "latitude": 50.4501,
-      "longitude": 30.5236,
-      "detailed_analysis": "Russian strikes on the energy sector in Kyiv have led to the closure of schools due to difficult conditions, indicating a significant disruption to daily life and potential risks to personnel and infrastructure.",
-      "immediate_forecast_24h": "Increased risk of further Russian strikes, potential for escalation of conflict, and continued disruption to essential services.",
-      "strategic_outlook": "Long-term impact on Ukraine's infrastructure, economy, and stability, with potential for prolonged conflict and humanitarian crises.",
-      "operational_impact": "Disruption to transport and logistics in the region, potential for supply chain delays, and increased risk to personnel and assets due to the conflict.",
-      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
-    }
-  },
-  {
     "id": "a61eb0c5bcf9bccbed03a2b85ae02eaf",
     "timestamp": "2026-01-17T13:33:51.782342",
     "original_title": "Renee Good’s Murder and Other Acts of Terror - Boston Review",
@@ -73,6 +16,44 @@
       "strategic_outlook": "The long-term impact of these acts of terror may lead to increased security protocols and surveillance in the area, potentially affecting cargo and aviation operations.",
       "operational_impact": "Transport and logistics operations in the area may be affected by increased security measures, potentially leading to delays or disruptions.",
       "proximity_alert": "YAKIN TEHDİT: General Edward Lawrence Logan International Airport (0 km)"
+    }
+  },
+  {
+    "id": "d6a28f8a073e0641c1481484647a9523",
+    "timestamp": "2026-01-17T14:25:36.566050",
+    "original_title": "Live - Khamenei blames protest deaths on 'criminal' Trump - ایران اینترنشنال",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tRU81LVpRYlh4dkE3Q1dmOUZjX1prQzVvbkhNeTBHZDhBZTMtMkQzVFdTbVJ3VDAzcDFrYUJCM3FYazZoNGI2Y1NQbXFPWGU4QldZQ2lTWk5HcmhiX0E?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Protests in Iran with reported deaths, blamed on external factors by the Iranian leadership, may lead to increased unrest and potential disruptions to transport and logistics in the region.",
+      "immediate_forecast_24h": "Escalation of protests and potential for further violence, with possible impacts on airport operations and cargo handling.",
+      "strategic_outlook": "Long-term instability in the region could affect trade routes and the security of personnel and assets, particularly if the situation escalates into a broader conflict.",
+      "operational_impact": "Potential for disruptions to flights, cargo shipments, and ground transportation, with increased security measures likely to be implemented in the short term.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "790e145378a2159c4adcaf7b147a3a80",
+    "timestamp": "2026-01-17T14:25:39.056750",
+    "original_title": "Syria live news: Army enters east Aleppo towns as clashes with SDF reported - Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZGdodUthWWVTbXlRYXFfdVYwNGpZN0k0cEVOcGV1TXJmU1V1Y2xjS05EdElKNXUzaW5Oa01HN3pVNkRRaUtGZFhSa2RTS291SmtZSFJZMkpaQ3ZZWVprTHFrWUlrLWpHVkdlb3BBSzV4dzd3bjJCQ3BZdHV0cmM5allobWR4TEh4aHNmcWZwX25fVjV3RkpGc2xSSXQ5SWY5T2w5clktM0RRSktfMjc2UGpSWGxnd9IBuwFBVV95cUxNdzVWZUZwLXdHQ282QVZkWnFPUi1KaE9LRU42YVduVjEzZWF3YkdQeC1lMnVRZWpObEtnM2M5bHp3REFXd1ltb2lhUUJxU2R2RWVOb3pqVzQwUUdyNWtLX2N2Ti1IVlVsUjc5Yy14c2lVRFFYcU40d21LX3BWZ3NaendzaExSdGduQldLMDktN3pXYk50UlFndnRjNDdQV1B6Z2djUUtWNXFhVmpnRUNrMFQ0TlVFbDJET1hR?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Aleppo, Syria",
+      "latitude": 36.2133,
+      "longitude": 37.1619,
+      "detailed_analysis": "The Syrian army's entry into east Aleppo towns and clashes with the SDF pose a significant threat to assets, cargo, aviation, and personnel in the region. The conflict may lead to disruptions in logistics, potential damage to infrastructure, and increased risk of violence.",
+      "immediate_forecast_24h": "Escalation of clashes between the Syrian army and SDF, potentially leading to increased violence, displacement of civilians, and disruptions to transport and logistics in the region.",
+      "strategic_outlook": "The long-term outlook for the region remains uncertain, with potential for ongoing conflict, instability, and disruption to transport and logistics. The situation may lead to increased security measures, potential border closures, and impacts on regional trade and commerce.",
+      "operational_impact": "The conflict may impact aviation operations, with potential for airspace restrictions, increased security screening, and disruptions to flight schedules. Cargo and logistics operations may also be affected, with potential for delays, damage to infrastructure, and increased risk of theft or loss.",
+      "proximity_alert": "YAKIN TEHDİT: Aleppo International Airport (6 km)"
     }
   }
 ]
