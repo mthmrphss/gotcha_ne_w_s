@@ -1,21 +1,59 @@
 [
   {
-    "id": "7e568adf87b82d5f1f20d4ddb32f470f",
-    "timestamp": "2026-01-17T10:47:04.364586",
-    "original_title": "YPG/SDF terror group attacks Syrian Army patrol near Aleppo’s Maskanah, killing 2 soldiers - Anadolu Ajansı",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSFBhTUZBSHlhOXF3SDVZVXFzdGRXYkw2VUw5Tm1GNEZrajR1aVJ6MFVXazREck5iRnY4RmRxdUZzMl9PRG5MakNhYXpqWVplT19tMERJdGYyS1VEQ3c0R05NNTZ1Nkhhc1VkQVpSTnk1Y2ZFTjZTWVFfcXdzRnhNS0VuVkxlNnNNdVU0TWd5R01id0hxWUNmbThuYzdmeUUtTmFRLThtdUVUZVlxamI2Ri1Ra1R0V0p1c3EwUlVzelIxYW1kZVZqV25ON08xX28?oc=5",
-    "source_name": "Google News (Breaking)",
+    "id": "9996cb2e90869185d66839443982c2ac",
+    "timestamp": "2026-01-17T12:53:47.531465",
+    "original_title": "Iran’s Supreme Leader, Unbending Over Time",
+    "link": "https://www.nytimes.com/2026/01/17/world/middleeast/iran-ayatollah-khamenei.html",
+    "source_name": "NewYork Times",
     "ai_analysis": {
-      "category": "Conflict/Terrorism",
+      "category": "Civil Unrest/Conflict",
       "risk_score": 10,
-      "location": "Aleppo, Syria",
-      "latitude": 36.2122,
-      "longitude": 37.1569,
-      "detailed_analysis": "The YPG/SDF terror group has attacked a Syrian Army patrol near Aleppo’s Maskanah, resulting in the death of 2 soldiers. This incident indicates a high level of violence and instability in the region, posing a significant threat to personnel and assets.",
-      "immediate_forecast_24h": "In the next 24 hours, there is a high likelihood of retaliatory attacks by the Syrian Army, which could lead to further escalation of violence in the region.",
-      "strategic_outlook": "The long-term outlook for the region remains unstable, with ongoing conflict between various factions. This could lead to a prolonged period of insecurity, affecting transport and logistics operations.",
-      "operational_impact": "The attack highlights the risks associated with operating in conflict zones. Transport and logistics companies should exercise extreme caution when operating in the region, and consider alternative routes or modes of transport to minimize exposure to potential threats.",
-      "proximity_alert": "YAKIN TEHDİT: Aleppo International Airport (6 km)"
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The current protests in Iran, coupled with Ayatollah Ali Khamenei's history of repression, may lead to increased instability and potential unrest, which could indirectly affect aviation, cargo, and personnel safety.",
+      "immediate_forecast_24h": "Protests may continue or escalate, potentially disrupting local transportation and logistics.",
+      "strategic_outlook": "Long-term instability in Iran could impact regional security and have implications for international trade and aviation.",
+      "operational_impact": "Potential disruptions to air travel, cargo transport, and personnel movement in and around Iran due to civil unrest.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "25883649799b94432bdc2f611acc617f",
+    "timestamp": "2026-01-17T12:53:51.861034",
+    "original_title": "Rights group says thousands of protesters killed in Iran",
+    "link": "https://www.france24.com/en/video/20260117-rights-group-says-thousands-of-protesters-killed-in-iran-1",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 8,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Protests in Iran have resulted in a high number of verified deaths, with estimates suggesting the actual toll could be significantly higher. The situation is volatile, with a severe internet blackout hindering independent verification and potentially exacerbating the unrest.",
+      "immediate_forecast_24h": "Continued unrest and potential for further violence are expected, with the internet blackout likely to persist, making it difficult to assess the situation accurately.",
+      "strategic_outlook": "The long-term outlook for Iran is uncertain, with the potential for prolonged civil unrest and conflict. This could have significant implications for regional stability and global trade, particularly if the situation escalates or spreads to other areas.",
+      "operational_impact": "The unrest in Iran may impact transport and logistics operations, particularly aviation and cargo movements, due to the potential for disruptions, increased security measures, and the ongoing internet blackout affecting communication and navigation systems.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "ea46a293d44c259003c9aeb42d1a99d6",
+    "timestamp": "2026-01-17T12:53:53.677168",
+    "original_title": "Kyiv schools closed until February after Russia energy strikes",
+    "link": "https://www.france24.com/en/video/20260117-kyiv-schools-closed-until-february-after-russia-energy-strikes-1",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Kyiv, Ukraine",
+      "latitude": 50.4501,
+      "longitude": 30.5236,
+      "detailed_analysis": "Russian strikes on the energy sector in Kyiv have led to the closure of schools due to difficult conditions, indicating a significant disruption to daily life and potential risks to personnel and infrastructure.",
+      "immediate_forecast_24h": "Increased risk of further Russian strikes, potential for escalation of conflict, and continued disruption to essential services.",
+      "strategic_outlook": "Long-term impact on Ukraine's infrastructure, economy, and stability, with potential for prolonged conflict and humanitarian crises.",
+      "operational_impact": "Disruption to transport and logistics in the region, potential for supply chain delays, and increased risk to personnel and assets due to the conflict.",
+      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
     }
   }
 ]
