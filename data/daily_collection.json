@@ -264,5 +264,24 @@
       "operational_impact": "Potential disruptions to air travel, cargo transport, and personnel movement are expected due to the uncertain security situation.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "5c8bdbb16428cacc8cb44618f345081c",
+    "timestamp": "2026-01-17T06:39:49.892864",
+    "original_title": "Live: Iran death toll tops 3,000, yet another rights group says",
+    "link": "https://www.france24.com/en/asia-pacific/20260117-live-iran-protests-death-toll-tops-3-000-rights-group-ayatollah-khamenei-trump-crackdown",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 7,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Anti-government protests in Iran have resulted in over 3,000 deaths, with a recent slight rise in internet connectivity after a prolonged blackout. The situation remains volatile, with potential for further unrest and impact on transport and logistics.",
+      "immediate_forecast_24h": "The situation is likely to remain tense, with potential for further clashes between protesters and authorities. Internet connectivity may continue to be restricted, affecting communication and coordination.",
+      "strategic_outlook": "The long-term outlook is uncertain, with potential for ongoing unrest and instability in the region. This could impact trade and transport routes, particularly for cargo and aviation.",
+      "operational_impact": "The unrest and internet blackout may disrupt logistics and supply chains, particularly for time-sensitive or high-value cargo. Aviation operations may also be affected, with potential for flight disruptions or restrictions.",
+      "proximity_alert": null
+    }
   }
 ]
