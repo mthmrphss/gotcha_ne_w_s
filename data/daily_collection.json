@@ -188,5 +188,62 @@
       "operational_impact": "The advisory may impact transport and logistics operations, particularly in the southern border region. Cargo and personnel may be at risk due to crime and unrest, and operators should take necessary precautions to ensure safety.",
       "proximity_alert": "YAKIN TEHDİT: BANJUL (2 km)"
     }
+  },
+  {
+    "id": "c860e7eb1c3de6ef53994243778642b2",
+    "timestamp": "2026-01-17T05:27:28.929271",
+    "original_title": "FAA urges pilots to exercise caution over eastern Pacific, citing 'military activities' - ABC News",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeEllRHpqdHp5NFI1TGh5ODJXNnN1WUlmSEtsN2tqeXIyX2N3b2pENkNrUzlIalhLYXlLMk1vZlBwSUZOVHBxczlpZlZsMmJLdVhfWFV6dnlEbml4UlpzcFc0cTFTaU1QUV9FSThDNTQwci1jU25XSEJTR05EQXFJQ1gzZUVtTXlqcHdyWldETHlJVVhVMHBuQjY4bWFzajJmTzJGS9IBqgFBVV95cUxOamh1Tl9vZHlXQWsxSHJuNmNmTHg2QVpBTm1uY2twVmJvM3NRMExQT2RzcFE2dlVtRnB4eHdhdW5FTkF2M3RxaE9zc1pKblJYUnYxVTBGSzVtajVETno5ZF9RbFFsaEFlY0VxbmtZWkM4M1prdW93N2lwTXh2NXR2Y3VzRFdhLXFnLUNqb3FoUVB3MDFlUXFNai1pY2tkRU5sOF9qOXdhd04yZw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 7,
+      "location": "Eastern Pacific",
+      "latitude": 0.0,
+      "longitude": -130.0,
+      "detailed_analysis": "The FAA has urged pilots to exercise caution over the eastern Pacific due to military activities, which could pose a threat to aviation safety and potentially disrupt air traffic.",
+      "immediate_forecast_24h": "Increased military activity may lead to temporary airspace restrictions or rerouting of flights, potentially causing delays or disruptions to air travel.",
+      "strategic_outlook": "The situation may escalate or de-escalate depending on the nature and extent of the military activities, which could have long-term implications for aviation safety and security in the region.",
+      "operational_impact": "Potential disruptions to air traffic, increased security measures, and possible rerouting of flights may impact transport and logistics operations, particularly for cargo and passenger flights traversing the eastern Pacific.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "118cc32d3c7324e3c8a9dccff0ae1304",
+    "timestamp": "2026-01-17T05:27:34.359073",
+    "original_title": "PM Orpo: US military takeover of Greenland would be \"catastrophic\" | Yle News",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qf48gb/pm_orpo_us_military_takeover_of_greenland_would/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Greenland",
+      "latitude": 72.0,
+      "longitude": -40.0,
+      "detailed_analysis": "The potential US military takeover of Greenland poses significant risks to regional stability and could have catastrophic consequences, according to PM Orpo. This could lead to increased tensions, potential conflict, and disruptions to aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Heightened diplomatic tensions and increased military presence in the region are expected in the short term, with potential for escalation in the coming days.",
+      "strategic_outlook": "A long-term US military presence in Greenland could lead to a significant shift in the regional balance of power, with potential implications for global trade and security.",
+      "operational_impact": "Potential disruptions to air traffic and cargo operations in the region, as well as increased security measures for personnel and assets.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "2f195c98c0e7b57a644bc540304fb4a5",
+    "timestamp": "2026-01-17T05:27:36.242866",
+    "original_title": "Intelligence indicates Russians are preparing for new large-scale attacks on Ukraine",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qf40rn/intelligence_indicates_russians_are_preparing_for/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "Intelligence suggests Russia is preparing for new large-scale attacks on Ukraine, which could lead to significant disruptions in transportation, logistics, and supply chains. This may result in increased risk to assets, cargo, aviation, and personnel in the region.",
+      "immediate_forecast_24h": "Increased military activity and potential for escalation in the conflict, with possible impacts on air travel, ground transportation, and cargo shipments in the region.",
+      "strategic_outlook": "Long-term instability and conflict in the region could lead to sustained disruptions in global supply chains, increased costs, and potential for further escalation of the conflict.",
+      "operational_impact": "Potential for flight restrictions, cargo delays, and increased security measures for personnel and assets in the region. Transport and logistics companies should be prepared for possible disruptions and have contingency plans in place.",
+      "proximity_alert": null
+    }
   }
 ]
