@@ -1,24 +1,5 @@
 [
   {
-    "id": "5c8bdbb16428cacc8cb44618f345081c",
-    "timestamp": "2026-01-17T06:39:49.892864",
-    "original_title": "Live: Iran death toll tops 3,000, yet another rights group says",
-    "link": "https://www.france24.com/en/asia-pacific/20260117-live-iran-protests-death-toll-tops-3-000-rights-group-ayatollah-khamenei-trump-crackdown",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Civil Unrest/Conflict",
-      "risk_score": 7,
-      "location": "Iran",
-      "latitude": 32.0,
-      "longitude": 53.0,
-      "detailed_analysis": "Anti-government protests in Iran have resulted in over 3,000 deaths, with a recent slight rise in internet connectivity after a prolonged blackout. The situation remains volatile, with potential for further unrest and impact on transport and logistics.",
-      "immediate_forecast_24h": "The situation is likely to remain tense, with potential for further clashes between protesters and authorities. Internet connectivity may continue to be restricted, affecting communication and coordination.",
-      "strategic_outlook": "The long-term outlook is uncertain, with potential for ongoing unrest and instability in the region. This could impact trade and transport routes, particularly for cargo and aviation.",
-      "operational_impact": "The unrest and internet blackout may disrupt logistics and supply chains, particularly for time-sensitive or high-value cargo. Aviation operations may also be affected, with potential for flight disruptions or restrictions.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "7fe20d03ecc60e3df64bb519665e79f0",
     "timestamp": "2026-01-17T07:25:26.260126",
     "original_title": "Ugandan presidential candidate abducted by military, opposition party says - The Washington Post",
@@ -53,6 +34,63 @@
       "immediate_forecast_24h": "Increased tensions and potential protests are expected in the next 24 hours as the vote count continues, which may lead to disruptions in transport and logistics.",
       "strategic_outlook": "The long-term outlook for Uganda's stability is uncertain, and the current situation may lead to a prolonged period of unrest, affecting the country's economy and transport infrastructure.",
       "operational_impact": "Potential disruptions to aviation and logistics operations, including possible delays or cancellations of flights, and increased security measures at airports and other transport hubs.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "1a73a920235cb13b3cec96e324ef25b6",
+    "timestamp": "2026-01-17T08:34:28.832900",
+    "original_title": "Three Yakima-area residents accused of stealing from woman after car crash - dailyrecordnews.com",
+    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOTzlFZlFQNWl2aWxsSVZHNHZkQ01WdDM4VkNTRTNFYjU2QW1lSDNRYmFfZEpWVEhUNnVZcVExT0FSU0pwTThMUmVLYWhoVG9Ed3hOZWgyeXpTUzRIN1lkdnZ0QVZXa1FPbTJTUU0tZHFTd3U4R3MxdHMtVVc3YjZnT3VaRG5acDVzTzR6UFZnVGpHZ04ydG5IVl9wMDZreGNjaElyM2wxVHcxN2FocklLVlVsd0p2eFRFMWVEOXE0MkVLSTZ1YWxhQTZpMnhMQ05qLXJnQkNDV3pJcm5IR0ZwSkFIc1Nyc1RIaE9YNnRySEE0UllXTGfSAfsBQVVfeXFMUFh0SEFhVEYtdXpsYWxnSWo5WWJSQ3kyUTZkUEMxT21ORmxJVkZaUEg1YlM0bzhEdW9HYWRzU3VnQzhlMThyWk16SUtkSTdBNXF5SU52QTlaTElkTTlIWEYwMEVqb05vTDlmcjk1ajFUT3Rncmh6VEd3eG5IMFBCenpZbWF1Um04YjQzd2FUZEVQRy05VkNHVG45U0dCYm5nWFZnRDN4b0dOUlFXeGU3U094MmR2Sk5MYlJBSUprWnVhTzE4Vi1LMUJBbFdTQi0zN2F3eUlxQXRvekdhYzZJNFh1MFpXMnVtd19USl9EREc0SWxZaWdPS1h3czg?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Crime",
+      "risk_score": 5,
+      "location": "Yakima, USA",
+      "latitude": 46.6024,
+      "longitude": -120.5059,
+      "detailed_analysis": "Three residents of the Yakima area have been accused of stealing from a woman after a car crash, indicating potential cargo or personal theft risks in the area.",
+      "immediate_forecast_24h": "No immediate escalation expected, but potential for increased crime in the area.",
+      "strategic_outlook": "Long-term, the area may see increased security measures to prevent similar incidents, potentially impacting logistics and transport operations.",
+      "operational_impact": "Low to moderate impact on local transport and logistics, with potential for increased security checks or measures to prevent theft.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "ccebdcd311271d72b302506fa9912a32",
+    "timestamp": "2026-01-17T08:34:31.350655",
+    "original_title": "UN officials and human rights organizations warn of lethal force as Iran protest crackdown continues - Jurist.org",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSmVtZGxESk5BcGF4cl9mdXh3T1JVaU1xQ0VUREQ0MkVtUFVuTjZ0dzdVX3U0NXpKOHBWLV9qeElFRkp1SEctSS1VakxXV0R3cHpReG9HWWJLcGFSbWVpQ2pDenZadHNjOE9Jd2VNdWtBN0ZteW1QQUYxMDdxczVwd1RFWWs2REFlTkZtaF9hV29TamQzbWlOQ0Z2SG5OZWFtNkJwcXhqX3FHdzNOMF93WXMwLUFQZmNmUTBaMHVZdzdoYXlHWmJ6VFdNaklaU0ljdXFR?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 6,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Iran protest crackdown continues with UN officials and human rights organizations warning of lethal force, posing a threat to personnel and potentially disrupting aviation and cargo operations",
+      "immediate_forecast_24h": "Increased violence and unrest expected, potentially affecting airport and transport operations",
+      "strategic_outlook": "Long-term instability and conflict may impact regional trade and transport, requiring contingency planning for alternative routes and security measures",
+      "operational_impact": "Potential disruptions to air travel, cargo transport, and personnel movement, with increased security measures and protocols recommended",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "80370cfc392f638d1db2373a677fca20",
+    "timestamp": "2026-01-17T08:34:35.553810",
+    "original_title": "Syrian army announces full control of Deir Hafer after SDF withdrawal",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qf7m4k/syrian_army_announces_full_control_of_deir_hafer/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 7,
+      "location": "Deir Hafer, Syria",
+      "latitude": 36.15,
+      "longitude": 37.65,
+      "detailed_analysis": "The Syrian army's announcement of full control over Deir Hafer after the SDF withdrawal indicates a shift in territorial control, potentially leading to increased instability and conflict in the region, affecting local assets, cargo, aviation, and personnel.",
+      "immediate_forecast_24h": "Increased military presence and potential clashes between the Syrian army and other factions, posing a risk to transport and logistics operations in the area.",
+      "strategic_outlook": "Long-term instability and conflict in the region may lead to disruptions in supply chains, increased security measures, and potential risks to aviation and personnel.",
+      "operational_impact": "Transport and logistics operations in the area may be disrupted or suspended due to the conflict, and aviation operations may be affected by potential airspace restrictions or security concerns.",
       "proximity_alert": null
     }
   }
