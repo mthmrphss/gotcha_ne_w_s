@@ -131,5 +131,62 @@
       "operational_impact": "Potential for disruptions to ground transport and logistics due to conflict, but no immediate impact on aviation or cargo operations reported.",
       "proximity_alert": "YAKIN TEHDİT: Aleppo International Airport (6 km)"
     }
+  },
+  {
+    "id": "99c21adc97b3467df380566be2b7238b",
+    "timestamp": "2026-01-17T02:07:13.807291",
+    "original_title": "Life Star responds to crash in Durham - WFSB",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUWWhCNU1TRmVKWGF1S2otSXpIelFIaHFodlF3bzlMenhlaW9SVl92Qlg0UWZwM0xfcW9BZUotTHpPa0RBZUozMzl1ZWtOUVhDYW5pMUVHNGNfcHY1VHBPT0JHYm1lZUU3b2h4WXZBRzhaZ9IBhgFBVV95cUxNcl9CMVhqTmhHakVOM1MydW9wRUU2WnRqZTNVV0YwUDd3SVlya3VoU1YxbXFmOUlBQTlsUU1CNjBVOUdsQzE4SWxJZHpEQV96X3NENk1aaVBVMFdfUkVldGFPMTBpR0hLU1hEcFFMaDBsTTFkUEdwUUNDakd3YU4za0ZiXzg1QQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 8,
+      "location": "Durham",
+      "latitude": 41.7833,
+      "longitude": -72.6667,
+      "detailed_analysis": "Life Star responded to a crash in Durham, indicating a potential aviation incident with significant risk to personnel and assets.",
+      "immediate_forecast_24h": "Emergency response and investigation will be ongoing, with potential disruptions to local air traffic and medical services.",
+      "strategic_outlook": "The incident may lead to increased scrutiny of aviation safety protocols and emergency response procedures in the region.",
+      "operational_impact": "Potential delays or restrictions to air medical transport services, with possible ripple effects on regional healthcare and emergency response systems.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "4f95041fd9bf9b783b770545a4a2fdcf",
+    "timestamp": "2026-01-17T02:07:17.985289",
+    "original_title": "Website that leaked info about ICE agents is down after ‘cyberattack,’ founder says",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1qeted1/website_that_leaked_info_about_ice_agents_is_down/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 10,
+      "location": "United States",
+      "latitude": 38.8977,
+      "longitude": -77.0365,
+      "detailed_analysis": "A website that leaked information about ICE agents is down after a reported cyberattack. The founder of the website claims it was taken down due to a cyberattack, potentially from Russia. This incident highlights the vulnerability of sensitive information and the potential for cyber threats to compromise national security and law enforcement operations.",
+      "immediate_forecast_24h": "In the next 24 hours, there may be further attempts to breach the website or other related systems. Law enforcement and cybersecurity agencies may increase their alertness and take measures to protect sensitive information.",
+      "strategic_outlook": "In the long term, this incident may lead to increased scrutiny of cybersecurity measures in place to protect sensitive information. It may also lead to a heightened sense of awareness among law enforcement agencies and other organizations about the potential for cyber threats.",
+      "operational_impact": "The operational impact of this incident is likely to be limited to the website and related systems. However, if the cyberattack is found to be state-sponsored, it could have broader implications for international relations and cybersecurity policies.",
+      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
+    }
+  },
+  {
+    "id": "da520f52bfe1fea5ebaae71d75239568",
+    "timestamp": "2026-01-17T02:07:22.193705",
+    "original_title": "The Gambia - Level 2: Exercise Increased Caution",
+    "link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/the-gambia-travel-advisory.html",
+    "source_name": "US State Dept",
+    "ai_analysis": {
+      "category": "Crime/Civil Unrest",
+      "risk_score": 10,
+      "location": "Banjul, The Gambia",
+      "latitude": 13.4553,
+      "longitude": -16.5753,
+      "detailed_analysis": "The Gambia has been issued a Level 2 travel advisory due to crime, unrest, and inadequate health infrastructure. Petty street crime and home burglaries are common, particularly in the Banjul area and tourist spots. A separatist rebel group operates in the Casamance region of southern Senegal, with sporadic fighting along The Gambia's southern border.",
+      "immediate_forecast_24h": "Increased caution is advised due to potential unrest and crime. Travelers should stay on main roads, avoid traveling at night, and be aware of their surroundings.",
+      "strategic_outlook": "The situation in The Gambia is likely to remain unstable due to the presence of a separatist rebel group and inadequate health infrastructure. Travelers and logistics operators should exercise increased caution and stay informed about local conditions.",
+      "operational_impact": "The advisory may impact transport and logistics operations, particularly in the southern border region. Cargo and personnel may be at risk due to crime and unrest, and operators should take necessary precautions to ensure safety.",
+      "proximity_alert": "YAKIN TEHDİT: BANJUL (2 km)"
+    }
   }
 ]
