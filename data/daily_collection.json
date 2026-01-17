@@ -739,5 +739,24 @@
       "operational_impact": "Potential disruptions to cargo transport and aviation operations in Venezuela, with possible spillover effects on regional logistics and supply chains.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "fdb43896a26f5e8b87bebd64ffff43af",
+    "timestamp": "2026-01-17T18:38:42.020913",
+    "original_title": "Hundreds rally in Paris against Iran’s crackdown on protesters",
+    "link": "https://www.france24.com/en/hundreds-rally-in-paris-against-iran-s-crackdown-on-protesters",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Paris, France",
+      "latitude": 48.8567,
+      "longitude": 2.3508,
+      "detailed_analysis": "Hundreds of protesters gathered in Paris to oppose Iran's crackdown, but no direct threat to assets, cargo, aviation, or personnel has been reported.",
+      "immediate_forecast_24h": "The protest is expected to remain peaceful, with no significant disruptions to transportation or logistics anticipated in the next 24 hours.",
+      "strategic_outlook": "The situation may escalate if the Iranian regime's actions continue to spark international outrage, potentially leading to more widespread protests and unrest.",
+      "operational_impact": "No significant impact on transport or logistics is expected at this time, but the situation will continue to be monitored for any potential disruptions.",
+      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (2 km)"
+    }
   }
 ]
