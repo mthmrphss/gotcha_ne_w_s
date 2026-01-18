@@ -1,24 +1,5 @@
 [
   {
-    "id": "2f9049d0f4fe58f9c20dbe1eacd11ad3",
-    "timestamp": "2026-01-18T20:30:27.844984",
-    "original_title": "Cops killed, school canceled in Guatemala as gang violence erupts",
-    "link": "https://www.reddit.com/r/worldnews/comments/1qgiors/cops_killed_school_canceled_in_guatemala_as_gang/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Civil Unrest/Crime",
-      "risk_score": 6,
-      "location": "Guatemala City, Guatemala",
-      "latitude": 14.6402,
-      "longitude": -90.5139,
-      "detailed_analysis": "Gang violence has erupted in Guatemala, resulting in the killing of police officers and the cancellation of school. This indicates a high level of instability and potential for further violence, which could impact cargo and personnel safety.",
-      "immediate_forecast_24h": "Increased police presence and potential for retaliatory attacks from gangs, leading to heightened tensions and instability in the region.",
-      "strategic_outlook": "Long-term instability and violence in Guatemala could lead to increased risks for cargo and personnel, potentially disrupting logistics and transport operations in the region.",
-      "operational_impact": "Potential disruptions to cargo transport and logistics operations, increased risk of theft or hijacking, and potential for personnel to be caught in the crossfire of gang violence.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "8136295aba4d47a499eb573eeea2b464",
     "timestamp": "2026-01-18T21:24:49.140729",
     "original_title": "Hack disrupts Iranian state TV, airs Reza Pahlavi statement",
@@ -54,6 +35,25 @@
       "strategic_outlook": "The long-term implications of this escalation could include increased conflict in the region, affecting aviation and cargo transport, as well as potential cyber attacks or other forms of retaliation.",
       "operational_impact": "Transport and logistics operations in the region may be affected by increased security measures, potential airspace restrictions, and other disruptions, with possible delays or rerouting of flights and cargo shipments.",
       "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "518417a429776d7b7a6cf46a52367efb",
+    "timestamp": "2026-01-18T21:42:16.211583",
+    "original_title": "Dutch government pays €5.7 million for Romanian artifacts stolen from Drents Museum",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qgl4hb/dutch_government_pays_57_million_for_romanian/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Crime",
+      "risk_score": 6,
+      "location": "Drents Museum, Netherlands",
+      "latitude": 52.9933,
+      "longitude": 6.5703,
+      "detailed_analysis": "The Dutch government has paid €5.7 million for Romanian artifacts stolen from the Drents Museum, indicating a significant crime incident involving cultural assets.",
+      "immediate_forecast_24h": "No immediate threats are expected, but increased security measures may be implemented at museums and cultural institutions.",
+      "strategic_outlook": "This incident highlights the need for enhanced security protocols to protect cultural assets and prevent future thefts.",
+      "operational_impact": "The incident may lead to increased scrutiny of logistics and transportation of valuable items, potentially affecting the operations of museums, galleries, and other cultural institutions.",
+      "proximity_alert": null
     }
   }
 ]
