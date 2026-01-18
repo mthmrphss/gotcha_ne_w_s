@@ -1,24 +1,5 @@
 [
   {
-    "id": "e75511f33e2698f43f8a2ea038a1a5a1",
-    "timestamp": "2026-01-18T06:40:48.882597",
-    "original_title": "Rapper describes 'massacre' on Iran's streets - as supreme leader says thousands killed in protests | World News",
-    "link": "https://www.reddit.com/r/worldnews/comments/1qg14a0/rapper_describes_massacre_on_irans_streets_as/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Civil Unrest/Conflict",
-      "risk_score": 8,
-      "location": "Iran",
-      "latitude": 32.0,
-      "longitude": 53.0,
-      "detailed_analysis": "Reports of thousands killed in protests and a 'massacre' on Iran's streets indicate a high level of civil unrest and conflict, posing a significant threat to personnel and potentially disrupting cargo and aviation operations.",
-      "immediate_forecast_24h": "Increased violence and unrest are likely in the short term, with potential for further escalation and disruption to transport and logistics.",
-      "strategic_outlook": "The ongoing conflict and unrest in Iran may lead to long-term instability, affecting trade and economic relations, and potentially impacting regional security.",
-      "operational_impact": "Transport and logistics operations in Iran may be severely disrupted, with potential for delays, cancellations, or even suspension of services, and increased risk to personnel and assets.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "9d47c46591ff695fb6464d52f9f202cd",
     "timestamp": "2026-01-18T07:26:22.137653",
     "original_title": "Pentagon readies 1,500 troops as Minnesota protests grow",
@@ -53,6 +34,25 @@
       "immediate_forecast_24h": "Increased scrutiny of military personnel and journalists, potential for further arrests or detentions, and heightened tensions between Taiwan and China.",
       "strategic_outlook": "Long-term implications for Taiwan's national security, potential for increased espionage activities, and impact on Taiwan-China relations.",
       "operational_impact": "Potential disruption to military operations, logistics, and supply chains due to increased security measures and scrutiny of personnel, as well as potential impact on aviation and cargo transport due to heightened tensions.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "5ada767a12bb46566a285c5f8065f770",
+    "timestamp": "2026-01-18T08:34:49.587621",
+    "original_title": "Two killed, dozens wounded in mass Russian drone attack on Ukraine: Zelenskiy - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZzM2SHltQWUwR2lNU3dQeksweEh3UThxZ3BkNExScHRCQ1BVM1JxT05UOXRzRGw1S3pYRVNLd1VvY2k5N0FpczVYc0N5NEZYZ196TGZXakZtU1hrUUZ6WWQwWkt2bVptRG9nSHB0LWliMENDbXJxN1Z6WFZZR3BlOVczQzliSUdpaGJrYXRfc2lLa1ZMVTRDSFhoY0g2Uk5XRXFaLWxDLXVLQUZibjFEMFRTSmtxYmNwcXc?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "A mass Russian drone attack on Ukraine has resulted in two fatalities and dozens of injuries, indicating a significant escalation in hostilities. This event poses a substantial threat to aviation and personnel in the region.",
+      "immediate_forecast_24h": "Increased tensions and potential for further drone attacks or retaliatory measures, posing a high risk to aviation and personnel in the region.",
+      "strategic_outlook": "The ongoing conflict between Russia and Ukraine is likely to continue, with potential for further escalation and increased risk to aviation, cargo, and personnel in the region.",
+      "operational_impact": "The attack may disrupt air traffic and logistics operations in the region, with potential for delays or cancellations of flights and increased security measures.",
       "proximity_alert": null
     }
   }
