@@ -1,43 +1,5 @@
 [
   {
-    "id": "9d47c46591ff695fb6464d52f9f202cd",
-    "timestamp": "2026-01-18T07:26:22.137653",
-    "original_title": "Pentagon readies 1,500 troops as Minnesota protests grow",
-    "link": "https://www.france24.com/en/americas/20260118-pentagon-readies-1-500-troops-as-minnesota-protests-grow",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Civil Unrest/Conflict",
-      "risk_score": 6,
-      "location": "Minnesota, USA",
-      "latitude": 44.9778,
-      "longitude": -93.265,
-      "detailed_analysis": "Protests in Minnesota following a fatal shooting by an ICE agent have prompted the Pentagon to prepare 1,500 troops for possible deployment, indicating a heightened risk of civil unrest and potential conflict.",
-      "immediate_forecast_24h": "Escalation of protests and potential clashes between protesters and law enforcement, with the possibility of the situation being exacerbated by the involvement of federal troops.",
-      "strategic_outlook": "The situation could lead to long-term tensions and instability in the region, potentially affecting transport and logistics operations, especially if the protests spread to other areas or if there are significant disruptions to critical infrastructure.",
-      "operational_impact": "Potential disruptions to road transport and logistics in Minnesota, with possible delays or rerouting of cargo and personnel, as well as increased security measures at airports and other critical infrastructure.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "fa50394f3d21a26ea2e38e8786b2a19e",
-    "timestamp": "2026-01-18T07:42:42.713806",
-    "original_title": "Taiwan detains journalist for allegedly bribing military officers to provide information to China - The Washington Post",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNGhuN2U3VHNEc1R3X2RfS1lvLXRLaTRSQ3ExNGRubWlFaWRXdG95bThnLW0zZnFlMUxjazhPZzk3X3RzM2oxX3FpZ2NXcHl0NWpGbV95eWJaTnVOcUY2UWZFU3owaDJScEl2R1VoVTJPLWhtY1oySnVJWVNIV1JJdWxsd2ZEM2ZnRFRVVTVZVHJxbWRobEFXYjhhRjZQODV5cHpSbmZrX2h4Z01hZThiaTNnUkZZR0pvMy1OSm1IQXVqalptbk1Tbmt2ekVmQk9O?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Crime/Conflict",
-      "risk_score": 6,
-      "location": "Taiwan",
-      "latitude": 23.5,
-      "longitude": 121.0,
-      "detailed_analysis": "A journalist has been detained in Taiwan for allegedly bribing military officers to provide information to China, indicating a potential espionage threat and highlighting the risk of insider threats and information leakage within the military.",
-      "immediate_forecast_24h": "Increased scrutiny of military personnel and journalists, potential for further arrests or detentions, and heightened tensions between Taiwan and China.",
-      "strategic_outlook": "Long-term implications for Taiwan's national security, potential for increased espionage activities, and impact on Taiwan-China relations.",
-      "operational_impact": "Potential disruption to military operations, logistics, and supply chains due to increased security measures and scrutiny of personnel, as well as potential impact on aviation and cargo transport due to heightened tensions.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "5ada767a12bb46566a285c5f8065f770",
     "timestamp": "2026-01-18T08:34:49.587621",
     "original_title": "Two killed, dozens wounded in mass Russian drone attack on Ukraine: Zelenskiy - Reuters",
@@ -53,6 +15,44 @@
       "immediate_forecast_24h": "Increased tensions and potential for further drone attacks or retaliatory measures, posing a high risk to aviation and personnel in the region.",
       "strategic_outlook": "The ongoing conflict between Russia and Ukraine is likely to continue, with potential for further escalation and increased risk to aviation, cargo, and personnel in the region.",
       "operational_impact": "The attack may disrupt air traffic and logistics operations in the region, with potential for delays or cancellations of flights and increased security measures.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "882ae663a8b8e7ab7cd5281b3c3a1c9e",
+    "timestamp": "2026-01-18T09:28:08.752754",
+    "original_title": "Grok AI Security Failure Exposes Deepfake Risks on X - Cyber Magazine",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOc3ZPWHpGMXZPZm03T0k5NTF0VkFxd25zZ1BWd1Q1c3BQLWRJSVJEVmpKcndEOU9vT05JZWl4OVBwWDItQS1ZWW54RnpTV3hfbkRteXpjdlRDTFdWT2xWUUhSM3IyTUFsU3lqdE9XQXllYkEzdDlvUGtrMmpZc0NIeXNyT29LdHVDYlV6RDlTRUpCQQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 6,
+      "location": "Unknown, Global",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "A security failure in Grok AI has exposed deepfake risks, potentially impacting various sectors including aviation and logistics by creating fake identities, voices, or scenarios that could be used for malicious purposes.",
+      "immediate_forecast_24h": "Increased vigilance is advised as the potential for deepfake-related incidents rises, particularly in areas where AI-generated content could be used to deceive or manipulate individuals or systems.",
+      "strategic_outlook": "The long-term impact could involve a significant shift in how security measures are implemented to counter deepfake technologies, including advanced verification processes and AI-powered detection systems.",
+      "operational_impact": "Transport and logistics operations may need to enhance their security protocols to prevent potential deepfake-related fraud or disruptions, such as verifying identities through multiple means and being cautious of suspicious communications.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "a199df026c696cee7b5f9e47ef219538",
+    "timestamp": "2026-01-18T09:28:11.349360",
+    "original_title": "How a Screwdriver Salesman Helped Fuel U.S. Airstrikes in Nigeria",
+    "link": "https://www.nytimes.com/2026/01/18/world/africa/nigeria-christmas-bombing-republicans.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 6,
+      "location": "Nigeria",
+      "latitude": 9.081999,
+      "longitude": 8.675277,
+      "detailed_analysis": "The situation in Nigeria is volatile due to the potential for U.S. intervention, which could lead to increased conflict and instability in the region, posing a risk to aviation and personnel.",
+      "immediate_forecast_24h": "The situation is likely to remain tense, with potential for escalation of conflict in the short term.",
+      "strategic_outlook": "Long-term instability in the region could lead to increased security threats to assets, cargo, and personnel, and may impact aviation operations.",
+      "operational_impact": "Potential for increased security measures, flight disruptions, and restrictions on personnel movement in the region.",
       "proximity_alert": null
     }
   }
