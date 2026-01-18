@@ -606,5 +606,43 @@
       "operational_impact": "Potential disruptions to oil supply chains, increased security risks for personnel and cargo, and possible restrictions on aviation operations in the region.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "b06de5b3c77ce7cbe62b860756b7f844",
+    "timestamp": "2026-01-18T14:25:12.578217",
+    "original_title": "Iran report says 16,500 dead in ‘genocide under digital darkness’ | Witnesses tell of the brutality inflicted on those taking part in anti-regime protests",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1qg9ef9/iran_report_says_16500_dead_in_genocide_under/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 8,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Reports of 16,500 dead in anti-regime protests in Iran, indicating a high level of violence and instability. The situation poses a significant threat to personnel and assets in the region.",
+      "immediate_forecast_24h": "Continued unrest and potential for further violence, with possible disruptions to transport and logistics.",
+      "strategic_outlook": "Long-term instability in Iran could lead to increased security risks for assets, cargo, and personnel, as well as potential disruptions to regional trade and aviation.",
+      "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics in the region, with increased security measures and possible restrictions on movement.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "5ce77aff40f4e34dfab2ea8eab23c1df",
+    "timestamp": "2026-01-18T14:25:14.961212",
+    "original_title": "Iran crackdown left 16,500 dead, 330,000 injured - Sunday Times",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qg9in6/iran_crackdown_left_16500_dead_330000_injured/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 8,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The recent crackdown in Iran has resulted in significant loss of life and injuries, indicating a high level of unrest and potential for further conflict. This could impact the safety and security of assets, cargo, aviation, and personnel in the region.",
+      "immediate_forecast_24h": "The situation is likely to remain volatile, with potential for further clashes between protesters and security forces. This could lead to disruptions in transportation and logistics.",
+      "strategic_outlook": "The long-term impact of the crackdown could be significant, potentially leading to increased instability and conflict in the region. This could have far-reaching consequences for trade, commerce, and travel.",
+      "operational_impact": "The unrest could impact the movement of cargo, particularly in the aviation and logistics sectors. There may be disruptions to supply chains, and increased security measures may be necessary to protect assets and personnel.",
+      "proximity_alert": null
+    }
   }
 ]
