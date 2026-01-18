@@ -1,62 +1,5 @@
 [
   {
-    "id": "ccea115e3610216831f5507bdea43ad2",
-    "timestamp": "2026-01-18T09:45:56.513435",
-    "original_title": "Two killed in mass Russian drone attack on Ukraine, Zelenskiy says - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZzM2SHltQWUwR2lNU3dQeksweEh3UThxZ3BkNExScHRCQ1BVM1JxT05UOXRzRGw1S3pYRVNLd1VvY2k5N0FpczVYc0N5NEZYZ196TGZXakZtU1hrUUZ6WWQwWkt2bVptRG9nSHB0LWliMENDbXJxN1Z6WFZZR3BlOVczQzliSUdpaGJrYXRfc2lLa1ZMVTRDSFhoY0g2Uk5XRXFaLWxDLXVLQUZibjFEMFRTSmtxYmNwcXc?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Conflict/Aviation",
-      "risk_score": 8,
-      "location": "Ukraine",
-      "latitude": 49.0,
-      "longitude": 32.0,
-      "detailed_analysis": "A mass Russian drone attack on Ukraine has resulted in two fatalities, as reported by President Zelenskiy. This incident poses a significant threat to aviation and personnel in the region.",
-      "immediate_forecast_24h": "Increased tensions and potential for further drone attacks in the next 24 hours, with possible disruptions to air traffic and logistics operations.",
-      "strategic_outlook": "The ongoing conflict between Russia and Ukraine may lead to prolonged instability and elevated risk of attacks on aviation and personnel, affecting transport and logistics in the region.",
-      "operational_impact": "Potential disruptions to air traffic, increased security measures, and possible restrictions on cargo and personnel movement in the affected areas.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "83f3488e7e27fcf0a3f18ec4f09c7339",
-    "timestamp": "2026-01-18T09:46:01.924946",
-    "original_title": "Live: At least 5,000 people have been killed during Iran's nationwide protests, official says",
-    "link": "https://www.france24.com/en/asia-pacific/20260118-live-iran-nationwide-protests-official",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Civil Unrest/Conflict",
-      "risk_score": 8,
-      "location": "Iran",
-      "latitude": 32.0,
-      "longitude": 53.0,
-      "detailed_analysis": "Nationwide protests in Iran have resulted in significant loss of life, with at least 5,000 people killed, including 500 members of the security forces. The situation is volatile and could impact the stability of the region, potentially affecting aviation, cargo, and personnel.",
-      "immediate_forecast_24h": "Continued unrest and protests are expected, with potential for further violence and disruption to transport and logistics. There is a risk of escalation and increased instability in the region.",
-      "strategic_outlook": "The long-term impact of the protests on Iran's stability and the wider region is uncertain, but it is likely to have significant implications for global security and trade. The situation will require close monitoring and contingency planning for potential disruptions to transport and logistics.",
-      "operational_impact": "The unrest in Iran may impact air travel, cargo shipments, and personnel movements in the region. There is a risk of disruption to supply chains, and transport operators should be prepared for potential delays or cancellations.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "9140e3d23168eaf001d0c3831d7df383",
-    "timestamp": "2026-01-18T09:46:03.635879",
-    "original_title": "Pentagon readies 1,500 troops as Minnesota anti-ICE protests grow",
-    "link": "https://www.france24.com/en/americas/20260118-pentagon-readies-1-500-troops-as-minnesota-protests-grow",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Civil Unrest/Conflict",
-      "risk_score": 6,
-      "location": "Minnesota, USA",
-      "latitude": 44.9778,
-      "longitude": -93.265,
-      "detailed_analysis": "Protests in Minnesota following a fatal shooting by an ICE agent have prompted the Pentagon to prepare 1,500 troops for possible deployment, indicating a heightened risk of civil unrest and potential conflict.",
-      "immediate_forecast_24h": "Escalation of protests and potential clashes between protesters and law enforcement or military personnel, potentially disrupting local transport and logistics.",
-      "strategic_outlook": "Long-term implications may include increased tensions between law enforcement and local communities, potentially affecting the stability of the region and the security of transport infrastructure.",
-      "operational_impact": "Potential disruptions to local transport, including roadblocks and demonstrations, may impact the movement of assets, cargo, and personnel in the region.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "a30578959d132f42e1bc238fda8e6e7a",
     "timestamp": "2026-01-18T10:28:44.385448",
     "original_title": "Syrian forces make rapid advance as SDF braces for Raqqa attack - Al Jazeera",
@@ -130,6 +73,25 @@
       "strategic_outlook": "A prolonged trade conflict could have long-term implications for global trade, potentially affecting cargo shipments, aviation, and personnel.",
       "operational_impact": "The conflict may lead to increased costs, delays, and disruptions in logistics and supply chains, particularly if the US imposes tariffs on EU goods.",
       "proximity_alert": "YAKIN TEHDİT: SHERATON AIRPORT (0 km)"
+    }
+  },
+  {
+    "id": "8977a93aa2b0bc819acf6768c50207f9",
+    "timestamp": "2026-01-18T11:22:06.450909",
+    "original_title": "Iran’s Khamenei blames violent protests on Trump",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qg65jg/irans_khamenei_blames_violent_protests_on_trump/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Iran's Supreme Leader Khamenei has blamed violent protests on former US President Trump, indicating a heightened state of tension and potential for further unrest. This could lead to disruptions in transportation and logistics, particularly for aviation and cargo operations.",
+      "immediate_forecast_24h": "Increased security measures and potential protests or demonstrations in major cities, including Tehran. There is a risk of clashes between protesters and security forces, which could impact transport infrastructure and operations.",
+      "strategic_outlook": "The current situation has the potential to escalate into a larger conflict, which could have significant implications for regional stability and global trade. The impact on transport and logistics could be severe, with potential disruptions to air and land routes.",
+      "operational_impact": "Aviation and cargo operations may be affected by the unrest, with potential delays or cancellations of flights and shipments. Transport companies should exercise caution and monitor the situation closely to minimize disruptions and ensure the safety of personnel and assets.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
     }
   }
 ]
