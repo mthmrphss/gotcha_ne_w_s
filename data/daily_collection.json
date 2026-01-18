@@ -720,5 +720,43 @@
       "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics operations due to increased security checks, roadblocks, or protests, which may lead to delays and increased costs.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "45bbba138c6835c44479c2e025d42ff9",
+    "timestamp": "2026-01-18T17:44:49.560986",
+    "original_title": "Iran Confirms Over 5,000 Dead",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qgemwp/iran_confirms_over_5000_dead/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 7,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Widespread protests in Iran have resulted in over 5,000 confirmed deaths, indicating a high level of unrest and potential instability in the region. This could impact the safety and security of assets, cargo, aviation, and personnel.",
+      "immediate_forecast_24h": "The situation is likely to remain volatile, with potential for further clashes between protesters and security forces. Disruptions to transportation and logistics are possible.",
+      "strategic_outlook": "The long-term implications of the unrest in Iran could lead to increased tensions in the region, potentially affecting global trade and security. The situation bears close monitoring for its potential to escalate into a larger conflict.",
+      "operational_impact": "Transportation and logistics operations in and around Iran may be impacted by the unrest, with potential for delays, disruptions, or even suspension of services. Aviation and cargo operations may also be affected, particularly if the unrest spreads to major transportation hubs.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "75abdde5db2eed11f3fde6381e611f56",
+    "timestamp": "2026-01-18T17:44:51.485279",
+    "original_title": "Ukrainian drone strikes cut power to hundreds of thousands in Russia-occupied southern Ukraine",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qgehzp/ukrainian_drone_strikes_cut_power_to_hundreds_of/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Southern Ukraine",
+      "latitude": 46.5,
+      "longitude": 34.5,
+      "detailed_analysis": "Ukrainian drone strikes have targeted power infrastructure in Russia-occupied southern Ukraine, resulting in power outages for hundreds of thousands of people. This escalation of conflict poses significant risks to aviation, cargo, and personnel in the region.",
+      "immediate_forecast_24h": "Increased tensions and potential for further drone strikes or retaliatory actions, potentially disrupting air traffic and logistics operations in the region.",
+      "strategic_outlook": "Prolonged conflict and instability in the region may lead to long-term disruptions to transportation and logistics, with potential for increased risk of accidents, cargo theft, or other security incidents.",
+      "operational_impact": "Potential for flight delays or cancellations, cargo shipment disruptions, and increased security measures for personnel and assets in the region.",
+      "proximity_alert": null
+    }
   }
 ]
