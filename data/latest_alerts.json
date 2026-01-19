@@ -1,43 +1,5 @@
 [
   {
-    "id": "4f1cd289a086e7fa90730720e3b76bb6",
-    "timestamp": "2026-01-19T14:00:41.396669",
-    "original_title": "Iran’s internet briefly restored amid widespread protest crackdown",
-    "link": "https://www.france24.com/en/video/20260119-iran-s-internet-briefly-restored-amid-widespread-protest-crackdown",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Civil Unrest/Conflict",
-      "risk_score": 7,
-      "location": "Iran",
-      "latitude": 32.0,
-      "longitude": 53.0,
-      "detailed_analysis": "The brief restoration and subsequent shutdown of internet services in Iran amid widespread protests indicates a high level of civil unrest and potential for conflict. This could impact the safety and security of assets, cargo, aviation, and personnel in the region.",
-      "immediate_forecast_24h": "Protests are likely to continue, and the Iranian government may maintain or further restrict internet access to control the narrative and suppress dissent. This could lead to increased tensions and potential for violence.",
-      "strategic_outlook": "The long-term implications of these protests could lead to significant changes in Iran's political landscape, potentially affecting regional stability and global relationships. This, in turn, could have far-reaching consequences for trade, aviation, and logistics in the area.",
-      "operational_impact": "The unrest and communications blackout could disrupt supply chains, affect cargo movement, and pose risks to aviation operations due to potential airspace restrictions or security concerns. Personnel in the region should exercise caution, and contingency plans should be in place for potential evacuations or operational adjustments.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "db7ed5059b00bce8d4d37a085c8b4900",
-    "timestamp": "2026-01-19T14:00:43.189867",
-    "original_title": "Louvre closes for third time in a month due to staff strike",
-    "link": "https://www.france24.com/en/france/20260119-louvre-closes-for-the-day-due-to-staff-strike",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Civil Unrest",
-      "risk_score": 10,
-      "location": "Paris, France",
-      "latitude": 48.8567,
-      "longitude": 2.3508,
-      "detailed_analysis": "The Louvre museum closure due to staff strike may cause disruptions to local tourism and transportation, but it does not pose a direct threat to assets, cargo, aviation, or personnel.",
-      "immediate_forecast_24h": "The strike is likely to continue until the trade unions' demands are met, potentially causing further disruptions to the museum's operations and surrounding areas.",
-      "strategic_outlook": "The recurring staff strikes may impact the museum's reputation and revenue in the long term, but it is unlikely to have a significant impact on the overall security landscape.",
-      "operational_impact": "The closure may cause minor disruptions to local transportation and tourism, but it is not expected to have a significant impact on cargo or aviation operations.",
-      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (2 km)"
-    }
-  },
-  {
     "id": "c7f112ead63ef9a5dcd3f0f4d75a1ea8",
     "timestamp": "2026-01-19T14:54:52.628693",
     "original_title": "Iran's regime cannot 'hold its power just through terror', activist says",
@@ -53,6 +15,25 @@
       "immediate_forecast_24h": "Increased protests and potential for more violence are expected in the short term, which could lead to disruptions in transportation and logistics.",
       "strategic_outlook": "The long-term outlook for Iran remains uncertain, with the potential for continued unrest and conflict, which could have significant implications for regional stability and global trade.",
       "operational_impact": "The situation in Iran could impact air travel and cargo operations, particularly if the unrest spreads to major airports or transportation hubs, and may require additional security measures to ensure the safety of personnel and assets.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "e659413288ad2928fa30494b09fb72ad",
+    "timestamp": "2026-01-19T15:34:02.839508",
+    "original_title": "Zelensky Claims Ukraine’s Army Has Mostly Shut Down Russian Attacks",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qh6tl5/zelensky_claims_ukraines_army_has_mostly_shut/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "The claim by Zelensky that Ukraine's army has mostly shut down Russian attacks indicates a significant development in the conflict, potentially impacting the security and stability of the region, affecting assets, cargo, aviation, and personnel.",
+      "immediate_forecast_24h": "In the next 24 hours, we can expect continued military engagements and potential escalation of attacks, which may impact transport and logistics in the region.",
+      "strategic_outlook": "Long term, the conflict may lead to increased instability and security risks in the region, affecting trade and economic activities, with potential spillover effects on neighboring countries.",
+      "operational_impact": "The conflict may disrupt supply chains, impact air traffic, and pose significant risks to personnel and assets in the region, requiring enhanced security measures and contingency planning for logistics and transport operations.",
       "proximity_alert": null
     }
   }
