@@ -1,24 +1,5 @@
 [
   {
-    "id": "2626a5c3ac7c12fde01c2468f7ff3f97",
-    "timestamp": "2026-01-19T16:38:38.040465",
-    "original_title": "Sudan: Business steadily returns to Khartoum market",
-    "link": "http://www.africanews.com/2026/01/19/sudan-business-steadily-returns-to-khartoum-market/",
-    "source_name": "Africa News",
-    "ai_analysis": {
-      "category": "Conflict/Civil Unrest",
-      "risk_score": 10,
-      "location": "Khartoum, Sudan",
-      "latitude": 15.6333,
-      "longitude": 32.5333,
-      "detailed_analysis": "The conflict in Sudan has led to the displacement of the Rapid Support Forces from Khartoum, resulting in a slow return of business to the city's central market. However, the ongoing conflict in other parts of the country poses a threat to the stability of the region.",
-      "immediate_forecast_24h": "The situation is expected to remain volatile, with potential for further clashes between the Sudanese army and the Rapid Support Forces. The return of business to the market may be disrupted if the conflict escalates.",
-      "strategic_outlook": "The long-term outlook for the region is uncertain, with the potential for ongoing conflict and instability. This could have a significant impact on trade and commerce in the region, as well as the safety of personnel and assets.",
-      "operational_impact": "The conflict may disrupt logistics and transportation in the region, potentially affecting the movement of cargo and personnel. Aviation operations may also be impacted, particularly if the conflict escalates or if there are concerns about the safety of aircraft and passengers.",
-      "proximity_alert": "YAKIN TEHDİT: Khartoum International Airport (5 km)"
-    }
-  },
-  {
     "id": "483ea51155b5ad88b6bed8a92ca07be6",
     "timestamp": "2026-01-19T17:29:55.465091",
     "original_title": "Olive Branch teen among 2 killed in Holly Springs plane crash - SuperTalk Mississippi Media",
@@ -73,6 +54,25 @@
       "strategic_outlook": "This incident highlights the need for robust border control measures and vigilant security protocols to prevent unauthorized entry and potential security threats.",
       "operational_impact": "The incident may lead to increased scrutiny of airport security procedures, potentially causing delays or disruptions to air travel, and emphasizing the importance of effective border control for transport and logistics operations.",
       "proximity_alert": "YAKIN TEHDİT: Mexico City International Airport (6 km)"
+    }
+  },
+  {
+    "id": "15ba0a7f400aaec990ceeca9a42f3aeb",
+    "timestamp": "2026-01-19T17:51:52.574518",
+    "original_title": "Iran protests: Khamenei blames outsiders as deaths mount",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qhazz2/iran_protests_khamenei_blames_outsiders_as_deaths/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Protests in Iran are escalating, with Supreme Leader Khamenei blaming outsiders for the unrest. The situation poses a threat to personnel and assets in the region, particularly those involved in aviation and logistics.",
+      "immediate_forecast_24h": "Increased violence and unrest are expected in the short term, with potential disruptions to air travel and ground transportation.",
+      "strategic_outlook": "The long-term outlook is uncertain, but the situation has the potential to destabilize the region and impact global trade and commerce.",
+      "operational_impact": "Aviation and logistics operations in Iran may be disrupted, and personnel and assets in the region should exercise caution and be prepared for potential evacuations or re-routing of cargo.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
     }
   }
 ]
