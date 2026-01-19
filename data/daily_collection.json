@@ -36,5 +36,43 @@
       "operational_impact": "The situation may impact transport and logistics operations in the region, particularly for cargo and personnel. Aviation operations may also be affected due to the potential for increased conflict and instability.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "4af615b7900c01a09d85c6009716d499",
+    "timestamp": "2026-01-19T21:27:11.526143",
+    "original_title": "Sheinbaum reassures Mexico after US military movements spark concern - Oregon Public Broadcasting - OPB",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWWxiaFA4cEdVMngwQk80ZkVpUUE4NWNPaHFaem10LXl0REE2cVVxX2N6eE1Wa2VvaTJaX0pvSlhiaG1iMDBQVGxaVWxtX2RUeXUyMTlPTmxTMjdXRF93c0t5YlVIa0poNm5pNXpkTGl2WDlaZEdDV0FuQkRaZVpoSU5FSmpHcXlyNnlpeUNKVEM5QUkwLUtCX0lJamlCbVZtV1Btb0dYMDFqRjB5?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Mexico City, Mexico",
+      "latitude": 19.4326,
+      "longitude": -99.1332,
+      "detailed_analysis": "US military movements near the US-Mexico border have sparked concern in Mexico, prompting the government to reassure the public. The situation is being closely monitored, but no direct threats to assets, cargo, aviation, or personnel have been reported.",
+      "immediate_forecast_24h": "The situation is expected to remain tense, but no significant escalation is anticipated in the next 24 hours. Diplomatic efforts are likely to continue to alleviate concerns.",
+      "strategic_outlook": "The long-term implications of the US military movements on US-Mexico relations and regional stability will depend on the outcome of diplomatic efforts and the actions of both countries. The situation bears watching for potential future threats to assets, cargo, aviation, or personnel.",
+      "operational_impact": "Currently, there is no significant operational impact on transport or logistics reported due to the US military movements. However, the situation could potentially affect cross-border trade and travel if it escalates.",
+      "proximity_alert": "YAKIN TEHDİT: Mexico City International Airport (6 km)"
+    }
+  },
+  {
+    "id": "ad86fff92040f0ddb6e11a652152e2aa",
+    "timestamp": "2026-01-19T21:27:17.297554",
+    "original_title": "Hackers target Iran state TV's satellite transmission to broadcast exiled crown prince",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qhgf83/hackers_target_iran_state_tvs_satellite/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Hackers have targeted Iran state TV's satellite transmission to broadcast an exiled crown prince, indicating a potential cyber threat to Iranian broadcasting systems and possible escalation of tensions.",
+      "immediate_forecast_24h": "Increased cyber attacks on Iranian media and government institutions are possible in the next 24 hours, potentially disrupting broadcast services and information dissemination.",
+      "strategic_outlook": "This incident may lead to increased tensions between Iran and other nations, potentially affecting international relations, trade, and aviation in the region.",
+      "operational_impact": "The hacking incident may impact the reliability of Iranian state TV's satellite transmission, potentially affecting the dissemination of critical information and having a moderate impact on the country's aviation and logistics operations.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
   }
 ]
