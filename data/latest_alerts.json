@@ -1,24 +1,5 @@
 [
   {
-    "id": "b0f8fe09b40b70477263db0ef69f46f3",
-    "timestamp": "2026-01-19T07:35:48.455155",
-    "original_title": "Global tensions are pushing cyber activity toward dangerous territory - Help Net Security",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZlFsd3hDSFJBOXhaR2FxMXB2R3NraDFaREpBdGZNMkVSTlBXYzdRc2pyQjZiSEsyUHhDaGgzS0pxckg2RzVwRFR5SDMxYUJyX1lEaFhrSjZyeldqUlV6NnNCNWhKc1dLMHR4aUxpQThjZzJENGRtQnB4Y1hrSlhUV05mbUFCdw?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Cyber",
-      "risk_score": 6,
-      "location": "Global",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "Global tensions are increasing cyber activity, posing a threat to assets, cargo, aviation, and personnel through potential cyberattacks on critical infrastructure, data breaches, and disruptions to supply chains.",
-      "immediate_forecast_24h": "Expect increased phishing attempts, ransomware attacks, and potential disruptions to logistics and transportation systems in the next 24 hours.",
-      "strategic_outlook": "In the long term, the escalation of global tensions could lead to more sophisticated and targeted cyberattacks, compromising the security of sensitive information and critical infrastructure.",
-      "operational_impact": "The increased cyber threat could impact transport and logistics operations, potentially causing delays, disruptions, and financial losses due to compromised systems, stolen data, or ransomware attacks.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "ae71c3985e757031c388534055242f4d",
     "timestamp": "2026-01-19T08:42:36.379254",
     "original_title": "International Criminal Liability and U.S. Boat Attacks in the Pacific and Caribbean",
@@ -35,6 +16,25 @@
       "strategic_outlook": "Long-term implications for U.S. maritime operations in the Caribbean and Pacific, with potential for increased international oversight and liability.",
       "operational_impact": "Potential impact on maritime transport and logistics in the region, particularly for vessels registered to countries that are members of the International Criminal Court.",
       "proximity_alert": null
+    }
+  },
+  {
+    "id": "7e417a43f75be840185e561620012f83",
+    "timestamp": "2026-01-19T09:42:21.144555",
+    "original_title": "IonQ taps national security veteran Katie Arrington as CIO, signals stronger cyber posture - Industrial Cyber",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMGlwaWZiU1I1QnpQNGVnVjR5ZGZqTDV4UzlPUVd3Y2pWZkdCNnM4Ym4tZVpXbmNicG9heV9SaUNGRW1VX3Z4dVVFU1lXQUZ2ZHJlTjA1UmpBaVoyX2JJR3NEakFkZTJ4ZlBZdnJ3eEc2d1NBdzJfNUFpSlB4NjJoS1NiWG03eE1CS2FRMUl1LVpBT2NUd0N3NmJ1dEhjMGlQbDFVUDFiMlNaZW9CaWZlZmFnUEIwWERJUi0yTnBqUQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 10,
+      "location": "Unknown, USA",
+      "latitude": 38.8951,
+      "longitude": -77.0364,
+      "detailed_analysis": "IonQ has appointed a national security veteran as CIO, indicating a stronger cyber posture. This move suggests the company is taking proactive steps to enhance its cybersecurity, potentially mitigating threats to its assets and operations.",
+      "immediate_forecast_24h": "No immediate threats are expected, but the appointment may lead to increased scrutiny of the company's cyber defenses.",
+      "strategic_outlook": "In the long term, this appointment may contribute to a reduced risk of cyber attacks and data breaches, enhancing the overall security of IonQ's operations and assets.",
+      "operational_impact": "The appointment of a national security veteran as CIO is likely to have a positive impact on IonQ's operational security, potentially reducing the risk of cyber-related disruptions to its business.",
+      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
     }
   }
 ]
