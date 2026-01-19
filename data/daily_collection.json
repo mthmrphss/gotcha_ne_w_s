@@ -245,5 +245,62 @@
       "operational_impact": "The incident may cause minor delays or cancellations for United Airlines, but the overall impact on air transport and logistics is expected to be minimal.",
       "proximity_alert": "YAKIN TEHDİT: Orlando International Airport (15 km)"
     }
+  },
+  {
+    "id": "1f8019358fdbd35716382ae41a6317eb",
+    "timestamp": "2026-01-19T11:28:15.810957",
+    "original_title": "Nigerian airstrikes kill scores of militants in Borno, military says - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVXNHTnJWN09NZjZrZkNvYXBKSU5yWFJ1Nm5pTkZBSjRQRFc1RGN5dFE4TnR1YmxGbUJZTWNMVS13RmVZdWVpSHRVQUdpc08tNVlKYm5vTTJJQXk3SGIzLTVSbWlseUhkWlVoNTFYenRmSWRxMGluRkF0RncyTUZRNUZZLURYYmpzNUFkTG5CZ0RNaGtHVG5GZ3FUSGR5YjVPOW5mQ2M3amVmUFFpNHVN?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "Borno, Nigeria",
+      "latitude": 10.5,
+      "longitude": 12.8,
+      "detailed_analysis": "Nigerian airstrikes targeting militant groups in Borno have resulted in significant casualties, indicating heightened military activity and potential for ongoing conflict in the region.",
+      "immediate_forecast_24h": "Increased military presence and potential for retaliatory attacks from militant groups, posing a threat to aviation and ground transport in the area.",
+      "strategic_outlook": "Long-term instability in the region may lead to sustained conflict, affecting transport and logistics operations, and potentially spilling over into neighboring areas.",
+      "operational_impact": "Aviation and cargo operations in the region may be impacted by the conflict, with potential for airspace restrictions, ground transport disruptions, and increased security measures.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "fd6e27ded6aacf945922b7d328bb0143",
+    "timestamp": "2026-01-19T11:28:22.848935",
+    "original_title": "Gaza peace plans tops agenda as Egypt hosts Greek and Cypriot FMs",
+    "link": "http://www.africanews.com/2026/01/19/gaza-peace-plans-tops-agenda-as-egypt-hosts-greek-and-cypriot-fms/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Cairo, Egypt",
+      "latitude": 30.0626,
+      "longitude": 31.2497,
+      "detailed_analysis": "The meeting between the foreign ministers of Greece, Cyprus, and Egypt to discuss the situation in Gaza and the implementation of the US peace plan may lead to increased tensions in the region, but there is no direct threat to assets, cargo, aviation, or personnel at this time.",
+      "immediate_forecast_24h": "The talks are expected to continue without any major incidents, but the situation in Gaza remains volatile and may escalate at any time.",
+      "strategic_outlook": "The long-term outlook for the region remains uncertain, with the potential for increased conflict and instability, which could impact transport and logistics in the area.",
+      "operational_impact": "Currently, there is no significant operational impact on transport or logistics, but the situation should be monitored closely for any changes.",
+      "proximity_alert": "YAKIN TEHDİT: Cairo International Airport (17 km)"
+    }
+  },
+  {
+    "id": "5ce9f85b6f8ebe1d79aa1b5f2af14d2a",
+    "timestamp": "2026-01-19T11:28:25.563002",
+    "original_title": "EU weighs countermeasures against Trump's tariff threats over Greenland",
+    "link": "https://www.france24.com/en/eu-discusses-countermeasures-in-response-to-trump-s-tariff-threats",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Other",
+      "risk_score": 10,
+      "location": "Brussels, EU",
+      "latitude": 50.8503,
+      "longitude": 4.3517,
+      "detailed_analysis": "The EU is considering countermeasures against the US due to tariff threats over Greenland, which may lead to increased tensions and potential trade disruptions.",
+      "immediate_forecast_24h": "EU leaders will discuss countermeasures at an emergency summit, potentially leading to a package of tariffs on US imports.",
+      "strategic_outlook": "The situation may escalate into a trade war, affecting global trade and logistics, but the immediate impact on Assets, Cargo, Aviation, and Personnel is low.",
+      "operational_impact": "Potential trade disruptions and increased tensions may affect transport and logistics, but no direct threat to aviation, cargo, or personnel is currently identified.",
+      "proximity_alert": "YAKIN TEHDİT: SHERATON AIRPORT (0 km)"
+    }
   }
 ]
