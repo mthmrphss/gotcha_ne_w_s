@@ -93,5 +93,62 @@
       "operational_impact": "Potential disruptions to oil supplies, increased security risks for transport and logistics operations, and possible restrictions on movement in the region.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "802018b7073611335be0f25daecbbade",
+    "timestamp": "2026-01-19T02:24:53.286607",
+    "original_title": "2 dead following a plane crash in Holly Springs - WAPT",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQLTlvMHlUOHlfVXZWNDcxamdoQVdJSmlMTEhZdGdFRUQxb3RhbUVrMGhNYWh6U1lCcVd2WjVHb0ZsTjBPd1gzVWdTeTNMUXR0TnktRk9zbVE0MkU3YXBBR0s1VjdOekhVTFpwNFVoVmpFSTBTa0M0LXhQb0FReVN0TGd4MnRoVmgxc1QzUXJ3?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 8,
+      "location": "Holly Springs",
+      "latitude": 34.7665,
+      "longitude": -89.4417,
+      "detailed_analysis": "A plane crash in Holly Springs has resulted in 2 fatalities, indicating a significant threat to aviation safety and potential disruption to local air traffic.",
+      "immediate_forecast_24h": "Investigations into the cause of the crash are likely to commence, with potential disruptions to local air traffic and emergency services on high alert.",
+      "strategic_outlook": "The incident may lead to increased scrutiny of aviation safety protocols and regulations in the region, potentially resulting in enhanced security measures and safety procedures.",
+      "operational_impact": "The crash may cause temporary disruptions to local air traffic, with potential delays or cancellations of flights, and increased security checks for passengers and cargo.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "f27c8b0ee5be00e70704afd052f51d2c",
+    "timestamp": "2026-01-19T02:24:57.470216",
+    "original_title": "European Union Officials Lean Toward Negotiating, Not Retaliating, Over Trump Tariff Threat",
+    "link": "https://www.nytimes.com/2026/01/18/world/europe/european-union-respond-trump-greenland.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Other",
+      "risk_score": 10,
+      "location": "Brussels, Belgium",
+      "latitude": 50.8503,
+      "longitude": 4.3517,
+      "detailed_analysis": "The European Union's decision to negotiate rather than retaliate against Trump's tariff threat reduces the likelihood of immediate conflict, but ongoing trade tensions may still impact cargo and logistics operations.",
+      "immediate_forecast_24h": "EU leaders will meet to discuss a unified response, potentially leading to increased diplomatic efforts to resolve trade disputes.",
+      "strategic_outlook": "Prolonged trade tensions could lead to long-term economic instability, affecting global supply chains and transport operations.",
+      "operational_impact": "Potential delays or increased costs in cargo transport and logistics due to trade restrictions or retaliatory measures.",
+      "proximity_alert": "YAKIN TEHDİT: SHERATON AIRPORT (0 km)"
+    }
+  },
+  {
+    "id": "c50d7c99f6002f4b9009d72a36842f8b",
+    "timestamp": "2026-01-19T02:25:03.494409",
+    "original_title": "Guatemala says gangs killed seven police in retaliation over prison transfers",
+    "link": "https://www.france24.com/en/americas/20260118-gang-guatemala-kill-seven-police-prison",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Crime/Civil Unrest/Conflict",
+      "risk_score": 7,
+      "location": "Guatemala City, Guatemala",
+      "latitude": 14.6402,
+      "longitude": -90.5139,
+      "detailed_analysis": "Gangs have killed seven police officers in retaliation for the government's refusal to transfer gang leaders to a lower-security prison, indicating a high level of violence and instability in the region.",
+      "immediate_forecast_24h": "Further retaliatory attacks against law enforcement and potential hostage situations are possible in the next 24 hours, posing a significant threat to personnel and assets.",
+      "strategic_outlook": "The ongoing conflict between gangs and the government may lead to prolonged instability, increased violence, and potential disruptions to cargo transport and aviation operations in the region.",
+      "operational_impact": "Transport and logistics operations in Guatemala may be affected by the increased violence, with potential delays, route changes, or cancellations due to safety concerns.",
+      "proximity_alert": null
+    }
   }
 ]
