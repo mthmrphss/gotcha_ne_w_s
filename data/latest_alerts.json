@@ -1,21 +1,59 @@
 [
   {
-    "id": "e92fc6187318de0bd9e049bc766b1dda",
-    "timestamp": "2026-01-20T18:54:36.692485",
-    "original_title": "Israel will aid Greece in countering military drone swarms",
-    "link": "https://www.reddit.com/r/geopolitics/comments/1qi8jnb/israel_will_aid_greece_in_countering_military/",
-    "source_name": "Reddit r/Geopolitics",
+    "id": "e0784794dc16fe461208bdb706e2319b",
+    "timestamp": "2026-01-20T20:17:02.184946",
+    "original_title": "From 'grievances' to 'terrorism’: how Tehran reframed dissent",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qib03w/from_grievances_to_terrorism_how_tehran_reframed/",
+    "source_name": "Reddit r/WorldNews",
     "ai_analysis": {
-      "category": "Conflict/Aviation",
-      "risk_score": 7,
-      "location": "Greece",
-      "latitude": 39.0742,
-      "longitude": 21.8243,
-      "detailed_analysis": "Israel will aid Greece in countering military drone swarms, indicating a potential threat to aviation and national security. This cooperation may lead to enhanced defense capabilities, but also increases the risk of retaliation or escalation from opposing forces.",
-      "immediate_forecast_24h": "Increased military activity and surveillance in the region, potentially disrupting air traffic and logistics. The situation may remain tense, with a high likelihood of further developments in the coming days.",
-      "strategic_outlook": "The long-term implications of this cooperation may lead to a shift in the regional balance of power, potentially affecting international relations and global security. The use of drone swarms as a military tactic may become more prevalent, requiring adaptability and innovation in defense strategies.",
-      "operational_impact": "Potential disruptions to air traffic, increased security measures at airports and borders, and enhanced surveillance in the region. Logistics and transport operations may need to be adjusted to account for the changing security landscape.",
+      "category": "Terrorism/Civil Unrest",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The Iranian government has reframed dissent as terrorism, which may lead to increased crackdowns on protests and potential violence, posing a threat to personnel and aviation in the region.",
+      "immediate_forecast_24h": "Increased security presence and potential clashes between protesters and authorities, with possible disruptions to air travel and logistics.",
+      "strategic_outlook": "Long-term instability and tensions between the government and opposition groups, potentially affecting the overall security environment and transport infrastructure in Iran.",
+      "operational_impact": "Possible delays or cancellations of flights, increased security checks, and disruptions to cargo transport and logistics operations in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "f01cfee913dea3267876bef6a5bcf09d",
+    "timestamp": "2026-01-20T20:17:04.922383",
+    "original_title": "EU vows 'unflinching' response to Trump's Greenland gambit",
+    "link": "https://www.france24.com/en/eu-vows-unflinching-response-to-trump-s-greenland-gambit",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 6,
+      "location": "Greenland, Denmark",
+      "latitude": 64.5167,
+      "longitude": -51.7167,
+      "detailed_analysis": "The situation involves a potential conflict between the US and the EU over Greenland, with the EU vowing an 'unflinching' response to Trump's plans, and Greenland's PM warning of potential military force.",
+      "immediate_forecast_24h": "Tensions are expected to escalate in the short term, with a potential meeting in Davos between US President Donald Trump and EU leaders, which may lead to further statements or actions.",
+      "strategic_outlook": "The long-term implications of this situation could lead to a deterioration in US-EU relations, potentially affecting global trade, security, and stability, with Greenland's strategic location making it a critical point of contention.",
+      "operational_impact": "The potential conflict could impact aviation and cargo operations in the region, with possible disruptions to flights, shipping, and logistics, particularly if military force is involved or if the situation escalates into a wider conflict.",
       "proximity_alert": null
+    }
+  },
+  {
+    "id": "a3d71744977eceacbb9f7632958a52b9",
+    "timestamp": "2026-01-20T20:17:06.772729",
+    "original_title": "Almost half of Kyiv without heat, power, after Russian attack",
+    "link": "https://www.france24.com/en/almost-half-of-kyiv-without-heat-power-after-russian-attack",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 10,
+      "location": "Kyiv, Ukraine",
+      "latitude": 50.4501,
+      "longitude": 30.5236,
+      "detailed_analysis": "Russian bombardment on Kyiv has left thousands without heat and power, with a barrage of drones and missiles targeting energy facilities across Ukraine, resulting in at least one fatality and significant disruption to vital utilities.",
+      "immediate_forecast_24h": "Further attacks on Ukrainian energy infrastructure are possible, exacerbating the humanitarian crisis and disrupting logistics and transportation in the region.",
+      "strategic_outlook": "The ongoing conflict between Russia and Ukraine is likely to continue causing significant disruptions to regional logistics, transportation, and energy supplies, with potential long-term impacts on global energy markets and security.",
+      "operational_impact": "Transportation and logistics operations in and around Kyiv may be severely impacted due to the lack of heat, power, and water, with potential delays or disruptions to cargo shipments and aviation operations.",
+      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
     }
   }
 ]
