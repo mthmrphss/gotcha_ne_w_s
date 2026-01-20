@@ -340,5 +340,81 @@
       "operational_impact": "The attack may impact the movement of cargo, aviation operations, and personnel in the area, with potential for delays, disruptions, or even cessation of operations due to the lack of essential services like heat and power.",
       "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
     }
+  },
+  {
+    "id": "dc99b65725b0ac94c6fccfa4eac50783",
+    "timestamp": "2026-01-20T09:39:54.041358",
+    "original_title": "Russian strikes cut heating to thousands of buildings in Kyiv amid freezing cold - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcGVuVzhZaWM1U0NMLTZSWk4yTW93UlVYWEE3VE1xUm1QQnNreE5Zczd5bTVpVU9yNWFjcVp1X0NHRHllT1lKaWFOeDJpOWRjOFFQek12NS05eGZBZ3h1Zll1Z1dndVF3LVBvLVJlWGdKS19XSHVBOXIxcExvSW1kaDU1bDdubVJmLWtydU42UDJUR1BWdUo2ZW92bDJudkEzTXF6Yl9iZGhxamxa?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Kyiv, Ukraine",
+      "latitude": 50.4501,
+      "longitude": 30.5236,
+      "detailed_analysis": "Russian strikes have cut heating to thousands of buildings in Kyiv, posing a significant threat to personnel and potentially disrupting aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Increased risk of further strikes and potential escalation of conflict, leading to disruptions in transport and logistics.",
+      "strategic_outlook": "Long-term instability in the region may lead to sustained disruptions in supply chains and increased risk to assets and personnel.",
+      "operational_impact": "Heating outages may impact airport operations, cargo handling, and personnel safety, while increased conflict risk may lead to airspace restrictions and transport disruptions.",
+      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
+    }
+  },
+  {
+    "id": "562675a4a3c54c7d905e0e67f6d631ea",
+    "timestamp": "2026-01-20T09:39:57.791711",
+    "original_title": "Islamic State Claims Deadly Attack on Chinese Restaurant in Afghanistan",
+    "link": "https://www.nytimes.com/2026/01/20/world/asia/isis-kabul-bomb-china.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict",
+      "risk_score": 10,
+      "location": "Kabul, Afghanistan",
+      "latitude": 34.5281,
+      "longitude": 69.1723,
+      "detailed_analysis": "A bombing at a Chinese restaurant in Kabul has killed seven people and injured a dozen more, with the Islamic State claiming responsibility. This attack highlights the growing security concerns in Afghanistan, particularly for Chinese interests.",
+      "immediate_forecast_24h": "Increased security measures are expected in Kabul, particularly around Chinese-owned businesses and diplomatic missions. There is a high likelihood of further attacks or unrest in the short term.",
+      "strategic_outlook": "The long-term security situation in Afghanistan is likely to remain unstable, with terrorist groups continuing to pose a threat to foreign interests. China's growing presence in the region may lead to increased targeting of Chinese assets and personnel.",
+      "operational_impact": "The attack may lead to increased security protocols for transport and logistics operations in Afghanistan, particularly for companies with Chinese connections. There may be disruptions to supply chains and potential delays in cargo movement.",
+      "proximity_alert": "YAKIN TEHDİT: Hamid Karzai International Airport (5 km)"
+    }
+  },
+  {
+    "id": "e9d4508634ef961f751290a0ccd91e73",
+    "timestamp": "2026-01-20T09:40:01.820860",
+    "original_title": "Greenland Is Strategic. Annexation Is Not",
+    "link": "https://warontherocks.com/2026/01/greenland-is-strategic-annexation-is-not/",
+    "source_name": "War on the Rocks",
+    "ai_analysis": {
+      "category": "Conflict/Geopolitics",
+      "risk_score": 6,
+      "location": "Greenland, Denmark",
+      "latitude": 72.0,
+      "longitude": -40.0,
+      "detailed_analysis": "The article discusses the strategic importance of Greenland due to rising sea temperatures and geopolitical tensions, highlighting the need for increased American military presence in the region, particularly in air and missile defenses.",
+      "immediate_forecast_24h": "No immediate threats are reported, but the situation in the Arctic region may escalate due to increased military presence and geopolitical tensions.",
+      "strategic_outlook": "Long-term, the region may experience increased militarization, potentially affecting aviation and cargo transport in the area.",
+      "operational_impact": "Potential impact on transport and logistics in the region due to increased military activity and geopolitical tensions, but no specific threats to assets, cargo, aviation, or personnel are reported at this time.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "4aac89c2c6cd71b6324b3fdaa99ec67f",
+    "timestamp": "2026-01-20T09:40:05.395206",
+    "original_title": "Japan welcomes record 40 million tourists in 2025 – but Chinese visitor numbers crash",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/japan-tourism-record-numbers-chinese-visitors-b2903656.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Japan",
+      "latitude": 35.6895,
+      "longitude": 139.767,
+      "detailed_analysis": "Diplomatic tensions between Japan and China have led to a sharp decline in Chinese tourist arrivals, potentially indicating increased tensions and unrest, but no direct threat to assets, cargo, aviation, or personnel has been reported.",
+      "immediate_forecast_24h": "No immediate escalation expected, but continued diplomatic tensions may affect travel and trade.",
+      "strategic_outlook": "Long-term relations between Japan and China may remain strained, potentially impacting economic and tourism activities.",
+      "operational_impact": "Minimal direct impact on transport and logistics, but potential for increased security measures and travel restrictions.",
+      "proximity_alert": "YAKIN TEHDİT: Haneda Airport (16 km)"
+    }
   }
 ]
