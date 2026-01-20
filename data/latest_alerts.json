@@ -1,21 +1,40 @@
 [
   {
-    "id": "6c3721a66fd34185af1d8027b3cacdf1",
-    "timestamp": "2026-01-20T02:20:07.822179",
-    "original_title": "Congolese army 'retakes strategic city of Uvira' after M23 withdrawal",
-    "link": "https://www.france24.com/en/africa/20260120-congolese-army-retakes-strategic-city-of-uvira-after-m23-withdrawal",
+    "id": "4653bef781bb0704daa45eea21b029a7",
+    "timestamp": "2026-01-20T03:56:00.135867",
+    "original_title": "It's More than Just Drones: Industrial Base Lessons from the Conflict in Ukraine | All About the Base - CSIS | Center for Strategic and International Studies",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPLXVqUEJzcm9ETkJQV2VJS3hqVzlnR29LLS04aVpfNFZickdsTHJHZDc2MEJTcThLYkkySkV4RmM2TzZSdzRCNzk4YTZvTll6V2M0SHVKcnZSOTZCNzh6LXZ3TlZaSl9rMG9YSnkybkEwTUlWdmtmRHY2TzEzNXRNdlRaTTluLU9RQTdGeXpSSGs4SFA0c2R0NnVleU5SVlYxVmhpSlpJdw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 6,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "The conflict in Ukraine has highlighted the importance of industrial base security, with drones being just one aspect of the threat. The use of drones and other technologies has significant implications for aviation and cargo security.",
+      "immediate_forecast_24h": "Increased tensions and potential for further conflict, with potential disruptions to aviation and cargo operations.",
+      "strategic_outlook": "Long-term impact on global industrial base security, with potential for increased use of drones and other technologies in future conflicts.",
+      "operational_impact": "Potential disruptions to aviation and cargo operations, with increased risk of drone sightings and other security threats.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "c10590abfa401cff4a3fac3730305c5a",
+    "timestamp": "2026-01-20T03:56:07.736002",
+    "original_title": "Islamic State group claims deadly blast at Chinese restaurant in Kabul",
+    "link": "https://www.france24.com/en/asia-pacific/20260120-islamic-state-group-claims-deadly-blast-at-chinese-restaurant-in-kabul-afghanistan-china",
     "source_name": "France 24 ME",
     "ai_analysis": {
-      "category": "Conflict/Civil Unrest",
-      "risk_score": 6,
-      "location": "Uvira, Democratic Republic of the Congo",
-      "latitude": -3.4167,
-      "longitude": 29.1333,
-      "detailed_analysis": "The withdrawal of M23 fighters from Uvira after a period of control indicates a shift in the conflict dynamics in the region. This could lead to temporary instability as the Congolese army regains control, potentially affecting local logistics and transport.",
-      "immediate_forecast_24h": "In the short term, there might be a lull in violence as the M23 withdrawal is consolidated, but the risk of skirmishes or renewed fighting remains. The situation is fluid and could escalate quickly.",
-      "strategic_outlook": "Long term, the conflict in eastern DRC is complex and involves multiple actors, including rebel groups and neighboring countries. The situation in Uvira and surrounding areas will depend on the ability of the Congolese government and international partners to stabilize the region and address the root causes of the conflict.",
-      "operational_impact": "The operational impact on transport and logistics in the region could be significant, especially if the conflict escalates or spreads. Roads and border crossings might be affected, leading to delays or disruptions in cargo movement. Aviation could also be impacted if the conflict affects nearby airports or if there are concerns about safety.",
-      "proximity_alert": null
+      "category": "Terrorism/Conflict",
+      "risk_score": 10,
+      "location": "Kabul, Afghanistan",
+      "latitude": 34.5281,
+      "longitude": 69.1723,
+      "detailed_analysis": "A blast at a Chinese restaurant in Kabul, claimed by the Islamic State group, has resulted in multiple casualties and injuries, indicating a targeted attack on foreign nationals, specifically Chinese citizens, which poses a significant threat to personnel and potentially to aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Increased security measures are expected in Kabul, particularly around foreign diplomatic missions and interests, with potential for retaliatory attacks or further violence, impacting local transport and logistics operations.",
+      "strategic_outlook": "The attack highlights the ongoing instability in Afghanistan and the threat posed by extremist groups, which could lead to a long-term increase in security risks for assets, cargo, aviation, and personnel in the region, necessitating enhanced security protocols and contingency planning.",
+      "operational_impact": "The incident may lead to heightened security checks, potential travel restrictions, and increased caution among airlines, cargo operators, and logistics providers operating in or near Afghanistan, affecting operational efficiency and supply chain reliability.",
+      "proximity_alert": "YAKIN TEHDİT: Hamid Karzai International Airport (5 km)"
     }
   }
 ]
