@@ -1,39 +1,20 @@
 [
   {
-    "id": "2e957a952781ce47c8b4c5fcf6a7f1c5",
-    "timestamp": "2026-01-19T22:49:57.347605",
-    "original_title": "Senegal awaits return of AFCON champions",
-    "link": "https://www.france24.com/en/senegal-awaits-return-of-afcon-champions",
+    "id": "6c3721a66fd34185af1d8027b3cacdf1",
+    "timestamp": "2026-01-20T02:20:07.822179",
+    "original_title": "Congolese army 'retakes strategic city of Uvira' after M23 withdrawal",
+    "link": "https://www.france24.com/en/africa/20260120-congolese-army-retakes-strategic-city-of-uvira-after-m23-withdrawal",
     "source_name": "France 24 ME",
     "ai_analysis": {
-      "category": "Civil Unrest/Other",
-      "risk_score": 10,
-      "location": "Dakar, Senegal",
-      "latitude": 14.73,
-      "longitude": -17.38,
-      "detailed_analysis": "The return of AFCON champions to Senegal may lead to large gatherings and celebrations, potentially causing disruptions to traffic and logistics. However, there is no indication of a direct threat to assets, cargo, aviation, or personnel.",
-      "immediate_forecast_24h": "Celebrations and large gatherings are expected, with a national holiday declared. There is a low likelihood of violence or unrest, but traffic congestion is possible.",
-      "strategic_outlook": "The situation is expected to return to normal after the celebrations, with no long-term impact on transport or logistics.",
-      "operational_impact": "Minimal impact expected on transport and logistics, with possible traffic congestion in Dakar. No significant disruptions to cargo or aviation operations anticipated.",
-      "proximity_alert": "YAKIN TEHDİT: Blaise Diagne International Airport (8 km)"
-    }
-  },
-  {
-    "id": "f8c31ce5b70a1388db8ece3636f7343b",
-    "timestamp": "2026-01-19T23:27:45.581585",
-    "original_title": "Ukraine hits drone warehouse in Russian-occupied Luhansk Oblast, military says",
-    "link": "https://www.reddit.com/r/worldnews/comments/1qhjho0/ukraine_hits_drone_warehouse_in_russianoccupied/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict/Aviation",
-      "risk_score": 8,
-      "location": "Luhansk Oblast, Ukraine",
-      "latitude": 48.5872,
-      "longitude": 39.3347,
-      "detailed_analysis": "Ukraine has hit a drone warehouse in Russian-occupied Luhansk Oblast, indicating an escalation in military conflict. This could lead to increased drone activity and potential threats to aviation and personnel in the region.",
-      "immediate_forecast_24h": "Increased military activity and potential drone sightings in the region, with possible retaliatory actions from Russian forces.",
-      "strategic_outlook": "Long-term instability in the region, with potential for ongoing conflict and disruptions to transport and logistics. The use of drones in the conflict could lead to increased risks for aviation and personnel.",
-      "operational_impact": "Potential disruptions to air traffic and logistics in the region, with increased security measures and possible restrictions on flight operations.",
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 6,
+      "location": "Uvira, Democratic Republic of the Congo",
+      "latitude": -3.4167,
+      "longitude": 29.1333,
+      "detailed_analysis": "The withdrawal of M23 fighters from Uvira after a period of control indicates a shift in the conflict dynamics in the region. This could lead to temporary instability as the Congolese army regains control, potentially affecting local logistics and transport.",
+      "immediate_forecast_24h": "In the short term, there might be a lull in violence as the M23 withdrawal is consolidated, but the risk of skirmishes or renewed fighting remains. The situation is fluid and could escalate quickly.",
+      "strategic_outlook": "Long term, the conflict in eastern DRC is complex and involves multiple actors, including rebel groups and neighboring countries. The situation in Uvira and surrounding areas will depend on the ability of the Congolese government and international partners to stabilize the region and address the root causes of the conflict.",
+      "operational_impact": "The operational impact on transport and logistics in the region could be significant, especially if the conflict escalates or spreads. Roads and border crossings might be affected, leading to delays or disruptions in cargo movement. Aviation could also be impacted if the conflict affects nearby airports or if there are concerns about safety.",
       "proximity_alert": null
     }
   }
