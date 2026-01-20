@@ -1,24 +1,5 @@
 [
   {
-    "id": "6b5a014e128cf09fc5ca1ef25efdc7fe",
-    "timestamp": "2026-01-20T20:55:43.008737",
-    "original_title": "Zelenskyy: Russia’s ballistic missile surge leaves Patriots as Ukraine’s only defense",
-    "link": "https://www.reddit.com/r/worldnews/comments/1qicqdx/zelenskyy_russias_ballistic_missile_surge_leaves/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 8,
-      "location": "Ukraine",
-      "latitude": 49.0,
-      "longitude": 32.0,
-      "detailed_analysis": "Russia's surge in ballistic missile attacks poses a significant threat to Ukraine's defense, with President Zelenskyy stating that Patriots are the country's only defense against these attacks.",
-      "immediate_forecast_24h": "Increased tensions and potential escalation of conflict between Russia and Ukraine, with a high likelihood of further ballistic missile attacks.",
-      "strategic_outlook": "Long-term instability and conflict in the region, potentially affecting global security and trade, with Ukraine's defense capabilities being severely tested.",
-      "operational_impact": "Potential disruption to air traffic and logistics in the region, with increased risk to aviation and cargo operations due to the conflict.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "3ae55a70e822b883a5e99bdb77e60502",
     "timestamp": "2026-01-20T21:29:27.831995",
     "original_title": "Burkina Faso: Damiba extradited by Togo",
@@ -54,6 +35,25 @@
       "strategic_outlook": "The long-term outlook suggests continued instability in Afghanistan, with terrorist groups posing a significant threat to local and international assets, cargo, and personnel, necessitating robust security protocols and contingency planning.",
       "operational_impact": "The attack may lead to increased security checks and delays for cargo and personnel movements, particularly for those associated with or traveling to and from Afghanistan, affecting logistics and supply chain operations in the region.",
       "proximity_alert": "YAKIN TEHDİT: Hamid Karzai International Airport (5 km)"
+    }
+  },
+  {
+    "id": "39fb134870d7da5e9b204110b90b722b",
+    "timestamp": "2026-01-20T22:29:32.943172",
+    "original_title": "One year after Trump’s inauguration, US–Africa policy has changed fundamentally",
+    "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20260120-one-year-after-trump-s-inauguration-us%E2%80%93africa-policy-has-changed-fundamentally",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Cyber/Crime",
+      "risk_score": 6,
+      "location": "Ghana",
+      "latitude": 7.9465,
+      "longitude": -1.0232,
+      "detailed_analysis": "Ghanaian authorities have arrested West African nationals accused of luring workers into engaging in cyber crimes, indicating a potential threat to personnel and assets in the region.",
+      "immediate_forecast_24h": "Increased law enforcement activity in Ghana, potential for similar arrests in neighboring countries.",
+      "strategic_outlook": "Growing concern over cyber crime in West Africa, potential for increased cooperation between regional law enforcement agencies to combat the threat.",
+      "operational_impact": "Potential disruption to logistics and transport operations in Ghana and surrounding areas, increased risk of cyber attacks on personnel and assets.",
+      "proximity_alert": null
     }
   }
 ]
