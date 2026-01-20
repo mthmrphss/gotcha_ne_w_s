@@ -1,24 +1,5 @@
 [
   {
-    "id": "39fb134870d7da5e9b204110b90b722b",
-    "timestamp": "2026-01-20T22:29:32.943172",
-    "original_title": "One year after Trump’s inauguration, US–Africa policy has changed fundamentally",
-    "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20260120-one-year-after-trump-s-inauguration-us%E2%80%93africa-policy-has-changed-fundamentally",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Cyber/Crime",
-      "risk_score": 6,
-      "location": "Ghana",
-      "latitude": 7.9465,
-      "longitude": -1.0232,
-      "detailed_analysis": "Ghanaian authorities have arrested West African nationals accused of luring workers into engaging in cyber crimes, indicating a potential threat to personnel and assets in the region.",
-      "immediate_forecast_24h": "Increased law enforcement activity in Ghana, potential for similar arrests in neighboring countries.",
-      "strategic_outlook": "Growing concern over cyber crime in West Africa, potential for increased cooperation between regional law enforcement agencies to combat the threat.",
-      "operational_impact": "Potential disruption to logistics and transport operations in Ghana and surrounding areas, increased risk of cyber attacks on personnel and assets.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "c3fd86f5fd4701279ebc7f04ba6533f7",
     "timestamp": "2026-01-20T23:30:00.910368",
     "original_title": "IS fighters escape prison as Syria's army clashes with SDF",
@@ -34,6 +15,25 @@
       "immediate_forecast_24h": "Increased military activity and potential for further clashes between the Syrian army and SDF, with a high risk of additional IS fighter escapes or attacks in the region.",
       "strategic_outlook": "The long-term impact of this event may include increased instability in the region, potentially leading to a resurgence of IS activity and threatening regional security. This could have significant implications for aviation and logistics operations in the area.",
       "operational_impact": "The escape of IS fighters and ongoing clashes may lead to increased security measures and potential disruptions to transport and logistics operations in the region, particularly for aviation and cargo assets.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "aac994cd9e245e061c2c0582be69502e",
+    "timestamp": "2026-01-20T23:50:24.794272",
+    "original_title": "US military seizes seventh Venezuela-linked tanker amid Trump oil crackdown",
+    "link": "https://www.france24.com/en/americas/20260120-us-military-venezuela-trump-oil",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Crime",
+      "risk_score": 7,
+      "location": "Venezuela/US Waters",
+      "latitude": 12.0,
+      "longitude": -67.0,
+      "detailed_analysis": "The US military seizure of a seventh Venezuela-linked tanker indicates heightened tensions and increased enforcement of oil export restrictions, posing a significant risk to cargo and shipping operations in the region.",
+      "immediate_forecast_24h": "Further seizures or interceptions of tankers are possible in the short term, potentially disrupting oil supply chains and escalating tensions between the US and Venezuela.",
+      "strategic_outlook": "The long-term implications of these actions may include increased instability in the region, potential retaliation from Venezuela, and ongoing disruptions to global oil markets.",
+      "operational_impact": "Shipping companies and cargo operators should exercise caution when navigating the region, be prepared for potential delays or seizures, and consider alternative routes or mitigation strategies to minimize risk.",
       "proximity_alert": null
     }
   }
