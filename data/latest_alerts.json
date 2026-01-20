@@ -1,97 +1,21 @@
 [
   {
-    "id": "da5d211db0caa1581370aa8eac654ab8",
-    "timestamp": "2026-01-20T16:43:55.258243",
-    "original_title": "CEOs and CISOs differ on AI’s security value and risks - Cybersecurity Dive",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUzNQc0pjeXVHMnF6Y1AtQ0ptWXMyam9jQllPcVRLZkRyTVpiVi1tSTRqT01tSjBpTEtrbzJBVkNhMExBUWlOUVFxVENDYU1ZMHNuZHdYbUhlRlNRY2dUQU5majBqMDNmYjBnQ2hxeE1WNjFMUHA1SnFkal9qbzkxZ0xROTRCeXM?oc=5",
-    "source_name": "Google News (Breaking)",
+    "id": "e92fc6187318de0bd9e049bc766b1dda",
+    "timestamp": "2026-01-20T18:54:36.692485",
+    "original_title": "Israel will aid Greece in countering military drone swarms",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1qi8jnb/israel_will_aid_greece_in_countering_military/",
+    "source_name": "Reddit r/Geopolitics",
     "ai_analysis": {
-      "category": "Cyber",
-      "risk_score": 6,
-      "location": "Global",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "CEOs and CISOs have differing opinions on the security value and risks of AI, which could lead to potential vulnerabilities in cybersecurity measures, affecting assets, cargo, aviation, and personnel.",
-      "immediate_forecast_24h": "Increased awareness of AI-related security risks, potential for new vulnerabilities to be discovered and exploited by malicious actors.",
-      "strategic_outlook": "Long-term integration of AI in security measures may lead to increased efficiency, but also increased risk of AI-powered attacks, emphasizing the need for continuous monitoring and adaptation of cybersecurity strategies.",
-      "operational_impact": "Potential for increased cybersecurity threats to transport and logistics systems, emphasizing the need for robust AI-powered security measures and continuous monitoring to mitigate risks.",
+      "category": "Conflict/Aviation",
+      "risk_score": 7,
+      "location": "Greece",
+      "latitude": 39.0742,
+      "longitude": 21.8243,
+      "detailed_analysis": "Israel will aid Greece in countering military drone swarms, indicating a potential threat to aviation and national security. This cooperation may lead to enhanced defense capabilities, but also increases the risk of retaliation or escalation from opposing forces.",
+      "immediate_forecast_24h": "Increased military activity and surveillance in the region, potentially disrupting air traffic and logistics. The situation may remain tense, with a high likelihood of further developments in the coming days.",
+      "strategic_outlook": "The long-term implications of this cooperation may lead to a shift in the regional balance of power, potentially affecting international relations and global security. The use of drone swarms as a military tactic may become more prevalent, requiring adaptability and innovation in defense strategies.",
+      "operational_impact": "Potential disruptions to air traffic, increased security measures at airports and borders, and enhanced surveillance in the region. Logistics and transport operations may need to be adjusted to account for the changing security landscape.",
       "proximity_alert": null
-    }
-  },
-  {
-    "id": "40f1291cddc7e5f6e145855eae17aac7",
-    "timestamp": "2026-01-20T16:43:58.952358",
-    "original_title": "Iran general warns Trump 'we will set their world on fire' if Khamenei attacked",
-    "link": "https://www.reddit.com/r/worldnews/comments/1qi5tyh/iran_general_warns_trump_we_will_set_their_world/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict/Terrorism",
-      "risk_score": 10,
-      "location": "Tehran, Iran",
-      "latitude": 35.6892,
-      "longitude": 51.389,
-      "detailed_analysis": "Iranian general warns of severe retaliation against the US if their supreme leader is attacked, indicating a heightened state of tension and potential for conflict escalation",
-      "immediate_forecast_24h": "Increased diplomatic tensions and potential for military posturing, but no immediate action expected within the next 24 hours",
-      "strategic_outlook": "Long-term escalation of US-Iran tensions could lead to increased instability in the region, affecting aviation and cargo operations, particularly in the Middle East",
-      "operational_impact": "Potential for increased security measures at airports and logistics hubs, possible disruptions to air travel and cargo transport in the region",
-      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
-    }
-  },
-  {
-    "id": "04df8419edfcd34b649af2a42dfc2040",
-    "timestamp": "2026-01-20T16:44:00.927133",
-    "original_title": "Canada’s Military Has Modeled Hypothetical US Invasion, Reports Say",
-    "link": "https://www.reddit.com/r/worldnews/comments/1qi5q6z/canadas_military_has_modeled_hypothetical_us/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 8,
-      "location": "Canada, North America",
-      "latitude": 56.1304,
-      "longitude": -106.3468,
-      "detailed_analysis": "Reports indicate that Canada's military has modeled a hypothetical US invasion, suggesting a potential conflict scenario between the two nations. This could have significant implications for regional security and stability.",
-      "immediate_forecast_24h": "Tensions between Canada and the US may escalate in the short term, potentially affecting cross-border trade and travel. However, an actual invasion is highly unlikely in the next 24 hours.",
-      "strategic_outlook": "In the long term, this development could lead to increased military spending and a shift in Canada's defense strategy. It may also strain diplomatic relations between the two countries, potentially affecting economic cooperation and trade agreements.",
-      "operational_impact": "A potential conflict between Canada and the US could severely disrupt supply chains, air travel, and logistics in North America. This could have significant operational implications for companies with assets, cargo, or personnel in the region.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "dfde76700bdd53ab34c6c7740e2bea56",
-    "timestamp": "2026-01-20T16:44:03.695173",
-    "original_title": "Trump’s first year back in office: A hard-line immigration crackdown",
-    "link": "https://www.france24.com/en/video/20260120-trump-s-first-year-back-in-office-a-hard-line-immigration-crackdown-1",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Border/Civil Unrest",
-      "risk_score": 5,
-      "location": "US-Mexico border, USA",
-      "latitude": 31.8953,
-      "longitude": -106.5107,
-      "detailed_analysis": "The Trump administration's hard-line immigration crackdown has led to a significant decrease in border crossings, with a focus on deportations within the United States. This may lead to increased tensions and potential unrest at the border, affecting transport and logistics.",
-      "immediate_forecast_24h": "No immediate escalation expected, but continued deportations and border security measures may lead to sporadic protests or disruptions.",
-      "strategic_outlook": "Long-term, the immigration crackdown may lead to increased instability and tensions at the border, potentially affecting trade and commerce between the US and Mexico.",
-      "operational_impact": "Potential disruptions to transport and logistics at the US-Mexico border, particularly for cargo and personnel crossing the border.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "6a8d91eadc288221730974268bf8e026",
-    "timestamp": "2026-01-20T16:44:06.626879",
-    "original_title": "Bangladesh - Level 3: Reconsider Travel",
-    "link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/bangladesh-travel-advisory.html",
-    "source_name": "US State Dept",
-    "ai_analysis": {
-      "category": "Crime/Civil Unrest/Terrorism",
-      "risk_score": 10,
-      "location": "Bangladesh",
-      "latitude": 23.8103,
-      "longitude": 90.4125,
-      "detailed_analysis": "The current situation in Bangladesh poses significant threats to assets, cargo, aviation, and personnel due to kidnapping, unrest, crime, and terrorism. The Chittagong Hill Tracts Region is particularly high-risk, with separatist groups and political violence creating an environment conducive to kidnappings, IED explosions, and active shootings.",
-      "immediate_forecast_24h": "In the next 24 hours, the situation is likely to remain volatile, with occasional protests and the potential for violent clashes. U.S. citizens are advised to avoid all gatherings and take necessary precautions to ensure their safety.",
-      "strategic_outlook": "In the long term, the security situation in Bangladesh is likely to remain challenging, with ongoing risks from terrorism, crime, and civil unrest. The Chittagong Hill Tracts Region will likely continue to be a high-risk area, and travelers should exercise extreme caution when visiting this region.",
-      "operational_impact": "The security situation in Bangladesh may impact transport and logistics operations, particularly in the Chittagong Hill Tracts Region. Companies operating in this area should take necessary precautions to ensure the safety of their personnel and assets, including avoiding travel to high-risk areas and taking extra security measures.",
-      "proximity_alert": "YAKIN TEHDİT: Hazrat Shahjalal International Airport (3 km)"
     }
   }
 ]
