@@ -473,5 +473,81 @@
       "operational_impact": "Disruptions to power and heating services may impact airport operations, cargo handling, and personnel safety in Kyiv and surrounding areas.",
       "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
     }
+  },
+  {
+    "id": "87284328bab035806f9c19ff4110cb4b",
+    "timestamp": "2026-01-20T11:29:39.160031",
+    "original_title": "The Overlooked Deaths of the Attack on Venezuela - The New Yorker",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaXV0Ql9TVkdEZDVrY3pFS1RhSHhsYWVFSHFKQ2NaOG9YOW1HTjVIQUZZSEJWT2lISktacjNDbDJEbkk3ejlYbHBmdDBnQ3ZjbElVV29KNm9iMmZBQU1ubmllMm9mZ3U1Ym5TLW0zckR1R21VNEJxQ0h1SFNEUjRnUmVndXE5Si0xaDJmYm9GdDNYUQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 6,
+      "location": "Venezuela",
+      "latitude": 7.0,
+      "longitude": -67.0,
+      "detailed_analysis": "The article discusses the overlooked deaths of the attack on Venezuela, indicating a high level of civil unrest and potential conflict in the region, which could impact aviation and cargo operations.",
+      "immediate_forecast_24h": "Increased tensions and potential for further violence, which may disrupt transport and logistics operations in the region.",
+      "strategic_outlook": "Long-term instability in Venezuela could lead to sustained disruptions in cargo and aviation operations, as well as potential security threats to personnel and assets.",
+      "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics operations in Venezuela, with possible spillover effects into neighboring countries.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "1b3ee77eab5855131e076925b6bc2338",
+    "timestamp": "2026-01-20T11:29:47.322221",
+    "original_title": "Iran ‘just getting started’ on punishing ‘rioters’ arrested during protests",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qhylu8/iran_just_getting_started_on_punishing_rioters/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The Iranian government has announced it is 'just getting started' on punishing rioters arrested during protests, indicating a potential escalation of violence and repression. This could lead to increased instability and unrest in the region, posing a risk to personnel and assets.",
+      "immediate_forecast_24h": "Increased security presence and potential for further clashes between protesters and authorities, with a high likelihood of arrests and detentions.",
+      "strategic_outlook": "Long-term instability and potential for further unrest, with implications for regional security and potential spillover effects into neighboring countries.",
+      "operational_impact": "Potential disruptions to transport and logistics operations, particularly for personnel and assets traveling to or through Iran, with a heightened risk of detention or harassment.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "474451ace40efe2e5dce53cf4552ed40",
+    "timestamp": "2026-01-20T11:29:50.705973",
+    "original_title": "Syrian govt says 120 Islamic State detainees escaped prison",
+    "link": "https://www.france24.com/en/syrian-govt-says-120-islamic-state-detainees-escaped-prison",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict/Crime",
+      "risk_score": 7,
+      "location": "Shaddadi, Syria",
+      "latitude": 36.05,
+      "longitude": 40.7333,
+      "detailed_analysis": "Approximately 120 Islamic State detainees escaped from Shaddadi prison, with 81 recaptured, posing a significant threat to regional security and potential disruption to transport and logistics in the area.",
+      "immediate_forecast_24h": "Security forces are expected to continue search and sweep operations to apprehend the remaining fugitives, potentially leading to increased military presence and checkpoints in the area, which may cause delays or disruptions to transport and logistics.",
+      "strategic_outlook": "The escape of Islamic State detainees may lead to a resurgence of terrorist activities in the region, potentially targeting critical infrastructure, including transportation hubs and logistics facilities, and posing a long-term threat to regional stability and security.",
+      "operational_impact": "The incident may lead to increased security measures, such as enhanced screening and surveillance, at transportation hubs and logistics facilities in the region, potentially causing delays or disruptions to cargo and personnel movement.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "4ca893014933e37aed02c9731178ce1f",
+    "timestamp": "2026-01-20T11:29:54.000156",
+    "original_title": "Can I take my portable charger on a flight? The rules after several airlines ban using the device",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/portable-charger-rules-airplane-ban-safety-b2903796.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 6,
+      "location": "Global",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Several airlines have introduced new power bank regulations due to fire safety concerns, which may indicate a potential threat to aviation safety",
+      "immediate_forecast_24h": "Passengers may face restrictions on carrying portable chargers on flights, potentially causing inconvenience and disruption to travel plans",
+      "strategic_outlook": "Airlines may continue to update their safety protocols and regulations to mitigate potential fire hazards, which could lead to a safer flying experience",
+      "operational_impact": "The new regulations may cause delays or disruptions to flights, and affect the overall efficiency of air travel operations",
+      "proximity_alert": null
+    }
   }
 ]
