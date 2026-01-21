@@ -340,5 +340,24 @@
       "operational_impact": "Potential disruptions to logistics and transport operations, including aviation, due to increased security measures, clashes, or unrest, may require alternative routing or scheduling to ensure safety and security of assets, cargo, and personnel.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "899ea1ac3b84f8f192dda18fb9b11847",
+    "timestamp": "2026-01-21T11:30:41.245182",
+    "original_title": "United Airlines plane loses wheel after hard landing at Orlando airport",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/united-airlines-mechanical-issue-wheel-orlando-airport-b2904572.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Orlando, USA",
+      "latitude": 28.5384,
+      "longitude": -81.3789,
+      "detailed_analysis": "A United Airlines plane experienced a mechanical issue resulting in the loss of a wheel after a hard landing at Orlando airport. The incident does not appear to be related to any intentional act but highlights potential safety concerns.",
+      "immediate_forecast_24h": "Investigations into the cause of the mechanical issue are expected to begin. There may be temporary disruptions to United Airlines' operations at Orlando airport as the incident is reviewed.",
+      "strategic_outlook": "The long-term impact on United Airlines and the aviation industry will depend on the findings of the investigation. If the issue is found to be related to maintenance or manufacturing, it could lead to changes in safety protocols or regulatory oversight.",
+      "operational_impact": "The incident may cause delays or cancellations of flights, affecting passengers and cargo. However, the impact is expected to be limited to the specific aircraft and Orlando airport, with minimal disruption to the broader aviation network.",
+      "proximity_alert": "YAKIN TEHDİT: Orlando International Airport (15 km)"
+    }
   }
 ]
