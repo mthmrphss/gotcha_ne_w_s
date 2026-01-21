@@ -454,5 +454,43 @@
       "operational_impact": "The incident may lead to increased delays, cancellations, or disruptions to flights, as well as a potential decrease in passenger confidence and demand for air travel.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "ec55b2411bbee63179212af749b9ecaa",
+    "timestamp": "2026-01-21T14:05:32.678733",
+    "original_title": "One Year Since the Start of Israel’s Ongoing “Operation Iron Wall” Military Attack in Jenin - Al-Haq",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84TThPVURHZGE0SkZ4V3dpVGE0ckMxMGNXWUFlYWxBMmZsUS1sVHRfNFpXTWU4N1JFUW9DLXYzZ3UzUDNWV3c5WDVlVlQwajRmMXh2ZmJPYU5LemdNR01tV0dHejB0ZWZV?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "Jenin, Israel",
+      "latitude": 32.4597,
+      "longitude": 35.3033,
+      "detailed_analysis": "The ongoing 'Operation Iron Wall' military attack in Jenin poses significant threats to assets, cargo, aviation, and personnel in the region due to the potential for escalation and spillover into nearby areas, affecting transport and logistics operations.",
+      "immediate_forecast_24h": "Increased tensions and potential for clashes between military forces and local populations, with possible disruptions to transport routes and logistics operations in the immediate area.",
+      "strategic_outlook": "Long-term instability and conflict in the region could lead to sustained disruptions to transport and logistics, impacting regional and global supply chains, and necessitating contingency planning for alternative routes and security measures.",
+      "operational_impact": "Potential for delays, rerouting, or cancellation of flights and ground transport, increased security measures at airports and border crossings, and heightened vigilance for cargo and personnel safety in the affected area.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "10a4ded09350bb36dbadc5bdd0084cc4",
+    "timestamp": "2026-01-21T14:05:42.257156",
+    "original_title": "Former Flight Attendant Indicted After Allegedly Posing As Pilot To Score Free Flights, Faces 25 Years In Prison",
+    "link": "https://www.paddleyourownkanoo.com/2026/01/21/former-flight-attendant-indicted-after-allegedly-posing-as-pilot-to-score-free-flights-faces-25-years-in-prison/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Crime/Aviation",
+      "risk_score": 6,
+      "location": "Hawaii, USA",
+      "latitude": 19.8968,
+      "longitude": -155.5828,
+      "detailed_analysis": "A former Canadian flight attendant has been indicted for posing as a pilot to obtain free flights, indicating a potential security vulnerability in airline employee verification processes.",
+      "immediate_forecast_24h": "The incident may prompt airlines to review and strengthen their employee verification procedures to prevent similar incidents.",
+      "strategic_outlook": "This case highlights the importance of robust identity verification and access control measures in the aviation industry to prevent unauthorized individuals from exploiting vulnerabilities.",
+      "operational_impact": "The incident may lead to increased scrutiny of airline employee access controls, potentially resulting in enhanced security protocols and procedures for verifying employee identities.",
+      "proximity_alert": null
+    }
   }
 ]
