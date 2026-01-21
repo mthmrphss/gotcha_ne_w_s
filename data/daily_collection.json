@@ -55,5 +55,43 @@
       "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics operations in and around Iran, with possible spillover effects on neighboring countries and global supply chains.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "53c0cb833b21546c7cbb9de4baea29c1",
+    "timestamp": "2026-01-21T22:33:03.600005",
+    "original_title": "Russian air defence missile hits own apartment building",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qjcc20/russian_air_defence_missile_hits_own_apartment/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 10,
+      "location": "Russia",
+      "latitude": 55.7558,
+      "longitude": 37.6176,
+      "detailed_analysis": "A Russian air defence missile has mistakenly hit an apartment building, indicating potential risks to aviation and civilian safety due to military operations",
+      "immediate_forecast_24h": "Increased military alertness and potential for further accidents or incidents in the region",
+      "strategic_outlook": "Long-term implications for regional stability and potential escalation of military conflicts, affecting aviation and logistics",
+      "operational_impact": "Potential disruptions to air traffic and logistics operations in the region due to increased military activity and risk of accidents",
+      "proximity_alert": "YAKIN TEHDİT: Vnukovo International Airport (27 km)"
+    }
+  },
+  {
+    "id": "1f9df99fa0d7009e7efc19be759b7487",
+    "timestamp": "2026-01-21T22:33:07.947538",
+    "original_title": "United Airlines Is Adding More Than One Starlink Equipped Plane To Its Fleet Everyday Throughout 2026",
+    "link": "https://www.paddleyourownkanoo.com/2026/01/21/united-airlines-is-adding-more-than-one-starlink-equipped-plane-to-its-fleet-everyday-throughout-2026/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Aviation/Cyber",
+      "risk_score": 10,
+      "location": "Chicago, USA",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "detailed_analysis": "United Airlines is installing Starlink Wi-Fi across its mainline fleet, with more than one aircraft per day being equipped throughout 2026. This could introduce potential cyber vulnerabilities, but no immediate threats are reported.",
+      "immediate_forecast_24h": "No significant changes or disruptions expected in the next 24 hours.",
+      "strategic_outlook": "The widespread adoption of Starlink Wi-Fi may increase the attack surface for cyber threats, but United Airlines' efforts to equip its fleet could also enhance passenger experience and operational efficiency.",
+      "operational_impact": "Minimal impact on transport/logistics operations, but potential for increased cyber security measures to protect against future threats.",
+      "proximity_alert": "YAKIN TEHDİT: Chicago O'Hare International Airport (0 km)"
+    }
   }
 ]

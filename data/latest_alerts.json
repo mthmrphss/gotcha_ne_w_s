@@ -1,24 +1,5 @@
 [
   {
-    "id": "bb8aba4b5c2fcce59436be638502975d",
-    "timestamp": "2026-01-21T20:39:35.477141",
-    "original_title": "Former Sudanese PM Hamdok speaks on FRANCE 24",
-    "link": "https://www.france24.com/en/former-sudanese-pm-hamdok-speaks-on-france-24",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict/Civil Unrest",
-      "risk_score": 10,
-      "location": "Khartoum, Sudan",
-      "latitude": 15.6333,
-      "longitude": 32.5333,
-      "detailed_analysis": "The ongoing conflict between Sudan's army and the paramilitary RSF poses a significant threat to assets, cargo, aviation, and personnel in the region. The latest proposal for a truce may be a positive development, but the situation remains volatile.",
-      "immediate_forecast_24h": "Continued fighting and instability are expected in the short term, with potential for further displacement and violence.",
-      "strategic_outlook": "A long-term resolution to the conflict is uncertain, and the region may remain unstable for an extended period, affecting transport and logistics operations.",
-      "operational_impact": "Transport and logistics operations in the region may be disrupted due to the conflict, and companies should exercise caution when operating in the area.",
-      "proximity_alert": "YAKIN TEHDİT: Khartoum International Airport (5 km)"
-    }
-  },
-  {
     "id": "cb4c6e0ba1dca3db4d829df8f2e81879",
     "timestamp": "2026-01-21T21:34:42.034925",
     "original_title": "Turkey strikes agreement with Iran to arrest protesters who challenge regime",
@@ -54,6 +35,44 @@
       "strategic_outlook": "Long-term instability in Iran could have far-reaching consequences for regional security, trade, and global markets, affecting aviation and cargo operations.",
       "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics operations in and around Iran, with possible spillover effects on neighboring countries and global supply chains.",
       "proximity_alert": null
+    }
+  },
+  {
+    "id": "53c0cb833b21546c7cbb9de4baea29c1",
+    "timestamp": "2026-01-21T22:33:03.600005",
+    "original_title": "Russian air defence missile hits own apartment building",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qjcc20/russian_air_defence_missile_hits_own_apartment/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 10,
+      "location": "Russia",
+      "latitude": 55.7558,
+      "longitude": 37.6176,
+      "detailed_analysis": "A Russian air defence missile has mistakenly hit an apartment building, indicating potential risks to aviation and civilian safety due to military operations",
+      "immediate_forecast_24h": "Increased military alertness and potential for further accidents or incidents in the region",
+      "strategic_outlook": "Long-term implications for regional stability and potential escalation of military conflicts, affecting aviation and logistics",
+      "operational_impact": "Potential disruptions to air traffic and logistics operations in the region due to increased military activity and risk of accidents",
+      "proximity_alert": "YAKIN TEHDİT: Vnukovo International Airport (27 km)"
+    }
+  },
+  {
+    "id": "1f9df99fa0d7009e7efc19be759b7487",
+    "timestamp": "2026-01-21T22:33:07.947538",
+    "original_title": "United Airlines Is Adding More Than One Starlink Equipped Plane To Its Fleet Everyday Throughout 2026",
+    "link": "https://www.paddleyourownkanoo.com/2026/01/21/united-airlines-is-adding-more-than-one-starlink-equipped-plane-to-its-fleet-everyday-throughout-2026/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Aviation/Cyber",
+      "risk_score": 10,
+      "location": "Chicago, USA",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "detailed_analysis": "United Airlines is installing Starlink Wi-Fi across its mainline fleet, with more than one aircraft per day being equipped throughout 2026. This could introduce potential cyber vulnerabilities, but no immediate threats are reported.",
+      "immediate_forecast_24h": "No significant changes or disruptions expected in the next 24 hours.",
+      "strategic_outlook": "The widespread adoption of Starlink Wi-Fi may increase the attack surface for cyber threats, but United Airlines' efforts to equip its fleet could also enhance passenger experience and operational efficiency.",
+      "operational_impact": "Minimal impact on transport/logistics operations, but potential for increased cyber security measures to protect against future threats.",
+      "proximity_alert": "YAKIN TEHDİT: Chicago O'Hare International Airport (0 km)"
     }
   }
 ]
