@@ -1,43 +1,5 @@
 [
   {
-    "id": "cb4c6e0ba1dca3db4d829df8f2e81879",
-    "timestamp": "2026-01-21T21:34:42.034925",
-    "original_title": "Turkey strikes agreement with Iran to arrest protesters who challenge regime",
-    "link": "https://www.reddit.com/r/worldnews/comments/1qjao9g/turkey_strikes_agreement_with_iran_to_arrest/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Civil Unrest/Conflict",
-      "risk_score": 6,
-      "location": "Turkey, Iran",
-      "latitude": 39.0,
-      "longitude": 35.0,
-      "detailed_analysis": "The agreement between Turkey and Iran to arrest protesters who challenge the regime poses a significant threat to civil liberties and may lead to increased unrest and instability in the region, potentially affecting aviation and cargo operations.",
-      "immediate_forecast_24h": "Protests and demonstrations may escalate in response to the agreement, potentially disrupting air travel and cargo transport in the region.",
-      "strategic_outlook": "The long-term implications of this agreement may lead to increased tensions between Turkey, Iran, and other regional players, potentially affecting trade and transport routes.",
-      "operational_impact": "Aviation and cargo operations in the region may be impacted by increased security measures, potential flight disruptions, and changes in transport regulations.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "6d1b54abbcc3c935629357b67de2172f",
-    "timestamp": "2026-01-21T21:34:44.158151",
-    "original_title": "Protests and Crackdown: Implications for Iran",
-    "link": "https://warontherocks.com/2026/01/protests-and-crackdown-implications-for-iran/",
-    "source_name": "War on the Rocks",
-    "ai_analysis": {
-      "category": "Civil Unrest/Conflict",
-      "risk_score": 7,
-      "location": "Iran",
-      "latitude": 32.0,
-      "longitude": 53.0,
-      "detailed_analysis": "Protests and government crackdown in Iran pose a significant threat to stability and security, potentially impacting aviation, cargo, and personnel. Internet blackout and limited information hinder situational awareness.",
-      "immediate_forecast_24h": "Continued unrest and potential escalation of violence, with possible disruptions to transportation and logistics.",
-      "strategic_outlook": "Long-term instability in Iran could have far-reaching consequences for regional security, trade, and global markets, affecting aviation and cargo operations.",
-      "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics operations in and around Iran, with possible spillover effects on neighboring countries and global supply chains.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "53c0cb833b21546c7cbb9de4baea29c1",
     "timestamp": "2026-01-21T22:33:03.600005",
     "original_title": "Russian air defence missile hits own apartment building",
@@ -73,6 +35,25 @@
       "strategic_outlook": "The widespread adoption of Starlink Wi-Fi may increase the attack surface for cyber threats, but United Airlines' efforts to equip its fleet could also enhance passenger experience and operational efficiency.",
       "operational_impact": "Minimal impact on transport/logistics operations, but potential for increased cyber security measures to protect against future threats.",
       "proximity_alert": "YAKIN TEHDİT: Chicago O'Hare International Airport (0 km)"
+    }
+  },
+  {
+    "id": "60be6d42fd22ab829eaf77d93f7ab80c",
+    "timestamp": "2026-01-21T23:32:33.123472",
+    "original_title": "Kurds march in Iraqi Kurdistan against Syrian government takeover of minority",
+    "link": "https://www.france24.com/en/kurds-march-in-iraqi-kurdistan-against-syrian-government-takeover-of-minority",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Erbil, Iraq",
+      "latitude": 36.1922,
+      "longitude": 44.0099,
+      "detailed_analysis": "Protests by Iraqi Kurds against the Syrian government's takeover of minority areas in northeast Syria could lead to increased tensions and potential clashes, affecting regional stability and security. The drone strike incident and subsequent denial by the SDF may escalate the situation.",
+      "immediate_forecast_24h": "Further protests and demonstrations are likely in Erbil and other parts of Iraqi Kurdistan, potentially spreading to other regions. The situation may remain volatile, with a risk of clashes between protesters and security forces.",
+      "strategic_outlook": "The long-term implications of the Syrian government's takeover of minority areas in northeast Syria may lead to a shift in the regional balance of power, potentially affecting Kurdish autonomy and stability in the region. This could have far-reaching consequences for transport and logistics operations.",
+      "operational_impact": "The situation may impact air transport and logistics operations in the region, particularly if the conflict escalates or spreads to other areas. There is a risk of disruptions to supply chains, and transport operators should exercise caution when operating in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Erbil International Airport (7 km)"
     }
   }
 ]
