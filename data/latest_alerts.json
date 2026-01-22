@@ -1,59 +1,40 @@
 [
   {
-    "id": "53c0cb833b21546c7cbb9de4baea29c1",
-    "timestamp": "2026-01-21T22:33:03.600005",
-    "original_title": "Russian air defence missile hits own apartment building",
-    "link": "https://www.reddit.com/r/worldnews/comments/1qjcc20/russian_air_defence_missile_hits_own_apartment/",
+    "id": "3b17ff3aa3ecf5580c11402e96db7891",
+    "timestamp": "2026-01-22T02:24:18.327435",
+    "original_title": "U.S. military to move up to 7,000 ISIS detainees from Syria to Iraq - The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWXphME9hZGhEdzlaWUhpR3VJR0tKbUhSNzVIQWZacFlBUXNLMlM3Zm5jM0sxN1lZZVY3LVZWVlozcWJWVUJDT0h6X0tqc3c5NmU5bkZYbms2YkU2a0xJRjZ5N2ZXWkxCZmpON3lMRUxPTE9JLWo0bHUwb2xUSjhfdHBCLXZKZEwyRmN2N0xlTQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 8,
+      "location": "Syria, Iraq",
+      "latitude": 33.2232,
+      "longitude": 43.6793,
+      "detailed_analysis": "The U.S. military plans to move up to 7,000 ISIS detainees from Syria to Iraq, posing a significant risk to regional stability and potential for terrorist activity. This transfer could lead to increased tensions and potential security breaches.",
+      "immediate_forecast_24h": "Heightened security measures are expected in the region, with potential for clashes or unrest during the transfer process.",
+      "strategic_outlook": "The long-term implications of this transfer could lead to increased instability in the region, potentially affecting transport and logistics operations, particularly in areas with high terrorist activity.",
+      "operational_impact": "Transport and logistics operations in the region may be impacted by increased security measures, potential clashes, or unrest, leading to delays or disruptions in cargo and personnel movement.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "18cc0fa692e4825577ccf99f45d69be6",
+    "timestamp": "2026-01-22T02:24:24.422029",
+    "original_title": "Iranian state TV says 3,117 people killed in recent protests, U.S.-based group projects higher toll",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qjhq49/iranian_state_tv_says_3117_people_killed_in/",
     "source_name": "Reddit r/WorldNews",
     "ai_analysis": {
-      "category": "Conflict/Aviation",
-      "risk_score": 10,
-      "location": "Russia",
-      "latitude": 55.7558,
-      "longitude": 37.6176,
-      "detailed_analysis": "A Russian air defence missile has mistakenly hit an apartment building, indicating potential risks to aviation and civilian safety due to military operations",
-      "immediate_forecast_24h": "Increased military alertness and potential for further accidents or incidents in the region",
-      "strategic_outlook": "Long-term implications for regional stability and potential escalation of military conflicts, affecting aviation and logistics",
-      "operational_impact": "Potential disruptions to air traffic and logistics operations in the region due to increased military activity and risk of accidents",
-      "proximity_alert": "YAKIN TEHDİT: Vnukovo International Airport (27 km)"
-    }
-  },
-  {
-    "id": "1f9df99fa0d7009e7efc19be759b7487",
-    "timestamp": "2026-01-21T22:33:07.947538",
-    "original_title": "United Airlines Is Adding More Than One Starlink Equipped Plane To Its Fleet Everyday Throughout 2026",
-    "link": "https://www.paddleyourownkanoo.com/2026/01/21/united-airlines-is-adding-more-than-one-starlink-equipped-plane-to-its-fleet-everyday-throughout-2026/",
-    "source_name": "Paddle Your Own Kanoo",
-    "ai_analysis": {
-      "category": "Aviation/Cyber",
-      "risk_score": 10,
-      "location": "Chicago, USA",
-      "latitude": 41.8781,
-      "longitude": -87.6298,
-      "detailed_analysis": "United Airlines is installing Starlink Wi-Fi across its mainline fleet, with more than one aircraft per day being equipped throughout 2026. This could introduce potential cyber vulnerabilities, but no immediate threats are reported.",
-      "immediate_forecast_24h": "No significant changes or disruptions expected in the next 24 hours.",
-      "strategic_outlook": "The widespread adoption of Starlink Wi-Fi may increase the attack surface for cyber threats, but United Airlines' efforts to equip its fleet could also enhance passenger experience and operational efficiency.",
-      "operational_impact": "Minimal impact on transport/logistics operations, but potential for increased cyber security measures to protect against future threats.",
-      "proximity_alert": "YAKIN TEHDİT: Chicago O'Hare International Airport (0 km)"
-    }
-  },
-  {
-    "id": "60be6d42fd22ab829eaf77d93f7ab80c",
-    "timestamp": "2026-01-21T23:32:33.123472",
-    "original_title": "Kurds march in Iraqi Kurdistan against Syrian government takeover of minority",
-    "link": "https://www.france24.com/en/kurds-march-in-iraqi-kurdistan-against-syrian-government-takeover-of-minority",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict/Civil Unrest",
-      "risk_score": 10,
-      "location": "Erbil, Iraq",
-      "latitude": 36.1922,
-      "longitude": 44.0099,
-      "detailed_analysis": "Protests by Iraqi Kurds against the Syrian government's takeover of minority areas in northeast Syria could lead to increased tensions and potential clashes, affecting regional stability and security. The drone strike incident and subsequent denial by the SDF may escalate the situation.",
-      "immediate_forecast_24h": "Further protests and demonstrations are likely in Erbil and other parts of Iraqi Kurdistan, potentially spreading to other regions. The situation may remain volatile, with a risk of clashes between protesters and security forces.",
-      "strategic_outlook": "The long-term implications of the Syrian government's takeover of minority areas in northeast Syria may lead to a shift in the regional balance of power, potentially affecting Kurdish autonomy and stability in the region. This could have far-reaching consequences for transport and logistics operations.",
-      "operational_impact": "The situation may impact air transport and logistics operations in the region, particularly if the conflict escalates or spreads to other areas. There is a risk of disruptions to supply chains, and transport operators should exercise caution when operating in the region.",
-      "proximity_alert": "YAKIN TEHDİT: Erbil International Airport (7 km)"
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 7,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Recent protests in Iran have resulted in a significant number of casualties, with the Iranian state TV reporting 3,117 people killed. A U.S.-based group projects a higher toll, indicating potential for further escalation and increased instability in the region.",
+      "immediate_forecast_24h": "Protests are likely to continue, with potential for further clashes between protesters and security forces, leading to increased risk of violence and disruption to transport and logistics operations.",
+      "strategic_outlook": "The ongoing unrest in Iran may lead to long-term instability in the region, potentially affecting trade and transport routes, as well as the safety of personnel and assets.",
+      "operational_impact": "The situation may impact air travel, cargo transport, and personnel movement in and out of Iran, with potential for delays, disruptions, or even suspension of services.",
+      "proximity_alert": null
     }
   }
 ]
