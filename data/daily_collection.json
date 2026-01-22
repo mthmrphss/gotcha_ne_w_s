@@ -264,5 +264,62 @@
       "operational_impact": "Transport and logistics operations in the region may be disrupted due to increased security measures, airspace restrictions, and potential for further conflict.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "bb0a2b0ed90b7542f84368f976223a06",
+    "timestamp": "2026-01-22T09:39:44.132494",
+    "original_title": "American, European microchips found in Russia's latest missile-like drone",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qjplx8/american_european_microchips_found_in_russias/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Aviation/Crime",
+      "risk_score": 8,
+      "location": "Russia",
+      "latitude": 61.524,
+      "longitude": 105.3188,
+      "detailed_analysis": "The presence of American and European microchips in Russia's latest missile-like drone poses a significant threat to global security, indicating potential sanctions evasion and illicit technology transfer. This could lead to increased tensions between nations and impact the aviation and logistics sectors.",
+      "immediate_forecast_24h": "Heightened surveillance and potential diplomatic fallout are expected in the short term, with possible repercussions for international trade and cooperation.",
+      "strategic_outlook": "Long-term implications may include stricter export controls, intensified cybersecurity measures, and a reevaluation of international partnerships to prevent similar incidents in the future.",
+      "operational_impact": "The discovery may lead to increased scrutiny of supply chains, particularly in the aviation and defense sectors, potentially causing delays or disruptions in logistics and transport operations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "2ad56a62d4867e7dbb40af0189ac4a31",
+    "timestamp": "2026-01-22T09:39:46.348701",
+    "original_title": "Backlash in Mogadishu against 'ignorant' Trump comments about Somalia",
+    "link": "http://www.africanews.com/2026/01/22/backlash-in-mogadishu-against-ignorant-trump-comments-about-somalia/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Mogadishu, Somalia",
+      "latitude": 2.0379,
+      "longitude": 45.3432,
+      "detailed_analysis": "Backlash against US President Donald Trump's comments about Somalia has sparked unrest in Mogadishu, potentially threatening aviation and logistics operations in the region.",
+      "immediate_forecast_24h": "Increased protests and demonstrations are expected in the next 24 hours, potentially disrupting air travel and cargo operations.",
+      "strategic_outlook": "The situation may escalate into a larger conflict, affecting regional stability and transport infrastructure, including airports and seaports.",
+      "operational_impact": "Potential disruptions to air travel, cargo operations, and logistics in Somalia and surrounding regions, with possible delays or cancellations of flights and shipments.",
+      "proximity_alert": "YAKIN TEHDİT: Aden Adde International Airport (5 km)"
+    }
+  },
+  {
+    "id": "8690df8eedcddd4614c4f78b63bb4366",
+    "timestamp": "2026-01-22T09:39:48.853710",
+    "original_title": "US begins transfer of up to 7,000 IS group detainees from Syria to Iraq",
+    "link": "https://www.france24.com/en/middle-east/20260122-us-begins-transfer-of-up-to-7-000-is-group-detainees-from-syria-to-iraq",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict",
+      "risk_score": 8,
+      "location": "Syria, Iraq",
+      "latitude": 33.8938,
+      "longitude": 43.6082,
+      "detailed_analysis": "The transfer of up to 7,000 IS group detainees from Syria to Iraq poses a significant risk to regional stability and security. The movement of such a large number of high-risk individuals could lead to potential escape attempts, retaliatory attacks, or other security breaches.",
+      "immediate_forecast_24h": "Increased security measures are expected in the region, particularly around prison facilities and transportation routes. There is a high likelihood of heightened tensions and potential clashes between security forces and extremist groups.",
+      "strategic_outlook": "The long-term implications of this transfer are significant, as it may lead to a shift in the balance of power in the region. The potential for IS group fighters to regroup or escape could have far-reaching consequences for regional security and global terrorism.",
+      "operational_impact": "The transfer of detainees may impact transport and logistics in the region, particularly if security forces are diverted to support the operation. There may be increased checks and screenings at border crossings, and potential disruptions to supply chains.",
+      "proximity_alert": null
+    }
   }
 ]
