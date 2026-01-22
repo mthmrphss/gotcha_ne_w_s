@@ -1,43 +1,5 @@
 [
   {
-    "id": "0448b4785f2e785b8a3ff05f4b488d2f",
-    "timestamp": "2026-01-22T16:43:09.507703",
-    "original_title": "American Eagle AA6109 has declared an emergency and returned to Savannah - airlive",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcHpRcTZiYjZGUFhqVFF1eEJKNHpqUFJCeFFyWWNTRTJlS0VnZzNKbVBXM21McnAxek5VZkl2d3FaVG4tNkxEOVdtZGlDSl8yUzVxLWYwNFAyWXA5ck00Zm5yYjNnYjItbTVZNnBPdE0zdmZmV0U4UEdFV3lOWDl6aVJ1QzNNd3RnbXNDZXM0NUEtNWJYQzAyMldjdWg2TGFsb3lHTUQyQndBSEFRa1BYZG02LUE?oc=5",
-    "source_name": "Live Flight Emergencies (Squawk)",
-    "ai_analysis": {
-      "category": "Aviation",
-      "risk_score": 6,
-      "location": "Savannah, USA",
-      "latitude": 32.0833,
-      "longitude": -81.0833,
-      "detailed_analysis": "American Eagle AA6109 declared an emergency and returned to Savannah, indicating a potential safety threat to the aircraft, passengers, and crew.",
-      "immediate_forecast_24h": "Investigations will likely be conducted to determine the cause of the emergency, and the airline may experience disruptions to their schedule.",
-      "strategic_outlook": "The incident may lead to increased scrutiny of the airline's safety procedures and potential changes to their emergency protocols.",
-      "operational_impact": "The return of the aircraft to Savannah may cause delays or cancellations of flights, affecting passengers and cargo transport.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "6616f8965bb2c9fa8ca7ac5dd27abeac",
-    "timestamp": "2026-01-22T16:43:12.428005",
-    "original_title": "Zelensky blasts Europe's inaction, reveals Jan. 23 talks with US and Russia in UAE",
-    "link": "https://www.reddit.com/r/worldnews/comments/1qjyn3g/zelensky_blasts_europes_inaction_reveals_jan_23/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 6,
-      "location": "UAE",
-      "latitude": 24.0,
-      "longitude": 54.0,
-      "detailed_analysis": "The meeting between US, Russia, and Ukraine in UAE may lead to increased tensions and potential conflict escalation, affecting regional stability and potentially impacting aviation and cargo operations.",
-      "immediate_forecast_24h": "Heightened diplomatic activity and potential for increased military presence in the region, with possible disruptions to air traffic and logistics.",
-      "strategic_outlook": "Long-term implications of the conflict may lead to sustained instability in the region, affecting trade routes and transport infrastructure, with potential for increased security measures and operational costs.",
-      "operational_impact": "Possible delays or disruptions to flights and cargo shipments, increased security screening, and potential for airspace restrictions or closures.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "2b2c1f32857b054e2f040233309147cc",
     "timestamp": "2026-01-22T17:36:17.431177",
     "original_title": "Lufthansa flight declares emergency mid-air moments after take-off from Heathrow Airport - GB News",
@@ -54,6 +16,63 @@
       "strategic_outlook": "This incident highlights the importance of maintaining high levels of vigilance and security in aviation. Airlines and airports must continue to invest in safety and security measures to mitigate potential threats.",
       "operational_impact": "The incident may cause delays or cancellations of flights, potentially disrupting cargo and passenger transport. Airlines and logistics companies should be prepared for possible disruptions and have contingency plans in place.",
       "proximity_alert": "YAKIN TEHDİT: Heathrow Airport (0 km)"
+    }
+  },
+  {
+    "id": "c1b6a1d601a91546c2fc553b9392f25a",
+    "timestamp": "2026-01-22T18:44:19.566760",
+    "original_title": "Zelenskyy says it's cheaper to stop Russia from producing missiles than to save Ukraine's energy system",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qk19wh/zelenskyy_says_its_cheaper_to_stop_russia_from/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "Ukrainian President Zelenskyy's statement suggests a heightened state of conflict, with potential threats to Ukraine's energy system and infrastructure due to Russian missile production. This could lead to disruptions in cargo transport, aviation, and personnel safety.",
+      "immediate_forecast_24h": "Increased tensions between Ukraine and Russia, potential escalation of conflict, and heightened security measures in the region.",
+      "strategic_outlook": "Long-term instability in the region, potential for prolonged conflict, and impact on global energy markets and trade routes.",
+      "operational_impact": "Potential disruptions to cargo transport, aviation, and logistics in the region, with increased security measures and potential rerouting of flights and cargo shipments.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "d7246d9198c3d663bd3115e8ac1566d8",
+    "timestamp": "2026-01-22T18:44:21.320416",
+    "original_title": "Zelenskyy calls for creation of European army: ''We can't rely solely on NATO''",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qk11lc/zelenskyy_calls_for_creation_of_european_army_we/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 6,
+      "location": "Europe",
+      "latitude": 50.0,
+      "longitude": 10.0,
+      "detailed_analysis": "The call for a European army by Zelenskyy may lead to increased tensions and potential conflict in the region, affecting aviation and logistics operations.",
+      "immediate_forecast_24h": "Heightened security measures and diplomatic discussions are expected in the short term, with potential for increased military presence in the region.",
+      "strategic_outlook": "The long-term implications of a European army could lead to a shift in global power dynamics, potentially affecting international relations and trade agreements.",
+      "operational_impact": "Increased security checks, potential airspace restrictions, and altered flight routes may impact aviation operations, while cargo and logistics may face delays or disruptions due to heightened security measures.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "8fa3ada155a284b6d7939682df93dbaf",
+    "timestamp": "2026-01-22T18:44:23.923617",
+    "original_title": "Deadly protests crackdown in Iran: Some funerals of protesters turn into demonstrations",
+    "link": "https://www.france24.com/en/deadly-protests-crackdown-in-iran-some-funerals-of-protesters-turn-into-demonstrations",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 8,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The rising number of deaths in protests against the Iranian regime poses a significant threat to the stability of the region, potentially impacting aviation, cargo, and personnel. The nationwide internet blackout hinders the ability to establish a precise death toll, suggesting a higher actual number of casualties.",
+      "immediate_forecast_24h": "Protests and demonstrations are likely to continue, with funerals of protesters potentially turning into further demonstrations, escalating the situation and increasing the risk of violence and unrest.",
+      "strategic_outlook": "The long-term outlook suggests a prolonged period of instability in Iran, with potential for the situation to deteriorate further, impacting regional security and potentially affecting neighboring countries.",
+      "operational_impact": "The unrest may disrupt air travel, cargo transport, and logistics in and out of Iran, with potential for demonstrations to target key infrastructure such as airports, seaports, and border crossings, affecting personnel and asset security.",
+      "proximity_alert": null
     }
   }
 ]
