@@ -606,5 +606,24 @@
       "operational_impact": "Possible delays or disruptions to flights and cargo shipments, increased security screening, and potential for airspace restrictions or closures.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "2b2c1f32857b054e2f040233309147cc",
+    "timestamp": "2026-01-22T17:36:17.431177",
+    "original_title": "Lufthansa flight declares emergency mid-air moments after take-off from Heathrow Airport - GB News",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13Tl9iR0haa1V1UHFMdFNQUFZCNlBFLVJVdWNsU0M0QjY1QjJxcDlvNXpXQVBrTGxxR3BZaVR2aXFJOGswZEgydjUyUkw4YW0wb1lEYXppV01EWUNQeHBiVUhCTTJobUZGdHhPTXJQV0tDVTZUNG92bTdfRDB4b0U?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Heathrow, UK",
+      "latitude": 51.47,
+      "longitude": -0.4614,
+      "detailed_analysis": "A Lufthansa flight declared an emergency mid-air shortly after take-off from Heathrow Airport, indicating a potential threat to aviation safety and security.",
+      "immediate_forecast_24h": "The situation is being monitored, and an investigation into the cause of the emergency declaration is likely to be launched. There may be disruptions to flights and air traffic in the surrounding area.",
+      "strategic_outlook": "This incident highlights the importance of maintaining high levels of vigilance and security in aviation. Airlines and airports must continue to invest in safety and security measures to mitigate potential threats.",
+      "operational_impact": "The incident may cause delays or cancellations of flights, potentially disrupting cargo and passenger transport. Airlines and logistics companies should be prepared for possible disruptions and have contingency plans in place.",
+      "proximity_alert": "YAKIN TEHDİT: Heathrow Airport (0 km)"
+    }
   }
 ]

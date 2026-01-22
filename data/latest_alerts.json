@@ -1,43 +1,5 @@
 [
   {
-    "id": "09c6c1556fcd8e0a1a571faaff87dbd4",
-    "timestamp": "2026-01-22T15:40:58.929321",
-    "original_title": "Ukraine confirms strike on Russia's Tamanneftegaz oil terminal, radar stations in Crimea also hit",
-    "link": "https://www.reddit.com/r/worldnews/comments/1qjwxji/ukraine_confirms_strike_on_russias_tamanneftegaz/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict/Aviation",
-      "risk_score": 8,
-      "location": "Crimea, Russia",
-      "latitude": 45.3456,
-      "longitude": 34.2345,
-      "detailed_analysis": "Ukraine has confirmed a strike on Russia's Tamanneftegaz oil terminal and radar stations in Crimea, indicating an escalation of conflict in the region with potential impact on aviation and logistics operations.",
-      "immediate_forecast_24h": "Increased military activity and potential for retaliatory strikes are expected in the short term, posing a high risk to aviation and nearby assets.",
-      "strategic_outlook": "The long-term outlook suggests continued instability in the region, potentially disrupting supply chains and impacting the security of cargo and personnel.",
-      "operational_impact": "Transport and logistics operations in the region may be severely impacted due to the conflict, with potential for delays, disruptions, or even cessation of services.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "fbdd1153ef83a330dfd5fe10c98a9452",
-    "timestamp": "2026-01-22T15:41:01.307096",
-    "original_title": "Trump's 'Board of Peace' initially aimed at rebuilding Gaza, could have 'global role'",
-    "link": "https://www.france24.com/en/trump-s-board-of-peace-initially-aimed-at-rebuilding-gaza-could-have-global-role",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict/Civil Unrest",
-      "risk_score": 6,
-      "location": "Gaza, Palestine",
-      "latitude": 31.5,
-      "longitude": 34.45,
-      "detailed_analysis": "The situation in Gaza is volatile with reports of Israeli fire resulting in casualties, including an infant. The introduction of Trump's 'Board of Peace' aims to resolve international conflicts, but its effectiveness and impact on the current situation in Gaza are uncertain.",
-      "immediate_forecast_24h": "Escalation of violence is possible, with potential for further clashes between Israeli forces and Palestinians in Gaza.",
-      "strategic_outlook": "The long-term success of Trump's 'Board of Peace' initiative is uncertain, and the situation in Gaza may continue to be a source of regional instability.",
-      "operational_impact": "Potential disruptions to air travel and logistics in the region due to the conflict, with possible restrictions on movement and increased security measures.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "0448b4785f2e785b8a3ff05f4b488d2f",
     "timestamp": "2026-01-22T16:43:09.507703",
     "original_title": "American Eagle AA6109 has declared an emergency and returned to Savannah - airlive",
@@ -73,6 +35,25 @@
       "strategic_outlook": "Long-term implications of the conflict may lead to sustained instability in the region, affecting trade routes and transport infrastructure, with potential for increased security measures and operational costs.",
       "operational_impact": "Possible delays or disruptions to flights and cargo shipments, increased security screening, and potential for airspace restrictions or closures.",
       "proximity_alert": null
+    }
+  },
+  {
+    "id": "2b2c1f32857b054e2f040233309147cc",
+    "timestamp": "2026-01-22T17:36:17.431177",
+    "original_title": "Lufthansa flight declares emergency mid-air moments after take-off from Heathrow Airport - GB News",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13Tl9iR0haa1V1UHFMdFNQUFZCNlBFLVJVdWNsU0M0QjY1QjJxcDlvNXpXQVBrTGxxR3BZaVR2aXFJOGswZEgydjUyUkw4YW0wb1lEYXppV01EWUNQeHBiVUhCTTJobUZGdHhPTXJQV0tDVTZUNG92bTdfRDB4b0U?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Heathrow, UK",
+      "latitude": 51.47,
+      "longitude": -0.4614,
+      "detailed_analysis": "A Lufthansa flight declared an emergency mid-air shortly after take-off from Heathrow Airport, indicating a potential threat to aviation safety and security.",
+      "immediate_forecast_24h": "The situation is being monitored, and an investigation into the cause of the emergency declaration is likely to be launched. There may be disruptions to flights and air traffic in the surrounding area.",
+      "strategic_outlook": "This incident highlights the importance of maintaining high levels of vigilance and security in aviation. Airlines and airports must continue to invest in safety and security measures to mitigate potential threats.",
+      "operational_impact": "The incident may cause delays or cancellations of flights, potentially disrupting cargo and passenger transport. Airlines and logistics companies should be prepared for possible disruptions and have contingency plans in place.",
+      "proximity_alert": "YAKIN TEHDİT: Heathrow Airport (0 km)"
     }
   }
 ]
