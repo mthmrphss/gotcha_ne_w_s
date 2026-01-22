@@ -1,43 +1,5 @@
 [
   {
-    "id": "1f7693a3d3096d5f9e46b29e256110ef",
-    "timestamp": "2026-01-22T14:02:32.042146",
-    "original_title": "Lufthansa Flight LH2473 declared an emergency right after takeoff from London Heathrow - airlive",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNzR3ZVQwM2kwOElqUk9PUGstYkJQZWpqa0V1QUtkejBHcEpRZmc0Ty1xekJJV1haREdMZVFiS3RsNFluek9wZDlUdV9YY3lTMUZrNFRrLWlKZzZUM05oVXlndUpza1J3bTF0YlJzaXFISzgxa2taTzRFWnhGbk9mdnRPOGhNZV9rZjZqNExISno5X2p3aTBPdjNVVnZqSmgwaE9DZ2VmQ3cxRW1DV2swUU9nVktaMElYT0VLM0ZSUUdPQzk4N2p3?oc=5",
-    "source_name": "Live Flight Emergencies (Squawk)",
-    "ai_analysis": {
-      "category": "Aviation",
-      "risk_score": 10,
-      "location": "London, United Kingdom",
-      "latitude": 51.478,
-      "longitude": -0.4614,
-      "detailed_analysis": "Lufthansa Flight LH2473 declared an emergency shortly after takeoff from London Heathrow, indicating a potential threat to aviation safety and security.",
-      "immediate_forecast_24h": "The situation is being monitored, and an investigation into the cause of the emergency declaration is likely to be conducted. Possible disruptions to flight schedules and airport operations may occur.",
-      "strategic_outlook": "This incident highlights the importance of maintaining robust security protocols and emergency response procedures in the aviation sector. Airlines and airports must remain vigilant and proactive in addressing potential threats to ensure the safety of passengers and crew.",
-      "operational_impact": "The incident may cause delays or cancellations of flights, potentially affecting cargo transport and personnel travel plans. Airlines and logistics operators should be prepared for possible disruptions and have contingency plans in place to minimize the impact on their operations.",
-      "proximity_alert": "YAKIN TEHDİT: Heathrow Airport (1 km)"
-    }
-  },
-  {
-    "id": "3e1b37bd228e28192710e728e487b80b",
-    "timestamp": "2026-01-22T14:02:36.282645",
-    "original_title": "Jihadist attack claims lives of eleven police officers in Burkina Faso",
-    "link": "http://www.africanews.com/2026/01/22/jihadist-attack-claims-lives-of-eleven-police-officers-in-burkina-faso/",
-    "source_name": "Africa News",
-    "ai_analysis": {
-      "category": "Terrorism/Conflict/Civil Unrest",
-      "risk_score": 8,
-      "location": "Eastern Burkina Faso",
-      "latitude": 11.1667,
-      "longitude": 0.7833,
-      "detailed_analysis": "A major jihadist assault in eastern Burkina Faso has resulted in the deaths of at least eleven police officers, indicating a high level of violence and instability in the region. This event highlights the persistent threat of terrorism and conflict in the area, posing a significant risk to assets, cargo, aviation, and personnel.",
-      "immediate_forecast_24h": "Increased security measures are likely to be implemented in the region, with potential for further clashes between security forces and jihadist groups. There may be disruptions to transport and logistics operations in the area.",
-      "strategic_outlook": "The ongoing violence and instability in Burkina Faso are likely to continue, with potential for further attacks on security forces and civilians. This may lead to increased security concerns and operational challenges for transport and logistics operators in the region.",
-      "operational_impact": "The attack may lead to increased security checks and protocols for transport and logistics operations in the region, potentially causing delays and disruptions. Aviation operations may also be affected, with potential for increased security screening and measures to prevent similar attacks.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "6a498498454d8f6ed9427640f2ea5514",
     "timestamp": "2026-01-22T14:57:53.513316",
     "original_title": "Fort Leonard Wood Soldier receives Purple Heart, credits U.S. Army training for skilled reaction to IED attack in Afghanistan - DVIDS",
@@ -73,6 +35,44 @@
       "strategic_outlook": "The addition of the stolen jewels to an international database may lead to increased cooperation between law enforcement agencies globally, potentially disrupting organized crime networks involved in art theft and smuggling.",
       "operational_impact": "Transport and logistics companies handling high-value cargo, especially art and jewelry, should enhance security protocols and be vigilant for potential theft or smuggling attempts, particularly in the Paris region and at international borders.",
       "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (2 km)"
+    }
+  },
+  {
+    "id": "09c6c1556fcd8e0a1a571faaff87dbd4",
+    "timestamp": "2026-01-22T15:40:58.929321",
+    "original_title": "Ukraine confirms strike on Russia's Tamanneftegaz oil terminal, radar stations in Crimea also hit",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qjwxji/ukraine_confirms_strike_on_russias_tamanneftegaz/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Crimea, Russia",
+      "latitude": 45.3456,
+      "longitude": 34.2345,
+      "detailed_analysis": "Ukraine has confirmed a strike on Russia's Tamanneftegaz oil terminal and radar stations in Crimea, indicating an escalation of conflict in the region with potential impact on aviation and logistics operations.",
+      "immediate_forecast_24h": "Increased military activity and potential for retaliatory strikes are expected in the short term, posing a high risk to aviation and nearby assets.",
+      "strategic_outlook": "The long-term outlook suggests continued instability in the region, potentially disrupting supply chains and impacting the security of cargo and personnel.",
+      "operational_impact": "Transport and logistics operations in the region may be severely impacted due to the conflict, with potential for delays, disruptions, or even cessation of services.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "fbdd1153ef83a330dfd5fe10c98a9452",
+    "timestamp": "2026-01-22T15:41:01.307096",
+    "original_title": "Trump's 'Board of Peace' initially aimed at rebuilding Gaza, could have 'global role'",
+    "link": "https://www.france24.com/en/trump-s-board-of-peace-initially-aimed-at-rebuilding-gaza-could-have-global-role",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 6,
+      "location": "Gaza, Palestine",
+      "latitude": 31.5,
+      "longitude": 34.45,
+      "detailed_analysis": "The situation in Gaza is volatile with reports of Israeli fire resulting in casualties, including an infant. The introduction of Trump's 'Board of Peace' aims to resolve international conflicts, but its effectiveness and impact on the current situation in Gaza are uncertain.",
+      "immediate_forecast_24h": "Escalation of violence is possible, with potential for further clashes between Israeli forces and Palestinians in Gaza.",
+      "strategic_outlook": "The long-term success of Trump's 'Board of Peace' initiative is uncertain, and the situation in Gaza may continue to be a source of regional instability.",
+      "operational_impact": "Potential disruptions to air travel and logistics in the region due to the conflict, with possible restrictions on movement and increased security measures.",
+      "proximity_alert": null
     }
   }
 ]
