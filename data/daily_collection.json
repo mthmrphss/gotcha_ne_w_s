@@ -568,5 +568,43 @@
       "operational_impact": "Potential disruptions to air travel and logistics in the region due to the conflict, with possible restrictions on movement and increased security measures.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "0448b4785f2e785b8a3ff05f4b488d2f",
+    "timestamp": "2026-01-22T16:43:09.507703",
+    "original_title": "American Eagle AA6109 has declared an emergency and returned to Savannah - airlive",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcHpRcTZiYjZGUFhqVFF1eEJKNHpqUFJCeFFyWWNTRTJlS0VnZzNKbVBXM21McnAxek5VZkl2d3FaVG4tNkxEOVdtZGlDSl8yUzVxLWYwNFAyWXA5ck00Zm5yYjNnYjItbTVZNnBPdE0zdmZmV0U4UEdFV3lOWDl6aVJ1QzNNd3RnbXNDZXM0NUEtNWJYQzAyMldjdWg2TGFsb3lHTUQyQndBSEFRa1BYZG02LUE?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 6,
+      "location": "Savannah, USA",
+      "latitude": 32.0833,
+      "longitude": -81.0833,
+      "detailed_analysis": "American Eagle AA6109 declared an emergency and returned to Savannah, indicating a potential safety threat to the aircraft, passengers, and crew.",
+      "immediate_forecast_24h": "Investigations will likely be conducted to determine the cause of the emergency, and the airline may experience disruptions to their schedule.",
+      "strategic_outlook": "The incident may lead to increased scrutiny of the airline's safety procedures and potential changes to their emergency protocols.",
+      "operational_impact": "The return of the aircraft to Savannah may cause delays or cancellations of flights, affecting passengers and cargo transport.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "6616f8965bb2c9fa8ca7ac5dd27abeac",
+    "timestamp": "2026-01-22T16:43:12.428005",
+    "original_title": "Zelensky blasts Europe's inaction, reveals Jan. 23 talks with US and Russia in UAE",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qjyn3g/zelensky_blasts_europes_inaction_reveals_jan_23/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 6,
+      "location": "UAE",
+      "latitude": 24.0,
+      "longitude": 54.0,
+      "detailed_analysis": "The meeting between US, Russia, and Ukraine in UAE may lead to increased tensions and potential conflict escalation, affecting regional stability and potentially impacting aviation and cargo operations.",
+      "immediate_forecast_24h": "Heightened diplomatic activity and potential for increased military presence in the region, with possible disruptions to air traffic and logistics.",
+      "strategic_outlook": "Long-term implications of the conflict may lead to sustained instability in the region, affecting trade routes and transport infrastructure, with potential for increased security measures and operational costs.",
+      "operational_impact": "Possible delays or disruptions to flights and cargo shipments, increased security screening, and potential for airspace restrictions or closures.",
+      "proximity_alert": null
+    }
   }
 ]
