@@ -1,43 +1,5 @@
 [
   {
-    "id": "40b87aaccf6b7403873eb11140d38d16",
-    "timestamp": "2026-01-23T22:25:57.943676",
-    "original_title": "‘She truly cared:’ Some question security after mental health counselor killed in office stabbing - clickorlando.com",
-    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQclZCcGZyQ0xuckJOX0ZIM1RpTnJzay1lLWkwMkZMNHZYSEU5SWpzT1gwTTNONnZtVC1ETVo3UUk5WmFkeHlwdkxiUkxYWVZleVl0VkdVNW5MSTNialczeUh3Mm1ITGNUN09aemNPSVhTN0Y2eG9RVzJtRXZfRzVGNXhOVHp1MVNIa0FMTFVSaEJ0Q1dibFE4OFBYU3o5bGFvUlZpQkp3MUZDalJDU2dCRmFvbnktb0R6NDZ2RldiS3h4V0UtdXVneVh1anRrRlFfYUt5Z1JMdmxRX014Z1c0?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Crime",
-      "risk_score": 10,
-      "location": "Orlando, USA",
-      "latitude": 28.5384,
-      "longitude": -81.3789,
-      "detailed_analysis": "A mental health counselor was killed in an office stabbing, raising questions about security measures in place. The incident does not appear to be directly related to aviation, cargo, or border security, but highlights the need for improved security protocols in public and private facilities.",
-      "immediate_forecast_24h": "No immediate escalation or copycat attacks expected, but increased security presence may be noticeable in similar facilities.",
-      "strategic_outlook": "Long-term, this incident may lead to increased awareness and implementation of security measures in public and private facilities, potentially reducing the risk of similar incidents in the future.",
-      "operational_impact": "No direct impact on transport or logistics operations expected, but companies may review and enhance their internal security protocols as a precautionary measure.",
-      "proximity_alert": "YAKIN TEHDİT: Orlando International Airport (15 km)"
-    }
-  },
-  {
-    "id": "adc8680029562308578e0ba454ba6310",
-    "timestamp": "2026-01-23T22:26:03.212397",
-    "original_title": "HRW: 'civilians risk abuse from militia groups in Uvira'",
-    "link": "https://www.france24.com/en/several-dead-in-mozambique-floods",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Civil Unrest/Conflict",
-      "risk_score": 6,
-      "location": "Uvira, DRC",
-      "latitude": -3.4167,
-      "longitude": 29.1333,
-      "detailed_analysis": "Militia groups have taken over Uvira, posing a significant threat to civilians, which may impact personnel and cargo security in the region.",
-      "immediate_forecast_24h": "Increased risk of violence and instability in Uvira, potentially disrupting transport and logistics operations.",
-      "strategic_outlook": "Long-term instability in the region may lead to sustained security risks for assets, cargo, aviation, and personnel, requiring ongoing monitoring and contingency planning.",
-      "operational_impact": "Potential disruptions to supply chains, increased security measures for personnel and cargo, and possible rerouting of flights or cargo shipments to avoid the affected area.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "87981d7c30213c88cefde163b0d9dc86",
     "timestamp": "2026-01-23T22:46:48.015916",
     "original_title": "US military says it struck vessel in eastern Pacific, killing two - Reuters",
@@ -167,6 +129,25 @@
       "immediate_forecast_24h": "Increased protests and demonstrations are expected, potentially causing traffic congestion and delays, but no immediate threats to aviation or major cargo thefts are anticipated.",
       "strategic_outlook": "The strike may lead to long-term economic and social impacts, potentially affecting the stability of the region and the flow of goods, but the situation is being monitored by local authorities.",
       "operational_impact": "Transportation and logistics operations may be impacted, with potential delays or disruptions to cargo movement, and personnel may face challenges in navigating the area.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "2dfae66499f448be518d9df6218f6782",
+    "timestamp": "2026-01-23T23:46:31.843680",
+    "original_title": "Military conducts 'lethal kinetic strike' on alleged drug boat, leaving one survivor - NBC News",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcTBFeVNGazJxRWZocFJfdTE4NWctNVZuU0NKczR1UEVjMDl5V2Z0Ykwxc3NsT0U0TkNVU296T3R5enB4VlQtZUVta01aV0xVZUlTTzJmSXpkZjc2S0REaTQ3bzJFay1mZjNIYndHY1BjVnk1QnU5QzYtUUFHTVU3dmt5eHpUcTNmUkU4RVhsVW81R20tMWpDU2pKQ1l2TVBaRURObUEyT21xVldDMUxrNnZfOGtXRG1xZmM4VFlNWTFDRXdSd085MkIxWWVrWkU?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Crime",
+      "risk_score": 7,
+      "location": "Unknown, International Waters",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "A military 'lethal kinetic strike' was conducted on an alleged drug boat, resulting in one survivor. This event indicates a high level of conflict and crime in international waters, potentially disrupting maritime trade and logistics.",
+      "immediate_forecast_24h": "Increased military presence and patrols in the area, potential for further confrontations with drug smuggling vessels. Cargo and personnel may face heightened security checks and delays.",
+      "strategic_outlook": "Long-term escalation of military operations against drug trafficking in the region, potentially leading to increased security measures and cooperation between nations to combat organized crime.",
+      "operational_impact": "Maritime transport and logistics may be affected by increased security measures, potential delays, and heightened risk of conflict in the region.",
       "proximity_alert": null
     }
   }
