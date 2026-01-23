@@ -283,5 +283,62 @@
       "operational_impact": "Transport and logistics operations in the region may be disrupted due to the ongoing conflict, with potential for delays, cargo theft, and personnel safety concerns.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "5b239e3f220fea038b17fb4d281e9996",
+    "timestamp": "2026-01-23T10:33:35.617256",
+    "original_title": "What Trump’s renewed attack on Iran could mean for oil prices - CNBC",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlTWM3VUlWREhKOS1NWUpoYmgwdEJZYUZwV1dvSDNmRXRCaElqeHQzMjlpWUk1aFpkTGFuQlNiTllxMWFVZnB1cnducE53dWVONGdQeHN2TmYwellFMHJ5Zk5LNks3ZGFGWVRadkhkS2ViU25Vck00VmxZWm7SAYIBQVVfeXFMUEhaa0tsazY1YkE2WTJrSFFFWjN3c1Y2c3RNeW5ZZXR2b1BTdW1ZUTBWaTFSZ2RubXVKUDBhWW9hbF9pRXhQby1VYlJndEtLNktTR0xOQlRSc0p4eWdRXzVYNW9KS1RVZHJ5VlN0WWtySXR0dmFTS2ZqMGJQZDN2X0ttZw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Iran, Middle East",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Renewed attack on Iran by Trump could lead to increased tensions and potential conflict, affecting oil prices and global stability",
+      "immediate_forecast_24h": "Heightened tensions, potential military action, and increased security measures in the region",
+      "strategic_outlook": "Long-term instability in the Middle East, potential disruption to global oil supplies, and increased risk of terrorism and cyber attacks",
+      "operational_impact": "Potential disruption to air and sea cargo transport, increased security checks, and possible rerouting of flights and ships",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "df0519940fdadec2a76d1b083cd1e38a",
+    "timestamp": "2026-01-23T10:33:44.601144",
+    "original_title": "Zelensky criticises the EU\"s lack of \"political will\" in countering Putin",
+    "link": "https://www.france24.com/en/zelensky-criticises-the-eu-s-lack-of-political-will-in-countering-putin",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Politics",
+      "risk_score": 10,
+      "location": "Kyiv, Ukraine",
+      "latitude": 50.4333,
+      "longitude": 30.5167,
+      "detailed_analysis": "Ukrainian President Volodymyr Zelensky criticized the EU's lack of 'political will' in countering Russian leader Vladimir Putin, indicating heightened tensions between Ukraine and Russia, with potential implications for regional stability and transport logistics.",
+      "immediate_forecast_24h": "Tensions between Ukraine and Russia may escalate, with potential for increased military activity or diplomatic fallout, but no immediate threat to aviation, cargo, or personnel is apparent.",
+      "strategic_outlook": "Long-term implications of the conflict between Ukraine and Russia could lead to increased instability in the region, potentially affecting transport routes and logistics, but current information does not suggest an imminent threat.",
+      "operational_impact": "No direct operational impact on transport/logistics is currently anticipated, but the situation will be monitored for potential future disruptions.",
+      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
+    }
+  },
+  {
+    "id": "21e06a7514353c6a057900d1ab563669",
+    "timestamp": "2026-01-23T10:33:49.363407",
+    "original_title": "Heathrow flight makes unscheduled U-turn after ‘technical issue’",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/heathrow-flight-emergency-divert-lufthansa-munich-london-b2906184.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Heathrow, UK",
+      "latitude": 51.47,
+      "longitude": -0.4614,
+      "detailed_analysis": "A Heathrow flight made an unscheduled U-turn due to a technical issue, prompting the crew to transmit a general emergency signal, squawk 7700. This indicates a potential safety risk to the aircraft, its passengers, and crew.",
+      "immediate_forecast_24h": "The situation is being monitored, and an investigation into the technical issue is likely to be conducted. There may be disruptions to flight schedules, but no further incidents are expected in the next 24 hours.",
+      "strategic_outlook": "The incident highlights the importance of regular maintenance and safety checks for aircraft. Airlines and regulatory bodies may review their procedures to minimize the risk of similar incidents in the future.",
+      "operational_impact": "The unscheduled U-turn may cause delays to the affected flight and potentially other flights, but the overall impact on transport and logistics is expected to be minimal.",
+      "proximity_alert": "YAKIN TEHDİT: Heathrow Airport (0 km)"
+    }
   }
 ]
