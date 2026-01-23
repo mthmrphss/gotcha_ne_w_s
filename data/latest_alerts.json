@@ -1,43 +1,5 @@
 [
   {
-    "id": "b585cdd7a32a015d15184ffa08c1fc83",
-    "timestamp": "2026-01-23T21:28:26.999460",
-    "original_title": "Slew of international airlines canceling flights to Middle East destinations including Israel amid Iran tensions",
-    "link": "https://www.reddit.com/r/worldnews/comments/1ql3gib/slew_of_international_airlines_canceling_flights/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Aviation/Conflict",
-      "risk_score": 8,
-      "location": "Middle East, Israel",
-      "latitude": 31.7833,
-      "longitude": 35.2167,
-      "detailed_analysis": "Multiple international airlines are canceling flights to Middle East destinations, including Israel, due to rising tensions with Iran, indicating a potential threat to aviation safety and security.",
-      "immediate_forecast_24h": "Increased flight cancellations and travel disruptions are expected in the short term, with potential for further escalation of tensions.",
-      "strategic_outlook": "The situation may lead to a prolonged period of instability in the region, affecting air travel and logistics, with potential long-term implications for global aviation and trade.",
-      "operational_impact": "Flight cancellations and travel restrictions may cause significant disruptions to transport and logistics operations, with potential impacts on cargo delivery, supply chains, and personnel safety.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "ecd87a9c46a7bf3cd044686121c12f1e",
-    "timestamp": "2026-01-23T21:28:29.012768",
-    "original_title": "UN rights body censures Iran's 'brutal repression' of protests",
-    "link": "https://www.reddit.com/r/worldnews/comments/1ql2oiq/un_rights_body_censures_irans_brutal_repression/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Civil Unrest/Conflict",
-      "risk_score": 10,
-      "location": "Tehran, Iran",
-      "latitude": 35.6892,
-      "longitude": 51.389,
-      "detailed_analysis": "The UN rights body has censured Iran's brutal repression of protests, indicating a high level of civil unrest and potential for further conflict. This could impact aviation and cargo operations in the region.",
-      "immediate_forecast_24h": "Increased protests and potential for further repression, potentially disrupting air travel and logistics in the short term.",
-      "strategic_outlook": "Long-term instability in Iran could lead to sustained disruptions to regional transport and logistics, with potential for spill-over effects into neighboring countries.",
-      "operational_impact": "Potential for flight disruptions, cargo delays, and increased security measures at airports and logistics hubs in Iran and surrounding regions.",
-      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
-    }
-  },
-  {
     "id": "40b87aaccf6b7403873eb11140d38d16",
     "timestamp": "2026-01-23T22:25:57.943676",
     "original_title": "‘She truly cared:’ Some question security after mental health counselor killed in office stabbing - clickorlando.com",
@@ -72,6 +34,25 @@
       "immediate_forecast_24h": "Increased risk of violence and instability in Uvira, potentially disrupting transport and logistics operations.",
       "strategic_outlook": "Long-term instability in the region may lead to sustained security risks for assets, cargo, aviation, and personnel, requiring ongoing monitoring and contingency planning.",
       "operational_impact": "Potential disruptions to supply chains, increased security measures for personnel and cargo, and possible rerouting of flights or cargo shipments to avoid the affected area.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "87981d7c30213c88cefde163b0d9dc86",
+    "timestamp": "2026-01-23T22:46:48.015916",
+    "original_title": "US military says it struck vessel in eastern Pacific, killing two - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdmZkV3U5aS1RV0JNWU9tZW94QnBBdjNxLV9pYUgySmNkd1FMSTdLMGptSjJtWlNEMkFBdk45VlpHTlJ0Zm1nejQ4cjBZWjBrWDRiUW9lZENWV0dzSFlqRUN5bVZVTXBHREQwX2ZYcHlmLXhRYlpCNHhEWUpWSEJWTWZHcDZhd2laX2Z4UUtUalpXY3NLNHZkZ01OOWxvZTFfM0FOcE5B?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Eastern Pacific",
+      "latitude": 0.0,
+      "longitude": -120.0,
+      "detailed_analysis": "US military struck a vessel in the eastern Pacific, resulting in two fatalities. The incident may indicate increased military activity or conflict in the region, potentially affecting maritime transport and cargo operations.",
+      "immediate_forecast_24h": "Increased military presence and surveillance in the eastern Pacific may lead to heightened security measures and potential disruptions to maritime traffic in the short term.",
+      "strategic_outlook": "The incident may be part of a broader geopolitical trend, with potential long-term implications for regional stability and security. This could lead to increased risks for cargo and personnel operating in the area.",
+      "operational_impact": "Maritime transport and cargo operations in the eastern Pacific may be affected by increased military activity, with potential delays or disruptions to shipping routes and schedules.",
       "proximity_alert": null
     }
   }
