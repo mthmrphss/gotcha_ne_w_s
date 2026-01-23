@@ -74,5 +74,43 @@
       "operational_impact": "Potential disruptions to road transport and logistics in the Minneapolis area due to protests and demonstrations, with possible knock-on effects for cargo and personnel movement.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "d4f70df277ba76e7143817dc2dc466aa",
+    "timestamp": "2026-01-23T13:59:00.477716",
+    "original_title": "Poland Sends Hundreds of Generators to Ukraine as Russia Strikes Energy System",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qkr90i/poland_sends_hundreds_of_generators_to_ukraine_as/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "Poland is sending hundreds of generators to Ukraine as Russia continues to strike Ukraine's energy system, indicating a heightened state of conflict and potential for disruptions to critical infrastructure, which could impact cargo and personnel safety.",
+      "immediate_forecast_24h": "Increased likelihood of further Russian strikes on Ukraine's energy infrastructure, potentially leading to power outages and disruptions to logistics and transportation.",
+      "strategic_outlook": "Long-term instability in the region could lead to sustained disruptions to supply chains and increased risk to assets, cargo, and personnel, with potential for escalation into a broader conflict.",
+      "operational_impact": "Potential for disruptions to transportation and logistics, particularly for cargo shipments and personnel movements, with increased risk of damage to infrastructure and assets.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "dbbca18fa5e4cf6e7a282766015e370f",
+    "timestamp": "2026-01-23T13:59:02.982675",
+    "original_title": "UK hits back after Trump claims NATO troops avoided front lines in Afghanistan",
+    "link": "https://www.france24.com/en/americas/20260123-britain-hits-back-after-trump-claims-nato-troops-avoided-afghan-front-line",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "London, UK",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "detailed_analysis": "The statement by Donald Trump regarding NATO troops in Afghanistan has sparked outrage in the UK, potentially leading to increased tensions and protests.",
+      "immediate_forecast_24h": "Protests and public demonstrations are possible in the next 24 hours, but no immediate threat to assets, cargo, aviation, or personnel is expected.",
+      "strategic_outlook": "The long-term impact of this incident is likely to be minimal, but it may contribute to increased tensions between the US and UK, potentially affecting diplomatic relations and cooperation in the future.",
+      "operational_impact": "No direct operational impact on transport or logistics is expected, but increased security measures may be implemented at UK airports and other critical infrastructure as a precautionary measure.",
+      "proximity_alert": "YAKIN TEHDİT: Heathrow Airport (23 km)"
+    }
   }
 ]
