@@ -340,5 +340,81 @@
       "operational_impact": "The unscheduled U-turn may cause delays to the affected flight and potentially other flights, but the overall impact on transport and logistics is expected to be minimal.",
       "proximity_alert": "YAKIN TEHDİT: Heathrow Airport (0 km)"
     }
+  },
+  {
+    "id": "d86be6b2cd5ff3561bfd843ba5b21c76",
+    "timestamp": "2026-01-23T11:27:34.639808",
+    "original_title": "As Iran Grieves, Accounts Emerge of Disrespectful Treatment of Protest Victims",
+    "link": "https://www.nytimes.com/2026/01/23/world/middleeast/iran-protests-victims-bodies.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The event involves a government crackdown on protests, with reports of disrespectful treatment of the dead. This indicates a high level of social unrest and potential for further conflict.",
+      "immediate_forecast_24h": "Increased tensions and potential for further protests or clashes between protesters and government forces.",
+      "strategic_outlook": "Long-term instability and potential for ongoing conflict, which could impact the security and stability of the region.",
+      "operational_impact": "Potential disruptions to transport and logistics operations, particularly for personnel and cargo moving through the region.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "721c59c4aac2aa5a13d2ec25325eeab9",
+    "timestamp": "2026-01-23T11:27:37.534069",
+    "original_title": "''We do not have time'': Zelenskyy defines main barrier to creating unified EU army on Ukraine's experience",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qko0kd/we_do_not_have_time_zelenskyy_defines_main/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Other",
+      "risk_score": 10,
+      "location": "Ukraine, Europe",
+      "latitude": 50.4501,
+      "longitude": 30.5236,
+      "detailed_analysis": "The article discusses Ukrainian President Zelenskyy's statement on the main barrier to creating a unified EU army based on Ukraine's experience. The statement does not directly imply any immediate threat to assets, cargo, aviation, or personnel but highlights the urgency and challenges in European defense cooperation.",
+      "immediate_forecast_24h": "No immediate threats are anticipated from this statement. However, the geopolitical tensions and discussions around European defense could potentially influence future security landscapes.",
+      "strategic_outlook": "Long-term, the development of a unified EU army could have significant implications for regional security, potentially reducing the risk of conflict but also introducing new challenges in coordination and strategy.",
+      "operational_impact": "The current statement has minimal direct operational impact on transport and logistics. However, ongoing geopolitical developments in Europe could influence trade routes, security measures, and the overall stability of the region.",
+      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
+    }
+  },
+  {
+    "id": "55b7382f1dfa5e3861048ca6a5bd0fa4",
+    "timestamp": "2026-01-23T11:27:39.745621",
+    "original_title": "Violence by illegal gold miners in South Africa forces families to leave homes",
+    "link": "http://www.africanews.com/2026/01/23/violence-by-illegal-gold-miners-in-south-africa-forces-families-to-leave-homes/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Civil Unrest/Crime",
+      "risk_score": 6,
+      "location": "Sporong, South Africa",
+      "latitude": -26.2667,
+      "longitude": 27.7833,
+      "detailed_analysis": "Violence by illegal gold miners in South Africa is forcing families to leave their homes, indicating a high level of civil unrest and potential for crime in the area, which could impact local transport and logistics operations.",
+      "immediate_forecast_24h": "The situation is likely to remain volatile in the short term, with potential for further clashes between miners and residents, and possible disruption to local transport routes.",
+      "strategic_outlook": "In the long term, the situation may stabilize if authorities are able to effectively address the issue of illegal mining and provide support to affected communities, but the risk of ongoing civil unrest and crime remains.",
+      "operational_impact": "The unrest may impact local transport and logistics operations, particularly those related to the mining industry, and could also affect the safety of personnel and cargo in the area.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "c11b68558d51d2a3c9df4f45b181c6ae",
+    "timestamp": "2026-01-23T11:27:41.888331",
+    "original_title": "Uvira economy at a standstill amid conflict between DRC forces and M23 rebels",
+    "link": "https://www.france24.com/en/uvira-economy-at-a-standstill-amid-conflict-between-drc-forces-and-m23-rebels",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 7,
+      "location": "Uvira, Democratic Republic of Congo",
+      "latitude": -3.4167,
+      "longitude": 29.1333,
+      "detailed_analysis": "The conflict between DRC forces and M23 rebels has severely impacted the local economy in Uvira, with the border closure and capture of the city leading to a standstill in small businesses and exploding prices. This situation poses a significant threat to assets, cargo, and personnel in the region.",
+      "immediate_forecast_24h": "The situation is likely to remain volatile, with potential for further clashes and disruptions to transport and logistics. The closure of the border with Burundi may lead to shortages and increased prices for essential goods.",
+      "strategic_outlook": "The long-term outlook for the region remains uncertain, with the potential for ongoing conflict and instability. This could lead to a prolonged disruption to trade and commerce, with significant impacts on the local economy and regional stability.",
+      "operational_impact": "The conflict and border closure are likely to have a significant impact on transport and logistics in the region, with potential for delays, disruptions, and increased costs. Cargo and personnel may be at risk due to the volatile security situation.",
+      "proximity_alert": null
+    }
   }
 ]
