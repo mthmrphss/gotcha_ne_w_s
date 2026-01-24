@@ -17,5 +17,24 @@
       "operational_impact": "Flight delays and cancellations may impact the movement of cargo and personnel, potentially leading to supply chain disruptions and other operational challenges.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "e40cfb564c2d54fbadd7899304f83e5f",
+    "timestamp": "2026-01-24T23:43:51.358904",
+    "original_title": "Poland’s energy grid was targeted by never-before-seen wiper malware. Rsearchers said the wiper was likely the work of a Russian government hacker group tracked under the name Sandworm.",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qm2tol/polands_energy_grid_was_targeted_by/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 8,
+      "location": "Poland",
+      "latitude": 52.0,
+      "longitude": 19.0,
+      "detailed_analysis": "Poland's energy grid was targeted by a never-before-seen wiper malware, likely attributed to the Russian government hacker group Sandworm. The attack's primary goal was to disrupt the energy grid, but it failed to knock out electricity.",
+      "immediate_forecast_24h": "In the next 24 hours, there is a high likelihood of further cyber attacks on critical infrastructure in Poland and potentially other European countries. The attackers may attempt to exploit vulnerabilities in the energy grid or other sectors.",
+      "strategic_outlook": "In the long term, this incident highlights the increasing threat of state-sponsored cyber attacks on critical infrastructure. It is essential for countries to enhance their cyber security measures and develop strategies to mitigate and respond to such attacks.",
+      "operational_impact": "The attack on Poland's energy grid may have a significant operational impact on the logistics and transportation sectors, particularly if the attackers succeed in disrupting the energy supply. This could lead to delays, cancellations, and increased costs for businesses and individuals relying on these services.",
+      "proximity_alert": null
+    }
   }
 ]
