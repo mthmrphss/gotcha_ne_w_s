@@ -17,5 +17,43 @@
       "operational_impact": "The crash may cause delays or cancellations of flights, affecting passenger travel plans and cargo operations. Airport authorities and airlines will need to work together to minimize disruptions and ensure the safe and efficient movement of passengers and cargo.",
       "proximity_alert": "YAKIN TEHDİT: DETROIT (28 km)"
     }
+  },
+  {
+    "id": "f171524b5c2042a0b7b7eaf500ac5574",
+    "timestamp": "2026-01-24T04:39:55.250547",
+    "original_title": "Iran warns any attack will mean 'all-out war' after Trump says US 'armada' on its way",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qlct70/iran_warns_any_attack_will_mean_allout_war_after/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Iran has warned of 'all-out war' in response to any potential attack, following statements from the US regarding an 'armada' being sent to the region. This escalation in rhetoric increases the risk of conflict, potentially impacting aviation and cargo operations in the area.",
+      "immediate_forecast_24h": "Heightened tensions between Iran and the US are expected to continue, with a potential for military posturing or limited skirmishes. However, a full-scale conflict is not imminent within the next 24 hours.",
+      "strategic_outlook": "The long-term outlook suggests continued instability in the region, with potential for periodic escalations in tensions between Iran and the US or its allies. This could lead to increased security measures for aviation and cargo, potentially impacting operational efficiency and costs.",
+      "operational_impact": "The threat of conflict could lead to restrictions on airspace, increased security checks for cargo, and potential disruptions to logistics operations in the region. Operators should be prepared for possible delays or rerouting of flights and cargo shipments.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "bb9c4103e541970dcd8455aef446b0fb",
+    "timestamp": "2026-01-24T04:39:58.610086",
+    "original_title": "Dutch Airline Cancels Flights To Dubai, Tel Aviv and Riyadh ‘Until Further Notice’ Over Security Worries",
+    "link": "https://www.paddleyourownkanoo.com/2026/01/24/dutch-airline-cancels-flights-to-dubai-tel-aviv-and-riyadh-until-further-notice-over-security-worries/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 10,
+      "location": "Amsterdam, Netherlands",
+      "latitude": 52.3105,
+      "longitude": 4.7683,
+      "detailed_analysis": "KLM has canceled flights to Dubai, Tel Aviv, and Riyadh due to security concerns related to potential US military strikes on Iran, which could lead to regional escalation.",
+      "immediate_forecast_24h": "Increased tensions in the region may lead to further flight cancellations or travel disruptions.",
+      "strategic_outlook": "Prolonged conflict in the region could have long-term impacts on global air travel and logistics, particularly for flights to and from the Middle East.",
+      "operational_impact": "Flight cancellations will impact passenger and cargo transport, potentially leading to delays and increased costs for affected parties.",
+      "proximity_alert": "YAKIN TEHDİT: Amsterdam Airport Schiphol (10 km)"
+    }
   }
 ]
