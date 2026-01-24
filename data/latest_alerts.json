@@ -1,43 +1,5 @@
 [
   {
-    "id": "2fadb123c412a22b985f6bf2865898c1",
-    "timestamp": "2026-01-24T13:35:50.891330",
-    "original_title": "Iran kills protesters then forces families to say they were pro-regime",
-    "link": "https://www.reddit.com/r/geopolitics/comments/1qlmpu7/iran_kills_protesters_then_forces_families_to_say/",
-    "source_name": "Reddit r/Geopolitics",
-    "ai_analysis": {
-      "category": "Civil Unrest/Conflict",
-      "risk_score": 8,
-      "location": "Iran",
-      "latitude": 32.0,
-      "longitude": 53.0,
-      "detailed_analysis": "Iranian authorities are reportedly killing protesters and forcing their families to falsely claim the victims were pro-regime, indicating a high level of unrest and potential for further violence.",
-      "immediate_forecast_24h": "Increased protests and potential for more violent crackdowns by authorities, potentially disrupting transport and logistics in the region.",
-      "strategic_outlook": "Long-term instability in Iran could lead to increased risk of conflict, affecting regional transport and logistics, particularly for aviation and cargo operations.",
-      "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics operations in Iran and surrounding regions due to civil unrest and conflict.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "a1d972f0f3ccff038800f1e6e224712b",
-    "timestamp": "2026-01-24T13:35:53.459018",
-    "original_title": "Pakistan arrests rights lawyer, husband, family says",
-    "link": "https://www.reddit.com/r/worldnews/comments/1qln1q0/pakistan_arrests_rights_lawyer_husband_family_says/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Cyber/Terrorism/Crime",
-      "risk_score": 6,
-      "location": "Pakistan",
-      "latitude": 30.3753,
-      "longitude": 69.3451,
-      "detailed_analysis": "The arrest of a rights lawyer and their husband in Pakistan over alleged cyber terrorism poses a significant threat to the stability and security of the region. This could lead to increased tensions and potential unrest, affecting aviation and cargo operations.",
-      "immediate_forecast_24h": "In the next 24 hours, we can expect increased scrutiny of cyber activities and potential crackdowns on individuals and groups suspected of cyber terrorism. This may lead to disruptions in communication and logistics.",
-      "strategic_outlook": "In the long term, this event may lead to increased surveillance and regulation of cyber activities in Pakistan, potentially affecting the operations of businesses and organizations in the region. This could also lead to increased tensions between Pakistan and other countries, affecting international relations and trade.",
-      "operational_impact": "The operational impact of this event is moderate to high, as it may affect the movement of cargo and personnel, particularly in the aviation sector. Increased security measures and potential disruptions to logistics and communication may lead to delays and increased costs for businesses operating in the region.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "f32f44a0ccaaab48be6706c1149e507d",
     "timestamp": "2026-01-24T14:26:41.232388",
     "original_title": "China's top general under investigation in latest military purge - NPR",
@@ -130,6 +92,44 @@
       "strategic_outlook": "The conflict is likely to continue, with ongoing clashes between Russian and Ukrainian forces. The situation may lead to a humanitarian crisis, displacement of people, and disruption of regional trade and logistics.",
       "operational_impact": "The attacks may impact air transport, with potential disruptions to flight operations and airspace restrictions. Ground transportation may also be affected, with possible road closures and supply chain disruptions.",
       "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
+    }
+  },
+  {
+    "id": "b206a731eee16a93cc0fad3a68a90767",
+    "timestamp": "2026-01-24T14:46:27.042277",
+    "original_title": "Russia launches ‘brutal’ attack on Ukraine as peace talks continue",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qloitb/russia_launches_brutal_attack_on_ukraine_as_peace/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Kyiv, Ukraine",
+      "latitude": 50.4333,
+      "longitude": 30.5167,
+      "detailed_analysis": "Russia has launched a brutal attack on Ukraine, targeting major cities like Kyiv and Kharkiv, despite ongoing peace talks. This escalation of violence poses a significant threat to assets, cargo, aviation, and personnel in the region.",
+      "immediate_forecast_24h": "Increased violence and instability are expected in the short term, with potential for further attacks on Ukrainian cities and infrastructure. This may lead to disruptions in transport and logistics, as well as increased security measures.",
+      "strategic_outlook": "The long-term outlook for the region remains uncertain, with the potential for ongoing conflict and instability. This could lead to sustained disruptions in trade and commerce, as well as increased security concerns for assets and personnel.",
+      "operational_impact": "The attack is likely to have a significant impact on transport and logistics in the region, with potential disruptions to air travel, cargo shipments, and ground transportation. Personnel and assets in the area should exercise extreme caution and be prepared for further escalation of violence.",
+      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
+    }
+  },
+  {
+    "id": "940fa8f72d71cb006fff6db25b6601ef",
+    "timestamp": "2026-01-24T14:46:29.774341",
+    "original_title": "Turkish pro-Kurd DEM party warns of 'humanitarian tragedy' in siege on Syria's Kobane",
+    "link": "https://www.france24.com/en/middle-east/20260124-turkish-pro-kurd-dem-party-warns-of-humanitarian-tragedy-in-siege-on-syria-s-kobane",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 7,
+      "location": "Kobane, Syria",
+      "latitude": 36.8922,
+      "longitude": 38.3533,
+      "detailed_analysis": "The situation in Kobane poses a significant threat to the local population and could lead to a humanitarian crisis. The withdrawal of Kurdish forces and the blockade by the Syrian military increases the risk of conflict and instability in the region.",
+      "immediate_forecast_24h": "The situation is likely to escalate in the next 24 hours, with potential for increased violence and humanitarian needs. The blockade may lead to shortages of food, water, and medical supplies, exacerbating the crisis.",
+      "strategic_outlook": "The long-term outlook for the region is uncertain, with potential for ongoing conflict and instability. The situation in Kobane may have broader implications for the region, including the potential for refugee flows and increased tensions between different ethnic and political groups.",
+      "operational_impact": "The conflict in Kobane may impact transport and logistics operations in the region, including potential disruptions to supply chains and increased risk of violence or kidnapping for personnel. Aviation operations may also be affected, with potential for airspace restrictions or other safety concerns.",
+      "proximity_alert": null
     }
   }
 ]
