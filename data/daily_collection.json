@@ -1328,5 +1328,43 @@
       "operational_impact": "The emergency landing may cause disruptions to flight schedules, and passengers may experience delays or cancellations, which could impact the overall efficiency of air transport logistics.",
       "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (1 km)"
     }
+  },
+  {
+    "id": "9329d3694dfb24db9d2028a9f2d1e6cc",
+    "timestamp": "2026-01-24T18:38:57.300876",
+    "original_title": "Minneapolis ICE shooting live updates: Man killed in shooting involving federal agents - ABC News",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT3FvS3ptNzZmVHZ0bW5SN3NaWVJhUTNMRHpDM0RwakcxZU91azZ1WmlSNjJRcmktMHdLS0QwSjNoTTItTE93VzB1cUViUmtQaUxKQVRBNGlMS2tKczdHVlR1VjJZWVRsSGV3c0x3THVJaEJLTmUzcHlEakF6dVhKM21PbTRkYWc1MTdpVHl6TXR5N0dJejc2R2l3ZzNoQW95eFVjdi1CWGZaNTVNeDhscTVwcDdLOEwx0gG-AUFVX3lxTE9nRTRjaFlOUHJCSXlvLXYzQ1V5SDA2bXJzWkxNY2xUYVkxVm9xdjgwNHBMWFhONXczVlcxNkFuaFAxcDlkRDJfbV9aUHFoYUlQeEFxUnZLSnh1V0ZTQ1pnd3VmQzJBanhIeFAyUk1RQTBMbXVlWGUtZWpFMTk3ZVJIREVkM3VXdERJbkk4RW9YcDJqdGNRNHgxcDhhVEdSQ19zRmliM2pveFphRU85UkFhOVZfVFBJYnI3ZVRiQmc?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Crime/Civil Unrest",
+      "risk_score": 6,
+      "location": "Minneapolis, USA",
+      "latitude": 44.9778,
+      "longitude": -93.265,
+      "detailed_analysis": "A shooting incident involving federal agents in Minneapolis has resulted in one fatality. The situation is being monitored for potential escalation or impact on local security and transport operations.",
+      "immediate_forecast_24h": "Increased security presence and potential disruptions to local traffic and operations. No immediate indication of a broader threat to aviation, cargo, or personnel.",
+      "strategic_outlook": "The incident may lead to increased tensions and protests in the area, potentially affecting transport and logistics operations in the long term.",
+      "operational_impact": "Potential for localized disruptions to transport and logistics operations due to increased security measures or civil unrest. No direct impact on aviation or cargo operations reported at this time.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "43a04339b7be3178be3a16c8eee3815c",
+    "timestamp": "2026-01-24T18:39:05.306792",
+    "original_title": "Russian strikes kill one, leave millions without power",
+    "link": "https://www.france24.com/en/russian-strikes-kill-one-leave-millions-without-power",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Kyiv, Ukraine",
+      "latitude": 50.4501,
+      "longitude": 30.5236,
+      "detailed_analysis": "Russian strikes on Ukraine's energy infrastructure have resulted in significant disruptions to power and heating services, affecting over 1.2 million properties and nearly 6,000 buildings in the capital. This has severe implications for the safety and well-being of personnel and the general population.",
+      "immediate_forecast_24h": "Further attacks on critical infrastructure are possible, exacerbating the humanitarian crisis and potentially leading to increased instability in the region.",
+      "strategic_outlook": "The ongoing conflict is likely to continue straining Ukraine's resources and infrastructure, posing long-term risks to the country's economic and social stability.",
+      "operational_impact": "The disruptions to power and heating services may impact the operations of airports, seaports, and other critical transportation infrastructure, potentially affecting the movement of cargo, aviation, and personnel.",
+      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
+    }
   }
 ]
