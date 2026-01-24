@@ -55,5 +55,43 @@
       "operational_impact": "Potential disruption to flight schedules, and additional costs associated with emergency diversions and inspections",
       "proximity_alert": "YAKIN TEHDİT: Geneva Airport (4 km)"
     }
+  },
+  {
+    "id": "2fadb123c412a22b985f6bf2865898c1",
+    "timestamp": "2026-01-24T13:35:50.891330",
+    "original_title": "Iran kills protesters then forces families to say they were pro-regime",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1qlmpu7/iran_kills_protesters_then_forces_families_to_say/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 8,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Iranian authorities are reportedly killing protesters and forcing their families to falsely claim the victims were pro-regime, indicating a high level of unrest and potential for further violence.",
+      "immediate_forecast_24h": "Increased protests and potential for more violent crackdowns by authorities, potentially disrupting transport and logistics in the region.",
+      "strategic_outlook": "Long-term instability in Iran could lead to increased risk of conflict, affecting regional transport and logistics, particularly for aviation and cargo operations.",
+      "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics operations in Iran and surrounding regions due to civil unrest and conflict.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "a1d972f0f3ccff038800f1e6e224712b",
+    "timestamp": "2026-01-24T13:35:53.459018",
+    "original_title": "Pakistan arrests rights lawyer, husband, family says",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qln1q0/pakistan_arrests_rights_lawyer_husband_family_says/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Cyber/Terrorism/Crime",
+      "risk_score": 6,
+      "location": "Pakistan",
+      "latitude": 30.3753,
+      "longitude": 69.3451,
+      "detailed_analysis": "The arrest of a rights lawyer and their husband in Pakistan over alleged cyber terrorism poses a significant threat to the stability and security of the region. This could lead to increased tensions and potential unrest, affecting aviation and cargo operations.",
+      "immediate_forecast_24h": "In the next 24 hours, we can expect increased scrutiny of cyber activities and potential crackdowns on individuals and groups suspected of cyber terrorism. This may lead to disruptions in communication and logistics.",
+      "strategic_outlook": "In the long term, this event may lead to increased surveillance and regulation of cyber activities in Pakistan, potentially affecting the operations of businesses and organizations in the region. This could also lead to increased tensions between Pakistan and other countries, affecting international relations and trade.",
+      "operational_impact": "The operational impact of this event is moderate to high, as it may affect the movement of cargo and personnel, particularly in the aviation sector. Increased security measures and potential disruptions to logistics and communication may lead to delays and increased costs for businesses operating in the region.",
+      "proximity_alert": null
+    }
   }
 ]
