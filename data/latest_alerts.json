@@ -1,24 +1,5 @@
 [
   {
-    "id": "3f46dd8659ad0916bbf3f3892752c435",
-    "timestamp": "2026-01-24T17:44:12.508836",
-    "original_title": "Lufthansa flight forced to make emergency landing due to 'gear issue' - The Mirror",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNal84V1dJTFZLbUJEaUduYnQ3ZmdIZnVlQlUtVFFlRkJpbmk3dDNHcVBPLUtVbWxvTGJXcENNcF9UWFNCd3dwNnhuR0VoUVlpVk1EZzNzenZXQVFfRDFIRUlwRGlHT3JkZkxiS3ViRHZpOGluUWxGNEhCcDJyRjhicnlFZk8zSnk1Z1JFbDdXTW9GZ9IBlwFBVV95cUxNSmM1Zlh2NVVCRmljc0dEQUJFaFg0UGNOS3NTMjZlS2RMdklPczFzRU5lcS1ldzFlY1RHQVJVWWlPRXVOaWdsZWJxanJOdmtOYzZJT25pSlE3ZTdQNGNrX0czTUFhTTEzdFFqUTUxYWpWNkFZMi1jdl9OZHZ2VFl4Q0ZMbi1hSVJuaTFnRnlPbFdEdFpOZExR?oc=5",
-    "source_name": "Live Flight Emergencies (Squawk)",
-    "ai_analysis": {
-      "category": "Aviation",
-      "risk_score": 10,
-      "location": "Unknown, Europe",
-      "latitude": 48.8567,
-      "longitude": 2.2945,
-      "detailed_analysis": "A Lufthansa flight was forced to make an emergency landing due to a gear issue, which poses a significant risk to aviation safety and may impact flight operations.",
-      "immediate_forecast_24h": "The incident may cause delays or cancellations of Lufthansa flights, and an investigation into the cause of the gear issue is likely to be launched.",
-      "strategic_outlook": "The incident highlights the importance of regular maintenance and safety checks for aircraft to prevent such issues, and airlines may need to review their maintenance procedures to minimize the risk of similar incidents.",
-      "operational_impact": "The emergency landing may cause disruptions to flight schedules, and passengers may experience delays or cancellations, which could impact the overall efficiency of air transport logistics.",
-      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (1 km)"
-    }
-  },
-  {
     "id": "9329d3694dfb24db9d2028a9f2d1e6cc",
     "timestamp": "2026-01-24T18:38:57.300876",
     "original_title": "Minneapolis ICE shooting live updates: Man killed in shooting involving federal agents - ABC News",
@@ -73,6 +54,44 @@
       "strategic_outlook": "The ongoing conflict is likely to continue straining Ukraine's resources and infrastructure, posing long-term risks to the country's economic and social stability.",
       "operational_impact": "The disruptions to power and heating services may impact the operations of airports, seaports, and other critical transportation infrastructure, potentially affecting the movement of cargo, aviation, and personnel.",
       "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
+    }
+  },
+  {
+    "id": "d01e015e35faf759db2f62f2c653b131",
+    "timestamp": "2026-01-24T19:22:12.025468",
+    "original_title": "Urgent BULLETIN: France Joins Switzerland, Germany in Aviation Alert After Lufthansa CityLine Flight LH2249 Triggers Squawk 7700 and Makes Emergency Landing in Geneva After Lyon Takeoff - Travel And Tour World",
+    "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNVmJ5c2QtbmtFck1LNlFNUDFaVjBMZ0VaeDItWEM5MG5XeG44M1NHTGk1LWI3Nlc2NnlrbC1tRTNoMzJkVUJocDhqeUVHaGx5UHlXMVUyaFpYekg3UURLXzd2ZDJTSkdxanBRLUJ4ZzNWSjU2RXgyN1JRR3hLeUlISmF2eTJadEQ5Qk0ySExodTd3Z19OYXRrbDAwR3M5VS1TTFF0WUpfbTY5N0xHaVhUeE5TQjlSQ1JFbVJoX1A5SHlvNXFhTkVLbHZwbUc5NG1mTTNEYXllcGVFU2pnZlplUFM5NVdDX1c1ZnJRb1BRaUlKWFdCc1FRMXJBdlpwTVVFbWFmY2hRTzNMUmRYUFlHVkZTTnBQOVBjZURHYy0zZ0tNZ19nR1U1bVVzTnNlR19pSGJ0Q0MyVEVGYmNDNEh1Nm94eXJfY2FxMk1qRFNFejRqdw?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Geneva, Switzerland",
+      "latitude": 46.2044,
+      "longitude": 6.1432,
+      "detailed_analysis": "Lufthansa CityLine Flight LH2249 triggered Squawk 7700 and made an emergency landing in Geneva after taking off from Lyon, prompting France to join Switzerland and Germany in issuing an aviation alert. The cause of the emergency landing is currently unknown.",
+      "immediate_forecast_24h": "Increased security measures are expected at airports in the region, potentially leading to flight delays or cancellations. Passengers and crew may face enhanced screening and questioning.",
+      "strategic_outlook": "The incident may lead to a review of aviation security protocols and procedures in Europe, potentially resulting in changes to emergency response plans and collaboration between countries.",
+      "operational_impact": "The emergency landing and subsequent alert may cause disruptions to air travel in the region, affecting cargo and passenger flights. Airlines and airports may need to adjust their operations to accommodate increased security measures.",
+      "proximity_alert": "YAKIN TEHDİT: Geneva Airport (4 km)"
+    }
+  },
+  {
+    "id": "a1fb3176efa0683460326eb6a42c7dc9",
+    "timestamp": "2026-01-24T19:22:15.764560",
+    "original_title": "Man shot dead by US immigration agents in Minneapolis as police chief warn of 'volatile' scene",
+    "link": "https://www.france24.com/en/americas/20260124-us-federal-agents-carry-out-another-horrific-shooting-minneapolis-governor",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest/Border/Conflict",
+      "risk_score": 6,
+      "location": "Minneapolis, USA",
+      "latitude": 44.9778,
+      "longitude": -93.265,
+      "detailed_analysis": "A man was shot dead by US immigration agents in Minneapolis, sparking protests and a volatile scene. The incident may lead to further unrest and potential disruptions to transport and logistics in the area.",
+      "immediate_forecast_24h": "Protests and demonstrations are likely to continue in the area, potentially causing disruptions to traffic and logistics. There is a risk of further clashes between protesters and law enforcement.",
+      "strategic_outlook": "The incident may exacerbate existing tensions between law enforcement and immigrant communities, potentially leading to further civil unrest and disruptions to transport and logistics in the long term.",
+      "operational_impact": "The incident may cause disruptions to transport and logistics in the Minneapolis area, particularly if protests and demonstrations continue. There may be increased security measures in place, potentially causing delays and congestion.",
+      "proximity_alert": null
     }
   }
 ]
