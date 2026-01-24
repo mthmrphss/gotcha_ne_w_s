@@ -1,43 +1,5 @@
 [
   {
-    "id": "d01e015e35faf759db2f62f2c653b131",
-    "timestamp": "2026-01-24T19:22:12.025468",
-    "original_title": "Urgent BULLETIN: France Joins Switzerland, Germany in Aviation Alert After Lufthansa CityLine Flight LH2249 Triggers Squawk 7700 and Makes Emergency Landing in Geneva After Lyon Takeoff - Travel And Tour World",
-    "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNVmJ5c2QtbmtFck1LNlFNUDFaVjBMZ0VaeDItWEM5MG5XeG44M1NHTGk1LWI3Nlc2NnlrbC1tRTNoMzJkVUJocDhqeUVHaGx5UHlXMVUyaFpYekg3UURLXzd2ZDJTSkdxanBRLUJ4ZzNWSjU2RXgyN1JRR3hLeUlISmF2eTJadEQ5Qk0ySExodTd3Z19OYXRrbDAwR3M5VS1TTFF0WUpfbTY5N0xHaVhUeE5TQjlSQ1JFbVJoX1A5SHlvNXFhTkVLbHZwbUc5NG1mTTNEYXllcGVFU2pnZlplUFM5NVdDX1c1ZnJRb1BRaUlKWFdCc1FRMXJBdlpwTVVFbWFmY2hRTzNMUmRYUFlHVkZTTnBQOVBjZURHYy0zZ0tNZ19nR1U1bVVzTnNlR19pSGJ0Q0MyVEVGYmNDNEh1Nm94eXJfY2FxMk1qRFNFejRqdw?oc=5",
-    "source_name": "Live Flight Emergencies (Squawk)",
-    "ai_analysis": {
-      "category": "Aviation",
-      "risk_score": 10,
-      "location": "Geneva, Switzerland",
-      "latitude": 46.2044,
-      "longitude": 6.1432,
-      "detailed_analysis": "Lufthansa CityLine Flight LH2249 triggered Squawk 7700 and made an emergency landing in Geneva after taking off from Lyon, prompting France to join Switzerland and Germany in issuing an aviation alert. The cause of the emergency landing is currently unknown.",
-      "immediate_forecast_24h": "Increased security measures are expected at airports in the region, potentially leading to flight delays or cancellations. Passengers and crew may face enhanced screening and questioning.",
-      "strategic_outlook": "The incident may lead to a review of aviation security protocols and procedures in Europe, potentially resulting in changes to emergency response plans and collaboration between countries.",
-      "operational_impact": "The emergency landing and subsequent alert may cause disruptions to air travel in the region, affecting cargo and passenger flights. Airlines and airports may need to adjust their operations to accommodate increased security measures.",
-      "proximity_alert": "YAKIN TEHDİT: Geneva Airport (4 km)"
-    }
-  },
-  {
-    "id": "a1fb3176efa0683460326eb6a42c7dc9",
-    "timestamp": "2026-01-24T19:22:15.764560",
-    "original_title": "Man shot dead by US immigration agents in Minneapolis as police chief warn of 'volatile' scene",
-    "link": "https://www.france24.com/en/americas/20260124-us-federal-agents-carry-out-another-horrific-shooting-minneapolis-governor",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Civil Unrest/Border/Conflict",
-      "risk_score": 6,
-      "location": "Minneapolis, USA",
-      "latitude": 44.9778,
-      "longitude": -93.265,
-      "detailed_analysis": "A man was shot dead by US immigration agents in Minneapolis, sparking protests and a volatile scene. The incident may lead to further unrest and potential disruptions to transport and logistics in the area.",
-      "immediate_forecast_24h": "Protests and demonstrations are likely to continue in the area, potentially causing disruptions to traffic and logistics. There is a risk of further clashes between protesters and law enforcement.",
-      "strategic_outlook": "The incident may exacerbate existing tensions between law enforcement and immigrant communities, potentially leading to further civil unrest and disruptions to transport and logistics in the long term.",
-      "operational_impact": "The incident may cause disruptions to transport and logistics in the Minneapolis area, particularly if protests and demonstrations continue. There may be increased security measures in place, potentially causing delays and congestion.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "604985eadfb4f29d6aceac7f1c49c085",
     "timestamp": "2026-01-24T19:40:47.966465",
     "original_title": "Man shot dead by US federal agents in Minneapolis amid immigration crackdown",
@@ -111,6 +73,44 @@
       "strategic_outlook": "The Trump administration's immigration crackdown is likely to continue, potentially leading to more incidents and unrest in the long term, affecting border security and logistics operations.",
       "operational_impact": "The incident may impact local transportation and logistics operations, particularly those related to border crossings and immigration-related activities, due to potential protests, demonstrations, and law enforcement activities.",
       "proximity_alert": null
+    }
+  },
+  {
+    "id": "1756b8b3b5d4ca3abb2bfc06ee52b62f",
+    "timestamp": "2026-01-24T20:46:51.093469",
+    "original_title": "Iran rejects UN rights resolution condemning protest killings",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qly6pu/iran_rejects_un_rights_resolution_condemning/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Iran's rejection of the UN rights resolution condemning protest killings may escalate tensions and lead to increased unrest, potentially affecting aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Protests may continue or intensify, with a possibility of clashes between protesters and security forces, potentially disrupting air travel and logistics.",
+      "strategic_outlook": "The situation may lead to long-term instability in the region, affecting trade and economic activities, including aviation and cargo transport.",
+      "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics operations in Iran and surrounding regions, with possible delays or cancellations of flights and shipments.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "3db90c7c0070b26c7dc98fc0939bdb5c",
+    "timestamp": "2026-01-24T20:46:54.288401",
+    "original_title": "KLM Struggling To Rebook Passengers After It Cancels All Flights To Four Destinations Without Warning",
+    "link": "https://www.paddleyourownkanoo.com/2026/01/24/klm-struggling-to-rebook-passengers-after-it-cancels-all-flights-to-four-destinations-without-warning/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Amsterdam, Netherlands",
+      "latitude": 52.3105,
+      "longitude": 4.7683,
+      "detailed_analysis": "KLM has canceled all flights to four destinations in the Middle East without warning, leaving thousands of passengers stranded. The reason for the cancellation is not explicitly stated, but it may be related to security concerns or airspace restrictions.",
+      "immediate_forecast_24h": "Passengers will face significant disruptions and delays as KLM struggles to rebook them. The situation may lead to further cancellations or changes in flight schedules.",
+      "strategic_outlook": "The incident may have long-term implications for KLM's operations and reputation. The airline may need to reassess its risk management strategies and communication protocols to mitigate the impact of similar events in the future.",
+      "operational_impact": "The cancellation of flights will have a significant impact on passenger travel plans, cargo transport, and the overall operations of KLM. The airline's ability to rebook passengers and manage the situation effectively will be crucial in minimizing the operational impact.",
+      "proximity_alert": "YAKIN TEHDİT: Amsterdam Airport Schiphol (10 km)"
     }
   }
 ]
