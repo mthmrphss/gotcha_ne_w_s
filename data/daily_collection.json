@@ -872,5 +872,43 @@
       "operational_impact": "The increased military presence and potential for conflict may lead to airspace restrictions, cargo delays, and increased security measures for aviation and maritime transport in the region. This could result in significant operational disruptions and economic losses for companies operating in the area.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "cb8664fefdd8f0b1cc01bb002ddf4e3a",
+    "timestamp": "2026-01-24T11:42:11.249061",
+    "original_title": "Iran’s Leadership Stumbles After War and Unrest",
+    "link": "https://www.nytimes.com/2026/01/24/world/middleeast/iran-protests-ayatollah-revolutionary-guards.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Iran's leadership is facing growing tensions and unrest, which may lead to increased instability and potential threats to assets, cargo, aviation, and personnel in the region.",
+      "immediate_forecast_24h": "Escalating protests and crackdowns may disrupt transportation and logistics, with potential for violence and unrest to spread to other areas.",
+      "strategic_outlook": "Long-term instability in Iran could have significant implications for regional security and global trade, potentially affecting aviation and cargo operations.",
+      "operational_impact": "Transportation and logistics operations in Iran may be disrupted, with potential for delays, cancellations, or increased security measures, affecting assets, cargo, and personnel.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "ca7648ffe6b37323798c0f86d8306b50",
+    "timestamp": "2026-01-24T11:42:15.498530",
+    "original_title": "Sudan's women face 'world's worst' sexual violence amid brutal conflict, minister says",
+    "link": "https://www.france24.com/en/africa/20260124-women-facing-world-worst-sexual-violence-sudan-conflict",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Khartoum, Sudan",
+      "latitude": 15.6333,
+      "longitude": 32.5333,
+      "detailed_analysis": "The ongoing conflict in Sudan has led to a significant increase in sexual violence against women, with reports of rape often perpetrated in the presence of family members. This indicates a high level of brutality and lawlessness, posing a significant threat to personnel and potentially affecting cargo and aviation operations in the region.",
+      "immediate_forecast_24h": "The situation is likely to remain volatile, with continued reports of violence and human rights abuses. There is a high risk of escalation, which could impact transport and logistics operations in the region.",
+      "strategic_outlook": "The long-term outlook for Sudan is uncertain, with the potential for prolonged conflict and instability. This could lead to a sustained increase in crime and violence, posing a significant threat to assets, cargo, aviation, and personnel in the region.",
+      "operational_impact": "The conflict in Sudan is likely to impact transport and logistics operations, particularly in the areas of cargo and aviation. There is a high risk of disruption to supply chains, and personnel may be at risk of violence or kidnapping. Companies operating in the region should exercise extreme caution and consider alternative routes or modes of transport.",
+      "proximity_alert": "YAKIN TEHDİT: Khartoum International Airport (5 km)"
+    }
   }
 ]

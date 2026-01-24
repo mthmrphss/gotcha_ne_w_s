@@ -1,24 +1,5 @@
 [
   {
-    "id": "6514716e02ed6a061422ef175ed351ff",
-    "timestamp": "2026-01-24T10:28:46.274159",
-    "original_title": "‘It’s Carnage’: American Airlines Slashes 800 Flights From Its Schedule As Winter Storm Hits",
-    "link": "https://www.paddleyourownkanoo.com/2026/01/24/its-carnage-american-airlines-slashes-800-flights-from-its-schedule-as-winter-storm-hits/",
-    "source_name": "Paddle Your Own Kanoo",
-    "ai_analysis": {
-      "category": "Aviation",
-      "risk_score": 6,
-      "location": "United States",
-      "latitude": 37.0902,
-      "longitude": -95.7129,
-      "detailed_analysis": "American Airlines has cancelled over 800 flights due to Winter Storm Fern, which is expected to cause major disruptions across 40 states. The cancellations are a proactive measure to ensure safety, but may cause inconvenience to passengers and impact cargo transport.",
-      "immediate_forecast_24h": "The winter storm is expected to continue causing disruptions to air travel over the next 24 hours, with possible further cancellations and delays.",
-      "strategic_outlook": "The impact of the winter storm on air travel is likely to be short-term, but may have longer-term effects on the aviation industry if the storm causes significant damage to infrastructure or disrupts supply chains.",
-      "operational_impact": "The cancellations may cause delays and disruptions to cargo transport, and may also impact personnel and passenger travel plans.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "ce2de513fd3e703120596f3c13d72bfc",
     "timestamp": "2026-01-24T10:48:20.965438",
     "original_title": "Russian air attack on Ukraine knocks out power for millions - Reuters",
@@ -130,6 +111,44 @@
       "strategic_outlook": "The long-term implications of this conflict could lead to a prolonged period of instability in the region, affecting global oil prices, trade routes, and the overall security landscape. The conflict may also draw in other regional actors, further complicating the situation.",
       "operational_impact": "The increased military presence and potential for conflict may lead to airspace restrictions, cargo delays, and increased security measures for aviation and maritime transport in the region. This could result in significant operational disruptions and economic losses for companies operating in the area.",
       "proximity_alert": null
+    }
+  },
+  {
+    "id": "cb8664fefdd8f0b1cc01bb002ddf4e3a",
+    "timestamp": "2026-01-24T11:42:11.249061",
+    "original_title": "Iran’s Leadership Stumbles After War and Unrest",
+    "link": "https://www.nytimes.com/2026/01/24/world/middleeast/iran-protests-ayatollah-revolutionary-guards.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Iran's leadership is facing growing tensions and unrest, which may lead to increased instability and potential threats to assets, cargo, aviation, and personnel in the region.",
+      "immediate_forecast_24h": "Escalating protests and crackdowns may disrupt transportation and logistics, with potential for violence and unrest to spread to other areas.",
+      "strategic_outlook": "Long-term instability in Iran could have significant implications for regional security and global trade, potentially affecting aviation and cargo operations.",
+      "operational_impact": "Transportation and logistics operations in Iran may be disrupted, with potential for delays, cancellations, or increased security measures, affecting assets, cargo, and personnel.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "ca7648ffe6b37323798c0f86d8306b50",
+    "timestamp": "2026-01-24T11:42:15.498530",
+    "original_title": "Sudan's women face 'world's worst' sexual violence amid brutal conflict, minister says",
+    "link": "https://www.france24.com/en/africa/20260124-women-facing-world-worst-sexual-violence-sudan-conflict",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Khartoum, Sudan",
+      "latitude": 15.6333,
+      "longitude": 32.5333,
+      "detailed_analysis": "The ongoing conflict in Sudan has led to a significant increase in sexual violence against women, with reports of rape often perpetrated in the presence of family members. This indicates a high level of brutality and lawlessness, posing a significant threat to personnel and potentially affecting cargo and aviation operations in the region.",
+      "immediate_forecast_24h": "The situation is likely to remain volatile, with continued reports of violence and human rights abuses. There is a high risk of escalation, which could impact transport and logistics operations in the region.",
+      "strategic_outlook": "The long-term outlook for Sudan is uncertain, with the potential for prolonged conflict and instability. This could lead to a sustained increase in crime and violence, posing a significant threat to assets, cargo, aviation, and personnel in the region.",
+      "operational_impact": "The conflict in Sudan is likely to impact transport and logistics operations, particularly in the areas of cargo and aviation. There is a high risk of disruption to supply chains, and personnel may be at risk of violence or kidnapping. Companies operating in the region should exercise extreme caution and consider alternative routes or modes of transport.",
+      "proximity_alert": "YAKIN TEHDİT: Khartoum International Airport (5 km)"
     }
   }
 ]
