@@ -473,5 +473,24 @@
       "operational_impact": "Potential disruption to flights and passenger trust in the airline. The incident may also lead to increased costs for the airline due to maintenance and regulatory compliance.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "7f8fee988aea365ba130f6266cd204ea",
+    "timestamp": "2026-01-25T13:37:43.204048",
+    "original_title": "“An electrical ceasefire is needed”: warnings as Russia targets Ukraine’s power grid",
+    "link": "https://www.france24.com/en/an-electrical-ceasefire-is-needed-warnings-as-russia-targets-ukraine-s-power-grid",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "Russia's strikes on Ukraine's power grid pose a significant threat to the country's infrastructure, leaving many communities without heat and electricity. This could have a ripple effect on the overall stability of the region, potentially impacting transport and logistics.",
+      "immediate_forecast_24h": "Further strikes on critical infrastructure are possible, exacerbating the humanitarian crisis and disrupting supply chains.",
+      "strategic_outlook": "The ongoing conflict could lead to a prolonged period of instability, affecting Ukraine's economy and the broader region's security landscape.",
+      "operational_impact": "Potential disruptions to air transport, cargo operations, and personnel movements due to the conflict and resulting power outages.",
+      "proximity_alert": null
+    }
   }
 ]
