@@ -1,24 +1,5 @@
 [
   {
-    "id": "163f40a2c3b4f981c45cb71bc91f34a8",
-    "timestamp": "2026-01-25T19:22:50.702082",
-    "original_title": "Border Patrol kills Alex Pretti in Minneapolis; judge grants restraining order against DHS - CBS News",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZmlaYzhuSWN1eDM5bERZYkxnSG5nREIxaDlqLTk0LTlpYVc2QnNqZ2d3WHVDOExjRnlkYUI4S3FYdkIyNFpBeUJaUmVxZ25fSVAxdVlpYWRlZVVkUDhfQ0RaMTZrbkgyZmEwRzJlVC1aM0NKVXZwMHlCWkpNR0JvT0hJbzVSem0wX2dqU1FBamdLNXZzcGFtcmhhSmFmRmE0cVZpbmY0S1NOdU9Yc3c?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Border/Crime/Civil Unrest",
-      "risk_score": 6,
-      "location": "Minneapolis, USA",
-      "latitude": 44.9778,
-      "longitude": -93.265,
-      "detailed_analysis": "The incident involves a fatal shooting by Border Patrol, which may lead to increased tensions and potential civil unrest. A judge has granted a restraining order against the Department of Homeland Security, indicating a heightened level of scrutiny and potential operational disruptions.",
-      "immediate_forecast_24h": "Increased protests and demonstrations are possible in the Minneapolis area, potentially affecting local transportation and logistics. Border Patrol operations may be subject to additional scrutiny and oversight.",
-      "strategic_outlook": "The long-term implications of this incident may include changes to Border Patrol protocols and procedures, as well as potential shifts in the way law enforcement agencies interact with the public. This could have strategic implications for the security and logistics industries.",
-      "operational_impact": "Transportation and logistics operations in the Minneapolis area may be affected by potential protests and demonstrations. Additionally, changes to Border Patrol operations could impact the movement of goods and people across the border.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "047381c93cd3f1130193ecac18ae79a6",
     "timestamp": "2026-01-25T20:31:56.133116",
     "original_title": "Thousands protest in Paris over death of immigrant worker in police custody",
@@ -35,6 +16,25 @@
       "strategic_outlook": "The situation may lead to increased tensions and unrest in the long term, potentially affecting the overall security environment in France.",
       "operational_impact": "Transportation and logistics operations in the Paris area may be impacted by the protests, with potential delays or disruptions to cargo and personnel movements.",
       "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (2 km)"
+    }
+  },
+  {
+    "id": "47297692129b2a77ff99d6b8a317a98a",
+    "timestamp": "2026-01-25T21:26:01.682235",
+    "original_title": "‘Pools of blood, hundreds of gunshots’: I am a surgeon in Iran - this is the horror I’ve witnessed in the crackdown",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qmvp9s/pools_of_blood_hundreds_of_gunshots_i_am_a/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 8,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Reports of a violent crackdown on protests in Iran, with a surgeon describing 'pools of blood' and 'hundreds of gunshots', indicating a high level of violence and instability in the region, posing a significant threat to personnel and potentially disrupting cargo and aviation operations.",
+      "immediate_forecast_24h": "The situation is likely to remain volatile, with continued protests and potential for further violence, affecting transport and logistics in the region.",
+      "strategic_outlook": "The long-term outlook is uncertain, but the current unrest could lead to prolonged instability, impacting trade and economic activities in the region, and potentially affecting global supply chains.",
+      "operational_impact": "The unrest may disrupt air travel, cargo transport, and logistics operations in Iran, with potential ripple effects on regional and global supply chains, requiring close monitoring and contingency planning.",
+      "proximity_alert": null
     }
   }
 ]
