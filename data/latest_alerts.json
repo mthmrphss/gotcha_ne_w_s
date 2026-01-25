@@ -1,40 +1,21 @@
 [
   {
-    "id": "783dbdd6e26fa9d3238d3b06bac2b6ad",
-    "timestamp": "2026-01-24T23:26:10.086548",
-    "original_title": "Extreme cold across Canada heaps pressure on utility companies, airlines",
-    "link": "https://www.reddit.com/r/worldnews/comments/1qm28rx/extreme_cold_across_canada_heaps_pressure_on/",
-    "source_name": "Reddit r/WorldNews",
+    "id": "361a00619ac9ed731edeb32e3b0c2d4b",
+    "timestamp": "2026-01-25T02:31:05.996288",
+    "original_title": "Passenger Jet Makes Emergency Return to Heathrow After Technical Fault - washingtonnewsday.com",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSWlLTy1UMTV2dk5wUUhTRlROTmNTNVRHMUZMRFVFZ0c2RU16cm80R2F6ZWhNYkN3UUJQdHZaYmxmMlVWY3hZZm5tQUkybjlqNzh0UTVxUkJvendpS21wQm5HQ3B0UmpTWENVbml3N3FwUWpIbXlLeko4eThaWGs1VW1aZDRtdGE0UG5tRjVKOGhEQ2NEdGVlSGZ5X2NGTjMtcjgyMWNlTkRqZw?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
     "ai_analysis": {
-      "category": "Aviation/Other",
-      "risk_score": 4,
-      "location": "Canada",
-      "latitude": 56.1304,
-      "longitude": -106.3468,
-      "detailed_analysis": "Extreme cold weather across Canada is causing disruptions to utility companies and airlines, potentially leading to flight delays and cancellations.",
-      "immediate_forecast_24h": "Continued cold weather is expected to persist, potentially exacerbating existing disruptions to air travel and logistics.",
-      "strategic_outlook": "The long-term impact of this event is likely to be minimal, but it highlights the need for airlines and logistics companies to have contingency plans in place for extreme weather events.",
-      "operational_impact": "Flight delays and cancellations may impact the movement of cargo and personnel, potentially leading to supply chain disruptions and other operational challenges.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "e40cfb564c2d54fbadd7899304f83e5f",
-    "timestamp": "2026-01-24T23:43:51.358904",
-    "original_title": "Poland’s energy grid was targeted by never-before-seen wiper malware. Rsearchers said the wiper was likely the work of a Russian government hacker group tracked under the name Sandworm.",
-    "link": "https://www.reddit.com/r/worldnews/comments/1qm2tol/polands_energy_grid_was_targeted_by/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Cyber",
-      "risk_score": 8,
-      "location": "Poland",
-      "latitude": 52.0,
-      "longitude": 19.0,
-      "detailed_analysis": "Poland's energy grid was targeted by a never-before-seen wiper malware, likely attributed to the Russian government hacker group Sandworm. The attack's primary goal was to disrupt the energy grid, but it failed to knock out electricity.",
-      "immediate_forecast_24h": "In the next 24 hours, there is a high likelihood of further cyber attacks on critical infrastructure in Poland and potentially other European countries. The attackers may attempt to exploit vulnerabilities in the energy grid or other sectors.",
-      "strategic_outlook": "In the long term, this incident highlights the increasing threat of state-sponsored cyber attacks on critical infrastructure. It is essential for countries to enhance their cyber security measures and develop strategies to mitigate and respond to such attacks.",
-      "operational_impact": "The attack on Poland's energy grid may have a significant operational impact on the logistics and transportation sectors, particularly if the attackers succeed in disrupting the energy supply. This could lead to delays, cancellations, and increased costs for businesses and individuals relying on these services.",
-      "proximity_alert": null
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Heathrow, UK",
+      "latitude": 51.47,
+      "longitude": -0.4614,
+      "detailed_analysis": "A passenger jet made an emergency return to Heathrow due to a technical fault, posing a potential risk to the safety of passengers and crew on board.",
+      "immediate_forecast_24h": "The incident may cause delays or disruptions to flights operating from Heathrow, and an investigation into the technical fault is likely to be launched.",
+      "strategic_outlook": "The incident highlights the importance of regular maintenance and safety checks for aircraft to prevent such technical faults, and airlines may need to review their maintenance procedures to minimize the risk of similar incidents.",
+      "operational_impact": "The emergency return may impact flight schedules and operations at Heathrow, potentially leading to delays or cancellations, and affecting the travel plans of passengers.",
+      "proximity_alert": "YAKIN TEHDİT: Heathrow Airport (0 km)"
     }
   }
 ]
