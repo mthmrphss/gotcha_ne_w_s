@@ -549,5 +549,43 @@
       "operational_impact": "The movement of military assets to the Middle East may lead to increased security checks, potential airspace restrictions, and disruptions to cargo and aviation operations, impacting the efficiency and safety of transport and logistics in the region.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "ee48013a13308c08aaa5b3aa583be1ff",
+    "timestamp": "2026-01-25T17:24:45.147303",
+    "original_title": "Los Angeles pursuit leads to crash on LAX property; 1 injured - CBS News",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONUFpejlhMThFY2lZS2EtcEdYWExaR0pROG9PWVBwM0NXRzlxUnVveWZEeG5OSC1EWnRZRER1VG1jVHhDWkZscXRybldrT1c2WGNfRFQzZWhIWjIzVl85Y2Vtd0Q0NEdoYnNpaWV4TWJSYmVmeWt5SmE3SkdXZGxuRGY0enphUQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation/Crime",
+      "risk_score": 10,
+      "location": "Los Angeles, USA",
+      "latitude": 33.9425,
+      "longitude": -118.4081,
+      "detailed_analysis": "A high-speed pursuit in Los Angeles led to a crash on LAX property, resulting in one injury. The incident highlights a potential security breach at a major aviation hub.",
+      "immediate_forecast_24h": "Increased security measures are expected at LAX in the next 24 hours, with potential disruptions to flights and airport operations.",
+      "strategic_outlook": "The incident may lead to a review of security protocols at LAX and other major airports, with a focus on preventing similar breaches in the future.",
+      "operational_impact": "The crash may cause delays or cancellations of flights, and impact cargo operations at LAX, with potential ripple effects on the global supply chain.",
+      "proximity_alert": "YAKIN TEHDİT: Los Angeles International Airport (1 km)"
+    }
+  },
+  {
+    "id": "6a8d91eadc288221730974268bf8e026",
+    "timestamp": "2026-01-25T17:24:51.819798",
+    "original_title": "Bangladesh - Level 3: Reconsider Travel",
+    "link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/bangladesh-travel-advisory.html",
+    "source_name": "US State Dept",
+    "ai_analysis": {
+      "category": "Terrorism/Crime/Civil Unrest",
+      "risk_score": 10,
+      "location": "Bangladesh",
+      "latitude": 23.8103,
+      "longitude": 90.4125,
+      "detailed_analysis": "The current situation in Bangladesh poses significant threats to assets, cargo, aviation, and personnel due to kidnapping, unrest, crime, and terrorism. The Chittagong Hill Tracts Region is particularly high-risk, with separatist groups and political violence creating an environment conducive to kidnappings, IED explosions, and active shootings.",
+      "immediate_forecast_24h": "In the next 24 hours, the situation is likely to remain volatile, with occasional protests and the potential for violent clashes. U.S. citizens are advised to avoid all gatherings and take necessary precautions to ensure their safety.",
+      "strategic_outlook": "In the long term, the security situation in Bangladesh is likely to remain challenging, with ongoing risks from terrorism, crime, and civil unrest. The U.S. government has limited ability to provide emergency services to U.S. citizens in Bangladesh, particularly outside of Dhaka.",
+      "operational_impact": "The current situation in Bangladesh may impact transport and logistics operations, particularly in the Chittagong Hill Tracts Region. Companies operating in the area should take necessary precautions to ensure the safety of their personnel and assets, including avoiding travel to high-risk areas and taking extra security measures.",
+      "proximity_alert": "YAKIN TEHDİT: Hazrat Shahjalal International Airport (3 km)"
+    }
   }
 ]
