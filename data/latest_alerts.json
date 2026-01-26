@@ -1,43 +1,5 @@
 [
   {
-    "id": "a209457aeea03821adc1c5403b19aeec",
-    "timestamp": "2026-01-26T05:08:45.700165",
-    "original_title": "Private jet carrying 8 passengers crashes in Bangor, Maine: FAA - ABC News",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUzlGSDNSaVoyN20yX2tkSjl4OEpXY1U5UzVrQ2EzcmhiRmtuSzhGNUlBTEZKanRLV1NNR0pvMWVQMkM2b3ZCMHVZYUIyT0lpTW5LTVZGTENlVmJ0TldXNTY4YkhieHBJM2V3Nkp1T2wyd0V3SWQwRi02Z1lZS3hPZmhyTTFkLXlheWplOWJSTnFxWW5xdWZ1Q0lFLWZoRWU50gGmAUFVX3lxTE1WWm51SlFWSk1rYzBKQVNicDB4dEYwUEtaRlM0MDJEVlgyOWZVbHdyMDhZbDVhWTlpUkZNdGdNb0JKZVpDNWJLWEptS0c3TGF3Y1k2S2pQekNOQk92OUMyUjFaVEN2eU5GdmdPQ0REclNnbXJqc245M3N0dk1IQXA2dG1wMkdITEVUeExCYkdwQzZ4cVdaZlFSMVl0b19KNzVuR2tkVlE?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Aviation",
-      "risk_score": 8,
-      "location": "Bangor, Maine",
-      "latitude": 44.8017,
-      "longitude": -68.7864,
-      "detailed_analysis": "Private jet carrying 8 passengers crashed in Bangor, Maine. The cause of the crash is unknown and under investigation by the FAA. This incident poses a significant threat to aviation safety and security.",
-      "immediate_forecast_24h": "Investigations will continue, and authorities will work to determine the cause of the crash. There may be disruptions to air traffic in the area, and emergency services will be on high alert.",
-      "strategic_outlook": "The incident highlights the importance of aviation safety and security measures. Airlines and regulatory bodies may review and enhance their safety protocols to prevent similar incidents in the future.",
-      "operational_impact": "The crash may cause delays or disruptions to flights in and out of Bangor, Maine. Air cargo and passenger operations may be affected, and airlines may need to reroute flights or adjust their schedules.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "384c6219315ced5db58ef5b15752edfb",
-    "timestamp": "2026-01-26T05:08:52.187828",
-    "original_title": "Venezuela frees more political prisoners, Rodriguez rejects US pressure",
-    "link": "https://www.france24.com/en/americas/20260126-venezuela-frees-political-prisoners-rodriguez-rejects-us-pressure",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Civil Unrest/Conflict",
-      "risk_score": 10,
-      "location": "Caracas, Venezuela",
-      "latitude": 10.488,
-      "longitude": -66.879,
-      "detailed_analysis": "The release of over 100 political prisoners in Venezuela and the rejection of US pressure by Acting President Delcy Rodriguez may lead to increased tensions and potential unrest, but does not directly impact aviation, cargo, or personnel security at this time.",
-      "immediate_forecast_24h": "Tensions may escalate between the Venezuelan government and the US, potentially leading to increased protests or demonstrations, but no immediate threats to assets, cargo, aviation, or personnel are anticipated.",
-      "strategic_outlook": "The ongoing political situation in Venezuela may lead to long-term instability, potentially affecting the security and logistics landscape, but the current situation does not pose a significant threat to assets, cargo, aviation, or personnel.",
-      "operational_impact": "No direct impact on transport or logistics operations is expected at this time, but the situation should be monitored for potential future developments that could affect the security and efficiency of operations in the region.",
-      "proximity_alert": "YAKIN TEHDİT: Maiquetía \"Simón Bolívar\" International Airport (4 km)"
-    }
-  },
-  {
     "id": "f8efefa7d58dfe710810e6fde41c610b",
     "timestamp": "2026-01-26T05:55:51.011723",
     "original_title": "Trump says US used secret weapon to disable Venezuelan equipment in Maduro raid",
@@ -53,6 +15,44 @@
       "immediate_forecast_24h": "Heightened tensions between the US and Venezuela, potential for retaliatory actions, and increased security measures in the region.",
       "strategic_outlook": "Long-term implications for regional security, potential for increased conflict, and impact on global trade and logistics routes.",
       "operational_impact": "Potential disruptions to air and sea transport in the region, increased security checks, and possible rerouting of cargo and personnel.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "23179c6f4fe37b96de03c6dbb3e5c408",
+    "timestamp": "2026-01-26T06:51:29.984447",
+    "original_title": "OT Security, In Practice: 4 Cross‑Industry Trends from Global Assessments and How CISOs Should Respond - The Hacker News",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaV9UR2dWcDY4RWdlMFRiUDFibUk4QlBPOHhLYWpoZ0JnVHZBaVdQZHFidVMzWUU2ZFM0cW1kak9Gc0UtZzFTbTFQWWtlSk1sRGtoa2xQdjF6THhjdE0yQW5fbl9YQlc5ZjJkTnh1ZzV6bnJFT3Zsc05XdXdfdEhGOFBrdGo5MzBBVTg1WGQ3TDJ6TkE3MEYzbjFn?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 6,
+      "location": "Global",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "The article discusses 4 cross-industry trends in Operational Technology (OT) security from global assessments, highlighting the need for Chief Information Security Officers (CISOs) to respond to emerging threats. The trends include increased focus on OT security, convergence of IT and OT, need for proactive risk management, and importance of collaboration between IT and OT teams.",
+      "immediate_forecast_24h": "No immediate threats are reported, but the article emphasizes the importance of proactive measures to prevent potential cyber attacks on OT systems.",
+      "strategic_outlook": "Long-term, the trends suggest a growing need for robust OT security measures, increased collaboration between IT and OT teams, and proactive risk management to mitigate potential threats.",
+      "operational_impact": "The article's findings may impact the operational security of various industries, including aviation, cargo, and logistics, by highlighting the need for enhanced OT security measures to prevent potential cyber threats.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "5a0a4fe5dd62541e67fc0bfe022310b4",
+    "timestamp": "2026-01-26T06:51:34.871060",
+    "original_title": "US steps up cooperation with Nigeria to pursue Islamic State group militants",
+    "link": "https://www.france24.com/en/africa/20260126-us-steps-up-cooperation-with-nigeria-to-pursue-islamic-state-group-militants",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict",
+      "risk_score": 7,
+      "location": "Nigeria, West Africa",
+      "latitude": 9.081999,
+      "longitude": 8.675277,
+      "detailed_analysis": "The US is increasing cooperation with Nigeria to pursue Islamic State group militants, which may lead to increased military activity and potential threats to aviation and cargo in the region.",
+      "immediate_forecast_24h": "Increased military activity and intelligence sharing may lead to heightened security measures in Nigeria and surrounding countries, potentially disrupting logistics and transport operations.",
+      "strategic_outlook": "The long-term presence of IS group-linked militants in the region poses a significant threat to stability and security, potentially impacting cargo and aviation operations in West Africa.",
+      "operational_impact": "Transport and logistics operations in Nigeria and surrounding countries may be affected by increased security measures, potential drone activity, or militant attacks, requiring enhanced security protocols and contingency planning.",
       "proximity_alert": null
     }
   }

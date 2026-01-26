@@ -359,5 +359,43 @@
       "operational_impact": "Potential disruptions to air and sea transport in the region, increased security checks, and possible rerouting of cargo and personnel.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "23179c6f4fe37b96de03c6dbb3e5c408",
+    "timestamp": "2026-01-26T06:51:29.984447",
+    "original_title": "OT Security, In Practice: 4 Cross‑Industry Trends from Global Assessments and How CISOs Should Respond - The Hacker News",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaV9UR2dWcDY4RWdlMFRiUDFibUk4QlBPOHhLYWpoZ0JnVHZBaVdQZHFidVMzWUU2ZFM0cW1kak9Gc0UtZzFTbTFQWWtlSk1sRGtoa2xQdjF6THhjdE0yQW5fbl9YQlc5ZjJkTnh1ZzV6bnJFT3Zsc05XdXdfdEhGOFBrdGo5MzBBVTg1WGQ3TDJ6TkE3MEYzbjFn?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 6,
+      "location": "Global",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "The article discusses 4 cross-industry trends in Operational Technology (OT) security from global assessments, highlighting the need for Chief Information Security Officers (CISOs) to respond to emerging threats. The trends include increased focus on OT security, convergence of IT and OT, need for proactive risk management, and importance of collaboration between IT and OT teams.",
+      "immediate_forecast_24h": "No immediate threats are reported, but the article emphasizes the importance of proactive measures to prevent potential cyber attacks on OT systems.",
+      "strategic_outlook": "Long-term, the trends suggest a growing need for robust OT security measures, increased collaboration between IT and OT teams, and proactive risk management to mitigate potential threats.",
+      "operational_impact": "The article's findings may impact the operational security of various industries, including aviation, cargo, and logistics, by highlighting the need for enhanced OT security measures to prevent potential cyber threats.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "5a0a4fe5dd62541e67fc0bfe022310b4",
+    "timestamp": "2026-01-26T06:51:34.871060",
+    "original_title": "US steps up cooperation with Nigeria to pursue Islamic State group militants",
+    "link": "https://www.france24.com/en/africa/20260126-us-steps-up-cooperation-with-nigeria-to-pursue-islamic-state-group-militants",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict",
+      "risk_score": 7,
+      "location": "Nigeria, West Africa",
+      "latitude": 9.081999,
+      "longitude": 8.675277,
+      "detailed_analysis": "The US is increasing cooperation with Nigeria to pursue Islamic State group militants, which may lead to increased military activity and potential threats to aviation and cargo in the region.",
+      "immediate_forecast_24h": "Increased military activity and intelligence sharing may lead to heightened security measures in Nigeria and surrounding countries, potentially disrupting logistics and transport operations.",
+      "strategic_outlook": "The long-term presence of IS group-linked militants in the region poses a significant threat to stability and security, potentially impacting cargo and aviation operations in West Africa.",
+      "operational_impact": "Transport and logistics operations in Nigeria and surrounding countries may be affected by increased security measures, potential drone activity, or militant attacks, requiring enhanced security protocols and contingency planning.",
+      "proximity_alert": null
+    }
   }
 ]
