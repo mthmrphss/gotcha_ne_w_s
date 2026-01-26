@@ -1,43 +1,5 @@
 [
   {
-    "id": "906f4efec326a090c268201412e5e955",
-    "timestamp": "2026-01-26T07:34:37.099635",
-    "original_title": "11 dead in armed attack at football field in central Mexico: mayor - TRT World",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8xbkpnVjVWQXhWQkFrSmFiZEc3UWF1bUJtNGJjS3h2aldhODdtSVc4b1dNMlFJc3RGUnA2bDdvc3JBblRINDhiSkkxNUNMLXBER29RejZ3X3rSAV5BVV95cUxPWDZ6eWJtMmpwYWhYZC1xWEM0ZHAwRGtRckY3NDJYQkN0ZGNwMEt0RFZxWk9zWGdaRzhzZXJKcEliMmpLYURjSGxoUHNYM1U1X3pvMmVjNUZKNHpIcFFR?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Crime/Civil Unrest",
-      "risk_score": 6,
-      "location": "Central Mexico",
-      "latitude": 20.0,
-      "longitude": -100.0,
-      "detailed_analysis": "Armed attack at a football field in central Mexico resulted in 11 deaths, indicating a high level of violence and potential instability in the region, which could impact local transport and logistics operations.",
-      "immediate_forecast_24h": "Increased security presence and potential for further clashes or retaliatory attacks in the area, affecting local transport and potentially disrupting supply chains.",
-      "strategic_outlook": "Long-term instability and violence in central Mexico could lead to sustained disruptions in transport and logistics, particularly for high-value or sensitive cargo, and may require alternative routing or enhanced security measures.",
-      "operational_impact": "Potential disruptions to ground transport and logistics in central Mexico, with possible delays or rerouting of cargo, and increased security concerns for personnel and assets in the region.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "5a176cd76118b24a916a08e8c7640b7b",
-    "timestamp": "2026-01-26T07:34:42.560650",
-    "original_title": "US to step up coordination with Nigeria to pursue Islamic State group militants",
-    "link": "https://www.france24.com/en/africa/20260126-us-steps-up-cooperation-with-nigeria-to-pursue-islamic-state-group-militants",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict/Terrorism",
-      "risk_score": 7,
-      "location": "Nigeria, West Africa",
-      "latitude": 9.081999,
-      "longitude": 8.675277,
-      "detailed_analysis": "The US plans to increase coordination with Nigeria to pursue Islamic State group militants, which may lead to increased military activity and potential instability in the region, affecting aviation and cargo operations.",
-      "immediate_forecast_24h": "Increased military activity and intelligence sharing may lead to heightened security measures, potentially disrupting logistics and transport operations in the region.",
-      "strategic_outlook": "Long-term collaboration between the US and Nigeria may lead to a decrease in militant activity, but the region may remain volatile, requiring continued monitoring and adaptation of security protocols.",
-      "operational_impact": "Potential disruptions to cargo and aviation operations, increased security checks, and possible rerouting of flights or cargo shipments to avoid areas of conflict.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "4265b0e2f56064fb295defe9fb990d57",
     "timestamp": "2026-01-26T08:42:36.552636",
     "original_title": "Democrats vow to oppose homeland security funds after Minnesota shooting as shutdown risk grows - ABC News",
@@ -130,6 +92,63 @@
       "strategic_outlook": "The incident highlights the need for continued vigilance and robust security measures at airports to prevent and respond to potential threats. Airports and airlines may review and enhance their security protocols to minimize the risk of similar incidents in the future.",
       "operational_impact": "The evacuation and closure of TSA checkpoints will impact flight operations, leading to delays and potential cancellations. Cargo and logistics operations may also be affected, with potential disruptions to supply chains and delivery schedules.",
       "proximity_alert": "YAKIN TEHDİT: Miami International Airport (1 km)"
+    }
+  },
+  {
+    "id": "38b54e581b1d5caf1cada9e7c42cac67",
+    "timestamp": "2026-01-26T09:41:49.226319",
+    "original_title": "Analysis: Xi has absolute control over China’s military. Now he wants more - CNN",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb3d2SGJTTDMxS1NwUjBTT0lrb3ZBeWk5VHhxRUN6ZHhNUzNhUHBnTTd0T2Y4LXBmOWx3WUdfcFBBS294X0hiY3JleU1Cd1NMRFMxc0prQjJQMnB2cGptN3NySk9XZi1vbm9RclBhbnprUTBIc2RYUmh6dGU1cGoxSG9BVUNIVnZWeENXdQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Other",
+      "risk_score": 10,
+      "location": "Beijing, China",
+      "latitude": 39.9042,
+      "longitude": 116.4074,
+      "detailed_analysis": "The article discusses Xi's absolute control over China's military and his desire for more power, which may lead to increased tensions and potential conflict, but does not directly threaten assets, cargo, aviation, or personnel.",
+      "immediate_forecast_24h": "No immediate threat expected, but the situation will be monitored for potential escalation.",
+      "strategic_outlook": "Long-term implications of Xi's increased power may lead to changes in China's foreign policy and military posture, potentially affecting regional stability.",
+      "operational_impact": "No direct operational impact expected at this time, but the situation will be monitored for potential effects on transport and logistics in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Beijing Capital International Airport (25 km)"
+    }
+  },
+  {
+    "id": "57da69283f1a35686e323291305a8dc4",
+    "timestamp": "2026-01-26T09:41:53.646556",
+    "original_title": "Russia May Have Used Starlink-Guided Shahed Drones for the First Time, Ukrainian Official Says",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qnbgm4/russia_may_have_used_starlinkguided_shahed_drones/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 8,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "Russia's potential use of Starlink-guided Shahed drones poses a significant threat to Ukrainian assets, cargo, aviation, and personnel. This development could indicate an escalation in the conflict, with increased risk of drone attacks on critical infrastructure and military targets.",
+      "immediate_forecast_24h": "Increased drone activity is expected in the region, with potential targeting of Ukrainian military positions and critical infrastructure. There is a high risk of civilian casualties and damage to infrastructure.",
+      "strategic_outlook": "The use of Starlink-guided drones by Russia could mark a new phase in the conflict, with potential long-term implications for the security of Ukrainian airspace and the safety of its citizens. This development may also have implications for the global use of commercial satellite technology in military operations.",
+      "operational_impact": "The potential use of Starlink-guided drones by Russia could disrupt Ukrainian aviation operations, impact cargo transport, and affect the safety of personnel in the region. This development may require adjustments to security protocols, including enhanced surveillance and counter-drone measures.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "ccc0cd577c3f105d924c452f732c93f5",
+    "timestamp": "2026-01-26T09:41:59.105539",
+    "original_title": "Airports across Asia reintroduce Covid-style health checks after outbreak of deadly Nipah virus in India",
+    "link": "https://www.independent.co.uk/asia/nipah-virus-outbreak-india-covid-screening-travel-warnings-b2907456.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Other",
+      "risk_score": 10,
+      "location": "Multiple, Asia",
+      "latitude": 13.75,
+      "longitude": 100.5,
+      "detailed_analysis": "The outbreak of the Nipah virus in India has prompted airports in Thailand, Nepal, and Taiwan to reintroduce Covid-style health checks to detect and prevent the spread of the virus from travelers. This is a public health concern rather than a direct threat to assets, cargo, aviation, or personnel.",
+      "immediate_forecast_24h": "Enhanced health screenings at airports are expected to continue in the short term, potentially causing minor disruptions to air travel but no significant impact on aviation operations.",
+      "strategic_outlook": "The long-term view suggests that the situation will be closely monitored, and measures will be adjusted according to the spread and severity of the Nipah virus outbreak. Collaboration between health and aviation authorities will be key to managing the situation.",
+      "operational_impact": "The operational impact is expected to be minimal, with possible minor delays due to enhanced health screenings. However, the situation does not currently indicate a significant threat to the continuity of transport or logistics operations.",
+      "proximity_alert": "YAKIN TEHDİT: Suvarnabhumi Airport (24 km)"
     }
   }
 ]
