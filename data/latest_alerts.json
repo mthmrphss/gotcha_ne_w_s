@@ -1,40 +1,97 @@
 [
   {
-    "id": "cecfd8a69fbff398fc57b62694767c93",
-    "timestamp": "2026-01-26T11:27:31.088704",
-    "original_title": "Chrome Extensions: Are you getting more than you bargained for? - SECURITY.COM",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONDRxQkU5ZUk3ek9jZUdCNmlPTjZzYURhWmJjTDNQOEh3ODdiRDdpNGhBNnJER0d5VUs2RkZ3UlVYckZzMUR0alNLR3p1Nk5SMWhVN3V0bjdmZnFzOVVTZGxXS0pzTU5YajVWUlFYeWV4akVGSGJCRnZfcHU2UUZyXzRuRmlsa2VBVk1sNGFxYlNBLTBrcUU1aWFlZncwZw?oc=5",
+    "id": "69230251ede9a206e4e24814c770a53a",
+    "timestamp": "2026-01-26T13:03:47.615569",
+    "original_title": "Private jet carrying eight crashes in Maine during winter storm - BBC",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uRXJndU5XNlBEZDJWUW55RmUtX21WdkdJOEpweDI5SlFicUFrR1dZSExUN2wwNVU1ZHJIOUlodnhtdE1ZdnBRVS1ucDlGQ3R3UnlUQ2tsQkdJQQ?oc=5",
     "source_name": "Google News (Breaking)",
     "ai_analysis": {
-      "category": "Cyber",
-      "risk_score": 6,
-      "location": "Global",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "The article discusses the potential security risks associated with Chrome extensions, highlighting the possibility of malicious extensions compromising user data and systems. This poses a threat to the security of personnel and assets, particularly those who use Chrome for work-related activities.",
-      "immediate_forecast_24h": "In the next 24 hours, users of Chrome extensions may be at risk of data breaches or malware infections if they have installed malicious extensions. It is essential for individuals and organizations to review their extensions and ensure they are from trusted sources.",
-      "strategic_outlook": "In the long term, the threat of malicious Chrome extensions will continue to evolve, with potential consequences for the security of the aviation, cargo, and logistics industries. It is crucial for these industries to implement robust cybersecurity measures to protect against such threats.",
-      "operational_impact": "The potential operational impact of malicious Chrome extensions includes compromised data, disrupted operations, and financial losses. It is essential for organizations to educate their personnel on the risks associated with Chrome extensions and to implement measures to mitigate these risks, such as regularly reviewing and updating extensions, using reputable sources, and implementing robust cybersecurity protocols.",
+      "category": "Aviation",
+      "risk_score": 8,
+      "location": "Maine, USA",
+      "latitude": 45.2538,
+      "longitude": -69.2422,
+      "detailed_analysis": "Private jet carrying eight passengers crashed in Maine during a winter storm, indicating potential risks to aviation safety and security due to adverse weather conditions.",
+      "immediate_forecast_24h": "Investigations into the cause of the crash are expected to begin, with possible disruptions to air traffic in the region due to the ongoing winter storm.",
+      "strategic_outlook": "The incident highlights the importance of weather-related risk management in aviation, and the need for robust safety protocols to mitigate the impact of adverse weather conditions on flight operations.",
+      "operational_impact": "The crash may lead to increased scrutiny of private jet operations and weather-related safety procedures, potentially resulting in changes to aviation regulations or practices in the region.",
       "proximity_alert": null
     }
   },
   {
-    "id": "8e49e744e9b7e3d2d3c9600b69d1ab87",
-    "timestamp": "2026-01-26T11:27:33.659324",
-    "original_title": "After the deadly DCA crash, some airspace rules have changed. Is it enough? - The Washington Post",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWU1RMF82c2EySzI0Z3BteVVjSDRLTVBYMTRjeE1hRm1nSVp0QnFtZXZDTGF5WEZYWVNIcmNGdmJ1X2tYRlh1cGVsVkZEanJlc0FhNVJfeDE0NGJBTFpveThEckdLQ3FkeHhaSWRad2tzd2VrS1dGMEt4T1BoM3pESXpQdnF2S2wwV0N6aWwzTXlhQ2tTdnd6Rg?oc=5",
-    "source_name": "Google News (Breaking)",
+    "id": "34e6772f023c661797a277d1d7a6053a",
+    "timestamp": "2026-01-26T13:03:50.422072",
+    "original_title": "Shift to Drone Fighting in Ukraine War Means No Winter Lull",
+    "link": "https://www.nytimes.com/2026/01/26/world/europe/ukraine-russia-winter-snow-donetsk-dnipro.html",
+    "source_name": "NewYork Times",
     "ai_analysis": {
-      "category": "Aviation",
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "The shift to drone fighting in the Ukraine war indicates a change in tactics and technology, suggesting that the conflict will continue without a winter lull. This could lead to increased disruptions in aviation and potential threats to aircraft.",
+      "immediate_forecast_24h": "Increased drone activity may lead to heightened tensions and potential clashes between Ukrainian and opposing forces, with a risk of aviation incidents or accidents.",
+      "strategic_outlook": "The use of drones in the conflict may become a long-term strategy, leading to ongoing disruptions in aviation and potential threats to aircraft, cargo, and personnel.",
+      "operational_impact": "The conflict may impact aviation operations, including potential flight restrictions or cancellations, and increased security measures for cargo and personnel.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "5bbe7c297ec75445d42331093589aaa4",
+    "timestamp": "2026-01-26T13:03:53.792430",
+    "original_title": "Russia Abandons Strategic Airbase in Syria Near Turkish Border",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qnfchm/russia_abandons_strategic_airbase_in_syria_near/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 7,
+      "location": "Syria",
+      "latitude": 35.0,
+      "longitude": 38.0,
+      "detailed_analysis": "Russia's abandonment of a strategic airbase in Syria near the Turkish border may lead to a power vacuum, potentially destabilizing the region and affecting aviation and logistics operations.",
+      "immediate_forecast_24h": "Increased tensions between Russia, Turkey, and other regional actors are expected, with potential for clashes or airspace restrictions.",
+      "strategic_outlook": "Long-term implications include a possible shift in the regional balance of power, with potential consequences for international air travel and cargo transport.",
+      "operational_impact": "Airlines and logistics operators should be prepared for possible airspace restrictions, route changes, or increased security measures in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "3be0d4c78b072009801ee8c7139f1be0",
+    "timestamp": "2026-01-26T13:03:55.596371",
+    "original_title": "Yemen rebels threaten new Red Sea attack as US aircraft carrier heads toward Iran",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qnfbk7/yemen_rebels_threaten_new_red_sea_attack_as_us/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict",
+      "risk_score": 8,
+      "location": "Red Sea, Yemen",
+      "latitude": 16.0,
+      "longitude": 42.0,
+      "detailed_analysis": "Yemen rebels have threatened a new attack in the Red Sea as a US aircraft carrier heads toward Iran, posing a significant threat to aviation and maritime assets in the region.",
+      "immediate_forecast_24h": "Increased military presence and heightened security measures are expected in the Red Sea, with potential disruptions to shipping and air traffic.",
+      "strategic_outlook": "The situation may escalate into a larger conflict, affecting regional stability and global trade routes, with potential long-term implications for aviation and maritime security.",
+      "operational_impact": "Shipping and air traffic in the Red Sea may be disrupted, with potential delays and increased costs for logistics and transportation companies operating in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "f81679bc0e359bad45ab8217e2315d3d",
+    "timestamp": "2026-01-26T13:03:57.876342",
+    "original_title": "US, Nigeria diverge in details over strikes on militants",
+    "link": "http://www.africanews.com/2026/01/26/us-nigeria-diverge-in-details-over-strikes-on-militants/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
       "risk_score": 10,
-      "location": "Washington D.C., USA",
-      "latitude": 38.8951,
-      "longitude": -77.0364,
-      "detailed_analysis": "The recent deadly DCA crash has led to changes in airspace rules, but the effectiveness of these changes in preventing future crashes is uncertain, posing a significant risk to aviation safety",
-      "immediate_forecast_24h": "Increased scrutiny of airspace rules and potential for additional changes or restrictions in the short term",
-      "strategic_outlook": "Long-term improvements in airspace safety will depend on the effectiveness of the new rules and the ability of regulators to adapt to emerging threats",
-      "operational_impact": "Potential disruptions to flight schedules and increased security measures may impact transport and logistics operations in the region",
-      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
+      "location": "Abuja, Nigeria",
+      "latitude": 9.0765,
+      "longitude": 7.3989,
+      "detailed_analysis": "US strikes targeting militants in Nigeria have created uncertainty due to diverging details from Washington and Abuja, potentially indicating a heightened threat to aviation and regional stability.",
+      "immediate_forecast_24h": "Increased military activity and potential retaliation from militant groups may lead to elevated tensions and risks to aviation and personnel in the region.",
+      "strategic_outlook": "Long-term implications may include strained US-Nigeria relations, increased militant activity, and potential for further military interventions, all of which could impact regional security and stability.",
+      "operational_impact": "Potential disruptions to air travel and logistics in the region, with heightened security measures and possible restrictions on movement, affecting both cargo and personnel.",
+      "proximity_alert": "YAKIN TEHDİT: Nnamdi Azikiwe International Airport (15 km)"
     }
   }
 ]
