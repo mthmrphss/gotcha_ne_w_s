@@ -435,5 +435,81 @@
       "operational_impact": "Potential disruptions to cargo and aviation operations, increased security checks, and possible rerouting of flights or cargo shipments to avoid areas of conflict.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "d3d07aa82ffb82a873bf531d7717f613",
+    "timestamp": "2026-01-26T08:42:40.115893",
+    "original_title": "Gunmen Kill 11 After Soccer Match in Mexico",
+    "link": "https://www.nytimes.com/2026/01/26/world/americas/mexico-shooting-salamanca-cartels.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Crime/Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Mexico",
+      "latitude": 19.4326,
+      "longitude": -99.1332,
+      "detailed_analysis": "A mass shooting occurred after a soccer match in an area known for drug cartel activity, indicating a high level of violence and instability in the region, posing a significant threat to personnel and potentially impacting cargo and aviation operations.",
+      "immediate_forecast_24h": "Increased security presence is expected in the area, with potential for further violence or retaliation from drug cartels, which may disrupt transport and logistics operations.",
+      "strategic_outlook": "The ongoing conflict between drug cartels and the Mexican government may lead to continued instability and violence in the region, posing a long-term threat to assets, cargo, aviation, and personnel.",
+      "operational_impact": "Transport and logistics operations in the region may be disrupted due to the increased security presence and potential for further violence, with potential delays or rerouting of cargo and aviation traffic.",
+      "proximity_alert": "YAKIN TEHDİT: Mexico City International Airport (6 km)"
+    }
+  },
+  {
+    "id": "ebbdd8d7bfc36c4c8e94b440cbd76e79",
+    "timestamp": "2026-01-26T08:42:42.265382",
+    "original_title": "Lufthansa plane in mid-air emergency over Europe as runway cleared for landing - The Mirror",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYkxzdm8xX0ZsWldlQWEwX2FRc202OWZuUV9JbHpDWnRsbXVHaGVJWGM4WGRTaWx6YVZycmtWeml0VEt3c0dmaEtqeDR0Q1JqQ05oYlM5elpPRFhGSmtublVrYW11eGx2LWtLdWFRSmZMUVVva2JDUGNzN0p6RmRPem1uMHdaRmUyaXc40gGQAUFVX3lxTE12WVJlcDBxY2YwalItN3BJMGF1UmZheG9iMnFILWNfamlrSF9ITmVPNUFIX1hNMUIySnJKa1NwNE53Szh3WHU4dGloTVdWTjhmelFldnY3R1BlWVhiWWVqc1NCMVR2a0x3WEZxbUQzbzdLaWhOVGhSY2FxOWJEWDl2bzFZUXQtanoxTFRiMmRJSg?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Europe",
+      "latitude": 48.8567,
+      "longitude": 2.2945,
+      "detailed_analysis": "A Lufthansa plane has declared a mid-air emergency over Europe, prompting the clearance of a runway for landing. The nature of the emergency is not specified, but it poses a significant risk to the safety of the passengers and crew on board.",
+      "immediate_forecast_24h": "The plane is expected to make an emergency landing, and emergency services are likely to be deployed. The cause of the emergency will be investigated, and there may be disruptions to air traffic in the region.",
+      "strategic_outlook": "The incident highlights the importance of aviation safety and the need for airlines and regulatory bodies to be vigilant in preventing and responding to emergencies. It may also lead to increased security measures and protocols to mitigate the risk of similar incidents in the future.",
+      "operational_impact": "The emergency landing may cause delays and disruptions to flights in the region, and there may be an impact on air cargo operations. The incident may also lead to increased scrutiny of aviation safety and security protocols, potentially resulting in changes to operational procedures and regulations.",
+      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (1 km)"
+    }
+  },
+  {
+    "id": "28e866a37b4022ae73556a32e3fe95cb",
+    "timestamp": "2026-01-26T08:42:44.913472",
+    "original_title": "Is it Time for a Nordic Nuke?",
+    "link": "https://warontherocks.com/2026/01/is-it-time-for-a-nordic-nuke/",
+    "source_name": "War on the Rocks",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Nordic countries",
+      "latitude": 60.0,
+      "longitude": 10.0,
+      "detailed_analysis": "Russia's nuclear posture and potential use of nuclear-capable delivery systems in the Russo-Ukrainian War poses a significant threat to the Nordic countries, with implications for extended deterrence and coercive diplomacy.",
+      "immediate_forecast_24h": "Increased tensions between Russia and NATO, with potential for further strategic signaling or military posturing.",
+      "strategic_outlook": "Long-term risk of nuclear conflict or limited nuclear strike, with potential for significant impact on regional stability and global security.",
+      "operational_impact": "Potential disruption to air transport and logistics in the region, with increased security measures and potential for airspace restrictions.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "639547c472edbb72a4ac6f1d0bb5ed87",
+    "timestamp": "2026-01-26T08:42:48.809245",
+    "original_title": "Travel Chaos At Miami Airport As Terminal Is Evacuated After ‘Suspicious’ Item Causes Bomb Scare",
+    "link": "https://www.paddleyourownkanoo.com/2026/01/26/travel-chaos-at-miami-airport-as-terminal-is-evacuated-after-suspicious-item-causes-bomb-scare/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Aviation/Terrorism",
+      "risk_score": 10,
+      "location": "Miami, USA",
+      "latitude": 25.7953,
+      "longitude": -80.2756,
+      "detailed_analysis": "A suspicious item in the departures concourse of Miami International Airport caused a bomb scare, leading to the partial evacuation of the terminal and closure of TSA checkpoints. The Miami-Dade Sheriff’s Office investigated and deemed the item suspicious.",
+      "immediate_forecast_24h": "Delays and disruptions to flights are expected in the next 24 hours as the airport returns to normal operations. Passengers may experience longer wait times and enhanced security screening.",
+      "strategic_outlook": "The incident highlights the need for continued vigilance and robust security measures at airports to prevent and respond to potential threats. Airports and airlines may review and enhance their security protocols to minimize the risk of similar incidents in the future.",
+      "operational_impact": "The evacuation and closure of TSA checkpoints will impact flight operations, leading to delays and potential cancellations. Cargo and logistics operations may also be affected, with potential disruptions to supply chains and delivery schedules.",
+      "proximity_alert": "YAKIN TEHDİT: Miami International Airport (1 km)"
+    }
   }
 ]

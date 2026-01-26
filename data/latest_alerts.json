@@ -1,43 +1,5 @@
 [
   {
-    "id": "23179c6f4fe37b96de03c6dbb3e5c408",
-    "timestamp": "2026-01-26T06:51:29.984447",
-    "original_title": "OT Security, In Practice: 4 Cross‑Industry Trends from Global Assessments and How CISOs Should Respond - The Hacker News",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaV9UR2dWcDY4RWdlMFRiUDFibUk4QlBPOHhLYWpoZ0JnVHZBaVdQZHFidVMzWUU2ZFM0cW1kak9Gc0UtZzFTbTFQWWtlSk1sRGtoa2xQdjF6THhjdE0yQW5fbl9YQlc5ZjJkTnh1ZzV6bnJFT3Zsc05XdXdfdEhGOFBrdGo5MzBBVTg1WGQ3TDJ6TkE3MEYzbjFn?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Cyber",
-      "risk_score": 6,
-      "location": "Global",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "The article discusses 4 cross-industry trends in Operational Technology (OT) security from global assessments, highlighting the need for Chief Information Security Officers (CISOs) to respond to emerging threats. The trends include increased focus on OT security, convergence of IT and OT, need for proactive risk management, and importance of collaboration between IT and OT teams.",
-      "immediate_forecast_24h": "No immediate threats are reported, but the article emphasizes the importance of proactive measures to prevent potential cyber attacks on OT systems.",
-      "strategic_outlook": "Long-term, the trends suggest a growing need for robust OT security measures, increased collaboration between IT and OT teams, and proactive risk management to mitigate potential threats.",
-      "operational_impact": "The article's findings may impact the operational security of various industries, including aviation, cargo, and logistics, by highlighting the need for enhanced OT security measures to prevent potential cyber threats.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "5a0a4fe5dd62541e67fc0bfe022310b4",
-    "timestamp": "2026-01-26T06:51:34.871060",
-    "original_title": "US steps up cooperation with Nigeria to pursue Islamic State group militants",
-    "link": "https://www.france24.com/en/africa/20260126-us-steps-up-cooperation-with-nigeria-to-pursue-islamic-state-group-militants",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Terrorism/Conflict",
-      "risk_score": 7,
-      "location": "Nigeria, West Africa",
-      "latitude": 9.081999,
-      "longitude": 8.675277,
-      "detailed_analysis": "The US is increasing cooperation with Nigeria to pursue Islamic State group militants, which may lead to increased military activity and potential threats to aviation and cargo in the region.",
-      "immediate_forecast_24h": "Increased military activity and intelligence sharing may lead to heightened security measures in Nigeria and surrounding countries, potentially disrupting logistics and transport operations.",
-      "strategic_outlook": "The long-term presence of IS group-linked militants in the region poses a significant threat to stability and security, potentially impacting cargo and aviation operations in West Africa.",
-      "operational_impact": "Transport and logistics operations in Nigeria and surrounding countries may be affected by increased security measures, potential drone activity, or militant attacks, requiring enhanced security protocols and contingency planning.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "906f4efec326a090c268201412e5e955",
     "timestamp": "2026-01-26T07:34:37.099635",
     "original_title": "11 dead in armed attack at football field in central Mexico: mayor - TRT World",
@@ -73,6 +35,101 @@
       "strategic_outlook": "Long-term collaboration between the US and Nigeria may lead to a decrease in militant activity, but the region may remain volatile, requiring continued monitoring and adaptation of security protocols.",
       "operational_impact": "Potential disruptions to cargo and aviation operations, increased security checks, and possible rerouting of flights or cargo shipments to avoid areas of conflict.",
       "proximity_alert": null
+    }
+  },
+  {
+    "id": "4265b0e2f56064fb295defe9fb990d57",
+    "timestamp": "2026-01-26T08:42:36.552636",
+    "original_title": "Democrats vow to oppose homeland security funds after Minnesota shooting as shutdown risk grows - ABC News",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRlB3NC1LRDl6cm1yVm5jRnAtN2szOGQwQmpSeGhMbDNkbTlaancwT1o4UEN2ZG5PbTlVQ21RT1FtdGNha3BuejkxZkZaMGZjNnkxWllseXhlMlE5NG00QnplNEl1ZzVuM3R1blN1VlNUWTVIdDRBcUp5UFgyc3k5VFgxbHlrUGs2eUN1eW5oUmRtN2taNUQtQVRQTHM1bG5QYTAxTTZfejIyd9IBrwFBVV95cUxOUllHVXNnM3Bma2I5aEZrU1pvek1VaGxodTU1MjRFUDJTaHRRVDRselFNTFNiT0ZpeU1CS1NuQndzdkZ3UkNnU3R0aU5zeFFLVFhWdGtmV3hMSERvOGhaLWhNZHJ4dmNPMzM5R1FPOGtXS0ZxRHJtRkFUaWEzdF9LcS1tZjZuOVVwT2hHYWVkQ05kV0Rtbk9mRlhTZmF0dm1NNVBFdGVBV3dqR0kxdVRV?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Civil Unrest/Border",
+      "risk_score": 4,
+      "location": "Minnesota, USA",
+      "latitude": 44.9778,
+      "longitude": -93.265,
+      "detailed_analysis": "The event involves a potential shutdown of homeland security funds due to a shooting in Minnesota, which may lead to increased risk of border breaches and disruptions to transport and logistics.",
+      "immediate_forecast_24h": "Increased tensions and potential protests may lead to disruptions in the next 24 hours, but no immediate threats to aviation or cargo have been identified.",
+      "strategic_outlook": "The long-term impact of the potential shutdown of homeland security funds may lead to increased vulnerabilities in border security and potential disruptions to supply chains.",
+      "operational_impact": "Transport and logistics operations may be affected by potential border breaches, protests, or disruptions to security protocols, but the immediate impact is expected to be minimal.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "d3d07aa82ffb82a873bf531d7717f613",
+    "timestamp": "2026-01-26T08:42:40.115893",
+    "original_title": "Gunmen Kill 11 After Soccer Match in Mexico",
+    "link": "https://www.nytimes.com/2026/01/26/world/americas/mexico-shooting-salamanca-cartels.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Crime/Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Mexico",
+      "latitude": 19.4326,
+      "longitude": -99.1332,
+      "detailed_analysis": "A mass shooting occurred after a soccer match in an area known for drug cartel activity, indicating a high level of violence and instability in the region, posing a significant threat to personnel and potentially impacting cargo and aviation operations.",
+      "immediate_forecast_24h": "Increased security presence is expected in the area, with potential for further violence or retaliation from drug cartels, which may disrupt transport and logistics operations.",
+      "strategic_outlook": "The ongoing conflict between drug cartels and the Mexican government may lead to continued instability and violence in the region, posing a long-term threat to assets, cargo, aviation, and personnel.",
+      "operational_impact": "Transport and logistics operations in the region may be disrupted due to the increased security presence and potential for further violence, with potential delays or rerouting of cargo and aviation traffic.",
+      "proximity_alert": "YAKIN TEHDİT: Mexico City International Airport (6 km)"
+    }
+  },
+  {
+    "id": "ebbdd8d7bfc36c4c8e94b440cbd76e79",
+    "timestamp": "2026-01-26T08:42:42.265382",
+    "original_title": "Lufthansa plane in mid-air emergency over Europe as runway cleared for landing - The Mirror",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYkxzdm8xX0ZsWldlQWEwX2FRc202OWZuUV9JbHpDWnRsbXVHaGVJWGM4WGRTaWx6YVZycmtWeml0VEt3c0dmaEtqeDR0Q1JqQ05oYlM5elpPRFhGSmtublVrYW11eGx2LWtLdWFRSmZMUVVva2JDUGNzN0p6RmRPem1uMHdaRmUyaXc40gGQAUFVX3lxTE12WVJlcDBxY2YwalItN3BJMGF1UmZheG9iMnFILWNfamlrSF9ITmVPNUFIX1hNMUIySnJKa1NwNE53Szh3WHU4dGloTVdWTjhmelFldnY3R1BlWVhiWWVqc1NCMVR2a0x3WEZxbUQzbzdLaWhOVGhSY2FxOWJEWDl2bzFZUXQtanoxTFRiMmRJSg?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Europe",
+      "latitude": 48.8567,
+      "longitude": 2.2945,
+      "detailed_analysis": "A Lufthansa plane has declared a mid-air emergency over Europe, prompting the clearance of a runway for landing. The nature of the emergency is not specified, but it poses a significant risk to the safety of the passengers and crew on board.",
+      "immediate_forecast_24h": "The plane is expected to make an emergency landing, and emergency services are likely to be deployed. The cause of the emergency will be investigated, and there may be disruptions to air traffic in the region.",
+      "strategic_outlook": "The incident highlights the importance of aviation safety and the need for airlines and regulatory bodies to be vigilant in preventing and responding to emergencies. It may also lead to increased security measures and protocols to mitigate the risk of similar incidents in the future.",
+      "operational_impact": "The emergency landing may cause delays and disruptions to flights in the region, and there may be an impact on air cargo operations. The incident may also lead to increased scrutiny of aviation safety and security protocols, potentially resulting in changes to operational procedures and regulations.",
+      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (1 km)"
+    }
+  },
+  {
+    "id": "28e866a37b4022ae73556a32e3fe95cb",
+    "timestamp": "2026-01-26T08:42:44.913472",
+    "original_title": "Is it Time for a Nordic Nuke?",
+    "link": "https://warontherocks.com/2026/01/is-it-time-for-a-nordic-nuke/",
+    "source_name": "War on the Rocks",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Nordic countries",
+      "latitude": 60.0,
+      "longitude": 10.0,
+      "detailed_analysis": "Russia's nuclear posture and potential use of nuclear-capable delivery systems in the Russo-Ukrainian War poses a significant threat to the Nordic countries, with implications for extended deterrence and coercive diplomacy.",
+      "immediate_forecast_24h": "Increased tensions between Russia and NATO, with potential for further strategic signaling or military posturing.",
+      "strategic_outlook": "Long-term risk of nuclear conflict or limited nuclear strike, with potential for significant impact on regional stability and global security.",
+      "operational_impact": "Potential disruption to air transport and logistics in the region, with increased security measures and potential for airspace restrictions.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "639547c472edbb72a4ac6f1d0bb5ed87",
+    "timestamp": "2026-01-26T08:42:48.809245",
+    "original_title": "Travel Chaos At Miami Airport As Terminal Is Evacuated After ‘Suspicious’ Item Causes Bomb Scare",
+    "link": "https://www.paddleyourownkanoo.com/2026/01/26/travel-chaos-at-miami-airport-as-terminal-is-evacuated-after-suspicious-item-causes-bomb-scare/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Aviation/Terrorism",
+      "risk_score": 10,
+      "location": "Miami, USA",
+      "latitude": 25.7953,
+      "longitude": -80.2756,
+      "detailed_analysis": "A suspicious item in the departures concourse of Miami International Airport caused a bomb scare, leading to the partial evacuation of the terminal and closure of TSA checkpoints. The Miami-Dade Sheriff’s Office investigated and deemed the item suspicious.",
+      "immediate_forecast_24h": "Delays and disruptions to flights are expected in the next 24 hours as the airport returns to normal operations. Passengers may experience longer wait times and enhanced security screening.",
+      "strategic_outlook": "The incident highlights the need for continued vigilance and robust security measures at airports to prevent and respond to potential threats. Airports and airlines may review and enhance their security protocols to minimize the risk of similar incidents in the future.",
+      "operational_impact": "The evacuation and closure of TSA checkpoints will impact flight operations, leading to delays and potential cancellations. Cargo and logistics operations may also be affected, with potential disruptions to supply chains and delivery schedules.",
+      "proximity_alert": "YAKIN TEHDİT: Miami International Airport (1 km)"
     }
   }
 ]
