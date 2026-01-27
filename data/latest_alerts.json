@@ -1,24 +1,5 @@
 [
   {
-    "id": "947722ce84c36e4a5c26c6d3efb6fcdb",
-    "timestamp": "2026-01-27T21:46:17.505788",
-    "original_title": "‘We are just not stopping’: How Minnesotans turned the tables on ICE",
-    "link": "https://www.france24.com/en/americas/20260127-we-are-just-not-stopping-how-minnesotans-turned-the-tables-on-ice",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Civil Unrest/Border",
-      "risk_score": 6,
-      "location": "Minneapolis, USA",
-      "latitude": 44.9778,
-      "longitude": -93.265,
-      "detailed_analysis": "The situation involves locals documenting and potentially disrupting ICE operations, which could lead to increased tensions and unrest in the area, affecting personnel and potentially cargo transport",
-      "immediate_forecast_24h": "Confrontations between locals and ICE agents may escalate, potentially causing disruptions to traffic and logistics in the area",
-      "strategic_outlook": "The ongoing campaign by locals may lead to a long-term increase in civil unrest and protests in the area, potentially affecting the security and efficiency of transport and logistics operations",
-      "operational_impact": "Potential disruptions to road transport and logistics in the Minneapolis area, with possible delays or rerouting of cargo and personnel",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "9498329766f673792b408480c11d8ffa",
     "timestamp": "2026-01-27T22:29:09.467041",
     "original_title": "Emirates Airlines Flight EK35 from the UAE to UK Makes Urgent Emergency Landing in Scotland After Two Failed Landing Attempts - Travel And Tour World",
@@ -53,6 +34,63 @@
       "immediate_forecast_24h": "No immediate threats expected, but increased scrutiny on cargo aircraft safety and operations.",
       "strategic_outlook": "Long-term impact on cargo aviation safety and potential changes to regulations or protocols.",
       "operational_impact": "Potential disruption to cargo transport and logistics operations, with possible increased security measures or inspections.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "38e9be152cc37087d40ab2b0accdd35b",
+    "timestamp": "2026-01-27T23:29:48.735323",
+    "original_title": "Airlines voicing concerns over dangers of mid-air crash at Hollywood Burbank Airport, NTSB chair says - abc7.com",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQX0hORG9OTWlGeEZ4NDZDLW12akwtNWg2MUtZN0VZS0FpYzg1OElBQnoyR3M2bzBZSVkzT1daN1l5bVE0UVBSaE8xakJpMlFfR24wYnRub2QxZTVpZWhSeUZvMGxyWUo5RVMxXzRFRnRjNDByUWtiZjV6ZHJkbUdBUTAxZ0F6Wmg4MGs1bjlhRHhobHYycUhSTTlkcG1PMFNGOWZqc2ZydEViVGxLZHdYdElraTVUSDJvYmg5MXhnQXc3b2vSAcgBQVVfeXFMT1NCZk5GcWtTZ1lCbDZpSGNlVS1GbDFXbHhHR0RVSEt1c2l5eU5naG9STFJId0E3amNjRmR1cmtaeWowSnZhVUY2WWc4RUFibEpTeGJmTHpXa2diZW5FeHlOZl9VbDlZellycnBZa3FEcEFBdDhTLTJEZ3VXYmJ3dGY2eFFvZXQxZ1kxQmZJZk5PYUlOTF9qajRuajRuNVVFcm9XSGs2XzR4WGVFN0RpZnk2Z0JwakVSM2hoLUF6cUdSZkhnOU9OQTE?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Hollywood Burbank Airport, USA",
+      "latitude": 34.2,
+      "longitude": -118.4,
+      "detailed_analysis": "Airlines are voicing concerns over the dangers of a mid-air crash at Hollywood Burbank Airport, as stated by the NTSB chair. This indicates a potential threat to aviation safety, posing a significant risk to assets, personnel, and cargo.",
+      "immediate_forecast_24h": "Increased vigilance and safety measures are expected to be implemented in the next 24 hours to mitigate the risk of a mid-air collision. Airlines and airport authorities will likely review and enhance their safety protocols.",
+      "strategic_outlook": "In the long term, this incident may lead to a review of air traffic control procedures and the implementation of additional safety measures to prevent similar risks in the future.",
+      "operational_impact": "The potential risk of a mid-air crash may cause disruptions to flight operations, potentially leading to delays or cancellations, and impacting the transportation of cargo and personnel.",
+      "proximity_alert": "YAKIN TEHDİT: Los Angeles International Airport (28 km)"
+    }
+  },
+  {
+    "id": "bf36bfa64254744043260e8d8573c485",
+    "timestamp": "2026-01-27T23:29:50.536725",
+    "original_title": "FAA ignored warnings before DCA crash, federal investigators say - The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZGlqaEU3MzhaVmdZRVVKdWhmR1QyMm8xV1cyMnJZdjVBZmtkUnZmVnJ1ZlgzeWx6UllVbnJXSGdBSjlVTVJpU2pzNE5YX0hNbU4yU1AySDJxS3pjZ29HOE5ENTFfb215d2NyRWplcW9BTThxV3dtLVZIbFpoZ3had3ZkVmc5WmN5T3pGX3Z6bw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Washington D.C., USA",
+      "latitude": 38.8951,
+      "longitude": -77.0364,
+      "detailed_analysis": "Federal investigators claim the FAA ignored warnings prior to a crash at DCA, indicating potential lapses in aviation safety and oversight.",
+      "immediate_forecast_24h": "Increased scrutiny of FAA protocols and possible immediate changes to safety procedures to prevent similar incidents.",
+      "strategic_outlook": "Long-term review of aviation safety standards and potential overhaul of regulatory frameworks to ensure adherence to safety warnings and protocols.",
+      "operational_impact": "Potential disruptions to air travel as new safety measures are implemented, and possible increased security checks at airports.",
+      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
+    }
+  },
+  {
+    "id": "8c1b966ee8fa6cab7975e3dc1ae76e73",
+    "timestamp": "2026-01-27T23:29:52.786559",
+    "original_title": "Bangor plane crash investigation - newscentermaine.com",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMGRnT3JPa1E2THRoMUcxTk9Sc2dpMlRfVDRxdjFMVFRnSVNzd3ZON0VQNzVmYXZ0dUtmaktfTmlSOGZZRDdFRTNDOXFJZXl2ajNFdzFBTHg2R1p6bUhLczBUM1ZNMk5CSEl5V3ptR09XWGUwelRFUURHMzNiNFJNRXdmeDVGWDRsU1NmVHBZa2dpRzg0aXJMbVBHeWNhQWZpX3VfVFJTc1paUTBQN19KT2ZDMXlST1FVc0tzd2R3?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 8,
+      "location": "Bangor, USA",
+      "latitude": 44.8017,
+      "longitude": -68.7864,
+      "detailed_analysis": "A plane crash in Bangor is under investigation, posing a significant threat to aviation safety and security. The cause of the crash is currently unknown, but it has the potential to impact air travel and logistics in the region.",
+      "immediate_forecast_24h": "Investigations into the crash will likely continue, with potential disruptions to air traffic in the area. There may be increased security measures implemented at nearby airports as a precaution.",
+      "strategic_outlook": "The long-term impact of the crash will depend on the findings of the investigation. If the cause is determined to be a security breach or intentional act, it could lead to increased security measures and protocols being implemented across the aviation industry.",
+      "operational_impact": "The crash may cause delays or cancellations of flights in and out of Bangor, potentially disrupting cargo and passenger transport. The incident may also lead to increased scrutiny of aviation safety and security procedures, potentially resulting in changes to operational protocols.",
       "proximity_alert": null
     }
   }
