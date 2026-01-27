@@ -1,43 +1,5 @@
 [
   {
-    "id": "757ab3b52f3aee44d42bd71245dc7dbc",
-    "timestamp": "2026-01-27T06:48:06.638741",
-    "original_title": "Every 20 mins, an Indian caught trying to enter US; data shows deterrence, not elimination",
-    "link": "https://www.reddit.com/r/worldnews/comments/1qo6bcv/every_20_mins_an_indian_caught_trying_to_enter_us/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Border",
-      "risk_score": 5,
-      "location": "US-India Border",
-      "latitude": 31.9686,
-      "longitude": -106.5297,
-      "detailed_analysis": "High frequency of Indian nationals attempting to enter the US, with one person caught every 20 minutes, indicating a significant threat to border security and potential risks to transport and logistics",
-      "immediate_forecast_24h": "Increased surveillance and security measures are likely to be implemented at the US-India border to deter and detect illegal crossings",
-      "strategic_outlook": "Long-term strategies to address the root causes of migration, such as economic and social factors, may be necessary to reduce the number of attempted crossings",
-      "operational_impact": "Potential disruptions to transport and logistics operations, particularly in the aviation and cargo sectors, due to increased security measures and potential border closures",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "688c5f0e46caa8603d1b268018eb1454",
-    "timestamp": "2026-01-27T06:48:09.425721",
-    "original_title": "Trump threatens to raise tariffs on South Korean goods to 25%",
-    "link": "https://www.france24.com/en/asia-pacific/20260127-trump-threatens-to-raise-tariffs-on-south-korean-goods-to-25-percent",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict/Trade",
-      "risk_score": 10,
-      "location": "Seoul, South Korea",
-      "latitude": 37.5665,
-      "longitude": 126.9779,
-      "detailed_analysis": "US President Donald Trump has threatened to increase tariffs on South Korean goods, potentially straining trade relations and impacting cargo shipments.",
-      "immediate_forecast_24h": "Trade negotiations may escalate, but no immediate disruption to cargo or aviation operations expected.",
-      "strategic_outlook": "Prolonged trade tensions could lead to increased costs and reduced trade volumes between the US and South Korea, affecting cargo and logistics operations.",
-      "operational_impact": "Potential delays or increased costs for cargo shipments, but no immediate impact on aviation or personnel safety.",
-      "proximity_alert": "YAKIN TEHDİT: Incheon International Airport (14 km)"
-    }
-  },
-  {
     "id": "99a768a21284ea460db3dd49b5d5030d",
     "timestamp": "2026-01-27T07:34:57.959574",
     "original_title": "North Korea fires projectile towards sea, South Korea's military says - Reuters",
@@ -129,6 +91,44 @@
       "immediate_forecast_24h": "Increased protests and demonstrations are expected in the short term, potentially disrupting transport and logistics operations in the area.",
       "strategic_outlook": "The long-term impact of Bovino's departure on immigration enforcement operations and border security remains uncertain, but it may lead to changes in the way migrants and cargo are processed and transported.",
       "operational_impact": "Potential disruptions to transport and logistics operations in the Minneapolis area, particularly if protests and demonstrations escalate or if changes to immigration enforcement operations affect the movement of cargo and personnel.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "35671ac7d76a430a4382b6b06d5ae4e0",
+    "timestamp": "2026-01-27T08:41:51.520537",
+    "original_title": "Video of Indian army chief acknowledging US intervention in Pakistan conflict is doctored - AFP Fact Check",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBNU19FWm82eDZ0VkU1SEZYMTlycDVFSmR6a0NURUVQRXF4V1BJejZWNEwzQ29GQkZDRUI0X0E5MllRNE9KYXJ3UjdJQUFUYVlvR0VxanBDNjU?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Other",
+      "risk_score": 10,
+      "location": "India/Pakistan",
+      "latitude": 28.7041,
+      "longitude": 77.1025,
+      "detailed_analysis": "A doctored video of the Indian army chief has been circulating, falsely acknowledging US intervention in the Pakistan conflict. This could lead to increased tensions between the countries, but does not directly impact assets, cargo, aviation, or personnel.",
+      "immediate_forecast_24h": "No immediate escalation expected, but the situation will be closely monitored for any developments.",
+      "strategic_outlook": "The dissemination of false information could contribute to a deterioration in relations between India and Pakistan, potentially affecting regional stability in the long term.",
+      "operational_impact": "No direct operational impact on transport or logistics is anticipated at this time.",
+      "proximity_alert": "YAKIN TEHDİT: Indira Gandhi International Airport (16 km)"
+    }
+  },
+  {
+    "id": "92a7fb14f7ac3e8f2a6f2e601f8e1b71",
+    "timestamp": "2026-01-27T08:41:59.563278",
+    "original_title": "Employee At Philadelphia Airport Sent To Federal Prison After Letting Drug Runner Use His ID Pass To Skip TSA",
+    "link": "https://www.paddleyourownkanoo.com/2026/01/27/employee-at-philadelphia-airport-sent-to-federal-prison-after-letting-drug-runner-use-his-id-pass-to-skip-tsa/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Crime/Aviation",
+      "risk_score": 6,
+      "location": "Philadelphia, USA",
+      "latitude": 39.8719,
+      "longitude": -75.2411,
+      "detailed_analysis": "A former Philadelphia International Airport employee was sentenced to prison for allowing a drug runner to use his ID badge to bypass TSA security, highlighting a vulnerability in airport security protocols.",
+      "immediate_forecast_24h": "Increased security measures are likely to be implemented at Philadelphia International Airport to prevent similar incidents, potentially causing minor disruptions to airport operations.",
+      "strategic_outlook": "The incident underscores the need for robust access control and insider threat mitigation strategies at airports to prevent the exploitation of security vulnerabilities by criminal organizations.",
+      "operational_impact": "The incident may lead to enhanced screening and security protocols for airport employees and contractors, potentially affecting the efficiency of airport operations and cargo handling.",
       "proximity_alert": null
     }
   }
