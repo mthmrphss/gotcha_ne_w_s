@@ -644,5 +644,62 @@
       "operational_impact": "Transport and logistics operations in the Minneapolis area may be disrupted, with potential delays or cancellations of flights, shipments, and other cargo movements. Personnel safety is a concern due to the potential for violence and unrest.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "33d694bc56e7cad2d7cd3d6ad6301a16",
+    "timestamp": "2026-01-27T11:29:34.790667",
+    "original_title": "Israel recovers last Gaza hostage remains, ceasefire moves to next phase",
+    "link": "https://www.france24.com/en/israel-recovers-last-gaza-hostage-remains-ceasefire-moves-to-next-phase",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 7,
+      "location": "Gaza, Israel",
+      "latitude": 31.5,
+      "longitude": 34.45,
+      "detailed_analysis": "The recovery of the last hostage remains from the Oct. 7 Hamas attack marks the end of the first phase of the Gaza ceasefire, allowing the truce to move forward. The next phase is expected to reopen the Rafah border crossing, increase aid and travel, and begin the more difficult tasks of disarming Hamas, withdrawing Israeli forces, and rebuilding Gaza.",
+      "immediate_forecast_24h": "The reopening of the Rafah border crossing and increased aid and travel are expected to reduce tensions in the short term, but the disarming of Hamas and withdrawal of Israeli forces may lead to increased instability.",
+      "strategic_outlook": "The long-term success of the ceasefire will depend on the ability of Israel and Hamas to maintain the truce and make progress on the more difficult tasks of disarming Hamas and rebuilding Gaza. The situation remains volatile, and any miscalculation or provocation could lead to a resurgence of violence.",
+      "operational_impact": "The reopening of the Rafah border crossing may lead to increased cargo and personnel movement, but the situation remains uncertain, and transport and logistics operations should exercise caution and be prepared for potential disruptions.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "69ccce9365edff1c18d9b06f94fe9e84",
+    "timestamp": "2026-01-27T11:29:36.766073",
+    "original_title": "US aircraft carrier has arrived in Middle East amid Iran crackdown",
+    "link": "https://www.france24.com/en/us-aircraft-carrier-has-arrived-in-middle-east-amid-iran-crackdown",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest/Aviation",
+      "risk_score": 8,
+      "location": "Middle East",
+      "latitude": 29.7604,
+      "longitude": 47.8965,
+      "detailed_analysis": "The arrival of the USS Abraham Lincoln carrier strike group in the Middle East significantly increases US military presence amid Iran's crackdown on mass protests, sparking concerns of potential conflict escalation and impact on regional aviation and logistics.",
+      "immediate_forecast_24h": "Heightened tensions between the US and Iran may lead to increased military activity, potentially disrupting air traffic and logistics operations in the region.",
+      "strategic_outlook": "The long-term presence of the US carrier strike group in the Middle East may lead to a sustained increase in military activity, potentially affecting regional stability and the security of transport and logistics operations.",
+      "operational_impact": "Potential disruptions to air traffic and logistics operations, increased security measures for aviation and cargo, and heightened risk of conflict-related incidents affecting personnel and assets.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "e5c191b55f05be9772a5bc0c9c6295f0",
+    "timestamp": "2026-01-27T11:29:40.593046",
+    "original_title": "Geneva airport closes ‘due to technical issue’ with thousands of passengers diverted and delayed",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/geneva-airport-technical-issue-passengers-diverted-delayed-b2908383.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Geneva, Switzerland",
+      "latitude": 46.2383,
+      "longitude": 6.1125,
+      "detailed_analysis": "Geneva airport closure due to a technical issue has caused disruptions to thousands of passengers, with inbound easyJet flights from London Gatwick, Birmingham, and Manchester being affected. The situation does not indicate a malicious or intentional act but rather an operational issue.",
+      "immediate_forecast_24h": "The airport is expected to resume operations once the technical issue is resolved, with flights likely to be delayed or diverted in the short term.",
+      "strategic_outlook": "The long-term impact of this incident is expected to be minimal, with the airport and airlines taking measures to prevent such disruptions in the future.",
+      "operational_impact": "The closure of Geneva airport has caused significant disruptions to air travel, with potential knock-on effects for cargo and passenger transport in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Geneva Airport (0 km)"
+    }
   }
 ]
