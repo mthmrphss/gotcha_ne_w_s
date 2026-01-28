@@ -1366,5 +1366,43 @@
       "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics operations in Iran and surrounding regions due to the ongoing civil unrest.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "67f20651e8f67663f84cb5deee3dba63",
+    "timestamp": "2026-01-28T18:47:27.832533",
+    "original_title": "Passengers On Eurowings Flights From Dubai Are Enduring Agonisingly Long Flights Due To Airspace Restrictions",
+    "link": "https://www.paddleyourownkanoo.com/2026/01/28/passengers-on-eurowings-flights-from-dubai-are-enduring-agonisingly-long-flights-due-to-airspace-restrictions/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Dubai, UAE",
+      "latitude": 25.276987,
+      "longitude": 55.296249,
+      "detailed_analysis": "Airspace restrictions are causing extended flight times for Eurowings passengers traveling from Dubai to Berlin and Stuttgart, resulting in delays but no direct threats to safety or security.",
+      "immediate_forecast_24h": "Delays are expected to continue in the short term due to existing airspace restrictions.",
+      "strategic_outlook": "The situation may normalize once airspace restrictions are lifted or alternative routes are established.",
+      "operational_impact": "Potential disruptions to passenger travel plans and minor logistical challenges for Eurowings operations.",
+      "proximity_alert": "YAKIN TEHDİT: DUBAİ (25 km)"
+    }
+  },
+  {
+    "id": "750d7c1a8df4f9ffe821700ba7abcb39",
+    "timestamp": "2026-01-28T18:47:29.812982",
+    "original_title": "Aer Lingus confirms shutdown of Manchester base by March",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/aer-lingus-shutdown-manchester-base-new-york-orlando-barbados-b2909508.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Manchester, UK",
+      "latitude": 53.4808,
+      "longitude": -2.2426,
+      "detailed_analysis": "Aer Lingus is shutting down its Manchester base by March, which may cause disruptions to passengers' travel plans, but does not pose a direct threat to assets, cargo, aviation, or personnel.",
+      "immediate_forecast_24h": "Passengers may experience flight cancellations or changes, and the airline will need to find replacement flights.",
+      "strategic_outlook": "The shutdown may have long-term implications for Aer Lingus' operations and passenger demand, but it is not a security-related threat.",
+      "operational_impact": "The shutdown may cause logistical challenges for the airline and its passengers, but it is not expected to have a significant impact on the overall security of assets, cargo, aviation, or personnel.",
+      "proximity_alert": "YAKIN TEHDİT: Manchester Airport (14 km)"
+    }
   }
 ]
