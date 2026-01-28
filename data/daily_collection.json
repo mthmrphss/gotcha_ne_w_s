@@ -1157,5 +1157,62 @@
       "operational_impact": "Potential disruptions to air traffic and cargo transport in the region, with increased security measures and possible delays or cancellations of flights and shipments.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "8994e56b2263f884ca91e10a347bcff5",
+    "timestamp": "2026-01-28T15:45:15.388582",
+    "original_title": "Iran’s currency falls to a record low a month after protests began",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qpdpy6/irans_currency_falls_to_a_record_low_a_month/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Iran's currency has fallen to a record low amidst ongoing protests, which may lead to increased instability and potential disruptions to transport and logistics operations in the region.",
+      "immediate_forecast_24h": "Protests are likely to continue, and the situation may escalate, potentially affecting airport and seaport operations, as well as road transport.",
+      "strategic_outlook": "The economic instability and civil unrest may have long-term implications for the security and stability of the region, potentially affecting trade and transport routes.",
+      "operational_impact": "Potential disruptions to air and sea cargo operations, as well as road transport, due to protests and unrest; increased risk of delays, cancellations, and changes to transport schedules.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "6c0b48fb8b85cede0c25a08833513220",
+    "timestamp": "2026-01-28T15:45:18.123916",
+    "original_title": "Hamas says ready to transfer Gaza governance to Palestinian technocratic committee",
+    "link": "https://www.france24.com/en/middle-east/20260128-hamas-ready-transfer-gaza-governance-demands-full-reopening-rafah-crossing",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict/Border",
+      "risk_score": 6,
+      "location": "Gaza Strip, Palestine",
+      "latitude": 31.5,
+      "longitude": 34.45,
+      "detailed_analysis": "Hamas' willingness to transfer governance to a technocratic committee may lead to increased stability in the region, but the demand for the Rafah border crossing to be opened without Israeli obstacles could lead to tensions and potential conflict, affecting aviation and cargo operations.",
+      "immediate_forecast_24h": "Tensions may rise at the Rafah border crossing, potentially disrupting cargo and personnel movement, but no immediate aviation threats are reported.",
+      "strategic_outlook": "A power shift in the Gaza Strip could have long-term implications for regional stability, affecting transport and logistics operations, particularly if the Rafah border crossing is not opened as demanded.",
+      "operational_impact": "Potential disruptions to cargo and personnel movement at the Rafah border crossing, with possible spillover effects on aviation operations in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "b96f76d7b552f6427088b2ca6d7503cd",
+    "timestamp": "2026-01-28T15:45:20.669414",
+    "original_title": "Western alliance in the balance: Europe seeks renewed 'predictability from the US on trade, defence'",
+    "link": "https://www.france24.com/en/western-alliance-in-the-balance-europe-seeks-renewed-predictability-from-the-us-on-trade-defence",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Other",
+      "risk_score": 10,
+      "location": "Europe, US",
+      "latitude": 48.8567,
+      "longitude": 2.2943,
+      "detailed_analysis": "The current geopolitical tensions between the US and Europe may lead to trade and defense uncertainties, potentially affecting the stability of the region and the predictability of US actions.",
+      "immediate_forecast_24h": "No immediate threats are expected, but ongoing diplomatic efforts will be closely monitored for any signs of escalation or de-escalation.",
+      "strategic_outlook": "The long-term implications of these tensions could lead to a shift in global alliances and a potential decrease in cooperation between the US and Europe, affecting regional security and stability.",
+      "operational_impact": "The potential impact on transport and logistics is low, but any significant changes in trade policies or defense agreements could lead to increased security measures and potential disruptions to supply chains.",
+      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (1 km)"
+    }
   }
 ]
