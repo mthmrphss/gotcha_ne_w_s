@@ -1,43 +1,5 @@
 [
   {
-    "id": "fd48bb107136d5d3398c34b829d12657",
-    "timestamp": "2026-01-28T10:37:08.492358",
-    "original_title": "A month after Iran protests began, worry and fear pervades Mideast over possible US strike",
-    "link": "https://www.reddit.com/r/worldnews/comments/1qp7vzc/a_month_after_iran_protests_began_worry_and_fear/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict/Civil Unrest",
-      "risk_score": 7,
-      "location": "Middle East",
-      "latitude": 29.5599,
-      "longitude": 47.6467,
-      "detailed_analysis": "The ongoing protests in Iran and the possibility of a US strike have created a climate of worry and fear in the Middle East, potentially destabilizing the region and affecting aviation, cargo, and personnel safety.",
-      "immediate_forecast_24h": "Increased tensions and protests are expected in the region, with a potential for escalation into more severe conflict, affecting air travel and logistics.",
-      "strategic_outlook": "The situation may lead to a long-term increase in instability in the Middle East, impacting global oil prices, trade routes, and the overall security of the region.",
-      "operational_impact": "Potential disruptions to air travel, increased security measures at airports, and heightened vigilance for cargo and personnel movements in the region.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "fcbd1cfd7fafc33dc048b8449c19cc12",
-    "timestamp": "2026-01-28T10:37:12.534448",
-    "original_title": "This airport had the highest number of cancellations in the UK last year",
-    "link": "https://www.independent.co.uk/travel/news-and-advice/southampton-airport-most-flight-cancellations-uk-b2909165.html",
-    "source_name": "Independent Travel",
-    "ai_analysis": {
-      "category": "Aviation",
-      "risk_score": 2,
-      "location": "UK",
-      "latitude": 54.0,
-      "longitude": -2.0,
-      "detailed_analysis": "The airport experienced a high number of cancellations, with over 3% of flights disrupted, indicating potential operational issues but no direct threat to assets, cargo, or personnel.",
-      "immediate_forecast_24h": "No immediate increase in risk expected, but continued monitoring of flight disruptions and potential causes is recommended.",
-      "strategic_outlook": "Long-term, the airport's performance may impact its reputation and passenger traffic, potentially affecting aviation operations and logistics.",
-      "operational_impact": "The high cancellation rate may cause inconvenience to passengers and have a minor impact on logistics, but it does not pose a significant threat to assets, cargo, or personnel.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "a30a8ee2d71de703b93a25c8e5cb61cc",
     "timestamp": "2026-01-28T11:29:22.595354",
     "original_title": "Veteran Indian Politician Among 5 Killed in Plane Crash - The New York Times",
@@ -167,6 +129,25 @@
       "immediate_forecast_24h": "Tensions may remain high in the short term, with potential for protests or clashes, but the immediate risk of a large-scale attack is low.",
       "strategic_outlook": "The long-term outlook is uncertain, with the potential for renewed conflict between Israel and Hamas. The US-brokered ceasefire plan may help to reduce tensions, but its success is uncertain.",
       "operational_impact": "The conflict may impact transport and logistics in the region, particularly for cargo and personnel traveling to or from Gaza. Aviation may also be affected, with potential for increased security measures or flight disruptions.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "f155fa8d6e6662321340600f83cf3376",
+    "timestamp": "2026-01-28T11:48:56.536048",
+    "original_title": "Minnesota Democrat representative attacked despite Trump vowing to \"de-escalate\"",
+    "link": "https://www.france24.com/en/minnesota-democrat-representative-attacked-despite-trump-vowing-to-de-escalate",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest/Crime",
+      "risk_score": 6,
+      "location": "Minneapolis, USA",
+      "latitude": 44.9778,
+      "longitude": -93.265,
+      "detailed_analysis": "A Minnesota Congresswoman was attacked with a syringe of unknown liquid at a town hall meeting, despite the White House's efforts to de-escalate tensions in the area. The incident highlights the potential for violence and unrest in public gatherings, particularly those involving high-profile figures and contentious issues.",
+      "immediate_forecast_24h": "Increased security measures are likely to be implemented in the short term, particularly for public events and gatherings involving government officials. There is a possibility of further protests or demonstrations in response to the incident.",
+      "strategic_outlook": "The long-term outlook suggests a continued risk of civil unrest and potential violence in areas with high levels of political tension. This may impact the security and logistics of events, as well as the safety of personnel and assets in these areas.",
+      "operational_impact": "The incident may lead to increased security protocols for events and gatherings, potentially impacting the movement of people and goods in the area. There may also be a need for enhanced risk assessments and contingency planning for organizations operating in areas with high levels of civil unrest.",
       "proximity_alert": null
     }
   }
