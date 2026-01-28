@@ -1,43 +1,5 @@
 [
   {
-    "id": "b5e49764802c3bfb299d2e5594e2382e",
-    "timestamp": "2026-01-28T21:36:43.045430",
-    "original_title": "FBI takes over investigation into town hall attack on Rep. Ilhan Omar - The Washington Post",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYXdIS2lYc1FGQnh3WS1nYWhCcUFJT1c5eUs3dlR4a3R3SVU2dHM4UFI2aWtlS3hNOHEtLUN3NTBQNEdrakxtVFI5ZlpQTzFxTU56QkhDbzBodDBHYjB2R0RBX0F4OVZQU3Y4VUU4UVc0UktwU3U4ZGNGdVIyeEI0cTlHUzJ4RVhBdWc1UDVHb09EVXNqd1E?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Terrorism/Civil Unrest",
-      "risk_score": 10,
-      "location": "Washington D.C., USA",
-      "latitude": 38.8951,
-      "longitude": -77.0364,
-      "detailed_analysis": "The FBI has taken over the investigation into a town hall attack on Rep. Ilhan Omar, indicating a potential threat to personnel and public figures. This event may lead to increased security measures and potential disruptions to public gatherings and events.",
-      "immediate_forecast_24h": "Increased security presence and potential protests or demonstrations in response to the attack, with a low likelihood of further violent incidents in the next 24 hours.",
-      "strategic_outlook": "The long-term impact of this event may include increased polarization and tensions, potentially leading to further civil unrest and security concerns for public figures and events.",
-      "operational_impact": "The attack may lead to increased security screening and protocols for public events, potentially causing delays or disruptions to logistics and transportation in the affected area.",
-      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
-    }
-  },
-  {
-    "id": "eda983be54e46107d165abaf99958c9f",
-    "timestamp": "2026-01-28T21:36:48.363121",
-    "original_title": "France says will support EU designation of Iran’s IRGC as ‘terrorist’ group",
-    "link": "https://www.reddit.com/r/worldnews/comments/1qpomsm/france_says_will_support_eu_designation_of_irans/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Terrorism/Conflict",
-      "risk_score": 10,
-      "location": "Paris, France",
-      "latitude": 48.8567,
-      "longitude": 2.3508,
-      "detailed_analysis": "The designation of Iran's IRGC as a 'terrorist' group by the EU, supported by France, may lead to increased tensions and potential retaliatory actions from Iran, affecting aviation and cargo security in the region.",
-      "immediate_forecast_24h": "Heightened security measures are expected at French and EU airports, with potential disruptions to flights and cargo operations.",
-      "strategic_outlook": "Long-term implications may include increased security protocols for EU-Iran trade and travel, potentially affecting logistics and supply chains.",
-      "operational_impact": "Transport and logistics companies operating in the region should be prepared for potential delays, increased security checks, and heightened risk of terrorism-related incidents.",
-      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (2 km)"
-    }
-  },
-  {
     "id": "c73fba2be0686bf389ea593a8e7131a9",
     "timestamp": "2026-01-28T22:35:15.159061",
     "original_title": "Nigerian police fire tear gas, protester injured in Lagos floating slum protests",
@@ -54,6 +16,44 @@
       "strategic_outlook": "Long-term, the situation may lead to increased tensions and potential for more widespread unrest, but currently, it appears contained to the local area.",
       "operational_impact": "Minimal direct impact on transport or logistics, but potential for disruptions to local traffic and operations in the vicinity of the protests.",
       "proximity_alert": "YAKIN TEHDİT: Murtala Muhammed International Airport (0 km)"
+    }
+  },
+  {
+    "id": "1e7cf91b847136f041eb4fc005eda059",
+    "timestamp": "2026-01-28T23:33:07.294241",
+    "original_title": "Spain will grant legal status to immigrants lacking authorization",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qprn5m/spain_will_grant_legal_status_to_immigrants/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Border",
+      "risk_score": 10,
+      "location": "Madrid, Spain",
+      "latitude": 40.4168,
+      "longitude": -3.7038,
+      "detailed_analysis": "Spain's decision to grant legal status to immigrants lacking authorization may lead to an increase in migrant flows, potentially affecting transportation and logistics in the region.",
+      "immediate_forecast_24h": "No immediate disruptions to transport or logistics expected, but increased migrant activity may be observed at border crossings and transportation hubs.",
+      "strategic_outlook": "Long-term implications may include changes to migration patterns, potentially impacting the security and efficiency of transportation networks in the region.",
+      "operational_impact": "Transportation and logistics operators should be aware of potential increases in migrant activity and take necessary precautions to ensure the security and integrity of their operations.",
+      "proximity_alert": "YAKIN TEHDİT: Adolfo Suárez Madrid–Barajas Airport (14 km)"
+    }
+  },
+  {
+    "id": "4699d03aa8cbd68a6ba9b87556d012f4",
+    "timestamp": "2026-01-28T23:33:09.258753",
+    "original_title": "EU set to add Iran's Guards to terror list after France U-turn",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qprgqk/eu_set_to_add_irans_guards_to_terror_list_after/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict",
+      "risk_score": 10,
+      "location": "Europe/Iran",
+      "latitude": 48.8567,
+      "longitude": 2.2943,
+      "detailed_analysis": "The EU's decision to add Iran's Guards to the terror list may escalate tensions and increase the risk of retaliatory attacks on European and Iranian assets, cargo, aviation, and personnel.",
+      "immediate_forecast_24h": "Heightened security measures are expected in European cities and airports, with potential disruptions to air travel and cargo transport.",
+      "strategic_outlook": "Long-term implications may include increased diplomatic tensions, economic sanctions, and potential conflict, affecting global supply chains and logistics.",
+      "operational_impact": "Transport and logistics companies operating in the region should be prepared for potential delays, increased security checks, and possible disruptions to their operations.",
+      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (1 km)"
     }
   }
 ]
