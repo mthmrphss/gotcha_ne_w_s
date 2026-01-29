@@ -1,24 +1,5 @@
 [
   {
-    "id": "87d8ee94f7941a99851b304c5a503a15",
-    "timestamp": "2026-01-29T07:49:11.477276",
-    "original_title": "Gunfire and explosions heard near airport in Niger’s capital, residents say",
-    "link": "https://www.france24.com/en/africa/20260129-gunfire-explosions-heard-near-airport-niger-capital-residents-say",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Terrorism/Aviation/Conflict",
-      "risk_score": 10,
-      "location": "Niamey, Niger",
-      "latitude": 13.5142,
-      "longitude": 2.1069,
-      "detailed_analysis": "Reports of gunfire and explosions near Niamey International Airport indicate a potential terrorist attack or insurgency-related incident, posing a significant threat to aviation and personnel safety.",
-      "immediate_forecast_24h": "Increased security measures are likely to be implemented at the airport, with potential disruptions to flights and cargo operations. The situation may escalate, leading to further violence or instability in the surrounding area.",
-      "strategic_outlook": "The ongoing insurgency by jihadist groups in Niger and neighboring countries may lead to continued instability and security threats in the region, affecting aviation, cargo, and personnel safety in the long term.",
-      "operational_impact": "Potential disruptions to flights, cargo operations, and logistics in the region, with increased security measures and possible evacuation of personnel. Cargo and aviation operations may need to be rerouted or suspended until the situation is resolved.",
-      "proximity_alert": "YAKIN TEHDİT: Diori Hamani International Airport (8 km)"
-    }
-  },
-  {
     "id": "2f9c4eade9cadbe42b4c6f2e54216989",
     "timestamp": "2026-01-29T08:51:46.909668",
     "original_title": "5 killed in plane crash in western India - nwaonline.com",
@@ -111,6 +92,63 @@
       "strategic_outlook": "The closure may have long-term implications for Aer Lingus's transatlantic operations and the airline's ability to compete with other carriers, potentially leading to further restructuring or changes in the airline's business model.",
       "operational_impact": "The base closure will impact Aer Lingus's operations, potentially leading to reduced capacity and changes in flight schedules, which may affect passengers and cargo shipments.",
       "proximity_alert": "YAKIN TEHDİT: Manchester Airport (14 km)"
+    }
+  },
+  {
+    "id": "ffa913e221afe5419365ec7969c86ec1",
+    "timestamp": "2026-01-29T09:52:46.830022",
+    "original_title": "Russia Using Starlink-Equipped Attack Drones For Precision Strikes - Aviation Week Network",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRnV1Q2ZaSjl6cmtpLVZYYnU4Nm5HTTFvUTNrcTdwekRDQVE2Qm1LVWhlVG5iX3I0SUVHeHk0cW82N2FuZENLU0RZMlVhMmxJTElyTG9zYXd1UnRsRGdPMGlTSDF2aXF2MzI0WHo4dEc4ZXVDNFV0NFVBTEtqOFlqZjdPc2hHNXFPdXBqX1FlR01ZYUlOUS1WbFFhSWU0eEkzX2xER0k4UktraEVsLXZCZGVlOFl0N2t6ajB0RQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Russia, Ukraine",
+      "latitude": 48.8567,
+      "longitude": 35.6879,
+      "detailed_analysis": "Russia is utilizing Starlink-equipped attack drones for precision strikes, indicating a significant escalation in military capabilities and potential for increased conflict in the region.",
+      "immediate_forecast_24h": "Increased drone activity and potential for strikes in conflict zones, with possible disruptions to aviation and logistics operations.",
+      "strategic_outlook": "Long-term implications include the potential for widespread adoption of advanced drone technology in military operations, leading to increased risks for aviation and logistics security.",
+      "operational_impact": "Transport and logistics operations in the region may be impacted by increased military activity, with potential for delays, disruptions, or even attacks on personnel and assets.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "d3f619a0acd3b8a0808b32b8c00ba475",
+    "timestamp": "2026-01-29T09:52:48.631115",
+    "original_title": "Colombia plane crash: All 15 passengers on board killed - DW.com",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONkh6RVhKQ0dUbE50anFrTlBneHhHQ3NIdERiZjVCSVdsblJTU3JYSE1YV01xa1Jwc19jbWdRdXVZRVZLTDQzWWRDaV95aXZxdnBfNXlzUXRYSkhsd2FIZ3l4VWxiMVFHYXNzVGsxRHFOdS1ibHFuTkN6a2pnc05fZG1NUjVMSHNJa0FGZGtVWDjSAZABQVVfeXFMTnN4amlHYlhMVHNxMGlzNEFBMFJQYXo3ZC1WTHVBV3YtWHFwVDVvd1ViN2xRMHlpSXZ1ZUVwdjlEbG1VWVZsaEltX2NKMDZBNEcyY0x0bmVkZE5VY09IclpKc19ia2h6Mlh6M3dqSzRIYkNoMFV6ODU2cW1sbnByaERLRTF3M18tS0wwXzdxbmJC?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 8,
+      "location": "Colombia",
+      "latitude": 4.0,
+      "longitude": -72.0,
+      "detailed_analysis": "A plane crash in Colombia has resulted in the deaths of all 15 passengers on board, indicating a significant threat to aviation safety and security in the region.",
+      "immediate_forecast_24h": "Investigations into the cause of the crash are likely to begin immediately, with potential disruptions to air travel in the region.",
+      "strategic_outlook": "The crash may lead to increased scrutiny of aviation safety and security protocols in Colombia, potentially resulting in improved safety measures but also possible short-term disruptions to air travel.",
+      "operational_impact": "The crash may impact air cargo and passenger operations in Colombia, with potential delays or cancellations of flights, and increased security measures at airports.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "dd8a279105d1cdd4b77fcbedaf8af39a",
+    "timestamp": "2026-01-29T09:52:50.595031",
+    "original_title": "Taiwan military practices repelling a Chinese assault from the sea - wkzo.com",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWHAtM0g1UmxpSWMxNzZnZVAxRmVlQTBnX2hzdEhibjB0MF9kdWQ0cHVIMlVILS1GNkpPNnZjbTlKME9RQVZ0RnNGbVoyOTB0WG1mallEVEgyZG5uVVRsWjdZTUNjVUllemNqd1lTcTE3ZEZYSVR0RWpiWFRlZFktc2Jrakd5UVBkbThHdFhORnBNYjJ2VE9uM2tFRQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Taiwan",
+      "latitude": 23.5,
+      "longitude": 121.0,
+      "detailed_analysis": "Taiwan's military is practicing repelling a potential Chinese assault from the sea, indicating heightened tensions between the two nations and a potential threat to regional stability and security, particularly for aviation and maritime assets.",
+      "immediate_forecast_24h": "Increased military activity and heightened alertness in the region, potential for miscalculations or accidental clashes, but no immediate indication of an imminent attack.",
+      "strategic_outlook": "Long-term escalation of tensions between Taiwan and China could lead to increased risk of conflict, impacting regional trade, aviation, and maritime security, with potential for broader geopolitical implications.",
+      "operational_impact": "Potential disruptions to air and sea traffic in the region, increased security measures for aviation and maritime assets, and heightened vigilance for potential cyber threats or espionage activities.",
+      "proximity_alert": null
     }
   }
 ]
