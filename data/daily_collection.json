@@ -511,5 +511,62 @@
       "operational_impact": "Potential disruptions to air and sea traffic in the region, increased security measures for aviation and maritime assets, and heightened vigilance for potential cyber threats or espionage activities.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "dee04a6d6c84136fe0d11db0acabe64a",
+    "timestamp": "2026-01-29T10:46:31.792108",
+    "original_title": "Netanyahu Vows to Cut Israel’s Reliance on U.S. Military Aid",
+    "link": "https://www.nytimes.com/2026/01/29/world/middleeast/israel-us-aid-weapons-gaza-biden-netanyahu.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 6,
+      "location": "Israel",
+      "latitude": 31.7833,
+      "longitude": 35.2167,
+      "detailed_analysis": "Prime Minister Netanyahu's statement on reducing reliance on US military aid due to a pause in deliveries during the Gaza war may indicate potential instability and conflict in the region, affecting aviation and personnel safety.",
+      "immediate_forecast_24h": "Increased tensions between Israel and the US may lead to heightened security measures, potentially impacting aviation operations and personnel movements in the region.",
+      "strategic_outlook": "Long-term reduction in US military aid may lead to increased self-sufficiency in Israel's defense capabilities, but may also lead to increased regional instability and conflict, affecting cargo and personnel movements.",
+      "operational_impact": "Potential disruptions to aviation operations, cargo transport, and personnel movements due to increased conflict and instability in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "9898c848ab911f1871c2bb583ec3de2d",
+    "timestamp": "2026-01-29T10:46:34.424140",
+    "original_title": "Iran’s Protest Crackdown Looks Deadlier by the Day",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1qq4ogw/irans_protest_crackdown_looks_deadlier_by_the_day/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 7,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Iran's protest crackdown is escalating, with reports of increased violence and fatalities. This unrest could potentially disrupt logistics and transportation operations, particularly if protests spread to major cities or key infrastructure hubs.",
+      "immediate_forecast_24h": "Protests are likely to continue, with a high risk of clashes between protesters and security forces. Disruptions to transportation and logistics operations are possible, particularly in urban areas.",
+      "strategic_outlook": "The ongoing unrest in Iran could have long-term implications for regional stability and trade. Prolonged disruptions to logistics and transportation operations could impact global supply chains and commerce.",
+      "operational_impact": "Transportation and logistics operations in Iran may be affected, with potential delays or disruptions to cargo shipments and personnel movements. Aviation operations may also be impacted, particularly if protests target airports or aviation infrastructure.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "96586dbb9cd8da6e5010fac35b6fbf5f",
+    "timestamp": "2026-01-29T10:46:38.352075",
+    "original_title": "Mozambique relaunches TotalEnergies gas project after five-year pause",
+    "link": "https://www.france24.com/en/africa/20260129-mozambique-relaunches-totalenergies-gas-project-after-five-year-pause",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict",
+      "risk_score": 8,
+      "location": "Mozambique",
+      "latitude": -18.6657,
+      "longitude": 35.5296,
+      "detailed_analysis": "The relaunch of the TotalEnergies gas project in Mozambique poses a significant threat due to the history of jihadist attacks in the region, which previously resulted in the halt of the project and loss of life.",
+      "immediate_forecast_24h": "Increased security presence is expected around the project site, but the risk of terrorist attacks or sabotage remains high in the short term.",
+      "strategic_outlook": "The long-term success of the project depends on the ability of Mozambique and TotalEnergies to ensure the security of the site and surrounding areas, which could involve significant investment in security measures and cooperation with local and international authorities.",
+      "operational_impact": "The project's relaunch could lead to increased activity in the region, including the movement of personnel and cargo, which may be targeted by terrorist groups, thereby affecting transport and logistics operations.",
+      "proximity_alert": null
+    }
   }
 ]
