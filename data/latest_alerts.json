@@ -1,43 +1,5 @@
 [
   {
-    "id": "f82361a3e773e07f7c9fb772d2c4e3cf",
-    "timestamp": "2026-01-29T04:44:10.363515",
-    "original_title": "Commercial flight vanishes before crashing in Colombia, killing all 15 people on board, including congressman",
-    "link": "https://www.reddit.com/r/worldnews/comments/1qpxewp/commercial_flight_vanishes_before_crashing_in/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Aviation",
-      "risk_score": 8,
-      "location": "Colombia",
-      "latitude": 4.0,
-      "longitude": -72.0,
-      "detailed_analysis": "A commercial flight vanished before crashing in Colombia, resulting in the deaths of all 15 people on board, including a congressman. The cause of the crash is currently unknown.",
-      "immediate_forecast_24h": "Investigations into the crash are expected to begin immediately, with a focus on determining the cause of the disappearance and crash. There may be disruptions to air travel in the region as a result of the investigation.",
-      "strategic_outlook": "The crash may have long-term implications for aviation safety in Colombia and the surrounding region. It may also lead to increased security measures and regulations for commercial flights.",
-      "operational_impact": "The crash may result in disruptions to air travel and logistics in the region, particularly if the cause of the crash is found to be related to a systemic issue or security vulnerability.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "e5d2ded3640fb95d911cd5174b0ecec1",
-    "timestamp": "2026-01-29T04:44:12.990370",
-    "original_title": "Protesters rally at Texas facility holding Minneapolis child in immigration clampdown",
-    "link": "https://www.france24.com/en/americas/20260129-protesters-texas-minneapolis-child-immigration",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Civil Unrest/Border",
-      "risk_score": 4,
-      "location": "Dilley, Texas, USA",
-      "latitude": 28.6667,
-      "longitude": -98.9167,
-      "detailed_analysis": "Protesters gathered outside a US immigration detention centre in Dilley, Texas, demanding the release of a 5-year-old Ecuadoran boy detained under President Donald Trump’s immigration crackdown, resulting in the use of tear gas by state police to disperse the crowd.",
-      "immediate_forecast_24h": "Potential for continued protests and unrest in the area, with possible disruptions to local transportation and logistics.",
-      "strategic_outlook": "Ongoing immigration policies and crackdowns may lead to further civil unrest and protests, potentially impacting border crossings and transport operations.",
-      "operational_impact": "Minimal direct impact on aviation, cargo, or personnel, but potential disruptions to local logistics and transport operations due to protests and unrest.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "ce8ce96c102247736cd3ce9e54a23df8",
     "timestamp": "2026-01-29T05:51:36.763056",
     "original_title": "Plane crash in Colombia kills 15, including politician - Reuters",
@@ -129,6 +91,44 @@
       "immediate_forecast_24h": "Increased protests and potential for violence, with a high likelihood of disruptions to transport and logistics operations.",
       "strategic_outlook": "Long-term instability in Iran could lead to sustained disruptions to transport and logistics operations, with potential for spillover into neighboring countries.",
       "operational_impact": "Potential for delays or disruptions to air, land, and sea transport operations in Iran, with possible impacts on cargo and personnel safety.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "ab8b21db366be08c5d4f1a5c2a6a30cd",
+    "timestamp": "2026-01-29T06:58:47.132828",
+    "original_title": "Trump weighs Iran strikes to inspire renewed protests, sources say",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qq1a7x/trump_weighs_iran_strikes_to_inspire_renewed/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Potential US strikes on Iran could inspire renewed protests, posing a significant threat to regional stability and potentially disrupting aviation and cargo operations.",
+      "immediate_forecast_24h": "Increased tensions and potential for protests or military action in the next 24 hours, which could impact flight routes and cargo shipments.",
+      "strategic_outlook": "Long-term escalation of US-Iran tensions could lead to sustained instability in the region, affecting global supply chains and aviation security.",
+      "operational_impact": "Potential disruptions to air traffic, cargo shipments, and personnel movements in the region, with possible rerouting of flights and increased security measures.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "3aadd3508e0797464bc3c8068b2c96dd",
+    "timestamp": "2026-01-29T06:58:50.877981",
+    "original_title": "Protesters rally at Texas detention centre holding 5-year-old from Minneapolis",
+    "link": "https://www.france24.com/en/americas/20260129-protesters-texas-minneapolis-child-immigration",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest/Border",
+      "risk_score": 4,
+      "location": "Dilley, USA",
+      "latitude": 28.6667,
+      "longitude": -98.9167,
+      "detailed_analysis": "Protesters gathered outside a US immigration detention facility in Dilley, Texas, demanding the release of a 5-year-old boy from Minneapolis, leading to the use of tear gas by state police. The situation may escalate and affect the surrounding area, including potential disruptions to transport and logistics.",
+      "immediate_forecast_24h": "The situation may remain tense, with a possibility of further protests or clashes between demonstrators and law enforcement. However, there is no indication of an immediate threat to aviation, cargo, or personnel.",
+      "strategic_outlook": "The ongoing immigration crackdown and related protests may lead to increased tensions and potential disruptions to transport and logistics in the region, particularly if protests spread to other locations or escalate in intensity.",
+      "operational_impact": "Potential disruptions to ground transport and logistics in the area, particularly if protests block roads or affect nearby infrastructure. However, there is no immediate indication of a significant impact on aviation or cargo operations.",
       "proximity_alert": null
     }
   }
