@@ -815,5 +815,43 @@
       "operational_impact": "Possible delays or cancellations of flights and cargo shipments to and from Iran, as well as increased security checks and protocols for personnel and assets in the region.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "3440113c52604e487396a68b54a9628d",
+    "timestamp": "2026-01-29T15:06:50.355273",
+    "original_title": "Oil prices rise more than 2% as Trump weighs strikes on Iran",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qq9kya/oil_prices_rise_more_than_2_as_trump_weighs/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Iran, Middle East",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The potential for US strikes on Iran has led to a rise in oil prices, which could impact global energy markets and have a ripple effect on the aviation and logistics industries. This situation poses a significant threat to the stability of the region and could lead to increased tensions and conflict.",
+      "immediate_forecast_24h": "Heightened tensions between the US and Iran, potential for military action, and continued volatility in oil prices. Aviation and logistics operations in the region may be affected by increased security measures and potential disruptions to supply chains.",
+      "strategic_outlook": "Long-term instability in the region could lead to sustained higher oil prices, impacting the global economy and trade. The situation may also lead to increased security measures and tensions between nations, potentially affecting global aviation and logistics operations.",
+      "operational_impact": "Potential disruptions to oil supplies, increased security measures for aviation and logistics operations in the region, and possible delays or cancellations of flights and shipments. Companies operating in the region should be prepared for potential disruptions and have contingency plans in place.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "b4b3b8eaa8718f07155ba7817a07a3bd",
+    "timestamp": "2026-01-29T15:06:53.935337",
+    "original_title": "Iranian Revolutionary Guard on \"terrorist list\" major shift for EU",
+    "link": "https://www.france24.com/en/iranian-revolutionary-guard-on-terrorist-list-major-shift-for-eu",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict",
+      "risk_score": 7,
+      "location": "Iran, EU",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The EU's decision to put Iran's Revolutionary Guards on the 'terrorist list' may lead to increased tensions and potential retaliatory actions, affecting aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Heightened security measures and potential protests or demonstrations in Iran and EU countries, with possible disruptions to air travel and cargo transport.",
+      "strategic_outlook": "Long-term implications for diplomatic relations between the EU and Iran, potentially affecting trade and economic cooperation, as well as increased security concerns for personnel and assets in the region.",
+      "operational_impact": "Possible delays or cancellations of flights, increased security checks for cargo and passengers, and enhanced security protocols for personnel and assets in the region.",
+      "proximity_alert": null
+    }
   }
 ]
