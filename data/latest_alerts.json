@@ -1,43 +1,5 @@
 [
   {
-    "id": "899bd5752ee0b8c7ebedee86cc85ec65",
-    "timestamp": "2026-01-29T20:39:18.661846",
-    "original_title": "Report: Helicopter crashes into river about an hour south of St. Louis - thetelegraph.com",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcGR4Tm9ubERUR1VXbXRQenNBb2MwZzBlanpvNVNzZmpucDhlVzBwTUxxUm12MXFGRWtpR2cwZzZZbnk5ajhyNW5PODFSUzA1d0RqWFA4ZmV6d2hveGNXQ2p5Nm0xNnNDVnBtTEczaTYxUmI0UkNRRC1ZZE1heTBzNWJsM2c1RW5kcHZxWDBHLTVwY0g4dFZCUDNCUnhjUQ?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Aviation",
-      "risk_score": 8,
-      "location": "St. Louis, USA",
-      "latitude": 38.627,
-      "longitude": -90.1994,
-      "detailed_analysis": "A helicopter crashed into a river about an hour south of St. Louis, indicating a potential high-risk event for aviation safety and security.",
-      "immediate_forecast_24h": "Investigations into the cause of the crash are likely to begin immediately, with potential disruptions to nearby air traffic and river transport.",
-      "strategic_outlook": "The incident may lead to increased scrutiny of helicopter safety and security protocols in the region, potentially resulting in updated regulations or procedures.",
-      "operational_impact": "The crash may cause temporary disruptions to local aviation and river transport operations, but the overall impact on transport and logistics is expected to be minimal.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "6a8d91eadc288221730974268bf8e026",
-    "timestamp": "2026-01-29T20:39:26.299926",
-    "original_title": "Bangladesh - Level 3: Reconsider Travel",
-    "link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/bangladesh-travel-advisory.html",
-    "source_name": "US State Dept",
-    "ai_analysis": {
-      "category": "Crime/Civil Unrest/Terrorism",
-      "risk_score": 10,
-      "location": "Bangladesh",
-      "latitude": 23.8103,
-      "longitude": 90.4125,
-      "detailed_analysis": "The current situation in Bangladesh poses significant threats to assets, cargo, aviation, and personnel due to kidnapping, unrest, crime, and terrorism. The Chittagong Hill Tracts Region is particularly high-risk, with separatist groups and political violence creating an environment conducive to kidnappings, IED explosions, and active shootings.",
-      "immediate_forecast_24h": "The situation is expected to remain volatile, with occasional protests and the potential for violent clashes. U.S. citizens are advised to avoid all gatherings and take necessary precautions to ensure their safety.",
-      "strategic_outlook": "The long-term outlook for Bangladesh remains uncertain, with the potential for continued unrest and terrorism. The U.S. government has limited ability to provide emergency services, and travel restrictions are in place for U.S. government employees.",
-      "operational_impact": "The threats in Bangladesh may impact transport and logistics operations, particularly in the Chittagong Hill Tracts Region. Companies operating in the area should take necessary precautions to ensure the safety of their personnel and assets, including avoiding travel to high-risk areas and taking extra security measures.",
-      "proximity_alert": "YAKIN TEHDİT: Hazrat Shahjalal International Airport (3 km)"
-    }
-  },
-  {
     "id": "248aaf35efc3566203b45c39541065ae",
     "timestamp": "2026-01-29T21:35:16.337656",
     "original_title": "Iran warns of ‘hazardous consequences’ after EU designates Revolutionary Guard as a terrorist organization",
@@ -92,6 +54,44 @@
       "strategic_outlook": "The long-term stability of the Iranian regime is uncertain, and the current unrest could have far-reaching consequences for the region, including potential impacts on trade, aviation, and personnel safety.",
       "operational_impact": "Transportation and logistics operations in Iran may be disrupted due to the civil unrest, and aviation operations may be affected by potential strikes, protests, or other disruptions. Personnel safety is also a concern due to the regime's severe response to protests.",
       "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "0b042d554cb4932f8ba34df5c92f9a34",
+    "timestamp": "2026-01-29T22:35:17.619457",
+    "original_title": "Police identify security guards involved in fatal shooting at Northrop Grumman - wbaltv.com",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNd1g5NDZjLUhmZUxwZzQ2YUd0TFhFSHg2ZlZ3NEhaRS1fc0ktcURjeVZjcmp3WnJMWkpqWEF6NUlXN1pPT0YwUXNPN0hxdTN1Tm80MUdHbWRnUHplRnBrZlYtcW5MUGtMbGtHVGoxNU81Z05vdlVDc3BMQ0o2eTVXRGVRZ1BFdWJ0ckdCaW5jUDBlc1pSQUdnejk0RF91Q1hLYjZlbw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Crime",
+      "risk_score": 6,
+      "location": "Northrop Grumman facility, USA",
+      "latitude": 38.9773,
+      "longitude": -76.5067,
+      "detailed_analysis": "A fatal shooting occurred at a Northrop Grumman facility, involving security guards. This incident highlights potential security vulnerabilities at critical infrastructure sites.",
+      "immediate_forecast_24h": "Increased security measures are expected to be implemented at the facility and potentially other similar sites in the near term.",
+      "strategic_outlook": "The long-term impact may include a review of security protocols and procedures at Northrop Grumman facilities and other critical infrastructure sites to prevent similar incidents.",
+      "operational_impact": "The incident may cause temporary disruptions to operations at the facility, but it is unlikely to have a significant impact on the overall supply chain or logistics operations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "2e887a6a0fc0a5cdf0f9727515362e06",
+    "timestamp": "2026-01-29T22:35:23.109856",
+    "original_title": "Trump says Putin will not attack Ukraine cities during cold week",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qqn64a/trump_says_putin_will_not_attack_ukraine_cities/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 6,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "Statement from Trump regarding Putin's intentions not to attack Ukrainian cities during a cold week may indicate a temporary reduction in conflict escalation, but the situation remains volatile and unpredictable.",
+      "immediate_forecast_24h": "The situation is expected to remain tense, with potential for sudden changes in the conflict dynamics, but no immediate large-scale attacks on cities are anticipated based on the statement.",
+      "strategic_outlook": "Long-term, the conflict's trajectory is uncertain and influenced by multiple factors, including international diplomacy and the actions of involved parties. The statement may be an attempt to de-escalate or could be a tactical move.",
+      "operational_impact": "Transport and logistics in the region may face continued disruptions due to the conflict, with potential for increased security measures and restrictions. The situation demands close monitoring for any changes that could affect operations.",
+      "proximity_alert": null
     }
   }
 ]
