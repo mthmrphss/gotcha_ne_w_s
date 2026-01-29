@@ -340,5 +340,24 @@
       "operational_impact": "Potential disruptions to air traffic, cargo shipments, and personnel movements in the region, with possible rerouting of flights and increased security measures.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "87d8ee94f7941a99851b304c5a503a15",
+    "timestamp": "2026-01-29T07:49:11.477276",
+    "original_title": "Gunfire and explosions heard near airport in Niger’s capital, residents say",
+    "link": "https://www.france24.com/en/africa/20260129-gunfire-explosions-heard-near-airport-niger-capital-residents-say",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Terrorism/Aviation/Conflict",
+      "risk_score": 10,
+      "location": "Niamey, Niger",
+      "latitude": 13.5142,
+      "longitude": 2.1069,
+      "detailed_analysis": "Reports of gunfire and explosions near Niamey International Airport indicate a potential terrorist attack or insurgency-related incident, posing a significant threat to aviation and personnel safety.",
+      "immediate_forecast_24h": "Increased security measures are likely to be implemented at the airport, with potential disruptions to flights and cargo operations. The situation may escalate, leading to further violence or instability in the surrounding area.",
+      "strategic_outlook": "The ongoing insurgency by jihadist groups in Niger and neighboring countries may lead to continued instability and security threats in the region, affecting aviation, cargo, and personnel safety in the long term.",
+      "operational_impact": "Potential disruptions to flights, cargo operations, and logistics in the region, with increased security measures and possible evacuation of personnel. Cargo and aviation operations may need to be rerouted or suspended until the situation is resolved.",
+      "proximity_alert": "YAKIN TEHDİT: Diori Hamani International Airport (8 km)"
+    }
   }
 ]
