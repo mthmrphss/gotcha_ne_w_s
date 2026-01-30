@@ -1,43 +1,5 @@
 [
   {
-    "id": "8b6db75aafa71d665386a83febd8eb9c",
-    "timestamp": "2026-01-30T09:49:06.320995",
-    "original_title": "Healthcare breaches reach new cost highs as adversaries exploit expanding clinical attack surfaces, Trellix reports - Industrial Cyber",
-    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVlBTaGlmRDVOZXlJZG9DMDJSWmtYckNMaV95R3diWGlrLVFrbVFJVDRSR2NqbHpOQWFDaktRdlE5Sk42bDlNcXRsYXlmbkFIdEcySE5qVEdESm5EZDE4bC1yTTlPaUJ0bDRBbXJoTDVZOXRPRlRHbWdDd0dfZE5wWk5jQVJCRTA1YUhTQi1Ja0xZZkIxR3YtVUtVLTVoYW5pM2ZtVUx2V1dfNERSU29BNXhjUUMtTzdVOGtPN0htc2RYY1Jjb1dkTm5aMS1CbERLYzA4Z1pBTWdETmx4ZDN3RmkzS3c?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Cyber",
-      "risk_score": 8,
-      "location": "Global",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "Healthcare breaches have reached new cost highs due to adversaries exploiting expanding clinical attack surfaces, as reported by Trellix. This poses a significant threat to the security of healthcare systems and patient data.",
-      "immediate_forecast_24h": "Increased vigilance is expected from healthcare organizations to protect against potential cyber threats, with a high likelihood of further breaches in the short term.",
-      "strategic_outlook": "The long-term outlook suggests a continued escalation of cyber threats in the healthcare sector, with potential consequences for patient care, data security, and the overall integrity of healthcare systems.",
-      "operational_impact": "The operational impact of these breaches may include disruptions to healthcare services, compromised patient data, and potential financial losses for affected organizations.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "3fec1cf8211c4436cdbb2b5c5027ccec",
-    "timestamp": "2026-01-30T09:49:12.656341",
-    "original_title": "Burkina Faso military government dissolves 100 political parties",
-    "link": "http://www.africanews.com/2026/01/30/burkina-faso-military-government-dissolves-100-political-parties/",
-    "source_name": "Africa News",
-    "ai_analysis": {
-      "category": "Civil Unrest/Conflict",
-      "risk_score": 10,
-      "location": "Ouagadougou, Burkina Faso",
-      "latitude": 12.35,
-      "longitude": -1.53,
-      "detailed_analysis": "The dissolution of 100 political parties by the military government in Burkina Faso may lead to increased civil unrest and potential instability, affecting the security environment for assets, cargo, aviation, and personnel in the region.",
-      "immediate_forecast_24h": "Heightened security measures are expected in the short term, with potential for protests or demonstrations against the military government's decision.",
-      "strategic_outlook": "Long-term instability and potential for conflict may arise from the suppression of political parties, posing a risk to regional security and transport operations.",
-      "operational_impact": "Transport and logistics operations in Burkina Faso may be affected by increased security checks, potential protests, and instability, leading to delays or disruptions in the supply chain.",
-      "proximity_alert": "YAKIN TEHDİT: Ouagadougou Airport (1 km)"
-    }
-  },
-  {
     "id": "dafdddce1967c6db52e3f84b7f9c48d5",
     "timestamp": "2026-01-30T10:42:45.801103",
     "original_title": "Myanmar: Türk says military-controlled ballot exacerbates violence and social division - ohchr",
@@ -111,6 +73,101 @@
       "strategic_outlook": "Long-term implications for the use of satellite technology in conflict zones, potential for increased regulation or restrictions on the export of such technology, and ongoing concerns about the role of cyber capabilities in modern warfare.",
       "operational_impact": "Potential disruptions to aviation and logistics operations in the region due to increased conflict and cybersecurity concerns, as well as potential impacts on global supply chains and transportation networks.",
       "proximity_alert": null
+    }
+  },
+  {
+    "id": "322019ebf20e947018fa3a0d6d3b5140",
+    "timestamp": "2026-01-30T11:34:59.502204",
+    "original_title": "Donald Trump says ‘hopefully’ no need for military action against Iran",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qr2j1p/donald_trump_says_hopefully_no_need_for_military/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 6,
+      "location": "Iran, USA",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The statement by Donald Trump regarding potential military action against Iran increases tensions between the two nations, posing a threat to regional stability and potentially impacting aviation and cargo operations in the area.",
+      "immediate_forecast_24h": "Heightened alertness and increased military presence in the region, potential for retaliatory actions or statements from Iran.",
+      "strategic_outlook": "Prolonged tensions could lead to increased instability in the Middle East, affecting global oil prices, aviation routes, and cargo shipments.",
+      "operational_impact": "Potential for flight restrictions, increased security measures at airports, and delays in cargo shipments due to heightened security protocols.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "0d1fe0f664e042ca377a56b71fada71e",
+    "timestamp": "2026-01-30T11:35:04.146724",
+    "original_title": "'Too big to fail': TotalEnergies relaunches Mozambique gas project linked to 2021 massacre",
+    "link": "https://www.france24.com/en/tv-shows/press-review/20260130-too-big-to-fail-totalenergies-relaunches-mozambique-gas-project-linked-to-2021-massacre",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 8,
+      "location": "Mozambique",
+      "latitude": -18.6653,
+      "longitude": 35.5296,
+      "detailed_analysis": "TotalEnergies' relaunch of the Mozambique gas project, previously linked to a 2021 massacre, poses significant security risks due to potential terrorist or insurgent attacks targeting the project's assets and personnel.",
+      "immediate_forecast_24h": "Increased security measures are expected in the project area, with potential for protests or demonstrations against the project's relaunch.",
+      "strategic_outlook": "The project's relaunch may exacerbate existing tensions in the region, potentially leading to long-term instability and security threats to assets, cargo, and personnel.",
+      "operational_impact": "Transport and logistics operations in the region may be affected by increased security measures, potential protests, or insurgent activity, leading to delays or disruptions in cargo movement and personnel travel.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "bc2e0d235721b873d9e0aa5173a5729b",
+    "timestamp": "2026-01-30T11:35:05.845340",
+    "original_title": "Nicaragua, the forgotten dictatorship",
+    "link": "https://www.france24.com/en/tv-shows/reporters/20260130-nicaragua-the-forgotten-dictatorship",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 6,
+      "location": "Managua, Nicaragua",
+      "latitude": 12.1333,
+      "longitude": -86.2333,
+      "detailed_analysis": "The regime's crackdown on protests and media blackout creates an unstable environment, potentially affecting transport and logistics in the region.",
+      "immediate_forecast_24h": "Increased tensions and potential for further unrest, but no immediate indication of direct threats to aviation, cargo, or personnel.",
+      "strategic_outlook": "Long-term instability may lead to increased migration and potential border breaches, affecting transport and logistics in the region.",
+      "operational_impact": "Potential disruptions to supply chains and logistics due to the unstable environment, but no immediate operational impact expected.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "21fd37afad372050f893a056e8fd9fe8",
+    "timestamp": "2026-01-30T11:35:07.722751",
+    "original_title": "Sale of French military supplier to US company draws criticism",
+    "link": "https://www.france24.com/en/sale-of-french-military-supplier-to-us-company-draws-criticism",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Other",
+      "risk_score": 10,
+      "location": "Paris, France",
+      "latitude": 48.8567,
+      "longitude": 2.3508,
+      "detailed_analysis": "The sale of French military supplier LMB Aerospace to a US company has sparked controversy and criticism in France, but does not directly pose a threat to assets, cargo, aviation, or personnel at this time.",
+      "immediate_forecast_24h": "The French government's decision to take a controlling stake in LMB is expected to mitigate concerns over French military sovereignty, and no immediate disruptions to transport or logistics are anticipated.",
+      "strategic_outlook": "The long-term implications of this sale on Franco-US relations and the European defense industry may lead to increased tensions or cooperation, but the direct impact on security operations is currently limited.",
+      "operational_impact": "No significant operational impact is expected on transport or logistics, but the situation will be monitored for potential developments that could affect the security of assets, cargo, aviation, or personnel.",
+      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (2 km)"
+    }
+  },
+  {
+    "id": "a2e3b698e20f691f537ccc63cd895310",
+    "timestamp": "2026-01-30T11:35:11.594082",
+    "original_title": "Nipah virus: What travellers need to know",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/nipah-virus-india-travel-advice-b2910730.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Other",
+      "risk_score": 10,
+      "location": "Thailand, Pakistan",
+      "latitude": 13.75,
+      "longitude": 100.5,
+      "detailed_analysis": "Outbreak of Nipah virus has led to health screenings at international airports in Thailand and Pakistan, potentially impacting air travel and logistics",
+      "immediate_forecast_24h": "Increased health screenings and potential travel disruptions at affected airports",
+      "strategic_outlook": "Long-term impact on air travel and logistics in the region will depend on the effectiveness of health screenings and containment of the outbreak",
+      "operational_impact": "Potential delays and disruptions to air travel and cargo operations due to enhanced health screenings",
+      "proximity_alert": "YAKIN TEHDİT: Suvarnabhumi Airport (24 km)"
     }
   }
 ]
