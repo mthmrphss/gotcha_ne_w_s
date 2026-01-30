@@ -1,24 +1,5 @@
 [
   {
-    "id": "0c6d441afc59affbb86fc8ed5a62ccb1",
-    "timestamp": "2026-01-30T17:07:49.888326",
-    "original_title": "Bulgaria's entry into the EU single currency: A historic shift",
-    "link": "https://www.france24.com/en/tv-shows/talking-europe/20260130-bulgaria-s-entry-into-the-eu-single-currency-a-historic-shift",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Civil Unrest/Other",
-      "risk_score": 10,
-      "location": "Sofia, Bulgaria",
-      "latitude": 42.6979,
-      "longitude": 23.3225,
-      "detailed_analysis": "Bulgaria's entry into the EU single currency may lead to economic benefits, but the current political polarisation and mass anti-corruption protests could potentially disrupt transport and logistics operations.",
-      "immediate_forecast_24h": "Protests may continue, but no significant disruptions to transport are expected in the next 24 hours.",
-      "strategic_outlook": "In the long term, Bulgaria's adoption of the euro may lead to increased economic stability and reduced risk of civil unrest.",
-      "operational_impact": "Minimal impact on transport and logistics operations is expected, but companies should monitor the situation and be prepared for potential disruptions.",
-      "proximity_alert": "YAKIN TEHDİT: Sofia Airport (7 km)"
-    }
-  },
-  {
     "id": "874e40dcea6ee6ed01766d50e8dd5885",
     "timestamp": "2026-01-30T18:00:23.480439",
     "original_title": "French IT group Capgemini is facing growing scrutiny over a controversial contract between its US subsidiary and ICE. Investigations by several French media outlets reveal a relationship stretching back more than 20 years.",
@@ -73,6 +54,25 @@
       "strategic_outlook": "Long-term instability in the region may lead to the resurgence of extremist groups, posing a persistent threat to regional security and global aviation and cargo operations.",
       "operational_impact": "Potential disruptions to logistics and transport operations in the region, with increased risk of attacks on personnel and assets. Aviation operations may also be affected due to the proximity of the conflict zone to major air routes.",
       "proximity_alert": null
+    }
+  },
+  {
+    "id": "1bdf60aac73ca8a63eda4d953805df2c",
+    "timestamp": "2026-01-30T19:08:42.338860",
+    "original_title": "Iran's foreign minister says Tehran ready to resume nuclear talks with U.S.",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qredrf/irans_foreign_minister_says_tehran_ready_to/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Iran's foreign minister has expressed readiness to resume nuclear talks with the U.S., which may lead to a decrease in tensions and potential conflict in the region.",
+      "immediate_forecast_24h": "No immediate changes in the security situation are expected, but a positive development in the talks could lead to a reduction in the risk of conflict.",
+      "strategic_outlook": "A successful resumption of nuclear talks could lead to improved relations between Iran and the U.S., potentially reducing the risk of conflict and improving the security situation in the region.",
+      "operational_impact": "The resumption of nuclear talks is unlikely to have a direct impact on transport and logistics operations in the short term, but a reduction in tensions could lead to improved stability and security in the region over time.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
     }
   }
 ]
