@@ -948,5 +948,81 @@
       "operational_impact": "The attack may cause disruptions to air travel and logistics in Niger, with potential delays or cancellations of flights. The incident may also impact the transportation of cargo and personnel in the region, particularly if security measures are increased or if further attacks occur.",
       "proximity_alert": "YAKIN TEHDİT: Diori Hamani International Airport (7 km)"
     }
+  },
+  {
+    "id": "f81036666389c8da8cac1c1e1585214a",
+    "timestamp": "2026-01-30T16:00:51.743199",
+    "original_title": "Microsoft Just Killed the \"Cover for Me\" Excuse: 365 Now Tracks You in Real-Time",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qr8oiu/microsoft_just_killed_the_cover_for_me_excuse_365/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 10,
+      "location": "Redmond, USA",
+      "latitude": 47.6732,
+      "longitude": -122.1312,
+      "detailed_analysis": "Microsoft's new feature to track users in real-time may pose a potential threat to personnel and assets, particularly in terms of data privacy and security. However, this is not a direct threat to aviation, cargo, or physical security.",
+      "immediate_forecast_24h": "No immediate impact expected, but potential for increased scrutiny on data handling practices.",
+      "strategic_outlook": "Long-term implications for data privacy and security protocols, potentially influencing industry standards and best practices.",
+      "operational_impact": "Minimal direct impact on transport and logistics operations, but potential for increased focus on cybersecurity measures to protect sensitive information.",
+      "proximity_alert": "YAKIN TEHDİT: Seattle International Airport (16 km)"
+    }
+  },
+  {
+    "id": "18aab92f23dc214a28eb6afe0a6a10f4",
+    "timestamp": "2026-01-30T16:00:54.156002",
+    "original_title": "Niger's leader says France, Benin, Ivory Coast behind airport attack",
+    "link": "http://www.africanews.com/2026/01/30/nigers-leader-says-france-benin-ivory-coast-behind-airport-attack/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 10,
+      "location": "Niamey, Niger",
+      "latitude": 13.5142,
+      "longitude": 2.1155,
+      "detailed_analysis": "Niger's military leader has accused France, Benin, and Ivory Coast of supporting armed groups that attacked an Air Force base, wounding four soldiers and damaging an aircraft, indicating a high level of conflict and potential for further attacks on aviation assets.",
+      "immediate_forecast_24h": "Increased tensions between Niger and the accused countries may lead to further attacks or retaliatory actions, potentially disrupting air travel and logistics in the region.",
+      "strategic_outlook": "The situation may escalate into a broader regional conflict, affecting stability and security in West Africa, with potential long-term impacts on aviation, cargo, and personnel safety.",
+      "operational_impact": "Air travel and logistics operations in Niger and surrounding countries may be disrupted or suspended due to the increased risk of attacks, and transport companies should consider alternative routes or enhanced security measures to mitigate potential threats.",
+      "proximity_alert": "YAKIN TEHDİT: Diori Hamani International Airport (7 km)"
+    }
+  },
+  {
+    "id": "2923b3c8381864f7741e010073e9f439",
+    "timestamp": "2026-01-30T16:00:56.188702",
+    "original_title": "With US-Iran talks, Turkey has \"another opportunity to carve out its mediator role\"",
+    "link": "https://www.france24.com/en/with-us-iran-talks-turkey-has-another-opportunity-to-carve-out-its-mediator-role",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 6,
+      "location": "Istanbul, Turkey",
+      "latitude": 41.0083,
+      "longitude": 28.975,
+      "detailed_analysis": "US-Iran tensions and potential military build-up in the region pose a threat to aviation and personnel safety, with Turkey attempting to mediate the situation.",
+      "immediate_forecast_24h": "Talks between Iranian and Turkish officials may lead to a temporary de-escalation, but the situation remains volatile and prone to sudden changes.",
+      "strategic_outlook": "The long-term outcome of US-Iran talks and Turkey's mediator role will significantly impact regional stability and security, affecting assets, cargo, aviation, and personnel in the area.",
+      "operational_impact": "Potential disruptions to air travel, increased security measures, and possible restrictions on cargo transport may occur if the situation escalates, affecting logistics and supply chains in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "8d48d6e12cdb6da393a164b4d1ea90f3",
+    "timestamp": "2026-01-30T16:00:58.305243",
+    "original_title": "US and Iran have \"little wriggle room\" as tensions remain high",
+    "link": "https://www.france24.com/en/us-and-iran-have-little-wriggle-room-as-tensions-remain-high",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The current tensions between the US and Iran pose a significant threat to regional stability, with potential implications for aviation and cargo operations. The involvement of Turkey in diplomatic efforts may help to de-escalate the situation, but the risk of conflict remains high.",
+      "immediate_forecast_24h": "The situation is likely to remain volatile, with a continued risk of military action or other forms of escalation. Diplomatic efforts may lead to a temporary reduction in tensions, but the underlying issues are unlikely to be resolved in the short term.",
+      "strategic_outlook": "The long-term outlook for the region is uncertain, with the potential for ongoing conflict and instability. This could have significant implications for aviation and cargo operations, including the risk of airspace closures, sanctions, and other disruptions.",
+      "operational_impact": "The current tensions may lead to increased security measures and disruptions to aviation and cargo operations in the region. This could include airspace closures, flight restrictions, and enhanced security screening, which could impact the efficiency and reliability of transport and logistics operations.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
   }
 ]
