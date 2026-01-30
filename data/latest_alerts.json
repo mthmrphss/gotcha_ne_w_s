@@ -1,24 +1,5 @@
 [
   {
-    "id": "5fcc31af811d125bc05fd3d7c16a667d",
-    "timestamp": "2026-01-30T13:12:02.953461",
-    "original_title": "Kremlin says Trump asked Russia to pause strikes on Kyiv | CNN",
-    "link": "https://www.reddit.com/r/worldnews/comments/1qr4hra/kremlin_says_trump_asked_russia_to_pause_strikes/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 10,
-      "location": "Kyiv, Ukraine",
-      "latitude": 50.4501,
-      "longitude": 30.5236,
-      "detailed_analysis": "The Kremlin has announced that former US President Trump asked Russia to pause strikes on Kyiv, indicating a potential shift in the conflict dynamics. This development could impact the security situation in Ukraine and affect aviation and cargo operations in the region.",
-      "immediate_forecast_24h": "Increased tensions and potential escalation of conflict in the short term, with possible disruptions to air traffic and logistics in Ukraine.",
-      "strategic_outlook": "Long-term implications for regional stability and global geopolitics, with potential consequences for international trade and security cooperation.",
-      "operational_impact": "Potential disruptions to air traffic, cargo transport, and logistics in Ukraine, with possible spillover effects on regional and global supply chains.",
-      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
-    }
-  },
-  {
     "id": "919707a66c8c05d0b750dd4cb9d6fca9",
     "timestamp": "2026-01-30T14:07:41.995063",
     "original_title": "Spain’s Pedro Sánchez Fires Back at Elon Musk Over Migrant Plan",
@@ -92,6 +73,44 @@
       "strategic_outlook": "The ongoing situation at the detention center may lead to continued civil unrest, potentially impacting the stability of the region and affecting the movement of assets, cargo, and personnel in the long term.",
       "operational_impact": "The protests and police response may cause temporary disruptions to local transportation, including potential road closures or delays, which could impact the movement of goods and people in the area.",
       "proximity_alert": null
+    }
+  },
+  {
+    "id": "8550c9af0091fb3bd62f75b243c6de6e",
+    "timestamp": "2026-01-30T15:04:13.080791",
+    "original_title": "Killing Khamenei? Hitting military sites? It is unclear what a US attack on Iran would achieve | Dan Sabbagh - The Guardian",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaXd4U0NGY0FUX25wczZyYnhkRUYzZzBpdkJnTFhtNUg0cVpqRER2b0NMR0VBXzZxVE9NYzAwOXdfdHlKdGRKQ3N5X01BVXJBRExOM0phdFJJZlo0SXlKYmVuVUFLcVluVEZ1UFRkcVV3WFIySjB4cDdKb2tQREJCSkdEak9DS3hVMmRMQy01czNwaEphOGU1VkVKamZ4ZEZVR2VjSVdObUw4UQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The article discusses the potential consequences of a US attack on Iran, including the possibility of targeting military sites or high-ranking officials. This could lead to a significant escalation of tensions in the region, potentially affecting aviation and cargo operations.",
+      "immediate_forecast_24h": "Increased tensions between the US and Iran, potential for military action or retaliation, and heightened security measures at airports and other critical infrastructure.",
+      "strategic_outlook": "Long-term instability in the region, potential for ongoing conflict, and increased risk of terrorism or cyber attacks targeting aviation and logistics operations.",
+      "operational_impact": "Potential disruptions to air travel, cargo shipments, and supply chains, particularly in the Middle East region. Increased security protocols and screening measures may be implemented, leading to delays and additional costs for transport and logistics operators.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "229e9d5eebe3e445ad23446d80cac8e0",
+    "timestamp": "2026-01-30T15:04:17.937698",
+    "original_title": "Islamic State group claims deadly attack on Niamey airport in Niger",
+    "link": "https://www.france24.com/en/africa/20260130-islamic-state-group-claims-deadly-attack-on-niamey-airport-in-niger",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Terrorism/Aviation/Conflict",
+      "risk_score": 10,
+      "location": "Niamey, Niger",
+      "latitude": 13.5142,
+      "longitude": 2.1155,
+      "detailed_analysis": "The Islamic State group claimed responsibility for a deadly attack on Niamey airport in Niger, targeting an air force base and damaging an aircraft. The attack resulted in the wounding of four soldiers and the death of 20 attackers, with 11 others arrested.",
+      "immediate_forecast_24h": "Increased security measures are expected at Niamey airport and surrounding areas, with potential disruptions to air travel and logistics. Further attacks or retaliatory actions by the Islamic State group or other extremist groups are possible.",
+      "strategic_outlook": "The attack highlights the ongoing threat of terrorism in the region and the need for enhanced security measures to protect critical infrastructure, including airports and air force bases. The incident may also lead to increased cooperation between regional governments and international partners to combat extremism.",
+      "operational_impact": "The attack may cause disruptions to air travel and logistics in Niger, with potential delays or cancellations of flights. The incident may also impact the transportation of cargo and personnel in the region, particularly if security measures are increased or if further attacks occur.",
+      "proximity_alert": "YAKIN TEHDİT: Diori Hamani International Airport (7 km)"
     }
   }
 ]
