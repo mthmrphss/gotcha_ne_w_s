@@ -986,5 +986,62 @@
       "operational_impact": "Potential disruptions to ground transport, possible restrictions on air travel, and increased security requirements for personnel and assets in the region.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "2c7e9c47e81b34197bad610a461d20cb",
+    "timestamp": "2026-01-31T16:38:06.271979",
+    "original_title": "Israel Launches Deadly Strikes in Gaza, as Rafah Border Is Set to Reopen",
+    "link": "https://www.nytimes.com/2026/01/31/world/middleeast/israel-strikes-gaza-rafah-reopening.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "Gaza, Israel",
+      "latitude": 31.5,
+      "longitude": 34.45,
+      "detailed_analysis": "The recent strikes in Gaza by Israel have resulted in significant casualties, with at least 26 people killed. The Israeli military has stated that the attacks targeted Hamas commanders, indicating a heightened level of conflict in the region. The reopening of the Rafah border is seen as a positive step towards a cease-fire, but the situation remains volatile.",
+      "immediate_forecast_24h": "The situation is likely to remain tense in the next 24 hours, with potential for further clashes or retaliatory attacks. The reopening of the border may help to reduce tensions, but the risk of violence remains high.",
+      "strategic_outlook": "The long-term outlook for the region remains uncertain, with ongoing conflict between Israel and Hamas. The situation has the potential to escalate into a larger conflict, which could have significant implications for regional stability and global security.",
+      "operational_impact": "The conflict in Gaza has the potential to disrupt air travel and logistics in the region, particularly if the violence escalates or spreads to other areas. Airlines and logistics companies should be prepared for potential disruptions, including flight cancellations or delays, and should monitor the situation closely.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "0f710714119aea7da3517afeff69962a",
+    "timestamp": "2026-01-31T16:38:09.201022",
+    "original_title": "Two explosions reported in Iran - as Israel denies involvement | World News",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qs6smn/two_explosions_reported_in_iran_as_israel_denies/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 8,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Two explosions reported in Iran, with Israel denying involvement. This incident has the potential to escalate tensions in the region, posing a threat to aviation and cargo operations.",
+      "immediate_forecast_24h": "Increased security measures are expected in the region, with potential disruptions to air traffic and cargo transport. Further explosions or retaliatory actions are possible.",
+      "strategic_outlook": "The incident may lead to a long-term increase in tensions between Iran and Israel, potentially affecting regional stability and transport operations. Aviation and cargo companies should be prepared for possible disruptions and heightened security measures.",
+      "operational_impact": "Potential disruptions to air traffic, cargo transport, and logistics operations in the region. Companies operating in the area should review their security protocols and be prepared for possible delays or changes in operational procedures.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "8439f50d7e35f3577b01f4846608fc48",
+    "timestamp": "2026-01-31T16:38:41.690407",
+    "original_title": "Deadly extremist attacks kill dozens in north-eastern Nigeria",
+    "link": "http://www.africanews.com/2026/01/31/deadly-extremist-attacks-kill-dozens-in-north-eastern-nigeria/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict",
+      "risk_score": 8,
+      "location": "North-eastern Nigeria",
+      "latitude": 11.5,
+      "longitude": 13.2,
+      "detailed_analysis": "Deadly extremist attacks by Islamist militants in north-eastern Nigeria pose a significant threat to personnel and assets in the region. The attacks highlight the ongoing instability and security concerns in the area.",
+      "immediate_forecast_24h": "Increased security measures are expected in the region, with potential for further attacks or retaliations. Transport and logistics operations may be disrupted or suspended temporarily.",
+      "strategic_outlook": "The long-term outlook for the region remains uncertain, with ongoing conflict and instability likely to continue. This may lead to sustained disruptions to transport and logistics operations, as well as increased security costs for assets and personnel.",
+      "operational_impact": "The attacks may impact overland transport and logistics operations, particularly those involving high-value or sensitive cargo. Aviation operations may also be affected, with potential for increased security screening or route changes to avoid the affected area.",
+      "proximity_alert": null
+    }
   }
 ]
