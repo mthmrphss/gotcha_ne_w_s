@@ -948,5 +948,43 @@
       "operational_impact": "Transport and logistics operations in the region may be disrupted due to increased security measures and potential for further clashes. Aviation operations may also be impacted, with potential for flight disruptions or restrictions.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "10ddde2d78777b0883a214a7628e74ab",
+    "timestamp": "2026-01-31T15:31:20.917592",
+    "original_title": "eScan Antivirus Delivers Malware in Supply Chain Attack - SecurityWeek",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYjdNbHI5eFFPZk1JbGNfREYyRnhlcE95V25jMzNLVWlIYkFVVnFrWXNhb3hTTzJIbEFmdDdRS0hpTmNIQTNMVjlyTkIzaS1IcUdlaXlrYUVzZjB3cjlGWjdqWVZvMVFXb0FkREk0VF9MdHFpVWpmVUlpSjUxaGRXeDl0MTNLZnI2dFdPcG130gGTAUFVX3lxTE1zNjl4dmN6bTV1TjU1bGZCQ1VkNURTNVdyS3hNSjNGclh3V210ZTFqZE9PV3dONHVjLWdJQTdNOW5qaFF1M25iOEd1enlNX0ppQzdwclFOc25tUXVjSTZyNmlENlBCZlRndmVqMVN1R203SGJnNjRSczZMTExvWUkwa1MxSjFjQTNJQUJZLVJaeExmdw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 8,
+      "location": "Global",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "A supply chain attack has been reported where eScan Antivirus has been delivering malware, potentially compromising the security of its users and their systems. This could lead to significant data breaches and disruptions to operations.",
+      "immediate_forecast_24h": "In the next 24 hours, users of eScan Antivirus may experience system compromises, data theft, or other malicious activities. Immediate action is required to mitigate these risks, including updating or replacing the antivirus software.",
+      "strategic_outlook": "Long term, this incident highlights the importance of robust cybersecurity measures, including regular software updates, employee training, and the use of reputable antivirus solutions. Companies should review their cybersecurity protocols to prevent similar incidents.",
+      "operational_impact": "The operational impact could be significant, with potential disruptions to logistics, aviation, and other critical infrastructure that rely on secure systems. Prompt mitigation and remediation efforts are necessary to minimize the impact on transport and logistics operations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "b0d68a0722a9b5376a2f99db320b2fea",
+    "timestamp": "2026-01-31T15:32:56.908641",
+    "original_title": "Witnesses accuse Sudan's paramilitary of abducting children in Darfur",
+    "link": "http://www.africanews.com/2026/01/31/witnesses-accuse-sudans-paramilitary-of-abducting-children-in-darfur/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 7,
+      "location": "Darfur, Sudan",
+      "latitude": 13.0,
+      "longitude": 25.0,
+      "detailed_analysis": "Reports of child abductions by Sudan's paramilitary, the Rapid Support Forces, in Darfur pose a significant threat to personnel and potentially to cargo and aviation if the situation escalates into broader conflict or instability.",
+      "immediate_forecast_24h": "Increased tensions and potential for further violence or unrest in the region, which could impact local transport and logistics operations.",
+      "strategic_outlook": "Long-term instability in Darfur could lead to sustained risks for assets, cargo, aviation, and personnel, necessitating heightened security measures and contingency planning for operations in the area.",
+      "operational_impact": "Potential disruptions to ground transport, possible restrictions on air travel, and increased security requirements for personnel and assets in the region.",
+      "proximity_alert": null
+    }
   }
 ]
