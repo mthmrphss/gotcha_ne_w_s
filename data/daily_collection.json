@@ -739,5 +739,43 @@
       "operational_impact": "Shipping companies and maritime operators should exercise extreme caution when navigating the Strait of Hormuz, consider alternative routes if possible, and maintain close communication with naval authorities and other stakeholders to ensure safe passage.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "4b64494ecff68c10f0d8679b2b5abc92",
+    "timestamp": "2026-01-31T13:03:02.706086",
+    "original_title": "Explosion reported in Iran - as it denies military leader targeted | World News",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qs1gb2/explosion_reported_in_iran_as_it_denies_military/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 8,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Explosion reported in Iran, with potential implications for regional stability and aviation security. The incident may be related to a targeted attack on a military leader, which could escalate tensions and impact transport logistics.",
+      "immediate_forecast_24h": "Increased security measures and potential disruptions to air travel and cargo operations in the region. Possible retaliatory actions or further attacks cannot be ruled out.",
+      "strategic_outlook": "Long-term implications for regional security and stability, with potential consequences for global supply chains and trade. The incident may also impact international relations and diplomacy.",
+      "operational_impact": "Potential delays or disruptions to flights and cargo shipments in the region. Increased security screening and protocols may be implemented at airports and other transportation hubs.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "818defbf8e02830a594d6915411046a9",
+    "timestamp": "2026-01-31T13:03:05.945992",
+    "original_title": "Separatists launch 'coordinated' attacks in southwest Pakistan",
+    "link": "https://www.france24.com/en/video/20260131-separatists-launch-coordinated-attacks-in-southwest-pakistan",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Civil Unrest",
+      "risk_score": 8,
+      "location": "Quetta, Pakistan",
+      "latitude": 30.1833,
+      "longitude": 66.9833,
+      "detailed_analysis": "Ethnic Baloch separatists have launched coordinated attacks across Pakistan's Balochistan province, resulting in the deaths of at least ten policemen. The situation in the provincial capital of Quetta remains tense, indicating a high level of instability and potential for further violence.",
+      "immediate_forecast_24h": "Increased security presence and potential for retaliatory actions by the government, with a heightened risk of further attacks by separatist groups in the next 24 hours.",
+      "strategic_outlook": "The long-term outlook for the region remains unstable, with the potential for ongoing insurgency and conflict between separatist groups and the government. This could lead to disruptions in transportation and logistics, particularly for cargo and personnel.",
+      "operational_impact": "The attacks and subsequent instability may impact transportation and logistics operations in the region, including aviation and cargo transport. There is a high risk of delays, disruptions, and potential attacks on transport infrastructure and personnel.",
+      "proximity_alert": null
+    }
   }
 ]
