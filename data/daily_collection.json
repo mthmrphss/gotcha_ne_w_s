@@ -321,5 +321,62 @@
       "operational_impact": "Potential for airspace restrictions, increased security measures at airports and seaports, and disruptions to cargo shipments and personnel movements.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "a7f3fab12316ffe3aab520120fab2974",
+    "timestamp": "2026-01-31T08:39:24.435844",
+    "original_title": "Israel accepts health authorities’ Gaza death toll is broadly accurate, saying 70,000 have died | Gaza",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qrwvd7/israel_accepts_health_authorities_gaza_death_toll/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "Gaza",
+      "latitude": 31.5,
+      "longitude": 34.5,
+      "detailed_analysis": "High death toll in Gaza due to conflict, potential for further escalation and impact on regional stability, affecting transport and logistics in the area.",
+      "immediate_forecast_24h": "Continued unrest and potential for further violence, humanitarian crisis deepening.",
+      "strategic_outlook": "Long-term instability in the region, potential for ongoing conflict, and impact on global geopolitical dynamics.",
+      "operational_impact": "Disruption to transport and logistics in the region, potential for airspace restrictions, and increased security measures for personnel and assets.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "e1cfe10e7fa959309bb88e814276be63",
+    "timestamp": "2026-01-31T08:39:26.154822",
+    "original_title": "Iran protests: President ‌Pezeshkian alleges Western powers stirred tensions",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qrw1ue/iran_protests_president_pezeshkian_alleges/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Protests in Iran, allegedly stirred by Western powers, pose a threat to stability and potentially to aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Escalation of protests, potential for clashes between protesters and security forces, and possible disruptions to transportation infrastructure.",
+      "strategic_outlook": "Long-term instability in Iran could impact regional trade, aviation, and cargo operations, with potential for spill-over effects into neighboring countries.",
+      "operational_impact": "Possible disruptions to flights, cargo shipments, and ground transportation in Iran, with potential for delays or cancellations, and increased security measures at airports and border crossings.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "522bb741c42093295458bd6500ba05d9",
+    "timestamp": "2026-01-31T08:39:28.303873",
+    "original_title": "Iran After the Supreme Leader",
+    "link": "https://warontherocks.com/2026/01/iran-after-the-supreme-leader/",
+    "source_name": "War on the Rocks",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The situation in Iran is volatile due to mass state violence and potential US strikes, which could lead to instability and impact aviation and logistics in the region.",
+      "immediate_forecast_24h": "Increased tensions and potential for further unrest, with possible implications for regional security and transport.",
+      "strategic_outlook": "The power vacuum after the supreme leader could lead to a prolonged period of instability, affecting Iran's internal trajectory and regional stability.",
+      "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics in the region, with possible increased security measures and restrictions.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
   }
 ]
