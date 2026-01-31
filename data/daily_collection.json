@@ -1157,5 +1157,43 @@
       "operational_impact": "Potential disruptions to air traffic, increased security measures, and altered protocols for drone operations may impact transport and logistics in the region",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "60c8e89dff5569268ccbc1d6dd29d2dc",
+    "timestamp": "2026-01-31T19:44:49.372292",
+    "original_title": "Iranians seal windows and store food and water as they prepare for attack",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qsbzo5/iranians_seal_windows_and_store_food_and_water_as/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Iranians are preparing for a potential attack by sealing windows and storing food and water, indicating a heightened state of alert and potential for conflict or civil unrest that could impact aviation, cargo, and personnel safety.",
+      "immediate_forecast_24h": "Increased tensions and potential for military action or retaliation, which could lead to disruptions in air travel, cargo transport, and personnel movements.",
+      "strategic_outlook": "Long-term instability and conflict in the region could have significant impacts on global supply chains, air travel, and regional security, requiring ongoing monitoring and risk assessment.",
+      "operational_impact": "Potential disruptions to air travel, cargo transport, and personnel movements, with possible restrictions on flight routes, increased security measures, and potential for supply chain delays or disruptions.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "435a7c19987e4ceb96ee549db09a9506",
+    "timestamp": "2026-01-31T19:45:22.022793",
+    "original_title": "French tech giant Capgemini assists US Dept. of Homeland Security",
+    "link": "https://www.france24.com/en/tv-shows/a-week-in-france/20260131-2026-01-31-13-15-a-week-in-france-3101",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Border",
+      "risk_score": 10,
+      "location": "United States",
+      "latitude": 38.8977,
+      "longitude": -77.0365,
+      "detailed_analysis": "The involvement of Capgemini in assisting US Dept. of Homeland Security with expelling illegal immigrants may lead to increased scrutiny and potential backlash, affecting border security and transport logistics.",
+      "immediate_forecast_24h": "No immediate threats expected, but potential for increased protests or disruptions at border crossings.",
+      "strategic_outlook": "Long-term implications may include changes in border security policies or increased tensions between the US and other countries, potentially affecting international transport and logistics.",
+      "operational_impact": "Potential for delays or disruptions at border crossings, particularly for cargo and personnel involved in immigration-related activities.",
+      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
+    }
   }
 ]
