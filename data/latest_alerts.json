@@ -1,43 +1,5 @@
 [
   {
-    "id": "33722d2574c88342c88e6b538a770ff9",
-    "timestamp": "2026-01-31T21:31:26.604334",
-    "original_title": "Deadly blast rips Iranian port city as Tehran plans naval drills in Strait of Hormuz",
-    "link": "https://www.france24.com/en/middle-east/20260131-deadly-blast-rips-iranian-port-city-as-tehran-plans-naval-drills-in-strait-of-hormuz",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict/Terrorism",
-      "risk_score": 7,
-      "location": "Bandar Abbas, Iran",
-      "latitude": 27.1833,
-      "longitude": 56.2833,
-      "detailed_analysis": "A deadly blast occurred in the southern Iranian port city of Bandar Abbas, killing one person and wounding 14, caused by a reported gas leak. The incident comes ahead of planned Iranian naval drills in the strategic Strait of Hormuz, which could potentially escalate tensions in the region.",
-      "immediate_forecast_24h": "Increased security measures are expected in the port city and surrounding areas, with potential disruptions to maritime traffic and trade. The planned naval drills may also lead to heightened military presence in the Strait of Hormuz.",
-      "strategic_outlook": "The incident and subsequent naval drills may exacerbate existing regional tensions, potentially impacting global oil prices and trade routes. The security situation in the region is likely to remain volatile, with potential implications for aviation and maritime operations.",
-      "operational_impact": "Potential disruptions to cargo shipments and maritime trade in the Strait of Hormuz, with possible delays or rerouting of vessels. Aviation operations in the region may also be affected, with increased security measures and potential airspace restrictions.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "0cf8625729c612e49e610cfc75d7ca84",
-    "timestamp": "2026-01-31T21:49:16.359261",
-    "original_title": "Russia threatens Ukraine to use “retaliation weapons” next week, hinting on Nazi V-1, V-2 bombs that bombed London",
-    "link": "https://www.reddit.com/r/worldnews/comments/1qse4dk/russia_threatens_ukraine_to_use_retaliation/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict/Terrorism/Aviation",
-      "risk_score": 8,
-      "location": "Ukraine",
-      "latitude": 49.0,
-      "longitude": 32.0,
-      "detailed_analysis": "Russia has threatened to use retaliation weapons against Ukraine, hinting at the use of advanced weaponry similar to Nazi V-1 and V-2 bombs, posing a significant threat to aviation and personnel safety",
-      "immediate_forecast_24h": "Increased tensions between Russia and Ukraine, potential escalation of conflict, and heightened security measures at Ukrainian airports and borders",
-      "strategic_outlook": "Long-term instability in the region, potential disruption to global supply chains, and increased risk of cyberattacks and espionage",
-      "operational_impact": "Potential disruption to air travel, increased security screening, and heightened risk of cargo theft or damage due to conflict",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "45b8d1cec13bcee442493ed5fe30c50c",
     "timestamp": "2026-01-31T22:30:32.495591",
     "original_title": "Israel's military accepts an estimate that 70,000 Palestinians were killed during the war in Gaza, Israeli media has reported, citing senior military officials. The United Nations has long treated Gaza Health Ministry death tolls as credible, though Israel has previo - facebook.com",
@@ -53,6 +15,44 @@
       "immediate_forecast_24h": "Increased tensions and potential for further violence in the Gaza region, affecting aviation and ground transport. There might be disruptions to logistics and cargo operations due to the conflict.",
       "strategic_outlook": "Long-term instability in the region could lead to sustained security threats, impacting the safety of personnel, assets, and cargo. The situation may also lead to increased scrutiny and potential restrictions on aviation and logistics operations.",
       "operational_impact": "Potential disruptions to transport and logistics in the region, including aviation. Increased security measures may be necessary to protect assets, cargo, and personnel. The conflict could also lead to changes in regulatory requirements for operations in the area.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "dd7247dc3b79a2eb9ada27f008d096ad",
+    "timestamp": "2026-01-31T23:30:22.793250",
+    "original_title": "Northeast Philly remembers ‘devastating’ plane crash scene a year later - WHYY",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWm14d05tUDM4eHhTS2xPanlNTXNDT21rZnFHNTh2b3c2Zk9ndGtCeXp2a3BfM3ppUjlfVzkxc2c0TlhGaE9Jd1JlSnRRUnIyNHlKam1sdTlmM0MyVjFQTllJVS02ZWtXZXRpZF90ZEVmVm5nMF9xS3M2Z3ZCUGpqTTBB?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 6,
+      "location": "Northeast Philly, USA",
+      "latitude": 40.0659,
+      "longitude": -75.0123,
+      "detailed_analysis": "A plane crash occurred in Northeast Philly a year ago, and the community is remembering the devastating incident. Although this is a historical event, it highlights the potential risks associated with aviation in the area.",
+      "immediate_forecast_24h": "No immediate threats are expected in the next 24 hours, but the anniversary of the crash may lead to increased awareness and vigilance among local authorities and residents.",
+      "strategic_outlook": "The long-term view suggests that the aviation industry in the region should continue to prioritize safety measures and emergency response planning to mitigate the risk of similar incidents in the future.",
+      "operational_impact": "The incident may have a minimal operational impact on current aviation activities, but it serves as a reminder of the importance of maintaining high safety standards and being prepared for potential emergencies.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "d05e4749998ea0b222755a6135f96ab1",
+    "timestamp": "2026-01-31T23:30:29.579393",
+    "original_title": "Israeli strikes in Gaza kill at least 30 Palestinians, including several children",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qshuol/israeli_strikes_in_gaza_kill_at_least_30/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "Gaza, Palestine",
+      "latitude": 31.5,
+      "longitude": 34.45,
+      "detailed_analysis": "The recent Israeli strikes in Gaza have resulted in significant loss of life, including several children, and have the potential to escalate tensions in the region, posing a threat to aviation and personnel in the area.",
+      "immediate_forecast_24h": "Further clashes and potential retaliatory actions are expected, which may impact air travel and logistics in the region.",
+      "strategic_outlook": "The long-term implications of these strikes may lead to increased instability in the region, affecting cargo and personnel movement, and potentially disrupting supply chains.",
+      "operational_impact": "Air travel and logistics operations in the region may be disrupted due to the increased tensions and potential for further violence, requiring heightened security measures and contingency planning.",
       "proximity_alert": null
     }
   }
