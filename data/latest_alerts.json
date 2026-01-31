@@ -1,43 +1,5 @@
 [
   {
-    "id": "10ddde2d78777b0883a214a7628e74ab",
-    "timestamp": "2026-01-31T15:31:20.917592",
-    "original_title": "eScan Antivirus Delivers Malware in Supply Chain Attack - SecurityWeek",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYjdNbHI5eFFPZk1JbGNfREYyRnhlcE95V25jMzNLVWlIYkFVVnFrWXNhb3hTTzJIbEFmdDdRS0hpTmNIQTNMVjlyTkIzaS1IcUdlaXlrYUVzZjB3cjlGWjdqWVZvMVFXb0FkREk0VF9MdHFpVWpmVUlpSjUxaGRXeDl0MTNLZnI2dFdPcG130gGTAUFVX3lxTE1zNjl4dmN6bTV1TjU1bGZCQ1VkNURTNVdyS3hNSjNGclh3V210ZTFqZE9PV3dONHVjLWdJQTdNOW5qaFF1M25iOEd1enlNX0ppQzdwclFOc25tUXVjSTZyNmlENlBCZlRndmVqMVN1R203SGJnNjRSczZMTExvWUkwa1MxSjFjQTNJQUJZLVJaeExmdw?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Cyber",
-      "risk_score": 8,
-      "location": "Global",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "A supply chain attack has been reported where eScan Antivirus has been delivering malware, potentially compromising the security of its users and their systems. This could lead to significant data breaches and disruptions to operations.",
-      "immediate_forecast_24h": "In the next 24 hours, users of eScan Antivirus may experience system compromises, data theft, or other malicious activities. Immediate action is required to mitigate these risks, including updating or replacing the antivirus software.",
-      "strategic_outlook": "Long term, this incident highlights the importance of robust cybersecurity measures, including regular software updates, employee training, and the use of reputable antivirus solutions. Companies should review their cybersecurity protocols to prevent similar incidents.",
-      "operational_impact": "The operational impact could be significant, with potential disruptions to logistics, aviation, and other critical infrastructure that rely on secure systems. Prompt mitigation and remediation efforts are necessary to minimize the impact on transport and logistics operations.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "b0d68a0722a9b5376a2f99db320b2fea",
-    "timestamp": "2026-01-31T15:32:56.908641",
-    "original_title": "Witnesses accuse Sudan's paramilitary of abducting children in Darfur",
-    "link": "http://www.africanews.com/2026/01/31/witnesses-accuse-sudans-paramilitary-of-abducting-children-in-darfur/",
-    "source_name": "Africa News",
-    "ai_analysis": {
-      "category": "Conflict/Civil Unrest",
-      "risk_score": 7,
-      "location": "Darfur, Sudan",
-      "latitude": 13.0,
-      "longitude": 25.0,
-      "detailed_analysis": "Reports of child abductions by Sudan's paramilitary, the Rapid Support Forces, in Darfur pose a significant threat to personnel and potentially to cargo and aviation if the situation escalates into broader conflict or instability.",
-      "immediate_forecast_24h": "Increased tensions and potential for further violence or unrest in the region, which could impact local transport and logistics operations.",
-      "strategic_outlook": "Long-term instability in Darfur could lead to sustained risks for assets, cargo, aviation, and personnel, necessitating heightened security measures and contingency planning for operations in the area.",
-      "operational_impact": "Potential disruptions to ground transport, possible restrictions on air travel, and increased security requirements for personnel and assets in the region.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "2c7e9c47e81b34197bad610a461d20cb",
     "timestamp": "2026-01-31T16:38:06.271979",
     "original_title": "Israel Launches Deadly Strikes in Gaza, as Rafah Border Is Set to Reopen",
@@ -91,6 +53,63 @@
       "immediate_forecast_24h": "Increased security measures are expected in the region, with potential for further attacks or retaliations. Transport and logistics operations may be disrupted or suspended temporarily.",
       "strategic_outlook": "The long-term outlook for the region remains uncertain, with ongoing conflict and instability likely to continue. This may lead to sustained disruptions to transport and logistics operations, as well as increased security costs for assets and personnel.",
       "operational_impact": "The attacks may impact overland transport and logistics operations, particularly those involving high-value or sensitive cargo. Aviation operations may also be affected, with potential for increased security screening or route changes to avoid the affected area.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "349eee47becd1d5bbf637ae3468fdcff",
+    "timestamp": "2026-01-31T17:30:24.789257",
+    "original_title": "Israel Launches Attack in Gaza - The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRk9ra0c2NXhQOVlOOHcweGRaTGZfX0dHLTg5OEtCX1JQZExEVktOUzctWmRLazdtb252TUVfbVZtR3J6azN4dGJjakZXZlVEVFZFWGhTek5JZUpRNXV0MG1zY01ZSndGMXNwZXpDWFB4cXNPekFJX0VYRlgtUXVYTWQ5LVR1UHJ5QWdoWnN1S3dGNEppOEtN?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Gaza, Israel",
+      "latitude": 31.5,
+      "longitude": 34.4667,
+      "detailed_analysis": "The recent attack by Israel in Gaza poses a significant threat to the region's stability, potentially disrupting air travel and cargo operations. The conflict may lead to increased security measures, potential airspace restrictions, and heightened tensions in the area.",
+      "immediate_forecast_24h": "In the next 24 hours, the situation is likely to remain volatile, with potential for further military action, protests, and disruptions to transportation infrastructure.",
+      "strategic_outlook": "In the long term, the conflict may lead to a prolonged period of instability in the region, affecting trade and economic activities, as well as the safety of personnel and assets.",
+      "operational_impact": "The conflict may impact air cargo operations, potentially leading to flight delays or cancellations, and increased security screening for passengers and cargo. Ground transportation may also be affected, with potential road closures or restrictions.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "8e1c9d33b2c86ee86eed3b5f2efe251a",
+    "timestamp": "2026-01-31T17:30:26.482271",
+    "original_title": "US warns Iran against conducting ‘unsafe’ military drills - The Hill",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLV9KNFh3Z3plR2lrU2l6d2tQeTRaV2VUeEdRaVFMZDlOWDYwUUZGTDIxcXExYzkycnpEQmwzY2E4OTB6SENkRmp4YUowZk5heTRlZ3N1MFg3U19TX2dkN3VYV01uSW9qMEd0SXE0ekNobGt1U0tVQU1jM0UzWV93UTBuRENzVkQ30gGOAUFVX3lxTFBfZEpncUUxRFJrZDBsU05XTG5ncmpTVlZ1azl5MktycjFJQzFLbF9fV0Y1OGVTT3dTQ2JoNnRTcFhZOWpIQjI1RnRlcTAtVDBZR1dLanhVb20zS3RRZjlTSzdNTExkZE9ocTdtMzNVZko0LVdqX1BZN1F3aFFfLVRTb2NCVkxvREluYTJKNmc?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Iran, Middle East",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The US has warned Iran against conducting 'unsafe' military drills, which could potentially disrupt aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Increased military activity in the region may lead to heightened tensions and potential disruptions to air traffic and logistics.",
+      "strategic_outlook": "Prolonged tensions between the US and Iran could lead to long-term instability in the region, affecting trade and transport operations.",
+      "operational_impact": "Potential disruptions to air traffic, increased security measures, and possible rerouting of cargo shipments to avoid the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "25cc9648d3c329eb88317e4aa5c3bff7",
+    "timestamp": "2026-01-31T17:30:50.919678",
+    "original_title": "Israel Launches Attack in Gaza",
+    "link": "https://www.nytimes.com/2026/01/31/world/middleeast/israel-strikes-gaza-rafah-reopening.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 8,
+      "location": "Gaza, Israel",
+      "latitude": 31.5,
+      "longitude": 34.5,
+      "detailed_analysis": "The Israeli military has launched an attack in Gaza, targeting Hamas commanders, resulting in at least 26 fatalities. This escalation of violence poses a significant threat to aviation, cargo, and personnel in the region.",
+      "immediate_forecast_24h": "Increased tensions and potential for further violence, with possible disruptions to air traffic and logistics in the area.",
+      "strategic_outlook": "The conflict may lead to a prolonged period of instability, affecting regional security and potentially impacting global supply chains.",
+      "operational_impact": "Flights to and from nearby airports may be delayed or cancelled, and cargo shipments could be disrupted due to the conflict, posing a significant risk to assets, cargo, and personnel.",
       "proximity_alert": null
     }
   }
