@@ -1,115 +1,96 @@
 [
   {
-    "id": "a2eb4303d0f4edb5a040c93c48635124",
-    "timestamp": "2026-02-01T11:28:11.711968",
-    "original_title": "Israel ‘cannot coexist with’ Iran’s ballistic missiles, military official says - Anadolu Ajansı",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUUZzZTZjbF9hejFqMzhZTVlRaDVERUZOa3lMRzFKQVc4emJoM1YxNF9hR2dHcmM3T2tUdW94Z2pyOHhpOEFsbFlpdVdhZHBmQnZwdHI4NGNQcEE5TlZzMFpFcjdUUGVmemNnQ2JqenpubmF3VUE2ei01elEyWmp3dWZKSVd0SGc1TDlCSm1DdnVlNU5WN1k1Nl90cVN4eHBmUFZveVF6WGZmbktURHp4aGJ5Z2psU0kyWGFLVw?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 8,
-      "location": "Israel, Middle East",
-      "latitude": 31.7833,
-      "longitude": 35.2167,
-      "detailed_analysis": "A military official from Israel stated that the country cannot coexist with Iran's ballistic missiles, indicating a heightened state of tension between the two nations. This could potentially lead to an escalation of conflict, affecting aviation and logistics in the region.",
-      "immediate_forecast_24h": "Increased military readiness and heightened security measures are expected in the short term, with potential for limited skirmishes or proxy attacks.",
-      "strategic_outlook": "The long-term outlook suggests a continued state of heightened tensions between Israel and Iran, with potential for periodic escalations and a continued risk of conflict affecting the region.",
-      "operational_impact": "The conflict could impact air travel and logistics in the region, with potential for flight restrictions, increased security screening, and disruptions to supply chains.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "67e6940cb9318547e7ad8ac48d02e3c3",
-    "timestamp": "2026-02-01T11:28:16.288371",
-    "original_title": "Musk steps in - SpaceX blocks Starlink use on Russian drones",
-    "link": "https://www.reddit.com/r/worldnews/comments/1qsv8jg/musk_steps_in_spacex_blocks_starlink_use_on/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict/Cyber",
-      "risk_score": 6,
-      "location": "Russia, Ukraine",
-      "latitude": 48.3794,
-      "longitude": 31.1656,
-      "detailed_analysis": "SpaceX has blocked the use of its Starlink satellite internet service on Russian drones, potentially disrupting their ability to communicate and navigate. This move could impact the conflict in Ukraine and have broader implications for the use of commercial technology in warfare.",
-      "immediate_forecast_24h": "Russia may attempt to find alternative communication methods for their drones, while Ukraine may experience a temporary advantage due to the disruption of Russian drone operations.",
-      "strategic_outlook": "The long-term impact of this development will depend on the ability of Russia to adapt and find alternative solutions, as well as the willingness of other companies to restrict the use of their technology for military purposes.",
-      "operational_impact": "The restriction of Starlink use on Russian drones may have a significant impact on the logistics and operations of the conflict in Ukraine, potentially limiting the ability of Russian forces to coordinate and execute attacks.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "1d0d6cbe30267b48d973613239a9d513",
-    "timestamp": "2026-02-01T11:28:18.732410",
-    "original_title": "SpaceX has stopped Russia's 'unauthorised' use of Starlink against Ukraine, Musk says",
-    "link": "https://www.france24.com/en/europe/20260201-spacex-stopped-russia-unauthorised-starlink-musk",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict/Cyber",
-      "risk_score": 7,
-      "location": "Ukraine, Russia",
-      "latitude": 48.3794,
-      "longitude": 31.1656,
-      "detailed_analysis": "SpaceX has taken measures to prevent Russia's unauthorized use of Starlink internet system to guide long-range drones used in attacks on Ukraine, indicating a potential cyber threat and conflict escalation.",
-      "immediate_forecast_24h": "Russia may attempt to find alternative means to utilize Starlink or other similar systems, while Ukraine and its allies may increase efforts to secure their communication networks.",
-      "strategic_outlook": "The conflict between Russia and Ukraine may continue to involve the use of advanced technologies, including cyber warfare and drone attacks, posing a long-term threat to regional stability and global security.",
-      "operational_impact": "The disruption of Starlink services may impact logistics and communication networks in the region, potentially affecting cargo transport, aviation, and personnel movements.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "b5eea5cede5f052ebc5df234a012db80",
-    "timestamp": "2026-02-01T11:28:21.281908",
-    "original_title": "Iran warns US against military action amid tentative negotiations",
-    "link": "https://www.france24.com/en/iran-warns-us-against-military-action-amid-tentative-negotiations",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 10,
-      "location": "Tehran, Iran",
-      "latitude": 35.6892,
-      "longitude": 51.389,
-      "detailed_analysis": "Iran's warning to the US against military action amid tentative negotiations poses a significant threat to regional stability, potentially impacting aviation and cargo operations in the area.",
-      "immediate_forecast_24h": "Tensions between Iran and the US are likely to remain high, with a possibility of increased military presence in the region, potentially disrupting air traffic and cargo shipments.",
-      "strategic_outlook": "The situation may escalate into a larger conflict, affecting global oil prices, trade routes, and aviation security, particularly in the Middle East.",
-      "operational_impact": "Potential disruptions to air traffic, increased security measures, and possible restrictions on cargo shipments to and from Iran, affecting logistics and supply chains in the region.",
-      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
-    }
-  },
-  {
-    "id": "c417c99ae0f83c4d7a6b84cbc9455621",
-    "timestamp": "2026-02-01T11:48:14.446109",
-    "original_title": "Google helped Israeli military contractor with AI, whistleblower alleges - The Washington Post",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUEh5N1gzZ2hkYVNfS2FDSkV6Nm1DenA5RldGc3F4eXZya0dfb2puZFliQ0RRTEJHV3YzcXYwNm9JNnQ4eUtDdlZna3gxQ2lieHlmcmpjamdQeUVaRFl3M1plQ1hzcG9CdG9mRUIxelg4WV82cUUyWWtlZF9lYzBOQm9yNVBEdw?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Cyber/Conflict",
-      "risk_score": 10,
-      "location": "Israel, USA",
-      "latitude": 32.0853,
-      "longitude": 34.7818,
-      "detailed_analysis": "A whistleblower has alleged that Google assisted an Israeli military contractor with AI technology, potentially raising concerns about the use of AI in military operations and the implications for global security.",
-      "immediate_forecast_24h": "No immediate threats to assets, cargo, aviation, or personnel are reported, but the situation bears monitoring for potential future developments.",
-      "strategic_outlook": "The long-term implications of this alleged collaboration could involve increased scrutiny of tech companies' involvement in military projects and potential repercussions for the development and use of AI in various sectors.",
-      "operational_impact": "The impact on transport and logistics appears to be minimal at this time, but the situation could evolve if the allegations lead to significant geopolitical or regulatory changes.",
-      "proximity_alert": "YAKIN TEHDİT: Ben Gurion International Airport (0 km)"
-    }
-  },
-  {
-    "id": "0d1464d4e46d9b03df0e47a6c5dd69c1",
-    "timestamp": "2026-02-01T11:48:18.527349",
-    "original_title": "Iran and the US: this is geopolitical poker at its most dangerous",
-    "link": "https://www.reddit.com/r/geopolitics/comments/1qsw3vz/iran_and_the_us_this_is_geopolitical_poker_at_its/",
+    "id": "06a09d049b365d1c2e22abc6d5706115",
+    "timestamp": "2026-02-01T13:05:28.406313",
+    "original_title": "Pakistan: Dozens killed in 'coordinated' Balochistan attacks",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1qsxewu/pakistan_dozens_killed_in_coordinated_balochistan/",
     "source_name": "Reddit r/Geopolitics",
     "ai_analysis": {
-      "category": "Conflict",
+      "category": "Terrorism/Conflict/Civil Unrest",
       "risk_score": 8,
-      "location": "Iran, USA",
-      "latitude": 32.0,
-      "longitude": 53.0,
-      "detailed_analysis": "The current tensions between Iran and the US pose a significant threat to regional stability, with potential implications for aviation and cargo operations in the area.",
-      "immediate_forecast_24h": "Escalation of military build-up and increased rhetoric between the two nations, potentially leading to disruptions in air traffic and shipping lanes.",
-      "strategic_outlook": "Prolonged conflict could lead to a significant increase in risk for assets, cargo, aviation, and personnel in the region, with potential for spill-over effects into other areas.",
-      "operational_impact": "Possible disruptions to air travel, shipping, and logistics operations, with increased security measures and potential for delays or cancellations.",
+      "location": "Balochistan, Pakistan",
+      "latitude": 28.8943,
+      "longitude": 66.5895,
+      "detailed_analysis": "Coordinated attacks in Balochistan, Pakistan have resulted in dozens of casualties, indicating a high level of threat to assets, personnel, and potentially aviation in the region. The attacks are reportedly carried out by separatist groups, which could lead to further instability and violence.",
+      "immediate_forecast_24h": "Increased security measures are expected in the region, with potential for further clashes between separatist groups and security forces. There may be disruptions to transport and logistics in the area.",
+      "strategic_outlook": "The long-term outlook for the region remains unstable, with ongoing tensions between separatist groups and the government. This could lead to continued violence and disruptions to transport and logistics, potentially affecting cargo and aviation operations.",
+      "operational_impact": "Transport and logistics operations in the region may be affected, with potential for delays or disruptions due to increased security measures or violence. Aviation operations may also be impacted, particularly if there are concerns about the safety of airports or aircraft in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "77621328d5e5b4d57ef017b72943924a",
+    "timestamp": "2026-02-01T13:05:30.727046",
+    "original_title": "More than 120 dead after multiple suicide and gun attacks in Pakistan, officials say",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qsxcue/more_than_120_dead_after_multiple_suicide_and_gun/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Terrorism/Civil Unrest/Conflict",
+      "risk_score": 8,
+      "location": "Pakistan",
+      "latitude": 30.3753,
+      "longitude": 69.3451,
+      "detailed_analysis": "Multiple suicide and gun attacks in Pakistan have resulted in over 120 deaths, indicating a high level of terrorist activity and civil unrest in the region. This poses a significant threat to personnel, assets, and cargo in the area.",
+      "immediate_forecast_24h": "Increased security measures are expected in the short term, with potential for further attacks or retaliations. Transport and logistics operations may be disrupted due to heightened security protocols.",
+      "strategic_outlook": "The long-term outlook suggests continued instability in the region, with potential for ongoing terrorist activity and civil unrest. This may lead to sustained disruptions to transport and logistics operations, as well as increased security costs for assets and personnel.",
+      "operational_impact": "The attacks may impact aviation operations, with potential for flight disruptions or increased security screening. Cargo and personnel movements may also be affected, with increased risk of theft, hijacking, or other security breaches.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "06a09d049b365d1c2e22abc6d5706115",
+    "timestamp": "2026-02-01T13:05:32.759489",
+    "original_title": "Pakistan: Dozens killed in 'coordinated' Balochistan attacks",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qsxc4u/pakistan_dozens_killed_in_coordinated_balochistan/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "Balochistan, Pakistan",
+      "latitude": 28.8943,
+      "longitude": 66.5895,
+      "detailed_analysis": "Coordinated attacks in Balochistan, Pakistan have resulted in dozens of casualties, indicating a high level of threat to assets, personnel, and potentially aviation in the region. The attacks are reportedly carried out by Baloch separatists.",
+      "immediate_forecast_24h": "Increased security measures are expected in the region, with potential for further clashes or attacks. Aviation and cargo operations may be impacted due to heightened security concerns.",
+      "strategic_outlook": "The long-term outlook for the region remains unstable, with ongoing separatist movements and potential for further violence. This could lead to sustained disruptions to transport and logistics operations.",
+      "operational_impact": "Transport and logistics operations in the region may be disrupted due to increased security measures and potential for further attacks. Aviation operations may be impacted, with potential for flight disruptions or cancellations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "ee5604c69c496042e89fad2db5bb4612",
+    "timestamp": "2026-02-01T13:05:36.131174",
+    "original_title": "Gaza: What to expect from the reopening of Rafah crossing by Israel?",
+    "link": "https://www.france24.com/en/gaza-what-to-expect-from-the-reopening-of-rafah-crossing-by-israel",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Border/Conflict/Civil Unrest",
+      "risk_score": 6,
+      "location": "Rafah, Gaza",
+      "latitude": 31.2833,
+      "longitude": 34.2333,
+      "detailed_analysis": "The reopening of the Rafah crossing by Israel may lead to increased tensions and potential security threats, including the risk of violence or unrest at the border crossing. The limited capacity of 150 people per day may lead to frustration and anger among those waiting to cross, potentially escalating into conflict.",
+      "immediate_forecast_24h": "Increased security presence and potential protests or clashes at the border crossing are expected in the next 24 hours. The situation may remain volatile, with a high risk of escalation.",
+      "strategic_outlook": "The long-term implications of the reopening of the Rafah crossing are uncertain, but it may lead to increased stability in the region if it facilitates the movement of people and goods. However, the risk of conflict and unrest remains high due to the ongoing tensions between Israel and Gaza.",
+      "operational_impact": "The reopening of the Rafah crossing may impact transport and logistics in the region, particularly for those relying on the crossing for the movement of goods and people. Increased security measures and potential delays or disruptions to crossings may be expected.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "3b93bfd8831116466a4c363066fb7480",
+    "timestamp": "2026-02-01T13:05:38.502521",
+    "original_title": "Mass blackouts hit Ukraine and Moldova amid ongoing Russian war",
+    "link": "https://www.france24.com/en/mass-blackouts-hit-ukraine-and-moldova-amid-ongoing-russian-war",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 6,
+      "location": "Ukraine and Moldova",
+      "latitude": 48.3794,
+      "longitude": 31.1656,
+      "detailed_analysis": "Mass blackouts hit Ukraine and Moldova due to malfunction of high-voltage power lines, potentially exacerbated by accumulated impact of Russian airstrikes on Ukraine's power grid",
+      "immediate_forecast_24h": "Power outages may continue or recur, potentially disrupting logistics and aviation operations in the region",
+      "strategic_outlook": "Ongoing conflict between Russia and Ukraine may lead to further disruptions to critical infrastructure, including power grids and transportation systems",
+      "operational_impact": "Potential delays or disruptions to cargo transport, aviation operations, and personnel movements in the region due to power outages and ongoing conflict",
       "proximity_alert": null
     }
   }
