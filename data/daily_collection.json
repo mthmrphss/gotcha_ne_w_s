@@ -112,5 +112,43 @@
       "operational_impact": "Air travel and logistics operations in the region may be disrupted due to the increased tensions and potential for further violence, requiring heightened security measures and contingency planning.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "2c3bab9b4f6caac231b17e8e454e7340",
+    "timestamp": "2026-02-01T03:16:41.836851",
+    "original_title": "Through carnage of the government crackdown, Iranian protesters looked to Trump",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qskugv/through_carnage_of_the_government_crackdown/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 6,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The government crackdown on Iranian protesters may lead to increased instability and potential violence, posing a threat to personnel and assets in the region.",
+      "immediate_forecast_24h": "Protests and clashes between protesters and government forces are likely to continue, with a potential for escalation and further violence.",
+      "strategic_outlook": "The situation may lead to a long-term destabilization of the region, affecting aviation, cargo, and personnel operations, and potentially drawing in international actors.",
+      "operational_impact": "Transport and logistics operations in the region may be disrupted due to the unrest, and personnel may face increased risks to their safety and security.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "4ce8024c6b773356dc1e379832fe6269",
+    "timestamp": "2026-02-01T03:16:43.835935",
+    "original_title": "Estonia weighs possible eastern border closure after Russia crossing",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qsjjoh/estonia_weighs_possible_eastern_border_closure/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Border/Civil Unrest/Conflict",
+      "risk_score": 6,
+      "location": "Estonia-Russia border",
+      "latitude": 59.0,
+      "longitude": 27.5,
+      "detailed_analysis": "Estonia is considering closing its eastern border with Russia due to a recent crossing incident, which may lead to increased tensions and potential disruptions to transport and logistics in the region.",
+      "immediate_forecast_24h": "Heightened security measures and potential border closures may cause delays and disruptions to cargo and personnel movement in the next 24 hours.",
+      "strategic_outlook": "The situation may escalate into a larger conflict, affecting regional stability and trade, or it may be resolved through diplomatic means, depending on the actions taken by Estonia and Russia.",
+      "operational_impact": "Potential disruptions to road and rail transport, as well as increased security checks, may impact cargo delivery times and personnel movement in the region.",
+      "proximity_alert": null
+    }
   }
 ]
