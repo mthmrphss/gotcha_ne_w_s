@@ -663,5 +663,81 @@
       "operational_impact": "Minimal impact on transport and logistics operations, but potential for future disruptions if staff unrest persists.",
       "proximity_alert": "YAKIN TEHDİT: Heathrow Airport (23 km)"
     }
+  },
+  {
+    "id": "a2eb4303d0f4edb5a040c93c48635124",
+    "timestamp": "2026-02-01T11:28:11.711968",
+    "original_title": "Israel ‘cannot coexist with’ Iran’s ballistic missiles, military official says - Anadolu Ajansı",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUUZzZTZjbF9hejFqMzhZTVlRaDVERUZOa3lMRzFKQVc4emJoM1YxNF9hR2dHcmM3T2tUdW94Z2pyOHhpOEFsbFlpdVdhZHBmQnZwdHI4NGNQcEE5TlZzMFpFcjdUUGVmemNnQ2JqenpubmF3VUE2ei01elEyWmp3dWZKSVd0SGc1TDlCSm1DdnVlNU5WN1k1Nl90cVN4eHBmUFZveVF6WGZmbktURHp4aGJ5Z2psU0kyWGFLVw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Israel, Middle East",
+      "latitude": 31.7833,
+      "longitude": 35.2167,
+      "detailed_analysis": "A military official from Israel stated that the country cannot coexist with Iran's ballistic missiles, indicating a heightened state of tension between the two nations. This could potentially lead to an escalation of conflict, affecting aviation and logistics in the region.",
+      "immediate_forecast_24h": "Increased military readiness and heightened security measures are expected in the short term, with potential for limited skirmishes or proxy attacks.",
+      "strategic_outlook": "The long-term outlook suggests a continued state of heightened tensions between Israel and Iran, with potential for periodic escalations and a continued risk of conflict affecting the region.",
+      "operational_impact": "The conflict could impact air travel and logistics in the region, with potential for flight restrictions, increased security screening, and disruptions to supply chains.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "67e6940cb9318547e7ad8ac48d02e3c3",
+    "timestamp": "2026-02-01T11:28:16.288371",
+    "original_title": "Musk steps in - SpaceX blocks Starlink use on Russian drones",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qsv8jg/musk_steps_in_spacex_blocks_starlink_use_on/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Cyber",
+      "risk_score": 6,
+      "location": "Russia, Ukraine",
+      "latitude": 48.3794,
+      "longitude": 31.1656,
+      "detailed_analysis": "SpaceX has blocked the use of its Starlink satellite internet service on Russian drones, potentially disrupting their ability to communicate and navigate. This move could impact the conflict in Ukraine and have broader implications for the use of commercial technology in warfare.",
+      "immediate_forecast_24h": "Russia may attempt to find alternative communication methods for their drones, while Ukraine may experience a temporary advantage due to the disruption of Russian drone operations.",
+      "strategic_outlook": "The long-term impact of this development will depend on the ability of Russia to adapt and find alternative solutions, as well as the willingness of other companies to restrict the use of their technology for military purposes.",
+      "operational_impact": "The restriction of Starlink use on Russian drones may have a significant impact on the logistics and operations of the conflict in Ukraine, potentially limiting the ability of Russian forces to coordinate and execute attacks.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "1d0d6cbe30267b48d973613239a9d513",
+    "timestamp": "2026-02-01T11:28:18.732410",
+    "original_title": "SpaceX has stopped Russia's 'unauthorised' use of Starlink against Ukraine, Musk says",
+    "link": "https://www.france24.com/en/europe/20260201-spacex-stopped-russia-unauthorised-starlink-musk",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Cyber",
+      "risk_score": 7,
+      "location": "Ukraine, Russia",
+      "latitude": 48.3794,
+      "longitude": 31.1656,
+      "detailed_analysis": "SpaceX has taken measures to prevent Russia's unauthorized use of Starlink internet system to guide long-range drones used in attacks on Ukraine, indicating a potential cyber threat and conflict escalation.",
+      "immediate_forecast_24h": "Russia may attempt to find alternative means to utilize Starlink or other similar systems, while Ukraine and its allies may increase efforts to secure their communication networks.",
+      "strategic_outlook": "The conflict between Russia and Ukraine may continue to involve the use of advanced technologies, including cyber warfare and drone attacks, posing a long-term threat to regional stability and global security.",
+      "operational_impact": "The disruption of Starlink services may impact logistics and communication networks in the region, potentially affecting cargo transport, aviation, and personnel movements.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "b5eea5cede5f052ebc5df234a012db80",
+    "timestamp": "2026-02-01T11:28:21.281908",
+    "original_title": "Iran warns US against military action amid tentative negotiations",
+    "link": "https://www.france24.com/en/iran-warns-us-against-military-action-amid-tentative-negotiations",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Iran's warning to the US against military action amid tentative negotiations poses a significant threat to regional stability, potentially impacting aviation and cargo operations in the area.",
+      "immediate_forecast_24h": "Tensions between Iran and the US are likely to remain high, with a possibility of increased military presence in the region, potentially disrupting air traffic and cargo shipments.",
+      "strategic_outlook": "The situation may escalate into a larger conflict, affecting global oil prices, trade routes, and aviation security, particularly in the Middle East.",
+      "operational_impact": "Potential disruptions to air traffic, increased security measures, and possible restrictions on cargo shipments to and from Iran, affecting logistics and supply chains in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
   }
 ]
