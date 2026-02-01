@@ -910,5 +910,62 @@
       "operational_impact": "The protest may cause minor disruptions to traffic and logistics in the surrounding area, but it is not expected to have a significant impact on overall operations.",
       "proximity_alert": "YAKIN TEHDİT: Copenhagen Airport (1 km)"
     }
+  },
+  {
+    "id": "2b82bed00e73a25cf54e96d0e88889f9",
+    "timestamp": "2026-02-01T14:38:17.672087",
+    "original_title": "Islamic State claims assault on airport in Niger’s capital - Long War Journal",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdldMbGJPRWstak5FSXdKV0JSVEV2REVVSGxXOFJRUHhTSHRaLXFBUG0yVzRsc25PT3p2WFdNdThULWhPczBfR1QzZTNTUWFOdU9meUNXTXF1TUYzSXBfdFpXdnM0T2ZrLUN5WjdrMlBoNkNvbThnT18wMEV3WEliWFh5NmpXR1FQVHBPNkp5M1RRTmRnQk9JVjNRcHQ3MTBYb3ZkX2lORDhueDZvZWc?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism/Aviation",
+      "risk_score": 10,
+      "location": "Niamey, Niger",
+      "latitude": 13.5142,
+      "longitude": 2.1142,
+      "detailed_analysis": "The Islamic State has claimed an assault on the airport in Niger's capital, Niamey, which poses a significant threat to aviation security and potentially to cargo and personnel in the region.",
+      "immediate_forecast_24h": "Increased security measures are expected at the airport, and potential disruptions to flights and logistics operations may occur in the next 24 hours.",
+      "strategic_outlook": "The attack highlights the ongoing threat of terrorism in the region and the need for enhanced security measures to protect critical infrastructure, including airports and transportation hubs.",
+      "operational_impact": "The assault may impact air travel and cargo operations in Niger, potentially leading to delays or cancellations, and underscores the importance of robust security protocols to mitigate such threats.",
+      "proximity_alert": "YAKIN TEHDİT: Diori Hamani International Airport (8 km)"
+    }
+  },
+  {
+    "id": "765300950047227f0e7c6687a566b5be",
+    "timestamp": "2026-02-01T14:38:21.248140",
+    "original_title": "Musk Blocks Russian Starlink Use After Ukraine Warns of Drone Attacks",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1qszon6/musk_blocks_russian_starlink_use_after_ukraine/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict/Cyber",
+      "risk_score": 7,
+      "location": "Ukraine, Russia",
+      "latitude": 48.3794,
+      "longitude": 31.1656,
+      "detailed_analysis": "Elon Musk has blocked Russian use of Starlink after Ukraine warned of potential drone attacks, indicating a heightened risk of cyber and conflict-related threats to aviation and logistics in the region.",
+      "immediate_forecast_24h": "Increased tensions between Ukraine and Russia may lead to further disruptions in logistics and aviation, with potential for drone sightings or attacks.",
+      "strategic_outlook": "The long-term impact of this development may lead to increased investment in cybersecurity measures for logistics and aviation companies, as well as potential for further restrictions on the use of Starlink technology in conflict zones.",
+      "operational_impact": "Transport and logistics operations in the region may be impacted by increased security measures, potential drone sightings, or disruptions to satellite communications.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "e7f20d2bf4ae8549118b025ffb506964",
+    "timestamp": "2026-02-01T14:38:23.313751",
+    "original_title": "Indian gangs are terrorising Canada",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qszw8a/indian_gangs_are_terrorising_canada/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Crime/Terrorism/Civil Unrest",
+      "risk_score": 6,
+      "location": "Canada",
+      "latitude": 56.1304,
+      "longitude": -106.3468,
+      "detailed_analysis": "Indian gangs are reportedly terrorizing Canada, which could lead to increased violence and crime in the region, potentially affecting cargo and personnel safety.",
+      "immediate_forecast_24h": "Increased police presence and potential clashes between gangs and law enforcement, with possible disruptions to transport and logistics.",
+      "strategic_outlook": "Long-term instability and potential escalation of gang violence, requiring enhanced security measures for assets, cargo, and personnel in the region.",
+      "operational_impact": "Potential disruptions to supply chains, increased security costs, and risks to personnel safety, particularly in areas with high gang activity.",
+      "proximity_alert": null
+    }
   }
 ]
