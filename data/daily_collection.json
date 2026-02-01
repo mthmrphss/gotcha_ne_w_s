@@ -872,5 +872,43 @@
       "operational_impact": "Potential delays or disruptions to cargo transport, aviation operations, and personnel movements in the region due to power outages and ongoing conflict",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "77e36044c7a707d7c31a6bc28940ce9c",
+    "timestamp": "2026-02-01T13:59:39.592409",
+    "original_title": "UN nuclear watchdog discusses risks to Ukraine’s nuclear safety after relentless Russian strikes",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qsyg9v/un_nuclear_watchdog_discusses_risks_to_ukraines/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "The UN nuclear watchdog is discussing risks to Ukraine's nuclear safety due to relentless Russian strikes, posing a significant threat to the country's nuclear facilities and potentially affecting the safety of personnel and the environment.",
+      "immediate_forecast_24h": "Increased tensions and potential escalation of the conflict, with a high risk of damage to nuclear facilities and disruption to the power grid.",
+      "strategic_outlook": "Long-term instability and potential for a wider conflict, with significant implications for regional and global security, as well as the safety of assets, cargo, and personnel in the region.",
+      "operational_impact": "Potential disruption to logistics and transportation in the region, with a high risk of delays, damage to infrastructure, and loss of assets, as well as a significant impact on the safety of aviation operations in the area.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "41f1375db9b88369c73089e683ebc6f8",
+    "timestamp": "2026-02-01T13:59:41.523457",
+    "original_title": "Danish veterans stage protest outside US Embassy",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qsyf8t/danish_veterans_stage_protest_outside_us_embassy/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Copenhagen, Denmark",
+      "latitude": 55.6761,
+      "longitude": 12.5683,
+      "detailed_analysis": "Danish veterans are staging a protest outside the US Embassy, which may lead to potential disruptions in the surrounding area, but there is no indication of a direct threat to aviation, cargo, or personnel at this time.",
+      "immediate_forecast_24h": "The protest is likely to continue, potentially causing traffic disruptions and increased security presence in the area, but no major escalation is expected in the next 24 hours.",
+      "strategic_outlook": "The protest is part of a larger trend of demonstrations against the US administration's latest moves, which may lead to increased tensions and potential unrest in the region, but the impact on transport and logistics is expected to be minimal.",
+      "operational_impact": "The protest may cause minor disruptions to traffic and logistics in the surrounding area, but it is not expected to have a significant impact on overall operations.",
+      "proximity_alert": "YAKIN TEHDİT: Copenhagen Airport (1 km)"
+    }
   }
 ]
