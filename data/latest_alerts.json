@@ -55,5 +55,43 @@
       "operational_impact": "Potential disruptions to air traffic, increased security checks, and possible restrictions on cargo transport may impact operational efficiency and safety in the region.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "12e813f10bd0faedb8f348521a4e2b27",
+    "timestamp": "2026-02-01T06:12:14.148305",
+    "original_title": "An American Airlines Boeing 737 MAX declared an emergency over Cuba and diverted back to Miami - airlive",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRVZFTkxUU0g0aDk4NEUwRDhlS1AtaTZreTZwTi1DVDFJcVNPYjFsMGxhR1ZnOFhoQk0zS0RmaHlDVkc4eS1hQ19tN3V2T19NSVBZRVI0RE4wQWxBbm5ZSXpkZ0tjNGNRejkycU5OX0ZtV0Nub3ZDdVJTMXJ5TThObEw2X21fYVNrSjJxczBUSVJiX2sxWnJGMmZsdTZrbW9Va3hCazNBZmd3aWhIbkZMZWM1cG1admhVZ2V0Um11WW5VSXQ3QkNCeDAtNTUwYnZqUGc?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Miami, USA",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "detailed_analysis": "An American Airlines Boeing 737 MAX declared an emergency over Cuba and diverted back to Miami, indicating a potential technical issue or other safety concern that could impact aviation operations",
+      "immediate_forecast_24h": "Investigations into the cause of the emergency declaration will likely be conducted, and the aircraft may be grounded for inspection and maintenance",
+      "strategic_outlook": "The incident may lead to increased scrutiny of the Boeing 737 MAX and its safety record, potentially impacting public confidence in the aircraft and the airline",
+      "operational_impact": "The diversion of the flight may cause disruptions to passenger travel plans and potentially impact cargo operations, depending on the specific circumstances of the incident",
+      "proximity_alert": "YAKIN TEHDİT: Miami International Airport (10 km)"
+    }
+  },
+  {
+    "id": "d9a5a7458f6c775810a4ef329848714c",
+    "timestamp": "2026-02-01T06:12:17.614418",
+    "original_title": "Live: Qatar's top diplomat holds talks in Iran aiming to 'reduce tensions'",
+    "link": "https://www.france24.com/en/asia-pacific/20260201-live-qatar-s-top-diplomat-holds-talks-in-iran-aiming-to-reduce-tensions",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Qatar's foreign minister is holding talks in Iran to reduce regional tensions, while a US naval battle group led by the USS Abraham Lincoln aircraft carrier is positioned off Iran's shores, indicating a potential escalation of conflict that could impact aviation and maritime transport in the region.",
+      "immediate_forecast_24h": "Tensions may remain high, with a possibility of increased military presence in the region, potentially affecting air and sea traffic.",
+      "strategic_outlook": "The situation may lead to a long-term increase in military presence and tensions in the region, potentially disrupting transport and logistics operations, especially for aviation and maritime assets.",
+      "operational_impact": "Potential disruption to air and sea transport in the region, with possible delays or rerouting of flights and ships, and increased security measures for personnel and cargo.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
   }
 ]
