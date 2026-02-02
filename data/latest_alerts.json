@@ -1,59 +1,40 @@
 [
   {
-    "id": "07fdddf0599c0e230c724a7c4a188528",
-    "timestamp": "2026-02-02T10:59:39.413130",
-    "original_title": "Germany closer to US than China despite recent tensions, foreign minister says",
-    "link": "https://www.reddit.com/r/worldnews/comments/1qtrhge/germany_closer_to_us_than_china_despite_recent/",
+    "id": "7a08cfab7939a5b477398d9110417c21",
+    "timestamp": "2026-02-02T13:16:35.346036",
+    "original_title": "China’s Military Is Now Leading",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qtuqjw/chinas_military_is_now_leading/",
     "source_name": "Reddit r/WorldNews",
     "ai_analysis": {
-      "category": "Conflict/Other",
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "China",
+      "latitude": 34.7465,
+      "longitude": 106.2764,
+      "detailed_analysis": "China's military expansion poses a significant threat to regional stability, potentially impacting aviation and cargo operations in the area.",
+      "immediate_forecast_24h": "Increased military activity may lead to heightened security measures, potentially disrupting logistics and transport operations.",
+      "strategic_outlook": "Long-term implications of China's military expansion could lead to a shift in global power dynamics, affecting international trade and security protocols.",
+      "operational_impact": "Potential disruptions to air and sea cargo operations, increased security checks, and altered flight routes may impact transport and logistics in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "1af9c07facc316c3d147a7a3b95bf1fb",
+    "timestamp": "2026-02-02T13:16:38.089605",
+    "original_title": "Russia resumes attacks on energy infrastructure, leaving without power customers in 4 regions, including Kharkiv oblast",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qttu1o/russia_resumes_attacks_on_energy_infrastructure/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
       "risk_score": 10,
-      "location": "Berlin, Germany",
-      "latitude": 52.52,
-      "longitude": 13.405,
-      "detailed_analysis": "Germany's foreign minister stated that despite recent tensions, Germany remains closer to the US than China, indicating a geopolitical alignment that may impact trade and diplomatic relations but does not directly imply an immediate threat to assets, cargo, aviation, or personnel.",
-      "immediate_forecast_24h": "No significant changes in the geopolitical landscape are expected in the next 24 hours, but diplomatic relations and trade agreements may be subject to negotiations and adjustments.",
-      "strategic_outlook": "Long-term, Germany's stance could influence European Union policies and relations with both the US and China, potentially affecting global trade dynamics and security alliances.",
-      "operational_impact": "The announcement is unlikely to have a direct operational impact on transport and logistics in the short term but could influence future trade policies and security measures.",
-      "proximity_alert": "YAKIN TEHDİT: Berlin Tegel Airport (0 km)"
-    }
-  },
-  {
-    "id": "c7f8874937ab850a0837fe5efac390a7",
-    "timestamp": "2026-02-02T11:44:57.460336",
-    "original_title": "Gaza's border crossing to Egypt reopens in a key step for truce but only few Palestinians can cross",
-    "link": "https://www.reddit.com/r/worldnews/comments/1qtsqzi/gazas_border_crossing_to_egypt_reopens_in_a_key/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Border/Civil Unrest/Conflict",
-      "risk_score": 4,
-      "location": "Gaza, Palestine",
-      "latitude": 31.5,
-      "longitude": 34.4667,
-      "detailed_analysis": "The reopening of Gaza's border crossing to Egypt is a key step for truce, but only a few Palestinians can cross, which may lead to increased tensions and potential unrest in the region, affecting transport and logistics.",
-      "immediate_forecast_24h": "Increased security presence and potential protests at the border crossing, with a low likelihood of major incidents but possible disruptions to cargo and personnel movement.",
-      "strategic_outlook": "The long-term view is uncertain, with the potential for further conflict and unrest in the region, which could impact aviation, cargo, and personnel movement, as well as the overall stability of the area.",
-      "operational_impact": "Potential disruptions to transport and logistics, particularly for cargo and personnel moving through the Gaza-Egypt border crossing, with possible increased security measures and delays.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "884091ad35e9753b43b58a9ce1e96aff",
-    "timestamp": "2026-02-02T11:44:59.921327",
-    "original_title": "Oromo Liberation Army denies its fighters target civilians",
-    "link": "http://www.africanews.com/2026/02/02/oromo-liberation-army-denies-its-fighters-target-civilians/",
-    "source_name": "Africa News",
-    "ai_analysis": {
-      "category": "Conflict/Civil Unrest",
-      "risk_score": 6,
-      "location": "Ethiopia",
-      "latitude": 9.145,
-      "longitude": 40.4897,
-      "detailed_analysis": "The Oromo Liberation Army's denial of targeting civilians suggests an ongoing conflict in Ethiopia's largest region, potentially impacting aviation and logistics operations due to the presence of government drones and militant activity.",
-      "immediate_forecast_24h": "Increased military activity and potential clashes between government forces and the OLA may disrupt air traffic and ground transportation in the region.",
-      "strategic_outlook": "The conflict may escalate, affecting the stability of the region and posing long-term risks to aviation, cargo, and personnel, particularly if the use of drones and other military assets continues to intensify.",
-      "operational_impact": "Transport and logistics operations in the region may be disrupted due to the conflict, with potential risks to personnel and cargo; aviation operations may also be affected by drone activity and military operations.",
-      "proximity_alert": null
+      "location": "Kharkiv, Ukraine",
+      "latitude": 49.9935,
+      "longitude": 36.2304,
+      "detailed_analysis": "Russia has resumed attacks on energy infrastructure in Ukraine, leaving customers without power in 4 regions, including Kharkiv oblast. This attack has the potential to disrupt logistics and transportation in the region.",
+      "immediate_forecast_24h": "In the next 24 hours, there is a high likelihood of continued attacks on critical infrastructure, which may lead to further disruptions in power supply and transportation.",
+      "strategic_outlook": "The long-term impact of these attacks could be significant, potentially weakening Ukraine's ability to maintain its energy infrastructure and affecting its overall economic stability.",
+      "operational_impact": "The attacks on energy infrastructure may impact the transportation of cargo, particularly those that rely on consistent power supply, such as refrigerated goods and pharmaceuticals. Aviation may also be affected if airport operations are disrupted due to power outages.",
+      "proximity_alert": "YAKIN TEHDİT: Kharkiv International Airport (8 km)"
     }
   }
 ]

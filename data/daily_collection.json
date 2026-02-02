@@ -511,5 +511,43 @@
       "operational_impact": "Transport and logistics operations in the region may be disrupted due to the conflict, with potential risks to personnel and cargo; aviation operations may also be affected by drone activity and military operations.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "7a08cfab7939a5b477398d9110417c21",
+    "timestamp": "2026-02-02T13:16:35.346036",
+    "original_title": "China’s Military Is Now Leading",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qtuqjw/chinas_military_is_now_leading/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "China",
+      "latitude": 34.7465,
+      "longitude": 106.2764,
+      "detailed_analysis": "China's military expansion poses a significant threat to regional stability, potentially impacting aviation and cargo operations in the area.",
+      "immediate_forecast_24h": "Increased military activity may lead to heightened security measures, potentially disrupting logistics and transport operations.",
+      "strategic_outlook": "Long-term implications of China's military expansion could lead to a shift in global power dynamics, affecting international trade and security protocols.",
+      "operational_impact": "Potential disruptions to air and sea cargo operations, increased security checks, and altered flight routes may impact transport and logistics in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "1af9c07facc316c3d147a7a3b95bf1fb",
+    "timestamp": "2026-02-02T13:16:38.089605",
+    "original_title": "Russia resumes attacks on energy infrastructure, leaving without power customers in 4 regions, including Kharkiv oblast",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qttu1o/russia_resumes_attacks_on_energy_infrastructure/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Kharkiv, Ukraine",
+      "latitude": 49.9935,
+      "longitude": 36.2304,
+      "detailed_analysis": "Russia has resumed attacks on energy infrastructure in Ukraine, leaving customers without power in 4 regions, including Kharkiv oblast. This attack has the potential to disrupt logistics and transportation in the region.",
+      "immediate_forecast_24h": "In the next 24 hours, there is a high likelihood of continued attacks on critical infrastructure, which may lead to further disruptions in power supply and transportation.",
+      "strategic_outlook": "The long-term impact of these attacks could be significant, potentially weakening Ukraine's ability to maintain its energy infrastructure and affecting its overall economic stability.",
+      "operational_impact": "The attacks on energy infrastructure may impact the transportation of cargo, particularly those that rely on consistent power supply, such as refrigerated goods and pharmaceuticals. Aviation may also be affected if airport operations are disrupted due to power outages.",
+      "proximity_alert": "YAKIN TEHDİT: Kharkiv International Airport (8 km)"
+    }
   }
 ]
