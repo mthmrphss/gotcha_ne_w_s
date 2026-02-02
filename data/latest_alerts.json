@@ -1,43 +1,5 @@
 [
   {
-    "id": "7a08cfab7939a5b477398d9110417c21",
-    "timestamp": "2026-02-02T13:16:35.346036",
-    "original_title": "China’s Military Is Now Leading",
-    "link": "https://www.reddit.com/r/worldnews/comments/1qtuqjw/chinas_military_is_now_leading/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 8,
-      "location": "China",
-      "latitude": 34.7465,
-      "longitude": 106.2764,
-      "detailed_analysis": "China's military expansion poses a significant threat to regional stability, potentially impacting aviation and cargo operations in the area.",
-      "immediate_forecast_24h": "Increased military activity may lead to heightened security measures, potentially disrupting logistics and transport operations.",
-      "strategic_outlook": "Long-term implications of China's military expansion could lead to a shift in global power dynamics, affecting international trade and security protocols.",
-      "operational_impact": "Potential disruptions to air and sea cargo operations, increased security checks, and altered flight routes may impact transport and logistics in the region.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "1af9c07facc316c3d147a7a3b95bf1fb",
-    "timestamp": "2026-02-02T13:16:38.089605",
-    "original_title": "Russia resumes attacks on energy infrastructure, leaving without power customers in 4 regions, including Kharkiv oblast",
-    "link": "https://www.reddit.com/r/worldnews/comments/1qttu1o/russia_resumes_attacks_on_energy_infrastructure/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 10,
-      "location": "Kharkiv, Ukraine",
-      "latitude": 49.9935,
-      "longitude": 36.2304,
-      "detailed_analysis": "Russia has resumed attacks on energy infrastructure in Ukraine, leaving customers without power in 4 regions, including Kharkiv oblast. This attack has the potential to disrupt logistics and transportation in the region.",
-      "immediate_forecast_24h": "In the next 24 hours, there is a high likelihood of continued attacks on critical infrastructure, which may lead to further disruptions in power supply and transportation.",
-      "strategic_outlook": "The long-term impact of these attacks could be significant, potentially weakening Ukraine's ability to maintain its energy infrastructure and affecting its overall economic stability.",
-      "operational_impact": "The attacks on energy infrastructure may impact the transportation of cargo, particularly those that rely on consistent power supply, such as refrigerated goods and pharmaceuticals. Aviation may also be affected if airport operations are disrupted due to power outages.",
-      "proximity_alert": "YAKIN TEHDİT: Kharkiv International Airport (8 km)"
-    }
-  },
-  {
     "id": "137d384b91f606ae4bab7f274e1113c5",
     "timestamp": "2026-02-02T14:23:00.809590",
     "original_title": "Air India Dreamliner Grounded After Fuel Switch Moves From 'Run' To 'Cutoff'",
@@ -92,6 +54,63 @@
       "strategic_outlook": "Resumption of flights could lead to increased economic activity and people-to-people exchanges, but also potential security risks and geopolitical tensions",
       "operational_impact": "Potential impact on aviation operations, cargo transport, and personnel safety if flights resume",
       "proximity_alert": "YAKIN TEHDİT: Ben Gurion International Airport (0 km)"
+    }
+  },
+  {
+    "id": "644cb8c0c176401ad10688fa81890a8a",
+    "timestamp": "2026-02-02T15:09:55.641918",
+    "original_title": "Russian forces attack Kharkiv 75 times over past month, killing 9 people, including child",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qtxjib/russian_forces_attack_kharkiv_75_times_over_past/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Kharkiv, Ukraine",
+      "latitude": 49.9935,
+      "longitude": 36.2304,
+      "detailed_analysis": "Russian forces have attacked Kharkiv 75 times over the past month, resulting in the deaths of 9 people, including a child. This indicates a high level of conflict and instability in the region, posing a significant threat to assets, cargo, aviation, and personnel.",
+      "immediate_forecast_24h": "Further attacks are likely, and the situation is expected to remain volatile. There is a high risk of damage to infrastructure, including transportation hubs and logistics facilities.",
+      "strategic_outlook": "The ongoing conflict in Ukraine is likely to continue, with potential long-term implications for regional stability and global security. This may lead to increased risks for assets, cargo, aviation, and personnel in the region.",
+      "operational_impact": "The attacks on Kharkiv may disrupt transportation and logistics operations, including air travel and cargo shipments. There is a high risk of delays, cancellations, and damage to goods and equipment.",
+      "proximity_alert": "YAKIN TEHDİT: Kharkiv International Airport (8 km)"
+    }
+  },
+  {
+    "id": "d83f65f7830e065c63c27e4f7911db0c",
+    "timestamp": "2026-02-02T15:09:57.464548",
+    "original_title": "Explosions, fire reported overnight in Russia's Belgorod Oblast",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qtx9cr/explosions_fire_reported_overnight_in_russias/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Belgorod, Russia",
+      "latitude": 50.5833,
+      "longitude": 36.5833,
+      "detailed_analysis": "Reports of explosions and fire in Russia's Belgorod Oblast indicate a potential escalation of conflict in the region, posing a significant threat to assets, cargo, aviation, and personnel.",
+      "immediate_forecast_24h": "Increased military activity and potential for further explosions or attacks in the region, affecting transport and logistics operations.",
+      "strategic_outlook": "Long-term instability in the region may lead to sustained disruptions to supply chains and increased security measures for transport and logistics operations.",
+      "operational_impact": "Potential disruptions to air and ground transport, increased security checks, and possible rerouting of cargo and personnel to avoid the affected area.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "fa2f278b79774448dccecd86bc99355c",
+    "timestamp": "2026-02-02T15:10:00.043840",
+    "original_title": "Deadly Jihadist attack hits fuel convoy in Western Mali",
+    "link": "http://www.africanews.com/2026/02/02/deadly-jihadist-attack-hits-fuel-convoy-in-western-mali/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict/Crime",
+      "risk_score": 8,
+      "location": "Western Mali",
+      "latitude": 16.0,
+      "longitude": -10.0,
+      "detailed_analysis": "A deadly jihadist attack on a fuel tanker convoy in western Mali has resulted in at least 15 fatalities. The assault is blamed on jihadists and occurs amid a months-long fuel blockade that had recently begun to ease, indicating a high level of risk to cargo and personnel in the region.",
+      "immediate_forecast_24h": "Increased security measures are expected in the region, with potential for further attacks on fuel convoys or other critical infrastructure. Drivers and logistics personnel should exercise extreme caution.",
+      "strategic_outlook": "The long-term outlook for the region remains unstable, with jihadist groups posing a persistent threat to security and logistics operations. Companies operating in the area should maintain high levels of vigilance and consider alternative routes or security arrangements.",
+      "operational_impact": "The attack is likely to disrupt fuel supplies in the region, potentially impacting aviation and other critical operations. Logistics companies should review their security protocols and consider contingency planning to mitigate the risks associated with operating in the area.",
+      "proximity_alert": null
     }
   }
 ]
