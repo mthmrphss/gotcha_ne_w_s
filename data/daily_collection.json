@@ -435,5 +435,43 @@
       "operational_impact": "Potential for flight restrictions, cargo delays, and increased security measures for personnel and assets in the region.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "73e341ea8ce1c74f13a23dcef67a96f0",
+    "timestamp": "2026-02-02T09:59:44.158136",
+    "original_title": "Commercial flights resume to war-torn capital after nearly three years",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/khartoum-sudanair-flight-sudan-war-b2912047.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 10,
+      "location": "War-torn capital, Country",
+      "latitude": 33.5138,
+      "longitude": 36.2765,
+      "detailed_analysis": "The resumption of commercial flights to the war-torn capital after nearly three years poses a moderate to high risk due to the potential for aviation-related threats, such as bomb threats or drone sightings, in a conflict zone.",
+      "immediate_forecast_24h": "Increased security measures are expected at the airport, with potential for disruptions to flights and operations.",
+      "strategic_outlook": "The long-term outlook is uncertain, with the potential for continued conflict and instability in the region, posing an ongoing risk to aviation and logistics operations.",
+      "operational_impact": "The resumption of flights may lead to increased demand for cargo and passenger services, but the conflict zone poses significant operational challenges and risks to assets, cargo, aviation, and personnel.",
+      "proximity_alert": "YAKIN TEHDİT: Damascus International Airport (24 km)"
+    }
+  },
+  {
+    "id": "16183be183f9efce010c2aac14eb9293",
+    "timestamp": "2026-02-02T09:59:45.862923",
+    "original_title": "Olympics travel: Strikes reducing train service across Lombardy and Milan",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/winter-olympics-travel-strikes-train-milan-lombardy-b2912000.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Milan, Italy",
+      "latitude": 45.4642,
+      "longitude": 9.1895,
+      "detailed_analysis": "Strikes are reducing train service across Lombardy and Milan, potentially disrupting travel plans for Olympics attendees and cargo transport",
+      "immediate_forecast_24h": "Train services may experience changes or cancellations, causing inconvenience to passengers and potential delays in cargo transport",
+      "strategic_outlook": "The situation may escalate if the strikes continue, leading to increased travel disruptions and potential economic losses",
+      "operational_impact": "Transport and logistics operations may be impacted, with potential delays or cancellations of cargo shipments and passenger travel",
+      "proximity_alert": "YAKIN TEHDİT: Milan–Malpensa Airport (0 km)"
+    }
   }
 ]
