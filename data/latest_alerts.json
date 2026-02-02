@@ -1,43 +1,5 @@
 [
   {
-    "id": "73e341ea8ce1c74f13a23dcef67a96f0",
-    "timestamp": "2026-02-02T09:59:44.158136",
-    "original_title": "Commercial flights resume to war-torn capital after nearly three years",
-    "link": "https://www.independent.co.uk/travel/news-and-advice/khartoum-sudanair-flight-sudan-war-b2912047.html",
-    "source_name": "Independent Travel",
-    "ai_analysis": {
-      "category": "Conflict/Aviation",
-      "risk_score": 10,
-      "location": "War-torn capital, Country",
-      "latitude": 33.5138,
-      "longitude": 36.2765,
-      "detailed_analysis": "The resumption of commercial flights to the war-torn capital after nearly three years poses a moderate to high risk due to the potential for aviation-related threats, such as bomb threats or drone sightings, in a conflict zone.",
-      "immediate_forecast_24h": "Increased security measures are expected at the airport, with potential for disruptions to flights and operations.",
-      "strategic_outlook": "The long-term outlook is uncertain, with the potential for continued conflict and instability in the region, posing an ongoing risk to aviation and logistics operations.",
-      "operational_impact": "The resumption of flights may lead to increased demand for cargo and passenger services, but the conflict zone poses significant operational challenges and risks to assets, cargo, aviation, and personnel.",
-      "proximity_alert": "YAKIN TEHDİT: Damascus International Airport (24 km)"
-    }
-  },
-  {
-    "id": "16183be183f9efce010c2aac14eb9293",
-    "timestamp": "2026-02-02T09:59:45.862923",
-    "original_title": "Olympics travel: Strikes reducing train service across Lombardy and Milan",
-    "link": "https://www.independent.co.uk/travel/news-and-advice/winter-olympics-travel-strikes-train-milan-lombardy-b2912000.html",
-    "source_name": "Independent Travel",
-    "ai_analysis": {
-      "category": "Civil Unrest",
-      "risk_score": 10,
-      "location": "Milan, Italy",
-      "latitude": 45.4642,
-      "longitude": 9.1895,
-      "detailed_analysis": "Strikes are reducing train service across Lombardy and Milan, potentially disrupting travel plans for Olympics attendees and cargo transport",
-      "immediate_forecast_24h": "Train services may experience changes or cancellations, causing inconvenience to passengers and potential delays in cargo transport",
-      "strategic_outlook": "The situation may escalate if the strikes continue, leading to increased travel disruptions and potential economic losses",
-      "operational_impact": "Transport and logistics operations may be impacted, with potential delays or cancellations of cargo shipments and passenger travel",
-      "proximity_alert": "YAKIN TEHDİT: Milan–Malpensa Airport (0 km)"
-    }
-  },
-  {
     "id": "07fdddf0599c0e230c724a7c4a188528",
     "timestamp": "2026-02-02T10:59:39.413130",
     "original_title": "Germany closer to US than China despite recent tensions, foreign minister says",
@@ -54,6 +16,44 @@
       "strategic_outlook": "Long-term, Germany's stance could influence European Union policies and relations with both the US and China, potentially affecting global trade dynamics and security alliances.",
       "operational_impact": "The announcement is unlikely to have a direct operational impact on transport and logistics in the short term but could influence future trade policies and security measures.",
       "proximity_alert": "YAKIN TEHDİT: Berlin Tegel Airport (0 km)"
+    }
+  },
+  {
+    "id": "c7f8874937ab850a0837fe5efac390a7",
+    "timestamp": "2026-02-02T11:44:57.460336",
+    "original_title": "Gaza's border crossing to Egypt reopens in a key step for truce but only few Palestinians can cross",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qtsqzi/gazas_border_crossing_to_egypt_reopens_in_a_key/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Border/Civil Unrest/Conflict",
+      "risk_score": 4,
+      "location": "Gaza, Palestine",
+      "latitude": 31.5,
+      "longitude": 34.4667,
+      "detailed_analysis": "The reopening of Gaza's border crossing to Egypt is a key step for truce, but only a few Palestinians can cross, which may lead to increased tensions and potential unrest in the region, affecting transport and logistics.",
+      "immediate_forecast_24h": "Increased security presence and potential protests at the border crossing, with a low likelihood of major incidents but possible disruptions to cargo and personnel movement.",
+      "strategic_outlook": "The long-term view is uncertain, with the potential for further conflict and unrest in the region, which could impact aviation, cargo, and personnel movement, as well as the overall stability of the area.",
+      "operational_impact": "Potential disruptions to transport and logistics, particularly for cargo and personnel moving through the Gaza-Egypt border crossing, with possible increased security measures and delays.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "884091ad35e9753b43b58a9ce1e96aff",
+    "timestamp": "2026-02-02T11:44:59.921327",
+    "original_title": "Oromo Liberation Army denies its fighters target civilians",
+    "link": "http://www.africanews.com/2026/02/02/oromo-liberation-army-denies-its-fighters-target-civilians/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 6,
+      "location": "Ethiopia",
+      "latitude": 9.145,
+      "longitude": 40.4897,
+      "detailed_analysis": "The Oromo Liberation Army's denial of targeting civilians suggests an ongoing conflict in Ethiopia's largest region, potentially impacting aviation and logistics operations due to the presence of government drones and militant activity.",
+      "immediate_forecast_24h": "Increased military activity and potential clashes between government forces and the OLA may disrupt air traffic and ground transportation in the region.",
+      "strategic_outlook": "The conflict may escalate, affecting the stability of the region and posing long-term risks to aviation, cargo, and personnel, particularly if the use of drones and other military assets continues to intensify.",
+      "operational_impact": "Transport and logistics operations in the region may be disrupted due to the conflict, with potential risks to personnel and cargo; aviation operations may also be affected by drone activity and military operations.",
+      "proximity_alert": null
     }
   }
 ]
