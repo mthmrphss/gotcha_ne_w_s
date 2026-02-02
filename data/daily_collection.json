@@ -549,5 +549,62 @@
       "operational_impact": "The attacks on energy infrastructure may impact the transportation of cargo, particularly those that rely on consistent power supply, such as refrigerated goods and pharmaceuticals. Aviation may also be affected if airport operations are disrupted due to power outages.",
       "proximity_alert": "YAKIN TEHDİT: Kharkiv International Airport (8 km)"
     }
+  },
+  {
+    "id": "137d384b91f606ae4bab7f274e1113c5",
+    "timestamp": "2026-02-02T14:23:00.809590",
+    "original_title": "Air India Dreamliner Grounded After Fuel Switch Moves From 'Run' To 'Cutoff'",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qtwcz8/air_india_dreamliner_grounded_after_fuel_switch/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 6,
+      "location": "India",
+      "latitude": 20.0,
+      "longitude": 77.0,
+      "detailed_analysis": "An Air India Dreamliner has been grounded due to a fuel switch issue, moving from 'run' to 'cutoff', which could potentially lead to safety risks and disruptions in flight operations.",
+      "immediate_forecast_24h": "The aircraft will likely remain grounded until the issue is resolved, potentially causing delays or cancellations of flights, and impacting passenger travel plans.",
+      "strategic_outlook": "This incident highlights the importance of regular maintenance and safety checks in the aviation industry to prevent such technical issues, which can have significant operational and reputational impacts on airlines.",
+      "operational_impact": "The grounding of the aircraft may lead to reduced capacity, increased costs, and potential losses for Air India, as well as inconvenience to passengers, emphasizing the need for efficient and effective maintenance procedures.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "fcc9ce1f52b18813cc18cc441bc6169a",
+    "timestamp": "2026-02-02T14:23:04.069741",
+    "original_title": "Milano ready to host Olympics, protests against ICE presence continue",
+    "link": "http://www.africanews.com/2026/02/02/milano-ready-to-host-olympics-protests-against-ice-presence-continue/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Milan, Italy",
+      "latitude": 45.4642,
+      "longitude": 9.1895,
+      "detailed_analysis": "Protests against ICE presence at the 2026 Winter Olympics in Milan could potentially disrupt logistics and transportation, but there is no direct threat to assets, cargo, aviation, or personnel reported.",
+      "immediate_forecast_24h": "Protests are likely to continue, potentially causing minor disruptions to traffic and logistics, but no major incidents are expected.",
+      "strategic_outlook": "The presence of protests during the Olympics may lead to increased security measures, potentially affecting the movement of people and goods, but the overall impact on transport and logistics is expected to be minimal.",
+      "operational_impact": "Minimal disruptions to transport and logistics are expected, but security measures may be increased, potentially causing minor delays.",
+      "proximity_alert": "YAKIN TEHDİT: Milan–Malpensa Airport (0 km)"
+    }
+  },
+  {
+    "id": "db03489f125a7816742df4d742b4666e",
+    "timestamp": "2026-02-02T14:23:07.280291",
+    "original_title": "Emirates is Finally Eyeing The Resumption Of Israel Flights After Two Year Suspension",
+    "link": "https://www.paddleyourownkanoo.com/2026/02/02/emirates-is-finally-eyeing-the-resumption-of-israel-flights-after-two-year-suspension/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 10,
+      "location": "Tel Aviv, Israel",
+      "latitude": 32.0853,
+      "longitude": 34.7818,
+      "detailed_analysis": "Emirates is considering resuming flights to Tel Aviv after a two-year suspension due to conflict with Hamas in Gaza, which may lead to increased tensions and potential security threats",
+      "immediate_forecast_24h": "No immediate changes expected, but preparations for route resumption may begin",
+      "strategic_outlook": "Resumption of flights could lead to increased economic activity and people-to-people exchanges, but also potential security risks and geopolitical tensions",
+      "operational_impact": "Potential impact on aviation operations, cargo transport, and personnel safety if flights resume",
+      "proximity_alert": "YAKIN TEHDİT: Ben Gurion International Airport (0 km)"
+    }
   }
 ]
