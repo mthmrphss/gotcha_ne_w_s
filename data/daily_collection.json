@@ -207,5 +207,62 @@
       "operational_impact": "There is no expected operational impact on transport or logistics due to this event.",
       "proximity_alert": "YAKIN TEHDİT: Los Angeles International Airport (20 km)"
     }
+  },
+  {
+    "id": "50b255edb9099fcce8cc20c06366f4ec",
+    "timestamp": "2026-02-02T06:39:56.612646",
+    "original_title": "Unprovoked terrorist strike' — Russia attacks bus carrying Ukrainian civilian miners, killing at least 12, injuring 16",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qtngnz/unprovoked_terrorist_strike_russia_attacks_bus/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict",
+      "risk_score": 10,
+      "location": "Dnipropetrovsk Oblast, Ukraine",
+      "latitude": 48.4594,
+      "longitude": 34.9853,
+      "detailed_analysis": "A terrorist strike by Russia on a bus carrying Ukrainian civilian miners has resulted in at least 12 deaths and 16 injuries. This incident highlights the ongoing conflict between Russia and Ukraine and the potential for targeted attacks on civilian targets.",
+      "immediate_forecast_24h": "Increased tensions between Russia and Ukraine, potential for further attacks on civilian targets, and heightened security measures in the region.",
+      "strategic_outlook": "Long-term escalation of the conflict, potential for widespread instability in the region, and increased risk to assets, cargo, aviation, and personnel.",
+      "operational_impact": "Disruption to transport and logistics in the region, potential for delays or cancellations of flights and shipments, and increased security protocols for personnel and assets.",
+      "proximity_alert": "YAKIN TEHDİT: Dnipropetrovsk International Airport (22 km)"
+    }
+  },
+  {
+    "id": "6752cffe147960446e99207c786dbcfd",
+    "timestamp": "2026-02-02T06:39:59.334268",
+    "original_title": "Bad Bunny’s 2026 Grammy Awards triumph becomes protest against ICE",
+    "link": "https://www.france24.com/en/video/20260202-this-is-one-of-the-biggest-artists-of-the-time-bad-bunny-hits-out-at-ice-at-grammy-awards",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest/Other",
+      "risk_score": 10,
+      "location": "Los Angeles, USA",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "detailed_analysis": "The event is related to the 2026 Grammy Awards, where Bad Bunny and Billie Eilish made statements criticizing immigration authorities, which could potentially lead to protests or unrest. However, there is no direct threat to assets, cargo, aviation, or personnel.",
+      "immediate_forecast_24h": "Low likelihood of immediate unrest or protests, but social media and public discourse may be affected.",
+      "strategic_outlook": "The event may contribute to ongoing social and political discussions about immigration, potentially influencing public opinion and policy. No significant long-term impact on transport or logistics is expected.",
+      "operational_impact": "No direct operational impact on transport or logistics is anticipated. However, companies with operations near potential protest areas should be aware of the situation and plan accordingly.",
+      "proximity_alert": "YAKIN TEHDİT: Los Angeles International Airport (20 km)"
+    }
+  },
+  {
+    "id": "6752cffe147960446e99207c786dbcfd",
+    "timestamp": "2026-02-02T06:40:01.163480",
+    "original_title": "Bad Bunny’s 2026 Grammy Awards triumph becomes protest against ICE",
+    "link": "https://www.france24.com/en/culture/20260202-bad-bunny-billie-eilish-call-out-ice-at-the-2026-grammy-awards",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Los Angeles, USA",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "detailed_analysis": "The event is a protest against ICE during the Grammy Awards, which may lead to civil unrest but does not directly threaten assets, cargo, aviation, or personnel.",
+      "immediate_forecast_24h": "The protest is likely to be peaceful, but there is a possibility of clashes between protesters and authorities.",
+      "strategic_outlook": "The long-term impact is expected to be minimal, as the event is a one-time protest and not a sustained campaign.",
+      "operational_impact": "The protest may cause minor disruptions to local traffic and logistics, but it is unlikely to have a significant impact on transport or logistics operations.",
+      "proximity_alert": "YAKIN TEHDİT: Los Angeles International Airport (20 km)"
+    }
   }
 ]
