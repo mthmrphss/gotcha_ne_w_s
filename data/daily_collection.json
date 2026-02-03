@@ -1670,5 +1670,100 @@
       "operational_impact": "The emergency declaration may cause disruptions to air traffic in the area, potentially leading to delays or rerouting of flights.",
       "proximity_alert": "YAKIN TEHDİT: Adolfo Suárez Madrid–Barajas Airport (15 km)"
     }
+  },
+  {
+    "id": "85fe791fc1a13fffb5b7a63341ab59b3",
+    "timestamp": "2026-02-03T14:26:26.179723",
+    "original_title": "Satellite imagery shows where the U.S. military is positioned near Iran - The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZG02SWlvdlB3T09vTGJ3TUFZaXc0ZzU2T0dUTlVOU2t4RDJTTXlOMTVUcHlDSC1sQWpva1c1cXRBZjVyWjh6U0k0Q1RNTGFoRkVCWDE3QlBxUGplVVg2NGRrX0wtNVRzMWpoT3R2VG5kS3VvY0ZfeU8ycjR1MnhMaVc2cHZOa1BxeU1CaTFvNW1JZlA5WVZMMVg5N0llRFk?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Satellite imagery reveals U.S. military positioning near Iran, indicating heightened tensions and potential for conflict, which could impact aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Increased military activity and surveillance are expected, with potential for escalation or miscalculation, affecting air traffic and logistics in the area.",
+      "strategic_outlook": "Long-term tensions between the U.S. and Iran may lead to sustained military presence, impacting regional stability and potentially affecting global supply chains and aviation routes.",
+      "operational_impact": "Potential disruptions to air traffic, cargo shipments, and logistics operations in the region, with possible rerouting of flights and cargo vessels to avoid areas of conflict.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "13140383af22238a0dea1bd91b573270",
+    "timestamp": "2026-02-03T14:26:31.712946",
+    "original_title": "Three Haftar forces killed in Libya-Niger border clash",
+    "link": "http://www.africanews.com/2026/02/03/three-haftar-forces-killed-in-libya-niger-border-clash/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Border",
+      "risk_score": 6,
+      "location": "Libya-Niger border",
+      "latitude": 23.0,
+      "longitude": 12.0,
+      "detailed_analysis": "Clashes at the Libya-Niger border resulted in the death of three Libyan soldiers from the army of eastern strongman Khalifa Haftar, indicating heightened tensions and potential instability in the region.",
+      "immediate_forecast_24h": "Increased military presence and potential for further clashes in the short term, with possible disruptions to border crossings and trade.",
+      "strategic_outlook": "Long-term instability in the region could lead to increased security concerns for assets, cargo, aviation, and personnel, with potential for spillover into neighboring countries.",
+      "operational_impact": "Potential disruptions to logistics and supply chains, particularly for cargo and personnel moving through the region, with increased security measures and possible delays at border crossings.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "8aba1c56bb7d09d6a02cd4ecd14c7ad6",
+    "timestamp": "2026-02-03T14:26:33.712444",
+    "original_title": "Striking Ukraine amid harsh winter, part of Russian strategy",
+    "link": "https://www.france24.com/en/video/20260203-striking-ukraine-amid-harsh-winter-part-of-russian-strategy-1",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "Russia launched a major drone and missile strike on Ukraine, targeting key infrastructure and leaving hundreds of thousands without heating. The attack's timing, just before peace talks, suggests an escalation of conflict.",
+      "immediate_forecast_24h": "Increased tensions between Ukraine and Russia, potential for further strikes or retaliation, and disruptions to critical infrastructure and services.",
+      "strategic_outlook": "Prolonged conflict may lead to significant humanitarian crises, infrastructure damage, and long-term instability in the region, affecting aviation, cargo, and personnel safety.",
+      "operational_impact": "Potential disruptions to air traffic, cargo transport, and logistics in the region, with increased risk to personnel and assets due to ongoing conflict and infrastructure damage.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "a3d536ad847a27e8f1f87d5ddf910d08",
+    "timestamp": "2026-02-03T14:26:36.221598",
+    "original_title": "Trump administration seeks 'to influence electoral outcomes' across the Americas",
+    "link": "https://www.france24.com/en/video/20260203-trump-administration-seeks-to-influence-electoral-outcomes-across-the-americas",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Politics",
+      "risk_score": 10,
+      "location": "Washington D.C., USA",
+      "latitude": 38.8951,
+      "longitude": -77.0364,
+      "detailed_analysis": "The meeting between President Donald Trump and Colombian President Gustavo Petro may lead to increased cooperation on regional security and counternarcotics efforts, potentially impacting organized crime and drug trafficking in the region.",
+      "immediate_forecast_24h": "The meeting is expected to focus on finding effective solutions to address armed rebels and organized crime, with no immediate threats to assets, cargo, aviation, or personnel anticipated.",
+      "strategic_outlook": "Improved relations between the US and Colombia could lead to enhanced security cooperation, potentially reducing the risk of crime and terrorism in the region over the long term.",
+      "operational_impact": "No significant operational impact on transport or logistics is expected in the short term, but increased security cooperation could lead to improved safety and security for cargo and personnel in the region over time.",
+      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
+    }
+  },
+  {
+    "id": "e6194295ef8c052e09fdcb9a50566e2f",
+    "timestamp": "2026-02-03T14:26:39.706448",
+    "original_title": "Boeing 787 Dreamliner grounded after pilot flags similar issue to deadly Air India jet",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/boeing-787-dreamliner-fuel-switch-b2912996.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Heathrow, UK",
+      "latitude": 51.47,
+      "longitude": -0.4614,
+      "detailed_analysis": "A Boeing 787 Dreamliner was grounded at Heathrow airport due to a pilot reporting a similar issue to a deadly Air India jet, raising concerns about fuel switches and potential safety risks",
+      "immediate_forecast_24h": "Investigations and inspections of the aircraft are expected to be conducted, potentially leading to temporary grounding of similar aircraft or changes in flight operations",
+      "strategic_outlook": "The incident may lead to increased scrutiny of fuel switch protocols and safety procedures in the aviation industry, potentially resulting in updated regulations or guidelines",
+      "operational_impact": "Potential disruptions to flight schedules, possible delays or cancellations, and increased security measures may impact transport and logistics operations",
+      "proximity_alert": "YAKIN TEHDİT: Heathrow Airport (0 km)"
+    }
   }
 ]
