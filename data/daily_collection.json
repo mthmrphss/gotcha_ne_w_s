@@ -188,5 +188,24 @@
       "operational_impact": "Potential for flight disruptions, cargo delays, and increased security measures for personnel and assets in Ukraine and surrounding areas.",
       "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
     }
+  },
+  {
+    "id": "8fd231be9d2eae8832abdb84501e7bf6",
+    "timestamp": "2026-02-03T22:00:02.754043",
+    "original_title": "Libya: Saif al-Islam Gaddafi killed in Zintan city by gunmen",
+    "link": "https://www.france24.com/en/africa/20260203-seif-al-islam-gaddafi-son-of-libya-s-late-dictator-killed-in-the-northern-african-country-report-say",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Crime",
+      "risk_score": 6,
+      "location": "Zintan, Libya",
+      "latitude": 31.9333,
+      "longitude": 12.0167,
+      "detailed_analysis": "The killing of Saif al-Islam Gaddafi by unidentified gunmen in Zintan city may lead to increased instability and violence in the region, potentially affecting transport and logistics operations.",
+      "immediate_forecast_24h": "Heightened security measures are expected in the short term, with potential for retaliatory attacks or unrest in the region.",
+      "strategic_outlook": "The long-term impact of Gaddafi's death may lead to a power vacuum, potentially destabilizing the region and affecting aviation, cargo, and personnel security.",
+      "operational_impact": "Transport and logistics operations in Libya may be disrupted due to increased security concerns, and personnel may face elevated risks due to potential violence or unrest.",
+      "proximity_alert": null
+    }
   }
 ]
