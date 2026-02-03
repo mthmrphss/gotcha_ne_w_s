@@ -1,24 +1,5 @@
 [
   {
-    "id": "77e8db16b096abf8cb3c86d8653e9a01",
-    "timestamp": "2026-02-03T13:21:53.223246",
-    "original_title": "easyJet flight U23211 from Edinburgh is declaring an emergency over Spain - airlive",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNWtiZ3VmVzV3ak9CU1U1d0dtSEd5VFg4cjQ3QVc1QnRyX2JLMmJMX2xneEliRGg2RVF0eEZCN0djaENaZjlaelNwOFdydU8xaEVrZTRfcU4td3J0ejd6WEJWek5MejdYbEtxb25meGxqVl8xSEFIcnJoMksxWXA2ZUF6cGh1UjYydTVFV1hWcE5nVGZTVjJLenMxd25qNk5MQ3pBc2FIQnBtUllFS000bUhaTnJEZw?oc=5",
-    "source_name": "Live Flight Emergencies (Squawk)",
-    "ai_analysis": {
-      "category": "Aviation",
-      "risk_score": 10,
-      "location": "Spain",
-      "latitude": 40.4637,
-      "longitude": -3.7492,
-      "detailed_analysis": "easyJet flight U23211 from Edinburgh has declared an emergency over Spain, indicating a potential threat to the safety of the aircraft, its passengers, and crew.",
-      "immediate_forecast_24h": "The situation is being monitored, and emergency services are likely on standby. The flight's status and any further developments will be closely watched.",
-      "strategic_outlook": "This incident may lead to increased security measures for flights operating in the region and potentially impact air travel in the coming days.",
-      "operational_impact": "The emergency declaration may cause disruptions to air traffic in the area, potentially leading to delays or rerouting of flights.",
-      "proximity_alert": "YAKIN TEHDİT: Adolfo Suárez Madrid–Barajas Airport (15 km)"
-    }
-  },
-  {
     "id": "85fe791fc1a13fffb5b7a63341ab59b3",
     "timestamp": "2026-02-03T14:26:26.179723",
     "original_title": "Satellite imagery shows where the U.S. military is positioned near Iran - The Washington Post",
@@ -111,6 +92,25 @@
       "strategic_outlook": "The incident may lead to increased scrutiny of fuel switch protocols and safety procedures in the aviation industry, potentially resulting in updated regulations or guidelines",
       "operational_impact": "Potential disruptions to flight schedules, possible delays or cancellations, and increased security measures may impact transport and logistics operations",
       "proximity_alert": "YAKIN TEHDİT: Heathrow Airport (0 km)"
+    }
+  },
+  {
+    "id": "a036fd055d65a7f069286affc77179a3",
+    "timestamp": "2026-02-03T15:25:47.498521",
+    "original_title": "Grieving Iranians cowed into silence beside the graves of protesters",
+    "link": "https://www.reddit.com/r/worldnews/comments/1quu17j/grieving_iranians_cowed_into_silence_beside_the/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The situation in Iran involves grieving families being cowed into silence beside the graves of protesters, indicating a high level of tension and potential for further unrest. However, there is no direct mention of threats to assets, cargo, aviation, or personnel.",
+      "immediate_forecast_24h": "The situation is likely to remain tense, with potential for further protests or unrest. However, without more information, it's difficult to predict specific events.",
+      "strategic_outlook": "The long-term outlook for Iran is uncertain, with ongoing protests and unrest potentially leading to further instability. This could have implications for regional security and transport/logistics operations.",
+      "operational_impact": "The current situation in Iran may impact transport/logistics operations, particularly if protests or unrest affect major transportation hubs or routes. However, the specific impact is difficult to determine without more information.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
     }
   }
 ]
