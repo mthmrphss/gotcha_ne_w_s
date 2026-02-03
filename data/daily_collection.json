@@ -1784,5 +1784,81 @@
       "operational_impact": "The current situation in Iran may impact transport/logistics operations, particularly if protests or unrest affect major transportation hubs or routes. However, the specific impact is difficult to determine without more information.",
       "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
     }
+  },
+  {
+    "id": "94fdf71a028069ce42a65770d8e9f732",
+    "timestamp": "2026-02-03T16:27:47.553134",
+    "original_title": "Easyjet flight from Scotland to popular holiday hotspot forced into emergency landing - The Scottish Sun",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc2hmRktxcTBEUlFMamlaSHhTZXFsY25SSC12ck5Gd2VEQkJRM2hVZTN2bmxJQTE3TWd0NUxwQ3E1TlpvYTI5WE9oYXZSazJ2bzc1OWtVNXItN1gxZFV5Z0RfcUpSblZ1WVpDZEhPR2tMbXJjRktpd25tMWVSM0NMUXRKVFlvWWpBWFZuRktSQjYwYlNwMGc1ek9mVmFVeWtDVHVqSUtDelo?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 6,
+      "location": "Scotland",
+      "latitude": 55.3781,
+      "longitude": -3.436,
+      "detailed_analysis": "An Easyjet flight from Scotland to a popular holiday destination was forced into an emergency landing, the cause of which is not specified in the report. This incident could pose a risk to aviation safety and security.",
+      "immediate_forecast_24h": "Investigations into the cause of the emergency landing are likely to be initiated, and there may be disruptions to Easyjet's flight schedule in the short term.",
+      "strategic_outlook": "The incident highlights the importance of maintaining high safety and security standards in the aviation industry. Airlines and regulatory bodies may need to review their emergency procedures and protocols to minimize the risk of such incidents in the future.",
+      "operational_impact": "The emergency landing may cause delays or cancellations of flights, potentially affecting passengers and cargo. The incident may also lead to increased security measures being implemented at airports, which could impact the efficiency of logistics operations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "c695e97bfb5213617c80ea34f36b5a85",
+    "timestamp": "2026-02-03T16:27:51.051116",
+    "original_title": "Sudanese military says it has broken siege on key Kordofan city",
+    "link": "http://www.africanews.com/2026/02/03/sudanese-military-says-it-has-broken-siege-on-key-kordofan-city/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 6,
+      "location": "Kadugli, Sudan",
+      "latitude": 11.0333,
+      "longitude": 29.7167,
+      "detailed_analysis": "The breaking of the siege on the key Kordofan city and the opening of a crucial supply route to famine-stricken Kadugli may lead to increased instability and potential for conflict in the region, posing a risk to assets, cargo, aviation, and personnel.",
+      "immediate_forecast_24h": "Increased military activity and potential clashes in the region, with a high likelihood of disruptions to supply chains and logistics.",
+      "strategic_outlook": "Long-term instability in the region may lead to ongoing disruptions to transport and logistics, with potential for humanitarian crises and increased risk to personnel and assets.",
+      "operational_impact": "Potential disruptions to air and ground transport, with increased risk of delays, cargo theft, and damage to assets and infrastructure.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "9ff38b39d70ce0c8f1226e49650edbf2",
+    "timestamp": "2026-02-03T16:27:53.376858",
+    "original_title": "War in Ukraine: Russia resumes attacks on Kyiv",
+    "link": "https://www.france24.com/en/video/20260203-war-in-ukraine-russia-resumes-attacks-on-kyiv-1",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Kyiv, Ukraine",
+      "latitude": 50.4501,
+      "longitude": 30.5236,
+      "detailed_analysis": "Russia has resumed attacks on Ukraine's energy infrastructure, targeting Kyiv and leaving over 1,100 buildings without power. This escalation of conflict poses a significant threat to assets, cargo, aviation, and personnel in the region.",
+      "immediate_forecast_24h": "Further attacks on Ukraine's energy infrastructure are likely, potentially disrupting transportation and logistics operations. The trilateral peace talks in Abu Dhabi may influence the situation, but a significant reduction in hostilities is unlikely in the short term.",
+      "strategic_outlook": "The ongoing conflict between Russia and Ukraine will continue to pose a high risk to assets, cargo, aviation, and personnel in the region. The situation may escalate further, potentially drawing in other countries and affecting global supply chains.",
+      "operational_impact": "Transportation and logistics operations in Ukraine, particularly in the Kyiv area, are likely to be severely disrupted due to the ongoing conflict. Cargo shipments may be delayed or diverted, and aviation operations may be affected by the conflict's escalation.",
+      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
+    }
+  },
+  {
+    "id": "e390296598bd232abf28c487542d5d58",
+    "timestamp": "2026-02-03T16:27:55.320974",
+    "original_title": "Russia engaging in 'brinkmanship' ahead of peace talks, 'resumed bombing Ukraine's energy systems'",
+    "link": "https://www.france24.com/en/russia-engaging-in-brinkmanship-ahead-of-peace-talks-resumed-bombing-ukraine-s-energy-systems",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "Russia's resumed bombing of Ukraine's energy systems ahead of peace talks poses a significant threat to the region's stability and critical infrastructure, potentially disrupting cargo and aviation operations.",
+      "immediate_forecast_24h": "Increased tensions and potential for further attacks on Ukraine's energy grid, which may lead to power outages and disruptions to transportation systems.",
+      "strategic_outlook": "Long-term instability in the region may lead to increased security measures, potential border closures, and heightened risk of conflict, affecting cargo and aviation operations.",
+      "operational_impact": "Potential disruptions to air traffic, cargo transport, and logistics operations due to the conflict, with possible rerouting of flights and cargo shipments to avoid the affected areas.",
+      "proximity_alert": null
+    }
   }
 ]
