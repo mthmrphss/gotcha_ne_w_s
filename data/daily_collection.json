@@ -264,5 +264,24 @@
       "operational_impact": "Potential disruptions to shipping lanes, increased security measures for aircraft and vessels, and heightened alertness for military and civilian assets in the region.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "f131035cc443fcc3c886be536bc4c848",
+    "timestamp": "2026-02-04T04:45:57.387199",
+    "original_title": "Maduro supporters rally in Caracas a month after US-led ouster",
+    "link": "https://www.france24.com/en/americas/20260204-maduro-supporters-rally-in-caracas",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Caracas, Venezuela",
+      "latitude": 10.488,
+      "longitude": -66.879,
+      "detailed_analysis": "The rally of Maduro supporters in Caracas poses a threat to the stability of the region, potentially affecting transport and logistics operations due to the political unrest.",
+      "immediate_forecast_24h": "The situation is likely to remain tense, with potential for further protests and demonstrations, but no immediate indication of escalation into widespread violence.",
+      "strategic_outlook": "The long-term outlook is uncertain, with the potential for ongoing political instability and unrest, which could impact the security and efficiency of transport and logistics operations in the region.",
+      "operational_impact": "The unrest may cause disruptions to ground transportation, potentially affecting cargo movement and personnel safety, but aviation operations are not directly impacted at this time.",
+      "proximity_alert": "YAKIN TEHDİT: Maiquetía \"Simón Bolívar\" International Airport (4 km)"
+    }
   }
 ]
