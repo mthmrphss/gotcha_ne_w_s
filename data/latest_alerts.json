@@ -74,5 +74,62 @@
       "operational_impact": "The shutdown has already caused significant disruptions to flights, and the airline may face challenges in getting back to full capacity, potentially affecting cargo and passenger transport.",
       "proximity_alert": "YAKIN TEHDİT: Chicago O'Hare International Airport (0 km)"
     }
+  },
+  {
+    "id": "baa0800601e5b699ef23c2a77dc535b5",
+    "timestamp": "2026-02-04T18:09:47.449653",
+    "original_title": "Incapacitated Pilot Causes Flight to Issue Emergency - TravelPulse",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUUswV05lNFZjVjY3SDhueDJ0UDhtV1p3MElKRHZQVWVqMlgzUlR5YlV2dFl0bjdoZG9lNVVROWZBNExXc0pZQUNFeVk4R1c2Z1FTQS1kVTBTMldobWRKTnM1NnBKakt5TUJUTC1ELXd6R2lzY0Z1N1lSWmZSLUZpNVRKTDVCZW9seGQwUzB5NlBzekVoWG9lT2Y5QWE4dThtQXNaZzJn?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 6,
+      "location": "Unknown",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "A flight issued an emergency alert due to an incapacitated pilot, posing a significant risk to the safety of the passengers and crew on board.",
+      "immediate_forecast_24h": "The situation is likely to be resolved with the flight making an emergency landing, and an investigation into the cause of the pilot's incapacitation will be launched.",
+      "strategic_outlook": "This incident highlights the importance of pilot health and safety protocols, and airlines may need to review their procedures to prevent similar incidents in the future.",
+      "operational_impact": "The incident may cause delays or disruptions to flight schedules, and airlines may need to take steps to mitigate the impact on their operations and maintain passenger confidence.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "5067ee1c3f0e5cbf50093204dce982c1",
+    "timestamp": "2026-02-04T18:09:51.122893",
+    "original_title": "Iran Supreme Leader Ayatollah Ali Khamenei protest crackdown plan leaked",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qvv8e3/iran_supreme_leader_ayatollah_ali_khamenei/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Leaked documents reveal Iran Supreme Leader Ayatollah Ali Khamenei's plan to crackdown on protests, which may lead to increased unrest and potential violence, affecting personnel and cargo security in the region.",
+      "immediate_forecast_24h": "Heightened security measures and potential clashes between protesters and security forces, with possible disruptions to transportation and logistics.",
+      "strategic_outlook": "Prolonged civil unrest may lead to instability in the region, affecting trade and economic activities, with potential long-term implications for aviation and cargo security.",
+      "operational_impact": "Increased risk of delays, cargo theft, and damage to assets, as well as potential risks to personnel safety, particularly in areas with high protest activity.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "5de8e752dea01d15681b982ee33a63d6",
+    "timestamp": "2026-02-04T18:09:52.948260",
+    "original_title": "Netherlands: Former counterterrorism analyst faces 12 years in prison over alleged leaks to Morocco",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qvv48d/netherlands_former_counterterrorism_analyst_faces/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Terrorism/Crime",
+      "risk_score": 6,
+      "location": "Netherlands",
+      "latitude": 52.1326,
+      "longitude": 5.2913,
+      "detailed_analysis": "A former counterterrorism analyst in the Netherlands is facing 12 years in prison for allegedly leaking sensitive information to Morocco, posing a potential threat to national security and aviation safety.",
+      "immediate_forecast_24h": "Increased scrutiny of intelligence sharing and potential travel disruptions due to heightened security measures.",
+      "strategic_outlook": "Long-term implications for international cooperation on counterterrorism efforts and potential changes to information sharing protocols.",
+      "operational_impact": "Potential delays or increased security checks for flights and cargo shipments between the Netherlands and Morocco, as well as other countries with sensitive information sharing agreements.",
+      "proximity_alert": null
+    }
   }
 ]
