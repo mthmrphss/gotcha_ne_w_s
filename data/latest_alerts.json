@@ -1,43 +1,5 @@
 [
   {
-    "id": "ce3c73b74d43c87e1ba34f66b312e1c1",
-    "timestamp": "2026-02-04T21:40:05.045624",
-    "original_title": "Delta Air Lines Transatlantic Flight Executes Emergency Overweight Landing At Dublin Airport Due To Medical Crisis - AeroXplorer",
-    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZ1h2amtQSlhtb1EtcHR6eURiZ0gxNkliM1U3N2tGTjZTYWxXdzVseVE5VFZ6ZkRrNlZ1VUd2bVRwbHI2ZkxaRWNvTW1Ba1RROTBKalZQd1l5Tl83TXJZX0ktaGxTUm1sWlpTNE83TExjSEttVThyOGJIb3dCVmd3TlBoNm04Tkd0UHlZd3RRVmx1QVZtWGtxMjFndUNlSXhPbEhPMjJKdWRxX2QtWGFHR09FYlJkYktEY1dlZG00czVscnk1V2N1UG11V1ZwdkhRTGlLaGVocmtTNW85b0tiV0JPenczQQ?oc=5",
-    "source_name": "Live Flight Emergencies (Squawk)",
-    "ai_analysis": {
-      "category": "Aviation",
-      "risk_score": 10,
-      "location": "Dublin, Ireland",
-      "latitude": 53.4213,
-      "longitude": -6.2701,
-      "detailed_analysis": "A Delta Air Lines transatlantic flight executed an emergency overweight landing at Dublin Airport due to a medical crisis on board, posing a potential risk to the safety of passengers and crew.",
-      "immediate_forecast_24h": "The situation is likely to be contained, with medical personnel attending to the affected individual and the flight being grounded for further inspection and investigation.",
-      "strategic_outlook": "The incident highlights the importance of in-flight medical emergency preparedness and response, and may lead to reviews of airline protocols and procedures for handling such situations.",
-      "operational_impact": "The emergency landing may cause delays or disruptions to flight schedules, but is unlikely to have a significant impact on overall air transport operations.",
-      "proximity_alert": "YAKIN TEHDİT: Clayton Hotel Dublin Airport (3 km)"
-    }
-  },
-  {
-    "id": "b13fda588d5dbb45d5ea60ce4346ed1c",
-    "timestamp": "2026-02-04T21:40:08.115518",
-    "original_title": "War in Ukraine: Attacks on power grids may violate international law, experts say",
-    "link": "https://www.reddit.com/r/worldnews/comments/1qw15n4/war_in_ukraine_attacks_on_power_grids_may_violate/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 8,
-      "location": "Ukraine",
-      "latitude": 49.0,
-      "longitude": 32.0,
-      "detailed_analysis": "The ongoing war in Ukraine has seen attacks on power grids, which experts suggest may violate international law. This could lead to significant disruptions in critical infrastructure, affecting not only the local population but also potentially impacting logistics and supply chains.",
-      "immediate_forecast_24h": "In the next 24 hours, there is a high likelihood of continued attacks on critical infrastructure, potentially leading to power outages and disruptions in transportation and communication networks.",
-      "strategic_outlook": "In the long term, the conflict in Ukraine poses significant risks to regional stability, with potential spillover effects on neighboring countries and global markets. The targeting of power grids and other critical infrastructure could lead to a protracted and complex humanitarian crisis.",
-      "operational_impact": "The attacks on power grids in Ukraine could have a significant operational impact on transport and logistics in the region, with potential disruptions to supply chains, increased risk of cargo theft or damage, and challenges in maintaining the safety and security of personnel.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "73bb1b8a0890571a347e7dbf27f5a0b8",
     "timestamp": "2026-02-04T22:36:45.276213",
     "original_title": "55,000 Ukrainian Soldiers Killed Since Russia’s Full-scale Invasion, Zelensky Says",
@@ -54,6 +16,25 @@
       "strategic_outlook": "The long-term view suggests a prolonged conflict with significant humanitarian and economic implications, potentially leading to increased migration and displacement, as well as disruptions to regional and global supply chains.",
       "operational_impact": "The conflict may impact air transport, with potential for airspace restrictions, and ground transport, with possible disruptions to road networks and logistics operations, affecting the movement of assets, cargo, and personnel.",
       "proximity_alert": null
+    }
+  },
+  {
+    "id": "a7e8e8eb9e0636d1fbaa334f16a180ff",
+    "timestamp": "2026-02-04T23:35:18.436679",
+    "original_title": "Spain's choice on migrants 'pragmatic' but data needs securing, expert says",
+    "link": "https://www.france24.com/en/tv-shows/a-propos/20260204-spain-s-choice-on-migrants-pragmatic-but-data-needs-securing-expert-says",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Border",
+      "risk_score": 10,
+      "location": "Spain",
+      "latitude": 40.4168,
+      "longitude": -3.7038,
+      "detailed_analysis": "Spain's decision to regularise over half a million illegal migrants may lead to potential security risks if the registering process is not properly secured, potentially allowing for the 'weaponisation' of migrant data.",
+      "immediate_forecast_24h": "No immediate threats expected, but potential for increased migrant activity and border breaches in the coming days.",
+      "strategic_outlook": "Long-term security risks may arise if migrant data is not properly protected, potentially leading to increased tensions and conflict.",
+      "operational_impact": "Potential for increased security measures at borders and transport hubs, potentially impacting logistics and transport operations.",
+      "proximity_alert": "YAKIN TEHDİT: Adolfo Suárez Madrid–Barajas Airport (14 km)"
     }
   }
 ]
