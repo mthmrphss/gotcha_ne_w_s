@@ -1480,5 +1480,62 @@
       "operational_impact": "Potential disruptions to supply chains, increased risk of cargo theft and smuggling, and heightened security concerns for personnel and assets in the region.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "b08cec69f200ab525bf7b939f5c6b8f6",
+    "timestamp": "2026-02-04T17:26:17.781254",
+    "original_title": "UN Security Council condemns terrorist attack in Pakistan - Jurist.org",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRWlUaUdzWXBUT1o5NDZTeUpJUzNEb2JOTzNfaVpqVVpETU5KUWN3QTA5RUNueTBjN0YyQzBvVGE1ck9jcVBWQ0kyT0ltbkM4aXFpWFVVcGRKNWJHRHozdDZhcU91MDhtVE5MeW1xQlc4a1BST1hDMWV0YlZKX003Tng1UDBTSmpCV2pPM210eU1GQVJzNlI1QVVB?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict",
+      "risk_score": 8,
+      "location": "Pakistan",
+      "latitude": 30.3753,
+      "longitude": 69.3451,
+      "detailed_analysis": "The UN Security Council has condemned a terrorist attack in Pakistan, indicating a high level of threat to assets, personnel, and potentially aviation in the region.",
+      "immediate_forecast_24h": "Increased security measures are expected in the short term, with potential disruptions to transport and logistics in the region.",
+      "strategic_outlook": "The long-term impact of this attack may lead to increased tensions and instability in the region, potentially affecting cargo and aviation operations.",
+      "operational_impact": "Transport and logistics operations in Pakistan may be affected due to increased security measures and potential instability, with a high risk of disruptions to cargo and aviation services.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "fb7a50e97a1f8305550d0d805a2033c6",
+    "timestamp": "2026-02-04T17:26:22.820235",
+    "original_title": "Digital sovereignty (3/3): Are European citizens trapped into using US Big Tech?",
+    "link": "https://www.france24.com/en/technology/20260204-digital-sovereignty-european-citizens-trapped-into-using-us-big-tech",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 10,
+      "location": "Europe",
+      "latitude": 48.8567,
+      "longitude": 2.2945,
+      "detailed_analysis": "The article discusses the dominance of US Big Tech in the digital lives of Europeans and the potential risks associated with over-reliance on these companies, particularly in light of rising US-European tensions.",
+      "immediate_forecast_24h": "No immediate threats are expected, but the situation bears monitoring as European governments and companies may begin to reassess their relationships with US tech giants.",
+      "strategic_outlook": "In the long term, there may be a shift towards greater digital sovereignty in Europe, potentially leading to increased investment in European tech companies and a reduction in reliance on US Big Tech.",
+      "operational_impact": "The impact on transport and logistics is likely to be minimal, but companies operating in Europe may need to adapt to changes in the digital landscape and potential new regulations or policies related to data protection and digital sovereignty.",
+      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (1 km)"
+    }
+  },
+  {
+    "id": "430d5e71382017b1b73f82d84205efc7",
+    "timestamp": "2026-02-04T17:26:25.633270",
+    "original_title": "United Airlines Clears Massive Tech Upgrade That Took Nearly All Critical Services Offline and Grounded Planes",
+    "link": "https://www.paddleyourownkanoo.com/2026/02/04/united-airlines-is-in-the-midst-of-a-massive-tech-upgrade-that-has-taken-nearly-all-critical-services-offline-and-grounded-planes/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 10,
+      "location": "Chicago, USA",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "detailed_analysis": "United Airlines underwent a massive tech upgrade, taking nearly all critical services offline and grounding planes, which may indicate potential vulnerabilities in their systems.",
+      "immediate_forecast_24h": "The airline is expected to resume normal operations, but there may be residual delays or disruptions as they work out any remaining technical issues.",
+      "strategic_outlook": "The upgrade is part of United Airlines' efforts to modernize its legacy computer systems, which could improve overall efficiency and security in the long term.",
+      "operational_impact": "The shutdown has already caused significant disruptions to flights, and the airline may face challenges in getting back to full capacity, potentially affecting cargo and passenger transport.",
+      "proximity_alert": "YAKIN TEHDİT: Chicago O'Hare International Airport (0 km)"
+    }
   }
 ]
