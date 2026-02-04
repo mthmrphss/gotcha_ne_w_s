@@ -1,24 +1,5 @@
 [
   {
-    "id": "f131035cc443fcc3c886be536bc4c848",
-    "timestamp": "2026-02-04T04:45:57.387199",
-    "original_title": "Maduro supporters rally in Caracas a month after US-led ouster",
-    "link": "https://www.france24.com/en/americas/20260204-maduro-supporters-rally-in-caracas",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Civil Unrest/Conflict",
-      "risk_score": 10,
-      "location": "Caracas, Venezuela",
-      "latitude": 10.488,
-      "longitude": -66.879,
-      "detailed_analysis": "The rally of Maduro supporters in Caracas poses a threat to the stability of the region, potentially affecting transport and logistics operations due to the political unrest.",
-      "immediate_forecast_24h": "The situation is likely to remain tense, with potential for further protests and demonstrations, but no immediate indication of escalation into widespread violence.",
-      "strategic_outlook": "The long-term outlook is uncertain, with the potential for ongoing political instability and unrest, which could impact the security and efficiency of transport and logistics operations in the region.",
-      "operational_impact": "The unrest may cause disruptions to ground transportation, potentially affecting cargo movement and personnel safety, but aviation operations are not directly impacted at this time.",
-      "proximity_alert": "YAKIN TEHDİT: Maiquetía \"Simón Bolívar\" International Airport (4 km)"
-    }
-  },
-  {
     "id": "6bafd4c927f29a588c52d657f4a420ca",
     "timestamp": "2026-02-04T05:55:25.167906",
     "original_title": "Security at the Winter Olympics: Robots, Drones and a Cyber Command Center - The New York Times",
@@ -92,6 +73,82 @@
       "strategic_outlook": "This incident highlights the importance of emergency preparedness and response in the aviation industry. Airlines and airports must be equipped to handle unexpected medical emergencies and take necessary precautions to ensure the safety of passengers and crew.",
       "operational_impact": "The incident may cause minor disruptions to flight schedules, but it is not expected to have a significant impact on overall aviation operations.",
       "proximity_alert": "YAKIN TEHDİT: Clayton Hotel Dublin Airport (2 km)"
+    }
+  },
+  {
+    "id": "0ee521f02de15af0f10845c8b7dfd593",
+    "timestamp": "2026-02-04T07:03:23.671859",
+    "original_title": "United States Confronts Urgent Mid-Air Medical Emergency as Delta Flight Makes Dramatic Diversion to Dublin Ensuring Safe Landing and Swift Recovery - Travel And Tour World",
+    "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQcmVqa25acDNxclNxQjRLS25JQ2NSV2FyRVpSUkpQSnQ1SmZ4NVN6MTN0cVoyNXNoeVVpVWtxTjNXSjk5OFV6WklGalFNNVpUUHdDcVZGbTlRWUh1eW9ybTY4YjJRWUM1Q2I2Z3FLcnpKTU53SUtGXzFOeDc3M1RiWmNKYWE3SkpJcXJKRkJtY2Zabk52SkhnaUtVOGg2X0xiNTAwYzZfbFB4QnVreXozVFBnZ2pVakIxTGplYVQ0eGVrU2RJVF9PaHpuZXVsMjQtT3B2cjBQdWJNb0NjMURZQnNCdFpxdFNIOTR2OHdlZC1MVnk5ZUZlcllBZGpQdWJSbjRyYjY3RUtoLVowSFNwdTZPYU1ZMng1YWhvVWlubmgxWjg?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Dublin, Ireland",
+      "latitude": 53.3441,
+      "longitude": -6.2675,
+      "detailed_analysis": "A Delta flight made a dramatic diversion to Dublin due to a mid-air medical emergency, ensuring a safe landing and swift recovery. The incident does not indicate any malicious intent or threat to assets, cargo, aviation, or personnel.",
+      "immediate_forecast_24h": "No further incidents are expected in the next 24 hours. The medical emergency has been resolved, and the flight has been safely diverted.",
+      "strategic_outlook": "The incident highlights the importance of emergency response planning in aviation. Airlines and airports should review their procedures to ensure they can respond effectively to medical emergencies on board.",
+      "operational_impact": "The diversion of the Delta flight may cause some disruptions to the airline's schedule, but it is not expected to have a significant impact on overall transport and logistics operations.",
+      "proximity_alert": "YAKIN TEHDİT: Clayton Hotel Dublin Airport (8 km)"
+    }
+  },
+  {
+    "id": "146ab0250b97d4c9b5750549776e1275",
+    "timestamp": "2026-02-04T07:03:26.603101",
+    "original_title": "Colombian and Ecuadorian merchants and truckers protest escalating trade war between both nations",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qvh5p2/colombian_and_ecuadorian_merchants_and_truckers/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest/Border/Conflict",
+      "risk_score": 6,
+      "location": "Colombia-Ecuador border",
+      "latitude": 0.9553,
+      "longitude": -78.6272,
+      "detailed_analysis": "The escalating trade war between Colombia and Ecuador has led to protests by merchants and truckers, potentially disrupting cargo transport and logistics across the border.",
+      "immediate_forecast_24h": "Protests are likely to continue, causing delays and potential blockages at border crossings, affecting cargo movement and personnel safety.",
+      "strategic_outlook": "The trade war and resulting civil unrest may lead to a prolonged period of instability, impacting regional trade and economic activity, with potential long-term consequences for aviation and cargo operations.",
+      "operational_impact": "Transport and logistics operations may be severely impacted, with potential for cargo theft, damage, or delays, as well as risks to personnel safety and security.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "19e8e705b0bbe37e7e977d50eed220b5",
+    "timestamp": "2026-02-04T07:03:28.878613",
+    "original_title": "Seif al-Islam Gadhafi, son of Moammar Gadhafi, killed in Zintan, Libyan officials say",
+    "link": "http://www.africanews.com/2026/02/04/seif-al-islam-gadhafi-son-of-moammar-gadhafi-killed-in-zintan-libyan-officials-say/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 6,
+      "location": "Zintan, Libya",
+      "latitude": 31.9333,
+      "longitude": 12.2667,
+      "detailed_analysis": "The killing of Seif al-Islam Gadhafi, son of Moammar Gadhafi, in Zintan, Libya, may lead to increased instability and potential violence in the region, posing a threat to assets, cargo, aviation, and personnel.",
+      "immediate_forecast_24h": "Increased tensions and potential clashes between rival factions in the short term, with possible disruptions to transport and logistics in the region.",
+      "strategic_outlook": "Long-term instability and conflict in Libya may continue to affect the security and stability of the region, with potential spillover effects on neighboring countries and global security.",
+      "operational_impact": "Potential disruptions to air and ground transport, increased risk of violence and unrest, and heightened security measures for assets, cargo, and personnel in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "18473a46d16a5e0f3457b724f14b22aa",
+    "timestamp": "2026-02-04T07:03:30.840718",
+    "original_title": "Live: Ukraine, Russia set to meet in Abu Dhabi for US-brokered peace talks",
+    "link": "https://www.france24.com/en/europe/20260204-live-ukraine-russia-set-to-meet-in-abu-dhabi-for-us-brokered-peace-talks",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Abu Dhabi, UAE",
+      "latitude": 24.4667,
+      "longitude": 54.3667,
+      "detailed_analysis": "US-brokered peace talks between Ukraine and Russia may lead to increased tensions or potential disruptions in the region, affecting aviation and logistics operations.",
+      "immediate_forecast_24h": "Talks are expected to continue, with a focus on resolving the conflict in eastern Ukraine; however, the situation remains volatile, and any escalation could impact regional stability.",
+      "strategic_outlook": "A peaceful resolution to the conflict could lead to increased stability and security in the region, while a failure to reach an agreement could result in continued tensions and potential disruptions to transport and logistics operations.",
+      "operational_impact": "Potential disruptions to air travel and logistics operations in the region, particularly if the conflict escalates or if there are any security incidents related to the talks.",
+      "proximity_alert": "YAKIN TEHDİT: ABU DHABİ (1 km)"
     }
   }
 ]
