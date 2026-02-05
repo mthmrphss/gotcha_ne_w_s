@@ -1,62 +1,5 @@
 [
   {
-    "id": "627809e5de578162431b31d0f400ebe7",
-    "timestamp": "2026-02-05T09:54:55.441137",
-    "original_title": "Russia used Starlink in strike drones that reached Kyiv. SpaceX’s response collapsed entire command system",
-    "link": "https://www.reddit.com/r/worldnews/comments/1qwgx0t/russia_used_starlink_in_strike_drones_that/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Aviation/Conflict",
-      "risk_score": 10,
-      "location": "Kyiv, Ukraine",
-      "latitude": 50.4501,
-      "longitude": 30.5236,
-      "detailed_analysis": "Russia's use of Starlink in strike drones that reached Kyiv poses a significant threat to aviation and national security. SpaceX's response to collapse the entire command system mitigates the risk but also highlights the vulnerability of critical infrastructure to cyber attacks and the potential for future drone strikes.",
-      "immediate_forecast_24h": "Increased surveillance and security measures are expected in the Kyiv area, with potential disruptions to air traffic and logistics. The situation may escalate if Russia attempts to find alternative means to utilize drones.",
-      "strategic_outlook": "The long-term implications of this event include the potential for increased investment in drone defense systems and cybersecurity measures to protect critical infrastructure. It also highlights the need for international cooperation to establish norms and regulations for the use of commercial satellite technology in conflict zones.",
-      "operational_impact": "The use of drones in conflict zones poses a significant risk to aviation and logistics operations. Transport and logistics companies operating in the region should be prepared for potential disruptions and take necessary precautions to ensure the safety of their assets and personnel.",
-      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
-    }
-  },
-  {
-    "id": "ea3366633586b3ff185cf8de6a145bef",
-    "timestamp": "2026-02-05T09:54:57.600742",
-    "original_title": "Beyond the Missile: A Cost-Per-Effect Blueprint for the Future Force",
-    "link": "https://warontherocks.com/2026/02/beyond-the-missile-a-cost-per-effect-blueprint-for-the-future-force/",
-    "source_name": "War on the Rocks",
-    "ai_analysis": {
-      "category": "Conflict/Other",
-      "risk_score": 10,
-      "location": "Washington D.C., USA",
-      "latitude": 38.8951,
-      "longitude": -77.0364,
-      "detailed_analysis": "The article discusses the US Department of Defense's budgeting process and the need for a clear way to determine which force structure delivers the greatest strategic effect for every dollar spent. It does not pose a direct threat to assets, cargo, aviation, or personnel.",
-      "immediate_forecast_24h": "No immediate threats are expected as a result of this article. The discussion is focused on long-term strategic planning and budgeting.",
-      "strategic_outlook": "The long-term outlook is focused on the US military's ability to effectively allocate resources and develop a force structure that delivers the greatest strategic effect. This may have implications for the military's operational capabilities and readiness.",
-      "operational_impact": "The article does not have a direct operational impact on transport or logistics. However, the US military's budgeting and resource allocation decisions may have indirect implications for the transportation and logistics industries that support military operations.",
-      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
-    }
-  },
-  {
-    "id": "59c3280a9a4febf1158d0af0e814fa65",
-    "timestamp": "2026-02-05T09:54:59.707259",
-    "original_title": "Russian drones strike Kyiv as capital battles power cuts and cold",
-    "link": "http://www.africanews.com/2026/02/05/russian-drones-strike-kyiv-as-capital-battles-power-cuts-and-cold/",
-    "source_name": "Africa News",
-    "ai_analysis": {
-      "category": "Conflict/Aviation",
-      "risk_score": 10,
-      "location": "Kyiv, Ukraine",
-      "latitude": 50.4501,
-      "longitude": 30.5236,
-      "detailed_analysis": "Russian drones have struck Kyiv, indicating a heightened threat to aviation and personnel in the region. The ongoing conflict and energy crisis exacerbate the situation, potentially disrupting cargo and aviation operations.",
-      "immediate_forecast_24h": "Expect continued Russian strikes and potential power outages, which may impact airport operations, cargo handling, and personnel safety.",
-      "strategic_outlook": "The conflict is likely to persist, leading to long-term disruptions in the region's aviation and logistics sectors. The situation may escalate, posing significant risks to assets, cargo, and personnel.",
-      "operational_impact": "Flight disruptions, cargo delays, and increased security measures are likely. Personnel may face heightened risks, and assets may be damaged or destroyed due to the ongoing conflict.",
-      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
-    }
-  },
-  {
     "id": "87498ae32463885a82ab3db89e12084a",
     "timestamp": "2026-02-05T10:51:26.801252",
     "original_title": "Lock it down or let it be: MIT students mull campus security after professor's killing, Brown shooting - WBUR",
@@ -130,6 +73,82 @@
       "strategic_outlook": "The conflict between Ukraine and Russia is likely to continue escalating, with potential for long-term disruption to logistics and transport in the region.",
       "operational_impact": "The strike may impact nearby airfields, logistics hubs, and transport routes, causing delays or disruptions to cargo and personnel movement.",
       "proximity_alert": null
+    }
+  },
+  {
+    "id": "75b6db3f8adea7c29c131fbc8e8dd5ce",
+    "timestamp": "2026-02-05T11:40:13.821259",
+    "original_title": "Black Basta: Defense Evasion Capability Embedded in Ransomware Payload - SECURITY.COM",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9INnFzQ1J2NGZJTmdIZXpKUkY2aml4Zk16aWlja3puTTBsZjRSOHVCQ1R1ZnFwYXdHUng1cXlsb2NicVRCMG1meEVxcFJGM1RSQ3AzLWNtbnVTTWtMb1ozVzV1SjZWblZITEhCSWNrWFFCMnRUdVJ6elRTQS1iQQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 8,
+      "location": "Global",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Black Basta ransomware has been found to have a defense evasion capability embedded in its payload, posing a significant threat to digital assets and potentially disrupting logistics and aviation operations through cyber attacks.",
+      "immediate_forecast_24h": "Increased vigilance is required as this ransomware could spread rapidly, targeting vulnerable systems and potentially causing immediate disruptions to critical infrastructure.",
+      "strategic_outlook": "Long-term, this highlights the need for enhanced cybersecurity measures across all sectors, particularly those critical to transportation and logistics, to prevent and mitigate such attacks.",
+      "operational_impact": "Potential for significant operational disruptions, especially if critical infrastructure or key logistical systems are compromised, leading to delays, financial losses, and potential safety risks.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "a5fdc9d695fe22565447b9d0687066a6",
+    "timestamp": "2026-02-05T11:40:18.231000",
+    "original_title": "With Ukraine under attack, Russia says trilateral talks to end war have 'moved things in positive direction'",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qwi9t8/with_ukraine_under_attack_russia_says_trilateral/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Ukraine, Eastern Europe",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "The ongoing conflict between Ukraine and Russia poses a significant threat to assets, cargo, aviation, and personnel in the region. Despite trilateral talks aiming to end the war, the situation remains volatile, with potential for escalation and impact on logistics and transport.",
+      "immediate_forecast_24h": "Increased tensions and potential for military action may lead to disruptions in air and ground transportation, posing risks to cargo and personnel. The situation is likely to remain unstable in the short term.",
+      "strategic_outlook": "The long-term outlook for the region remains uncertain, with potential for prolonged conflict and ongoing disruptions to logistics and transport. The situation may lead to increased security measures and potential for humanitarian crises.",
+      "operational_impact": "The conflict may lead to restrictions on air and ground transportation, impacting cargo shipments and personnel movements. Companies operating in the region should be prepared for potential disruptions and have contingency plans in place to mitigate risks.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "889ab23a2d9616c375f696f8b69904f9",
+    "timestamp": "2026-02-05T11:40:20.607550",
+    "original_title": "UN warns Islamic State threat growing, situation urgent in West Africa, Sahel",
+    "link": "http://www.africanews.com/2026/02/05/un-warns-islamic-state-threat-growing-situation-urgent-in-west-africa-sahel/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict",
+      "risk_score": 8,
+      "location": "West Africa, Sahel",
+      "latitude": 16.0,
+      "longitude": 3.0,
+      "detailed_analysis": "The Islamic State threat is growing in West Africa and the Sahel region, posing a significant risk to Assets, Cargo, Aviation, and Personnel. The situation is urgent, with the threat remaining multipolar and increasingly complex.",
+      "immediate_forecast_24h": "Increased security measures are expected in the region, with potential disruptions to transport and logistics. There is a high likelihood of terrorist attacks or incidents in the next 24 hours.",
+      "strategic_outlook": "The long-term outlook is concerning, with the Islamic State group likely to continue to pose a significant threat to the region. This may lead to increased instability, conflict, and disruption to transport and logistics.",
+      "operational_impact": "The growing threat in West Africa and the Sahel region may impact transport and logistics operations, including cargo shipments, aviation, and personnel movements. Enhanced security measures and contingency planning are recommended to mitigate potential risks.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "fec84b4c490ec09524ebc6485ff1527c",
+    "timestamp": "2026-02-05T11:40:23.430635",
+    "original_title": "US and Iran reopen nuclear talks despite deep divisions and military threats",
+    "link": "http://www.africanews.com/2026/02/05/us-and-iran-reopen-nuclear-talks-despite-deep-divisions-and-military-threats/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran and Washington, USA",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The reopening of nuclear talks between the US and Iran despite deep divisions and military threats poses a moderate to high risk to aviation and personnel due to potential escalation of tensions and military action.",
+      "immediate_forecast_24h": "Tensions may remain high, but a direct military confrontation is unlikely in the next 24 hours. However, there is a possibility of increased military presence and posturing.",
+      "strategic_outlook": "The long-term outlook is uncertain, with the potential for a negotiated settlement or further escalation of tensions. The situation will require close monitoring, especially if talks break down or if there are signs of increased military activity.",
+      "operational_impact": "The operational impact on aviation and logistics may be significant if tensions escalate, with potential for airspace restrictions, increased security measures, and disruptions to supply chains.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
     }
   }
 ]
