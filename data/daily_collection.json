@@ -1024,5 +1024,62 @@
       "operational_impact": "Potential disruptions to logistics and supply chains due to increased security measures, as well as possible restrictions on the movement of personnel and cargo, particularly in sensitive industries such as defense and aerospace.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "58219147249743bbf86950029122b31a",
+    "timestamp": "2026-02-05T19:24:11.607860",
+    "original_title": "New Clickfix variant ‘CrashFix’ deploying Python Remote Access Trojan - Microsoft",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON1l5bVFzN19zY1pNR3p1SUJRbzU1Y3NjUFUtcUZWU0E2TVl6dG5uYTBVdUlNRTJDTk92clBNaG55cUhPLUZSLWhiWHJpVnZ5WW5SSGJZYjdhVXBucDhpWlUxdGgyeHhoWGUwSFlSbmhnWmxJdkI5MmkxUFc2ODlLMVBIQndJVlZjYmg1R1JRMk1IZzMwSmY4b0J2ckNVWTBseFFMQjNhaFhFRncxRXUtbw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 8,
+      "location": "Global",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "A new variant of the Clickfix malware, known as CrashFix, has been identified. It utilizes a Python Remote Access Trojan, potentially allowing attackers to gain unauthorized access to systems, steal data, or disrupt operations. This could have significant implications for the security of assets, cargo, aviation, and personnel, particularly in industries that rely heavily on digital systems.",
+      "immediate_forecast_24h": "In the next 24 hours, there is a high likelihood that this malware will continue to spread, potentially targeting vulnerable systems within the aviation and logistics sectors. Immediate action should be taken to patch vulnerabilities and enhance security measures.",
+      "strategic_outlook": "Long term, the emergence of CrashFix highlights the evolving nature of cyber threats. Organizations must invest in robust cybersecurity measures, including regular updates, employee training, and the implementation of advanced threat detection systems to mitigate such risks.",
+      "operational_impact": "The operational impact could be significant, with potential disruptions to supply chains, aviation operations, and the security of sensitive data. Proactive measures, such as enhancing firewall rules, monitoring network traffic, and conducting regular security audits, are essential to minimize the risk of compromise.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "77c7641098b56be29e473692e6300a18",
+    "timestamp": "2026-02-05T19:24:14.726425",
+    "original_title": "Easyjet emergency landing - The Portugal News",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZ2V0bVEySlM0ZTB4YmpPV3hXWlBpbHV5SW9qREJYZ2I1eDE3aXFRSy1WenRWUldhTHJRM2dUZEk5VnpjRTktUjE2VnQ0N0loLV9QU3BEU0VrSFhobU01NndVUkt2UXFybmhkdjNTOWtLaEZtZ2RjS3JkdTU0NFZxdXVvbmlkeTA?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 6,
+      "location": "Portugal",
+      "latitude": 39.3999,
+      "longitude": -8.2245,
+      "detailed_analysis": "Easyjet emergency landing due to unspecified reasons, potential threat to aviation safety and security",
+      "immediate_forecast_24h": "Investigations into the cause of the emergency landing, possible disruptions to Easyjet flights",
+      "strategic_outlook": "Review of emergency procedures and protocols to prevent similar incidents in the future",
+      "operational_impact": "Potential delays or cancellations of Easyjet flights, increased security measures at Portuguese airports",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "322311156288b7f62cfc57094757f021",
+    "timestamp": "2026-02-05T19:24:17.773252",
+    "original_title": "'Willing to slaughter': Canadian man gets 16-year terrorism sentence for joining ISIS",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qwuhgn/willing_to_slaughter_canadian_man_gets_16year/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 6,
+      "location": "Calgary, Canada",
+      "latitude": 51.0543,
+      "longitude": -114.0708,
+      "detailed_analysis": "A Canadian man has been sentenced to 16 years for joining ISIS, indicating a potential threat to national security and aviation. The individual's willingness to engage in violent acts poses a risk to personnel and assets.",
+      "immediate_forecast_24h": "Increased security measures may be implemented at Canadian airports and transportation hubs in response to the sentencing. Law enforcement may also be on high alert for potential copycat activities.",
+      "strategic_outlook": "The sentencing serves as a deterrent to others who may be considering joining terrorist organizations. However, the threat of terrorism remains, and ongoing vigilance is necessary to prevent future attacks.",
+      "operational_impact": "The incident may lead to increased security screening and delays at airports, potentially impacting cargo and personnel transportation. Aviation companies may need to reassess their security protocols to mitigate potential risks.",
+      "proximity_alert": null
+    }
   }
 ]
