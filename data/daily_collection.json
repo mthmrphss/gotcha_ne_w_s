@@ -948,5 +948,81 @@
       "operational_impact": "The situation may impact aviation and logistics in the region, with potential disruptions to flights and cargo shipments. Increased security measures may be implemented, and transport companies should be prepared for possible delays or changes in routes.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "abaea26f74b0297470473edcf966cbf8",
+    "timestamp": "2026-02-05T18:28:45.078148",
+    "original_title": "American Airlines Flight Forced to Make U-Turn After Declaring Mid-Flight Emergency Due to One Customer - People.com",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYzY5SHc2SWU1T19SUnVmYkRRVVNzcnFfU29TVWVLc3pjVWd5MUc5RGJZWXB2SHFEWGxFdHlJdVZ5Vm92ekNiZzQ0RkF3SDNUY3p0TWw2OFVsMjVkOUdTYWgwWHo0VHVHbkRUUUR6Y2tsQkZHMUVMYnJFYzkxek9NUmI5bTlnUVJ1WUV2UDJNUGpudjlmTnpoajNicDFmTmJ0SUdMRlN6am50RE0?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 6,
+      "location": "Unknown, USA",
+      "latitude": 37.0902,
+      "longitude": -95.7129,
+      "detailed_analysis": "An American Airlines flight was forced to make a U-turn after declaring a mid-flight emergency due to a customer, indicating a potential security threat on board.",
+      "immediate_forecast_24h": "The situation is likely to be resolved within the next 24 hours, with the flight either landing safely or the issue being addressed by authorities.",
+      "strategic_outlook": "This incident highlights the importance of airline security protocols and the need for effective communication between crew members and authorities to mitigate potential threats.",
+      "operational_impact": "The incident may cause delays or disruptions to American Airlines' operations, potentially affecting cargo and passenger transport.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "421606461d863e86a8af0a8daddbd302",
+    "timestamp": "2026-02-05T18:28:47.841943",
+    "original_title": "USA attacks Polish Government and sparks political crisis",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qwrozm/usa_attacks_polish_government_and_sparks/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "Poland",
+      "latitude": 52.0,
+      "longitude": 19.0,
+      "detailed_analysis": "The USA's attack on the Polish government has sparked a significant political crisis, potentially destabilizing the region and impacting diplomatic relations. This could lead to unrest, protests, and potential disruptions to transport and logistics.",
+      "immediate_forecast_24h": "Increased tensions between the USA and Poland, potential for protests and demonstrations, and heightened security measures in the region.",
+      "strategic_outlook": "Long-term implications for international relations, potential economic sanctions, and increased instability in the region, which could affect trade and cargo movements.",
+      "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics operations due to increased security measures, protests, and unrest, affecting personnel and asset safety.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "2d84078d0dbe74c4a9a62a1037ded5ab",
+    "timestamp": "2026-02-05T18:28:50.418450",
+    "original_title": "Empress Eugenie's crown to be restored after Louvre heist",
+    "link": "https://www.france24.com/en/empress-eugenie-s-crown-to-be-restored-after-louvre-heist",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Crime",
+      "risk_score": 10,
+      "location": "Paris, France",
+      "latitude": 48.8567,
+      "longitude": 2.3508,
+      "detailed_analysis": "A high-profile heist at the Louvre Museum resulted in the theft of an estimated €88 million worth of jewels, with the crown of French Empress Eugénie being left behind and only partially damaged. The incident highlights the vulnerability of high-value cargo to theft and the potential for future similar crimes.",
+      "immediate_forecast_24h": "Increased security measures are likely to be implemented at the Louvre Museum and other high-value cargo locations in the short term. Law enforcement will likely be on high alert for any potential leads on the stolen jewels.",
+      "strategic_outlook": "The long-term impact of this heist may lead to increased security protocols for high-value cargo in museums and other locations, potentially including enhanced surveillance and monitoring systems.",
+      "operational_impact": "The heist may lead to increased scrutiny of logistics and transportation protocols for high-value cargo, potentially resulting in additional security measures and costs for companies involved in these operations.",
+      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (2 km)"
+    }
+  },
+  {
+    "id": "b82ff1ff5901082a7fff4611c3d4d5df",
+    "timestamp": "2026-02-05T18:28:52.338128",
+    "original_title": "Possible China spies detained in France",
+    "link": "https://www.france24.com/en/possible-china-spies-detained-in-france",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Cyber/Conflict",
+      "risk_score": 6,
+      "location": "Southwest France, France",
+      "latitude": 44.8378,
+      "longitude": 0.5792,
+      "detailed_analysis": "Alleged Chinese espionage operation in southwest France, targeting sensitive military data, with potential implications for national security and international relations.",
+      "immediate_forecast_24h": "Investigations are likely to continue, with potential for further arrests or discoveries of espionage activities, and possible diplomatic tensions between France and China.",
+      "strategic_outlook": "The incident highlights the growing threat of cyber espionage and the need for enhanced security measures to protect sensitive information, with potential long-term implications for international relations and global security.",
+      "operational_impact": "Potential disruptions to logistics and supply chains due to increased security measures, as well as possible restrictions on the movement of personnel and cargo, particularly in sensitive industries such as defense and aerospace.",
+      "proximity_alert": null
+    }
   }
 ]
