@@ -93,5 +93,43 @@
       "operational_impact": "Potential for increased security measures at borders and transport hubs, potentially impacting logistics and transport operations.",
       "proximity_alert": "YAKIN TEHDİT: Adolfo Suárez Madrid–Barajas Airport (14 km)"
     }
+  },
+  {
+    "id": "21c3cc7ea4363a65a90b913f2b3d659a",
+    "timestamp": "2026-02-05T02:42:39.567184",
+    "original_title": "First Nations in B.C. issue travel advisory for Canada-U.S. border crossings",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qw5f4z/first_nations_in_bc_issue_travel_advisory_for/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Border/Civil Unrest",
+      "risk_score": 10,
+      "location": "British Columbia, Canada",
+      "latitude": 49.2827,
+      "longitude": -123.1207,
+      "detailed_analysis": "First Nations in B.C. have issued a travel advisory for Canada-U.S. border crossings, which may lead to disruptions or protests at border crossings, potentially affecting the movement of assets, cargo, and personnel.",
+      "immediate_forecast_24h": "Increased wait times and potential delays at border crossings due to protests or demonstrations, but no immediate threat to aviation or significant cargo disruptions expected.",
+      "strategic_outlook": "The situation may escalate if the travel advisory is not addressed, leading to more widespread disruptions to transport and logistics in the region.",
+      "operational_impact": "Potential delays and increased security measures at border crossings may impact the movement of goods and people, but the overall risk remains relatively low.",
+      "proximity_alert": "YAKIN TEHDİT: Vancouver International Airport (10 km)"
+    }
+  },
+  {
+    "id": "e5ca4da98240f8d874a77ed829193ab8",
+    "timestamp": "2026-02-05T02:42:41.996732",
+    "original_title": "Armed Islamist extremists kill 162 in western Nigeria villages",
+    "link": "https://www.france24.com/en/africa/20260205-armed-islamist-extremists-kill-162-in-western-nigeria-villages",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "Kwara state, Nigeria",
+      "latitude": 8.5,
+      "longitude": 5.0,
+      "detailed_analysis": "Armed Islamist extremists killed 162 people in western Nigeria villages, indicating a high level of violence and instability in the region, posing a significant threat to personnel and potentially disrupting cargo and aviation operations.",
+      "immediate_forecast_24h": "Increased security presence is expected in the affected areas, with potential for further clashes between security forces and militants, and possible disruptions to transport and logistics.",
+      "strategic_outlook": "The ongoing security crisis in Nigeria, including Boko Haram violence and kidnappings, is likely to continue, posing a long-term threat to assets, cargo, aviation, and personnel in the region.",
+      "operational_impact": "Transport and logistics operations in the region may be disrupted due to the violence, and companies may need to take additional security measures to protect their assets and personnel.",
+      "proximity_alert": null
+    }
   }
 ]
