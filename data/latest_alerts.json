@@ -93,5 +93,43 @@
       "operational_impact": "Potential disruption to Alaska Airlines operations, increased security screening and passenger vigilance may be required to mitigate the risk of similar incidents",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "7ca91e064d63cb9574fa5f3a1c8c70bd",
+    "timestamp": "2026-02-05T14:27:06.598503",
+    "original_title": "Deadly plane crash reported north of Prescott Valley - FOX 10 Phoenix",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONG9MVVEyWFhBYVZ3U0RQYUEyUkR3cDRsalZXVWhyZTB2TlNpRFFKQTY5U1VsakpldUc0S09GOVRWdVk2dTFtY0xiNHdFcUxkVmFjYXJUWm9SYktHcUJMd0RLVzE0Tzl0QlNxZFNwN0ZiN1VNZVlraE5NMTJMZWd0VXc3eHN4UlZtTmh30gGQAUFVX3lxTE4tT3paODYxYWwxVGhaV0twdEh1RVVyMEdXSWpoR3NQRlpzWDhFbDJDWWJqdEtXSENya1dFSGYtWkxmTG9oTENLZUVGdERfTmVpWFRZUFB0bGNGdm9xUENod0FEMnhIOEtZSFZUSWp1d3kxd3gtRWhyZ2NIV0pPYktDNHNQX3ctdHFZNVl0eTZORQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 8,
+      "location": "Prescott Valley, USA",
+      "latitude": 34.65,
+      "longitude": -112.33,
+      "detailed_analysis": "A deadly plane crash has been reported north of Prescott Valley, indicating a significant threat to aviation safety and potential disruption to air travel in the region.",
+      "immediate_forecast_24h": "Investigations into the cause of the crash are likely to begin immediately, with potential disruptions to air traffic in the area. Emergency services will be on high alert.",
+      "strategic_outlook": "The incident may lead to increased scrutiny of aviation safety protocols and potential changes to regulations or procedures to prevent similar incidents in the future.",
+      "operational_impact": "The crash may cause delays or cancellations of flights in the region, with potential knock-on effects for cargo and passenger transport, as well as emergency services and local infrastructure.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "b51394ef85ffaaea1ff51532ebf080e3",
+    "timestamp": "2026-02-05T14:27:08.628503",
+    "original_title": "Specialist US military jet arrives in Middle East as Iran tensions continue - BBC",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBJdnN0QmJRb2hMUk51elprX0JLZzFJN2F5UzJYMXdlTGFCY0Rpbml2YzQxQ1kxc0VTT1lWTWRLVU5FYlc5SGQyeFBvX2Nab0FEYUFpeA?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 7,
+      "location": "Middle East",
+      "latitude": 29.4574,
+      "longitude": 47.6466,
+      "detailed_analysis": "The arrival of a specialist US military jet in the Middle East amid ongoing tensions with Iran poses a significant threat to aviation and regional stability. The increased military presence could lead to heightened tensions and potential conflict, affecting air travel and cargo operations in the region.",
+      "immediate_forecast_24h": "In the next 24 hours, there is a high likelihood of increased military activity and heightened security measures in the region, potentially disrupting air traffic and cargo operations.",
+      "strategic_outlook": "In the long term, the escalation of tensions between the US and Iran could lead to a prolonged period of instability in the region, affecting global supply chains and air travel. This could result in increased costs, delays, and security risks for aviation and logistics operations.",
+      "operational_impact": "The increased military presence and potential conflict could lead to airspace restrictions, flight route changes, and increased security screening, resulting in operational disruptions and potential delays for air cargo and passenger flights in the region.",
+      "proximity_alert": null
+    }
   }
 ]
