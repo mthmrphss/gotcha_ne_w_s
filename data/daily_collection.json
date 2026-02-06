@@ -226,5 +226,24 @@
       "operational_impact": "Potential delays or disruptions to maritime cargo operations, increased security protocols for vessels transiting the area, and heightened risk of violence or confrontation with drug trafficking organizations.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "27d54470c4e92941407cc2b441acf090",
+    "timestamp": "2026-02-06T05:59:30.755211",
+    "original_title": "Live Webinar | When AI Moves Faster Than Security: Enabling a Cyber-Resilient AI-Native Enterprise - GovInfoSecurity",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNXQtemVVV1JSRzByTjFoWG9kNW1GQS02ZkhtR3hRU0VxalhJT19RcDZEcGl4ZTd3b0Q2bU0xMTQ2a0psYm5fMWpxa2lscXFoaTZZZ1pOUTNLZUh0a3N1ZFZDTy1xZUpUWExMYWhxZ1NhSXBiV2dYbjM2WUttNnNHN0dXc1VhRGtreWhCTWlUc1RoVjNBcE5BUkUyTEtiMy1GZG1sT3J1bnJJRmVPT0Uw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 6,
+      "location": "Unknown, Global",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "The webinar discusses the potential risks of AI moving faster than security, which could lead to vulnerabilities in AI-native enterprises. This could have significant implications for the security of assets, cargo, aviation, and personnel if AI systems are not properly secured.",
+      "immediate_forecast_24h": "In the next 24 hours, there is a potential for increased awareness of AI security risks among enterprises, which could lead to a heightened sense of vigilance and potential security updates or patches.",
+      "strategic_outlook": "In the long term, the increasing use of AI in enterprises could lead to a greater need for robust security measures to prevent cyber threats, which could have significant implications for the security of assets, cargo, aviation, and personnel.",
+      "operational_impact": "The potential operational impact of this threat is moderate to high, as a successful cyber attack on an AI-native enterprise could have significant consequences for the security of assets, cargo, aviation, and personnel.",
+      "proximity_alert": null
+    }
   }
 ]
