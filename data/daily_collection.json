@@ -416,5 +416,43 @@
       "operational_impact": "Drones may restrict the movement of personnel and cargo, and their use in combat zones may lead to increased security measures and protocols for aviation and logistics operations.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "b40dc202b7a0249559d29dcba558f2a1",
+    "timestamp": "2026-02-06T10:08:30.027532",
+    "original_title": "Top Russian general is shot and rushed to hospital in Moscow",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qxd08o/top_russian_general_is_shot_and_rushed_to/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Moscow, Russia",
+      "latitude": 55.7558,
+      "longitude": 37.6176,
+      "detailed_analysis": "A top Russian general was shot and rushed to a hospital in Moscow, indicating a potential escalation of internal conflict or targeted attack within Russia.",
+      "immediate_forecast_24h": "Increased security measures are expected in Moscow, with potential for retaliatory actions or further instability within the next 24 hours.",
+      "strategic_outlook": "This incident may lead to heightened tensions within Russia and potentially impact international relations, especially if the attack is linked to external factors or entities.",
+      "operational_impact": "The incident may cause disruptions to transport and logistics operations in and around Moscow due to increased security checks and potential civil unrest.",
+      "proximity_alert": "YAKIN TEHDİT: Vnukovo International Airport (27 km)"
+    }
+  },
+  {
+    "id": "42c69388afb12fa6d5bdcca3496b4d85",
+    "timestamp": "2026-02-06T10:08:33.011461",
+    "original_title": "Russian military intel deputy chief wounded in Moscow in apparent assassination attempt",
+    "link": "https://www.france24.com/en/europe/20260206-russian-military-intel-deputy-chief-wounded-moscow-apparent-assassination-attempt",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 10,
+      "location": "Moscow, Russia",
+      "latitude": 55.7558,
+      "longitude": 37.6176,
+      "detailed_analysis": "A high-ranking Russian military intelligence official was shot and wounded in an apparent assassination attempt, which could be linked to the ongoing conflict with Ukraine. This incident may indicate an escalation of targeted attacks on Russian military personnel and could have implications for the security of assets, cargo, aviation, and personnel in the region.",
+      "immediate_forecast_24h": "Increased security measures are likely to be implemented in Moscow and other major Russian cities, potentially causing disruptions to transportation and logistics. There is also a risk of retaliatory attacks or further escalation of violence.",
+      "strategic_outlook": "The ongoing conflict between Russia and Ukraine continues to pose a significant threat to regional stability, and the targeting of high-ranking military officials could lead to further escalation. This may have long-term implications for the security of assets, cargo, aviation, and personnel in the region, as well as potential spillover effects on global security and trade.",
+      "operational_impact": "Transportation and logistics operations in the region may be affected by increased security measures, potential disruptions to supply chains, and the risk of further violence or retaliation. Aviation and cargo operations may need to take additional precautions to ensure the safety of personnel and assets.",
+      "proximity_alert": "YAKIN TEHDİT: Vnukovo International Airport (27 km)"
+    }
   }
 ]
