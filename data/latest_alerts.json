@@ -1,24 +1,5 @@
 [
   {
-    "id": "27d54470c4e92941407cc2b441acf090",
-    "timestamp": "2026-02-06T05:59:30.755211",
-    "original_title": "Live Webinar | When AI Moves Faster Than Security: Enabling a Cyber-Resilient AI-Native Enterprise - GovInfoSecurity",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNXQtemVVV1JSRzByTjFoWG9kNW1GQS02ZkhtR3hRU0VxalhJT19RcDZEcGl4ZTd3b0Q2bU0xMTQ2a0psYm5fMWpxa2lscXFoaTZZZ1pOUTNLZUh0a3N1ZFZDTy1xZUpUWExMYWhxZ1NhSXBiV2dYbjM2WUttNnNHN0dXc1VhRGtreWhCTWlUc1RoVjNBcE5BUkUyTEtiMy1GZG1sT3J1bnJJRmVPT0Uw?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Cyber",
-      "risk_score": 6,
-      "location": "Unknown, Global",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "The webinar discusses the potential risks of AI moving faster than security, which could lead to vulnerabilities in AI-native enterprises. This could have significant implications for the security of assets, cargo, aviation, and personnel if AI systems are not properly secured.",
-      "immediate_forecast_24h": "In the next 24 hours, there is a potential for increased awareness of AI security risks among enterprises, which could lead to a heightened sense of vigilance and potential security updates or patches.",
-      "strategic_outlook": "In the long term, the increasing use of AI in enterprises could lead to a greater need for robust security measures to prevent cyber threats, which could have significant implications for the security of assets, cargo, aviation, and personnel.",
-      "operational_impact": "The potential operational impact of this threat is moderate to high, as a successful cyber attack on an AI-native enterprise could have significant consequences for the security of assets, cargo, aviation, and personnel.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "3eafc385b246a53b02e45f208fc52c8e",
     "timestamp": "2026-02-06T07:08:33.738414",
     "original_title": "US military says it killed two people in strike on suspected drug vessel in Eastern Pacific",
@@ -72,6 +53,44 @@
       "immediate_forecast_24h": "Investigations into the incident are likely to be launched, and the aircraft has been grounded. There may be disruptions to SAS flights and operations at Brussels Airport in the short term.",
       "strategic_outlook": "This incident may lead to a review of safety procedures and protocols at Brussels Airport and potentially other airports. It may also result in additional training for pilots and air traffic controllers to prevent similar incidents in the future.",
       "operational_impact": "The incident may cause delays and disruptions to flights, particularly for SAS and other airlines operating at Brussels Airport. It may also lead to increased security and safety measures, potentially affecting cargo and passenger operations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "eff030a63839d947a88c0112244d7361",
+    "timestamp": "2026-02-06T08:03:18.394780",
+    "original_title": "'They don't trust the United States': Iran wary ahead of Oman nuclear talks",
+    "link": "https://www.france24.com/en/they-don-t-trust-the-united-states-iran-wary-ahead-of-oman-nuclear-talks",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The upcoming nuclear talks between the US and Iran in Oman may be affected by the lack of trust between the two nations, potentially leading to increased tensions and conflict. The recent US involvement in Israel's bombing campaign in Iran could escalate the situation, posing a threat to aviation and personnel in the region.",
+      "immediate_forecast_24h": "Tensions are expected to remain high ahead of the talks, with a possibility of protests or demonstrations in Tehran and other Iranian cities. The risk of a military confrontation or cyberattacks cannot be ruled out.",
+      "strategic_outlook": "The long-term outlook for the region remains uncertain, with the potential for ongoing conflict and instability. The success of the nuclear talks will be crucial in determining the future of US-Iran relations and the security of the region.",
+      "operational_impact": "The increased tensions and potential for conflict may impact aviation operations in the region, with possible disruptions to flights and air traffic control. Personnel and cargo may also be at risk due to the heightened security concerns.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "31d533df35b796a27de4e5d369dea9aa",
+    "timestamp": "2026-02-06T08:03:20.426885",
+    "original_title": "Live: US and Iran begin high-stakes talks in Oman as Trump threatens military action",
+    "link": "https://www.france24.com/en/live-us-and-iran-prepare-high-stakes-talks-oman-trump-threatens-military-action",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Oman",
+      "latitude": 21.5,
+      "longitude": 55.5,
+      "detailed_analysis": "High-stakes talks between the US and Iran in Oman amid threats of US military action, with an American aircraft carrier group drawing closer to Iran, pose a significant risk to regional stability and potentially to aviation and cargo operations.",
+      "immediate_forecast_24h": "Tensions are expected to remain high, with the potential for escalation if talks fail or if there are any miscalculations by either side, affecting aviation and cargo operations in the region.",
+      "strategic_outlook": "The long-term view suggests continued volatility in the region, with potential for periodic escalations that could impact transport and logistics, particularly if the US follows through on threats of military action.",
+      "operational_impact": "Potential for disruptions to air traffic and cargo shipments in the region due to increased military presence and the risk of conflict, with possible rerouting of flights and cargo vessels to avoid the area.",
       "proximity_alert": null
     }
   }
