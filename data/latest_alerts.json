@@ -1,62 +1,5 @@
 [
   {
-    "id": "7bda8493445f611e7d908865c7d601a8",
-    "timestamp": "2026-02-06T13:19:29.303876",
-    "original_title": "Canada sends AIM missiles for Ukraine air defences, Ukrainian minister says",
-    "link": "https://www.reddit.com/r/worldnews/comments/1qxgate/canada_sends_aim_missiles_for_ukraine_air/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict/Aviation",
-      "risk_score": 8,
-      "location": "Ukraine, Europe",
-      "latitude": 49.0,
-      "longitude": 32.0,
-      "detailed_analysis": "Canada's provision of AIM missiles to Ukraine for air defense enhances Ukraine's military capabilities, potentially escalating the conflict and posing a threat to aviation in the region.",
-      "immediate_forecast_24h": "Increased military activity and potential for aerial engagements in Ukrainian airspace, posing a risk to both military and civilian aircraft.",
-      "strategic_outlook": "Long-term escalation of the conflict, potentially drawing in more international actors and increasing the risk of miscalculation or accidental clashes, affecting regional stability and aviation security.",
-      "operational_impact": "Potential for disruptions to air traffic in the region, increased security measures for aviation operations, and heightened risk of accidents or incidents due to the conflict.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "03f05d6a57ff9fa3e09414c832759d22",
-    "timestamp": "2026-02-06T13:19:35.237804",
-    "original_title": "US sends group troops to Nigeria to address terrorism threat",
-    "link": "https://www.france24.com/en/us-sends-group-troops-to-nigeria-to-address-terrorism-threat",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Terrorism/Conflict/Civil Unrest",
-      "risk_score": 8,
-      "location": "Woro Village, Nigeria",
-      "latitude": 9.0819,
-      "longitude": 8.6753,
-      "detailed_analysis": "The recent attack by suspected jihadist gunmen in Woro Village, resulting in dozens of deaths, poses a significant threat to the security and stability of the region. The US decision to send troops to assist Nigeria in its fight against terrorism indicates a heightened level of concern and potential for further escalation.",
-      "immediate_forecast_24h": "Increased military presence in the area may lead to temporary stabilization, but the risk of retaliatory attacks or further violence remains high. The situation is likely to remain volatile in the short term.",
-      "strategic_outlook": "The long-term outlook suggests a continued threat from jihadist groups in the region, potentially destabilizing the area and affecting transport and logistics. The involvement of international forces may help to mitigate the threat but also risks drawing the conflict out.",
-      "operational_impact": "The situation may impact aviation and cargo operations in the region, with potential for disruptions to supply chains and increased security measures at airports and other transport hubs. Personnel and assets in the area should exercise extreme caution.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "fd06ae6da762d1a5a70bfef2a5f6d773",
-    "timestamp": "2026-02-06T13:19:38.567887",
-    "original_title": "Berlin Airport Grounds Flights For Second Day In A Row As Freezing Rain And Black Ice Cause Havoc",
-    "link": "https://www.paddleyourownkanoo.com/2026/02/06/berlin-airport-grounds-flights-for-second-day-in-a-row-as-freezing-rain-and-black-ice-cause-havoc/",
-    "source_name": "Paddle Your Own Kanoo",
-    "ai_analysis": {
-      "category": "Aviation/Weather",
-      "risk_score": 10,
-      "location": "Berlin, Germany",
-      "latitude": 52.52,
-      "longitude": 13.405,
-      "detailed_analysis": "Freezing rain and black ice have caused the suspension of flights at Berlin Brandenburg Airport for the second day in a row, posing a significant threat to aviation operations and safety.",
-      "immediate_forecast_24h": "Flight operations are likely to remain suspended or severely disrupted until the weather conditions improve, with the German Weather Service issuing a severe weather warning for the region.",
-      "strategic_outlook": "The long-term impact of this weather event on aviation operations at Berlin Brandenburg Airport is expected to be minimal, but it highlights the need for airports to have robust contingency plans in place to mitigate the effects of severe weather conditions.",
-      "operational_impact": "The suspension of flights will have a significant impact on transport and logistics, with potential delays and disruptions to cargo and passenger flights, as well as potential knock-on effects for connecting flights and overall air travel schedules.",
-      "proximity_alert": "YAKIN TEHDİT: Berlin Tegel Airport (0 km)"
-    }
-  },
-  {
     "id": "5cfef7139229b2af5b13c40525edeb0a",
     "timestamp": "2026-02-06T14:23:38.705362",
     "original_title": "Human Rights First Brings Transnational Repression Case Against Egypt for Attack on Two American Brothers, Including a Minor, in Midtown Manhattan - Human Rights First",
@@ -187,6 +130,63 @@
       "strategic_outlook": "Long-term implications for Airbus and the aviation industry, including potential redesign of autopilot systems and increased scrutiny of software updates.",
       "operational_impact": "Possible disruptions to flight schedules, increased maintenance checks, and enhanced safety protocols for Airbus A320 planes.",
       "proximity_alert": null
+    }
+  },
+  {
+    "id": "1718e0d327b5c458632640cb93f7dce7",
+    "timestamp": "2026-02-06T15:10:05.344946",
+    "original_title": "State-backed phishing attacks targeting military officials and journalists on Signal - Help Net Security",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR2dkN2ZLMEU2cmlXS0FpbkE3OVMzT25IZFk0Z3U5THN3RzdMZ3ZyT1ZtTjJqWTF6dFFpbUZ0ZWV6eTdFWWpscjhTVlppUWF1T1dJdU40U1lITVUxTXNUZmJORW9WUmpXWFNad1FXMWZpdWFjYkFiZlIzVkJJVEhFYV9BYkZOY3NQdHc5U0dxTkdBQThXRGc?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 8,
+      "location": "Global",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "State-backed phishing attacks are targeting military officials and journalists on the Signal platform, indicating a high level of sophistication and potential for significant data breaches or espionage.",
+      "immediate_forecast_24h": "Increased vigilance is expected from targeted individuals and organizations, with potential for swift countermeasures to be implemented to mitigate the threat.",
+      "strategic_outlook": "The use of state-backed phishing attacks on secure communication platforms like Signal highlights the evolving nature of cyber threats and the need for continuous monitoring and adaptation of security protocols.",
+      "operational_impact": "The impact on transport and logistics may be indirect, but the compromise of sensitive information from military officials or journalists could potentially disrupt operations or compromise security protocols in the aviation and cargo sectors.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "f54689b33f3cf442eb4b6c4977ffd5e6",
+    "timestamp": "2026-02-06T15:10:09.614639",
+    "original_title": "Thousands Displaced for a Military Push Pakistan Said It Didn’t Order",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1qxjjlp/thousands_displaced_for_a_military_push_pakistan/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 6,
+      "location": "Pakistan",
+      "latitude": 30.3753,
+      "longitude": 69.3451,
+      "detailed_analysis": "A military push in Pakistan has resulted in thousands of people being displaced, with the government denying any involvement. This situation poses a significant threat to the stability of the region and could potentially disrupt transport and logistics operations.",
+      "immediate_forecast_24h": "The situation is likely to remain volatile in the next 24 hours, with potential for further displacement and unrest. There may be increased security measures in place, which could impact the movement of assets, cargo, and personnel.",
+      "strategic_outlook": "In the long term, this conflict could have significant implications for regional stability and may lead to increased tensions between Pakistan and neighboring countries. This could result in a heightened risk of terrorism, insurgency, and other security threats, which would require careful planning and mitigation strategies to ensure the safe movement of assets, cargo, and personnel.",
+      "operational_impact": "The conflict may impact transport and logistics operations in the region, particularly for assets, cargo, and personnel moving through or near Pakistan. There may be disruptions to supply chains, and increased security measures could lead to delays or restrictions on the movement of goods and people.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "850f830994a2aae62574a206437af11e",
+    "timestamp": "2026-02-06T15:10:12.912248",
+    "original_title": "Italian police to get new arrest powers after Turin riot",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qxk496/italian_police_to_get_new_arrest_powers_after/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Turin, Italy",
+      "latitude": 45.0703,
+      "longitude": 7.6869,
+      "detailed_analysis": "The recent riot in Turin has led to the Italian police being granted new arrest powers, which may impact civil liberties and potentially lead to increased tensions between law enforcement and the public.",
+      "immediate_forecast_24h": "Increased police presence and potential for further clashes between protesters and law enforcement, but no immediate indication of a significant threat to assets, cargo, aviation, or personnel.",
+      "strategic_outlook": "The granting of new arrest powers may lead to a period of increased instability and potential for further civil unrest, but it is unlikely to have a significant long-term impact on the security of assets, cargo, aviation, or personnel in the region.",
+      "operational_impact": "Minimal impact expected on transport and logistics operations, but companies operating in the region should be aware of the potential for increased security measures and protests.",
+      "proximity_alert": "YAKIN TEHDİT: Turin Airport (14 km)"
     }
   }
 ]
