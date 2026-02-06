@@ -340,5 +340,81 @@
       "operational_impact": "Potential for disruptions to air traffic and cargo shipments in the region due to increased military presence and the risk of conflict, with possible rerouting of flights and cargo vessels to avoid the area.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "9c173d05e613541491ad03dedb2526dc",
+    "timestamp": "2026-02-06T09:10:23.932269",
+    "original_title": "Lakurawa’s Growing Presence in Nigeria and the Crime-Terror Nexus - The Soufan Center",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1BdHpnbjBKTGN3UDFuSzJhM0Vsam1kVW1za054dmc0LW8yNHEyaWhPQ1ozQ2VQZlZQRGRQaWRheEl4NDhtRzRReFdrdVNNcm5YZUdKQXA5WGE2ZE14V1NNaGtkWkRzUQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism/Crime",
+      "risk_score": 7,
+      "location": "Nigeria",
+      "latitude": 9.081999,
+      "longitude": 8.675277,
+      "detailed_analysis": "Lakurawa's growing presence in Nigeria poses a significant threat to assets, cargo, aviation, and personnel due to the crime-terror nexus, potentially leading to increased instability and violence.",
+      "immediate_forecast_24h": "Heightened security measures are expected in the short term, with potential for targeted attacks or kidnappings, and increased surveillance of key infrastructure and transportation hubs.",
+      "strategic_outlook": "Long-term, the situation may escalate into more widespread instability, affecting trade and commerce, and potentially drawing in other extremist groups, leading to a higher risk of attacks on aviation and logistics targets.",
+      "operational_impact": "Transportation and logistics operations in Nigeria may be disrupted due to increased security checks, potential roadblocks, and airspace restrictions, leading to delays and increased costs for cargo and personnel movement.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "26257205935b8d4db9e57f48a8439ea0",
+    "timestamp": "2026-02-06T09:10:26.708649",
+    "original_title": "Russian General Is Shot in Moscow",
+    "link": "https://www.nytimes.com/2026/02/06/world/europe/russian-general-shot-moscow-alexeyev.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 10,
+      "location": "Moscow, Russia",
+      "latitude": 55.7558,
+      "longitude": 37.6176,
+      "detailed_analysis": "The shooting of a Russian General in Moscow bears the hallmark of targeted assassination attempts, indicating a high level of threat to personnel and potentially destabilizing the region.",
+      "immediate_forecast_24h": "Increased security measures are expected in Moscow, with potential for retaliatory actions or further attacks on high-profile targets.",
+      "strategic_outlook": "The incident may escalate tensions within Russia and with neighboring countries, potentially affecting aviation and cargo operations in the region.",
+      "operational_impact": "Heightened security protocols may cause delays in transportation and logistics, particularly for high-value or sensitive cargo.",
+      "proximity_alert": "YAKIN TEHDİT: Vnukovo International Airport (27 km)"
+    }
+  },
+  {
+    "id": "592b26adb0a75c1bfe38f652ebfcf441",
+    "timestamp": "2026-02-06T09:10:29.837113",
+    "original_title": "Canada condemns Iran after video shows armored car running over protesters",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qxcikx/canada_condemns_iran_after_video_shows_armored/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 7,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "A video showing an armored car running over protesters in Iran has led to Canada condemning the actions, indicating heightened tensions and potential for further unrest. This could impact personnel and cargo security in the region.",
+      "immediate_forecast_24h": "Increased protests and potential for further clashes between protesters and security forces, which may disrupt logistics and transport operations.",
+      "strategic_outlook": "Long-term instability in Iran could lead to sustained disruptions in regional transport and logistics, affecting cargo and personnel security.",
+      "operational_impact": "Potential delays or disruptions to transport and logistics operations in Iran, with possible spillover effects into neighboring countries or global supply chains.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "a7c41800d482ba7dea0f75e7ec838cdc",
+    "timestamp": "2026-02-06T09:10:33.800362",
+    "original_title": "Is the Age of Drones Really the Age of Poor Maneuver?",
+    "link": "https://warontherocks.com/2026/02/is-the-age-of-drones-really-the-age-of-poor-maneuver/",
+    "source_name": "War on the Rocks",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 7,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "The use of drones in modern combat has altered the character of ground combat, posing a significant threat to personnel and assets. The psychological presence of drones can impact the movement and strategy of forces on the battlefield.",
+      "immediate_forecast_24h": "Continued use of drones in combat zones, potentially leading to increased casualties and disruption of supply chains.",
+      "strategic_outlook": "The long-term impact of drone technology on modern warfare will depend on the development of countermeasures and the adaptation of military strategies to mitigate the effects of drones.",
+      "operational_impact": "Drones may restrict the movement of personnel and cargo, and their use in combat zones may lead to increased security measures and protocols for aviation and logistics operations.",
+      "proximity_alert": null
+    }
   }
 ]
