@@ -1,24 +1,5 @@
 [
   {
-    "id": "cf74e191180020161a9861407758ae87",
-    "timestamp": "2026-02-07T05:49:13.112746",
-    "original_title": "Man identified after fatal plane crash near SC airport - WCIV",
-    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVDNYMDdONG5IeFRvVFM2d2FxRFZKX1AwcjNNRWc3ejlnTk5yTTdHUFNZV0U2YnpRX01jOFpiMzNheHRWcHVpMHE2M3NLUkE2c0d5cHg5TVR0TWVacU1Ka29rbHd1QmxBbzhseDFLV19yNXF1M3VMeDNydU0tU0JIRnVqbXFOZUR4YzlLNWdfY0h1S0kwbWpQeUNPLWk0M3l4TUVnV3VUWmlwak5KSEJsaDgtaHNfOGlvcVhpY1I5Ykc2bkg1ODBtWGdWV2lkV3RSYm5zWUhiVGdKR2xoVDJuNA?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Aviation",
-      "risk_score": 8,
-      "location": "Near SC airport, USA",
-      "latitude": 33.9394,
-      "longitude": -81.0398,
-      "detailed_analysis": "A fatal plane crash occurred near an airport in South Carolina, resulting in loss of life. The incident is under investigation, but no immediate indication of foul play or terrorism has been reported.",
-      "immediate_forecast_24h": "Investigations will likely continue, with a focus on determining the cause of the crash. There may be some disruption to local air traffic, but no widespread impact on aviation operations is expected in the next 24 hours.",
-      "strategic_outlook": "The long-term impact of this incident will depend on the findings of the investigation. If the cause is determined to be a mechanical failure or human error, it may lead to increased scrutiny of aircraft maintenance and pilot training procedures.",
-      "operational_impact": "The crash may cause some delays or disruptions to flights in and out of the affected airport, but it is unlikely to have a significant impact on overall air transportation logistics.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "dbb3ce14ea23d7036c17366c016e6b54",
     "timestamp": "2026-02-07T06:53:37.790024",
     "original_title": "Iranian authorities impose militarized crackdown following protest deaths, Amnesty International says",
@@ -73,6 +54,44 @@
       "strategic_outlook": "A successful negotiation could lead to decreased tensions in the region, while failure may escalate into further conflict, affecting aviation and cargo operations.",
       "operational_impact": "Potential for increased security measures in aviation and cargo transport in the region, with possible delays or rerouting of flights and shipments.",
       "proximity_alert": "YAKIN TEHDİT: Intercity Hotel (1 km)"
+    }
+  },
+  {
+    "id": "1e1ffe6598ca22f8c45b7f7e7c8930a2",
+    "timestamp": "2026-02-07T07:37:32.899794",
+    "original_title": "US condemns RSF drone attack on World Food Programme convoy in Sudan’s North Kordofan - arabnews.jp",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB6YTRjSW5TcjQ0eGtTR19jMUFFWnREOEgwODFsbGtxc2Y1Nzh3RlE2cHhvZmxwckpYSmtSZTJzZFdXOXZOa0EwTkUxek10T3pQSlVWSC1GWHRKQV9JNE1neHJYTVM?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "North Kordofan, Sudan",
+      "latitude": 14.0467,
+      "longitude": 29.8933,
+      "detailed_analysis": "A drone attack by the RSF on a World Food Programme convoy poses a significant threat to personnel, cargo, and aviation in the region. The attack highlights the instability and conflict in Sudan, which could lead to further disruptions in logistics and transport.",
+      "immediate_forecast_24h": "Increased security measures are expected in the region, with potential disruptions to humanitarian aid deliveries and cargo transport. There is a high likelihood of further clashes between the RSF and government forces.",
+      "strategic_outlook": "The ongoing conflict in Sudan poses a long-term threat to regional stability, with potential spillover effects on neighboring countries. The use of drones in attacks could become a growing concern for aviation and logistics in the region.",
+      "operational_impact": "The attack may lead to increased security protocols for cargo and personnel transport in the region, potentially causing delays and disruptions to logistics operations. Aviation operations may also be impacted, with increased risk of drone sightings and potential attacks.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "1653ce803413bee11f2bb69495f96979",
+    "timestamp": "2026-02-07T07:37:39.470140",
+    "original_title": "Islamic State group claims deadly suicide bombing at Islamabad Shiite mosque",
+    "link": "https://www.france24.com/en/asia-pacific/20260207-islamic-state-group-claims-deadly-suicide-bombing-at-islamabad-shiite-mosque",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Terrorism/Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Islamabad, Pakistan",
+      "latitude": 33.7294,
+      "longitude": 73.0931,
+      "detailed_analysis": "The Islamic State group has claimed responsibility for a deadly suicide bombing at a Shiite mosque in Islamabad, resulting in at least 31 fatalities. This incident highlights the ongoing sectarian violence and terrorism threat in Pakistan, particularly targeting the Shiite minority.",
+      "immediate_forecast_24h": "Increased security measures are expected in Islamabad, particularly around places of worship and areas with high population density. There is a high likelihood of retaliatory attacks or further violence in the short term.",
+      "strategic_outlook": "The long-term outlook indicates a continued high threat of terrorism and sectarian violence in Pakistan, with potential spillover effects into the broader region. This may lead to sustained instability and increased security concerns for assets, cargo, aviation, and personnel.",
+      "operational_impact": "The incident may lead to heightened security protocols at airports, transportation hubs, and logistics facilities in Pakistan, potentially causing delays or disruptions to cargo and personnel movements. Aviation operations may also be affected due to increased security screening and potential airspace restrictions.",
+      "proximity_alert": "YAKIN TEHDİT: Islamabad International Airport (4 km)"
     }
   }
 ]
