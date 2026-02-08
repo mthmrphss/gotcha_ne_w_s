@@ -1,24 +1,5 @@
 [
   {
-    "id": "db157b95003e8d33b48f26b2dcd578a0",
-    "timestamp": "2026-02-08T21:34:27.995461",
-    "original_title": "‘Squawking 7700’: International flight in Brisbane emergency landing - The Courier Mail",
-    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQRHpoTEdkdXkwMXhLNDN2aE5jRGNDaldwcXB5NG10NGlfLXlhMGtMcEVUT0t1UFNuMldCdGctYlRPZnN3dVNRR19EOExKa0dUMEcydTBjMVIzQ2x5VzZrMTVVOWNJaGIwcTNkXzhHem5yeEpzSlZQUmFUaG1NSkg3YTZSajJmc1ZfTUFqTll1bk0yUktYeG8yN0NzVjdHSkNXZGViLTNjd0RrR1pGR19mRTJpTWVvclN4TFE5ZUFYTUVBMS0xNkdkMk1jT2dWa2MwbXlQeUVmcTU4TjA2Y0RkWlJ0bFlqSDU3dGF2aFBSWmNpT2NP0gH6AUFVX3lxTE1NQjZKa0FpVFlSU242blZEVmVEb3FHeVV2cnFJTnJYdlJiZEhWV0VhaGpJWVBBOE1UTTF2akwxQ2FkVFFnT29Sbi1xWlJmZVFqZkF6TkpYUUZET2xEcVhscTEzR0NCREM5b2ZBY3R4b0oxNTA1Y2FIUkxreHF3alhKbGJMcjhKX01NM2I4d21yWlp2VXAwS0VueTFWbzlFcmZMX3VPbmFnOGpqZi02ZFdNNTFGMHlqamozTjNSdml4d1ZBQ2VncEpmSEpid19RZ2ZLWGQxU2Y2Q0ZBU21idVJ1WnpFYUJ5N3pIMmQtXzhzdHFZbnFGdF93TWc?oc=5",
-    "source_name": "Live Flight Emergencies (Squawk)",
-    "ai_analysis": {
-      "category": "Aviation",
-      "risk_score": 8,
-      "location": "Brisbane, Australia",
-      "latitude": -27.4698,
-      "longitude": 153.0251,
-      "detailed_analysis": "International flight made an emergency landing in Brisbane, squawking 7700, indicating a potential high-risk situation for passengers and crew on board.",
-      "immediate_forecast_24h": "Investigations into the cause of the emergency landing will be conducted, and potential disruptions to flight schedules may occur.",
-      "strategic_outlook": "The incident may lead to increased security measures and scrutiny of emergency procedures in the aviation industry.",
-      "operational_impact": "Potential delays or cancellations of flights, and increased security checks for passengers and cargo.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "eed7623e7490dded000d733e65b90b0f",
     "timestamp": "2026-02-08T22:35:37.369206",
     "original_title": "Air Asia flight to Kuala Lumpur is forced to make emergency landing after taking off from Sydney - dailymail.co.uk",
@@ -54,6 +35,25 @@
       "strategic_outlook": "The conflict is likely to continue, with potential long-term impacts on regional stability, trade, and economic activity. This may lead to increased costs, delays, and risks for businesses operating in the region.",
       "operational_impact": "Transport and logistics operations in Ukraine and surrounding areas may be severely disrupted, with potential for damage or loss of cargo, equipment, and infrastructure. Aviation operations may also be impacted, with potential for flight disruptions or cancellations.",
       "proximity_alert": null
+    }
+  },
+  {
+    "id": "8ab8cd7b41c5fab953488fcf60d768d6",
+    "timestamp": "2026-02-08T23:38:49.005834",
+    "original_title": "Iranian Nobel Laureate Gets Second Prison Sentence and Ends Hunger Strike",
+    "link": "https://www.nytimes.com/2026/02/08/world/middleeast/iran-narges-mohammadi-second-sentence.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The sentencing of Iranian Nobel Laureate Narges Mohammadi to an additional 7 years in prison may lead to increased civil unrest and protests, potentially affecting the stability of the region.",
+      "immediate_forecast_24h": "Protests and demonstrations are possible in the short term, but no immediate disruption to aviation, cargo, or personnel is expected.",
+      "strategic_outlook": "The long-term implications of this event are likely to be limited to the region, with potential for increased tensions between Iran and the international community.",
+      "operational_impact": "No significant operational impact on transport or logistics is anticipated at this time.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
     }
   }
 ]
