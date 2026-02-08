@@ -587,5 +587,43 @@
       "operational_impact": "Potential labor disputes and disruptions to flights may impact the airline's operations, but the immediate risk is low. However, if the situation escalates, it could lead to delays, cancellations, and other operational issues.",
       "proximity_alert": "YAKIN TEHDİT: Chicago O'Hare International Airport (0 km)"
     }
+  },
+  {
+    "id": "93528044bde023071d381565514af3b1",
+    "timestamp": "2026-02-08T16:39:36.516358",
+    "original_title": "Catholic Pope Leo XIV calls for an end to violence in Nigeria",
+    "link": "http://www.africanews.com/2026/02/08/catholic-pope-leo-xiv-calls-for-an-end-to-violence-in-nigeria/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 7,
+      "location": "Nigeria",
+      "latitude": 9.081999,
+      "longitude": 8.675277,
+      "detailed_analysis": "The recent violence in Nigeria, including the killing of villagers and abduction of a Catholic priest, poses a significant threat to personnel and potentially to cargo and aviation operations in the region.",
+      "immediate_forecast_24h": "Increased tensions and potential for further violence, particularly in areas with high levels of unrest.",
+      "strategic_outlook": "Long-term instability and conflict in Nigeria could lead to sustained disruptions to transport and logistics operations, as well as increased risks to personnel and assets.",
+      "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics operations in Nigeria, with possible spillover effects into neighboring countries.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "15162f9ef5652fb090f82a9343596c65",
+    "timestamp": "2026-02-08T16:39:41.455682",
+    "original_title": "Israel Scrambles Fighter Jets To Intercept Wizz Air Plane From London As Terror Alert is Declared",
+    "link": "https://www.paddleyourownkanoo.com/2026/02/08/israel-scrambles-fighter-jets-to-intercept-wizz-air-plane-from-london-as-terror-alert-is-declared/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Terrorism/Aviation",
+      "risk_score": 10,
+      "location": "Tel Aviv, Israel",
+      "latitude": 32.0853,
+      "longitude": 34.7818,
+      "detailed_analysis": "A Wizz Air flight from London to Tel Aviv was intercepted by Israeli fighter jets due to a terror alert, posing a significant threat to the safety of the 239 passengers on board.",
+      "immediate_forecast_24h": "The situation is being closely monitored, and additional security measures may be implemented to ensure the safety of flights to and from Tel Aviv.",
+      "strategic_outlook": "The incident highlights the ongoing threat of terrorism to the aviation industry and the need for continued vigilance and cooperation between intelligence agencies and security forces.",
+      "operational_impact": "The incident may lead to increased security screening and delays for flights to and from Tel Aviv, potentially disrupting logistics and transport operations in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Ben Gurion International Airport (0 km)"
+    }
   }
 ]
