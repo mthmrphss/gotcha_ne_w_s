@@ -1,43 +1,5 @@
 [
   {
-    "id": "03321183fdb9913c60fb1a9b8a48e902",
-    "timestamp": "2026-02-08T15:34:28.290137",
-    "original_title": "Suspect in shooting of senior Russian intelligence officer arrested in Dubai",
-    "link": "https://www.france24.com/en/europe/20260208-suspect-shooting-senior-russian-intelligence-officer-arrested-dubai-alekseyev",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Terrorism/Conflict/Crime",
-      "risk_score": 10,
-      "location": "Dubai, UAE",
-      "latitude": 25.276987,
-      "longitude": 55.296249,
-      "detailed_analysis": "A Ukrainian-born Russian man suspected of shooting a senior Russian military intelligence officer has been arrested in Dubai and extradited to Russia, indicating potential for targeted violence against high-ranking officials and possible retaliatory actions",
-      "immediate_forecast_24h": "Increased security measures may be implemented in Dubai and other locations with high-profile Russian officials, potential for further arrests or incidents",
-      "strategic_outlook": "Escalating tensions between Russia and Ukraine may lead to more attacks on Russian officials, impacting global security and stability, particularly in regions with Russian interests",
-      "operational_impact": "Potential disruptions to logistics and transport in regions with heightened security measures, increased scrutiny of individuals with ties to Russia or Ukraine",
-      "proximity_alert": "YAKIN TEHDİT: DUBAİ (25 km)"
-    }
-  },
-  {
-    "id": "e878553b4bf0fec6eca10af1b18aedd0",
-    "timestamp": "2026-02-08T15:34:31.988416",
-    "original_title": "United Airlines Dangles Immediate Pay Rises to Push Flight Attendants Toward Controversial Scheduling System",
-    "link": "https://www.paddleyourownkanoo.com/2026/02/08/united-airlines-dangles-immediate-pay-rises-to-push-flight-attendants-toward-controversial-scheduling-system/",
-    "source_name": "Paddle Your Own Kanoo",
-    "ai_analysis": {
-      "category": "Civil Unrest",
-      "risk_score": 10,
-      "location": "Chicago, USA",
-      "latitude": 41.8781,
-      "longitude": -87.6298,
-      "detailed_analysis": "United Airlines is attempting to implement a new scheduling system, which is being met with resistance from the Association of Flight Attendants. The airline is offering immediate pay rises to push flight attendants toward accepting the system, but this may lead to labor disputes and potential disruptions to flights.",
-      "immediate_forecast_24h": "Tensions between United Airlines and the Association of Flight Attendants may escalate, potentially leading to labor actions or protests, but no immediate disruptions to flights are expected.",
-      "strategic_outlook": "The introduction of the new scheduling system may lead to long-term changes in the way United Airlines manages its flight attendants, potentially impacting labor relations and the overall efficiency of the airline's operations.",
-      "operational_impact": "Potential labor disputes and disruptions to flights may impact the airline's operations, but the immediate risk is low. However, if the situation escalates, it could lead to delays, cancellations, and other operational issues.",
-      "proximity_alert": "YAKIN TEHDİT: Chicago O'Hare International Airport (0 km)"
-    }
-  },
-  {
     "id": "93528044bde023071d381565514af3b1",
     "timestamp": "2026-02-08T16:39:36.516358",
     "original_title": "Catholic Pope Leo XIV calls for an end to violence in Nigeria",
@@ -73,6 +35,44 @@
       "strategic_outlook": "The incident highlights the ongoing threat of terrorism to the aviation industry and the need for continued vigilance and cooperation between intelligence agencies and security forces.",
       "operational_impact": "The incident may lead to increased security screening and delays for flights to and from Tel Aviv, potentially disrupting logistics and transport operations in the region.",
       "proximity_alert": "YAKIN TEHDİT: Ben Gurion International Airport (0 km)"
+    }
+  },
+  {
+    "id": "d7ba741fbe8e7006d32df6c5b94e8b3f",
+    "timestamp": "2026-02-08T17:34:18.798817",
+    "original_title": "AirAsia X Flight D7221 from Sydney to Kuala Lumpur Makes Urgent Emergency Landing in Brisbane - Travel And Tour World",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdUlkWjFmMWk4c1Vka0VXU245dHFpRVBRcDNVNjIxRFcyOEh0Y3FIV1VCVVhSd0p4ekNBMGtHLTJDWmw2NDdQcXI5M2U0ajBISDEtWGRObjhSSlFaTnRXbzdWS0tEajlPSG9MMmpGS3QwUlBaOXVKUmhRdlRlbzZzQkdqSDJ5WktxTFpObTJBZHBmWWY0ZGUyWDA4bndLeUJzQzd3Sm1CZXl3UUtfUjc0ZUVKS19iVHBmUkN5NEFDa3NkRU93Y2Z5TkhHWS1OZDFBSVNMWlBPSjFLUQ?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 6,
+      "location": "Brisbane, Australia",
+      "latitude": -27.4698,
+      "longitude": 153.0251,
+      "detailed_analysis": "AirAsia X Flight D7221 made an urgent emergency landing in Brisbane due to unspecified reasons, posing a potential threat to the safety of passengers and crew on board.",
+      "immediate_forecast_24h": "Investigations into the cause of the emergency landing are expected to be conducted, and the airline may face disruptions to its operations in the short term.",
+      "strategic_outlook": "The incident may lead to increased scrutiny of AirAsia X's safety procedures and protocols, potentially resulting in changes to its operational practices.",
+      "operational_impact": "The emergency landing may cause delays or cancellations of flights, affecting the travel plans of passengers and the transportation of cargo.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "b5692fa5d504ceb99f090958feeb66cc",
+    "timestamp": "2026-02-08T17:34:22.398513",
+    "original_title": "Thailand PM Anutin’s party leads snap election, rejects coalition bid",
+    "link": "https://www.france24.com/en/asia-pacific/20260208-thailand-pm-anutin-s-party-leads-snap-election-rejects-coalition-bid",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Bangkok, Thailand",
+      "latitude": 13.75,
+      "longitude": 100.5167,
+      "detailed_analysis": "The snap election in Thailand may lead to civil unrest or conflict, potentially affecting transport and logistics operations in the region. However, there is no direct indication of a threat to assets, cargo, aviation, or personnel at this time.",
+      "immediate_forecast_24h": "The situation is likely to remain stable in the short term, but protests or demonstrations may occur in response to the election results.",
+      "strategic_outlook": "The long-term outlook depends on the formation of a new government and its policies, which may impact the overall security situation in Thailand.",
+      "operational_impact": "Transport and logistics operations may be affected by potential civil unrest or protests, but the impact is expected to be minimal at this time.",
+      "proximity_alert": "YAKIN TEHDİT: Suvarnabhumi Airport (22 km)"
     }
   }
 ]

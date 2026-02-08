@@ -625,5 +625,43 @@
       "operational_impact": "The incident may lead to increased security screening and delays for flights to and from Tel Aviv, potentially disrupting logistics and transport operations in the region.",
       "proximity_alert": "YAKIN TEHDİT: Ben Gurion International Airport (0 km)"
     }
+  },
+  {
+    "id": "d7ba741fbe8e7006d32df6c5b94e8b3f",
+    "timestamp": "2026-02-08T17:34:18.798817",
+    "original_title": "AirAsia X Flight D7221 from Sydney to Kuala Lumpur Makes Urgent Emergency Landing in Brisbane - Travel And Tour World",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdUlkWjFmMWk4c1Vka0VXU245dHFpRVBRcDNVNjIxRFcyOEh0Y3FIV1VCVVhSd0p4ekNBMGtHLTJDWmw2NDdQcXI5M2U0ajBISDEtWGRObjhSSlFaTnRXbzdWS0tEajlPSG9MMmpGS3QwUlBaOXVKUmhRdlRlbzZzQkdqSDJ5WktxTFpObTJBZHBmWWY0ZGUyWDA4bndLeUJzQzd3Sm1CZXl3UUtfUjc0ZUVKS19iVHBmUkN5NEFDa3NkRU93Y2Z5TkhHWS1OZDFBSVNMWlBPSjFLUQ?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 6,
+      "location": "Brisbane, Australia",
+      "latitude": -27.4698,
+      "longitude": 153.0251,
+      "detailed_analysis": "AirAsia X Flight D7221 made an urgent emergency landing in Brisbane due to unspecified reasons, posing a potential threat to the safety of passengers and crew on board.",
+      "immediate_forecast_24h": "Investigations into the cause of the emergency landing are expected to be conducted, and the airline may face disruptions to its operations in the short term.",
+      "strategic_outlook": "The incident may lead to increased scrutiny of AirAsia X's safety procedures and protocols, potentially resulting in changes to its operational practices.",
+      "operational_impact": "The emergency landing may cause delays or cancellations of flights, affecting the travel plans of passengers and the transportation of cargo.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "b5692fa5d504ceb99f090958feeb66cc",
+    "timestamp": "2026-02-08T17:34:22.398513",
+    "original_title": "Thailand PM Anutin’s party leads snap election, rejects coalition bid",
+    "link": "https://www.france24.com/en/asia-pacific/20260208-thailand-pm-anutin-s-party-leads-snap-election-rejects-coalition-bid",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Bangkok, Thailand",
+      "latitude": 13.75,
+      "longitude": 100.5167,
+      "detailed_analysis": "The snap election in Thailand may lead to civil unrest or conflict, potentially affecting transport and logistics operations in the region. However, there is no direct indication of a threat to assets, cargo, aviation, or personnel at this time.",
+      "immediate_forecast_24h": "The situation is likely to remain stable in the short term, but protests or demonstrations may occur in response to the election results.",
+      "strategic_outlook": "The long-term outlook depends on the formation of a new government and its policies, which may impact the overall security situation in Thailand.",
+      "operational_impact": "Transport and logistics operations may be affected by potential civil unrest or protests, but the impact is expected to be minimal at this time.",
+      "proximity_alert": "YAKIN TEHDİT: Suvarnabhumi Airport (22 km)"
+    }
   }
 ]
