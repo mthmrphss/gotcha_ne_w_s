@@ -492,5 +492,43 @@
       "operational_impact": "Potential disruptions to transport and logistics due to crime, unrest, and health risks. Increased caution and planning are necessary to mitigate risks and ensure safe operations in Madagascar.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "335083826d4ac320dfc51830601737d8",
+    "timestamp": "2026-02-08T14:01:53.438963",
+    "original_title": "Iran's top diplomat strikes a hard line on US talks, saying Tehran's power comes from saying 'no'",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qz8mn6/irans_top_diplomat_strikes_a_hard_line_on_us/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Iran's top diplomat has taken a hard stance on US talks, emphasizing Tehran's power comes from saying 'no'. This indicates heightened tensions between Iran and the US, potentially affecting regional stability and aviation security.",
+      "immediate_forecast_24h": "Increased rhetoric and tensions between Iran and the US may lead to heightened security measures at airports and potential disruptions to air travel in the region.",
+      "strategic_outlook": "Prolonged tensions between Iran and the US could lead to a destabilization of the region, affecting cargo transport, aviation, and personnel safety in the long term.",
+      "operational_impact": "Potential for increased security checks, flight delays, or cancellations due to heightened tensions, affecting transport and logistics operations in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "8f680f3af094214d957f0fb1a1815bba",
+    "timestamp": "2026-02-08T14:01:56.240210",
+    "original_title": "Protests rock Milan over economic and environmental cost of Winter Olympics",
+    "link": "https://www.france24.com/en/protests-rock-milan-over-economic-and-environmental-cost-of-winter-olympics",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Milan, Italy",
+      "latitude": 45.4642,
+      "longitude": 9.1895,
+      "detailed_analysis": "Protests against the Winter Olympics in Milan have turned violent, with police using tear gas and a water cannon against protesters. The situation is volatile and may impact local transportation and logistics.",
+      "immediate_forecast_24h": "Further clashes between protesters and police are possible, with potential disruptions to traffic and public transportation.",
+      "strategic_outlook": "The protests may continue throughout the duration of the Winter Olympics, potentially affecting the overall security situation in Milan and surrounding areas.",
+      "operational_impact": "Transportation and logistics operations in and around Milan may be impacted by the protests, with potential delays or disruptions to cargo and personnel movements.",
+      "proximity_alert": "YAKIN TEHDİT: Milan–Malpensa Airport (0 km)"
+    }
   }
 ]
