@@ -1,43 +1,5 @@
 [
   {
-    "id": "335083826d4ac320dfc51830601737d8",
-    "timestamp": "2026-02-08T14:01:53.438963",
-    "original_title": "Iran's top diplomat strikes a hard line on US talks, saying Tehran's power comes from saying 'no'",
-    "link": "https://www.reddit.com/r/worldnews/comments/1qz8mn6/irans_top_diplomat_strikes_a_hard_line_on_us/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict/Civil Unrest",
-      "risk_score": 10,
-      "location": "Tehran, Iran",
-      "latitude": 35.6892,
-      "longitude": 51.389,
-      "detailed_analysis": "Iran's top diplomat has taken a hard stance on US talks, emphasizing Tehran's power comes from saying 'no'. This indicates heightened tensions between Iran and the US, potentially affecting regional stability and aviation security.",
-      "immediate_forecast_24h": "Increased rhetoric and tensions between Iran and the US may lead to heightened security measures at airports and potential disruptions to air travel in the region.",
-      "strategic_outlook": "Prolonged tensions between Iran and the US could lead to a destabilization of the region, affecting cargo transport, aviation, and personnel safety in the long term.",
-      "operational_impact": "Potential for increased security checks, flight delays, or cancellations due to heightened tensions, affecting transport and logistics operations in the region.",
-      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
-    }
-  },
-  {
-    "id": "8f680f3af094214d957f0fb1a1815bba",
-    "timestamp": "2026-02-08T14:01:56.240210",
-    "original_title": "Protests rock Milan over economic and environmental cost of Winter Olympics",
-    "link": "https://www.france24.com/en/protests-rock-milan-over-economic-and-environmental-cost-of-winter-olympics",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Civil Unrest",
-      "risk_score": 10,
-      "location": "Milan, Italy",
-      "latitude": 45.4642,
-      "longitude": 9.1895,
-      "detailed_analysis": "Protests against the Winter Olympics in Milan have turned violent, with police using tear gas and a water cannon against protesters. The situation is volatile and may impact local transportation and logistics.",
-      "immediate_forecast_24h": "Further clashes between protesters and police are possible, with potential disruptions to traffic and public transportation.",
-      "strategic_outlook": "The protests may continue throughout the duration of the Winter Olympics, potentially affecting the overall security situation in Milan and surrounding areas.",
-      "operational_impact": "Transportation and logistics operations in and around Milan may be impacted by the protests, with potential delays or disruptions to cargo and personnel movements.",
-      "proximity_alert": "YAKIN TEHDİT: Milan–Malpensa Airport (0 km)"
-    }
-  },
-  {
     "id": "293da187a1ace28cf10f6071051fc6b3",
     "timestamp": "2026-02-08T14:55:24.170387",
     "original_title": "New Details Emerge in Assassination Attempt on Russian General: Attack in Lover’s Apartment, Suspect Detained in Dubai",
@@ -54,6 +16,44 @@
       "strategic_outlook": "The long-term view suggests increased tensions between nations involved, potentially leading to more targeted attacks or security breaches, especially in areas with international interests and travel.",
       "operational_impact": "The incident may lead to enhanced security screenings and protocols for aviation and cargo operations, particularly for flights and shipments involving Russia or passing through the UAE, which could cause delays but is aimed at preventing future attacks.",
       "proximity_alert": "YAKIN TEHDİT: DUBAİ (25 km)"
+    }
+  },
+  {
+    "id": "03321183fdb9913c60fb1a9b8a48e902",
+    "timestamp": "2026-02-08T15:34:28.290137",
+    "original_title": "Suspect in shooting of senior Russian intelligence officer arrested in Dubai",
+    "link": "https://www.france24.com/en/europe/20260208-suspect-shooting-senior-russian-intelligence-officer-arrested-dubai-alekseyev",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict/Crime",
+      "risk_score": 10,
+      "location": "Dubai, UAE",
+      "latitude": 25.276987,
+      "longitude": 55.296249,
+      "detailed_analysis": "A Ukrainian-born Russian man suspected of shooting a senior Russian military intelligence officer has been arrested in Dubai and extradited to Russia, indicating potential for targeted violence against high-ranking officials and possible retaliatory actions",
+      "immediate_forecast_24h": "Increased security measures may be implemented in Dubai and other locations with high-profile Russian officials, potential for further arrests or incidents",
+      "strategic_outlook": "Escalating tensions between Russia and Ukraine may lead to more attacks on Russian officials, impacting global security and stability, particularly in regions with Russian interests",
+      "operational_impact": "Potential disruptions to logistics and transport in regions with heightened security measures, increased scrutiny of individuals with ties to Russia or Ukraine",
+      "proximity_alert": "YAKIN TEHDİT: DUBAİ (25 km)"
+    }
+  },
+  {
+    "id": "e878553b4bf0fec6eca10af1b18aedd0",
+    "timestamp": "2026-02-08T15:34:31.988416",
+    "original_title": "United Airlines Dangles Immediate Pay Rises to Push Flight Attendants Toward Controversial Scheduling System",
+    "link": "https://www.paddleyourownkanoo.com/2026/02/08/united-airlines-dangles-immediate-pay-rises-to-push-flight-attendants-toward-controversial-scheduling-system/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Chicago, USA",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "detailed_analysis": "United Airlines is attempting to implement a new scheduling system, which is being met with resistance from the Association of Flight Attendants. The airline is offering immediate pay rises to push flight attendants toward accepting the system, but this may lead to labor disputes and potential disruptions to flights.",
+      "immediate_forecast_24h": "Tensions between United Airlines and the Association of Flight Attendants may escalate, potentially leading to labor actions or protests, but no immediate disruptions to flights are expected.",
+      "strategic_outlook": "The introduction of the new scheduling system may lead to long-term changes in the way United Airlines manages its flight attendants, potentially impacting labor relations and the overall efficiency of the airline's operations.",
+      "operational_impact": "Potential labor disputes and disruptions to flights may impact the airline's operations, but the immediate risk is low. However, if the situation escalates, it could lead to delays, cancellations, and other operational issues.",
+      "proximity_alert": "YAKIN TEHDİT: Chicago O'Hare International Airport (0 km)"
     }
   }
 ]

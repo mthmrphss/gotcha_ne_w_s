@@ -549,5 +549,43 @@
       "operational_impact": "The incident may lead to enhanced security screenings and protocols for aviation and cargo operations, particularly for flights and shipments involving Russia or passing through the UAE, which could cause delays but is aimed at preventing future attacks.",
       "proximity_alert": "YAKIN TEHDİT: DUBAİ (25 km)"
     }
+  },
+  {
+    "id": "03321183fdb9913c60fb1a9b8a48e902",
+    "timestamp": "2026-02-08T15:34:28.290137",
+    "original_title": "Suspect in shooting of senior Russian intelligence officer arrested in Dubai",
+    "link": "https://www.france24.com/en/europe/20260208-suspect-shooting-senior-russian-intelligence-officer-arrested-dubai-alekseyev",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict/Crime",
+      "risk_score": 10,
+      "location": "Dubai, UAE",
+      "latitude": 25.276987,
+      "longitude": 55.296249,
+      "detailed_analysis": "A Ukrainian-born Russian man suspected of shooting a senior Russian military intelligence officer has been arrested in Dubai and extradited to Russia, indicating potential for targeted violence against high-ranking officials and possible retaliatory actions",
+      "immediate_forecast_24h": "Increased security measures may be implemented in Dubai and other locations with high-profile Russian officials, potential for further arrests or incidents",
+      "strategic_outlook": "Escalating tensions between Russia and Ukraine may lead to more attacks on Russian officials, impacting global security and stability, particularly in regions with Russian interests",
+      "operational_impact": "Potential disruptions to logistics and transport in regions with heightened security measures, increased scrutiny of individuals with ties to Russia or Ukraine",
+      "proximity_alert": "YAKIN TEHDİT: DUBAİ (25 km)"
+    }
+  },
+  {
+    "id": "e878553b4bf0fec6eca10af1b18aedd0",
+    "timestamp": "2026-02-08T15:34:31.988416",
+    "original_title": "United Airlines Dangles Immediate Pay Rises to Push Flight Attendants Toward Controversial Scheduling System",
+    "link": "https://www.paddleyourownkanoo.com/2026/02/08/united-airlines-dangles-immediate-pay-rises-to-push-flight-attendants-toward-controversial-scheduling-system/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Chicago, USA",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "detailed_analysis": "United Airlines is attempting to implement a new scheduling system, which is being met with resistance from the Association of Flight Attendants. The airline is offering immediate pay rises to push flight attendants toward accepting the system, but this may lead to labor disputes and potential disruptions to flights.",
+      "immediate_forecast_24h": "Tensions between United Airlines and the Association of Flight Attendants may escalate, potentially leading to labor actions or protests, but no immediate disruptions to flights are expected.",
+      "strategic_outlook": "The introduction of the new scheduling system may lead to long-term changes in the way United Airlines manages its flight attendants, potentially impacting labor relations and the overall efficiency of the airline's operations.",
+      "operational_impact": "Potential labor disputes and disruptions to flights may impact the airline's operations, but the immediate risk is low. However, if the situation escalates, it could lead to delays, cancellations, and other operational issues.",
+      "proximity_alert": "YAKIN TEHDİT: Chicago O'Hare International Airport (0 km)"
+    }
   }
 ]
