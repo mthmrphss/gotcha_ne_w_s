@@ -359,5 +359,43 @@
       "operational_impact": "Possible increased security checks and protocols for aviation and cargo operations in the region, with potential delays and disruptions to transport and logistics.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "9d2021691fd0305de199e8c3734dd395",
+    "timestamp": "2026-02-08T10:35:53.926500",
+    "original_title": "Pro-Ukrainian partisans disable military communication infrastructure in Russia's Belgorod Oblast, group claims",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qz5kig/proukrainian_partisans_disable_military/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "Belgorod Oblast, Russia",
+      "latitude": 50.5833,
+      "longitude": 36.5833,
+      "detailed_analysis": "Pro-Ukrainian partisans have reportedly disabled military communication infrastructure in Russia's Belgorod Oblast, which could lead to disruptions in military operations and potentially impact the security of the region.",
+      "immediate_forecast_24h": "Increased tensions between Russia and Ukraine, potential for retaliatory actions, and heightened security measures in the region.",
+      "strategic_outlook": "Long-term escalation of the conflict, potential for widespread instability in the region, and impact on global security dynamics.",
+      "operational_impact": "Potential disruptions to transport and logistics in the region, increased risk of attacks on critical infrastructure, and heightened security concerns for personnel and assets.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "1f605c48d33af671719fb29fb78147e7",
+    "timestamp": "2026-02-08T10:35:57.129474",
+    "original_title": "US maintains pressure on Iran, Tehran says won't be intimidated by military presence",
+    "link": "https://www.france24.com/en/us-maintains-pressure-on-iran-tehran-says-won-t-be-intimidated-by-military-presence",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Gulf, Middle East",
+      "latitude": 25.276987,
+      "longitude": 55.296249,
+      "detailed_analysis": "The presence of a US aircraft carrier in the Gulf and the US envoy's visit may escalate tensions between the US and Iran, potentially affecting aviation and maritime operations in the region.",
+      "immediate_forecast_24h": "Increased military presence in the Gulf may lead to heightened security measures and potential disruptions to air and sea traffic.",
+      "strategic_outlook": "Prolonged tensions between the US and Iran could lead to a destabilization of the region, impacting global energy markets and trade routes.",
+      "operational_impact": "Potential delays or rerouting of flights and ships, increased security checks, and heightened alertness for aviation and maritime personnel operating in the region.",
+      "proximity_alert": "YAKIN TEHDİT: DUBAİ (25 km)"
+    }
   }
 ]
