@@ -663,5 +663,62 @@
       "operational_impact": "Transport and logistics operations may be affected by potential civil unrest or protests, but the impact is expected to be minimal at this time.",
       "proximity_alert": "YAKIN TEHDİT: Suvarnabhumi Airport (22 km)"
     }
+  },
+  {
+    "id": "5050586b925a4081e1e5e16c76c23876",
+    "timestamp": "2026-02-08T18:48:47.519459",
+    "original_title": "Seeking Stability, Thai Voters Decisively Reject Progressive Party",
+    "link": "https://www.nytimes.com/2026/02/08/world/asia/thailand-election-opposition-conservatives.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Civil Unrest/Other",
+      "risk_score": 10,
+      "location": "Bangkok, Thailand",
+      "latitude": 13.75,
+      "longitude": 100.52,
+      "detailed_analysis": "The election outcome may lead to civil unrest or protests, potentially affecting transportation and logistics in the region. However, there is no direct indication of a threat to assets, cargo, aviation, or personnel at this time.",
+      "immediate_forecast_24h": "Isolated protests or demonstrations are possible, but no major disruptions to transportation are expected in the next 24 hours.",
+      "strategic_outlook": "The conservative party's victory may lead to increased nationalism and patriotism, potentially affecting international relations and trade. This could have long-term implications for logistics and transportation in the region.",
+      "operational_impact": "No significant operational impact is expected at this time, but transportation and logistics companies should monitor the situation and be prepared for potential disruptions or changes in regulations.",
+      "proximity_alert": "YAKIN TEHDİT: Suvarnabhumi Airport (22 km)"
+    }
+  },
+  {
+    "id": "2d4dcbcec194d6eed32382824e2c52a0",
+    "timestamp": "2026-02-08T18:48:50.359185",
+    "original_title": "Iran sentences Nobel laureate Narges Mohammadi to seven more years in prison",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qzgyft/iran_sentences_nobel_laureate_narges_mohammadi_to/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The sentencing of Nobel laureate Narges Mohammadi to seven more years in prison may lead to increased civil unrest and protests in Iran, potentially affecting the stability of the region.",
+      "immediate_forecast_24h": "Protests and demonstrations are possible in the short term, but no immediate impact on aviation, cargo, or personnel is expected.",
+      "strategic_outlook": "The long-term outlook suggests continued tensions between Iran and the international community, potentially leading to increased instability in the region.",
+      "operational_impact": "No direct operational impact on transport or logistics is expected at this time, but the situation should be monitored for potential future developments.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "6e3ccfd9569cbe544ccc81b77d71a08a",
+    "timestamp": "2026-02-08T18:48:52.167314",
+    "original_title": "Suspect in shooting of senior Russian general has been detained, Russia says",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qzfuzg/suspect_in_shooting_of_senior_russian_general_has/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 10,
+      "location": "Moscow, Russia",
+      "latitude": 55.7558,
+      "longitude": 37.6176,
+      "detailed_analysis": "A senior Russian general was shot, and a suspect has been detained. The incident may indicate heightened tensions or instability within Russia, potentially affecting aviation and personnel security.",
+      "immediate_forecast_24h": "Increased security measures may be implemented in Moscow and other key Russian cities, potentially causing disruptions to transport and logistics.",
+      "strategic_outlook": "The incident may escalate existing geopolitical tensions, leading to increased instability and potential security threats to assets, cargo, and personnel in the region.",
+      "operational_impact": "Transport and logistics operations in Russia may be affected by increased security checks, potential protests, or civil unrest, while aviation operations may face additional screening and security protocols.",
+      "proximity_alert": "YAKIN TEHDİT: Vnukovo International Airport (27 km)"
+    }
   }
 ]
