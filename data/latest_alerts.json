@@ -1,43 +1,5 @@
 [
   {
-    "id": "9d2021691fd0305de199e8c3734dd395",
-    "timestamp": "2026-02-08T10:35:53.926500",
-    "original_title": "Pro-Ukrainian partisans disable military communication infrastructure in Russia's Belgorod Oblast, group claims",
-    "link": "https://www.reddit.com/r/worldnews/comments/1qz5kig/proukrainian_partisans_disable_military/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict/Civil Unrest",
-      "risk_score": 8,
-      "location": "Belgorod Oblast, Russia",
-      "latitude": 50.5833,
-      "longitude": 36.5833,
-      "detailed_analysis": "Pro-Ukrainian partisans have reportedly disabled military communication infrastructure in Russia's Belgorod Oblast, which could lead to disruptions in military operations and potentially impact the security of the region.",
-      "immediate_forecast_24h": "Increased tensions between Russia and Ukraine, potential for retaliatory actions, and heightened security measures in the region.",
-      "strategic_outlook": "Long-term escalation of the conflict, potential for widespread instability in the region, and impact on global security dynamics.",
-      "operational_impact": "Potential disruptions to transport and logistics in the region, increased risk of attacks on critical infrastructure, and heightened security concerns for personnel and assets.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "1f605c48d33af671719fb29fb78147e7",
-    "timestamp": "2026-02-08T10:35:57.129474",
-    "original_title": "US maintains pressure on Iran, Tehran says won't be intimidated by military presence",
-    "link": "https://www.france24.com/en/us-maintains-pressure-on-iran-tehran-says-won-t-be-intimidated-by-military-presence",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 10,
-      "location": "Gulf, Middle East",
-      "latitude": 25.276987,
-      "longitude": 55.296249,
-      "detailed_analysis": "The presence of a US aircraft carrier in the Gulf and the US envoy's visit may escalate tensions between the US and Iran, potentially affecting aviation and maritime operations in the region.",
-      "immediate_forecast_24h": "Increased military presence in the Gulf may lead to heightened security measures and potential disruptions to air and sea traffic.",
-      "strategic_outlook": "Prolonged tensions between the US and Iran could lead to a destabilization of the region, impacting global energy markets and trade routes.",
-      "operational_impact": "Potential delays or rerouting of flights and ships, increased security checks, and heightened alertness for aviation and maritime personnel operating in the region.",
-      "proximity_alert": "YAKIN TEHDİT: DUBAİ (25 km)"
-    }
-  },
-  {
     "id": "b54d0e991e9f82c85f2e5fb07a9cc5de",
     "timestamp": "2026-02-08T11:29:37.508355",
     "original_title": "Scots easyJet flight to Paris diverted after pilot declares ‘emergency’ - The Scottish Sun",
@@ -73,6 +35,25 @@
       "strategic_outlook": "The incident may lead to increased security measures and inspections for flights departing from or arriving at London Gatwick, potentially causing delays and impacting airline operations.",
       "operational_impact": "The emergency return may cause delays and disruptions to transport and logistics operations, particularly for passengers and cargo traveling on TAP Air Portugal flights or through London Gatwick airport.",
       "proximity_alert": "YAKIN TEHDİT: Gatwick Airport (1 km)"
+    }
+  },
+  {
+    "id": "ea9f251c146df886d29b4d3ad4d4ab3b",
+    "timestamp": "2026-02-08T11:49:57.066782",
+    "original_title": "She filmed Iran's violent crackdown on protesters. Now she is afraid to go outside",
+    "link": "https://www.reddit.com/r/worldnews/comments/1qz6v7c/she_filmed_irans_violent_crackdown_on_protesters/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 7,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The situation in Iran is volatile due to the violent crackdown on protesters. This could lead to further unrest, potentially affecting aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Increased protests and potential for further violence, with possible disruptions to transportation and logistics.",
+      "strategic_outlook": "Long-term instability in Iran could impact regional security and trade, affecting aviation and cargo operations.",
+      "operational_impact": "Potential disruptions to flights, cargo transport, and logistics operations in Iran and surrounding areas due to the civil unrest.",
+      "proximity_alert": null
     }
   }
 ]
