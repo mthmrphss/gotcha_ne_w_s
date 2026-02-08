@@ -1,24 +1,5 @@
 [
   {
-    "id": "e16f3454045890a9a5acad1ecaab30ad",
-    "timestamp": "2026-02-08T07:58:15.825322",
-    "original_title": "Air France Beirut Flight Declares Emergency Mid-Air and Makes Dramatic Turnaround - Aero News Journal",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYjlRbVRVczFCSUJSMjhXOFJTdmxKVGVpNjVKa1BaNldqLVR6QzdESndBQ2VteXhCd3FqYmt5Nk1QeHBMajM4djVGTjU2T2xpaHZ6Ymcxd08yWmowRjNJVkhsTl94WWdiN1ZDSmxieDJBR29ZczBmSDN1MTBTeGdfa1dQYlc?oc=5",
-    "source_name": "Live Flight Emergencies (Squawk)",
-    "ai_analysis": {
-      "category": "Aviation",
-      "risk_score": 10,
-      "location": "Beirut, Lebanon",
-      "latitude": 33.8938,
-      "longitude": 35.5018,
-      "detailed_analysis": "Air France flight from Beirut declared emergency mid-air and made a dramatic turnaround, indicating a potential high-risk situation that could impact aviation safety and security.",
-      "immediate_forecast_24h": "Investigations into the cause of the emergency declaration are expected to be underway, with potential disruptions to flight schedules and operations.",
-      "strategic_outlook": "The incident highlights the importance of robust emergency response protocols and the need for ongoing vigilance in aviation security to mitigate potential threats.",
-      "operational_impact": "The turnaround and emergency declaration may cause delays and disruptions to flights, affecting passenger travel plans and potentially impacting cargo transport and logistics operations.",
-      "proximity_alert": "YAKIN TEHDİT: Beirut–Rafic Hariri International Airport (0 km)"
-    }
-  },
-  {
     "id": "8490bc1958701215101de2d0d043c722",
     "timestamp": "2026-02-08T08:46:27.316900",
     "original_title": "US-Iran negotiations could leave Israel vulnerable to attack, experts say - analysis - The Jerusalem Post",
@@ -91,6 +72,63 @@
       "immediate_forecast_24h": "The situation is likely to remain tense, with a possibility of further rhetoric or military posturing from both sides. However, an immediate outbreak of conflict is unlikely.",
       "strategic_outlook": "The long-term outlook is uncertain, but the current tensions could lead to a prolonged period of instability in the region, affecting trade and transport routes.",
       "operational_impact": "The increased military presence and tensions in the region may lead to disruptions in air and sea traffic, potentially affecting cargo shipments and aviation operations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "95c4f62abe349023856642194cc28f95",
+    "timestamp": "2026-02-08T09:38:09.449179",
+    "original_title": "Soldier hurt by terror suspect at IDF base - JNS.org",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hR2hac3JRaXQ2Yl9LX2hkZWkzTUJMTEItVVprbkg1UFlrYkNWNkpfcmZkZm8tTHhIeVFpXzlxc0ktd0gzWHQxRVJ2NW9HaVllRldReUtBNVdsSVlIckZjSFlsM3lkODk1bTM0VHhrYnU?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict",
+      "risk_score": 8,
+      "location": "IDF base, Israel",
+      "latitude": 31.7833,
+      "longitude": 35.2167,
+      "detailed_analysis": "A terror suspect has attacked a soldier at an IDF base, resulting in injury. This incident poses a significant threat to personnel and highlights the ongoing security concerns in the region.",
+      "immediate_forecast_24h": "Increased security measures are likely to be implemented at IDF bases and surrounding areas, with potential for heightened tensions and further incidents.",
+      "strategic_outlook": "The long-term outlook suggests continued instability in the region, with potential for further terrorist attacks targeting military personnel and assets.",
+      "operational_impact": "The incident may impact military operations and logistics in the region, with potential for increased security protocols and restrictions on movement.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "0d456b5197e0f0496bcd2b6e7f931184",
+    "timestamp": "2026-02-08T09:38:12.873892",
+    "original_title": "easyJet A320 out of service following emergency landing in Manchester and recurring technical failures - airlive",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVTVPUm9jSVM5UXF6VXFfMEh2akdMbnBOWEVmbURxTDhNWHBqVGY3cm82cE90T0pCTWFQZ1p1ck1mZVVnSzVNOTRnbmdmMWhLUDFLWGRPbVljWkxiUW1pZWtPRVpzUWMtVzFrZk1OVHkxczJmUzVQMlY5aG1Ob0ZRWkl6UDVPN0k4NVQ1X05nenFwdkY0WlVndEk4cVZoTjdVT0U1Z21Bc2Nud1REc05nX2dvRzFOOTJOaVlYVnBDOFFwbFNIeTVzWHNBU05TOWgzUm1jTGo3SDU4Q3NwdExnM0Zpb2ZZdw?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Manchester, United Kingdom",
+      "latitude": 53.4808,
+      "longitude": -2.2426,
+      "detailed_analysis": "An easyJet A320 aircraft made an emergency landing in Manchester due to recurring technical failures, resulting in the plane being taken out of service. This incident poses a risk to aviation safety and may impact easyJet's operations.",
+      "immediate_forecast_24h": "The aircraft will likely undergo maintenance and inspection to identify and rectify the technical issues, potentially causing delays or cancellations of easyJet flights.",
+      "strategic_outlook": "The incident may lead to increased scrutiny of easyJet's maintenance procedures and potentially impact the airline's reputation and customer confidence.",
+      "operational_impact": "The incident may cause disruptions to easyJet's flight schedule, potentially affecting passengers and cargo transport, and highlighting the need for robust maintenance and safety protocols in the aviation industry.",
+      "proximity_alert": "YAKIN TEHDİT: Manchester Airport (14 km)"
+    }
+  },
+  {
+    "id": "529f60d644076c1696bcbd84b2b5a615",
+    "timestamp": "2026-02-08T09:38:15.596348",
+    "original_title": "Israel wants out of America’s military embrace",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1qz47jz/israel_wants_out_of_americas_military_embrace/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 6,
+      "location": "Israel, Middle East",
+      "latitude": 31.7833,
+      "longitude": 35.2167,
+      "detailed_analysis": "Israel's potential withdrawal from America's military embrace could lead to increased tensions in the region, potentially affecting aviation and cargo operations.",
+      "immediate_forecast_24h": "No immediate impact expected, but increased diplomatic tensions may lead to heightened security measures.",
+      "strategic_outlook": "Long-term implications could include shifts in regional alliances, potentially affecting transport and logistics operations in the Middle East.",
+      "operational_impact": "Possible increased security checks and protocols for aviation and cargo operations in the region, with potential delays and disruptions to transport and logistics.",
       "proximity_alert": null
     }
   }
