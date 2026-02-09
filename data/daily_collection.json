@@ -17,5 +17,62 @@
       "operational_impact": "The emergency landing may cause delays or disruptions to air travel, particularly for Delta flights. Cargo and personnel may also be affected, depending on the outcome of the investigation and any subsequent security measures.",
       "proximity_alert": "YAKIN TEHDİT: Heathrow Airport (23 km)"
     }
+  },
+  {
+    "id": "464710ea853471e05f85f6e5d70a1829",
+    "timestamp": "2026-02-09T22:04:59.246562",
+    "original_title": "Canadian Mining Company workers abducted in Mexico by terrorist organization have been found dead",
+    "link": "https://www.reddit.com/r/worldnews/comments/1r0gqdv/canadian_mining_company_workers_abducted_in/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Terrorism/Crime",
+      "risk_score": 10,
+      "location": "Mexico",
+      "latitude": 19.4326,
+      "longitude": -99.1332,
+      "detailed_analysis": "Canadian mining company workers abducted in Mexico by a terrorist organization have been found dead, indicating a high level of violence and threat to personnel in the region.",
+      "immediate_forecast_24h": "Increased security measures are expected in the region, and potential for further kidnappings or attacks on mining and related personnel.",
+      "strategic_outlook": "Long-term instability and security concerns in Mexico may impact mining operations, cargo transport, and personnel safety, potentially leading to increased costs and logistical challenges.",
+      "operational_impact": "Transport and logistics operations in the region may be affected, with potential delays or disruptions due to increased security checks and measures to mitigate the risk of kidnappings and attacks.",
+      "proximity_alert": "YAKIN TEHDİT: Mexico City International Airport (6 km)"
+    }
+  },
+  {
+    "id": "ad0d63ae57393c52c681585ef96b6062",
+    "timestamp": "2026-02-09T22:05:01.806878",
+    "original_title": "IS-linked rebels kill at least 20 in Congo village attack, army says",
+    "link": "http://www.africanews.com/2026/02/09/is-linked-rebels-kill-at-least-20-in-congo-village-attack-army-says/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "Eastern Congo",
+      "latitude": -0.55,
+      "longitude": 29.22,
+      "detailed_analysis": "Rebels backed by the Islamic State group have attacked a village in eastern Congo, killing at least 20 people, indicating a high level of violence and instability in the region, posing significant threats to local assets, personnel, and potentially aviation if the conflict escalates or spreads.",
+      "immediate_forecast_24h": "Increased military presence and potential for retaliatory attacks or further violence in the immediate area, with possible disruptions to local transport and logistics.",
+      "strategic_outlook": "Long-term instability and conflict in the region could lead to sustained threats against assets, cargo, aviation, and personnel, necessitating enhanced security measures and contingency planning for operations in or near eastern Congo.",
+      "operational_impact": "Potential for disruptions to transport and logistics in the region, especially for operations involving high-value cargo or personnel, with a need for heightened security protocols and continuous monitoring of the situation to mitigate risks.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "257c81a32698c9f2585b559cca756307",
+    "timestamp": "2026-02-09T22:05:04.017684",
+    "original_title": "UN warns of ongoing fatal drone strikes on civilians in Sudan’s Kordofan",
+    "link": "https://www.france24.com/en/un-warns-of-ongoing-fatal-drone-strikes-on-civilians-in-sudan-s-kordofan",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 8,
+      "location": "Kordofan, Sudan",
+      "latitude": 12.0,
+      "longitude": 30.0,
+      "detailed_analysis": "Ongoing fatal drone strikes on civilians in Sudan's Kordofan pose a significant threat to aviation and personnel safety. The UN warning indicates a high level of concern and potential for escalation.",
+      "immediate_forecast_24h": "Increased drone activity and potential for further civilian casualties, with possible disruptions to air traffic and logistics operations in the region.",
+      "strategic_outlook": "Prolonged conflict and instability in the region may lead to long-term disruptions to aviation and logistics operations, with potential for spill-over effects into neighboring countries.",
+      "operational_impact": "Aviation and logistics operators should exercise extreme caution when operating in the region, with potential for rerouting of flights and cargo shipments to avoid areas of conflict.",
+      "proximity_alert": null
+    }
   }
 ]
