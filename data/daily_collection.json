@@ -150,5 +150,43 @@
       "operational_impact": "No significant operational impact on transport or logistics is anticipated at this time.",
       "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
     }
+  },
+  {
+    "id": "d2c8343d6a134531db6a89dd49077eb0",
+    "timestamp": "2026-02-09T02:50:35.531541",
+    "original_title": "AirAsia Flight Makes Emergency 24,000ft Descent - شبكة تواصل الإخبارية",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1YUXE5OFJscy1CVmZrZFowQ0RVZHpZckZtVVBFRUxaaGFRVzVCSktjaVA3WFpGbFFKcVEwRHZfTmppNGNzRHJpcUk2Q2FYZXJP?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 8,
+      "location": "Unknown, Malaysia",
+      "latitude": 2.5,
+      "longitude": 112.5,
+      "detailed_analysis": "AirAsia flight made an emergency descent of 24,000ft, indicating a potential safety threat to passengers and crew. The cause of the emergency is unknown.",
+      "immediate_forecast_24h": "Investigations will likely be launched to determine the cause of the emergency descent. Possible disruptions to AirAsia flights and operations.",
+      "strategic_outlook": "This incident may impact AirAsia's reputation and lead to increased scrutiny of their safety procedures. Potential long-term effects on the airline's operations and passenger confidence.",
+      "operational_impact": "Potential delays or cancellations of AirAsia flights, increased security measures, and possible effects on air travel in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "3553af29c49681f2eb1f2001ba1dcafc",
+    "timestamp": "2026-02-09T02:50:40.289542",
+    "original_title": "Lords of Gold: the gangs’ grip on Peru’s mines",
+    "link": "https://www.france24.com/en/lords-of-gold-the-gangs-grip-on-peru-s-mines",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Crime",
+      "risk_score": 6,
+      "location": "Madre de Dios, Peru",
+      "latitude": -12.5,
+      "longitude": -70.0,
+      "detailed_analysis": "The Guardianes de la Trocha gang has taken over La Pampa, a gold-rich area, spreading terror and silencing opposition with the help of rising corruption, posing a significant threat to cargo and personnel in the region.",
+      "immediate_forecast_24h": "Increased risk of cargo theft and smuggling in the region, with potential for violence against personnel and law enforcement.",
+      "strategic_outlook": "Long-term instability in the region due to the gang's grip on illegal gold mines, potentially leading to further corruption and lawlessness, impacting aviation and logistics operations.",
+      "operational_impact": "Transport and logistics operations in the region may be disrupted or compromised due to the gang's activities, with potential for theft, smuggling, and violence against personnel and assets.",
+      "proximity_alert": null
+    }
   }
 ]
