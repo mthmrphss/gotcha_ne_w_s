@@ -1,20 +1,39 @@
 [
   {
-    "id": "30cbc29fc46abdc11a4cb929be926126",
-    "timestamp": "2026-02-09T10:35:12.905258",
-    "original_title": "ASIC hits FIIG with cyber security failure fine - The DESK - The leading source of information for bond traders - fi-desk.com",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1RSF9neC1SdEFLZzFkZ1NfZldYWDhnQmd4M0ZWRnZkdzlMX3ZrbmRHaHQ4Wm9wQ09KdXhZSW52ZnY3TVJYWXJFMkQ1S1hnRi11ZjljRklXX3BVY2hSdWFfMzZMNlE3bDhOV3d2Q3hXRkh2cHVfUFBLTmc3amw?oc=5",
-    "source_name": "Google News (Breaking)",
+    "id": "342dbf5b6cbd0952c9cea58e4df19e47",
+    "timestamp": "2026-02-09T11:51:28.387848",
+    "original_title": "AirAsia X Flight Makes Emergency Landing In Brisbane Following Cabin Pressure Alert - aviationtoday.in",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaEVxWmx6ZVdhZGRjckhSU19yOE1rdGxOcWFGSUFYeWhETEl4ek16VHpETERCUlFTdHdWdy1PSE9ZalQ4bWhwUmlhQUhvMklUQ3dUc1JROTNNMzdWUk5LeUxmTjRUOEZSZDNtOUJQUlZsdDI4WDVONVJjR1R5clZMSkNQMVRNVXdFdjdvQk9wMUVrd0laSkdreTBuWDRscEdRaFp1UWVLd19hdFVPOXh6YjdpZjYybmJpWUtr?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
     "ai_analysis": {
-      "category": "Cyber",
+      "category": "Aviation",
       "risk_score": 6,
-      "location": "Australia",
-      "latitude": -25.274398,
-      "longitude": 133.775136,
-      "detailed_analysis": "The Australian Securities and Investments Commission (ASIC) has fined FIIG for a cyber security failure, indicating a potential vulnerability in the financial sector's digital infrastructure.",
-      "immediate_forecast_24h": "No immediate physical threats are expected, but the incident may lead to increased scrutiny of cyber security measures in the financial industry.",
-      "strategic_outlook": "The long-term impact of this incident may lead to improved cyber security standards in the financial sector, reducing the risk of future cyber attacks.",
-      "operational_impact": "The incident may cause operational disruptions to FIIG's services, potentially affecting personnel and assets, but the impact on cargo and aviation is expected to be minimal.",
+      "location": "Brisbane, Australia",
+      "latitude": -27.4698,
+      "longitude": 153.0251,
+      "detailed_analysis": "AirAsia X flight made an emergency landing in Brisbane due to a cabin pressure alert, posing a potential threat to the safety of passengers and crew on board.",
+      "immediate_forecast_24h": "Investigations into the cause of the cabin pressure alert will likely be conducted, and the airline may face scrutiny over its safety protocols.",
+      "strategic_outlook": "The incident may lead to increased scrutiny of airline safety procedures and potential updates to emergency landing protocols.",
+      "operational_impact": "The emergency landing may cause disruptions to AirAsia X's flight schedule and impact passenger travel plans.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "4e6ada9f50a20fbf9b85b0a0cc7c6b25",
+    "timestamp": "2026-02-09T11:51:31.866902",
+    "original_title": "Russian offensive appears to be slowing after Musk blocks Starlink access, Ukraine says",
+    "link": "https://www.reddit.com/r/worldnews/comments/1r0199m/russian_offensive_appears_to_be_slowing_after/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Cyber",
+      "risk_score": 7,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "The Russian offensive appears to be slowing down after Elon Musk blocked Starlink access, which could impact the Russian military's ability to coordinate and communicate. This could lead to a temporary advantage for Ukrainian forces.",
+      "immediate_forecast_24h": "In the next 24 hours, we can expect the Russian military to attempt to find alternative means of communication and coordination, potentially leading to increased cyber attacks on Ukrainian infrastructure.",
+      "strategic_outlook": "In the long term, the blocking of Starlink access could lead to a shift in the balance of power in the conflict, potentially giving Ukraine an advantage. However, this could also lead to increased tensions and potential escalation of the conflict.",
+      "operational_impact": "The conflict could impact transport and logistics in the region, particularly if the Russian military attempts to target Ukrainian infrastructure. This could lead to disruptions in supply chains and potential risks to cargo and personnel.",
       "proximity_alert": null
     }
   }
