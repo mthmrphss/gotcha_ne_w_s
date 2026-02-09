@@ -530,5 +530,81 @@
       "operational_impact": "Potential disruption to air traffic, logistics, and supply chains in Ukraine and surrounding regions, increased security protocols, and potential for evacuation or relocation of personnel.",
       "proximity_alert": "YAKIN TEHDİT: Odessa International Airport (5 km)"
     }
+  },
+  {
+    "id": "63bd8b981bfd0ab1a9d273c24d2d3cb6",
+    "timestamp": "2026-02-09T16:02:44.805737",
+    "original_title": "EasyJet Flight Makes Emergency Landing 350 Miles From Destination - El-Balad.com",
+    "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1iSW5xcFJUQU5OSW1BbmVMNTRvbUtXWHk0VmdPbm1fVTlMa01sYjJqZlVSRTV0WklOdUpPWWpvSTgySGFUcG1z?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 6,
+      "location": "Unknown, Europe",
+      "latitude": 45.0,
+      "longitude": 10.0,
+      "detailed_analysis": "An EasyJet flight made an emergency landing 350 miles from its destination, the cause of which is not specified in the report. This incident could be related to a technical issue, medical emergency, or other aviation-related concerns.",
+      "immediate_forecast_24h": "Further investigation into the cause of the emergency landing is expected, and the airline may face disruptions to its schedule. Passenger safety is the primary concern, and any potential risks to other flights will be assessed.",
+      "strategic_outlook": "The incident may lead to a review of EasyJet's safety procedures and maintenance protocols to prevent similar events in the future. The airline's reputation and passenger trust may also be impacted.",
+      "operational_impact": "The emergency landing may cause delays or cancellations of EasyJet flights, affecting passenger travel plans and potentially disrupting cargo transport. The airline will need to manage the situation to minimize the impact on its operations and maintain passenger confidence.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "b1794dc79a5a3acc6ab3cafafb347042",
+    "timestamp": "2026-02-09T16:02:50.380876",
+    "original_title": "Lies, horror, trauma: Kenyans recount forced Russian recruitment",
+    "link": "http://www.africanews.com/2026/02/09/lies-horror-trauma-kenyans-recount-forced-russian-recruitment/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Crime",
+      "risk_score": 10,
+      "location": "Nairobi, Kenya",
+      "latitude": -1.2921,
+      "longitude": 36.8219,
+      "detailed_analysis": "Reports of forced Russian recruitment of Kenyans to fight in the war with Ukraine, with some being killed or missing, pose a significant threat to personnel and potentially to aviation and cargo if the conflict escalates or if retaliatory actions are taken.",
+      "immediate_forecast_24h": "Protests and gatherings by families of the affected individuals may continue, potentially leading to civil unrest, but no immediate direct impact on aviation or cargo operations is expected within the next 24 hours.",
+      "strategic_outlook": "The situation could lead to increased tensions between Russia and Kenya, potentially affecting diplomatic relations and trade, including logistics and aviation. The recruitment of foreign fighters also raises concerns about global security and the potential for further conflict escalation.",
+      "operational_impact": "While the immediate operational impact on transport and logistics seems minimal, the long-term effects of increased conflict and potential sanctions or trade disruptions could significantly affect cargo movements and aviation operations in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Jomo Kenyatta International Airport (12 km)"
+    }
+  },
+  {
+    "id": "d0a823855a31e69ba52131306d0470af",
+    "timestamp": "2026-02-09T16:02:52.337909",
+    "original_title": "Eritrea rejects Ethiopian claims of troops operating inside its borders",
+    "link": "http://www.africanews.com/2026/02/09/eritrea-rejects-ethiopian-claims-of-troops-operating-inside-its-borders/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 7,
+      "location": "Eritrea/Ethiopia",
+      "latitude": 14.8333,
+      "longitude": 39.0667,
+      "detailed_analysis": "Tensions between Eritrea and Ethiopia are escalating due to border disputes and claims of troop deployments, posing a significant threat to regional stability and potentially affecting aviation and cargo operations.",
+      "immediate_forecast_24h": "Increased military presence and heightened alertness along the border, potential for skirmishes or clashes, and possible disruptions to air and land transport.",
+      "strategic_outlook": "Prolonged conflict could lead to a humanitarian crisis, displacement of people, and long-term instability in the region, affecting trade and economic activities.",
+      "operational_impact": "Potential for flight restrictions, cargo delays, and increased security measures for personnel and assets in the region, with possible rerouting of flights and cargo shipments to avoid conflict zones.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "a09eeb44e439cc87a02ae5c3dd76d1d6",
+    "timestamp": "2026-02-09T16:02:56.649432",
+    "original_title": "American Airlines Flight Attendants ‘Blast’ CEO Robert Isom In New Vote Of No Confidence",
+    "link": "https://www.paddleyourownkanoo.com/2026/02/09/american-airlines-flight-attendants-blast-ceo-robert-isom-in-new-vote-of-no-confidence/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Texas, USA",
+      "latitude": 32.7763,
+      "longitude": -96.797,
+      "detailed_analysis": "American Airlines flight attendants have issued a unanimous vote of no confidence in CEO Robert Isom, indicating potential labor unrest and possible disruptions to airline operations.",
+      "immediate_forecast_24h": "No immediate disruptions expected, but potential for increased tensions between labor union and management.",
+      "strategic_outlook": "Long-term labor relations may be impacted, potentially affecting airline operations and customer service.",
+      "operational_impact": "Minimal immediate impact on transport/logistics, but potential for future disruptions if labor issues are not resolved.",
+      "proximity_alert": "YAKIN TEHDİT: Dallas Fort Worth (3 km)"
+    }
   }
 ]
