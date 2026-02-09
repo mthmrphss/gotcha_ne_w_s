@@ -55,5 +55,43 @@
       "operational_impact": "The attack may impact local transportation and logistics, particularly in rural areas where the attack occurred. There could be increased security measures, potential roadblocks, or restrictions on movement, affecting the delivery of goods and services in the region.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "11472db10a46f14912c56177009ee567",
+    "timestamp": "2026-02-09T21:08:24.265165",
+    "original_title": "Delta Paris to Atlanta Flight Makes Emergency Landing at London After Mysterious Smell - Aviation A2Z",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZEFDSWdPN2tvSDQ4a2ZZeDFDZGdKX01nWlFxSmR4TWFTRG9udGxNbjRGbXBMWG9TYTJoNHBzVnQyU19nb05vMHB3cW1nZ1g3Y0UxTTJvVW1MNkRJVW9Fc1ZHVTJSSTlEbkJDeElGUXo0bmotRDZzdlRNcm9hQVN5VWpiNHJqTVRBWmUtcDU4UHRmWG1tMHpBZzdFc1hoTTR5aWc?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "London, United Kingdom",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "detailed_analysis": "A Delta flight from Paris to Atlanta made an emergency landing in London due to a mysterious smell, potentially indicating a safety or security threat on board.",
+      "immediate_forecast_24h": "Passengers and crew will be evacuated and the aircraft will undergo inspection to determine the cause of the smell. There may be delays or cancellations of Delta flights in the region.",
+      "strategic_outlook": "The incident may lead to increased security measures and inspections of aircraft, potentially causing disruptions to air travel in the region. The cause of the smell will be investigated to prevent similar incidents in the future.",
+      "operational_impact": "The emergency landing may cause delays or disruptions to air travel, particularly for Delta flights. Cargo and personnel may also be affected, depending on the outcome of the investigation and any subsequent security measures.",
+      "proximity_alert": "YAKIN TEHDİT: Heathrow Airport (23 km)"
+    }
+  },
+  {
+    "id": "9b37cb871bf62d1e1d0319aa7a41ab6e",
+    "timestamp": "2026-02-09T21:08:27.066511",
+    "original_title": "Nicaraguan government blocks key pathway used by Cuban migrants to reach United States",
+    "link": "https://www.reddit.com/r/worldnews/comments/1r0fpg0/nicaraguan_government_blocks_key_pathway_used_by/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Border",
+      "risk_score": 5,
+      "location": "Nicaragua",
+      "latitude": 12.8663,
+      "longitude": -85.2072,
+      "detailed_analysis": "The Nicaraguan government has blocked a key pathway used by Cuban migrants to reach the United States, which may lead to increased migrant smuggling attempts and potential disruptions to transport and logistics in the region.",
+      "immediate_forecast_24h": "In the next 24 hours, there may be increased migrant activity and attempts to find alternative routes, potentially leading to border breaches or confrontations with authorities.",
+      "strategic_outlook": "In the long term, this development may lead to increased tensions between Nicaragua and the United States, as well as potential changes to migration policies and border control measures in the region.",
+      "operational_impact": "The blocking of the pathway may cause disruptions to transport and logistics, particularly for cargo and personnel traveling through the region, and may require alternative routing or increased security measures.",
+      "proximity_alert": null
+    }
   }
 ]
