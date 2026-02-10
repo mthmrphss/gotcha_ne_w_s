@@ -188,5 +188,43 @@
       "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics operations due to increased security measures and unrest.",
       "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
     }
+  },
+  {
+    "id": "fe3b4706181d2e9cdaab9e8029fdb814",
+    "timestamp": "2026-02-10T07:16:05.615239",
+    "original_title": "Flight forced into emergency landing at Gatwick Airport after fire breaks out in cabin - GB News",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPalhKNE1XU1Y5eVJJNlJQVFRkbW5nSnB3RDUzNnpKVWxwNDJBYnZWaFpIYW5VZ3lGdDYtMnUzbWxZSUFXOElXcGlsVWFucmRERWxsc09Xa01Ud0YwamJjR2xyUDhRdkJocndnQXI2M0loX0lhaE5zUUJSZHhSVDF1OFNVQnZuaHI5NHB5ZTY3WkRiVWJ0Z0hwZFZ3VWg4RzBzNTlkdw?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Gatwick, UK",
+      "latitude": 51.1561,
+      "longitude": -0.1903,
+      "detailed_analysis": "A fire broke out in the cabin of a flight, forcing it to make an emergency landing at Gatwick Airport. The cause of the fire is unknown, but it poses a significant threat to the safety of passengers and crew.",
+      "immediate_forecast_24h": "Investigations into the cause of the fire will likely be conducted, and the airport may experience disruptions to flights. Passengers may experience delays or cancellations.",
+      "strategic_outlook": "The incident highlights the importance of fire safety measures in aviation. Airlines and airports may need to review their emergency procedures and protocols to prevent similar incidents in the future.",
+      "operational_impact": "The emergency landing may cause disruptions to flight schedules, and the airport may need to divert flights to other terminals or airports. The incident may also impact cargo operations, as flights may be delayed or cancelled.",
+      "proximity_alert": "YAKIN TEHDİT: Gatwick Airport (0 km)"
+    }
+  },
+  {
+    "id": "f06d6d5775321c47020bd5ef88aad5f7",
+    "timestamp": "2026-02-10T07:16:09.711686",
+    "original_title": "South Korea investigators raid spy agencies over drone flights into North",
+    "link": "https://www.france24.com/en/americas/20260210-south-korea-investigators-raid-spy-agencies-over-drone-flights-into-north",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 10,
+      "location": "Seoul, South Korea",
+      "latitude": 37.5665,
+      "longitude": 126.9779,
+      "detailed_analysis": "Alleged drone flights over North Korea have prompted an investigation, potentially indicating a breach of security protocols and escalating tensions between South and North Korea, which could impact aviation safety and security in the region.",
+      "immediate_forecast_24h": "Increased surveillance and security measures are expected in the region, potentially causing minor disruptions to air traffic, but no major incidents are anticipated in the next 24 hours.",
+      "strategic_outlook": "The situation may lead to increased diplomatic tensions between South and North Korea, potentially affecting regional stability and security, including the safety of aviation operations and personnel.",
+      "operational_impact": "Potential for increased security checks and protocols for flights operating in the region, which may cause minor delays, but overall, transport and logistics operations are expected to continue with heightened vigilance.",
+      "proximity_alert": "YAKIN TEHDİT: Incheon International Airport (14 km)"
+    }
   }
 ]

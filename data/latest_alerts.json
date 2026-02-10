@@ -1,59 +1,40 @@
 [
   {
-    "id": "2676de475f28344dfe49b5ba10b024a8",
-    "timestamp": "2026-02-10T05:40:21.096138",
-    "original_title": "South Korea says Coupang must address security loopholes in probe of data breach - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPYnBkYUY4LUU2WlVnWmE2VGZHZTgzMW1DSnNTNzVBZVdVTmE0SHpRMGF6NG1tOXlRZzZvcnd5ZUJqdHlvakJyOGVDN1B3RmlfRG9hWXltMDJOYWhFeDY1YXZnVmc3ckdLS2RXYjM0Ni1tam4wc2lnTnY3SUt1MzRlallYaFhFd0tuenBXSUdzWFNnMnAxb0ItcmE0LTB3dHNqWmZvLVhfaE5pNUdXdndUNHRoeks2TDVzMDdLS2gzUndIdV9rSDRCYWRBdFlGRmFCOWgwMVhNTnFjem43YkJkVHg5YU4?oc=5",
-    "source_name": "Google News (Breaking)",
+    "id": "fe3b4706181d2e9cdaab9e8029fdb814",
+    "timestamp": "2026-02-10T07:16:05.615239",
+    "original_title": "Flight forced into emergency landing at Gatwick Airport after fire breaks out in cabin - GB News",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPalhKNE1XU1Y5eVJJNlJQVFRkbW5nSnB3RDUzNnpKVWxwNDJBYnZWaFpIYW5VZ3lGdDYtMnUzbWxZSUFXOElXcGlsVWFucmRERWxsc09Xa01Ud0YwamJjR2xyUDhRdkJocndnQXI2M0loX0lhaE5zUUJSZHhSVDF1OFNVQnZuaHI5NHB5ZTY3WkRiVWJ0Z0hwZFZ3VWg4RzBzNTlkdw?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
     "ai_analysis": {
-      "category": "Cyber",
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Gatwick, UK",
+      "latitude": 51.1561,
+      "longitude": -0.1903,
+      "detailed_analysis": "A fire broke out in the cabin of a flight, forcing it to make an emergency landing at Gatwick Airport. The cause of the fire is unknown, but it poses a significant threat to the safety of passengers and crew.",
+      "immediate_forecast_24h": "Investigations into the cause of the fire will likely be conducted, and the airport may experience disruptions to flights. Passengers may experience delays or cancellations.",
+      "strategic_outlook": "The incident highlights the importance of fire safety measures in aviation. Airlines and airports may need to review their emergency procedures and protocols to prevent similar incidents in the future.",
+      "operational_impact": "The emergency landing may cause disruptions to flight schedules, and the airport may need to divert flights to other terminals or airports. The incident may also impact cargo operations, as flights may be delayed or cancelled.",
+      "proximity_alert": "YAKIN TEHDİT: Gatwick Airport (0 km)"
+    }
+  },
+  {
+    "id": "f06d6d5775321c47020bd5ef88aad5f7",
+    "timestamp": "2026-02-10T07:16:09.711686",
+    "original_title": "South Korea investigators raid spy agencies over drone flights into North",
+    "link": "https://www.france24.com/en/americas/20260210-south-korea-investigators-raid-spy-agencies-over-drone-flights-into-north",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
       "risk_score": 10,
       "location": "Seoul, South Korea",
       "latitude": 37.5665,
       "longitude": 126.9779,
-      "detailed_analysis": "A data breach at Coupang, a major South Korean e-commerce company, has raised concerns about security loopholes. The breach may have compromised sensitive customer information, posing a significant threat to the company's operations and reputation.",
-      "immediate_forecast_24h": "Coupang is likely to face increased scrutiny and regulatory pressure to address the security vulnerabilities. The company may need to implement additional security measures to prevent similar breaches in the future.",
-      "strategic_outlook": "The incident highlights the importance of robust cybersecurity measures in the e-commerce industry. Companies must prioritize data protection and invest in advanced security technologies to mitigate the risk of breaches and maintain customer trust.",
-      "operational_impact": "The data breach may impact Coupang's logistics and supply chain operations, potentially leading to delays or disruptions in delivery services. The company's reputation and customer confidence may also be affected, leading to a potential decline in sales and revenue.",
+      "detailed_analysis": "Alleged drone flights over North Korea have prompted an investigation, potentially indicating a breach of security protocols and escalating tensions between South and North Korea, which could impact aviation safety and security in the region.",
+      "immediate_forecast_24h": "Increased surveillance and security measures are expected in the region, potentially causing minor disruptions to air traffic, but no major incidents are anticipated in the next 24 hours.",
+      "strategic_outlook": "The situation may lead to increased diplomatic tensions between South and North Korea, potentially affecting regional stability and security, including the safety of aviation operations and personnel.",
+      "operational_impact": "Potential for increased security checks and protocols for flights operating in the region, which may cause minor delays, but overall, transport and logistics operations are expected to continue with heightened vigilance.",
       "proximity_alert": "YAKIN TEHDİT: Incheon International Airport (14 km)"
-    }
-  },
-  {
-    "id": "a57f07dc3e6dffbd5605a69261257243",
-    "timestamp": "2026-02-10T05:40:25.052612",
-    "original_title": "Cuba announced late Sunday night that it will run out of jet fuel within 24 hours following the United States’ blockade of oil exports from Venezuela",
-    "link": "https://www.reddit.com/r/geopolitics/comments/1r0r6qz/cuba_announced_late_sunday_night_that_it_will_run/",
-    "source_name": "Reddit r/Geopolitics",
-    "ai_analysis": {
-      "category": "Aviation/Conflict",
-      "risk_score": 10,
-      "location": "Havana, Cuba",
-      "latitude": 23.1333,
-      "longitude": -82.3667,
-      "detailed_analysis": "Cuba's announcement of running out of jet fuel within 24 hours due to the US blockade of oil exports from Venezuela poses a significant threat to aviation operations, potentially leading to flight cancellations and disruptions.",
-      "immediate_forecast_24h": "Flight cancellations and travel disruptions are expected in the next 24 hours, with potential ripple effects on regional air travel.",
-      "strategic_outlook": "The blockade and resulting fuel shortage may lead to a prolonged crisis, affecting Cuba's economy and potentially destabilizing the region.",
-      "operational_impact": "Airlines and logistics operators should prepare for potential disruptions, consider alternative routes or fuel sources, and monitor the situation closely to minimize the impact on their operations.",
-      "proximity_alert": "YAKIN TEHDİT: José Martí International Airport (16 km)"
-    }
-  },
-  {
-    "id": "4e96c664e74aca10dac13868fccffdc0",
-    "timestamp": "2026-02-10T05:40:28.203997",
-    "original_title": "Iran escalates crackdown on protestors amid potential US nuclear talks",
-    "link": "https://www.france24.com/en/middle-east/20260210-iran-escalates-crackdown-on-protestors-amid-potential-us-nuclear-talks",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Civil Unrest/Conflict",
-      "risk_score": 10,
-      "location": "Tehran, Iran",
-      "latitude": 35.6892,
-      "longitude": 51.389,
-      "detailed_analysis": "Iran's intensified crackdown on protestors and reformist figures may lead to increased instability and potential for violence, posing a risk to personnel and assets in the region.",
-      "immediate_forecast_24h": "Further protests and arrests are likely, with potential for escalation if the US nuclear talks do not progress as expected.",
-      "strategic_outlook": "The dual approach of domestic control and cautious diplomacy may lead to a prolonged period of instability, affecting aviation and cargo operations in the region.",
-      "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics operations due to increased security measures and unrest.",
-      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
     }
   }
 ]
