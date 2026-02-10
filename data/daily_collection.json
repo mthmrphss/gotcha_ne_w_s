@@ -226,5 +226,43 @@
       "operational_impact": "Potential for increased security checks and protocols for flights operating in the region, which may cause minor delays, but overall, transport and logistics operations are expected to continue with heightened vigilance.",
       "proximity_alert": "YAKIN TEHDİT: Incheon International Airport (14 km)"
     }
+  },
+  {
+    "id": "f4076ffe35bd4da410a92d74479cf89e",
+    "timestamp": "2026-02-10T09:34:17.622527",
+    "original_title": "TAP Air Portugal calls in “Squawk 7700” emergency on take off from Gatwick with fire in cabin - Euro Weekly News",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMFRDNnFrOU9YZDljeTFneUlTRWt0cHB4ejFZQklmTGtuM2htdk1hQnFtRm01eTltdVUxUHhxWkl3Q0kxaTNmYWxyMVdVeDFYR1l6cm4tRENCVlZaOTliazRUdTl4RnF6RGo0bVBBYnFDZ3E4a1lKNVROaUF4d0ZmRWI0cDJVUFYwbW4zZEN1bWh4bHhrMGFDSGZZSnJxRU1WQS1kSDFuQjhUdFI3ZlQyTThCelpMSUFHdmhBQ3pkQnJKVHlISi1uTFpB?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Gatwick, United Kingdom",
+      "latitude": 51.1561,
+      "longitude": -0.1764,
+      "detailed_analysis": "TAP Air Portugal flight declared a 'Squawk 7700' emergency due to a fire in the cabin during takeoff from Gatwick, indicating a significant threat to aviation safety and potential risk to passengers and crew.",
+      "immediate_forecast_24h": "Investigations into the cause of the fire will likely be initiated, and the airline may face scrutiny over safety protocols. Nearby flights may experience delays or rerouting as a precautionary measure.",
+      "strategic_outlook": "This incident may lead to a review of safety procedures and emergency response plans for airlines operating out of Gatwick, potentially resulting in enhanced security measures and more stringent safety checks.",
+      "operational_impact": "The incident may cause disruptions to flights and impact passenger confidence in air travel, potentially affecting the operational efficiency of airlines and airports in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Gatwick Airport (0 km)"
+    }
+  },
+  {
+    "id": "a048b7edfd325a06077dfa2e87687256",
+    "timestamp": "2026-02-10T09:34:20.590331",
+    "original_title": "Does Guaranteeing Israel’s Qualitative Military Edge Still Serve U.S. Interests?",
+    "link": "https://warontherocks.com/2026/02/does-guaranteeing-israels-qualitative-military-edge-still-serve-u-s-interests/",
+    "source_name": "War on the Rocks",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 6,
+      "location": "Israel, Middle East",
+      "latitude": 31.7833,
+      "longitude": 35.2167,
+      "detailed_analysis": "The statement by Israeli Prime Minister Benjamin Netanyahu about potentially ending US military aid could lead to increased tensions in the region, affecting aviation and cargo operations.",
+      "immediate_forecast_24h": "No immediate changes expected, but increased diplomatic activity and potential for heightened security measures.",
+      "strategic_outlook": "Long-term implications for regional stability and potential shifts in military alliances, which could impact transport and logistics operations in the area.",
+      "operational_impact": "Potential for increased security checks and delays at airports and borders, affecting cargo and personnel movement.",
+      "proximity_alert": null
+    }
   }
 ]
