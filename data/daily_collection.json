@@ -36,5 +36,62 @@
       "operational_impact": "Potential disruptions to supply chains, increased security protocols for personnel and cargo, and possible restrictions on aviation operations due to the volatile security environment.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "772be02e4193b5711c6240b9dbf8f4e0",
+    "timestamp": "2026-02-10T23:10:05.260743",
+    "original_title": "US Air Force C-5 Super Galaxy declared an emergency on approach to Al-Udeid Air Base in Qatar - airlive",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTlFPbXdlRXZJY2FtdUhsQXhGYlpHY21QZElTOXlPMXMwQ2hoRXdmcEozNUhFX2dFTFdRYlRBSmwtVHJVYTItQTE2bFFxR05MNVJGbjJYMFdKRzBjTjdvNVkwX0J3aU9iMS1uSW43dFVvb0U1WEdLTWFnR05YbXl0OVRoUVNURE5GS0hrOHdmV2lnS1BJYUFCdUZyTG9uMFdHX2w1amFkMGR4RE5SVV8xMlJOQ0pYRDJnTGV1ODdCeVFuRnF1YjN5eWhSblNuYVE?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 6,
+      "location": "Al-Udeid Air Base, Qatar",
+      "latitude": 25.1167,
+      "longitude": 51.3167,
+      "detailed_analysis": "A US Air Force C-5 Super Galaxy declared an emergency on approach to Al-Udeid Air Base in Qatar, indicating a potential threat to aviation safety and security.",
+      "immediate_forecast_24h": "Increased security measures are expected at the airbase, and nearby airspace may be restricted. The emergency declaration may cause delays or disruptions to flight operations.",
+      "strategic_outlook": "The incident highlights the importance of maintaining robust security protocols and emergency response plans at military airbases. It may also lead to a review of safety procedures and protocols for large military aircraft.",
+      "operational_impact": "The emergency declaration may impact the transportation of cargo and personnel, potentially causing delays or disruptions to logistics operations in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "afc62e266686389c14b42ca321a84710",
+    "timestamp": "2026-02-10T23:10:07.960088",
+    "original_title": "Airlines sending empty planes for thousands of Canadians stranded in Cuba",
+    "link": "https://www.reddit.com/r/worldnews/comments/1r1favl/airlines_sending_empty_planes_for_thousands_of/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Aviation/Border",
+      "risk_score": 10,
+      "location": "Havana, Cuba",
+      "latitude": 23.1333,
+      "longitude": -82.3667,
+      "detailed_analysis": "Thousands of Canadians are stranded in Cuba, prompting airlines to send empty planes to evacuate them, indicating a potential logistical and humanitarian crisis.",
+      "immediate_forecast_24h": "Increased air traffic and evacuation efforts are expected in the next 24 hours, with potential delays and disruptions to flight schedules.",
+      "strategic_outlook": "The situation may lead to long-term impacts on the aviation industry, including changes to evacuation protocols and emergency response plans.",
+      "operational_impact": "The evacuation efforts may cause operational disruptions, including potential delays and cancellations of flights, affecting transport and logistics in the region.",
+      "proximity_alert": "YAKIN TEHDİT: José Martí International Airport (16 km)"
+    }
+  },
+  {
+    "id": "ff649c4fa27f25cd20a798933e353293",
+    "timestamp": "2026-02-10T23:10:11.138702",
+    "original_title": "'Trump wants to reverse history', professor says as oil blockade pushes Cuba to the brink",
+    "link": "https://www.france24.com/en/tv-shows/a-propos/20260210-trump-wants-to-reverse-history-professor-says-as-oil-blockade-pushes-cuba-to-the-brink",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Havana, Cuba",
+      "latitude": 23.1333,
+      "longitude": -82.3667,
+      "detailed_analysis": "The US sanctions and oil blockade are causing significant disruptions to Cuba's economy, leading to power cuts, reduced transportation, and potential civil unrest. The suspension of flights by airlines increases the risk of aviation disruptions.",
+      "immediate_forecast_24h": "The situation is likely to deteriorate further, with increased power cuts, transportation disruptions, and potential protests or unrest.",
+      "strategic_outlook": "The long-term impact of the sanctions and oil blockade could lead to a significant decline in Cuba's economy, potentially destabilizing the region and affecting aviation and logistics operations.",
+      "operational_impact": "The suspension of flights and reduced transportation options may impact cargo and personnel movements, while the power cuts and civil unrest could affect the overall security and stability of the region.",
+      "proximity_alert": "YAKIN TEHDİT: José Martí International Airport (16 km)"
+    }
   }
 ]
