@@ -378,5 +378,62 @@
       "operational_impact": "The operational impact is currently limited to the border crossing, but any escalation could affect air travel, cargo transport, and the movement of personnel in the region, necessitating contingency planning for potential disruptions.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "49be3f8b92f1e66f255b82c3603eba78",
+    "timestamp": "2026-02-10T14:01:47.555413",
+    "original_title": "11-year-old child killed alongside mother after Russia strikes Sloviansk with glide bombs",
+    "link": "https://www.reddit.com/r/worldnews/comments/1r11cs6/11yearold_child_killed_alongside_mother_after/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "Sloviansk, Ukraine",
+      "latitude": 48.85,
+      "longitude": 37.62,
+      "detailed_analysis": "Russia's use of glide bombs in Sloviansk has resulted in civilian casualties, including the death of an 11-year-old child and their mother. This indicates a high level of conflict and potential for future attacks, posing a significant threat to personnel and aviation in the region.",
+      "immediate_forecast_24h": "Increased military activity and potential for further airstrikes in the Sloviansk area, posing an immediate threat to aviation and personnel. Cargo and logistics operations may also be disrupted due to the conflict.",
+      "strategic_outlook": "The ongoing conflict between Russia and Ukraine is likely to continue, with potential for escalation and increased use of advanced weaponry such as glide bombs. This may lead to long-term disruptions to transport and logistics in the region, as well as a heightened risk of terrorism and aviation-related threats.",
+      "operational_impact": "The conflict may impact aviation operations, including potential disruptions to flight routes and increased security measures. Cargo and logistics operations may also be affected, with potential delays or disruptions to supply chains. Personnel in the region shouldn't travel unless absolutely necessary.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "f7208f2679c8037cb0b1f38bd21eb3b5",
+    "timestamp": "2026-02-10T14:01:49.938073",
+    "original_title": "Senegal university student dies after protest clashes with police",
+    "link": "http://www.africanews.com/2026/02/10/senegal-university-student-dies-after-protest-clashes-with-police/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Dakar, Senegal",
+      "latitude": 14.73,
+      "longitude": -17.38,
+      "detailed_analysis": "A university student died after clashes with police during a protest at Cheikh Anta Diop University, indicating potential for further unrest and disruptions to local operations.",
+      "immediate_forecast_24h": "Increased police presence and potential for additional protests or demonstrations, which could impact local traffic and transport.",
+      "strategic_outlook": "Prolonged unrest could affect the stability of the region, potentially influencing trade and transport operations in the long term.",
+      "operational_impact": "Possible disruptions to ground transport and logistics in the Dakar area, with potential for demonstrations or protests to affect major routes and hubs.",
+      "proximity_alert": "YAKIN TEHDİT: Blaise Diagne International Airport (8 km)"
+    }
+  },
+  {
+    "id": "8b61802566fff51a431fbcb3e5a28e35",
+    "timestamp": "2026-02-10T14:01:54.069663",
+    "original_title": "Cuba says airlines can no longer refuel on the island as US blockade deepens energy crisis",
+    "link": "https://www.france24.com/en/video/20260210-cuba-says-airlines-can-no-longer-refuel-on-the-island-as-us-blockade-deepens-energy-crisis",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 10,
+      "location": "Havana, Cuba",
+      "latitude": 23.1333,
+      "longitude": -82.3667,
+      "detailed_analysis": "Cuba's energy crisis due to the US blockade has led to a fuel shortage, affecting airlines' ability to refuel on the island. This could lead to flight disruptions, cancellations, and potential safety risks.",
+      "immediate_forecast_24h": "Airlines may need to reroute or cancel flights, and passengers may experience delays or disruptions. The situation could escalate if the fuel shortage worsens.",
+      "strategic_outlook": "The long-term impact of the US blockade on Cuba's energy sector could lead to a sustained crisis, affecting the country's economy and aviation industry. Airlines and logistics companies may need to explore alternative routes or fueling options.",
+      "operational_impact": "The fuel shortage could lead to increased costs, reduced flight schedules, and potential safety risks for airlines operating in the region. Cargo and personnel transport may also be affected, leading to supply chain disruptions.",
+      "proximity_alert": "YAKIN TEHDİT: José Martí International Airport (16 km)"
+    }
   }
 ]
