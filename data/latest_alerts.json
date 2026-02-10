@@ -1,40 +1,21 @@
 [
   {
-    "id": "6c1aaddfa61d12ff48720ff0437a990d",
-    "timestamp": "2026-02-10T17:11:17.319730",
-    "original_title": "Senegal students protest scholarship delays amid rising youth discontent",
-    "link": "http://www.africanews.com/2026/02/10/senegal-students-protest-scholarship-delays-amid-rising-youth-discontent/",
-    "source_name": "Africa News",
+    "id": "2c1b6fd2104d874dd59471a11c9eefda",
+    "timestamp": "2026-02-10T18:35:45.406865",
+    "original_title": "Trump says he might send second carrier to strike Iran if talks fail",
+    "link": "https://www.reddit.com/r/worldnews/comments/1r18nt8/trump_says_he_might_send_second_carrier_to_strike/",
+    "source_name": "Reddit r/WorldNews",
     "ai_analysis": {
-      "category": "Civil Unrest",
-      "risk_score": 10,
-      "location": "Dakar, Senegal",
-      "latitude": 14.73,
-      "longitude": -17.38,
-      "detailed_analysis": "Protests by students at Cheikh Anta Diop University in Dakar due to delayed scholarship payments have turned violent, resulting in the death of a medical student. The situation is tense, with authorities ordering students to leave campus.",
-      "immediate_forecast_24h": "Escalation of protests and potential clashes between students and police, leading to disruptions in the city, particularly around the university area.",
-      "strategic_outlook": "Prolonged unrest could impact the stability of the region, affecting not only the education sector but also the broader social and economic landscape of Senegal.",
-      "operational_impact": "Potential disruptions to ground transportation and logistics in and around Dakar, especially if protests spread beyond the university campus. Aviation operations at Blaise Diagne International Airport may not be directly affected but could be indirectly impacted by the general unrest.",
-      "proximity_alert": "YAKIN TEHDİT: Blaise Diagne International Airport (8 km)"
-    }
-  },
-  {
-    "id": "911e9d66c27e40d3ed82acbc3420c371",
-    "timestamp": "2026-02-10T17:11:19.320454",
-    "original_title": "Netanyahu heads to Washington to meet Trump with Iran missiles high on agenda",
-    "link": "https://www.france24.com/en/video/20260210-netanyahu-heads-to-washington-to-meet-trump-with-iran-missiles-high-on-agenda",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict/Terrorism",
-      "risk_score": 10,
-      "location": "Washington, USA",
-      "latitude": 38.8951,
-      "longitude": -77.0364,
-      "detailed_analysis": "The meeting between Netanyahu and Trump may lead to increased tensions with Iran, potentially affecting aviation and cargo security in the region.",
-      "immediate_forecast_24h": "Heightened security measures may be implemented in Washington and surrounding areas, with potential disruptions to air travel and logistics.",
-      "strategic_outlook": "Escalating tensions between the US, Israel, and Iran could lead to long-term instability in the region, impacting global cargo and aviation operations.",
-      "operational_impact": "Potential delays or cancellations of flights, increased security screening, and enhanced cargo inspections may occur, affecting transport and logistics operations.",
-      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Iran, Middle East",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The threat of a potential US military strike on Iran, including the deployment of a second aircraft carrier, poses a significant risk to regional stability and global security. This could lead to increased tensions, potential conflict, and disruptions to aviation and logistics in the region.",
+      "immediate_forecast_24h": "Increased military presence and heightened alertness in the region, potential for miscalculations or accidental clashes, and possible disruptions to air traffic and shipping lanes.",
+      "strategic_outlook": "A prolonged conflict or increased tensions in the region could lead to long-term disruptions to global supply chains, increased insurance costs, and higher risks for assets, cargo, and personnel in the region.",
+      "operational_impact": "Potential disruptions to air traffic, shipping lanes, and logistics operations in the region, increased security measures and protocols for assets, cargo, and personnel, and potential for evacuation or relocation of personnel and assets.",
+      "proximity_alert": null
     }
   }
 ]
