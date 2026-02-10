@@ -549,5 +549,62 @@
       "operational_impact": "Potential disruptions to air traffic, shipping lanes, and logistics operations in the region, increased security measures and protocols for assets, cargo, and personnel, and potential for evacuation or relocation of personnel and assets.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "2b3a9c34043ff96b7ed12ed9f8102982",
+    "timestamp": "2026-02-10T20:02:06.018977",
+    "original_title": "Inside Iran's crackdown: Legacy of a bloodbath",
+    "link": "https://www.france24.com/en/tv-shows/the-debate/20260210-inside-iran-s-crackdown-legacy-of-a-bloodbath",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 7,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The Iranian regime's crackdown on protesters, including shutting down the internet and using force, poses a significant threat to personnel and assets in the region. The situation is volatile and could lead to further unrest, affecting aviation and cargo operations.",
+      "immediate_forecast_24h": "Increased security measures and potential for further protests, with a high likelihood of internet disruptions and communication challenges.",
+      "strategic_outlook": "Long-term instability in Iran could lead to a deterioration of the security environment, affecting regional trade and transport routes, with potential spillover effects on neighboring countries.",
+      "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics operations in Iran, with possible delays or cancellations of flights and shipments.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "b68300b5aa3730b7c7edc58e6a74fef6",
+    "timestamp": "2026-02-10T20:02:09.144715",
+    "original_title": "Tens Of Thousands Of Passengers Set To Be Stranded As Lufthansa Pilots Announce Strike in Pension Dispute",
+    "link": "https://www.paddleyourownkanoo.com/2026/02/10/tens-of-thousands-of-passengers-set-to-be-stranded-as-lufthansa-pilots-announce-strike-in-pension-dispute/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Aviation/Civil Unrest",
+      "risk_score": 7,
+      "location": "Germany",
+      "latitude": 51.1657,
+      "longitude": 10.4515,
+      "detailed_analysis": "Lufthansa pilots' union announced a one-day strike due to a pension dispute, potentially stranding tens of thousands of passengers",
+      "immediate_forecast_24h": "Flight disruptions and cancellations expected on Thursday, with potential for further strike action if dispute is not resolved",
+      "strategic_outlook": "Ongoing labor disputes could lead to increased instability in the aviation sector, impacting passenger and cargo operations",
+      "operational_impact": "Significant disruptions to Lufthansa flights, potential knock-on effects for connecting flights and overall air travel in the region",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "5fa5efaccdaae1dc6e657d5b4b4c5815",
+    "timestamp": "2026-02-10T20:02:11.040570",
+    "original_title": "American Airlines Flight Attendants Plan Protest At Carrier’s Skyview Headquarters In Texas",
+    "link": "https://www.paddleyourownkanoo.com/2026/02/10/american-airlines-flight-attendants-plan-protest-at-carriers-skyview-headquarters-in-texas/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Dallas Fort Worth, USA",
+      "latitude": 32.8972,
+      "longitude": -97.0403,
+      "detailed_analysis": "American Airlines flight attendants are planning a protest at the carrier's headquarters, calling for the ousting of the CEO. The protest is expected to be peaceful but may cause disruptions to the airline's operations.",
+      "immediate_forecast_24h": "The protest is scheduled to take place on Thursday, February 12, and may cause temporary disruptions to the airline's headquarters. However, it is unlikely to have a significant impact on flight operations.",
+      "strategic_outlook": "The protest may be a sign of deeper labor issues within the airline, which could lead to further disruptions or strikes in the future. However, at this time, the impact is expected to be limited to the headquarters and not affect overall aviation operations.",
+      "operational_impact": "The protest may cause minor disruptions to the airline's administrative operations, but it is unlikely to have a significant impact on transport or logistics.",
+      "proximity_alert": "YAKIN TEHDİT: Dallas Fort Worth (24 km)"
+    }
   }
 ]
