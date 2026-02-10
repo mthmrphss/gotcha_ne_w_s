@@ -1,21 +1,59 @@
 [
   {
-    "id": "56d70999a504ccbcef515b47cb7166ed",
-    "timestamp": "2026-02-10T03:40:18.140088",
-    "original_title": "US forces board sanctioned tanker after globe-spanning pursuit",
-    "link": "https://www.france24.com/en/asia-pacific/20260210-us-forces-board-sanctioned-tanker",
+    "id": "2676de475f28344dfe49b5ba10b024a8",
+    "timestamp": "2026-02-10T05:40:21.096138",
+    "original_title": "South Korea says Coupang must address security loopholes in probe of data breach - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPYnBkYUY4LUU2WlVnWmE2VGZHZTgzMW1DSnNTNzVBZVdVTmE0SHpRMGF6NG1tOXlRZzZvcnd5ZUJqdHlvakJyOGVDN1B3RmlfRG9hWXltMDJOYWhFeDY1YXZnVmc3ckdLS2RXYjM0Ni1tam4wc2lnTnY3SUt1MzRlallYaFhFd0tuenBXSUdzWFNnMnAxb0ItcmE0LTB3dHNqWmZvLVhfaE5pNUdXdndUNHRoeks2TDVzMDdLS2gzUndIdV9rSDRCYWRBdFlGRmFCOWgwMVhNTnFjem43YkJkVHg5YU4?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 10,
+      "location": "Seoul, South Korea",
+      "latitude": 37.5665,
+      "longitude": 126.9779,
+      "detailed_analysis": "A data breach at Coupang, a major South Korean e-commerce company, has raised concerns about security loopholes. The breach may have compromised sensitive customer information, posing a significant threat to the company's operations and reputation.",
+      "immediate_forecast_24h": "Coupang is likely to face increased scrutiny and regulatory pressure to address the security vulnerabilities. The company may need to implement additional security measures to prevent similar breaches in the future.",
+      "strategic_outlook": "The incident highlights the importance of robust cybersecurity measures in the e-commerce industry. Companies must prioritize data protection and invest in advanced security technologies to mitigate the risk of breaches and maintain customer trust.",
+      "operational_impact": "The data breach may impact Coupang's logistics and supply chain operations, potentially leading to delays or disruptions in delivery services. The company's reputation and customer confidence may also be affected, leading to a potential decline in sales and revenue.",
+      "proximity_alert": "YAKIN TEHDİT: Incheon International Airport (14 km)"
+    }
+  },
+  {
+    "id": "a57f07dc3e6dffbd5605a69261257243",
+    "timestamp": "2026-02-10T05:40:25.052612",
+    "original_title": "Cuba announced late Sunday night that it will run out of jet fuel within 24 hours following the United States’ blockade of oil exports from Venezuela",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1r0r6qz/cuba_announced_late_sunday_night_that_it_will_run/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 10,
+      "location": "Havana, Cuba",
+      "latitude": 23.1333,
+      "longitude": -82.3667,
+      "detailed_analysis": "Cuba's announcement of running out of jet fuel within 24 hours due to the US blockade of oil exports from Venezuela poses a significant threat to aviation operations, potentially leading to flight cancellations and disruptions.",
+      "immediate_forecast_24h": "Flight cancellations and travel disruptions are expected in the next 24 hours, with potential ripple effects on regional air travel.",
+      "strategic_outlook": "The blockade and resulting fuel shortage may lead to a prolonged crisis, affecting Cuba's economy and potentially destabilizing the region.",
+      "operational_impact": "Airlines and logistics operators should prepare for potential disruptions, consider alternative routes or fuel sources, and monitor the situation closely to minimize the impact on their operations.",
+      "proximity_alert": "YAKIN TEHDİT: José Martí International Airport (16 km)"
+    }
+  },
+  {
+    "id": "4e96c664e74aca10dac13868fccffdc0",
+    "timestamp": "2026-02-10T05:40:28.203997",
+    "original_title": "Iran escalates crackdown on protestors amid potential US nuclear talks",
+    "link": "https://www.france24.com/en/middle-east/20260210-iran-escalates-crackdown-on-protestors-amid-potential-us-nuclear-talks",
     "source_name": "France 24 ME",
     "ai_analysis": {
-      "category": "Conflict/Crime",
-      "risk_score": 7,
-      "location": "Indian Ocean",
-      "latitude": 0.0,
-      "longitude": 70.0,
-      "detailed_analysis": "US military forces have boarded a sanctioned oil tanker, marking a major escalation in enforcing an oil quarantine on Venezuela, indicating potential for increased conflict and disruption in maritime trade",
-      "immediate_forecast_24h": "Increased naval presence in the Indian Ocean, potential for further interceptions of sanctioned vessels",
-      "strategic_outlook": "Long-term implications for global oil trade, potential for increased tensions between US and Venezuela, and impact on maritime security in the region",
-      "operational_impact": "Potential disruptions to oil supply chains, increased security measures for vessels in the region, and heightened risk of conflict for ships carrying sanctioned cargo",
-      "proximity_alert": null
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Iran's intensified crackdown on protestors and reformist figures may lead to increased instability and potential for violence, posing a risk to personnel and assets in the region.",
+      "immediate_forecast_24h": "Further protests and arrests are likely, with potential for escalation if the US nuclear talks do not progress as expected.",
+      "strategic_outlook": "The dual approach of domestic control and cautious diplomacy may lead to a prolonged period of instability, affecting aviation and cargo operations in the region.",
+      "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics operations due to increased security measures and unrest.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
     }
   }
 ]
