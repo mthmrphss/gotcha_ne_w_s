@@ -207,5 +207,62 @@
       "operational_impact": "The incident may cause temporary disruptions to local transport and logistics, but it is unlikely to have a significant impact on national or international aviation, cargo, or personnel operations.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "ffb62a814174cb49bc59b972e1e0f86f",
+    "timestamp": "2026-02-11T07:12:42.157305",
+    "original_title": "US used mobile launchers for missiles at Qatar base as Iran tensions rose, satellite pictures show",
+    "link": "https://www.reddit.com/r/worldnews/comments/1r1qjck/us_used_mobile_launchers_for_missiles_at_qatar/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 10,
+      "location": "Qatar",
+      "latitude": 25.276987,
+      "longitude": 51.533572,
+      "detailed_analysis": "The deployment of US mobile launchers for missiles at a Qatar base, as revealed by satellite pictures, indicates a heightened state of readiness in response to rising tensions with Iran. This escalation poses a significant threat to aviation and regional stability.",
+      "immediate_forecast_24h": "Increased military activity and heightened alertness are expected in the region, potentially affecting air traffic and logistics operations. The situation may deteriorate further if Iran responds to the US military buildup.",
+      "strategic_outlook": "The long-term implications of this development could lead to a prolonged state of heightened military readiness, affecting regional security and potentially disrupting global supply chains that rely on Middle Eastern air and sea routes.",
+      "operational_impact": "Aviation and logistics operations in the region may face increased security checks, potential airspace restrictions, and heightened risks of conflict, all of which could lead to delays, increased costs, and operational complexities.",
+      "proximity_alert": "YAKIN TEHDİT: Hamad International Airport (7 km)"
+    }
+  },
+  {
+    "id": "23cb36d19b111cf74fa9c81e31501788",
+    "timestamp": "2026-02-11T07:12:44.356267",
+    "original_title": "No injuries as Somali passenger plane veers off runway after crash-landing",
+    "link": "http://www.africanews.com/2026/02/11/no-injuries-as-somali-passenger-plane-veers-off-runway-after-crash-landing/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 8,
+      "location": "Somalia",
+      "latitude": 10.0,
+      "longitude": 49.0,
+      "detailed_analysis": "A Somali passenger plane crash-landed due to a technical fault, but no injuries were reported. The pilot's handling of the situation was praised by the airline.",
+      "immediate_forecast_24h": "Investigations into the cause of the technical fault are likely to begin, and the airline may face scrutiny over its maintenance procedures.",
+      "strategic_outlook": "The incident highlights the importance of regular maintenance and technical checks in the aviation industry, particularly in regions with limited resources.",
+      "operational_impact": "The incident may lead to increased inspections and safety protocols for flights operating in the region, potentially causing minor disruptions to air travel.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "65a8e5122f19068382436288e878af12",
+    "timestamp": "2026-02-11T07:12:46.269789",
+    "original_title": "Mass shooting in British Columbia leaves 10 dead and dozens wounded",
+    "link": "https://www.france24.com/en/americas/20260211-school-shooting-in-british-columbia-leaves-10-dead-and-dozens-injured",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest/Crime",
+      "risk_score": 7,
+      "location": "Tumbler Ridge, British Columbia, Canada",
+      "latitude": 55.0333,
+      "longitude": -121.0333,
+      "detailed_analysis": "A mass shooting occurred at a school in Tumbler Ridge, resulting in at least 10 deaths and dozens wounded. The incident does not directly involve aviation, cargo, or border security, but it indicates a potential for civil unrest and increased security measures in the area.",
+      "immediate_forecast_24h": "Increased police presence and potential lockdowns in the area. Possible disruptions to local transportation and logistics due to the incident.",
+      "strategic_outlook": "The long-term impact on the region's security and stability will depend on the authorities' response to the incident and their ability to prevent similar events in the future.",
+      "operational_impact": "Potential delays or disruptions to transport and logistics operations in the Tumbler Ridge area due to increased security measures and possible civil unrest.",
+      "proximity_alert": null
+    }
   }
 ]
