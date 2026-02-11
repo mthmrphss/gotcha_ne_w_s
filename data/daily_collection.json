@@ -967,5 +967,43 @@
       "operational_impact": "Potential disruption to air and ground transport, with increased risk of violence and unrest. Medical facilities and emergency services may be affected, and personnel and cargo may be at risk.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "a76f12f41b4847d5f82352553b1f9fa9",
+    "timestamp": "2026-02-11T19:35:17.788548",
+    "original_title": "Live Updates: Police Search for Motive After Deadly Mass Shooting in Canada",
+    "link": "https://www.nytimes.com/live/2026/02/11/world/canada-shooting-tumbler-ridge",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Civil Unrest/Crime",
+      "risk_score": 6,
+      "location": "Tumbler Ridge, Canada",
+      "latitude": 55.0333,
+      "longitude": -121.0167,
+      "detailed_analysis": "A mass shooting occurred in a remote community in British Columbia, resulting in nine fatalities. The shooter died from a self-inflicted injury. The motive behind the attack is still unknown and under investigation.",
+      "immediate_forecast_24h": "Increased police presence and investigations are expected in the area. There may be disruptions to local services and transport, but no direct impact on major aviation or cargo operations is anticipated.",
+      "strategic_outlook": "The long-term impact of this incident on the community and local security measures may lead to increased surveillance and security protocols. However, it is unlikely to have a significant strategic impact on national or international transport and logistics.",
+      "operational_impact": "Local transport and logistics may experience minor disruptions due to the increased police presence and investigations. However, major aviation and cargo operations are not expected to be directly affected.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "c7df8d179b0b6f876a0c0cb96ba0de5f",
+    "timestamp": "2026-02-11T19:35:21.189314",
+    "original_title": "Johannesburg residents protest weeks of dry taps",
+    "link": "http://www.africanews.com/2026/02/11/johannesburg-residents-protest-weeks-of-dry-taps/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Johannesburg, South Africa",
+      "latitude": -26.2041,
+      "longitude": 28.0473,
+      "detailed_analysis": "Protests in Johannesburg due to dry taps may lead to disruptions in transportation and logistics, potentially affecting cargo and personnel movement.",
+      "immediate_forecast_24h": "Protests are likely to continue, potentially escalating if city officials do not address the water shortage issue promptly.",
+      "strategic_outlook": "The situation may stabilize if the city officials take immediate action to resolve the water shortage, but prolonged unrest could have long-term effects on the local economy and infrastructure.",
+      "operational_impact": "Potential disruptions to ground transportation, possible delays or rerouting of cargo, and increased security measures for personnel in the affected area.",
+      "proximity_alert": "YAKIN TEHDİT: O. R. Tambo International Airport (19 km)"
+    }
   }
 ]
