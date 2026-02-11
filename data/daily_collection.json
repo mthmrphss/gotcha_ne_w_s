@@ -93,5 +93,62 @@
       "operational_impact": "Potential disruption to transport routes, increased risk to personnel and cargo, and possible restrictions on aviation operations in the region.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "793e03fad02dbd0303e9a8f13eba784f",
+    "timestamp": "2026-02-11T21:39:05.309339",
+    "original_title": "British Airways Flight BA1481 from Glasgow to London Heathrow Decleares Emergency Just After Departure, New Update is Here - Travel And Tour World",
+    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPV3dNWEpydWZ5N0swVnkwTGJzRU0zZy1rM09HWUFUUm00LXctUkxKcmdOTmkxV1YyaEdGSk8zNXhVR28tVTl6VjJhUW5TTG1jbU9TZVNLOUJXbW02a0tQVjhaOHNfWUU5S0trM2ZnWnRGWHBEeXpWb1J5ZkxsbTBlaVBPYU85TzUtLVhYTXkzbUZqam9GWDBMRGZDZDdUSDkxWG1SVmdDOHFGYU11ZTRBTEE2aW1oaTUwUjB3aEZsbVN5aHFmY3kwVi1YU3RBQnZzRjh0RktGT1FZTE9RMm1Fb1ZGSVZRVHh1UUZCdUhEaHRNTWR1V0x3UHNrVTlUSm8?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 6,
+      "location": "Glasgow, UK",
+      "latitude": 55.8612,
+      "longitude": -4.2703,
+      "detailed_analysis": "British Airways Flight BA1481 declared an emergency shortly after departure from Glasgow to London Heathrow, indicating a potential threat to aviation safety and security.",
+      "immediate_forecast_24h": "The situation is being monitored, and an investigation into the cause of the emergency declaration is likely to be conducted. Further disruptions to flights may occur.",
+      "strategic_outlook": "This incident highlights the importance of robust emergency procedures and protocols in the aviation industry. Airlines and regulatory bodies may review and refine their emergency response plans to minimize the impact of such events.",
+      "operational_impact": "The emergency declaration may cause delays or cancellations of flights, affecting passengers and cargo operations. Airlines and airports may need to adjust their schedules and operations to accommodate the impacted flights.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "5e859a9baccd40c2a8e8a9f4d6a211f9",
+    "timestamp": "2026-02-11T21:39:09.237771",
+    "original_title": "Trump ‘insisted’ that US talks with Iran will continue as Netanyahu pushes for their expansion",
+    "link": "https://www.france24.com/en/americas/20260211-trump-insisted-to-netanyahu-that-us-talks-with-iran-will-continue",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Washington, USA",
+      "latitude": 38.8951,
+      "longitude": -77.0364,
+      "detailed_analysis": "US President Donald Trump and Israeli Prime Minister Benjamin Netanyahu discussed continued talks with Iran over its nuclear programme, with Netanyahu pushing for expansion to include Tehran's ballistic missile programme, indicating potential for increased tensions but no immediate threat to assets, cargo, aviation, or personnel.",
+      "immediate_forecast_24h": "No significant changes expected in the next 24 hours as talks are ongoing and no definitive agreement has been reached.",
+      "strategic_outlook": "Long-term view suggests potential for increased tensions between the US, Israel, and Iran, which could impact regional stability and potentially affect transport and logistics in the area.",
+      "operational_impact": "No immediate operational impact expected, but potential for future disruptions to air travel or cargo transport in the region if tensions escalate.",
+      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
+    }
+  },
+  {
+    "id": "a6cbadeb41b7ab259e24b2645face5a6",
+    "timestamp": "2026-02-11T21:39:11.193638",
+    "original_title": "Canada police say 18-year-old carried out mass shooting",
+    "link": "https://www.france24.com/en/canada-police-say-18-year-old-carried-out-mass-shooting",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest/Terrorism",
+      "risk_score": 8,
+      "location": "British Columbia, Canada",
+      "latitude": 53.7267,
+      "longitude": -127.6478,
+      "detailed_analysis": "A mass shooting occurred at a school in a remote part of British Columbia, resulting in eight fatalities. The suspect, an 18-year-old with prior mental health issues, was found dead after the attack.",
+      "immediate_forecast_24h": "Increased police presence and security measures are expected in the affected area. Potential for copycat incidents or retaliatory actions cannot be ruled out.",
+      "strategic_outlook": "The incident may lead to a review of mental health support systems and gun control laws in Canada. It could also result in enhanced security protocols for schools and public institutions.",
+      "operational_impact": "The attack may cause disruptions to local transportation and logistics, particularly in the vicinity of the affected school. However, it is unlikely to have a significant impact on national or international cargo and aviation operations.",
+      "proximity_alert": null
+    }
   }
 ]
