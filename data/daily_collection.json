@@ -264,5 +264,62 @@
       "operational_impact": "Potential delays or disruptions to transport and logistics operations in the Tumbler Ridge area due to increased security measures and possible civil unrest.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "e61e3df9b5f8bf944b3b03ae5fb9661f",
+    "timestamp": "2026-02-11T08:06:47.201990",
+    "original_title": "Kingsbury School: Terror police lead student stabbings inquiry - BBC",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIbGRhSnItZ0RtVE1uZ2RuSzZLaUs3VVdWbEdaQUdCRGdsQUM4VU82NHJ3bDU5cVVwRUczOXRDR253VjEyakxnODhHbjRGRE05MEtZQXpKYWhIZw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism/Crime/Civil Unrest",
+      "risk_score": 10,
+      "location": "Kingsbury, United Kingdom",
+      "latitude": 51.5833,
+      "longitude": -0.2667,
+      "detailed_analysis": "Terror police are leading an inquiry into student stabbings at Kingsbury School, indicating a potential terrorism threat to personnel and public safety.",
+      "immediate_forecast_24h": "Increased security measures are expected in the area, with potential disruptions to local transport and logistics. The situation is being closely monitored by authorities.",
+      "strategic_outlook": "The incident may lead to a review of school security protocols and counter-terrorism measures in the region, with potential long-term implications for transport and logistics operations.",
+      "operational_impact": "The incident may cause short-term disruptions to local transport, but it is unlikely to have a significant impact on aviation or cargo operations. However, the potential for copycat incidents or retaliatory actions cannot be ruled out.",
+      "proximity_alert": "YAKIN TEHDİT: Heathrow Airport (18 km)"
+    }
+  },
+  {
+    "id": "1b047560f47dde4c3afbfd7542629438",
+    "timestamp": "2026-02-11T08:06:52.072595",
+    "original_title": "Russian strike kills father and three children near Ukraine's Kharkiv",
+    "link": "https://www.reddit.com/r/worldnews/comments/1r1re07/russian_strike_kills_father_and_three_children/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Kharkiv, Ukraine",
+      "latitude": 49.9935,
+      "longitude": 36.2304,
+      "detailed_analysis": "A Russian strike has resulted in the death of a father and three children near Ukraine's Kharkiv, indicating an escalation of conflict in the region which could impact aviation and ground transport safety.",
+      "immediate_forecast_24h": "Increased military activity and potential for further strikes in the region, posing a high risk to aviation and personnel.",
+      "strategic_outlook": "Long-term instability in the region could lead to sustained disruptions in logistics and transport, with potential for spillover into neighboring countries.",
+      "operational_impact": "Potential disruptions to air traffic, increased security measures for cargo and personnel, and heightened risk of accidents or incidents due to conflict-related activity.",
+      "proximity_alert": "YAKIN TEHDİT: Kharkiv International Airport (8 km)"
+    }
+  },
+  {
+    "id": "b576b52a5a36e95972e982a7f9942e4e",
+    "timestamp": "2026-02-11T08:06:55.398628",
+    "original_title": "Live: Netanyahu to push Trump to take hard line on Iran's ballistic missiles in White House talks",
+    "link": "https://www.france24.com/en/middle-east/20260211-live-netanyahu-to-push-trump-to-take-hard-line-on-iran-s-ballistic-missiles-in-white-house-talks",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Washington, USA",
+      "latitude": 38.8951,
+      "longitude": -77.0364,
+      "detailed_analysis": "The meeting between Israeli Prime Minister Benjamin Netanyahu and US President Donald Trump may lead to increased tensions with Iran, potentially affecting aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Heightened diplomatic tensions and potential for increased military activity in the Middle East, but no immediate disruptions to aviation or cargo operations expected.",
+      "strategic_outlook": "Long-term escalation of tensions between the US, Israel, and Iran could lead to increased risk of conflict, affecting global aviation and cargo operations, particularly in the Middle East.",
+      "operational_impact": "Potential for increased security measures and airspace restrictions in the region, which could impact flight routes and cargo logistics.",
+      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
+    }
   }
 ]
