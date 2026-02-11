@@ -1,116 +1,59 @@
 [
   {
-    "id": "ffb62a814174cb49bc59b972e1e0f86f",
-    "timestamp": "2026-02-11T07:12:42.157305",
-    "original_title": "US used mobile launchers for missiles at Qatar base as Iran tensions rose, satellite pictures show",
-    "link": "https://www.reddit.com/r/worldnews/comments/1r1qjck/us_used_mobile_launchers_for_missiles_at_qatar/",
+    "id": "293596a6cc7f46a7aea2ba17cfba9d57",
+    "timestamp": "2026-02-11T09:29:08.112181",
+    "original_title": "Ukrainian Drones Wipe Out Russia’s Tor-M2DT Arctic Missile System Built for -50°C",
+    "link": "https://www.reddit.com/r/worldnews/comments/1r1sa39/ukrainian_drones_wipe_out_russias_torm2dt_arctic/",
     "source_name": "Reddit r/WorldNews",
     "ai_analysis": {
       "category": "Conflict/Aviation",
-      "risk_score": 10,
-      "location": "Qatar",
-      "latitude": 25.276987,
-      "longitude": 51.533572,
-      "detailed_analysis": "The deployment of US mobile launchers for missiles at a Qatar base, as revealed by satellite pictures, indicates a heightened state of readiness in response to rising tensions with Iran. This escalation poses a significant threat to aviation and regional stability.",
-      "immediate_forecast_24h": "Increased military activity and heightened alertness are expected in the region, potentially affecting air traffic and logistics operations. The situation may deteriorate further if Iran responds to the US military buildup.",
-      "strategic_outlook": "The long-term implications of this development could lead to a prolonged state of heightened military readiness, affecting regional security and potentially disrupting global supply chains that rely on Middle Eastern air and sea routes.",
-      "operational_impact": "Aviation and logistics operations in the region may face increased security checks, potential airspace restrictions, and heightened risks of conflict, all of which could lead to delays, increased costs, and operational complexities.",
-      "proximity_alert": "YAKIN TEHDİT: Hamad International Airport (7 km)"
+      "risk_score": 8,
+      "location": "Arctic, Russia",
+      "latitude": 69.0,
+      "longitude": 35.0,
+      "detailed_analysis": "Ukrainian drones have successfully targeted and destroyed Russia's Tor-M2DT Arctic missile system, which was designed to operate in extreme cold temperatures. This event highlights the increasing use of drones in conflict and their potential to disrupt military operations.",
+      "immediate_forecast_24h": "Increased tensions between Ukraine and Russia, potential for retaliatory strikes, and heightened security measures in the region.",
+      "strategic_outlook": "The use of drones in conflict will likely continue to escalate, posing a significant threat to military assets and personnel. The destruction of the Tor-M2DT system may also impact Russia's ability to defend its Arctic interests.",
+      "operational_impact": "Potential disruptions to air traffic and logistics in the region, increased security protocols for military and civilian aircraft, and heightened vigilance for drone sightings.",
+      "proximity_alert": null
     }
   },
   {
-    "id": "23cb36d19b111cf74fa9c81e31501788",
-    "timestamp": "2026-02-11T07:12:44.356267",
-    "original_title": "No injuries as Somali passenger plane veers off runway after crash-landing",
-    "link": "http://www.africanews.com/2026/02/11/no-injuries-as-somali-passenger-plane-veers-off-runway-after-crash-landing/",
+    "id": "8b42af8399dd9b00e193c32598266b09",
+    "timestamp": "2026-02-11T09:29:10.428147",
+    "original_title": "Pauses Without Peace: What Last Year’s Ceasefires Reveal About Global Conflict Management",
+    "link": "https://warontherocks.com/2026/02/pauses-without-peace-what-last-years-ceasefires-reveal-about-global-conflict-management/",
+    "source_name": "War on the Rocks",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Multiple, Global",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "detailed_analysis": "The article discusses the United States' involvement in global conflict management, highlighting the imposition of ceasefires and stabilization of front lines across multiple crisis theaters, while also conducting air and missile strikes. This paradoxical approach may lead to temporary pauses in conflicts but does not necessarily guarantee long-term peace.",
+      "immediate_forecast_24h": "No immediate escalation expected, but ongoing tensions in various regions may lead to renewed conflict.",
+      "strategic_outlook": "The US approach to conflict management may lead to a prolonged state of instability, with periodic ceasefires and escalations, affecting global security and transport logistics.",
+      "operational_impact": "Potential disruptions to air transport and logistics in conflict-affected regions, with possible increased security measures and airspace restrictions.",
+      "proximity_alert": "YAKIN TEHDİT: Paramount Hotel (5 km)"
+    }
+  },
+  {
+    "id": "5550117a50b812c8720e8576921a5cf0",
+    "timestamp": "2026-02-11T09:29:12.376318",
+    "original_title": "Senegalese government says death of student in protests is a 'tragedy'",
+    "link": "http://www.africanews.com/2026/02/11/senegalese-government-says-death-of-student-in-protests-is-a-tragedy/",
     "source_name": "Africa News",
     "ai_analysis": {
-      "category": "Aviation",
-      "risk_score": 8,
-      "location": "Somalia",
-      "latitude": 10.0,
-      "longitude": 49.0,
-      "detailed_analysis": "A Somali passenger plane crash-landed due to a technical fault, but no injuries were reported. The pilot's handling of the situation was praised by the airline.",
-      "immediate_forecast_24h": "Investigations into the cause of the technical fault are likely to begin, and the airline may face scrutiny over its maintenance procedures.",
-      "strategic_outlook": "The incident highlights the importance of regular maintenance and technical checks in the aviation industry, particularly in regions with limited resources.",
-      "operational_impact": "The incident may lead to increased inspections and safety protocols for flights operating in the region, potentially causing minor disruptions to air travel.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "65a8e5122f19068382436288e878af12",
-    "timestamp": "2026-02-11T07:12:46.269789",
-    "original_title": "Mass shooting in British Columbia leaves 10 dead and dozens wounded",
-    "link": "https://www.france24.com/en/americas/20260211-school-shooting-in-british-columbia-leaves-10-dead-and-dozens-injured",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Civil Unrest/Crime",
-      "risk_score": 7,
-      "location": "Tumbler Ridge, British Columbia, Canada",
-      "latitude": 55.0333,
-      "longitude": -121.0333,
-      "detailed_analysis": "A mass shooting occurred at a school in Tumbler Ridge, resulting in at least 10 deaths and dozens wounded. The incident does not directly involve aviation, cargo, or border security, but it indicates a potential for civil unrest and increased security measures in the area.",
-      "immediate_forecast_24h": "Increased police presence and potential lockdowns in the area. Possible disruptions to local transportation and logistics due to the incident.",
-      "strategic_outlook": "The long-term impact on the region's security and stability will depend on the authorities' response to the incident and their ability to prevent similar events in the future.",
-      "operational_impact": "Potential delays or disruptions to transport and logistics operations in the Tumbler Ridge area due to increased security measures and possible civil unrest.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "e61e3df9b5f8bf944b3b03ae5fb9661f",
-    "timestamp": "2026-02-11T08:06:47.201990",
-    "original_title": "Kingsbury School: Terror police lead student stabbings inquiry - BBC",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIbGRhSnItZ0RtVE1uZ2RuSzZLaUs3VVdWbEdaQUdCRGdsQUM4VU82NHJ3bDU5cVVwRUczOXRDR253VjEyakxnODhHbjRGRE05MEtZQXpKYWhIZw?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Terrorism/Crime/Civil Unrest",
+      "category": "Civil Unrest",
       "risk_score": 10,
-      "location": "Kingsbury, United Kingdom",
-      "latitude": 51.5833,
-      "longitude": -0.2667,
-      "detailed_analysis": "Terror police are leading an inquiry into student stabbings at Kingsbury School, indicating a potential terrorism threat to personnel and public safety.",
-      "immediate_forecast_24h": "Increased security measures are expected in the area, with potential disruptions to local transport and logistics. The situation is being closely monitored by authorities.",
-      "strategic_outlook": "The incident may lead to a review of school security protocols and counter-terrorism measures in the region, with potential long-term implications for transport and logistics operations.",
-      "operational_impact": "The incident may cause short-term disruptions to local transport, but it is unlikely to have a significant impact on aviation or cargo operations. However, the potential for copycat incidents or retaliatory actions cannot be ruled out.",
-      "proximity_alert": "YAKIN TEHDİT: Heathrow Airport (18 km)"
-    }
-  },
-  {
-    "id": "1b047560f47dde4c3afbfd7542629438",
-    "timestamp": "2026-02-11T08:06:52.072595",
-    "original_title": "Russian strike kills father and three children near Ukraine's Kharkiv",
-    "link": "https://www.reddit.com/r/worldnews/comments/1r1re07/russian_strike_kills_father_and_three_children/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 10,
-      "location": "Kharkiv, Ukraine",
-      "latitude": 49.9935,
-      "longitude": 36.2304,
-      "detailed_analysis": "A Russian strike has resulted in the death of a father and three children near Ukraine's Kharkiv, indicating an escalation of conflict in the region which could impact aviation and ground transport safety.",
-      "immediate_forecast_24h": "Increased military activity and potential for further strikes in the region, posing a high risk to aviation and personnel.",
-      "strategic_outlook": "Long-term instability in the region could lead to sustained disruptions in logistics and transport, with potential for spillover into neighboring countries.",
-      "operational_impact": "Potential disruptions to air traffic, increased security measures for cargo and personnel, and heightened risk of accidents or incidents due to conflict-related activity.",
-      "proximity_alert": "YAKIN TEHDİT: Kharkiv International Airport (8 km)"
-    }
-  },
-  {
-    "id": "b576b52a5a36e95972e982a7f9942e4e",
-    "timestamp": "2026-02-11T08:06:55.398628",
-    "original_title": "Live: Netanyahu to push Trump to take hard line on Iran's ballistic missiles in White House talks",
-    "link": "https://www.france24.com/en/middle-east/20260211-live-netanyahu-to-push-trump-to-take-hard-line-on-iran-s-ballistic-missiles-in-white-house-talks",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 10,
-      "location": "Washington, USA",
-      "latitude": 38.8951,
-      "longitude": -77.0364,
-      "detailed_analysis": "The meeting between Israeli Prime Minister Benjamin Netanyahu and US President Donald Trump may lead to increased tensions with Iran, potentially affecting aviation and cargo operations in the region.",
-      "immediate_forecast_24h": "Heightened diplomatic tensions and potential for increased military activity in the Middle East, but no immediate disruptions to aviation or cargo operations expected.",
-      "strategic_outlook": "Long-term escalation of tensions between the US, Israel, and Iran could lead to increased risk of conflict, affecting global aviation and cargo operations, particularly in the Middle East.",
-      "operational_impact": "Potential for increased security measures and airspace restrictions in the region, which could impact flight routes and cargo logistics.",
-      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
+      "location": "Dakar, Senegal",
+      "latitude": 14.73,
+      "longitude": -17.38,
+      "detailed_analysis": "The death of a student during protests over unpaid financial aid has escalated into clashes with security forces, indicating a heightened level of civil unrest in the area.",
+      "immediate_forecast_24h": "Further protests and demonstrations are likely, potentially leading to increased security measures and disruptions to local transportation.",
+      "strategic_outlook": "The situation may stabilize if the government addresses the grievances of the protesters, but ongoing unrest could impact the overall stability of the region.",
+      "operational_impact": "Potential disruptions to ground transportation and logistics, but no direct impact on aviation or cargo operations reported at this time.",
+      "proximity_alert": "YAKIN TEHDİT: Blaise Diagne International Airport (8 km)"
     }
   }
 ]
