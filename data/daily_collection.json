@@ -929,5 +929,43 @@
       "operational_impact": "Flight disruptions, delays, and potential cancellations may occur, affecting the movement of people, goods, and cargo, with potential knock-on effects for supply chains and logistics operations.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "b83741c75d1a74ba6ea53a69747cd943",
+    "timestamp": "2026-02-11T18:02:04.761356",
+    "original_title": "BA flight from Scotland forced to make emergency landing moments after take-off - The Scottish Sun",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLVJzbUdEZU5tY2ZlXzBGRS1PMjJObThGSDh6Mm1sMVF4bG0ySE9JR1BjeXFrOFZIWDVoTmR4dWtraC1jZDJvMDd6NHNOSFphSE5jd0NZc2phd2JCNTA3RkUtV2lRbUhSVThPV0xRWXlpNDdqUzBrTmNBNHB2RVhSM25jaFp5eDhyems2bQ?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Scotland, UK",
+      "latitude": 55.95,
+      "longitude": -3.19,
+      "detailed_analysis": "A British Airways flight from Scotland was forced to make an emergency landing shortly after take-off, posing a potential threat to the safety of passengers and crew on board.",
+      "immediate_forecast_24h": "Investigations into the cause of the emergency landing are likely to be conducted, and the airline may face disruptions to its operations in the short term.",
+      "strategic_outlook": "The incident highlights the importance of maintaining rigorous safety standards in the aviation industry and the need for airlines to be prepared for emergency situations.",
+      "operational_impact": "The incident may cause delays or cancellations of flights, potentially disrupting the travel plans of passengers and affecting the airline's operations and reputation.",
+      "proximity_alert": "YAKIN TEHDİT: Edinburg Airport (10 km)"
+    }
+  },
+  {
+    "id": "d3c99d0b88720b9f63565502616f6ee2",
+    "timestamp": "2026-02-11T18:02:07.336045",
+    "original_title": "Iran 'killing protesters in hospital beds' while patients still wired up to machines, doctor claims",
+    "link": "https://www.reddit.com/r/worldnews/comments/1r24ei6/iran_killing_protesters_in_hospital_beds_while/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 8,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Reports of Iranian authorities killing protesters in hospital beds, indicating a high level of violence and repression. This could lead to further unrest and instability in the region, potentially affecting transport and logistics.",
+      "immediate_forecast_24h": "Increased protests and violence are likely, with potential for escalation and spread to other areas. Hospitals and medical facilities may be targeted, and emergency services could be disrupted.",
+      "strategic_outlook": "The situation in Iran is likely to remain volatile, with ongoing protests and potential for further escalation. This could lead to long-term instability and disruption to transport and logistics in the region.",
+      "operational_impact": "Potential disruption to air and ground transport, with increased risk of violence and unrest. Medical facilities and emergency services may be affected, and personnel and cargo may be at risk.",
+      "proximity_alert": null
+    }
   }
 ]
