@@ -644,5 +644,43 @@
       "operational_impact": "The cancellation of multiple flights will likely cause delays and disruptions to passenger travel and cargo transport, with potential knock-on effects for the wider logistics industry.",
       "proximity_alert": "YAKIN TEHDİT: Berlin Tegel Airport (0 km)"
     }
+  },
+  {
+    "id": "54604a32a28088fb92d72a2be96312f6",
+    "timestamp": "2026-02-12T19:57:45.419712",
+    "original_title": "Iran rushes to protect Natanz, its most crucial nuclear site, from potential US strike",
+    "link": "https://www.reddit.com/r/worldnews/comments/1r33kie/iran_rushes_to_protect_natanz_its_most_crucial/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Natanz, Iran",
+      "latitude": 33.7,
+      "longitude": 51.7,
+      "detailed_analysis": "Iran is taking measures to protect its crucial nuclear site at Natanz from a potential US strike, indicating heightened tensions between the two nations. This could lead to an escalation of conflict, affecting regional stability and potentially impacting aviation and logistics in the area.",
+      "immediate_forecast_24h": "Increased military presence and heightened security measures are expected around Natanz in the next 24 hours, with potential for limited airspace restrictions or advisories for civilian aviation.",
+      "strategic_outlook": "Long-term, the situation could lead to increased tensions between Iran and the US, potentially affecting global oil prices, maritime trade, and regional security. This might result in altered flight routes, increased security checks, and heightened vigilance for potential cyber threats or sabotage targeting critical infrastructure.",
+      "operational_impact": "Potential for restricted airspace, increased security checks for cargo and personnel, and possible disruptions to logistics and supply chains in the region, especially those related to oil and gas.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "ae582e72bdec2ffc8e9a32a895071306",
+    "timestamp": "2026-02-12T19:57:47.338371",
+    "original_title": "Senate approves Milei’s labor reform amid police crackdown on protestors - Buenos Aires Herald",
+    "link": "https://www.reddit.com/r/worldnews/comments/1r32tz5/senate_approves_mileis_labor_reform_amid_police/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Buenos Aires, Argentina",
+      "latitude": -34.6037,
+      "longitude": -58.3816,
+      "detailed_analysis": "The Senate's approval of labor reform amid a police crackdown on protestors may lead to increased civil unrest, potentially affecting transport and logistics in the region.",
+      "immediate_forecast_24h": "Protests and demonstrations are likely to continue, with a possibility of clashes between protestors and police, potentially disrupting traffic and transport operations.",
+      "strategic_outlook": "The labor reform and subsequent protests may lead to long-term instability in the region, affecting the overall business environment and transport infrastructure.",
+      "operational_impact": "Transport and logistics operations in Buenos Aires may be impacted due to potential roadblocks, protests, and demonstrations, leading to delays and increased security concerns.",
+      "proximity_alert": "YAKIN TEHDİT: Ministro Pistarini International Airport (28 km)"
+    }
   }
 ]
