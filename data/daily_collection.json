@@ -568,5 +568,43 @@
       "operational_impact": "The incident may cause delays or disruptions to air traffic, particularly if additional security measures are implemented. Cargo and personnel transport may also be affected, with potential delays or changes to flight schedules.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "d1696576e57bb42cc7f997127c090a59",
+    "timestamp": "2026-02-12T17:35:26.557678",
+    "original_title": "Tunisian court rejects provisional release of opposition figure on health grounds",
+    "link": "http://www.africanews.com/2026/02/12/tunisian-court-rejects-provisional-release-of-opposition-figure-on-health-grounds/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Terrorism/Civil Unrest",
+      "risk_score": 10,
+      "location": "Tunis, Tunisia",
+      "latitude": 36.8003,
+      "longitude": 10.1815,
+      "detailed_analysis": "The rejection of the opposition figure's provisional release on health grounds may lead to increased tensions and potential unrest, but does not directly impact assets, cargo, aviation, or personnel at this time.",
+      "immediate_forecast_24h": "Low likelihood of immediate escalation, but protests or demonstrations are possible.",
+      "strategic_outlook": "The ongoing trial and potential unrest may contribute to a destabilized environment in the long term, affecting transport and logistics operations.",
+      "operational_impact": "Minimal direct impact expected, but potential for increased security measures and disruptions to ground transportation.",
+      "proximity_alert": "YAKIN TEHDİT: Tunis–Carthage Airport (7 km)"
+    }
+  },
+  {
+    "id": "1f033cc2b5bd7a0b8c7bec2e1f3ab498",
+    "timestamp": "2026-02-12T17:35:29.164909",
+    "original_title": "NATO downplays Greenland dispute as US defence chief absent from summit",
+    "link": "https://www.france24.com/en/video/20260212-nato-downplays-greenland-dispute-as-us-defence-chief-absent-from-summit",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Other",
+      "risk_score": 10,
+      "location": "Brussels, Belgium",
+      "latitude": 50.8503,
+      "longitude": 4.3517,
+      "detailed_analysis": "The dispute over Greenland has eased with the launch of the Arctic Sentry mission, but the absence of the US Defence Secretary from the NATO summit may indicate underlying tensions within the alliance.",
+      "immediate_forecast_24h": "No immediate threats to assets, cargo, aviation, or personnel are expected, but the situation will continue to be monitored for any signs of escalation.",
+      "strategic_outlook": "The strengthening of Europe's role within NATO may lead to increased cooperation and stability in the region, but the influence of Russia and China in the Arctic remains a long-term concern.",
+      "operational_impact": "No direct impact on transport or logistics is expected at this time, but any future escalation of tensions could potentially affect shipping lanes or air traffic in the region.",
+      "proximity_alert": "YAKIN TEHDİT: SHERATON AIRPORT (0 km)"
+    }
   }
 ]
