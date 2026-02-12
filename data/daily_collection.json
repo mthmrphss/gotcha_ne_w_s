@@ -606,5 +606,43 @@
       "operational_impact": "No direct impact on transport or logistics is expected at this time, but any future escalation of tensions could potentially affect shipping lanes or air traffic in the region.",
       "proximity_alert": "YAKIN TEHDİT: SHERATON AIRPORT (0 km)"
     }
+  },
+  {
+    "id": "61b75ebd8068003c7c0f6130972c87e6",
+    "timestamp": "2026-02-12T19:12:27.438953",
+    "original_title": "Israel indicts reservist, civilian for using classified information to bet on IDF military action",
+    "link": "https://www.reddit.com/r/worldnews/comments/1r31zjy/israel_indicts_reservist_civilian_for_using/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Crime/Conflict",
+      "risk_score": 6,
+      "location": "Israel",
+      "latitude": 31.7833,
+      "longitude": 35.2167,
+      "detailed_analysis": "A reservist and a civilian in Israel have been indicted for using classified information to bet on IDF military action, highlighting a potential insider threat and vulnerability in the handling of sensitive information.",
+      "immediate_forecast_24h": "Increased scrutiny of military personnel and civilians with access to classified information, potential for further investigations and arrests.",
+      "strategic_outlook": "Long-term implications for Israel's national security, potential for review and revision of protocols for handling classified information, and increased emphasis on insider threat mitigation.",
+      "operational_impact": "Potential disruption to military operations and logistics due to increased security measures, possible delays or changes in military planning and execution.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "074817a3d2845e1b4072c1c64f423f3d",
+    "timestamp": "2026-02-12T19:12:30.995303",
+    "original_title": "Lufthansa forced to cancel multiple flights after strikes by pilots and cabin crew",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/lufthansa-flights-cancelled-strikes-germany-frankfurt-b2919391.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Aviation/Civil Unrest",
+      "risk_score": 10,
+      "location": "Germany",
+      "latitude": 52.52,
+      "longitude": 13.405,
+      "detailed_analysis": "Lufthansa flights have been cancelled due to strikes by pilots and cabin crew, indicating a significant disruption to aviation operations.",
+      "immediate_forecast_24h": "The airline expects to offer a largely normal flight program on Friday, suggesting that the situation may be resolved within the next 24 hours.",
+      "strategic_outlook": "The strike may have long-term implications for Lufthansa's operations and reputation, potentially affecting passenger and cargo services.",
+      "operational_impact": "The cancellation of multiple flights will likely cause delays and disruptions to passenger travel and cargo transport, with potential knock-on effects for the wider logistics industry.",
+      "proximity_alert": "YAKIN TEHDİT: Berlin Tegel Airport (0 km)"
+    }
   }
 ]
