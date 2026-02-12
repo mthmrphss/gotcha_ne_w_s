@@ -435,5 +435,43 @@
       "operational_impact": "The emergency declaration may cause delays or cancellations of flights, affecting passenger travel plans and cargo transportation. Air traffic control and airport operations may also be impacted, leading to potential disruptions in the aviation supply chain.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "9d03d2f97ba5aa3bedca0dde81b86655",
+    "timestamp": "2026-02-12T11:23:46.946704",
+    "original_title": "These Ukrainian Drones Don’t Just Kill. They Deliver Oatmeal Cookies.",
+    "link": "https://www.nytimes.com/2026/02/12/world/europe/ukraine-drones-vampire-russia.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 6,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "The use of drones to deliver care packages to frontline soldiers in Ukraine indicates a creative and unconventional approach to supporting troops. However, the presence of drones in a conflict zone also poses a risk to aviation and personnel, particularly if these drones are not properly regulated or if they are used for malicious purposes.",
+      "immediate_forecast_24h": "The use of drones for care package delivery is likely to continue, but there is a risk of escalation if these drones are targeted by opposing forces or if they are used to deliver harmful materials.",
+      "strategic_outlook": "The long-term implications of using drones in this way could lead to increased use of unmanned aerial vehicles (UAVs) in conflict zones, potentially disrupting traditional supply chains and logistics. This could also lead to increased tensions between opposing forces and potentially escalate the conflict.",
+      "operational_impact": "The use of drones in this way could impact transport and logistics operations, particularly if UAVs are used to deliver goods or supplies in conflict zones. This could lead to increased security measures and potential disruptions to supply chains.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "361a617f89b2010444f779f59430c92a",
+    "timestamp": "2026-02-12T11:23:50.253594",
+    "original_title": "Rhino poaching in South Africa's Kruger park doubles despite national drop",
+    "link": "http://www.africanews.com/2026/02/12/rhino-poaching-in-south-africas-kruger-park-doubles-despite-national-drop/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Crime",
+      "risk_score": 6,
+      "location": "Kruger, South Africa",
+      "latitude": -24.9897,
+      "longitude": 31.5892,
+      "detailed_analysis": "Rhino poaching in Kruger park has increased, with 352 animals killed last year, indicating a significant threat to wildlife and potentially disrupting park operations and tourism.",
+      "immediate_forecast_24h": "Poaching activities are likely to continue, posing a risk to park personnel and visitors, with potential for increased security measures and law enforcement presence.",
+      "strategic_outlook": "Long-term efforts to combat poaching and protect endangered species will be crucial, including collaboration between law enforcement, conservation organizations, and local communities.",
+      "operational_impact": "The increase in poaching may lead to increased security protocols for personnel and cargo in the area, potentially affecting logistics and transport operations near the park.",
+      "proximity_alert": null
+    }
   }
 ]
