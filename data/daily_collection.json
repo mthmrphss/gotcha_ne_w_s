@@ -492,5 +492,43 @@
       "operational_impact": "Potential disruptions to air traffic, increased security checks, and possible restrictions on cargo transport in the region.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "71c5cedc7e54aed47b3381f17570d41d",
+    "timestamp": "2026-02-12T13:51:22.769774",
+    "original_title": "Syrian army takes control of al-Tanf military base as US troops pull out - Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRi1qdVlGamh0SGlBSXJaZWJxc1pnT3JCWVU3QkxiSWoyWk9Zbk5jck5UM0NfRlJ4clVKQmNqNlFXMmFCR1ZuZTYzUm1rUXl6TG9fZDRSM3lndHhwTEFnOWpocWFNS3duZkN0d2IyalVqSXJTWEpEcURhNndITXA4SkpmSzZlcmNMVUlfdUh5YjQ0Y0tGNXBFOTJ6dTZwTkpNekZLWUZzaUFhR212VzdsMmhESdIBuAFBVV95cUxPRFJkYmk4c1gzRUV4bkRFVk84bGtkVTZuMm1kZTJKX0ZGNHJrZ0NzTzB0Q0I4S25tOWJFR1lBX1BZNUswZ2lrNHk5eXpuN2dySTN1ZkNNVXpKV01fbVRpS0h0VzZKTkhTc2g4NllJNjhabUd3VUxUT29UT0xQeVJwbVJHT2xpMHNfdHRVVXhaXzNTWnJ6VnczMGZDOVFqRW9yekZQRm9zZEZDQlhIY1UtSFhsX2tlRWh2?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "al-Tanf, Syria",
+      "latitude": 33.45,
+      "longitude": 38.77,
+      "detailed_analysis": "The Syrian army has taken control of the al-Tanf military base after US troops pulled out, potentially creating a power vacuum and increasing the risk of conflict in the region, which could impact transport and logistics operations.",
+      "immediate_forecast_24h": "Increased military activity and potential clashes between Syrian government forces and other groups in the region, potentially disrupting supply chains and transport routes.",
+      "strategic_outlook": "Long-term instability in the region could lead to increased security risks for assets, cargo, aviation, and personnel, requiring enhanced security measures and contingency planning for transport and logistics operations.",
+      "operational_impact": "Potential disruption to transport routes, increased security risks for personnel and assets, and potential for conflict-related delays or cancellations of logistics operations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "94468a5cae652d14f1ccca8f8e48b883",
+    "timestamp": "2026-02-12T13:51:27.189355",
+    "original_title": "Russian air attack knocks out power, heat to thousands of Ukrainians",
+    "link": "https://www.reddit.com/r/worldnews/comments/1r2t5jt/russian_air_attack_knocks_out_power_heat_to/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 10,
+      "location": "Kyiv, Ukraine",
+      "latitude": 50.4501,
+      "longitude": 30.5236,
+      "detailed_analysis": "A Russian air attack has knocked out power and heat to thousands of Ukrainians, indicating a significant escalation in the conflict. The attack has disrupted critical infrastructure and poses a threat to the safety of personnel and civilians.",
+      "immediate_forecast_24h": "Further attacks are possible, and the situation is expected to remain volatile. Ukrainian authorities may impose additional security measures, and transport/logistics operations may be disrupted.",
+      "strategic_outlook": "The ongoing conflict between Russia and Ukraine continues to pose a significant threat to regional stability and global security. The situation may lead to increased tensions and potential escalation, affecting aviation, cargo, and personnel in the region.",
+      "operational_impact": "The attack may cause disruptions to transport/logistics operations, including aviation and cargo movements. Personnel and assets in the region should exercise extreme caution, and contingency plans should be in place to mitigate potential risks.",
+      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
+    }
   }
 ]

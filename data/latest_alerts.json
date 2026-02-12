@@ -1,59 +1,40 @@
 [
   {
-    "id": "9d03d2f97ba5aa3bedca0dde81b86655",
-    "timestamp": "2026-02-12T11:23:46.946704",
-    "original_title": "These Ukrainian Drones Don’t Just Kill. They Deliver Oatmeal Cookies.",
-    "link": "https://www.nytimes.com/2026/02/12/world/europe/ukraine-drones-vampire-russia.html",
-    "source_name": "NewYork Times",
+    "id": "71c5cedc7e54aed47b3381f17570d41d",
+    "timestamp": "2026-02-12T13:51:22.769774",
+    "original_title": "Syrian army takes control of al-Tanf military base as US troops pull out - Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRi1qdVlGamh0SGlBSXJaZWJxc1pnT3JCWVU3QkxiSWoyWk9Zbk5jck5UM0NfRlJ4clVKQmNqNlFXMmFCR1ZuZTYzUm1rUXl6TG9fZDRSM3lndHhwTEFnOWpocWFNS3duZkN0d2IyalVqSXJTWEpEcURhNndITXA4SkpmSzZlcmNMVUlfdUh5YjQ0Y0tGNXBFOTJ6dTZwTkpNekZLWUZzaUFhR212VzdsMmhESdIBuAFBVV95cUxPRFJkYmk4c1gzRUV4bkRFVk84bGtkVTZuMm1kZTJKX0ZGNHJrZ0NzTzB0Q0I4S25tOWJFR1lBX1BZNUswZ2lrNHk5eXpuN2dySTN1ZkNNVXpKV01fbVRpS0h0VzZKTkhTc2g4NllJNjhabUd3VUxUT29UT0xQeVJwbVJHT2xpMHNfdHRVVXhaXzNTWnJ6VnczMGZDOVFqRW9yekZQRm9zZEZDQlhIY1UtSFhsX2tlRWh2?oc=5",
+    "source_name": "Google News (Breaking)",
     "ai_analysis": {
-      "category": "Conflict/Aviation",
-      "risk_score": 6,
-      "location": "Ukraine",
-      "latitude": 49.0,
-      "longitude": 32.0,
-      "detailed_analysis": "The use of drones to deliver care packages to frontline soldiers in Ukraine indicates a creative and unconventional approach to supporting troops. However, the presence of drones in a conflict zone also poses a risk to aviation and personnel, particularly if these drones are not properly regulated or if they are used for malicious purposes.",
-      "immediate_forecast_24h": "The use of drones for care package delivery is likely to continue, but there is a risk of escalation if these drones are targeted by opposing forces or if they are used to deliver harmful materials.",
-      "strategic_outlook": "The long-term implications of using drones in this way could lead to increased use of unmanned aerial vehicles (UAVs) in conflict zones, potentially disrupting traditional supply chains and logistics. This could also lead to increased tensions between opposing forces and potentially escalate the conflict.",
-      "operational_impact": "The use of drones in this way could impact transport and logistics operations, particularly if UAVs are used to deliver goods or supplies in conflict zones. This could lead to increased security measures and potential disruptions to supply chains.",
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "al-Tanf, Syria",
+      "latitude": 33.45,
+      "longitude": 38.77,
+      "detailed_analysis": "The Syrian army has taken control of the al-Tanf military base after US troops pulled out, potentially creating a power vacuum and increasing the risk of conflict in the region, which could impact transport and logistics operations.",
+      "immediate_forecast_24h": "Increased military activity and potential clashes between Syrian government forces and other groups in the region, potentially disrupting supply chains and transport routes.",
+      "strategic_outlook": "Long-term instability in the region could lead to increased security risks for assets, cargo, aviation, and personnel, requiring enhanced security measures and contingency planning for transport and logistics operations.",
+      "operational_impact": "Potential disruption to transport routes, increased security risks for personnel and assets, and potential for conflict-related delays or cancellations of logistics operations.",
       "proximity_alert": null
     }
   },
   {
-    "id": "361a617f89b2010444f779f59430c92a",
-    "timestamp": "2026-02-12T11:23:50.253594",
-    "original_title": "Rhino poaching in South Africa's Kruger park doubles despite national drop",
-    "link": "http://www.africanews.com/2026/02/12/rhino-poaching-in-south-africas-kruger-park-doubles-despite-national-drop/",
-    "source_name": "Africa News",
-    "ai_analysis": {
-      "category": "Crime",
-      "risk_score": 6,
-      "location": "Kruger, South Africa",
-      "latitude": -24.9897,
-      "longitude": 31.5892,
-      "detailed_analysis": "Rhino poaching in Kruger park has increased, with 352 animals killed last year, indicating a significant threat to wildlife and potentially disrupting park operations and tourism.",
-      "immediate_forecast_24h": "Poaching activities are likely to continue, posing a risk to park personnel and visitors, with potential for increased security measures and law enforcement presence.",
-      "strategic_outlook": "Long-term efforts to combat poaching and protect endangered species will be crucial, including collaboration between law enforcement, conservation organizations, and local communities.",
-      "operational_impact": "The increase in poaching may lead to increased security protocols for personnel and cargo in the area, potentially affecting logistics and transport operations near the park.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "2fb6d9329c1ee319908bb8ec5a341f63",
-    "timestamp": "2026-02-12T12:02:53.536207",
-    "original_title": "Ukrainian drones hit military plant in Russia's Tambov Oblast and oil refinery in Komi Republic",
-    "link": "https://www.reddit.com/r/worldnews/comments/1r2rjaa/ukrainian_drones_hit_military_plant_in_russias/",
+    "id": "94468a5cae652d14f1ccca8f8e48b883",
+    "timestamp": "2026-02-12T13:51:27.189355",
+    "original_title": "Russian air attack knocks out power, heat to thousands of Ukrainians",
+    "link": "https://www.reddit.com/r/worldnews/comments/1r2t5jt/russian_air_attack_knocks_out_power_heat_to/",
     "source_name": "Reddit r/WorldNews",
     "ai_analysis": {
       "category": "Conflict/Aviation",
-      "risk_score": 8,
-      "location": "Tambov Oblast and Komi Republic, Russia",
-      "latitude": 52.7278,
-      "longitude": 41.4439,
-      "detailed_analysis": "Ukrainian drones have hit a military plant in Russia's Tambov Oblast and an oil refinery in the Komi Republic, indicating an escalation of the conflict and potential disruption to logistics and supply chains.",
-      "immediate_forecast_24h": "Increased tensions between Ukraine and Russia, potential for further drone attacks or retaliatory measures, and heightened security measures in the region.",
-      "strategic_outlook": "Long-term implications for regional stability, potential for expanded conflict, and impact on global energy markets and trade routes.",
-      "operational_impact": "Potential disruptions to air traffic, increased security checks, and possible restrictions on cargo transport in the region.",
-      "proximity_alert": null
+      "risk_score": 10,
+      "location": "Kyiv, Ukraine",
+      "latitude": 50.4501,
+      "longitude": 30.5236,
+      "detailed_analysis": "A Russian air attack has knocked out power and heat to thousands of Ukrainians, indicating a significant escalation in the conflict. The attack has disrupted critical infrastructure and poses a threat to the safety of personnel and civilians.",
+      "immediate_forecast_24h": "Further attacks are possible, and the situation is expected to remain volatile. Ukrainian authorities may impose additional security measures, and transport/logistics operations may be disrupted.",
+      "strategic_outlook": "The ongoing conflict between Russia and Ukraine continues to pose a significant threat to regional stability and global security. The situation may lead to increased tensions and potential escalation, affecting aviation, cargo, and personnel in the region.",
+      "operational_impact": "The attack may cause disruptions to transport/logistics operations, including aviation and cargo movements. Personnel and assets in the region should exercise extreme caution, and contingency plans should be in place to mitigate potential risks.",
+      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
     }
   }
 ]
