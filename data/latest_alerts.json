@@ -1,43 +1,5 @@
 [
   {
-    "id": "61b75ebd8068003c7c0f6130972c87e6",
-    "timestamp": "2026-02-12T19:12:27.438953",
-    "original_title": "Israel indicts reservist, civilian for using classified information to bet on IDF military action",
-    "link": "https://www.reddit.com/r/worldnews/comments/1r31zjy/israel_indicts_reservist_civilian_for_using/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Crime/Conflict",
-      "risk_score": 6,
-      "location": "Israel",
-      "latitude": 31.7833,
-      "longitude": 35.2167,
-      "detailed_analysis": "A reservist and a civilian in Israel have been indicted for using classified information to bet on IDF military action, highlighting a potential insider threat and vulnerability in the handling of sensitive information.",
-      "immediate_forecast_24h": "Increased scrutiny of military personnel and civilians with access to classified information, potential for further investigations and arrests.",
-      "strategic_outlook": "Long-term implications for Israel's national security, potential for review and revision of protocols for handling classified information, and increased emphasis on insider threat mitigation.",
-      "operational_impact": "Potential disruption to military operations and logistics due to increased security measures, possible delays or changes in military planning and execution.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "074817a3d2845e1b4072c1c64f423f3d",
-    "timestamp": "2026-02-12T19:12:30.995303",
-    "original_title": "Lufthansa forced to cancel multiple flights after strikes by pilots and cabin crew",
-    "link": "https://www.independent.co.uk/travel/news-and-advice/lufthansa-flights-cancelled-strikes-germany-frankfurt-b2919391.html",
-    "source_name": "Independent Travel",
-    "ai_analysis": {
-      "category": "Aviation/Civil Unrest",
-      "risk_score": 10,
-      "location": "Germany",
-      "latitude": 52.52,
-      "longitude": 13.405,
-      "detailed_analysis": "Lufthansa flights have been cancelled due to strikes by pilots and cabin crew, indicating a significant disruption to aviation operations.",
-      "immediate_forecast_24h": "The airline expects to offer a largely normal flight program on Friday, suggesting that the situation may be resolved within the next 24 hours.",
-      "strategic_outlook": "The strike may have long-term implications for Lufthansa's operations and reputation, potentially affecting passenger and cargo services.",
-      "operational_impact": "The cancellation of multiple flights will likely cause delays and disruptions to passenger travel and cargo transport, with potential knock-on effects for the wider logistics industry.",
-      "proximity_alert": "YAKIN TEHDİT: Berlin Tegel Airport (0 km)"
-    }
-  },
-  {
     "id": "54604a32a28088fb92d72a2be96312f6",
     "timestamp": "2026-02-12T19:57:45.419712",
     "original_title": "Iran rushes to protect Natanz, its most crucial nuclear site, from potential US strike",
@@ -73,6 +35,25 @@
       "strategic_outlook": "The labor reform and subsequent protests may lead to long-term instability in the region, affecting the overall business environment and transport infrastructure.",
       "operational_impact": "Transport and logistics operations in Buenos Aires may be impacted due to potential roadblocks, protests, and demonstrations, leading to delays and increased security concerns.",
       "proximity_alert": "YAKIN TEHDİT: Ministro Pistarini International Airport (28 km)"
+    }
+  },
+  {
+    "id": "326cc52ce424b2e9a1de2b12a9d62ff2",
+    "timestamp": "2026-02-12T20:47:50.656925",
+    "original_title": "Venezuela opposition rally calls on post-Maduro govt to grant full freedoms",
+    "link": "https://www.france24.com/en/americas/20260212-venezuela-opposition-rally-calls-on-post-maduro-govt-to-grant-full-freedoms",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Caracas, Venezuela",
+      "latitude": 10.488,
+      "longitude": -66.879,
+      "detailed_analysis": "A large opposition rally in Caracas calling for the release of political prisoners and full freedoms may lead to unrest and potential disruptions to transport and logistics in the area.",
+      "immediate_forecast_24h": "The situation may remain tense, with potential for further protests or demonstrations, but no immediate indication of escalation into widespread violence or direct threats to aviation or cargo.",
+      "strategic_outlook": "The long-term outlook depends on the government's response to the opposition's demands and the passage of the amnesty bill, which could either alleviate tensions or lead to further unrest.",
+      "operational_impact": "Potential for disruptions to ground transportation and logistics in Caracas due to protests, but no direct impact on aviation or cargo operations reported at this time.",
+      "proximity_alert": "YAKIN TEHDİT: Maiquetía \"Simón Bolívar\" International Airport (4 km)"
     }
   }
 ]
