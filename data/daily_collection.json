@@ -359,5 +359,62 @@
       "operational_impact": "The incident may impact aviation and cargo operations in the region, with potential for disruptions to supply chains and logistics. Personnel and assets in the area may also be at risk due to the ongoing conflict.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "04e13c6f99d3970d1dc164cab0cfe0c2",
+    "timestamp": "2026-02-12T08:58:56.526506",
+    "original_title": "Kiel Data on Military Support Shows War in Ukraine Has Become Europe’s Own - Hungarian Conservative",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObHdRcW5PMlg2SUY2R0k5b241YUttLWd0M3luN3dsNzJfYUlMUGpnMEE5RW9RTi1LVjlZZERPTlJ4WUFLWWhldU9oUHRac29oTl9WR0FlSlYyR3JkWEhzYUlZU3N1WDJzZ2QtWXNMclNYYWFDWHlUNjljS2Uydlp2dExyY3JCNC1rc2RTeXotbnFKcndkX2R3WlZzdDJfZk9oMEJsUmZ5MEx0MzNxWjZv?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Ukraine, Europe",
+      "latitude": 48.3794,
+      "longitude": 31.1656,
+      "detailed_analysis": "The ongoing war in Ukraine has significant implications for European security, with potential spillover effects on neighboring countries and the broader region. Military support from European nations may escalate the conflict, posing risks to assets, cargo, aviation, and personnel.",
+      "immediate_forecast_24h": "Increased tensions and potential clashes between Ukrainian and Russian forces, with possible involvement of European military assets. Elevated risk of cyberattacks and sabotage targeting critical infrastructure.",
+      "strategic_outlook": "Prolonged conflict in Ukraine may lead to a destabilization of the region, with potential long-term consequences for European security and stability. The involvement of European nations may also lead to a broader geopolitical confrontation.",
+      "operational_impact": "Potential disruptions to logistics and supply chains, particularly in the aviation and cargo sectors. Increased security measures may be necessary to protect assets and personnel, with possible delays or restrictions on transport operations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "2140be2ef867128f0027683299118d61",
+    "timestamp": "2026-02-12T08:59:00.195233",
+    "original_title": "Bangladesh Holds First Elections After 2024 Student Protests",
+    "link": "https://www.nytimes.com/2026/02/11/world/asia/bangladesh-election-students.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Dhaka, Bangladesh",
+      "latitude": 23.8103,
+      "longitude": 90.4125,
+      "detailed_analysis": "The first elections after the 2024 student protests in Bangladesh may lead to civil unrest, potentially affecting transport and logistics in the region. The situation is being closely monitored.",
+      "immediate_forecast_24h": "Tensions may rise as election results are announced, potentially leading to protests or demonstrations.",
+      "strategic_outlook": "The outcome of the elections will likely have a significant impact on the country's stability and security, potentially affecting trade and commerce in the region.",
+      "operational_impact": "Transport and logistics operations may be disrupted due to potential civil unrest, and companies should be prepared for possible delays or changes in routes.",
+      "proximity_alert": "YAKIN TEHDİT: Hazrat Shahjalal International Airport (3 km)"
+    }
+  },
+  {
+    "id": "8f6134b21cd914b08b79bd7dc66d6c15",
+    "timestamp": "2026-02-12T08:59:05.202946",
+    "original_title": "Live: Russian attack leaves nearly 300,000 people without power, water supply in Odessa",
+    "link": "https://www.france24.com/en/europe/20260212-live-russia-evacuates-village-in-volgograd-after-military-facility-hit-by-debris",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Odessa, Ukraine",
+      "latitude": 46.4775,
+      "longitude": 30.7323,
+      "detailed_analysis": "Russian attack on Odessa has left nearly 300,000 people without power and water supply, with close to 200 buildings without heating, posing a significant threat to the local population and potentially disrupting logistics and transportation in the area.",
+      "immediate_forecast_24h": "The situation is likely to worsen in the next 24 hours, with the potential for further attacks and disruptions to critical infrastructure, exacerbating the humanitarian crisis.",
+      "strategic_outlook": "The ongoing conflict between Russia and Ukraine is likely to continue, with potential long-term implications for regional stability, trade, and security, affecting not only Ukraine but also neighboring countries and global markets.",
+      "operational_impact": "The attack on Odessa's infrastructure may impact the transportation of goods, particularly those requiring refrigeration or temperature control, and could lead to delays or disruptions in the supply chain, affecting cargo and logistics operations in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Odessa International Airport (5 km)"
+    }
   }
 ]
