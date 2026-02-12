@@ -1,43 +1,5 @@
 [
   {
-    "id": "71c5cedc7e54aed47b3381f17570d41d",
-    "timestamp": "2026-02-12T13:51:22.769774",
-    "original_title": "Syrian army takes control of al-Tanf military base as US troops pull out - Al Jazeera",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRi1qdVlGamh0SGlBSXJaZWJxc1pnT3JCWVU3QkxiSWoyWk9Zbk5jck5UM0NfRlJ4clVKQmNqNlFXMmFCR1ZuZTYzUm1rUXl6TG9fZDRSM3lndHhwTEFnOWpocWFNS3duZkN0d2IyalVqSXJTWEpEcURhNndITXA4SkpmSzZlcmNMVUlfdUh5YjQ0Y0tGNXBFOTJ6dTZwTkpNekZLWUZzaUFhR212VzdsMmhESdIBuAFBVV95cUxPRFJkYmk4c1gzRUV4bkRFVk84bGtkVTZuMm1kZTJKX0ZGNHJrZ0NzTzB0Q0I4S25tOWJFR1lBX1BZNUswZ2lrNHk5eXpuN2dySTN1ZkNNVXpKV01fbVRpS0h0VzZKTkhTc2g4NllJNjhabUd3VUxUT29UT0xQeVJwbVJHT2xpMHNfdHRVVXhaXzNTWnJ6VnczMGZDOVFqRW9yekZQRm9zZEZDQlhIY1UtSFhsX2tlRWh2?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 7,
-      "location": "al-Tanf, Syria",
-      "latitude": 33.45,
-      "longitude": 38.77,
-      "detailed_analysis": "The Syrian army has taken control of the al-Tanf military base after US troops pulled out, potentially creating a power vacuum and increasing the risk of conflict in the region, which could impact transport and logistics operations.",
-      "immediate_forecast_24h": "Increased military activity and potential clashes between Syrian government forces and other groups in the region, potentially disrupting supply chains and transport routes.",
-      "strategic_outlook": "Long-term instability in the region could lead to increased security risks for assets, cargo, aviation, and personnel, requiring enhanced security measures and contingency planning for transport and logistics operations.",
-      "operational_impact": "Potential disruption to transport routes, increased security risks for personnel and assets, and potential for conflict-related delays or cancellations of logistics operations.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "94468a5cae652d14f1ccca8f8e48b883",
-    "timestamp": "2026-02-12T13:51:27.189355",
-    "original_title": "Russian air attack knocks out power, heat to thousands of Ukrainians",
-    "link": "https://www.reddit.com/r/worldnews/comments/1r2t5jt/russian_air_attack_knocks_out_power_heat_to/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict/Aviation",
-      "risk_score": 10,
-      "location": "Kyiv, Ukraine",
-      "latitude": 50.4501,
-      "longitude": 30.5236,
-      "detailed_analysis": "A Russian air attack has knocked out power and heat to thousands of Ukrainians, indicating a significant escalation in the conflict. The attack has disrupted critical infrastructure and poses a threat to the safety of personnel and civilians.",
-      "immediate_forecast_24h": "Further attacks are possible, and the situation is expected to remain volatile. Ukrainian authorities may impose additional security measures, and transport/logistics operations may be disrupted.",
-      "strategic_outlook": "The ongoing conflict between Russia and Ukraine continues to pose a significant threat to regional stability and global security. The situation may lead to increased tensions and potential escalation, affecting aviation, cargo, and personnel in the region.",
-      "operational_impact": "The attack may cause disruptions to transport/logistics operations, including aviation and cargo movements. Personnel and assets in the region should exercise extreme caution, and contingency plans should be in place to mitigate potential risks.",
-      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
-    }
-  },
-  {
     "id": "ae1db5165895a7e3e3f04deeeafc2311",
     "timestamp": "2026-02-12T14:55:19.370681",
     "original_title": "'A new range record'— Ukrainian drones strike oil refinery in Russia's Komi Republic, SBU source says",
@@ -53,6 +15,44 @@
       "immediate_forecast_24h": "Increased tensions between Ukraine and Russia, potential for retaliatory strikes, and heightened security measures at critical infrastructure facilities.",
       "strategic_outlook": "The use of drones in the conflict may become more prevalent, posing a significant threat to aviation and critical infrastructure. This could lead to a prolonged and intensified conflict, affecting regional stability and global energy markets.",
       "operational_impact": "Potential disruptions to oil supplies, increased security protocols for aviation and logistics operations in the region, and heightened vigilance for drone sightings and strikes.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "0d17001667509a951b2812c1d7e87593",
+    "timestamp": "2026-02-12T16:00:31.466646",
+    "original_title": "Border Officials Are Said to Have Caused El Paso Closure by Firing Anti-Drone Laser - The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYmlVY2wxNXppRTVFTnNmR0RRa1FEUnJwMTFDVWpZMG54NXdSYnZ6ZC0wUGlRV0p6UHZXa2UzYjRnQjhhM2dPQy1TWXc1V1pUMTlhbjRzRTBzcUNVRkZnZHY0QlJlNlFQSnNHNUN0TF9Jc3Y5VHlsZTB0aWh4TS1IOU00SnpBQUMxc29YcVFEM0dxRl9jZ0dnR2xoM0U4ZGM?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation/Border",
+      "risk_score": 6,
+      "location": "El Paso, USA",
+      "latitude": 31.7587,
+      "longitude": -106.4864,
+      "detailed_analysis": "The closure of El Paso due to border officials firing an anti-drone laser poses a significant threat to aviation and border security. The incident highlights the potential for disruptions to air traffic and the need for increased vigilance in drone detection and mitigation.",
+      "immediate_forecast_24h": "Increased security measures are likely to be implemented in the short term, potentially causing delays or disruptions to air traffic. The situation is being monitored, and further incidents could lead to heightened tensions and additional security protocols.",
+      "strategic_outlook": "The long-term implications of this incident may include increased investment in drone detection and mitigation technologies, as well as enhanced collaboration between border security agencies and aviation authorities to prevent similar incidents in the future.",
+      "operational_impact": "The incident may cause delays or disruptions to air traffic, particularly if additional security measures are implemented. Cargo and personnel transport may also be affected, with potential delays or changes to flight schedules.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "42b68c2a848397811f93e3223d5ea20d",
+    "timestamp": "2026-02-12T16:00:39.029677",
+    "original_title": "ICE immigrant crackdown in Minnesota to end, Trump’s border czar announces",
+    "link": "https://www.france24.com/en/americas/20260212-ice-immigrant-crackdown-in-minnesota-to-end-trump-s-border-czar-announces",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Border/Civil Unrest",
+      "risk_score": 4,
+      "location": "Minnesota, USA",
+      "latitude": 44.9778,
+      "longitude": -93.265,
+      "detailed_analysis": "The end of ICE's immigrant crackdown in Minnesota may lead to a decrease in civil unrest, but the operation's legacy and potential for future actions could still impact border security and transport logistics.",
+      "immediate_forecast_24h": "Protests may subside, but migrant movements and border activities could increase as a result of the operation's conclusion.",
+      "strategic_outlook": "Long-term border security and immigration policies will continue to influence the risk landscape for assets, cargo, aviation, and personnel in the region.",
+      "operational_impact": "Transport and logistics operations may experience minimal disruptions in the short term, but ongoing border security measures and migrant activities could affect supply chains and personnel safety.",
       "proximity_alert": null
     }
   }
