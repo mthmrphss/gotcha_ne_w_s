@@ -1,24 +1,5 @@
 [
   {
-    "id": "326cc52ce424b2e9a1de2b12a9d62ff2",
-    "timestamp": "2026-02-12T20:47:50.656925",
-    "original_title": "Venezuela opposition rally calls on post-Maduro govt to grant full freedoms",
-    "link": "https://www.france24.com/en/americas/20260212-venezuela-opposition-rally-calls-on-post-maduro-govt-to-grant-full-freedoms",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Civil Unrest",
-      "risk_score": 10,
-      "location": "Caracas, Venezuela",
-      "latitude": 10.488,
-      "longitude": -66.879,
-      "detailed_analysis": "A large opposition rally in Caracas calling for the release of political prisoners and full freedoms may lead to unrest and potential disruptions to transport and logistics in the area.",
-      "immediate_forecast_24h": "The situation may remain tense, with potential for further protests or demonstrations, but no immediate indication of escalation into widespread violence or direct threats to aviation or cargo.",
-      "strategic_outlook": "The long-term outlook depends on the government's response to the opposition's demands and the passage of the amnesty bill, which could either alleviate tensions or lead to further unrest.",
-      "operational_impact": "Potential for disruptions to ground transportation and logistics in Caracas due to protests, but no direct impact on aviation or cargo operations reported at this time.",
-      "proximity_alert": "YAKIN TEHDİT: Maiquetía \"Simón Bolívar\" International Airport (4 km)"
-    }
-  },
-  {
     "id": "73b51690578295d7cf26f5190a10b0d9",
     "timestamp": "2026-02-12T21:41:13.097000",
     "original_title": "Lufthansa’s Business Class Upgrade On its A380 Superjumbos Comes With A Catch… Fewer Flight Attendants",
@@ -35,6 +16,44 @@
       "strategic_outlook": "The reduction in flight attendants may lead to increased workload and stress on remaining crew members, potentially affecting overall safety and security.",
       "operational_impact": "Minimal operational impact expected, but potential concerns regarding passenger safety and service quality may arise.",
       "proximity_alert": "YAKIN TEHDİT: Berlin Tegel Airport (0 km)"
+    }
+  },
+  {
+    "id": "2800678e30ba6955db0bb2ef7708913c",
+    "timestamp": "2026-02-12T22:38:42.424520",
+    "original_title": "$38bn, 35 Patriot missiles, long-range drones: What Ukraine got at Ramstein",
+    "link": "https://www.reddit.com/r/worldnews/comments/1r36r15/38bn_35_patriot_missiles_longrange_drones_what/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Ramstein, Germany",
+      "latitude": 49.4392,
+      "longitude": 7.5983,
+      "detailed_analysis": "The recent meeting at Ramstein has resulted in a significant pledge of $38bn in defense aid for Ukraine, including 35 Patriot missiles and long-range drones. This development has the potential to escalate the conflict in Ukraine, posing a threat to aviation and personnel in the region.",
+      "immediate_forecast_24h": "Increased military activity and potential for retaliation from opposing forces, posing a high risk to aviation and personnel in the region.",
+      "strategic_outlook": "The long-term implications of this development could lead to a prolonged and intensified conflict, resulting in significant operational impacts on transport and logistics in the region.",
+      "operational_impact": "Potential disruptions to air traffic, increased security measures, and heightened risk of attacks on personnel and assets in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "55185683b496bd71f5243529f5b2815e",
+    "timestamp": "2026-02-12T22:38:44.544309",
+    "original_title": "South Africa: Ramaphosa announces deployment of army to tackle crime",
+    "link": "http://www.africanews.com/2026/02/12/south-africa-ramaphosa-announces-deployment-of-army-to-tackle-crime/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Civil Unrest/Crime",
+      "risk_score": 6,
+      "location": "South Africa",
+      "latitude": -30.5595,
+      "longitude": 22.9375,
+      "detailed_analysis": "The deployment of the army to tackle high rates of gang violence and crime in South Africa may lead to increased security presence in areas with high crime rates, potentially affecting cargo and personnel movement.",
+      "immediate_forecast_24h": "Short-term increase in security patrols and potential for increased tensions between law enforcement and criminal groups.",
+      "strategic_outlook": "Long-term reduction in crime rates possible if military deployment is successful, but also potential for increased militarization of law enforcement and human rights concerns.",
+      "operational_impact": "Potential for increased security checks and delays for cargo and personnel movement, particularly in areas with high crime rates.",
+      "proximity_alert": null
     }
   }
 ]
