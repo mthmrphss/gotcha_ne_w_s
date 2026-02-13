@@ -264,5 +264,81 @@
       "operational_impact": "Potential delays and disruptions to flights, cargo shipments, and personnel movements in the region, with increased risk of attacks on critical infrastructure.",
       "proximity_alert": "YAKIN TEHDİT: Munich Airport (0 km)"
     }
+  },
+  {
+    "id": "4b5980441b08534485d2cc2a556fba8f",
+    "timestamp": "2026-02-13T07:33:23.009052",
+    "original_title": "Trans-Atlantic tensions in focus as annual Munich security gathering opens - KSAT",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeTJrUUR3QnRDc2N2M1A1ODVmRk1RQURfVkc1MTREQmtVUjNLZE5fZldTTXEyOVh0cV9pRE0yZ0wzQ0w1dGJIVEtNdElGR2ljSVhtOGVQSy1xY0ZpQWZvazVya0xJNlNndGwxYmFsRHQ3Tjl2STlJTFo2TVRjbWluc3hkeFBtX1VISzBmOVd2YjdGcklxRWVJNURQb2djbkhjbzBqSW1hVjZjYndCYlg2bkpYZzI0NDh6UHc?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Other",
+      "risk_score": 10,
+      "location": "Munich, Germany",
+      "latitude": 48.1374,
+      "longitude": 11.5755,
+      "detailed_analysis": "The annual Munich security gathering has opened, focusing on Trans-Atlantic tensions. While this event may lead to discussions on security and potential conflicts, there is no immediate threat to assets, cargo, aviation, or personnel.",
+      "immediate_forecast_24h": "The gathering is expected to continue without major incidents, but diplomatic tensions may rise.",
+      "strategic_outlook": "The long-term impact of the discussions at the gathering may lead to changes in international relations and security policies, potentially affecting global transport and logistics.",
+      "operational_impact": "No immediate operational impact is expected, but changes in security policies may affect transport and logistics in the long term.",
+      "proximity_alert": "YAKIN TEHDİT: Munich Airport (0 km)"
+    }
+  },
+  {
+    "id": "bed1e685bccdc4e8f35db5c8e3041799",
+    "timestamp": "2026-02-13T07:33:27.074601",
+    "original_title": "Trans-Atlantic tensions in focus as annual Munich security gathering opens",
+    "link": "https://www.reddit.com/r/worldnews/comments/1r3iqtw/transatlantic_tensions_in_focus_as_annual_munich/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Munich, Germany",
+      "latitude": 48.1374,
+      "longitude": 11.5754,
+      "detailed_analysis": "The annual Munich security gathering has opened, focusing on Trans-Atlantic tensions, which may lead to increased diplomatic and geopolitical instability, potentially affecting global security and trade.",
+      "immediate_forecast_24h": "Heightened security measures are expected during the conference, with potential protests or demonstrations, but no immediate threats to assets, cargo, aviation, or personnel have been identified.",
+      "strategic_outlook": "The conference may lead to increased cooperation or tensions between nations, potentially impacting global security, trade, and logistics in the long term.",
+      "operational_impact": "No direct operational impact on transport or logistics is expected, but increased security measures and potential protests may cause minor disruptions in the surrounding area.",
+      "proximity_alert": "YAKIN TEHDİT: Munich Airport (0 km)"
+    }
+  },
+  {
+    "id": "f6872214cd42bee0a73804eb99e7c69d",
+    "timestamp": "2026-02-13T07:33:29.846532",
+    "original_title": "Deaths in Iran's crackdown on protests reach more than 7,000, activists say",
+    "link": "https://www.reddit.com/r/worldnews/comments/1r3ifgq/deaths_in_irans_crackdown_on_protests_reach_more/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 8,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The situation in Iran is highly volatile with protests being met with a severe crackdown, resulting in over 7,000 deaths. This unrest could potentially disrupt logistics, aviation, and personnel movement within the country.",
+      "immediate_forecast_24h": "The protests are likely to continue, and the government's response may escalate, leading to further instability and potential disruptions to transport and logistics.",
+      "strategic_outlook": "The long-term impact of this unrest could be significant, potentially affecting Iran's relations with other countries and impacting regional stability. This may lead to increased security measures and potential restrictions on movement and trade.",
+      "operational_impact": "The unrest may disrupt supply chains, affect cargo movement, and pose risks to personnel and assets. Aviation operations may also be impacted due to potential airspace restrictions or security concerns.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "252fe174812fc0920f59564bc6ee20b5",
+    "timestamp": "2026-02-13T07:33:32.202298",
+    "original_title": "Goma residence not optimistic about peace as MONUSCO chief visits",
+    "link": "http://www.africanews.com/2026/02/13/goma-residence-not-optimistic-about-peace-as-monusco-chief-visits/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 6,
+      "location": "Goma, DR Congo",
+      "latitude": -1.677,
+      "longitude": 29.227,
+      "detailed_analysis": "The presence of AFC/M23 rebels and the DR Congo army in the region poses a significant threat to peace and stability. The visit of the MONUSCO chief may indicate an escalation of efforts to establish a ceasefire, but the situation remains volatile.",
+      "immediate_forecast_24h": "Increased military activity and potential clashes between the DR Congo army and AFC/M23 rebels are possible in the short term, which may impact aviation and cargo operations in the region.",
+      "strategic_outlook": "The long-term outlook for the region remains uncertain, with the potential for ongoing conflict and instability. This may lead to increased security measures and potential disruptions to transport and logistics operations.",
+      "operational_impact": "Aviation and cargo operations in the region may be impacted by the conflict, with potential disruptions to flights, cargo transport, and personnel movements. Additional security measures may be necessary to ensure the safety of assets, cargo, and personnel.",
+      "proximity_alert": null
+    }
   }
 ]
