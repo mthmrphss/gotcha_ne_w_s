@@ -758,5 +758,81 @@
       "operational_impact": "Transport and logistics operations in the region may be disrupted due to the conflict, and airlines and cargo operators should exercise caution when operating in the area.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "82e0fa912e1fc0995a8eee9278698870",
+    "timestamp": "2026-02-13T16:09:33.500652",
+    "original_title": "CISA 2025 Year in Review focuses on driving security and resilience across critical infrastructure - Industrial Cyber",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONVpQMVJZeEt3bUR4SlFJLUhIYXI3NnJMMEpJMlQ1R3FrWUpzRjRlSE5pcFFsbzFQX2dfWEt1S202VXFHbGp1cFZqRmczajNjM2hyVUl4NzRWNndhNk1hZ1ZPMU0xU3Y4TUtHVGZCb1MxTVNaV3NvOFE0MWF1a2NMNnRSd2s0NFB0V0RGR2ZwVURJM1ZoNmN1VkJLeGg2eERrVHdnWUxYbE02Q1NMTXhFeUJqdjAwMlNXWTZSaVdGdjVhQ0ZZWFI4QjI5TQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 10,
+      "location": "United States",
+      "latitude": 38.8977,
+      "longitude": -77.0365,
+      "detailed_analysis": "CISA's 2025 Year in Review highlights efforts to drive security and resilience across critical infrastructure, with a focus on industrial cyber threats. This indicates a potential risk to assets, cargo, aviation, and personnel due to increased cyber threats.",
+      "immediate_forecast_24h": "No immediate threats are reported, but the focus on industrial cyber threats suggests a potential for increased malicious activity in the near term.",
+      "strategic_outlook": "Long-term, the emphasis on security and resilience across critical infrastructure is expected to lead to improved defenses against cyber threats, reducing the risk to assets, cargo, aviation, and personnel.",
+      "operational_impact": "The increased focus on industrial cyber threats may lead to additional security measures and protocols being implemented across critical infrastructure, potentially causing minor disruptions to transport and logistics operations.",
+      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
+    }
+  },
+  {
+    "id": "ac5df3d31d43f56ebe7f7d944d21f982",
+    "timestamp": "2026-02-13T16:09:38.191387",
+    "original_title": "“We are f—”: 10 Ukrainians with drones wipe out two NATO battalions in war game",
+    "link": "https://www.reddit.com/r/worldnews/comments/1r3t4vr/we_are_f_10_ukrainians_with_drones_wipe_out_two/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "A recent war game exercise revealed that 10 Ukrainians using drones were able to wipe out two NATO battalions, highlighting the potential vulnerability of military forces to drone warfare. This demonstrates the significant threat that drone technology poses to military personnel and assets.",
+      "immediate_forecast_24h": "Increased focus on drone defense strategies and potential escalation of drone-related conflicts in the region.",
+      "strategic_outlook": "Long-term implications for the development and deployment of drone technology in military contexts, with potential shifts in military strategy and investment in counter-drone technologies.",
+      "operational_impact": "Potential disruption to military logistics and operations, with increased risk to personnel and assets. Aviation operations may also be impacted by the increased use of drones in conflict zones.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "15b3595274c916d6ac9a47219371e183",
+    "timestamp": "2026-02-13T16:09:40.064564",
+    "original_title": "Ukrainian Forces Launch Counterattacks as Russian Starlink and Telegram Communications Falter",
+    "link": "https://www.reddit.com/r/worldnews/comments/1r3t2u2/ukrainian_forces_launch_counterattacks_as_russian/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Cyber",
+      "risk_score": 7,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "Ukrainian forces have launched counterattacks as Russian communications, including Starlink and Telegram, have faltered. This disruption could impact Russian military operations and logistics, potentially affecting the conflict's dynamics.",
+      "immediate_forecast_24h": "Increased Ukrainian military activity and potential Russian countermeasures are expected in the short term, which may lead to further disruptions in communications and logistics.",
+      "strategic_outlook": "The long-term impact of this development on the conflict is uncertain, but it may give Ukraine a strategic advantage. The use of Starlink and other communication technologies will continue to play a crucial role in the conflict.",
+      "operational_impact": "The disruption of Russian communications may impact their ability to coordinate military operations, potentially affecting the safety and security of personnel, cargo, and aviation in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "1c9dc4605a380ba8a8caf8b8d59c14a0",
+    "timestamp": "2026-02-13T16:09:42.027802",
+    "original_title": "CIA makes new push to recruit spies from Chinese military",
+    "link": "https://www.reddit.com/r/worldnews/comments/1r3t14m/cia_makes_new_push_to_recruit_spies_from_chinese/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Intelligence",
+      "risk_score": 6,
+      "location": "Washington D.C., USA/Beijing, China",
+      "latitude": 38.8951,
+      "longitude": 116.4039,
+      "detailed_analysis": "The CIA's new push to recruit spies from the Chinese military could lead to increased tensions between the US and China, potentially affecting global supply chains and logistics. This move may also lead to retaliatory actions from China, impacting US interests and assets abroad.",
+      "immediate_forecast_24h": "Increased diplomatic tensions between the US and China, potential for cyber attacks or espionage attempts",
+      "strategic_outlook": "Long-term escalation of US-China conflict, potential for trade wars or economic sanctions, increased security measures for US assets and personnel abroad",
+      "operational_impact": "Potential disruptions to global supply chains, increased security protocols for US-based companies operating in China, heightened risk of espionage or sabotage for US assets and personnel",
+      "proximity_alert": null
+    }
   }
 ]
