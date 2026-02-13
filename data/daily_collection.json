@@ -606,5 +606,62 @@
       "operational_impact": "No significant operational impact expected on transport or logistics, but security personnel should be aware of the potential for increased protests and demonstrations in the UK.",
       "proximity_alert": "YAKIN TEHDİT: Heathrow Airport (23 km)"
     }
+  },
+  {
+    "id": "a1c173ca6180c8e29cf8c83fc962f9f9",
+    "timestamp": "2026-02-13T13:17:17.281563",
+    "original_title": "Ukraine: Mass Russian drone strike hits Odesa port and energy sites",
+    "link": "http://www.africanews.com/2026/02/13/ukraine-mass-russian-drone-strike-hits-odesa-port-and-energy-sites/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 10,
+      "location": "Odesa, Ukraine",
+      "latitude": 46.48,
+      "longitude": 30.73,
+      "detailed_analysis": "Mass Russian drone strikes hit Ukraine’s Odesa region, targeting port and energy sites, resulting in one fatality and six injuries, and disrupting basic city services.",
+      "immediate_forecast_24h": "Increased tensions and potential for further drone strikes in the region, impacting port operations and energy supply.",
+      "strategic_outlook": "Long-term disruption to Ukraine's critical infrastructure, potentially affecting global supply chains and regional stability.",
+      "operational_impact": "Disruption to port operations, potential delays in cargo shipments, and increased security measures for aviation and logistics in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Odessa International Airport (5 km)"
+    }
+  },
+  {
+    "id": "f785749cf3cc90e3901a0f8f96161303",
+    "timestamp": "2026-02-13T13:17:19.146392",
+    "original_title": "Italian cabinet approves new anti-immigration package",
+    "link": "http://www.africanews.com/2026/02/13/italian-cabinet-approves-new-anti-immigration-package/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Border/Civil Unrest",
+      "risk_score": 10,
+      "location": "Rome, Italy",
+      "latitude": 41.87,
+      "longitude": 12.5,
+      "detailed_analysis": "The Italian cabinet's approval of a new anti-immigration package, including a possible naval blockade on ships carrying migrants, poses a significant threat to maritime transport and logistics in the region.",
+      "immediate_forecast_24h": "Increased tensions and potential disruptions to shipping routes in the Mediterranean are expected in the short term, with a heightened risk of stowaways and border breaches affecting transport.",
+      "strategic_outlook": "The long-term implications of this policy may lead to increased security measures and potential conflicts with neighboring countries, affecting regional stability and trade.",
+      "operational_impact": "Shipping companies and logistics operators should be prepared for potential delays and disruptions to their operations, and consider alternative routes or enhanced security measures to mitigate the risks associated with the naval blockade.",
+      "proximity_alert": "YAKIN TEHDİT: Fiumicino – Leonardo da Vinci International Airport (2 km)"
+    }
+  },
+  {
+    "id": "a36fe497227cd99627e046359eb051b9",
+    "timestamp": "2026-02-13T13:17:21.617972",
+    "original_title": "'I'll rip your head off': Gang's grip over gold mines sows terror in Peru's La Pampa",
+    "link": "https://www.france24.com/en/americas/20260213-peru-gang-guardianes-trocha-controls-gold-mines-spreads-terror-la-pampa",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Crime/Civil Unrest",
+      "risk_score": 7,
+      "location": "La Pampa, Peru",
+      "latitude": -12.7833,
+      "longitude": -69.2333,
+      "detailed_analysis": "The Guardianes de la Trocha gang's takeover of La Pampa, a gold-rich area in Peru, poses a significant threat to assets, cargo, and personnel in the region due to rising corruption and terror tactics used to silence opposition.",
+      "immediate_forecast_24h": "Increased violence and intimidation are expected in the short term as the gang consolidates its control over the area, potentially disrupting mining operations and logistics.",
+      "strategic_outlook": "Long-term, the situation may escalate into a full-blown conflict between the gang and authorities, leading to further instability and security risks for assets and personnel in the region.",
+      "operational_impact": "The gang's activities may lead to theft, smuggling, and other criminal activities affecting cargo and logistics in the area, with potential spillover effects on regional transport and trade.",
+      "proximity_alert": null
+    }
   }
 ]
