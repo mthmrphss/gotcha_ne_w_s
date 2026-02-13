@@ -834,5 +834,62 @@
       "operational_impact": "Potential disruptions to global supply chains, increased security protocols for US-based companies operating in China, heightened risk of espionage or sabotage for US assets and personnel",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "6c822cb0f27321d960a8ff3b05efc567",
+    "timestamp": "2026-02-13T17:25:16.588557",
+    "original_title": "4 people killed in plane crash in Colorado mountains near Steamboat Springs - CBS News",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTm9BdVNEcWhkWGVNMlFpT2NhZWlpUFRrakxTVVdQSWZRaEdlMlp1d05lYkNBUnNsNWw1T0JWMUZfYVAxTGdtUG5YZWphb212SXRfekNqZlRlYlk0MlJxM0I5WUJZUkhzOHhKZEwwUGhpZ1BJWGprU3FnV2xObkE2MndlNHBqamdpdGZiY0xMSnFSWm9Zcnh0TnBPdFBfMGg3cjVOazVB?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 8,
+      "location": "Steamboat Springs, Colorado, USA",
+      "latitude": 40.4847,
+      "longitude": -106.8364,
+      "detailed_analysis": "A plane crash in the Colorado mountains near Steamboat Springs has resulted in the deaths of 4 people. The incident is a significant threat to aviation safety and may impact air travel in the region.",
+      "immediate_forecast_24h": "Investigations into the cause of the crash are likely to begin immediately, and air traffic in the region may be affected. There is a possibility of temporary flight restrictions or increased security measures.",
+      "strategic_outlook": "The long-term impact of this incident will depend on the findings of the investigation. If the cause is determined to be a systemic issue or a result of human error, it may lead to changes in aviation regulations or procedures to prevent similar incidents in the future.",
+      "operational_impact": "The crash may cause disruptions to air travel in the region, potentially affecting cargo and personnel transport. Airlines and logistics companies may need to adjust their routes or schedules in response to any changes in air traffic control procedures or security measures.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "c5807476f353e950597aa3d5de883d11",
+    "timestamp": "2026-02-13T17:25:21.440358",
+    "original_title": "Protests turn violent as Argentina debates labour overhaul",
+    "link": "https://www.reddit.com/r/worldnews/comments/1r3uq97/protests_turn_violent_as_argentina_debates_labour/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Argentina",
+      "latitude": -34.6037,
+      "longitude": -58.3816,
+      "detailed_analysis": "Protests in Argentina have turned violent as the country debates a labour overhaul, posing a threat to personnel and assets in the region. The unrest may impact cargo transportation and aviation operations.",
+      "immediate_forecast_24h": "Increased protests and potential clashes between demonstrators and security forces, potentially disrupting transportation and logistics in the short term.",
+      "strategic_outlook": "The labour overhaul debate may continue to spark unrest and protests in the coming weeks, potentially leading to sustained disruptions to transport and logistics in Argentina.",
+      "operational_impact": "Potential delays or disruptions to cargo transportation, aviation operations, and personnel movements in Argentina due to the ongoing protests and unrest.",
+      "proximity_alert": "YAKIN TEHDİT: Ministro Pistarini International Airport (28 km)"
+    }
+  },
+  {
+    "id": "b58cbd5c923d54b5733d05c3597ae266",
+    "timestamp": "2026-02-13T17:25:25.080873",
+    "original_title": "China vows to take 'measures' against spying after CIA recruitment video",
+    "link": "https://www.france24.com/en/china-vows-to-take-measures-against-spying-after-cia-recruitment-video",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Cyber",
+      "risk_score": 10,
+      "location": "Beijing, China",
+      "latitude": 39.9042,
+      "longitude": 116.4074,
+      "detailed_analysis": "China has vowed to take measures against spying after the CIA released a Chinese-language recruitment video targeting disaffected Chinese military officers, which may lead to increased tensions and potential cyber retaliation against US interests, including aviation and logistics",
+      "immediate_forecast_24h": "Increased diplomatic tensions and potential for retaliatory cyber attacks against US targets, including aviation and logistics systems",
+      "strategic_outlook": "Long-term escalation of US-China tensions, potentially leading to increased security measures and counter-intelligence operations, affecting global supply chains and aviation security",
+      "operational_impact": "Potential disruptions to air travel and logistics operations due to increased security measures, as well as potential cyber attacks on critical infrastructure",
+      "proximity_alert": "YAKIN TEHDİT: Beijing Capital International Airport (25 km)"
+    }
   }
 ]
