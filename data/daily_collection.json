@@ -606,5 +606,81 @@
       "operational_impact": "The incident may have a minor impact on tourism and logistics in the area, but it is unlikely to affect aviation or cargo operations directly.",
       "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (1 km)"
     }
+  },
+  {
+    "id": "30911b6248b39ec025aa5b47ecfcfe5c",
+    "timestamp": "2026-02-14T17:31:44.257478",
+    "original_title": "US military reports a series of airstrikes against Islamic State targets in Syria - Houston Public Media",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOT3pvLXlQTWtVRld3SV9PYUNlWk9mNGZEbTRuSjJqYTg5MDNyVklFN202NFBXNFJCYmdPUEJEd2ZPeTlYeGZTQTdsRl93WThlbC1BcU5EeXBuV1dVVGQtb2xlc3dUOVZqaVFucWh0X3RIczZJc3hYR3gxNDJMbFUtWEFWUmhSaDAyd0gxY210RWMzX0ZlUGI4SjFYcTJqZnhRY0RBcWpjcTUzZW1iOXVabXZ4b1kyLUt1a3NoeUdnamtrX2ZzTmgzX3VnQVdiaFZLX3FGY2g5aDByTlhobUFz?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "Syria",
+      "latitude": 35.0,
+      "longitude": 38.0,
+      "detailed_analysis": "US military airstrikes against Islamic State targets in Syria pose a significant threat to aviation and regional stability, potentially disrupting air traffic and logistics in the area.",
+      "immediate_forecast_24h": "Increased military activity and potential retaliation from Islamic State targets may lead to heightened tensions and security concerns in the region.",
+      "strategic_outlook": "Long-term instability in Syria may continue to affect regional security, potentially impacting air travel and cargo transport in the Middle East.",
+      "operational_impact": "Potential disruptions to air traffic, increased security measures, and heightened risk of attacks on aviation assets and personnel in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "71aa6d8dd876675def99832cc906c8c5",
+    "timestamp": "2026-02-14T17:31:51.083964",
+    "original_title": "Son of Iran’s Last Shah Urges US Military Intervention in Iran",
+    "link": "https://www.reddit.com/r/worldnews/comments/1r4pfr0/son_of_irans_last_shah_urges_us_military/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The son of Iran's last Shah has urged US military intervention in Iran, which could lead to increased tensions and conflict in the region, potentially affecting aviation and cargo operations.",
+      "immediate_forecast_24h": "Increased diplomatic tensions and potential military mobilization, with a high likelihood of civil unrest and protests in Iran.",
+      "strategic_outlook": "A long-term escalation of conflict in the region, potentially drawing in other countries and affecting global oil prices, trade, and transportation routes.",
+      "operational_impact": "Potential disruption to air travel and cargo operations in the region, with increased security measures and possible airspace restrictions.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "66ae0f60ff1b35981094078eb84fb1cb",
+    "timestamp": "2026-02-14T17:31:53.643732",
+    "original_title": "23-year-old student attacked by antifascist militants, now in coma",
+    "link": "https://www.france24.com/en/23-year-old-student-attacked-by-antifascist-militants-now-in-coma",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Lyon, France",
+      "latitude": 45.7589,
+      "longitude": 4.8492,
+      "detailed_analysis": "A 23-year-old student was attacked by antifascist militants during a protest, resulting in a coma. The incident indicates heightened tensions between far-right and radical left groups in the area, which could lead to further clashes and disruptions.",
+      "immediate_forecast_24h": "Increased police presence and potential for further protests or counter-protests in the area, which may cause traffic disruptions and affect local logistics.",
+      "strategic_outlook": "The ongoing conflict between far-right and radical left groups in France may lead to long-term instability and increased security concerns, potentially affecting transport and logistics operations in the region.",
+      "operational_impact": "Potential disruptions to local transport and logistics due to protests, clashes, or increased security measures, but no direct impact on aviation or cargo operations reported at this time.",
+      "proximity_alert": "YAKIN TEHDİT: Lyon–Saint Exupéry Airport (18 km)"
+    }
+  },
+  {
+    "id": "eed8b40d3c1d303e45aa0bc5161adfc0",
+    "timestamp": "2026-02-14T17:31:55.521910",
+    "original_title": "Gaza: Radio station hit the airwaves amid war",
+    "link": "https://www.france24.com/en/gaza-radio-station-hit-the-airwaves-amid-war",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 6,
+      "location": "Gaza",
+      "latitude": 31.5,
+      "longitude": 34.45,
+      "detailed_analysis": "The return of local radio stations to the airwaves in Gaza amid an ongoing humanitarian crisis and intermittent Israeli attacks poses a moderate to high risk due to the potential for escalation of conflict and disruptions to critical infrastructure, including aviation and logistics.",
+      "immediate_forecast_24h": "Increased tensions and potential for further attacks or disruptions in the Gaza region, which could impact aviation and logistics operations in the area.",
+      "strategic_outlook": "Long-term instability and conflict in the region may lead to sustained disruptions to transport and logistics, with potential for increased risk to assets, cargo, aviation, and personnel.",
+      "operational_impact": "Potential disruptions to air traffic, logistics, and supply chains in the region, with possible increased security measures and restrictions on movement.",
+      "proximity_alert": null
+    }
   }
 ]
