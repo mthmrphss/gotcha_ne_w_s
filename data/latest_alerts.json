@@ -1,24 +1,5 @@
 [
   {
-    "id": "7388d1e044d40dbe5e64014b3b9a97da",
-    "timestamp": "2026-02-14T07:39:49.641860",
-    "original_title": "Iranian security use dragnet spanning the entire country to arrest protesters - Huron Daily Tribune",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOXpsSWJrWllrRjZXbXRaeGJsUkJWcnVqT0F5MElZWlRyMTZjQlJrcERvcEZnVVd3NTlNTVNqY3BzV29vNnJOakNldUlVYlduSDhPVDRXak1BOG9rYVA3QmlUMUdkOU92UmU1VWVWbUQ4U25yRFdpZFFzcVByT2dWWktad0N4VHA2Y3lSLUE2TE1fMVl6ZnctNnJpTVJWMGpoQmNfcHNtc05zSkswb0hPR09n?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Civil Unrest/Conflict",
-      "risk_score": 6,
-      "location": "Iran",
-      "latitude": 32.0,
-      "longitude": 53.0,
-      "detailed_analysis": "Iranian security forces are conducting a nationwide dragnet to arrest protesters, indicating a high level of unrest and potential for further escalation, which could impact transport and logistics operations within the country.",
-      "immediate_forecast_24h": "Increased security presence and potential for clashes between protesters and security forces, leading to possible disruptions in transportation and logistics.",
-      "strategic_outlook": "Prolonged civil unrest could lead to long-term instability, affecting the overall security environment and potentially impacting international trade and commerce.",
-      "operational_impact": "Potential disruptions to ground transportation, possible airspace restrictions, and increased security measures at ports and borders, which could delay or hinder the movement of assets, cargo, and personnel.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "c31a9646fa8ad7028b51757768e066ee",
     "timestamp": "2026-02-14T08:41:46.877648",
     "original_title": "How Peter Biar Ajak, a Sudanese Peace Activist, Was Caught Plotting a Coup",
@@ -35,6 +16,25 @@
       "strategic_outlook": "The situation may escalate into a full-blown conflict, posing a significant threat to assets, cargo, aviation, and personnel in the region.",
       "operational_impact": "Transport and logistics operations in South Sudan may be disrupted due to the potential conflict, and security protocols should be reviewed and updated to mitigate risks.",
       "proximity_alert": null
+    }
+  },
+  {
+    "id": "d42873957f50e4090215172c2fb7e14b",
+    "timestamp": "2026-02-14T09:38:52.615560",
+    "original_title": "Guinea-Bissau opposition leader faces military court over coup plot allegations",
+    "link": "http://www.africanews.com/2026/02/14/guinea-bissau-opposition-leader-faces-military-court-over-coup-plot-allegations/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Bissau, Guinea-Bissau",
+      "latitude": 11.85,
+      "longitude": -15.58,
+      "detailed_analysis": "The allegations of a coup plot against the opposition leader in Guinea-Bissau could lead to increased instability and unrest, potentially affecting aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Heightened security measures are expected in the capital, Bissau, with potential for protests or demonstrations, which may impact airport and port operations.",
+      "strategic_outlook": "The situation may escalate into a full-blown crisis if the opposition leader is found guilty, leading to widespread unrest and potentially disrupting transport and logistics in the region.",
+      "operational_impact": "Aviation and cargo operations may be affected due to increased security checks, potential flight disruptions, or port closures, while personnel may face increased risk due to the unstable security environment.",
+      "proximity_alert": "YAKIN TEHDİT: Bissau Osvaldo Vieira Airport (1 km)"
     }
   }
 ]
