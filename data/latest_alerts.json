@@ -1,24 +1,5 @@
 [
   {
-    "id": "829f1532d06a8bf3fc9485acfb177e63",
-    "timestamp": "2026-02-14T06:56:41.165169",
-    "original_title": "Widespread arrests roil Iran weeks after security forces crushed protests",
-    "link": "https://www.reddit.com/r/worldnews/comments/1r4cw7d/widespread_arrests_roil_iran_weeks_after_security/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Civil Unrest/Conflict",
-      "risk_score": 6,
-      "location": "Iran",
-      "latitude": 32.0,
-      "longitude": 53.0,
-      "detailed_analysis": "Widespread arrests in Iran following the crushing of protests by security forces indicate a high level of civil unrest. This could potentially disrupt logistics, aviation, and personnel movement within the country.",
-      "immediate_forecast_24h": "Increased security presence and potential for further protests or unrest, possibly affecting major transportation hubs and routes.",
-      "strategic_outlook": "Long-term instability in Iran could lead to sustained disruptions in supply chains and travel, impacting regional and global trade.",
-      "operational_impact": "Potential delays or cancellations of flights, increased security checks at airports and border crossings, and possible restrictions on the movement of cargo and personnel.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "7388d1e044d40dbe5e64014b3b9a97da",
     "timestamp": "2026-02-14T07:39:49.641860",
     "original_title": "Iranian security use dragnet spanning the entire country to arrest protesters - Huron Daily Tribune",
@@ -34,6 +15,25 @@
       "immediate_forecast_24h": "Increased security presence and potential for clashes between protesters and security forces, leading to possible disruptions in transportation and logistics.",
       "strategic_outlook": "Prolonged civil unrest could lead to long-term instability, affecting the overall security environment and potentially impacting international trade and commerce.",
       "operational_impact": "Potential disruptions to ground transportation, possible airspace restrictions, and increased security measures at ports and borders, which could delay or hinder the movement of assets, cargo, and personnel.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "c31a9646fa8ad7028b51757768e066ee",
+    "timestamp": "2026-02-14T08:41:46.877648",
+    "original_title": "How Peter Biar Ajak, a Sudanese Peace Activist, Was Caught Plotting a Coup",
+    "link": "https://www.nytimes.com/2026/02/14/world/africa/south-sudan-peace-activist-coup-plot.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Crime",
+      "risk_score": 6,
+      "location": "South Sudan",
+      "latitude": 7.0,
+      "longitude": 30.0,
+      "detailed_analysis": "A Sudanese peace activist, Peter Biar Ajak, was convicted of conspiring to buy and export weapons for a revolt in South Sudan, indicating potential instability and conflict in the region.",
+      "immediate_forecast_24h": "Increased security measures may be implemented in the region, potentially affecting transport and logistics operations.",
+      "strategic_outlook": "The situation may escalate into a full-blown conflict, posing a significant threat to assets, cargo, aviation, and personnel in the region.",
+      "operational_impact": "Transport and logistics operations in South Sudan may be disrupted due to the potential conflict, and security protocols should be reviewed and updated to mitigate risks.",
       "proximity_alert": null
     }
   }
