@@ -112,5 +112,43 @@
       "operational_impact": "Potential disruptions to air cargo and passenger flights, increased security screening, and possible restrictions on personnel movement in the region.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "161f771bd1bc2ddaf91a856cf7002a01",
+    "timestamp": "2026-02-14T02:40:17.754131",
+    "original_title": "US Army expands presence in the Philippines",
+    "link": "https://www.reddit.com/r/worldnews/comments/1r47hl0/us_army_expands_presence_in_the_philippines/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Manila, Philippines",
+      "latitude": 14.5833,
+      "longitude": 121.0,
+      "detailed_analysis": "The US Army's expansion of presence in the Philippines may lead to increased tensions with neighboring countries, potentially affecting regional stability and transport logistics.",
+      "immediate_forecast_24h": "No immediate threats are expected, but the situation will be closely monitored for any signs of escalation.",
+      "strategic_outlook": "The long-term implications of this expansion could lead to a shift in regional power dynamics, potentially impacting trade routes and cargo security.",
+      "operational_impact": "Transport and logistics operations in the region may experience increased security measures, potentially leading to minor disruptions, but no significant impact is expected at this time.",
+      "proximity_alert": "YAKIN TEHDİT: Ninoy Aquino International Airport (8 km)"
+    }
+  },
+  {
+    "id": "f4fa513b0f789f8f38db99189dbd7880",
+    "timestamp": "2026-02-14T02:40:20.341989",
+    "original_title": "African leaders to gather in Ethiopia for the 39th summit of the African Union",
+    "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20260213-african-leaders-to-gather-in-ethiopia-for-the-39th-summit-of-the-african-union",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Border/Civil Unrest/Other",
+      "risk_score": 10,
+      "location": "Addis Ababa, Ethiopia",
+      "latitude": 9.0,
+      "longitude": 38.7,
+      "detailed_analysis": "African leaders gathering for the 39th summit of the African Union may pose a low risk of civil unrest, but the reopening of the Kenya-Somalia border after 15 years could lead to increased migration and potential security concerns.",
+      "immediate_forecast_24h": "Increased security presence expected in Addis Ababa, potential for minor protests or demonstrations.",
+      "strategic_outlook": "Long-term implications of the border reopening could lead to increased trade and cooperation between Kenya and Somalia, but also potential security risks if not properly managed.",
+      "operational_impact": "Minimal expected impact on transport and logistics, but potential for increased security checks and delays at border crossings.",
+      "proximity_alert": "YAKIN TEHDİT: Addis Ababa Bole International Airport (10 km)"
+    }
   }
 ]
