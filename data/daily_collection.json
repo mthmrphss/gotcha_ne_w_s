@@ -302,5 +302,81 @@
       "operational_impact": "Aviation and cargo operations may be affected due to increased security checks, potential flight disruptions, or port closures, while personnel may face increased risk due to the unstable security environment.",
       "proximity_alert": "YAKIN TEHDİT: Bissau Osvaldo Vieira Airport (1 km)"
     }
+  },
+  {
+    "id": "31118c774451a7a4f8fb9457b92a4576",
+    "timestamp": "2026-02-14T10:35:15.543747",
+    "original_title": "Life in Beirut Beneath the Drones",
+    "link": "https://www.nytimes.com/2026/02/14/world/middleeast/beirut-drones-sound-israel-airstrikes.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 10,
+      "location": "Beirut, Lebanon",
+      "latitude": 33.8938,
+      "longitude": 35.5018,
+      "detailed_analysis": "The presence of Israeli drones over Beirut poses a significant threat to aviation and regional stability, indicating ongoing tensions despite a cease-fire. This could lead to potential disruptions in air traffic or even attacks on aviation assets.",
+      "immediate_forecast_24h": "Increased vigilance is expected from both Lebanese and Israeli forces, with a possibility of heightened military readiness. Civilian air traffic may face minor disruptions due to the drone activity.",
+      "strategic_outlook": "Long-term, the situation could escalate into a broader conflict if drone activities are perceived as provocative or if there are miscalculations. This could severely impact regional aviation, leading to airspace restrictions and increased security measures.",
+      "operational_impact": "The ongoing drone activity may necessitate additional security protocols for flights in and out of Beirut, potentially affecting cargo and passenger operations. There could also be implications for ground logistics due to heightened security measures.",
+      "proximity_alert": "YAKIN TEHDİT: Beirut–Rafic Hariri International Airport (0 km)"
+    }
+  },
+  {
+    "id": "2aeaf6c4e90e0d3c843dd2879a0ede57",
+    "timestamp": "2026-02-14T10:35:19.741013",
+    "original_title": "She loved fighting on the zero line' — The stories of 4 women killed defending Ukraine",
+    "link": "https://www.reddit.com/r/worldnews/comments/1r4h5gb/she_loved_fighting_on_the_zero_line_the_stories/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "The article reports on the stories of 4 women killed defending Ukraine, indicating an ongoing conflict with Russia. This situation poses a significant threat to personnel and potentially to aviation and cargo in the region.",
+      "immediate_forecast_24h": "Continued clashes and potential escalation of violence between Ukrainian and Russian forces, posing a risk to aviation and cargo operations in the area.",
+      "strategic_outlook": "Long-term instability and conflict in the region, potentially affecting transport and logistics operations, as well as the safety of personnel and assets.",
+      "operational_impact": "Potential disruptions to air traffic, cargo transport, and logistics operations in Ukraine and surrounding areas due to the ongoing conflict.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "40a2da8d8bcd55ff326b97337ad7a76a",
+    "timestamp": "2026-02-14T10:35:22.816154",
+    "original_title": "Budget standoff over immigration shuts down US Department of Homeland Security",
+    "link": "https://www.france24.com/en/americas/20260214-standoff-over-immigration-shuts-down-us-department-of-homeland-security-minneapolis-ice",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Border/Civil Unrest",
+      "risk_score": 10,
+      "location": "Washington D.C., USA",
+      "latitude": 38.8951,
+      "longitude": -77.0364,
+      "detailed_analysis": "The shutdown of the US Department of Homeland Security due to a budget standoff over immigration may lead to reduced security measures and increased vulnerability to border breaches and potential disruptions to transportation systems.",
+      "immediate_forecast_24h": "The situation is likely to remain volatile, with potential for increased tensions and protests, but no immediate indication of a significant escalation in violence or direct threats to aviation or cargo.",
+      "strategic_outlook": "The long-term impact of the shutdown could lead to increased security risks, particularly if the situation persists and leads to significant reductions in security personnel and resources, potentially creating opportunities for criminal activity or terrorism.",
+      "operational_impact": "The shutdown may cause delays and disruptions to logistics and transportation, particularly at border crossings and airports, due to reduced staffing and security measures, potentially affecting the movement of cargo and personnel.",
+      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
+    }
+  },
+  {
+    "id": "109042da3e1759aca57c9154eb1df9e0",
+    "timestamp": "2026-02-14T10:35:25.566908",
+    "original_title": "Chad - Level 3: Reconsider Travel",
+    "link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/chad-travel-advisory.html",
+    "source_name": "US State Dept",
+    "ai_analysis": {
+      "category": "Terrorism/Crime/Border/Civil Unrest/Conflict",
+      "risk_score": 8,
+      "location": "Chad",
+      "latitude": 15.4542,
+      "longitude": 18.7322,
+      "detailed_analysis": "Chad is experiencing high levels of crime, terrorism, civil unrest, and kidnapping, with specific areas of concern including the Lake Chad region and borders with neighboring countries due to armed conflict and minefields.",
+      "immediate_forecast_24h": "Increased risk of terrorist attacks, armed robbery, and kidnapping, with potential for demonstrations and violence, particularly outside of N'Djamena.",
+      "strategic_outlook": "Long-term instability and security concerns in Chad, with potential for ongoing conflict and terrorism, making it a high-risk destination for travel and logistics.",
+      "operational_impact": "Transport and logistics operations in Chad are likely to be severely impacted, with increased risk of cargo theft, hijacking, and damage, as well as potential for supply chain disruptions due to conflict and instability.",
+      "proximity_alert": null
+    }
   }
 ]
