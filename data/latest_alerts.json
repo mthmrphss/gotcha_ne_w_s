@@ -55,5 +55,43 @@
       "operational_impact": "Potential delays and increased security checks for passengers and cargo at Detroit Metropolitan Wayne County Airport",
       "proximity_alert": "YAKIN TEHDİT: DETROIT (28 km)"
     }
+  },
+  {
+    "id": "6024cf5c3f7ccb7a6f3089c7e4cc7462",
+    "timestamp": "2026-02-14T19:30:37.983840",
+    "original_title": "Thousands Rally for Iran Regime Change in Cities Around the World",
+    "link": "https://www.nytimes.com/2026/02/14/world/europe/iran-regime-rallies-munich.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Munich, Germany",
+      "latitude": 48.1374,
+      "longitude": 11.5755,
+      "detailed_analysis": "Protests against the Iranian government near a security conference may lead to disruptions in the area, but there is no direct indication of a threat to aviation, cargo, or personnel at this time.",
+      "immediate_forecast_24h": "The situation is likely to remain tense, with potential for further protests or demonstrations, but no significant escalation is expected in the next 24 hours.",
+      "strategic_outlook": "The long-term impact of these protests on global security and stability is uncertain, but they may contribute to increased tensions between nations, potentially affecting international relations and transport logistics in the future.",
+      "operational_impact": "Minimal direct impact on transport and logistics is expected, but the situation should be monitored for any changes that could affect operations in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Munich Airport (0 km)"
+    }
+  },
+  {
+    "id": "c5290aeef823ebc4555dce39c7295325",
+    "timestamp": "2026-02-14T19:30:40.876168",
+    "original_title": "Hundreds of thousands protest against Iranian government in Munich",
+    "link": "https://www.reddit.com/r/worldnews/comments/1r4te0n/hundreds_of_thousands_protest_against_iranian/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Munich, Germany",
+      "latitude": 48.1374,
+      "longitude": 11.5755,
+      "detailed_analysis": "Hundreds of thousands of protesters gathered in Munich to protest against the Iranian government, which may lead to potential disruptions in the city's transportation and logistics infrastructure.",
+      "immediate_forecast_24h": "The protests are expected to continue, potentially causing traffic congestion and disruptions to local transportation services.",
+      "strategic_outlook": "The long-term impact of the protests on the city's infrastructure and logistics is uncertain, but it may lead to increased security measures and potential travel restrictions.",
+      "operational_impact": "The protests may cause delays and disruptions to cargo and personnel movement in and around Munich, particularly if the protests escalate or spread to other areas.",
+      "proximity_alert": "YAKIN TEHDİT: Munich Airport (0 km)"
+    }
   }
 ]
