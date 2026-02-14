@@ -1,24 +1,5 @@
 [
   {
-    "id": "d42873957f50e4090215172c2fb7e14b",
-    "timestamp": "2026-02-14T09:38:52.615560",
-    "original_title": "Guinea-Bissau opposition leader faces military court over coup plot allegations",
-    "link": "http://www.africanews.com/2026/02/14/guinea-bissau-opposition-leader-faces-military-court-over-coup-plot-allegations/",
-    "source_name": "Africa News",
-    "ai_analysis": {
-      "category": "Conflict/Civil Unrest",
-      "risk_score": 10,
-      "location": "Bissau, Guinea-Bissau",
-      "latitude": 11.85,
-      "longitude": -15.58,
-      "detailed_analysis": "The allegations of a coup plot against the opposition leader in Guinea-Bissau could lead to increased instability and unrest, potentially affecting aviation and cargo operations in the region.",
-      "immediate_forecast_24h": "Heightened security measures are expected in the capital, Bissau, with potential for protests or demonstrations, which may impact airport and port operations.",
-      "strategic_outlook": "The situation may escalate into a full-blown crisis if the opposition leader is found guilty, leading to widespread unrest and potentially disrupting transport and logistics in the region.",
-      "operational_impact": "Aviation and cargo operations may be affected due to increased security checks, potential flight disruptions, or port closures, while personnel may face increased risk due to the unstable security environment.",
-      "proximity_alert": "YAKIN TEHDİT: Bissau Osvaldo Vieira Airport (1 km)"
-    }
-  },
-  {
     "id": "31118c774451a7a4f8fb9457b92a4576",
     "timestamp": "2026-02-14T10:35:15.543747",
     "original_title": "Life in Beirut Beneath the Drones",
@@ -91,6 +72,25 @@
       "immediate_forecast_24h": "Increased risk of terrorist attacks, armed robbery, and kidnapping, with potential for demonstrations and violence, particularly outside of N'Djamena.",
       "strategic_outlook": "Long-term instability and security concerns in Chad, with potential for ongoing conflict and terrorism, making it a high-risk destination for travel and logistics.",
       "operational_impact": "Transport and logistics operations in Chad are likely to be severely impacted, with increased risk of cargo theft, hijacking, and damage, as well as potential for supply chain disruptions due to conflict and instability.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "ff12778110fda68d8bf94e77ce2f9ffe",
+    "timestamp": "2026-02-14T11:28:46.609047",
+    "original_title": "Iranian security use dragnet spanning the entire country to arrest protesters - The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQemRFMFk0cDJqSkd5dTczTjRjUzRmaHVxa2xLVndDRzJpX0tvWW9uTjVIendlTzJIYWhZYkVHRXhlY0FBVHJrNHJhemxuY1VEdmZJZ09RMmxnQi1ERXBBbF9WaE9fX1pNUDhXV2pRM2IzMWFqd0VpaUdBYzcyb1l3bTFhcVlSUWVraU5RWkFRRXpJR0NUb2FaTnZjUlBLLURRdnkyQkFIQjl1UHkxWV9jU2JINkV2djBfel9yOHA1ZVFmN0RTa2c?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 6,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Iranian security forces are conducting a nationwide dragnet to arrest protesters, indicating a high level of unrest and potential for further escalation, which could impact transport and logistics operations within the country.",
+      "immediate_forecast_24h": "Increased security presence and potential for clashes between protesters and security forces, leading to disruptions in major cities and transport hubs.",
+      "strategic_outlook": "Prolonged civil unrest could lead to long-term instability, affecting the overall security environment and potentially disrupting supply chains and aviation operations in the region.",
+      "operational_impact": "Potential disruptions to ground transportation, possible airspace restrictions, and increased security measures at airports and seaports, which could impact cargo and personnel movement.",
       "proximity_alert": null
     }
   }
