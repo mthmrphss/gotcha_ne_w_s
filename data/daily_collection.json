@@ -112,5 +112,43 @@
       "operational_impact": "Minimal impact expected on transport and logistics, but companies operating in the area should be aware of potential disruptions and plan accordingly.",
       "proximity_alert": "YAKIN TEHDİT: Toronto Pearson International Airport (19 km)"
     }
+  },
+  {
+    "id": "0e7f36566f34f45e270766506237b2a4",
+    "timestamp": "2026-02-15T07:57:52.158004",
+    "original_title": "Israeli forces kill nine Palestinians in Gaza, attack southern Lebanon - Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS2J6QkpIR1l1WHFHVTVmQ0o1WVVOeEdFUGxsZ1RUemJ0NU4zRGZMaTEwWkpSeFlTTFJpY1FCNEcxbWREejY1TWRZNVFRTDN6c0FwR1JmMlU3OGFleDRxSUN4UDZJZHpGWVRVc1NxbkhOWmh2YUVTTkRfWFNzYWNlT0JseWhwcVNsZ2owVUc1LUlNSUJnYVZPZXpxLXhFQXRoN1cxbdIBqgFBVV95cUxPYWwtQjRRODEwZmo3S1o3TkpTZXBpYWdCQVZMdVR5VHZNVUp6ejdKemdsRk1YNWQ1SURwSGN3ZUhZeHdFZ2xldUdrVkRuZlh4V3Rib05mM1pPVHBWaDNzN2xMd0FFYUwwMG41MkM1RElRQktiNlNad0k1RjVUbk9sWGp0ZDZJQXJKd3hUZE44eWlMMHJiaEt4VWZxUUZDMXpJb1lHYXhHZkdwZw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "Gaza, Israel",
+      "latitude": 31.5,
+      "longitude": 34.4667,
+      "detailed_analysis": "The recent escalation of violence between Israeli forces and Palestinians in Gaza, combined with an attack on southern Lebanon, poses a significant threat to regional stability and potentially to aviation and cargo operations in the area.",
+      "immediate_forecast_24h": "Increased tensions and potential for further clashes between Israeli forces and Palestinian groups, which could lead to disruptions in air travel and cargo transport in the region.",
+      "strategic_outlook": "Long-term instability in the region could lead to sustained disruptions in logistics and transport, affecting both aviation and cargo operations. The situation has the potential to escalate into a broader conflict, further impacting regional security and stability.",
+      "operational_impact": "Potential for flight delays or cancellations, increased security measures at airports, and possible disruptions to cargo transport due to the conflict. This could also lead to increased risk of terrorism and cyber attacks targeting aviation and logistics infrastructure.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "3a380cc0f1568a024b52eea5e9cd187b",
+    "timestamp": "2026-02-15T07:57:58.525625",
+    "original_title": "Live: Russia says Ukrainian drones struck Black Sea port, Rubio to visit eastern Europe",
+    "link": "https://www.france24.com/en/europe/20260215-live-russia-says-ukrainian-drones-struck-black-sea-port-rubio-visits-hungary-slovakia",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Taman, Russia",
+      "latitude": 45.0333,
+      "longitude": 36.7333,
+      "detailed_analysis": "A Ukrainian drone attack damaged Russia's Taman port, sparking a fire at the strategic Black Sea hub. This incident poses a significant threat to aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Increased tensions between Russia and Ukraine may lead to further attacks or retaliatory measures, potentially disrupting aviation and cargo operations in the Black Sea region.",
+      "strategic_outlook": "The ongoing conflict between Russia and Ukraine may lead to a prolonged period of instability in the region, affecting aviation and cargo operations, as well as the overall security of personnel and assets.",
+      "operational_impact": "The attack on Taman port may cause delays or disruptions to cargo shipments and aviation operations in the region, and may also impact the security of personnel and assets.",
+      "proximity_alert": null
+    }
   }
 ]
