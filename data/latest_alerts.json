@@ -17,5 +17,43 @@
       "operational_impact": "Potential disruption to oil supplies, increased security measures for oil ports and transportation infrastructure, possible impact on global supply chains and logistics",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "553a537b291d614609ac4f831eb7cce2",
+    "timestamp": "2026-02-15T14:01:06.900585",
+    "original_title": "Doctors Without Borders scales back some work at a Gaza hospital following staff reports presence of gunmen and possible weapons",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1r5eibu/doctors_without_borders_scales_back_some_work_at/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 7,
+      "location": "Gaza",
+      "latitude": 31.5,
+      "longitude": 34.45,
+      "detailed_analysis": "Presence of gunmen and possible weapons at a hospital in Gaza has led Doctors Without Borders to scale back some of their work, indicating a heightened security risk in the area.",
+      "immediate_forecast_24h": "Increased tensions and potential for further violence in the Gaza region, potentially affecting medical and humanitarian operations.",
+      "strategic_outlook": "Long-term instability in the region may continue to impact humanitarian efforts and pose a risk to personnel and assets.",
+      "operational_impact": "Transport and logistics operations in the region may be affected due to the increased security risk, and medical evacuations or humanitarian aid deliveries may be compromised.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "09984547e4cd0b9cf7ee41de43c952ae",
+    "timestamp": "2026-02-15T14:01:10.346161",
+    "original_title": "AU Summit: Guterres and Youssouf urge action on Sudan, Palestine",
+    "link": "https://www.france24.com/en/au-summit-guterres-and-youssouf-urge-action-on-sudan-palestine",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Addis Ababa, Ethiopia",
+      "latitude": 9.0,
+      "longitude": 38.7,
+      "detailed_analysis": "The ongoing civil war in Sudan poses significant threats to regional stability, with potential spillover effects into neighboring countries, including Ethiopia, where the African Union summit is being held. The rivalry between Saudi Arabia and the United Arab Emirates is exacerbating the conflict, which could lead to increased tensions and violence in the region.",
+      "immediate_forecast_24h": "The situation is likely to remain volatile, with a high risk of protests and unrest in the vicinity of the summit. There is also a risk of terrorist attacks or other security incidents, particularly given the high-profile nature of the event.",
+      "strategic_outlook": "The long-term outlook for the region is uncertain, with the potential for ongoing conflict and instability in Sudan and neighboring countries. This could have significant implications for regional trade and economic development, as well as for the safety and security of personnel and assets in the region.",
+      "operational_impact": "The conflict in Sudan and regional tensions could impact transport and logistics operations, particularly in the aviation and cargo sectors. There may be disruptions to flights, cargo shipments, and other transportation services, particularly if the conflict escalates or spreads to neighboring countries.",
+      "proximity_alert": "YAKIN TEHDİT: Addis Ababa Bole International Airport (10 km)"
+    }
   }
 ]
