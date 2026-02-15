@@ -1,24 +1,5 @@
 [
   {
-    "id": "41022bb2f066db12a70d8a35b3227e08",
-    "timestamp": "2026-02-15T13:06:27.489026",
-    "original_title": "Ukrainian drones hit key Russian oil port, local governor says",
-    "link": "https://www.reddit.com/r/worldnews/comments/1r5dogw/ukrainian_drones_hit_key_russian_oil_port_local/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict/Aviation",
-      "risk_score": 8,
-      "location": "Russian oil port, Russia",
-      "latitude": 47.0,
-      "longitude": 39.0,
-      "detailed_analysis": "Ukrainian drones have hit a key Russian oil port, indicating an escalation of conflict and potential disruption to oil supplies. This could impact global energy markets and have significant economic implications.",
-      "immediate_forecast_24h": "Increased tensions between Ukraine and Russia, potential for further drone attacks or retaliation. Oil prices may fluctuate in response to the attack.",
-      "strategic_outlook": "Long-term disruption to Russian oil exports could have significant geopolitical implications, potentially altering global energy dynamics and influencing international relations.",
-      "operational_impact": "Potential disruption to oil supplies, increased security measures for oil ports and transportation infrastructure, possible impact on global supply chains and logistics",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "553a537b291d614609ac4f831eb7cce2",
     "timestamp": "2026-02-15T14:01:06.900585",
     "original_title": "Doctors Without Borders scales back some work at a Gaza hospital following staff reports presence of gunmen and possible weapons",
@@ -54,6 +35,25 @@
       "strategic_outlook": "The long-term outlook for the region is uncertain, with the potential for ongoing conflict and instability in Sudan and neighboring countries. This could have significant implications for regional trade and economic development, as well as for the safety and security of personnel and assets in the region.",
       "operational_impact": "The conflict in Sudan and regional tensions could impact transport and logistics operations, particularly in the aviation and cargo sectors. There may be disruptions to flights, cargo shipments, and other transportation services, particularly if the conflict escalates or spreads to neighboring countries.",
       "proximity_alert": "YAKIN TEHDİT: Addis Ababa Bole International Airport (10 km)"
+    }
+  },
+  {
+    "id": "ae1989e2e283873965c66505f350884e",
+    "timestamp": "2026-02-15T14:55:37.460279",
+    "original_title": "Ukraine hits Russia's BK-16 landing craft in Crimea and other targets in Russian-occupied territories, military says",
+    "link": "https://www.reddit.com/r/worldnews/comments/1r5ft3k/ukraine_hits_russias_bk16_landing_craft_in_crimea/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Crimea, Ukraine",
+      "latitude": 44.9343,
+      "longitude": 34.1067,
+      "detailed_analysis": "Ukrainian military has hit Russia's BK-16 landing craft in Crimea and other targets in Russian-occupied territories, indicating an escalation of conflict in the region. This could lead to increased tensions and potential disruptions to transport and logistics in the area.",
+      "immediate_forecast_24h": "Increased military activity and potential retaliation from Russian forces, posing a high risk to assets, cargo, aviation, and personnel in the region.",
+      "strategic_outlook": "Long-term instability and conflict in the region could lead to sustained disruptions to trade and commerce, with potential spillover effects on global markets and supply chains.",
+      "operational_impact": "Transport and logistics operations in the region may be severely impacted, with potential delays, disruptions, or even cessation of services. Aviation and maritime traffic may be particularly affected, with increased risk of accidents or attacks.",
+      "proximity_alert": "YAKIN TEHDİT: Simferopol International Airport (15 km)"
     }
   }
 ]
