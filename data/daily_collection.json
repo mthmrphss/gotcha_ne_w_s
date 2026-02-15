@@ -150,5 +150,43 @@
       "operational_impact": "The attack on Taman port may cause delays or disruptions to cargo shipments and aviation operations in the region, and may also impact the security of personnel and assets.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "03da9943bfce92916640f4d9a8ee0538",
+    "timestamp": "2026-02-15T08:46:40.140929",
+    "original_title": "From concept to consequence: How S4x26, BSides ICS and Industrial Cyber Days are reframing OT security - Industrial Cyber",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZnB2dmxmR3U1T1oyNklZOFFtSm13T2JZaENlSXpyalRTRWU5Z044YTNULUxFaFItT1U2SnE2aVpfY3FGSTh0Rl9LR1dRclBfWnVzcjdwV3NsNUFwdlRIUk9zdTh4SUxjM0ZNT3dSMGxvOFA0VjY3N2wwRU92aG9yLXlrQW9QNGZ2Q3NhdmNuMmk4LVplMjR3NEM4bWQ1RHFYWU9lQVJIcXdzRFpOSGhFNmFOQTk0Z0dxcDJydVk5OTBLaVltSS1UeWhRdnFpYW9TZ0x3?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 6,
+      "location": "Global",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "The event discusses the reframing of OT security through conferences like S4x26, BSides ICS, and Industrial Cyber Days, indicating a growing focus on industrial cyber security threats which could potentially impact critical infrastructure and logistics.",
+      "immediate_forecast_24h": "Increased awareness and discussion among industry professionals about OT security threats, potentially leading to improved security measures and incident response plans.",
+      "strategic_outlook": "Long-term improvement in OT security posture across industries, reducing the risk of cyber attacks on critical infrastructure and logistics operations.",
+      "operational_impact": "Potential for enhanced security protocols and increased vigilance among logistics and transport operators, which could lead to minor operational disruptions but ultimately improve the security of assets, cargo, aviation, and personnel.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "d575e78cf46f8e9f47324e7f63c94d9b",
+    "timestamp": "2026-02-15T08:46:45.353465",
+    "original_title": "Iran Admits Students Killed in Protests",
+    "link": "https://www.reddit.com/r/worldnews/comments/1r59ivn/iran_admits_students_killed_in_protests/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Iran has admitted that students were killed in recent protests, indicating a high level of unrest and potential for further violence. This could impact aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Increased protests and potential for clashes between protesters and security forces, potentially disrupting transport and logistics operations.",
+      "strategic_outlook": "Long-term instability in Iran could lead to sustained disruptions to transport and logistics, particularly if protests escalate or spread to other areas.",
+      "operational_impact": "Potential disruptions to air travel, cargo shipments, and personnel movements in and out of Iran, with possible spillover effects into neighboring countries.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
   }
 ]
