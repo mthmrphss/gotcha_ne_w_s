@@ -188,5 +188,81 @@
       "operational_impact": "Potential disruptions to air travel, cargo shipments, and personnel movements in and out of Iran, with possible spillover effects into neighboring countries.",
       "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
     }
+  },
+  {
+    "id": "7e92f73c80b96958f01b129f876c696f",
+    "timestamp": "2026-02-15T09:39:45.754285",
+    "original_title": "Disarmament of Gaza terror groups condition for reconstruction, says Mladenov - JNS.org",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLTlYWmJOV21QZWViOEp0VFQwRDFfOFBjNF9Sd05INTJ6TWlWNmItcVpla1A4cEVHb0V6V21OSFpra0hMcXUtZ2JTMTB6cU1uVFZnQ1pLZ05zRU9EamZXVThoX1QtWGNfTHBJaXZpT3plNHh4clBONkRUalZxeExRTlUyWXFzUkttWUI0dW4zVHNkZDR4S3YzM1FyaUViUQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict",
+      "risk_score": 8,
+      "location": "Gaza",
+      "latitude": 31.5,
+      "longitude": 34.45,
+      "detailed_analysis": "The disarmament of Gaza terror groups is a condition for reconstruction, indicating a high level of threat to assets, cargo, aviation, and personnel in the region due to potential terrorist activities.",
+      "immediate_forecast_24h": "Increased tensions and potential for violence in the Gaza region, with a high risk of attacks on Israeli targets and interests.",
+      "strategic_outlook": "Long-term instability in the region, with ongoing conflicts between Israel and Gaza-based terror groups, posing a persistent threat to regional security and transport/logistics operations.",
+      "operational_impact": "Potential disruptions to air transport and logistics in the region, with increased security measures and possible restrictions on cargo and personnel movement.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "c61c7019c1b754e4ca51c678bea5249d",
+    "timestamp": "2026-02-15T09:39:49.137180",
+    "original_title": "U.S. Deports Nine Migrants in Secret, Ignoring Legal Protections",
+    "link": "https://www.nytimes.com/2026/02/14/world/africa/us-secret-deportation-cameroon.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Border",
+      "risk_score": 10,
+      "location": "Cameroon, Africa",
+      "latitude": 3.87,
+      "longitude": 11.52,
+      "detailed_analysis": "The U.S. deportation of nine migrants to Cameroon despite court orders protecting them from removal poses a risk to personnel and potentially to aviation if the situation escalates into unrest or protests at airports or border crossings.",
+      "immediate_forecast_24h": "Tensions may rise among migrant communities and advocacy groups, potentially leading to small-scale protests or demonstrations at airports or border crossings.",
+      "strategic_outlook": "The long-term implications of such actions could strain international relations and lead to increased scrutiny of deportation practices, potentially affecting aviation and logistics operations.",
+      "operational_impact": "The immediate operational impact is low, but there is a potential for disruptions at airports or border crossings if protests occur, which could delay flights or cargo shipments.",
+      "proximity_alert": "YAKIN TEHDİT: Yaoundé Nsimalen International Airport (0 km)"
+    }
+  },
+  {
+    "id": "dc5e97f329ed48912d95a4a9983e7e51",
+    "timestamp": "2026-02-15T09:39:52.932388",
+    "original_title": "Nigeria's central region sees another armed attack, at least 46 dead",
+    "link": "http://www.africanews.com/2026/02/15/nigerias-central-region-sees-another-armed-attack-at-least-46-dead/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest/Terrorism",
+      "risk_score": 10,
+      "location": "Central Region, Nigeria",
+      "latitude": 9.0,
+      "longitude": 7.0,
+      "detailed_analysis": "Armed motorcycle-riding gunmen attacked three villages, killing at least 46 people, indicating a high level of violence and instability in the region, posing a significant threat to personnel and potentially disrupting cargo and aviation operations.",
+      "immediate_forecast_24h": "Further attacks are possible in the next 24 hours, and the situation is likely to remain volatile, with potential for additional violence and unrest.",
+      "strategic_outlook": "The long-term outlook for the region remains uncertain, with ongoing instability and violence likely to continue, posing a persistent threat to assets, cargo, aviation, and personnel.",
+      "operational_impact": "The attack may disrupt logistics and transportation operations in the region, particularly for cargo and personnel, and aviation operations may be affected by the increased security risk.",
+      "proximity_alert": "YAKIN TEHDİT: Nnamdi Azikiwe International Airport (29 km)"
+    }
+  },
+  {
+    "id": "9782d83f8d7c63806398aa8133c66a84",
+    "timestamp": "2026-02-15T09:39:54.880419",
+    "original_title": "French tourism group of which one died during visit to leave Chad",
+    "link": "http://www.africanews.com/2026/02/15/french-tourism-group-of-which-one-died-during-visit-to-leave-chad/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Other",
+      "risk_score": 10,
+      "location": "N'Djamena, Chad",
+      "latitude": 12.1067,
+      "longitude": 15.0443,
+      "detailed_analysis": "A French tourist was found dead during a group visit to Chad, prompting the tourist group to leave the country. The incident does not appear to be directly related to aviation, cargo, or border security threats.",
+      "immediate_forecast_24h": "The tourist group is expected to depart Chad without further incidents. Local authorities may increase security measures to prevent similar incidents in the future.",
+      "strategic_outlook": "The incident may impact tourism in Chad, potentially leading to increased security measures for tourist groups. However, it does not appear to pose a significant threat to regional stability or transport logistics.",
+      "operational_impact": "Minimal impact on transport and logistics operations. Tourist groups may face increased security screening or precautions, but overall operations are expected to continue without significant disruptions.",
+      "proximity_alert": "YAKIN TEHDİT: N'Djamena International Airport (3 km)"
+    }
   }
 ]
