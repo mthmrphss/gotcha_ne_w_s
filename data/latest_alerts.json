@@ -17,5 +17,62 @@
       "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics operations in the region. Increased security measures and screening may cause delays, and there is a risk of conflict or terrorism affecting transport infrastructure and personnel.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "e29f3a91be15d1294c7e6616400fa970",
+    "timestamp": "2026-02-15T22:32:57.364130",
+    "original_title": "Ukrainian drone attack targets multiple Russian oblasts, Bryansk reportedly left largely without electricity",
+    "link": "https://www.reddit.com/r/worldnews/comments/1r5rggo/ukrainian_drone_attack_targets_multiple_russian/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Bryansk, Russia",
+      "latitude": 53.2528,
+      "longitude": 34.3747,
+      "detailed_analysis": "A Ukrainian drone attack has targeted multiple Russian oblasts, with Bryansk reportedly left largely without electricity. This attack poses a significant threat to aviation and personnel in the region.",
+      "immediate_forecast_24h": "Increased military activity and potential for further drone attacks in the region, potentially disrupting air traffic and logistics operations.",
+      "strategic_outlook": "Escalation of the conflict between Ukraine and Russia, potentially leading to increased instability and security risks in the region, affecting aviation, cargo, and personnel.",
+      "operational_impact": "Potential disruptions to air traffic, logistics, and supply chain operations in the region, with increased security measures and potential for further attacks on critical infrastructure.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "aae2c6ec396da2e5f95ec04a7462c393",
+    "timestamp": "2026-02-15T22:33:00.332046",
+    "original_title": "Israeli strike in eastern Lebanon kills four, targets Islamic Jihad",
+    "link": "https://www.france24.com/en/middle-east/20260215-lebanon-dead-strike-israel-palestinian-group",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "Eastern Lebanon",
+      "latitude": 34.1833,
+      "longitude": 36.5167,
+      "detailed_analysis": "An Israeli strike near the Syrian border in eastern Lebanon has killed four people, with Israel claiming the targets were operatives from the Palestinian militant group Islamic Jihad. This incident indicates ongoing hostilities despite a truce intended to end over a year of Israel-Hezbollah conflicts.",
+      "immediate_forecast_24h": "Increased tensions between Israel and militant groups in Lebanon are expected, potentially leading to further strikes or retaliatory actions within the next 24 hours.",
+      "strategic_outlook": "The long-term outlook suggests continued instability in the region, with periodic escalations of violence between Israel and various militant groups, posing a persistent threat to aviation and ground transport in and around Lebanon.",
+      "operational_impact": "The strike and potential for future incidents may disrupt air traffic and ground logistics in the region, affecting cargo transport and personnel movement. Enhanced security measures and vigilance are advised for operations in or near eastern Lebanon.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "8f499e0c4447571d34e268c7b9d2e5f0",
+    "timestamp": "2026-02-15T22:33:04.090903",
+    "original_title": "Pilots of SAS Flight To Malaga Forced To Divert After Passengers Spot Rodent Stowaway",
+    "link": "https://www.paddleyourownkanoo.com/2026/02/15/pilots-of-sas-flight-to-malaga-forced-to-divert-after-passengers-spot-rodent-stowaway/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Aviation/Border",
+      "risk_score": 10,
+      "location": "Stockholm, Sweden",
+      "latitude": 59.3293,
+      "longitude": 18.0686,
+      "detailed_analysis": "A rodent stowaway was spotted by passengers on an SAS Scandinavian Airlines flight from Stockholm to Malaga, forcing the pilots to divert the flight. This incident highlights the potential vulnerability of aviation security to unauthorized access by stowaways, which could pose a risk to the safety of passengers and crew.",
+      "immediate_forecast_24h": "The diverted flight is expected to resume its journey after a thorough inspection and cleaning of the aircraft. There is a low likelihood of similar incidents occurring in the next 24 hours, but airlines and airport authorities may increase security measures to prevent stowaways.",
+      "strategic_outlook": "The long-term impact of this incident may lead to a review of aviation security protocols to prevent stowaways, including the use of more effective screening methods and increased collaboration between airlines, airports, and border control agencies.",
+      "operational_impact": "The diversion of the flight may cause delays and disruptions to the travel plans of passengers, and airlines may need to implement additional security measures to prevent similar incidents, which could result in increased costs and operational complexities.",
+      "proximity_alert": "YAKIN TEHDİT: Clarion Hotel (1 km)"
+    }
   }
 ]
