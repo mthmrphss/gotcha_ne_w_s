@@ -625,5 +625,43 @@
       "operational_impact": "The boarding of the oil tanker may cause delays or rerouting of nearby vessels, potentially impacting global oil supplies and logistics. The incident underscores the importance of robust security measures for maritime assets and cargo.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "62359b0e8286587fb4c8b3bce28790d9",
+    "timestamp": "2026-02-15T19:32:59.818218",
+    "original_title": "At least 6,000 killed over 3 days during RSF attack on Sudan's el-Fasher, UN says - NPR",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSXRkUURGNFhVRDVOenlCQzJLVW9IdmNOY05iRVlLcXZuXzUxemRwaEl6dlNCc29ENHhvLVVTMmpqYWNIQnhJTEVFZ3VPUmF5T1hmSm0wNWJwNkh6VDNnVmFYU3JnaFAtRmxkZ2RQT2N4NDg3WmFod2VfNUlnWDJReDBPN2NmelJvd2YwQ2hFTDZabXNzbGhfLQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "el-Fasher, Sudan",
+      "latitude": 13.6333,
+      "longitude": 25.3333,
+      "detailed_analysis": "Reports indicate a significant attack by the RSF on el-Fasher, resulting in at least 6,000 casualties over a 3-day period. This level of violence poses a substantial threat to assets, personnel, and potentially aviation in the region.",
+      "immediate_forecast_24h": "Expect continued instability and potential for further violence in the short term, with possible disruptions to local transport and logistics.",
+      "strategic_outlook": "The long-term outlook for the region remains uncertain, with potential for ongoing conflict and instability. This could lead to sustained disruptions to transport and logistics, as well as increased risks for assets and personnel.",
+      "operational_impact": "The attack and subsequent instability are likely to impact local and regional transport and logistics operations, potentially disrupting supply chains and posing risks to cargo and personnel.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "2781dd88469e0b42a4dfbde181ffe5f8",
+    "timestamp": "2026-02-15T19:33:03.919981",
+    "original_title": "A KLM Dreamliner declared an emergency while flying over Atlantic and diverted to Iceland - airlive",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNlBBdnZzbFozR2pHbGhCb0ZpaU1fVC00Vmg1OXRSM0tEVllJMk56RGdrSWYxLWx6bE9UV2U5UDgxX2F4SjNaMTg4V2V3eWQ2SUhWajByWlVCTnBrTEs5ZXdYTzFJOE9HVm4zWDh1emd2ZkNGLXYzSTBDRXR3LU14a2IxYUE0T19GOUxoUENCOThZVFdTOHQ3Y2QweTRoSDdXVWozXzlnbG5lMHpHSFY5VldaMGZlT0s1ZHFuNDM5cEpoSlBzSmdFVlVjTQ?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 6,
+      "location": "Iceland",
+      "latitude": 64.9631,
+      "longitude": -19.0204,
+      "detailed_analysis": "A KLM Dreamliner declared an emergency while flying over the Atlantic and diverted to Iceland, indicating a potential technical issue or other safety concern that could impact aviation operations",
+      "immediate_forecast_24h": "The situation is being monitored, and further information is expected to be released regarding the cause of the emergency and any potential impact on KLM's operations",
+      "strategic_outlook": "This incident highlights the importance of aviation safety and the need for airlines to have robust emergency procedures in place to ensure the safety of passengers and crew",
+      "operational_impact": "The diversion of the flight may cause disruptions to KLM's schedule and potentially impact cargo and passenger operations, but the full extent of the impact is not yet clear",
+      "proximity_alert": null
+    }
   }
 ]
