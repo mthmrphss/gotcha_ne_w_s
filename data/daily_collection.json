@@ -530,5 +530,24 @@
       "operational_impact": "Transport and logistics operations in the region may be disrupted due to the conflict, with potential risks to personnel, assets, and cargo. Aviation operations may also be impacted, with possible airspace restrictions or closures.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "3af7f7d84b0b467d70ddbb72ff479219",
+    "timestamp": "2026-02-15T16:39:30.273770",
+    "original_title": "Israeli strikes kill at least 12, Gaza civil defence agency says",
+    "link": "https://www.france24.com/en/middle-east/20260215-gaza-s-civil-defense-agency-says-israeli-airstrikes-killed-12",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "Gaza Strip",
+      "latitude": 31.5,
+      "longitude": 34.5,
+      "detailed_analysis": "Israeli air strikes on the Gaza Strip have resulted in at least 12 Palestinian casualties, with targets including a tent of displaced people and the city of Khan Younis, indicating a heightened state of conflict and potential for further escalation.",
+      "immediate_forecast_24h": "Further air strikes or retaliatory actions from Hamas are possible, potentially disrupting air traffic and posing a risk to aviation and personnel in the region.",
+      "strategic_outlook": "The conflict between Israel and Hamas may continue to escalate, posing a long-term risk to assets, cargo, and personnel in the region, and potentially disrupting logistics and transport operations.",
+      "operational_impact": "Air traffic and logistics operations in the region may be disrupted due to the conflict, with potential risks to personnel and assets, and cargo transport may be affected by the instability and potential for further violence.",
+      "proximity_alert": null
+    }
   }
 ]
