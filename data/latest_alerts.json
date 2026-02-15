@@ -1,24 +1,5 @@
 [
   {
-    "id": "3725f13945aa92fd05778844cf9c4edf",
-    "timestamp": "2026-02-15T21:32:02.471943",
-    "original_title": "Taliban says it would support Iran if US attacks",
-    "link": "https://www.reddit.com/r/worldnews/comments/1r5qite/taliban_says_it_would_support_iran_if_us_attacks/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict/Terrorism",
-      "risk_score": 8,
-      "location": "Afghanistan/Iran",
-      "latitude": 33.9391,
-      "longitude": 67.7101,
-      "detailed_analysis": "The Taliban's statement of support for Iran in the event of a US attack poses a significant threat to regional stability and potentially to aviation and cargo operations. This could lead to increased tensions, conflict, and disruptions to transport and logistics in the region.",
-      "immediate_forecast_24h": "Heightened alertness and security measures are expected in the region, with potential for increased military activity and diplomatic tensions. Aviation and cargo operations may be subject to additional screening and security checks.",
-      "strategic_outlook": "The long-term implications of this development could include a destabilization of the region, potentially leading to increased terrorism, conflict, and disruptions to global supply chains. This may require adjustments to risk assessments and security protocols for operations in the region.",
-      "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics operations in the region. Increased security measures and screening may cause delays, and there is a risk of conflict or terrorism affecting transport infrastructure and personnel.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "e29f3a91be15d1294c7e6616400fa970",
     "timestamp": "2026-02-15T22:32:57.364130",
     "original_title": "Ukrainian drone attack targets multiple Russian oblasts, Bryansk reportedly left largely without electricity",
@@ -73,6 +54,25 @@
       "strategic_outlook": "The long-term impact of this incident may lead to a review of aviation security protocols to prevent stowaways, including the use of more effective screening methods and increased collaboration between airlines, airports, and border control agencies.",
       "operational_impact": "The diversion of the flight may cause delays and disruptions to the travel plans of passengers, and airlines may need to implement additional security measures to prevent similar incidents, which could result in increased costs and operational complexities.",
       "proximity_alert": "YAKIN TEHDİT: Clarion Hotel (1 km)"
+    }
+  },
+  {
+    "id": "8fe21bfde5d023813f839e29c8110ddf",
+    "timestamp": "2026-02-15T23:34:31.185634",
+    "original_title": "At least 6,000 killed over 3 days during RSF attack on Sudan's el-Fasher, UN says - KUOW",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbW9henUtSG5PYnk5bU1nT3h6WnRsZkVrS1BSS1lGTnVhYlQ3YWptZFYwaTJoOVA2Ym1RZnBpVmc3bk5GVGFUbVBnU3dRRnBFa3hQRXlEUjVaY2JMMGlwc2xpay1TMGhSbWFmTmhRTlhtOXJRNFI3eEtRUWFRUjNtcWtUbDdMRWQ0S0I5VVUwQ1pTQW5xTWEtVU1DX2EzQ3NpajRKYVc2MUw1eFQxTlE?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "el-Fasher, Sudan",
+      "latitude": 13.6333,
+      "longitude": 25.3333,
+      "detailed_analysis": "Reports indicate a significant attack by the RSF on el-Fasher, Sudan, resulting in at least 6,000 casualties over a 3-day period. This event poses a substantial threat to personnel and assets in the region due to the high level of violence and instability.",
+      "immediate_forecast_24h": "Expect continued clashes and potential escalation of violence in the short term, with possible disruptions to local transport and logistics. The situation is highly volatile, and further attacks or retaliations are possible.",
+      "strategic_outlook": "The long-term outlook for the region remains uncertain, with potential for prolonged conflict and instability. This could lead to significant operational challenges for aviation, cargo transport, and personnel movement in and around Sudan.",
+      "operational_impact": "The conflict is likely to impact aviation operations, with potential for airspace restrictions or closures. Cargo transport and logistics may also be severely disrupted due to the violence and instability, posing significant risks to assets and personnel.",
+      "proximity_alert": null
     }
   }
 ]
