@@ -93,5 +93,24 @@
       "operational_impact": "Air travel and logistics may be affected, with potential delays and increased wait times for passengers and cargo.",
       "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
     }
+  },
+  {
+    "id": "7eaff2cdeec7bfb72eb6f13ce0c64a8d",
+    "timestamp": "2026-02-16T11:24:42.917306",
+    "original_title": "Syrian Army Crosses New Threshold With Advances in Kurdish Regions",
+    "link": "https://www.nytimes.com/2026/02/16/world/middleeast/syria-army-kurds-war.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 6,
+      "location": "Kurdish Regions, Syria",
+      "latitude": 36.4,
+      "longitude": 40.1,
+      "detailed_analysis": "The Syrian Army's advance into Kurdish regions poses a significant threat to regional stability, potentially disrupting transport and logistics operations. The conflict could lead to increased violence, displacement of people, and damage to infrastructure.",
+      "immediate_forecast_24h": "Escalating violence and clashes between the Syrian Army and Kurdish forces are expected, potentially affecting nearby airports, roads, and supply chains.",
+      "strategic_outlook": "The long-term implications of this conflict could lead to a unified Syrian government, but at the cost of Kurdish autonomy. This may result in ongoing instability and potential for future conflicts, affecting the region's security and transport infrastructure.",
+      "operational_impact": "Transport and logistics operations in the region may be severely impacted due to the conflict, with potential disruptions to supply chains, increased security risks for personnel, and damage to infrastructure.",
+      "proximity_alert": null
+    }
   }
 ]
