@@ -93,5 +93,43 @@
       "operational_impact": "The incident may cause delays or cancellations of flights, affecting passengers and cargo. The investigation and any subsequent actions may also impact the operations of Sao Paulo International Airport and LATAM Brasil.",
       "proximity_alert": "YAKIN TEHDİT: São Paulo/Guarulhos–Governador André Franco Montoro Int. Airport (0 km)"
     }
+  },
+  {
+    "id": "39c637776a8706cea53b7f8621f7babe",
+    "timestamp": "2026-02-16T21:36:22.504820",
+    "original_title": "US increases military pressure on Iran ahead of high-stakes talks - CNN",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBSWHlaM1ZRVFYtRDVQNEEwbk9LOU44aXZqbVU4dFpfb05YWko0TmljUGdJVDd0X1RDWTd4blhUTFV2T0FHeDJsRUtCVXBRbHMydDlKMkl2TUpiVEpMVEliamIxcVN2dTZENW5xSGx4Ml9JUlJxQjVJejBrVWRmZw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Iran, Middle East",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The US increasing military pressure on Iran ahead of high-stakes talks poses a significant threat to regional stability, potentially impacting aviation and cargo operations in the area.",
+      "immediate_forecast_24h": "Heightened tensions may lead to increased military activity, potentially disrupting air traffic and logistics in the region.",
+      "strategic_outlook": "Prolonged conflict or escalation could lead to long-term disruptions to global supply chains, particularly those relying on Middle Eastern air and sea routes.",
+      "operational_impact": "Airlines and cargo operators may need to reassess flight routes and security protocols, while personnel in the region should exercise increased caution due to the elevated risk of conflict.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "97461267eba1427b9b8f958992e290bc",
+    "timestamp": "2026-02-16T21:36:28.092391",
+    "original_title": "Kenya airport strike leaves thousands of passengers stranded",
+    "link": "http://www.africanews.com/2026/02/16/kenya-airport-strike-leaves-thousands-of-passengers-stranded/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Aviation/Civil Unrest",
+      "risk_score": 10,
+      "location": "Nairobi, Kenya",
+      "latitude": -1.2921,
+      "longitude": 36.8219,
+      "detailed_analysis": "A strike at Kenya's main airport has caused significant disruptions, delaying flights and leaving thousands of passengers stranded. The strike is a result of workers demanding better pay and improved work conditions, which could lead to further unrest if not resolved.",
+      "immediate_forecast_24h": "The situation is likely to continue, with potential for further disruptions and delays. Negotiations between workers and airport management may take place, but the outcome is uncertain.",
+      "strategic_outlook": "The long-term impact of the strike could be significant, potentially damaging Kenya's reputation as a reliable aviation hub. The strike may also have a ripple effect on the broader economy, impacting tourism and trade.",
+      "operational_impact": "The strike is causing significant disruptions to air travel, with flights delayed or cancelled. This is likely to have a major impact on logistics and supply chains, particularly for time-sensitive cargo.",
+      "proximity_alert": "YAKIN TEHDİT: Jomo Kenyatta International Airport (12 km)"
+    }
   }
 ]
