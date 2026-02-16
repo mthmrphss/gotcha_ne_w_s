@@ -17,5 +17,81 @@
       "operational_impact": "The unrest may impact transport and logistics in the region, particularly if protests or demonstrations block roads or disrupt public transportation.",
       "proximity_alert": "YAKIN TEHDİT: Lyon–Saint Exupéry Airport (18 km)"
     }
+  },
+  {
+    "id": "9a9ecefb4f35ce215d96108a3b30443d",
+    "timestamp": "2026-02-16T14:51:16.941574",
+    "original_title": "Ukrainian forces hit several 'important' Russian military targets in 3 regions, General Staff says",
+    "link": "https://www.reddit.com/r/worldnews/comments/1r6antz/ukrainian_forces_hit_several_important_russian/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "Ukrainian forces have hit several important Russian military targets in 3 regions, indicating an escalation of conflict. The use of drones in these attacks poses a significant threat to aviation and military assets.",
+      "immediate_forecast_24h": "Increased military activity and potential retaliation from Russian forces, posing a high risk to aviation and personnel in the region.",
+      "strategic_outlook": "The conflict is likely to continue, with potential long-term impacts on regional stability, trade, and transport logistics.",
+      "operational_impact": "Potential disruptions to air traffic, increased security measures, and risks to personnel and assets in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "65b9d69431fd1b46e92987677a175667",
+    "timestamp": "2026-02-16T14:51:18.715742",
+    "original_title": "Former Energy Minister detained at border in Ukraine's biggest corruption case, NABU says",
+    "link": "https://www.reddit.com/r/worldnews/comments/1r6ajiu/former_energy_minister_detained_at_border_in/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Crime/Border",
+      "risk_score": 6,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "The detention of a former Energy Minister at the border in Ukraine's biggest corruption case may indicate increased scrutiny and security measures at border crossings, potentially affecting cargo and personnel movement.",
+      "immediate_forecast_24h": "Enhanced security checks and possible delays at border crossings in Ukraine, particularly for high-profile individuals or those involved in the energy sector.",
+      "strategic_outlook": "Ukraine's efforts to combat corruption may lead to increased transparency and accountability, potentially reducing the risk of cargo theft, smuggling, and other crimes in the long term.",
+      "operational_impact": "Transport and logistics operations in Ukraine may experience short-term disruptions due to increased security measures, but the overall impact is expected to be minimal.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "18025db10450d162db237ec8250bdcf7",
+    "timestamp": "2026-02-16T14:51:21.095700",
+    "original_title": "Nigerian Muslims look to Ramadan for peace after US strikes",
+    "link": "http://www.africanews.com/2026/02/16/nigerian-muslims-look-to-ramadan-for-peace-after-us-strikes/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 6,
+      "location": "Northern Nigeria",
+      "latitude": 10.0,
+      "longitude": 10.0,
+      "detailed_analysis": "The recent US air strikes targeting Islamist militants in northern Nigeria may lead to increased tensions and potential retaliatory attacks during the Muslim holy month of Ramadan, posing a threat to aviation and regional stability.",
+      "immediate_forecast_24h": "Heightened security measures are expected in the region, with potential for increased militant activity or protests, but no specific threats to aviation or cargo have been reported in the short term.",
+      "strategic_outlook": "The long-term outlook remains uncertain, with the potential for ongoing conflict and instability in the region, which could impact aviation and logistics operations, particularly if militant groups seek to target Western or US interests.",
+      "operational_impact": "Transport and logistics operations in the region may face increased security checks, potential delays, or route changes due to the heightened security environment, but no immediate disruptions have been reported.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "ad1f63e2c9a5b5b27b01c7f49a204d0c",
+    "timestamp": "2026-02-16T14:51:22.945902",
+    "original_title": "Russia using Africans as 'cannon fodder' in Ukraine: INPACT/All Eyes on Wagner",
+    "link": "https://www.france24.com/en/tv-shows/perspective/20260216-russia-using-africans-as-cannon-fodder-in-ukraine-war-inpact-all-eyes-on-wagner",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Ukraine, Africa",
+      "latitude": 48.3794,
+      "longitude": 31.1656,
+      "detailed_analysis": "Russia is recruiting soldiers from Africa to fight in Ukraine, with over 300 reported killed, posing a significant threat to personnel and potentially destabilizing the region",
+      "immediate_forecast_24h": "Increased tensions between Russia and Ukraine, potential for further recruitment and deployment of African soldiers",
+      "strategic_outlook": "Long-term implications for regional stability, potential for escalation of conflict, and impact on global security",
+      "operational_impact": "Potential disruption to transport and logistics in the region, increased risk to personnel and assets",
+      "proximity_alert": null
+    }
   }
 ]
