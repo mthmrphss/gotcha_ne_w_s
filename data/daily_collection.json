@@ -568,5 +568,43 @@
       "operational_impact": "Potential disruption to transport and logistics in the region, increased risk to personnel and assets",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "602745ebf8488eb6b7bf1ef778acf925",
+    "timestamp": "2026-02-16T16:55:21.129205",
+    "original_title": "Ukrainian military destroys Pantsir-S1 air defense system in another attack on Crimea, Kyiv says",
+    "link": "https://www.reddit.com/r/worldnews/comments/1r6dw4l/ukrainian_military_destroys_pantsirs1_air_defense/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 10,
+      "location": "Crimea, Ukraine",
+      "latitude": 44.9343,
+      "longitude": 34.1067,
+      "detailed_analysis": "The Ukrainian military has reportedly destroyed a Pantsir-S1 air defense system in Crimea, indicating an escalation of conflict in the region. This could pose a significant threat to aviation assets and personnel operating in the area.",
+      "immediate_forecast_24h": "Increased military activity and potential for further attacks on air defense systems, posing a risk to aircraft and personnel in the region.",
+      "strategic_outlook": "The conflict in Ukraine is likely to continue, with potential for further escalation and impact on regional aviation and logistics operations.",
+      "operational_impact": "Potential disruption to air traffic and logistics operations in the region, with increased risk to personnel and assets. Airlines and logistics operators should exercise caution and consider alternative routes or measures to mitigate risk.",
+      "proximity_alert": "YAKIN TEHDİT: Simferopol International Airport (15 km)"
+    }
+  },
+  {
+    "id": "2bb4db389c2d847abb15370c2a789906",
+    "timestamp": "2026-02-16T16:55:23.754799",
+    "original_title": "Drone attack on Sudan market kills 28: rights group",
+    "link": "http://www.africanews.com/2026/02/16/drone-attack-on-sudan-market-kills-28-rights-group/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 10,
+      "location": "Sudan",
+      "latitude": 15.6333,
+      "longitude": 32.5333,
+      "detailed_analysis": "A drone attack on a market in Sudan has resulted in 28 fatalities, indicating a significant threat to personnel and potentially to aviation assets. The use of drones in such attacks poses a considerable risk to both military and civilian targets.",
+      "immediate_forecast_24h": "Increased security measures are expected in the region, with potential for further drone sightings or attacks. Aviation operations may be impacted due to heightened security protocols.",
+      "strategic_outlook": "The long-term implications of this event could include increased tensions in the region, potentially leading to more frequent and severe attacks. This may necessitate the implementation of enhanced security measures for aviation and logistics operations.",
+      "operational_impact": "The attack may lead to disruptions in logistics and transportation services, particularly in areas with high security risks. Cargo and personnel movement may be restricted or subject to additional screening and security checks.",
+      "proximity_alert": "YAKIN TEHDİT: Khartoum International Airport (5 km)"
+    }
   }
 ]
