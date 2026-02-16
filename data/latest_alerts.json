@@ -1,59 +1,78 @@
 [
   {
-    "id": "11fab9ef1c8223fb55ced92a5391ddcb",
-    "timestamp": "2026-02-16T05:05:51.347157",
-    "original_title": "Syrian army takes over al-Shaddadi base after US withdrawal - Al Jazeera",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZEdzaF9tN29tVWIxR3hJYk1sb1pUSnpzczBjeVc5ZjBJLVRoSXotNG9ocVY2YzlfN0FZOTF0ajF1S2k4aENEOGNXWXN4ZnJCZkJqNHVVS2xqVm5ONXExdlFVQVJHcG1VX0MyVVJNX0lhb2dWamNwc3J5Um5Zdm5RSGg4MjdTZ3dvNk1PVVE1LUFBUlpJUUcydVRPRDRHUl9HM3fSAacBQVVfeXFMT0p1SU5UN2RIb2pWb2pqbHpoWlktZThPVXBXamdRclVaSE13eEZCenIxVzd4ZlprNVFUNXVQcGdEZWNHZEZtbUY3ZERiMzNDanN3YjhIUDVWMnRWeEJPdXpvMU8tZlhGYjFXVlVOOEZUM0U3RmU2UEhudmxrTVc1MXlpelhieUN5ZGNlS0lCaDRza0VDcnhPeUZMZzVYT2JKYlhueUZVaUk?oc=5",
+    "id": "bcdef8225cb82c8feecacf0eb0a96bae",
+    "timestamp": "2026-02-16T06:41:45.003637",
+    "original_title": "2 severely injured after plane crashes into Ventura County canal - CBS News",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNGNEQUZLWERxSlFKY1BPWFkzR2hJOUJQTUROcGVrZ2VUbnVaVUVmMU1iYV96cG9rSTVzM24tSll3Y05pLWYwUXgtQ2F4Q2VBbVBhUGRGdkpvM0xFemt5WTFNMmR3NFRmaTNxbFFBSy1OTDBDaG41dm1Gck1PSmlQZ2Z2S204N1d0ZEZmQXZ0NlBUeFQxNWNSY0ViYjNOSDdBLTJB?oc=5",
     "source_name": "Google News (Breaking)",
     "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 7,
-      "location": "al-Shaddadi, Syria",
-      "latitude": 36.0567,
-      "longitude": 40.7297,
-      "detailed_analysis": "The Syrian army has taken over the al-Shaddadi base after the US withdrawal, which may lead to increased instability and conflict in the region, potentially affecting aviation and cargo operations.",
-      "immediate_forecast_24h": "Increased military activity and potential clashes between Syrian government forces and other groups in the region, which may disrupt air traffic and logistics operations.",
-      "strategic_outlook": "Long-term instability and conflict in the region may lead to increased security risks for aviation and cargo operations, potentially affecting transport and logistics in the Middle East.",
-      "operational_impact": "Potential disruption to air traffic and logistics operations in the region, with possible delays or cancellations of flights and cargo shipments.",
+      "category": "Aviation",
+      "risk_score": 8,
+      "location": "Ventura County, USA",
+      "latitude": 34.2744,
+      "longitude": -119.2932,
+      "detailed_analysis": "A plane crash into a canal in Ventura County has resulted in 2 severe injuries, indicating a significant aviation incident with potential risks to personnel and assets.",
+      "immediate_forecast_24h": "Emergency response and investigation are expected to be underway, with possible disruptions to local air traffic and waterways.",
+      "strategic_outlook": "The incident may lead to a review of aviation safety protocols and emergency response procedures in the region, potentially impacting future flight operations and personnel training.",
+      "operational_impact": "The crash may cause temporary disruptions to local aviation and waterway operations, but it is unlikely to have a significant long-term impact on regional transport and logistics.",
       "proximity_alert": null
     }
   },
   {
-    "id": "b15885cd24a51339295a70cd1140ae72",
-    "timestamp": "2026-02-16T05:05:57.513811",
-    "original_title": "Doctors Without Borders suspends some work at Gaza’s Nasser Hospital due to presence of armed men",
-    "link": "https://www.reddit.com/r/worldnews/comments/1r60ids/doctors_without_borders_suspends_some_work_at/",
+    "id": "444687e421803243bfa6e170ad76ce1b",
+    "timestamp": "2026-02-16T06:41:47.280757",
+    "original_title": "New Chrome Zero-Day (CVE-2026-2441) Under Active Attack — Patch Released - The Hacker News",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaF9Kd1N2Q2MzNE5RR2RGd1kybVRBYVdHc196aXNKbmxWOHR2VEktNC12UW5PTDdPRkhGbzRpVFBxNzFXemlLeVIwcGpaZy1XM0g2djJUa3hVcktONXFvVnFHZEprZXVLZEd6MXZQNTEwVmZxb2hRRWFQN1E1RmloWkxEY3o?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 8,
+      "location": "Global",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "A new Chrome zero-day vulnerability (CVE-2026-2441) is under active attack. A patch has been released, but users are at risk until they update their browsers. This vulnerability could be used to compromise user systems, potentially affecting personnel and assets that rely on Chrome for daily operations.",
+      "immediate_forecast_24h": "Expect increased attacks exploiting this vulnerability in the next 24 hours as more attackers become aware of it. Users should update their Chrome browsers as soon as possible to mitigate the risk.",
+      "strategic_outlook": "The discovery and exploitation of this zero-day vulnerability highlight the ongoing threat of cyberattacks to all sectors, including aviation and logistics. It underscores the importance of keeping software up to date and having robust cybersecurity measures in place.",
+      "operational_impact": "The operational impact could be significant if the vulnerability is exploited to compromise systems used in aviation, cargo handling, or other critical infrastructure. Prompt patching of Chrome and monitoring for suspicious activity are essential to mitigate this risk.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "a6596b4b94e6e1ef3bf4cb64865107b7",
+    "timestamp": "2026-02-16T06:41:52.157920",
+    "original_title": "US says it caused dollar shortage to trigger Iran protests",
+    "link": "https://www.reddit.com/r/worldnews/comments/1r6225r/us_says_it_caused_dollar_shortage_to_trigger_iran/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The US has admitted to causing a dollar shortage in Iran, which triggered protests. This could lead to further unrest and potentially impact cargo and personnel movement in the region.",
+      "immediate_forecast_24h": "Increased protests and demonstrations are expected in the next 24 hours, potentially disrupting transportation and logistics operations.",
+      "strategic_outlook": "The situation may escalate into a full-blown conflict, affecting regional stability and global trade. Aviation and cargo operations may be impacted, and security measures should be heightened.",
+      "operational_impact": "Transportation and logistics operations in Iran may be disrupted due to the protests. Cargo and personnel movement may be delayed or suspended, and alternative routes should be considered.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "537f80f238efe622f0deaf34adcc0447",
+    "timestamp": "2026-02-16T06:41:53.999802",
+    "original_title": "Japan protests China comments on reviving 'militarism'",
+    "link": "https://www.reddit.com/r/worldnews/comments/1r60yr8/japan_protests_china_comments_on_reviving/",
     "source_name": "Reddit r/WorldNews",
     "ai_analysis": {
       "category": "Conflict/Civil Unrest",
-      "risk_score": 7,
-      "location": "Gaza, Palestine",
-      "latitude": 31.5,
-      "longitude": 34.45,
-      "detailed_analysis": "The presence of armed men at Nasser Hospital in Gaza has led Doctors Without Borders to suspend some of their work, indicating a significant threat to personnel and operations. This situation poses a risk to the safety of medical staff, patients, and the overall stability of the region.",
-      "immediate_forecast_24h": "The situation is likely to remain volatile, with potential for further escalation of violence or unrest in the area, affecting the delivery of medical services and the security of the hospital.",
-      "strategic_outlook": "Long-term, the conflict in Gaza may continue to impact the operations of humanitarian organizations like Doctors Without Borders, necessitating ongoing assessments of risk and adjustments to operational strategies to ensure the safety of personnel and the continuation of critical services.",
-      "operational_impact": "The suspension of medical services due to the presence of armed men will directly impact the availability of healthcare in the region, potentially leading to a humanitarian crisis. This also underscores the challenges faced by humanitarian organizations in conflict zones, where ensuring the safety of personnel and the continuity of aid delivery is increasingly complex.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "3426670eb1e8daf123419cd394da257c",
-    "timestamp": "2026-02-16T05:05:59.334226",
-    "original_title": "Ukraine's Zelenskiy says allies to provide new energy and military aid within 10 days",
-    "link": "https://www.reddit.com/r/worldnews/comments/1r5yotj/ukraines_zelenskiy_says_allies_to_provide_new/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 6,
-      "location": "Ukraine",
-      "latitude": 49.0,
-      "longitude": 32.0,
-      "detailed_analysis": "Ukraine's President Zelenskiy announced that allies will provide new energy and military aid within 10 days, which may escalate the conflict and impact aviation and logistics in the region.",
-      "immediate_forecast_24h": "Increased military activity and potential for aerial strikes or drone sightings in the region, posing a risk to aviation and personnel.",
-      "strategic_outlook": "Long-term instability in the region may lead to ongoing conflicts, affecting cargo transport, aviation, and personnel safety.",
-      "operational_impact": "Potential disruptions to air traffic, increased security measures, and risks to personnel and cargo in the region.",
-      "proximity_alert": null
+      "risk_score": 10,
+      "location": "Tokyo, Japan",
+      "latitude": 35.6895,
+      "longitude": 139.767,
+      "detailed_analysis": "Tensions between Japan and China have escalated due to comments on reviving 'militarism', leading to protests and diplomatic strain. This situation may impact trade and transport between the two nations.",
+      "immediate_forecast_24h": "Increased diplomatic tensions and potential protests in Japan and China, but no immediate threat to aviation, cargo, or personnel.",
+      "strategic_outlook": "Long-term implications may include increased military presence in the region, trade restrictions, and heightened security measures for transport and logistics.",
+      "operational_impact": "Potential delays or disruptions to air and sea transport between Japan and China, as well as increased security protocols for cargo and personnel.",
+      "proximity_alert": "YAKIN TEHDİT: Haneda Airport (16 km)"
     }
   }
 ]
