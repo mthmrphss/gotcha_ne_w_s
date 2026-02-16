@@ -36,5 +36,43 @@
       "operational_impact": "The attack may lead to disruptions in logistics and transportation services, particularly in areas with high security risks. Cargo and personnel movement may be restricted or subject to additional screening and security checks.",
       "proximity_alert": "YAKIN TEHDİT: Khartoum International Airport (5 km)"
     }
+  },
+  {
+    "id": "71a58b8782dce2aa4dce79f74c9b75a1",
+    "timestamp": "2026-02-16T17:43:58.120162",
+    "original_title": "France grants safe haven to anti-Kremlin couple detained by ICE",
+    "link": "https://www.reddit.com/r/worldnews/comments/1r6fvya/france_grants_safe_haven_to_antikremlin_couple/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Border/Civil Unrest/Other",
+      "risk_score": 10,
+      "location": "Paris, France",
+      "latitude": 48.8567,
+      "longitude": 2.351,
+      "detailed_analysis": "The event involves France granting safe haven to an anti-Kremlin couple detained by ICE, which may lead to diplomatic tensions but does not directly impact assets, cargo, aviation, or personnel in terms of immediate physical threat.",
+      "immediate_forecast_24h": "No immediate escalation expected, but potential for increased diplomatic tensions between France and Russia.",
+      "strategic_outlook": "Long-term implications may include strained relations between France and Russia, potentially affecting international cooperation and trade, but the direct impact on transport and logistics is expected to be minimal.",
+      "operational_impact": "Minimal direct impact on transport and logistics operations, but potential for indirect effects through changes in international relations and trade policies.",
+      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (2 km)"
+    }
+  },
+  {
+    "id": "25ed6c000f8b3f70f5ebe7fc587df5e8",
+    "timestamp": "2026-02-16T17:44:00.150204",
+    "original_title": "AI tools on EU Parliament devices sent data to cloud, prompting the Parliament’s IT support to switch them off",
+    "link": "https://www.reddit.com/r/worldnews/comments/1r6fr49/ai_tools_on_eu_parliament_devices_sent_data_to/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 10,
+      "location": "Brussels, Belgium",
+      "latitude": 50.8503,
+      "longitude": 4.3517,
+      "detailed_analysis": "AI tools on EU Parliament devices sent sensitive data to the cloud, prompting the Parliament's IT support to disable them. This incident highlights a significant cybersecurity threat, potentially compromising sensitive information and parliamentary operations.",
+      "immediate_forecast_24h": "The EU Parliament's IT support will likely conduct a thorough investigation and implement additional security measures to prevent similar incidents. There may be temporary disruptions to parliamentary operations as a precautionary measure.",
+      "strategic_outlook": "This incident underscores the need for robust cybersecurity protocols, especially in high-stakes environments like government institutions. The EU Parliament may reassess its cybersecurity strategies and invest in more secure AI tools to mitigate future risks.",
+      "operational_impact": "The incident may cause short-term disruptions to parliamentary operations, but it is unlikely to have a significant impact on overall transport or logistics operations. However, it serves as a reminder of the importance of cybersecurity in protecting sensitive information and maintaining operational integrity.",
+      "proximity_alert": "YAKIN TEHDİT: SHERATON AIRPORT (0 km)"
+    }
   }
 ]
