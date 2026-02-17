@@ -55,5 +55,62 @@
       "operational_impact": "No direct impact on transport or logistics operations expected at this time, but potential for disruptions to ground transportation if protests escalate or spread.",
       "proximity_alert": "YAKIN TEHDİT: Lyon–Saint Exupéry Airport (18 km)"
     }
+  },
+  {
+    "id": "fd83866fe44f880af14d186961e534ee",
+    "timestamp": "2026-02-17T20:00:36.873090",
+    "original_title": "Ethiopia and Eritrea on the verge of war as both nations mobilize their armies",
+    "link": "https://www.reddit.com/r/worldnews/comments/1r7gr3r/ethiopia_and_eritrea_on_the_verge_of_war_as_both/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "Ethiopia/Eritrea border",
+      "latitude": 14.5358,
+      "longitude": 39.0493,
+      "detailed_analysis": "The situation between Ethiopia and Eritrea is escalating with both nations mobilizing their armies, indicating a high likelihood of conflict. This could lead to disruptions in transportation and logistics, particularly in the aviation and cargo sectors, due to potential airspace restrictions or ground transport interruptions.",
+      "immediate_forecast_24h": "Increased military presence along the border, potential for skirmishes or clashes, and heightened tensions between the two nations. Aviation and cargo operations may be affected due to security concerns or airspace restrictions.",
+      "strategic_outlook": "Long-term instability in the region could lead to prolonged disruptions in transport and logistics. The conflict may also attract international attention, potentially leading to diplomatic or economic sanctions that could further impact the region's stability and transport infrastructure.",
+      "operational_impact": "Potential for flight restrictions or cancellations, increased security measures at airports and border crossings, and disruptions to ground transportation. Cargo shipments may be delayed or diverted due to the conflict, and there is a risk of theft or damage to goods in transit.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "fdcad06bb82c5419e564f7ba44459235",
+    "timestamp": "2026-02-17T20:00:39.271834",
+    "original_title": "South Africa to deploy troops to crime hotspots within 10 days",
+    "link": "http://www.africanews.com/2026/02/17/south-africa-to-deploy-troops-to-crime-hotspots-within-10-days/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Crime/Civil Unrest",
+      "risk_score": 6,
+      "location": "South Africa",
+      "latitude": -30.0,
+      "longitude": 25.0,
+      "detailed_analysis": "The deployment of troops to crime hotspots in South Africa indicates a high level of concern regarding the safety and security of assets, cargo, and personnel. The presence of drug gangs and illegal miners poses a significant threat to logistics and transportation.",
+      "immediate_forecast_24h": "Increased military presence may lead to temporary disruptions in transportation and logistics, but is expected to improve overall security in the short term.",
+      "strategic_outlook": "The long-term effectiveness of the troop deployment in reducing crime rates will depend on the sustainability of the operation and the ability of the government to address the root causes of crime.",
+      "operational_impact": "Transportation and logistics companies operating in South Africa should exercise caution and consider alternative routes or increased security measures to mitigate the risks associated with crime hotspots.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "6a020ba879f993733eeba47935d40951",
+    "timestamp": "2026-02-17T20:00:42.975916",
+    "original_title": "Passengers On Flight From Tokyo to Frankfurt Face One Of The Longest Ever ‘Flights to Nowhere’ in 14-Hour Endurance Marathon",
+    "link": "https://www.paddleyourownkanoo.com/2026/02/17/passengers-on-flight-from-tokyo-to-frankfurt-face-one-of-the-longest-ever-flights-to-nowhere-in-14-hour-endurance-marathon/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 2,
+      "location": "Arctic Ocean",
+      "latitude": 75.0,
+      "longitude": 0.0,
+      "detailed_analysis": "A maintenance issue on an ANA Airlines Boeing 787-9 Dreamliner flying from Tokyo to Frankfurt forced the plane to turn back, resulting in a 14-hour endurance marathon for passengers. No indication of malicious intent or external threat.",
+      "immediate_forecast_24h": "The incident is likely to be resolved with the plane returning to Tokyo and passengers being accommodated accordingly. No further disruptions expected in the next 24 hours.",
+      "strategic_outlook": "The incident highlights the importance of regular maintenance and the need for contingency planning in the event of unexpected issues. Airlines should review their maintenance procedures to minimize the risk of similar incidents.",
+      "operational_impact": "The incident may cause delays and disruptions to the flight schedule, potentially affecting cargo and passenger operations. However, the impact is expected to be minimal and short-term.",
+      "proximity_alert": null
+    }
   }
 ]
