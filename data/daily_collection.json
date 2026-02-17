@@ -397,5 +397,62 @@
       "operational_impact": "Transport and logistics operations in the region may be disrupted or suspended due to the high risk of attack, with potential for significant economic and human impact",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "c4332413f863f54c55c3c0e5d730c24f",
+    "timestamp": "2026-02-17T11:49:37.547603",
+    "original_title": "EU Plans Military Mobility Push - Aviation Week",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVnRCeWhkYkFVZWRjYXkwbVdlck1mNXA4bzA3ck1pQnNlQ3dpNXh4OGkyWlNwY0V1U2N0b2pzcUxYNjcybXRMRW1YNW9aVElBeFdXNFU3QXRTaVExSDIxWDAzcHpMazVnRHhvWmduTHhaNjBkSG16VW8yS0V5MlRSMzJFenQyUF9wbGhvMHlPZDBJRFU?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Military",
+      "risk_score": 10,
+      "location": "European Union",
+      "latitude": 50.8467,
+      "longitude": 4.3527,
+      "detailed_analysis": "The EU plans to enhance military mobility, which may lead to increased military aircraft and personnel movement. This could potentially lead to heightened security measures and restricted airspace.",
+      "immediate_forecast_24h": "No immediate impact expected, but increased military activity may lead to temporary airspace restrictions.",
+      "strategic_outlook": "Long-term, the EU's military mobility push may lead to increased cooperation and coordination among member states, potentially enhancing regional security.",
+      "operational_impact": "Potential for increased military air traffic and restricted airspace, but no significant impact on commercial aviation or logistics expected at this time.",
+      "proximity_alert": "YAKIN TEHDİT: SHERATON AIRPORT (0 km)"
+    }
+  },
+  {
+    "id": "33d65df75a6ffb548aa795a0281879fa",
+    "timestamp": "2026-02-17T11:49:42.292235",
+    "original_title": "Iran fires missiles, Khamenei threatens to sink US warship as nuclear talks start",
+    "link": "https://www.reddit.com/r/worldnews/comments/1r73ws8/iran_fires_missiles_khamenei_threatens_to_sink_us/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Iran has fired missiles and the Supreme Leader, Khamenei, has threatened to sink a US warship as nuclear talks start, indicating a heightened state of tension and potential for military conflict that could impact aviation and shipping in the region.",
+      "immediate_forecast_24h": "Increased military activity and heightened alertness from both Iran and the US, potentially leading to further escalations or incidents in the short term.",
+      "strategic_outlook": "Long-term implications include the potential for ongoing conflict, disruption of oil supplies, and increased instability in the Middle East, affecting global aviation and logistics.",
+      "operational_impact": "Potential for disruptions to air traffic and shipping lanes, increased security measures for flights and vessels, and heightened risk of attacks on aviation and logistics infrastructure.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "813d4c0a14a69cfb5643588a4a36e257",
+    "timestamp": "2026-02-17T11:49:44.097163",
+    "original_title": "Ukrainian forces hit oil refinery in Russia and disrupt logistics in Donetsk Oblast, says Kyiv",
+    "link": "https://www.reddit.com/r/worldnews/comments/1r73vc5/ukrainian_forces_hit_oil_refinery_in_russia_and/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Donetsk Oblast, Ukraine/Russia",
+      "latitude": 48.0,
+      "longitude": 37.8,
+      "detailed_analysis": "Ukrainian forces have hit an oil refinery in Russia, disrupting logistics in the region. This escalation of conflict poses significant risks to assets, cargo, and personnel in the area.",
+      "immediate_forecast_24h": "Increased tensions and potential for further military action, potentially disrupting supply chains and logistics operations in the region.",
+      "strategic_outlook": "Long-term instability in the region may lead to sustained disruptions to trade and commerce, with potential for broader geopolitical implications.",
+      "operational_impact": "Transport and logistics operations in the region may be severely impacted, with potential for delays, damage to infrastructure, and risks to personnel.",
+      "proximity_alert": "YAKIN TEHDİT: Donetsk Sergey Prokofiev International Airport (1 km)"
+    }
   }
 ]
