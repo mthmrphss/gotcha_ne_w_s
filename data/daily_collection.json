@@ -188,5 +188,43 @@
       "operational_impact": "The construction of the pipeline may lead to increased security measures and potential disruptions to transport and logistics in the region.",
       "proximity_alert": "YAKIN TEHDİT: Houari Boumediene Airport (17 km)"
     }
+  },
+  {
+    "id": "af3713c47b3a2c3a161bc64ad5b91aa4",
+    "timestamp": "2026-02-17T08:56:39.421836",
+    "original_title": "Memorials for Iran’s Slain Protesters Wil Test of State Crackdown",
+    "link": "https://www.nytimes.com/2026/02/17/world/middleeast/iran-memorials-protesters-crackdown.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 6,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Memorials for slain protesters may lead to civil unrest and potential clashes with authorities, posing a threat to personnel and assets in the region.",
+      "immediate_forecast_24h": "Increased security presence and potential for protests to turn violent, impacting aviation and cargo operations.",
+      "strategic_outlook": "Prolonged unrest could lead to long-term instability, affecting transport and logistics in the region.",
+      "operational_impact": "Potential disruptions to flights, cargo transport, and personnel movement, with increased security measures and possible curfews.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "8b1bbed2732e98a7b9ee1111c21e234a",
+    "timestamp": "2026-02-17T08:56:43.443597",
+    "original_title": "Dozens of US troops deployed to Nigeria to help with training and intelligence sharing",
+    "link": "http://www.africanews.com/2026/02/17/dozens-of-us-troops-deployed-to-nigeria-to-help-with-training-and-intelligence-sharing/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 7,
+      "location": "Nigeria",
+      "latitude": 9.081999,
+      "longitude": 8.675277,
+      "detailed_analysis": "The deployment of US troops to Nigeria to help with training and intelligence sharing against Islamic militants and other armed groups indicates a heightened security concern in the region, potentially affecting aviation and personnel safety.",
+      "immediate_forecast_24h": "Increased military activity and potential for clashes with militant groups, but no immediate indication of direct threats to aviation or cargo in the next 24 hours.",
+      "strategic_outlook": "Long-term presence of US troops could lead to improved security conditions, but the ongoing conflict with Islamic militants poses a persistent threat to regional stability and security of assets, cargo, aviation, and personnel.",
+      "operational_impact": "Potential for increased security measures at airports and logistics hubs, possible disruptions to supply chains due to conflict, and heightened risk of kidnapping or attacks on personnel.",
+      "proximity_alert": null
+    }
   }
 ]
