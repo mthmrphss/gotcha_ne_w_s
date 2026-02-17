@@ -454,5 +454,43 @@
       "operational_impact": "Transport and logistics operations in the region may be severely impacted, with potential for delays, damage to infrastructure, and risks to personnel.",
       "proximity_alert": "YAKIN TEHDİT: Donetsk Sergey Prokofiev International Airport (1 km)"
     }
+  },
+  {
+    "id": "991ce10fdc5b9554b44050d50cd7f2a7",
+    "timestamp": "2026-02-17T14:29:35.226956",
+    "original_title": "Oil refinery, port terminal struck in Krasnodar Krai amid joint deep strike on southern Russia, Ukraine says",
+    "link": "https://www.reddit.com/r/worldnews/comments/1r7764v/oil_refinery_port_terminal_struck_in_krasnodar/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Krasnodar Krai, Russia",
+      "latitude": 45.0,
+      "longitude": 39.0,
+      "detailed_analysis": "A joint deep strike on southern Russia has resulted in an oil refinery and port terminal being struck in Krasnodar Krai, indicating a significant escalation in the conflict. This could lead to disruptions in oil supply and logistics in the region.",
+      "immediate_forecast_24h": "Increased military activity and potential for further strikes on critical infrastructure in the region, potentially affecting cargo and personnel movement.",
+      "strategic_outlook": "Long-term disruption to oil supply chains and potential for increased tensions between Russia and Ukraine, affecting regional stability and transport logistics.",
+      "operational_impact": "Potential delays and disruptions to cargo shipments, increased security measures at ports and refineries, and possible diversion of flights and maritime traffic in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Krasnodar Pashkovsky International Airport (4 km)"
+    }
+  },
+  {
+    "id": "7bb34085320bf82f534b8163d5c4a4a0",
+    "timestamp": "2026-02-17T14:29:40.621759",
+    "original_title": "Moscow mourners mark two years since Navalny’s death in custody",
+    "link": "https://www.france24.com/en/moscow-mourners-mark-two-years-since-navalny-s-death-in-custody",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest/Other",
+      "risk_score": 10,
+      "location": "Moscow, Russia",
+      "latitude": 55.7558,
+      "longitude": 37.6176,
+      "detailed_analysis": "Mourners gathered in Moscow to mark two years since the death of Russian opposition leader Alexei Navalny, under the shadow of a Kremlin crackdown. The event is likely to be peaceful but may attract attention from authorities and potentially lead to minor disruptions.",
+      "immediate_forecast_24h": "The situation is expected to remain calm, with a low likelihood of major incidents or disruptions to transport and logistics in the next 24 hours.",
+      "strategic_outlook": "The long-term impact of Navalny's death and the ongoing Kremlin crackdown may lead to increased tensions and potential unrest in Russia, but this is unlikely to have a significant direct impact on aviation, cargo, or personnel in the near future.",
+      "operational_impact": "Minimal impact expected on transport and logistics operations in Moscow, with potential for minor delays or disruptions if protests or gatherings affect traffic or airport operations.",
+      "proximity_alert": "YAKIN TEHDİT: Vnukovo International Airport (27 km)"
+    }
   }
 ]
