@@ -36,5 +36,62 @@
       "operational_impact": "Minimal impact expected on transport and logistics operations in Moscow, with potential for minor delays or disruptions if protests or gatherings affect traffic or airport operations.",
       "proximity_alert": "YAKIN TEHDİT: Vnukovo International Airport (27 km)"
     }
+  },
+  {
+    "id": "27dd5a3adb10765fee56d3d1f613588b",
+    "timestamp": "2026-02-17T15:29:58.690086",
+    "original_title": "Russian Military Facility Near St. Petersburg Rocked by Explosion, Three Dead",
+    "link": "https://www.reddit.com/r/worldnews/comments/1r78c0u/russian_military_facility_near_st_petersburg/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "St. Petersburg, Russia",
+      "latitude": 59.9375,
+      "longitude": 30.3086,
+      "detailed_analysis": "An explosion occurred at a Russian military facility near St. Petersburg, resulting in three fatalities. The cause of the explosion is currently unknown, but it has the potential to escalate tensions in the region and impact nearby transportation infrastructure.",
+      "immediate_forecast_24h": "Increased security measures are likely to be implemented in the surrounding area, potentially causing disruptions to local transportation and logistics. The risk of further incidents or retaliatory actions cannot be ruled out.",
+      "strategic_outlook": "The long-term implications of this incident will depend on the official investigation and response from the Russian government. However, it may contribute to increased instability in the region, potentially affecting international relations and global security.",
+      "operational_impact": "The explosion may impact nearby airports, seaports, and transportation hubs, particularly if increased security measures are put in place. Cargo and personnel movement in the area may be subject to delays or restrictions, and aviation operations may be affected by changes in airspace restrictions or security protocols.",
+      "proximity_alert": "YAKIN TEHDİT: Pulkovo Airport (15 km)"
+    }
+  },
+  {
+    "id": "de6025f98d3e776b0daf19888fbcca69",
+    "timestamp": "2026-02-17T15:30:01.154203",
+    "original_title": "Workers at Kenya's main airport call off strike after two days of disruption",
+    "link": "http://www.africanews.com/2026/02/17/workers-at-kenyas-main-airport-call-off-strike-after-two-days-of-disruption/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Aviation/Civil Unrest",
+      "risk_score": 10,
+      "location": "Nairobi, Kenya",
+      "latitude": -1.2921,
+      "longitude": 36.8219,
+      "detailed_analysis": "A two-day strike by workers at Kenya's main airport caused significant disruptions to local and international flights and air traffic control operations, posing a risk to aviation operations and personnel.",
+      "immediate_forecast_24h": "With the strike called off, normal operations are expected to resume, but there may be residual delays and cancellations as the airport returns to full capacity.",
+      "strategic_outlook": "The strike highlights the potential for labor disputes to impact aviation operations and underscores the need for effective labor relations and contingency planning to mitigate such risks.",
+      "operational_impact": "The strike's disruption to flights and air traffic control operations may have had a ripple effect on cargo and passenger transport, potentially leading to delays and increased costs for airlines, cargo handlers, and passengers.",
+      "proximity_alert": "YAKIN TEHDİT: Jomo Kenyatta International Airport (12 km)"
+    }
+  },
+  {
+    "id": "bc5b002368efd901db86bef04f4d8d5b",
+    "timestamp": "2026-02-17T15:30:03.119712",
+    "original_title": "Russian and Ukrainian negotiators meet for US-brokered talks",
+    "link": "https://www.france24.com/en/russian-and-ukrainian-negotiators-meet-for-us-brokered-talks",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Geneva, Switzerland",
+      "latitude": 46.2044,
+      "longitude": 6.1432,
+      "detailed_analysis": "US-brokered talks between Russian and Ukrainian negotiators may lead to increased tensions or violence, potentially affecting aviation and logistics in the region.",
+      "immediate_forecast_24h": "Heightened security measures and potential disruptions to air travel in the region due to ongoing conflict and negotiations.",
+      "strategic_outlook": "Long-term resolution to the conflict may take time, and ongoing tensions could impact regional stability and transport operations.",
+      "operational_impact": "Potential delays or disruptions to flights and cargo operations in the region, particularly if the conflict escalates or if security measures are increased.",
+      "proximity_alert": "YAKIN TEHDİT: Geneva Airport (4 km)"
+    }
   }
 ]
