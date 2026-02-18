@@ -416,5 +416,81 @@
       "operational_impact": "The incident may cause delays and additional costs for airlines, and potentially impact passenger trust and confidence in air travel.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "8a979b997ff4134d3186f1530ce3c424",
+    "timestamp": "2026-02-18T14:28:08.504724",
+    "original_title": "Trump moves closer to a major war with Iran",
+    "link": "https://www.reddit.com/r/worldnews/comments/1r830mg/trump_moves_closer_to_a_major_war_with_iran/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Iran, Middle East",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The situation between the US and Iran is escalating, with the potential for a major war. This could lead to significant disruptions in global air travel, cargo transport, and oil supplies.",
+      "immediate_forecast_24h": "Increased military activity and heightened tensions are expected in the region, with potential for airstrikes or other military engagements.",
+      "strategic_outlook": "A prolonged conflict could lead to long-term instability in the region, affecting global trade and economic stability.",
+      "operational_impact": "Potential for airspace closures, cargo delays, and increased security measures for aviation and logistics operations in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "3edc87a107a095c2d95d472ef2bfe768",
+    "timestamp": "2026-02-18T14:28:10.681207",
+    "original_title": "'Pay or he dies': the deadly price of hope for Egypt's migrants",
+    "link": "http://www.africanews.com/2026/02/18/pay-or-he-dies-the-deadly-price-of-hope-for-egypts-migrants/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Crime/Border",
+      "risk_score": 6,
+      "location": "Libya, Egypt",
+      "latitude": 32.0,
+      "longitude": 25.0,
+      "detailed_analysis": "The event involves smuggling and extortion of migrants, posing a significant threat to human life and safety. The use of online platforms for smuggling operations increases the risk of similar incidents occurring in the future.",
+      "immediate_forecast_24h": "Increased smuggling attempts and potential for further extortion calls, with a high risk of loss of life at sea.",
+      "strategic_outlook": "The ongoing migrant crisis and lack of effective border control measures will continue to create an environment conducive to smuggling and extortion. This may lead to increased instability and security risks in the region.",
+      "operational_impact": "The incident highlights the need for enhanced security measures and cooperation between countries to prevent smuggling and protect migrants. Transport and logistics operations in the region may be affected by increased security checks and potential disruptions to border crossings.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "5aff7eef6ed4c1a2621e1edd13e2ec17",
+    "timestamp": "2026-02-18T14:28:12.641851",
+    "original_title": "'Massive use of detention': Rights groups warn ICE-style policing could come to Europe",
+    "link": "https://www.france24.com/en/video/20260218-massive-use-of-detention-rights-groups-warn-ice-style-policing-could-come-to-europe",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Border/Civil Unrest",
+      "risk_score": 10,
+      "location": "European Union",
+      "latitude": 50.8467,
+      "longitude": 4.3522,
+      "detailed_analysis": "Proposed EU immigration legislation may lead to increased detention and deportation of migrants, potentially affecting transport and logistics operations, particularly those involving border crossings and third-country routes.",
+      "immediate_forecast_24h": "Heightened tensions and protests are possible in response to the proposed legislation, which may cause disruptions to border crossings and transport operations.",
+      "strategic_outlook": "The implementation of US-style ICE immigration enforcement in Europe could lead to long-term changes in border control and migrant detention policies, potentially increasing the risk of stowaways, border breaches, and other security threats to transport operations.",
+      "operational_impact": "Transport and logistics operators should be prepared for potential disruptions to border crossings, increased security measures, and changes to migrant detention policies, which may impact the movement of assets, cargo, and personnel.",
+      "proximity_alert": "YAKIN TEHDİT: SHERATON AIRPORT (0 km)"
+    }
+  },
+  {
+    "id": "24cf6f12df1b71e58c8a076b472106d5",
+    "timestamp": "2026-02-18T14:28:15.495187",
+    "original_title": "Mauritius - Level 2: Exercise Increased Caution",
+    "link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/mauritius-travel-advisory.html",
+    "source_name": "US State Dept",
+    "ai_analysis": {
+      "category": "Crime",
+      "risk_score": 10,
+      "location": "Mauritius",
+      "latitude": -20.2,
+      "longitude": 57.5,
+      "detailed_analysis": "Increased crime levels in Mauritius, including petty thefts, break-ins, violent crimes, and verbal harassment, particularly targeting tourists and women traveling alone. Crimes of opportunity are common in crowded areas, beaches, and near ATMs.",
+      "immediate_forecast_24h": "No significant changes expected in the short term, but travelers should remain vigilant and take necessary precautions to minimize risks.",
+      "strategic_outlook": "Long-term stability in Mauritius is expected, but crime levels may remain a concern for tourists and foreigners. Increased security measures and awareness may help mitigate risks.",
+      "operational_impact": "Transport and logistics operations may be affected by increased crime levels, particularly in areas with high crime rates. Companies should consider implementing additional security measures to protect personnel, assets, and cargo.",
+      "proximity_alert": "YAKIN TEHDİT: Sir Seewoosagur Ramgoolam International Airport (4 km)"
+    }
   }
 ]
