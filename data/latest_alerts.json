@@ -1,40 +1,59 @@
 [
   {
-    "id": "fc6fad2bc24ee745a52c53a34c159ead",
-    "timestamp": "2026-02-18T07:34:01.325484",
-    "original_title": "Xi’s power consolidation and military calculus - GIS Reports",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Mb1Bla1Bic19tOE9YWGFSYWNiNEdqM1puSlpaMUNBMFVvUXV4WWU5YnFjVTJNLXgzS1FFbFEtZmIzS2dfMjA5cThQZTdtMlp2MFB1MnRWd2F2SE5WNk1FYlp4S2M4cEdtUEdyWXJQVFR0QQ?oc=5",
-    "source_name": "Google News (Breaking)",
+    "id": "aa2fca66df9fe93a26c296e176cb81d1",
+    "timestamp": "2026-02-18T08:55:49.601676",
+    "original_title": "China Now Finds Itself in al-Qaeda’s Crosshairs",
+    "link": "https://warontherocks.com/2026/02/china-now-finds-itself-in-al-qaedas-crosshairs/",
+    "source_name": "War on the Rocks",
     "ai_analysis": {
-      "category": "Conflict/Other",
-      "risk_score": 10,
-      "location": "Beijing, China",
-      "latitude": 39.9042,
-      "longitude": 116.4074,
-      "detailed_analysis": "Xi's power consolidation and military calculus may lead to increased tensions and potential conflict, but no direct threat to assets, cargo, aviation, or personnel is reported.",
-      "immediate_forecast_24h": "No immediate changes expected, but ongoing monitoring of the situation is recommended.",
-      "strategic_outlook": "Long-term implications of Xi's power consolidation may impact regional stability and trade, potentially affecting logistics and transport in the future.",
-      "operational_impact": "No direct operational impact expected at this time, but potential for future disruptions to transport and logistics if the situation escalates.",
-      "proximity_alert": "YAKIN TEHDİT: Beijing Capital International Airport (25 km)"
+      "category": "Terrorism/Conflict",
+      "risk_score": 7,
+      "location": "China, Arabian Peninsula",
+      "latitude": 35.0,
+      "longitude": 105.0,
+      "detailed_analysis": "Al-Qaeda in the Arabian Peninsula has issued a statement directly threatening China, labeling its government as a pagan, infidel enemy and justifying future attacks due to actions against Uyghur Muslims.",
+      "immediate_forecast_24h": "Increased vigilance and security measures are expected in China and surrounding regions, with potential for retaliatory attacks or heightened tensions.",
+      "strategic_outlook": "A shift in operational goals by al-Qaeda in the Arabian Peninsula could lead to increased targeting of Chinese assets, cargo, aviation, and personnel, potentially destabilizing regional security.",
+      "operational_impact": "Potential disruptions to logistics, supply chains, and air travel in the region, with increased security protocols and screening measures likely to be implemented.",
+      "proximity_alert": null
     }
   },
   {
-    "id": "2c4684ca9d58b16037f505668e455524",
-    "timestamp": "2026-02-18T07:34:06.553696",
-    "original_title": "Investigation: How Russian drones exploit European technologies to strike Ukraine, and beyond",
-    "link": "https://www.reddit.com/r/worldnews/comments/1r7w217/investigation_how_russian_drones_exploit_european/",
-    "source_name": "Reddit r/WorldNews",
+    "id": "576b1f9dc5e776fe0a773281b6976b80",
+    "timestamp": "2026-02-18T08:55:51.754253",
+    "original_title": "Senegal prosecutor rejects accusations police tortured and killed student",
+    "link": "http://www.africanews.com/2026/02/18/senegal-prosecutor-rejects-accusations-police-tortured-and-killed-student/",
+    "source_name": "Africa News",
     "ai_analysis": {
-      "category": "Aviation/Conflict",
-      "risk_score": 8,
-      "location": "Ukraine, Europe",
-      "latitude": 49.0,
-      "longitude": 32.0,
-      "detailed_analysis": "Russian drones are exploiting European technologies to strike Ukraine, indicating a significant threat to aviation and regional security. The use of drones poses a risk to aircraft, airports, and surrounding areas.",
-      "immediate_forecast_24h": "Increased drone activity is expected in the region, potentially targeting critical infrastructure and military assets. There is a high likelihood of further strikes in the next 24 hours.",
-      "strategic_outlook": "The long-term implications of this threat include the potential for escalated conflict, disruption of air travel, and increased security measures at European airports. The use of drones also raises concerns about the vulnerability of critical infrastructure to unmanned aerial vehicle (UAV) attacks.",
-      "operational_impact": "The threat of drone strikes may lead to increased security protocols, including enhanced surveillance and counter-UAV measures, at airports and other critical infrastructure. This could result in delays and disruptions to air travel, as well as increased costs for logistics and transportation companies operating in the region.",
-      "proximity_alert": null
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Dakar, Senegal",
+      "latitude": 14.73,
+      "longitude": -17.38,
+      "detailed_analysis": "The rejection of accusations by the public prosecutor in Senegal regarding the death of a student on a university campus may lead to increased tensions and potential unrest, but there is no direct indication of a threat to assets, cargo, aviation, or personnel at this time.",
+      "immediate_forecast_24h": "Protests or demonstrations are possible in response to the prosecutor's decision, which could lead to temporary disruptions in the area.",
+      "strategic_outlook": "The situation is being monitored, but it does not currently pose a significant threat to aviation, cargo, or logistics operations in the region.",
+      "operational_impact": "Minimal impact expected on transport and logistics, but security measures should be maintained to address any potential civil unrest.",
+      "proximity_alert": "YAKIN TEHDİT: Blaise Diagne International Airport (8 km)"
+    }
+  },
+  {
+    "id": "f1e18199cb10549cd90569bf6ab5cac5",
+    "timestamp": "2026-02-18T08:55:55.499518",
+    "original_title": "Munich Airport Faces Protests As Plans For Massive ‘Deportation Terminal’ Are Made Public",
+    "link": "https://www.paddleyourownkanoo.com/2026/02/18/munich-airport-faces-protests-as-plans-for-massive-deportation-terminal-are-made-public/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Civil Unrest/Border",
+      "risk_score": 10,
+      "location": "Munich, Germany",
+      "latitude": 48.3538,
+      "longitude": 11.7862,
+      "detailed_analysis": "Protests at Munich Airport due to plans for a deportation terminal may lead to disruptions in airport operations, potentially affecting aviation and cargo services.",
+      "immediate_forecast_24h": "Increased security presence and potential delays in flight operations are expected in the next 24 hours.",
+      "strategic_outlook": "The situation may escalate if protests continue, potentially leading to long-term disruptions in airport operations and impacting the local economy.",
+      "operational_impact": "Potential delays in cargo handling and passenger flights, increased security checks, and possible restrictions on access to the airport.",
+      "proximity_alert": "YAKIN TEHDİT: Munich Airport (28 km)"
     }
   }
 ]
