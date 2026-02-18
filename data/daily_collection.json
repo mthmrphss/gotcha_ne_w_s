@@ -359,5 +359,62 @@
       "operational_impact": "Shipping and logistics companies operating in the region should exercise caution and consider rerouting vessels or increasing security measures to mitigate the risk of being caught in the conflict.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "553a1847a0a24412dc39e1727e7cc0b0",
+    "timestamp": "2026-02-18T13:21:57.802974",
+    "original_title": "Power Shift in Syria Upends an Archipelago for ISIS Prisoners",
+    "link": "https://www.nytimes.com/2026/02/18/world/middleeast/syria-prisons-isis.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "Syria",
+      "latitude": 35.0,
+      "longitude": 38.0,
+      "detailed_analysis": "The withdrawal of America's Kurdish allies from overseeing two dozen sites holding thousands of ISIS members and their families has created a power vacuum, potentially leading to the escape or release of these prisoners, posing a significant threat to regional and global security.",
+      "immediate_forecast_24h": "In the short term, there is a high likelihood of chaos and potential violence as the current system is upended, with possible escapes or releases of ISIS prisoners, and potential clashes between various factions vying for control.",
+      "strategic_outlook": "Long term, the situation could lead to a resurgence of ISIS or similar terrorist groups, destabilizing the region and potentially beyond, with implications for global security and aviation safety.",
+      "operational_impact": "The situation may impact transport and logistics in the region, particularly aviation, due to increased security concerns and potential for terrorist activity, necessitating heightened vigilance and security measures.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "785ef209669c08e53d8395c216dd1477",
+    "timestamp": "2026-02-18T13:22:00.611597",
+    "original_title": "Explosion at Ukrainian military enlistment office declared terrorist attack",
+    "link": "https://www.reddit.com/r/worldnews/comments/1r81f26/explosion_at_ukrainian_military_enlistment_office/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict",
+      "risk_score": 10,
+      "location": "Ivano-Frankivsk, Ukraine",
+      "latitude": 48.9211,
+      "longitude": 24.7103,
+      "detailed_analysis": "An explosion occurred at a Ukrainian military enlistment office, declared a terrorist attack. This incident poses a significant threat to personnel and national security, with potential implications for regional stability.",
+      "immediate_forecast_24h": "Increased security measures are expected in the region, with potential for retaliatory actions or further attacks. Transport and logistics in the area may be affected by enhanced security checks and possible disruptions.",
+      "strategic_outlook": "The long-term impact of this incident could lead to escalated tensions between Ukraine and opposing forces, potentially affecting international relations and global security. This may result in increased security protocols for aviation, cargo, and personnel in the region.",
+      "operational_impact": "Transportation and logistics operations in Ukraine, particularly in the Ivano-Frankivsk area, may experience delays or disruptions due to heightened security measures. Aviation and cargo services should be prepared for potential changes in security protocols and procedures.",
+      "proximity_alert": "YAKIN TEHDİT: Ivano-Frankivsk International Airport (3 km)"
+    }
+  },
+  {
+    "id": "2e71014c7493cc6299ea310eae99db10",
+    "timestamp": "2026-02-18T13:22:05.994365",
+    "original_title": "Jet2 bans two passengers for life after ‘appalling behaviour’ on flight",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/jet2-flight-ban-passengers-disruptive-behaviour-arrest-b2922614.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Aviation/Crime",
+      "risk_score": 6,
+      "location": "Unknown",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Disruptive behavior by two passengers on a Jet2 flight led to the diversion of the plane, resulting in significant costs for the airline. The airline has banned the passengers for life and will pursue them for the costs.",
+      "immediate_forecast_24h": "The incident may lead to increased security measures on Jet2 flights, and potentially other airlines, to prevent similar disruptions in the short term.",
+      "strategic_outlook": "The long-term impact may include increased scrutiny of passenger behavior and more stringent security protocols to mitigate the risk of disruptions and diversions.",
+      "operational_impact": "The incident may cause delays and additional costs for airlines, and potentially impact passenger trust and confidence in air travel.",
+      "proximity_alert": null
+    }
   }
 ]
