@@ -1,62 +1,5 @@
 [
   {
-    "id": "aa2fca66df9fe93a26c296e176cb81d1",
-    "timestamp": "2026-02-18T08:55:49.601676",
-    "original_title": "China Now Finds Itself in al-Qaeda’s Crosshairs",
-    "link": "https://warontherocks.com/2026/02/china-now-finds-itself-in-al-qaedas-crosshairs/",
-    "source_name": "War on the Rocks",
-    "ai_analysis": {
-      "category": "Terrorism/Conflict",
-      "risk_score": 7,
-      "location": "China, Arabian Peninsula",
-      "latitude": 35.0,
-      "longitude": 105.0,
-      "detailed_analysis": "Al-Qaeda in the Arabian Peninsula has issued a statement directly threatening China, labeling its government as a pagan, infidel enemy and justifying future attacks due to actions against Uyghur Muslims.",
-      "immediate_forecast_24h": "Increased vigilance and security measures are expected in China and surrounding regions, with potential for retaliatory attacks or heightened tensions.",
-      "strategic_outlook": "A shift in operational goals by al-Qaeda in the Arabian Peninsula could lead to increased targeting of Chinese assets, cargo, aviation, and personnel, potentially destabilizing regional security.",
-      "operational_impact": "Potential disruptions to logistics, supply chains, and air travel in the region, with increased security protocols and screening measures likely to be implemented.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "576b1f9dc5e776fe0a773281b6976b80",
-    "timestamp": "2026-02-18T08:55:51.754253",
-    "original_title": "Senegal prosecutor rejects accusations police tortured and killed student",
-    "link": "http://www.africanews.com/2026/02/18/senegal-prosecutor-rejects-accusations-police-tortured-and-killed-student/",
-    "source_name": "Africa News",
-    "ai_analysis": {
-      "category": "Civil Unrest",
-      "risk_score": 10,
-      "location": "Dakar, Senegal",
-      "latitude": 14.73,
-      "longitude": -17.38,
-      "detailed_analysis": "The rejection of accusations by the public prosecutor in Senegal regarding the death of a student on a university campus may lead to increased tensions and potential unrest, but there is no direct indication of a threat to assets, cargo, aviation, or personnel at this time.",
-      "immediate_forecast_24h": "Protests or demonstrations are possible in response to the prosecutor's decision, which could lead to temporary disruptions in the area.",
-      "strategic_outlook": "The situation is being monitored, but it does not currently pose a significant threat to aviation, cargo, or logistics operations in the region.",
-      "operational_impact": "Minimal impact expected on transport and logistics, but security measures should be maintained to address any potential civil unrest.",
-      "proximity_alert": "YAKIN TEHDİT: Blaise Diagne International Airport (8 km)"
-    }
-  },
-  {
-    "id": "f1e18199cb10549cd90569bf6ab5cac5",
-    "timestamp": "2026-02-18T08:55:55.499518",
-    "original_title": "Munich Airport Faces Protests As Plans For Massive ‘Deportation Terminal’ Are Made Public",
-    "link": "https://www.paddleyourownkanoo.com/2026/02/18/munich-airport-faces-protests-as-plans-for-massive-deportation-terminal-are-made-public/",
-    "source_name": "Paddle Your Own Kanoo",
-    "ai_analysis": {
-      "category": "Civil Unrest/Border",
-      "risk_score": 10,
-      "location": "Munich, Germany",
-      "latitude": 48.3538,
-      "longitude": 11.7862,
-      "detailed_analysis": "Protests at Munich Airport due to plans for a deportation terminal may lead to disruptions in airport operations, potentially affecting aviation and cargo services.",
-      "immediate_forecast_24h": "Increased security presence and potential delays in flight operations are expected in the next 24 hours.",
-      "strategic_outlook": "The situation may escalate if protests continue, potentially leading to long-term disruptions in airport operations and impacting the local economy.",
-      "operational_impact": "Potential delays in cargo handling and passenger flights, increased security checks, and possible restrictions on access to the airport.",
-      "proximity_alert": "YAKIN TEHDİT: Munich Airport (28 km)"
-    }
-  },
-  {
     "id": "9e9703eaed4ff633d728dba1e05a14ff",
     "timestamp": "2026-02-18T09:58:38.062783",
     "original_title": "New Delhi and Kabul 'on the same page' for striking Pakistan, Pakistani defence minister says",
@@ -73,6 +16,44 @@
       "strategic_outlook": "Long-term instability in the region could lead to ongoing security concerns, impacting the safety of personnel, cargo, and aviation operations. Diplomatic efforts to resolve the conflict may be necessary to mitigate these risks.",
       "operational_impact": "Potential disruptions to air travel, increased security screening, and possible restrictions on cargo transport may impact logistics and supply chain operations in the region.",
       "proximity_alert": "YAKIN TEHDİT: Indira Gandhi International Airport (16 km)"
+    }
+  },
+  {
+    "id": "b23556bcdaee7d1579a20d39d5157ea7",
+    "timestamp": "2026-02-18T10:57:59.922143",
+    "original_title": "Who Is Behind the Terror Cell Apprehended in Damascus with UAVs Ready for Operation? - Alma Research and Education Center",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ3ZuU05USkZ4LUZuakVKeFlMaUJ0cEFvbm0xTGZQaF9zZllBMVpFUExnSTdXdFNUZnJnUUF1VDNpWGJGUlFNQXdjWXZscXYzTGs2MkExd2lxcUVESENDemRUalNnc1ZPQThQeW1lZEpSSXhZM0p3SG00Z2k0TXM0ZXV1VHl3ai1VbE5EWHdLX1pERVlQYlU4OUppamxpd2N5VGEya1o4UmRZYzRT?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism/Aviation/Crime",
+      "risk_score": 10,
+      "location": "Damascus, Syria",
+      "latitude": 33.51,
+      "longitude": 36.3,
+      "detailed_analysis": "A terror cell was apprehended in Damascus with UAVs ready for operation, indicating a high level of threat to aviation and potentially other assets. The presence of UAVs suggests a potential for aerial attacks or surveillance, which could compromise the security of aircraft, airports, and surrounding areas.",
+      "immediate_forecast_24h": "In the next 24 hours, there is a high likelihood of increased security measures at airports and other critical infrastructure in Damascus and surrounding areas. This may lead to disruptions in air travel and logistics operations.",
+      "strategic_outlook": "In the long term, this incident highlights the ongoing threat of terrorism in the region and the need for continued vigilance and cooperation between security agencies to prevent such attacks. The use of UAVs by terrorist groups also underscores the need for enhanced security measures to counter this emerging threat.",
+      "operational_impact": "The operational impact of this incident is likely to be significant, with potential disruptions to air travel, logistics, and supply chain operations in the region. Airlines, airports, and logistics companies should be prepared for increased security screening, potential flight delays or cancellations, and other disruptions to their operations.",
+      "proximity_alert": "YAKIN TEHDİT: Damascus International Airport (22 km)"
+    }
+  },
+  {
+    "id": "22f59047fb93d1c1fdb7c6404348b56c",
+    "timestamp": "2026-02-18T10:58:06.250793",
+    "original_title": "Russia launches missiles, drones at Ukraine amid peace talks in Geneva",
+    "link": "https://www.france24.com/en/video/20260218-russia-launches-missiles-drones-at-ukraine-amid-peace-talks-in-geneva",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "Russian forces launched aerial attacks on Ukraine with ballistic missiles and drones, indicating a high level of aggression and potential disruption to aviation and logistics in the region.",
+      "immediate_forecast_24h": "Increased tensions and potential for further aerial attacks, impacting flight operations and air traffic control in the region.",
+      "strategic_outlook": "Prolonged conflict could lead to significant disruptions to global supply chains, particularly those relying on Ukrainian airspace or logistics infrastructure.",
+      "operational_impact": "Potential for flight delays, cancellations, or rerouting, as well as increased security measures for cargo and personnel in the region.",
+      "proximity_alert": null
     }
   }
 ]
