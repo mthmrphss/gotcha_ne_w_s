@@ -606,5 +606,81 @@
       "operational_impact": "Potential disruptions to air traffic, cargo transport, and personnel movement in the region. Increased security measures and protocols may be implemented to mitigate the risks.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "a35d2a45a3375a71103f3c6d218e362a",
+    "timestamp": "2026-02-19T14:31:38.178387",
+    "original_title": "US likely to attack Iran, but Trump has not yet decided to do so, sources tell 'Post' - The Jerusalem Post",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kQ0NlbWlhLVVRd19iRUpsRm1XZjBUT2NDTzZhOTA1QUgyZmdlc3F2a3F5OGJ6bFZVOHdBRG55bk1ObllwWXRWNFdkN1ZFWVpZanNlczJQWXFHcU1JcThEOHRQaU1RSXJGdlE?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Iran, Middle East",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The US is considering a potential attack on Iran, which could lead to significant disruptions in the region, affecting aviation, cargo, and personnel. The situation is volatile and could escalate quickly.",
+      "immediate_forecast_24h": "Increased tensions and potential military mobilization in the region, with a high likelihood of airspace restrictions and cargo transport disruptions.",
+      "strategic_outlook": "A prolonged conflict could lead to long-term instability in the region, affecting global supply chains and trade routes. The situation requires close monitoring and contingency planning.",
+      "operational_impact": "Potential disruptions to air traffic, cargo transport, and personnel movements in the region. Airlines and logistics companies should be prepared for possible airspace restrictions, route changes, and increased security measures.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "ef77b6b6a3d5cda5a164eba845f9949f",
+    "timestamp": "2026-02-19T14:31:42.673678",
+    "original_title": "EasyJet flight forced to make emergency diversion due to bird strike moments after taking off - GB News",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jdTFweHNWVTRRNWxhODlDTzFtYUJ0bWJCWkhuSXhEcUpLUmU0dGZGUld0cXZFMThtRDY3bThtenA4b3dZRzE4alRzb0dqNllwS0U3M0JxNXRteTZuQjV2bVpFQnF4S0RGbC1iYW1MZTRuWkpKcV9QVXpfc1dpTE0?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Unknown, UK",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "detailed_analysis": "An EasyJet flight was forced to make an emergency diversion due to a bird strike moments after taking off, posing a significant threat to the safety of the aircraft, its passengers, and crew.",
+      "immediate_forecast_24h": "The incident may cause delays or disruptions to EasyJet's flight schedule, and an investigation into the incident will likely be launched to determine the cause and prevent similar incidents in the future.",
+      "strategic_outlook": "The incident highlights the importance of bird strike prevention measures at airports and the need for airlines to have effective emergency response plans in place.",
+      "operational_impact": "The incident may impact EasyJet's operations, potentially leading to flight delays or cancellations, and affecting the travel plans of passengers.",
+      "proximity_alert": "YAKIN TEHDİT: Heathrow Airport (23 km)"
+    }
+  },
+  {
+    "id": "0b05842e7caa35a9a72bd06a1886b5e9",
+    "timestamp": "2026-02-19T14:31:45.187454",
+    "original_title": "Russia's Lavrov warns against any new US attack on Iran: There would be serious consequences",
+    "link": "https://www.reddit.com/r/worldnews/comments/1r907q4/russias_lavrov_warns_against_any_new_us_attack_on/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Iran, Russia, USA",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Russian Foreign Minister Lavrov warns of serious consequences if the US launches a new attack on Iran, indicating a heightened state of tension between major world powers that could impact global stability and potentially affect aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Increased diplomatic tensions and potential for military escalation in the Middle East, with possible impacts on air travel and cargo shipments.",
+      "strategic_outlook": "Long-term instability in the region could lead to sustained increases in risk for aviation and cargo operations, with potential for conflict spillover into other areas.",
+      "operational_impact": "Potential for flight restrictions, cargo delays, and increased security measures in the region, affecting transport and logistics operations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "2cb80e4c29b7d24880297690e66bad0c",
+    "timestamp": "2026-02-19T14:31:47.704590",
+    "original_title": "At least 15 children killed in Sudan drone strike: UN",
+    "link": "http://www.africanews.com/2026/02/19/at-least-15-children-killed-in-sudan-drone-strike-un/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 10,
+      "location": "Sudan",
+      "latitude": 15.6333,
+      "longitude": 32.5333,
+      "detailed_analysis": "A drone strike on a displacement camp in Sudan resulted in the deaths of at least 15 children, indicating a high level of violence and instability in the region, posing a significant threat to aviation and personnel safety.",
+      "immediate_forecast_24h": "Increased tensions and potential for further violence in the region, with possible disruptions to aviation and logistics operations.",
+      "strategic_outlook": "Long-term instability and conflict in Sudan may lead to sustained risks for aviation, cargo, and personnel, necessitating enhanced security measures and contingency planning.",
+      "operational_impact": "Potential disruptions to air travel and logistics operations in Sudan, with possible spillover effects on regional transport and supply chains.",
+      "proximity_alert": "YAKIN TEHDİT: Khartoum International Airport (5 km)"
+    }
   }
 ]
