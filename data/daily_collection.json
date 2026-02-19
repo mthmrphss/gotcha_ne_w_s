@@ -454,5 +454,62 @@
       "operational_impact": "Shipping and aviation companies operating in the Middle East should exercise extreme caution and consider rerouting or delaying operations until the situation stabilizes. Personnel and assets in the region should be prepared for potential evacuation or relocation.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "886c86b6b6677f58e713a9da1deaa283",
+    "timestamp": "2026-02-19T10:56:38.562870",
+    "original_title": "‘Smoke in the Cabin’ of JetBlue Flight Forces Closure of Newark Airport and Emergency Evacuation of Passengers - AOL.com",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdEpVcDAwY1RJaU9DMEp5U2tuNWdMemRTLW11U3pjV3pTQlRjdGtYUTF6eDBYNW5qX3ZMMEFRaGhjS2JyMkVYaDZPQl9HQ25vMEg2ODFNLWJqU3ZvdDU1cGRWdUVpdGt5TDI5XzF3bHkyYU11R0psNHhOUGpCUE5VV2hiWQ?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Newark, USA",
+      "latitude": 40.7099,
+      "longitude": -74.1797,
+      "detailed_analysis": "A JetBlue flight experienced smoke in the cabin, prompting an emergency evacuation of passengers and the closure of Newark Airport. The cause of the smoke is currently unknown.",
+      "immediate_forecast_24h": "Investigations into the cause of the smoke will likely continue, and the airport may experience disruptions to flight schedules. Passengers may face delays or cancellations.",
+      "strategic_outlook": "The incident highlights the importance of aviation safety and the need for swift response to emergencies. Airlines and airports may review their emergency procedures to ensure they are prepared for similar incidents in the future.",
+      "operational_impact": "The closure of Newark Airport and evacuation of passengers will have a significant impact on transport and logistics operations, with potential delays and disruptions to flights, cargo, and personnel movements.",
+      "proximity_alert": "YAKIN TEHDİT: Newark International Airport (2 km)"
+    }
+  },
+  {
+    "id": "e963089caad5f48541a94543a1f5578d",
+    "timestamp": "2026-02-19T10:56:41.159865",
+    "original_title": "At least 9 injured in Russian attacks on Ukraine over past day",
+    "link": "https://www.reddit.com/r/worldnews/comments/1r8w33n/at_least_9_injured_in_russian_attacks_on_ukraine/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "At least 9 people were injured in Russian attacks on Ukraine over the past day, indicating an escalation of conflict and potential threats to assets, cargo, aviation, and personnel in the region.",
+      "immediate_forecast_24h": "Further attacks are likely, potentially targeting critical infrastructure, which could disrupt logistics and transportation in the area.",
+      "strategic_outlook": "The ongoing conflict may lead to a prolonged period of instability, affecting trade and economic activities in Ukraine and neighboring countries.",
+      "operational_impact": "Transportation and logistics operations in Ukraine may be severely impacted, with potential delays, damage to infrastructure, and risks to personnel and cargo.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "000dfcbfbb79c6c9010ea501f8af6f8d",
+    "timestamp": "2026-02-19T10:56:43.506294",
+    "original_title": "651 arrested in Africa-wide crackdown on online scam networks",
+    "link": "http://www.africanews.com/2026/02/19/651-arrested-in-africa-wide-crackdown-on-online-scam-networks/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Cyber/Crime",
+      "risk_score": 6,
+      "location": "Africa",
+      "latitude": 0.0,
+      "longitude": 25.0,
+      "detailed_analysis": "A major international crackdown on online scams has resulted in the arrest of over 650 suspected cybercriminals across 16 African countries, with over $4.3 million recovered. This operation highlights the growing threat of cybercrime in the region and its potential impact on assets, cargo, aviation, and personnel.",
+      "immediate_forecast_24h": "Increased security measures are expected in the short term, with potential disruptions to online services and transactions. However, the immediate risk to physical assets and personnel is considered low.",
+      "strategic_outlook": "The long-term impact of this operation is expected to be positive, with a potential reduction in cybercrime activity in the region. However, the threat of cybercrime is constantly evolving, and continued vigilance is required to protect against future threats.",
+      "operational_impact": "The operation is expected to have a minimal impact on transport and logistics operations in the region, with the primary focus on disrupting online scam networks rather than physical cargo or aviation operations.",
+      "proximity_alert": null
+    }
   }
 ]
