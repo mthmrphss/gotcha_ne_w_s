@@ -283,5 +283,81 @@
       "operational_impact": "The potential conflict could significantly impact transport and logistics operations in the region. Airlines may need to reroute flights, and shipping companies could face delays or increased security measures, leading to potential supply chain disruptions.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "f8466f3a4d3a62dded7d0f7fd8210816",
+    "timestamp": "2026-02-19T08:55:12.683790",
+    "original_title": "A Worrying Military Build-up in the Western Balkans? - War on the Rocks",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaVdUbHk0UjFoSmYyNlRVWmptRl9NQ0NhSDRTZXZzNlNaalE0UWpCUjF2SEExNlE3bHBDYzgwSTB6eHFObTdsZ3AxcFcwQ0N2dlFlbm9nTm5BTXFzT0FZRGlFbDMweTZoWGd0ejZ4ZWd0OUUxRE1pMEpiUzk4YVRNTVktWnk5V3hzS3c4SGl4aw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 6,
+      "location": "Western Balkans",
+      "latitude": 42.5,
+      "longitude": 20.0,
+      "detailed_analysis": "A military build-up in the Western Balkans poses a threat to regional stability, potentially impacting aviation, cargo, and personnel in the area.",
+      "immediate_forecast_24h": "Tensions may escalate, leading to increased military activity and potential disruptions to transport and logistics.",
+      "strategic_outlook": "Long-term instability in the region could lead to sustained disruptions to trade and travel, with potential for conflict spillover into neighboring areas.",
+      "operational_impact": "Transport and logistics operations in the Western Balkans may be affected by increased military activity, with potential for delays, rerouting, or cancellation of flights and cargo shipments.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "f0cd09d0f1051aa3f2d520fe478f32f5",
+    "timestamp": "2026-02-19T08:55:17.075456",
+    "original_title": "British couple detained in Iran receive 10-year prison sentence, family says",
+    "link": "https://www.reddit.com/r/worldnews/comments/1r8tt67/british_couple_detained_in_iran_receive_10year/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Other",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "A British couple has been detained in Iran and received a 10-year prison sentence, which may indicate increased tensions between Iran and Western countries, potentially affecting travel and logistics in the region.",
+      "immediate_forecast_24h": "Increased diplomatic tensions and potential travel warnings for Western citizens in Iran.",
+      "strategic_outlook": "Long-term implications for international relations and potential escalation of conflicts in the region, affecting aviation, cargo, and personnel.",
+      "operational_impact": "Potential disruptions to transport and logistics in the region, increased security measures for personnel and cargo, and possible restrictions on travel to and from Iran.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "dac7b041f6fa3280cf72bda0c1769af8",
+    "timestamp": "2026-02-19T08:55:19.337189",
+    "original_title": "A Worrying Military Build-up in the Western Balkans?",
+    "link": "https://warontherocks.com/2026/02/a-worrying-military-build-up-in-the-western-balkans/",
+    "source_name": "War on the Rocks",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 6,
+      "location": "Western Balkans",
+      "latitude": 42.5,
+      "longitude": 20.0,
+      "detailed_analysis": "A military build-up is observed in the Western Balkans, with countries such as Serbia, Albania, Montenegro, and North Macedonia modernizing their militaries, potentially shifting the balance of power in the region and straining Europe's security order.",
+      "immediate_forecast_24h": "Tensions may escalate, but no immediate conflict is expected in the next 24 hours. However, the situation bears close monitoring due to the potential for miscalculation or unexpected events.",
+      "strategic_outlook": "The long-term view suggests a heightened risk of conflict in the region, which could have significant implications for regional and European security. The build-up of military capabilities and the complex web of alliances and rivalries increase the potential for instability.",
+      "operational_impact": "The situation may impact transport and logistics in the region, particularly if tensions escalate or conflict breaks out. Aviation and cargo operations may be affected by increased military activity, and there is a potential for disruptions to supply chains and travel.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "290a981c7c2e8c7cfcc117b39cb88497",
+    "timestamp": "2026-02-19T08:55:21.363067",
+    "original_title": "UK condemns 'appalling' 10-year sentence for British couple held in Iran",
+    "link": "https://www.france24.com/en/asia-pacific/20260219-uk-condemns-appalling-10-year-sentence-british-couple-held-iran",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Other",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "A British couple has been sentenced to 10 years in jail for espionage in Iran, which may lead to increased tensions between the UK and Iran, potentially affecting aviation and cargo operations.",
+      "immediate_forecast_24h": "No immediate impact expected on aviation or cargo operations, but diplomatic tensions may escalate.",
+      "strategic_outlook": "Long-term relations between the UK and Iran may deteriorate, potentially affecting trade and transport between the two countries.",
+      "operational_impact": "Minimal direct impact on transport/logistics expected, but increased scrutiny of cargo and personnel may occur.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
   }
 ]
