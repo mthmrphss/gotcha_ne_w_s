@@ -1,115 +1,39 @@
 [
   {
-    "id": "886c86b6b6677f58e713a9da1deaa283",
-    "timestamp": "2026-02-19T10:56:38.562870",
-    "original_title": "‘Smoke in the Cabin’ of JetBlue Flight Forces Closure of Newark Airport and Emergency Evacuation of Passengers - AOL.com",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdEpVcDAwY1RJaU9DMEp5U2tuNWdMemRTLW11U3pjV3pTQlRjdGtYUTF6eDBYNW5qX3ZMMEFRaGhjS2JyMkVYaDZPQl9HQ25vMEg2ODFNLWJqU3ZvdDU1cGRWdUVpdGt5TDI5XzF3bHkyYU11R0psNHhOUGpCUE5VV2hiWQ?oc=5",
+    "id": "6a2eba6d5b1de8bab086bcbde456a502",
+    "timestamp": "2026-02-19T13:23:22.087221",
+    "original_title": "Mid-Air Emergency: Man Attacks Passengers, Crew Moments After Delta Flight Takes Off - AOL.com",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fYzNWc1FNN0pCYlRLeXI5ek15QkE5QUtMbFJRdXpQcGoxaFZmUjFVRzkyc25oZnN5aS1pM29XTGV1dERjQkFReEluM3A1Z0NGMlBSQmd6RDhrRFQtREZFaVNkSTVnMUhodjM4bGhWMEx6RXN2VFNWYmVDbTFuUQ?oc=5",
     "source_name": "Live Flight Emergencies (Squawk)",
     "ai_analysis": {
-      "category": "Aviation",
+      "category": "Aviation/Crime",
       "risk_score": 10,
-      "location": "Newark, USA",
-      "latitude": 40.7099,
-      "longitude": -74.1797,
-      "detailed_analysis": "A JetBlue flight experienced smoke in the cabin, prompting an emergency evacuation of passengers and the closure of Newark Airport. The cause of the smoke is currently unknown.",
-      "immediate_forecast_24h": "Investigations into the cause of the smoke will likely continue, and the airport may experience disruptions to flight schedules. Passengers may face delays or cancellations.",
-      "strategic_outlook": "The incident highlights the importance of aviation safety and the need for swift response to emergencies. Airlines and airports may review their emergency procedures to ensure they are prepared for similar incidents in the future.",
-      "operational_impact": "The closure of Newark Airport and evacuation of passengers will have a significant impact on transport and logistics operations, with potential delays and disruptions to flights, cargo, and personnel movements.",
-      "proximity_alert": "YAKIN TEHDİT: Newark International Airport (2 km)"
+      "location": "Unknown, USA",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "detailed_analysis": "A mid-air emergency occurred on a Delta flight when a man attacked passengers and crew shortly after takeoff, posing a significant threat to the safety of those on board.",
+      "immediate_forecast_24h": "The situation is likely to be contained by authorities, but there may be a heightened sense of security and scrutiny on flights in the near term.",
+      "strategic_outlook": "This incident highlights the ongoing need for robust security measures in aviation, including passenger screening and in-flight security protocols.",
+      "operational_impact": "The incident may lead to increased security checks and delays for flights, potentially disrupting transport and logistics operations.",
+      "proximity_alert": "YAKIN TEHDİT: San Francisco International Airport (17 km)"
     }
   },
   {
-    "id": "e963089caad5f48541a94543a1f5578d",
-    "timestamp": "2026-02-19T10:56:41.159865",
-    "original_title": "At least 9 injured in Russian attacks on Ukraine over past day",
-    "link": "https://www.reddit.com/r/worldnews/comments/1r8w33n/at_least_9_injured_in_russian_attacks_on_ukraine/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict/Civil Unrest",
-      "risk_score": 8,
-      "location": "Ukraine",
-      "latitude": 49.0,
-      "longitude": 32.0,
-      "detailed_analysis": "At least 9 people were injured in Russian attacks on Ukraine over the past day, indicating an escalation of conflict and potential threats to assets, cargo, aviation, and personnel in the region.",
-      "immediate_forecast_24h": "Further attacks are likely, potentially targeting critical infrastructure, which could disrupt logistics and transportation in the area.",
-      "strategic_outlook": "The ongoing conflict may lead to a prolonged period of instability, affecting trade and economic activities in Ukraine and neighboring countries.",
-      "operational_impact": "Transportation and logistics operations in Ukraine may be severely impacted, with potential delays, damage to infrastructure, and risks to personnel and cargo.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "000dfcbfbb79c6c9010ea501f8af6f8d",
-    "timestamp": "2026-02-19T10:56:43.506294",
-    "original_title": "651 arrested in Africa-wide crackdown on online scam networks",
-    "link": "http://www.africanews.com/2026/02/19/651-arrested-in-africa-wide-crackdown-on-online-scam-networks/",
-    "source_name": "Africa News",
-    "ai_analysis": {
-      "category": "Cyber/Crime",
-      "risk_score": 6,
-      "location": "Africa",
-      "latitude": 0.0,
-      "longitude": 25.0,
-      "detailed_analysis": "A major international crackdown on online scams has resulted in the arrest of over 650 suspected cybercriminals across 16 African countries, with over $4.3 million recovered. This operation highlights the growing threat of cybercrime in the region and its potential impact on assets, cargo, aviation, and personnel.",
-      "immediate_forecast_24h": "Increased security measures are expected in the short term, with potential disruptions to online services and transactions. However, the immediate risk to physical assets and personnel is considered low.",
-      "strategic_outlook": "The long-term impact of this operation is expected to be positive, with a potential reduction in cybercrime activity in the region. However, the threat of cybercrime is constantly evolving, and continued vigilance is required to protect against future threats.",
-      "operational_impact": "The operation is expected to have a minimal impact on transport and logistics operations in the region, with the primary focus on disrupting online scam networks rather than physical cargo or aviation operations.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "00653288c7f31da24dbcbc16a2ea5447",
-    "timestamp": "2026-02-19T11:46:44.799757",
-    "original_title": "In Devastated Gaza, Grandiose Peace Plans Clash With Reality",
-    "link": "https://www.nytimes.com/2026/02/19/world/middleeast/gaza-rebuilding.html",
-    "source_name": "NewYork Times",
-    "ai_analysis": {
-      "category": "Conflict/Civil Unrest",
-      "risk_score": 8,
-      "location": "Gaza",
-      "latitude": 31.5,
-      "longitude": 34.45,
-      "detailed_analysis": "The ongoing conflict in Gaza poses significant threats to assets, cargo, aviation, and personnel due to the high level of violence and instability. Israeli strikes have resulted in substantial human casualties and infrastructure damage, including war debris that needs to be cleared.",
-      "immediate_forecast_24h": "Continued violence and instability are expected in the short term, with potential for further escalation of the conflict, affecting the safety of personnel and the security of assets and cargo in the region.",
-      "strategic_outlook": "The long-term outlook for the region remains uncertain, with the potential for ongoing conflict and instability. This could lead to sustained disruptions to transport and logistics, as well as continued risks to assets, cargo, aviation, and personnel.",
-      "operational_impact": "The conflict is likely to impact operational activities in the region, including aviation, with potential for flight disruptions or restrictions. Additionally, the movement of cargo and personnel may be severely hindered due to the security situation and the need to clear war debris.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "fcb24f0633cd8926d56b11f5737d6f03",
-    "timestamp": "2026-02-19T11:46:48.515940",
-    "original_title": "Trump officials plan to build 5,000-person military base in Gaza, files show",
-    "link": "https://www.reddit.com/r/worldnews/comments/1r8x1k4/trump_officials_plan_to_build_5000person_military/",
-    "source_name": "Reddit r/WorldNews",
+    "id": "acc53e5a6c5992e682dce6335b7b780a",
+    "timestamp": "2026-02-19T13:23:24.225335",
+    "original_title": "US vs Iran soon? Israel's participation?",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1r8x82d/us_vs_iran_soon_israels_participation/",
+    "source_name": "Reddit r/Geopolitics",
     "ai_analysis": {
       "category": "Conflict",
       "risk_score": 8,
-      "location": "Gaza",
-      "latitude": 31.5,
-      "longitude": 34.5,
-      "detailed_analysis": "The planned construction of a 5,000-person military base in Gaza poses significant risks to regional stability and security. The base could become a target for militant groups, potentially leading to increased violence and conflict in the area.",
-      "immediate_forecast_24h": "Tensions are likely to rise in the short term, with potential for protests and clashes between local groups and military personnel. Aviation and cargo operations in the region may be affected by increased security measures.",
-      "strategic_outlook": "The long-term implications of the military base are uncertain, but it could lead to a permanent military presence in the region, potentially destabilizing the area and affecting transport and logistics operations for an extended period.",
-      "operational_impact": "The construction of the military base may lead to increased security checks and protocols for aviation and cargo operations in the region, potentially causing delays and disruptions to transport and logistics services.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "38b8c0bb358809d693b0ea097c83bbf9",
-    "timestamp": "2026-02-19T11:46:51.224811",
-    "original_title": "Russia has taken 'over 1,000' Kenyans to Ukraine: intelligence report",
-    "link": "http://www.africanews.com/2026/02/19/russia-has-taken-over-1000-kenyans-to-ukraine-intelligence-report/",
-    "source_name": "Africa News",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 7,
-      "location": "Ukraine",
-      "latitude": 49.0,
-      "longitude": 32.0,
-      "detailed_analysis": "Over 1,000 Kenyans have been taken to Ukraine to fight for the Russian army, with most being tricked into signing military contracts, posing a significant risk to personnel and potentially impacting regional stability",
-      "immediate_forecast_24h": "Increased tensions between Russia and Ukraine, potential for further escalation, and risks to Kenyan nationals",
-      "strategic_outlook": "Long-term implications for regional security, potential for increased conflict, and impact on global relations",
-      "operational_impact": "Potential disruptions to transport and logistics in the region, increased security measures, and risks to personnel and assets",
+      "location": "Middle East",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The potential conflict between the US and Iran, with possible participation from Israel, poses a significant threat to regional stability and global security. This could lead to disruptions in air travel, cargo transport, and personnel movement.",
+      "immediate_forecast_24h": "Increased tensions and diplomatic efforts to de-escalate the situation. Possible military mobilizations and preparations for conflict.",
+      "strategic_outlook": "A prolonged conflict could lead to long-term instability in the region, affecting global oil prices, trade routes, and aviation security. Israel's participation could further complicate the situation and lead to broader regional involvement.",
+      "operational_impact": "Potential disruptions to air traffic, cargo transport, and personnel movement in the region. Increased security measures and protocols may be implemented to mitigate the risks.",
       "proximity_alert": null
     }
   }
