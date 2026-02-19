@@ -511,5 +511,62 @@
       "operational_impact": "The operation is expected to have a minimal impact on transport and logistics operations in the region, with the primary focus on disrupting online scam networks rather than physical cargo or aviation operations.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "00653288c7f31da24dbcbc16a2ea5447",
+    "timestamp": "2026-02-19T11:46:44.799757",
+    "original_title": "In Devastated Gaza, Grandiose Peace Plans Clash With Reality",
+    "link": "https://www.nytimes.com/2026/02/19/world/middleeast/gaza-rebuilding.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "Gaza",
+      "latitude": 31.5,
+      "longitude": 34.45,
+      "detailed_analysis": "The ongoing conflict in Gaza poses significant threats to assets, cargo, aviation, and personnel due to the high level of violence and instability. Israeli strikes have resulted in substantial human casualties and infrastructure damage, including war debris that needs to be cleared.",
+      "immediate_forecast_24h": "Continued violence and instability are expected in the short term, with potential for further escalation of the conflict, affecting the safety of personnel and the security of assets and cargo in the region.",
+      "strategic_outlook": "The long-term outlook for the region remains uncertain, with the potential for ongoing conflict and instability. This could lead to sustained disruptions to transport and logistics, as well as continued risks to assets, cargo, aviation, and personnel.",
+      "operational_impact": "The conflict is likely to impact operational activities in the region, including aviation, with potential for flight disruptions or restrictions. Additionally, the movement of cargo and personnel may be severely hindered due to the security situation and the need to clear war debris.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "fcb24f0633cd8926d56b11f5737d6f03",
+    "timestamp": "2026-02-19T11:46:48.515940",
+    "original_title": "Trump officials plan to build 5,000-person military base in Gaza, files show",
+    "link": "https://www.reddit.com/r/worldnews/comments/1r8x1k4/trump_officials_plan_to_build_5000person_military/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Gaza",
+      "latitude": 31.5,
+      "longitude": 34.5,
+      "detailed_analysis": "The planned construction of a 5,000-person military base in Gaza poses significant risks to regional stability and security. The base could become a target for militant groups, potentially leading to increased violence and conflict in the area.",
+      "immediate_forecast_24h": "Tensions are likely to rise in the short term, with potential for protests and clashes between local groups and military personnel. Aviation and cargo operations in the region may be affected by increased security measures.",
+      "strategic_outlook": "The long-term implications of the military base are uncertain, but it could lead to a permanent military presence in the region, potentially destabilizing the area and affecting transport and logistics operations for an extended period.",
+      "operational_impact": "The construction of the military base may lead to increased security checks and protocols for aviation and cargo operations in the region, potentially causing delays and disruptions to transport and logistics services.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "38b8c0bb358809d693b0ea097c83bbf9",
+    "timestamp": "2026-02-19T11:46:51.224811",
+    "original_title": "Russia has taken 'over 1,000' Kenyans to Ukraine: intelligence report",
+    "link": "http://www.africanews.com/2026/02/19/russia-has-taken-over-1000-kenyans-to-ukraine-intelligence-report/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "Over 1,000 Kenyans have been taken to Ukraine to fight for the Russian army, with most being tricked into signing military contracts, posing a significant risk to personnel and potentially impacting regional stability",
+      "immediate_forecast_24h": "Increased tensions between Russia and Ukraine, potential for further escalation, and risks to Kenyan nationals",
+      "strategic_outlook": "Long-term implications for regional security, potential for increased conflict, and impact on global relations",
+      "operational_impact": "Potential disruptions to transport and logistics in the region, increased security measures, and risks to personnel and assets",
+      "proximity_alert": null
+    }
   }
 ]
