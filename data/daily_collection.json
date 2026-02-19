@@ -758,5 +758,62 @@
       "operational_impact": "The conflict could impact air traffic and cargo transport in the region, with potential for flight disruptions, increased security screening, and delays in cargo processing.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "9f6055cd9905ef842e8a4104c6367266",
+    "timestamp": "2026-02-19T18:28:04.992959",
+    "original_title": "Cyberattack cripples UMMC systems, forces clinic closures: 'We don't know how long this will last' - WAPT",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSm51NFZxa2FlcWl3aXRYblNwOWsxYXE5REJSTTl3d2tYbHNGMWxHZnJOUWFOUGVvMGhvcW9NVDJpR1M4bEg0RUZaNWhLTF9hTmd5RWt3dUZPTnZySXNsN1NNenUtSDlTczhXeU9HY0dIUEMxaHJqMnMyYjM5cWJ5MlJR?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 8,
+      "location": "Jackson, USA",
+      "latitude": 32.32,
+      "longitude": -90.2078,
+      "detailed_analysis": "A cyberattack has crippled the University of Mississippi Medical Center (UMMC) systems, forcing clinic closures. The attack's impact on patient care and hospital operations is significant, with no clear timeline for resolution.",
+      "immediate_forecast_24h": "The situation is expected to remain critical in the short term, with potential disruptions to medical services and patient care. The hospital may need to divert patients to other facilities, and staff may face challenges in accessing critical systems and data.",
+      "strategic_outlook": "The long-term impact of the cyberattack will depend on the hospital's ability to restore systems and implement robust security measures to prevent similar incidents in the future. This may involve significant investments in cybersecurity infrastructure and personnel.",
+      "operational_impact": "The cyberattack has already forced clinic closures, and the hospital's ability to provide medical services is severely impaired. This may have a ripple effect on the broader healthcare system, with potential delays or disruptions to patient care and medical supply chains.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "e5b51fc670aa2aaaeed0e76a3541fea5",
+    "timestamp": "2026-02-19T18:28:12.417544",
+    "original_title": "No, this video does not prove Israel used a thermobaric bomb in Gaza",
+    "link": "https://www.france24.com/en/middle-east/20260219-video-israel-thermobaric-bomb-gaza-debunked",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 6,
+      "location": "Gaza",
+      "latitude": 31.5,
+      "longitude": 34.5,
+      "detailed_analysis": "Social media footage of a spectacular explosion in Gaza was misinterpreted as a thermobaric bomb, but it actually depicts a conventional explosion. The situation is still volatile due to the ongoing conflict.",
+      "immediate_forecast_24h": "The conflict in Gaza may escalate, and there is a risk of further explosions or attacks. However, there is no evidence to suggest the use of thermobaric bombs.",
+      "strategic_outlook": "The conflict in Gaza is likely to continue, and the risk of attacks on aviation and personnel remains high. The use of misinformation on social media can exacerbate the situation and create unnecessary panic.",
+      "operational_impact": "The conflict may impact aviation operations in the region, and there is a risk of delays or cancellations. Cargo and personnel movement may also be affected due to the volatile security situation.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "003669fadcb04f60a91e3fb88a6c4252",
+    "timestamp": "2026-02-19T18:28:14.364855",
+    "original_title": "Iran-US tensions mount as carrier nears Mideast",
+    "link": "https://www.france24.com/en/video/20260219-iran-us-tensions-mount-as-carrier-nears-mideast",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Middle East",
+      "latitude": 29.4574,
+      "longitude": 47.6466,
+      "detailed_analysis": "Escalating tensions between Iran and the US, with a second aircraft carrier reportedly on its way to the Middle East, pose a significant threat to aviation and maritime assets in the region.",
+      "immediate_forecast_24h": "Increased military presence and heightened alertness are expected, with potential for miscalculations or provocative actions by either side.",
+      "strategic_outlook": "Prolonged tensions may lead to increased insurance premiums, route diversions, and enhanced security measures for cargo and personnel in the region.",
+      "operational_impact": "Potential disruptions to air and sea traffic, particularly in the Gulf region, may affect cargo transport, aviation operations, and personnel safety.",
+      "proximity_alert": null
+    }
   }
 ]
