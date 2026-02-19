@@ -55,5 +55,24 @@
       "operational_impact": "The internal political instability could indirectly affect transport and logistics operations in Ukraine, particularly if it leads to disruptions in governance, security, or military operations. However, at this stage, the direct impact on assets, cargo, aviation, and personnel appears to be minimal.",
       "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
     }
+  },
+  {
+    "id": "06b814191a365ac99cc9534708f884a4",
+    "timestamp": "2026-02-19T17:04:56.373275",
+    "original_title": "Trump Considers Building a Military Base in Gaza as Peace Plans Clash With Reality",
+    "link": "https://www.nytimes.com/2026/02/19/world/middleeast/gaza-rebuilding.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "Gaza",
+      "latitude": 31.5,
+      "longitude": 34.45,
+      "detailed_analysis": "The situation in Gaza is volatile due to ongoing Israeli strikes, resulting in significant loss of life and displacement. The proposal to build a military base in the area could further escalate tensions and increase the risk of violence, potentially impacting aviation and cargo operations.",
+      "immediate_forecast_24h": "Continued violence and unrest are expected in the short term, with potential for further escalation if the military base proposal moves forward.",
+      "strategic_outlook": "Long-term stability in the region is uncertain, with the potential for ongoing conflict and unrest. This could lead to increased security measures and potential disruptions to aviation and cargo operations.",
+      "operational_impact": "The conflict could impact air traffic and cargo transport in the region, with potential for flight disruptions, increased security screening, and delays in cargo processing.",
+      "proximity_alert": null
+    }
   }
 ]
