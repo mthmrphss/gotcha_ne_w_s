@@ -606,5 +606,43 @@
       "operational_impact": "Passengers may need to adjust their travel plans and find alternative power sources for their devices during flights, while airlines will need to update their safety protocols and communicate the new policy to customers",
       "proximity_alert": "YAKIN TEHDİT: Haneda Airport (16 km)"
     }
+  },
+  {
+    "id": "fa3579a8d29a7cdd54432353bf64fb96",
+    "timestamp": "2026-02-20T14:11:42.004929",
+    "original_title": "EU debuts ICT Supply Chain Security Toolbox to standardize supply chain risk assessment, bolster security - Industrial Cyber",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUTFubGZnNjBkbDd0UEtVeldYVzdlRjJzRndPQ3JRcC1BNm9CMUE2bWNVT2d2SVQ5aHJEMnJyNVd5SlYtZ0c1SmtFLXB0SDJqWkRINjJWMWlIMi1CMmZnb0pPdEVXdl9ZZl9RdXRqTU5KSldtbFhpdnR6dFhPM0VramdUZXc3OVhBd2JZdWQycnRPNGNsYzBPTjBjdVI4b3dQQXlPREFzVFFEM0dHOGJPYTZielNCNjAyYVNSMXh0X1FOazZYbFAya3NpT2dmMWRHZ0ExdUFkWnhRcld6WFhDX21FX24zMkZBRFE?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 10,
+      "location": "European Union",
+      "latitude": 50.8467,
+      "longitude": 4.3522,
+      "detailed_analysis": "The EU has introduced the ICT Supply Chain Security Toolbox to standardize supply chain risk assessment and enhance security. This move aims to mitigate potential cyber threats to the supply chain, which could impact assets, cargo, aviation, and personnel.",
+      "immediate_forecast_24h": "No immediate threats are anticipated, but the implementation of the toolbox may lead to increased scrutiny of supply chain security measures.",
+      "strategic_outlook": "In the long term, the ICT Supply Chain Security Toolbox is expected to contribute to a more secure and resilient supply chain, reducing the risk of cyber attacks and data breaches.",
+      "operational_impact": "The introduction of the toolbox may require transport and logistics operators to reassess and adapt their supply chain security protocols, potentially leading to changes in operational procedures and investments in security measures.",
+      "proximity_alert": "YAKIN TEHDİT: SHERATON AIRPORT (0 km)"
+    }
+  },
+  {
+    "id": "f786faa60e72c1340f23e1b038dab209",
+    "timestamp": "2026-02-20T14:11:44.721359",
+    "original_title": "UMMC Shuts Clinics While it Grapples with Ransomware Attack - The HIPAA Journal",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8wTGlkUkNycy1ZdGRsbWgzdDVsV25RLVhhajIzaUhXME5UaDRpSlNqWmxva2U5NFhaSmxoUDNvY1ZOMTJNWDZLcS1UU2dGNnNyRE11UEN3X1ZRTnJSSFBjVkZn?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 8,
+      "location": "Unknown, USA",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "A ransomware attack has been reported on UMMC, resulting in the shutdown of clinics. This attack poses a significant threat to the confidentiality, integrity, and availability of sensitive medical data and could have a substantial operational impact on the healthcare organization.",
+      "immediate_forecast_24h": "In the next 24 hours, UMMC is likely to continue experiencing disruptions to its services, and there may be attempts by the attackers to extort money in exchange for the decryption key. The organization may also face challenges in containing and mitigating the attack.",
+      "strategic_outlook": "In the long term, this incident highlights the need for UMMC and other healthcare organizations to invest in robust cybersecurity measures, including employee training, incident response planning, and regular security audits to prevent and respond to similar attacks in the future.",
+      "operational_impact": "The ransomware attack on UMMC may have a significant operational impact on the organization, including disruptions to patient care, delays in medical services, and potential breaches of sensitive patient data. This could also have a ripple effect on the broader healthcare system, particularly if the attack is found to be part of a larger campaign targeting healthcare organizations.",
+      "proximity_alert": null
+    }
   }
 ]
