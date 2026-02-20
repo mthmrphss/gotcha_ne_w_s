@@ -682,5 +682,43 @@
       "operational_impact": "The production of low-cost drones may lead to increased security measures at airports and military bases, potentially causing minor disruptions to transport and logistics operations.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "91eecf5c53cbc3343d8985ff25b62c76",
+    "timestamp": "2026-02-20T16:03:24.901483",
+    "original_title": "Trump says he is ‘considering’ military strike on Iran",
+    "link": "https://www.reddit.com/r/worldnews/comments/1r9y8p9/trump_says_he_is_considering_military_strike_on/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Iran, Middle East",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The US President's consideration of a military strike on Iran poses a significant threat to regional stability, potentially impacting aviation, cargo, and personnel in the area.",
+      "immediate_forecast_24h": "Heightened tensions and increased military presence in the region, potentially leading to disruptions in air traffic and logistics.",
+      "strategic_outlook": "A long-term escalation of conflict could lead to widespread instability, affecting global supply chains and transportation networks.",
+      "operational_impact": "Potential disruptions to air cargo and passenger flights, increased security measures, and possible rerouting of flights to avoid the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "4ca893014933e37aed02c9731178ce1f",
+    "timestamp": "2026-02-20T16:03:30.215949",
+    "original_title": "Can I take my portable charger on a flight? The rules after several airlines ban using the device",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/portable-charger-rules-airplane-ban-safety-b2924277.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 6,
+      "location": "Global",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Several airlines have introduced new power bank regulations due to fire safety concerns, which may indicate a potential threat to aviation safety",
+      "immediate_forecast_24h": "Passengers may face restrictions on carrying portable chargers on flights, potentially causing inconvenience and disruption to travel plans",
+      "strategic_outlook": "Airlines may continue to update their safety protocols and regulations to mitigate potential fire hazards, which could lead to increased security measures and passenger screening",
+      "operational_impact": "Potential delays and disruptions to flights, as well as increased security checks for passengers and cargo",
+      "proximity_alert": null
+    }
   }
 ]
