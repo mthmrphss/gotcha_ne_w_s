@@ -93,5 +93,62 @@
       "operational_impact": "Potential disruptions to flights, increased security screening, and possible rerouting of cargo shipments to avoid the region, leading to delays and increased costs.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "2d94ab63054d30ef4dc0d23cf9c5344d",
+    "timestamp": "2026-02-20T23:35:39.280813",
+    "original_title": "Trump says he is considering limited military strike on Iran - BBC",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PeXhTN2xIRjlVbDd1WHFjNWJSU0hncjNmYzJJdFViTmlLSW13MTJfR1dMdS1KV3pXUmtRdTNOa3ZBb2RyTEVwWVVRWWhaNktaN1VuVUVXTVNDUQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The US President's consideration of a limited military strike on Iran poses a significant threat to regional stability, potentially impacting aviation and cargo operations in the area.",
+      "immediate_forecast_24h": "Heightened tensions between the US and Iran, potential for increased military activity, and possible retaliatory actions from Iran or its allies.",
+      "strategic_outlook": "Prolonged conflict could lead to a significant escalation of violence, disrupting global supply chains, and affecting oil prices, while also increasing the risk of terrorism and cyberattacks.",
+      "operational_impact": "Potential for flight restrictions, cargo delays, and increased security measures in the region, affecting personnel and asset safety.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "f72286c84202119645578b777123f57d",
+    "timestamp": "2026-02-20T23:35:46.246683",
+    "original_title": "Trump 'considering' limited military strike on Iran",
+    "link": "https://www.reddit.com/r/worldnews/comments/1raaiw2/trump_considering_limited_military_strike_on_iran/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The potential for a limited military strike on Iran poses a significant threat to regional stability, with potential impacts on aviation, cargo, and personnel. This could lead to increased tensions, potential airspace restrictions, and heightened security measures.",
+      "immediate_forecast_24h": "Increased diplomatic tensions and potential military posturing, with a low likelihood of immediate military action. However, the situation remains volatile and subject to rapid escalation.",
+      "strategic_outlook": "A prolonged conflict or increased tensions in the region could have long-term implications for global supply chains, aviation routes, and energy markets. This may lead to increased costs, delays, and security concerns for assets, cargo, and personnel.",
+      "operational_impact": "Potential disruptions to air traffic, increased security screening, and possible restrictions on cargo shipments. Personnel in the region may face increased security risks, and contingency planning for evacuation or relocation may be necessary.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "0e5c2ae726096985b0188ace6d4d8600",
+    "timestamp": "2026-02-20T23:35:49.503767",
+    "original_title": "Qatar - Level 1: Exercise Normal Precautions",
+    "link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/qatar-travel-advisory.html",
+    "source_name": "US State Dept",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 6,
+      "location": "Qatar",
+      "latitude": 25.3548,
+      "longitude": 51.1839,
+      "detailed_analysis": "The Federal Aviation Administration (FAA) has issued a Notice to Airmen (NOTAM) and/or a Special Federal Aviation Regulation (SFAR) for Qatar due to risks to civil aviation from political and military tensions in the region.",
+      "immediate_forecast_24h": "No immediate threats are reported, but U.S. operators are advised to review current threat information and report safety or security incidents.",
+      "strategic_outlook": "Ongoing political and military tensions in the region may continue to pose risks to civil aviation, requiring continued vigilance and monitoring of threat information.",
+      "operational_impact": "Potential disruptions to air travel and cargo operations due to increased security measures or airspace restrictions, but no significant impact is expected at this time.",
+      "proximity_alert": null
+    }
   }
 ]
