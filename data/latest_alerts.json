@@ -1,21 +1,59 @@
 [
   {
-    "id": "f50d63e0aee51138e2c20526a05220bf",
-    "timestamp": "2026-02-20T02:42:33.796926",
-    "original_title": "Iran holds military drills with Russia amid tensions with US",
-    "link": "https://www.reddit.com/r/worldnews/comments/1r9i5jm/iran_holds_military_drills_with_russia_amid/",
+    "id": "7ad83980b7200bb363b3f33b6c3d9d37",
+    "timestamp": "2026-02-20T04:53:17.202218",
+    "original_title": "Russia launches artillery shooting next to maritime border with Norway",
+    "link": "https://www.reddit.com/r/worldnews/comments/1r9l7b4/russia_launches_artillery_shooting_next_to/",
     "source_name": "Reddit r/WorldNews",
     "ai_analysis": {
       "category": "Conflict",
       "risk_score": 7,
-      "location": "Iran",
-      "latitude": 32.0,
-      "longitude": 53.0,
-      "detailed_analysis": "Iran's military drills with Russia amid tensions with the US pose a significant threat to regional stability, potentially impacting aviation and cargo operations in the area.",
-      "immediate_forecast_24h": "Increased military activity may lead to heightened security measures, potentially causing disruptions to air traffic and logistics in the region.",
-      "strategic_outlook": "Escalating tensions between Iran, Russia, and the US could lead to a prolonged period of instability, affecting global supply chains and aviation security.",
-      "operational_impact": "Potential disruptions to air traffic, increased security screening, and possible restrictions on cargo shipments may impact operational efficiency and safety in the region.",
+      "location": "Maritime border with Norway, Russia",
+      "latitude": 69.5,
+      "longitude": 32.5,
+      "detailed_analysis": "Russia has launched artillery shooting next to its maritime border with Norway, indicating heightened military activity and potential escalation in the region. This could impact shipping lanes and aviation routes.",
+      "immediate_forecast_24h": "Increased military presence and potential for further artillery shooting in the area, posing a risk to nearby vessels and aircraft.",
+      "strategic_outlook": "Long-term tensions between Russia and Norway could lead to sustained military activity, affecting regional stability and potentially disrupting trade and transportation routes.",
+      "operational_impact": "Shipping and aviation companies should exercise caution when operating in the region, with potential delays or rerouting of flights and vessels due to the increased military activity.",
       "proximity_alert": null
+    }
+  },
+  {
+    "id": "67252e673b78d818a85918b8bb1b3862",
+    "timestamp": "2026-02-20T04:53:19.097780",
+    "original_title": "Canada’s Alberta to Hold Referendum on New Restrictions for Immigrants",
+    "link": "https://www.reddit.com/r/worldnews/comments/1r9k3xg/canadas_alberta_to_hold_referendum_on_new/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Border/Civil Unrest",
+      "risk_score": 4,
+      "location": "Alberta, Canada",
+      "latitude": 53.9333,
+      "longitude": -116.5667,
+      "detailed_analysis": "A referendum on new restrictions for immigrants in Alberta, Canada may lead to increased tensions and potential unrest, which could impact border crossings and transport logistics.",
+      "immediate_forecast_24h": "No immediate disruptions expected, but the situation will be monitored for potential protests or demonstrations.",
+      "strategic_outlook": "The outcome of the referendum may lead to changes in immigration policies, which could have long-term implications for the movement of people and goods across the border.",
+      "operational_impact": "Potential delays or disruptions to transport and logistics operations, particularly at border crossings, if the situation escalates or leads to changes in regulations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "35f3ad3aff45ca9a04677ffed0bc1d7f",
+    "timestamp": "2026-02-20T04:53:23.088880",
+    "original_title": "Kuwait - Level 1: Exercise Normal Precautions",
+    "link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/kuwait-travel-advisory.html",
+    "source_name": "US State Dept",
+    "ai_analysis": {
+      "category": "Aviation/Crime",
+      "risk_score": 10,
+      "location": "Kuwait City, Kuwait",
+      "latitude": 29.3759,
+      "longitude": 47.9774,
+      "detailed_analysis": "The Federal Aviation Administration (FAA) has issued a Notice to Airmen (NOTAM) due to risks to civil aviation from political and military tensions in the Persian Gulf and the Gulf of Oman region, including Kuwait. Additionally, the Jleeb Al-Shuyoukh area in Kuwait City has higher crime rates, and the desert area near the border with Iraq has unexploded bombs, shells, and landmines.",
+      "immediate_forecast_24h": "Increased caution is advised for the next 24 hours, especially in high-risk areas such as Jleeb Al-Shuyoukh and the desert area near the Iraq border.",
+      "strategic_outlook": "Long-term, the situation in Kuwait is expected to remain volatile due to regional tensions, and travelers should exercise normal precautions and stay informed about local conditions.",
+      "operational_impact": "The NOTAM issued by the FAA may impact flight operations in the region, and cargo transport may be affected by the high crime rates in certain areas.",
+      "proximity_alert": "YAKIN TEHDİT: Kuwait International Airport (17 km)"
     }
   }
 ]

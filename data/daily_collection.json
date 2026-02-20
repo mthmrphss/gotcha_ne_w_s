@@ -112,5 +112,43 @@
       "operational_impact": "Potential disruptions to air traffic, increased security screening, and possible restrictions on cargo shipments may impact operational efficiency and safety in the region.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "7ad83980b7200bb363b3f33b6c3d9d37",
+    "timestamp": "2026-02-20T04:53:17.202218",
+    "original_title": "Russia launches artillery shooting next to maritime border with Norway",
+    "link": "https://www.reddit.com/r/worldnews/comments/1r9l7b4/russia_launches_artillery_shooting_next_to/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Maritime border with Norway, Russia",
+      "latitude": 69.5,
+      "longitude": 32.5,
+      "detailed_analysis": "Russia has launched artillery shooting next to its maritime border with Norway, indicating heightened military activity and potential escalation in the region. This could impact shipping lanes and aviation routes.",
+      "immediate_forecast_24h": "Increased military presence and potential for further artillery shooting in the area, posing a risk to nearby vessels and aircraft.",
+      "strategic_outlook": "Long-term tensions between Russia and Norway could lead to sustained military activity, affecting regional stability and potentially disrupting trade and transportation routes.",
+      "operational_impact": "Shipping and aviation companies should exercise caution when operating in the region, with potential delays or rerouting of flights and vessels due to the increased military activity.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "35f3ad3aff45ca9a04677ffed0bc1d7f",
+    "timestamp": "2026-02-20T04:53:23.088880",
+    "original_title": "Kuwait - Level 1: Exercise Normal Precautions",
+    "link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/kuwait-travel-advisory.html",
+    "source_name": "US State Dept",
+    "ai_analysis": {
+      "category": "Aviation/Crime",
+      "risk_score": 10,
+      "location": "Kuwait City, Kuwait",
+      "latitude": 29.3759,
+      "longitude": 47.9774,
+      "detailed_analysis": "The Federal Aviation Administration (FAA) has issued a Notice to Airmen (NOTAM) due to risks to civil aviation from political and military tensions in the Persian Gulf and the Gulf of Oman region, including Kuwait. Additionally, the Jleeb Al-Shuyoukh area in Kuwait City has higher crime rates, and the desert area near the border with Iraq has unexploded bombs, shells, and landmines.",
+      "immediate_forecast_24h": "Increased caution is advised for the next 24 hours, especially in high-risk areas such as Jleeb Al-Shuyoukh and the desert area near the Iraq border.",
+      "strategic_outlook": "Long-term, the situation in Kuwait is expected to remain volatile due to regional tensions, and travelers should exercise normal precautions and stay informed about local conditions.",
+      "operational_impact": "The NOTAM issued by the FAA may impact flight operations in the region, and cargo transport may be affected by the high crime rates in certain areas.",
+      "proximity_alert": "YAKIN TEHDİT: Kuwait International Airport (17 km)"
+    }
   }
 ]
