@@ -530,5 +530,81 @@
       "operational_impact": "Potential disruptions to ground transportation, logistics, and supply chain operations in the region, with possible spillover effects on aviation and border security.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "6f4d457de2a885ec047d5a3c602c8b70",
+    "timestamp": "2026-02-20T13:17:51.694232",
+    "original_title": "Tenable flags growing ‘AI exposure gap’ as engineering speed eclipses cloud security controls - Industrial Cyber",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeHRjTjNWMXpuc2FaQW5COXRsUTJGTU1PZkVqSFR2WjVON3NwTzk4WmtxekNrZE1IYXZsd1d0eDNYY2hfOGRTbk10RlY4OXo2T0xVSUNIWEo5bmV2TjJrRWMxandhNVNyMWNjeVpBa055NzJjTVRUVktSaGFRSWQwUEw2Uk9KUmFhOGlRZ25kNHNBZGNuWGFibExORThGblgtcGYtNUhEN3ZCX2ZVTEN5dXBsXzUybmxQX1VDTjd0WTMxQQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 6,
+      "location": "Global",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Tenable has identified a growing 'AI exposure gap' where the speed of engineering is outpacing cloud security controls, potentially leaving industrial cyber systems vulnerable to attacks.",
+      "immediate_forecast_24h": "Increased likelihood of cyber attacks on cloud-based systems due to the 'AI exposure gap', potentially disrupting industrial operations and logistics.",
+      "strategic_outlook": "The 'AI exposure gap' is expected to continue growing as AI adoption increases, making it essential for organizations to prioritize cloud security and implement robust controls to mitigate potential threats.",
+      "operational_impact": "Potential disruptions to industrial operations, logistics, and supply chains due to cyber attacks on cloud-based systems, which could lead to delays, financial losses, and reputational damage.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "4328ad8f8faf131df342d308f4067b0b",
+    "timestamp": "2026-02-20T13:17:57.929825",
+    "original_title": "Historic Rivalries Spark Fresh Tensions in the Horn of Africa",
+    "link": "https://www.reddit.com/r/worldnews/comments/1r9v0jo/historic_rivalries_spark_fresh_tensions_in_the/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 6,
+      "location": "Horn of Africa",
+      "latitude": 10.0,
+      "longitude": 40.0,
+      "detailed_analysis": "Historic rivalries between Ethiopia and Eritrea are sparking fresh tensions in the Horn of Africa, potentially destabilizing the region and affecting transport and logistics operations.",
+      "immediate_forecast_24h": "Increased military presence and heightened security measures are expected in the region, with potential for clashes and disruptions to transport routes.",
+      "strategic_outlook": "Long-term instability in the region could lead to increased piracy, smuggling, and terrorism, posing significant risks to assets, cargo, aviation, and personnel.",
+      "operational_impact": "Transport and logistics operations in the region may be disrupted, with potential for delays, cargo theft, and damage to assets. Aviation operations may also be affected, with potential for flight disruptions and increased security measures.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "7a959324be998e3fc82be92aebbb9b94",
+    "timestamp": "2026-02-20T13:18:01.206058",
+    "original_title": "Kenyans tricked into fighting for Russia in Ukraine",
+    "link": "https://www.france24.com/en/tv-shows/focus/20260220-kenyans-tricked-into-fighting-for-russia-in-ukraine",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Crime",
+      "risk_score": 10,
+      "location": "Nairobi, Kenya",
+      "latitude": -1.2921,
+      "longitude": 36.8219,
+      "detailed_analysis": "Kenyans are being tricked into fighting for Russia in Ukraine, posing a significant risk to personnel and potentially disrupting global logistics and transport",
+      "immediate_forecast_24h": "Increased scrutiny of recruitment agencies and potential protests or unrest in Nairobi",
+      "strategic_outlook": "Long-term implications for global security and potential escalation of the conflict in Ukraine, affecting aviation and cargo transport",
+      "operational_impact": "Potential disruptions to air travel and cargo shipments, particularly for routes involving Eastern Europe and Africa",
+      "proximity_alert": "YAKIN TEHDİT: Jomo Kenyatta International Airport (12 km)"
+    }
+  },
+  {
+    "id": "b3e9e39243568900e52d6c54e97e99a4",
+    "timestamp": "2026-02-20T13:18:04.532892",
+    "original_title": "Japan set to ban the use of power banks on planes this spring",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/japan-power-bank-ban-plane-b2924191.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Japan",
+      "latitude": 35.6895,
+      "longitude": 139.767,
+      "detailed_analysis": "Japan is set to ban the use of power banks on planes due to fire hazard concerns, following similar bans by airlines in Australia and South Korea",
+      "immediate_forecast_24h": "Implementation of the ban may cause short-term disruptions to passenger travel, but is expected to enhance overall flight safety",
+      "strategic_outlook": "The ban may set a precedent for other countries to follow, leading to a global reduction in the risk of power bank-related fires on planes",
+      "operational_impact": "Passengers may need to adjust their travel plans and find alternative power sources for their devices during flights, while airlines will need to update their safety protocols and communicate the new policy to customers",
+      "proximity_alert": "YAKIN TEHDİT: Haneda Airport (16 km)"
+    }
   }
 ]

@@ -1,97 +1,78 @@
 [
   {
-    "id": "09e4b8449130638c037c5192e8811671",
-    "timestamp": "2026-02-20T11:06:21.439021",
-    "original_title": "Jet2 flight from Spain to Glasgow declares emergency mid-air - Euro Weekly News",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYTJTcnZPWm1nTEVWYjVCSm1IaFlZM3FuMzFtbUFBZTRFbXRGQjd0b0kweWRYdUtaS1ZaWDVEbk5iOHVHVDc1WjZlUFVhcjJxQ3BTTHI0MFEwU3RWcHItN2RSVnpOSm5pVkVTeW1CeGw4b1QwYnNfdU5KSnhTR1hidzF5aVIxS0JoNkJWUkNoeERDU2ktY0N0UzIwbWNQYmhB?oc=5",
-    "source_name": "Live Flight Emergencies (Squawk)",
+    "id": "6f4d457de2a885ec047d5a3c602c8b70",
+    "timestamp": "2026-02-20T13:17:51.694232",
+    "original_title": "Tenable flags growing ‘AI exposure gap’ as engineering speed eclipses cloud security controls - Industrial Cyber",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeHRjTjNWMXpuc2FaQW5COXRsUTJGTU1PZkVqSFR2WjVON3NwTzk4WmtxekNrZE1IYXZsd1d0eDNYY2hfOGRTbk10RlY4OXo2T0xVSUNIWEo5bmV2TjJrRWMxandhNVNyMWNjeVpBa055NzJjTVRUVktSaGFRSWQwUEw2Uk9KUmFhOGlRZ25kNHNBZGNuWGFibExORThGblgtcGYtNUhEN3ZCX2ZVTEN5dXBsXzUybmxQX1VDTjd0WTMxQQ?oc=5",
+    "source_name": "Google News (Breaking)",
     "ai_analysis": {
-      "category": "Aviation",
-      "risk_score": 10,
-      "location": "Spain/Glasgow",
-      "latitude": 40.4168,
-      "longitude": -3.7038,
-      "detailed_analysis": "A Jet2 flight from Spain to Glasgow declared an emergency mid-air, the cause of which is currently unknown. This incident poses a potential threat to the safety of passengers and crew on board.",
-      "immediate_forecast_24h": "The situation is being monitored, and an investigation into the cause of the emergency declaration will likely be launched. Further disruptions to flights may occur depending on the outcome of the investigation.",
-      "strategic_outlook": "The long-term impact of this incident will depend on the root cause of the emergency declaration. If it is found to be a technical issue, Jet2 may need to inspect and potentially ground other aircraft in their fleet, leading to potential disruptions in their operations.",
-      "operational_impact": "The immediate operational impact is the declaration of an emergency and potential diversion of the flight. This may lead to delays and disruptions for passengers, as well as potential impacts on the airline's operations and scheduling.",
-      "proximity_alert": "YAKIN TEHDİT: Adolfo Suárez Madrid–Barajas Airport (14 km)"
+      "category": "Cyber",
+      "risk_score": 6,
+      "location": "Global",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Tenable has identified a growing 'AI exposure gap' where the speed of engineering is outpacing cloud security controls, potentially leaving industrial cyber systems vulnerable to attacks.",
+      "immediate_forecast_24h": "Increased likelihood of cyber attacks on cloud-based systems due to the 'AI exposure gap', potentially disrupting industrial operations and logistics.",
+      "strategic_outlook": "The 'AI exposure gap' is expected to continue growing as AI adoption increases, making it essential for organizations to prioritize cloud security and implement robust controls to mitigate potential threats.",
+      "operational_impact": "Potential disruptions to industrial operations, logistics, and supply chains due to cyber attacks on cloud-based systems, which could lead to delays, financial losses, and reputational damage.",
+      "proximity_alert": null
     }
   },
   {
-    "id": "8b69b8aed7ac60066fb6a046602a5a69",
-    "timestamp": "2026-02-20T11:06:24.562946",
-    "original_title": "Khartoum residents mark the first day of Ramadan amid Sudan's war",
-    "link": "http://www.africanews.com/2026/02/20/khartoum-residents-mark-the-first-day-of-ramadan-amid-sudans-war/",
-    "source_name": "Africa News",
+    "id": "4328ad8f8faf131df342d308f4067b0b",
+    "timestamp": "2026-02-20T13:17:57.929825",
+    "original_title": "Historic Rivalries Spark Fresh Tensions in the Horn of Africa",
+    "link": "https://www.reddit.com/r/worldnews/comments/1r9v0jo/historic_rivalries_spark_fresh_tensions_in_the/",
+    "source_name": "Reddit r/WorldNews",
     "ai_analysis": {
       "category": "Conflict/Civil Unrest",
-      "risk_score": 10,
-      "location": "Khartoum, Sudan",
-      "latitude": 15.6333,
-      "longitude": 32.5333,
-      "detailed_analysis": "The ongoing war in Sudan and the recapture of Khartoum by the army less than a year ago pose a threat to the stability and security of the region, potentially affecting assets, cargo, aviation, and personnel.",
-      "immediate_forecast_24h": "Increased tensions and potential clashes between rival groups may occur, especially during the Ramadan period, which could lead to disruptions in transport and logistics.",
-      "strategic_outlook": "The long-term outlook for the region remains uncertain, with the potential for continued conflict and instability, which could have a significant impact on the security and operations of assets, cargo, aviation, and personnel in the area.",
-      "operational_impact": "Transport and logistics operations in the region may be affected by the ongoing conflict, with potential disruptions to supply chains, increased security risks, and challenges in maintaining the safety of personnel and assets.",
-      "proximity_alert": "YAKIN TEHDİT: Khartoum International Airport (5 km)"
-    }
-  },
-  {
-    "id": "ee475428dc2b1e92235716f66657086d",
-    "timestamp": "2026-02-20T11:55:55.441511",
-    "original_title": "Smoke in the cabin forces JetBlue passengers to evacuate on taxiway, temporarily shutting down Newark Airport - AOL.com",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVmlXUUVkRjl1NlFmR0hQR1M2RS0wZjhJS2FxR2Fia2pIM0hzclhCNmpNLWU1Y0hfUEw0b1RhQVNhRTk3MW5STmpMajZiVTJ3OVprZ3NmNnc3VXNBUWdUX0dIQnFHR2t6QTQ2YUxPNlZ3WF9NNlVTZ05GY1NTUktUTC1vWkJoamZU?oc=5",
-    "source_name": "Live Flight Emergencies (Squawk)",
-    "ai_analysis": {
-      "category": "Aviation",
-      "risk_score": 10,
-      "location": "Newark, USA",
-      "latitude": 40.6895,
-      "longitude": -74.1745,
-      "detailed_analysis": "Smoke in the cabin of a JetBlue flight forced passengers to evacuate on the taxiway, resulting in a temporary shutdown of Newark Airport. The cause of the smoke is currently unknown.",
-      "immediate_forecast_24h": "Investigations into the cause of the smoke are likely to be conducted, and the airport is expected to resume normal operations shortly. However, there may be some delays or disruptions to flights in the short term.",
-      "strategic_outlook": "This incident highlights the importance of aircraft safety and the need for swift evacuation procedures in emergency situations. Airlines and airports may review their safety protocols to prevent similar incidents in the future.",
-      "operational_impact": "The temporary shutdown of Newark Airport may cause some delays or cancellations of flights, potentially affecting cargo and passenger transport. However, the impact is expected to be limited, and normal operations should resume soon.",
-      "proximity_alert": "YAKIN TEHDİT: Newark International Airport (0 km)"
-    }
-  },
-  {
-    "id": "5e75d5df3a900a8b77193c9ae45cc2a6",
-    "timestamp": "2026-02-20T11:55:57.210217",
-    "original_title": "American Airlines flight diverted because it was too big for its destination - AOL.com",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOXy13T0RDZHJPWDFyb1ktaUxHdzZIcTl6Y21ZajkyNnF6UlN3WmNBWVp6RnpXaFJaelhqb09lX3AwcTRrZ2otN3ZNYV9kMm1iQUpmRnhkV0Vnc3JHclVESWVzWVRIeEYzSEFReE0xZ3RzdndkZkFiZHdqM2F4TnJJY1pB?oc=5",
-    "source_name": "Live Flight Emergencies (Squawk)",
-    "ai_analysis": {
-      "category": "Aviation",
-      "risk_score": 2,
-      "location": "Unknown, USA",
-      "latitude": 37.0902,
-      "longitude": -95.7129,
-      "detailed_analysis": "An American Airlines flight was diverted due to being too large for its intended destination, indicating a potential operational or logistical issue rather than a direct threat to assets, cargo, aviation, or personnel.",
-      "immediate_forecast_24h": "No immediate threats are anticipated as a result of this diversion. The situation is expected to be resolved through standard operational procedures.",
-      "strategic_outlook": "This incident highlights the importance of precise flight planning and adherence to airport capacity limitations to avoid such diversions in the future.",
-      "operational_impact": "Minimal impact on transport/logistics is expected, limited to the specific flight in question and its passengers. No broader disruption to aviation services is anticipated.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "a729d20b40db59f2c8be6ddabba5dfbd",
-    "timestamp": "2026-02-20T11:56:00.115780",
-    "original_title": "Armed group killS 33 in fresh simultaneous attacks in Nigeria",
-    "link": "http://www.africanews.com/2026/02/20/armed-group-kills-33-in-fresh-simultaneous-attacks-in-nigeria/",
-    "source_name": "Africa News",
-    "ai_analysis": {
-      "category": "Terrorism/Conflict/Civil Unrest",
-      "risk_score": 8,
-      "location": "Northwest Nigeria",
+      "risk_score": 6,
+      "location": "Horn of Africa",
       "latitude": 10.0,
-      "longitude": 8.0,
-      "detailed_analysis": "Armed Islamic militants launched simultaneous attacks in northwest Nigeria, resulting in at least 33 fatalities. This incident poses a significant threat to personnel and assets in the region.",
-      "immediate_forecast_24h": "Increased security presence and potential for further attacks or retaliations in the next 24 hours, affecting transport and logistics operations.",
-      "strategic_outlook": "Long-term instability and elevated risk of terrorist attacks in northwest Nigeria, necessitating enhanced security measures for assets, cargo, and personnel.",
-      "operational_impact": "Potential disruptions to ground transportation, logistics, and supply chain operations in the region, with possible spillover effects on aviation and border security.",
+      "longitude": 40.0,
+      "detailed_analysis": "Historic rivalries between Ethiopia and Eritrea are sparking fresh tensions in the Horn of Africa, potentially destabilizing the region and affecting transport and logistics operations.",
+      "immediate_forecast_24h": "Increased military presence and heightened security measures are expected in the region, with potential for clashes and disruptions to transport routes.",
+      "strategic_outlook": "Long-term instability in the region could lead to increased piracy, smuggling, and terrorism, posing significant risks to assets, cargo, aviation, and personnel.",
+      "operational_impact": "Transport and logistics operations in the region may be disrupted, with potential for delays, cargo theft, and damage to assets. Aviation operations may also be affected, with potential for flight disruptions and increased security measures.",
       "proximity_alert": null
+    }
+  },
+  {
+    "id": "7a959324be998e3fc82be92aebbb9b94",
+    "timestamp": "2026-02-20T13:18:01.206058",
+    "original_title": "Kenyans tricked into fighting for Russia in Ukraine",
+    "link": "https://www.france24.com/en/tv-shows/focus/20260220-kenyans-tricked-into-fighting-for-russia-in-ukraine",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Crime",
+      "risk_score": 10,
+      "location": "Nairobi, Kenya",
+      "latitude": -1.2921,
+      "longitude": 36.8219,
+      "detailed_analysis": "Kenyans are being tricked into fighting for Russia in Ukraine, posing a significant risk to personnel and potentially disrupting global logistics and transport",
+      "immediate_forecast_24h": "Increased scrutiny of recruitment agencies and potential protests or unrest in Nairobi",
+      "strategic_outlook": "Long-term implications for global security and potential escalation of the conflict in Ukraine, affecting aviation and cargo transport",
+      "operational_impact": "Potential disruptions to air travel and cargo shipments, particularly for routes involving Eastern Europe and Africa",
+      "proximity_alert": "YAKIN TEHDİT: Jomo Kenyatta International Airport (12 km)"
+    }
+  },
+  {
+    "id": "b3e9e39243568900e52d6c54e97e99a4",
+    "timestamp": "2026-02-20T13:18:04.532892",
+    "original_title": "Japan set to ban the use of power banks on planes this spring",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/japan-power-bank-ban-plane-b2924191.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Japan",
+      "latitude": 35.6895,
+      "longitude": 139.767,
+      "detailed_analysis": "Japan is set to ban the use of power banks on planes due to fire hazard concerns, following similar bans by airlines in Australia and South Korea",
+      "immediate_forecast_24h": "Implementation of the ban may cause short-term disruptions to passenger travel, but is expected to enhance overall flight safety",
+      "strategic_outlook": "The ban may set a precedent for other countries to follow, leading to a global reduction in the risk of power bank-related fires on planes",
+      "operational_impact": "Passengers may need to adjust their travel plans and find alternative power sources for their devices during flights, while airlines will need to update their safety protocols and communicate the new policy to customers",
+      "proximity_alert": "YAKIN TEHDİT: Haneda Airport (16 km)"
     }
   }
 ]
