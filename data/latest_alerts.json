@@ -1,24 +1,5 @@
 [
   {
-    "id": "6de50fd700a2955b55dab5ff2d09839d",
-    "timestamp": "2026-02-20T20:40:47.634075",
-    "original_title": "Cyber Stocks Slide as Anthropic Unveils ‘Claude Code Security’ - Bloomberg.com",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTEN1Rmw0SzY3bnFYa05NYVo0SW5ELVl6T3FWN1lIRUJXNGVLeDZDaGt6d2wzTVFINU1paDJER1Y2WUtaWXlBYlFoblZWaWdLVmRfX3ZnREZlZmlaY2N6Vnd2VXRaUlJHb3R0X1pYd3B6SDJCSzlrUEhpSXp2SWhYQUdxeERYRjloYTdzd1RjTE5oT2xTSHNkRzhBTl94T2NXNE1abmdNQ3R0eUZlSjJKXw?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Cyber",
-      "risk_score": 6,
-      "location": "Unknown, Global",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "The unveiling of Anthropic's 'Claude Code Security' has led to a slide in cyber stocks, potentially indicating increased competition and innovation in the cybersecurity sector, which could impact the security of assets, cargo, aviation, and personnel.",
-      "immediate_forecast_24h": "Increased market volatility and potential short-term instability in the cybersecurity sector, with possible impacts on the security of critical infrastructure and supply chains.",
-      "strategic_outlook": "Long-term, the development of advanced cybersecurity solutions like 'Claude Code Security' could lead to enhanced security measures for assets, cargo, aviation, and personnel, but may also introduce new challenges and vulnerabilities.",
-      "operational_impact": "Potential for increased cybersecurity threats and breaches in the short term, with possible disruptions to logistics, supply chains, and critical infrastructure, but also opportunities for improved security measures and risk mitigation strategies in the long term.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "3c9258664a53005589377792912eb0b4",
     "timestamp": "2026-02-20T21:32:52.512024",
     "original_title": "Las Vegas police investigate possible terror attack in Boulder City - Los Angeles Times",
@@ -34,6 +15,63 @@
       "immediate_forecast_24h": "Increased security measures, potential disruptions to local transport and logistics, law enforcement on high alert",
       "strategic_outlook": "Long-term impact on regional security, potential for increased terror threats in the area, need for enhanced security protocols and cooperation between law enforcement agencies",
       "operational_impact": "Potential delays or disruptions to cargo and passenger transport in the Las Vegas area, increased security checks and screenings at airports and other critical infrastructure",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "23a522caa545341c7a3012ff642d8891",
+    "timestamp": "2026-02-20T22:34:51.129084",
+    "original_title": "US and Iran slide towards conflict as military buildup eclipses talks - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWDBxMnplYnpWM3JqdGFULXFvVGg3YXhQb3p1VWVvWUhKeWw1X3NCYW9fVW1DOEFxRW5lOGVGNXBjYXctaDBRYVZPTkl5eFZUdGhsdmgwN3N4QnZRdEhSZlJ4X2N5V0E1T181bTlCQUNzY182elZVV0lSdXM1QnVXX2ZyNkREX1g2a0NDak8wZjFVUFE3X2lTYTZwWERPYmJQWXFFVDYtMnJ6UGdCRzhfM1NxRHVXUnM?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "US and Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The increasing military buildup between the US and Iran poses a significant threat to regional stability, potentially impacting aviation and cargo operations in the area.",
+      "immediate_forecast_24h": "Escalating tensions may lead to increased security measures, potential airspace restrictions, and heightened surveillance in the region.",
+      "strategic_outlook": "A prolonged conflict could disrupt global supply chains, affecting cargo transport and logistics, as well as impacting the safety of personnel and assets in the region.",
+      "operational_impact": "Potential disruptions to air traffic, increased security checks, and possible rerouting of flights and cargo shipments to avoid the conflict zone.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "78c4359b223c9f5ebe21545f525b9382",
+    "timestamp": "2026-02-20T22:34:55.455277",
+    "original_title": "Drone hits Russian ballistic missile factory over 1,300 km from Ukraine's border, officials, media report",
+    "link": "https://www.reddit.com/r/worldnews/comments/1ra9jjs/drone_hits_russian_ballistic_missile_factory_over/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 10,
+      "location": "Russia",
+      "latitude": 55.7558,
+      "longitude": 37.6176,
+      "detailed_analysis": "A drone has hit a Russian ballistic missile factory over 1,300 km from Ukraine's border, indicating a potential escalation of the conflict and highlighting vulnerabilities in Russian defense systems.",
+      "immediate_forecast_24h": "Increased security measures are expected at Russian military facilities, and potential retaliatory actions from Russia against Ukraine or other perceived aggressors.",
+      "strategic_outlook": "The incident may lead to increased tensions between Russia and Ukraine, potentially drawing in other nations, and underscores the growing use of drones in modern warfare.",
+      "operational_impact": "The attack on a ballistic missile factory could impact Russia's military capabilities and may lead to increased security protocols for aviation and logistics operations in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Vnukovo International Airport (27 km)"
+    }
+  },
+  {
+    "id": "b8d2f4d66a81440baae7bb91f6893ac7",
+    "timestamp": "2026-02-20T22:34:57.242544",
+    "original_title": "Trump says he is considering limited military strike on Iran",
+    "link": "https://www.reddit.com/r/worldnews/comments/1ra8wfu/trump_says_he_is_considering_limited_military/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The US is considering a limited military strike on Iran, which could lead to increased tensions and potential retaliation, affecting aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Heightened security measures and potential disruptions to air traffic in the region, with possible closure of airspace or restrictions on flights.",
+      "strategic_outlook": "Long-term escalation of conflict could lead to increased instability in the region, affecting global supply chains and logistics, particularly for cargo and aviation.",
+      "operational_impact": "Potential disruptions to flights, increased security screening, and possible rerouting of cargo shipments to avoid the region, leading to delays and increased costs.",
       "proximity_alert": null
     }
   }
