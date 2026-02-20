@@ -492,5 +492,43 @@
       "operational_impact": "Transport and logistics operations in the region may be affected by the ongoing conflict, with potential disruptions to supply chains, increased security risks, and challenges in maintaining the safety of personnel and assets.",
       "proximity_alert": "YAKIN TEHDİT: Khartoum International Airport (5 km)"
     }
+  },
+  {
+    "id": "ee475428dc2b1e92235716f66657086d",
+    "timestamp": "2026-02-20T11:55:55.441511",
+    "original_title": "Smoke in the cabin forces JetBlue passengers to evacuate on taxiway, temporarily shutting down Newark Airport - AOL.com",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVmlXUUVkRjl1NlFmR0hQR1M2RS0wZjhJS2FxR2Fia2pIM0hzclhCNmpNLWU1Y0hfUEw0b1RhQVNhRTk3MW5STmpMajZiVTJ3OVprZ3NmNnc3VXNBUWdUX0dIQnFHR2t6QTQ2YUxPNlZ3WF9NNlVTZ05GY1NTUktUTC1vWkJoamZU?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Newark, USA",
+      "latitude": 40.6895,
+      "longitude": -74.1745,
+      "detailed_analysis": "Smoke in the cabin of a JetBlue flight forced passengers to evacuate on the taxiway, resulting in a temporary shutdown of Newark Airport. The cause of the smoke is currently unknown.",
+      "immediate_forecast_24h": "Investigations into the cause of the smoke are likely to be conducted, and the airport is expected to resume normal operations shortly. However, there may be some delays or disruptions to flights in the short term.",
+      "strategic_outlook": "This incident highlights the importance of aircraft safety and the need for swift evacuation procedures in emergency situations. Airlines and airports may review their safety protocols to prevent similar incidents in the future.",
+      "operational_impact": "The temporary shutdown of Newark Airport may cause some delays or cancellations of flights, potentially affecting cargo and passenger transport. However, the impact is expected to be limited, and normal operations should resume soon.",
+      "proximity_alert": "YAKIN TEHDİT: Newark International Airport (0 km)"
+    }
+  },
+  {
+    "id": "a729d20b40db59f2c8be6ddabba5dfbd",
+    "timestamp": "2026-02-20T11:56:00.115780",
+    "original_title": "Armed group killS 33 in fresh simultaneous attacks in Nigeria",
+    "link": "http://www.africanews.com/2026/02/20/armed-group-kills-33-in-fresh-simultaneous-attacks-in-nigeria/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "Northwest Nigeria",
+      "latitude": 10.0,
+      "longitude": 8.0,
+      "detailed_analysis": "Armed Islamic militants launched simultaneous attacks in northwest Nigeria, resulting in at least 33 fatalities. This incident poses a significant threat to personnel and assets in the region.",
+      "immediate_forecast_24h": "Increased security presence and potential for further attacks or retaliations in the next 24 hours, affecting transport and logistics operations.",
+      "strategic_outlook": "Long-term instability and elevated risk of terrorist attacks in northwest Nigeria, necessitating enhanced security measures for assets, cargo, and personnel.",
+      "operational_impact": "Potential disruptions to ground transportation, logistics, and supply chain operations in the region, with possible spillover effects on aviation and border security.",
+      "proximity_alert": null
+    }
   }
 ]
