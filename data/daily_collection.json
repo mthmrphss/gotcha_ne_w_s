@@ -454,5 +454,43 @@
       "operational_impact": "Potential disruptions to transport and logistics operations due to crime, unrest, and health risks. Companies should review their risk management strategies and consider alternative routes or security protocols to mitigate potential impacts.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "09e4b8449130638c037c5192e8811671",
+    "timestamp": "2026-02-20T11:06:21.439021",
+    "original_title": "Jet2 flight from Spain to Glasgow declares emergency mid-air - Euro Weekly News",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYTJTcnZPWm1nTEVWYjVCSm1IaFlZM3FuMzFtbUFBZTRFbXRGQjd0b0kweWRYdUtaS1ZaWDVEbk5iOHVHVDc1WjZlUFVhcjJxQ3BTTHI0MFEwU3RWcHItN2RSVnpOSm5pVkVTeW1CeGw4b1QwYnNfdU5KSnhTR1hidzF5aVIxS0JoNkJWUkNoeERDU2ktY0N0UzIwbWNQYmhB?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Spain/Glasgow",
+      "latitude": 40.4168,
+      "longitude": -3.7038,
+      "detailed_analysis": "A Jet2 flight from Spain to Glasgow declared an emergency mid-air, the cause of which is currently unknown. This incident poses a potential threat to the safety of passengers and crew on board.",
+      "immediate_forecast_24h": "The situation is being monitored, and an investigation into the cause of the emergency declaration will likely be launched. Further disruptions to flights may occur depending on the outcome of the investigation.",
+      "strategic_outlook": "The long-term impact of this incident will depend on the root cause of the emergency declaration. If it is found to be a technical issue, Jet2 may need to inspect and potentially ground other aircraft in their fleet, leading to potential disruptions in their operations.",
+      "operational_impact": "The immediate operational impact is the declaration of an emergency and potential diversion of the flight. This may lead to delays and disruptions for passengers, as well as potential impacts on the airline's operations and scheduling.",
+      "proximity_alert": "YAKIN TEHDİT: Adolfo Suárez Madrid–Barajas Airport (14 km)"
+    }
+  },
+  {
+    "id": "8b69b8aed7ac60066fb6a046602a5a69",
+    "timestamp": "2026-02-20T11:06:24.562946",
+    "original_title": "Khartoum residents mark the first day of Ramadan amid Sudan's war",
+    "link": "http://www.africanews.com/2026/02/20/khartoum-residents-mark-the-first-day-of-ramadan-amid-sudans-war/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Khartoum, Sudan",
+      "latitude": 15.6333,
+      "longitude": 32.5333,
+      "detailed_analysis": "The ongoing war in Sudan and the recapture of Khartoum by the army less than a year ago pose a threat to the stability and security of the region, potentially affecting assets, cargo, aviation, and personnel.",
+      "immediate_forecast_24h": "Increased tensions and potential clashes between rival groups may occur, especially during the Ramadan period, which could lead to disruptions in transport and logistics.",
+      "strategic_outlook": "The long-term outlook for the region remains uncertain, with the potential for continued conflict and instability, which could have a significant impact on the security and operations of assets, cargo, aviation, and personnel in the area.",
+      "operational_impact": "Transport and logistics operations in the region may be affected by the ongoing conflict, with potential disruptions to supply chains, increased security risks, and challenges in maintaining the safety of personnel and assets.",
+      "proximity_alert": "YAKIN TEHDİT: Khartoum International Airport (5 km)"
+    }
   }
 ]
