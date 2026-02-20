@@ -397,5 +397,62 @@
       "operational_impact": "No significant impact on transport or logistics operations is expected as a result of this incident.",
       "proximity_alert": "YAKIN TEHDİT: O. R. Tambo International Airport (19 km)"
     }
+  },
+  {
+    "id": "2e4fd0912011ea0e36874216bbe4fd93",
+    "timestamp": "2026-02-20T10:06:15.492041",
+    "original_title": "Jet2 flight forced to make 320-mile diversion after declaring emergency over English Channel - GB News",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTl9tUHU3anRwa050enhtbEZLYmNkZDBzYWNDWEZ5bXZrMDZCN1JYNEJNZHZEam1zSGpEUUtkVndnX19iRDlaVExqSGNxQUJ6OVJMQXF6RHVwcjhYYmZ1VWZPbmRySDBrcnAxZXRYOUFSQUs0dnBqV2M2VFhuNl9SOGxZdExodFd3U0JzNWJabzFPYi03d0g1emEwZG5ra3Z2QTFmNllQRC0tODkxNkdFNQ?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 6,
+      "location": "English Channel",
+      "latitude": 50.0,
+      "longitude": 0.0,
+      "detailed_analysis": "A Jet2 flight declared an emergency over the English Channel, resulting in a 320-mile diversion. The cause of the emergency is not specified, but it poses a significant risk to the safety of the passengers and crew on board.",
+      "immediate_forecast_24h": "The diverted flight is expected to arrive at its destination with a significant delay. There may be disruptions to other flights in the area, and an investigation into the cause of the emergency will likely be launched.",
+      "strategic_outlook": "This incident highlights the importance of emergency procedures and protocols in the aviation industry. Airlines and regulatory bodies may review and update their emergency response plans to minimize the risk of similar incidents in the future.",
+      "operational_impact": "The diversion of the Jet2 flight may cause delays and disruptions to other flights, potentially affecting cargo and passenger transport in the region. Airlines and logistics operators should be prepared for potential disruptions and have contingency plans in place.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "f7fa410e4f27fe19b932c249877a1760",
+    "timestamp": "2026-02-20T10:06:17.659408",
+    "original_title": "Four Years Of The Ukraine Invasion: Has Russia’s Military Learned To Fight A Better War?",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1r9r3ia/four_years_of_the_ukraine_invasion_has_russias/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "The ongoing conflict in Ukraine has led to a significant escalation of military activities, with potential implications for regional stability and global security. Russia's military has reportedly learned and adapted its tactics, posing a heightened threat to assets, cargo, aviation, and personnel in the region.",
+      "immediate_forecast_24h": "Increased military activity and potential clashes between Russian and Ukrainian forces, with a high risk of civilian casualties and infrastructure damage.",
+      "strategic_outlook": "The conflict is likely to continue, with potential long-term consequences for regional security, trade, and economic stability. The adaptability and learning of Russia's military may lead to more effective and targeted operations, increasing the risk to assets and personnel in the region.",
+      "operational_impact": "Potential disruptions to logistics and supply chains, increased risk of cargo theft or damage, and heightened security concerns for aviation and personnel operating in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "e9bd3b6b5b27b2bf98524b7cd4412ae8",
+    "timestamp": "2026-02-20T10:06:21.534687",
+    "original_title": "Madagascar - Level 2: Exercise Increased Caution",
+    "link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/madagascar-travel-advisory.html",
+    "source_name": "US State Dept",
+    "ai_analysis": {
+      "category": "Crime/Civil Unrest",
+      "risk_score": 6,
+      "location": "Madagascar",
+      "latitude": -18.9182,
+      "longitude": 46.5236,
+      "detailed_analysis": "Increased crime, unrest, and health risks in Madagascar, particularly in areas such as Tsaratanana, Tsiroanomandidy, Betroka, and the Menabe Region south of Morondava. Violent crime, such as armed robbery and assault, occurs throughout the country, and medical infrastructure is very limited.",
+      "immediate_forecast_24h": "Heightened security risks due to potential demonstrations, protests, and crime. U.S. citizens are advised to exercise increased caution and take necessary precautions to ensure their safety.",
+      "strategic_outlook": "Long-term instability and security concerns in Madagascar may impact transport and logistics operations, particularly in high-risk areas. Companies should consider implementing additional security measures and monitoring local conditions closely.",
+      "operational_impact": "Potential disruptions to transport and logistics operations due to crime, unrest, and health risks. Companies should review their risk management strategies and consider alternative routes or security protocols to mitigate potential impacts.",
+      "proximity_alert": null
+    }
   }
 ]
