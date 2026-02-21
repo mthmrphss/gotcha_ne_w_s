@@ -1,24 +1,5 @@
 [
   {
-    "id": "bb258f4af7ea2d22761fdb2f0010d4ae",
-    "timestamp": "2026-02-21T09:37:14.141825",
-    "original_title": "3 killed in helicopter crash in Russia's Amur region - Anadolu Ajansı",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOGg1azJ5NkFQd0ZkLVBWOXZwenVTMlcycGctaVFydFBZeWI2ZmlzSmJfYnhpbHRTcUxnUjFSY0RIV3RQSFFpYnZJS1RvMXRLNVhzcC1nZGM1R25Wandxa1VwcXp0YUllSFNENW5QajhNVjRSVVRMSlAyeXhjOTJRSmRqYkl6X3V2bFpLb0FVdHJrdjhx?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Aviation",
-      "risk_score": 8,
-      "location": "Amur region, Russia",
-      "latitude": 49.4667,
-      "longitude": 130.05,
-      "detailed_analysis": "A helicopter crash in Russia's Amur region has resulted in 3 fatalities. The cause of the crash is not specified, but it highlights the risks associated with aviation operations in the region.",
-      "immediate_forecast_24h": "Investigations into the crash are likely to commence, and there may be a temporary disruption to helicopter services in the region.",
-      "strategic_outlook": "The incident may lead to a review of aviation safety protocols in Russia, particularly in the Amur region, to prevent similar accidents in the future.",
-      "operational_impact": "The crash may impact cargo and personnel transport operations in the region, potentially leading to delays or cancellations of flights.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "d0e13eae6814858947191f41cddce14c",
     "timestamp": "2026-02-21T10:34:13.384400",
     "original_title": "How $600 Drones Are Outsmarting Colombia’s Billion-Dollar Military - The New York Times",
@@ -54,6 +35,44 @@
       "strategic_outlook": "Long-term escalation of drone warfare, potentially spreading to other regions, and increased investment in counter-drone technologies by the military.",
       "operational_impact": "Disruption of air traffic, increased security measures at airports, and potential delays or cancellations of flights, affecting cargo transport and personnel safety.",
       "proximity_alert": null
+    }
+  },
+  {
+    "id": "c3cc347a3bf63522a4a62a65b918ba51",
+    "timestamp": "2026-02-21T11:28:33.343251",
+    "original_title": "Why Attacking Iran Could Be Riskier Than Capturing Maduro",
+    "link": "https://www.nytimes.com/2026/02/21/world/middleeast/iran-military-operation-venezuela.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Iran, Middle East",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The potential conflict with Iran poses significant risks due to its extensive military capabilities and network of regional proxies, which could lead to a prolonged conflict involving the United States.",
+      "immediate_forecast_24h": "Increased tensions and potential military mobilization in the region, with possible impacts on aviation and cargo operations.",
+      "strategic_outlook": "A prolonged conflict could lead to long-term instability in the region, affecting global supply chains, aviation routes, and personnel safety.",
+      "operational_impact": "Potential disruptions to air traffic, increased security measures for cargo and personnel, and possible rerouting of flights and shipments to avoid the conflict zone.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "e456ffb23f008a32d1d7e4a911fb9667",
+    "timestamp": "2026-02-21T11:28:36.046617",
+    "original_title": "War Ukraine returns 2 children from Russian-occupied Kherson Oblast",
+    "link": "https://www.reddit.com/r/worldnews/comments/1ranzy7/war_ukraine_returns_2_children_from/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Kherson Oblast, Ukraine",
+      "latitude": 46.6358,
+      "longitude": 32.6167,
+      "detailed_analysis": "The return of 2 children from Russian-occupied Kherson Oblast indicates ongoing conflict and civil unrest in the region, potentially affecting transport and logistics operations.",
+      "immediate_forecast_24h": "Increased tensions between Ukraine and Russian-occupied territories may lead to further disruptions in the region.",
+      "strategic_outlook": "Long-term instability in the region may impact trade routes, cargo transport, and personnel safety.",
+      "operational_impact": "Potential disruptions to ground transport, possible restrictions on cargo movement, and increased risk to personnel in the conflict zone.",
+      "proximity_alert": "YAKIN TEHDİT: Kherson International Airport (9 km)"
     }
   }
 ]

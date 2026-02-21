@@ -511,5 +511,43 @@
       "operational_impact": "Disruption of air traffic, increased security measures at airports, and potential delays or cancellations of flights, affecting cargo transport and personnel safety.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "c3cc347a3bf63522a4a62a65b918ba51",
+    "timestamp": "2026-02-21T11:28:33.343251",
+    "original_title": "Why Attacking Iran Could Be Riskier Than Capturing Maduro",
+    "link": "https://www.nytimes.com/2026/02/21/world/middleeast/iran-military-operation-venezuela.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Iran, Middle East",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The potential conflict with Iran poses significant risks due to its extensive military capabilities and network of regional proxies, which could lead to a prolonged conflict involving the United States.",
+      "immediate_forecast_24h": "Increased tensions and potential military mobilization in the region, with possible impacts on aviation and cargo operations.",
+      "strategic_outlook": "A prolonged conflict could lead to long-term instability in the region, affecting global supply chains, aviation routes, and personnel safety.",
+      "operational_impact": "Potential disruptions to air traffic, increased security measures for cargo and personnel, and possible rerouting of flights and shipments to avoid the conflict zone.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "e456ffb23f008a32d1d7e4a911fb9667",
+    "timestamp": "2026-02-21T11:28:36.046617",
+    "original_title": "War Ukraine returns 2 children from Russian-occupied Kherson Oblast",
+    "link": "https://www.reddit.com/r/worldnews/comments/1ranzy7/war_ukraine_returns_2_children_from/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Kherson Oblast, Ukraine",
+      "latitude": 46.6358,
+      "longitude": 32.6167,
+      "detailed_analysis": "The return of 2 children from Russian-occupied Kherson Oblast indicates ongoing conflict and civil unrest in the region, potentially affecting transport and logistics operations.",
+      "immediate_forecast_24h": "Increased tensions between Ukraine and Russian-occupied territories may lead to further disruptions in the region.",
+      "strategic_outlook": "Long-term instability in the region may impact trade routes, cargo transport, and personnel safety.",
+      "operational_impact": "Potential disruptions to ground transport, possible restrictions on cargo movement, and increased risk to personnel in the conflict zone.",
+      "proximity_alert": "YAKIN TEHDİT: Kherson International Airport (9 km)"
+    }
   }
 ]
