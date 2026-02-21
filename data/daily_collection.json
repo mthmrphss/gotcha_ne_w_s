@@ -644,5 +644,43 @@
       "operational_impact": "Potential disruptions to road traffic, possible delays or cancellations of flights at Lyon Airport, and increased security measures for cargo and personnel in the area.",
       "proximity_alert": "YAKIN TEHDİT: Lyon–Saint Exupéry Airport (18 km)"
     }
+  },
+  {
+    "id": "5490ab5d9127f06c5fb637f269dbb403",
+    "timestamp": "2026-02-21T14:37:50.217344",
+    "original_title": "Ukraine strikes a key industrial site deep inside Russia",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rasebp/ukraine_strikes_a_key_industrial_site_deep_inside/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Russia",
+      "latitude": 55.7558,
+      "longitude": 37.6176,
+      "detailed_analysis": "Ukraine has struck a key industrial site deep inside Russia, indicating an escalation of the conflict. This could lead to increased tensions and potential retaliation from Russia, affecting aviation and logistics in the region.",
+      "immediate_forecast_24h": "Increased military activity and potential airstrikes in the region, with possible disruptions to air traffic and logistics operations.",
+      "strategic_outlook": "Long-term escalation of the conflict could lead to significant disruptions to global supply chains, particularly those relying on Russian or Ukrainian airspace or logistics infrastructure.",
+      "operational_impact": "Potential delays or cancellations of flights, increased security measures at airports, and disruptions to cargo transport and logistics operations in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Vnukovo International Airport (27 km)"
+    }
+  },
+  {
+    "id": "c9b73520cc5d4eee93712437da177caa",
+    "timestamp": "2026-02-21T14:37:55.277591",
+    "original_title": "‘Free Palestine’ Stickers Delay El Al Flight From Los Angeles as 140 Suitcases Have To Be Searched For Explosives",
+    "link": "https://www.paddleyourownkanoo.com/2026/02/21/free-palestine-stickers-delay-el-al-flight-from-los-angeles-as-140-suitcases-have-to-be-searched-for-explosives/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Aviation/Terrorism/Crime",
+      "risk_score": 10,
+      "location": "Los Angeles, USA",
+      "latitude": 33.9425,
+      "longitude": -118.4081,
+      "detailed_analysis": "A potential security threat was identified when 'Free Palestine' stickers were found on dozens of passengers' checked-in luggage on an El Al flight from Los Angeles, prompting a search of 140 suitcases for explosives, resulting in a nearly two-hour delay.",
+      "immediate_forecast_24h": "Enhanced security measures are likely to be implemented for El Al flights departing from Los Angeles, and possibly other airports, in response to the incident. Passengers may experience delays and increased scrutiny of their luggage.",
+      "strategic_outlook": "The incident highlights the ongoing concerns regarding aviation security, particularly with regards to potential terrorist threats. Airlines and airports may need to reassess their security protocols to prevent similar incidents in the future.",
+      "operational_impact": "The delay of the El Al flight and the subsequent search of luggage may have caused inconvenience to passengers, and potentially disrupted cargo operations. The incident may also lead to increased security costs for the airline and airport authorities.",
+      "proximity_alert": "YAKIN TEHDİT: Los Angeles International Airport (1 km)"
+    }
   }
 ]
