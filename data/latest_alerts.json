@@ -93,5 +93,81 @@
       "operational_impact": "Potential disruption to air and ground transportation, increased security measures at border crossings, and heightened risk of violence and unrest in the region, affecting personnel, cargo, and aviation operations.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "ffbcfe6f6e0ef78c42ea8932c6c739d4",
+    "timestamp": "2026-02-22T14:00:20.126369",
+    "original_title": "Homeland Security to Shut T.S.A. PreCheck and Global Entry at Airports - The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY0Q1RzNXZXR3alF1SXFDaDhQaV9Sc0VUYS1DbDJzZ0hhQ0hhUGs0eS1vMGZSVTViYjh3QzBBc1RYSU9SZ2VhQ3NFalFzaFdfSi02dExHcjNJQ1ZEaF9aeDlpSTVHVmV6OE1ZOVlDa1RxNjhLMl9YMWEySVBheE5HZlZTNF9lUU9qOFd4MDRvTS1KaUl2MUpWRVp6aw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation/Border",
+      "risk_score": 10,
+      "location": "United States",
+      "latitude": 38.8977,
+      "longitude": -77.0365,
+      "detailed_analysis": "The shutdown of T.S.A. PreCheck and Global Entry at airports by Homeland Security may lead to increased wait times and security concerns for passengers and cargo, potentially disrupting aviation operations and logistics.",
+      "immediate_forecast_24h": "Delays and congestion at airport security checkpoints are expected in the short term, with potential impacts on flight schedules and cargo handling.",
+      "strategic_outlook": "The long-term effects of this shutdown may include changes to airport security protocols, potential increases in security personnel, and impacts on the overall efficiency of air travel and cargo transport.",
+      "operational_impact": "The shutdown may cause operational disruptions, including delays and potential cancellations of flights, as well as increased security screening times for passengers and cargo.",
+      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
+    }
+  },
+  {
+    "id": "88eefe0688737e93f5e3494b8965ed5a",
+    "timestamp": "2026-02-22T14:00:25.009346",
+    "original_title": "Ukrainian military unveil details of liberation of 300 sq km in south",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rbmdkz/ukrainian_military_unveil_details_of_liberation/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Southern Ukraine, Ukraine",
+      "latitude": 46.5,
+      "longitude": 34.5,
+      "detailed_analysis": "The Ukrainian military has unveiled details of the liberation of 300 sq km in the south, indicating a significant escalation in the conflict. This could lead to increased instability and potential threats to assets, cargo, aviation, and personnel in the region.",
+      "immediate_forecast_24h": "Increased military activity and potential clashes in the southern region of Ukraine, with possible disruptions to transport and logistics.",
+      "strategic_outlook": "Long-term instability and conflict in the region could lead to sustained disruptions to trade and commerce, with potential impacts on global supply chains.",
+      "operational_impact": "Transport and logistics operations in the region may be affected, with potential delays or disruptions to cargo shipments and aviation activities.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "6837574bbeae18cf71bceb53c0150428",
+    "timestamp": "2026-02-22T14:00:27.465250",
+    "original_title": "Somaliland offers US access to minerals as it pushes for recognition",
+    "link": "http://www.africanews.com/2026/02/22/somaliland-offers-us-access-to-minerals-as-it-pushes-for-recognition/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Other",
+      "risk_score": 10,
+      "location": "Somaliland",
+      "latitude": 9.55,
+      "longitude": 44.06,
+      "detailed_analysis": "Somaliland offering the US access to minerals and potential military bases could lead to increased geopolitical tensions in the region, but does not directly pose a threat to assets, cargo, aviation, or personnel at this time.",
+      "immediate_forecast_24h": "No immediate threats are expected, but the situation will be monitored for potential developments.",
+      "strategic_outlook": "Long-term, the establishment of US military bases in Somaliland could lead to increased stability in the region, but also potentially attract terrorist groups or other hostile actors.",
+      "operational_impact": "Currently, no direct operational impact on transport or logistics is anticipated, but the situation will be closely monitored for any changes.",
+      "proximity_alert": "YAKIN TEHDİT: Hargeisa Airport (4 km)"
+    }
+  },
+  {
+    "id": "55d64913f92c62ec59c65f7c6f37265f",
+    "timestamp": "2026-02-22T14:00:30.241462",
+    "original_title": "French farming crisis a result of ‘15 years of failure’ in policy, expert says",
+    "link": "https://www.france24.com/en/video/20260222-french-farming-crisis-a-result-of-15-years-of-failure-in-policy-expert-says",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest/Other",
+      "risk_score": 10,
+      "location": "Paris, France",
+      "latitude": 48.8567,
+      "longitude": 2.3508,
+      "detailed_analysis": "The French farming crisis, exacerbated by the recent outbreak of lumpy skin disease and the government's handling of the epidemic, has led to protests and criticism from farmers. While this situation does not directly pose a significant threat to assets, cargo, aviation, or personnel, it may lead to civil unrest and potential disruptions in the agricultural sector.",
+      "immediate_forecast_24h": "Protests and demonstrations may continue in Paris and other areas, potentially causing minor disruptions to local transportation and logistics.",
+      "strategic_outlook": "The long-term impact of the farming crisis on France's agricultural sector and the broader economy may be significant, potentially leading to increased tensions and unrest among farmers and related industries.",
+      "operational_impact": "The crisis may cause minor disruptions to local transportation and logistics, particularly in the agricultural sector, but is unlikely to have a significant impact on major transport hubs or international trade.",
+      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (2 km)"
+    }
   }
 ]
