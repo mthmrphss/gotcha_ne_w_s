@@ -93,5 +93,62 @@
       "operational_impact": "The incident may impact transport and logistics operations in the region, particularly for cargo and aviation. Increased security measures and potential disruptions to operations could lead to delays and increased costs for transport and logistics companies.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "4fb256479786060d58e399613dd5c7f7",
+    "timestamp": "2026-02-22T02:49:03.476964",
+    "original_title": "Pakistan says it struck militant hideouts along Afghan border after surge in deadly attacks - The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNmFNU1RsSjVTX3pmQkdFOWwzS2VmSnhxVkRVVTQwaVJiWE54LU5FTWk5ZHhsUGFfMU1ZNVVCeTQ2dDVPLXdjbm4zaDdlMURxS1dDNW5aaXNCQVR0Smc3VFM3YkdLZjBZREt5ZlJWWGVBcXBwc3lVQTZuV0ZJM0hDOXRjVjRtWjAxelg0dE9WS012RW9sQmFSNHFkZzRXTU9wU2JOdW1PRXdsaWVYR1hGY0dhSWRESlZ6ZFVvNllRR0FVbFZVTHJldjNFZExMcW9lOUMwcEs3NVU?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict/Border",
+      "risk_score": 7,
+      "location": "Afghan-Pakistan border",
+      "latitude": 33.7489,
+      "longitude": 70.1863,
+      "detailed_analysis": "Pakistan has conducted strikes against militant hideouts along the Afghan border in response to a surge in deadly attacks, indicating increased tensions and potential for further conflict in the region.",
+      "immediate_forecast_24h": "Heightened security measures and potential for retaliatory attacks from militant groups are expected in the short term.",
+      "strategic_outlook": "The long-term view suggests continued instability and conflict in the region, posing risks to assets, cargo, aviation, and personnel due to the presence of militant groups and cross-border tensions.",
+      "operational_impact": "Transport and logistics operations in the region may be affected due to increased security checks, potential border closures, and the risk of militant attacks, which could lead to delays, disruptions, or even loss of assets and personnel.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "e3eeb2aabdbcc79d5afa3f01fabd82f6",
+    "timestamp": "2026-02-22T02:49:10.107918",
+    "original_title": "15 injured, as explosions rock western Ukraine's Lviv in terrorist attack",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rba1vs/15_injured_as_explosions_rock_western_ukraines/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict",
+      "risk_score": 10,
+      "location": "Lviv, Ukraine",
+      "latitude": 49.8383,
+      "longitude": 24.0232,
+      "detailed_analysis": "Explosions in western Ukraine's Lviv have resulted in 15 injuries, indicating a terrorist attack. This event poses a significant threat to personnel and potentially to aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Increased security measures are expected in the region, potentially causing disruptions to transport and logistics. Further attacks or retaliations are possible, maintaining a high level of alertness.",
+      "strategic_outlook": "The ongoing conflict in Ukraine continues to pose risks to assets, cargo, aviation, and personnel. The situation may escalate, affecting regional stability and global supply chains.",
+      "operational_impact": "Transport and logistics operations in the region may be disrupted due to increased security checks, potential airspace restrictions, and the overall heightened threat environment.",
+      "proximity_alert": "YAKIN TEHDİT: Lviv Danylo Halytskyi International Airport (5 km)"
+    }
+  },
+  {
+    "id": "07220810674b4232dd491e70609a4503",
+    "timestamp": "2026-02-22T02:49:11.923307",
+    "original_title": "Islamic State calls for attacks on Syrian government",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rb9m42/islamic_state_calls_for_attacks_on_syrian/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict",
+      "risk_score": 8,
+      "location": "Syria",
+      "latitude": 35.0,
+      "longitude": 38.0,
+      "detailed_analysis": "The Islamic State has called for attacks on the Syrian government, which could lead to increased violence and instability in the region, potentially affecting aviation, cargo, and personnel.",
+      "immediate_forecast_24h": "Increased security measures are expected in the short term, with potential for clashes between government forces and Islamic State militants.",
+      "strategic_outlook": "The long-term outlook is uncertain, but the situation could escalate into a larger conflict, affecting regional stability and transport logistics.",
+      "operational_impact": "Potential disruptions to air travel, cargo transport, and personnel movements in and out of Syria, with increased risk of attacks on government and civilian targets.",
+      "proximity_alert": null
+    }
   }
 ]
