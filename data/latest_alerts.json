@@ -1,43 +1,5 @@
 [
   {
-    "id": "88512aaf0996e117156eb9b3463e57d8",
-    "timestamp": "2026-02-22T05:57:11.014632",
-    "original_title": "Iran Protest Death Toll Could Top 30,000: Local Officials",
-    "link": "https://www.reddit.com/r/worldnews/comments/1rbdmur/iran_protest_death_toll_could_top_30000_local/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Civil Unrest/Conflict",
-      "risk_score": 8,
-      "location": "Iran",
-      "latitude": 32.0,
-      "longitude": 53.0,
-      "detailed_analysis": "The high death toll from protests in Iran poses a significant threat to the stability of the region, potentially impacting aviation, cargo, and personnel. The unrest could lead to disruptions in logistics and transportation, as well as increased security risks for personnel.",
-      "immediate_forecast_24h": "The situation is likely to remain volatile, with continued protests and potential for further violence. There is a high risk of disruptions to transportation and logistics in the short term.",
-      "strategic_outlook": "The long-term impact of the unrest in Iran could be significant, potentially leading to changes in the regional security landscape and impacting global trade and commerce. The situation will require close monitoring to assess the potential risks and opportunities.",
-      "operational_impact": "The unrest in Iran may impact flight operations, cargo transport, and personnel safety. Airlines and logistics companies should be prepared for potential disruptions and take necessary precautions to ensure the safety of their personnel and assets.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "28e027e299784b7ebeb724bb8760dfa1",
-    "timestamp": "2026-02-22T05:57:12.802794",
-    "original_title": "Two million temporary migrants to lose status: Protesters in Brampton demand permanent residency as visas expire",
-    "link": "https://www.reddit.com/r/worldnews/comments/1rbdfr9/two_million_temporary_migrants_to_lose_status/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Civil Unrest/Border",
-      "risk_score": 10,
-      "location": "Brampton, Canada",
-      "latitude": 43.73,
-      "longitude": -79.77,
-      "detailed_analysis": "Protesters in Brampton are demanding permanent residency as temporary migrant visas expire, potentially leading to civil unrest and disruptions to transport and logistics.",
-      "immediate_forecast_24h": "Protests may continue or escalate, potentially causing disruptions to local traffic and transport infrastructure.",
-      "strategic_outlook": "The situation may lead to increased tensions between migrant communities and local authorities, potentially affecting the social and economic stability of the region.",
-      "operational_impact": "Potential disruptions to transport and logistics in the Brampton area, particularly if protests escalate or spread to other locations.",
-      "proximity_alert": "YAKIN TEHDİT: Toronto Pearson International Airport (12 km)"
-    }
-  },
-  {
     "id": "2293ed63c2088ec99afdda306084dc72",
     "timestamp": "2026-02-22T07:00:25.492795",
     "original_title": "Homeland security to suspend TSA PreCheck and Global Entry airport security programs - The Guardian",
@@ -111,6 +73,44 @@
       "strategic_outlook": "The long-term implications of this conflict could lead to a destabilization of the region, affecting trade and transport routes. The security situation may deteriorate further, posing a persistent threat to assets, cargo, aviation, and personnel.",
       "operational_impact": "Transport and logistics operations in the region may be severely impacted, with potential for delays, disruptions, or cancellations. Aviation operations may be subject to increased security measures, and cargo shipments may be diverted or suspended due to the elevated risk of conflict and terrorism.",
       "proximity_alert": "YAKIN TEHDİT: Hamid Karzai International Airport (5 km)"
+    }
+  },
+  {
+    "id": "96fc0d44f7b9f2acf3aee602d4a961ee",
+    "timestamp": "2026-02-22T07:55:55.099723",
+    "original_title": "Homeland Security suspends TSA PreCheck and Global Entry airport security programs - NPR",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMjNkdF8tZnp3VTNvai1LeTZRb3lHSkFjX3czQ1M4c2cwcVNIdTEtRVNYdzVsVmF6c2hvR2V3d3pKQnNfY3Q3Mlk4VkNBbHlTc1dVdGlyTXBvRDE1R3BocG5UVWNQNk5RR2NvaWNReFVudnFud1M5X1NrRVVoWXNxcHpXOEJtU09JSkxCT1pjclp6MndYVGlNeWxHb3l4QjRTT1hpTUFyMFA0WHR2cnV5ZDJJWS1FSkExRkE?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation/Border",
+      "risk_score": 10,
+      "location": "United States",
+      "latitude": 38.8977,
+      "longitude": -77.0365,
+      "detailed_analysis": "The suspension of TSA PreCheck and Global Entry airport security programs by Homeland Security may lead to increased wait times and security concerns for travelers, potentially impacting aviation and border security.",
+      "immediate_forecast_24h": "Increased security measures and wait times at airports are expected in the short term, potentially causing disruptions to travel plans.",
+      "strategic_outlook": "The long-term impact of this suspension may lead to a review of airport security protocols and potential changes to the programs, affecting the overall security posture of the aviation sector.",
+      "operational_impact": "The suspension may cause delays and increased security checks for passengers, potentially affecting cargo and personnel movement, as well as the overall efficiency of airport operations.",
+      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
+    }
+  },
+  {
+    "id": "748a64d62b4e6eb5c886b4bfda62deba",
+    "timestamp": "2026-02-22T07:55:57.599451",
+    "original_title": "DHS suspends TSA PreCheck and Global Entry airport security programs - NBC Los Angeles",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUHFLdTl0TzJ0b1NyUWsxUlVpX3BGLUtWT1dtZ3RSNGpGRDZsdk9oeTV5X1FxWW1hNDB5Q0U4MFlUbVdwSHU2TWRpcExFZlNjX2M5OGhwS1FyS3VoYmo2WGRnbEV5OHh5aWtodW93S3REM0xBTHZqZzRIYzBmTXlUUEtOZEtxbEQwQy1WUE5zbTFDT1FyaVhJYTE3NTQwMlVRV3hyLXdFb2VtWExMSjBrMUxKdjdYOEdLQ21wNy05TkRmd9IBygFBVV95cUxPaUs2eEctbmpoVGpCY0U1bmdMYzQ1WF9aaFRwMGQ4cVRwYjI2SHByd1BHSFlleFlwNldrejkyM0VjR01CRGtWYk5ndURaa3RGdmpld3lPQTE5b2hCRGFzbkhsTVE1MDU5LWxjdGs5TGxnVVlmLXphcW1lMjJ1V0ZDUzdqbnd2SnBVQWxNam5ua3ZrbzhZeUljUC0tUnE4ZTJVRDhEWnFLU3hqUk5BUnRndDh0MjdhQ0hYd3RUZmFKMkNlLXlGd25GSFhR?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation/Security",
+      "risk_score": 10,
+      "location": "Los Angeles, USA",
+      "latitude": 33.9425,
+      "longitude": -118.4081,
+      "detailed_analysis": "The suspension of TSA PreCheck and Global Entry airport security programs by DHS poses a significant risk to aviation security, potentially leading to increased wait times, enhanced screening procedures, and disruptions to airport operations.",
+      "immediate_forecast_24h": "In the next 24 hours, travelers can expect longer security lines, potential delays, and increased scrutiny from airport security personnel, which may lead to a higher likelihood of missed flights or connections.",
+      "strategic_outlook": "In the long term, this suspension may lead to a reevaluation of airport security protocols, potentially resulting in more stringent screening procedures, increased investment in security technology, and changes to the way trusted traveler programs are managed.",
+      "operational_impact": "The suspension of these programs will likely have a significant operational impact on airports, airlines, and travelers, with potential consequences including increased wait times, reduced flight schedules, and enhanced security measures, all of which may affect the efficiency and reliability of air travel.",
+      "proximity_alert": "YAKIN TEHDİT: Los Angeles International Airport (1 km)"
     }
   }
 ]
