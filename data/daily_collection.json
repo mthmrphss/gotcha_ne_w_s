@@ -1081,5 +1081,81 @@
       "operational_impact": "Cargo and personnel may be at risk due to crime, especially in remote areas, and transport operations may be affected by the limited ability of law enforcement to protect and assist.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "9d8593ee8ecb097380109868d19716c4",
+    "timestamp": "2026-02-22T18:47:32.349631",
+    "original_title": "Mexican cartel leader Nemesio ‘el Mencho’ Oseguera killed in federal operation",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rbtlgn/mexican_cartel_leader_nemesio_el_mencho_oseguera/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Crime",
+      "risk_score": 10,
+      "location": "Mexico",
+      "latitude": 19.4326,
+      "longitude": -99.1332,
+      "detailed_analysis": "The killing of Mexican cartel leader Nemesio 'el Mencho' Oseguera in a federal operation may lead to a power vacuum and potential retaliation from the cartel, posing a threat to cargo and personnel in the region.",
+      "immediate_forecast_24h": "Increased security presence and potential for violent clashes between cartel members and security forces in the short term.",
+      "strategic_outlook": "Long-term impact on cartel operations and potential shift in power dynamics, which could affect the overall security landscape in Mexico.",
+      "operational_impact": "Potential disruptions to cargo transport and logistics in the region, particularly for high-value or sensitive goods, due to increased security risks and potential for cartel-related violence.",
+      "proximity_alert": "YAKIN TEHDİT: Mexico City International Airport (6 km)"
+    }
+  },
+  {
+    "id": "e11e2905f39787aad976f11f853fab65",
+    "timestamp": "2026-02-22T18:47:35.363662",
+    "original_title": "France to summon US ambassador over Trump admin's comments on far-right activist's killing",
+    "link": "https://www.france24.com/en/video/20260222-france-to-summon-us-ambassador-over-trump-s-admin-s-comments-on-far-right-activist-s-killing",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Paris, France",
+      "latitude": 48.8567,
+      "longitude": 2.3508,
+      "detailed_analysis": "The killing of a French far-right activist has ignited tensions between the left and right in France, potentially leading to civil unrest and conflict ahead of the 2027 presidential vote. However, there is no direct threat to assets, cargo, aviation, or personnel at this time.",
+      "immediate_forecast_24h": "Tensions between the left and right are expected to remain high, with potential for protests or demonstrations. The summoning of the US ambassador may escalate diplomatic tensions but is unlikely to have a direct impact on transport or logistics in the short term.",
+      "strategic_outlook": "The ongoing tensions and potential for civil unrest may have a long-term impact on the stability and security of France, potentially affecting transport and logistics operations. However, at this time, the threat is primarily related to domestic politics and not directly targeted at assets, cargo, aviation, or personnel.",
+      "operational_impact": "No immediate operational impact is expected, but transport and logistics operators should be aware of the potential for civil unrest and protests, which could affect road and air travel in the coming days and weeks.",
+      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (2 km)"
+    }
+  },
+  {
+    "id": "e5264bbe5e3f0e059ac7d71be37fa8ef",
+    "timestamp": "2026-02-22T18:47:37.764915",
+    "original_title": "Mar-a-Lago incident reflects ‘tense’ US political environment, analyst says",
+    "link": "https://www.france24.com/en/mar-a-lago-incident-reflects-tense-us-political-environment-analyst-says",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Terrorism/Civil Unrest",
+      "risk_score": 8,
+      "location": "Palm Beach, USA",
+      "latitude": 26.6823,
+      "longitude": -80.0348,
+      "detailed_analysis": "An armed individual breached the secure perimeter of Mar-a-Lago, a high-profile target and residence of President Donald Trump, resulting in the individual being shot and killed. This incident reflects a tense US political environment and highlights the potential for targeted violence against high-profile individuals and locations.",
+      "immediate_forecast_24h": "Increased security measures are expected at Mar-a-Lago and potentially other high-profile locations. There may be a heightened sense of alertness among law enforcement and security agencies, with potential for additional incidents or attempts in the short term.",
+      "strategic_outlook": "The long-term view suggests an ongoing risk of targeted violence and terrorism in the US, particularly against high-profile targets and individuals. This may lead to increased security measures and a heightened sense of awareness among the public and law enforcement agencies.",
+      "operational_impact": "The incident may impact transport and logistics operations in the vicinity of Mar-a-Lago, with potential for increased security checks and delays. Additionally, the incident may lead to increased scrutiny of security protocols at other high-profile locations and events.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "9eac7b5ac7fcadef1dcaf04a284a681b",
+    "timestamp": "2026-02-22T18:47:44.652369",
+    "original_title": "TSA says PreCheck ‘remains operational’ after DHS said it was ending program during shutdown",
+    "link": "https://www.independent.co.uk/news/world/americas/tsa-precheck-operational-shutdown-b2925337.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "United States",
+      "latitude": 38.8977,
+      "longitude": -77.0365,
+      "detailed_analysis": "The TSA PreCheck program remains operational despite initial reports of its suspension due to the government shutdown, ensuring continued expedited security screening for low-risk travelers.",
+      "immediate_forecast_24h": "No immediate disruptions to aviation security or travel are expected as a result of this clarification.",
+      "strategic_outlook": "The long-term impact of the government shutdown on aviation security and travel efficiency remains uncertain, but the continuation of PreCheck mitigates potential risks.",
+      "operational_impact": "The operational impact is minimal since PreCheck services are not being suspended, maintaining the current level of security screening efficiency for participating travelers.",
+      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
+    }
   }
 ]
