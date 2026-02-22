@@ -1,59 +1,97 @@
 [
   {
-    "id": "f9ecae4cd2b16e03990e1c564879dc3c",
-    "timestamp": "2026-02-22T11:28:33.711735",
-    "original_title": "Inside Iran’s Preparations for War and Plans for Survival",
-    "link": "https://www.nytimes.com/2026/02/22/world/middleeast/iran-larijani-khamenei-pezeshkian.html",
-    "source_name": "NewYork Times",
+    "id": "2f2eb29c6dd9b9fa282dcf9de9b8e798",
+    "timestamp": "2026-02-22T13:05:04.784749",
+    "original_title": "Explosions kill police officer and injure 25 in western Ukraine, police say - BBC",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FM3Zmc0pSQmZpTDdKTk1qMUpvcjlvazByR3NuYlRHLXJuWENHZ1BWVzQ5Y1pVUlVRRk1aOVpiOWc2UlNKNUdWb3NUT3VFUzBiMEczeTFBNm51UQ?oc=5",
+    "source_name": "Google News (Breaking)",
     "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 10,
-      "location": "Tehran, Iran",
-      "latitude": 35.6892,
-      "longitude": 51.389,
-      "detailed_analysis": "Iran's preparations for war and plans for survival under the guidance of Ali Larijani indicate a heightened state of alert and potential for military action, which could impact aviation, cargo, and personnel in the region.",
-      "immediate_forecast_24h": "Increased military activity and heightened security measures are expected in the short term, potentially disrupting air travel and logistics in the region.",
-      "strategic_outlook": "A prolonged state of conflict could lead to significant disruptions to global supply chains, particularly those relying on air transport and cargo shipments through the region.",
-      "operational_impact": "Potential for flight restrictions, cargo delays, and increased security protocols for personnel and assets in the region, with possible spillover effects on global trade and commerce.",
-      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
-    }
-  },
-  {
-    "id": "dcb9b2e38e4fc5816c5c8d8e58c1e026",
-    "timestamp": "2026-02-22T11:28:36.209992",
-    "original_title": "US military amassing forces at UK bases despite Government’s ban",
-    "link": "https://www.reddit.com/r/geopolitics/comments/1rbjg74/us_military_amassing_forces_at_uk_bases_despite/",
-    "source_name": "Reddit r/Geopolitics",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 7,
-      "location": "United Kingdom",
-      "latitude": 54.7589,
-      "longitude": -4.5729,
-      "detailed_analysis": "The US military is amassing forces at UK bases despite the UK Government's ban, which could lead to increased tensions and potential conflict in the region, affecting aviation and logistics operations.",
-      "immediate_forecast_24h": "Increased military activity and potential protests or unrest near UK bases, with possible disruptions to air traffic and cargo operations.",
-      "strategic_outlook": "Escalation of tensions between the US and Iran, with the UK caught in the middle, could lead to long-term instability in the region and impact global supply chains.",
-      "operational_impact": "Potential disruptions to air traffic, cargo operations, and logistics in the UK, with possible ripple effects on global supply chains and trade.",
+      "category": "Conflict/Civil Unrest/Terrorism",
+      "risk_score": 8,
+      "location": "Western Ukraine",
+      "latitude": 49.0,
+      "longitude": 24.0,
+      "detailed_analysis": "Explosions in western Ukraine have resulted in the death of a police officer and injured 25, indicating a high level of violence and potential for further unrest. This could impact the safety of personnel and assets in the region.",
+      "immediate_forecast_24h": "Increased security measures are likely to be implemented in the region, potentially causing disruptions to transport and logistics. Further clashes or explosions are possible.",
+      "strategic_outlook": "The ongoing conflict in Ukraine continues to pose a significant threat to regional stability, with potential long-term impacts on trade and transport routes.",
+      "operational_impact": "Transport and logistics operations in western Ukraine may be affected by increased security checks, road closures, or other measures to mitigate the risk of further violence.",
       "proximity_alert": null
     }
   },
   {
-    "id": "9cee647308b991412d8089714f37970d",
-    "timestamp": "2026-02-22T11:28:38.635117",
-    "original_title": "Iranian students clash with security forces during protests amid Donald Trump warning over military strikes",
-    "link": "https://www.reddit.com/r/worldnews/comments/1rbj0hx/iranian_students_clash_with_security_forces/",
-    "source_name": "Reddit r/WorldNews",
+    "id": "2fb9c0f259dbbad9e6a1cbf21fee47e5",
+    "timestamp": "2026-02-22T13:05:07.549963",
+    "original_title": "Moscow airports restrict flights amid drone attack - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUl9XckhPQ2hhdWFCYkxLUGp5MTBsaXQzNWJ3WnY2WENmenhCcXl6a3VUUWVKZENsV0JwcU1ScnlpZVctQXN4aXlocjdkMGFDQ1VZcVdHWmtEVWRpN1NjWUd5aTJtQ0ZXdTN6Z05ZeEVMR1lZcHZCYmNTWXhrYmszeGVfdGo3OVp4X01EVWZPWVRwVkt1Ym5IcHVWcWM4bEoy?oc=5",
+    "source_name": "Google News (Breaking)",
     "ai_analysis": {
-      "category": "Civil Unrest/Conflict",
+      "category": "Aviation/Terrorism",
       "risk_score": 10,
-      "location": "Tehran, Iran",
-      "latitude": 35.6892,
-      "longitude": 51.389,
-      "detailed_analysis": "Protests and clashes between Iranian students and security forces have erupted, potentially destabilizing the region and impacting local transport and logistics. The situation is exacerbated by warnings from Donald Trump regarding potential military strikes.",
-      "immediate_forecast_24h": "Escalation of protests and clashes, potentially spreading to other cities in Iran. Increased security presence and possible disruptions to local transport and logistics.",
-      "strategic_outlook": "Long-term instability in the region, potentially affecting international relations and global security. Impact on trade and commerce, including cargo transport and aviation, may be significant.",
-      "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics in the region. Increased security measures may cause delays, and the situation may impact personnel safety and asset security.",
-      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+      "location": "Moscow, Russia",
+      "latitude": 55.7558,
+      "longitude": 37.6176,
+      "detailed_analysis": "Moscow airports have restricted flights due to a drone attack, posing a significant threat to aviation safety and security. The incident highlights the vulnerability of airports to unmanned aerial vehicles (UAVs) and the potential for malicious activities.",
+      "immediate_forecast_24h": "Flight disruptions and restrictions are expected to continue in the short term, with possible extensions or modifications to security protocols at Moscow airports. The situation may escalate if the drone attack is found to be part of a larger, coordinated effort.",
+      "strategic_outlook": "The long-term implications of this incident may include increased security measures at airports, such as enhanced surveillance and counter-UAV technologies. This could lead to changes in standard operating procedures for airports and the aviation industry as a whole, with a focus on mitigating the risks associated with drone threats.",
+      "operational_impact": "The restrictions on flights at Moscow airports may cause delays, cancellations, and disruptions to air travel, affecting both passengers and cargo. The incident may also lead to increased scrutiny of air cargo security and the potential for additional screening or inspection protocols to be implemented.",
+      "proximity_alert": "YAKIN TEHDİT: Vnukovo International Airport (27 km)"
+    }
+  },
+  {
+    "id": "b2e630c02914ab43fa66bcc7f61ba230",
+    "timestamp": "2026-02-22T13:05:09.336569",
+    "original_title": "Ukraine blames Russia for ‘terrorist attack’ in Lviv - Financial Times",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wNG9lYVB2SlVwbXk1RXZDY1ZIT0MwdWQzczFIaW5nRi12UkY1THBYdnhKWWlMeVMyUEVqYmhLTV9EMnVmUG1RVV9yOWpEVjZoZWdwdnNqZmhEU21GbW1yRFJUbTE2OE9vOFlUMGNKSDA?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict",
+      "risk_score": 10,
+      "location": "Lviv, Ukraine",
+      "latitude": 49.8383,
+      "longitude": 24.0232,
+      "detailed_analysis": "Ukraine has blamed Russia for a 'terrorist attack' in Lviv, indicating a heightened state of conflict and potential for future attacks, which could impact aviation, cargo, and personnel in the region.",
+      "immediate_forecast_24h": "Increased security measures are expected in Lviv and surrounding areas, with potential for disruptions to transport and logistics. Further attacks or retaliations are possible.",
+      "strategic_outlook": "The ongoing conflict between Ukraine and Russia poses a long-term risk to stability in the region, with potential for escalation and increased threats to assets, cargo, aviation, and personnel.",
+      "operational_impact": "Transport and logistics operations in the region may be disrupted due to increased security measures, potential attacks, or conflict escalation, requiring contingency planning and enhanced security protocols.",
+      "proximity_alert": "YAKIN TEHDİT: Lviv Danylo Halytskyi International Airport (5 km)"
+    }
+  },
+  {
+    "id": "ff0ae5524536f916c5dab300bbc8f0b7",
+    "timestamp": "2026-02-22T13:05:14.209141",
+    "original_title": "Sudan's paramilitary RSF claims to have captured another town in Darfur region",
+    "link": "http://www.africanews.com/2026/02/22/sudans-paramilitary-rsf-claims-to-have-captured-another-town-in-darfur-region/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 7,
+      "location": "Darfur, Sudan",
+      "latitude": 13.0,
+      "longitude": 25.0,
+      "detailed_analysis": "The Sudan's paramilitary RSF claims to have captured another town in Darfur region, but the military and its allied Joint Forces reported repelling the attack, indicating ongoing conflict and instability in the region, posing a threat to assets, cargo, aviation, and personnel.",
+      "immediate_forecast_24h": "Increased tensions and potential for further clashes between the RSF and the military, potentially disrupting transport and logistics in the region.",
+      "strategic_outlook": "Long-term instability and conflict in the Darfur region may lead to a prolonged disruption of transport and logistics, affecting cargo and personnel movement.",
+      "operational_impact": "Potential disruption to air and ground transport, increased risk of cargo theft or damage, and risk to personnel safety due to the conflict.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "ae50d722e9f50784f2150ab51ef96410",
+    "timestamp": "2026-02-22T13:05:16.352288",
+    "original_title": "Pakistan launches border strikes on Afghanistan",
+    "link": "https://www.france24.com/en/pakistan-launches-border-strikes-on-afghanistan",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Border/Civil Unrest",
+      "risk_score": 8,
+      "location": "Afghanistan-Pakistan border",
+      "latitude": 33.9243,
+      "longitude": 70.1744,
+      "detailed_analysis": "Pakistan launched border strikes on Afghanistan, targeting militant hideouts, resulting in over a dozen civilian casualties. The strikes hit various civilian areas, including a religious madrassa and homes in eastern Afghanistan.",
+      "immediate_forecast_24h": "Escalation of violence along the border, potential for retaliatory attacks from Afghan militant groups, and increased tensions between Pakistan and Afghanistan.",
+      "strategic_outlook": "Long-term instability and conflict in the region, potentially disrupting trade and logistics routes, and impacting regional security. The situation may lead to increased refugee flows and humanitarian crises.",
+      "operational_impact": "Potential disruption to air and ground transportation, increased security measures at border crossings, and heightened risk of violence and unrest in the region, affecting personnel, cargo, and aviation operations.",
+      "proximity_alert": null
     }
   }
 ]
