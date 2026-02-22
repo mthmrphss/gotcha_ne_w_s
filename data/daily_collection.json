@@ -245,5 +245,81 @@
       "operational_impact": "Potential disruptions to transport and logistics in the Brampton area, particularly if protests escalate or spread to other locations.",
       "proximity_alert": "YAKIN TEHDİT: Toronto Pearson International Airport (12 km)"
     }
+  },
+  {
+    "id": "2293ed63c2088ec99afdda306084dc72",
+    "timestamp": "2026-02-22T07:00:25.492795",
+    "original_title": "Homeland security to suspend TSA PreCheck and Global Entry airport security programs - The Guardian",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaUdjQUdfa2xTek1ZNG11dXBtMWNWd2VqSTJUWWV0UGw5b0hCWmhkV3l0bGVlMUdQYVFnandmR09NcGo2WndCS0JQc19wNEdQMVhKM2NvcEpKMElfd1VqTkdINk91LWZYc3lZS0lEUERGN2wxeERzaFdabVdQdHkycjgyZGNia3JlcjBqMTg5RTFaQW0yQW1NMk11YlNpcmhNQ29FMG9BYjRZZFpMcVhfZWo2QzF1T2s4dzNPZWVZYjBhYmNM?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation/Border",
+      "risk_score": 10,
+      "location": "United States",
+      "latitude": 38.8977,
+      "longitude": -77.0365,
+      "detailed_analysis": "The suspension of TSA PreCheck and Global Entry airport security programs poses a significant risk to aviation security, potentially leading to increased wait times, decreased security efficiency, and heightened vulnerability to security threats.",
+      "immediate_forecast_24h": "In the next 24 hours, airports may experience increased congestion and delays due to the suspension of these programs, which could lead to frustrated travelers and potential security breaches.",
+      "strategic_outlook": "In the long term, the suspension of these programs may lead to a re-evaluation of airport security protocols, potentially resulting in more stringent security measures and increased investment in security technology.",
+      "operational_impact": "The suspension of TSA PreCheck and Global Entry programs will likely impact the operational efficiency of airports, potentially leading to increased wait times, decreased passenger satisfaction, and increased costs for airlines and airports.",
+      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
+    }
+  },
+  {
+    "id": "7c3b279ca55623dc5fe3abf94e7f0df1",
+    "timestamp": "2026-02-22T07:00:30.813971",
+    "original_title": "Engineers charged with stealing Google secrets, sending data to Iran",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rbe964/engineers_charged_with_stealing_google_secrets/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Cyber/Crime",
+      "risk_score": 10,
+      "location": "Iran, USA",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Engineers have been charged with stealing Google trade secrets and sending the data to Iran, indicating a significant cybercrime and intellectual property theft threat with international implications.",
+      "immediate_forecast_24h": "Investigations are likely to continue, and there may be further arrests or revelations about the extent of the data theft in the next 24 hours.",
+      "strategic_outlook": "This incident highlights the ongoing risks of cyber espionage and intellectual property theft, particularly from nation-state actors, and the need for robust cybersecurity measures to protect sensitive information.",
+      "operational_impact": "The theft of trade secrets could impact Google's competitive advantage and potentially affect the security of its products and services, with broader implications for the tech industry and global supply chains.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "30f098e8d4b92fb01c14ffe9b2eba9b2",
+    "timestamp": "2026-02-22T07:00:33.274941",
+    "original_title": "Live: Russian missiles pound Kyiv ahead of Ukraine war anniversary",
+    "link": "https://www.france24.com/en/europe/20260222-live-russian-missiles-pound-kyiv-ahead-of-ukraine-war-anniversary",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Kyiv, Ukraine",
+      "latitude": 50.4501,
+      "longitude": 30.5236,
+      "detailed_analysis": "Russian missile strikes on Kyiv and other parts of Ukraine pose a significant threat to aviation, cargo, and personnel. The attacks on energy infrastructure could lead to disruptions in logistics and supply chains.",
+      "immediate_forecast_24h": "Further missile strikes and escalation of conflict are possible in the next 24 hours, especially with the anniversary of Russia's invasion approaching.",
+      "strategic_outlook": "The ongoing conflict between Russia and Ukraine is likely to continue, with potential long-term impacts on regional stability, trade, and security.",
+      "operational_impact": "The attacks may cause disruptions to air travel, cargo transport, and logistics in Ukraine, with potential ripple effects on regional and global supply chains.",
+      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
+    }
+  },
+  {
+    "id": "f6f83242f54212f33c7740457281ba8d",
+    "timestamp": "2026-02-22T07:00:35.373071",
+    "original_title": "Pakistan launches strikes in Afghanistan, ‘dozens’ killed and wounded, Kabul says",
+    "link": "https://www.france24.com/en/asia-pacific/20260222-pakistan-launches-deadly-strikes-in-afghanistan",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation/Civil Unrest",
+      "risk_score": 10,
+      "location": "Eastern Afghanistan",
+      "latitude": 34.5333,
+      "longitude": 69.1667,
+      "detailed_analysis": "Pakistan has launched cross-border strikes in eastern Afghanistan targeting terrorist training camps and hideouts, resulting in dozens of civilian casualties, including women and children. This escalation of violence poses a significant threat to aviation, cargo, and personnel in the region.",
+      "immediate_forecast_24h": "Increased tensions between Pakistan and Afghanistan are expected, with potential for further cross-border strikes or retaliatory actions. Aviation and cargo operations in the region may be disrupted or suspended due to the heightened security risk.",
+      "strategic_outlook": "The long-term implications of this conflict could lead to a destabilization of the region, affecting trade and transport routes. The security situation may deteriorate further, posing a persistent threat to assets, cargo, aviation, and personnel.",
+      "operational_impact": "Transport and logistics operations in the region may be severely impacted, with potential for delays, disruptions, or cancellations. Aviation operations may be subject to increased security measures, and cargo shipments may be diverted or suspended due to the elevated risk of conflict and terrorism.",
+      "proximity_alert": "YAKIN TEHDİT: Hamid Karzai International Airport (5 km)"
+    }
   }
 ]
