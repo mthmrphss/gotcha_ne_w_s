@@ -1043,5 +1043,43 @@
       "operational_impact": "Possible disruptions to air travel, cargo transport, and logistics operations in Ukraine and surrounding regions. Increased security measures may be necessary to protect personnel and assets.",
       "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
     }
+  },
+  {
+    "id": "49e0b095cd704d0c6a6af8ef13e9a120",
+    "timestamp": "2026-02-22T17:31:50.631447",
+    "original_title": "⁠President ​Masoud Pezeshkian said that Iran \"will not ​bow\" ‌to pressure from world powers amid nuclear talks with the US. Meanwhile, Iranian students chanted anti-government slogans.",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rbqtno/president_masoud_pezeshkian_said_that_iran_will/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Iran's refusal to bow to pressure from world powers amid nuclear talks with the US, combined with anti-government protests by Iranian students, indicates a heightened state of civil unrest and potential conflict. This could lead to instability and disruptions in the region, affecting aviation and logistics.",
+      "immediate_forecast_24h": "Increased protests and potential clashes between protesters and government forces, potentially disrupting air travel and logistics operations in and out of Tehran.",
+      "strategic_outlook": "Long-term instability in Iran could lead to increased tensions with neighboring countries and global powers, potentially affecting regional aviation and logistics security.",
+      "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics operations in and out of Iran, with possible spillover effects into neighboring countries.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "3f2ef3ba2f9ea6f6f408734b326b35b4",
+    "timestamp": "2026-02-22T17:31:53.828703",
+    "original_title": "Albania - Level 2: Exercise Increased Caution",
+    "link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/albania-travel-advisory.html",
+    "source_name": "US State Dept",
+    "ai_analysis": {
+      "category": "Crime",
+      "risk_score": 6,
+      "location": "Albania",
+      "latitude": 41.0,
+      "longitude": 20.0,
+      "detailed_analysis": "There has been targeted violence associated with illicit drug networks and organized crime countrywide, law enforcement's ability to protect and assist travelers is limited in some areas, especially in remote regions.",
+      "immediate_forecast_24h": "Increased caution is advised due to crime, travelers should remain aware of their surroundings and the extent of police and emergency services in their area.",
+      "strategic_outlook": "Long-term stability in Albania may be affected by organized crime and limited law enforcement capabilities, potentially impacting transport and logistics operations.",
+      "operational_impact": "Cargo and personnel may be at risk due to crime, especially in remote areas, and transport operations may be affected by the limited ability of law enforcement to protect and assist.",
+      "proximity_alert": null
+    }
   }
 ]
