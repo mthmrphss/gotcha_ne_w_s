@@ -1,138 +1,5 @@
 [
   {
-    "id": "e061835e3f680b0d0609be27b7388f63",
-    "timestamp": "2026-02-22T08:43:15.943964",
-    "original_title": "Claude Code Security didn’t kill cybersecurity. It exposed what’s coming next. - CTech",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5HWllNalVCVzJPVnlSSWM4RWphdWVBeDNnT3dzdm1zcUR1eE15OVE5aGlSeXdoaUpTWmxhS3JQMHRWeENMQ01ycEFiY3gweXdWbnNaZFRGcE9aMFhYZmNKWjBHdXp1VF9MUFN3?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Cyber",
-      "risk_score": 6,
-      "location": "Unknown, Global",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "The article discusses Claude Code Security and its implications on the future of cybersecurity, potentially exposing new threats and vulnerabilities in the industry.",
-      "immediate_forecast_24h": "Increased awareness and potential preparations for new cybersecurity threats, but no immediate action expected within the next 24 hours.",
-      "strategic_outlook": "Long-term, the exposure of new cybersecurity threats could lead to increased investments in cybersecurity measures and potential changes in regulations and industry standards.",
-      "operational_impact": "Potential impact on the security of transport and logistics systems, particularly those reliant on digital technologies, but no immediate disruptions expected.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "f18a5690b869cd0adb24d05c6ebcc4d8",
-    "timestamp": "2026-02-22T08:43:18.870285",
-    "original_title": "Police officer dead and two dozen injured after ‘terrorist’ attack in western Ukraine - TVP World",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaHZxcTF2bUM3WUJtUG1JQ3A5dWR3aDVfRUYwX1I5cVBMVDFPUzVZQzlzWHAzaG1IcjkwQUhVNDhKS3I0WTlvY0Y0NjdOOXB6NnFxM0VabnZNdGFsT0hGczlhRGtkc2Z1UnQ0NzFfczIwNzRpS0RPRFJmMzBmUzJrZDF5dXVBV0RwQms5OA?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Terrorism/Conflict/Civil Unrest",
-      "risk_score": 8,
-      "location": "Western Ukraine",
-      "latitude": 49.0,
-      "longitude": 24.0,
-      "detailed_analysis": "A terrorist attack in western Ukraine has resulted in the death of a police officer and injured two dozen people, indicating a high level of threat to personnel and potential disruption to local transport and logistics.",
-      "immediate_forecast_24h": "Increased security measures are expected in the region, potentially causing delays or disruptions to transport and logistics operations. Further attacks or incidents are possible in the next 24 hours.",
-      "strategic_outlook": "The long-term impact of this incident could lead to increased tensions and instability in the region, potentially affecting trade and transport routes. Enhanced security protocols may be implemented to mitigate future threats.",
-      "operational_impact": "Transport and logistics operations in western Ukraine may be affected due to increased security checks, potential roadblocks, or disruptions to critical infrastructure. Cargo and personnel movement may be delayed or restricted.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "de0cf03d34d347df8908466891c37a24",
-    "timestamp": "2026-02-22T08:43:21.567054",
-    "original_title": "Trump Looks Ahead to Summit With China’s Xi, but Tariffs and Taiwan Loom",
-    "link": "https://www.nytimes.com/2026/02/22/world/asia/trump-xi-jinping-meeting-china.html",
-    "source_name": "NewYork Times",
-    "ai_analysis": {
-      "category": "Conflict/Other",
-      "risk_score": 10,
-      "location": "Washington D.C., USA",
-      "latitude": 38.8951,
-      "longitude": -77.0364,
-      "detailed_analysis": "Tensions between the US and China over trade and defense may impact diplomatic relations, but no direct threat to assets, cargo, aviation, or personnel is reported.",
-      "immediate_forecast_24h": "No immediate escalation expected, but diplomatic relations may remain strained.",
-      "strategic_outlook": "Long-term trade and defense agreements may be affected, potentially influencing global economic and security landscapes.",
-      "operational_impact": "No direct operational impact on transport or logistics expected, but potential for future trade restrictions or increased security measures.",
-      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
-    }
-  },
-  {
-    "id": "85fc5a52b18e93e3c8b93929424b4e81",
-    "timestamp": "2026-02-22T08:43:24.217729",
-    "original_title": "Pakistan says it struck militant hideouts along Afghan border after surge in deadly attacks",
-    "link": "https://www.reddit.com/r/worldnews/comments/1rbgoun/pakistan_says_it_struck_militant_hideouts_along/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict/Terrorism/Border",
-      "risk_score": 8,
-      "location": "Afghan-Pakistan border",
-      "latitude": 33.7489,
-      "longitude": 70.1597,
-      "detailed_analysis": "Pakistan has conducted strikes against militant hideouts along the Afghan border in response to a surge in deadly attacks, indicating heightened tensions and potential for further conflict in the region.",
-      "immediate_forecast_24h": "Increased military activity and potential for retaliation from militant groups, posing a threat to aviation and ground transport in the region.",
-      "strategic_outlook": "Long-term instability and conflict in the region may lead to ongoing security threats, impacting transport and logistics operations, particularly for cargo and personnel.",
-      "operational_impact": "Potential disruptions to air and ground transport, increased security measures, and heightened risk of attacks on personnel and assets in the region.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "706cb835960dae5f775ea69b0e7b9dbe",
-    "timestamp": "2026-02-22T08:43:26.230209",
-    "original_title": "Missiles pound Ukraine capital ahead of Russian invasion anniversary",
-    "link": "https://www.reddit.com/r/worldnews/comments/1rbgodn/missiles_pound_ukraine_capital_ahead_of_russian/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict/Civil Unrest",
-      "risk_score": 10,
-      "location": "Kyiv, Ukraine",
-      "latitude": 50.4333,
-      "longitude": 30.5167,
-      "detailed_analysis": "Missile strikes on the Ukrainian capital ahead of the Russian invasion anniversary pose a significant threat to assets, personnel, and aviation in the region. The escalation of violence could lead to increased instability and disruption of logistics and transport operations.",
-      "immediate_forecast_24h": "Further missile strikes and escalation of violence are possible in the next 24 hours, potentially targeting critical infrastructure, including airports and transportation hubs.",
-      "strategic_outlook": "The ongoing conflict in Ukraine is likely to continue, with potential long-term implications for regional stability, trade, and security. The situation may lead to increased tensions between Russia and Western countries, potentially affecting global supply chains and logistics.",
-      "operational_impact": "The missile strikes and potential escalation of violence may disrupt air travel, ground transportation, and logistics operations in Ukraine and surrounding regions. Cargo and personnel movement may be restricted or delayed, and assets may be at risk of damage or destruction.",
-      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
-    }
-  },
-  {
-    "id": "d6ff92732054b841e8f039f5d3e7b84c",
-    "timestamp": "2026-02-22T08:43:27.940444",
-    "original_title": "Pakistan carries out strikes in Afghanistan, ‘killing and wounding dozens",
-    "link": "https://www.reddit.com/r/worldnews/comments/1rbg9ra/pakistan_carries_out_strikes_in_afghanistan/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict/Terrorism/Aviation",
-      "risk_score": 8,
-      "location": "Afghanistan/Pakistan",
-      "latitude": 33.9391,
-      "longitude": 67.7101,
-      "detailed_analysis": "Pakistan has carried out strikes in Afghanistan, resulting in dozens of casualties. This escalation of violence poses a significant threat to aviation, cargo, and personnel in the region.",
-      "immediate_forecast_24h": "Increased tensions and potential for further retaliation are expected in the next 24 hours, with possible disruptions to air traffic and logistics.",
-      "strategic_outlook": "The long-term outlook is uncertain, with potential for ongoing conflict and instability in the region, affecting transport and logistics operations.",
-      "operational_impact": "Flights and cargo operations may be disrupted or suspended due to the increased risk of aviation-related threats, and personnel may be at risk of injury or kidnapping.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "247d12674f266a97e5c123c169eb1d06",
-    "timestamp": "2026-02-22T08:43:30.228173",
-    "original_title": "Uganda's Museveni holds talks with Sudan's RSF leader amid push to end war",
-    "link": "http://www.africanews.com/2026/02/22/ugandas-museveni-holds-talks-with-sudans-rsf-leader-amid-push-to-end-war/",
-    "source_name": "Africa News",
-    "ai_analysis": {
-      "category": "Conflict/Civil Unrest",
-      "risk_score": 10,
-      "location": "Khartoum, Sudan",
-      "latitude": 15.6333,
-      "longitude": 32.5333,
-      "detailed_analysis": "The meeting between Uganda's president and Sudan's RSF leader indicates efforts to resolve the conflict in Sudan through dialogue, which may lead to a reduction in violence but also poses a risk of continued instability.",
-      "immediate_forecast_24h": "Low likelihood of immediate escalation, but ongoing tensions may affect transport and logistics in the region.",
-      "strategic_outlook": "A peaceful resolution to the conflict could improve the security situation in Sudan, benefiting assets, cargo, aviation, and personnel in the long term.",
-      "operational_impact": "Potential for disruptions to transport and logistics due to ongoing conflict, but a peaceful resolution could lead to increased stability and security for operations in the region.",
-      "proximity_alert": "YAKIN TEHDİT: Khartoum International Airport (5 km)"
-    }
-  },
-  {
     "id": "4e8d939975da29fdf783d9d477b518cf",
     "timestamp": "2026-02-22T09:38:42.221014",
     "original_title": "Power plant attack near Las Vegas shows security vulnerabilities, echoes 2023 incident - ktnv.com",
@@ -187,6 +54,101 @@
       "strategic_outlook": "Long-term instability and conflict in the region could lead to sustained disruptions to global supply chains, increased risk of cyber attacks, and potential for further escalation of the conflict.",
       "operational_impact": "Potential disruptions to air traffic, cargo transport, and logistics operations in the region. Increased security measures may be necessary to protect personnel and assets.",
       "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
+    }
+  },
+  {
+    "id": "4feabdc36e4815e6266efe48f3a69dc8",
+    "timestamp": "2026-02-22T10:33:44.809007",
+    "original_title": "Pakistan says it has launched border strikes in Afghanistan. The Red Crescent reports 18 killed - The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNmFNU1RsSjVTX3pmQkdFOWwzS2VmSnhxVkRVVTQwaVJiWE54LU5FTWk5ZHhsUGFfMU1ZNVVCeTQ2dDVPLXdjbm4zaDdlMURxS1dDNW5aaXNCQVR0Smc3VFM3YkdLZjBZREt5ZlJWWGVBcXBwc3lVQTZuV0ZJM0hDOXRjVjRtWjAxelg0dE9WS012RW9sQmFSNHFkZzRXTU9wU2JOdW1PRXdsaWVYR1hGY0dhSWRESlZ6ZFVvNllRR0FVbFZVTHJldjNFZExMcW9lOUMwcEs3NVU?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Border/Civil Unrest",
+      "risk_score": 8,
+      "location": "Afghanistan-Pakistan border",
+      "latitude": 33.7488,
+      "longitude": 70.8657,
+      "detailed_analysis": "Pakistan has launched border strikes in Afghanistan, resulting in 18 reported deaths according to the Red Crescent. This escalation of violence poses a significant threat to regional stability and could impact transport and logistics operations in the area.",
+      "immediate_forecast_24h": "Increased tensions and potential for further clashes along the border are expected in the next 24 hours, which may lead to disruptions in ground and air transportation.",
+      "strategic_outlook": "The long-term implications of this conflict could lead to sustained instability in the region, affecting trade routes and the security of assets, cargo, aviation, and personnel. Diplomatic efforts may be necessary to de-escalate the situation.",
+      "operational_impact": "Transport and logistics operations in the region may be impacted due to the conflict, with potential disruptions to supply chains, increased security measures, and heightened risk of attacks or sabotage on assets and personnel.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "d936bbd83b80ee9565d3d18566b32ce2",
+    "timestamp": "2026-02-22T10:33:47.010480",
+    "original_title": "Banks & Brancos raid, fatal pedestrian crash top last week's stories - Enterprise News",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbDZ5YWVMbmg2V3BTTFljNXRDdVFMeFk5Ymt2aGhMdUhhTmxyWE5EY2FSbm5PTlZnVG1xOVA4eVFDbE5MeXNMQ3gzYVVfWDU3OEhiUUxYTWd3SVZGTVVWbklTSk55MUFFcF9Lc3htTC10ZUxnVGxIcUJtenREN1BwOXdOS3BKdHliLXVVdGEzQVRVUzc3OTM0VVp1Tl8zZnpmbER2Nml2bkwwaXJkMGNoSVZZd2stTDRpSDR4U0loekpSc3pkZWs0M3U4UzZOdw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Crime",
+      "risk_score": 10,
+      "location": "Enterprise",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "detailed_analysis": "Banks & Brancos raid indicates a potential threat to assets and personnel, suggesting a high level of criminal activity in the area.",
+      "immediate_forecast_24h": "Increased security measures are expected in the area, with potential disruptions to local businesses and transport.",
+      "strategic_outlook": "Long-term, the area may experience increased crime rates, affecting local commerce and requiring enhanced security protocols.",
+      "operational_impact": "Transport and logistics in the area may be affected by increased security checks and potential disruptions to local infrastructure.",
+      "proximity_alert": "YAKIN TEHDİT: San Francisco International Airport (17 km)"
+    }
+  },
+  {
+    "id": "b092fbdc560c7ab4e2f376a351a96d0b",
+    "timestamp": "2026-02-22T10:33:52.038409",
+    "original_title": "Iran willing to dilute uranium stockpile as fresh protests erupt",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rbilkj/iran_willing_to_dilute_uranium_stockpile_as_fresh/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Fresh protests erupt in Iran as the country is willing to dilute its uranium stockpile, indicating potential civil unrest and conflict that could impact aviation and logistics operations in the region.",
+      "immediate_forecast_24h": "Increased security measures and potential disruptions to air travel and cargo transport are expected in the next 24 hours due to the ongoing protests and tensions.",
+      "strategic_outlook": "The situation may escalate into a larger conflict, affecting regional stability and global supply chains, particularly if the protests spread to other areas or if external parties get involved.",
+      "operational_impact": "Aviation and logistics operations in Iran and surrounding areas may be impacted, with potential delays or cancellations of flights and cargo shipments, as well as increased security checks and protocols.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "f9853d365a70ebcca518f839aa312481",
+    "timestamp": "2026-02-22T10:33:53.920355",
+    "original_title": "8 arrested for plotting terror attack in Delhi, have links with ISI, Bangladesh",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rbiefb/8_arrested_for_plotting_terror_attack_in_delhi/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Terrorism/Crime",
+      "risk_score": 10,
+      "location": "Delhi, India",
+      "latitude": 28.7041,
+      "longitude": 77.1025,
+      "detailed_analysis": "8 individuals have been arrested for plotting a terror attack in Delhi, with reported links to the ISI and Bangladesh, indicating a high level of threat to assets, personnel, and potentially aviation in the region.",
+      "immediate_forecast_24h": "Increased security measures are expected in Delhi, particularly in areas of high foot traffic and strategic importance, with potential disruptions to daily life and transport.",
+      "strategic_outlook": "The discovery of this plot highlights the ongoing threat of terrorism in the region and the need for continued vigilance and cooperation between law enforcement agencies to prevent future attacks.",
+      "operational_impact": "The plot's disruption may lead to heightened security checks and potential delays in transport and logistics operations in and around Delhi, affecting both cargo and personnel movement.",
+      "proximity_alert": "YAKIN TEHDİT: Indira Gandhi International Airport (16 km)"
+    }
+  },
+  {
+    "id": "b55e53e31adb57f78094df60238bebea",
+    "timestamp": "2026-02-22T10:33:56.856552",
+    "original_title": "Russia targets Ukraine's energy infrastructure in drone strikes",
+    "link": "https://www.france24.com/en/russia-targets-ukraine-s-energy-infrastructure-in-drone-strikes",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Kramatorsk, Ukraine",
+      "latitude": 48.7333,
+      "longitude": 37.5333,
+      "detailed_analysis": "Russia's drone strikes targeting Ukraine's energy infrastructure pose a significant threat to aviation and logistics in the region, with potential for disruption to air travel and cargo transport.",
+      "immediate_forecast_24h": "Further drone strikes and missile attacks are possible in the next 24 hours, with potential for escalation of the conflict.",
+      "strategic_outlook": "The ongoing conflict between Russia and Ukraine is likely to continue, with potential for long-term disruption to regional logistics and aviation.",
+      "operational_impact": "Transport and logistics operations in the region may be impacted, with potential for delays or disruptions to air travel and cargo transport due to the conflict.",
+      "proximity_alert": null
     }
   }
 ]
