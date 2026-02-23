@@ -910,5 +910,62 @@
       "operational_impact": "No direct impact on transport or logistics is expected at this time, but increased security measures may be implemented at US diplomatic facilities and other potential targets in France.",
       "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (2 km)"
     }
+  },
+  {
+    "id": "6fe92304d39e9c2f32a23d05a706158e",
+    "timestamp": "2026-02-23T15:55:40.668324",
+    "original_title": "Live Updates: Operation That Killed Cartel Boss Left Dozens Dead, Mexican Authorities Say",
+    "link": "https://www.nytimes.com/live/2026/02/23/world/mexico",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Crime/Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Mexico",
+      "latitude": 19.4326,
+      "longitude": -99.1332,
+      "detailed_analysis": "The operation that killed cartel boss 'El Mencho' has resulted in significant violence and loss of life, with at least 62 people dead. This event indicates a high level of instability and potential for further violence in the region, which could impact cargo and personnel safety.",
+      "immediate_forecast_24h": "Increased security presence and potential for retaliatory violence from the cartel in the short term, posing a risk to personnel and cargo in the region.",
+      "strategic_outlook": "Long-term instability in the region could lead to sustained elevated risk levels for cargo, aviation, and personnel, necessitating enhanced security measures and contingency planning.",
+      "operational_impact": "Potential disruptions to logistics and transport operations in the region due to increased security measures and violence, with possible delays or rerouting of cargo and flights.",
+      "proximity_alert": "YAKIN TEHDİT: Mexico City International Airport (6 km)"
+    }
+  },
+  {
+    "id": "10c916578f30e4381744aad04284ce8f",
+    "timestamp": "2026-02-23T15:55:43.959449",
+    "original_title": "25 Mexican National Guard troops left dead during an operation that killed cartel leader ‘El Mencho’",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rck7tu/25_mexican_national_guard_troops_left_dead_during/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Crime/Civil Unrest",
+      "risk_score": 10,
+      "location": "Mexico",
+      "latitude": 19.4326,
+      "longitude": -99.1332,
+      "detailed_analysis": "The killing of cartel leader 'El Mencho' during an operation that resulted in the death of 25 Mexican National Guard troops indicates a high level of violence and instability in the region, posing a significant threat to personnel and potentially disrupting cargo and aviation operations.",
+      "immediate_forecast_24h": "Increased security measures are expected in the region, potentially causing delays or disruptions to transport and logistics. Retaliation from the cartel is also a possibility, which could further escalate the situation.",
+      "strategic_outlook": "The long-term impact of this event could lead to increased militarization of the region, potentially affecting trade routes and supply chains. The situation may also lead to increased cooperation between law enforcement agencies to combat cartel activity.",
+      "operational_impact": "Transport and logistics operations in the region may be affected due to increased security checks, potential roadblocks, or airspace restrictions. Companies operating in the area should be prepared for possible disruptions and have contingency plans in place.",
+      "proximity_alert": "YAKIN TEHDİT: Mexico City International Airport (6 km)"
+    }
+  },
+  {
+    "id": "f8e1f55260ed423676b3dbae82cb4bf9",
+    "timestamp": "2026-02-23T15:55:46.289482",
+    "original_title": "Mugabe's son appears in court over Johannesburg shooting",
+    "link": "http://www.africanews.com/2026/02/23/mugabes-son-appears-in-court-over-johannesburg-shooting/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Crime",
+      "risk_score": 10,
+      "location": "Johannesburg, South Africa",
+      "latitude": -26.2041,
+      "longitude": 28.0473,
+      "detailed_analysis": "The incident involves the son of Zimbabwe's late former president Robert Mugabe, who appeared in court over an attempted murder charge after a shooting at his Johannesburg home. This is a crime-related event with no direct impact on aviation, cargo, or border security.",
+      "immediate_forecast_24h": "The court proceedings are expected to continue, but no immediate escalation or impact on the surrounding area is anticipated.",
+      "strategic_outlook": "The event is isolated and does not indicate a broader trend or threat to regional security or transport infrastructure.",
+      "operational_impact": "No significant impact on transport or logistics operations is expected from this incident.",
+      "proximity_alert": "YAKIN TEHDİT: O. R. Tambo International Airport (19 km)"
+    }
   }
 ]
