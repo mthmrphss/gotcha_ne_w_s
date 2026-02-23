@@ -359,5 +359,81 @@
       "operational_impact": "Transport and logistics operations in the area may be affected, particularly those involving maritime activities or island resorts. Companies operating in the area should take necessary precautions to ensure the safety of their personnel and assets.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "3c0a264c39797b13a02ef532f59428b0",
+    "timestamp": "2026-02-23T06:42:09.939300",
+    "original_title": "Mexican drug lord killing sparks revenge attacks; cars and businesses set ablaze, highways blocked",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rc96qt/mexican_drug_lord_killing_sparks_revenge_attacks/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Crime/Civil Unrest",
+      "risk_score": 10,
+      "location": "Mexico",
+      "latitude": 19.4326,
+      "longitude": -99.1332,
+      "detailed_analysis": "The killing of a Mexican drug lord has sparked revenge attacks, resulting in cars and businesses being set ablaze and highways being blocked. This indicates a high level of civil unrest and potential for further violence, which could impact cargo and personnel safety.",
+      "immediate_forecast_24h": "Increased violence and unrest are expected in the short term, with potential for further attacks on infrastructure and businesses. Transport and logistics operations may be disrupted.",
+      "strategic_outlook": "The long-term outlook is uncertain, but the situation is likely to remain volatile until the perpetrators are brought to justice. Ongoing monitoring of the situation is necessary to assess the potential for further escalation.",
+      "operational_impact": "Highways and transport routes may be blocked or disrupted, and there is a risk of cargo theft or damage. Personnel safety is also a concern, and additional security measures may be necessary to ensure safe passage.",
+      "proximity_alert": "YAKIN TEHDİT: Mexico City International Airport (6 km)"
+    }
+  },
+  {
+    "id": "788ffe34e9d310962d80cc8d21513c64",
+    "timestamp": "2026-02-23T06:42:13.066539",
+    "original_title": "How Mexico killed the powerful drug kingpin 'El Mencho' and what it means",
+    "link": "https://www.france24.com/en/americas/20260223-how-mexico-killed-the-powerful-drug-kingpin-el-mencho-and-what-it-means",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Crime/Civil Unrest/Conflict",
+      "risk_score": 7,
+      "location": "Jalisco, Mexico",
+      "latitude": 20.6739,
+      "longitude": -103.3438,
+      "detailed_analysis": "The killing of 'El Mencho', a powerful drug kingpin, has sparked a wave of arson and road blockades across large parts of Mexico, indicating a high level of civil unrest and potential for further violence.",
+      "immediate_forecast_24h": "Increased violence and unrest are expected in the short term, with potential for retaliatory attacks from the cartel and further disruptions to transport and logistics.",
+      "strategic_outlook": "The long-term impact of 'El Mencho's' death on the cartel's operations and Mexico's security situation remains to be seen, but it is likely to lead to a period of instability and potential power struggles within the cartel.",
+      "operational_impact": "The unrest and violence may impact transport and logistics operations, particularly in the Jalisco region, with potential for road blockades, cargo theft, and disruptions to supply chains.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "639b433edba7238ad68980ecabea68a5",
+    "timestamp": "2026-02-23T06:42:14.967476",
+    "original_title": "Live: Several killed in Ukraine's Odesa as strikes intensify across Ukraine",
+    "link": "https://www.france24.com/en/europe/20260223-deadly-russian-drone-attack-targets-zaporizhzhia-as-strikes-intensify-across-ukraine",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 10,
+      "location": "Odesa, Ukraine",
+      "latitude": 46.48,
+      "longitude": 30.73,
+      "detailed_analysis": "Russian strikes have intensified across Ukraine, with drone attacks on industrial, energy, and civilian infrastructure in the Odesa region, resulting in fatalities and injuries. This escalation poses a significant threat to aviation, cargo, and personnel in the region.",
+      "immediate_forecast_24h": "Further Russian strikes are likely, potentially targeting critical infrastructure, which could lead to increased casualties and disruptions to transport and logistics.",
+      "strategic_outlook": "The ongoing conflict in Ukraine is expected to continue, with potential long-term implications for regional stability, trade, and security. The use of drones in attacks may become more prevalent, posing a persistent threat to aviation and cargo operations.",
+      "operational_impact": "The strikes may cause disruptions to air traffic, cargo shipments, and personnel movements in the region. Enhanced security measures and contingency planning are recommended for organizations operating in or near the affected areas.",
+      "proximity_alert": "YAKIN TEHDİT: Odessa International Airport (5 km)"
+    }
+  },
+  {
+    "id": "f06242c2406f354f5e9e0fb780a783e7",
+    "timestamp": "2026-02-23T06:42:18.511694",
+    "original_title": "Delta Air Lines Plane Causes Wild Grass Fire At Savannah Airport And Prompts Emergency Landing",
+    "link": "https://www.paddleyourownkanoo.com/2026/02/23/delta-air-lines-plane-causes-wild-grass-fire-at-savannah-airport-and-prompts-emergency-landing/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 6,
+      "location": "Savannah, USA",
+      "latitude": 32.1279,
+      "longitude": -81.2023,
+      "detailed_analysis": "Engine failure on a Delta Air Lines Boeing 737 caused a wild grass fire next to the runway at Savannah/Hilton Head International Airport, prompting an emergency landing. No reports of injuries or fatalities, but potential disruption to air traffic and investigation into the cause of the engine failure.",
+      "immediate_forecast_24h": "Investigation into the incident, potential delays or cancellations of flights at Savannah/Hilton Head International Airport, and increased security measures to prevent similar incidents.",
+      "strategic_outlook": "Long-term review of engine maintenance and inspection procedures, potential updates to emergency response plans, and assessment of the impact on airline operations and passenger confidence.",
+      "operational_impact": "Disruption to air traffic, potential delays or cancellations of flights, and increased security measures may impact transport and logistics operations at Savannah/Hilton Head International Airport.",
+      "proximity_alert": null
+    }
   }
 ]
