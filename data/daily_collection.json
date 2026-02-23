@@ -967,5 +967,81 @@
       "operational_impact": "No significant impact on transport or logistics operations is expected from this incident.",
       "proximity_alert": "YAKIN TEHDİT: O. R. Tambo International Airport (19 km)"
     }
+  },
+  {
+    "id": "93049a0b606c5076c590ae9c5fb027d7",
+    "timestamp": "2026-02-23T17:07:41.357437",
+    "original_title": "US military begins withdrawing from key base in northeastern Syria - Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQ01ZWlZuXzd0ZlhqQWRCSGFUMkxDaDVoUDlkQ1FOMVJVbXdFTkxkaEJBQ3RMZHFUTkxDamdudXF1V1pxcnIxZ3lzWFN5bHkyaEZrSDZQaWZqWnc0Z29WRlZJYTdGWENFOWFOWXVUSGRXRGZ5MUNTODI1di1XZ1RtVE10Wkl5NVpzcEYtdlBianFOM1BOcjVPeUdEdjZyeGN1clZpTWpFcExBN1HSAbABQVVfeXFMTkVoV09kYjkwcV9sajI1VjItYmRlX0o3bEx2a2NlT19tc24tbUZFeXVhaXYtdDhrM2Y1ZmppNHFtUDZ4ZW5JSkVRSDQ0aTZFdXp1X0ktRWZESm9IZUlLWkpTajk0ZUhtZlVWaGIzRExXVW1fUVRQcUUtTkxzenFwQXlpRE1sUHY1bXJVZWxkRV83a1hCbC1jc0RrTzJlbU1XRzUxMEdlNXllNVo2Y3ZIOVc?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 6,
+      "location": "Northeastern Syria",
+      "latitude": 36.9673,
+      "longitude": 40.0553,
+      "detailed_analysis": "The US military's withdrawal from a key base in northeastern Syria may create a power vacuum, potentially leading to increased instability and conflict in the region, which could impact aviation and cargo operations.",
+      "immediate_forecast_24h": "Increased military activity and potential clashes between various factions in the region are expected in the short term, which may disrupt air traffic and logistics.",
+      "strategic_outlook": "The long-term consequences of the US withdrawal may lead to a shift in the regional balance of power, potentially affecting the security and stability of neighboring countries and global supply chains.",
+      "operational_impact": "The withdrawal may impact the safety and security of aviation and cargo operations in the region, potentially leading to increased risks of delays, disruptions, or even attacks on transport infrastructure.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "cc5b5aa544abe453e6a7b5ca30677dda",
+    "timestamp": "2026-02-23T17:07:45.602068",
+    "original_title": "Ukrainian drones hit facility for Druzhba oil pipeline in Russia, Kyiv says",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rcmqqe/ukrainian_drones_hit_facility_for_druzhba_oil/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 10,
+      "location": "Russia",
+      "latitude": 55.7558,
+      "longitude": 37.6176,
+      "detailed_analysis": "Ukrainian drones have hit a facility for the Druzhba oil pipeline in Russia, indicating a significant escalation in the conflict. This attack has the potential to disrupt oil supplies and impact the global energy market.",
+      "immediate_forecast_24h": "Increased tensions between Ukraine and Russia, potential for retaliatory actions, and heightened security measures around critical infrastructure.",
+      "strategic_outlook": "Long-term disruption to oil supplies, potential for economic sanctions, and increased instability in the region, affecting trade and logistics.",
+      "operational_impact": "Potential delays or disruptions to oil shipments, increased security protocols for aviation and logistics operations in the region, and heightened vigilance for similar attacks on critical infrastructure.",
+      "proximity_alert": "YAKIN TEHDİT: Vnukovo International Airport (27 km)"
+    }
+  },
+  {
+    "id": "396d315018f6badcee7690aefb644a4d",
+    "timestamp": "2026-02-23T17:07:48.276665",
+    "original_title": "Iran: Students rally one month after deadly protests",
+    "link": "https://www.france24.com/en/video/20260223-iran-students-rally-one-month-after-deadly-protests",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 6,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Anti-government protests by students across Iran, combined with a US military build-up, pose a significant threat to stability and potentially to aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Protests are likely to continue, potentially escalating and affecting major cities and transportation hubs.",
+      "strategic_outlook": "The situation could lead to increased tensions between Iran and the US, potentially affecting global oil prices, aviation routes, and cargo shipments in the region.",
+      "operational_impact": "Possible disruptions to flights, increased security measures at airports, and potential delays or rerouting of cargo shipments due to the unrest and military build-up.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "c3d24ca13b77ba61d7b7725a9e882690",
+    "timestamp": "2026-02-23T17:07:51.160380",
+    "original_title": "Cuba - Level 2: Exercise Increased Caution",
+    "link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/cuba-travel-advisory.html",
+    "source_name": "US State Dept",
+    "ai_analysis": {
+      "category": "Crime",
+      "risk_score": 10,
+      "location": "Havana, Cuba",
+      "latitude": 23.1333,
+      "longitude": -82.3667,
+      "detailed_analysis": "The current situation in Cuba poses a significant threat to assets, cargo, and personnel due to rising crime rates, including petty and violent crimes. The unreliable electrical power supply may also impact operations and logistics.",
+      "immediate_forecast_24h": "Increased risk of crime and power outages, potentially disrupting operations and logistics. U.S. citizens are advised to exercise increased caution and stay informed about local conditions.",
+      "strategic_outlook": "Long-term instability in Cuba may lead to continued crime and infrastructure challenges, affecting the safety and security of assets, cargo, and personnel. It is essential to monitor the situation closely and adjust operations accordingly.",
+      "operational_impact": "The power outages and crime may impact the transportation of cargo, and the ability to respond to emergencies may be hindered. It is crucial to have contingency plans in place, including alternative power sources and secure storage for valuable assets.",
+      "proximity_alert": "YAKIN TEHDİT: José Martí International Airport (16 km)"
+    }
   }
 ]
