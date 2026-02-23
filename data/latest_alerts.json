@@ -1,81 +1,5 @@
 [
   {
-    "id": "2a4b31f5deab7e3a4dc7dd8d23a2b833",
-    "timestamp": "2026-02-23T19:59:20.948735",
-    "original_title": "Trump’s top general foresees acute risks in an attack on Iran - The Washington Post",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON3JVREVIbGJmYzRWNHNpOVpDZ28tNV9NMVZFNnRpdWNaTjhqYWpUQUp0VEhVY0tHbFU0XzVlXzF1RlZtcWJzRU9mejAyOF9jQ2VPVG80Mmc5TkFIbkFNRjJoNFlvbUpsOUdoYVctdmhMSHk5TldWSFRTRTFJTi1YOUNuTVFqQ3VJejhWMFdVZw?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 8,
-      "location": "Iran",
-      "latitude": 32.0,
-      "longitude": 53.0,
-      "detailed_analysis": "A potential attack on Iran poses significant risks to regional stability, with possible impacts on aviation, cargo, and personnel. The involvement of a major world power increases the likelihood of escalation.",
-      "immediate_forecast_24h": "Heightened tensions and increased military readiness are expected in the short term, with potential for miscalculations or accidental clashes.",
-      "strategic_outlook": "A long-term conflict in the region could lead to significant disruptions in global supply chains, particularly in the energy sector, and increased security measures for aviation and cargo.",
-      "operational_impact": "Transport and logistics operations in the region may be severely impacted, with potential for airspace closures, port disruptions, and increased security protocols for personnel and cargo.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "74cad870d44102a323f418d89e116543",
-    "timestamp": "2026-02-23T19:59:24.115537",
-    "original_title": "Live Updates: Mexico Remains on Edge After Killing of Cartel Boss Sparked Violence",
-    "link": "https://www.nytimes.com/live/2026/02/23/world/mexico",
-    "source_name": "NewYork Times",
-    "ai_analysis": {
-      "category": "Crime/Civil Unrest/Conflict",
-      "risk_score": 10,
-      "location": "Mexico",
-      "latitude": 19.4326,
-      "longitude": -99.1332,
-      "detailed_analysis": "The killing of a cartel boss has sparked violence across Mexico, resulting in at least 62 deaths. This event poses a significant threat to assets, cargo, and personnel due to the potential for continued violence and unrest.",
-      "immediate_forecast_24h": "Increased violence and unrest are expected in the short term, with potential for clashes between cartel members and security forces, as well as possible retaliatory attacks against civilians and infrastructure.",
-      "strategic_outlook": "The long-term outlook is uncertain, but the killing of the cartel boss may lead to a power vacuum, potentially destabilizing the region and creating opportunities for other criminal organizations to fill the gap.",
-      "operational_impact": "Transportation and logistics operations in Mexico may be disrupted due to the violence and unrest, with potential for delays, cargo theft, and damage to infrastructure. Aviation operations may also be affected, particularly if the violence spreads to airports or other critical infrastructure.",
-      "proximity_alert": "YAKIN TEHDİT: Mexico City International Airport (6 km)"
-    }
-  },
-  {
-    "id": "0fc69f14fd6eebbd80895ade2000a9e6",
-    "timestamp": "2026-02-23T19:59:27.725659",
-    "original_title": "Chad closes border with Sudan following clashes",
-    "link": "http://www.africanews.com/2026/02/23/chad-closes-border-with-sudan-following-clashes/",
-    "source_name": "Africa News",
-    "ai_analysis": {
-      "category": "Conflict/Border/Civil Unrest",
-      "risk_score": 6,
-      "location": "Chad-Sudan border",
-      "latitude": 13.0,
-      "longitude": 20.0,
-      "detailed_analysis": "The closure of the Chad-Sudan border following clashes that resulted in the deaths of five Chadian soldiers indicates a heightened state of tension and potential for further conflict. This could impact the movement of assets, cargo, and personnel in the region.",
-      "immediate_forecast_24h": "Increased military presence and potential for further clashes along the border, leading to disruptions in transportation and logistics.",
-      "strategic_outlook": "Long-term instability in the region could lead to sustained disruptions in trade and travel, with potential for the conflict to spread or involve other neighboring countries.",
-      "operational_impact": "Transportation and logistics operations in the region may be severely impacted, with potential for delays, rerouting, or cancellation of shipments and travel plans.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "abf29051bed20fba42a21f42db289068",
-    "timestamp": "2026-02-23T19:59:31.251996",
-    "original_title": "Passenger Narrowly Escapes Injury After Seats Suddenly ‘Collapse’ As Boeing 737 is Still Taking Off",
-    "link": "https://www.paddleyourownkanoo.com/2026/02/23/passenger-narrowly-escapes-injury-after-seats-suddenly-collapse-as-boeing-737-is-still-taking-off/",
-    "source_name": "Paddle Your Own Kanoo",
-    "ai_analysis": {
-      "category": "Aviation",
-      "risk_score": 6,
-      "location": "Unknown, Malaysia",
-      "latitude": 2.5,
-      "longitude": 112.5,
-      "detailed_analysis": "A passenger on a Boeing 737 operated by Batik Air narrowly escaped injury when an entire row of seats collapsed during takeoff, indicating a potential mechanical failure or maintenance issue.",
-      "immediate_forecast_24h": "Investigations into the incident are likely to begin immediately, with potential inspections of the aircraft and review of maintenance records.",
-      "strategic_outlook": "This incident may lead to increased scrutiny of aircraft maintenance and safety protocols, potentially impacting the airline's operations and reputation in the long term.",
-      "operational_impact": "The incident may cause delays or cancellations of flights as the airline and regulatory bodies investigate and address any safety concerns.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "a8c3baa8373fd160f0aef42fa58eeea5",
     "timestamp": "2026-02-23T20:57:41.381115",
     "original_title": "Plane crash closes Charlotte-Monroe airport runway - WBTV",
@@ -129,6 +53,25 @@
       "immediate_forecast_24h": "Increased violence and roadblocks are expected in the short term, potentially disrupting transportation and logistics. The situation may escalate further if the cartel continues to retaliate against the government.",
       "strategic_outlook": "The long-term outlook is uncertain, but the loss of the cartel leader may lead to a power vacuum, potentially causing further instability and violence in the region. The Mexican government may increase security measures to counter the cartel's activities.",
       "operational_impact": "The violence and roadblocks may significantly impact transportation and logistics in Mexico, particularly in areas where the cartel is active. Cargo and personnel may be at risk, and aviation operations may be affected if the violence spreads to airports or other critical infrastructure.",
+      "proximity_alert": "YAKIN TEHDİT: Mexico City International Airport (6 km)"
+    }
+  },
+  {
+    "id": "9d227d828b30363119d55695dbe6e0ca",
+    "timestamp": "2026-02-23T21:55:46.710327",
+    "original_title": "Live Updates: Violence Ebbs but Mexico Remains on Edge After Killing of Cartel Boss",
+    "link": "https://www.nytimes.com/live/2026/02/23/world/mexico",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest/Crime",
+      "risk_score": 10,
+      "location": "Mexico",
+      "latitude": 19.4326,
+      "longitude": -99.1332,
+      "detailed_analysis": "Violence has erupted across Mexico following the killing of a cartel boss, El Mencho, resulting in at least 62 deaths. The situation remains volatile, with many residents and tourists staying indoors.",
+      "immediate_forecast_24h": "Further violence and unrest are possible in the short term, potentially affecting transport and logistics operations.",
+      "strategic_outlook": "The long-term impact of this event may lead to increased instability and crime in the region, posing a continued threat to assets, cargo, aviation, and personnel.",
+      "operational_impact": "Transport and logistics operations in Mexico may be disrupted due to the ongoing violence and civil unrest, with potential for cargo theft, smuggling, and other criminal activities.",
       "proximity_alert": "YAKIN TEHDİT: Mexico City International Airport (6 km)"
     }
   }
