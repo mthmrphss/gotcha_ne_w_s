@@ -1,135 +1,59 @@
 [
   {
-    "id": "afb9486b87ce6ca7c8eb79951ad27f5c",
-    "timestamp": "2026-02-24T13:51:28.440703",
-    "original_title": "Argentina - Level 1: Exercise Normal Precautions",
-    "link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/argentina-travel-advisory.html",
-    "source_name": "US State Dept",
+    "id": "6695ca086771795fafef1920eef7de34",
+    "timestamp": "2026-02-24T16:08:00.326961",
+    "original_title": "Iranians Brace for War as Trump Considers Targeted Strikes",
+    "link": "https://www.nytimes.com/2026/02/24/world/middleeast/iran-preparations-war.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The situation in Iran is volatile due to the possibility of targeted strikes by U.S. forces, which could lead to civil unrest and disruptions to aviation, cargo, and personnel movements.",
+      "immediate_forecast_24h": "Increased tensions and potential for military action, with possible disruptions to air travel and logistics in the region.",
+      "strategic_outlook": "Long-term instability in the region could lead to sustained disruptions to global supply chains, particularly those reliant on Middle Eastern air and sea routes.",
+      "operational_impact": "Potential for flight cancellations, cargo delays, and increased security measures at airports and seaports, affecting personnel and cargo movements in and out of Iran.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "b0cbb49226fd617878fdb3988c985034",
+    "timestamp": "2026-02-24T16:08:02.971881",
+    "original_title": "Why Iran Will Escalate: U.S. Military Strikes and the Risk of a Quagmire",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1rdj6qk/why_iran_will_escalate_us_military_strikes_and/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Iran, Middle East",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The article discusses the potential escalation of conflict between the US and Iran, with a focus on the risk of a quagmire. This could lead to increased tensions and instability in the region, potentially affecting aviation and cargo operations.",
+      "immediate_forecast_24h": "Increased military activity and rhetoric between the US and Iran, potentially leading to disruptions in air travel and cargo shipments in the region.",
+      "strategic_outlook": "Long-term instability and conflict in the region could lead to sustained disruptions in transportation and logistics, with potential impacts on global supply chains.",
+      "operational_impact": "Potential disruptions to air travel and cargo shipments, increased security measures, and potential rerouting of flights and shipments to avoid the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "faa21f7a2f929a5b6e93144a601ed8a2",
+    "timestamp": "2026-02-24T16:08:06.087749",
+    "original_title": "How Mexico tracked down 'El Mencho' through one of the drug kingpin’s girlfriends",
+    "link": "https://www.france24.com/en/americas/20260224-how-mexico-tracked-down-el-mencho-through-one-of-the-drug-kingpin-s-girlfriends",
+    "source_name": "France 24 ME",
     "ai_analysis": {
       "category": "Crime",
-      "risk_score": 6,
-      "location": "Rosario, Argentina",
-      "latitude": -32.95,
-      "longitude": -60.66,
-      "detailed_analysis": "Increased crime and violence due to active criminal and narcotics trafficking elements in Rosario, Santa Fe province, posing a threat to personnel and cargo",
-      "immediate_forecast_24h": "No significant changes expected in the next 24 hours, but continued caution advised due to high crime rates",
-      "strategic_outlook": "Long-term stability in the region is uncertain, with potential for increased crime and violence, affecting transport and logistics operations",
-      "operational_impact": "Exercise increased caution when transporting cargo or personnel through Rosario, consider alternative routes or enhanced security measures to mitigate risks",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "b3087eab84e072bfe24328dbedd06f9a",
-    "timestamp": "2026-02-24T13:51:31.054624",
-    "original_title": "British Airways Fired Veteran Flight Attendant For Masturbating In Front of Coworker But Tribunal Finds Airline Botched Investigation",
-    "link": "https://www.paddleyourownkanoo.com/2026/02/24/british-airways-fired-veteran-flight-attendant-for-masturbating-in-front-of-coworker-but-tribunal-finds-airline-botched-investigation/",
-    "source_name": "Paddle Your Own Kanoo",
-    "ai_analysis": {
-      "category": "Crime/Aviation",
-      "risk_score": 10,
-      "location": "Heathrow, UK",
-      "latitude": 51.47,
-      "longitude": -0.4614,
-      "detailed_analysis": "A British Airways flight attendant was fired for allegedly masturbating in front of a coworker, but an employment tribunal found the airline's investigation to be flawed. This incident does not pose a direct threat to aviation security, but it highlights potential issues with workplace safety and the airline's handling of sensitive investigations.",
-      "immediate_forecast_24h": "No immediate impact on aviation operations is expected, but the airline may face reputational damage and potential legal consequences.",
-      "strategic_outlook": "The incident may lead to a review of British Airways' workplace policies and procedures, potentially resulting in improved employee safety and well-being.",
-      "operational_impact": "Minimal impact on transport and logistics operations, but the airline may need to address potential employee morale and trust issues.",
-      "proximity_alert": "YAKIN TEHDİT: Heathrow Airport (0 km)"
-    }
-  },
-  {
-    "id": "39ef33858b932c3b8d3d94e8809bd727",
-    "timestamp": "2026-02-24T14:57:57.256664",
-    "original_title": "Over 150 U.S. aircraft sweep into Europe, Middle East as Trump mulls strikes - The Washington Post",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZ2J5YmU2WEFFaTVzN0JRTWdkZTdYRUprM2pTU1duWmhXbzRzbWdRc1ZUY2pRck9xQnMzS2ltd2ZPY2d3bnI5b1VuZWZnVC1nM0IxWGhsWm9faFplM190ZjhJdDVKUnIxTEFid19FMjFXZzFuRXBId3dheHBhM2ZZQUpTNElKLW5CZGNFWA?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Aviation/Conflict",
-      "risk_score": 8,
-      "location": "Europe, Middle East",
-      "latitude": 40.7128,
-      "longitude": 34.8454,
-      "detailed_analysis": "Over 150 U.S. aircraft have been deployed to Europe and the Middle East, indicating a potential escalation of military action. This could lead to increased tensions and conflict in the region, posing a risk to aviation and transport operations.",
-      "immediate_forecast_24h": "Increased military activity and potential airstrikes in the region, which may lead to disruptions in air traffic and transport operations.",
-      "strategic_outlook": "The deployment of U.S. aircraft to the region may lead to a prolonged period of instability and conflict, which could have long-term implications for transport and logistics operations.",
-      "operational_impact": "Potential disruptions to air traffic, increased security measures, and possible restrictions on transport operations in the region.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "18aa5a330071eafa303cab013332467c",
-    "timestamp": "2026-02-24T14:57:59.314558",
-    "original_title": "Soldiers keep up clash with cartel gunmen a day after Mexico’s military killed top drug lord - Oregon Public Broadcasting - OPB",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaGFfZFEwaWpXNG5XVTlLZ0pIeHFNZnRiclk0ZzhiSXY2Rk42LUhfMm5OMEVhbHRJS3RpUVNNMEFzR1BvcV9YdVdlOUpjT3dmeGlaaFEwaXJuRmJubzIwSEpwdENzSWxqekQ4ak1wWlVWdGhsVzAxNGhBcjNZSkdIOWZaRDBhVkp6Rk1ZTm1BeFBWa3M1TWhGWkhCbVM0S0dhNURRcUEzVGhCZnR4MnVLRg?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Conflict/Crime/Civil Unrest",
       "risk_score": 10,
       "location": "Mexico",
       "latitude": 19.4326,
       "longitude": -99.1332,
-      "detailed_analysis": "The killing of a top drug lord by Mexico's military has led to ongoing clashes with cartel gunmen, indicating a heightened state of violence and instability in the region, which could impact the safety of assets, cargo, aviation, and personnel.",
-      "immediate_forecast_24h": "Increased violence and potential for retaliation from cartel groups is expected in the short term, posing a significant threat to security and stability in the region.",
-      "strategic_outlook": "The long-term outlook suggests continued conflict between the military and cartel groups, potentially leading to sustained instability and elevated risk for assets, cargo, aviation, and personnel in the region.",
-      "operational_impact": "The ongoing clashes may disrupt logistics and transport operations, particularly in areas where cartel activity is high, and could lead to increased security measures and potential delays or rerouting of cargo and personnel.",
+      "detailed_analysis": "The death of 'El Mencho', a high-profile drug lord, may lead to a power vacuum and increased violence among cartels, potentially affecting cargo and logistics operations in Mexico.",
+      "immediate_forecast_24h": "Increased security presence and potential retaliatory attacks from rival cartels in the short term.",
+      "strategic_outlook": "Long-term instability in the region may lead to continued threats to cargo, aviation, and personnel, with potential for increased smuggling and heists.",
+      "operational_impact": "Transport and logistics companies operating in Mexico should exercise caution, with potential for delays or disruptions due to increased security measures or cartel activity.",
       "proximity_alert": "YAKIN TEHDİT: Mexico City International Airport (6 km)"
-    }
-  },
-  {
-    "id": "0ae1de116fa9e07758dc5c6569d860ec",
-    "timestamp": "2026-02-24T14:58:03.978917",
-    "original_title": "EU urges diplomacy for Iran as Trump threatens strikes amid negotiations",
-    "link": "https://www.reddit.com/r/worldnews/comments/1rdi2ss/eu_urges_diplomacy_for_iran_as_trump_threatens/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 7,
-      "location": "Iran, EU",
-      "latitude": 32.0,
-      "longitude": 53.0,
-      "detailed_analysis": "The EU is urging diplomacy for Iran as Trump threatens strikes amid negotiations, which could lead to increased tensions and potential conflict in the region, affecting aviation and cargo transport.",
-      "immediate_forecast_24h": "Increased diplomatic efforts are expected in the next 24 hours to de-escalate the situation, but the threat of strikes remains, potentially disrupting air travel and cargo shipments.",
-      "strategic_outlook": "Long-term, the situation could lead to a destabilization of the region, affecting trade and transport routes, with potential consequences for global supply chains and economic stability.",
-      "operational_impact": "Potential disruptions to air travel, cargo shipments, and supply chains, with increased security measures and possible rerouting of flights and shipments to avoid the region.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "50b0da2dca1c56b9c0de8eafd2891df1",
-    "timestamp": "2026-02-24T14:58:06.129133",
-    "original_title": "Canada to give Ukraine C$300 million in new military aid, says Ottawa",
-    "link": "https://www.reddit.com/r/worldnews/comments/1rdi06w/canada_to_give_ukraine_c300_million_in_new/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 6,
-      "location": "Ottawa, Canada",
-      "latitude": 45.4215,
-      "longitude": -75.6972,
-      "detailed_analysis": "Canada's decision to provide Ukraine with C$300 million in new military aid may escalate tensions with Russia, potentially affecting global aviation and logistics. The aid package could lead to increased military activity, posing a risk to personnel and assets in the region.",
-      "immediate_forecast_24h": "No immediate impact expected on Canadian or Ukrainian soil, but increased military activity may lead to heightened security measures in the region.",
-      "strategic_outlook": "Long-term, the conflict in Ukraine may continue to escalate, posing a risk to global stability and potentially affecting trade and logistics. Canada's involvement may also lead to increased diplomatic tensions with Russia.",
-      "operational_impact": "Potential disruptions to air traffic and logistics in the region, particularly if the conflict escalates. Canadian and Ukrainian transport operators should be prepared for possible increased security measures and delays.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "e40201252c4265debf155b29165f23f4",
-    "timestamp": "2026-02-24T14:58:08.685787",
-    "original_title": "Ghana renames Kotoka Airport, reigniting coup debate",
-    "link": "http://www.africanews.com/2026/02/24/ghana-renames-kotoka-airport-reigniting-coup-debate/",
-    "source_name": "Africa News",
-    "ai_analysis": {
-      "category": "Civil Unrest",
-      "risk_score": 10,
-      "location": "Accra, Ghana",
-      "latitude": 5.605,
-      "longitude": -0.1667,
-      "detailed_analysis": "The renaming of Kotoka Airport has reignited old political and historical tensions in Ghana, potentially leading to civil unrest. However, there is no direct threat to aviation, cargo, or personnel at this time.",
-      "immediate_forecast_24h": "Protests or demonstrations are possible in the next 24 hours, but are unlikely to directly impact airport operations or logistics.",
-      "strategic_outlook": "The situation may escalate if political tensions continue to rise, potentially affecting the stability of the country and its transport infrastructure in the long term.",
-      "operational_impact": "Currently, there is no significant operational impact on transport or logistics, but the situation should be monitored closely for any developments that could affect airport operations or cargo movements.",
-      "proximity_alert": "YAKIN TEHDİT: Kotoka International Airport (0 km)"
     }
   }
 ]

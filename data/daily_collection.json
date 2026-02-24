@@ -682,5 +682,62 @@
       "operational_impact": "Currently, there is no significant operational impact on transport or logistics, but the situation should be monitored closely for any developments that could affect airport operations or cargo movements.",
       "proximity_alert": "YAKIN TEHDİT: Kotoka International Airport (0 km)"
     }
+  },
+  {
+    "id": "6695ca086771795fafef1920eef7de34",
+    "timestamp": "2026-02-24T16:08:00.326961",
+    "original_title": "Iranians Brace for War as Trump Considers Targeted Strikes",
+    "link": "https://www.nytimes.com/2026/02/24/world/middleeast/iran-preparations-war.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The situation in Iran is volatile due to the possibility of targeted strikes by U.S. forces, which could lead to civil unrest and disruptions to aviation, cargo, and personnel movements.",
+      "immediate_forecast_24h": "Increased tensions and potential for military action, with possible disruptions to air travel and logistics in the region.",
+      "strategic_outlook": "Long-term instability in the region could lead to sustained disruptions to global supply chains, particularly those reliant on Middle Eastern air and sea routes.",
+      "operational_impact": "Potential for flight cancellations, cargo delays, and increased security measures at airports and seaports, affecting personnel and cargo movements in and out of Iran.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "b0cbb49226fd617878fdb3988c985034",
+    "timestamp": "2026-02-24T16:08:02.971881",
+    "original_title": "Why Iran Will Escalate: U.S. Military Strikes and the Risk of a Quagmire",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1rdj6qk/why_iran_will_escalate_us_military_strikes_and/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Iran, Middle East",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The article discusses the potential escalation of conflict between the US and Iran, with a focus on the risk of a quagmire. This could lead to increased tensions and instability in the region, potentially affecting aviation and cargo operations.",
+      "immediate_forecast_24h": "Increased military activity and rhetoric between the US and Iran, potentially leading to disruptions in air travel and cargo shipments in the region.",
+      "strategic_outlook": "Long-term instability and conflict in the region could lead to sustained disruptions in transportation and logistics, with potential impacts on global supply chains.",
+      "operational_impact": "Potential disruptions to air travel and cargo shipments, increased security measures, and potential rerouting of flights and shipments to avoid the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "faa21f7a2f929a5b6e93144a601ed8a2",
+    "timestamp": "2026-02-24T16:08:06.087749",
+    "original_title": "How Mexico tracked down 'El Mencho' through one of the drug kingpin’s girlfriends",
+    "link": "https://www.france24.com/en/americas/20260224-how-mexico-tracked-down-el-mencho-through-one-of-the-drug-kingpin-s-girlfriends",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Crime",
+      "risk_score": 10,
+      "location": "Mexico",
+      "latitude": 19.4326,
+      "longitude": -99.1332,
+      "detailed_analysis": "The death of 'El Mencho', a high-profile drug lord, may lead to a power vacuum and increased violence among cartels, potentially affecting cargo and logistics operations in Mexico.",
+      "immediate_forecast_24h": "Increased security presence and potential retaliatory attacks from rival cartels in the short term.",
+      "strategic_outlook": "Long-term instability in the region may lead to continued threats to cargo, aviation, and personnel, with potential for increased smuggling and heists.",
+      "operational_impact": "Transport and logistics companies operating in Mexico should exercise caution, with potential for delays or disruptions due to increased security measures or cartel activity.",
+      "proximity_alert": "YAKIN TEHDİT: Mexico City International Airport (6 km)"
+    }
   }
 ]
