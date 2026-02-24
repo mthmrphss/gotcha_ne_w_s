@@ -549,5 +549,43 @@
       "operational_impact": "Transport and logistics operations in the region may be disrupted due to increased security measures, potential roadblocks, and the risk of violence, affecting the safety of personnel, cargo, and aviation assets.",
       "proximity_alert": "YAKIN TEHDİT: Mexico City International Airport (6 km)"
     }
+  },
+  {
+    "id": "afb9486b87ce6ca7c8eb79951ad27f5c",
+    "timestamp": "2026-02-24T13:51:28.440703",
+    "original_title": "Argentina - Level 1: Exercise Normal Precautions",
+    "link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/argentina-travel-advisory.html",
+    "source_name": "US State Dept",
+    "ai_analysis": {
+      "category": "Crime",
+      "risk_score": 6,
+      "location": "Rosario, Argentina",
+      "latitude": -32.95,
+      "longitude": -60.66,
+      "detailed_analysis": "Increased crime and violence due to active criminal and narcotics trafficking elements in Rosario, Santa Fe province, posing a threat to personnel and cargo",
+      "immediate_forecast_24h": "No significant changes expected in the next 24 hours, but continued caution advised due to high crime rates",
+      "strategic_outlook": "Long-term stability in the region is uncertain, with potential for increased crime and violence, affecting transport and logistics operations",
+      "operational_impact": "Exercise increased caution when transporting cargo or personnel through Rosario, consider alternative routes or enhanced security measures to mitigate risks",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "b3087eab84e072bfe24328dbedd06f9a",
+    "timestamp": "2026-02-24T13:51:31.054624",
+    "original_title": "British Airways Fired Veteran Flight Attendant For Masturbating In Front of Coworker But Tribunal Finds Airline Botched Investigation",
+    "link": "https://www.paddleyourownkanoo.com/2026/02/24/british-airways-fired-veteran-flight-attendant-for-masturbating-in-front-of-coworker-but-tribunal-finds-airline-botched-investigation/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Crime/Aviation",
+      "risk_score": 10,
+      "location": "Heathrow, UK",
+      "latitude": 51.47,
+      "longitude": -0.4614,
+      "detailed_analysis": "A British Airways flight attendant was fired for allegedly masturbating in front of a coworker, but an employment tribunal found the airline's investigation to be flawed. This incident does not pose a direct threat to aviation security, but it highlights potential issues with workplace safety and the airline's handling of sensitive investigations.",
+      "immediate_forecast_24h": "No immediate impact on aviation operations is expected, but the airline may face reputational damage and potential legal consequences.",
+      "strategic_outlook": "The incident may lead to a review of British Airways' workplace policies and procedures, potentially resulting in improved employee safety and well-being.",
+      "operational_impact": "Minimal impact on transport and logistics operations, but the airline may need to address potential employee morale and trust issues.",
+      "proximity_alert": "YAKIN TEHDİT: Heathrow Airport (0 km)"
+    }
   }
 ]
