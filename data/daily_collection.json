@@ -226,5 +226,62 @@
       "operational_impact": "The incident may cause short-term disruptions to flights and airport operations, potentially affecting cargo and passenger traffic. Airlines and airport authorities may need to reassess their security protocols and invest in additional measures to prevent similar incidents in the future.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "d9c9bf21cbe2110d0d52189d4eb5f78e",
+    "timestamp": "2026-02-24T07:33:36.139047",
+    "original_title": "Six people injured after fire breaks out at Lagos international airport",
+    "link": "http://www.africanews.com/2026/02/24/six-people-injured-after-fire-breaks-out-at-lagos-international-airport/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Lagos, Nigeria",
+      "latitude": 6.5774,
+      "longitude": 3.3214,
+      "detailed_analysis": "A fire broke out at Murtala Muhammed International Airport in Lagos, Nigeria, resulting in six injuries and temporary suspension of flights. The cause of the fire is not specified, but it poses a significant threat to aviation operations and safety.",
+      "immediate_forecast_24h": "Flights are likely to be delayed or suspended for an extended period, and airport authorities will conduct an investigation into the cause of the fire. There may be increased security measures in place to prevent similar incidents.",
+      "strategic_outlook": "The incident highlights the need for enhanced safety and security measures at airports, particularly in high-risk areas. It may lead to a review of emergency response procedures and infrastructure upgrades to mitigate the risk of similar incidents in the future.",
+      "operational_impact": "The temporary suspension of flights will likely cause disruptions to air travel and cargo operations, potentially leading to delays and increased costs for airlines, passengers, and logistics companies.",
+      "proximity_alert": "YAKIN TEHDİT: Murtala Muhammed International Airport (15 km)"
+    }
+  },
+  {
+    "id": "cb4211ac7f6aedb8c3082f5227726bf4",
+    "timestamp": "2026-02-24T07:33:38.155346",
+    "original_title": "Trump to deliver State of the Union speech amid anxieties over Iran, tariffs and economy",
+    "link": "https://www.france24.com/en/americas/20260224-trump-to-deliver-state-of-the-union-speech-amid-anxieties-over-iran-tariffs-and-economy",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Washington D.C., USA",
+      "latitude": 38.8951,
+      "longitude": -77.0364,
+      "detailed_analysis": "The potential for US military intervention in Iran, as may be outlined in the State of the Union speech, poses a threat to global stability and could impact aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Heightened tensions between the US and Iran, potentially leading to increased security measures at airports and ports.",
+      "strategic_outlook": "Long-term escalation of US-Iran tensions could lead to disruptions in global supply chains and increased risk of conflict in the region.",
+      "operational_impact": "Potential for increased security screenings, delays, and disruptions to air and sea cargo operations, particularly for flights and ships traveling to or from the Middle East.",
+      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
+    }
+  },
+  {
+    "id": "366dddf90df441c16c655b2e95549b74",
+    "timestamp": "2026-02-24T07:33:40.091293",
+    "original_title": "How Russia’s 'thousand cuts' tactic is straining Ukraine’s frontline forces",
+    "link": "https://www.france24.com/en/europe/20260224-how-russia-thousand-cuts-tactic-is-straining-ukraine-frontline-forces",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "Russia's 'thousand cuts' tactic is straining Ukraine's frontline forces, indicating a heightened state of conflict that could impact military and civilian logistics, as well as the safety of personnel and cargo in the region.",
+      "immediate_forecast_24h": "Expect continued skirmishes and potential escalation of conflict along the Ukrainian frontline, with possible disruptions to transport and logistics in the area.",
+      "strategic_outlook": "The long-term impact of this tactic could lead to a prolonged and unstable conflict, affecting not only Ukraine but also neighboring countries and global supply chains.",
+      "operational_impact": "Potential disruptions to air and ground transport, increased risk to personnel and cargo, and heightened security measures may be necessary to mitigate the effects of the conflict.",
+      "proximity_alert": null
+    }
   }
 ]
