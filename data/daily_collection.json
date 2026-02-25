@@ -701,5 +701,43 @@
       "operational_impact": "Potential disruptions to air travel and cargo transport due to increased security measures or conflict escalation, affecting logistics and supply chains in the region.",
       "proximity_alert": "YAKIN TEHDİT: Geneva Airport (4 km)"
     }
+  },
+  {
+    "id": "35eb8f9fa37f493a3e0e668f365d39d3",
+    "timestamp": "2026-02-25T14:58:12.322234",
+    "original_title": "American Airlines 737 had a ‘bullet hole’ after it landed in Colombia en route from Miami",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/american-airlines-737-bullet-hole-colombia-miami-b2927376.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Aviation/Crime",
+      "risk_score": 7,
+      "location": "Medellín, Colombia",
+      "latitude": 6.2518,
+      "longitude": -75.5635,
+      "detailed_analysis": "A Boeing 737 MAX 8 operated by American Airlines was found to have a 'bullet hole' after landing in Medellín, Colombia, suggesting a potential aviation security threat or criminal activity",
+      "immediate_forecast_24h": "Investigations are likely to be conducted to determine the cause of the hole, and security measures may be heightened for flights in the region",
+      "strategic_outlook": "This incident highlights the need for continued vigilance in aviation security, particularly in regions with high crime rates or potential for conflict",
+      "operational_impact": "The incident may lead to increased security screening and inspections for flights operating in the region, potentially causing delays or disruptions to air travel",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "8e21c24a73a827436ab9d2966c26094b",
+    "timestamp": "2026-02-25T14:58:14.162880",
+    "original_title": "Security expert reveals how to make your luggage less attractive to thieves (and why plastic wrapping is a mistake)",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/luggage-theft-security-tips-b2927228.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Crime",
+      "risk_score": 6,
+      "location": "Unknown, USA",
+      "latitude": 37.0902,
+      "longitude": -95.7129,
+      "detailed_analysis": "Security expert Ed Burnett provides advice on how to make luggage less attractive to thieves, highlighting the risks of luggage theft and the importance of proper security measures.",
+      "immediate_forecast_24h": "Increased awareness of luggage security among travelers, potential decrease in luggage theft attempts.",
+      "strategic_outlook": "Long-term reduction in luggage theft and related crimes as travelers adopt security expert's advice and best practices.",
+      "operational_impact": "Potential impact on logistics and transportation companies, such as UPS, to review and enhance their luggage security protocols to prevent theft and protect customer assets.",
+      "proximity_alert": null
+    }
   }
 ]
