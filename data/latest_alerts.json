@@ -55,5 +55,62 @@
       "operational_impact": "The delay may cause disruptions to the deportation schedule, potentially impacting the operations of ICE and other stakeholders involved in migrant transport. Additionally, the incident may lead to increased scrutiny of migrant transport protocols and procedures.",
       "proximity_alert": "YAKIN TEHDİT: General Edward Lawrence Logan International Airport (0 km)"
     }
+  },
+  {
+    "id": "f95e3794bbc3ef46b8286f8162cc64e0",
+    "timestamp": "2026-02-25T12:01:58.648877",
+    "original_title": "U.S. House rejects aviation safety bill inspired by deadly Kansas airplane crash - KCUR",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZGhuWTFMaUE3anJVeHIxRUkwNXVaQWtfNUd3SlppVTdoWkdGZExncGt0U0NSQ2tRZUlWTW5MSjBrTV9uT05MbnZHRFhKdjBYb1RZY3ZfU01Vek9GNVNqOXN0SXRGQ3A3d0lLRkx6eUtWWXA5cnh3RjVISDB0QWpKUWl2ODhLcXV2aFdUZC1WZVl5WFJUaHlkZmo2SmxpdUdOUUxqd2wzSDVKVHJ4aVVmZlkyU2hqMUlXam1jWEtLVkJScVliTlVyVkJBT0VuS3A2Y2l1ZXl4S211M1REemVN?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 6,
+      "location": "Kansas, USA",
+      "latitude": 39.0997,
+      "longitude": -94.5783,
+      "detailed_analysis": "The U.S. House rejected an aviation safety bill inspired by a deadly Kansas airplane crash, which may lead to increased risks in aviation safety.",
+      "immediate_forecast_24h": "No immediate increase in threats expected, but the rejection of the bill may lead to increased scrutiny of aviation safety protocols.",
+      "strategic_outlook": "The long-term impact of the rejected bill may lead to increased risks in aviation safety, potentially resulting in more accidents or incidents.",
+      "operational_impact": "The rejection of the bill may impact the operational safety of airlines and airports, potentially leading to increased security measures or protocols.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "337a5d837caa38c26782cfe03cb6895a",
+    "timestamp": "2026-02-25T12:02:02.812967",
+    "original_title": "Amsterdam is repatriating more homeless people addicted to crack",
+    "link": "https://www.reddit.com/r/worldnews/comments/1reazb7/amsterdam_is_repatriating_more_homeless_people/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Crime/Border/Civil Unrest",
+      "risk_score": 10,
+      "location": "Amsterdam, Netherlands",
+      "latitude": 52.3702,
+      "longitude": 4.8952,
+      "detailed_analysis": "Amsterdam's repatriation of homeless people addicted to crack may lead to increased migration and potential border breaches, affecting transport and logistics in the region.",
+      "immediate_forecast_24h": "No immediate disruptions to transport or logistics expected, but potential for increased migrant activity in the area.",
+      "strategic_outlook": "Long-term, this could lead to increased security measures at borders and potential disruptions to supply chains if migrant activity increases.",
+      "operational_impact": "Low to moderate impact on transport and logistics, with potential for increased security checks and delays at borders.",
+      "proximity_alert": "YAKIN TEHDİT: Amsterdam Airport Schiphol (0 km)"
+    }
+  },
+  {
+    "id": "b6cff1e194de965bb3d7810ba5e8f44a",
+    "timestamp": "2026-02-25T12:02:05.347857",
+    "original_title": "‘You have killed Americans!’: Ilhan Omar hits out at Trump during State of Union",
+    "link": "https://www.france24.com/en/video/20260225-you-have-killed-americans-ilhan-omar-hits-out-at-trump-during-state-of-union",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Washington D.C., USA",
+      "latitude": 38.8951,
+      "longitude": -77.0364,
+      "detailed_analysis": "The event involves a verbal confrontation between a US politician and the President during the State of the Union address, with no direct threat to assets, cargo, aviation, or personnel.",
+      "immediate_forecast_24h": "The situation is unlikely to escalate into a physical confrontation or pose an immediate threat to transport or logistics in the next 24 hours.",
+      "strategic_outlook": "The long-term impact of this event is likely to be minimal, with potential for increased political tensions but no significant effect on the security of assets, cargo, aviation, or personnel.",
+      "operational_impact": "No significant operational impact is expected on transport or logistics as a result of this event.",
+      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
+    }
   }
 ]
