@@ -1,21 +1,40 @@
 [
   {
-    "id": "0f61f1d1a769fef8e93b3a69cd9282cc",
-    "timestamp": "2026-02-25T02:47:21.621459",
-    "original_title": "Trump vows 'turnaround for the ages' in State of the Union address",
-    "link": "https://www.france24.com/en/americas/20260225-trump-2026-state-of-the-union-economy-tariffs-foreign-policy",
+    "id": "708f5caca6c7c220304d8581060b6da4",
+    "timestamp": "2026-02-25T04:59:10.952250",
+    "original_title": "Russia can keep fighting Ukraine war throughout 2026, says military thinktank",
+    "link": "https://www.reddit.com/r/worldnews/comments/1re3dcs/russia_can_keep_fighting_ukraine_war_throughout/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Ukraine, Eastern Europe",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "A military thinktank has assessed that Russia has the capability to continue fighting the war in Ukraine throughout 2026, posing significant risks to regional stability, aviation, and logistics.",
+      "immediate_forecast_24h": "Escalation of conflict, potential for increased military activity, and heightened tensions in the region.",
+      "strategic_outlook": "Prolonged conflict may lead to long-term disruptions in global supply chains, increased security measures, and potential for spillover into neighboring countries.",
+      "operational_impact": "Potential disruptions to air traffic, increased risk of cargo theft or damage, and heightened security concerns for personnel and assets in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "b6fe0322dd257dcfced0756738d75d6a",
+    "timestamp": "2026-02-25T04:59:13.750094",
+    "original_title": "Trump claims Iran building missiles that could reach US targets",
+    "link": "https://www.france24.com/en/video/20260225-trump-claims-iran-building-missiles-that-could-reach-us-targets",
     "source_name": "France 24 ME",
     "ai_analysis": {
-      "category": "Conflict/Other",
+      "category": "Conflict/Terrorism/Aviation",
       "risk_score": 10,
-      "location": "Washington D.C., USA",
-      "latitude": 38.8951,
-      "longitude": -77.0364,
-      "detailed_analysis": "The State of the Union address by President Trump may lead to increased tensions and protests, potentially affecting transport and logistics in the region. However, there is no direct threat to assets, cargo, aviation, or personnel mentioned in the context.",
-      "immediate_forecast_24h": "Heightened security measures and potential protests in Washington D.C. may cause disruptions to traffic and logistics, but no significant threats are expected in the next 24 hours.",
-      "strategic_outlook": "The ongoing political climate and Trump's policies may lead to long-term instability and potential conflicts, which could impact global trade and logistics. However, the current event does not pose a significant threat to assets, cargo, aviation, or personnel.",
-      "operational_impact": "Minimal to no impact expected on transport and logistics operations, but security measures and potential protests should be monitored to ensure smooth operations.",
-      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Iran's development of missiles that could reach US targets poses a significant threat to global security, particularly for aviation and personnel. The potential for Iran to rebuild its nuclear program further escalates the risk.",
+      "immediate_forecast_24h": "Heightened tensions between the US and Iran are expected, with potential for increased military presence in the region. Aviation and cargo operations may be impacted by increased security measures.",
+      "strategic_outlook": "Long-term, the situation may lead to increased conflict in the region, affecting transport and logistics operations. The development of missiles capable of reaching the US could lead to a significant escalation of the conflict.",
+      "operational_impact": "Aviation and cargo operations in the region may be impacted by increased security measures, potential airspace restrictions, and heightened tensions. Personnel and assets in the region should be prepared for potential evacuation or increased security protocols.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
     }
   }
 ]
