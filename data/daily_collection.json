@@ -473,5 +473,62 @@
       "operational_impact": "The delay may cause a ripple effect, impacting the schedules of connecting flights and the overall operations of Alaska Airlines. Cargo and personnel may also be affected by the diversion and subsequent delays.",
       "proximity_alert": "YAKIN TEHDİT: Seattle International Airport (0 km)"
     }
+  },
+  {
+    "id": "5505168857bf9c6e05c0fd935e2e40a1",
+    "timestamp": "2026-02-25T11:23:41.448011",
+    "original_title": "Cybersecurity News: Hacked in 30 minutes, Claude distillation, DeFi shutdown after attack - CISO Series",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVWQ0djk5MlRiY1I4TDJITzg5LTRxRW5IMnE1YmdseXE1NVF3T2lzb1Rmd3hOeTJBVUdqSVdKa0ItNHllVElEcmxKU1hDaTFoM2JPeXJYOFZRbkNhNHk0UVZvdFhWZS1Uc25LZjdMLXNkQlZhcUlxRjhzMXJySTl1UVVobnZad0s1bkx4Z1RySU9QZWlEa1NDU3l6OHBuOERHMmFFYzliYWtRZUdDbHVn?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 8,
+      "location": "Unknown, Global",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "A DeFi platform was hacked and shut down after a cyber attack, with the hackers gaining access in under 30 minutes. This highlights the vulnerability of financial systems to cyber threats.",
+      "immediate_forecast_24h": "Increased vigilance is expected from other DeFi platforms and financial institutions to prevent similar attacks. Potential for copycat attacks or further exploitation of vulnerabilities.",
+      "strategic_outlook": "Long-term, this incident may lead to increased investment in cybersecurity measures for DeFi platforms and financial institutions, as well as potential regulatory changes to improve security standards.",
+      "operational_impact": "Potential disruption to financial transactions and services, particularly in the DeFi sector. Increased risk of data breaches and financial losses for individuals and organizations using these platforms.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "d39fbcfcf0cbaee8e6ad1d6c4447be0d",
+    "timestamp": "2026-02-25T11:23:46.772638",
+    "original_title": "As relations sour, signs anti-Japanese sentiment rising in China",
+    "link": "https://www.france24.com/en/video/20260225-as-relations-sour-signs-anti-japanese-sentiment-rising-in-china",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Beijing, China",
+      "latitude": 39.9042,
+      "longitude": 116.4074,
+      "detailed_analysis": "Rising anti-Japanese sentiment in China poses a potential threat to Japanese assets, cargo, and personnel in the region. The increased tensions between China and Japan may lead to protests, boycotts, or other forms of unrest that could impact logistics and transportation.",
+      "immediate_forecast_24h": "Protests or demonstrations against Japanese interests in China are possible in the next 24 hours, which may cause disruptions to transportation and logistics.",
+      "strategic_outlook": "The long-term outlook suggests that the current tensions between China and Japan may continue to escalate, potentially leading to increased security measures and trade restrictions that could impact the aviation and cargo industries.",
+      "operational_impact": "The rising tensions may lead to increased security checks, delays, or cancellations of flights and cargo shipments between China and Japan, as well as potential boycotts of Japanese products in China.",
+      "proximity_alert": "YAKIN TEHDİT: Beijing Capital International Airport (25 km)"
+    }
+  },
+  {
+    "id": "615f1500c28463b0394ba6edd946310e",
+    "timestamp": "2026-02-25T11:23:49.998996",
+    "original_title": "ICE Deportation Flight With 100 Detainees On Board Was Stuck at a Boston Area Airport For 24 Hours During Severe Snow Storm",
+    "link": "https://www.paddleyourownkanoo.com/2026/02/25/ice-deportation-flight-with-100-detainees-on-board-was-stuck-at-a-boston-area-airport-for-24-hours-during-severe-snow-storm/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Border/Migrants",
+      "risk_score": 10,
+      "location": "Boston, USA",
+      "latitude": 42.3596,
+      "longitude": -71.0596,
+      "detailed_analysis": "A severe snowstorm caused a 24-hour delay of an ICE deportation flight with 100 detainees on board at a Boston area airport, resulting in a prolonged stay on the tarmac. The situation poses risks related to migrant transport and potential unrest.",
+      "immediate_forecast_24h": "The situation is likely to be resolved within the next 24 hours as weather conditions improve, allowing the flight to depart. However, there is a risk of detainee unrest or attempts to escape during the prolonged delay.",
+      "strategic_outlook": "The incident highlights the vulnerabilities of migrant transport operations to weather-related disruptions and the need for contingency planning to mitigate such risks. It also underscores the importance of ensuring the safety and well-being of detainees during transport.",
+      "operational_impact": "The delay may cause disruptions to the deportation schedule, potentially impacting the operations of ICE and other stakeholders involved in migrant transport. Additionally, the incident may lead to increased scrutiny of migrant transport protocols and procedures.",
+      "proximity_alert": "YAKIN TEHDİT: General Edward Lawrence Logan International Airport (0 km)"
+    }
   }
 ]
