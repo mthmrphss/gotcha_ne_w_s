@@ -1,21 +1,40 @@
 [
   {
-    "id": "b62aeb9ac879a9951fb99649315a0f65",
-    "timestamp": "2026-02-25T06:10:38.780425",
-    "original_title": "Trump lays out case for possible attack on Iran in State of the Union - The Detroit News",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdGU0OXV5V0dJSUhBaHR6a0IxdjdzRXRxSzJWV29vRE1SbkphbDNNaU0wQTVxMGU3RG9fWlVndTlFZU5pUXk4T09WZDBUM3JfdUItWnNZVkpKME02SGNTV0x4ZV9aYXpkSGFnS1RFQmZWQmlxRFlIcjRiM3d4MHNSbEgwUmNtRFVpZlMwM0JVTWd1Q2xIVy1uOHY5aWxXYmpfdUJ6VGM5NnlkbFgtOFBzNFd5QjZVSFNEbTA0NEVmMmFVS2FXbFhYQ0RwQmlaSHQtbTJYZEdiNWQ?oc=5",
-    "source_name": "Google News (Breaking)",
+    "id": "d7dd3d0d6b03fe16a016823f6428700a",
+    "timestamp": "2026-02-25T07:34:35.899241",
+    "original_title": "F-16 fighter jet crashed in Türkiye",
+    "link": "https://www.reddit.com/r/worldnews/comments/1re5eg2/f16_fighter_jet_crashed_in_türkiye/",
+    "source_name": "Reddit r/WorldNews",
     "ai_analysis": {
-      "category": "Conflict",
+      "category": "Aviation",
       "risk_score": 8,
-      "location": "Iran, Middle East",
-      "latitude": 32.0,
-      "longitude": 53.0,
-      "detailed_analysis": "The US President has laid out a case for a possible attack on Iran, which could lead to increased tensions and conflict in the region, potentially affecting aviation and cargo operations.",
-      "immediate_forecast_24h": "Increased military activity and heightened security measures are expected in the region, with potential disruptions to air traffic and cargo shipments.",
-      "strategic_outlook": "A prolonged conflict could lead to long-term disruptions to global supply chains, increased insurance costs, and higher risk of terrorism and cyber attacks.",
-      "operational_impact": "Aviation and cargo operations in the region may be affected, with potential delays, cancellations, or rerouting of flights and shipments, and increased security measures for personnel and assets.",
+      "location": "Türkiye",
+      "latitude": 39.0,
+      "longitude": 36.0,
+      "detailed_analysis": "An F-16 fighter jet crashed in Türkiye, indicating a potential high-risk event for aviation safety and security. The cause of the crash is currently unknown and under investigation.",
+      "immediate_forecast_24h": "Investigations into the crash will likely be ongoing, with potential disruptions to local air traffic and military operations. There may be increased security measures in place to prevent any potential follow-up incidents.",
+      "strategic_outlook": "The long-term impact of this incident will depend on the findings of the investigation. If the crash is attributed to a technical failure or human error, it may lead to changes in maintenance procedures or pilot training. However, if the crash is found to be the result of a deliberate act, it could have significant implications for regional security and aviation safety.",
+      "operational_impact": "The crash may cause temporary disruptions to air traffic in the region, potentially affecting cargo and passenger flights. Military operations may also be impacted, with potential changes to flight routes or procedures to minimize risks.",
       "proximity_alert": null
+    }
+  },
+  {
+    "id": "f5b1ab5dedc231d39cc0d00c56869ce1",
+    "timestamp": "2026-02-25T07:34:38.511199",
+    "original_title": "Drama, spectacle and division as Trump delivers contentious State of the Union address",
+    "link": "https://www.france24.com/en/video/20260225-drama-spectacle-and-division-as-trump-delivers-contentious-state-of-the-union-address",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Washington D.C., USA",
+      "latitude": 38.8951,
+      "longitude": -77.0364,
+      "detailed_analysis": "The State of the Union address by President Trump has sparked controversy and division, with outbursts from Democrat Ilhan Omar, indicating heightened tensions in US politics and society.",
+      "immediate_forecast_24h": "Protests or demonstrations may occur in response to the speech, potentially affecting transport and logistics in the Washington D.C. area.",
+      "strategic_outlook": "The divisive rhetoric and actions may lead to increased polarization and social unrest, potentially impacting the overall security environment in the US.",
+      "operational_impact": "Minimal direct impact on assets, cargo, aviation, and personnel is expected, but heightened security measures may be implemented in sensitive areas.",
+      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
     }
   }
 ]
