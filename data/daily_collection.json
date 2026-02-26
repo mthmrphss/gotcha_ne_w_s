@@ -283,5 +283,43 @@
       "operational_impact": "The incident may cause disruptions to flight schedules and operations, and potentially impact cargo transport and logistics between the US and Israel.",
       "proximity_alert": "YAKIN TEHDİT: Ben Gurion International Airport (9 km)"
     }
+  },
+  {
+    "id": "3af2c539b994c04e571bf1c77ed564a5",
+    "timestamp": "2026-02-26T06:05:00.420784",
+    "original_title": "Cuban Exile attack: Deliberate attempt to spur US action? - Responsible Statecraft",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FZGEwZGhtbmNfbTJSSHpvWkFDZVlNekpKQnp6N1liLW11OFpybkdyZ2dYQ05KdUdTMjhSQkNnLUdyWEVKaG9MNUl3TWdGbV9XM0ZLU1BaRDkwUQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict",
+      "risk_score": 10,
+      "location": "Havana, Cuba",
+      "latitude": 23.1333,
+      "longitude": -82.3667,
+      "detailed_analysis": "A deliberate attack by Cuban exiles may be an attempt to provoke a US response, potentially destabilizing the region and affecting aviation and cargo operations.",
+      "immediate_forecast_24h": "Increased tensions between the US and Cuba, potential for retaliatory actions, and heightened security measures at airports and ports.",
+      "strategic_outlook": "Long-term implications for US-Cuba relations, potential for increased militant activity, and impact on regional stability.",
+      "operational_impact": "Possible disruptions to air travel and cargo shipments, enhanced security protocols, and increased scrutiny of personnel and assets.",
+      "proximity_alert": "YAKIN TEHDİT: José Martí International Airport (16 km)"
+    }
+  },
+  {
+    "id": "5fbe9364572617b0f897cf360c8977ca",
+    "timestamp": "2026-02-26T06:05:05.564208",
+    "original_title": "North Korea's Kim promises more nuclear weapons as Congress closes with military parade",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rf209e/north_koreas_kim_promises_more_nuclear_weapons_as/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 8,
+      "location": "Pyongyang, North Korea",
+      "latitude": 39.0392,
+      "longitude": 125.7625,
+      "detailed_analysis": "North Korea's Kim has promised to develop more nuclear weapons, posing a significant threat to regional and global security. This development could lead to increased tensions and potential conflict, affecting aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Increased military activity and heightened alertness in the region, potentially disrupting air traffic and cargo operations.",
+      "strategic_outlook": "Long-term escalation of tensions between North Korea and other nations, potentially leading to conflict and significant disruptions to global supply chains and aviation operations.",
+      "operational_impact": "Potential disruptions to air traffic and cargo operations in the region, increased security measures, and possible restrictions on flights and cargo shipments to and from North Korea.",
+      "proximity_alert": null
+    }
   }
 ]
