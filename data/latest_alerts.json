@@ -1,77 +1,96 @@
 [
   {
-    "id": "0523e406fbbf4f9077a70162336ef1ed",
-    "timestamp": "2026-02-26T17:12:33.081596",
-    "original_title": "UK immigration officers deny stealing from migrants crossing from France",
-    "link": "https://www.reddit.com/r/worldnews/comments/1rfff7i/uk_immigration_officers_deny_stealing_from/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Border/Crime",
-      "risk_score": 6,
-      "location": "UK/France border",
-      "latitude": 51.0,
-      "longitude": 2.0,
-      "detailed_analysis": "Allegations of theft by UK immigration officers against migrants crossing from France could lead to increased tensions and potential disruptions at border crossings, affecting the movement of people and goods.",
-      "immediate_forecast_24h": "Protests or increased migrant attempts to cross the border are possible in the short term, which could lead to delays or disruptions in transportation and logistics.",
-      "strategic_outlook": "The long-term impact could be a deterioration in relations between the UK and France, potentially affecting trade and travel between the two countries, as well as increased scrutiny of border security measures.",
-      "operational_impact": "Transportation and logistics companies operating in the region should be prepared for potential delays or disruptions at border crossings and consider alternative routes or contingency plans to minimize the impact on their operations.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "dec9b254c335b2bd225be883e2a98826",
-    "timestamp": "2026-02-26T18:10:02.362661",
-    "original_title": "“We didn’t even have time to get scared.” Kharkiv recovers after another overnight Russian drone, missile attack",
-    "link": "https://www.reddit.com/r/worldnews/comments/1rfhj52/we_didnt_even_have_time_to_get_scared_kharkiv/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict/Aviation",
-      "risk_score": 10,
-      "location": "Kharkiv, Ukraine",
-      "latitude": 49.9935,
-      "longitude": 36.2304,
-      "detailed_analysis": "Overnight Russian drone and missile attack on Kharkiv, indicating a high level of threat to aviation and personnel in the region. The attack's impact on the city's infrastructure and logistics is a concern.",
-      "immediate_forecast_24h": "Further attacks are possible in the next 24 hours, with a high risk of damage to aviation assets and disruption to logistics operations.",
-      "strategic_outlook": "The ongoing conflict in Ukraine poses a long-term risk to the region's stability, with potential for continued attacks on aviation and logistics targets.",
-      "operational_impact": "The attack may cause disruptions to air travel, cargo transport, and personnel movements in and out of Kharkiv, with potential for cascading effects on regional logistics and supply chains.",
-      "proximity_alert": "YAKIN TEHDİT: Kharkiv International Airport (8 km)"
-    }
-  },
-  {
-    "id": "e82118c16721c7b33735d93f024245ae",
-    "timestamp": "2026-02-26T18:10:04.620640",
-    "original_title": "Afghanistan says it launches attacks against Pakistan",
-    "link": "https://www.reddit.com/r/worldnews/comments/1rfhhb7/afghanistan_says_it_launches_attacks_against/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict/Civil Unrest",
-      "risk_score": 8,
-      "location": "Afghanistan/Pakistan border",
-      "latitude": 33.0,
-      "longitude": 70.0,
-      "detailed_analysis": "The recent attacks launched by Afghanistan against Pakistan pose a significant threat to regional stability, potentially disrupting transport and logistics operations across the border. The conflict may lead to increased security measures, border closures, or even airspace restrictions, affecting both cargo and personnel movement.",
-      "immediate_forecast_24h": "Escalation of violence is possible in the short term, with potential for retaliatory attacks from Pakistan. This could lead to increased military presence along the border, further disrupting transport and logistics operations.",
-      "strategic_outlook": "The long-term implications of this conflict could be severe, potentially drawing in other regional actors and destabilizing the entire region. This may lead to prolonged disruptions to transport and logistics, as well as increased security concerns for personnel and assets.",
-      "operational_impact": "Transport and logistics operations across the Afghanistan-Pakistan border may be severely impacted, with potential for delays, closures, or even loss of assets and personnel. Aviation operations may also be affected, with possible airspace restrictions or increased security measures.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "c87d3ccfd13206cdde34c03060d0aef0",
-    "timestamp": "2026-02-26T18:10:06.648928",
-    "original_title": "What to know as Iran and US meet for new nuclear talks as Americans deploy forces in Mideast",
-    "link": "https://www.reddit.com/r/worldnews/comments/1rfh96p/what_to_know_as_iran_and_us_meet_for_new_nuclear/",
-    "source_name": "Reddit r/WorldNews",
+    "id": "b0a90d0724cc6d79d374d63509e4c122",
+    "timestamp": "2026-02-26T19:26:22.632948",
+    "original_title": "Is the U.S. headed toward a military conflict with Iran? - KUOW",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbHFta25JU2ZOZ19YWEM4Tk1memNnbmZBRTFoZXhKRUpqQ3BfRWlyOVFGUUxiTWlWUkpMbGNrX1JPOE80alBMVEhtT01tSzVLTGRPTlFQdHVOX1JDbUxqTmxDdDZ5bzhxT2NZR3NCTGJJRlpyR1lsVzlMcTBzblFGWGhzV2hHQ3Y0LVk0?oc=5",
+    "source_name": "Google News (Breaking)",
     "ai_analysis": {
       "category": "Conflict",
+      "risk_score": 8,
+      "location": "Iran, USA",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The U.S. and Iran are experiencing heightened tensions, which could lead to a military conflict. This may impact aviation, cargo, and personnel in the region.",
+      "immediate_forecast_24h": "Increased military presence and diplomatic tensions are expected in the short term.",
+      "strategic_outlook": "A long-term conflict could lead to significant disruptions in global trade, aviation, and logistics, particularly in the Middle East region.",
+      "operational_impact": "Potential disruptions to air traffic, cargo shipments, and personnel movements in the region, with possible spillover effects on global supply chains.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "947afa9c3dfca50a142a76c21129aa40",
+    "timestamp": "2026-02-26T19:26:25.326048",
+    "original_title": "Officials name pilot who died day after Camarillo airplane crash - Ventura County Star",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONTU4Nm9mV0hDT1JoVElVRzNaeWNuUldNSkxtNGNyeGFPY1djbTQ4WXdqNXFYNXlqOXFXT2VRcE1adjF6OUZRYU1mV25kUGZ0Mlpjelc4NE56a1ROVnk4cTdtUXVQWUV4SHVNUHRlc2hnVk9SM2gxYTJOeG15MUV2amVsUnlmZ2VxN3RWc1FQb3VOX2Y0NG1nVXRuYjZ0Z0pERUZ3cHdMOUk?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 8,
+      "location": "Camarillo, USA",
+      "latitude": 34.2167,
+      "longitude": -119.0333,
+      "detailed_analysis": "A pilot died a day after an airplane crash in Camarillo, indicating a potential high-risk event for aviation safety and security.",
+      "immediate_forecast_24h": "Investigations into the cause of the crash are likely to be ongoing, with potential disruptions to local air traffic.",
+      "strategic_outlook": "The incident may lead to increased scrutiny of aviation safety protocols and potential updates to emergency response procedures.",
+      "operational_impact": "The crash may impact local aviation operations, potentially causing delays or changes to flight schedules.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "701e15d340a077e036d25d27e6ee7525",
+    "timestamp": "2026-02-26T19:26:28.432479",
+    "original_title": "Turkish Airlines Flight TK75 from Istanbul to Vancouver Makes Emergency Landing in Vienna - Travel And Tour World",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNUVJRHpyRGJuaU1DaG1JRlVuczNWcHJ3b3pmTGRQRkpyVlpfeW9aeDBXbTZQSnZMRWxZd3FDVE1IREFfemlyTEstZERZVjZ6ZlVySVhKNmlLek9kTl8xTG10QnAxYVdhR0tVRGVVYzcxVlF3U0NhWVJrSFhPdU8wWFM1Ymd5a0VGbU1ER3gzaVRrNlg3RDJEejZQRUt2MnpIWkxQM1REc1VmRXBKc2JHcDlDNVU5MGJmeWdpYWdlTks0Vm9PdVpOTl82RjdqVUdmLXRTZg?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Vienna, Austria",
+      "latitude": 48.2082,
+      "longitude": 16.3738,
+      "detailed_analysis": "Turkish Airlines Flight TK75 from Istanbul to Vancouver made an emergency landing in Vienna due to unspecified reasons, posing a potential threat to aviation safety and security.",
+      "immediate_forecast_24h": "Investigations into the cause of the emergency landing will be conducted, and the airline's operations may be affected in the short term.",
+      "strategic_outlook": "The incident may lead to increased security measures and inspections for Turkish Airlines and other airlines operating in the region.",
+      "operational_impact": "Potential disruptions to flight schedules and passenger travel plans, with possible delays or cancellations.",
+      "proximity_alert": "YAKIN TEHDİT: Vienna International Airport (0 km)"
+    }
+  },
+  {
+    "id": "d486d81706b34c1c0f7ea4eaa75ac3f8",
+    "timestamp": "2026-02-26T19:26:31.735756",
+    "original_title": "Nearly 8,000 migrants died or vanished on routes worldwide in 2025",
+    "link": "http://www.africanews.com/2026/02/26/nearly-8000-migrants-died-or-vanished-on-routes-worldwide-in-2025/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Border",
+      "risk_score": 5,
+      "location": "Global",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "The report of nearly 8,000 migrants dying or vanishing on routes worldwide in 2025 indicates a significant risk to border security and potential disruptions to transport and logistics due to stowaways or border breaches.",
+      "immediate_forecast_24h": "Increased surveillance and security measures are expected at border crossings in the next 24 hours, potentially causing delays in cargo and personnel movement.",
+      "strategic_outlook": "The ongoing migrant crisis may lead to long-term instability and security concerns at border crossings, affecting global supply chains and requiring enhanced security protocols for cargo and personnel.",
+      "operational_impact": "Transport and logistics operations may be impacted by increased security checks, potential border closures, or rerouting of cargo and personnel, leading to delays and increased costs.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "0018a9c67ba46b6e6ccc572adf09a8d5",
+    "timestamp": "2026-02-26T19:26:33.878430",
+    "original_title": "Pakistan vows 'immediate response' after Afghanistan launches retaliatory attacks",
+    "link": "https://www.france24.com/en/asia-pacific/20260226-pakistan-vows-immediate-response-after-afghanistan-launches-retaliatory-attacks",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Border/Civil Unrest",
       "risk_score": 7,
-      "location": "Middle East",
-      "latitude": 29.5599,
-      "longitude": 47.4818,
-      "detailed_analysis": "The meeting between Iran and the US for new nuclear talks, combined with the deployment of American forces in the Middle East, increases tensions in the region and poses a threat to aviation and personnel safety.",
-      "immediate_forecast_24h": "Heightened security measures are expected in the region, with potential for increased military presence and surveillance. This may lead to disruptions in air travel and cargo transport.",
-      "strategic_outlook": "The outcome of the nuclear talks will have a significant impact on the region's stability and security. A failure to reach an agreement could lead to further escalation of tensions, while a successful agreement could lead to a reduction in tensions and improved security.",
-      "operational_impact": "Airlines and cargo operators should be prepared for potential disruptions, including flight delays or cancellations, and increased security screening. Personnel in the region should exercise caution and follow local security guidelines.",
+      "location": "Afghanistan-Pakistan border",
+      "latitude": 33.0,
+      "longitude": 70.0,
+      "detailed_analysis": "The ongoing border clashes between Afghanistan and Pakistan pose a significant threat to assets, cargo, aviation, and personnel in the region. The retaliatory attacks and air strikes have resulted in loss of life and could potentially disrupt logistics and transportation.",
+      "immediate_forecast_24h": "Escalation of violence and further clashes are likely in the next 24 hours, with potential for increased military presence and aerial activity in the region.",
+      "strategic_outlook": "The long-term outlook is uncertain, but the conflict could lead to increased instability and security concerns in the region, potentially affecting trade and economic activities.",
+      "operational_impact": "The conflict may impact ground and air transportation in the region, with potential for delays, disruptions, or even closure of border crossings and airspace.",
       "proximity_alert": null
     }
   }
