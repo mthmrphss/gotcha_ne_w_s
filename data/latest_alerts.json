@@ -1,58 +1,39 @@
 [
   {
-    "id": "11599e2dad766c15dddda0a32b467f6a",
-    "timestamp": "2026-02-26T04:57:05.806752",
-    "original_title": "Man Faked Heart Attack On Delta Air Flight To Tel Aviv in Desperate Bid To Avoid Arrest Warrant",
-    "link": "https://www.paddleyourownkanoo.com/2026/02/26/man-faked-heart-attack-on-delta-air-flight-to-tel-aviv-in-desperate-bid-to-avoid-arrest-warrant/",
-    "source_name": "Paddle Your Own Kanoo",
+    "id": "d94ba54090a8792499874173de4dc9f4",
+    "timestamp": "2026-02-26T07:33:27.931506",
+    "original_title": "Live: Russia slams Ukraine with missiles and drones ahead of US-Ukraine talks",
+    "link": "https://www.france24.com/en/europe/20260226-live-russia-ukraine-missiles-drones-us-ukraine-talks",
+    "source_name": "France 24 ME",
     "ai_analysis": {
-      "category": "Crime/Aviation",
-      "risk_score": 10,
-      "location": "New York JFK to Tel Aviv",
-      "latitude": 32.1123,
-      "longitude": 34.8773,
-      "detailed_analysis": "A passenger on a Delta Air flight from New York JFK to Tel Aviv faked a heart attack in an attempt to avoid an arrest warrant, posing a potential security threat to the flight and its passengers.",
-      "immediate_forecast_24h": "The incident may lead to increased security measures on flights from the US to Israel, and potentially delayed or diverted flights.",
-      "strategic_outlook": "This incident highlights the need for enhanced passenger screening and security protocols to prevent similar attempts in the future.",
-      "operational_impact": "The incident may cause disruptions to flight schedules and operations, and potentially impact cargo transport and logistics between the US and Israel.",
-      "proximity_alert": "YAKIN TEHDİT: Ben Gurion International Airport (9 km)"
-    }
-  },
-  {
-    "id": "3af2c539b994c04e571bf1c77ed564a5",
-    "timestamp": "2026-02-26T06:05:00.420784",
-    "original_title": "Cuban Exile attack: Deliberate attempt to spur US action? - Responsible Statecraft",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FZGEwZGhtbmNfbTJSSHpvWkFDZVlNekpKQnp6N1liLW11OFpybkdyZ2dYQ05KdUdTMjhSQkNnLUdyWEVKaG9MNUl3TWdGbV9XM0ZLU1BaRDkwUQ?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Terrorism/Conflict",
-      "risk_score": 10,
-      "location": "Havana, Cuba",
-      "latitude": 23.1333,
-      "longitude": -82.3667,
-      "detailed_analysis": "A deliberate attack by Cuban exiles may be an attempt to provoke a US response, potentially destabilizing the region and affecting aviation and cargo operations.",
-      "immediate_forecast_24h": "Increased tensions between the US and Cuba, potential for retaliatory actions, and heightened security measures at airports and ports.",
-      "strategic_outlook": "Long-term implications for US-Cuba relations, potential for increased militant activity, and impact on regional stability.",
-      "operational_impact": "Possible disruptions to air travel and cargo shipments, enhanced security protocols, and increased scrutiny of personnel and assets.",
-      "proximity_alert": "YAKIN TEHDİT: José Martí International Airport (16 km)"
-    }
-  },
-  {
-    "id": "5fbe9364572617b0f897cf360c8977ca",
-    "timestamp": "2026-02-26T06:05:05.564208",
-    "original_title": "North Korea's Kim promises more nuclear weapons as Congress closes with military parade",
-    "link": "https://www.reddit.com/r/worldnews/comments/1rf209e/north_koreas_kim_promises_more_nuclear_weapons_as/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict/Terrorism",
+      "category": "Conflict/Aviation",
       "risk_score": 8,
-      "location": "Pyongyang, North Korea",
-      "latitude": 39.0392,
-      "longitude": 125.7625,
-      "detailed_analysis": "North Korea's Kim has promised to develop more nuclear weapons, posing a significant threat to regional and global security. This development could lead to increased tensions and potential conflict, affecting aviation and cargo operations in the region.",
-      "immediate_forecast_24h": "Increased military activity and heightened alertness in the region, potentially disrupting air traffic and cargo operations.",
-      "strategic_outlook": "Long-term escalation of tensions between North Korea and other nations, potentially leading to conflict and significant disruptions to global supply chains and aviation operations.",
-      "operational_impact": "Potential disruptions to air traffic and cargo operations in the region, increased security measures, and possible restrictions on flights and cargo shipments to and from North Korea.",
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "Russia's missile and drone attacks on Ukraine pose a significant threat to aviation and personnel, with potential for escalation and impact on logistics and transport operations.",
+      "immediate_forecast_24h": "Increased tensions and potential for further attacks ahead of US-Ukraine talks, with possible disruptions to air traffic and ground transportation.",
+      "strategic_outlook": "Long-term conflict could lead to sustained disruptions to supply chains, increased security measures, and potential for further escalation, affecting regional stability and global trade.",
+      "operational_impact": "Potential for flight delays or cancellations, increased security screening, and disruptions to cargo transport, with possible rerouting of flights and cargo shipments to avoid conflict zones.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "24741dd00c8e2204a76c7493ef4ea6a8",
+    "timestamp": "2026-02-26T07:33:29.783918",
+    "original_title": "Live: US-Iran to hold third round of talks as Trump deploys warships in Mideast",
+    "link": "https://www.france24.com/en/middle-east/20260226-live-us-iran-third-round-talks-trump-warships-mideast",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Middle East",
+      "latitude": 29.7604,
+      "longitude": 47.4818,
+      "detailed_analysis": "The deployment of US warships and military aircraft to the Middle East amid indirect talks between the US and Iran increases tensions and poses a threat to aviation and personnel in the region.",
+      "immediate_forecast_24h": "Escalation of tensions between the US and Iran, potentially affecting air travel and cargo operations in the region.",
+      "strategic_outlook": "Prolonged conflict or increased military presence in the Middle East could lead to long-term disruptions in air travel, cargo transport, and regional stability.",
+      "operational_impact": "Potential delays or cancellations of flights, increased security measures for cargo and personnel, and heightened risk of aviation-related incidents.",
       "proximity_alert": null
     }
   }

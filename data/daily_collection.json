@@ -321,5 +321,43 @@
       "operational_impact": "Potential disruptions to air traffic and cargo operations in the region, increased security measures, and possible restrictions on flights and cargo shipments to and from North Korea.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "d94ba54090a8792499874173de4dc9f4",
+    "timestamp": "2026-02-26T07:33:27.931506",
+    "original_title": "Live: Russia slams Ukraine with missiles and drones ahead of US-Ukraine talks",
+    "link": "https://www.france24.com/en/europe/20260226-live-russia-ukraine-missiles-drones-us-ukraine-talks",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "Russia's missile and drone attacks on Ukraine pose a significant threat to aviation and personnel, with potential for escalation and impact on logistics and transport operations.",
+      "immediate_forecast_24h": "Increased tensions and potential for further attacks ahead of US-Ukraine talks, with possible disruptions to air traffic and ground transportation.",
+      "strategic_outlook": "Long-term conflict could lead to sustained disruptions to supply chains, increased security measures, and potential for further escalation, affecting regional stability and global trade.",
+      "operational_impact": "Potential for flight delays or cancellations, increased security screening, and disruptions to cargo transport, with possible rerouting of flights and cargo shipments to avoid conflict zones.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "24741dd00c8e2204a76c7493ef4ea6a8",
+    "timestamp": "2026-02-26T07:33:29.783918",
+    "original_title": "Live: US-Iran to hold third round of talks as Trump deploys warships in Mideast",
+    "link": "https://www.france24.com/en/middle-east/20260226-live-us-iran-third-round-talks-trump-warships-mideast",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Middle East",
+      "latitude": 29.7604,
+      "longitude": 47.4818,
+      "detailed_analysis": "The deployment of US warships and military aircraft to the Middle East amid indirect talks between the US and Iran increases tensions and poses a threat to aviation and personnel in the region.",
+      "immediate_forecast_24h": "Escalation of tensions between the US and Iran, potentially affecting air travel and cargo operations in the region.",
+      "strategic_outlook": "Prolonged conflict or increased military presence in the Middle East could lead to long-term disruptions in air travel, cargo transport, and regional stability.",
+      "operational_impact": "Potential delays or cancellations of flights, increased security measures for cargo and personnel, and heightened risk of aviation-related incidents.",
+      "proximity_alert": null
+    }
   }
 ]
