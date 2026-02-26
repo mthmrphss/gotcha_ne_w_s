@@ -454,5 +454,62 @@
       "operational_impact": "Potential delays in luggage handling and screening, increased security measures for cargo and passenger luggage, and heightened awareness among travelers and security personnel.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "e238a272f76a330e08f10e6dcb3224fd",
+    "timestamp": "2026-02-26T10:00:41.517411",
+    "original_title": "US-Iran talks live: Nuclear talks kick off in Geneva amid tensions - Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNazdkeDFrcTFVUnBMSTZ1cmRIaGsxSGNqNEVoZnlWaUFCeEpmV2FJUWVndk42WlY5c0NjYXlOdXpxTmI5WUxKRkkyd2dYazVxcm5DZ19ITzdkemZ1WmpiVGRVN0RsaXFfbjRCRjd0Sk92SEU3NlBDZVJHZ3phNnMxaGZqWE0xakVuZU5TaEpFSHVNRTZ6QW1rcWRlaFFNN2ZnQ3dXRVVFdkdsSlRFWFhtRHN6OVdGODcxVXfSAb8BQVVfeXFMTW85bGd2T0FZNFlVUFM5TVBaMkEyVXJFaDVDa3U5dW9XNXE1NjF5NzJ3WE1GLWNmM09nd2g0ZFpHREhxV2FaQmxYdmVnWktpTXB0Z3Vzd0Nma3pqRnhRRllfemtsTjVrMkpETUNpT2JFVkdycVE2SXpkTlcwZnNmMlB4UVdheFM4XzBUeklQZWJUOEJzZ3o2clptZHhHNzJMWVBZblhOSkJCaU5paWFaQU5mcVJfN0R6Z3Z3Wlk5VkE?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Geneva, Switzerland",
+      "latitude": 46.2044,
+      "longitude": 6.1432,
+      "detailed_analysis": "US-Iran nuclear talks have begun in Geneva, which may lead to increased tensions and potential disruptions to global aviation and logistics. The talks' outcome could impact regional stability and affect transport operations.",
+      "immediate_forecast_24h": "Tensions between the US and Iran may escalate in the short term, potentially affecting air travel and cargo operations in the region.",
+      "strategic_outlook": "A long-term resolution to the US-Iran conflict could lead to increased stability in the region, benefiting global trade and transport. However, failure to reach an agreement may result in prolonged tensions and potential disruptions to logistics and aviation.",
+      "operational_impact": "Potential disruptions to air travel and cargo operations in the region, increased security measures at airports and logistics hubs, and possible delays or cancellations of flights and shipments.",
+      "proximity_alert": "YAKIN TEHDİT: Geneva Airport (4 km)"
+    }
+  },
+  {
+    "id": "845dac78ad1650586e3d653936867468",
+    "timestamp": "2026-02-26T10:00:44.763136",
+    "original_title": "Passenger flight in emergency over UK after 'crisis on board' sparks landing - Daily Star",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUVVva3hxME90d2s1bTVQQ0FvdVI5a29idjQ1ZUQtRTVnSWU1bnpwazdNdUpielZMX1NIOXlxWXdnY1IxYTRpZ1YxdHBmYzI1dGRqMTdCNGRyM1FRV2pqT0RlZ1B4MkFvMVFEVVBka2V4RGV6X2lIa3cycXhoYmxmenY5UXF3Ym94MVRGTi1VSTBFdw?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 8,
+      "location": "UK",
+      "latitude": 54.7589,
+      "longitude": -4.5729,
+      "detailed_analysis": "A passenger flight has declared an emergency over the UK due to a crisis on board, prompting an immediate landing. The nature of the crisis is not specified, but it poses a significant threat to the safety of the passengers and crew.",
+      "immediate_forecast_24h": "The situation is likely to be contained within the next 24 hours, with authorities investigating the cause of the crisis and taking necessary measures to ensure the safety of all individuals involved.",
+      "strategic_outlook": "This incident highlights the importance of aviation security and the need for robust emergency response protocols. It may lead to increased security measures and scrutiny of passenger flights in the UK.",
+      "operational_impact": "The incident may cause disruptions to flight schedules and operations, potentially affecting cargo and passenger transport in the UK. Airlines and authorities will need to take steps to mitigate these impacts and ensure the continued safety and efficiency of air travel.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "f14be8b9c998f28f200bf52e4cf15871",
+    "timestamp": "2026-02-26T10:00:48.802662",
+    "original_title": "Live: US-Iran hold third round of talks as Trump deploys warships in Mideast",
+    "link": "https://www.france24.com/en/middle-east/20260226-live-us-iran-third-round-talks-trump-warships-mideast",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Middle East",
+      "latitude": 29.7604,
+      "longitude": 47.2699,
+      "detailed_analysis": "The deployment of US warships and military aircraft to the Middle East amid indirect talks between the US and Iran increases tensions and poses a significant threat to aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Escalation of tensions may lead to increased military presence, potentially disrupting air traffic and cargo shipments in the region.",
+      "strategic_outlook": "Prolonged conflict or heightened tensions could lead to long-term disruptions in global supply chains, affecting trade and economic stability.",
+      "operational_impact": "Potential for flight restrictions, cargo delays, and increased security measures for personnel and assets in the region.",
+      "proximity_alert": null
+    }
   }
 ]
