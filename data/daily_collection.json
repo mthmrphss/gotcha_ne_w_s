@@ -74,5 +74,81 @@
       "operational_impact": "Aviation and logistics operations in the region shouldn't be conducted without extreme caution, with a high risk of disruption or attack. Cargo and personnel should be diverted to alternative routes or hubs to minimize exposure to the conflict zone.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "4e2e3e477cf3a469a900c55861b59e6c",
+    "timestamp": "2026-02-26T21:57:27.454636",
+    "original_title": "Afghanistan launches military strikes on Pakistan in retaliation for earlier airstrikes - The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNFo0dUloWVQzNzNYU0xLbjljZmFGLWRFd0FFejAxdE5nbTFmdzhQZE1USURXbHRMU1pBT2F1SkNlck1IYTh4Zk1mUldKVGNhb2NfYkx0R3dkbl9EX0NXZGlFVzJKQzJINjVRQ1JiMV9TOFhPak9takdlUThjSU9HYlJ3dXAxdDlTZ090VEJEclJ4OUJaSW9LTUoybHBfNkdfc0NjWkM0N3BvNk5JOXgxMWxvVVpZNEVmdnlEalVFUHAtQTRyMHc?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Afghanistan-Pakistan border",
+      "latitude": 33.0,
+      "longitude": 70.0,
+      "detailed_analysis": "Afghanistan has launched military strikes on Pakistan in retaliation for earlier airstrikes, indicating a significant escalation of conflict between the two nations. This could lead to increased instability and security threats in the region, affecting aviation, cargo, and personnel.",
+      "immediate_forecast_24h": "Increased military activity and potential for further retaliation are expected in the short term, with possible disruptions to air traffic and logistics in the region.",
+      "strategic_outlook": "The long-term implications of this conflict could include prolonged instability, increased security measures, and potential for spillover into neighboring countries, affecting regional transport and logistics.",
+      "operational_impact": "Potential disruptions to air traffic, increased security checks, and possible restrictions on cargo transport are expected, with aviation and logistics operations in the region likely to be impacted.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "761b084ebfdc44926b12e1d4ed94e666",
+    "timestamp": "2026-02-26T21:57:33.346401",
+    "original_title": "Pentagon’s Kamikaze Drone Unit Ready for Possible Iran Strikes, Officials Say",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rfnppx/pentagons_kamikaze_drone_unit_ready_for_possible/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Iran, Middle East",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The Pentagon's kamikaze drone unit is ready for possible strikes against Iran, indicating a heightened state of military readiness and potential for conflict. This could lead to increased tensions and instability in the region, posing a risk to aviation and logistics operations.",
+      "immediate_forecast_24h": "Increased military activity and heightened alertness in the region, potential for drone strikes or other military operations against Iranian targets.",
+      "strategic_outlook": "Long-term escalation of conflict between the US and Iran, potentially drawing in other regional actors and affecting global oil prices, trade, and security.",
+      "operational_impact": "Potential disruption to air traffic and logistics operations in the region, increased security measures for aviation and cargo, possible rerouting of flights and shipments to avoid conflict zones.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "6f3a33d92e15d131dfe6e7d31544123f",
+    "timestamp": "2026-02-26T21:57:36.778630",
+    "original_title": "Why former Karabakh official Ruben Vardanyan isn't appealing his 20-year prison term in Azerbaijan",
+    "link": "https://www.france24.com/en/video/20260226-why-former-karabakh-official-ruben-vardanyan-isn-t-appealing-his-20-year-prison-term-in-azerbaijan",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Baku, Azerbaijan",
+      "latitude": 40.3952,
+      "longitude": 49.8824,
+      "detailed_analysis": "The imprisonment of Ruben Vardanyan, a former Karabakh official, may lead to increased tensions between Armenia and Azerbaijan, potentially affecting regional stability and transport logistics.",
+      "immediate_forecast_24h": "No immediate escalation expected, but the situation will be closely monitored for potential unrest or protests.",
+      "strategic_outlook": "The long-term impact of Vardanyan's imprisonment on the region's stability and transport infrastructure will depend on the response of the international community and the actions of the Azerbaijani government.",
+      "operational_impact": "Potential disruptions to transport and logistics in the region, particularly for cargo and personnel traveling between Armenia and Azerbaijan.",
+      "proximity_alert": "YAKIN TEHDİT: Heydar Aliyev International Airport (16 km)"
+    }
+  },
+  {
+    "id": "22e463a87ae3c9370793db88397e61a1",
+    "timestamp": "2026-02-26T21:57:38.619947",
+    "original_title": "Denmark calls an early election following tense US-Greenland standoff",
+    "link": "https://www.france24.com/en/denmark-calls-an-early-election-following-tense-us-greenland-standoff",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Copenhagen, Denmark",
+      "latitude": 55.6761,
+      "longitude": 12.5683,
+      "detailed_analysis": "Denmark's early election due to tensions with the US and Russia may lead to civil unrest, but no direct threat to assets, cargo, aviation, or personnel is reported.",
+      "immediate_forecast_24h": "Tensions may escalate, but no significant disruptions to transport or logistics are expected in the short term.",
+      "strategic_outlook": "The situation may lead to long-term diplomatic tensions between Denmark and the US, potentially affecting trade and economic relationships.",
+      "operational_impact": "No immediate operational impact on transport or logistics is anticipated, but the situation will be monitored for potential future disruptions.",
+      "proximity_alert": "YAKIN TEHDİT: Copenhagen Airport (1 km)"
+    }
   }
 ]
