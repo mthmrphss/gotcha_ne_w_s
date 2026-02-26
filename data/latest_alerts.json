@@ -1,40 +1,21 @@
 [
   {
-    "id": "ce46b8974360004fcdd1794741885149",
-    "timestamp": "2026-02-26T02:42:37.431227",
-    "original_title": "Florida Boat in Gunfight Had Cuban Nationals Intent on ‘Infiltration,’ Cuba Says",
-    "link": "https://www.nytimes.com/live/2026/02/25/world/cuba-speedboat-florida-deaths",
-    "source_name": "NewYork Times",
+    "id": "11599e2dad766c15dddda0a32b467f6a",
+    "timestamp": "2026-02-26T04:57:05.806752",
+    "original_title": "Man Faked Heart Attack On Delta Air Flight To Tel Aviv in Desperate Bid To Avoid Arrest Warrant",
+    "link": "https://www.paddleyourownkanoo.com/2026/02/26/man-faked-heart-attack-on-delta-air-flight-to-tel-aviv-in-desperate-bid-to-avoid-arrest-warrant/",
+    "source_name": "Paddle Your Own Kanoo",
     "ai_analysis": {
-      "category": "Border/Conflict",
-      "risk_score": 6,
-      "location": "Cuba",
-      "latitude": 22.0,
-      "longitude": -79.0,
-      "detailed_analysis": "A gunfight occurred near the Cuban coast involving a Florida boat with Cuban nationals on board, resulting in four deaths and six injuries. The incident suggests an attempted infiltration, which poses a risk to border security and personnel.",
-      "immediate_forecast_24h": "Increased security measures are expected along the Cuban coast, potentially disrupting maritime traffic and cargo operations. The situation may escalate if further infiltration attempts are made.",
-      "strategic_outlook": "The incident highlights the ongoing tensions and security concerns in the region, which may lead to increased military presence and surveillance. This could impact maritime trade and travel in the long term.",
-      "operational_impact": "Maritime cargo and personnel may face delays or disruptions due to enhanced security checks and potential naval blockades. Aviation operations are unlikely to be directly affected, but increased security measures at airports and seaports may cause minor disruptions.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "a611f471e27409c733ddc72372397ade",
-    "timestamp": "2026-02-26T02:42:42.896525",
-    "original_title": "Cuba coast guard kills 4 on Florida-registered boat",
-    "link": "https://www.france24.com/en/cuba-coast-guard-kills-4-on-florida-registered-boat",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict/Crime",
-      "risk_score": 6,
-      "location": "Cayo Falcones, Cuba",
-      "latitude": 23.183333,
-      "longitude": -80.933333,
-      "detailed_analysis": "A Florida-registered speed boat opened fire on Cuban coast guard officers in Cuban waters, resulting in the death of four people. The incident highlights the potential for violence and conflict in the region, posing a risk to maritime assets and personnel.",
-      "immediate_forecast_24h": "Increased tensions between Cuba and the US, potential for further incidents in the region. Enhanced security measures may be implemented by Cuban authorities.",
-      "strategic_outlook": "Long-term implications for maritime trade and security in the region, potential for increased military presence or patrols. The incident may also impact diplomatic relations between Cuba and the US.",
-      "operational_impact": "Potential disruption to maritime transport and logistics in the region, increased risk of violence or conflict for vessels operating in Cuban waters.",
-      "proximity_alert": null
+      "category": "Crime/Aviation",
+      "risk_score": 10,
+      "location": "New York JFK to Tel Aviv",
+      "latitude": 32.1123,
+      "longitude": 34.8773,
+      "detailed_analysis": "A passenger on a Delta Air flight from New York JFK to Tel Aviv faked a heart attack in an attempt to avoid an arrest warrant, posing a potential security threat to the flight and its passengers.",
+      "immediate_forecast_24h": "The incident may lead to increased security measures on flights from the US to Israel, and potentially delayed or diverted flights.",
+      "strategic_outlook": "This incident highlights the need for enhanced passenger screening and security protocols to prevent similar attempts in the future.",
+      "operational_impact": "The incident may cause disruptions to flight schedules and operations, and potentially impact cargo transport and logistics between the US and Israel.",
+      "proximity_alert": "YAKIN TEHDİT: Ben Gurion International Airport (9 km)"
     }
   }
 ]
