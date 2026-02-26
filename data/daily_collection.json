@@ -777,5 +777,81 @@
       "operational_impact": "Transport and logistics operations in the region may be disrupted due to increased security risks, and assets, cargo, and personnel may be at risk of attack or kidnapping.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "531faec6071a3bc3ea70cccdef09db18",
+    "timestamp": "2026-02-26T13:50:31.297359",
+    "original_title": "New Director appointed at the Louvre after $102 million crown jewels heist",
+    "link": "http://www.africanews.com/2026/02/26/new-director-appointed-at-the-louvre-after-102-million-crown-jewels-heist/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Crime",
+      "risk_score": 10,
+      "location": "Paris, France",
+      "latitude": 48.8603,
+      "longitude": 2.2945,
+      "detailed_analysis": "A high-profile heist at the Louvre, with $102 million worth of crown jewels stolen, indicates a significant security breach. The appointment of a new director may be an attempt to address the crisis and improve security measures.",
+      "immediate_forecast_24h": "Increased security presence and investigations are expected in the short term. Potential copycat crimes or further breaches at other high-value targets cannot be ruled out.",
+      "strategic_outlook": "The long-term impact on the Louvre and similar institutions may include enhanced security protocols, potentially affecting visitor experiences and logistics. The incident highlights the need for robust security measures to protect valuable assets.",
+      "operational_impact": "The heist may lead to increased scrutiny of security procedures in museums and high-value cargo transport, potentially resulting in more stringent protocols and checks for logistics and transport operations.",
+      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (1 km)"
+    }
+  },
+  {
+    "id": "d79bfec128087865249105eb12ef2334",
+    "timestamp": "2026-02-26T13:50:33.324007",
+    "original_title": "DRC: At least nine killed in drone strike that killed M23 spokesperson",
+    "link": "http://www.africanews.com/2026/02/26/drc-at-least-nine-killed-in-drone-strike-that-killed-m23-spokesperson/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Rubaya, Democratic Republic of Congo",
+      "latitude": -1.6333,
+      "longitude": 29.1667,
+      "detailed_analysis": "A drone strike near the Rubaya mining site killed M23 military spokesperson Willy Ngoma and nine others, missing the movement's military commander. This event poses a significant threat to aviation and personnel in the region.",
+      "immediate_forecast_24h": "Increased tensions and potential for retaliatory attacks in the region, with possible disruptions to aviation and logistics operations.",
+      "strategic_outlook": "Long-term instability in the region may lead to sustained conflict, affecting cargo and personnel security, and potentially impacting regional aviation and logistics operations.",
+      "operational_impact": "Potential disruptions to mining and logistics operations in the region, with increased security measures recommended for personnel and cargo, and heightened vigilance for aviation operations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "3e09d82da7e9a49b56d1060dfa48c712",
+    "timestamp": "2026-02-26T13:50:35.476564",
+    "original_title": "France sentences Iranian woman to one year in prison for justifying terrorism",
+    "link": "https://www.france24.com/en/france/20260226-france-sentences-iranian-woman-to-one-year-in-prison-for-justifying-terrorism",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict",
+      "risk_score": 10,
+      "location": "Paris, France",
+      "latitude": 48.8567,
+      "longitude": 2.3508,
+      "detailed_analysis": "An Iranian woman was sentenced to one year in prison for justifying terrorism, which could impact France's negotiations with Tehran for the release of detained French nationals and potentially escalate tensions between the two countries.",
+      "immediate_forecast_24h": "Increased diplomatic tensions between France and Iran, potential for retaliatory actions or statements from Iranian authorities.",
+      "strategic_outlook": "Long-term implications for French-Iranian relations, potential impact on regional stability and global security, particularly in the context of terrorism and geopolitical conflicts.",
+      "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics between France and Iran, as well as increased security measures at French airports and transportation hubs.",
+      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (2 km)"
+    }
+  },
+  {
+    "id": "b8957951031e40b42197e76d63cc1919",
+    "timestamp": "2026-02-26T13:50:38.769529",
+    "original_title": "Alleged Pervert Nuzzled Face Into Woman’s Breasts On Alaska Airlines Flight From Portland As She Tried To Fight Him Off",
+    "link": "https://www.paddleyourownkanoo.com/2026/02/26/alleged-pervert-nuzzled-face-into-womans-breasts-on-alaska-airlines-flight-from-portland-as-she-tried-to-fight-him-off/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Crime/Aviation",
+      "risk_score": 6,
+      "location": "Portland, USA",
+      "latitude": 45.5236,
+      "longitude": -122.675,
+      "detailed_analysis": "Alleged sexual assault on Alaska Airlines flight from Portland to Anchorage, perpetrator arrested on arrival",
+      "immediate_forecast_24h": "Increased security measures may be implemented on Alaska Airlines flights, potential for similar incidents to be reported",
+      "strategic_outlook": "Long-term impact on airline's reputation and passenger trust, potential for updated policies on in-flight safety and security",
+      "operational_impact": "Minimal disruption to flights, but potential for increased security checks and passenger screening",
+      "proximity_alert": null
+    }
   }
 ]
