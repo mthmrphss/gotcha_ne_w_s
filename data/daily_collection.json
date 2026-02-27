@@ -93,5 +93,62 @@
       "operational_impact": "Potential disruption to transport and logistics operations in the region, with increased risk to personnel and assets.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "22c3eb8314c734c4874dc010c54139f4",
+    "timestamp": "2026-02-27T22:31:42.631442",
+    "original_title": "Ukraine says Russia launched a major aerial attack before Kyiv’s talks with US",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rgkjqb/ukraine_says_russia_launched_a_major_aerial/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 10,
+      "location": "Kyiv, Ukraine",
+      "latitude": 50.4501,
+      "longitude": 30.5236,
+      "detailed_analysis": "A major aerial attack was launched by Russia before Ukraine's talks with the US, indicating heightened tensions and potential for further military action",
+      "immediate_forecast_24h": "Increased military activity and potential for further aerial attacks, impacting air traffic and transport in the region",
+      "strategic_outlook": "Long-term escalation of conflict, potentially affecting global supply chains and logistics, with increased risk to aviation and personnel",
+      "operational_impact": "Disruption to air traffic, potential for airspace closures, and increased security measures for transport and logistics in the region",
+      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
+    }
+  },
+  {
+    "id": "2d332c141c96045834125b0d1f970c3e",
+    "timestamp": "2026-02-27T22:31:44.703076",
+    "original_title": "At least 55 Ghanaians killed fighting for Russia in Ukraine war, minister says",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rgkizc/at_least_55_ghanaians_killed_fighting_for_russia/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "At least 55 Ghanaians have been killed fighting for Russia in the Ukraine war, indicating a significant escalation of foreign involvement in the conflict. This development poses a substantial risk to personnel and assets in the region.",
+      "immediate_forecast_24h": "The situation is likely to remain volatile, with potential for further clashes and escalation of the conflict. There may be increased military activity and movement of personnel and equipment in the region.",
+      "strategic_outlook": "The long-term outlook for the region remains uncertain, with the potential for a protracted and bloody conflict. The involvement of foreign fighters and the escalation of the conflict pose significant risks to regional stability and global security.",
+      "operational_impact": "The conflict in Ukraine poses significant risks to transport and logistics operations in the region, including the potential for disruption to supply chains, damage to infrastructure, and risks to personnel and assets.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "62f5d74cf22ab8cdc1cb62462f7de71a",
+    "timestamp": "2026-02-27T22:31:47.230885",
+    "original_title": "Guinea releases 16 Sierra Leonean soldiers arrested earlier this week",
+    "link": "http://www.africanews.com/2026/02/27/guinea-releases-16-sierra-leonean-soldiers-arrested-earlier-this-week/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Border",
+      "risk_score": 10,
+      "location": "Conakry, Guinea",
+      "latitude": 9.5379,
+      "longitude": -13.6773,
+      "detailed_analysis": "The release of 16 Sierra Leonean soldiers by Guinea indicates a potential de-escalation of the recent border dispute. However, the unauthorized entry of armed troops into Guinea may lead to increased tensions and potential future conflicts.",
+      "immediate_forecast_24h": "The situation is likely to remain stable in the short term, with both countries potentially engaging in diplomatic efforts to resolve the dispute.",
+      "strategic_outlook": "The long-term outlook is uncertain, with the potential for recurring border disputes and conflicts between Guinea and Sierra Leone. This could impact regional stability and affect transport and logistics operations.",
+      "operational_impact": "The conflict may impact land and air transport operations between Guinea and Sierra Leone, potentially leading to delays or disruptions in cargo and personnel movement.",
+      "proximity_alert": "YAKIN TEHDİT: Conakry International Airport (8 km)"
+    }
   }
 ]
