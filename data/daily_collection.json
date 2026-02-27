@@ -1575,5 +1575,81 @@
       "operational_impact": "Potential disruptions to air travel, increased security checks, and possible restrictions on cargo movements are anticipated, with a high risk of aviation-related incidents, such as bomb threats or drone sightings, in the region.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "9c3c08f4e040a604e4910c6b962abd4b",
+    "timestamp": "2026-02-27T19:11:01.982089",
+    "original_title": "U.S. military shoots down Border Protection drone, lawmakers say - The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSlVYTlV5VWtKcDMxMWFMSmhSOTRpVDhJWkhtb29LWnYyOHNJZlFkeDUzeS00MTZfbEFMQm41X0RfMGlmRGxaakktdF9DRnBQV2Z3LVpkM1ZQd2xzTzB5d19fYTZsSWQwaWdVNEhXUFh6bGRBdHZnZEpWbHhpcHQ1bHg0aEkydzZpM3Juc1dMX1JBLTZoM1ZV?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation/Border/Conflict",
+      "risk_score": 7,
+      "location": "U.S.-Mexico Border, USA",
+      "latitude": 31.9686,
+      "longitude": -106.4414,
+      "detailed_analysis": "A U.S. military drone was shot down by the U.S. military, indicating potential airspace security concerns and possible escalation of border tensions.",
+      "immediate_forecast_24h": "Increased military presence and surveillance along the border, potential disruptions to air traffic and border crossings.",
+      "strategic_outlook": "Long-term implications for border security and aviation safety, potential for increased drone activity and military responses.",
+      "operational_impact": "Possible delays or restrictions on air traffic and border crossings, increased security measures for aviation and logistics operations in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "325355cfecdfe6e8cbeced8bd7db48d5",
+    "timestamp": "2026-02-27T19:11:08.461339",
+    "original_title": "Trump says he'd 'love not to' attack Iran, 'but sometimes you have to'",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rgevsa/trump_says_hed_love_not_to_attack_iran_but/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Iran, Middle East",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The statement by Trump indicates a potential for military conflict with Iran, which could impact aviation, cargo, and personnel in the region.",
+      "immediate_forecast_24h": "Increased tensions between the US and Iran, potential for military mobilization or retaliation",
+      "strategic_outlook": "Long-term escalation of conflict could lead to disruptions in global oil supplies, increased security measures for aviation and cargo, and heightened risk of terrorism",
+      "operational_impact": "Potential for flight restrictions, cargo delays, and increased security protocols for personnel and assets in the region",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "a4b619e303c96c9a3d95fbe12f58a967",
+    "timestamp": "2026-02-27T19:11:10.912855",
+    "original_title": "Ghana says at least 55 citizens killed fighting for Russia in Ukraine",
+    "link": "http://www.africanews.com/2026/02/27/ghana-says-at-least-55-citizens-killed-fighting-for-russia-in-ukraine/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Kyiv, Ukraine",
+      "latitude": 50.4501,
+      "longitude": 30.5236,
+      "detailed_analysis": "Ghanaian citizens fighting for Russia in Ukraine poses a significant risk to personnel and potentially to aviation, given the conflict's proximity to Ukrainian airspace and potential for escalation.",
+      "immediate_forecast_24h": "Increased tensions between Ukraine and Russia, with potential for further clashes and impact on regional stability.",
+      "strategic_outlook": "Long-term implications for global security and potential for broader conflict, with Ghana's involvement highlighting the international dimensions of the Ukraine-Russia conflict.",
+      "operational_impact": "Potential disruptions to air travel and logistics in the region, with increased security measures and possible restrictions on cargo and personnel movement.",
+      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
+    }
+  },
+  {
+    "id": "a632c1f82bae582baa5c176045fd4617",
+    "timestamp": "2026-02-27T19:11:17.797919",
+    "original_title": "Trump says 'not happy' with Iran talks, but undecided on possible military action",
+    "link": "https://www.france24.com/en/middle-east/20260227-rubio-to-hold-talks-in-israel-next-week-as-us-iran-tensions-remain-high",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "US President Donald Trump's comments on possible military action against Iran pose a significant threat to regional stability, potentially impacting aviation and cargo operations in the area.",
+      "immediate_forecast_24h": "Increased tensions between the US and Iran may lead to heightened security measures at airports and borders, potentially causing disruptions to flights and cargo shipments.",
+      "strategic_outlook": "A prolonged conflict or increased tensions between the US and Iran could have long-term implications for global trade, aviation, and cargo security, particularly in the Middle East region.",
+      "operational_impact": "Potential disruptions to air travel, cargo shipments, and logistics operations in the region, with possible delays or cancellations of flights and shipments.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
   }
 ]
