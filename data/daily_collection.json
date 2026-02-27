@@ -55,5 +55,43 @@
       "operational_impact": "Possible disruptions to flight operations, increased security measures for aircraft and personnel, potential for altered flight routes or schedules.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "29a7bbe5f212c6de5e38a260811b48db",
+    "timestamp": "2026-02-27T21:35:57.301021",
+    "original_title": "Pakistan says it is in ‘open war’ with Afghanistan as nations exchange strikes - The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWmZ0NnBLOEhNMzdJUUlXWnhFdWRpLW10eG5OWHZCT2FHM0U2dzUyVTg2enNtM0Roblg4VHdmU0s1WUUwLUNxN3hFOGdIUEdnX0t5cFNXakdIM0s4dzNYdTRlRk1OemQ4bENPSGdvOWRfbnd6aG1qV2dxZVNZdWdFQkI5ajl5WW00ZmZxY1hab2o?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "Pakistan-Afghanistan border",
+      "latitude": 33.0,
+      "longitude": 70.0,
+      "detailed_analysis": "The conflict between Pakistan and Afghanistan poses a significant threat to assets, cargo, aviation, and personnel in the region. The exchange of strikes and the declaration of 'open war' indicate a high level of hostility and instability.",
+      "immediate_forecast_24h": "Increased military activity and potential escalation of violence along the border, posing a risk to aviation and ground transportation.",
+      "strategic_outlook": "Long-term instability and conflict in the region could lead to disruptions in supply chains, increased security measures, and potential humanitarian crises.",
+      "operational_impact": "Transportation and logistics operations in the region may be severely impacted, with potential delays, disruptions, or even suspension of services due to the conflict.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "a0151f723f13d2be4537127b530b2d85",
+    "timestamp": "2026-02-27T21:36:01.857236",
+    "original_title": "55 Ghanaians killed on the battlefields of Ukraine",
+    "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20260227-55-ghanaians-killed-on-the-battlefields-of-ukraine",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "55 Ghanaians killed on the battlefields of Ukraine, indicating a high level of conflict and potential threat to personnel and assets in the region.",
+      "immediate_forecast_24h": "Continued conflict and potential for further casualties, with Ghana's Foreign Minister appealing to President Zelensky for assistance.",
+      "strategic_outlook": "Long-term instability in the region may impact global supply chains and logistics, particularly for countries with interests in Ukraine.",
+      "operational_impact": "Potential disruption to transport and logistics operations in the region, with increased risk to personnel and assets.",
+      "proximity_alert": null
+    }
   }
 ]

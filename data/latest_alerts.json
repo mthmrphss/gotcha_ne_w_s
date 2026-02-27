@@ -1,62 +1,5 @@
 [
   {
-    "id": "9caecee7e1f099854d52320261f26732",
-    "timestamp": "2026-02-27T19:55:37.474150",
-    "original_title": "Three flights from Istanbul to Tehran cancelled, airport data shows",
-    "link": "https://www.reddit.com/r/worldnews/comments/1rggaik/three_flights_from_istanbul_to_tehran_cancelled/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Aviation",
-      "risk_score": 6,
-      "location": "Istanbul, Turkey/Tehran, Iran",
-      "latitude": 41.0083,
-      "longitude": 28.975,
-      "detailed_analysis": "Three flights from Istanbul to Tehran have been cancelled, as per airport data. The reason for the cancellations is not specified, but this could potentially disrupt air travel and logistics between the two cities.",
-      "immediate_forecast_24h": "Passengers may experience delays or disruptions to their travel plans. Alternative flights or routes may be sought, and airlines may need to accommodate affected passengers.",
-      "strategic_outlook": "The cancellation of flights could be a one-time incident or a sign of a larger issue affecting air travel between Istanbul and Tehran. Monitoring the situation and assessing the root cause of the cancellations will be essential to understanding the long-term impact.",
-      "operational_impact": "The cancellation of flights may impact cargo transport, personnel travel, and overall aviation operations between the two cities. Airlines, logistics providers, and passengers should be prepared for potential disruptions and plan accordingly.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "24f271d8e333d9537e9b31f3b1c8eee5",
-    "timestamp": "2026-02-27T19:55:41.291860",
-    "original_title": "600 Passengers Were Trapped On Planes Overnight After Workers Went Home… Munich Airport Says it Will Do Better Next Time",
-    "link": "https://www.paddleyourownkanoo.com/2026/02/27/600-passengers-were-trapped-on-planes-overnight-after-workers-went-home-munich-airport-says-it-will-do-better-next-time/",
-    "source_name": "Paddle Your Own Kanoo",
-    "ai_analysis": {
-      "category": "Aviation",
-      "risk_score": 10,
-      "location": "Munich, Germany",
-      "latitude": 48.3538,
-      "longitude": 11.7862,
-      "detailed_analysis": "600 passengers were stranded overnight on planes due to a snowstorm and the unavailability of bus drivers to transport them to the terminal building. The incident highlights a gap in the airport's emergency protocols.",
-      "immediate_forecast_24h": "The airport has vowed to improve its emergency protocols to prevent such incidents in the future. No immediate threats are anticipated.",
-      "strategic_outlook": "The incident may lead to a review of emergency procedures at other airports to prevent similar incidents. It may also lead to improvements in passenger care and support during disruptions.",
-      "operational_impact": "The incident had a significant impact on the passengers involved, but it is not expected to have a long-term impact on the overall operations of the airport or the aviation industry.",
-      "proximity_alert": "YAKIN TEHDİT: Munich Airport (28 km)"
-    }
-  },
-  {
-    "id": "4f26e669cd3452c1227677cb95a07c02",
-    "timestamp": "2026-02-27T19:55:43.330299",
-    "original_title": "Security expert reveals how to make your luggage less attractive to thieves",
-    "link": "https://www.independent.co.uk/travel/news-and-advice/luggage-theft-security-tips-b2929188.html",
-    "source_name": "Independent Travel",
-    "ai_analysis": {
-      "category": "Crime",
-      "risk_score": 6,
-      "location": "Unknown, USA",
-      "latitude": 37.0902,
-      "longitude": -95.7129,
-      "detailed_analysis": "A security expert, Ed Burnett, has provided advice on how to make luggage less attractive to thieves, indicating a potential threat to cargo and passenger belongings.",
-      "immediate_forecast_24h": "Increased awareness of luggage security may lead to a temporary decrease in theft attempts, but thieves may adapt and find new targets.",
-      "strategic_outlook": "The long-term impact of this advice may lead to a reduction in luggage theft, but it is crucial to continue monitoring and adapting security measures to stay ahead of potential threats.",
-      "operational_impact": "Transport and logistics companies, particularly those in the aviation industry, should consider implementing additional security measures to protect cargo and passenger belongings from theft.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "afd8d99b6044a2bdff369bb2a136527d",
     "timestamp": "2026-02-27T20:36:58.950877",
     "original_title": "U.S. military used a laser to shoot down a Border Protection drone - The Washington Post",
@@ -110,6 +53,44 @@
       "immediate_forecast_24h": "Increased military presence and surveillance in the area, potential for further drone sightings or incidents.",
       "strategic_outlook": "Escalation of tensions between nations involved, potential for long-term impact on regional security and aviation safety.",
       "operational_impact": "Possible disruptions to flight operations, increased security measures for aircraft and personnel, potential for altered flight routes or schedules.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "29a7bbe5f212c6de5e38a260811b48db",
+    "timestamp": "2026-02-27T21:35:57.301021",
+    "original_title": "Pakistan says it is in ‘open war’ with Afghanistan as nations exchange strikes - The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWmZ0NnBLOEhNMzdJUUlXWnhFdWRpLW10eG5OWHZCT2FHM0U2dzUyVTg2enNtM0Roblg4VHdmU0s1WUUwLUNxN3hFOGdIUEdnX0t5cFNXakdIM0s4dzNYdTRlRk1OemQ4bENPSGdvOWRfbnd6aG1qV2dxZVNZdWdFQkI5ajl5WW00ZmZxY1hab2o?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "Pakistan-Afghanistan border",
+      "latitude": 33.0,
+      "longitude": 70.0,
+      "detailed_analysis": "The conflict between Pakistan and Afghanistan poses a significant threat to assets, cargo, aviation, and personnel in the region. The exchange of strikes and the declaration of 'open war' indicate a high level of hostility and instability.",
+      "immediate_forecast_24h": "Increased military activity and potential escalation of violence along the border, posing a risk to aviation and ground transportation.",
+      "strategic_outlook": "Long-term instability and conflict in the region could lead to disruptions in supply chains, increased security measures, and potential humanitarian crises.",
+      "operational_impact": "Transportation and logistics operations in the region may be severely impacted, with potential delays, disruptions, or even suspension of services due to the conflict.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "a0151f723f13d2be4537127b530b2d85",
+    "timestamp": "2026-02-27T21:36:01.857236",
+    "original_title": "55 Ghanaians killed on the battlefields of Ukraine",
+    "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20260227-55-ghanaians-killed-on-the-battlefields-of-ukraine",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "55 Ghanaians killed on the battlefields of Ukraine, indicating a high level of conflict and potential threat to personnel and assets in the region.",
+      "immediate_forecast_24h": "Continued conflict and potential for further casualties, with Ghana's Foreign Minister appealing to President Zelensky for assistance.",
+      "strategic_outlook": "Long-term instability in the region may impact global supply chains and logistics, particularly for countries with interests in Ukraine.",
+      "operational_impact": "Potential disruption to transport and logistics operations in the region, with increased risk to personnel and assets.",
       "proximity_alert": null
     }
   }
