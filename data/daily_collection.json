@@ -283,5 +283,43 @@
       "operational_impact": "Potential disruptions to air travel and logistics operations in the region, with increased security checks and possible flight restrictions, affecting cargo and personnel movement.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "36586ce4673c0709b094b5006dbde1d8",
+    "timestamp": "2026-02-28T04:07:35.147345",
+    "original_title": "Hegseth declares Anthropic a supply chain risk, restricting military contractors from doing business with AI giant - CBS News",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hN2ZRRGw0OWtGNTZ4aWFDM1NsYWk4WWJVcXNlQ1h3TlBJamRmS2VlalY1VElhTjdwMnhSS3dnaWdGTko5VVRHSndnWFhzVmlmU0E4NjJ2MmFrUEZGcXBiUW13angxUGtqdnptcERVZ2xNUjczV2RwakRXR3FCcU3SAYQBQVVfeXFMUHlrdlJCdTBJUzJRWk9LSFVoT0VLS1ZvN2dMVTl4bmp6bEw4bXVXWGFTcTJOOWFZbHV1LXNOeThsWWFxUXVuZHBUVDFjeEd0N1A4RXdlb2NQcHJIRzc1VFlnbVk3TUFfQjc5NzFkTWpNQWk2cXF5NWt1ZUVqR21sRlU5cVIw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Cyber/Conflict",
+      "risk_score": 10,
+      "location": "United States",
+      "latitude": 38.8977,
+      "longitude": -77.0365,
+      "detailed_analysis": "The US has declared Anthropic, an AI giant, a supply chain risk, restricting military contractors from doing business with the company. This move could have significant implications for the tech industry and national security.",
+      "immediate_forecast_24h": "In the short term, military contractors will need to reassess their partnerships and supply chains to ensure compliance with the new restrictions. This may lead to some disruptions in the industry.",
+      "strategic_outlook": "In the long term, this decision could lead to a shift in the way the US approaches AI development and deployment, with a greater emphasis on domestic innovation and security. It may also lead to increased tensions with countries that have significant investments in Anthropic.",
+      "operational_impact": "The restrictions on Anthropic could impact the development and deployment of AI-powered systems in the military and other critical infrastructure, potentially leading to delays or changes in operational plans.",
+      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
+    }
+  },
+  {
+    "id": "fc9a68702db8a2efa1527c55f26ba693",
+    "timestamp": "2026-02-28T04:07:40.199122",
+    "original_title": "Iran agrees to ‘never, ever’ possess bomb-grade nuclear material, says Oman FM",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rgsh2a/iran_agrees_to_never_ever_possess_bombgrade/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Nuclear Proliferation",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Iran has agreed to never possess bomb-grade nuclear material, which reduces the risk of nuclear conflict and potentially decreases tensions in the region, thereby indirectly affecting aviation and cargo security.",
+      "immediate_forecast_24h": "The agreement is expected to lead to a temporary decrease in regional tensions, but the situation remains volatile and subject to change based on geopolitical developments.",
+      "strategic_outlook": "Long-term stability in the region could lead to increased security for aviation and cargo, but the situation will require continuous monitoring due to the complex geopolitical landscape.",
+      "operational_impact": "The agreement may lead to a slight decrease in security measures for flights and cargo shipments in the region, but standard security protocols should still be maintained due to other existing threats.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
   }
 ]

@@ -1,59 +1,40 @@
 [
   {
-    "id": "c5f844a531dae44a8f96a4a05a217b56",
-    "timestamp": "2026-02-28T02:30:06.015212",
-    "original_title": "Trump advisers scramble to justify possible US military intervention in Iran - The Guardian",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ma2gxOXBoOTVMa0JxZEQzWWxWaWl2amw0Ym9oa2VTekRvNXBNLXllVElRN1hrVzlXQllMdWRFSWJVM2xGWFpyZHFTTGRYcWFqdUhYQUhMcTVKcGF5TmR1a0tEMHhadmdqcGYzYl9RbjVmSzM1R2hVUHlaMA?oc=5",
+    "id": "36586ce4673c0709b094b5006dbde1d8",
+    "timestamp": "2026-02-28T04:07:35.147345",
+    "original_title": "Hegseth declares Anthropic a supply chain risk, restricting military contractors from doing business with AI giant - CBS News",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hN2ZRRGw0OWtGNTZ4aWFDM1NsYWk4WWJVcXNlQ1h3TlBJamRmS2VlalY1VElhTjdwMnhSS3dnaWdGTko5VVRHSndnWFhzVmlmU0E4NjJ2MmFrUEZGcXBiUW13angxUGtqdnptcERVZ2xNUjczV2RwakRXR3FCcU3SAYQBQVVfeXFMUHlrdlJCdTBJUzJRWk9LSFVoT0VLS1ZvN2dMVTl4bmp6bEw4bXVXWGFTcTJOOWFZbHV1LXNOeThsWWFxUXVuZHBUVDFjeEd0N1A4RXdlb2NQcHJIRzc1VFlnbVk3TUFfQjc5NzFkTWpNQWk2cXF5NWt1ZUVqR21sRlU5cVIw?oc=5",
     "source_name": "Google News (Breaking)",
     "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 8,
-      "location": "Iran, Middle East",
-      "latitude": 32.0,
-      "longitude": 53.0,
-      "detailed_analysis": "The possibility of US military intervention in Iran poses a significant threat to regional stability, potentially affecting aviation and cargo operations in the area.",
-      "immediate_forecast_24h": "Heightened tensions and increased military presence in the region, potentially leading to disruptions in air traffic and logistics.",
-      "strategic_outlook": "A long-term conflict in the region could lead to prolonged disruptions in global supply chains, increased insurance costs, and higher risk of attacks on aviation and cargo assets.",
-      "operational_impact": "Potential for flight restrictions, cargo delays, and increased security measures for personnel and assets in the region.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "1eaee409920f459397b5fb0f1be654c2",
-    "timestamp": "2026-02-28T02:30:10.893601",
-    "original_title": "Afghanistan’s Taliban says open to talks after Pakistan bombs major cities",
-    "link": "https://www.reddit.com/r/worldnews/comments/1rgoqkb/afghanistans_taliban_says_open_to_talks_after/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict/Terrorism/Civil Unrest",
+      "category": "Cyber/Conflict",
       "risk_score": 10,
-      "location": "Kabul, Afghanistan",
-      "latitude": 34.5281,
-      "longitude": 69.1723,
-      "detailed_analysis": "The Taliban's openness to talks after Pakistan's bombing of major cities in Afghanistan indicates a potential escalation of conflict, posing a significant threat to assets, cargo, aviation, and personnel in the region.",
-      "immediate_forecast_24h": "Increased tensions and potential for further violence between the Taliban and Pakistan, with possible spillover effects on neighboring countries and regional stability.",
-      "strategic_outlook": "Long-term instability and conflict in the region could lead to increased security measures, potential border closures, and disruptions to supply chains and logistics operations.",
-      "operational_impact": "Potential disruptions to air and ground transportation, increased security protocols for cargo and personnel, and heightened risk of terrorism and violence targeting transport infrastructure and assets.",
-      "proximity_alert": "YAKIN TEHDİT: Hamid Karzai International Airport (5 km)"
+      "location": "United States",
+      "latitude": 38.8977,
+      "longitude": -77.0365,
+      "detailed_analysis": "The US has declared Anthropic, an AI giant, a supply chain risk, restricting military contractors from doing business with the company. This move could have significant implications for the tech industry and national security.",
+      "immediate_forecast_24h": "In the short term, military contractors will need to reassess their partnerships and supply chains to ensure compliance with the new restrictions. This may lead to some disruptions in the industry.",
+      "strategic_outlook": "In the long term, this decision could lead to a shift in the way the US approaches AI development and deployment, with a greater emphasis on domestic innovation and security. It may also lead to increased tensions with countries that have significant investments in Anthropic.",
+      "operational_impact": "The restrictions on Anthropic could impact the development and deployment of AI-powered systems in the military and other critical infrastructure, potentially leading to delays or changes in operational plans.",
+      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
     }
   },
   {
-    "id": "aa33038c8453af92590936cf288647f9",
-    "timestamp": "2026-02-28T02:30:12.961146",
-    "original_title": "Sources report the leader of the Taliban and Emir of Afghanistan may have been killed by a Pakistani air strike",
-    "link": "https://www.reddit.com/r/worldnews/comments/1rgop6s/sources_report_the_leader_of_the_taliban_and_emir/",
+    "id": "fc9a68702db8a2efa1527c55f26ba693",
+    "timestamp": "2026-02-28T04:07:40.199122",
+    "original_title": "Iran agrees to ‘never, ever’ possess bomb-grade nuclear material, says Oman FM",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rgsh2a/iran_agrees_to_never_ever_possess_bombgrade/",
     "source_name": "Reddit r/WorldNews",
     "ai_analysis": {
-      "category": "Conflict/Terrorism/Aviation",
-      "risk_score": 8,
-      "location": "Afghanistan/Pakistan",
-      "latitude": 33.9391,
-      "longitude": 67.7101,
-      "detailed_analysis": "Reports indicate the leader of the Taliban and Emir of Afghanistan may have been killed by a Pakistani air strike, which could lead to increased instability and retaliatory actions in the region, potentially affecting aviation and logistics operations.",
-      "immediate_forecast_24h": "Heightened security measures are expected in the region, with potential for increased military activity and unrest, which may impact flight operations and ground transportation.",
-      "strategic_outlook": "The death of the Taliban leader could lead to a power vacuum, potentially destabilizing the region further and increasing the risk of terrorist attacks, which would have long-term implications for aviation security and logistics operations.",
-      "operational_impact": "Potential disruptions to air travel and logistics operations in the region, with increased security checks and possible flight restrictions, affecting cargo and personnel movement.",
-      "proximity_alert": null
+      "category": "Conflict/Nuclear Proliferation",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Iran has agreed to never possess bomb-grade nuclear material, which reduces the risk of nuclear conflict and potentially decreases tensions in the region, thereby indirectly affecting aviation and cargo security.",
+      "immediate_forecast_24h": "The agreement is expected to lead to a temporary decrease in regional tensions, but the situation remains volatile and subject to change based on geopolitical developments.",
+      "strategic_outlook": "Long-term stability in the region could lead to increased security for aviation and cargo, but the situation will require continuous monitoring due to the complex geopolitical landscape.",
+      "operational_impact": "The agreement may lead to a slight decrease in security measures for flights and cargo shipments in the region, but standard security protocols should still be maintained due to other existing threats.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
     }
   }
 ]
