@@ -2145,5 +2145,43 @@
       "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics operations in the region. Airlines and cargo operators may need to reroute flights or suspend operations due to the conflict, while ground transport may also be affected by increased security measures and potential unrest.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "d6437aaefd276b99ba31996133b5d83f",
+    "timestamp": "2026-03-01T17:50:33.465591",
+    "original_title": "Trump Stays Out of Public View After U.S. Launches Military Assault on Iran - The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNY09ablU0MWkxaW5OMldOdk0zdW5NS1QwZFVaN01jMmV5XzdLalMxYVdGeEsxZlJNbFBGaG9xbjZiU1M4aWJtaDI3YnhkbFRFdkZ1aXFkWXlXanpqanpQbEg0OUFtZTRMaF9oWUNYOWxNb2FOZlZoa2dFOFhWc25NNWtQbU0?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Iran, Middle East",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The U.S. launch of a military assault on Iran poses a significant threat to regional stability, potentially impacting aviation and cargo operations in the area.",
+      "immediate_forecast_24h": "Increased tensions and potential retaliation from Iran, affecting air traffic and logistics in the region.",
+      "strategic_outlook": "Long-term escalation of conflict could lead to prolonged disruptions in air travel, cargo transport, and personnel movement in the Middle East.",
+      "operational_impact": "Potential for flight restrictions, cargo delays, and increased security measures for personnel and assets in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "bb3b9a7b19dceb42fa03be4ab49870aa",
+    "timestamp": "2026-03-01T17:56:50.960542",
+    "original_title": "Thousands of flights disrupted as travel chaos deepens after Iran hits airports",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/dubai-flights-abu-dhabi-latest-b2929664.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 10,
+      "location": "Dubai, UAE",
+      "latitude": 25.2522,
+      "longitude": 55.3644,
+      "detailed_analysis": "Iran's attacks on airports in the region, including Dubai International Airport, Abu Dhabi, and Kuwait, have caused significant disruptions to flights and pose a substantial threat to aviation safety and security.",
+      "immediate_forecast_24h": "Further disruptions to flights and potential escalation of conflict in the region, leading to increased security measures and possible airspace restrictions.",
+      "strategic_outlook": "Long-term impact on regional aviation and logistics, potential for increased tensions between countries, and heightened security protocols at airports.",
+      "operational_impact": "Significant disruptions to air travel, potential delays and cancellations, increased security screening, and possible rerouting of flights to avoid affected areas.",
+      "proximity_alert": "YAKIN TEHDİT: DUBAİ (26 km)"
+    }
   }
 ]
