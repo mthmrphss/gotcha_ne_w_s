@@ -93,5 +93,43 @@
       "operational_impact": "Possible disruptions to air traffic, increased security screening, potential for cargo delays or diversions, heightened risk of terrorism or sabotage targeting aviation and logistics assets.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "08c9d8c82f305d1af2961f3c6f4cba18",
+    "timestamp": "2026-03-01T21:50:17.160521",
+    "original_title": "Attack on Iran may have motivated man who killed 2 in Austin, officials say - The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbm85SFJybTJGZWxvYUFlc3lMS0xwanVIZDh5OEJhUEF5MFZzSWYyMXBSWVlYVlVYZ0JjYU9BaE9vQmFOWXYtSnFiTHY1NVV4MzhMRThFQmlxUW5taFQtX29jRnUzV1F2UGszTEN5QXk4bWZRWDN1SVdCMUh4ZU9XVmJVTUdoRzVZcVFVdTJNSTVQa28yNnNZ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism/Crime",
+      "risk_score": 6,
+      "location": "Austin, USA",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "detailed_analysis": "A motivated individual killed 2 people in Austin, with officials suggesting the attack may have been motivated by the attack on Iran, indicating a potential terrorism-related incident with implications for public safety and security.",
+      "immediate_forecast_24h": "Increased security measures are likely to be implemented in public areas, and law enforcement may be on high alert for potential copycat incidents or retaliatory attacks.",
+      "strategic_outlook": "The incident highlights the potential for geopolitical events to inspire or motivate individuals to commit violent acts, underscoring the need for continued vigilance and intelligence gathering to prevent such incidents.",
+      "operational_impact": "The attack may lead to increased security checks and protocols in public areas, potentially affecting the movement of people and goods, but the overall impact on transport and logistics is expected to be minimal.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "196b09ab06ae5e3777435730fa6568e0",
+    "timestamp": "2026-03-01T21:50:30.075792",
+    "original_title": "‘War of choice’: Trump says Iran was preparing attack but has provided no evidence - Politico",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOb0E1eHJtREJKSGxjblBFSDllMU5ZRU5yelg4WDg2VzA5N21RamFLRXRpTmt1UXFiR05RaGNtYzVJVFR3TDg4UmxPRlZzZTFXbHRNQXRYVGVMVmQ0cmt3QXZ2d05ONzZrNEE5MWpOb0NGMm4tc2pPQzRYUEd4NFhxTlUzdWxSNTRlczZVcHNuV3JzckU?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Iran, Middle East",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The US President has stated that Iran was preparing an attack, which could lead to increased tensions and potential conflict in the region, affecting aviation and cargo operations.",
+      "immediate_forecast_24h": "Heightened security measures and increased military presence in the region are expected, with potential disruptions to air traffic and cargo shipments.",
+      "strategic_outlook": "A prolonged conflict could lead to significant disruptions to global supply chains, increased insurance costs, and potential losses for companies operating in the region.",
+      "operational_impact": "Aviation and cargo operations in the region may be affected, with potential delays, cancellations, or rerouting of flights and shipments.",
+      "proximity_alert": null
+    }
   }
 ]
