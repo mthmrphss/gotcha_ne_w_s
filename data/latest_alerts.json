@@ -93,5 +93,81 @@
       "operational_impact": "Aviation and cargo operations in the region may be affected, with potential delays, cancellations, or rerouting of flights and shipments.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "87f4c6f5e574646d13041ae180e5f353",
+    "timestamp": "2026-03-01T22:31:57.117672",
+    "original_title": "Republicans use Iran strikes to pressure Dems in DHS funding fight - Politico",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQS2NUczRCOFpfRm4yVm55TGFnMm4yZDZyRDhjTWVSeTAtX1hyY1g0Q09peDk2RGlFNGh6OVJhVHF2NW56RnJnbFJQZ0hpSDExaVlMenYxSEtzdEExYkNVMXI1aVoxRkdqODRXSGZGY0Z6dk9xSFJ5OTRzemZfUE5NSkpoWnIxeHYtd0w0Q2REVzdEWnJXcHNVZ3RuUzJWU1hVMlNfUnZDd3Q4bzFCbUg3R1BUUWJ4eVk?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Washington D.C., USA",
+      "latitude": 38.8951,
+      "longitude": -77.0364,
+      "detailed_analysis": "The article discusses the use of Iran strikes by Republicans to pressure Democrats in the DHS funding fight, which may lead to increased tensions and potential conflict, affecting aviation and personnel security.",
+      "immediate_forecast_24h": "Increased political tensions and potential escalation of conflict in the region, with possible impacts on aviation and logistics in the next 24 hours.",
+      "strategic_outlook": "Long-term implications of the conflict may lead to increased security measures and potential disruptions to cargo and personnel transport, with a strategic outlook of heightened risk for the next few weeks.",
+      "operational_impact": "Potential operational impact on aviation, with possible flight disruptions or increased security screenings, as well as potential effects on cargo transport and logistics due to increased tensions and conflict.",
+      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
+    }
+  },
+  {
+    "id": "3383a9b0544f9eea16a84a68ce322476",
+    "timestamp": "2026-03-01T22:32:00.109495",
+    "original_title": "‘It’s Surreal’: Iranians in Disbelief After Supreme Leader Is Killed",
+    "link": "https://www.nytimes.com/2026/03/01/world/middleeast/iran-disbelief-khamenei-assassination.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The killing of Ayatollah Ali Khamenei in American and Israeli strikes has led to large crowds celebrating and others mourning, indicating a high level of civil unrest and potential conflict in the region.",
+      "immediate_forecast_24h": "Increased protests and potential violence are expected in the next 24 hours, with a high risk of escalation and retaliation from Iranian forces.",
+      "strategic_outlook": "The long-term implications of this event could lead to a significant escalation of conflict in the region, potentially affecting global oil prices, trade routes, and aviation security.",
+      "operational_impact": "Transport and logistics operations in the region may be severely impacted, with potential disruptions to air travel, cargo shipments, and personnel movements.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "4bc7806538777bdf95a0923e7c805ed8",
+    "timestamp": "2026-03-01T22:32:02.975335",
+    "original_title": "Oil price expected to surge after Iran strikes and strait of Hormuz closure",
+    "link": "https://www.reddit.com/r/worldnews/comments/1ria5ur/oil_price_expected_to_surge_after_iran_strikes/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Strait of Hormuz, Iran",
+      "latitude": 26.0,
+      "longitude": 56.0,
+      "detailed_analysis": "The closure of the Strait of Hormuz due to Iran strikes poses a significant threat to global oil supply, potentially disrupting maritime trade and logistics. This could lead to increased oil prices and have a ripple effect on the global economy.",
+      "immediate_forecast_24h": "Expect increased military presence in the region, potential for further escalation, and disruption to oil tankers and cargo ships passing through the strait.",
+      "strategic_outlook": "Long-term implications include potential for prolonged conflict, increased insurance premiums for ships, and a shift in global trade routes to avoid the affected area.",
+      "operational_impact": "Shipping companies and airlines may need to reroute or cancel flights, and logistics companies should prepare for potential delays and increased costs due to the disruption in oil supply and maritime trade.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "ab9c8c618c041fdc1d381c82d0ad3653",
+    "timestamp": "2026-03-01T22:32:35.774748",
+    "original_title": "The week in pictures: War in the Middle East, Trump’s State of the Union address and New York snow",
+    "link": "https://www.france24.com/en/asia-pacific/20260301-the-week-in-pictures-war-in-the-middle-east-trump-s-state-of-the-union-address-and-new-york-snow",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Middle East",
+      "latitude": 32.0,
+      "longitude": 35.0,
+      "detailed_analysis": "US-Israeli strikes on Iran and clashes along the Afghanistan-Pakistan border indicate heightened tensions in the region, posing a threat to aviation and personnel",
+      "immediate_forecast_24h": "Increased military activity and potential for retaliation or escalation",
+      "strategic_outlook": "Prolonged conflict could disrupt regional logistics and transportation, affecting cargo and personnel movement",
+      "operational_impact": "Potential for flight disruptions, airspace restrictions, and increased security measures",
+      "proximity_alert": "YAKIN TEHDİT: Ben Gurion International Airport (22 km)"
+    }
   }
 ]
