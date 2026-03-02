@@ -1746,5 +1746,81 @@
       "operational_impact": "Potential disruptions to air traffic, increased security measures at airports, and heightened vigilance for drone sightings in restricted airspace, which could impact cargo transport, aviation operations, and personnel safety.",
       "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
     }
+  },
+  {
+    "id": "81930a9d40df880c010e7a5776d36ee6",
+    "timestamp": "2026-03-02T15:07:51.138756",
+    "original_title": "Security Alert: Current Security Posture and Situational Awareness - U.S. Embassy in Luxembourg (.gov)",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbjN3Ri1kS0lFOHU4dXFFQXJPRDhyLUdRMTVWbEYwTlUtQVRqYmJiMnA2M3BXNlJnZEhvREF6X29QNzQ1cGtJSzZiOTNIdnA2RmFjN2MzcmprXzlYSEk0SGJ3VUpxelptYXJEbXRzclNqN1V6NXVXRVdlZGt2aXAyeWNwRzNYQnl1ZkExQlFIRGx6ejZkX0E?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Other",
+      "risk_score": 10,
+      "location": "Luxembourg City, Luxembourg",
+      "latitude": 49.6,
+      "longitude": 6.1,
+      "detailed_analysis": "The U.S. Embassy in Luxembourg has issued a security alert regarding the current security posture and situational awareness, but no specific threats to assets, cargo, aviation, or personnel were mentioned.",
+      "immediate_forecast_24h": "No immediate threats are expected, but the situation will be monitored for any changes.",
+      "strategic_outlook": "The security alert is a precautionary measure, and the U.S. Embassy will continue to assess the security situation in Luxembourg.",
+      "operational_impact": "No significant impact on transport or logistics is expected at this time.",
+      "proximity_alert": "YAKIN TEHDİT: Luxembourg Airport (8 km)"
+    }
+  },
+  {
+    "id": "7c24dda566f9aad8412a6fd6adfac9f7",
+    "timestamp": "2026-03-02T15:07:54.227998",
+    "original_title": "Live Updates: Mideast Conflict Widens as U.S. Officials Say Iran Operation Is in Early Stages",
+    "link": "https://www.nytimes.com/live/2026/03/02/world/iran-us-israel-attack-trump",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "Middle East",
+      "latitude": 32.0,
+      "longitude": 34.0,
+      "detailed_analysis": "The widening conflict in the Middle East, with Iran and allied militias attacking Israel and U.S. targets, poses a significant threat to aviation, cargo, and personnel in the region. The involvement of the U.S. and the potential for an extended campaign increases the risk of further escalation.",
+      "immediate_forecast_24h": "Increased military activity, potential for more attacks on U.S. and Israeli targets, and heightened tensions in the region are expected in the next 24 hours.",
+      "strategic_outlook": "The long-term outlook suggests a prolonged conflict with potential for widespread instability, impacting regional trade, logistics, and aviation. The situation may lead to increased security measures, potential airspace restrictions, and heightened vigilance for terrorist activities.",
+      "operational_impact": "The conflict may disrupt air travel, cargo shipments, and logistics operations in the region. Airlines and shipping companies may need to reroute or cancel flights and shipments, while personnel in the region should exercise extreme caution and follow all security protocols.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "232cdbd05eca4c48be2aebca7b9823f7",
+    "timestamp": "2026-03-02T15:07:57.286284",
+    "original_title": "Iran says Natanz nuclear site hit in US-Israeli strikes",
+    "link": "https://www.reddit.com/r/worldnews/comments/1riv9tk/iran_says_natanz_nuclear_site_hit_in_usisraeli/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Natanz, Iran",
+      "latitude": 33.73,
+      "longitude": 51.77,
+      "detailed_analysis": "The Natanz nuclear site in Iran has been reportedly hit in US-Israeli strikes, indicating a significant escalation in conflict that could impact regional stability and potentially affect aviation and logistics in the area.",
+      "immediate_forecast_24h": "Increased tensions between Iran, the US, and Israel are expected, with potential for retaliatory actions that could affect air traffic and ground transportation in the region.",
+      "strategic_outlook": "Long-term implications include heightened security measures across the Middle East, potential disruptions to oil supplies, and increased surveillance of aviation and maritime routes.",
+      "operational_impact": "Transportation and logistics operations in the region may face increased security checks, potential route closures, and heightened risk of conflict-related disruptions.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "27601072244c5ad4b0a6b2de6359390b",
+    "timestamp": "2026-03-02T15:08:29.855714",
+    "original_title": "US-Iran conflict will have 'serious implications' for Africa, African Union warns",
+    "link": "http://www.africanews.com/2026/03/02/us-iran-conflict-will-have-serious-implications-for-africa-african-union-warns/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 6,
+      "location": "Africa",
+      "latitude": 0.0,
+      "longitude": 25.0,
+      "detailed_analysis": "The US-Iran conflict poses a significant threat to Africa, with potential implications for aviation, cargo, and personnel. The African Union has warned of the risks of conflict and called for dialogue and de-escalation.",
+      "immediate_forecast_24h": "Increased tensions and potential for retaliatory strikes, with possible disruptions to air travel and cargo operations in the region.",
+      "strategic_outlook": "Long-term instability and conflict in the region could lead to increased security measures, potential border closures, and disruptions to trade and logistics.",
+      "operational_impact": "Potential disruptions to air travel, cargo operations, and logistics in Africa, with possible increased security measures and border controls.",
+      "proximity_alert": null
+    }
   }
 ]
