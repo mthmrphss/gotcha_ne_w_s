@@ -93,5 +93,81 @@
       "operational_impact": "Potential for flight delays, cargo rerouting, and increased security screening, affecting personnel and assets in the aviation and logistics sectors.",
       "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
     }
+  },
+  {
+    "id": "9e68b3eba8db3e738356759cbd5c93be",
+    "timestamp": "2026-03-02T18:05:24.250741",
+    "original_title": "Israel strikes Lebanon as conflict broadens throughout Middle East - Politico",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaHRKQ2JvNjhkZG5YUl9SWjhGR2JSekg0ZmkwalBqUHpfcFU4X3Rkc2d5Nl9nOFR2UmJjeVUwZ3pIU196SEFqU285WXpHVHU1TDU4VnBXYzVlamhRRzJMREsxWXRybDlVTi12TTRXVDdzaENfVGdqd1N6T2ZTYkxyWE5adjBabkY3aE5ScTVjbG5vZw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Lebanon, Middle East",
+      "latitude": 33.8547,
+      "longitude": 35.8623,
+      "detailed_analysis": "The conflict between Israel and Lebanon has escalated, with Israel striking Lebanon, indicating a heightened state of tension and potential for further violence in the region.",
+      "immediate_forecast_24h": "Increased military activity and potential for retaliatory strikes are expected in the short term, posing a significant threat to aviation and personnel in the region.",
+      "strategic_outlook": "The broadening conflict in the Middle East may lead to a prolonged period of instability, affecting cargo transport, aviation, and personnel safety in the region.",
+      "operational_impact": "Transport and logistics operations in the region may be severely impacted due to the conflict, with potential for disruptions to air traffic, cargo transport, and personnel movements.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "6fc7075cf8afda09ab12f6124aae7a09",
+    "timestamp": "2026-03-02T18:05:26.286399",
+    "original_title": "Trump defends Iran strikes, offers objectives for military operation - Iowa Public Radio",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZFNTcFNuUzBQMGJNb1VZVjg4UW9uZVVhOUczWUsxOF84bzZLQndOM2t3aHpOQkF1S2JoUGlSUXBQMjRXbTdBZjNDbmhxamhkcllYR1dWMFZBbGlzMzZhVmtqRFFmMk1ZenFaaV9wSTdtai1IT2Vyc3BkZkt4TW4zWXcxY3duS215ZVJZZ2RYU2g1cEY0MjFQQWxEQXF5ZkFENVpuS2d2d1puOUJVUTlUaVl0cjJqZTY3MGRpQ1dGcFpnQQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Iran, Middle East",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The recent military operation in Iran poses a significant threat to aviation and personnel in the region. The strikes may lead to retaliatory actions, potentially targeting cargo and aviation assets.",
+      "immediate_forecast_24h": "Increased tensions and potential for further military action, with a high risk of aviation disruptions and personnel safety concerns.",
+      "strategic_outlook": "The conflict may escalate, leading to a prolonged period of instability in the region, affecting transport and logistics operations.",
+      "operational_impact": "Potential disruptions to air traffic, increased security measures, and possible restrictions on cargo movements in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "599e04b0666ae57af0d6ea2f545f7bcb",
+    "timestamp": "2026-03-02T18:06:00.309099",
+    "original_title": "Detainees freed from prison after airstrikes in western Iran - rights group",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rizuf6/detainees_freed_from_prison_after_airstrikes_in/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 7,
+      "location": "Western Iran",
+      "latitude": 34.0,
+      "longitude": 45.0,
+      "detailed_analysis": "Airstrikes in western Iran have led to the release of detainees from a prison, indicating a potential escalation of conflict in the region, which could impact aviation and cargo operations.",
+      "immediate_forecast_24h": "Increased instability and potential for further clashes in the region, which may disrupt air traffic and logistics operations.",
+      "strategic_outlook": "Long-term instability in the region could lead to sustained disruptions to aviation and cargo operations, with potential for spill-over effects into neighboring countries.",
+      "operational_impact": "Potential disruptions to air traffic and logistics operations in western Iran, with possible impacts on personnel and cargo safety.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "e70dcc831070abfeed5dabfa1f908927",
+    "timestamp": "2026-03-02T18:06:32.794851",
+    "original_title": "Drone attack targets DRC's strategic Kisangani airport",
+    "link": "http://www.africanews.com/2026/03/02/drone-attack-targets-drcs-strategic-kisangani-airport/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Terrorism/Aviation/Conflict",
+      "risk_score": 8,
+      "location": "Kisangani, Democratic Republic of the Congo",
+      "latitude": 0.5139,
+      "longitude": 25.1914,
+      "detailed_analysis": "A drone attack targeting Kisangani airport, attributed to the M23 armed group, indicates a significant threat to aviation and regional security. The use of kamikaze drones loaded with submunitions suggests a high level of sophistication and intent to cause damage.",
+      "immediate_forecast_24h": "Increased security measures are expected at the airport and surrounding areas. There is a possibility of retaliatory actions or further attacks by the M23 group.",
+      "strategic_outlook": "The situation may escalate into a broader conflict, affecting regional stability and transport infrastructure. Neighboring countries, particularly Rwanda, may be drawn into the conflict, potentially disrupting logistics and supply chains.",
+      "operational_impact": "Aviation operations at Kisangani airport may be suspended or severely restricted. Cargo and personnel movements in the region could be impacted, with potential delays or rerouting of flights and shipments.",
+      "proximity_alert": null
+    }
   }
 ]
