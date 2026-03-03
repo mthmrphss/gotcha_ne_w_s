@@ -207,5 +207,100 @@
       "operational_impact": "The conflict poses significant risks to transport and logistics operations in the region, including potential for disruptions to air and ground transport, cargo theft or damage, and risks to personnel safety. Companies operating in the region should exercise extreme caution and consider alternative routes or modes of transport where possible.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "668b66357505580ab282217424843e6c",
+    "timestamp": "2026-03-03T14:11:14.220757",
+    "original_title": "Live Updates: U.S. Closes 2 Gulf Embassies; Israel Seizes Sites in Southern Lebanon",
+    "link": "https://www.nytimes.com/live/2026/03/03/world/iran-war-israel-lebanon-trump",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "Saudi Arabia, Kuwait, Southern Lebanon, Israel",
+      "latitude": 29.4574,
+      "longitude": 34.7447,
+      "detailed_analysis": "The U.S. has closed its embassies in Saudi Arabia and Kuwait due to drone attacks, while Israel has intensified operations against Iran-backed Hezbollah in Southern Lebanon, indicating heightened conflict and terrorism risk in the region.",
+      "immediate_forecast_24h": "Increased military operations and potential for further drone attacks or rocket fire in the region, posing a high risk to aviation and personnel.",
+      "strategic_outlook": "Escalating conflict between Israel and Hezbollah, and potential for further U.S. embassy closures or evacuations in the Middle East, may lead to long-term instability and heightened security risks for assets, cargo, and personnel.",
+      "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics in the region, with increased security measures and possible route changes or cancellations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "295b5aa6445ccf3cbd3fe04ae34cefe1",
+    "timestamp": "2026-03-03T14:11:17.348832",
+    "original_title": "Minab school bombing: how the worst mass casualty event of the Iran war unfolded – a visual guide",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rjq0y7/minab_school_bombing_how_the_worst_mass_casualty/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 8,
+      "location": "Minab, Iran",
+      "latitude": 27.1478,
+      "longitude": 57.0883,
+      "detailed_analysis": "A school bombing in Minab, Iran has resulted in a significant number of casualties, indicating a high level of threat to personnel and potentially disrupting local transport and logistics.",
+      "immediate_forecast_24h": "Increased security measures are likely to be implemented in the region, potentially causing disruptions to transport and logistics. Further attacks or unrest are possible.",
+      "strategic_outlook": "The long-term impact of this event on the region's stability and security is a concern, potentially leading to increased tensions and conflict, which could affect aviation, cargo, and personnel safety.",
+      "operational_impact": "Transport and logistics operations in the region may be affected due to increased security checks, potential roadblocks, or airspace restrictions, leading to delays and disruptions.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "93532b97aacd5a44ba6078310bfb15fc",
+    "timestamp": "2026-03-03T14:11:19.867501",
+    "original_title": "Israeli military says it has hit Iran's presidential office",
+    "link": "https://www.france24.com/en/video/20260303-israeli-military-says-it-has-hit-iran-s-presidential-office",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The Israeli military has launched airstrikes against the Iranian presidency and the offices of the Supreme National Security Council in Tehran, indicating a significant escalation in the conflict between the two nations. This could lead to retaliatory actions and increased tensions in the region, potentially affecting aviation and cargo operations.",
+      "immediate_forecast_24h": "Heightened military activity and potential for retaliatory strikes from Iran, which could impact air traffic and cargo shipments in the region.",
+      "strategic_outlook": "Prolonged conflict could lead to increased instability in the Middle East, affecting global supply chains, aviation, and cargo operations. The situation may also draw in other nations, further complicating the geopolitical landscape.",
+      "operational_impact": "Potential for disruptions to air traffic, increased security measures at airports, and possible delays or cancellations of cargo shipments to and from the region.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "81e831ecab31e9d11f728b74b857c4d6",
+    "timestamp": "2026-03-03T14:11:21.950002",
+    "original_title": "Trump to meet Germany's Merz for talks eclipsed by Middle East war",
+    "link": "https://www.france24.com/en/americas/20260303-trump-to-meet-germany-s-merz-for-talks-eclipsed-by-middle-east-war",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Washington D.C., USA",
+      "latitude": 38.8951,
+      "longitude": -77.0364,
+      "detailed_analysis": "The meeting between US President Donald Trump and Germany's Friedrich Merz is overshadowed by the escalating Middle East war, which may lead to increased tensions and potential security threats to aviation and personnel in the region.",
+      "immediate_forecast_24h": "Heightened security measures are expected in Washington D.C. and surrounding areas, with potential disruptions to air travel and logistics due to increased security protocols.",
+      "strategic_outlook": "The ongoing conflict in the Middle East may lead to long-term instability in the region, affecting global supply chains, aviation, and personnel safety, with potential for increased risk of terrorism and cyber attacks.",
+      "operational_impact": "Potential disruptions to air travel, increased security checks, and heightened alertness for cargo and logistics operations in the region, with possible delays and rerouting of flights and shipments.",
+      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
+    }
+  },
+  {
+    "id": "61665f049de57a46725d7a014e48bc96",
+    "timestamp": "2026-03-03T14:11:25.255019",
+    "original_title": "Qantas Cancels Non-Stop Perth to London Flights As Middle East Airspace Closures Drag On",
+    "link": "https://www.paddleyourownkanoo.com/2026/03/03/qantas-cancels-non-stop-perth-to-london-flights-as-middle-east-airspace-closures-drag-on/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 7,
+      "location": "Middle East",
+      "latitude": 29.4574,
+      "longitude": 47.6466,
+      "detailed_analysis": "Qantas is suspending its non-stop flight between Perth and London due to continuing airspace closures and security concerns across the Middle East, indicating a potential threat to aviation safety and security in the region.",
+      "immediate_forecast_24h": "Flights may be rerouted or cancelled, causing disruptions to passengers and cargo, with potential for further airspace closures or security incidents in the next 24 hours.",
+      "strategic_outlook": "The ongoing airspace closures and security concerns in the Middle East may lead to a long-term impact on aviation operations, requiring airlines to reassess their routes and security protocols.",
+      "operational_impact": "The suspension of non-stop flights and rerouting via Singapore will add at least three hours to journey times, affecting passenger and cargo operations, with potential for increased costs and reduced efficiency.",
+      "proximity_alert": null
+    }
   }
 ]
