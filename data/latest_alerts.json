@@ -1,230 +1,211 @@
 [
   {
-    "id": "9ae77d9dc05fbf96dbb795d807284994",
-    "timestamp": "2026-03-03T11:06:52.424392",
-    "original_title": "'You can't separate the physical from the cyber,' says New York's first security and intelligence director - StateScoop",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdDJka1dqVkVkb0UwbUYtREg5M1VwM0JWcUcxNjI5YVhfZ2NyTEpCOVNLWWhpQl84YkZrU1dNQUZtcl94eEJfM3NyQkFOVjBJd2lPTldrcGxxNXpCWEM2bFhvdG5RMHY4a18tRDJCWm5iNDYtOU81c1ZOQ3lMTHJGdQ?oc=5",
+    "id": "377f683e205bec307ea3c2c388c03567",
+    "timestamp": "2026-03-03T13:16:41.609621",
+    "original_title": "Security Alert: Threat of Imminent Missile / UAV Attacks Over Dhahran (Mar. 3, 2026) - U.S. Embassy & Consulates in Saudi Arabia (.gov)",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX18taWNmM2hRandmelhxLU5VeDN0MnZKZWNtX3FwVThCV1p5RGJaZVN0LWhMOFVnNk1HN3JUeTRULVBGYktMUDBmWF9wLWhYeFBWM1Z1X1Fic1Jtd0pmNmVreFY2c1NFNThUdHdlZ3NHdW0zWlBwLUhtVi04c0ZPdnFLT0haY1I2d3dyT2MtZVBzOE44cnRCS2VDbnZ5X0dsSENLUzB3?oc=5",
     "source_name": "Google News (Breaking)",
     "ai_analysis": {
-      "category": "Cyber",
-      "risk_score": 10,
-      "location": "New York, USA",
-      "latitude": 40.7128,
-      "longitude": -74.006,
-      "detailed_analysis": "New York's first security and intelligence director emphasizes the interconnectedness of physical and cyber security, highlighting the need for a comprehensive approach to security threats.",
-      "immediate_forecast_24h": "No immediate threats are reported, but the statement underscores the importance of vigilance in both physical and cyber domains.",
-      "strategic_outlook": "Long-term, this perspective may lead to enhanced security measures and increased collaboration between physical and cyber security entities in New York.",
-      "operational_impact": "The impact on transport and logistics is indirect, as the statement focuses on the broader security landscape rather than specific operational threats.",
-      "proximity_alert": "YAKIN TEHDİT: Paramount Hotel (5 km)"
+      "category": "Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "Dhahran, Saudi Arabia",
+      "latitude": 26.2933,
+      "longitude": 50.1067,
+      "detailed_analysis": "Imminent threat of missile and UAV attacks over Dhahran, potentially targeting aviation assets and personnel, with high risk of damage or loss of life",
+      "immediate_forecast_24h": "Increased security measures expected, potential for disruptions to air traffic and logistics operations",
+      "strategic_outlook": "Long-term instability in the region may lead to sustained security threats, impacting aviation and logistics operations",
+      "operational_impact": "Potential for flight disruptions, cargo delays, and increased security protocols for personnel and assets",
+      "proximity_alert": null
     }
   },
   {
-    "id": "10c59067ad2585a93b685870c1915725",
-    "timestamp": "2026-03-03T11:06:55.296003",
-    "original_title": "Live Updates: U.S. Closes 2 Gulf Embassies as Iran Steps Up Retaliation",
+    "id": "bb1ad6211b25e46aacaaa9f8cc2dbffd",
+    "timestamp": "2026-03-03T13:16:43.691133",
+    "original_title": "Who attacked a girls' school in Iran, and will there be accountability? - USA Today",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSUN1b196YWtiY2RFNHM4SDgzQlpHMWJmX3NHa0xTclVPR2JkTTcyXzctWUhvZFZmSFhvckhiaTZVRmZrN3M2UGZpRk1yYjJEN1dxXzZDTDYyMUQzbVpnelg5eEg2OEhiNVRER2dVM1VUWXNKMkw4MmhjYzlyNUw2SWw0bXRIS1JuS243MHBvMHJxb0ZYcTdrNHUyTkpERkppaURXdkpvZ0lNekNIdXV3dUczTQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism/Civil Unrest/Conflict",
+      "risk_score": 8,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Attack on a girls' school in Iran indicates a high level of threat to personnel and potentially to aviation and cargo if the situation escalates, suggesting a possible increase in conflict and civil unrest.",
+      "immediate_forecast_24h": "Increased security measures are expected in the short term, potentially affecting transport and logistics in the region.",
+      "strategic_outlook": "Long-term implications could include heightened tensions and instability in the region, potentially affecting aviation routes, cargo transport, and personnel safety.",
+      "operational_impact": "Transport and logistics operations in Iran and surrounding areas may be impacted due to increased security checks, potential protests, or conflict escalation.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "905c728c24b39fe960bde6f58231d394",
+    "timestamp": "2026-03-03T13:16:46.588297",
+    "original_title": "Live Updates: U.S. Closes 2 Gulf Embassies; Israel Advances in Southern Lebanon",
     "link": "https://www.nytimes.com/live/2026/03/03/world/iran-war-israel-lebanon-trump",
     "source_name": "NewYork Times",
     "ai_analysis": {
       "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "Saudi Arabia, Kuwait, Lebanon, Israel",
+      "latitude": 32.5,
+      "longitude": 35.5,
+      "detailed_analysis": "The U.S. has closed its embassies in Saudi Arabia and Kuwait due to drone attacks, while Israel has intensified military operations against Iran-backed Hezbollah in southern Lebanon, indicating heightened conflict and terrorism risk in the region.",
+      "immediate_forecast_24h": "Increased military activity and potential for further drone attacks or rocket fire in the region, posing a high risk to aviation and personnel.",
+      "strategic_outlook": "Prolonged conflict in the region may lead to sustained disruptions to air travel, cargo transport, and personnel movements, with potential for escalation into a broader regional conflict.",
+      "operational_impact": "Flights may be diverted or cancelled, and cargo shipments may be delayed or suspended, while personnel movements in the region should be carefully assessed and secured due to the high risk of terrorism and conflict.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "42b17011f368a63a4971d30f91281a8d",
+    "timestamp": "2026-03-03T13:16:49.103520",
+    "original_title": "Is the UK at Risk of Being Drawn Into the Iran–Israel War? Inside Britain’s Military Position",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1rjo0fw/is_the_uk_at_risk_of_being_drawn_into_the/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "United Kingdom",
+      "latitude": 54.7589,
+      "longitude": -4.5723,
+      "detailed_analysis": "The UK's potential involvement in the Iran-Israel conflict poses a significant threat to its assets, cargo, aviation, and personnel. The conflict could lead to increased tensions, cyberattacks, and potential military action, affecting the UK's military position and its interests in the region.",
+      "immediate_forecast_24h": "In the next 24 hours, the situation is likely to remain volatile, with ongoing diplomatic efforts to de-escalate the conflict. However, the risk of miscalculation or unintended escalation remains high.",
+      "strategic_outlook": "In the long term, the UK's involvement in the conflict could have significant strategic implications, including the potential for increased military spending, shifts in regional alliances, and impacts on global trade and security.",
+      "operational_impact": "The conflict could lead to disruptions in air travel, cargo shipments, and logistics, particularly if the UK becomes directly involved or if the conflict escalates to affect regional trade routes.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "b62f1311a20a679b2ee9820554bbd551",
+    "timestamp": "2026-03-03T13:16:51.665644",
+    "original_title": "'False Flag Operation': Iran Blames Israel For Drone Attack On Saudi Aramco Oil Facility, Fujairah Port",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1rjnrg2/false_flag_operation_iran_blames_israel_for_drone/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Terrorism/Aviation/Conflict",
+      "risk_score": 8,
+      "location": "Fujairah, United Arab Emirates",
+      "latitude": 25.1192,
+      "longitude": 56.3469,
+      "detailed_analysis": "A drone attack on Saudi Aramco oil facility and Fujairah Port has been reported, with Iran blaming Israel for the incident. This could lead to escalated tensions between the involved nations and potentially disrupt oil supplies and shipping in the region.",
+      "immediate_forecast_24h": "Increased military presence and surveillance in the area, potential for retaliatory actions from involved parties, and heightened security measures at nearby ports and oil facilities.",
+      "strategic_outlook": "Long-term implications may include increased instability in the region, potential for further attacks on critical infrastructure, and impacts on global oil prices and trade routes.",
+      "operational_impact": "Shipping and logistics operations in the region may be affected due to increased security measures, potential port closures, or disruptions to oil supplies. Aviation operations may also be impacted due to possible airspace restrictions or increased military activity.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "b8616dce6023fe4d4f4a2f4170c17617",
+    "timestamp": "2026-03-03T13:16:53.997328",
+    "original_title": "Trump seeks to justify Iran war, but stated objectives shift",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rjov1o/trump_seeks_to_justify_iran_war_but_stated/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Iran, USA",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The situation between the US and Iran is escalating, with the US seeking to justify a potential war with Iran. The stated objectives of the US are shifting, which could lead to increased tensions and conflict in the region.",
+      "immediate_forecast_24h": "Increased military activity and rhetoric between the US and Iran, potentially leading to a heightened state of alert for aviation and cargo operations in the region.",
+      "strategic_outlook": "A prolonged conflict between the US and Iran could have significant implications for global trade, aviation, and cargo operations, particularly in the Middle East region.",
+      "operational_impact": "Potential disruptions to air traffic, increased security measures for cargo and aviation operations, and heightened risk of cyber attacks or other forms of sabotage targeting logistics and transportation infrastructure.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "662bbb22c125527fcb97944b557c3ade",
+    "timestamp": "2026-03-03T13:16:56.291025",
+    "original_title": "African nationals among 58 people injured by Iranian strikes on UAE",
+    "link": "http://www.africanews.com/2026/03/03/african-nationals-among-58-people-injured-by-iranian-strikes-on-uae/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
       "risk_score": 10,
-      "location": "Saudi Arabia, Kuwait",
+      "location": "Abu Dhabi, United Arab Emirates",
+      "latitude": 24.4667,
+      "longitude": 54.3667,
+      "detailed_analysis": "Iranian missile strikes on the UAE have resulted in injuries to African nationals, indicating a high level of conflict and potential threat to aviation and personnel in the region.",
+      "immediate_forecast_24h": "Increased tensions between Iran and the UAE may lead to further military action, potentially disrupting air travel and logistics in the region.",
+      "strategic_outlook": "The long-term implications of this conflict could lead to a destabilization of the region, affecting trade and transport routes, and potentially drawing in other nations.",
+      "operational_impact": "Air travel and logistics operations in the UAE and surrounding regions may be impacted, with potential delays or cancellations of flights, and increased security measures in place.",
+      "proximity_alert": "YAKIN TEHDİT: ABU DHABİ (1 km)"
+    }
+  },
+  {
+    "id": "01b8f0cd7a353039ae45fa9b7df15549",
+    "timestamp": "2026-03-03T13:16:58.769301",
+    "original_title": "War in the Middle East: Iran's broad retaliation in the Gulf",
+    "link": "https://www.france24.com/en/video/20260303-war-in-the-middle-east-iran-s-broad-retaliation-in-the-gulf",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 10,
+      "location": "Riyadh, Saudi Arabia",
       "latitude": 24.7136,
       "longitude": 46.6753,
-      "detailed_analysis": "The U.S. has closed its embassies in Saudi Arabia and Kuwait due to drone attacks, indicating a heightened threat from Iran-backed groups. Israel's military actions in Lebanon against Hezbollah further escalate the conflict, posing risks to aviation and regional stability.",
-      "immediate_forecast_24h": "Increased drone activity and potential for retaliatory attacks against U.S. and Israeli interests in the region, affecting aviation and personnel safety.",
-      "strategic_outlook": "Prolonged conflict between Israel and Iran-backed Hezbollah, potentially drawing in other regional actors, and heightened security measures at U.S. diplomatic missions and aviation hubs.",
-      "operational_impact": "Disruptions to air travel, potential for embassy closures, and increased security protocols for personnel and cargo in the affected regions.",
+      "detailed_analysis": "Iran's retaliation in the Gulf has led to drone strikes on the US embassy in Riyadh, indicating a significant escalation of tensions in the region. This poses a substantial threat to aviation, diplomatic, and industrial targets.",
+      "immediate_forecast_24h": "Increased military presence and heightened security measures are expected in the region. Further drone strikes or other forms of retaliation are possible, potentially targeting airports, cargo facilities, or other critical infrastructure.",
+      "strategic_outlook": "The conflict may lead to a prolonged period of instability in the Middle East, affecting global oil supplies, air travel, and cargo shipments. The situation may escalate into a broader regional conflict, involving multiple countries and potentially drawing in global powers.",
+      "operational_impact": "Air travel and cargo shipments in the region may be disrupted or suspended due to the increased risk of drone strikes or other attacks. Shipping companies and airlines may need to reroute flights or cargo vessels to avoid the affected areas, leading to potential delays and increased costs.",
       "proximity_alert": "YAKIN TEHDİT: King Khalid International Airport (27 km)"
     }
   },
   {
-    "id": "efad86340f59c5903f39e0de71fa38cb",
-    "timestamp": "2026-03-03T11:06:58.070364",
-    "original_title": "Operation Epic Fury: How Missile Strikes Shattered Dubai’s ‘Safe Haven’ Image",
-    "link": "https://www.reddit.com/r/worldnews/comments/1rjmd0y/operation_epic_fury_how_missile_strikes_shattered/",
-    "source_name": "Reddit r/WorldNews",
+    "id": "f3da6d32ae61f6c6c7cfd24e8402dcb9",
+    "timestamp": "2026-03-03T13:17:00.622400",
+    "original_title": "US embassy in Saudi Arabia hit by Iranian drones",
+    "link": "https://www.france24.com/en/video/20260303-us-embassy-in-saudi-arabia-hit-by-iranian-drones",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Terrorism/Aviation/Conflict",
+      "risk_score": 10,
+      "location": "Riyadh, Saudi Arabia",
+      "latitude": 24.7136,
+      "longitude": 46.6753,
+      "detailed_analysis": "The US embassy in Riyadh was hit by Iranian drones, indicating a significant escalation in regional conflict. This event poses a substantial threat to aviation, personnel, and diplomatic assets in the region.",
+      "immediate_forecast_24h": "Increased tensions and potential for further retaliatory strikes against US and Israeli interests in the Middle East. Elevated risk of drone sightings and attacks on critical infrastructure and diplomatic missions.",
+      "strategic_outlook": "Prolonged conflict in the region could lead to sustained disruptions in air travel, cargo transport, and logistical operations. The situation may prompt increased security measures and potential evacuations of personnel from high-risk areas.",
+      "operational_impact": "Immediate impact on aviation with potential for flight disruptions, airspace restrictions, and enhanced security protocols. Cargo and logistics operations may also be affected due to increased security checks and potential targeting of transport infrastructure.",
+      "proximity_alert": "YAKIN TEHDİT: King Khalid International Airport (27 km)"
+    }
+  },
+  {
+    "id": "c6c869560df78265c9d240aaf9b928bb",
+    "timestamp": "2026-03-03T13:17:02.453609",
+    "original_title": "Lebanon sucked deeper into war as Hezbollah, Israel trade blows",
+    "link": "https://www.france24.com/en/video/20260303-lebanon-sucked-deeper-into-war-as-hezbollah-israel-trade-blows",
+    "source_name": "France 24 ME",
     "ai_analysis": {
       "category": "Conflict/Terrorism/Aviation",
-      "risk_score": 10,
-      "location": "Dubai, UAE",
-      "latitude": 25.276987,
-      "longitude": 55.296249,
-      "detailed_analysis": "Missile strikes have shattered Dubai's 'safe haven' image, posing a significant threat to assets, cargo, aviation, and personnel in the region. The attack highlights the vulnerability of the area to external threats and may lead to increased security measures.",
-      "immediate_forecast_24h": "Heightened security alert, potential for additional attacks or retaliatory measures, and possible disruptions to air traffic and logistics operations.",
-      "strategic_outlook": "Long-term implications for Dubai's reputation as a safe business and tourism hub, potential for increased military presence, and enhanced security protocols for aviation and logistics.",
-      "operational_impact": "Potential delays or cancellations of flights, increased screening and security checks for cargo and passengers, and heightened vigilance for potential threats to transport and logistics infrastructure.",
-      "proximity_alert": "YAKIN TEHDİT: DUBAİ (25 km)"
-    }
-  },
-  {
-    "id": "f1c43794b8e8b28c48f32838f987f8d6",
-    "timestamp": "2026-03-03T11:07:00.764779",
-    "original_title": "'Bombs are not the solution': Iranians flee to neighbouring Turkey",
-    "link": "https://www.france24.com/en/video/20260303-bombs-are-not-the-solution-iranians-flee-to-neighbouring-turkey",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict/Civil Unrest/Border",
-      "risk_score": 6,
-      "location": "Ankara, Turkey",
-      "latitude": 39.9334,
-      "longitude": 32.8597,
-      "detailed_analysis": "The situation involves hundreds of Iranians fleeing to Turkey due to ongoing strikes in Iran, with the Turkish President seeking a ceasefire and dialogue. This could lead to increased border activity and potential security concerns for transport and logistics in the region.",
-      "immediate_forecast_24h": "Continued influx of migrants, potential for increased tensions along the border, and efforts by Turkey to negotiate a ceasefire.",
-      "strategic_outlook": "Long-term stability in the region is uncertain, with potential for ongoing conflict and migration flows. Turkey's role in mediating a ceasefire could be crucial, but the situation remains volatile.",
-      "operational_impact": "Potential disruptions to transport and logistics due to increased border security measures, migrant flows, and possible escalation of conflict. Aviation and cargo operations may be affected by the situation, with heightened security protocols and potential rerouting of flights or cargo shipments.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "2079c74be021027a5c2656313cfa347b",
-    "timestamp": "2026-03-03T11:07:02.834009",
-    "original_title": "Israel orders troops to seize new positions in Lebanon",
-    "link": "https://www.france24.com/en/video/20260303-israel-orders-troops-to-seize-new-positions-in-lebanon",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict/Terrorism",
-      "risk_score": 10,
-      "location": "Beirut, Lebanon",
-      "latitude": 33.8938,
-      "longitude": 35.5018,
-      "detailed_analysis": "The escalation of conflict between Israel and Hezbollah in Lebanon poses a significant threat to assets, cargo, aviation, and personnel in the region. The involvement of Iran and the US-Israeli strikes adds complexity to the situation, increasing the risk of further violence and instability.",
-      "immediate_forecast_24h": "Increased military activity and potential for further clashes between Israel and Hezbollah, with possible spillover effects on civilian populations and transport infrastructure.",
-      "strategic_outlook": "The conflict may lead to a prolonged period of instability in the region, affecting trade and logistics, with potential for increased security measures and disruptions to air and ground transport.",
-      "operational_impact": "Potential disruptions to air traffic, cargo transport, and logistics operations in the region, with increased risk of damage to assets and infrastructure, and potential for personnel to be affected by the conflict.",
-      "proximity_alert": "YAKIN TEHDİT: Beirut–Rafic Hariri International Airport (0 km)"
-    }
-  },
-  {
-    "id": "56e4c81eea3aad8a05ae1525a8add1d9",
-    "timestamp": "2026-03-03T11:07:04.695587",
-    "original_title": "Live: Israel military says it is establishing buffer zone in southern Lebanon",
-    "link": "https://www.france24.com/en/middle-east/20260303-live-us-embassy-in-saudi-arabia-attacked-americans-urged-to-leave-dozens-of-countries",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict/Civil Unrest",
       "risk_score": 8,
-      "location": "Southern Lebanon",
-      "latitude": 33.3333,
-      "longitude": 35.5333,
-      "detailed_analysis": "The establishment of a buffer zone in southern Lebanon by the Israeli military increases the risk of conflict and civil unrest in the region, potentially affecting aviation, cargo, and personnel safety.",
-      "immediate_forecast_24h": "Heightened military presence and potential clashes with local militias or other groups, leading to increased security measures and possible disruptions to transport and logistics in the area.",
-      "strategic_outlook": "Long-term escalation of tensions between Israel and Lebanon, potentially drawing in other regional actors and affecting the stability of the entire Middle East, with significant implications for global aviation, cargo, and energy security.",
-      "operational_impact": "Possible restrictions on air traffic, increased security checks for cargo and personnel, and heightened risk of attacks or sabotage on transport infrastructure, requiring enhanced security protocols and contingency planning for logistics and supply chain operations.",
+      "location": "Lebanon/Israel border",
+      "latitude": 33.0833,
+      "longitude": 35.1667,
+      "detailed_analysis": "Hezbollah launched missiles at Israel, and Israel responded with air strikes and troop deployment, indicating an escalation of conflict that could impact aviation and logistics in the region.",
+      "immediate_forecast_24h": "Further exchanges of fire and potential escalation of violence are expected, with possible disruptions to air traffic and ground transportation.",
+      "strategic_outlook": "The conflict may lead to a prolonged period of instability, affecting trade and transport routes, with potential for spillover into other countries in the region.",
+      "operational_impact": "Aviation and logistics operations in the region may be severely impacted, with potential for flight cancellations, delays, and disruptions to supply chains.",
       "proximity_alert": null
     }
   },
   {
-    "id": "8dd70aa5f300bdc08cc3af0f91a7e17b",
-    "timestamp": "2026-03-03T11:07:06.440989",
-    "original_title": "Rubio says Israel's strike plan triggered US attack on Iran",
-    "link": "https://www.france24.com/en/video/20260303-rubio-says-israel-s-strike-plan-triggered-us-attack-on-iran",
+    "id": "4f6fa63054d400c91a31ba599de0d64b",
+    "timestamp": "2026-03-03T13:17:04.418010",
+    "original_title": "Israel and US say Iran war will not be “endless”",
+    "link": "https://www.france24.com/en/video/20260303-israel-and-us-say-iran-war-will-not-be-endless",
     "source_name": "France 24 ME",
     "ai_analysis": {
       "category": "Conflict",
-      "risk_score": 10,
-      "location": "Tehran, Iran",
-      "latitude": 35.6892,
-      "longitude": 51.389,
-      "detailed_analysis": "The US attack on Iran, triggered by Israel's planned strike, poses a significant threat to regional stability and may lead to retaliatory actions against US and allied forces, potentially affecting aviation and cargo operations.",
-      "immediate_forecast_24h": "Heightened tensions and increased military activity in the region, with potential for further escalation and impact on transport and logistics operations.",
-      "strategic_outlook": "Long-term implications for regional security and global geopolitics, with potential for ongoing conflict and instability affecting trade and commerce.",
-      "operational_impact": "Potential disruptions to air traffic, cargo shipments, and personnel movements in the region, with increased security measures and protocols likely to be implemented.",
-      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
-    }
-  },
-  {
-    "id": "3df11752f776ded3cdb84940d4322854",
-    "timestamp": "2026-03-03T11:55:41.146020",
-    "original_title": "How Trump assassination attempts played into his decision to attack Iran - The Washington Post",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTHIydHpDTzQ0eXRwYkM0N3ljVm1ZYm1VOXdTcEVZSkdOZDgxTzhaV0d0WU9RRmFhNHFrWTFYUk1Hc1luT0pqa1NleHFjemlJbVh1QTA5N2dSTG9hMUg5RGtjMnRDQk9HYU5hbG1Pc01ramVucDFVSXNDSlppc3pxd1ZxTl9jS1hyUFY5UTFMb2ctSzRJekN3?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Conflict/Terrorism",
       "risk_score": 8,
-      "location": "Iran, Middle East",
+      "location": "Iran",
       "latitude": 32.0,
       "longitude": 53.0,
-      "detailed_analysis": "The article discusses how Trump's decision to attack Iran was influenced by assassination attempts, indicating a high level of geopolitical tension and potential for conflict, which could impact aviation and cargo operations in the region.",
-      "immediate_forecast_24h": "Increased military activity and heightened security measures are expected in the region, potentially disrupting air traffic and cargo transport.",
-      "strategic_outlook": "The situation may escalate into a larger conflict, affecting global oil prices, trade routes, and aviation security, with potential long-term implications for regional stability and transport operations.",
-      "operational_impact": "Potential disruptions to air traffic, increased security screening, and possible restrictions on cargo transport, particularly for high-risk or sensitive goods, may impact logistics and supply chain operations in the region.",
+      "detailed_analysis": "The ongoing US-Israeli campaign in Iran poses significant threats to assets, cargo, aviation, and personnel in the region. The conflict has already resulted in over 780 casualties, indicating a high level of violence and instability.",
+      "immediate_forecast_24h": "The conflict is likely to escalate in the short term, with potential for increased violence and disruptions to transport and logistics. The US and Israeli claims that the war will not be 'endless' may indicate a desire to de-escalate, but the situation remains highly volatile.",
+      "strategic_outlook": "The long-term outlook for the region is uncertain, with potential for prolonged conflict and instability. The impact on global trade and logistics could be significant, particularly if the conflict spreads to other countries or affects critical infrastructure such as ports and airports.",
+      "operational_impact": "The conflict poses significant risks to transport and logistics operations in the region, including potential for disruptions to air and ground transport, cargo theft or damage, and risks to personnel safety. Companies operating in the region should exercise extreme caution and consider alternative routes or modes of transport where possible.",
       "proximity_alert": null
-    }
-  },
-  {
-    "id": "52694752e26a3f670617aa2f0a03dd37",
-    "timestamp": "2026-03-03T11:55:46.261525",
-    "original_title": "An Emboldened Israel Is Seizing Opportunities to Remake Region",
-    "link": "https://www.nytimes.com/2026/03/03/world/middleeast/israel-iran-hezbollah.html",
-    "source_name": "NewYork Times",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 10,
-      "location": "Middle East",
-      "latitude": 32.0,
-      "longitude": 34.8,
-      "detailed_analysis": "The ongoing war between Israel and Iran poses a significant threat to regional stability, with potential spillover effects on aviation, cargo, and personnel. Israel's actions against other adversaries may lead to increased tensions and conflict.",
-      "immediate_forecast_24h": "Escalation of conflict, potential airstrikes or missile launches, and increased military presence in the region.",
-      "strategic_outlook": "Prolonged conflict may lead to a destabilized region, impacting global supply chains, aviation routes, and personnel safety. The involvement of the U.S. military may further complicate the situation.",
-      "operational_impact": "Potential disruptions to air traffic, cargo shipments, and logistics operations in the region. Increased security measures may be implemented, causing delays and inefficiencies.",
-      "proximity_alert": "YAKIN TEHDİT: Ben Gurion International Airport (9 km)"
-    }
-  },
-  {
-    "id": "7b71a2b0ce7e077cefeb09fd9d044055",
-    "timestamp": "2026-03-03T11:55:49.310039",
-    "original_title": "Trump rebukes Starmer over UK refusal to back strikes on Iran",
-    "link": "https://www.reddit.com/r/worldnews/comments/1rjn6ap/trump_rebukes_starmer_over_uk_refusal_to_back/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 7,
-      "location": "United Kingdom, Iran",
-      "latitude": 51.5074,
-      "longitude": 32.4279,
-      "detailed_analysis": "The event involves a political dispute between Trump and Starmer over the UK's refusal to back strikes on Iran, which could potentially escalate into a conflict affecting aviation and logistics in the region.",
-      "immediate_forecast_24h": "Increased tensions between the US, UK, and Iran, potentially leading to heightened security measures and travel restrictions.",
-      "strategic_outlook": "Long-term implications could include strained diplomatic relations, economic sanctions, and potential military action, all of which could significantly impact global aviation, cargo, and personnel.",
-      "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics in the region, as well as increased security protocols for personnel and assets.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "6729552266e5f2ff2f170dde7deae9fc",
-    "timestamp": "2026-03-03T11:55:52.092115",
-    "original_title": "Benin police offer €30,000 reward for information leading to alleged coup plotters",
-    "link": "http://www.africanews.com/2026/03/03/benin-police-offer-30000-reward-for-information-leading-to-alleged-coup-plotters/",
-    "source_name": "Africa News",
-    "ai_analysis": {
-      "category": "Civil Unrest/Conflict",
-      "risk_score": 10,
-      "location": "Porto-Novo, Benin",
-      "latitude": 6.4964,
-      "longitude": 2.6321,
-      "detailed_analysis": "A potential coup in Benin poses a significant threat to the stability of the region, which could impact aviation, cargo, and personnel. The offer of a reward for information on alleged coup plotters indicates a heightened state of alert and potential for unrest.",
-      "immediate_forecast_24h": "Increased security presence and potential for protests or demonstrations in major cities. Aviation and cargo operations may experience disruptions due to heightened security measures.",
-      "strategic_outlook": "Long-term stability of the region is uncertain, and the situation could escalate into a full-blown conflict. This could lead to a significant impact on transport and logistics in the region, including potential border closures and restrictions on aviation operations.",
-      "operational_impact": "Potential disruptions to cargo and aviation operations, increased security protocols, and possible restrictions on personnel movement. Transport and logistics companies should monitor the situation closely and be prepared for potential disruptions.",
-      "proximity_alert": "YAKIN TEHDİT: Cardinal Bernadin Gantin International Airport (26 km)"
-    }
-  },
-  {
-    "id": "b7ecf530cf8103d5c9943700a41cd143",
-    "timestamp": "2026-03-03T11:55:56.095538",
-    "original_title": "Passengers leave Dubai on limited Emirates flights following Iran strikes",
-    "link": "https://www.independent.co.uk/travel/news-and-advice/dubai-uk-flights-emirates-uae-iran-war-b2930816.html",
-    "source_name": "Independent Travel",
-    "ai_analysis": {
-      "category": "Conflict/Aviation",
-      "risk_score": 10,
-      "location": "Dubai, UAE",
-      "latitude": 25.276987,
-      "longitude": 55.296249,
-      "detailed_analysis": "The resumption of limited Emirates flights from Dubai following Iran strikes indicates a potential threat to aviation safety and security. The fact that the airport is not fully open suggests that there may be ongoing security concerns or disruptions.",
-      "immediate_forecast_24h": "In the next 24 hours, we can expect continued disruptions to flight operations, potential delays, and increased security measures at Dubai airport. The situation may escalate if there are further strikes or retaliatory actions.",
-      "strategic_outlook": "In the long term, the conflict between Iran and other nations may lead to sustained disruptions to air travel and logistics in the region. This could have significant implications for global supply chains and the aviation industry as a whole.",
-      "operational_impact": "The limited flight operations and potential for further disruptions may impact cargo and passenger transport, leading to delays and increased costs for airlines, logistics companies, and travelers.",
-      "proximity_alert": "YAKIN TEHDİT: DUBAİ (25 km)"
     }
   }
 ]
