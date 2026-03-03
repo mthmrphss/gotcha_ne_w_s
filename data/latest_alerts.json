@@ -188,5 +188,62 @@
       "operational_impact": "The rescue flight and airspace closure may cause delays, cancellations, and disruptions to air travel, affecting personnel and cargo transportation.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "10e1b0d57f7ba6fd0ee9d654218b2e88",
+    "timestamp": "2026-03-03T18:07:10.685446",
+    "original_title": "Live Updates: Trump Says Strikes Have Left Leadership Vacuum in Iran",
+    "link": "https://www.nytimes.com/live/2026/03/03/world/iran-war-israel-lebanon-trump",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The US strikes on Iran have created a leadership vacuum, leading to global market turmoil and potential instability in the region, which could impact aviation and cargo operations.",
+      "immediate_forecast_24h": "Increased tensions between the US and Iran, potential for retaliatory actions, and heightened security measures at airports and ports.",
+      "strategic_outlook": "Long-term instability in the region could lead to increased security threats, potential for supply chain disruptions, and impact on global trade.",
+      "operational_impact": "Potential for flight disruptions, increased security screening, and cargo delays due to heightened security measures and instability in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "834f021f285b68831731cb4f343cdfb6",
+    "timestamp": "2026-03-03T18:07:13.130903",
+    "original_title": "Qatar said to carry strikes in Iran over past 24 hours, spokesman denies 'joining campaign'",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1rjvh0k/qatar_said_to_carry_strikes_in_iran_over_past_24/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Reports of Qatar carrying out strikes in Iran over the past 24 hours, with a spokesman denying joining a campaign. This indicates a potential escalation of conflict in the region, posing a significant threat to aviation and regional stability.",
+      "immediate_forecast_24h": "Increased tensions between Qatar and Iran, potential for further military action or retaliation, and heightened security measures at airports and border crossings.",
+      "strategic_outlook": "Long-term implications for regional stability, potential for broader conflict involving other nations, and impact on global oil prices and trade routes.",
+      "operational_impact": "Potential disruptions to air travel, increased security screening, and possible restrictions on cargo shipments to and from the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "f1d3e8fd692374f99285584ea34c1425",
+    "timestamp": "2026-03-03T18:07:15.421000",
+    "original_title": "‘We’ll run out of food this week’: Israel’s Iran war brings new Gaza siege",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rjwdf1/well_run_out_of_food_this_week_israels_iran_war/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "Gaza, Israel",
+      "latitude": 31.5,
+      "longitude": 34.45,
+      "detailed_analysis": "The conflict between Israel and Iran has led to a new siege in Gaza, resulting in a humanitarian crisis with food shortages expected within the week. This situation poses a significant threat to personnel and assets in the region due to the potential for escalation and the already dire conditions.",
+      "immediate_forecast_24h": "The situation is expected to deteriorate further with increased tensions and potential for violence, affecting aviation and cargo operations in and around the region.",
+      "strategic_outlook": "Long-term, the conflict could lead to a prolonged siege, impacting regional stability and affecting transport and logistics operations for an extended period.",
+      "operational_impact": "The siege and conflict could severely impact the movement of cargo and personnel, with potential disruptions to aviation and ground transport, necessitating contingency planning and heightened security measures.",
+      "proximity_alert": null
+    }
   }
 ]
