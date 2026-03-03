@@ -473,5 +473,43 @@
       "operational_impact": "Flights to and from the region may be cancelled or rerouted, and airlines may need to implement additional security measures, such as increased screening and surveillance, to ensure passenger safety.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "412cbfcb52602ef08ad8e569bf26fb8e",
+    "timestamp": "2026-03-03T04:52:32.279337",
+    "original_title": "US strikes on Iran triggered by Israel’s plan to launch attack, Rubio says",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rjf947/us_strikes_on_iran_triggered_by_israels_plan_to/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Iran/Israel/US",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "US strikes on Iran triggered by Israel’s plan to launch an attack pose a significant threat to regional stability, potentially disrupting air traffic and logistics in the area.",
+      "immediate_forecast_24h": "Escalation of military actions between the US, Israel, and Iran, potentially leading to increased tensions and conflict in the region.",
+      "strategic_outlook": "Long-term implications include potential disruption of global oil supplies, increased terrorism risk, and heightened tensions between nations in the region.",
+      "operational_impact": "Potential disruption to air traffic, increased security measures for cargo and personnel, and heightened risk of conflict-related incidents affecting transport and logistics in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "965699692e0d81f39d0c504f03b7a39c",
+    "timestamp": "2026-03-03T04:52:35.416169",
+    "original_title": "Live: US embassy in Saudi Arabia hit by drones, Americans urged to leave dozens of countries",
+    "link": "https://www.france24.com/en/middle-east/20260303-live-us-embassy-in-saudi-arabia-attacked-americans-urged-to-leave-dozens-of-countries",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Terrorism/Aviation/Conflict",
+      "risk_score": 10,
+      "location": "Riyadh, Saudi Arabia",
+      "latitude": 24.7136,
+      "longitude": 46.6753,
+      "detailed_analysis": "The US embassy in Saudi Arabia was hit by drones, sparking a small fire, as part of a larger escalation of conflict between Iran and the US/Israel. This incident poses a significant threat to aviation and personnel in the region.",
+      "immediate_forecast_24h": "Further retaliatory strikes are likely, potentially targeting energy facilities, transportation hubs, and other critical infrastructure. Americans have been urged to leave dozens of countries, indicating a heightened sense of risk.",
+      "strategic_outlook": "The conflict is expected to continue for several weeks, with potential for further escalation and expansion to other countries in the region. This could lead to increased instability, disruption to logistics and supply chains, and heightened security measures.",
+      "operational_impact": "The drone attack on the US embassy may lead to increased security measures at airports and other critical infrastructure, potentially causing delays or disruptions to flights and cargo operations. The conflict may also impact fuel prices and availability, affecting the operational costs of aviation and logistics companies.",
+      "proximity_alert": "YAKIN TEHDİT: King Khalid International Airport (27 km)"
+    }
   }
 ]
