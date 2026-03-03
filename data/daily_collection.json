@@ -150,5 +150,81 @@
       "operational_impact": "The strike on the school may have a significant impact on transport and logistics in the region, particularly if the incident is perceived as a deliberate attack on civilians. This could lead to increased security protocols, route changes, or other operational adjustments to mitigate the risk of similar incidents in the future.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "11bde1270ec1e7e4db0e798afc8fa6a3",
+    "timestamp": "2026-03-03T23:33:48.466840",
+    "original_title": "Guthrie Releases Statement Following Briefing on Ongoing Military Strikes in Iran - Congressman Brett Guthrie (.gov)",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA1N1hJU2dYNVdCYnIyakJhbjhkSEsxb3hUVHhiMUstNmk0ZFFMQWlGcUFMRnp1WENuVGlqSlJqM0RubTZaQzhxMzI2SVZEN1IyTmdwQnhUdFY1V1dhbW95VGRvT0tCT0gtSGJiZzB1bHltWFUyeEVZ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Ongoing military strikes in Iran pose a significant threat to aviation and personnel in the region. The conflict may lead to disruptions in air traffic, potential drone sightings, or even crashes, affecting the safety of aircraft and crew.",
+      "immediate_forecast_24h": "Increased military activity may lead to heightened tensions, potentially resulting in more strikes or retaliatory actions, affecting air travel and logistics in the region.",
+      "strategic_outlook": "The ongoing conflict may lead to a long-term destabilization of the region, affecting trade routes, cargo transport, and the overall security of assets and personnel.",
+      "operational_impact": "Potential disruptions to air traffic, increased security measures, and possible rerouting of flights may impact logistics and transport operations in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "f11429ba397e9ca2f599ab8ba5d8ea68",
+    "timestamp": "2026-03-03T23:33:50.393671",
+    "original_title": "USS Delbert D. Black (DDG 119) Fires a Tomahawk Land Attack Missile - centcom.mil",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CSll3Z3JwYWhrN0lWNFYxNk42ZkpmZ2tOWnJ3NWd6SUlDQmxyeFZQR1N2ZGtFOGs0cEFmc1hSN3pRSGNOalItMzhWT0ltVi1tQWxsVFBiS01Sell1eGE3QUVpLU5GTk1C?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Middle East",
+      "latitude": 25.276987,
+      "longitude": 55.296249,
+      "detailed_analysis": "The USS Delbert D. Black (DDG 119) firing a Tomahawk Land Attack Missile indicates a significant military operation, potentially targeting hostile entities or strategic locations. This action may lead to escalation or retaliation, affecting regional stability and potentially impacting aviation and cargo operations.",
+      "immediate_forecast_24h": "Increased military activity and heightened tensions in the region are expected. Potential for retaliatory strikes or increased insurgency activity.",
+      "strategic_outlook": "Long-term implications include potential for prolonged conflict, increased security measures for aviation and cargo, and possible disruptions to global supply chains.",
+      "operational_impact": "Transport and logistics operations in the region may be affected due to increased security measures, potential airspace restrictions, and heightened risk of attacks on personnel and assets.",
+      "proximity_alert": "YAKIN TEHDİT: DUBAİ (25 km)"
+    }
+  },
+  {
+    "id": "4cc81046087e35758f1cf24cdacbd408",
+    "timestamp": "2026-03-03T23:33:54.916943",
+    "original_title": "Ray Takeyh: 'Iran is not a personalised dictatorship, it's an ideological system'",
+    "link": "https://www.france24.com/en/video/20260303-iran-is-not-a-personalised-dictatorship-it-s-an-ideological-system-1",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The ongoing war in Iran poses a significant threat to regional stability, with the US military strategy lacking a clear exit plan. This could lead to prolonged conflict, affecting aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Increased tensions and potential escalation of violence, with possible disruptions to air traffic and logistics in the region.",
+      "strategic_outlook": "Long-term instability in Iran could have far-reaching consequences for global security, trade, and economic stability, with potential impacts on aviation and cargo operations worldwide.",
+      "operational_impact": "Potential disruptions to air traffic, increased security measures, and possible restrictions on cargo shipments to and from the region, affecting transport and logistics operations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "2356e2cd4cfebc7b79b78f40612f31fc",
+    "timestamp": "2026-03-03T23:33:58.040158",
+    "original_title": "Summer Travel Misery: American Airlines Slams United’s ‘Reckless’ Tactics at Chicago O’Hare to ‘Flood the Zone’",
+    "link": "https://www.paddleyourownkanoo.com/2026/03/03/summer-travel-misery-american-airlines-slams-uniteds-reckless-tactics-at-chicago-ohare-to-flood-the-zone/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Aviation/Civil Unrest",
+      "risk_score": 10,
+      "location": "Chicago, USA",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "detailed_analysis": "American Airlines has accused United Airlines of 'reckless' tactics by increasing flights at Chicago O'Hare, potentially causing travel disruptions for millions of passengers.",
+      "immediate_forecast_24h": "Increased air traffic and potential delays at Chicago O'Hare airport, but no immediate threat to safety or security.",
+      "strategic_outlook": "Long-term impact on airline operations and passenger experience at Chicago O'Hare, potentially leading to changes in airline strategies or airport management.",
+      "operational_impact": "Potential delays and increased air traffic congestion at Chicago O'Hare airport, affecting aviation operations and passenger travel plans.",
+      "proximity_alert": "YAKIN TEHDİT: Chicago O'Hare International Airport (0 km)"
+    }
   }
 ]
