@@ -1689,5 +1689,43 @@
       "operational_impact": "Potential disruptions to supply chains and logistics operations due to increased security measures and violence in the region.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "860af002de115bcb93f096140ebf873e",
+    "timestamp": "2026-03-03T16:09:49.395442",
+    "original_title": "Iran Live Updates: Global Markets Tumble After U.S. Warns War Could Last Weeks",
+    "link": "https://www.nytimes.com/live/2026/03/03/world/iran-war-israel-lebanon-trump",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Middle East",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The conflict between the U.S., Israel, and Iran is escalating, with potential for widespread disruption to global markets, oil and gas supplies, and aviation. The involvement of Iran-backed Hezbollah and the exchange of rocket fire increases the risk of further violence and instability in the region.",
+      "immediate_forecast_24h": "Increased military operations and potential for further escalation, with possible impacts on air travel and cargo shipments in the region.",
+      "strategic_outlook": "Prolonged conflict could lead to significant and long-lasting disruptions to global supply chains, particularly for oil and gas, with potential for increased prices and decreased availability.",
+      "operational_impact": "Potential for flight disruptions, increased security measures, and possible restrictions on cargo shipments to and from the region, with impacts on logistics and supply chain operations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "38813655128f4009ceb79279118b0d25",
+    "timestamp": "2026-03-03T16:09:55.032574",
+    "original_title": "Trump to POLITICO: Iran is 'running out of launchers' but says \"They’ll keep lobbing missiles for a while\"",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rjsz3w/trump_to_politico_iran_is_running_out_of/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The statement by Trump suggests that Iran's missile capabilities are depleting, but they may continue to launch missiles, posing a threat to regional stability and potentially affecting aviation and cargo operations.",
+      "immediate_forecast_24h": "Increased tensions between Iran and other nations, potential for retaliatory actions, and heightened security measures in the region.",
+      "strategic_outlook": "Long-term escalation of conflict, disruption to global supply chains, and potential for widespread instability in the Middle East.",
+      "operational_impact": "Possible disruptions to air traffic, increased security checks for cargo and personnel, and heightened vigilance for potential missile threats in the region.",
+      "proximity_alert": null
+    }
   }
 ]
