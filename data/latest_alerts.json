@@ -1,43 +1,5 @@
 [
   {
-    "id": "412cbfcb52602ef08ad8e569bf26fb8e",
-    "timestamp": "2026-03-03T04:52:32.279337",
-    "original_title": "US strikes on Iran triggered by Israel’s plan to launch attack, Rubio says",
-    "link": "https://www.reddit.com/r/worldnews/comments/1rjf947/us_strikes_on_iran_triggered_by_israels_plan_to/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 8,
-      "location": "Iran/Israel/US",
-      "latitude": 32.0,
-      "longitude": 53.0,
-      "detailed_analysis": "US strikes on Iran triggered by Israel’s plan to launch an attack pose a significant threat to regional stability, potentially disrupting air traffic and logistics in the area.",
-      "immediate_forecast_24h": "Escalation of military actions between the US, Israel, and Iran, potentially leading to increased tensions and conflict in the region.",
-      "strategic_outlook": "Long-term implications include potential disruption of global oil supplies, increased terrorism risk, and heightened tensions between nations in the region.",
-      "operational_impact": "Potential disruption to air traffic, increased security measures for cargo and personnel, and heightened risk of conflict-related incidents affecting transport and logistics in the region.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "965699692e0d81f39d0c504f03b7a39c",
-    "timestamp": "2026-03-03T04:52:35.416169",
-    "original_title": "Live: US embassy in Saudi Arabia hit by drones, Americans urged to leave dozens of countries",
-    "link": "https://www.france24.com/en/middle-east/20260303-live-us-embassy-in-saudi-arabia-attacked-americans-urged-to-leave-dozens-of-countries",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Terrorism/Aviation/Conflict",
-      "risk_score": 10,
-      "location": "Riyadh, Saudi Arabia",
-      "latitude": 24.7136,
-      "longitude": 46.6753,
-      "detailed_analysis": "The US embassy in Saudi Arabia was hit by drones, sparking a small fire, as part of a larger escalation of conflict between Iran and the US/Israel. This incident poses a significant threat to aviation and personnel in the region.",
-      "immediate_forecast_24h": "Further retaliatory strikes are likely, potentially targeting energy facilities, transportation hubs, and other critical infrastructure. Americans have been urged to leave dozens of countries, indicating a heightened sense of risk.",
-      "strategic_outlook": "The conflict is expected to continue for several weeks, with potential for further escalation and expansion to other countries in the region. This could lead to increased instability, disruption to logistics and supply chains, and heightened security measures.",
-      "operational_impact": "The drone attack on the US embassy may lead to increased security measures at airports and other critical infrastructure, potentially causing delays or disruptions to flights and cargo operations. The conflict may also impact fuel prices and availability, affecting the operational costs of aviation and logistics companies.",
-      "proximity_alert": "YAKIN TEHDİT: King Khalid International Airport (27 km)"
-    }
-  },
-  {
     "id": "72b65dcdbfe4970306a85c76b70861ff",
     "timestamp": "2026-03-03T05:55:28.061641",
     "original_title": "Trump: US will retaliate following service member deaths, drone attack - NewsNation",
@@ -130,6 +92,82 @@
       "strategic_outlook": "The long-term outlook suggests continued tensions between Afghanistan and Pakistan, which could lead to sustained instability and security risks for assets, cargo, aviation, and personnel in the region.",
       "operational_impact": "The conflict may cause delays or cancellations of flights, and disruptions to cargo transport, posing significant operational challenges for companies and organizations operating in the area.",
       "proximity_alert": "YAKIN TEHDİT: Hamid Karzai International Airport (5 km)"
+    }
+  },
+  {
+    "id": "a2d5662143ef531f6b10f9828446d829",
+    "timestamp": "2026-03-03T07:02:40.028126",
+    "original_title": "At least 42 civilians killed in Afghanistan in conflict with Pakistan, UN agency says - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdnJjQVl5NW1JUTA3MDllVlNYNE1rVEYzeDhsa3RVNVY2dHI5Y1V6M3BibGgtb3FROWprbFNZYnNoeWEtaGZXWmpUX1Z0azF4S1Nla3l0STlmeHFhbTMyaEhMcFpickNVNnRhTEVrYTdTMlFOTUlGQ0lmbHNkbnN4MkpCc0ZUd3JYQlZ4cENoOWtYQllPaXFJZVpKTWt6cm9tYVdBQzBHQW5ES3ZDWGFkSG5GOUlBOXRwWTUwT2ZydVlyMFZ2ajA4Ymd3?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "Afghanistan/Pakistan border",
+      "latitude": 33.9391,
+      "longitude": 67.7101,
+      "detailed_analysis": "The conflict between Afghanistan and Pakistan has resulted in at least 42 civilian casualties, indicating a high level of violence and instability in the region. This could impact transport and logistics operations, particularly for cargo and personnel moving across the border.",
+      "immediate_forecast_24h": "The situation is likely to remain volatile, with potential for further clashes and escalation of violence. Transport and logistics operations may be disrupted or suspended due to the conflict.",
+      "strategic_outlook": "The long-term outlook for the region remains uncertain, with ongoing tensions between Afghanistan and Pakistan. This could lead to sustained instability and security risks for transport and logistics operations, requiring careful planning and risk management.",
+      "operational_impact": "The conflict may impact road and air transport operations, potentially disrupting supply chains and affecting the movement of cargo and personnel. Aviation operations may also be affected, particularly if there are concerns about airspace safety or security.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "eddad6e607c5550d9bc38db3e65637c4",
+    "timestamp": "2026-03-03T07:02:44.111037",
+    "original_title": "Iran Escalates Retaliatory Strikes as U.S. Signals Long Battle",
+    "link": "https://www.nytimes.com/live/2026/03/02/world/iran-us-israel-attack-trump",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 10,
+      "location": "Riyadh, Saudi Arabia/U.A.E./Lebanon",
+      "latitude": 24.7136,
+      "longitude": 46.6753,
+      "detailed_analysis": "Iranian retaliatory strikes on the U.A.E. and the U.S. Embassy in Riyadh being hit by drones, along with Israel attacking Hezbollah targets in Lebanon, indicate a significant escalation in conflict. This poses a high risk to aviation, with potential for further drone sightings or strikes, and impacts regional stability.",
+      "immediate_forecast_24h": "Increased military activity and potential for further retaliatory strikes from Iran or its allies, heightened security measures at airports and embassies, and possible disruptions to air travel in the region.",
+      "strategic_outlook": "A prolonged conflict could lead to sustained instability in the region, affecting global oil prices, air travel, and logistics. The involvement of multiple countries increases the complexity and potential for further escalation.",
+      "operational_impact": "Potential for flight disruptions, increased security checks, and possible rerouting of flights to avoid conflict zones. Cargo and logistics operations may also be impacted due to heightened security measures and potential for supply chain disruptions.",
+      "proximity_alert": "YAKIN TEHDİT: King Khalid International Airport (27 km)"
+    }
+  },
+  {
+    "id": "f49e1189bc821e0cfedce0ba592e1c20",
+    "timestamp": "2026-03-03T07:02:47.346666",
+    "original_title": "Zelensky proposes sending Ukrainian drone experts to Middle East in ceasefire push",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rji4n6/zelensky_proposes_sending_ukrainian_drone_experts/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 7,
+      "location": "Middle East",
+      "latitude": 30.0,
+      "longitude": 40.0,
+      "detailed_analysis": "Ukrainian drone experts proposed to be sent to the Middle East could potentially disrupt or escalate conflict in the region, posing a risk to aviation and transport logistics.",
+      "immediate_forecast_24h": "Increased tensions and potential drone activity in the region may lead to heightened security measures and disruptions to air traffic.",
+      "strategic_outlook": "Long-term deployment of Ukrainian drone experts could lead to a shift in the regional balance of power, potentially impacting global supply chains and transport routes.",
+      "operational_impact": "Potential disruptions to air traffic, increased security screening, and altered transport routes may impact logistics and supply chain operations in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "b6764c1a64fd5a91d58cc9d7689f35bf",
+    "timestamp": "2026-03-03T07:02:50.453327",
+    "original_title": "Live: Israeli military announces 'simultaneous strikes' on Tehran, Beirut",
+    "link": "https://www.france24.com/en/middle-east/20260303-live-us-embassy-in-saudi-arabia-attacked-americans-urged-to-leave-dozens-of-countries",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 10,
+      "location": "Tehran, Iran and Beirut, Lebanon",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The Israeli military has carried out simultaneous strikes on Tehran and Beirut, targeting militant and strategic sites. Additionally, Iran has launched a drone strike on the US embassy in Saudi Arabia, causing minor damage. This escalation of violence poses a significant threat to aviation, cargo, and personnel in the region.",
+      "immediate_forecast_24h": "Increased tensions and potential for further retaliatory strikes are expected in the next 24 hours, with a high risk of disruption to air travel and logistics in the region.",
+      "strategic_outlook": "The long-term outlook is uncertain, but the conflict has the potential to escalate into a wider regional conflict, posing a significant threat to global stability and security.",
+      "operational_impact": "The strikes and drone attack are likely to cause significant disruptions to air travel, cargo transport, and logistics in the region, with potential delays, cancellations, and increased security measures.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
     }
   }
 ]
