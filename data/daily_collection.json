@@ -568,5 +568,43 @@
       "operational_impact": "Shipping companies and airlines may need to reassess routes and security protocols, potentially leading to increased costs and delays, while the threat of missile or drone attacks poses a direct risk to personnel and assets in the region.",
       "proximity_alert": "YAKIN TEHDİT: Beirut–Rafic Hariri International Airport (0 km)"
     }
+  },
+  {
+    "id": "f6f1b6b1d8407dfe1869dcd1fe5d4811",
+    "timestamp": "2026-03-04T07:46:55.247572",
+    "original_title": "War in Middle East live: French fighter jets ‘neutralised’ drones targeting UAE, FM Barrot says",
+    "link": "https://www.france24.com/en/middle-east/20260304-live-deadly-strikes-in-lebanon-iran-claims-complete-control-of-strait-of-hormuz",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "United Arab Emirates, Middle East",
+      "latitude": 24.0,
+      "longitude": 54.0,
+      "detailed_analysis": "French fighter jets neutralized Iranian drones targeting the UAE, indicating a high level of military activity and potential for escalation in the region, posing a significant threat to aviation and regional stability.",
+      "immediate_forecast_24h": "Increased military presence and heightened alertness in the region, potential for further drone sightings or military engagements, and possible disruptions to air traffic.",
+      "strategic_outlook": "Long-term tensions between Iran and its adversaries, including the UAE and Israel, may lead to sustained military activity and instability in the region, affecting aviation and logistics operations.",
+      "operational_impact": "Potential disruptions to air traffic, increased security measures at airports, and heightened risk of attacks on aviation assets, which may impact cargo transport and personnel safety in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "9766e72057afccec25981ede441963f9",
+    "timestamp": "2026-03-04T07:46:58.277735",
+    "original_title": "Nepal - Level 3: Reconsider Travel",
+    "link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/nepal-travel-advisory.html",
+    "source_name": "US State Dept",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Kathmandu, Nepal",
+      "latitude": 27.7172,
+      "longitude": 85.324,
+      "detailed_analysis": "Civil unrest and protests in Nepal have turned violent, resulting in deaths and injuries. Local authorities have declared curfews in major cities, and additional protests and curfews could happen with little warning.",
+      "immediate_forecast_24h": "Increased protests and demonstrations are expected, with a high likelihood of violence and disruptions to daily life. Emergency services may be delayed or unavailable.",
+      "strategic_outlook": "The situation in Nepal is likely to remain volatile in the coming days and weeks, with ongoing protests and demonstrations. The U.S. government has limited ability to provide emergency services to U.S. citizens in Nepal.",
+      "operational_impact": "Transportation and logistics may be disrupted due to protests, curfews, and potential violence. Airlines and hotels may be affected, and travelers should be prepared for evacuations and changes to their plans.",
+      "proximity_alert": "YAKIN TEHDİT: Tribhuvan International Airport (4 km)"
+    }
   }
 ]
