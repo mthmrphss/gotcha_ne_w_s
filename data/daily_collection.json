@@ -1005,5 +1005,81 @@
       "operational_impact": "Potential delays and increased costs for cargo shipments, particularly oil tankers, and disruptions to air travel in the region.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "1d65530fec8bc34d6ebaa6d066975b68",
+    "timestamp": "2026-03-04T11:37:32.120006",
+    "original_title": "Dubai influencers 'interrupted' by Iran strikes wake up from a 'senseless dream'",
+    "link": "https://www.france24.com/en/tv-shows/press-review/20260304-dubai-influencers-interrupted-by-iran-strikes-wake-up-from-a-senseless-dream",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Dubai, UAE",
+      "latitude": 25.276987,
+      "longitude": 55.296249,
+      "detailed_analysis": "The recent Iran strikes have created a sense of uncertainty and fear among influencers and expats living in Dubai, potentially disrupting their daily lives and activities. This could have a ripple effect on the local economy and aviation industry.",
+      "immediate_forecast_24h": "Increased security measures and heightened alertness are expected in the next 24 hours, with potential disruptions to flights and logistics operations.",
+      "strategic_outlook": "The ongoing conflict in the Middle East may lead to a long-term increase in security threats, affecting the stability and safety of the region, and potentially impacting global aviation and logistics operations.",
+      "operational_impact": "Potential disruptions to flights, increased security screening, and possible delays or cancellations of cargo shipments may occur, affecting the operational efficiency of airlines, airports, and logistics companies.",
+      "proximity_alert": "YAKIN TEHDİT: DUBAİ (25 km)"
+    }
+  },
+  {
+    "id": "27b2aeb2d1a75e6f1cbd4572eb58e607",
+    "timestamp": "2026-03-04T11:37:34.289302",
+    "original_title": "Energy prices start climbing after war closes Strait of Hormuz down",
+    "link": "https://www.france24.com/en/energy-prices-start-climbing-after-war-closes-strait-of-hormuz-down",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "Strait of Hormuz, Middle East",
+      "latitude": 26.0,
+      "longitude": 56.0,
+      "detailed_analysis": "The closure of the Strait of Hormuz due to the conflict between the US, Israel, and Iran poses a significant threat to global energy supplies and shipping routes. The blockage of traffic through the strait has led to rising energy prices and concerns about the safety of vessels passing through the area.",
+      "immediate_forecast_24h": "Increased tensions and potential for further conflict in the region, with a high likelihood of Iranian attacks on shipping vessels. The US provision of political risk insurance for vessels may help to mitigate some of the risks, but the situation remains volatile.",
+      "strategic_outlook": "The long-term implications of the conflict and the closure of the Strait of Hormuz could lead to a significant shift in global energy markets and trade routes. The situation may escalate into a broader regional conflict, with potential consequences for global stability and security.",
+      "operational_impact": "The conflict and closure of the Strait of Hormuz will have a significant impact on transport and logistics, particularly for energy supplies. Shipping companies and vessels may need to take alternative routes, which could lead to increased costs and transit times. The situation may also lead to shortages and price increases for energy and other goods.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "bd14fa047a10ddb357d06d943fee4dd9",
+    "timestamp": "2026-03-04T11:37:36.318153",
+    "original_title": "Israeli hospitals move underground as Iran strikes carry on",
+    "link": "https://www.france24.com/en/israeli-hospitals-move-underground-as-iran-strikes-carry-on",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 8,
+      "location": "North of Israel",
+      "latitude": 32.9965,
+      "longitude": 35.3789,
+      "detailed_analysis": "Ongoing rocket fire from Iran has prompted Israeli hospitals to move operations underground to ensure patient safety and minimize disruption to healthcare services. The situation poses a significant threat to personnel and assets in the region.",
+      "immediate_forecast_24h": "Continued rocket strikes and potential escalation of violence are expected, with possible expansion of the conflict zone. Hospitals and emergency services may face increased pressure.",
+      "strategic_outlook": "The conflict may lead to a prolonged period of instability, affecting aviation, cargo, and personnel in the region. The situation may also have broader implications for regional security and global geopolitics.",
+      "operational_impact": "Transportation and logistics in the region may be severely impacted, with potential disruptions to air travel, cargo shipments, and ground transportation. Personnel and assets in the area are at high risk due to the ongoing violence.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "3be2247d94f41ebaf73d08e1ff31b949",
+    "timestamp": "2026-03-04T11:37:38.187861",
+    "original_title": "US assets in Gulf states targeted by Iranian strikes",
+    "link": "https://www.france24.com/en/us-assets-in-gulf-states-targeted-by-iranian-strikes",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 10,
+      "location": "Riyadh, Saudi Arabia",
+      "latitude": 24.7136,
+      "longitude": 46.6753,
+      "detailed_analysis": "The US embassy in Riyadh was hit by two drones suspected to be from Iran, causing a fire and minor material damage. This incident is part of a larger pattern of attacks targeting US assets in the Gulf states amid Iran's retaliation to US-Israeli strikes.",
+      "immediate_forecast_24h": "Increased tensions and potential for further attacks on US assets in the region, potentially disrupting aviation and logistics operations.",
+      "strategic_outlook": "Escalating conflict between the US, Israel, and Iran could lead to prolonged instability in the region, affecting transport and logistics for an extended period.",
+      "operational_impact": "Potential disruptions to air travel, cargo transport, and personnel movement in the Gulf states, with increased security measures and possible rerouting of flights and shipments.",
+      "proximity_alert": "YAKIN TEHDİT: King Khalid International Airport (27 km)"
+    }
   }
 ]
