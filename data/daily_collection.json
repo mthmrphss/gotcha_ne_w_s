@@ -1385,5 +1385,81 @@
       "operational_impact": "Potential disruptions to air traffic, increased security measures for aviation operations in the region, and possible rerouting of flights to avoid the conflict area, affecting transport and logistics operations.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "dc99e59afc2826528bf4f602c0485f39",
+    "timestamp": "2026-03-04T16:05:38.458022",
+    "original_title": "US and Ecuador launch military operation against organized crime groups - AP News",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcTRwdXlUbEVPX1dMdVBuNDJ0ZVVKTHF2V2JpZVQtUUJOZkpmcE41bkZIeUt3Tk84S0t1d3R4b0M2T3pCWWRQQlZyZ0ZYM29vUXVhMkZJRE1DWndHZ1JieVJsd2Vac1BsRnNfRjA5dkJfR2t5RnRtTlFCQV9DQ2pGZV95UTFLZkZpN19jUWU0RG5YQnNSM1lBajItZWlwWjEyYjB1ejE4WGNYYl9JYVFZZA?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Crime",
+      "risk_score": 6,
+      "location": "Ecuador",
+      "latitude": -1.831239,
+      "longitude": -78.183406,
+      "detailed_analysis": "The US and Ecuador have launched a joint military operation against organized crime groups, which may lead to increased security measures and potential disruptions to logistics and transportation in the region.",
+      "immediate_forecast_24h": "Increased military presence and potential clashes with organized crime groups may lead to short-term disruptions to transport and logistics in the region.",
+      "strategic_outlook": "The operation may lead to a long-term reduction in organized crime activity in the region, improving security and reducing the risk of cargo theft and smuggling.",
+      "operational_impact": "Transport and logistics operators should be prepared for potential delays and disruptions in the region, and consider alternative routes or security measures to mitigate the risks associated with the military operation.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "806c1204df53d68220700056f41d341f",
+    "timestamp": "2026-03-04T16:05:42.645537",
+    "original_title": "Iranian warship IRIS Dena destroyed by US submarine.",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1rknza3/iranian_warship_iris_dena_destroyed_by_us/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Galle, Sri Lanka",
+      "latitude": 6.0243,
+      "longitude": 80.2173,
+      "detailed_analysis": "The sinking of an Iranian warship by a US submarine in the Indian Ocean near Sri Lanka significantly escalates tensions between the US and Iran, posing a threat to maritime security and global stability. The incident may lead to retaliatory actions, affecting shipping lanes and aviation routes.",
+      "immediate_forecast_24h": "Increased naval presence in the region, potential for further clashes, and heightened alertness among shipping and aviation operators. The US and Iranian governments may issue statements or take actions that could further escalate the situation.",
+      "strategic_outlook": "Long-term implications include a potential shift in the regional balance of power, increased military presence, and heightened tensions between the US and Iran. This could lead to a prolonged period of instability, affecting global trade and economic interests.",
+      "operational_impact": "Shipping and aviation operators should exercise caution when navigating the region, as the risk of conflict and retaliatory actions increases. Potential disruptions to supply chains, increased insurance premiums, and enhanced security measures may be necessary to mitigate the risks associated with operating in the area.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "72c3bf771c913bb127853fa2fc7b7526",
+    "timestamp": "2026-03-04T16:05:45.152581",
+    "original_title": "Attack reported on army base in Iran’s Kurdish region",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rko4vm/attack_reported_on_army_base_in_irans_kurdish/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 8,
+      "location": "Iran's Kurdish region, Iran",
+      "latitude": 36.2389,
+      "longitude": 45.3188,
+      "detailed_analysis": "An attack has been reported on an army base in Iran's Kurdish region, indicating a potential escalation of conflict in the area. This could lead to increased instability and pose a threat to nearby assets, cargo, aviation, and personnel.",
+      "immediate_forecast_24h": "In the next 24 hours, there is a high likelihood of continued clashes and potential retaliation, which may impact transport and logistics in the region.",
+      "strategic_outlook": "In the long term, this incident may contribute to increased tensions between Iran and neighboring countries, potentially affecting regional stability and trade routes.",
+      "operational_impact": "The attack may disrupt land and air transport in the region, posing a risk to cargo and personnel. Aviation operations may be affected due to potential airspace restrictions or security concerns.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "16466427ff4a2c095e0f5f827309e787",
+    "timestamp": "2026-03-04T16:05:50.018325",
+    "original_title": "New airstrikes hit Beirut’s southern suburbs after Israeli warning",
+    "link": "http://www.africanews.com/2026/03/04/new-airstrikes-hit-beiruts-southern-suburbs-after-israeli-warning/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 10,
+      "location": "Beirut, Lebanon",
+      "latitude": 33.8938,
+      "longitude": 35.5018,
+      "detailed_analysis": "New airstrikes hit Beirut’s southern suburbs after Israeli warning, with buildings hit in Haret Hreik, indicating heightened conflict and potential aviation risks",
+      "immediate_forecast_24h": "Increased tensions and potential for further airstrikes, impacting aviation and ground operations",
+      "strategic_outlook": "Prolonged conflict may lead to sustained disruptions in air travel, cargo transport, and personnel movements",
+      "operational_impact": "Potential for flight disruptions, airspace restrictions, and increased security measures for aviation and logistics operations",
+      "proximity_alert": "YAKIN TEHDİT: Beirut–Rafic Hariri International Airport (0 km)"
+    }
   }
 ]
