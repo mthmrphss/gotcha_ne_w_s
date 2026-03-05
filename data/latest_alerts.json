@@ -74,5 +74,81 @@
       "operational_impact": "The conflict is likely to cause significant disruptions to transport and logistics operations in the region, including aviation and shipping. Cargo and personnel may be at risk, and alternative routes or contingency plans may be necessary.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "729ce451477266fcb49ba8d21d23a248",
+    "timestamp": "2026-03-05T05:54:14.911516",
+    "original_title": "Chinese military flights around Taiwan fall, Trump-Xi meeting may be factor - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNS3FPcG9YMEl0eGJMZ0laNndDR2QyOFlvZGVEZENMNHluam1BeHVzakhvbnAtXzVvdTJZajdCbF8wNXFoOXR1ZHhvZDAxRXBwejk3SEU4WklvVXRuOGZkUVJBSUxKUE1ma0ZJRlR1QUd1QTI3YTVIdE9oTHdubEVra0JUY2I1VkNqNWhhOG8ydVBTZjhhUjIydlkyRmlIU2xIM1ZsdkItUnpEMVFLMFp0Zl9udkpqeXI5OTUzMVVtcm1sUzVRbWtEaGU1SWNPYzBEd004?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 6,
+      "location": "Taiwan, China",
+      "latitude": 23.5,
+      "longitude": 121.0,
+      "detailed_analysis": "Chinese military flights around Taiwan have decreased, potentially due to the meeting between Trump and Xi, indicating a temporary reduction in tensions that could impact aviation and regional security.",
+      "immediate_forecast_24h": "The decrease in military flights may continue in the short term, but the situation remains volatile and could escalate if diplomatic efforts fail.",
+      "strategic_outlook": "The long-term outlook depends on the outcome of diplomatic meetings and the overall relationship between the US, China, and Taiwan, which could lead to increased tensions and military activity in the region.",
+      "operational_impact": "The current decrease in military flights may reduce the risk of aviation incidents in the short term, but the situation requires continued monitoring due to the potential for rapid escalation and impact on regional transport and logistics.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "4f53cf2f2307543969e409adb295fbff",
+    "timestamp": "2026-03-05T05:54:19.233107",
+    "original_title": "Pakistani terrorist, accused of plotting to kill Trump and Biden, claims Iran hired him",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rl97bv/pakistani_terrorist_accused_of_plotting_to_kill/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict",
+      "risk_score": 10,
+      "location": "Pakistan/Iran/US",
+      "latitude": 33.7294,
+      "longitude": 73.0931,
+      "detailed_analysis": "A Pakistani terrorist has been accused of plotting to kill high-profile targets, including Trump and Biden, with claims that Iran hired him. This indicates a potential escalation in geopolitical tensions and terrorism threats, particularly against aviation and high-profile personnel.",
+      "immediate_forecast_24h": "Increased security measures are expected at major airports and diplomatic missions, with potential travel disruptions and heightened alertness for potential copycat attacks or retaliatory measures.",
+      "strategic_outlook": "Long-term implications include strained diplomatic relations between the US, Pakistan, and Iran, potentially leading to increased security protocols, travel restrictions, and heightened surveillance, affecting global aviation and logistics.",
+      "operational_impact": "Potential delays and increased security checks at airports, particularly for flights to and from the US, Pakistan, and Iran, may impact cargo and personnel movement, requiring contingency planning and enhanced security measures for transport and logistics operations.",
+      "proximity_alert": "YAKIN TEHDİT: Islamabad International Airport (4 km)"
+    }
+  },
+  {
+    "id": "45f02c35ffe6b0bf971159039f342efa",
+    "timestamp": "2026-03-05T05:54:21.017099",
+    "original_title": "Russia Automatically Bans Men From Leaving Country After Missing Military Enlistment Summons",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rl8ph0/russia_automatically_bans_men_from_leaving/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Border/Conflict",
+      "risk_score": 6,
+      "location": "Russia",
+      "latitude": 61.524,
+      "longitude": 105.3188,
+      "detailed_analysis": "Russia has implemented a policy to automatically ban men from leaving the country if they miss a military enlistment summons, potentially impacting travel and logistics for individuals and organizations",
+      "immediate_forecast_24h": "Increased scrutiny at border crossings and potential disruptions to air travel as men of military age may be detained or questioned",
+      "strategic_outlook": "Long-term implications for international relations, trade, and travel to and from Russia, with potential escalation of conflict",
+      "operational_impact": "Delays or cancellations of flights, increased security measures at airports and border crossings, and potential disruptions to supply chains and logistics operations",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "93f3e131d16d7ae9a147207b805e40cc",
+    "timestamp": "2026-03-05T05:54:23.669647",
+    "original_title": "Live: The war in the Middle East enters its sixth day, Israel strikes Beirut again",
+    "link": "https://www.france24.com/en/middle-east/20260305-iran-launches-missiles-at-israel-as-middle-east-conflict-escalates",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 10,
+      "location": "Beirut, Lebanon",
+      "latitude": 33.8938,
+      "longitude": 35.5018,
+      "detailed_analysis": "The ongoing conflict in the Middle East has escalated with Israel striking Beirut, disrupting shipping and oil supplies. The involvement of Iran and the US, along with the spread of conflict to Lebanon, indicates a high level of instability and potential for further violence.",
+      "immediate_forecast_24h": "Expect continued airstrikes and potential retaliation from affected parties, leading to increased instability in the region and potential disruptions to aviation and maritime transport.",
+      "strategic_outlook": "The conflict may spread to other countries in the region, drawing in more international actors and potentially leading to a wider regional war. This could have long-term impacts on global oil supplies, shipping lanes, and aviation routes.",
+      "operational_impact": "Shipping and oil supplies are already being disrupted, and the conflict may lead to increased security measures at airports and seaports in the region. Airlines and shipping companies may need to reroute flights and vessels to avoid the area, leading to potential delays and increased costs.",
+      "proximity_alert": "YAKIN TEHDİT: Beirut–Rafic Hariri International Airport (0 km)"
+    }
   }
 ]
