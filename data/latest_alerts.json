@@ -93,5 +93,81 @@
       "operational_impact": "Shipping and aviation operations in the region may be affected, with potential delays or rerouting of flights and vessels. Increased security protocols may be implemented to mitigate the risk of similar attacks.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "89a2c9e83b3b725cfe72252bbf301445",
+    "timestamp": "2026-03-05T14:25:00.661230",
+    "original_title": "Live Updates: Iran Crisis Spills Beyond Mideast as Europe Ramps Up Response",
+    "link": "https://www.nytimes.com/live/2026/03/05/world/iran-war-israel-trump",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Azerbaijan/Turkey",
+      "latitude": 40.5,
+      "longitude": 47.5,
+      "detailed_analysis": "Iranian drones have landed in Azerbaijan and a missile was shot down by NATO en route to Turkish airspace, indicating heightened tensions and potential for further military action in the region, posing a significant threat to aviation and regional stability.",
+      "immediate_forecast_24h": "Increased military presence and heightened alertness in the region, potential for further drone sightings or missile launches, and possible escalation of conflict.",
+      "strategic_outlook": "Long-term instability in the Middle East, potential for broader conflict involving multiple nations, and increased security measures for aviation and logistics in the region.",
+      "operational_impact": "Potential disruptions to air traffic, increased security checks for cargo and personnel, and heightened vigilance for drone activity or other aerial threats in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "5f0f0d55034ed2f7134c48f433c18208",
+    "timestamp": "2026-03-05T14:25:02.593499",
+    "original_title": "James Luckey-Lange Recounts Being Detained, Starved and Beaten in Venezuela",
+    "link": "https://www.nytimes.com/2026/03/05/world/americas/james-luckey-lange-venezuela-detention.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Crime/Border/Conflict",
+      "risk_score": 6,
+      "location": "Venezuela",
+      "latitude": 7.0,
+      "longitude": -67.0,
+      "detailed_analysis": "The detention, starvation, and beating of James Luckey-Lange in Venezuela highlights the risks of crime and conflict in the region, which could impact personnel and potentially cargo and aviation operations.",
+      "immediate_forecast_24h": "Increased risk of similar incidents against foreigners or individuals perceived as threats, potentially disrupting local transport and logistics.",
+      "strategic_outlook": "Long-term instability and conflict in Venezuela may lead to increased migration, border breaches, and crime, affecting regional security and transport operations.",
+      "operational_impact": "Potential disruption to personnel movement, increased risk of cargo theft or confiscation, and possible delays or rerouting of aviation and logistics operations in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "30dcd366e4a422f0f2631c879a4a9ced",
+    "timestamp": "2026-03-05T14:25:05.843227",
+    "original_title": "‘US oil tanker currently on fire’: Iran says it hit American ship in Gulf with missile",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rlitym/us_oil_tanker_currently_on_fire_iran_says_it_hit/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Gulf",
+      "latitude": 26.0,
+      "longitude": 52.0,
+      "detailed_analysis": "Iran claims to have hit a US oil tanker with a missile, which is currently on fire. This incident has the potential to escalate tensions between the US and Iran, posing a significant threat to assets, cargo, aviation, and personnel in the region.",
+      "immediate_forecast_24h": "Increased naval presence and heightened alertness in the Gulf, potential for further attacks or retaliation, and possible disruptions to oil shipments.",
+      "strategic_outlook": "Long-term implications for global oil markets, potential for increased military presence in the region, and heightened tensions between the US and Iran, which could lead to further conflicts.",
+      "operational_impact": "Potential disruptions to oil shipments, increased security measures for vessels transiting the Gulf, and possible rerouting of cargo ships to avoid the affected area.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "72f24a16c78d979fbd350fbb1d5b088e",
+    "timestamp": "2026-03-05T14:25:08.521634",
+    "original_title": "Azerbaijan's President Aliyev vows retaliation after 'terrorist' drone strike blamed on Iran",
+    "link": "https://www.france24.com/en/asia-pacific/20260305-azerbaijan-s-president-aliyev-vows-retaliation-after-terrorist-drone-strike-blamed-on-iran",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Aviation/Conflict/Terrorism",
+      "risk_score": 10,
+      "location": "Nakhchivan, Azerbaijan",
+      "latitude": 39.2167,
+      "longitude": 45.4667,
+      "detailed_analysis": "A drone strike on an airport in Azerbaijan's Nakhchivan exclave, allegedly carried out by Iran, has raised significant security concerns. The attack, described as a 'terrorist act' by Azerbaijan's President Aliyev, has led to vows of retaliation, escalating tensions between the two nations.",
+      "immediate_forecast_24h": "Increased military presence and heightened security measures are expected in the region. There is a possibility of retaliatory strikes or further drone attacks, which could impact aviation operations and cargo transport in the area.",
+      "strategic_outlook": "The long-term implications of this incident could lead to a significant escalation of conflict between Azerbaijan and Iran, potentially drawing in other regional players. This could result in increased instability and security risks for assets, cargo, aviation, and personnel in the region.",
+      "operational_impact": "The drone strike and potential retaliation could lead to disruptions in air traffic, increased security screening, and potential restrictions on cargo transport. This may cause delays and increased costs for logistics operations in the region, particularly for those relying on air transport.",
+      "proximity_alert": "YAKIN TEHDİT: Nakhchivan International Airport (5 km)"
+    }
   }
 ]
