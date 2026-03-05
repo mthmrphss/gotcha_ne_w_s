@@ -74,5 +74,43 @@
       "operational_impact": "Potential for increased security measures, flight restrictions, and cargo inspections in the region, which could impact operational efficiency and safety for aviation and cargo operations.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "544d2166bdcbc457e13dfd2c8625f5c8",
+    "timestamp": "2026-03-05T21:59:21.884674",
+    "original_title": "The Adversarial: War in Iran Shapes Adversaries’ Calculations",
+    "link": "https://warontherocks.com/2026/03/the-adversarial-war-in-iran-shapes-adversaries-calculations/",
+    "source_name": "War on the Rocks",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The ongoing war in Iran, with joint military strikes by the US and Israel, poses significant threats to aviation and regional stability. Tehran's porous defenses and the targeting of senior officials, missile facilities, and naval assets increase the risk of retaliation and escalation.",
+      "immediate_forecast_24h": "Increased military activity and potential for retaliatory strikes against US and Israeli interests, including aviation assets, in the region.",
+      "strategic_outlook": "The conflict in Iran may lead to a prolonged period of instability, affecting regional security and potentially drawing in other nations, with significant implications for global aviation and logistics.",
+      "operational_impact": "Potential disruptions to air traffic, increased security measures, and heightened risk of attacks on aviation assets and personnel in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "ab1457b86442b0871e4044064b11e16f",
+    "timestamp": "2026-03-05T21:59:23.929232",
+    "original_title": "Israeli army announces start of airstrikes on southern Beirut suburb",
+    "link": "https://www.france24.com/en/israeli-army-announces-start-of-airstrikes-on-southern-beirut-suburb",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 10,
+      "location": "Beirut, Lebanon",
+      "latitude": 33.8938,
+      "longitude": 35.5018,
+      "detailed_analysis": "Israeli airstrikes on southern Beirut suburb pose a significant threat to aviation and personnel in the area, with potential for escalation and expansion of the conflict zone.",
+      "immediate_forecast_24h": "Increased airstrikes and military activity are expected in the southern Lebanon area, potentially disrupting air traffic and logistics operations.",
+      "strategic_outlook": "The ongoing conflict between Israel and Hezbollah may lead to a prolonged period of instability in the region, affecting cargo transport, aviation, and personnel safety.",
+      "operational_impact": "Potential disruptions to air traffic, logistics, and supply chain operations in the region, with increased risk of damage or loss of assets and cargo.",
+      "proximity_alert": "YAKIN TEHDİT: Beirut–Rafic Hariri International Airport (0 km)"
+    }
   }
 ]
