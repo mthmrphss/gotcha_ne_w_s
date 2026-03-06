@@ -1,43 +1,5 @@
 [
   {
-    "id": "6bd3b612298ef77335f3ecedaf460285",
-    "timestamp": "2026-03-06T19:10:57.749192",
-    "original_title": "Azerbaijan thwarts Iranian terror plot in Baku",
-    "link": "https://www.reddit.com/r/worldnews/comments/1rmmu86/azerbaijan_thwarts_iranian_terror_plot_in_baku/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Terrorism/Conflict",
-      "risk_score": 10,
-      "location": "Baku, Azerbaijan",
-      "latitude": 40.3952,
-      "longitude": 49.8824,
-      "detailed_analysis": "Azerbaijan has thwarted an Iranian terror plot in Baku, indicating a high level of threat to assets, personnel, and potentially aviation in the region.",
-      "immediate_forecast_24h": "Increased security measures are expected in Baku, with potential for retaliatory actions from Iran or its affiliates, affecting local transport and logistics.",
-      "strategic_outlook": "Long-term tensions between Azerbaijan and Iran may escalate, posing a persistent threat to regional stability and security, particularly for aviation and cargo operations.",
-      "operational_impact": "Enhanced security protocols may cause delays or disruptions to flights, cargo shipments, and ground transportation in and around Baku, with potential for spill-over effects into neighboring regions.",
-      "proximity_alert": "YAKIN TEHDİT: Heydar Aliyev International Airport (16 km)"
-    }
-  },
-  {
-    "id": "ad811516d92b3ee800c47dc48f0ddc6a",
-    "timestamp": "2026-03-06T19:10:59.782163",
-    "original_title": "Video appears to show the moment a Kuwaiti fighter jet accidentally shot down a U.S. F-15",
-    "link": "https://www.reddit.com/r/worldnews/comments/1rmmfjp/video_appears_to_show_the_moment_a_kuwaiti/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Aviation/Conflict",
-      "risk_score": 8,
-      "location": "Kuwait",
-      "latitude": 29.3117,
-      "longitude": 47.4818,
-      "detailed_analysis": "A video has surfaced showing a Kuwaiti fighter jet accidentally shooting down a U.S. F-15, indicating a high-risk incident with potential implications for aviation safety and international relations.",
-      "immediate_forecast_24h": "Investigations into the incident are likely to commence immediately, with potential for increased tensions between the U.S. and Kuwait. There may be a heightened sense of alertness among military and aviation authorities in the region.",
-      "strategic_outlook": "The long-term impact of this incident could lead to a review of military protocols and procedures to prevent similar accidents in the future. It may also affect the relationship between the U.S. and Kuwait, potentially influencing future military cooperation and operations.",
-      "operational_impact": "The incident may lead to increased security measures for military and civilian aviation operations in the region, potentially causing disruptions to flight schedules and air traffic control. There could also be an impact on the transport of cargo and personnel, particularly if the incident leads to a heightened state of alert or changes in military operations.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "b76915ad1aa6357f7598f0a949cb8473",
     "timestamp": "2026-03-06T19:56:02.778853",
     "original_title": "Israel strikes Beirut and Tehran as Trump demands Iran's 'unconditional surrender' - NPR",
@@ -110,6 +72,63 @@
       "immediate_forecast_24h": "Expect heightened tensions, potential retaliation from Iran, and increased military activity in the region. Aviation and cargo operations may be severely disrupted due to airspace restrictions and potential attacks.",
       "strategic_outlook": "The long-term consequences of this conflict could lead to a prolonged period of instability in the region, affecting global oil prices, trade routes, and the security of assets, cargo, aviation, and personnel.",
       "operational_impact": "Immediate disruption to air travel, potential closure of airspace, and increased security measures for cargo and personnel. Transport and logistics operations in the region may be severely impacted, with potential delays or cancellations of flights and shipments.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "dbddff04b90e04b82d8763cdaa68db03",
+    "timestamp": "2026-03-06T20:41:25.164772",
+    "original_title": "Hezbollah’s Attack on Israel Drags Lebanon Back to War - New Lines Magazine",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUGt0V2JfTEpSaXVTQjljTXFtRUVfR1Q4WWRrbzViampTSG1uazdJOFlQVEZFZFV2WDg3OVZ6V0NfWW54WDdoVUtBaFMwandXMHFWcURZem5nWFJKSFNRX1ZoSFI5dGFMMUZLMU4wd3pOTDR6UTNEU2p0NWo0d0txOGFQbUxGTjY4ZDFENnNBU3dIQQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 8,
+      "location": "Lebanon/Israel",
+      "latitude": 33.8547,
+      "longitude": 35.8623,
+      "detailed_analysis": "Hezbollah's attack on Israel poses a significant threat to regional stability, potentially disrupting air travel, cargo transport, and personnel safety in the area.",
+      "immediate_forecast_24h": "Escalation of violence between Hezbollah and Israel, potentially drawing in other regional actors, and impacting aviation and logistics operations in the vicinity.",
+      "strategic_outlook": "Prolonged conflict could lead to increased instability in the region, affecting trade routes, and requiring heightened security measures for assets, cargo, and personnel.",
+      "operational_impact": "Potential for flight disruptions, cargo delays, and increased security protocols for transport and logistics operations in the region, with possible spillover effects on global supply chains.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "80183e53b0cece5666e23dcd96431011",
+    "timestamp": "2026-03-06T20:41:26.893616",
+    "original_title": "Air Force Seeks More Companies to Build the Stand-in Attack Weapon - Air & Space Forces Magazine",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTGZaX2d3ZElmd0E5ZUtKY0RIODNCemNZa1dYa0VoZUdNeUZObndpekk2MmwtOTRIdGcwTWRIeVJxOE1JT0lfY0VvSFYwWXN0bzlrWUNzQUdHYmJxMV8zTHhoc09SajNqd2RlaHZaUnpVSXJSQnJDYXhRQ2xwLXJSay1CMTkyUTktRXhnTHZaLVVwdw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 10,
+      "location": "United States",
+      "latitude": 38.8977,
+      "longitude": -77.0365,
+      "detailed_analysis": "The US Air Force is seeking more companies to build the Stand-in Attack Weapon, which is not a direct threat to assets, cargo, aviation, or personnel but indicates an increase in military capabilities and potential future conflicts.",
+      "immediate_forecast_24h": "No immediate impact expected in the next 24 hours as this is a long-term procurement process.",
+      "strategic_outlook": "The development of the Stand-in Attack Weapon could lead to an increase in military operations and potential conflicts in the future, which may impact aviation and logistics.",
+      "operational_impact": "No direct operational impact expected at this time, but the development of new military capabilities could lead to changes in aviation regulations or security protocols in the future.",
+      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
+    }
+  },
+  {
+    "id": "3f0a2491dcf9ba37b791bca405b7722a",
+    "timestamp": "2026-03-06T20:41:29.491460",
+    "original_title": "Live Updates: Oil and Gas Prices Jump as War’s Economic Cost Climbs",
+    "link": "https://www.nytimes.com/live/2026/03/06/world/iran-war-trump-israel-lebanon",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The escalation of the conflict between Israel and Iran, with airstrikes on Tehran and Lebanon, poses a significant threat to the stability of the region, potentially disrupting oil and gas supplies, and affecting aviation and logistics operations.",
+      "immediate_forecast_24h": "Increased tensions and potential for further airstrikes, leading to higher oil and gas prices, and potential disruptions to air travel and cargo transport in the region.",
+      "strategic_outlook": "A prolonged conflict could lead to a significant increase in oil and gas prices, affecting the global economy, and potentially leading to a rise in piracy, smuggling, and other criminal activities in the region.",
+      "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics operations in the region, with increased security measures and potential rerouting of flights and cargo shipments.",
       "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
     }
   }
