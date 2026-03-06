@@ -1,43 +1,5 @@
 [
   {
-    "id": "b7d8c2ed66cba4729e31623957bcc836",
-    "timestamp": "2026-03-06T13:12:28.850927",
-    "original_title": "Dubai residents get possible missile attack alert on phones, urged to avoid outdoors",
-    "link": "https://www.reddit.com/r/worldnews/comments/1rmd7r1/dubai_residents_get_possible_missile_attack_alert/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict/Terrorism",
-      "risk_score": 10,
-      "location": "Dubai, UAE",
-      "latitude": 25.276987,
-      "longitude": 55.296249,
-      "detailed_analysis": "A possible missile attack alert was sent to residents' phones in Dubai, urging them to avoid outdoors. This indicates a potential threat to the city's security and aviation, as well as to personnel and assets in the area.",
-      "immediate_forecast_24h": "Increased security measures are expected in the next 24 hours, with potential disruptions to air travel and logistics. Residents are advised to remain vigilant and follow instructions from local authorities.",
-      "strategic_outlook": "The long-term impact of this incident will depend on the outcome of the situation and the measures taken by the authorities to prevent future threats. It may lead to increased security protocols and cooperation between countries to prevent similar incidents.",
-      "operational_impact": "The possible missile attack alert may cause disruptions to air travel, logistics, and supply chains in the region. Cargo and personnel movement may be restricted or delayed, and aviation operations may be affected due to increased security measures.",
-      "proximity_alert": "YAKIN TEHDİT: DUBAİ (25 km)"
-    }
-  },
-  {
-    "id": "d0736012520539694c7d0fbd2f127821",
-    "timestamp": "2026-03-06T13:12:31.155928",
-    "original_title": "Uproar over Cape Town's plan to build an anti-crime wall on airport highway",
-    "link": "http://www.africanews.com/2026/03/06/uproar-over-cape-towns-plan-to-build-an-anti-crime-wall-on-airport-highway/",
-    "source_name": "Africa News",
-    "ai_analysis": {
-      "category": "Crime",
-      "risk_score": 10,
-      "location": "Cape Town, South Africa",
-      "latitude": -33.9249,
-      "longitude": 18.4241,
-      "detailed_analysis": "The plan to build an anti-crime wall on the airport highway in Cape Town is a response to the high incidence of hijackings and smash-and-grab ambushes along the road, which poses a significant threat to cargo, aviation, and personnel safety.",
-      "immediate_forecast_24h": "Increased security presence is expected along the highway, but the risk of attacks remains high, particularly during nighttime hours.",
-      "strategic_outlook": "The construction of the anti-crime wall may reduce the incidence of attacks in the long term, but it may also displace criminal activity to other areas, requiring continued vigilance and security measures.",
-      "operational_impact": "Transport and logistics operations may experience delays or disruptions due to increased security checks and potential road closures, and cargo owners should consider additional security measures to protect their assets.",
-      "proximity_alert": "YAKIN TEHDİT: Cape Town International Airport (17 km)"
-    }
-  },
-  {
     "id": "f0e2ac1ee14e8685c6dbd3ce7470d5c0",
     "timestamp": "2026-03-06T14:07:46.620806",
     "original_title": "Iran Live Updates: Israel Pummels Beirut, Intensifying Strikes on Hezbollah",
@@ -148,6 +110,101 @@
       "immediate_forecast_24h": "The number of displaced people is expected to increase rapidly, and the conflict may escalate, posing a higher risk to transport and logistics in the area.",
       "strategic_outlook": "The long-term impact of the conflict on the region's stability and security is a concern, potentially affecting trade and economic activities. The situation may lead to a prolonged period of instability, making it challenging for transport and logistics operations.",
       "operational_impact": "The conflict may disrupt air traffic, and ground transportation, affecting cargo movement and personnel safety. Airlines and logistics companies may need to reassess their operations and consider alternative routes or temporary suspensions to ensure safety.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "ea56e29999e9819460607177b65907f7",
+    "timestamp": "2026-03-06T15:05:54.022237",
+    "original_title": "A nuclear security scholar’s take on recent military actions in Iran - Brown University",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmVVRsRkRLODdXNVNOUlZTVS1UdG9Qektsc0dkY0JoWFgwMmNPSkxEVEFyMHVRV25fOThZYUZxTldYWFI1OUF3Y2RjZFNpaUtJSkNNdFZrWFgzX1YwTDlqa0xTMy1iT28?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Recent military actions in Iran pose a significant threat to regional stability, potentially impacting aviation and cargo operations in the area.",
+      "immediate_forecast_24h": "Increased military activity may lead to heightened security measures, potentially disrupting air traffic and logistics in the region.",
+      "strategic_outlook": "Escalating tensions could lead to long-term instability, affecting trade and transport routes in the Middle East.",
+      "operational_impact": "Potential disruptions to air traffic, cargo shipments, and personnel movements due to increased security measures and conflict-related risks.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "b21b79919ad3279bee69984a49dcb7c3",
+    "timestamp": "2026-03-06T15:05:59.923547",
+    "original_title": "UN report says Ugandan troops helped South Sudan with deadly airstrikes",
+    "link": "http://www.africanews.com/2026/03/06/un-report-says-ugandan-troops-helped-south-sudan-with-deadly-airstrikes/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "South Sudan",
+      "latitude": 7.0,
+      "longitude": 30.0,
+      "detailed_analysis": "Ugandan troops assisted South Sudan in carrying out deadly airstrikes, resulting in civilian casualties. This indicates a high level of conflict and potential instability in the region, posing a significant threat to aviation and personnel.",
+      "immediate_forecast_24h": "Increased tensions between Uganda and South Sudan, potential for further airstrikes or retaliation, and heightened security measures in the region.",
+      "strategic_outlook": "Long-term instability and conflict in the region may lead to increased security concerns for aviation, cargo, and personnel, potentially disrupting logistics and transport operations.",
+      "operational_impact": "Potential disruption to air transport and logistics in the region, increased security protocols for aviation and cargo operations, and heightened risk to personnel and assets.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "deb66741dcac0027122ec21baa946bb1",
+    "timestamp": "2026-03-06T15:06:01.869968",
+    "original_title": "Sudan: army claims recapture of Bara, at least 51 dead in fighting",
+    "link": "http://www.africanews.com/2026/03/06/sudan-army-claims-recapture-of-bara-at-least-51-dead-in-fighting/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 7,
+      "location": "Bara, Sudan",
+      "latitude": 12.2667,
+      "longitude": 30.3667,
+      "detailed_analysis": "Clashes in Sudan's southern Kordofan region have resulted in at least 51 deaths, with the army claiming to have recaptured the city of Bara. This indicates a high level of instability and violence in the region, posing a significant threat to assets, cargo, aviation, and personnel.",
+      "immediate_forecast_24h": "Continued fighting and clashes are likely in the short term, potentially disrupting transport and logistics operations in the region.",
+      "strategic_outlook": "The long-term outlook for the region remains uncertain, with the potential for ongoing conflict and instability. This could lead to increased risks for assets, cargo, aviation, and personnel, as well as potential disruptions to supply chains and logistics operations.",
+      "operational_impact": "The conflict in Sudan's southern Kordofan region may impact transport and logistics operations, including road and air transport, and could lead to delays or disruptions in the delivery of goods and services.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "8dbd6a67271c640f23a66fb8ea7222ee",
+    "timestamp": "2026-03-06T15:06:04.011489",
+    "original_title": "'Purely defensive' posture: Europe’s reluctant role in an expanding Middle East conflict",
+    "link": "https://www.france24.com/en/purely-defensive-posture-europe-s-reluctant-role-in-an-expanding-middle-east-conflict",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Middle East, Europe",
+      "latitude": 32.0,
+      "longitude": 34.0,
+      "detailed_analysis": "The expanding Middle East conflict poses a threat to European citizens, economic interests, and diplomatic partners, prompting a reluctant defensive response from European governments.",
+      "immediate_forecast_24h": "Increased military presence and heightened security measures are expected in the region, potentially disrupting transport and logistics operations.",
+      "strategic_outlook": "The conflict's spillover effects may lead to a prolonged period of instability, affecting trade and economic interests in the region.",
+      "operational_impact": "Potential disruptions to air travel, cargo transport, and supply chains, as well as increased security protocols for personnel and assets.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "6a570d62d8b2de8a0c5ce7329bf0523d",
+    "timestamp": "2026-03-06T15:06:06.078135",
+    "original_title": "Surge in GPS interference around Strait of Hormuz increases shipping risks",
+    "link": "https://www.france24.com/en/middle-east/20260306-surge-gps-interference-strait-hormuz-increases-shipping-risks",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Cyber",
+      "risk_score": 8,
+      "location": "Strait of Hormuz, Middle East",
+      "latitude": 25.366667,
+      "longitude": 57.05,
+      "detailed_analysis": "A surge in GPS interference around the Strait of Hormuz poses severe risks to navigation, potentially disrupting shipping and contributing to a de facto blockade of the strategic waterway. Over 1,100 vessels have been affected since the start of the conflict.",
+      "immediate_forecast_24h": "Increased risk of navigation errors and potential collisions among vessels transiting the Strait of Hormuz due to continued GPS interference. Shipping companies and maritime authorities are advised to exercise extreme caution.",
+      "strategic_outlook": "The long-term impact of sustained GPS interference in the region could lead to significant economic and geopolitical consequences, including increased shipping costs, altered trade routes, and heightened tensions between nations.",
+      "operational_impact": "Shipping operations and logistics in the region are likely to be severely impacted, with potential delays, increased costs, and safety risks for vessels, crew, and cargo. Alternative navigation methods and enhanced security measures should be considered to mitigate these risks.",
       "proximity_alert": null
     }
   }
