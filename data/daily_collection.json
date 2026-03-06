@@ -815,5 +815,43 @@
       "operational_impact": "Potential disruption to air travel, increased security checks, and heightened risk of attacks on aviation and logistics infrastructure",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "b7d8c2ed66cba4729e31623957bcc836",
+    "timestamp": "2026-03-06T13:12:28.850927",
+    "original_title": "Dubai residents get possible missile attack alert on phones, urged to avoid outdoors",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rmd7r1/dubai_residents_get_possible_missile_attack_alert/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 10,
+      "location": "Dubai, UAE",
+      "latitude": 25.276987,
+      "longitude": 55.296249,
+      "detailed_analysis": "A possible missile attack alert was sent to residents' phones in Dubai, urging them to avoid outdoors. This indicates a potential threat to the city's security and aviation, as well as to personnel and assets in the area.",
+      "immediate_forecast_24h": "Increased security measures are expected in the next 24 hours, with potential disruptions to air travel and logistics. Residents are advised to remain vigilant and follow instructions from local authorities.",
+      "strategic_outlook": "The long-term impact of this incident will depend on the outcome of the situation and the measures taken by the authorities to prevent future threats. It may lead to increased security protocols and cooperation between countries to prevent similar incidents.",
+      "operational_impact": "The possible missile attack alert may cause disruptions to air travel, logistics, and supply chains in the region. Cargo and personnel movement may be restricted or delayed, and aviation operations may be affected due to increased security measures.",
+      "proximity_alert": "YAKIN TEHDİT: DUBAİ (25 km)"
+    }
+  },
+  {
+    "id": "d0736012520539694c7d0fbd2f127821",
+    "timestamp": "2026-03-06T13:12:31.155928",
+    "original_title": "Uproar over Cape Town's plan to build an anti-crime wall on airport highway",
+    "link": "http://www.africanews.com/2026/03/06/uproar-over-cape-towns-plan-to-build-an-anti-crime-wall-on-airport-highway/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Crime",
+      "risk_score": 10,
+      "location": "Cape Town, South Africa",
+      "latitude": -33.9249,
+      "longitude": 18.4241,
+      "detailed_analysis": "The plan to build an anti-crime wall on the airport highway in Cape Town is a response to the high incidence of hijackings and smash-and-grab ambushes along the road, which poses a significant threat to cargo, aviation, and personnel safety.",
+      "immediate_forecast_24h": "Increased security presence is expected along the highway, but the risk of attacks remains high, particularly during nighttime hours.",
+      "strategic_outlook": "The construction of the anti-crime wall may reduce the incidence of attacks in the long term, but it may also displace criminal activity to other areas, requiring continued vigilance and security measures.",
+      "operational_impact": "Transport and logistics operations may experience delays or disruptions due to increased security checks and potential road closures, and cargo owners should consider additional security measures to protect their assets.",
+      "proximity_alert": "YAKIN TEHDİT: Cape Town International Airport (17 km)"
+    }
   }
 ]
