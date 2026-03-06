@@ -1,78 +1,59 @@
 [
   {
-    "id": "77bd7c7916d00e2764a84bf928ea3536",
-    "timestamp": "2026-03-06T04:56:51.280619",
-    "original_title": "Pulse Poll: Measuring the impact of recent military operations in Iran on DoD - Federal News Network",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWkJCZElCTzN3OElJOW9aTlNHSjJWQzJqenUtbER6NjZPNkZzTnFvWC1IY0hnMTJqUmxodEQ1ejM2NnRBWGFaTTREOUk2bE1kLVEzbU9qcUJUN1A3NkpZZGo2R0lIT1lLSExUNmxCUXVsaTZSSzdFYUdDbC04YWp2NHZVN092aHdlel9WY0ducnZ3WEdGQkVGS0hQeWt2YU90SlFVYlBfMTFTQkhJUVVYWkdEWDhQbXp1eEZRZjlIQWdXRkJS?oc=5",
-    "source_name": "Google News (Breaking)",
+    "id": "31f680eed54a86836b2f45f3a3c60431",
+    "timestamp": "2026-03-06T07:00:38.400063",
+    "original_title": "Israel Attacks Beirut and Tehran as Fighting in Middle East Accelerates",
+    "link": "https://www.nytimes.com/live/2026/03/05/world/iran-war-israel-trump",
+    "source_name": "NewYork Times",
     "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 8,
-      "location": "Iran",
-      "latitude": 32.0,
-      "longitude": 53.0,
-      "detailed_analysis": "Recent military operations in Iran may impact DoD operations and logistics, posing a significant threat to assets, cargo, aviation, and personnel in the region.",
-      "immediate_forecast_24h": "Increased tensions and potential for further military action, which could lead to disruptions in air traffic and logistics.",
-      "strategic_outlook": "Long-term instability in the region could have a lasting impact on global supply chains and aviation security.",
-      "operational_impact": "Potential disruptions to air traffic, increased security measures, and possible rerouting of cargo and personnel to avoid the affected area.",
-      "proximity_alert": null
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 10,
+      "location": "Beirut, Lebanon/Tehran, Iran",
+      "latitude": 33.8938,
+      "longitude": 35.5018,
+      "detailed_analysis": "The Israeli military's broad-scale attack in Iran's capital and Hezbollah strongholds in Lebanon significantly increases the risk of retaliatory strikes, potentially affecting aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Increased tensions and potential for further military action, with a high likelihood of missile strikes and drone sightings in the region, posing a significant threat to aviation and cargo operations.",
+      "strategic_outlook": "The escalation of conflict in the Middle East may lead to a prolonged period of instability, affecting transport and logistics in the region, with potential for spillover effects on global supply chains.",
+      "operational_impact": "Potential for flight disruptions, cargo delays, and increased security measures at airports and logistics hubs in the region, with a high risk of damage to assets, cargo, and personnel.",
+      "proximity_alert": "YAKIN TEHDİT: Beirut–Rafic Hariri International Airport (0 km)"
     }
   },
   {
-    "id": "6952af98354629c18f1198dbef85c72b",
-    "timestamp": "2026-03-06T04:56:54.942684",
-    "original_title": "US strikes Iranian drone carrier ‘Shahid Bagheri’ loaded with UAVs and missiles",
-    "link": "https://www.reddit.com/r/worldnews/comments/1rm4jg1/us_strikes_iranian_drone_carrier_shahid_bagheri/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict/Aviation",
-      "risk_score": 8,
-      "location": "Persian Gulf, Middle East",
-      "latitude": 26.6,
-      "longitude": 56.3,
-      "detailed_analysis": "The US strike on the Iranian drone carrier 'Shahid Bagheri' loaded with UAVs and missiles poses a significant threat to regional stability and aviation security. The incident may escalate tensions between the US and Iran, potentially leading to further military action.",
-      "immediate_forecast_24h": "Increased military presence and surveillance in the region, potential for retaliatory actions from Iran, and heightened alertness for aviation and maritime operations.",
-      "strategic_outlook": "Long-term implications include the potential for a broader conflict, increased use of drones and missiles in the region, and a heightened risk of miscalculation or accidental escalation.",
-      "operational_impact": "Potential disruptions to air and sea traffic in the region, increased security measures for aviation and logistics operations, and a heightened risk of attacks on personnel and assets.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "c8a0d47309d130f80f57c8b386730133",
-    "timestamp": "2026-03-06T04:56:56.833962",
-    "original_title": "Who bombed the girls school in Iran? A visual investigation",
-    "link": "https://www.reddit.com/r/worldnews/comments/1rm44ud/who_bombed_the_girls_school_in_iran_a_visual/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Terrorism/Conflict",
-      "risk_score": 8,
-      "location": "Iran",
-      "latitude": 32.0,
-      "longitude": 53.0,
-      "detailed_analysis": "A bombing incident occurred at a girls' school in Iran. The investigation is ongoing, and the perpetrators have not been identified. This incident poses a significant threat to personnel and assets in the region.",
-      "immediate_forecast_24h": "Increased security measures are expected in the region, and there may be civil unrest or protests in response to the bombing. The situation is likely to remain volatile in the short term.",
-      "strategic_outlook": "The long-term impact of this incident could lead to increased tensions in the region, potentially affecting aviation and cargo operations. The conflict may escalate, leading to a higher risk of attacks on assets and personnel.",
-      "operational_impact": "The bombing incident may lead to increased security checks and delays in cargo and aviation operations in the region. Transport and logistics companies should exercise caution and consider alternative routes or security measures to mitigate the risks.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "b14afaf5a8a94caad44adc7de017671e",
-    "timestamp": "2026-03-06T04:56:59.510067",
-    "original_title": "Live: US warns bombardment to ‘surge dramatically’ as Israel strikes Iran, Lebanon",
+    "id": "90cdbbd84193970c305d96ce7bd5e192",
+    "timestamp": "2026-03-06T07:00:44.935443",
+    "original_title": "Live: Trump says sending US ground troops to Iran would be a ‘waste of time’",
     "link": "https://www.france24.com/en/middle-east/20260306-us-warns-bombardment-surge-as-israel-strikes-iran-lebanon",
     "source_name": "France 24 ME",
     "ai_analysis": {
       "category": "Conflict/Aviation",
-      "risk_score": 8,
-      "location": "Tehran, Iran and Beirut, Lebanon",
-      "latitude": 33.89,
-      "longitude": 51.38,
-      "detailed_analysis": "Intense Israeli airstrikes on Iran and Lebanon, combined with a US strike on an Iranian drone carrier, indicate a significant escalation of conflict in the region, posing a high risk to aviation and potentially disrupting cargo and personnel movements.",
-      "immediate_forecast_24h": "Expect increased military activity, potential for retaliatory strikes, and heightened tensions in the region, which may lead to airspace restrictions and disruptions to air travel.",
-      "strategic_outlook": "The conflict may lead to a prolonged period of instability, affecting regional trade and transport, with potential long-term implications for global supply chains and security.",
-      "operational_impact": "Airspace restrictions, flight cancellations, and increased security measures are likely, impacting aviation operations and potentially affecting cargo transport and personnel movements in the region.",
-      "proximity_alert": null
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "US President Donald Trump's statement on not sending ground troops to Iran, combined with intense Israeli air strikes on Iranian and Lebanese capitals, indicates heightened military tensions in the region, potentially affecting aviation and cargo operations.",
+      "immediate_forecast_24h": "Increased risk of air strikes, potential for escalation of conflict, and heightened security measures at airports and ports in the region.",
+      "strategic_outlook": "Prolonged conflict could lead to disruptions in global supply chains, increased insurance premiums, and higher security costs for cargo and aviation operations in the Middle East.",
+      "operational_impact": "Possible delays or cancellations of flights, increased screening and security checks for cargo and passengers, and potential rerouting of flights to avoid conflict zones.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "1b55f8f112bcbe30e2263db85c57c558",
+    "timestamp": "2026-03-06T07:00:46.914521",
+    "original_title": "Winter Paralympics opening ceremony clouded by boycott over Russia’s return",
+    "link": "https://www.france24.com/en/europe/20260306-winter-paralympics-open-in-milan-cortina-amid-boycott-over-russia-s-return",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Milan, Italy",
+      "latitude": 45.4642,
+      "longitude": 9.1895,
+      "detailed_analysis": "The controversy surrounding the participation of Russian and Belarusian athletes under their national flags at the Milan-Cortina Winter Paralympics may lead to protests and unrest, potentially affecting the event's logistics and security.",
+      "immediate_forecast_24h": "The opening ceremony may experience disruptions or protests from boycotting countries, but no significant threats to assets, cargo, aviation, or personnel are expected in the next 24 hours.",
+      "strategic_outlook": "The long-term impact of this controversy may be limited to the duration of the Paralympics, but it could set a precedent for future international sporting events and affect diplomatic relations between participating countries.",
+      "operational_impact": "The boycott and potential protests may cause minor disruptions to the event's logistics, but it is unlikely to have a significant impact on transport or cargo operations in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Milan–Malpensa Airport (0 km)"
     }
   }
 ]

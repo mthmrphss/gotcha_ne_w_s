@@ -397,5 +397,62 @@
       "operational_impact": "Airspace restrictions, flight cancellations, and increased security measures are likely, impacting aviation operations and potentially affecting cargo transport and personnel movements in the region.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "31f680eed54a86836b2f45f3a3c60431",
+    "timestamp": "2026-03-06T07:00:38.400063",
+    "original_title": "Israel Attacks Beirut and Tehran as Fighting in Middle East Accelerates",
+    "link": "https://www.nytimes.com/live/2026/03/05/world/iran-war-israel-trump",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 10,
+      "location": "Beirut, Lebanon/Tehran, Iran",
+      "latitude": 33.8938,
+      "longitude": 35.5018,
+      "detailed_analysis": "The Israeli military's broad-scale attack in Iran's capital and Hezbollah strongholds in Lebanon significantly increases the risk of retaliatory strikes, potentially affecting aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Increased tensions and potential for further military action, with a high likelihood of missile strikes and drone sightings in the region, posing a significant threat to aviation and cargo operations.",
+      "strategic_outlook": "The escalation of conflict in the Middle East may lead to a prolonged period of instability, affecting transport and logistics in the region, with potential for spillover effects on global supply chains.",
+      "operational_impact": "Potential for flight disruptions, cargo delays, and increased security measures at airports and logistics hubs in the region, with a high risk of damage to assets, cargo, and personnel.",
+      "proximity_alert": "YAKIN TEHDİT: Beirut–Rafic Hariri International Airport (0 km)"
+    }
+  },
+  {
+    "id": "90cdbbd84193970c305d96ce7bd5e192",
+    "timestamp": "2026-03-06T07:00:44.935443",
+    "original_title": "Live: Trump says sending US ground troops to Iran would be a ‘waste of time’",
+    "link": "https://www.france24.com/en/middle-east/20260306-us-warns-bombardment-surge-as-israel-strikes-iran-lebanon",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "US President Donald Trump's statement on not sending ground troops to Iran, combined with intense Israeli air strikes on Iranian and Lebanese capitals, indicates heightened military tensions in the region, potentially affecting aviation and cargo operations.",
+      "immediate_forecast_24h": "Increased risk of air strikes, potential for escalation of conflict, and heightened security measures at airports and ports in the region.",
+      "strategic_outlook": "Prolonged conflict could lead to disruptions in global supply chains, increased insurance premiums, and higher security costs for cargo and aviation operations in the Middle East.",
+      "operational_impact": "Possible delays or cancellations of flights, increased screening and security checks for cargo and passengers, and potential rerouting of flights to avoid conflict zones.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "1b55f8f112bcbe30e2263db85c57c558",
+    "timestamp": "2026-03-06T07:00:46.914521",
+    "original_title": "Winter Paralympics opening ceremony clouded by boycott over Russia’s return",
+    "link": "https://www.france24.com/en/europe/20260306-winter-paralympics-open-in-milan-cortina-amid-boycott-over-russia-s-return",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Milan, Italy",
+      "latitude": 45.4642,
+      "longitude": 9.1895,
+      "detailed_analysis": "The controversy surrounding the participation of Russian and Belarusian athletes under their national flags at the Milan-Cortina Winter Paralympics may lead to protests and unrest, potentially affecting the event's logistics and security.",
+      "immediate_forecast_24h": "The opening ceremony may experience disruptions or protests from boycotting countries, but no significant threats to assets, cargo, aviation, or personnel are expected in the next 24 hours.",
+      "strategic_outlook": "The long-term impact of this controversy may be limited to the duration of the Paralympics, but it could set a precedent for future international sporting events and affect diplomatic relations between participating countries.",
+      "operational_impact": "The boycott and potential protests may cause minor disruptions to the event's logistics, but it is unlikely to have a significant impact on transport or cargo operations in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Milan–Malpensa Airport (0 km)"
+    }
   }
 ]
