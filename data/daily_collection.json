@@ -1385,5 +1385,43 @@
       "operational_impact": "Disruptions to air travel, cargo transport, and logistics in the region, with potential for spill-over effects on global supply chains.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "6bd3b612298ef77335f3ecedaf460285",
+    "timestamp": "2026-03-06T19:10:57.749192",
+    "original_title": "Azerbaijan thwarts Iranian terror plot in Baku",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rmmu86/azerbaijan_thwarts_iranian_terror_plot_in_baku/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict",
+      "risk_score": 10,
+      "location": "Baku, Azerbaijan",
+      "latitude": 40.3952,
+      "longitude": 49.8824,
+      "detailed_analysis": "Azerbaijan has thwarted an Iranian terror plot in Baku, indicating a high level of threat to assets, personnel, and potentially aviation in the region.",
+      "immediate_forecast_24h": "Increased security measures are expected in Baku, with potential for retaliatory actions from Iran or its affiliates, affecting local transport and logistics.",
+      "strategic_outlook": "Long-term tensions between Azerbaijan and Iran may escalate, posing a persistent threat to regional stability and security, particularly for aviation and cargo operations.",
+      "operational_impact": "Enhanced security protocols may cause delays or disruptions to flights, cargo shipments, and ground transportation in and around Baku, with potential for spill-over effects into neighboring regions.",
+      "proximity_alert": "YAKIN TEHDİT: Heydar Aliyev International Airport (16 km)"
+    }
+  },
+  {
+    "id": "ad811516d92b3ee800c47dc48f0ddc6a",
+    "timestamp": "2026-03-06T19:10:59.782163",
+    "original_title": "Video appears to show the moment a Kuwaiti fighter jet accidentally shot down a U.S. F-15",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rmmfjp/video_appears_to_show_the_moment_a_kuwaiti/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 8,
+      "location": "Kuwait",
+      "latitude": 29.3117,
+      "longitude": 47.4818,
+      "detailed_analysis": "A video has surfaced showing a Kuwaiti fighter jet accidentally shooting down a U.S. F-15, indicating a high-risk incident with potential implications for aviation safety and international relations.",
+      "immediate_forecast_24h": "Investigations into the incident are likely to commence immediately, with potential for increased tensions between the U.S. and Kuwait. There may be a heightened sense of alertness among military and aviation authorities in the region.",
+      "strategic_outlook": "The long-term impact of this incident could lead to a review of military protocols and procedures to prevent similar accidents in the future. It may also affect the relationship between the U.S. and Kuwait, potentially influencing future military cooperation and operations.",
+      "operational_impact": "The incident may lead to increased security measures for military and civilian aviation operations in the region, potentially causing disruptions to flight schedules and air traffic control. There could also be an impact on the transport of cargo and personnel, particularly if the incident leads to a heightened state of alert or changes in military operations.",
+      "proximity_alert": null
+    }
   }
 ]
