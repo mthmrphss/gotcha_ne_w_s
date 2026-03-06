@@ -245,5 +245,81 @@
       "operational_impact": "Potential for increased security screenings, flight delays, and cargo inspections, which may impact transport and logistics operations.",
       "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
     }
+  },
+  {
+    "id": "598b6e31e107bb1fde3eec5c9351dbc0",
+    "timestamp": "2026-03-06T03:13:50.954227",
+    "original_title": "Iran Live Updates: Israel Attacks Beirut and Tehran as Fighting in Middle East Accelerates",
+    "link": "https://www.nytimes.com/live/2026/03/05/world/iran-war-israel-trump",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "Beirut, Lebanon/Tehran, Iran",
+      "latitude": 33.89,
+      "longitude": 51.38,
+      "detailed_analysis": "The Israeli military has launched a broad-scale attack in Iran's capital, Tehran, and hit Hezbollah strongholds in Lebanon, indicating an escalation of conflict in the Middle East. This could lead to retaliatory actions, affecting aviation and logistics in the region.",
+      "immediate_forecast_24h": "Increased tensions and potential for further military action between Israel and Iran, with possible spillover effects on neighboring countries. Risk of missile strikes and drone sightings in the region.",
+      "strategic_outlook": "Prolonged conflict could lead to instability in the region, affecting global oil prices, trade routes, and aviation security. Potential for cyberattacks and other forms of asymmetric warfare.",
+      "operational_impact": "Possible disruptions to air traffic, increased security measures at airports, and potential delays or cancellations of flights in the region. Cargo and logistics operations may also be affected, with increased risk of theft, smuggling, or other criminal activities.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "6598ff5211aa53921c1c4c08b643f8c8",
+    "timestamp": "2026-03-06T03:13:53.671891",
+    "original_title": "Some Gulf countries frustrated with lack of notice about Iran strikes, defense help, AP sources say",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rm2dn4/some_gulf_countries_frustrated_with_lack_of/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 7,
+      "location": "Gulf Countries",
+      "latitude": 24.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Some Gulf countries are frustrated with the lack of notice about Iran strikes and defense help, indicating potential conflict and aviation threats in the region.",
+      "immediate_forecast_24h": "Increased tensions between Gulf countries and Iran may lead to heightened security measures and potential disruptions to air travel and logistics.",
+      "strategic_outlook": "Long-term instability in the region could impact trade and transportation routes, affecting cargo and personnel movement.",
+      "operational_impact": "Potential disruptions to air travel, increased security checks, and possible rerouting of flights or cargo shipments may occur in response to the heightened tensions.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "4c4e091053a014795c8490bbc73662bb",
+    "timestamp": "2026-03-06T03:13:55.430008",
+    "original_title": "Analysis Suggests School Was Hit Amid U.S. Strikes on Iranian Naval Base",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rm260r/analysis_suggests_school_was_hit_amid_us_strikes/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Analysis suggests a school was hit amid U.S. strikes on an Iranian naval base, indicating potential escalation of conflict and risk to aviation and nearby assets.",
+      "immediate_forecast_24h": "Increased tensions between the U.S. and Iran may lead to further military actions, potentially affecting aviation and logistics in the region.",
+      "strategic_outlook": "Long-term implications of the conflict could lead to sustained instability in the region, affecting trade routes, aviation, and personnel safety.",
+      "operational_impact": "Potential disruptions to air traffic, increased security measures, and risks to personnel and assets in the region due to the conflict.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "71963372e129b36f81a4c5ed486d6ea4",
+    "timestamp": "2026-03-06T03:13:57.861502",
+    "original_title": "US, Venezuela restore diplomatic relations after Maduro’s ouster",
+    "link": "https://www.france24.com/en/americas/20260306-us-venezuela-restore-diplomatic-ties-after-2019-break",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Diplomacy",
+      "risk_score": 10,
+      "location": "Caracas, Venezuela",
+      "latitude": 10.488,
+      "longitude": -66.879,
+      "detailed_analysis": "The restoration of diplomatic relations between the US and Venezuela may lead to increased cooperation and stability in the region, potentially reducing the risk of conflict and improving the security environment for assets, cargo, aviation, and personnel.",
+      "immediate_forecast_24h": "No immediate changes in the security landscape are expected, but the development may lead to increased diplomatic engagement and cooperation in the coming days.",
+      "strategic_outlook": "The long-term implications of this development are positive, as improved relations between the US and Venezuela could lead to increased economic cooperation, reduced tensions, and a more stable security environment in the region.",
+      "operational_impact": "The restoration of diplomatic relations is unlikely to have a significant immediate impact on transport and logistics operations, but it may lead to increased trade and economic activity in the region over time.",
+      "proximity_alert": "YAKIN TEHDİT: Maiquetía \"Simón Bolívar\" International Airport (4 km)"
+    }
   }
 ]
