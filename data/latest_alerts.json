@@ -131,5 +131,81 @@
       "operational_impact": "Aviation and cargo operations in Malaysia may experience delays or disruptions due to enhanced security protocols. Personnel and assets in the region should exercise increased vigilance and caution.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "bdbfaf51abff2bab18ac62a69e340644",
+    "timestamp": "2026-03-07T19:46:30.241545",
+    "original_title": "Pakistan Praised Trump. Now It Risks Being Caught Up in His War With Iran",
+    "link": "https://www.nytimes.com/2026/03/07/world/asia/pakistan-trump-us-iran-war.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 7,
+      "location": "Pakistan",
+      "latitude": 30.3753,
+      "longitude": 69.3451,
+      "detailed_analysis": "The situation in Pakistan is volatile due to the U.S. and Israeli strikes on Iran, which has led to a crippling energy crisis and deadly protests. This could potentially impact aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Increased protests and unrest are expected in the next 24 hours, which may lead to disruptions in transportation and logistics.",
+      "strategic_outlook": "The long-term impact of the conflict between the U.S., Israel, and Iran could lead to a destabilization of the region, affecting trade and transportation routes.",
+      "operational_impact": "Potential disruptions to air travel, cargo shipments, and ground transportation in Pakistan and surrounding regions due to the conflict and civil unrest.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "bf0cfe37417652088197e32a9ff45557",
+    "timestamp": "2026-03-07T19:46:32.300563",
+    "original_title": "Russia Attacks Kharkiv and Kyiv in Ukraine",
+    "link": "https://www.nytimes.com/2026/03/07/world/europe/russia-ukraine-kharkiv-zelensky-airstrike.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Kharkiv, Ukraine",
+      "latitude": 49.9935,
+      "longitude": 36.2304,
+      "detailed_analysis": "Russian missile attack on a residential building in Kharkiv and attacks on Kyiv and other regions pose significant threats to personnel and assets, potentially disrupting aviation and cargo operations in the area.",
+      "immediate_forecast_24h": "Increased military activity and potential for further attacks on Ukrainian cities, leading to heightened security measures and possible disruptions to transport and logistics.",
+      "strategic_outlook": "Long-term escalation of the conflict could lead to sustained instability in the region, affecting global supply chains and aviation routes, with potential for spillover into neighboring countries.",
+      "operational_impact": "Potential disruptions to air traffic, cargo transport, and logistics operations in Ukraine and surrounding areas, with increased security protocols and possible rerouting of flights and cargo shipments.",
+      "proximity_alert": "YAKIN TEHDİT: Kharkiv International Airport (8 km)"
+    }
+  },
+  {
+    "id": "8f961926ff50875a22e9a40c97787c43",
+    "timestamp": "2026-03-07T19:46:35.326759",
+    "original_title": "Iran-UAE Escalation: Iranian Drone Strike Hits Dubai's 23 Marina Tower; Evacuation Underway, No Injuries Reported",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rnja0i/iranuae_escalation_iranian_drone_strike_hits/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Aviation/Conflict/Terrorism",
+      "risk_score": 10,
+      "location": "Dubai, UAE",
+      "latitude": 25.276987,
+      "longitude": 55.296249,
+      "detailed_analysis": "Iranian drone strike on Dubai's 23 Marina Tower indicates a significant escalation in Iran-UAE tensions, posing a direct threat to aviation and personnel safety in the region.",
+      "immediate_forecast_24h": "Increased military presence and heightened security measures are expected in the UAE, with potential for further retaliatory actions from Iran, affecting air traffic and logistics operations.",
+      "strategic_outlook": "Long-term implications include strained diplomatic relations between Iran and the UAE, potentially disrupting regional trade and air travel, with the UAE likely to bolster its defense capabilities and seek international support.",
+      "operational_impact": "Immediate evacuation and security protocols are in place, with potential for extended disruptions to air travel, cargo operations, and personnel movements in and out of Dubai, impacting regional logistics and supply chains.",
+      "proximity_alert": "YAKIN TEHDİT: DUBAİ (25 km)"
+    }
+  },
+  {
+    "id": "ec0facfdacbe6654db8c3b6c8db71ba1",
+    "timestamp": "2026-03-07T19:46:37.458043",
+    "original_title": "Cracks emerge in Iran's leadership as it reels under bombardment",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rnj9fx/cracks_emerge_in_irans_leadership_as_it_reels/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The current situation in Iran, with cracks emerging in its leadership under bombardment, poses a significant threat to regional stability and potentially to aviation and cargo operations. The unrest could lead to disruptions in logistics, increased risk of conflict, and potential targeting of aviation assets.",
+      "immediate_forecast_24h": "Escalation of violence and unrest, potential for increased military activity, and heightened security measures at airports and critical infrastructure.",
+      "strategic_outlook": "Long-term instability in Iran could lead to a prolonged period of elevated risk for aviation, cargo, and personnel in the region, necessitating enhanced security protocols and contingency planning.",
+      "operational_impact": "Potential disruptions to air traffic, increased security screening, possible rerouting of flights, and heightened vigilance for cargo and logistics operations to mitigate risks associated with the conflict.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
   }
 ]
