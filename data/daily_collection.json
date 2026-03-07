@@ -644,5 +644,43 @@
       "operational_impact": "Potential disruptions to maritime and air transport in the region, with increased security measures and possible rerouting of cargo and personnel to avoid high-risk areas.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "bd1fdd1dacaf9eac27124c69cbe8342b",
+    "timestamp": "2026-03-07T07:50:06.179545",
+    "original_title": "Analysis Suggests School Was Hit Amid U.S. Strikes on Iranian Naval Base - The New York Times - The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMzJRdTRIblNhYS1XbDZUUlN0VEV2a1NkMTZKeDBIRE9ncllHQ1pZcHFxRmtGdV9NaHJBZExLVE81YVR0Q290RWY3ODJoN1pybDhqM2U5ZTVBWjVXblZyUC1tcUg3c0wzZGFFSVlTWko5cXJHWm9kN192ZWlzR1p3LXgtYllMaWVTUVo3VFU1VmdvRThn?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Analysis suggests a school was hit amid U.S. strikes on an Iranian naval base, indicating a high level of conflict and potential for escalation, posing a significant threat to aviation and personnel in the region.",
+      "immediate_forecast_24h": "Increased tensions between the U.S. and Iran are expected, with potential for further military action, posing an immediate risk to aviation and personnel.",
+      "strategic_outlook": "The long-term outlook is uncertain, but the conflict has the potential to disrupt global supply chains, particularly in the Middle East, and impact the safety of personnel and cargo in the region.",
+      "operational_impact": "The conflict may lead to increased security measures, potential airspace restrictions, and disruptions to logistics and transport operations in the region, particularly for aviation and cargo.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "aad85d9cfd48abf3e393696c1814d18f",
+    "timestamp": "2026-03-07T07:50:11.723484",
+    "original_title": "Iran’s president defies US demands but apologizes for strikes on neighbors",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rn3xka/irans_president_defies_us_demands_but_apologizes/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Iran's president defying US demands while apologizing for strikes on neighbors indicates heightened tensions in the region, potentially affecting aviation and cargo operations.",
+      "immediate_forecast_24h": "Increased military presence and potential for further strikes or retaliation, impacting regional air traffic and logistics.",
+      "strategic_outlook": "Prolonged conflict could lead to extended disruptions in air travel and cargo transport, affecting global supply chains and economies.",
+      "operational_impact": "Potential for flight restrictions, cargo delays, and increased security measures for aviation and logistics operations in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
   }
 ]
