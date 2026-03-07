@@ -1271,5 +1271,100 @@
       "operational_impact": "Transport and logistics operations in the region may be severely disrupted, with potential for damage to infrastructure, cargo, and equipment. Aviation operations may also be impacted, with possible restrictions on airspace or increased security measures.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "c8ce61662ba01abb83897e9fc26f2761",
+    "timestamp": "2026-03-07T14:32:52.898890",
+    "original_title": "Analysis Suggests School Was Hit Amid U.S. Strikes on Iranian Naval Base - The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMzJRdTRIblNhYS1XbDZUUlN0VEV2a1NkMTZKeDBIRE9ncllHQ1pZcHFxRmtGdV9NaHJBZExLVE81YVR0Q290RWY3ODJoN1pybDhqM2U5ZTVBWjVXblZyUC1tcUg3c0wzZGFFSVlTWko5cXJHWm9kN192ZWlzR1p3LXgtYllMaWVTUVo3VFU1VmdvRThn?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The U.S. strikes on an Iranian naval base have resulted in a school being hit, indicating potential collateral damage and escalation of conflict. This could lead to increased tensions and retaliatory actions, posing a threat to assets, cargo, aviation, and personnel in the region.",
+      "immediate_forecast_24h": "Increased military activity and potential retaliatory strikes from Iran, posing a high risk to aviation and personnel in the region.",
+      "strategic_outlook": "Long-term escalation of conflict between the U.S. and Iran, potentially drawing in other nations and affecting global logistics and trade.",
+      "operational_impact": "Potential disruption to air traffic and logistics in the region, with increased risk of attacks on cargo and personnel.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "21c835dd0e67688091aed1cc3070c48e",
+    "timestamp": "2026-03-07T14:32:58.515446",
+    "original_title": "Gulf allies disappointed U.S. didn't notify about Iran attacks and ignored their warnings, sources say.",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1rnay0n/gulf_allies_disappointed_us_didnt_notify_about/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Gulf Region",
+      "latitude": 26.2071,
+      "longitude": 50.5862,
+      "detailed_analysis": "Gulf allies are disappointed that the U.S. did not notify them about Iran attacks and ignored their warnings, indicating a potential escalation of tensions in the region that could impact aviation and cargo operations.",
+      "immediate_forecast_24h": "Increased tensions between the U.S., Iran, and Gulf allies may lead to heightened security measures and potential disruptions to air traffic and cargo shipments in the region.",
+      "strategic_outlook": "The strained relationships between the U.S. and its Gulf allies, combined with the ongoing tensions with Iran, may lead to a prolonged period of instability in the region, affecting aviation and cargo operations.",
+      "operational_impact": "Potential disruptions to air traffic and cargo shipments, increased security measures, and heightened tensions may impact the efficiency and safety of transport and logistics operations in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Bahrain International Airport (8 km)"
+    }
+  },
+  {
+    "id": "e8e03ed583bc9b0dc0d4028ccf47122b",
+    "timestamp": "2026-03-07T14:33:01.467139",
+    "original_title": "Israel carries out rare airbone raid in Lebanon",
+    "link": "https://www.france24.com/en/video/20260307-israel-carries-out-rare-airbone-raid-in-lebanon",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Baalbek, Lebanon",
+      "latitude": 33.8333,
+      "longitude": 36.1667,
+      "detailed_analysis": "Israeli airstrikes during a commando operation in eastern Lebanon resulted in significant casualties, indicating a high level of conflict and potential for further escalation, which could impact aviation and logistics in the region.",
+      "immediate_forecast_24h": "Increased tensions between Israel and Lebanon are expected, with potential for further military action, which could lead to disruptions in air travel and cargo transport.",
+      "strategic_outlook": "The long-term implications of this conflict could lead to increased instability in the region, affecting trade and transport routes, and potentially drawing in other nations or entities.",
+      "operational_impact": "Aviation and logistics operations in the region may be impacted by the conflict, with potential for flight disruptions, cargo delays, and increased security measures.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "53bf2e81a209e7bba3eb0529b0ace1c3",
+    "timestamp": "2026-03-07T14:33:03.501368",
+    "original_title": "Israel says began new strikes on Iran's Tehran, Isfahan",
+    "link": "https://www.france24.com/en/israel-says-began-new-strikes-on-iran-s-tehran-isfahan",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 10,
+      "location": "Tehran, Isfahan, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Israel has launched airstrikes on strategic infrastructure in Iran, including a military academy, underground command center, and missile storage facility, resulting in significant casualties and damage. Iran accuses Israel and the US of targeting civilian areas, escalating the conflict.",
+      "immediate_forecast_24h": "Increased tensions and potential for retaliatory strikes from Iran, affecting regional stability and aviation safety. Risk of collateral damage to nearby assets and personnel.",
+      "strategic_outlook": "Prolonged conflict may disrupt global supply chains, particularly in the Middle East, and impact oil prices. Long-term instability could lead to increased security measures and potential for further escalation.",
+      "operational_impact": "Aviation operations in the region may be affected due to increased military activity, potentially leading to airspace restrictions, flight delays, or cancellations. Cargo and personnel movement may also be impacted due to heightened security concerns.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "ba961376940f8ea59b73ff00c9a6faa3",
+    "timestamp": "2026-03-07T14:33:05.546158",
+    "original_title": "Displaced in Lebanon: 500,000 told to flee Dahiyeh in Beirut",
+    "link": "https://www.france24.com/en/displaced-in-lebanon-500-000-told-to-flee-dahiyeh-in-beirut",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Beirut, Lebanon",
+      "latitude": 33.8938,
+      "longitude": 35.5018,
+      "detailed_analysis": "The situation in Beirut, Lebanon, is critical due to the conflict between Israel and Lebanon, resulting in evacuation warnings and heavy strikes on southern Lebanon and the southern suburbs of Beirut. This has led to the displacement of approximately 500,000 people, with estimates ranging from 300,000 to 700,000, and women and girls being among the most vulnerable.",
+      "immediate_forecast_24h": "In the next 24 hours, the situation is expected to remain volatile, with potential for further strikes and displacement of people. Humanitarian aid delivery and financial support will be crucial in addressing the needs of the displaced population.",
+      "strategic_outlook": "In the long term, the conflict may lead to a significant increase in humanitarian needs, and the international community may need to provide sustained support to address the crisis. The situation may also lead to a rise in cargo and logistics disruptions, particularly in the aviation and transportation sectors.",
+      "operational_impact": "The conflict may impact aviation operations, with potential for flight disruptions or cancellations. Additionally, the displacement of people and potential for further violence may lead to increased security risks for personnel and cargo in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Beirut–Rafic Hariri International Airport (0 km)"
+    }
   }
 ]
