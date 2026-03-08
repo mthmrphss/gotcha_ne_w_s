@@ -1,43 +1,5 @@
 [
   {
-    "id": "8ad80fba849953afcebb4dacbe7ed300",
-    "timestamp": "2026-03-08T06:54:21.001100",
-    "original_title": "US, Israel strikes hit oil depot in Tehran",
-    "link": "https://www.france24.com/en/us-israel-hit-oil-depot-in-tehran",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 10,
-      "location": "Tehran, Iran",
-      "latitude": 35.6892,
-      "longitude": 51.389,
-      "detailed_analysis": "The US and Israel have conducted strikes on an oil depot in Tehran, indicating a significant escalation in conflict. The attack on the oil depot and port infrastructure could severely impact logistics and transportation in the region.",
-      "immediate_forecast_24h": "Increased tensions between the US, Israel, and Iran are expected, potentially leading to further military actions or retaliatory strikes. This could lead to disruptions in oil supply and transportation in the region.",
-      "strategic_outlook": "The long-term implications of this conflict could lead to a significant destabilization of the region, affecting global oil prices and transportation logistics. The conflict may also draw in other regional or global powers, further escalating the situation.",
-      "operational_impact": "The attack on the oil depot and port infrastructure is likely to cause significant disruptions to logistics and transportation in the region, including potential delays or cancellations of flights and shipments. This could have a ripple effect on global supply chains and economies.",
-      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
-    }
-  },
-  {
-    "id": "a2f640385c2db864a7bbb3ae245f114d",
-    "timestamp": "2026-03-08T06:54:23.940865",
-    "original_title": "Cyprus - Level 3: Reconsider Travel",
-    "link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/cyprus-travel-advisory.html",
-    "source_name": "US State Dept",
-    "ai_analysis": {
-      "category": "Conflict/Aviation/Crime",
-      "risk_score": 10,
-      "location": "Cyprus",
-      "latitude": 35.1264,
-      "longitude": 33.4299,
-      "detailed_analysis": "The U.S. Department of State has increased the advisory level for Cyprus to 3 due to the threat of armed conflict and limited U.S. embassy assistance for Americans in the Turkish Cypriot Administered area. There have been significant disruptions to commercial flights following the onset of hostilities between the United States and Iran, and a drone struck a building on the British Sovereign Base Area on Cyprus. The U.S. Embassy in Nicosia has limited ability to help U.S. citizens in the Turkish Cypriot-Administered area, and human rights reports show that central prison and police detention facilities do not meet international standards.",
-      "immediate_forecast_24h": "Increased tensions and potential for further disruptions to commercial flights, as well as potential for armed conflict in the region.",
-      "strategic_outlook": "Long-term instability in the region, with potential for ongoing conflict and limited U.S. embassy assistance for Americans in the Turkish Cypriot Administered area.",
-      "operational_impact": "Potential disruptions to transport and logistics in the region, including commercial flights and seaports. U.S. citizens are advised to reconsider travel to Cyprus and to have a plan to leave in an emergency that does not depend on U.S. government help.",
-      "proximity_alert": "YAKIN TEHDİT: Ercan Airport (7 km)"
-    }
-  },
-  {
     "id": "4785ffa9ccd0af649e16ef17dc1da3f7",
     "timestamp": "2026-03-08T07:35:50.902652",
     "original_title": "Iranian drone damages desalination plant in Bahrain",
@@ -54,6 +16,63 @@
       "strategic_outlook": "Long-term implications include the potential for increased use of drones in conflict, heightened security concerns for critical infrastructure, and strained diplomatic relations between Iran and Bahrain.",
       "operational_impact": "Potential disruptions to water supply, increased security protocols for aviation and critical infrastructure, and possible impacts on logistics and transport in the region.",
       "proximity_alert": "YAKIN TEHDİT: Bahrain International Airport (23 km)"
+    }
+  },
+  {
+    "id": "9950d27f37742007d1b8c99f1c0c4043",
+    "timestamp": "2026-03-08T08:39:43.346532",
+    "original_title": "Security Alert – U.S. Embassy Beirut, Lebanon – March 8, 2026 – Update 1 - U.S. Embassy Beirut (.gov)",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWTVQeWt4ZVRtaF9CbndKcjNyLU0yRW5meTV3aFlfQ1NSUWppd1N4NVhrLVhzN0pFT3BVYUVzYlRlYTl1TlpGQ3ZwRUtYNTNvOU9mU08zYk0yc1Z0Z0dHRDIwdkg1amN0QWVpNElrdUJwOWVuY3M2eUloMGlNTVpDZ0x2X3cySWljdW9CR2d0XzR6MVk?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism/Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Beirut, Lebanon",
+      "latitude": 33.8938,
+      "longitude": 35.5018,
+      "detailed_analysis": "The U.S. Embassy in Beirut has issued a security alert due to potential threats to safety and security in the area. The situation is being closely monitored, and travelers are advised to exercise caution.",
+      "immediate_forecast_24h": "Increased security presence and potential protests or demonstrations in the area, which may cause disruptions to transportation and daily activities.",
+      "strategic_outlook": "The situation in Lebanon remains volatile, with potential for further unrest and instability. Travelers and organizations should remain vigilant and prepared for changing circumstances.",
+      "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics operations in the region. Personnel and assets in the area should be prepared for possible evacuations or security measures.",
+      "proximity_alert": "YAKIN TEHDİT: Beirut–Rafic Hariri International Airport (0 km)"
+    }
+  },
+  {
+    "id": "16587a9eec9995bbaa742c70b774a74f",
+    "timestamp": "2026-03-08T08:39:45.158334",
+    "original_title": "“Iran’s attack on the Gulf states is going to be a bonanza for the Israeli defense industries” - CTech",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aeE4yaGpSZ3l1YVNISGp0YTYzQzE4bjRrVVpiNWdJa3ZteFp6bUpldkRtZXJ0Q3Q4OEx1dXYweWhFOXZYaXZ0bHpzY3F3SHg2eXA4MFVQUDJBeWFKS2FFRzc3bmFRc2pGYkJV?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Gulf states",
+      "latitude": 24.0,
+      "longitude": 54.0,
+      "detailed_analysis": "Iran's potential attack on the Gulf states poses a significant threat to regional stability, which could lead to increased demand for Israeli defense industries' products and services, potentially disrupting aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Heightened tensions and increased military activity in the region are expected, with potential for escalation and impact on transport and logistics operations.",
+      "strategic_outlook": "Long-term instability in the region could lead to sustained demand for defense products and services, with potential for increased investment in security measures for aviation and cargo operations.",
+      "operational_impact": "Potential disruptions to air traffic and cargo shipments in the region, with increased security measures and potential for delays or cancellations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "54aa391f622678f6895afd8835d6a7fa",
+    "timestamp": "2026-03-08T08:39:49.367141",
+    "original_title": "Blackened rain reported in Tehran after Israeli attacks - Türkiye Today",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rnzl5n/blackened_rain_reported_in_tehran_after_israeli/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Reports of blackened rain in Tehran following Israeli attacks indicate a potential environmental and health hazard, which could impact local infrastructure, aviation, and personnel. The situation may escalate into further conflict, affecting regional stability and transport logistics.",
+      "immediate_forecast_24h": "Increased tensions between Israel and Iran, potential for further military action, and possible disruptions to air travel and cargo transport in the region.",
+      "strategic_outlook": "Long-term implications for regional security, potential for proxy wars, and impact on global oil prices and trade routes. The situation may lead to increased security measures at airports and border crossings, affecting cargo and personnel movement.",
+      "operational_impact": "Possible disruptions to air traffic, cargo transport, and supply chains in the region. Aviation and logistics companies should be prepared for potential delays, rerouting, or cancellations of flights and shipments.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
     }
   }
 ]
