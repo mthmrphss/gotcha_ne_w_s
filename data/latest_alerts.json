@@ -1,24 +1,5 @@
 [
   {
-    "id": "97bfd506ede08c6fdc1d240a64d3c03f",
-    "timestamp": "2026-03-08T18:45:35.585884",
-    "original_title": "At Least 2 Killed, Several Wounded After Missiles Hit Residential Area In Saudi Arabia; Victims Indian And Bangladeshi Nationals",
-    "link": "https://www.reddit.com/r/geopolitics/comments/1rocfc8/at_least_2_killed_several_wounded_after_missiles/",
-    "source_name": "Reddit r/Geopolitics",
-    "ai_analysis": {
-      "category": "Conflict/Terrorism",
-      "risk_score": 10,
-      "location": "Saudi Arabia",
-      "latitude": 24.7136,
-      "longitude": 46.6753,
-      "detailed_analysis": "Missile attack on residential area in Saudi Arabia resulting in fatalities and injuries, targeting Indian and Bangladeshi nationals, indicating a potential escalation of regional conflicts and threats to personnel and assets.",
-      "immediate_forecast_24h": "Heightened security measures expected, potential for retaliatory actions, and increased tensions in the region, which may impact aviation and cargo operations.",
-      "strategic_outlook": "Long-term instability in the region could lead to sustained threats against assets, cargo, aviation, and personnel, necessitating enhanced security protocols and contingency planning.",
-      "operational_impact": "Potential disruptions to logistics and transport operations, especially those involving Indian and Bangladeshi nationals, with possible delays or rerouting of flights and cargo shipments.",
-      "proximity_alert": "YAKIN TEHDİT: King Khalid International Airport (27 km)"
-    }
-  },
-  {
     "id": "9cda21525c289d6ce4038d12b365cdd3",
     "timestamp": "2026-03-08T19:30:12.818911",
     "original_title": "Police investigate an explosion outside the U.S. Embassy in Oslo, Norway - PBS",
@@ -92,6 +73,25 @@
       "strategic_outlook": "Long-term escalation of the conflict could lead to significant disruptions in global oil supplies, increased risk of attacks on aviation and cargo targets, and a destabilization of the Middle East region.",
       "operational_impact": "Potential disruptions to air traffic, increased security checks for cargo and personnel, and heightened vigilance for potential attacks on transportation infrastructure.",
       "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "e37e1aa0949087e1cb4cdeb6804b6698",
+    "timestamp": "2026-03-08T20:37:03.802120",
+    "original_title": "Iran targets its Gulf neighbours: the situation in Oman",
+    "link": "https://www.france24.com/en/iran-keeps-targeting-gulf-states-the-situation-in-oman",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Oman",
+      "latitude": 23.6167,
+      "longitude": 58.5833,
+      "detailed_analysis": "Iran's strikes on its regional neighbours, including Oman, pose a significant threat to aviation and cargo operations in the region. The situation is volatile and could escalate further, affecting transport and logistics.",
+      "immediate_forecast_24h": "Increased military activity and potential for further strikes in the region, with possible disruptions to air traffic and cargo shipments.",
+      "strategic_outlook": "Long-term instability in the region could lead to sustained disruptions to transport and logistics, with potential for increased security measures and costs for operators.",
+      "operational_impact": "Potential for flight delays or cancellations, cargo shipment disruptions, and increased security protocols for personnel and assets in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Intercity Hotel (1 km)"
     }
   }
 ]
