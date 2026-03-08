@@ -1,24 +1,5 @@
 [
   {
-    "id": "e37e1aa0949087e1cb4cdeb6804b6698",
-    "timestamp": "2026-03-08T20:37:03.802120",
-    "original_title": "Iran targets its Gulf neighbours: the situation in Oman",
-    "link": "https://www.france24.com/en/iran-keeps-targeting-gulf-states-the-situation-in-oman",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 10,
-      "location": "Oman",
-      "latitude": 23.6167,
-      "longitude": 58.5833,
-      "detailed_analysis": "Iran's strikes on its regional neighbours, including Oman, pose a significant threat to aviation and cargo operations in the region. The situation is volatile and could escalate further, affecting transport and logistics.",
-      "immediate_forecast_24h": "Increased military activity and potential for further strikes in the region, with possible disruptions to air traffic and cargo shipments.",
-      "strategic_outlook": "Long-term instability in the region could lead to sustained disruptions to transport and logistics, with potential for increased security measures and costs for operators.",
-      "operational_impact": "Potential for flight delays or cancellations, cargo shipment disruptions, and increased security protocols for personnel and assets in the region.",
-      "proximity_alert": "YAKIN TEHDİT: Intercity Hotel (1 km)"
-    }
-  },
-  {
     "id": "226a23d1500aae4d8bf002f9174ab25d",
     "timestamp": "2026-03-08T21:30:51.338669",
     "original_title": "Explosion at US embassy in Oslo may have been terrorism, Norway police say",
@@ -53,6 +34,44 @@
       "immediate_forecast_24h": "Increased military activity and potential retaliation from Iran, affecting regional stability and aviation safety.",
       "strategic_outlook": "Prolonged conflict could disrupt global energy supplies, impact trade routes, and pose significant risks to aviation and cargo operations in the region.",
       "operational_impact": "Potential for flight restrictions, cargo delays, and increased security measures for personnel and assets in the affected areas.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "00b3ccb68b9df9d6ed8beb372bf22a07",
+    "timestamp": "2026-03-08T22:31:58.322812",
+    "original_title": "A 7th U.S. service member is killed in war with Iran - NPR",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTjVxX2Q2UWxrSmY5U3pReHEtVW9fajBialN4WXY5NkM4UzBRelVNQkt0bWVJVFZuaVJrWGw4LTN2YXNRLXc5LWstd0VaSnhFVGdMdG9VbjhNaTliVERIa1h0OHpBMm03TWFCN3kzaFB2R2U2X1JFNlNhZDNUek1DM1VscXNWOFE?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "A 7th U.S. service member has been killed in the ongoing conflict with Iran, indicating an escalation of violence and potential for further clashes.",
+      "immediate_forecast_24h": "Increased tensions and potential for retaliatory attacks from both sides, posing a high risk to personnel and assets in the region.",
+      "strategic_outlook": "The conflict may lead to a prolonged period of instability, affecting regional security and potentially disrupting aviation and cargo operations.",
+      "operational_impact": "Transport and logistics operations in the region may be impacted due to increased security measures, potential airspace restrictions, and heightened risk of attacks on personnel and assets.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "6499aaf7eddd1a0e2bf5f621124e6c9c",
+    "timestamp": "2026-03-08T22:32:05.292448",
+    "original_title": "Was Cabin Baggage a Factor in Scary Near Miss at Brussels Airport When SAS Airbus A320 Attempted To Take Off From Taxiway?",
+    "link": "https://www.paddleyourownkanoo.com/2026/03/08/was-cabin-baggage-a-factor-in-scary-near-miss-at-brussels-airport-when-sas-airbus-a320-attempted-to-take-off-from-taxiway/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 8,
+      "location": "Brussels, Belgium",
+      "latitude": 50.9014,
+      "longitude": 4.4842,
+      "detailed_analysis": "A near miss incident occurred at Brussels Airport when an SAS Airbus A320 attempted to take off from a taxiway, potentially due to excessive cabin baggage, posing a significant threat to aviation safety and security.",
+      "immediate_forecast_24h": "Investigations are likely to be conducted to determine the cause of the incident, and additional security measures may be implemented to prevent similar incidents in the future.",
+      "strategic_outlook": "The incident highlights the importance of adhering to safety protocols and regulations, and the need for airlines and airports to ensure that passengers comply with baggage restrictions to prevent such incidents.",
+      "operational_impact": "The incident may lead to increased scrutiny of airline and airport security procedures, potentially resulting in additional security checks and measures to prevent similar incidents, which could impact flight operations and logistics.",
       "proximity_alert": null
     }
   }
