@@ -93,5 +93,62 @@
       "operational_impact": "Transport and logistics operations in the region may be disrupted, with potential delays or cancellations of flights and cargo shipments. Increased security measures may also lead to additional costs and operational complexities.",
       "proximity_alert": "YAKIN TEHDİT: Ben Gurion International Airport (22 km)"
     }
+  },
+  {
+    "id": "7bef2a472ab4a00f3a805880766f0805",
+    "timestamp": "2026-03-08T13:56:59.258464",
+    "original_title": "Blast at US Embassy in Oslo may have terror motive, Norway police say - Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdk1JblpRQkpPYUJCc1NWSGlpbjZTQjdSaXRTSjFqN080djc5bl9CcS1qRDVQeW56VnFBbDl1WEwtSGFsWHM0ZHpVZjZsRldCVFNUVEFtbE1oeHBVeUVfZVhDV3lEaVR2Z0NZd2tJOThDS3lFTE9uYkRYeFNzV1NkeGI1czhJYUlOSVZwcmFDWWpSRnp5YTF6ald2cXJSaG1fUXUxZG5FNE0zMzB40gGyAUFVX3lxTE9veWE1eDZoZUdCTEZncWJ4eVdkVG9IRS1rUFFicExVQThucldVQkJERVA5aUNaWkpjdVZYRndrTEd5REEtaGx5Z1hWaTAta2dEdjBkeUxjZlliNVI5QjNmek9tOHRKZ1RybU5WUVJpMUx2SkR2am1XazVveGxrNmJYLUQxc3J1ZW5EZmxQYjNnekRpRlhLS2g4OHc3N090TkJ1bExFZV9GZGxYVGd0djA2a3c?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 10,
+      "location": "Oslo, Norway",
+      "latitude": 59.9139,
+      "longitude": 10.7522,
+      "detailed_analysis": "A blast occurred at the US Embassy in Oslo, with Norway police suggesting a potential terror motive. This incident poses a significant threat to personnel, assets, and potentially aviation if the attack is linked to a broader campaign.",
+      "immediate_forecast_24h": "Increased security measures are expected around diplomatic missions and potential targets in Oslo. There may be disruptions to traffic and public gatherings. The situation is being monitored for potential escalation or copycat attacks.",
+      "strategic_outlook": "The long-term impact could involve heightened security protocols for embassies and diplomatic personnel worldwide, potentially affecting travel and logistics. If the incident is confirmed as a terror attack, it may lead to increased international cooperation on counter-terrorism efforts.",
+      "operational_impact": "The blast may cause short-term disruptions to operations near the embassy, including potential delays or rerouting of cargo and personnel. Aviation security could be enhanced, with possible additional screening or security checks for flights to and from Norway.",
+      "proximity_alert": "YAKIN TEHDİT: Oslo Airport (0 km)"
+    }
+  },
+  {
+    "id": "47af7bb9bef00cd77c9b0c9997b167b2",
+    "timestamp": "2026-03-08T13:57:04.580957",
+    "original_title": "Israel pounds Lebanon: 83 children among almost 400 killed in a week",
+    "link": "https://www.france24.com/en/israel-pounds-lebanon-83-children-among-almost-400-killed-in-a-week",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "Lebanon",
+      "latitude": 33.8547,
+      "longitude": 35.8623,
+      "detailed_analysis": "The conflict between Hezbollah and Israel has resulted in significant loss of life, including 83 children, and poses a substantial threat to the region's stability. The fighting could potentially disrupt aviation and cargo operations, and may lead to further escalation.",
+      "immediate_forecast_24h": "The situation is likely to remain volatile, with potential for further clashes and escalation. There is a high risk of additional casualties and damage to infrastructure.",
+      "strategic_outlook": "The long-term outlook for the region remains uncertain, with the potential for ongoing conflict and instability. This could have significant implications for regional security and global trade.",
+      "operational_impact": "The conflict may impact aviation and cargo operations in the region, with potential disruptions to flights and logistics. There is also a risk of spillover effects, including potential cyber attacks or other forms of retaliation.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "04c42a774391f672f639541e5442c6c4",
+    "timestamp": "2026-03-08T13:57:06.349225",
+    "original_title": "Tehran plunged into darkness by smoke from burning oil",
+    "link": "https://www.france24.com/en/live-news/20260308-tehran-plunged-into-darkness-by-smoke-from-burning-oil",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Israeli strikes on oil depots in Tehran have caused significant smoke and disruption, potentially impacting aviation and logistics operations in the area.",
+      "immediate_forecast_24h": "Increased risk of further strikes or retaliation, potential for civil unrest and disruptions to transport infrastructure.",
+      "strategic_outlook": "Long-term instability in the region could lead to sustained disruptions to cargo and aviation operations, with potential for escalation into a wider conflict.",
+      "operational_impact": "Potential for flight delays or cancellations, disruptions to supply chains and logistics operations, and increased security measures for personnel and assets in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
   }
 ]
