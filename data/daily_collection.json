@@ -739,5 +739,81 @@
       "operational_impact": "Possible disruptions to air traffic, cargo transport, and supply chains in the region. Aviation and logistics companies should be prepared for potential delays, rerouting, or cancellations of flights and shipments.",
       "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
     }
+  },
+  {
+    "id": "b10cdfc24b0d9c6d9c66138d76159047",
+    "timestamp": "2026-03-08T09:36:53.802414",
+    "original_title": "Two Kuwaiti interior ministry officers killed 'while performing duties'",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rnzu22/two_kuwaiti_interior_ministry_officers_killed/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 10,
+      "location": "Kuwait City, Kuwait",
+      "latitude": 29.3759,
+      "longitude": 47.9774,
+      "detailed_analysis": "Two Kuwaiti interior ministry officers were killed while performing their duties, indicating a potential threat to law and order in the region. This incident could be related to terrorism or other forms of conflict, posing a risk to personnel and potentially disrupting logistics and transport operations.",
+      "immediate_forecast_24h": "Increased security measures are likely to be implemented in the short term, potentially causing disruptions to transport and logistics operations. There is also a risk of further incidents or retaliatory attacks.",
+      "strategic_outlook": "The long-term outlook depends on the underlying causes of the incident and the government's response. If the incident is related to terrorism, it could lead to increased security measures and potential instability in the region, affecting transport and logistics operations.",
+      "operational_impact": "The incident may lead to increased security checks and delays at ports, airports, and border crossings, potentially disrupting cargo and personnel movements. Aviation operations may also be affected, with possible increased security screening and delays.",
+      "proximity_alert": "YAKIN TEHDİT: Kuwait International Airport (17 km)"
+    }
+  },
+  {
+    "id": "97f42b8e867f22effeb4cc7a7f57e3fb",
+    "timestamp": "2026-03-08T09:36:55.574142",
+    "original_title": "US embassy in Oslo hit by explosion, Norway police say",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rnzts4/us_embassy_in_oslo_hit_by_explosion_norway_police/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict",
+      "risk_score": 10,
+      "location": "Oslo, Norway",
+      "latitude": 59.9139,
+      "longitude": 10.7522,
+      "detailed_analysis": "An explosion has occurred at the US embassy in Oslo, Norway, indicating a potential terrorist attack. The incident may have implications for diplomatic relations and could lead to increased security measures in the region.",
+      "immediate_forecast_24h": "Increased security presence around diplomatic missions and potential protests or demonstrations in the area. Risk of further attacks or incidents in the short term.",
+      "strategic_outlook": "Long-term implications for international relations and global security. Potential for increased tensions between nations and heightened security measures at diplomatic missions worldwide.",
+      "operational_impact": "Potential disruptions to transport and logistics in the region due to increased security measures. Aviation and cargo operations may be affected, particularly those related to US or Norwegian interests.",
+      "proximity_alert": "YAKIN TEHDİT: Oslo Airport (0 km)"
+    }
+  },
+  {
+    "id": "2b4366d8fc906c5b6e9a0715b0529ae2",
+    "timestamp": "2026-03-08T09:36:58.187539",
+    "original_title": "The Israeli army expects the phase of this campaign to last another two weeks",
+    "link": "https://www.france24.com/en/the-israeli-army-expects-the-phase-of-this-campaign-to-last-another-two-weeks",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Southern Lebanon, Beirut, Tehran",
+      "latitude": 33.8869,
+      "longitude": 35.5016,
+      "detailed_analysis": "The Israeli army's campaign in the Middle East is escalating, with strikes on southern Lebanon, Beirut, and an oil storage facility in Tehran. The Israeli Prime Minister has stated that the current campaign aims to create conditions to overthrow the regime.",
+      "immediate_forecast_24h": "The conflict is expected to continue, with the Israeli army anticipating another two weeks of operations. This may lead to increased tensions, potential retaliation, and further disruptions to transport and logistics in the region.",
+      "strategic_outlook": "The long-term implications of this conflict are uncertain, but it may lead to a prolonged period of instability in the region, affecting trade, aviation, and personnel safety. The conflict may also draw in other regional or global actors, further complicating the situation.",
+      "operational_impact": "The conflict may impact air transport, with potential disruptions to flight routes, and increased security measures at airports. Cargo and logistics operations may also be affected, with potential delays or disruptions to supply chains. Personnel safety is a concern, with the potential for violence or unrest in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Beirut–Rafic Hariri International Airport (0 km)"
+    }
+  },
+  {
+    "id": "3bd719fca87d9486784bd6f4f5ac8e7d",
+    "timestamp": "2026-03-08T09:37:00.770499",
+    "original_title": "Drone attacks on Sudan markets kill at least 33",
+    "link": "https://www.france24.com/en/africa/20260308-at-least-33-people-killed-separate-drone-strikes-on-sudan-markets",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 8,
+      "location": "West Kordofan, Sudan",
+      "latitude": 12.0,
+      "longitude": 29.0,
+      "detailed_analysis": "Drone attacks on markets in Sudan's West Kordofan state have resulted in significant loss of life, indicating a high level of threat to personnel and potentially to aviation assets in the region due to the ongoing conflict between Sudan's army and the Rapid Support Forces.",
+      "immediate_forecast_24h": "Increased tensions and potential for further clashes between opposing forces, with a heightened risk of drone attacks or other aerial threats to aviation and personnel in the region.",
+      "strategic_outlook": "The conflict in Sudan's Kordofan region may escalate, posing long-term risks to aviation, cargo, and personnel due to the potential for continued drone attacks and other forms of violence.",
+      "operational_impact": "Transport and logistics operations in the region may be severely impacted due to the increased risk of drone attacks and the ongoing conflict, necessitating heightened security measures and contingency planning for aviation and cargo movements.",
+      "proximity_alert": null
+    }
   }
 ]
