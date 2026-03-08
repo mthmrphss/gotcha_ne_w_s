@@ -55,5 +55,43 @@
       "operational_impact": "Potential disruptions to air traffic, increased security measures at airports, and heightened vigilance for drone activity in the region, which may impact cargo and personnel transport.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "d570f9fa0854f26d8c5f602162bce5e1",
+    "timestamp": "2026-03-08T19:49:09.099830",
+    "original_title": "‘The Air is Unbreathable’: Tehran Shrouded in Cloud of Toxic Smoke After Israel Strikes Fuel Depots",
+    "link": "https://www.reddit.com/r/worldnews/comments/1roebwc/the_air_is_unbreathable_tehran_shrouded_in_cloud/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Aviation/Civil Unrest",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The air strike on fuel depots in Tehran has resulted in a cloud of toxic smoke, posing a significant threat to the health and safety of personnel in the area. The strike also has the potential to disrupt aviation operations and impact cargo transport.",
+      "immediate_forecast_24h": "Increased tensions between Israel and Iran, potential for further military action, and disruption to air travel in the region.",
+      "strategic_outlook": "Long-term escalation of conflict in the region, potential for economic sanctions, and impact on global oil prices.",
+      "operational_impact": "Disruption to air cargo and passenger flights, potential for flight restrictions or cancellations, and increased security measures at airports in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "b488b6a1fce41e6cce79b5147ed6840a",
+    "timestamp": "2026-03-08T19:50:33.933845",
+    "original_title": "Israeli strikes on Tehran infrastructure aim to 'limit regime's ability to govern'",
+    "link": "https://www.france24.com/en/video/20260308-israeli-strikes-on-tehran-infrastructure-aim-to-limit-regime-s-ability-to-govern",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Israeli strikes on Tehran's infrastructure, including oil depots, aim to limit the Iranian regime's ability to govern, indicating an escalation in conflict that could impact regional stability and potentially affect aviation and cargo operations.",
+      "immediate_forecast_24h": "Increased tensions between Israel and Iran, potential for retaliatory actions from Iran, and heightened security measures in the region.",
+      "strategic_outlook": "Long-term escalation of the conflict could lead to significant disruptions in global oil supplies, increased risk of attacks on aviation and cargo targets, and a destabilization of the Middle East region.",
+      "operational_impact": "Potential disruptions to air traffic, increased security checks for cargo and personnel, and heightened vigilance for potential attacks on transportation infrastructure.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
   }
 ]
