@@ -625,5 +625,43 @@
       "operational_impact": "The incident may cause delays or disruptions to cargo and personnel movements in the area, particularly if security checkpoints are increased or access to the embassy is restricted. Aviation operations at nearby airports may also be affected if additional security measures are implemented.",
       "proximity_alert": "YAKIN TEHDİT: Oslo Airport (0 km)"
     }
+  },
+  {
+    "id": "8ad80fba849953afcebb4dacbe7ed300",
+    "timestamp": "2026-03-08T06:54:21.001100",
+    "original_title": "US, Israel strikes hit oil depot in Tehran",
+    "link": "https://www.france24.com/en/us-israel-hit-oil-depot-in-tehran",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The US and Israel have conducted strikes on an oil depot in Tehran, indicating a significant escalation in conflict. The attack on the oil depot and port infrastructure could severely impact logistics and transportation in the region.",
+      "immediate_forecast_24h": "Increased tensions between the US, Israel, and Iran are expected, potentially leading to further military actions or retaliatory strikes. This could lead to disruptions in oil supply and transportation in the region.",
+      "strategic_outlook": "The long-term implications of this conflict could lead to a significant destabilization of the region, affecting global oil prices and transportation logistics. The conflict may also draw in other regional or global powers, further escalating the situation.",
+      "operational_impact": "The attack on the oil depot and port infrastructure is likely to cause significant disruptions to logistics and transportation in the region, including potential delays or cancellations of flights and shipments. This could have a ripple effect on global supply chains and economies.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "a2f640385c2db864a7bbb3ae245f114d",
+    "timestamp": "2026-03-08T06:54:23.940865",
+    "original_title": "Cyprus - Level 3: Reconsider Travel",
+    "link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/cyprus-travel-advisory.html",
+    "source_name": "US State Dept",
+    "ai_analysis": {
+      "category": "Conflict/Aviation/Crime",
+      "risk_score": 10,
+      "location": "Cyprus",
+      "latitude": 35.1264,
+      "longitude": 33.4299,
+      "detailed_analysis": "The U.S. Department of State has increased the advisory level for Cyprus to 3 due to the threat of armed conflict and limited U.S. embassy assistance for Americans in the Turkish Cypriot Administered area. There have been significant disruptions to commercial flights following the onset of hostilities between the United States and Iran, and a drone struck a building on the British Sovereign Base Area on Cyprus. The U.S. Embassy in Nicosia has limited ability to help U.S. citizens in the Turkish Cypriot-Administered area, and human rights reports show that central prison and police detention facilities do not meet international standards.",
+      "immediate_forecast_24h": "Increased tensions and potential for further disruptions to commercial flights, as well as potential for armed conflict in the region.",
+      "strategic_outlook": "Long-term instability in the region, with potential for ongoing conflict and limited U.S. embassy assistance for Americans in the Turkish Cypriot Administered area.",
+      "operational_impact": "Potential disruptions to transport and logistics in the region, including commercial flights and seaports. U.S. citizens are advised to reconsider travel to Cyprus and to have a plan to leave in an emergency that does not depend on U.S. government help.",
+      "proximity_alert": "YAKIN TEHDİT: Ercan Airport (7 km)"
+    }
   }
 ]
