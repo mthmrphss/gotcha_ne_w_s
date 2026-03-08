@@ -1423,5 +1423,62 @@
       "operational_impact": "Potential disruption to aviation and logistics operations in the region, particularly if the Prince of Wales aircraft carrier is deployed, and increased security measures are put in place.",
       "proximity_alert": "YAKIN TEHDİT: Heathrow Airport (23 km)"
     }
+  },
+  {
+    "id": "db7535cc727b6248d458d982ce787c8e",
+    "timestamp": "2026-03-08T15:31:19.805326",
+    "original_title": "Norwegian police say US Embassy blast may be 'terror' linked to global security situation - Anadolu Ajansı",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWEdmam4wV212cWd5TjlLYWhrNk1DdnVKX3JfWWV1TElkRlVJRno0V2xHM0RTUWM4b0tsYkQtWDN1Z2R0YnYtYURTdEphR1paU0ZsWG1hVkc5eW9sMUJhRUotVFc3d1BKNWdxZkQweTVCb1c1YU95LVJDRnNrNjRzdHdIRzd0R2xiSFRhZUtQQ01uUVJxa1RuV0poajdEYjFhcW8xMi1Qbmp4MUxpT2p3UEFfUE5ZQjUySjRPOEpLdlNNdlVk?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 10,
+      "location": "Oslo, Norway",
+      "latitude": 59.9139,
+      "longitude": 10.7522,
+      "detailed_analysis": "A blast at the US Embassy in Oslo may be linked to global security situation, indicating a potential terrorist threat. This could lead to increased security measures and potential disruptions to aviation and logistics operations.",
+      "immediate_forecast_24h": "Heightened security measures are expected in the vicinity of the embassy and potentially other diplomatic missions. There may be increased surveillance and screening at airports and other transportation hubs.",
+      "strategic_outlook": "The incident may lead to a long-term increase in security measures and cooperation between law enforcement agencies, potentially affecting the movement of people and goods. It may also lead to increased tensions and potential retaliatory actions.",
+      "operational_impact": "Potential disruptions to air travel, increased security screening, and possible delays in cargo processing. Personnel may face increased security checks and restrictions on movement.",
+      "proximity_alert": "YAKIN TEHDİT: Oslo Airport (0 km)"
+    }
+  },
+  {
+    "id": "83500ea90ea38e2434e99ae498edd948",
+    "timestamp": "2026-03-08T15:31:23.857327",
+    "original_title": "The US Strikes on Iran Are a Reminder to China: Power Is Power",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1ro6pt1/the_us_strikes_on_iran_are_a_reminder_to_china/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Middle East",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The US strikes on Iran may escalate tensions in the region, potentially affecting aviation and cargo operations, and posing a threat to personnel and assets.",
+      "immediate_forecast_24h": "Increased military activity and heightened alertness in the region, potential for retaliatory actions from Iran or its allies.",
+      "strategic_outlook": "Long-term instability in the region, potential for increased conflict and disruption to global supply chains, particularly for oil and gas shipments.",
+      "operational_impact": "Possible disruptions to air traffic, increased security measures for cargo and personnel, potential for insurance premiums to rise for assets and cargo in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "0d6a15a0b8aba149b4f6db838c20535b",
+    "timestamp": "2026-03-08T15:31:26.203512",
+    "original_title": "Israel kills dozens in Lebanon after failed mission to find pilot’s remains",
+    "link": "https://www.reddit.com/r/worldnews/comments/1ro7qev/israel_kills_dozens_in_lebanon_after_failed/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Eastern Lebanon",
+      "latitude": 33.9,
+      "longitude": 36.1,
+      "detailed_analysis": "A failed Israeli mission to recover a pilot's remains in Lebanon has led to dozens of casualties, indicating heightened tensions and potential for further conflict in the region, which could impact aviation and transport operations.",
+      "immediate_forecast_24h": "Increased military activity and potential for retaliation from affected parties, posing a risk to aviation and personnel in the region.",
+      "strategic_outlook": "Long-term instability in the region could lead to sustained risks for assets, cargo, and personnel, with potential for escalation into a broader conflict.",
+      "operational_impact": "Potential disruptions to air traffic, increased security measures for transport and logistics operations, and heightened risk of attacks on personnel and assets in the region.",
+      "proximity_alert": null
+    }
   }
 ]
