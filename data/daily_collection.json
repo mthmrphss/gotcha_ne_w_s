@@ -359,5 +359,100 @@
       "operational_impact": "Potential disruptions to air traffic, increased security measures at airports and borders, and heightened risk for personnel and cargo in the region, necessitating enhanced security protocols and contingency planning.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "f9087f591c7142bd23376944581fccb8",
+    "timestamp": "2026-03-09T08:55:05.429029",
+    "original_title": "Live Updates: Iran Names Khamenei’s Son Supreme Leader",
+    "link": "https://www.nytimes.com/live/2026/03/09/world/iran-war-trump-israel-lebanon",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The succession of Mojtaba Khamenei as Supreme Leader and the military attacks between Iran and Israel pose a significant threat to regional stability, potentially impacting aviation and cargo operations.",
+      "immediate_forecast_24h": "Escalation of military conflict between Iran and Israel, potentially affecting air traffic and logistics in the region.",
+      "strategic_outlook": "Long-term instability in the region could lead to increased security measures, affecting transport and logistics operations, and potentially disrupting global supply chains.",
+      "operational_impact": "Potential disruption to air traffic, increased security checks, and possible delays or cancellations of flights and cargo shipments in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "076849e349c32d1a59edf3e4aeb6c302",
+    "timestamp": "2026-03-09T08:55:07.506218",
+    "original_title": "On the Road With Zelensky, Weathered, Weary and Fighting On",
+    "link": "https://www.nytimes.com/2026/03/09/world/europe/ukraine-zelensky-frontline-tour.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Eastern Ukraine, Ukraine",
+      "latitude": 48.8567,
+      "longitude": 37.7353,
+      "detailed_analysis": "Ukrainian leader Volodymyr Zelensky's visit to frontline troops amidst Russian attacks poses a significant threat to personnel and assets in the region. The presence of reporters and the high-profile nature of the visit increase the risk of targeted attacks or disruptions to aviation and logistics in the area.",
+      "immediate_forecast_24h": "Increased military activity and potential clashes between Ukrainian and Russian forces are expected in the region, posing a high risk to personnel and assets. Aviation and logistics operations may be disrupted due to the conflict.",
+      "strategic_outlook": "The ongoing conflict in Ukraine is likely to continue, with potential escalation in the eastern regions. This may lead to long-term disruptions to logistics and transportation networks, as well as increased risks to personnel and assets.",
+      "operational_impact": "Transportation and logistics operations in the region may be severely impacted due to the conflict, with potential disruptions to supply chains and increased risks to personnel and assets. Aviation operations may also be affected, with potential restrictions or closures of airspace.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "4340ef5dc58d945af84ffaa8ff8e10e7",
+    "timestamp": "2026-03-09T08:55:10.144430",
+    "original_title": "U.S. Tomahawk Hit Naval Base Beside Iranian School, Video Shows",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1rotvsz/us_tomahawk_hit_naval_base_beside_iranian_school/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Minab, Iran",
+      "latitude": 27.0667,
+      "longitude": 57.0667,
+      "detailed_analysis": "A U.S. Tomahawk missile struck a naval base near an Iranian school, indicating a heightened state of conflict in the region. The proximity of the strike to a school poses significant risks to personnel and potentially to aviation if retaliatory actions are taken.",
+      "immediate_forecast_24h": "Increased tensions between the U.S. and Iran are expected, with potential for retaliatory strikes or other military actions. This could impact aviation and cargo operations in the region.",
+      "strategic_outlook": "The long-term view suggests continued instability in the region, with potential for ongoing conflict that could affect transport and logistics operations. The risk of miscalculation or unintended escalation is high.",
+      "operational_impact": "The strike and potential for further conflict could lead to restrictions on air travel, increased security measures for cargo and personnel, and potential disruptions to supply chains in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "4fdfddca10d39b3ff882d2a8896fbb30",
+    "timestamp": "2026-03-09T08:55:13.391979",
+    "original_title": "Middle East live: Iran launches first strikes on Israel under new supreme leader Mojtaba Khamenei",
+    "link": "https://www.france24.com/en/middle-east/20260309-war-in-middle-east-live-asian-stocks-tumble-oil-prices-soar-as-war-threatens-shipping",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Middle East",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Iran has launched missile strikes against Israel under new supreme leader Mojtaba Khamenei, indicating heightened tensions in the region. Israel has retaliated by hitting targets in central Iran, including internal security command centers and missile launch sites.",
+      "immediate_forecast_24h": "Escalation of conflict is possible, with potential for further missile strikes and retaliatory actions. Aviation and cargo operations in the region may be impacted.",
+      "strategic_outlook": "The conflict between Iran and Israel may lead to a prolonged period of instability in the region, affecting trade and transportation routes. The involvement of other countries or entities cannot be ruled out, potentially leading to a broader conflict.",
+      "operational_impact": "Potential disruptions to air traffic, cargo shipments, and logistics operations in the region. Airlines and cargo operators may need to reroute flights or adjust schedules to avoid affected areas. Personnel and assets in the region should exercise caution and be prepared for potential evacuations or security measures.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "786410e54ee339978c32fcf6ece43a69",
+    "timestamp": "2026-03-09T08:55:17.254485",
+    "original_title": "US airports face long delays as DHS shutdown hits security checkpoints",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/dhs-shutdown-airport-new-orleans-b2934535.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Aviation/Civil Unrest",
+      "risk_score": 6,
+      "location": "US airports, USA",
+      "latitude": 37.0902,
+      "longitude": -95.7129,
+      "detailed_analysis": "US airports are experiencing long delays due to a DHS shutdown affecting security checkpoints, potentially compromising the safety and security of passengers and flights during a period of increased travel due to spring break.",
+      "immediate_forecast_24h": "Delays are expected to continue or worsen, potentially leading to frustrated travelers and increased security risks if the situation is not resolved promptly.",
+      "strategic_outlook": "The long-term impact could include a loss of public trust in airport security and potential economic consequences for the aviation industry if the shutdown persists.",
+      "operational_impact": "Flight delays and cancellations are likely, affecting both passengers and cargo, with potential ripple effects on the entire logistics chain.",
+      "proximity_alert": null
+    }
   }
 ]
