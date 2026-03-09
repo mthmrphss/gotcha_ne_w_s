@@ -93,5 +93,43 @@
       "operational_impact": "The incident may lead to increased scrutiny of airline and airport security procedures, potentially resulting in additional security checks and measures to prevent similar incidents, which could impact flight operations and logistics.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "91287ad8f26faa875aae7fd4a1ebaa0a",
+    "timestamp": "2026-03-09T02:47:38.874007",
+    "original_title": "Thousands Waited for Hours in Security Lines at Airports in New Orleans and Houston - The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYTF6bmllcFg2cFpkXzVoWGMwRVkzNjJTUkVrSTdNVkExelM1Ukl2Y2F5S2pBQTRjTVJLUHZGZFNabU81cTRMaUszUGZsNGxNR1FkQXRfOWoxWGVHM0ZmMEJWLVFEamltUnRSYkI3M0N3ZlNRRURUUHFBdGp0cUY5YzUzcnNKaXFTSkxDVEF2VlRfM2xKWmUyUUhHRlpEZw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation/Civil Unrest",
+      "risk_score": 10,
+      "location": "New Orleans and Houston, USA",
+      "latitude": 29.7604,
+      "longitude": -95.3698,
+      "detailed_analysis": "Thousands of passengers waited for hours in security lines at airports in New Orleans and Houston, indicating potential disruptions to air travel and logistics.",
+      "immediate_forecast_24h": "Delays and congestion are expected to continue in the short term, potentially affecting flight schedules and passenger experience.",
+      "strategic_outlook": "The situation may lead to a review of security protocols and procedures to prevent similar incidents in the future and minimize the impact on air travel.",
+      "operational_impact": "The disruptions may cause delays and increased wait times for passengers, potentially affecting cargo and logistics operations at the affected airports.",
+      "proximity_alert": "YAKIN TEHDİT: George Bush Intercontinental Airport (25 km)"
+    }
+  },
+  {
+    "id": "32aaf0c196d9c2518c4ed238ce9e2335",
+    "timestamp": "2026-03-09T02:47:44.310956",
+    "original_title": "On U.S. strikes against Iran, Pete Hegseth says, \"this is only just the beginning\"",
+    "link": "https://www.reddit.com/r/worldnews/comments/1ron1b5/on_us_strikes_against_iran_pete_hegseth_says_this/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Iran, USA",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The statement by Pete Hegseth suggests an escalation of tensions between the US and Iran, potentially leading to increased military action and conflict in the region, which could impact aviation and cargo operations.",
+      "immediate_forecast_24h": "Heightened tensions and potential for further US strikes against Iran, with possible retaliation from Iran, affecting regional stability and transport operations.",
+      "strategic_outlook": "Prolonged conflict could lead to increased instability in the Middle East, affecting global oil prices, trade routes, and aviation security, with potential for spill-over into other regions.",
+      "operational_impact": "Potential for disruptions to air traffic, increased security measures for cargo and personnel, and heightened risk of attacks on transport infrastructure and assets in the region.",
+      "proximity_alert": null
+    }
   }
 ]
