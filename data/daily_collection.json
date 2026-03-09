@@ -1328,5 +1328,43 @@
       "operational_impact": "Potential disruption to aviation and logistics operations in the region, increased risk of attacks on U.S. military targets and personnel, and potential for cyber attacks or other forms of sabotage.",
       "proximity_alert": "YAKIN TEHDİT: Vnukovo International Airport (27 km)"
     }
+  },
+  {
+    "id": "e46ce12260481203115516cc9f1ea4de",
+    "timestamp": "2026-03-09T18:08:47.567526",
+    "original_title": "Synagogue in Liege damaged in explosion | The Jerusalem Post",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rp7490/synagogue_in_liege_damaged_in_explosion_the/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Terrorism/Civil Unrest",
+      "risk_score": 6,
+      "location": "Liege, Belgium",
+      "latitude": 50.6333,
+      "longitude": 5.5667,
+      "detailed_analysis": "An explosion has damaged a synagogue in Liege, indicating a potential terrorist attack targeting a place of worship, which could lead to increased tensions and further incidents in the area.",
+      "immediate_forecast_24h": "Heightened security measures are expected in the vicinity of the synagogue and potentially other places of worship in Liege, with possible protests or demonstrations in response to the attack.",
+      "strategic_outlook": "The long-term impact could involve increased security protocols for religious institutions across Belgium and potentially Europe, affecting the operational environment for assets, cargo, aviation, and personnel in the region.",
+      "operational_impact": "The incident may lead to increased security checks and delays for cargo and personnel moving through the area, particularly if additional security measures are implemented at airports, seaports, or border crossings.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "c8d57d067cfa3e94e3b8ed6ed156aa43",
+    "timestamp": "2026-03-09T18:08:49.964147",
+    "original_title": "'We will have to go back to a negotiating table': IAEA chief Grossi on Iran's nuclear capabilities",
+    "link": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260309-we-will-have-to-go-back-to-a-negotiating-table-iaea-chief-grossi-on-iran-s-nuclear-capabilities",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Nuclear",
+      "risk_score": 8,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Iran's nuclear capabilities remain intact despite limited damage from Israeli and US military campaigns, with enriched uranium stockpile and nuclear know-how still posing a threat",
+      "immediate_forecast_24h": "Escalation of conflict may lead to increased tensions and potential disruptions to regional transport and logistics",
+      "strategic_outlook": "Long-term resolution of the conflict will require diplomatic negotiations, potentially impacting global security and trade",
+      "operational_impact": "Potential disruptions to air transport, cargo shipments, and personnel movements in the region due to increased tensions and conflict",
+      "proximity_alert": null
+    }
   }
 ]
