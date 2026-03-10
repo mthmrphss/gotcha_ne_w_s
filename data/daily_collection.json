@@ -55,5 +55,43 @@
       "operational_impact": "Evacuation of aircraft fleet may lead to flight cancellations, delays, and increased security measures, affecting transport and logistics operations in the region.",
       "proximity_alert": "YAKIN TEHDİT: Bahrain International Airport (9 km)"
     }
+  },
+  {
+    "id": "2992ecf040616f77056c7785cc7bd1e8",
+    "timestamp": "2026-03-10T22:36:14.736044",
+    "original_title": "Six dead and five injured in 'deliberate' Swiss bus fire",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rqbps2/six_dead_and_five_injured_in_deliberate_swiss_bus/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Terrorism/Crime/Civil Unrest",
+      "risk_score": 8,
+      "location": "Switzerland",
+      "latitude": 46.7984,
+      "longitude": 8.2319,
+      "detailed_analysis": "A deliberate bus fire in Switzerland has resulted in six deaths and five injuries, indicating a potential terrorist or criminal act that could impact public transportation and civilian safety.",
+      "immediate_forecast_24h": "Increased security measures are expected in public transportation hubs, and potential disruptions to bus services may occur as investigations unfold.",
+      "strategic_outlook": "This incident may lead to a long-term increase in security protocols for public transportation in Switzerland and potentially other European countries, affecting the operational efficiency and cost of transport services.",
+      "operational_impact": "The incident may cause a temporary reduction in the use of public buses, potentially shifting demand to other modes of transportation, and highlighting the need for enhanced security measures to protect passengers and personnel.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "ac887729cdce730ff913433561f8c8a6",
+    "timestamp": "2026-03-10T22:36:16.509210",
+    "original_title": "Images taken near Iranian school hit in deadly strikes show fragments of U.S.-made missile",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rqb7en/images_taken_near_iranian_school_hit_in_deadly/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Images taken near an Iranian school that was hit in deadly strikes show fragments of a U.S.-made missile, indicating potential military conflict and aviation-related threats.",
+      "immediate_forecast_24h": "Increased tensions between involved parties, potential for further military action or retaliation.",
+      "strategic_outlook": "Long-term escalation of conflict, impact on regional stability, and potential for broader international involvement.",
+      "operational_impact": "Potential disruption to air traffic, increased security measures for aviation and logistics operations in the region.",
+      "proximity_alert": null
+    }
   }
 ]
