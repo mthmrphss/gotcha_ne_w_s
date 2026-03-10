@@ -758,5 +758,62 @@
       "operational_impact": "The trial is unlikely to have a direct operational impact on current flights or logistics. However, it may lead to increased scrutiny of aircraft leasing and crew management practices, which could potentially lead to changes in operational procedures.",
       "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (2 km)"
     }
+  },
+  {
+    "id": "c2c65f79f85aab37972bace871781648",
+    "timestamp": "2026-03-10T10:07:42.572684",
+    "original_title": "Iran escalates Middle East conflict with attacks on Israel and Gulf nations as oil prices surge - WNEP",
+    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNQVhJZzROT05menc5Vm1OYmg5dVFOc082S0NYNlZJdUV2UVFnRjVEU2dTWkdnbDFmbGp6ZE5zWGxMLUxqU05pSHhMaVhmNnBET2VIQklWMTY4di1LZ3Z4cnU2LVN0R0dhMkc2bHpQZkpqSUNsaDVDVXNTYUZDUW1qTENDYnI3N3A2ckQ5cW5NeWpic2QwYkFWU25JMVIyVF9mR2tvRzlZQ3NKbHFZU2JzNnVpbEhzSTJ1cXA3V21nTlNEa0dxOVJTU2JjRjQ2ZXhIQmZXa0pMVEVtS3NvbzJQdGhlNlZfVkdnZHBxbzY5MGRWZEdEVnZ1TF9JOUMxOFNZ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "Middle East",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Iran's escalation of attacks on Israel and Gulf nations poses a significant threat to regional stability, with potential impacts on aviation, cargo, and personnel. The surge in oil prices may also have economic implications for global trade and logistics.",
+      "immediate_forecast_24h": "Increased military activity and potential retaliatory strikes are expected in the short term, with possible disruptions to air travel and cargo shipments in the region.",
+      "strategic_outlook": "The conflict may lead to a prolonged period of instability in the Middle East, with potential long-term consequences for global energy markets, trade routes, and regional security.",
+      "operational_impact": "Airlines and cargo operators may need to reroute flights or suspend services to affected areas, while increased security measures may be implemented at airports and other critical infrastructure.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "265e43fe92b51f2960ab3c9f49ced417",
+    "timestamp": "2026-03-10T10:07:47.289365",
+    "original_title": "Trump says Iran war could end 'soon', but threatens Iran over oil disruption",
+    "link": "https://www.france24.com/en/video/20260310-trump-says-iran-war-could-end-soon-but-threatens-iran-over-oil-disruption",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "US President Donald Trump's statement on the potential end of the war with Iran, combined with the threat of escalation if global oil supplies are disrupted, indicates a high level of tension between the two nations. The response from the Iranian Revolutionary Guard suggests that Iran is prepared to continue fighting, increasing the risk of conflict.",
+      "immediate_forecast_24h": "Increased military activity and rhetoric between the US and Iran, potentially leading to disruptions in global oil supplies and heightened security measures in the region.",
+      "strategic_outlook": "Prolonged conflict between the US and Iran could lead to significant instability in the Middle East, impacting global oil prices, trade routes, and aviation security. Iran's determination to control the outcome of the conflict may lead to further escalation.",
+      "operational_impact": "Potential disruptions to oil supplies, increased security measures for aviation and cargo, and heightened risk of attacks on personnel and assets in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "b00a02f5c03153ffbed7aee37aacf924",
+    "timestamp": "2026-03-10T10:07:49.003265",
+    "original_title": "Who's making money off Trump's war in Iran?",
+    "link": "https://www.france24.com/en/tv-shows/press-review/20260310-who-s-making-money-off-trump-s-war-in-iran",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 6,
+      "location": "Iran, USA",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The conflict between the US and Iran may lead to increased tensions and potential threats to aviation and cargo in the region.",
+      "immediate_forecast_24h": "Heightened security measures and potential disruptions to air travel and logistics in the region.",
+      "strategic_outlook": "Long-term instability in the region may lead to increased security concerns and potential threats to assets, cargo, aviation, and personnel.",
+      "operational_impact": "Potential disruptions to air travel, increased security screening, and potential delays or cancellations of cargo shipments in the region.",
+      "proximity_alert": null
+    }
   }
 ]
