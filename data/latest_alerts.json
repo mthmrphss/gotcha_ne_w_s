@@ -1,24 +1,5 @@
 [
   {
-    "id": "39b6079321dee6fe44dde17fd5263674",
-    "timestamp": "2026-03-10T20:00:17.172109",
-    "original_title": "Israel’s strikes on Iran defended as legally justified",
-    "link": "https://www.reddit.com/r/geopolitics/comments/1rq7c9q/israels_strikes_on_iran_defended_as_legally/",
-    "source_name": "Reddit r/Geopolitics",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 8,
-      "location": "Israel, Iran",
-      "latitude": 32.0,
-      "longitude": 53.0,
-      "detailed_analysis": "Israel's strikes on Iran pose a significant threat to regional stability, potentially disrupting air travel and cargo transport in the area. The escalation of conflict could lead to increased security measures, affecting aviation and logistics operations.",
-      "immediate_forecast_24h": "Heightened tensions between Israel and Iran may lead to further military action, potentially targeting critical infrastructure, including airports and transportation hubs.",
-      "strategic_outlook": "The conflict may lead to a prolonged period of instability in the region, affecting global supply chains and air travel. Diplomatic efforts may be necessary to de-escalate the situation and prevent further violence.",
-      "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics operations in the region. Increased security measures may be implemented, causing delays and affecting personnel safety.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "cfc66b5dc8cc94288aeff620b518c239",
     "timestamp": "2026-03-10T20:50:18.048006",
     "original_title": "Kyiv says it hit 'key' Russian military factory in Bryansk strike, Russia says six dead",
@@ -35,6 +16,44 @@
       "strategic_outlook": "The long-term implications of this strike could lead to increased conflict and instability in the region, potentially disrupting supply chains and impacting global trade. The aviation industry may face increased security measures and potential airspace restrictions.",
       "operational_impact": "The strike may impact logistics and transport operations in the region, particularly for cargo and personnel. Airlines and shipping companies should be prepared for potential disruptions and increased security measures.",
       "proximity_alert": null
+    }
+  },
+  {
+    "id": "accb05357c28917ed33113585c4325bc",
+    "timestamp": "2026-03-10T21:35:45.738904",
+    "original_title": "Tehran endures ‘worst night of strikes’ amid mixed US messages about more to come",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rq9yx8/tehran_endures_worst_night_of_strikes_amid_mixed/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Aviation/Civil Unrest",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Tehran has endured its worst night of strikes, indicating a significant escalation of conflict. The mixed messages from the US about potential further action add to the uncertainty and tension in the region.",
+      "immediate_forecast_24h": "Increased military activity and potential for further strikes are expected in the short term, posing a high risk to aviation and personnel in the region.",
+      "strategic_outlook": "The long-term outlook suggests continued instability and conflict in the region, potentially disrupting cargo and aviation operations. The situation may lead to increased security measures and potential border closures.",
+      "operational_impact": "The conflict may impact transport and logistics operations, particularly aviation, due to the risk of strikes and potential airspace restrictions. Cargo operations may also be affected due to increased security measures and potential disruptions to supply chains.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "c69f6cfc7b1cef656a7b84a981b233ac",
+    "timestamp": "2026-03-10T21:35:49.548793",
+    "original_title": "Bahrain’s Gulf Air Evacuates Aircraft Fleet Out of Country as Missile Attacks Continue",
+    "link": "https://www.paddleyourownkanoo.com/2026/03/10/bahrains-gulf-air-evacuates-aircraft-fleet-out-of-country-as-missile-attacks-continue/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 10,
+      "location": "Manama, Bahrain",
+      "latitude": 26.2018,
+      "longitude": 50.5833,
+      "detailed_analysis": "Gulf Air has evacuated its aircraft fleet from Bahrain due to ongoing missile attacks and escalation in the security situation in the region, posing a significant threat to aviation assets and personnel.",
+      "immediate_forecast_24h": "Increased risk of missile attacks and airspace restrictions, potentially disrupting flight operations and affecting personnel safety.",
+      "strategic_outlook": "Prolonged conflict in the region may lead to sustained disruptions to air travel, impacting the aviation industry and logistics in the area.",
+      "operational_impact": "Evacuation of aircraft fleet may lead to flight cancellations, delays, and increased security measures, affecting transport and logistics operations in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Bahrain International Airport (9 km)"
     }
   }
 ]
