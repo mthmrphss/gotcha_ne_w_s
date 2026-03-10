@@ -1423,5 +1423,138 @@
       "operational_impact": "Potential disruptions to road transport and logistics operations, particularly in the Abidjan area. Aviation operations may also be affected if the situation escalates.",
       "proximity_alert": "YAKIN TEHDİT: Port Bouet Airport (12 km)"
     }
+  },
+  {
+    "id": "8834a3094d767f51423c6a83bc4e856c",
+    "timestamp": "2026-03-10T17:01:03.586410",
+    "original_title": "Live Updates: Hundreds of Thousands Flee Israeli Strikes in Lebanon",
+    "link": "https://www.nytimes.com/live/2026/03/10/world/iran-war-trump-us-israel",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "Lebanon",
+      "latitude": 33.8547,
+      "longitude": 35.8623,
+      "detailed_analysis": "The situation in Lebanon is deteriorating due to Israeli strikes targeting Hezbollah, resulting in nearly 700,000 people displaced and a growing humanitarian crisis. This conflict poses significant risks to assets, cargo, aviation, and personnel in the region.",
+      "immediate_forecast_24h": "Expect increased violence and displacement in the short term, with potential for further escalation of strikes. Humanitarian aid and transport of essential goods may be severely impacted.",
+      "strategic_outlook": "The long-term outlook is uncertain, with potential for prolonged conflict and instability in the region. This could lead to sustained disruptions to transport and logistics, as well as increased security risks for personnel and assets.",
+      "operational_impact": "Transport and logistics operations in the region are likely to be severely impacted, with potential for damage to infrastructure, disruption of supply chains, and increased security risks for personnel and cargo. Aviation operations may also be affected, with potential for airspace restrictions or closures.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "d2568ff98149b3bbde24401636a917ef",
+    "timestamp": "2026-03-10T17:01:06.806382",
+    "original_title": "'Unprepared' to defend against Iranian drones, US calls on Ukraine for help",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rq1vmt/unprepared_to_defend_against_iranian_drones_us/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 8,
+      "location": "Ukraine/Gulf States",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "The US is seeking help from Ukraine to defend against Iranian drones, indicating a significant threat to aviation and regional security. This suggests a high level of risk due to the potential for drone attacks on aircraft or critical infrastructure.",
+      "immediate_forecast_24h": "Increased military cooperation between the US and Ukraine is expected, with a potential escalation of tensions between the US and Iran. There may be a heightened alert status for aviation and defense systems in the region.",
+      "strategic_outlook": "The long-term implications of this development could include a significant shift in the regional balance of power, with potential consequences for global aviation security and the use of drones in conflict zones.",
+      "operational_impact": "The threat of Iranian drones may lead to increased security measures for aviation and logistics operations in the region, potentially causing delays or disruptions to transport services.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "b97f6b9cc7ace36ef015208b1f52e4d4",
+    "timestamp": "2026-03-10T17:01:08.839486",
+    "original_title": "Haiti: Drone Strikes Put Residents at Risk",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rq1lf4/haiti_drone_strikes_put_residents_at_risk/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 8,
+      "location": "Haiti",
+      "latitude": 18.9712,
+      "longitude": -72.2852,
+      "detailed_analysis": "Drone strikes in Haiti pose a significant threat to residents and potentially to aviation assets, cargo, and personnel. The situation is volatile and could lead to further instability.",
+      "immediate_forecast_24h": "Increased tensions and potential for further drone strikes or retaliatory actions, affecting local security and aviation operations.",
+      "strategic_outlook": "Long-term instability in Haiti could lead to sustained security risks for aviation, cargo, and personnel, necessitating heightened vigilance and contingency planning.",
+      "operational_impact": "Potential disruptions to air traffic, increased security measures at airports, and heightened risk of accidents or incidents involving drones.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "b0891f4fe69556e2f3aaef5a69a3d21d",
+    "timestamp": "2026-03-10T17:01:10.873249",
+    "original_title": "Jihadist attacks hit Nigerian military bases in northeast",
+    "link": "http://www.africanews.com/2026/03/10/jihadist-attacks-hit-nigerian-military-bases-in-northeast/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict",
+      "risk_score": 8,
+      "location": "Northeast, Nigeria",
+      "latitude": 11.0,
+      "longitude": 13.0,
+      "detailed_analysis": "Jihadist groups, including Boko Haram, have intensified attacks on Nigerian military bases in the northeast, posing a significant threat to regional security and stability.",
+      "immediate_forecast_24h": "Increased military presence and potential for retaliatory strikes, heightened security measures at airports and border crossings.",
+      "strategic_outlook": "Long-term instability in the region, potential for spillover into neighboring countries, and continued threat to aviation and logistics operations.",
+      "operational_impact": "Potential disruptions to air travel, cargo transport, and personnel movement in the region, with increased security protocols and possible route diversions.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "3f08fae4aaa86fd0eac51cda493d0481",
+    "timestamp": "2026-03-10T17:01:12.990108",
+    "original_title": "Israelis vow to stay put as war rages across border",
+    "link": "https://www.france24.com/en/video/20260310-israelis-vow-to-stay-put-as-war-rages-across-border",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 7,
+      "location": "Southern Lebanon, Israel",
+      "latitude": 33.3533,
+      "longitude": 35.5133,
+      "detailed_analysis": "The ongoing war across the border in southern Lebanon poses a significant threat to assets, cargo, aviation, and personnel in the region. Despite the risks, Israeli residents are determined to stay in their homes, which could lead to potential humanitarian crises and disruptions to logistics and transportation.",
+      "immediate_forecast_24h": "The situation is likely to remain volatile, with potential for increased violence and disruptions to transport and logistics in the region.",
+      "strategic_outlook": "The long-term impact of the conflict could lead to significant instability in the region, affecting trade and economic activities, and potentially leading to a humanitarian crisis.",
+      "operational_impact": "The conflict may cause disruptions to air and ground transportation, potentially affecting cargo shipments and personnel movements in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "3659a6d28f5666e8b2472c24c67408cc",
+    "timestamp": "2026-03-10T17:01:14.830785",
+    "original_title": "Iran targeted by fresh strikes as US warns of 'most intense day'",
+    "link": "https://www.france24.com/en/video/20260310-iran-targeted-by-fresh-strikes-as-us-warns-of-most-intense-day",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Fresh Israeli strikes targeted several cities in Iran, with the US warning of the 'most intense day' of strikes, indicating a significant escalation of conflict that could impact aviation and logistics operations in the region.",
+      "immediate_forecast_24h": "Increased military activity and potential for further strikes, posing a high risk to aviation and potential disruption to logistics and transport operations.",
+      "strategic_outlook": "Prolonged conflict could lead to long-term instability in the region, affecting trade routes, cargo transport, and personnel safety, with potential for escalation into a wider regional conflict.",
+      "operational_impact": "Potential for flight disruptions, airspace restrictions, and increased security measures for cargo and personnel, with possible rerouting of flights and cargo shipments to avoid the conflict zone.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "78464a23e8b70c72a26802c12a85a747",
+    "timestamp": "2026-03-10T17:01:16.830143",
+    "original_title": "Kharg Island: Iran’s ‘untouchable’ oil artery?",
+    "link": "https://www.france24.com/en/middle-east/20260310-iran-us-israel-war-middle-east-kharg-island-oil-hub-infrastructure-strategic-importance-global-economy",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Kharg Island, Iran",
+      "latitude": 29.2333,
+      "longitude": 50.3167,
+      "detailed_analysis": "Kharg Island is a critical oil export hub for Iran, making it a potential target for military strikes, which could severely disrupt global oil supplies and impact aviation and maritime transport in the region.",
+      "immediate_forecast_24h": "Tensions may escalate, with a potential increase in military presence or posturing in the region, but no immediate attack is expected.",
+      "strategic_outlook": "The long-term impact of a potential strike on Kharg Island could lead to significant economic and geopolitical consequences, including increased oil prices and regional instability.",
+      "operational_impact": "A disruption to oil exports from Kharg Island could impact global energy markets, leading to increased costs for aviation and maritime transport, as well as potential delays or rerouting of cargo shipments.",
+      "proximity_alert": null
+    }
   }
 ]
