@@ -587,5 +587,62 @@
       "operational_impact": "The incident may impact transportation and logistics in the area, with potential road closures, increased security checks, and disruptions to supply chains. Aviation security may also be enhanced, with potential delays or cancellations of flights.",
       "proximity_alert": "YAKIN TEHDİT: Paramount Hotel (5 km)"
     }
+  },
+  {
+    "id": "1a680ad74df114f8e783a64c2204bea2",
+    "timestamp": "2026-03-10T08:01:16.042100",
+    "original_title": "StarCare helicopter called to crash west of Lincoln - WOWT",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSGZGa2dSeHRBWTJxX0JMa3BRcXlTeVBIa2EtWjZSOEg3UXliUVRPSlV1NUNyelk1ZVo1TGIxVTVlX2hNVFJjTDgtbFhHNVp1NzJLR0RuX1pQQnluYlJFVERVWExJN2EtZ3N0dU1ZUElaUkNRX3hGV0FVYS1keVppODlGRlPSAZgBQVVfeXFMTzh0VEQwUmJrY1NmdnVUVVJZQ2NpLXFBZFlMWGE0R1gwUWRiZ1VfYlN3SElLSU9BU29rRjRENEVYUFQ0ZkFHWlREeGJ3UXRiTWZZRU5vYkFVRDUtYW5CTVhZdTdlM3VOeDgtT19DVDBfZ2FDSzlYOTZFWHFWckRSQTdGT3lsZ2F4TXVrN0VhSU9PVUJwR2hlU2c?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 8,
+      "location": "Lincoln, USA",
+      "latitude": 40.8003,
+      "longitude": -96.6753,
+      "detailed_analysis": "A StarCare helicopter was called to a crash site west of Lincoln, indicating a potential aviation incident with unknown causes and consequences.",
+      "immediate_forecast_24h": "Investigations into the crash will likely be initiated, and the area may experience disruptions to air traffic or emergency services.",
+      "strategic_outlook": "The incident may lead to a review of aviation safety protocols and emergency response procedures in the region.",
+      "operational_impact": "Potential delays or restrictions to air traffic in the area, with possible effects on medical transport, search and rescue operations, or other aviation services.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "00f9d06f286952c7c16ab6ee2a9e93d6",
+    "timestamp": "2026-03-10T08:01:20.129885",
+    "original_title": "Early Iran strikes cost $5.6 billion in munitions, Pentagon estimates",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rpqxdc/early_iran_strikes_cost_56_billion_in_munitions/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The Pentagon estimates that early Iran strikes have cost $5.6 billion in munitions, indicating a significant military engagement with potential implications for aviation and regional stability.",
+      "immediate_forecast_24h": "Increased military activity and potential for further strikes, posing a risk to aviation and transport in the region.",
+      "strategic_outlook": "Long-term escalation of conflict could lead to sustained disruption of transport and logistics, affecting cargo and personnel movement.",
+      "operational_impact": "Potential for no-fly zones, airspace restrictions, and increased security measures affecting aviation operations and transport logistics in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "0b19a3229f5bd18ff77d4edf7a5a13c3",
+    "timestamp": "2026-03-10T08:01:25.554402",
+    "original_title": "All JetBlue flights grounded in US after request from airline",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/jetblue-grounds-flight-new-york-b2935270.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 6,
+      "location": "US",
+      "latitude": 37.0902,
+      "longitude": -95.7129,
+      "detailed_analysis": "A groundstop for all JetBlue flights was issued in the US, but was canceled within an hour. The cause of the groundstop is not specified, but it may indicate a potential security threat or operational issue.",
+      "immediate_forecast_24h": "JetBlue flights are expected to resume normal operations, but there may be some delays or cancellations as a result of the groundstop. Passengers should check with the airline for updates on their flights.",
+      "strategic_outlook": "The incident highlights the importance of robust security protocols and communication systems in the aviation industry. Airlines and regulatory bodies should review their procedures to minimize the impact of such events on passengers and operations.",
+      "operational_impact": "The groundstop may have caused disruptions to JetBlue's operations, including delays and potential cancellations. The airline's ability to quickly cancel the groundstop and resume flights mitigated the impact, but it may still affect passenger confidence and the airline's reputation.",
+      "proximity_alert": null
+    }
   }
 ]
