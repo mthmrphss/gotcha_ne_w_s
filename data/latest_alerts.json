@@ -1,24 +1,5 @@
 [
   {
-    "id": "82dbbebe018185a3e9759142ab14c3fc",
-    "timestamp": "2026-03-11T04:49:00.653008",
-    "original_title": "Live: Israel and Iran exchange strikes as missile threats escalate",
-    "link": "https://www.france24.com/en/middle-east/20260311-israel-and-iran-exchange-strikes-as-missile-threats-escalate",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict/Aviation",
-      "risk_score": 10,
-      "location": "Tel Aviv, Israel",
-      "latitude": 32.0853,
-      "longitude": 34.7818,
-      "detailed_analysis": "The exchange of strikes between Israel and Iran poses a significant threat to aviation and regional stability, with potential for further escalation and impact on air travel and logistics in the Middle East.",
-      "immediate_forecast_24h": "Increased military activity and potential for additional missile strikes, with possible disruptions to air traffic and heightened security measures in the region.",
-      "strategic_outlook": "Prolonged conflict could lead to sustained disruptions to regional air travel, logistics, and trade, with potential for broader geopolitical implications and impact on global markets.",
-      "operational_impact": "Potential for flight delays or cancellations, increased security screening, and heightened vigilance for cargo and personnel movements in the region, with possible diversion of air traffic and logistics routes.",
-      "proximity_alert": "YAKIN TEHDİT: Ben Gurion International Airport (0 km)"
-    }
-  },
-  {
     "id": "16f130cbe4dce648a2f086bcba9e6c30",
     "timestamp": "2026-03-11T05:55:37.280366",
     "original_title": "Middle East war: military, strategic and diplomatic angles - The International Institute for Strategic Studies",
@@ -53,6 +34,82 @@
       "immediate_forecast_24h": "Escalation of tensions between Ukraine, Russia, and Iran, with potential for increased drone activity and airstrikes.",
       "strategic_outlook": "Long-term instability in the region, with potential for the conflict to spread to other areas, impacting global aviation and logistics.",
       "operational_impact": "Potential disruption to air traffic, increased security measures, and heightened risk of attacks on aviation assets and personnel.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "f61e492039196037ed0513d68568b770",
+    "timestamp": "2026-03-11T07:05:14.440955",
+    "original_title": "2 charged as investigation into attempted terror attack in NYC continues - KOLD",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcWlJdmNJOWJRQzFqNW9Qd1AwSllWMU81UVV4dTBwT3lwbVQ0QWFvUm80SGQ0NHVOamVTdVNmOHRieUFtXzF3TjVCcnpvQXprMHM0TU1RTDVmOG1WQmNmcXZMYnItb3p1a0NJSjRrZjJ1UlhfdGJZMWh4Z003V3FTdTdnSEVnUVhYUHR0YWQ5ZkhOWXpxVjJMX2lhUFpCZTJTNURrX1gwRDM?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism/Aviation/Crime",
+      "risk_score": 10,
+      "location": "New York City, USA",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "detailed_analysis": "Investigation into attempted terror attack in NYC continues with 2 charged, indicating potential threat to aviation and public safety",
+      "immediate_forecast_24h": "Increased security measures expected at NYC airports and public areas, potential for additional arrests or discoveries",
+      "strategic_outlook": "Long-term impact on aviation security protocols and counter-terrorism efforts in the US, potential for increased surveillance and intelligence gathering",
+      "operational_impact": "Potential delays or disruptions to air travel and logistics in NYC, increased security screening and checks for passengers and cargo",
+      "proximity_alert": "YAKIN TEHDİT: Paramount Hotel (5 km)"
+    }
+  },
+  {
+    "id": "8b1ef0d77353efe66996eb019b4aba99",
+    "timestamp": "2026-03-11T07:05:16.395013",
+    "original_title": "Security Alert – U.S. Embassy Riyadh, Saudi Arabia – March 11, 2026 - U.S. Embassy & Consulates in Saudi Arabia (.gov)",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY1lhSk83UHlsQnU3NUV1M0dPcFRvSEY3ek9Uc1NrbnBEZng4YUJVMVdOdjJXV09DYTI0a21YNS1rMHhBd09tS3RVeUh5enMwMV9YcVJFX1VzRUlQX29VUHVtbGtxRzNCeWczYzJ1akN6bThNU1VGdjVPeENQaDFEdUFrTjE0Tk9GR2t4ZzlmVQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism/Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Riyadh, Saudi Arabia",
+      "latitude": 24.7136,
+      "longitude": 46.6753,
+      "detailed_analysis": "The U.S. Embassy in Riyadh, Saudi Arabia has issued a security alert due to potential threats to the safety of U.S. citizens. The alert does not specify the nature of the threat but advises citizens to exercise caution and stay informed.",
+      "immediate_forecast_24h": "Increased security measures are expected in the vicinity of the U.S. Embassy and other areas frequented by U.S. citizens. There may be disruptions to traffic and daily activities.",
+      "strategic_outlook": "The situation in Saudi Arabia is volatile, and the threat level may remain elevated for the foreseeable future. U.S. citizens are advised to remain vigilant and follow local news and instructions from authorities.",
+      "operational_impact": "The security alert may impact logistics and transportation in the region, particularly for U.S.-related cargo and personnel. Airlines and shipping companies may need to take extra precautions to ensure the safety of their operations.",
+      "proximity_alert": "YAKIN TEHDİT: King Khalid International Airport (27 km)"
+    }
+  },
+  {
+    "id": "5ad7cd6497df084414d01f577a279f79",
+    "timestamp": "2026-03-11T07:05:20.041476",
+    "original_title": "UK Maritime Agency Reports Cargo Ship Hit by Projectile In Strait Of Hormuz, Fire On Board",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1rqmafd/uk_maritime_agency_reports_cargo_ship_hit_by/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Strait of Hormuz",
+      "latitude": 26.0,
+      "longitude": 56.0,
+      "detailed_analysis": "A cargo ship was hit by a projectile in the Strait of Hormuz, resulting in a fire on board. This incident poses a significant threat to maritime assets, cargo, and personnel in the region.",
+      "immediate_forecast_24h": "Increased tensions and potential for further attacks on ships in the Strait of Hormuz. Shipping companies and maritime authorities may take additional security measures, such as rerouting ships or increasing escort vessels.",
+      "strategic_outlook": "The incident highlights the ongoing risks and instability in the region, which could lead to long-term disruptions to global trade and energy supplies. It may also escalate tensions between nations with interests in the area.",
+      "operational_impact": "Potential delays or disruptions to cargo shipments, increased costs for shipping companies, and heightened security measures for vessels transiting the Strait of Hormuz.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "fb38f3dea43b2c661c81f80a25263fbc",
+    "timestamp": "2026-03-11T07:05:22.455624",
+    "original_title": "Gulf countries have contacted Indian pharmaceutical company and have requested special medicine that can be useful in the event of a nuclear attack, demand has been placed for 1 crore tablets.",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rqlv9o/gulf_countries_have_contacted_indian/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 8,
+      "location": "Gulf countries, India",
+      "latitude": 24.0,
+      "longitude": 57.0,
+      "detailed_analysis": "Gulf countries have contacted an Indian pharmaceutical company to request special medicine that can be useful in the event of a nuclear attack, indicating a potential threat to the region. The demand for 1 crore tablets suggests a large-scale preparation for a possible nuclear emergency.",
+      "immediate_forecast_24h": "Increased tensions in the region, potential for further requests for emergency supplies, and heightened security measures at pharmaceutical facilities and transport hubs.",
+      "strategic_outlook": "Long-term implications include the potential for escalated conflict in the region, increased demand for nuclear emergency supplies, and a heightened focus on security and emergency preparedness for the aviation and logistics industries.",
+      "operational_impact": "Potential disruptions to pharmaceutical supply chains, increased security screening for cargo and personnel, and possible restrictions on air travel to and from the region.",
       "proximity_alert": null
     }
   }
