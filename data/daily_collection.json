@@ -720,5 +720,81 @@
       "operational_impact": "Significant disruptions to air travel, potential losses for the airline, and inconvenience to passengers",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "cb7d94ec326cb427910e867be9cc2740",
+    "timestamp": "2026-03-11T11:07:53.915856",
+    "original_title": "Dubai airport and Saudi oil field among targets of Iranian drones",
+    "link": "https://www.france24.com/en/dubai-airport-and-saudi-oil-field-among-targets-of-iranian-drones",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Terrorism/Aviation/Conflict",
+      "risk_score": 10,
+      "location": "Dubai, UAE/Saudi Arabia",
+      "latitude": 25.276987,
+      "longitude": 55.296249,
+      "detailed_analysis": "Iranian drones have been reported targeting Dubai airport and a Saudi oil field, indicating a heightened threat to aviation and critical infrastructure in the region. This is part of an ongoing series of counterstrikes by Iran against Israel and US allies in the Gulf.",
+      "immediate_forecast_24h": "Increased security measures are expected at airports and critical infrastructure in the region, with potential disruptions to flights and logistics. Further drone sightings or attacks are possible in the next 24 hours.",
+      "strategic_outlook": "The ongoing conflict between Iran and its adversaries is likely to continue, with potential for further escalation and targeting of critical infrastructure, including aviation and logistics hubs.",
+      "operational_impact": "Potential disruptions to air travel, increased security screening, and possible delays or cancellations of flights. Logistics and cargo operations may also be impacted, particularly those related to the oil and gas sector.",
+      "proximity_alert": "YAKIN TEHDİT: DUBAİ (25 km)"
+    }
+  },
+  {
+    "id": "ac2621854a087320dc0cd3dbb23d0025",
+    "timestamp": "2026-03-11T11:07:55.742202",
+    "original_title": "Iran adoption a strategy of 'war of attrition on several fronts'",
+    "link": "https://www.france24.com/en/iran-adoption-a-strategy-of-war-of-attrition-on-several-fronts",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "Middle East",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Iran's adoption of a 'war of attrition' strategy on multiple fronts poses significant threats to assets, cargo, aviation, and personnel in the region. The targeting of oil infrastructures and US allies in the Gulf increases the risk of disruptions to logistics and transportation.",
+      "immediate_forecast_24h": "Increased likelihood of strikes and interceptions across the Middle East, potentially affecting air traffic and cargo shipments. Elevated risk of attacks on oil infrastructures and other critical assets.",
+      "strategic_outlook": "Prolonged conflict in the region may lead to long-term disruptions to global supply chains, increased insurance costs, and heightened security measures for aviation and cargo operations.",
+      "operational_impact": "Potential delays or cancellations of flights and cargo shipments, increased security screening, and enhanced protective measures for personnel and assets in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "8fd6f401ab8c5155811adb99ef2e9117",
+    "timestamp": "2026-03-11T11:07:57.673382",
+    "original_title": "Israel strikes central Beirut, as number of displaced goes over 700,000",
+    "link": "https://www.france24.com/en/israel-strikes-central-beirut-as-number-of-displaced-goes-over-700-000",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Beirut, Lebanon",
+      "latitude": 33.8938,
+      "longitude": 35.5018,
+      "detailed_analysis": "Israeli strikes on central Beirut have resulted in significant casualties and displacement, indicating a high level of conflict and instability in the region, posing a substantial threat to assets, cargo, aviation, and personnel.",
+      "immediate_forecast_24h": "Further escalation of violence and strikes is possible, leading to increased risk of damage to infrastructure, including airports and logistics facilities, and potential disruption to transport and supply chains.",
+      "strategic_outlook": "The ongoing conflict may lead to a prolonged period of instability, affecting the region's security and economy, and potentially having long-term implications for global trade and security.",
+      "operational_impact": "Transport and logistics operations in the region are likely to be severely impacted, with potential for disruptions to air travel, cargo shipments, and ground transportation, necessitating contingency planning and alternative routing for assets and personnel.",
+      "proximity_alert": "YAKIN TEHDİT: Beirut–Rafic Hariri International Airport (0 km)"
+    }
+  },
+  {
+    "id": "5a9ff6576da24823215f4780f56dcf71",
+    "timestamp": "2026-03-11T11:08:00.891208",
+    "original_title": "Major airport closes runway after Air India plane malfunctions and ‘loses wheel’ on landing",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/phuket-airport-closed-air-india-crash-thailand-b2936213.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Phuket, Thailand",
+      "latitude": 8.1133,
+      "longitude": 98.2917,
+      "detailed_analysis": "An Air India Express plane experienced a malfunction and lost a wheel during landing at Phuket Airport, resulting in damage to its landing gear and the closure of a runway.",
+      "immediate_forecast_24h": "Disruptions to flight schedules and airport operations are expected in the short term as the incident is investigated and the runway is inspected for safety.",
+      "strategic_outlook": "The incident highlights the importance of regular maintenance and safety inspections for aircraft to prevent such malfunctions, and airports should review their emergency response plans to minimize disruptions in case of similar incidents.",
+      "operational_impact": "The closure of the runway may cause delays or cancellations of flights, affecting passengers and cargo operations, and the incident may also impact Air India's operations and reputation.",
+      "proximity_alert": "YAKIN TEHDİT: PHUKET (27 km)"
+    }
   }
 ]
