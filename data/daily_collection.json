@@ -55,5 +55,81 @@
       "operational_impact": "Potential disruptions to air traffic, increased security measures, and possible restrictions on cargo transport may be implemented, affecting operational efficiency and safety.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "e57880b8976f2804346feb4c83918d31",
+    "timestamp": "2026-03-11T21:40:41.989718",
+    "original_title": "Ex-Trump envoy makes case for Iran attack - Harvard Gazette",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdzdlWnB4dENpY213Qzk2RDA5S1ZXc0x3ZFZyVllHTW5tYmhodTVRcnFZVUdKdmxQRHlZUXVESkhqV0dEbFFTUkNZUnFxOUFDb0ptS2RXbHJhTmoteG9NdHQ3VzdHZG4yai1YMTZ2S1RjR0NlVjM5MHo3MEh5Y3ZMU0o1Z0R6UUl3aGpaM25UMVRna0E?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "A former Trump envoy has made a case for an attack on Iran, which could lead to increased tensions and conflict in the region, potentially affecting aviation and cargo operations.",
+      "immediate_forecast_24h": "Increased diplomatic tensions and potential military activity in the region, with possible disruptions to air traffic and cargo shipments.",
+      "strategic_outlook": "Long-term instability and conflict in the region could lead to sustained disruptions to transportation and logistics, with potential for attacks on aviation and cargo assets.",
+      "operational_impact": "Potential for flight restrictions, cargo delays, and increased security measures for personnel and assets in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "20abf0d01e5fdae91eb8d003a69e298d",
+    "timestamp": "2026-03-11T21:40:45.707827",
+    "original_title": "Iran War Live Updates: Israeli Airstrikes Shake Beirut and Drone Attacks Hit Tehran on 12th Day of Fighting",
+    "link": "https://www.nytimes.com/live/2026/03/11/world/iran-war-news-trump-oil-israel",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 10,
+      "location": "Beirut, Lebanon/Tehran, Iran",
+      "latitude": 33.8938,
+      "longitude": 35.5018,
+      "detailed_analysis": "Israeli airstrikes in Beirut and drone attacks in Tehran indicate a high level of conflict, posing significant threats to aviation and regional stability. The involvement of military forces and the targeting of key cities suggest a substantial risk to personnel, assets, and cargo in the region.",
+      "immediate_forecast_24h": "Escalation of hostilities is likely, with potential for further airstrikes and drone attacks. The situation near the Strait of Hormuz, a critical oil conduit, may deteriorate, impacting global oil supplies and maritime transport.",
+      "strategic_outlook": "The conflict may lead to a prolonged period of instability in the region, affecting trade routes, aviation security, and the safety of personnel and assets. The economic impact, including the cost to the U.S. and the global economy, could be significant.",
+      "operational_impact": "Transport and logistics operations in the region are at high risk due to the conflict. Shipping lanes may be disrupted, and airports could be closed or subject to heightened security measures, affecting cargo movement and personnel travel.",
+      "proximity_alert": "YAKIN TEHDİT: Beirut–Rafic Hariri International Airport (0 km)"
+    }
+  },
+  {
+    "id": "4eb5a70b97c25c44865d28faed3da856",
+    "timestamp": "2026-03-11T21:40:48.555317",
+    "original_title": "FBI warns Iran could attack California with drones",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1rr6lb5/fbi_warns_iran_could_attack_california_with_drones/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "California, USA",
+      "latitude": 36.7783,
+      "longitude": -119.4179,
+      "detailed_analysis": "The FBI has warned of a potential drone attack by Iran on California, posing a significant threat to aviation and national security. This could lead to disruptions in air travel, cargo transport, and overall logistics in the region.",
+      "immediate_forecast_24h": "Heightened security measures are expected to be implemented at California airports and surrounding areas, with possible drone sightings and interceptions. There may be temporary disruptions to air traffic and cargo operations.",
+      "strategic_outlook": "The threat of drone attacks by Iran could lead to a long-term increase in security measures and surveillance in the region, potentially affecting the efficiency and cost of logistics and transport operations. Diplomatic tensions between the US and Iran may escalate, leading to further instability in the region.",
+      "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics operations in California. Increased security measures may lead to delays and additional costs for transport and logistics companies operating in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "b9cb2267175d4db6754c55d62a269db2",
+    "timestamp": "2026-03-11T21:40:50.985737",
+    "original_title": "IEA agrees to release 400 million barrels from emergency reserves as Iran war threatens global oil supply.",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rr76n5/iea_agrees_to_release_400_million_barrels_from/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Global",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "The IEA's decision to release 400 million barrels from emergency reserves due to the threat of war with Iran poses a significant risk to global oil supply, potentially disrupting logistics and transportation.",
+      "immediate_forecast_24h": "Oil prices may fluctuate wildly in the short term, and there may be increased tensions in the region, potentially affecting air travel and cargo shipments.",
+      "strategic_outlook": "A prolonged conflict in the region could lead to long-term disruptions in global oil supply, having a significant impact on the aviation and logistics industries.",
+      "operational_impact": "Potential disruptions to fuel supply chains, increased costs for aviation and logistics companies, and possible delays or cancellations of flights and shipments.",
+      "proximity_alert": null
+    }
   }
 ]
