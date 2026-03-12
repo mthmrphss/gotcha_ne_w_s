@@ -416,5 +416,100 @@
       "operational_impact": "Potential for delays or disruptions to flights, increased wait times for security screening, and potential for cargo delays or disruptions due to decreased security personnel.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "8635fff54a9f6e248c2531c87877d486",
+    "timestamp": "2026-03-12T04:53:03.085852",
+    "original_title": "First 6 Days of Iran War Cost U.S. $11.3 Billion, Pentagon Says",
+    "link": "https://www.nytimes.com/live/2026/03/11/world/iran-war-news-trump-oil-israel",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Beirut, Lebanon; Tehran, Iran",
+      "latitude": 33.8938,
+      "longitude": 51.4215,
+      "detailed_analysis": "The ongoing conflict between the U.S. and Iran has resulted in significant costs, with the first six days amounting to $11.3 billion. Airstrikes in Beirut and Tehran have increased tensions, and the surge in oil prices past $100 a barrel may impact global logistics and transport.",
+      "immediate_forecast_24h": "Expect continued airstrikes and potential escalation of violence, leading to increased instability in the region and potential disruptions to air travel and cargo transport.",
+      "strategic_outlook": "The conflict may lead to a prolonged period of instability in the Middle East, affecting global oil prices, air travel, and cargo transport. The U.S. and its allies may need to reassess their military presence and logistics in the region.",
+      "operational_impact": "Potential disruptions to air travel, increased security measures at airports, and potential delays or cancellations of cargo shipments. The surge in oil prices may also impact the cost of logistics and transport, leading to increased costs for companies and consumers.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "8b8a9946f158b2d9a0776d61e355fde5",
+    "timestamp": "2026-03-12T04:53:06.057330",
+    "original_title": "Trump ditched plans to avoid civilian casualties before Iran strikes: report",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rrhi96/trump_ditched_plans_to_avoid_civilian_casualties/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Iran, Middle East",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The report suggests that Trump ditched plans to avoid civilian casualties before Iran strikes, indicating a potential escalation of conflict in the region, posing a significant threat to aviation and personnel",
+      "immediate_forecast_24h": "Increased tensions between the US and Iran may lead to further military action, potentially disrupting air travel and logistics in the region",
+      "strategic_outlook": "The conflict may have long-term implications for global security, trade, and diplomacy, with potential ripple effects on the aviation and logistics industries",
+      "operational_impact": "Airlines and logistics companies may need to reassess their routes and operations in the region to mitigate the risks associated with the conflict",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "c292071974420f06cef7916e6f6870ab",
+    "timestamp": "2026-03-12T04:53:07.914846",
+    "original_title": "Five vessels attacked amid reports of Iranian drone boats, sea mines",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rrgkhk/five_vessels_attacked_amid_reports_of_iranian/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Crime",
+      "risk_score": 8,
+      "location": "Persian Gulf, Middle East",
+      "latitude": 26.0,
+      "longitude": 56.0,
+      "detailed_analysis": "Reports of Iranian drone boats and sea mines have led to the attack of five vessels, posing a significant threat to maritime assets, cargo, and personnel in the region.",
+      "immediate_forecast_24h": "Increased naval presence and heightened security measures are expected in the affected area, with potential disruptions to shipping lanes and cargo operations.",
+      "strategic_outlook": "The situation may escalate into a larger conflict, affecting global oil prices, trade routes, and regional stability, with potential long-term implications for aviation and logistics.",
+      "operational_impact": "Shipping companies and maritime operators should exercise extreme caution, consider rerouting vessels, and implement enhanced security protocols to mitigate the risk of attacks and ensure the safety of crew and cargo.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "1b16a0c4cdb811fa2d7478cbcdc51063",
+    "timestamp": "2026-03-12T04:53:09.759863",
+    "original_title": "US moving parts of THAAD anti-missile system from S. Korea to Middle East: report",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rrgdrj/us_moving_parts_of_thaad_antimissile_system_from/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Middle East",
+      "latitude": 29.4574,
+      "longitude": 47.6466,
+      "detailed_analysis": "The US is relocating parts of the THAAD anti-missile system from South Korea to the Middle East, which could indicate a heightened threat level in the region and potential escalation of conflict.",
+      "immediate_forecast_24h": "Increased military activity and potential for retaliatory actions from affected nations",
+      "strategic_outlook": "Long-term destabilization of the region, potentially affecting global trade and aviation routes",
+      "operational_impact": "Possible disruptions to air traffic, increased security measures for cargo and personnel, and heightened vigilance for potential missile threats",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "ce715119cf7c41caf2789057ec03082b",
+    "timestamp": "2026-03-12T04:53:12.505598",
+    "original_title": "Middle East war live: Israel strike kills 7 in central Beirut as Gulf ship attacks surge",
+    "link": "https://www.france24.com/en/middle-east/20260312-middle-east-war-live-israel-lebanon-iran-gulf",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 10,
+      "location": "Beirut, Lebanon",
+      "latitude": 33.8938,
+      "longitude": 35.5018,
+      "detailed_analysis": "Israeli strike on central Beirut's seafront killed at least 7 people, and Iran-backed Hezbollah launched missiles at Israel. Additionally, explosions struck two foreign oil tankers in the Persian Gulf off Iraq, indicating a surge in attacks that could impact aviation and cargo security in the region.",
+      "immediate_forecast_24h": "Escalation of violence between Israel and Hezbollah, potentially leading to more strikes and attacks on assets, cargo, and personnel in the region.",
+      "strategic_outlook": "Prolonged conflict in the Middle East could lead to increased instability, affecting global oil prices, and disrupting supply chains, with potential long-term impacts on aviation and logistics security.",
+      "operational_impact": "Heightened security measures for assets, cargo, and personnel in the region, potential disruptions to air travel and cargo shipments, and increased risk of attacks on oil tankers and other vessels in the Persian Gulf.",
+      "proximity_alert": "YAKIN TEHDİT: Beirut–Rafic Hariri International Airport (0 km)"
+    }
   }
 ]
