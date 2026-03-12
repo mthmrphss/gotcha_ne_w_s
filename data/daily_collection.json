@@ -511,5 +511,43 @@
       "operational_impact": "Heightened security measures for assets, cargo, and personnel in the region, potential disruptions to air travel and cargo shipments, and increased risk of attacks on oil tankers and other vessels in the Persian Gulf.",
       "proximity_alert": "YAKIN TEHDİT: Beirut–Rafic Hariri International Airport (0 km)"
     }
+  },
+  {
+    "id": "8ac3d623e63bba141397ffac8c7e5677",
+    "timestamp": "2026-03-12T05:57:23.837396",
+    "original_title": "Stryker Remains Offline After Cyberattack Linked to Iran Group - Insurance Journal",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5BLTc0d2NTSE1Dal9DVy1xdzJoVFBKbnJOQzNZR2VKcWh4MGhhWGJVcmQwc1RrSHFRV0pxVnNTOTZLa05GcWRFZGFibHJHY0tCSE9ZRWJIT25KaXBoWTZYY3FZc1VtYktzek0zN1MwN3E0VTJRWURV?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 8,
+      "location": "Unknown, USA",
+      "latitude": 37.0902,
+      "longitude": -95.7129,
+      "detailed_analysis": "A cyberattack linked to an Iran-based group has taken Stryker offline, indicating a significant threat to the company's operations and potentially its supply chain and logistics.",
+      "immediate_forecast_24h": "The company's systems are expected to remain offline as the attack is investigated and mitigated, potentially leading to disruptions in its operations and services.",
+      "strategic_outlook": "This incident highlights the growing threat of state-sponsored cyberattacks on critical infrastructure and the need for robust cybersecurity measures to protect against such threats.",
+      "operational_impact": "The cyberattack may impact Stryker's ability to deliver medical products and services, potentially affecting the healthcare sector and its supply chain.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "3eb32d3e2d09e590e66a4d1067e17682",
+    "timestamp": "2026-03-12T05:57:28.420245",
+    "original_title": "Mainland China, Hong Kong & Macau - See Summaries - Level 2: Exercise Increased Caution",
+    "link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/china-travel-advisory.html",
+    "source_name": "US State Dept",
+    "ai_analysis": {
+      "category": "Crime/Border/Civil Unrest",
+      "risk_score": 6,
+      "location": "Mainland China, Hong Kong, Macau",
+      "latitude": 34.7465,
+      "longitude": 106.2764,
+      "detailed_analysis": "Arbitrary enforcement of local laws, including exit bans, poses a threat to personnel and assets. Limited ability to provide emergency consular services in Macau increases risk.",
+      "immediate_forecast_24h": "Increased caution advised for travelers, potential for detention or exit bans due to arbitrary enforcement of local laws.",
+      "strategic_outlook": "Long-term uncertainty and potential for increased tensions between countries may impact trade and travel to the region.",
+      "operational_impact": "Potential disruptions to logistics and supply chains due to arbitrary enforcement of local laws, and limited consular services in Macau.",
+      "proximity_alert": null
+    }
   }
 ]
