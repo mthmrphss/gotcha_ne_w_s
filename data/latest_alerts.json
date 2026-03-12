@@ -112,5 +112,43 @@
       "operational_impact": "The conflict may disrupt ground transportation and logistics in the area, with potential for road closures, increased security checks, and risks to personnel and assets.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "ee1cfd85c5f4d9bd3e5e0b89e1a86c2d",
+    "timestamp": "2026-03-12T15:33:19.476642",
+    "original_title": "Suspect in San Francisco Mayor Daniel Lurie security incident released from jail as judge says he was the one attacked - ABC7 San Francisco",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTE8wZDVEVnBwUHA4TnNoNVJBR2J0VDFKd1RQSVBzeGRKcldpQWhQMURKcnZ5eVJSRncxWkEtZFMzc0d4NERvaFZVN3pHRUcxMjdKcW9fS0lzYTBPdVZvYUVpejcwcVFWaWN3YlVlY2V0LVU1UHpmY2pRcFo1a2h0eWZjSVRGLTBCTFhyUGN6UVYxb01FRU9qeGo1UHFOMlVoZ0ZTRlJGbXJzdmNXekhWVVFMS0ZwQXRPQjZvbFlId3RiVGF4ZVI5bTNHSXFpLTd60gHWAUFVX3lxTE1EeV9PRGV3N0xIczV5d2IwSlFmU0ZvbENzMGMyUEo5X0dkSXNzRDF4X1JFcDZLTERfTk1NQ2NOa181MDBBZUJSeFlWYk5kRTJKOE9uTEJ0TkVFS3I5WXk2TG1YbHpDQjg5UEp1Rnh0QXdseXVVeHI4Y1lKbGVCSGpER3VJclFia1EtYTgyc0JPd1ZPV1ppY3pMRDdZNkx1NEZ0MVY5OGV3MnRlTWhFcXBOdS1KSFloMlAyNDhJV2VkeDJEeG56MHQtd0F5c0Z2Y2F0YWs3aGc?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Crime",
+      "risk_score": 10,
+      "location": "San Francisco, USA",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "detailed_analysis": "A suspect involved in a security incident with San Francisco Mayor Daniel Lurie has been released from jail after a judge determined the suspect was the one attacked. This incident does not directly impact aviation, cargo, or border security but highlights potential risks to personnel and public figures.",
+      "immediate_forecast_24h": "No immediate escalation expected, but increased security measures may be implemented for public figures and events in the area.",
+      "strategic_outlook": "Long-term, this incident may lead to a review of security protocols for public figures and events, potentially resulting in enhanced security measures.",
+      "operational_impact": "Minimal direct impact on transport or logistics operations, but security awareness and protocols for personnel and public events may be heightened.",
+      "proximity_alert": "YAKIN TEHDİT: San Francisco International Airport (17 km)"
+    }
+  },
+  {
+    "id": "ead3a099493a691255db1cee83538019",
+    "timestamp": "2026-03-12T15:33:22.578338",
+    "original_title": "EasyJet Flight diverts to Liverpool Airport after onboard emergency - facebook.com",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRFRLeEtNV00tV0hnVGJCSUxSRjEySzhzWGN4bTRuTmV6bEdKTEFWbUJOUzBlTDhmZEpOR2ZFbV9BcEtvZXdqMExYRkpjNFlqYTV6NTczcTJNcVlhQU00UFBPN1FWbTZqU3FHNkZjbVNMQ0FhZUo5ZU93MkdLLTBGN1p3c1hsQ3FLNW1Oa1ZPVzFJV0V4WDFqbTJWRV91UnBrSGJjSnhPT1dNUjlSd21HMi0wdi1LRmdDWVFpa2xHM0NROW9wNUYxVnltRU9XZw?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 6,
+      "location": "Liverpool, UK",
+      "latitude": 53.3333,
+      "longitude": -2.8667,
+      "detailed_analysis": "An EasyJet flight diverted to Liverpool Airport due to an onboard emergency, the nature of which is not specified. This incident could potentially be related to a security threat, medical emergency, or technical issue.",
+      "immediate_forecast_24h": "The situation is likely to be contained and investigated by authorities within the next 24 hours. Further information on the cause of the diversion is expected to be released.",
+      "strategic_outlook": "The incident highlights the importance of aviation security and the need for airlines to be prepared for emergency situations. It may lead to a review of security protocols and procedures to prevent similar incidents in the future.",
+      "operational_impact": "The diversion may cause disruptions to flight schedules and passenger travel plans. However, the impact is expected to be limited to the specific flight and airport involved.",
+      "proximity_alert": null
+    }
   }
 ]
