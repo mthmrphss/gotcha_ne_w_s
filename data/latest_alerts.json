@@ -150,5 +150,81 @@
       "operational_impact": "Potential disruptions to American Airlines flights, impact on passenger travel plans, and increased security measures at airports to mitigate any potential unrest.",
       "proximity_alert": "YAKIN TEHDİT: Dallas Fort Worth (3 km)"
     }
+  },
+  {
+    "id": "0b6268699975868587a2c106afc48846",
+    "timestamp": "2026-03-12T18:10:14.867572",
+    "original_title": "Michigan synagogue attack: Police respond to shots fired, truck crash - Bridge Michigan",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORDB3ZWJZVVB1T18wNXpIeDk1aXMtbXNRLThkV3FlWGFQSjk3NzVyYWRSTzVfZWpfNWFqcWhFZVJ4WHlGWGtPcnRXOWVJOVpHZ1gzZnB3WGFGejdoNnFNSW0xbWM3Y2VnQ28ydlh6ZVJ0a2wwcVJ6Y3MxTjNBZE9WcWRXZFpmRlVCRkdBc280OXBCay1RMkU3R05DVHU1LW9LY0h0dHF4UEtlZUhQNVE?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism/Crime/Civil Unrest",
+      "risk_score": 8,
+      "location": "Michigan, USA",
+      "latitude": 42.3314,
+      "longitude": -85.6024,
+      "detailed_analysis": "A synagogue in Michigan was attacked with shots fired and a truck crash, indicating a potential terrorist or hate crime incident. The attack poses a significant threat to personnel and assets in the area.",
+      "immediate_forecast_24h": "Increased police presence and security measures are expected in the area. Potential for copycat attacks or retaliatory actions cannot be ruled out.",
+      "strategic_outlook": "The incident may lead to increased tensions and security concerns for places of worship and community centers, potentially affecting personnel and asset security in the long term.",
+      "operational_impact": "Transport and logistics in the area may experience disruptions due to increased security measures and potential protests or demonstrations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "73e89e33d5df9e42746e30f252987be7",
+    "timestamp": "2026-03-12T18:10:17.083568",
+    "original_title": "Newsom says no imminent threat to California depsite woarning about possible Iran drone attack - PBS",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTE50LTNBV2JJTmIycER3aFVva1JTR21WdVlfaTZBZ21hekdYMS1Xelljdy1odml3Ri1nbDF3WGNlOUVKM0xpaEdPZEF3OExxeWx4eXh3T3VrbkFGV0RlcUJMampSTGowdjRSRHNYdG5tTzlLcmtyUkZHdTlLQ1doQ1VkcUdzUUQ0YkdLMmhXeUhRRnpxR0pFWWoxNVNqa2pzNnJCYXlIeVBuZS02SURGZko1MkRVdjZEZWZKR1RjbnJWT1hvQ1RibW9B?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism/Aviation",
+      "risk_score": 6,
+      "location": "California, USA",
+      "latitude": 36.7783,
+      "longitude": -119.4179,
+      "detailed_analysis": "Possible Iran drone attack warning issued, but California Governor Newsom states no imminent threat to the state. The situation is being monitored, and the risk of an attack, although low, cannot be entirely ruled out.",
+      "immediate_forecast_24h": "Heightened security measures are expected, particularly around critical infrastructure and major airports. The situation will continue to be monitored for any changes or updates.",
+      "strategic_outlook": "The threat of drone attacks from Iran or its affiliates poses a long-term concern for aviation security in the region. Continued vigilance and investment in counter-drone technologies will be necessary to mitigate this risk.",
+      "operational_impact": "Potential disruptions to air travel and logistics operations in California, although unlikely in the immediate term, could occur if a drone attack were to happen. Enhanced security protocols may also lead to increased screening times and delays.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "ad65f6d523412a52b91b9d958ab053e5",
+    "timestamp": "2026-03-12T18:10:21.835011",
+    "original_title": "Iran War Live Updates: Israel Bombs Central Beirut in Expanding Attack",
+    "link": "https://www.nytimes.com/live/2026/03/12/world/iran-war-news-trump-oil-israel",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 10,
+      "location": "Beirut, Lebanon",
+      "latitude": 33.8938,
+      "longitude": 35.5018,
+      "detailed_analysis": "Israeli airstrikes on central Beirut, targeting Hezbollah, indicate an escalation of conflict in the region. The newly appointed Iranian leader's vow to avenge 'the blood of the martyrs' suggests potential for further retaliation and increased tensions.",
+      "immediate_forecast_24h": "Expect continued airstrikes and potential ground engagements between Israeli forces and Hezbollah. Iranian retaliation could manifest in various forms, including cyberattacks, missile strikes, or support for proxy forces.",
+      "strategic_outlook": "The conflict may expand to involve other regional actors, potentially drawing in global powers. The situation could lead to a significant destabilization of the Middle East, affecting trade routes, aviation, and personnel safety.",
+      "operational_impact": "Aviation and cargo operations in the region are at high risk due to the potential for further airstrikes, missile attacks, or other military actions. Personnel in the area should exercise extreme caution, and logistics operations may need to be rerouted or suspended until the situation stabilizes.",
+      "proximity_alert": "YAKIN TEHDİT: Beirut–Rafic Hariri International Airport (0 km)"
+    }
+  },
+  {
+    "id": "787c4a86a4827304ea3d3ebd85d04c10",
+    "timestamp": "2026-03-12T18:10:23.994280",
+    "original_title": "easyJet flight declares mid-air emergency and diverts airport due to high winds - Yorkshire Live",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON1ZucF9FckVUaGRXOU5pOGdDNHBVUlk2dVVwWWR5cjBNQkl6b2pxRUxpSFZnRmxjYW92YzJZeDJVamx6YjMxUXJKaUI3ME9zWjEzTW9XZ290R1pCNzdTa3ZpUUlvbVphMDdCUEFvcXRIbVU4eU1FNG00a2FCRHRVcnd2cEd3VEVqSUF3QzcxMVdaeGNk0gGaAUFVX3lxTE9UaVVTTUpMdzZ1VUVIRlU3R3YyQllUMldXbDl4a3I2emZIQWJzdTYwM0t5OFFCMng2c1VlMUhQcG50Zl9LN251Y0xGcWk1MlVnTEk0aDVPQ1cxSEhZRkFzUkRPZnBoU1lfQ3JnLUJVOEx3WUpPMy1BM2JOdWxnQm1mY0pONW5kd1BHbzIwV0NxeFAzY084WVdLb0E?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 6,
+      "location": "Yorkshire, UK",
+      "latitude": 53.7743,
+      "longitude": -1.5463,
+      "detailed_analysis": "An easyJet flight declared a mid-air emergency due to high winds, resulting in a diversion to a different airport. The incident highlights the potential risks associated with adverse weather conditions on aviation operations.",
+      "immediate_forecast_24h": "The diverted flight is expected to resume operations once the weather conditions improve. However, there may be potential delays or disruptions to other flights in the region due to the high winds.",
+      "strategic_outlook": "The incident underscores the importance of robust weather monitoring and contingency planning in aviation. Airlines and airports must be prepared to respond to unexpected weather events to ensure the safety of passengers and crew.",
+      "operational_impact": "The diversion of the easyJet flight may cause delays or cancellations of other flights, potentially disrupting the travel plans of passengers. Additionally, the incident may lead to increased scrutiny of weather-related safety protocols in the aviation industry.",
+      "proximity_alert": null
+    }
   }
 ]
