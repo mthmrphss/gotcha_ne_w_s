@@ -207,5 +207,81 @@
       "operational_impact": "The incident may cause delays or cancellations of flights, affecting cargo and passenger transport, and highlighting the need for enhanced security protocols and contingency planning.",
       "proximity_alert": "YAKIN TEHDİT: DUBAİ (26 km)"
     }
+  },
+  {
+    "id": "5d8217c8ea0e65e0e497db9f402120ab",
+    "timestamp": "2026-03-13T23:35:22.121299",
+    "original_title": "3 Ohioans among 6 killed in US military aircraft crash in Iraq - The Columbus Dispatch",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONUR0MjJqeF9NMm1kc1F5elpmS3JxYi1hVGFzT1ZSSVFqQU5CZnZSU3VSUFBXVzJwTE8tbDhKaWJoOUc4TzV6QjY1a0ctMDVDWnVkbXJNSFBBeVZlTEU4OER4ZU5iVGtfU3BySS1tQVBodTZOQXVXYTFxWW0ybmxmQ081VHpXN3pYbm1uV3cxc1BrNUhFRndJMDl2d0xVWHljWjlVVDR3?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 8,
+      "location": "Iraq",
+      "latitude": 33.0,
+      "longitude": 44.0,
+      "detailed_analysis": "A US military aircraft crashed in Iraq, resulting in the deaths of 6 individuals, including 3 from Ohio. This incident highlights the risks associated with military aviation operations in conflict zones.",
+      "immediate_forecast_24h": "Increased security measures are likely to be implemented in the region, and an investigation into the cause of the crash will be conducted.",
+      "strategic_outlook": "The incident may lead to a re-evaluation of military aviation operations in Iraq and potentially impact future deployments.",
+      "operational_impact": "The crash may disrupt military logistics and transportation operations in the region, potentially affecting personnel and cargo movements.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "5b2ac0e4d454d9934af8e4da7298f34e",
+    "timestamp": "2026-03-13T23:35:25.662724",
+    "original_title": "Iranians could allow a limited number of tankers to pass through Hormuz, as long as they trade cargo in yuan",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1rt245v/iranians_could_allow_a_limited_number_of_tankers/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict/Aviation/Crime",
+      "risk_score": 7,
+      "location": "Strait of Hormuz, Iran",
+      "latitude": 26.0,
+      "longitude": 56.0,
+      "detailed_analysis": "Iran may allow limited tankers to pass through Hormuz if they trade cargo in yuan, potentially impacting global oil supply and increasing tensions in the region, which could lead to piracy, smuggling, or other criminal activities",
+      "immediate_forecast_24h": "Increased naval presence and surveillance in the Strait of Hormuz, potential for miscalculation or escalation between Iran and other nations",
+      "strategic_outlook": "Long-term implications for global trade and energy security, potential for increased use of alternative currencies and shift in global economic power dynamics",
+      "operational_impact": "Potential disruptions to shipping and logistics in the region, increased costs and risks for vessels and cargo, possible diversion of trade routes",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "202408211d5399527ee6138bf3dd50b6",
+    "timestamp": "2026-03-13T23:35:28.221915",
+    "original_title": "Five US Air Force refueling planes hit in Iranian strike on Saudi Arabia, WSJ reports",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rt3gxt/five_us_air_force_refueling_planes_hit_in_iranian/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 10,
+      "location": "Saudi Arabia",
+      "latitude": 24.7136,
+      "longitude": 46.6753,
+      "detailed_analysis": "Iranian strike on Saudi Arabia has hit five US Air Force refueling planes, indicating a significant escalation in conflict that directly impacts aviation assets and potentially compromises regional security and stability.",
+      "immediate_forecast_24h": "Heightened tensions between Iran and the US/Saudi Arabia are expected, with potential for further military engagements or retaliatory actions that could affect aviation operations and transport logistics in the region.",
+      "strategic_outlook": "Long-term implications include increased military presence in the region, potential for cyberattacks, and heightened security measures for aviation and logistics, which could lead to increased costs and operational complexities for companies operating in the area.",
+      "operational_impact": "Immediate operational impact includes potential disruptions to air traffic, increased security checks for flights, and possible rerouting of flights to avoid conflict zones, affecting both passenger and cargo transport.",
+      "proximity_alert": "YAKIN TEHDİT: King Khalid International Airport (27 km)"
+    }
+  },
+  {
+    "id": "b52042cf70c5ab41610f049bd9708fee",
+    "timestamp": "2026-03-13T23:35:30.415699",
+    "original_title": "US attacks Iran's Kharg Island, Trump says",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rt2vpb/us_attacks_irans_kharg_island_trump_says/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Kharg Island, Iran",
+      "latitude": 29.2333,
+      "longitude": 50.3167,
+      "detailed_analysis": "US attack on Iran's Kharg Island poses significant threat to regional stability, potentially disrupting oil exports and maritime trade. The attack may lead to retaliatory actions from Iran, affecting aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Increased tensions between US and Iran, potential for further military action, and heightened security measures in the region. Cargo and aviation operations may be disrupted or suspended due to safety concerns.",
+      "strategic_outlook": "Long-term escalation of conflict between US and Iran could lead to prolonged instability in the region, affecting global oil prices, trade routes, and security of assets, cargo, aviation, and personnel. Diplomatic efforts may be necessary to de-escalate tensions and restore regional stability.",
+      "operational_impact": "Potential disruption to oil exports, maritime trade, and cargo operations in the region. Aviation operations may be affected due to increased security measures, airspace restrictions, or potential retaliatory actions from Iran. Personnel and assets in the region may be at risk due to heightened tensions and potential for further conflict.",
+      "proximity_alert": null
+    }
   }
 ]
