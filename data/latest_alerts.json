@@ -1,43 +1,5 @@
 [
   {
-    "id": "50bd2022cd2d05108ff9056c5af027af",
-    "timestamp": "2026-03-13T05:55:35.012902",
-    "original_title": "French soldier killed, others wounded in attack in Iraq, Macron says",
-    "link": "https://www.reddit.com/r/worldnews/comments/1rsf5kv/french_soldier_killed_others_wounded_in_attack_in/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict/Terrorism",
-      "risk_score": 8,
-      "location": "Iraq",
-      "latitude": 33.0,
-      "longitude": 44.0,
-      "detailed_analysis": "A French soldier was killed and others wounded in an attack in Iraq. The attack poses a significant threat to personnel and may impact the security of assets and cargo in the region.",
-      "immediate_forecast_24h": "Increased security measures are expected in the region, and there may be a heightened risk of further attacks on military personnel and assets.",
-      "strategic_outlook": "The long-term impact of the attack may lead to increased tensions in the region, potentially affecting aviation and cargo operations. The French government's response to the attack may also influence the strategic outlook.",
-      "operational_impact": "The attack may impact the movement of personnel and cargo in the region, and aviation operations may be affected by increased security measures or changes in the security environment.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "e68cb4fc5b2115597f680d5860cb1ecd",
-    "timestamp": "2026-03-13T05:55:38.301321",
-    "original_title": "Middle East war live: Iraq drone strike kills French officer as pro-Iran group vows to target French interests",
-    "link": "https://www.france24.com/en/middle-east/20260313-middle-east-war-live-iraq-iran-lebanon-israel-gulf",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict/Terrorism/Aviation",
-      "risk_score": 10,
-      "location": "Iraqi Kurdistan, Iraq",
-      "latitude": 36.1924,
-      "longitude": 44.0098,
-      "detailed_analysis": "A pro-Iranian group in Iraq has vowed to target French interests in response to the arrival of a French aircraft carrier, resulting in the death of a French soldier and injury of several others in a drone strike.",
-      "immediate_forecast_24h": "Increased tensions and potential for further attacks on French interests in Iraq and the region, potentially disrupting aviation and logistics operations.",
-      "strategic_outlook": "Escalating conflict between pro-Iranian groups and French interests may lead to long-term instability in the region, affecting transport and logistics security.",
-      "operational_impact": "Potential disruption to air travel, cargo transport, and personnel movement in the region, with increased security measures and protocols likely to be implemented.",
-      "proximity_alert": "YAKIN TEHDİT: Erbil International Airport (7 km)"
-    }
-  },
-  {
     "id": "cd5f68f85dcb74a18997333e365e006b",
     "timestamp": "2026-03-13T07:05:17.208797",
     "original_title": "Man rams car into synagogue in attack on Jewish community, authorities say - The Washington Post",
@@ -130,6 +92,139 @@
       "strategic_outlook": "The conflict in the Middle East is likely to escalate, with pro-Iranian groups posing a significant threat to French and other Western interests in the region. This could lead to a long-term increase in violence and instability.",
       "operational_impact": "The threat to French interests and the presence of a pro-Iranian group in Iraq may disrupt aviation and logistics operations in the region, with potential for delays, cancellations, and increased security measures.",
       "proximity_alert": "YAKIN TEHDİT: Erbil International Airport (7 km)"
+    }
+  },
+  {
+    "id": "34d65009d5d853df94a39372cb919d3c",
+    "timestamp": "2026-03-13T08:02:48.539375",
+    "original_title": "U.S. Refueling Plane Crashes in Iraq, Military Says - The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOS0ZFNVpfQnkwMl9ZdG1rN1hodnNvVnNsYldIY0tqMHJNVFc5Rk04a0FITk0yRFJvTk1Db1FHVVhKcnl5VFloQ2F4YlhfNEJieDk0czZyMVk1cXludERoblRKQmlrYVNSLU1rSXMzWVo4VE1jaVFMYVgtajQ0WDVaUnBn?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 8,
+      "location": "Iraq",
+      "latitude": 33.0,
+      "longitude": 44.0,
+      "detailed_analysis": "A U.S. refueling plane has crashed in Iraq, indicating a potential threat to aviation assets and personnel in the region.",
+      "immediate_forecast_24h": "Increased security measures are expected in the region, with potential disruptions to flight operations and logistics.",
+      "strategic_outlook": "The incident may lead to a review of aviation security protocols and increased cooperation between military and civilian authorities to mitigate future risks.",
+      "operational_impact": "The crash may impact the availability of refueling services, potentially affecting the operational capacity of military and civilian aircraft in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "300733899aae57d0e6c75427cca644ad",
+    "timestamp": "2026-03-13T08:02:50.544488",
+    "original_title": "The Chokepoint We Missed: Sulfur, Hormuz, and the Threats to Military Readiness - Modern War Institute -",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNN21IM0trWDlzYngtRnRGcFR2blREZzdvM0F4czdKWXpTcDJDY0RfdGFJQlV5bHo0b0xkZzg4cVcybmExcVhGVFhCSXh3RXh5Z0liQzNUOE9EZjM1aEZPT0lzc1NFVFdTd3hLTnpCWVBjcmloQmxsSHRPQ1FoZms2T09HWkV0czJPbm1sX3BrM05CTmVEeVBjNGtEdUtoTWZvS3hrUkJn?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Aviation/Crime",
+      "risk_score": 7,
+      "location": "Hormuz, Middle East",
+      "latitude": 26.57,
+      "longitude": 56.28,
+      "detailed_analysis": "The article highlights the strategic importance of the Strait of Hormuz and the potential threats to military readiness due to the reliance on sulfur shipments through this chokepoint. This could lead to disruptions in logistics and supply chains, affecting cargo and aviation operations.",
+      "immediate_forecast_24h": "Increased tensions in the region may lead to heightened security measures, potentially causing delays or disruptions to shipping and aviation operations.",
+      "strategic_outlook": "The long-term implications of relying on a single chokepoint for critical supplies could lead to a re-evaluation of military logistics and supply chain management, potentially resulting in changes to operational procedures and contingency planning.",
+      "operational_impact": "Disruptions to sulfur shipments could impact military readiness, while increased security measures may cause delays or disruptions to cargo and aviation operations, affecting personnel and assets in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "7dba87750a70139ddaa34e8ceb833ed9",
+    "timestamp": "2026-03-13T08:02:54.801921",
+    "original_title": "Two killed in drone strike in Oman",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rsgxyu/two_killed_in_drone_strike_in_oman/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Aviation/Terrorism",
+      "risk_score": 8,
+      "location": "Suhar, Oman",
+      "latitude": 24.35,
+      "longitude": 56.75,
+      "detailed_analysis": "A drone strike in Suhar, Oman has resulted in the deaths of two expatriates and injured several others. The incident highlights the increasing threat of drone attacks in the region, which could potentially disrupt aviation and logistics operations.",
+      "immediate_forecast_24h": "Increased security measures are expected in the region, with possible disruptions to air traffic and logistics operations. There is a high likelihood of further investigations and potential retaliation.",
+      "strategic_outlook": "The long-term impact of this incident could lead to increased tensions in the region, potentially affecting global supply chains and aviation security. It may also lead to a review of drone regulations and security protocols in Oman and surrounding countries.",
+      "operational_impact": "The incident may cause delays or disruptions to flights and logistics operations in the region, particularly if security measures are heightened. Cargo and personnel movement may be affected, and companies operating in the region should review their security protocols and contingency plans.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "c7eadcf30601a5419c84fe997f3a2a80",
+    "timestamp": "2026-03-13T08:02:56.795076",
+    "original_title": "'Completely destroyed': at least 33 wounded after Iranian missile hits homes in northern Israel",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rsgvos/completely_destroyed_at_least_33_wounded_after/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 8,
+      "location": "Northern Israel",
+      "latitude": 32.9964,
+      "longitude": 35.1844,
+      "detailed_analysis": "Iranian missile strike on homes in northern Israel has resulted in at least 33 wounded, indicating a significant escalation of conflict in the region, posing a high risk to personnel and assets.",
+      "immediate_forecast_24h": "Further retaliation or escalation of violence is possible, with potential for additional missile strikes or other forms of attack, affecting aviation and cargo operations in the region.",
+      "strategic_outlook": "The long-term outlook is uncertain, with potential for ongoing conflict and instability in the region, impacting transport and logistics operations, and requiring heightened security measures to mitigate risks.",
+      "operational_impact": "The attack may disrupt air traffic and cargo operations in the region, with potential for delays or cancellations of flights, and increased security checks for cargo and personnel, affecting the efficiency and safety of transport and logistics operations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "23b4bd4860a3b4155d34f46b335e793e",
+    "timestamp": "2026-03-13T08:02:59.637237",
+    "original_title": "Southeast Asia’s Nuclear Blind Spot: Latent Pathways and Explicit Pressures",
+    "link": "https://warontherocks.com/2026/03/southeast-asias-nuclear-blind-spot-latent-pathways-and-explicit-pressures/",
+    "source_name": "War on the Rocks",
+    "ai_analysis": {
+      "category": "Conflict/Nuclear",
+      "risk_score": 7,
+      "location": "Southeast Asia",
+      "latitude": 5.0,
+      "longitude": 100.0,
+      "detailed_analysis": "Southeast Asia is becoming increasingly vulnerable to nuclear risk due to shifting nuclear dynamics, despite being a Nuclear Weapon-Free Zone. The diffusion of nuclear-adjacent capabilities across maritime strategy, civilian nuclear development, and conventional military competition poses a significant threat to the region.",
+      "immediate_forecast_24h": "No immediate nuclear threat is expected in the next 24 hours, but the region remains at risk due to ongoing geopolitical tensions and nuclear proliferation in neighboring countries.",
+      "strategic_outlook": "The long-term outlook for Southeast Asia is concerning, as the region's exposure to nuclear danger is likely to increase due to the ongoing shift in nuclear dynamics. This could have significant implications for regional stability and security.",
+      "operational_impact": "The increasing nuclear risk in Southeast Asia could impact transport and logistics operations in the region, particularly for cargo and aviation. Companies operating in the region should be aware of the potential risks and take necessary precautions to ensure the safety of their assets and personnel.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "540029a6ebdfaa1f58675473b713ddd3",
+    "timestamp": "2026-03-13T08:03:01.760045",
+    "original_title": "🔴 Middle East war live: Israel launches fresh round of strikes on Tehran",
+    "link": "https://www.france24.com/en/middle-east/20260313-middle-east-war-live-iraq-iran-lebanon-israel-gulf",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Israel has launched a fresh round of strikes on Tehran, indicating an escalation of conflict in the region. This could lead to increased tensions and potential retaliatory actions, posing a significant threat to aviation and regional stability.",
+      "immediate_forecast_24h": "Increased military activity and potential for further strikes are expected in the next 24 hours, with a high likelihood of disruptions to air travel and logistics in the region.",
+      "strategic_outlook": "The long-term outlook suggests a prolonged period of instability in the region, with potential for further escalation and increased risk to assets, cargo, aviation, and personnel. Diplomatic efforts may be necessary to de-escalate the situation.",
+      "operational_impact": "The conflict may lead to airspace restrictions, flight cancellations, and increased security measures at airports in the region, resulting in significant operational disruptions to air transport and logistics.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "681dcfdb99bf03a0978daa082aed35ad",
+    "timestamp": "2026-03-13T08:03:03.538753",
+    "original_title": "Middle East war live: Israel launches fresh round of strikes on Tehran",
+    "link": "https://www.france24.com/en/middle-east/20260313-middle-east-war-live-iraq-iran-lebanon-israel-gulf",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The Israeli military has launched a fresh wave of strikes in Tehran, escalating the conflict between Israel and Iran. This development poses a significant threat to aviation and regional stability.",
+      "immediate_forecast_24h": "Increased tensions and potential retaliatory actions from Iran or its allies, potentially targeting aviation assets or interests in the region.",
+      "strategic_outlook": "Prolonged conflict could lead to a broader regional crisis, affecting air travel, cargo operations, and personnel safety in the Middle East.",
+      "operational_impact": "Potential disruptions to air traffic, increased security measures at airports, and heightened risk of attacks on aviation assets or personnel in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
     }
   }
 ]
