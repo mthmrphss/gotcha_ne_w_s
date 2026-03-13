@@ -530,5 +530,62 @@
       "operational_impact": "Potential disruptions to flight schedules, increased security screening, possible restrictions on cargo transport, and heightened risk of violence or unrest in the region affecting personnel and assets.",
       "proximity_alert": "YAKIN TEHDİT: Hamid Karzai International Airport (5 km)"
     }
+  },
+  {
+    "id": "9917b0c73897f4590a437a63b3c86150",
+    "timestamp": "2026-03-13T05:55:31.890976",
+    "original_title": "U.S. Refueling Plane Crashes in Iraq, Military Says",
+    "link": "https://www.nytimes.com/live/2026/03/12/world/iran-war-news-trump-oil-israel",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 8,
+      "location": "Iraq",
+      "latitude": 33.0,
+      "longitude": 44.0,
+      "detailed_analysis": "A U.S. refueling plane crashed in Iraq, but it was not due to hostile or friendly fire. The incident may be related to other factors such as mechanical failure or pilot error. However, the presence of U.S. military assets in the region and the mining of the Strait of Hormuz by Iran increases the risk of conflict and potential threats to aviation and logistics.",
+      "immediate_forecast_24h": "Increased military presence and surveillance in the region, potential for retaliatory actions by Iran or its allies, and heightened security measures for U.S. and coalition aircraft.",
+      "strategic_outlook": "The lifting of sanctions on Russia to increase oil supply may lead to a shift in the global energy landscape, potentially reducing the influence of Iran and other regional players. However, the ongoing tensions between the U.S. and Iran, as well as the presence of other regional actors, may continue to pose a threat to aviation and logistics in the region.",
+      "operational_impact": "Potential disruptions to air traffic and logistics in the region, increased security protocols for aircraft and personnel, and heightened vigilance for potential threats such as drone sightings or missile attacks.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "50bd2022cd2d05108ff9056c5af027af",
+    "timestamp": "2026-03-13T05:55:35.012902",
+    "original_title": "French soldier killed, others wounded in attack in Iraq, Macron says",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rsf5kv/french_soldier_killed_others_wounded_in_attack_in/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 8,
+      "location": "Iraq",
+      "latitude": 33.0,
+      "longitude": 44.0,
+      "detailed_analysis": "A French soldier was killed and others wounded in an attack in Iraq. The attack poses a significant threat to personnel and may impact the security of assets and cargo in the region.",
+      "immediate_forecast_24h": "Increased security measures are expected in the region, and there may be a heightened risk of further attacks on military personnel and assets.",
+      "strategic_outlook": "The long-term impact of the attack may lead to increased tensions in the region, potentially affecting aviation and cargo operations. The French government's response to the attack may also influence the strategic outlook.",
+      "operational_impact": "The attack may impact the movement of personnel and cargo in the region, and aviation operations may be affected by increased security measures or changes in the security environment.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "e68cb4fc5b2115597f680d5860cb1ecd",
+    "timestamp": "2026-03-13T05:55:38.301321",
+    "original_title": "Middle East war live: Iraq drone strike kills French officer as pro-Iran group vows to target French interests",
+    "link": "https://www.france24.com/en/middle-east/20260313-middle-east-war-live-iraq-iran-lebanon-israel-gulf",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 10,
+      "location": "Iraqi Kurdistan, Iraq",
+      "latitude": 36.1924,
+      "longitude": 44.0098,
+      "detailed_analysis": "A pro-Iranian group in Iraq has vowed to target French interests in response to the arrival of a French aircraft carrier, resulting in the death of a French soldier and injury of several others in a drone strike.",
+      "immediate_forecast_24h": "Increased tensions and potential for further attacks on French interests in Iraq and the region, potentially disrupting aviation and logistics operations.",
+      "strategic_outlook": "Escalating conflict between pro-Iranian groups and French interests may lead to long-term instability in the region, affecting transport and logistics security.",
+      "operational_impact": "Potential disruption to air travel, cargo transport, and personnel movement in the region, with increased security measures and protocols likely to be implemented.",
+      "proximity_alert": "YAKIN TEHDİT: Erbil International Airport (7 km)"
+    }
   }
 ]
