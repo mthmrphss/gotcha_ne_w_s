@@ -1119,5 +1119,43 @@
       "operational_impact": "Potential disruptions to flight schedules, increased security measures, and heightened risk of attacks on aviation assets and personnel",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "827315189be45f209c5adcc0ebf48265",
+    "timestamp": "2026-03-14T13:07:59.508498",
+    "original_title": "NATO defence systems shoot down Iranian ballistic missile over Turkey",
+    "link": "https://www.france24.com/en/nato-defence-systems-shoot-down-iranian-ballistic-missile-over-turkey",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Eastern Mediterranean Sea, Turkey",
+      "latitude": 36.0,
+      "longitude": 30.0,
+      "detailed_analysis": "A ballistic missile fired from Iran was shot down by NATO defence systems over Turkey, indicating heightened tensions and potential for further military action in the region, posing a significant threat to aviation and regional stability.",
+      "immediate_forecast_24h": "Increased military presence and alertness in the region, potential for further missile launches or military engagements, and heightened security measures for aviation and maritime transport.",
+      "strategic_outlook": "The incident may escalate tensions between Iran and NATO countries, potentially leading to a wider conflict, and impacting regional stability, trade, and transport routes.",
+      "operational_impact": "Potential disruptions to air and sea transport in the region, increased security checks and protocols for cargo and personnel, and possible rerouting of flights and ships to avoid the area.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "d4995bb7a32697bb3fbf62dfdd14f39b",
+    "timestamp": "2026-03-14T13:08:01.553051",
+    "original_title": "Two weeks into the war in the Middle East - What happens next?",
+    "link": "https://www.france24.com/en/two-weeks-into-the-war-in-the-middle-east-what-is-to-expect",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Middle East",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The ongoing conflict between the US, Israel, and Iran poses significant threats to assets, cargo, aviation, and personnel in the region. The conflict has the potential to disrupt logistics and transportation, and may lead to increased security measures and potential airspace restrictions.",
+      "immediate_forecast_24h": "Escalation of the conflict is possible, with potential for increased military activity and airstrikes. This may lead to disruptions to air travel and cargo transport in the region.",
+      "strategic_outlook": "The long-term impact of the conflict is uncertain, but it has the potential to lead to a prolonged period of instability in the region. This could have significant implications for global trade and economic stability.",
+      "operational_impact": "The conflict may lead to increased security protocols for aviation and cargo transport, including potential airspace restrictions and enhanced screening measures. This could result in delays and disruptions to logistics and supply chains.",
+      "proximity_alert": null
+    }
   }
 ]
