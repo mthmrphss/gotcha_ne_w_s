@@ -1423,5 +1423,81 @@
       "operational_impact": "Shipping and aviation companies should exercise extreme caution when operating in the Gulf region. There may be disruptions to supply chains, and companies should be prepared for potential delays or cancellations of flights and shipments.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "03f74c4004af265d4ece546da68c2cb4",
+    "timestamp": "2026-03-14T17:33:51.541922",
+    "original_title": "Protesters in Cuba attack Communist Party office in rare riot over blackouts",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rtpfci/protesters_in_cuba_attack_communist_party_office/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Havana, Cuba",
+      "latitude": 23.1333,
+      "longitude": -82.3667,
+      "detailed_analysis": "Protesters in Cuba have attacked a Communist Party office in a rare riot over blackouts, indicating growing unrest and potential instability in the region. This could lead to disruptions in transportation and logistics, particularly if protests escalate or spread to other areas.",
+      "immediate_forecast_24h": "Increased security presence and potential curfews or restrictions on movement are expected in the short term. Protests may continue or spread to other areas, potentially affecting transport hubs and logistics operations.",
+      "strategic_outlook": "Long-term, the situation in Cuba could lead to increased instability and potential for further unrest, affecting trade and transport in the region. This may require adjustments to supply chains and logistics operations to mitigate risks.",
+      "operational_impact": "Potential disruptions to air and sea transport, as well as logistics operations, are expected due to the unrest. Cargo and personnel may be affected, and alternative routes or contingency plans may be necessary to ensure continuity of operations.",
+      "proximity_alert": "YAKIN TEHDİT: José Martí International Airport (16 km)"
+    }
+  },
+  {
+    "id": "cda6b249e7e3c028eb7b60847693e9f8",
+    "timestamp": "2026-03-14T17:33:54.648427",
+    "original_title": "Israel and Lebanon are expected to hold direct talks in the coming days",
+    "link": "https://www.france24.com/en/israel-and-lebanon-are-expected-to-hold-direct-talks-in-the-coming-days",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Southern Lebanon, Lebanon",
+      "latitude": 33.1667,
+      "longitude": 35.2167,
+      "detailed_analysis": "An overnight Israeli strike in southern Lebanon has resulted in the deaths of a dozen health workers, escalating tensions in the region. Direct talks between Israel and Lebanon are expected to take place in the coming days, which may lead to a temporary reduction in violence but the situation remains volatile.",
+      "immediate_forecast_24h": "Increased military activity and potential for further clashes between Israeli and Lebanese forces, with a high risk of civilian casualties and disruptions to transport and logistics in the region.",
+      "strategic_outlook": "The conflict between Israel and Lebanon has the potential to draw in other regional actors, including Iran, and could lead to a wider conflict. The situation is likely to remain unstable in the long term, with periodic outbreaks of violence and a high risk of attacks on aviation and logistics assets.",
+      "operational_impact": "The conflict may disrupt air traffic and logistics operations in the region, with a high risk of delays, cancellations, and potential attacks on aircraft and cargo. Personnel and assets in the region should exercise extreme caution and be prepared for evacuations or other emergency measures.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "ead000750cf5a9ce9aff5411f105b179",
+    "timestamp": "2026-03-14T17:33:56.564919",
+    "original_title": "Why did the US military bomb the strategic Iranian island of Kharg?",
+    "link": "https://www.france24.com/en/video/20260314-why-did-the-us-military-bomb-the-strategic-iranian-island-of-kharg",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Kharg Island, Iran",
+      "latitude": 29.2333,
+      "longitude": 50.3167,
+      "detailed_analysis": "The US military bombing of Kharg Island poses a significant threat to Iran's oil export system and global oil markets. The strategic location of the island in the Persian Gulf makes it a critical hub for Iran's oil exports, and any disruption to its operations could have far-reaching consequences for the global economy.",
+      "immediate_forecast_24h": "Increased tensions between the US and Iran, potential for retaliatory attacks on US or allied interests in the region, and possible disruptions to oil exports and global markets.",
+      "strategic_outlook": "Long-term escalation of conflict between the US and Iran, potentially drawing in other regional actors, and significant impacts on global oil prices and markets.",
+      "operational_impact": "Potential disruptions to shipping and logistics in the Persian Gulf, increased security measures for vessels and personnel, and possible shortages or price increases for oil and petroleum products.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "806d0cd39f62333f208dc85c6bf263a5",
+    "timestamp": "2026-03-14T17:33:59.736034",
+    "original_title": "Ham Radio Enthusiasts Land U.S. Airlines With $8 Million Bill to Fix Faulty Equipment On Boeing 787s",
+    "link": "https://www.paddleyourownkanoo.com/2026/03/14/ham-radio-enthusiasts-land-u-s-airlines-with-8-million-bill-to-fix-faulty-equipment-on-boeing-787s/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Aviation/Cyber",
+      "risk_score": 6,
+      "location": "United States",
+      "latitude": 37.0902,
+      "longitude": -95.7129,
+      "detailed_analysis": "A vulnerability in Boeing 787 Dreamliner airplanes has been discovered, where simple radio signals from ham radio enthusiasts can knock out a faulty transponder, potentially disrupting aviation operations.",
+      "immediate_forecast_24h": "U.S. airlines may experience disruptions in flight operations as they address the faulty equipment, with a potential impact on flight schedules and passenger travel.",
+      "strategic_outlook": "The incident highlights the need for enhanced cybersecurity measures in the aviation industry, particularly in relation to the potential for interference from external radio signals.",
+      "operational_impact": "The $8 million bill to fix the faulty equipment may have financial implications for the airlines, and the disruption to flight operations could have a ripple effect on the entire logistics and transportation network.",
+      "proximity_alert": null
+    }
   }
 ]
