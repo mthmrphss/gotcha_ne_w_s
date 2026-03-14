@@ -1157,5 +1157,43 @@
       "operational_impact": "The conflict may lead to increased security protocols for aviation and cargo transport, including potential airspace restrictions and enhanced screening measures. This could result in delays and disruptions to logistics and supply chains.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "a4974148adad752ff9e01676b612c68b",
+    "timestamp": "2026-03-14T14:00:52.914966",
+    "original_title": "Ryanair flight in mid-air emergency as fire crews scrambled for 'maximum alert' - The Mirror",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeUtESS1nOS15NWNMc19mR1pncHpiaGxLTFlBN3N5Zk5Rb2ticUJLSDVQSmd6SGhFRXZPMndjUS12NWdnTW1rci1oN3poNzlJVllwaVBybFUwUnZMb3BaSkM4ZHhyNm9CY1lDN3RuWTZmNDVVWXp1bC16RTNlTl92M1VxYlpmRzNZ0gGOAUFVX3lxTE5jeWZFN2UxLW9HdWY5aHBrSWVZVGhVSWNHbmcwZlphVjJvUW9ITUw5TnRWVV9WeWdsQ1pMTHlySWlrdjlnNzFFMkpyT2pwREhVOUtSQm04TFlpbzdxQThaT0RIWjFuaGtFT05La1EteThnRkJoNjhPR1BGOUZRaVFGZHJpcnFUTjJEaGh0RXc?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 8,
+      "location": "Unknown, Europe",
+      "latitude": 50.0,
+      "longitude": 10.0,
+      "detailed_analysis": "A Ryanair flight has declared a mid-air emergency, prompting a 'maximum alert' response from fire crews. The nature of the emergency is not specified, but it has the potential to impact the safety of passengers and crew on board.",
+      "immediate_forecast_24h": "The situation is likely to be resolved within the next 24 hours, with the flight either landing safely or being diverted to a nearby airport. However, the cause of the emergency may not be immediately clear, and an investigation may be launched.",
+      "strategic_outlook": "This incident highlights the importance of aviation safety and the need for airlines and regulatory bodies to be vigilant in preventing and responding to emergencies. It may also lead to increased scrutiny of Ryanair's safety procedures and protocols.",
+      "operational_impact": "The incident may cause disruptions to Ryanair's flight schedule and operations, potentially leading to delays or cancellations. It may also impact passenger confidence in the airline and the aviation industry as a whole.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "1380aa38407eeded138261f7779e1666",
+    "timestamp": "2026-03-14T14:01:00.594584",
+    "original_title": "North Korea fires 10 ballistic missiles during U.S.-South Korea military drills",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rtjax4/north_korea_fires_10_ballistic_missiles_during/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "North Korea/South Korea",
+      "latitude": 38.0,
+      "longitude": 127.0,
+      "detailed_analysis": "North Korea has fired 10 ballistic missiles during U.S.-South Korea military drills, significantly escalating tensions in the region and posing a threat to aviation and personnel.",
+      "immediate_forecast_24h": "Increased military activity and heightened alertness are expected in the region, with potential for further missile launches or other aggressive actions.",
+      "strategic_outlook": "The long-term view suggests continued instability and potential for conflict in the region, with implications for global security and trade.",
+      "operational_impact": "Potential disruptions to air traffic and logistics in the region, with possible restrictions on flights and increased security measures for personnel and cargo.",
+      "proximity_alert": null
+    }
   }
 ]
