@@ -473,5 +473,62 @@
       "operational_impact": "The conflict could impact transport and logistics operations, including potential airspace restrictions, increased security checks, and disruptions to supply chains, necessitating contingency planning and enhanced security measures for assets, cargo, and personnel.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "813a4accb049f185ac2e900c5bd2ca30",
+    "timestamp": "2026-03-14T06:59:06.292295",
+    "original_title": "Breaking News: President Trump said the U.S. military conducted a large bombing raid on Iran’s oil export hub, Kharg Island. - facebook.com",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZHk2OFdDa3pqZFJKY1RobDdEOU5sa21ULVRCWkQxQ2pfV3l1UWNQMmJ3YldpMGZJZEg2VFpSOUJtSUw0LUZxNlA4Zlo3ZFNTWEdiSFVpYlBteDBtdmlPU1NJdE9qMnE2LXIwZnlLMTNIaUVUc2JnVnlRX25ndnEtS05Edy1pOWgyeTh6Zm5aMjdCSEJzTG5wODlhOVNIY0tzYS1PMnRZU1hCMjJMTV9hZHRDd3p5T1JISGpaTkg3UjhOSzI4MmptemxpZGtMaFZfVWxr?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Kharg Island, Iran",
+      "latitude": 29.2333,
+      "longitude": 50.3167,
+      "detailed_analysis": "The U.S. military conducted a large bombing raid on Iran's oil export hub, Kharg Island, which poses a significant threat to regional stability and global oil supplies. This action may lead to retaliatory measures from Iran, potentially targeting U.S. or allied assets, cargo, aviation, and personnel in the region.",
+      "immediate_forecast_24h": "Increased tensions between the U.S. and Iran, potential for retaliatory strikes or cyberattacks, and heightened security measures in the region. Aviation and cargo operations may be disrupted due to increased military activity.",
+      "strategic_outlook": "Long-term escalation of conflict between the U.S. and Iran, potentially drawing in other regional actors. This could lead to sustained disruptions to global oil supplies, increased security threats to transport and logistics operations, and a heightened risk of terrorism and cyberattacks.",
+      "operational_impact": "Potential disruptions to oil exports, increased security protocols for aviation and cargo operations, and heightened risk of attacks on personnel and assets in the region. Transport and logistics companies should exercise extreme caution and consider alternative routes or security measures to mitigate these risks.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "4c8f044aaefb3b61a2d616bdbd039a98",
+    "timestamp": "2026-03-14T06:59:10.584940",
+    "original_title": "Ukrainian drones reportedly strike major oil refinery, key port in Russia’s Krasnodar Krai",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rtbwgv/ukrainian_drones_reportedly_strike_major_oil/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 10,
+      "location": "Krasnodar Krai, Russia",
+      "latitude": 45.0,
+      "longitude": 39.0,
+      "detailed_analysis": "Ukrainian drones have reportedly struck a major oil refinery and a key port in Russia's Krasnodar Krai, indicating a significant escalation in the conflict. This attack has the potential to disrupt oil supplies and impact the regional economy.",
+      "immediate_forecast_24h": "Increased tensions between Ukraine and Russia, potential for retaliatory strikes, and heightened security measures at critical infrastructure sites.",
+      "strategic_outlook": "Long-term disruption to oil supplies, potential for economic sanctions, and increased military presence in the region, which could lead to further escalation of the conflict.",
+      "operational_impact": "Potential disruption to logistics and supply chains, increased security protocols for aviation and cargo operations, and heightened risk of attacks on critical infrastructure.",
+      "proximity_alert": "YAKIN TEHDİT: Krasnodar Pashkovsky International Airport (4 km)"
+    }
+  },
+  {
+    "id": "4bc6eb1d9a91aa0685130b9dc21514ac",
+    "timestamp": "2026-03-14T06:59:14.656659",
+    "original_title": "Middle East war live: Iran threatens retaliation as Trump says US 'obliterated' targets on Kharg island",
+    "link": "https://www.france24.com/en/middle-east/20260314-middle-east-war-live-iran-threatens-retaliation-as-trump-says-us-obliterated-targets-on-kharg-island",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Kharg Island, Iran",
+      "latitude": 29.2333,
+      "longitude": 50.3167,
+      "detailed_analysis": "Iran has threatened to launch attacks on US oil infrastructure after President Donald Trump claimed that the US had 'obliterated' military targets on Iran's Kharg Island, which is the main transit point for the country's oil exports.",
+      "immediate_forecast_24h": "Escalation of tensions between the US and Iran, potential for further military action or retaliation, and increased risk of attacks on oil infrastructure and shipping lanes.",
+      "strategic_outlook": "Prolonged conflict could disrupt global oil supplies, impact maritime trade, and lead to increased security measures in the region, affecting cargo and personnel movement.",
+      "operational_impact": "Potential disruption to oil exports, increased risk of attacks on shipping lanes, and heightened security measures for aviation and maritime operations in the region.",
+      "proximity_alert": null
+    }
   }
 ]
