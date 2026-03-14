@@ -1,62 +1,5 @@
 [
   {
-    "id": "5f525e7d711dc882643f76edc753965d",
-    "timestamp": "2026-03-14T20:36:42.699726",
-    "original_title": "Israel kills 12 medics in attack in southern Lebanon as war ravages nation - Al Jazeera",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOGpZQ09tOXp3ZllScnYwNEJudHliSGxpWU5rU1prR1RoRm9QdWlYa21pbmMyTEpnN2RtRGdGM3VCMlJaYjFaTWxuQjhnRGhWTkxYTXdxN1hzQ08tTkVPUDZ6bWROa1dCRUlWVnVwRmpHWHJ2WGFMLWR1cEI1a3VtaHBRS195TmxyMmxWUHBNcFZIZldnakQ1R0dJR0F5WVpwei13SWV0MjBHbl92T2fSAbMBQVVfeXFMTzRkeS1CY2FHNFFLanUxOGdGYUdDSU9kM3lBZDRyM0Y2Q2pFTkVVZ3lPWEpqVEVhalNhV09pVS03eTBkUWhDWkZTX0o1aVZOdDB4U3pvZU1qS2lxTUcyNFRYYnJSc0ZWeG5wZmZBWVI0bVFYMVZUSk1uQk5rVDNhZkVSS2pQZWZTY0lzeW1UN2NFeGpPYnJMVVVPcXM5RTlPbHdhWVp1NVdaWGVZRmlSZ1ZpSXc?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Conflict/Terrorism",
-      "risk_score": 8,
-      "location": "Southern Lebanon",
-      "latitude": 33.1667,
-      "longitude": 35.2167,
-      "detailed_analysis": "The recent attack in southern Lebanon resulting in the death of 12 medics indicates a heightened state of conflict and potential for terrorism, posing significant risks to assets, cargo, aviation, and personnel in the region.",
-      "immediate_forecast_24h": "Escalation of violence and increased military activity are expected in the short term, potentially disrupting transport and logistics operations.",
-      "strategic_outlook": "The ongoing conflict may lead to long-term instability in the region, affecting trade routes, aviation security, and the safety of personnel, with potential for spillover into neighboring countries.",
-      "operational_impact": "Transport and logistics operations in the region may be severely impacted, with potential for delays, cargo theft, and damage to assets, as well as risks to the safety of personnel and aviation operations.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "51c335443056ce8174581217e0395e11",
-    "timestamp": "2026-03-14T20:36:45.768309",
-    "original_title": "American Airlines AA1396 Nashville-Dallas Declares Emergency - theaviationhub.co.uk",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZ2ZQcWN6NGVhYzBEaVFrVnphcmxFb3NWRHBvV2hWdGVDUm1SSXdDbElDZm1sM214bUVUbTJ0UkhJRllZZlFrMWsxRXRUSVZMcHZ1VVZzWGdlYmJDRUhTWWxnNm1QTmZxZzlNRVoxMlhOMklQM3czM2JpSkRCSVNLRXlGeHp1WXlpNU9VaVBDOUdJa21m?oc=5",
-    "source_name": "Live Flight Emergencies (Squawk)",
-    "ai_analysis": {
-      "category": "Aviation",
-      "risk_score": 6,
-      "location": "Nashville, USA",
-      "latitude": 36.1745,
-      "longitude": -86.7679,
-      "detailed_analysis": "American Airlines flight AA1396 from Nashville to Dallas declared an emergency, the cause of which is currently unknown and under investigation.",
-      "immediate_forecast_24h": "Further details are expected to emerge within the next 24 hours, potentially revealing the nature of the emergency and any immediate actions taken by the airline and aviation authorities.",
-      "strategic_outlook": "This incident may lead to increased scrutiny of American Airlines' safety procedures and potentially impact passenger confidence in the short term.",
-      "operational_impact": "The declaration of an emergency may cause delays or disruptions to flights, affecting passengers and cargo transport between Nashville and Dallas.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "178adce7b637fa9deb52df6086fc9c17",
-    "timestamp": "2026-03-14T20:36:48.663737",
-    "original_title": "US embassy in Iraq's Baghdad hit in missiles attack, security sources say",
-    "link": "https://www.reddit.com/r/worldnews/comments/1rttx0d/us_embassy_in_iraqs_baghdad_hit_in_missiles/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict/Terrorism",
-      "risk_score": 10,
-      "location": "Baghdad, Iraq",
-      "latitude": 33.3128,
-      "longitude": 44.3615,
-      "detailed_analysis": "The US embassy in Baghdad, Iraq has been hit by a missile attack, according to security sources. This incident poses a significant threat to personnel, assets, and aviation in the region.",
-      "immediate_forecast_24h": "Increased security measures are expected in the vicinity of the embassy, with potential disruptions to air traffic and ground transportation. Further attacks or retaliatory actions are possible.",
-      "strategic_outlook": "The situation in Baghdad may escalate, leading to a heightened risk of terrorism and conflict in the region. This could impact global supply chains, aviation, and logistics, particularly for companies operating in or near Iraq.",
-      "operational_impact": "Transportation and logistics operations in Iraq may be disrupted or suspended due to the increased risk of attacks. Airlines and shipping companies may need to reassess their routes and security protocols to mitigate potential threats.",
-      "proximity_alert": "YAKIN TEHDİT: Baghdad International Airport (13 km)"
-    }
-  },
-  {
     "id": "2a0fed01a269d9662f206677dbe0ef42",
     "timestamp": "2026-03-14T21:33:32.470500",
     "original_title": "Why Did Trump Order an Attack on Iran’s Kharg Island? - WSJ",
@@ -72,6 +15,25 @@
       "immediate_forecast_24h": "Increased tensions between the US and Iran, potential for retaliatory actions, and heightened security measures in the region.",
       "strategic_outlook": "Long-term escalation of conflict could lead to prolonged disruptions in global oil supplies, increased risk of attacks on shipping lanes, and potential for broader regional instability.",
       "operational_impact": "Potential disruptions to cargo transport, increased risk of attacks on ships and aviation assets, and heightened security measures for personnel and assets in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "4cdda77281ab1b0d42c1e99fce07e459",
+    "timestamp": "2026-03-14T22:34:33.780774",
+    "original_title": "Iranian strikes, Hezbollah rockets make regular life in Israel ‘simply impossible’",
+    "link": "https://www.france24.com/en/iranian-strikes-hezbollah-rockets-make-regular-life-in-israel-simply-impossible",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "Northern Israel",
+      "latitude": 33.0,
+      "longitude": 35.5,
+      "detailed_analysis": "Iranian missile strikes combined with Hezbollah rocket attacks are causing significant disruptions to daily life in northern Israel, forcing many residents to flee. The relentless nature of these attacks poses a substantial threat to aviation, with potential risks to aircraft and airports in the region.",
+      "immediate_forecast_24h": "Continued rocket and missile attacks are likely, with potential escalation in the conflict. This may lead to increased security measures at airports and potential disruptions to flight operations.",
+      "strategic_outlook": "The ongoing conflict between Israel and Iranian-backed groups may lead to a prolonged period of instability in the region, with potential long-term impacts on aviation and logistics. The situation may also lead to increased tensions between other nations in the region, potentially drawing in other countries and escalating the conflict.",
+      "operational_impact": "The attacks may cause significant disruptions to air travel, with potential delays or cancellations of flights. The situation may also impact ground transportation, with potential road closures or restrictions. Logistics and cargo operations may also be affected, with potential delays or disruptions to supply chains.",
       "proximity_alert": null
     }
   }
