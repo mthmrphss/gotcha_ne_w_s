@@ -1499,5 +1499,100 @@
       "operational_impact": "The $8 million bill to fix the faulty equipment may have financial implications for the airlines, and the disruption to flight operations could have a ripple effect on the entire logistics and transportation network.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "d479e533be7a06f892a89e1e1618a4a7",
+    "timestamp": "2026-03-14T18:50:36.475169",
+    "original_title": "Bay Area synagogues and Jewish community increase security amid rise in targeted antisemitic attacks - ABC7 San Francisco",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbDI5aDdaT0ZxeEFDODVocnlTYnczbGpuQVBYYkZUQkhTbEVvQWVxcjhxUTdrdjJ0YU50dDI1Mk5WejZCS3BaTEdFWW1rS05yOURJOTMybGpqaFBMbnd5S3lVODZmWnJ0V0VhSVpLc1V6QVd2VFRPVUV1ZFpJRVJ5VW9RcGtzTy1MU2VDTmdpU0xRNEdYV2hsZ1haNHpJZEhIb2JIcG1MZVR1UTNQUmp6SzZyWi1NeFB3Z1o3cEZpX215YzFFZXZUNNIBzgFBVV95cUxNWmRCSTlsdEFtUlMtWGd2eWhrWEJxVmpkdXd6YlNSeE9HWTlsRDY3OUE5Uy1MRGpzQVF2czlTM0VqWFlqWHNKR3lEVDF5YjBFZmYtX3N2Q29JLUN3NkpSLVlQNkNueWY0NV9ocFlIdktncy1iTHA5d3NXRHRGbUZIVUxpOWpfVlNGSzE4Zmg3ZENuZ1VrZnZNTmsyRlpHUzFDMjJhUF9SSDU1VnpjNmFCTThyd3ZabzVTQ1VlVWJON0xqV1VvcjVLa25KalRzQQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Civil Unrest/Terrorism",
+      "risk_score": 10,
+      "location": "Bay Area, USA",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "detailed_analysis": "The Bay Area has seen a rise in targeted antisemitic attacks, prompting synagogues and the Jewish community to increase security measures. This could lead to potential disruptions in the area, affecting personnel and assets.",
+      "immediate_forecast_24h": "Increased security presence and potential protests or demonstrations in the area, with a low likelihood of direct impact on aviation or cargo operations.",
+      "strategic_outlook": "The long-term outlook suggests a continued need for heightened security measures in the Bay Area, potentially affecting transport and logistics operations, particularly those related to high-risk or high-value assets.",
+      "operational_impact": "Potential delays or disruptions to transport and logistics operations in the Bay Area due to increased security measures or protests, with a focus on protecting personnel and assets.",
+      "proximity_alert": "YAKIN TEHDİT: San Francisco International Airport (17 km)"
+    }
+  },
+  {
+    "id": "defb85718aa48729cc046eac88b55a51",
+    "timestamp": "2026-03-14T18:50:40.642343",
+    "original_title": "US embassy attacked in Baghdad, strikes hit Iran-backed fighters",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rtqwje/us_embassy_attacked_in_baghdad_strikes_hit/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Civil Unrest",
+      "risk_score": 10,
+      "location": "Baghdad, Iraq",
+      "latitude": 33.3128,
+      "longitude": 44.3615,
+      "detailed_analysis": "The US embassy in Baghdad has been attacked, and strikes have hit Iran-backed fighters, indicating a high level of conflict and terrorism in the region, posing a significant threat to assets, personnel, and aviation.",
+      "immediate_forecast_24h": "Increased tensions and potential for further attacks or retaliation, heightened security measures around diplomatic missions and potential targets.",
+      "strategic_outlook": "Long-term instability and conflict in the region, potential for escalation of violence, and impact on regional security and global geopolitical dynamics.",
+      "operational_impact": "Potential disruption to air travel and logistics in the region, increased security protocols for personnel and assets, and heightened vigilance for potential threats to aviation and cargo.",
+      "proximity_alert": "YAKIN TEHDİT: Baghdad International Airport (13 km)"
+    }
+  },
+  {
+    "id": "ad952252a2a8ae18e932ea75efcbd8e5",
+    "timestamp": "2026-03-14T18:50:42.467335",
+    "original_title": "Cuban protesters ransack Communist office as energy crisis deepens",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rtqncw/cuban_protesters_ransack_communist_office_as/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Havana, Cuba",
+      "latitude": 23.1333,
+      "longitude": -82.3667,
+      "detailed_analysis": "Protesters have ransacked a Communist office in Cuba due to the deepening energy crisis, indicating rising social unrest and potential instability in the region.",
+      "immediate_forecast_24h": "Further protests and demonstrations are likely, potentially disrupting local transportation and logistics.",
+      "strategic_outlook": "The energy crisis and resulting civil unrest may lead to increased instability in Cuba, potentially affecting aviation, cargo, and personnel in the region.",
+      "operational_impact": "Transportation and logistics operations in Cuba may be disrupted due to the protests and potential instability, with a moderate to high risk of delays or cancellations.",
+      "proximity_alert": "YAKIN TEHDİT: José Martí International Airport (16 km)"
+    }
+  },
+  {
+    "id": "a8f702165107c67446eff5c752b3992e",
+    "timestamp": "2026-03-14T18:50:44.754678",
+    "original_title": "US embassy attacked in Baghdad, after strikes kill Iran-backed fighters in Iraq",
+    "link": "https://www.france24.com/en/video/20260314-us-embassy-attacked-in-baghdad-after-strikes-kill-iran-backed-fighters-in-iraq",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 10,
+      "location": "Baghdad, Iraq",
+      "latitude": 33.3128,
+      "longitude": 44.3615,
+      "detailed_analysis": "The US embassy in Baghdad was attacked by a drone following strikes that killed Iran-backed fighters, indicating a high level of tension and potential for further violence.",
+      "immediate_forecast_24h": "Increased security measures are expected around the embassy and other potential targets, with a high likelihood of retaliatory attacks or protests in the next 24 hours.",
+      "strategic_outlook": "The situation may escalate into a larger conflict between the US and Iran-backed groups, potentially affecting regional stability and transport/logistics operations.",
+      "operational_impact": "Aviation and cargo operations in the region may be disrupted due to increased security measures or potential drone threats, while personnel and assets in the area should exercise extreme caution.",
+      "proximity_alert": "YAKIN TEHDİT: Baghdad International Airport (13 km)"
+    }
+  },
+  {
+    "id": "0a0caa789367b2105455690fa623fdf5",
+    "timestamp": "2026-03-14T18:50:47.913674",
+    "original_title": "Southwest Airlines Passenger Goes On Wild Rampage At Dallas Love Field, Seriously Injuring Police Officer and Assaulting TSA Agents",
+    "link": "https://www.paddleyourownkanoo.com/2026/03/14/southwest-airlines-passenger-goes-on-wild-rampage-at-dallas-love-field-seriously-injuring-police-officer-and-assaulting-tsa-agents/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Civil Unrest/Crime",
+      "risk_score": 10,
+      "location": "Dallas, USA",
+      "latitude": 32.847,
+      "longitude": -96.763,
+      "detailed_analysis": "A Southwest Airlines passenger went on a rampage at Dallas Love Field, seriously injuring a police officer and assaulting TSA agents after being denied access due to lack of a valid REAL ID, posing a significant threat to airport security and personnel.",
+      "immediate_forecast_24h": "Increased security measures are expected at Dallas Love Field, with potential delays and heightened scrutiny of passengers. The incident may lead to a review of security protocols and procedures for handling disgruntled passengers.",
+      "strategic_outlook": "The incident highlights the importance of effective communication and de-escalation techniques in managing potentially volatile situations at airports. Airlines and airports may need to reassess their strategies for handling passengers who are denied access due to ID issues or other reasons.",
+      "operational_impact": "The incident may lead to increased security checks, potentially causing delays and disruptions to flights and airport operations. The assault on TSA agents and police officer may also lead to a review of security personnel training and protocols for responding to violent incidents.",
+      "proximity_alert": "YAKIN TEHDİT: Dallas Fort Worth (10 km)"
+    }
   }
 ]
