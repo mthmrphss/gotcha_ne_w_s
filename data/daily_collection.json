@@ -397,5 +397,43 @@
       "operational_impact": "The incident may impact aviation operations in the region, with potential delays or disruptions to refueling and logistics services. Military and civilian operators should be prepared for increased security measures and potential changes to flight routes or schedules.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "ecccd504c2bd9dd5976af6dc3d770b4e",
+    "timestamp": "2026-03-15T08:48:29.548974",
+    "original_title": "After quieter weeks, Taiwan reports large-scale Chinese military aircraft presence near the island - The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUl9YZS13bEwxakVGYlVfTHhoV2ZzcXRleFZYb3ZkRjVrVFY4N0VaOUtDZ2NSeHdYRjJGT0xCOVlvTUpKY3p6R3RFNk9oRzBWU1Z1bGlXbkhvUDBXdkJiWkg2UzU5a0N4UWVBdFdzQ3lteDFxekQ5SEZxRFM3WkhfRk9SZl9QVExoWHRMVTBhNHh1UkZsbTJDYnEwdW9WOGkxNFFFVTdjYW83VWh1YXJqYTlya1BLTy1xV1B6eHdBTjlWdHlEWVRfNDJRZUJxenpWLXRJbA?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Taiwan",
+      "latitude": 23.5,
+      "longitude": 121.0,
+      "detailed_analysis": "Large-scale Chinese military aircraft presence reported near Taiwan, indicating heightened tensions and potential threat to aviation and regional stability.",
+      "immediate_forecast_24h": "Increased military activity and surveillance expected, with potential for further escalation or miscalculation.",
+      "strategic_outlook": "Long-term implications for regional security and stability, with potential impact on global trade and economic interests.",
+      "operational_impact": "Potential disruptions to air traffic and logistics in the region, with increased risk of accidents or incidents due to heightened military activity.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "ea4fb3e50586c588f39709e213e98d68",
+    "timestamp": "2026-03-15T08:48:34.902989",
+    "original_title": "Australian Government Warns Citizens: Do Not Travel Through Dubai Even If You’re Only Connecting Onto Another Flight",
+    "link": "https://www.paddleyourownkanoo.com/2026/03/15/australian-government-warns-citizens-do-not-travel-through-dubai-even-if-youre-only-connecting-onto-another-flight/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Aviation/Terrorism",
+      "risk_score": 10,
+      "location": "Dubai, United Arab Emirates",
+      "latitude": 25.276987,
+      "longitude": 55.296249,
+      "detailed_analysis": "The Australian government has warned its citizens not to travel through Dubai due to potential security threats, even if they are only connecting to another flight. This warning may indicate a heightened risk of terrorism or other security incidents at Dubai International Airport.",
+      "immediate_forecast_24h": "Increased security measures are likely to be implemented at Dubai International Airport in response to the warning, potentially causing disruptions to flights and passenger travel.",
+      "strategic_outlook": "The warning may have long-term implications for Dubai's status as a major international travel hub, potentially affecting the airline industry and global travel patterns.",
+      "operational_impact": "The warning may cause disruptions to cargo and passenger flights, potentially affecting logistics and supply chains that rely on Dubai as a transit point.",
+      "proximity_alert": "YAKIN TEHDİT: DUBAİ (25 km)"
+    }
   }
 ]
