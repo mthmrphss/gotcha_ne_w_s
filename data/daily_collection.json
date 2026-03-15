@@ -986,5 +986,43 @@
       "operational_impact": "The conflict may impact transport and logistics operations, including potential disruptions to cargo movement, aviation safety, and personnel security, necessitating contingency planning and enhanced security measures.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "b62c6a28da40212cda1c4a7a9823156e",
+    "timestamp": "2026-03-15T15:37:51.689686",
+    "original_title": "NATO partner Serbia admits buying Chinese missiles after photos leaked online",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rughpv/nato_partner_serbia_admits_buying_chinese/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Belgrade, Serbia",
+      "latitude": 44.8203,
+      "longitude": 20.4623,
+      "detailed_analysis": "Serbia's admission of buying Chinese missiles after photos leaked online poses a significant threat to regional stability and may impact NATO partnerships. This development could lead to increased tensions with neighboring countries and potentially affect aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Heightened diplomatic tensions and potential military posturing are expected in the short term, with possible implications for air traffic and cargo transport in the region.",
+      "strategic_outlook": "Long-term implications may include a shift in the regional balance of power, potentially affecting transport corridors and logistics operations. Serbia's relations with NATO and the EU may also be impacted, leading to changes in security protocols and operational procedures.",
+      "operational_impact": "Potential disruptions to air traffic and cargo transport in the region, increased security measures at airports and logistics hubs, and possible rerouting of flights and cargo shipments to avoid affected areas.",
+      "proximity_alert": "YAKIN TEHDİT: Belgrade Nikola Tesla Airport (12 km)"
+    }
+  },
+  {
+    "id": "4e832c2b525ccc1323f4cc46014ad8fe",
+    "timestamp": "2026-03-15T15:37:54.264541",
+    "original_title": "US and Israel carry out new strikes on western Iran",
+    "link": "https://www.france24.com/en/video/20260315-us-and-israel-carry-out-new-strikes-on-western-iran",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Western Iran",
+      "latitude": 34.0,
+      "longitude": 47.0,
+      "detailed_analysis": "The US and Israel have carried out new strikes on western Iran, targeting regime infrastructure, which may lead to increased tensions and potential retaliation, posing a significant threat to aviation and regional stability.",
+      "immediate_forecast_24h": "Escalation of conflict, potential missile launches, and increased military activity in the region, which may disrupt air traffic and pose a risk to personnel and assets.",
+      "strategic_outlook": "Prolonged conflict may lead to a destabilization of the region, affecting global supply chains, and potentially drawing in other nations, resulting in a long-term impact on aviation, cargo, and personnel.",
+      "operational_impact": "Potential disruption to air traffic, increased security measures, and possible restrictions on cargo transport, which may lead to delays, cancellations, and increased costs for logistics and transportation operations.",
+      "proximity_alert": null
+    }
   }
 ]
