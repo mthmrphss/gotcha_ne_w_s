@@ -739,5 +739,81 @@
       "operational_impact": "Flight cancellations and potential airspace restrictions may cause delays and disruptions to cargo and passenger transport, affecting logistics and supply chains.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "f600eeaaffecfe4cbe5814cb051e3886",
+    "timestamp": "2026-03-16T14:00:08.882465",
+    "original_title": "Moldova declares environmental alert as Russian strike pollutes key water supply",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rva0az/moldova_declares_environmental_alert_as_russian/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Environmental",
+      "risk_score": 10,
+      "location": "Moldova",
+      "latitude": 47.0,
+      "longitude": 29.0,
+      "detailed_analysis": "A Russian strike on a Ukrainian hydropower plant has polluted the Dniester River, threatening Moldova's water supply. This environmental disaster poses a significant risk to the local population and could have long-term effects on the region's ecosystem.",
+      "immediate_forecast_24h": "The situation is expected to worsen in the short term, with potential disruptions to water treatment and distribution systems. There may be increased tensions between Moldova and Russia, and potential humanitarian responses from neighboring countries.",
+      "strategic_outlook": "The long-term effects of this environmental disaster could be severe, with potential impacts on Moldova's agriculture, industry, and human health. The region may require significant investment in water treatment and restoration efforts to mitigate the damage.",
+      "operational_impact": "The pollution of the Dniester River may disrupt logistics and transportation in the region, particularly for cargo ships and barges that rely on the river for navigation. There may also be increased security measures in place to protect critical infrastructure, such as water treatment plants and hydropower facilities.",
+      "proximity_alert": "YAKIN TEHDİT: Chi?in?u International Airport (13 km)"
+    }
+  },
+  {
+    "id": "4cbf64dcffa0e307d46bd33b88a7c33b",
+    "timestamp": "2026-03-16T14:00:11.088568",
+    "original_title": "Iran says over 50 cultural sites damaged in U.S. and Israeli strikes",
+    "link": "http://www.africanews.com/2026/03/16/iran-says-over-50-cultural-sites-damaged-in-us-and-israeli-strikes/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Iran reports over 50 cultural sites damaged in U.S. and Israeli strikes, highlighting concerns about the impact of military operations on historically significant landmarks and potential for escalation",
+      "immediate_forecast_24h": "Increased tensions between Iran, U.S., and Israel, potential for retaliatory strikes",
+      "strategic_outlook": "Long-term instability in the region, potential for ongoing conflict and impact on regional security",
+      "operational_impact": "Potential disruption to air transport and logistics in the region, increased security measures for aviation and cargo operations",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "20047daf83b482ea5ac9a2cbee1060a4",
+    "timestamp": "2026-03-16T14:00:14.162294",
+    "original_title": "Somalia warns against Israeli military base plans in Somaliland",
+    "link": "http://www.africanews.com/2026/03/16/somalia-warns-against-israeli-military-base-plans-in-somaliland/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "Somaliland, Somalia",
+      "latitude": 10.0,
+      "longitude": 45.0,
+      "detailed_analysis": "Somalia has warned against alleged Israeli plans to build a military base in the breakaway region of Somaliland, which could lead to increased tensions and potential airstrikes in the region, posing a threat to aviation and regional stability.",
+      "immediate_forecast_24h": "Increased diplomatic tensions and potential military activity in the region, with a high likelihood of airstrikes or other military operations in the next 24 hours.",
+      "strategic_outlook": "Long-term instability in the region, with potential for ongoing conflict and increased risk of terrorism, which could impact aviation and logistics operations in the area.",
+      "operational_impact": "Potential disruption to air traffic and logistics operations in the region, with increased risk of delays, cancellations, or even attacks on aircraft or transport infrastructure.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "cba00eaa305a031b98a7777f5bd69665",
+    "timestamp": "2026-03-16T14:00:16.124872",
+    "original_title": "'Terrible feeling of déjà vu' as Israel launches ground incursion into Lebanon",
+    "link": "https://www.france24.com/en/tv-shows/perspective/20260316-terrible-feeling-of-d%C3%A9j%C3%A0-vu-as-israel-launches-ground-incursion-into-lebanon",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "Lebanon",
+      "latitude": 33.8547,
+      "longitude": 35.8623,
+      "detailed_analysis": "Israel has launched a ground incursion into southern Lebanon, which may lead to increased violence and instability in the region, posing a threat to assets, cargo, aviation, and personnel.",
+      "immediate_forecast_24h": "Escalation of violence and potential clashes between Israeli forces and Lebanese militant groups, with possible disruptions to transportation and logistics in the region.",
+      "strategic_outlook": "The conflict may lead to a prolonged period of instability in the region, affecting trade and economic activities, and potentially drawing in other countries or factions.",
+      "operational_impact": "Transportation and logistics operations in the region may be disrupted or suspended due to the conflict, with potential risks to cargo, assets, and personnel.",
+      "proximity_alert": null
+    }
   }
 ]
