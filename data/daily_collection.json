@@ -511,5 +511,119 @@
       "operational_impact": "The incident has already caused significant disruptions to Emirates flights, with passengers being diverted to alternative destinations. The operational impact is expected to be felt across the aviation industry, with potential knock-on effects on cargo and logistics operations.",
       "proximity_alert": "YAKIN TEHDİT: DUBAİ (25 km)"
     }
+  },
+  {
+    "id": "19ac88069e3c5d5456db5b42ec8ca65a",
+    "timestamp": "2026-03-16T11:01:37.182868",
+    "original_title": "Iran War Live Updates: Israel Expands Lebanon Offensive; Nations Appear Cool to Trump’s Oil Route Demands",
+    "link": "https://www.nytimes.com/live/2026/03/16/world/iran-war-trump-oil-lebanon",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "Lebanon/Israel",
+      "latitude": 33.8667,
+      "longitude": 35.8333,
+      "detailed_analysis": "Escalating attacks by Israel against Iran-backed Hezbollah in Lebanon pose significant threats to aviation and regional stability. The involvement of military forces increases the risk of accidental or intentional damage to aircraft or airports.",
+      "immediate_forecast_24h": "Increased military activity and potential for retaliation from Hezbollah could lead to heightened tensions and security measures in the region, affecting air travel and cargo operations.",
+      "strategic_outlook": "Prolonged conflict could lead to a significant and lasting impact on regional aviation, with potential for increased security measures, airspace restrictions, and disruptions to logistics and supply chains.",
+      "operational_impact": "Potential for flight disruptions, airspace closures, and increased security screening for passengers and cargo. Shipping and logistics operations in the region may also be affected due to the strategic importance of the Strait of Hormuz.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "62f70f7065a7d8f727071730c6d19afb",
+    "timestamp": "2026-03-16T11:01:40.069596",
+    "original_title": "Filmmaker Ilanlou Says Iran Is 'A Patient In The Throes of Death'",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rv64j8/filmmaker_ilanlou_says_iran_is_a_patient_in_the/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 6,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The filmmaker's statement suggests a high level of instability and unrest in Iran, which could lead to protests, demonstrations, and potential violence, posing a threat to personnel and assets in the region.",
+      "immediate_forecast_24h": "Increased protests and demonstrations are likely, with a potential for clashes between protesters and security forces, which could disrupt transportation and logistics in the region.",
+      "strategic_outlook": "The ongoing unrest in Iran could lead to a long-term destabilization of the region, posing a significant threat to assets, cargo, and personnel, and potentially disrupting global supply chains.",
+      "operational_impact": "Transportation and logistics operations in Iran and surrounding regions may be disrupted due to the unrest, and companies should consider alternative routes and contingency plans to mitigate potential risks.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "80a131836a01df089f0f40141f435132",
+    "timestamp": "2026-03-16T11:01:43.056876",
+    "original_title": "Israeli forces kill four in a car in West Bank",
+    "link": "https://www.france24.com/en/israeli-forces-kill-four-in-a-car-in-west-bank",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "West Bank",
+      "latitude": 32.0,
+      "longitude": 35.5,
+      "detailed_analysis": "Increased violence in the West Bank due to Israeli-Palestinian conflict poses significant threats to personnel and assets in the region. The recent killing of four family members by Israeli forces highlights the escalating tensions and potential for further clashes.",
+      "immediate_forecast_24h": "Expect continued tensions and potential for further violence between Israeli forces and Palestinian militants, with a high risk of civilian casualties.",
+      "strategic_outlook": "The long-term outlook for the region remains unstable, with ongoing conflict and violence likely to continue, posing significant risks to assets, cargo, aviation, and personnel.",
+      "operational_impact": "Transport and logistics operations in the region may be disrupted due to the conflict, with potential for road closures, checkpoints, and increased security measures, impacting the movement of goods and people.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "19d66410c8fc927947dc00c36a9d9e01",
+    "timestamp": "2026-03-16T11:01:44.988345",
+    "original_title": "Answering Trump's call for help in Middle East 'political suicide' for allies",
+    "link": "https://www.france24.com/en/answering-trump-s-call-for-help-in-middle-east-political-suicide-for-allies",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Middle East",
+      "latitude": 29.5,
+      "longitude": 47.5,
+      "detailed_analysis": "The ongoing war in the Middle East triggered by the US-Israeli military campaign against Iran poses a significant threat to assets, cargo, aviation, and personnel in the region. The closure of the Strait of Hormuz due to the conflict has major implications for global trade and logistics.",
+      "immediate_forecast_24h": "Increased tensions and potential for further escalation of the conflict, with possible attacks on shipping and aviation assets in the region.",
+      "strategic_outlook": "Long-term instability in the region, with potential for prolonged disruption to trade and logistics, and increased risk of terrorism and piracy.",
+      "operational_impact": "Disruption to shipping and aviation operations, potential for increased insurance premiums, and heightened security measures for assets and personnel in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "303e95507dafdbef5c66dbbe45883aba",
+    "timestamp": "2026-03-16T11:01:47.041672",
+    "original_title": "IDF launches 'limited operation' in Lebanon as 'buffer zone expands significantly'",
+    "link": "https://www.france24.com/en/idf-launches-limited-operation-in-lebanon-as-buffer-zone-expands-significantly",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Southern Lebanon",
+      "latitude": 33.1667,
+      "longitude": 35.3333,
+      "detailed_analysis": "The Israeli military has launched a limited ground operation against Hezbollah in southern Lebanon, which may lead to increased tensions and potential clashes in the region, affecting transport and logistics operations.",
+      "immediate_forecast_24h": "Escalation of violence is possible, with potential for rocket attacks, airstrikes, and ground battles, which may disrupt air and ground transportation in the region.",
+      "strategic_outlook": "The expansion of the buffer zone and increased military activity may lead to a prolonged conflict, affecting regional stability and potentially disrupting supply chains and trade routes.",
+      "operational_impact": "Transport and logistics operations in the region may be impacted, with potential for delays, disruptions, or even suspension of services, particularly for aviation and ground transportation.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "08db6a39e2587644d13c655fa6f9ff06",
+    "timestamp": "2026-03-16T11:01:51.294703",
+    "original_title": "Tube strikes: Travel chaos as London Underground drivers set to walk out",
+    "link": "https://www.independent.co.uk/news/uk/home-news/tfl-tube-strikes-london-march-2026-b2939236.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "London, United Kingdom",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "detailed_analysis": "The dispute over working hours between London Underground drivers and management may lead to travel disruptions, but it does not pose a direct threat to assets, cargo, aviation, or personnel.",
+      "immediate_forecast_24h": "Expect significant travel disruptions and delays in the London Underground system, with potential ripple effects on other modes of transportation.",
+      "strategic_outlook": "The strike may be resolved through negotiations, but the underlying issues may lead to further labor disputes and disruptions in the future.",
+      "operational_impact": "The strike will likely cause significant disruptions to commuter travel and may have a moderate impact on logistics and supply chain operations in the London area.",
+      "proximity_alert": "YAKIN TEHDİT: Heathrow Airport (23 km)"
+    }
   }
 ]
