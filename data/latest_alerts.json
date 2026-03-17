@@ -1,21 +1,40 @@
 [
   {
-    "id": "c93809975837d265ad93b6016263cd41",
-    "timestamp": "2026-03-17T02:43:54.889502",
-    "original_title": "Why France is bolstering military presence in the Middle East, as Macron prepares for postwar talks - Pittsburgh Post-Gazette",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSUJNTzM3SDAxVTBYZWhhM0UxNTlPaW5Gcno2VmVKQlMyVHVnVHhFOXpxVFZ4Yjg2Wmc5VU5qckhyVDZsa2NYREdDQ3lXVlY0RFp4Y0prMmtvUlFfY2ZzaEZSYjl5MWhiU1ExNFJpa3QycTBBanRzRGNVbV9lblpLS0FVWDQ1U19XZUlxTnRvOEpJd3ZBb3NzWkJpOG5UWjY0QWthcmdCdDg2V0YwOUJRbHNDbFM?oc=5",
-    "source_name": "Google News (Breaking)",
+    "id": "e75defefc77b141df1cc7ed8cccf6c79",
+    "timestamp": "2026-03-17T04:58:42.294896",
+    "original_title": "Drones, rockets fired at US embassy in Baghdad, security sources say",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rvwrhr/drones_rockets_fired_at_us_embassy_in_baghdad/",
+    "source_name": "Reddit r/WorldNews",
     "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 6,
-      "location": "Middle East",
-      "latitude": 29.4574,
-      "longitude": 47.6464,
-      "detailed_analysis": "France is increasing its military presence in the Middle East, which could lead to increased tensions and potential conflicts in the region, affecting aviation and cargo operations.",
-      "immediate_forecast_24h": "Heightened security measures are expected in the region, with potential for increased military activity and airspace restrictions.",
-      "strategic_outlook": "The long-term impact of France's increased military presence in the Middle East could lead to a shift in regional power dynamics, potentially affecting trade routes and logistics operations.",
-      "operational_impact": "Aviation and cargo operations in the region may be impacted by increased security measures, airspace restrictions, and potential conflicts, leading to delays or disruptions in transport and logistics.",
-      "proximity_alert": null
+      "category": "Terrorism/Aviation/Conflict",
+      "risk_score": 10,
+      "location": "Baghdad, Iraq",
+      "latitude": 33.3128,
+      "longitude": 44.3615,
+      "detailed_analysis": "Drones and rockets have been fired at the US embassy in Baghdad, indicating a high level of threat to aviation and personnel. This incident suggests a significant escalation of violence and poses a substantial risk to assets, cargo, and aviation in the region.",
+      "immediate_forecast_24h": "Increased security measures are expected in the short term, with potential disruptions to air traffic and logistics. Further attacks or retaliatory actions are possible, and the situation may deteriorate rapidly.",
+      "strategic_outlook": "The long-term outlook is uncertain, with potential for ongoing conflict and instability in the region. This may lead to sustained disruptions to transport and logistics, as well as increased security costs and risks for assets and personnel.",
+      "operational_impact": "The attack on the US embassy may lead to increased security protocols for aviation and logistics operations in the region, including enhanced screening, surveillance, and protection measures. This could result in delays, increased costs, and reduced efficiency for transport and logistics operators.",
+      "proximity_alert": "YAKIN TEHDİT: Baghdad International Airport (13 km)"
+    }
+  },
+  {
+    "id": "988e530995b5dbd2d9faf33f2ddde40b",
+    "timestamp": "2026-03-17T04:58:44.672567",
+    "original_title": "Live: UAE intercepts Iranian fire as Israel strikes Tehran and Lebanon",
+    "link": "https://www.france24.com/en/middle-east/20260317-uae-intercepts-iranian-fire-as-israel-strikes-tehran-and-lebanon",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 10,
+      "location": "Dubai, UAE",
+      "latitude": 25.276987,
+      "longitude": 55.296249,
+      "detailed_analysis": "The UAE has intercepted Iranian missiles and drones, and Israel has launched strikes on Tehran and Lebanon, indicating a high level of conflict in the region that could impact aviation and logistics.",
+      "immediate_forecast_24h": "Further escalation of conflict is possible, with potential for additional missile and drone attacks, as well as airstrikes, which could disrupt air travel and logistics in the region.",
+      "strategic_outlook": "The conflict could lead to a wider regional instability, affecting global energy supplies and potentially drawing in other countries, with long-term implications for transport and logistics in the Middle East.",
+      "operational_impact": "Airspace closures, flight disruptions, and potential damage to logistics infrastructure are possible, with significant impact on cargo transport and personnel safety in the region.",
+      "proximity_alert": "YAKIN TEHDİT: DUBAİ (25 km)"
     }
   }
 ]
