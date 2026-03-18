@@ -416,5 +416,81 @@
       "operational_impact": "Transport and logistics operations near the Colombia-Ecuador border may be affected by increased security measures, potential border closures, or disruptions to supply chains.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "76aed0708d6c81964076c7dfed4e3128",
+    "timestamp": "2026-03-18T02:50:22.003725",
+    "original_title": "Iran War Live Updates: Iran Launches Missile Attack on Tel Aviv in Retaliation for Latest Killings",
+    "link": "https://www.nytimes.com/live/2026/03/17/world/iran-war-trump-oil-lebanon",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 10,
+      "location": "Tel Aviv, Israel",
+      "latitude": 32.0853,
+      "longitude": 34.7818,
+      "detailed_analysis": "Iran has launched a missile attack on Tel Aviv in retaliation for the killings of high-ranking Iranian officials, indicating a significant escalation in conflict that could impact aviation and logistics in the region.",
+      "immediate_forecast_24h": "Increased tensions and potential for further retaliatory strikes are expected, with possible disruptions to air travel and cargo operations in the region.",
+      "strategic_outlook": "The conflict could lead to a prolonged period of instability, affecting trade and transport routes, and potentially drawing in other regional or global actors.",
+      "operational_impact": "Aviation and cargo operations in the region may be severely impacted, with potential for flight cancellations, rerouting, or increased security measures, affecting personnel and asset safety.",
+      "proximity_alert": "YAKIN TEHDİT: Ben Gurion International Airport (0 km)"
+    }
+  },
+  {
+    "id": "95a11d89b3f58cd5647c105a25ab647b",
+    "timestamp": "2026-03-18T02:50:25.214370",
+    "original_title": "US strikes Iranian missile site in Strait of Hormuz using 5,000-pound deep penetrator munitions",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rwq5k6/us_strikes_iranian_missile_site_in_strait_of/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Strait of Hormuz, Iran",
+      "latitude": 26.0,
+      "longitude": 56.0,
+      "detailed_analysis": "The US strike on an Iranian missile site in the Strait of Hormuz using deep penetrator munitions poses a significant threat to regional stability and shipping lanes. This action could escalate tensions between the US and Iran, potentially affecting maritime trade and aviation in the region.",
+      "immediate_forecast_24h": "Increased military presence and heightened alertness in the region are expected. There is a possibility of retaliatory actions from Iran, which could impact shipping and aviation operations in the short term.",
+      "strategic_outlook": "The long-term implications of this strike could lead to a prolonged period of heightened tensions between the US and Iran, affecting global oil prices, maritime trade, and regional security. This might also lead to increased security measures for assets, cargo, and personnel in the region.",
+      "operational_impact": "Shipping and aviation operations in the Strait of Hormuz may be affected due to increased military activity and potential retaliatory actions. This could lead to delays, increased security protocols, and potential disruptions to supply chains.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "00dd238e9d45182114c6e314a95979bb",
+    "timestamp": "2026-03-18T02:50:27.761293",
+    "original_title": "Starmer tells Zelensky focus must remain on Ukraine despite war in Iran",
+    "link": "https://www.france24.com/en/europe/20260318-starmer-tells-zelensky-focus-must-remain-on-ukraine-despite-war-in-iran",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "London, UK",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "detailed_analysis": "The meeting between British Prime Minister Keir Starmer and Ukrainian President Volodymyr Zelensky highlights the ongoing conflict between Ukraine and Russia, with a new defence partnership focused on countering drones. The US-Israeli war with Iran may divert international attention, but the leaders emphasized the need to maintain focus on Ukraine.",
+      "immediate_forecast_24h": "Increased tensions between Russia and Ukraine, potential escalation of drone attacks, and possible spillover effects from the US-Israeli war with Iran.",
+      "strategic_outlook": "Long-term instability in the region, potential for increased military activity, and ongoing threats to aviation and logistics from drone attacks and conflict.",
+      "operational_impact": "Potential disruptions to air traffic, increased security measures for cargo and personnel, and heightened vigilance for drone sightings and other security threats.",
+      "proximity_alert": "YAKIN TEHDİT: Heathrow Airport (23 km)"
+    }
+  },
+  {
+    "id": "200e0dc984a7d8fa18913fee4bfc6621",
+    "timestamp": "2026-03-18T02:50:29.776473",
+    "original_title": "Live: Israel strikes central Beirut as Iran attack leaves two dead near Tel Aviv",
+    "link": "https://www.france24.com/en/middle-east/20260318-live-israel-strikes-central-beirut-as-iran-attack-leaves-two-dead-near-tel-aviv",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Aviation/Civil Unrest",
+      "risk_score": 10,
+      "location": "Beirut, Lebanon/Tel Aviv, Israel",
+      "latitude": 33.8938,
+      "longitude": 35.5018,
+      "detailed_analysis": "The situation involves an Israeli strike on central Beirut and an Iranian missile launch that killed two people near Tel Aviv, indicating a high level of conflict and potential for further escalation that could impact aviation and logistics in the region.",
+      "immediate_forecast_24h": "Further retaliatory strikes or military actions are possible, potentially disrupting air travel and logistics in the region, especially in areas near conflict zones.",
+      "strategic_outlook": "The long-term view suggests continued instability in the region, which could lead to sustained disruptions in aviation and logistics, affecting cargo transport and personnel safety.",
+      "operational_impact": "The conflict could significantly impact air travel, with potential for flight cancellations, rerouting, or increased security measures, affecting both cargo and personnel movement in and out of the region.",
+      "proximity_alert": "YAKIN TEHDİT: Beirut–Rafic Hariri International Airport (0 km)"
+    }
   }
 ]
