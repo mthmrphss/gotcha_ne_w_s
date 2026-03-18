@@ -1,59 +1,97 @@
 [
   {
-    "id": "54a599df78a04129ec705338c514ac9d",
-    "timestamp": "2026-03-18T05:03:07.224161",
-    "original_title": "The Israeli military said on Tuesday that it had killed one of Iran’s highest-ranking leaders, Ali Larijani, in an airstrike near Tehran. It also said it had killed Gholamreza Soleimani, the head of the Basij, Iran’s powerful plainclothes militia. Here are the Iranian lea - facebook.com",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOHdsemUwdTRFWUZLQzg4RTI3cUVyU2ZoWlZVVVRvaEJVRHBKT0hoVFN2dXpBQUt1OXhoQlR5bkNOUERVUV9DdGZZZ2lVWmI3MVB0LVRYdkRPdmF4ZXRRRXdjT3JXcEIwbjNxUkoybXQ1dF9XS1ROUFBtd1JuaFM0dTZVN2ZBQWIzdnd4c3BFUllOenlBTzg0dUJnZ2g3OFhDWnlKXzM4UENJcmQ3N2gtaFA0bUdtQktvRW81bnVfMElDa2hOZm4yc1NLUllLVTl1aTY3cw?oc=5",
+    "id": "f736afaf9363953ab9f73e24b43e460d",
+    "timestamp": "2026-03-18T06:40:47.576336",
+    "original_title": "Xona launches Active Defense capability to close response gaps in remote access security for critical infrastructure - Industrial Cyber",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUjVJSUJWTGJqODJybEVKWVJzZERVa1pkd1Jhbms5MjRGTzVsM3ROWVcyQ2xlWWkta1JFblFhTWRfQXRYRWlvdlJfNnByZ0hncTk3N2s3WWhsQ3JHZ0hYemFSX1Q3MUZMd2wtcWMyRjVmeXltOEJ3SmFTMzVLSkhNN2MzOF9lMFdhZlJNSElwbC1JSWpKS2ZmQ0dNTEVoSTgxQTRTMXhtT2xPNmlBd0JrVkR6aTlnOUs5U002Vk05R1RHOFFrT2djYmtTZFdNN1BDSzM3RjFqT2dKRC0wVGYwNEwyOA?oc=5",
     "source_name": "Google News (Breaking)",
     "ai_analysis": {
-      "category": "Conflict/Terrorism",
-      "risk_score": 10,
-      "location": "Tehran, Iran",
-      "latitude": 35.6892,
-      "longitude": 51.389,
-      "detailed_analysis": "The Israeli military's airstrike near Tehran, killing high-ranking Iranian leaders, significantly escalates tensions between Israel and Iran, posing a substantial threat to regional stability and potentially impacting aviation and cargo operations in the area.",
-      "immediate_forecast_24h": "Heightened military alertness and potential for retaliatory actions from Iran, which could include missile strikes or cyberattacks against Israeli or allied targets, including those in the aviation and logistics sectors.",
-      "strategic_outlook": "Long-term escalation of conflict could lead to increased instability in the Middle East, affecting global oil prices, air travel, and cargo shipments. This could also draw in other regional or global powers, further complicating the situation.",
-      "operational_impact": "Potential for disruptions to air travel and cargo operations in the region due to increased military activity, airspace restrictions, or direct attacks on aviation and logistics infrastructure. Enhanced security measures are likely to be implemented in response.",
-      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+      "category": "Cyber",
+      "risk_score": 6,
+      "location": "Unknown, Global",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Xona's launch of Active Defense capability indicates an effort to strengthen remote access security for critical infrastructure, potentially mitigating cyber threats to industrial control systems and other critical assets.",
+      "immediate_forecast_24h": "No immediate threats are reported, but the announcement highlights the ongoing need for robust cybersecurity measures in critical infrastructure.",
+      "strategic_outlook": "The introduction of Active Defense capabilities may lead to improved security postures for critical infrastructure, reducing the risk of cyber-attacks and data breaches in the long term.",
+      "operational_impact": "The enhanced security measures could positively impact the operational reliability and safety of critical infrastructure, including those related to aviation, cargo, and personnel, by reducing the risk of cyber-related disruptions.",
+      "proximity_alert": null
     }
   },
   {
-    "id": "0ffeeb5724dc59b95a06d7b1734f9102",
-    "timestamp": "2026-03-18T05:03:10.233039",
-    "original_title": "Iran Launches Missile Attack on Tel Aviv in Retaliation for Latest Killings",
-    "link": "https://www.nytimes.com/live/2026/03/17/world/iran-war-trump-oil-lebanon",
-    "source_name": "NewYork Times",
+    "id": "deeea1fb9e2082aa9d78326131d2c0e3",
+    "timestamp": "2026-03-18T06:40:51.721949",
+    "original_title": "Drone attack targets US embassy in Baghdad, explosion heard",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1rwuwjk/drone_attack_targets_us_embassy_in_baghdad/",
+    "source_name": "Reddit r/Geopolitics",
     "ai_analysis": {
-      "category": "Conflict/Terrorism/Aviation",
+      "category": "Terrorism/Aviation/Conflict",
       "risk_score": 10,
-      "location": "Tel Aviv, Israel",
-      "latitude": 32.0853,
-      "longitude": 34.7818,
-      "detailed_analysis": "Iran has launched a missile attack on Tel Aviv in retaliation for the killings of high-ranking Iranian officials, indicating a significant escalation in conflict that could impact aviation and logistics in the region.",
-      "immediate_forecast_24h": "Increased tensions and potential for further retaliatory actions are expected, with possible disruptions to air travel and cargo operations in and around Tel Aviv.",
-      "strategic_outlook": "The long-term view suggests a heightened state of alert for the region, with potential for ongoing conflict that could affect aviation, cargo, and personnel safety, necessitating enhanced security measures and contingency planning.",
-      "operational_impact": "The attack may lead to airspace restrictions, increased security checks, and potential delays or cancellations of flights, affecting transport and logistics operations in the region.",
-      "proximity_alert": "YAKIN TEHDİT: Ben Gurion International Airport (0 km)"
+      "location": "Baghdad, Iraq",
+      "latitude": 33.3128,
+      "longitude": 44.3615,
+      "detailed_analysis": "A drone attack has targeted the US embassy in Baghdad, resulting in an explosion. This incident poses a significant threat to aviation and personnel safety, and may indicate a heightened risk of terrorism in the region.",
+      "immediate_forecast_24h": "Increased security measures are likely to be implemented in the vicinity of the embassy and surrounding areas. There may be disruptions to air traffic and logistics operations in Baghdad.",
+      "strategic_outlook": "The long-term implications of this incident may include increased tensions between the US and Iraq, potentially leading to further security threats and instability in the region. This could have a lasting impact on aviation and logistics operations.",
+      "operational_impact": "The attack may cause disruptions to air traffic, cargo operations, and personnel movements in and around Baghdad. Enhanced security protocols may be required for US personnel and assets in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Baghdad International Airport (13 km)"
     }
   },
   {
-    "id": "04af7cc9ad640f85646510edd7c1363f",
-    "timestamp": "2026-03-18T05:03:13.191166",
-    "original_title": "Hundreds killed in Pakistani strike on rehab hospital in Afghanistan, Taliban says",
-    "link": "https://www.reddit.com/r/worldnews/comments/1rwu4ri/hundreds_killed_in_pakistani_strike_on_rehab/",
+    "id": "41c5b601713d6936b8543fcda9862bdf",
+    "timestamp": "2026-03-18T06:40:53.554923",
+    "original_title": "Ukraine seeks immediate release & access to 6 nationals arrested in India on terror conspiracy charges",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1rwuur4/ukraine_seeks_immediate_release_access_to_6/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Terrorism/Crime",
+      "risk_score": 7,
+      "location": "India",
+      "latitude": 20.5937,
+      "longitude": 78.9629,
+      "detailed_analysis": "Ukraine seeks immediate release of 6 nationals arrested in India on terror conspiracy charges, indicating potential for increased tensions and diplomatic fallout, which could impact aviation and cargo operations.",
+      "immediate_forecast_24h": "Diplomatic efforts to resolve the situation are expected, with potential for protests or demonstrations in support of the detained nationals.",
+      "strategic_outlook": "Long-term implications may include strained relations between Ukraine and India, potentially affecting trade and transportation agreements.",
+      "operational_impact": "Increased security measures may be implemented at Indian airports and ports, potentially causing delays or disruptions to cargo and aviation operations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "477fda230896c99b7e2e35c3e64c24d5",
+    "timestamp": "2026-03-18T06:40:55.987640",
+    "original_title": "Airline SAS to cancel 1,000 flights in April due to high fuel prices, DI reports",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rwvmso/airline_sas_to_cancel_1000_flights_in_april_due/",
     "source_name": "Reddit r/WorldNews",
     "ai_analysis": {
-      "category": "Conflict/Terrorism/Aviation",
+      "category": "Aviation",
       "risk_score": 10,
-      "location": "Kabul, Afghanistan",
-      "latitude": 34.5281,
-      "longitude": 69.1761,
-      "detailed_analysis": "A Pakistani strike on a rehab hospital in Afghanistan has resulted in hundreds of casualties, according to the Taliban. This incident has the potential to escalate tensions between Pakistan and Afghanistan, posing a significant threat to regional stability and aviation security.",
-      "immediate_forecast_24h": "Increased tensions between Pakistan and Afghanistan, potential for retaliatory attacks, and heightened security measures at airports and border crossings.",
-      "strategic_outlook": "Long-term instability in the region, potential for ongoing conflict, and increased risk of terrorism and aviation-related threats.",
-      "operational_impact": "Potential disruptions to air travel, increased security screening, and possible restrictions on cargo transport between Pakistan and Afghanistan.",
-      "proximity_alert": "YAKIN TEHDİT: Hamid Karzai International Airport (5 km)"
+      "location": "Scandinavia, Europe",
+      "latitude": 55.676097,
+      "longitude": 12.568337,
+      "detailed_analysis": "SAS airline is canceling 1,000 flights in April due to high fuel prices, which may lead to disruptions in air travel and potential delays or cancellations of cargo shipments.",
+      "immediate_forecast_24h": "Passengers and cargo operators should expect disruptions and plan accordingly, with potential for further cancellations or changes in flight schedules.",
+      "strategic_outlook": "The high fuel prices may continue to impact the aviation industry, leading to increased costs and reduced profitability for airlines, potentially resulting in more flight cancellations or changes in routes.",
+      "operational_impact": "The cancellation of flights may impact the transportation of time-sensitive cargo, such as perishable goods or priority shipments, and may require alternative arrangements to be made.",
+      "proximity_alert": "YAKIN TEHDİT: Copenhagen Airport (1 km)"
+    }
+  },
+  {
+    "id": "a480386b77c44b42687c644d1861de4d",
+    "timestamp": "2026-03-18T06:40:59.766880",
+    "original_title": "Starmer says 'focus must remain on Ukraine' despite war in Iran after talks with Zelensky",
+    "link": "https://www.france24.com/en/europe/20260318-starmer-tells-zelensky-focus-must-remain-on-ukraine-despite-war-in-iran",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "London, UK",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "detailed_analysis": "The meeting between British Prime Minister Keir Starmer and Ukrainian President Volodymyr Zelensky highlights the ongoing conflict between Ukraine and Russia, with a new defence partnership focused on countering drones. The US-Israeli war with Iran adds to the geopolitical tensions, potentially impacting global security and stability.",
+      "immediate_forecast_24h": "Increased tensions between nations involved in the conflicts, potential for escalation or retaliation, and heightened security measures in the region.",
+      "strategic_outlook": "Long-term instability in the region, potential for proxy wars, and increased military presence. The defence partnership between the UK and Ukraine may lead to enhanced security cooperation and drone countermeasures.",
+      "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics due to increased security measures, airspace restrictions, or conflict spillover. Aviation and cargo operations may need to exercise caution and adapt to changing security conditions.",
+      "proximity_alert": "YAKIN TEHDİT: Heathrow Airport (23 km)"
     }
   }
 ]
