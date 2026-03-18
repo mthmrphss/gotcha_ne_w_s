@@ -1651,5 +1651,81 @@
       "operational_impact": "Potential disruptions to flight schedules, increased fuel costs, and changes in airline operations may impact personnel, cargo, and passenger transportation.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "5c331a5f9b66a51600e3bd787e0f2c51",
+    "timestamp": "2026-03-18T18:30:55.490635",
+    "original_title": "High-speed Kyiv–Kharkiv trains won’t be reaching Kharkiv until end of March because of power shortages caused by Russian strikes",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rxbx0h/highspeed_kyivkharkiv_trains_wont_be_reaching/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Kyiv, Ukraine",
+      "latitude": 50.4501,
+      "longitude": 30.5236,
+      "detailed_analysis": "Power shortages caused by Russian strikes are affecting high-speed train services between Kyiv and Kharkiv, with trains not expected to reach Kharkiv until the end of March.",
+      "immediate_forecast_24h": "Train services will continue to be disrupted, and passengers may face delays or cancellations.",
+      "strategic_outlook": "The ongoing conflict between Russia and Ukraine is likely to continue causing disruptions to transportation infrastructure, including train services.",
+      "operational_impact": "The disruption to train services may impact the movement of cargo, personnel, and assets, and alternative transportation arrangements may need to be made.",
+      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
+    }
+  },
+  {
+    "id": "82e4e3c852812ed8622f256ec188db42",
+    "timestamp": "2026-03-18T18:30:58.224160",
+    "original_title": "Syria and the Islamic State: Analyzing America’s Departure",
+    "link": "https://warontherocks.com/2026/03/syria-and-the-islamic-state-analyzing-americas-departure/",
+    "source_name": "War on the Rocks",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 7,
+      "location": "Syria",
+      "latitude": 35.0,
+      "longitude": 38.0,
+      "detailed_analysis": "The withdrawal of American forces from Syria and the rise of a new Syrian government may lead to increased instability and a potential resurgence of the Islamic State, posing a threat to regional security and potentially affecting aviation and cargo operations.",
+      "immediate_forecast_24h": "Increased militant activity and potential clashes between the Syrian government and the Islamic State are possible in the short term, which may impact transport and logistics in the region.",
+      "strategic_outlook": "The long-term outlook for the region remains uncertain, with the potential for ongoing conflict and instability, which may lead to increased security measures and potential disruptions to transport and logistics.",
+      "operational_impact": "The situation in Syria may lead to increased security protocols for aviation and cargo operations, potential route changes, and enhanced screening procedures to mitigate the risk of terrorism and conflict.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "d2c4209e97bfce5e7cc5bbadc3d0ac64",
+    "timestamp": "2026-03-18T18:31:00.596041",
+    "original_title": "UN mission patrols South Sudan refugee camp after deadly attack",
+    "link": "http://www.africanews.com/2026/03/18/un-mission-patrols-south-sudan-refugee-camp-after-deadly-attack/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 6,
+      "location": "Yambio, South Sudan",
+      "latitude": 4.5667,
+      "longitude": 28.3833,
+      "detailed_analysis": "A recent deadly attack at the Makpandu refugee camp in Yambio, Western Equatoria, has prompted a UN mission patrol to assess security and work with local authorities, indicating heightened tensions and potential for further violence.",
+      "immediate_forecast_24h": "Increased security presence and potential for further clashes between rival groups or with security forces, posing a risk to personnel and assets in the area.",
+      "strategic_outlook": "Long-term instability and conflict in the region may lead to continued security threats, displacement of people, and challenges to humanitarian operations, affecting aviation and cargo transport in and out of the area.",
+      "operational_impact": "Potential disruption to logistics and transport operations due to increased security measures, roadblocks, or clashes, affecting the movement of cargo, aviation support, and personnel safety.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "a2461cbf1ed31c451fa24e783cc4055a",
+    "timestamp": "2026-03-18T18:31:02.845449",
+    "original_title": "'Not a one-person regime': Why Iran's Islamic Republic is so hard to topple",
+    "link": "https://www.france24.com/en/middle-east/20260318-iran-regime-change-khamenei-decapitation-strategy-islamic-republic",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The killing of Iran's Supreme Leader and subsequent US and Israeli strikes have created a volatile situation, potentially destabilizing the region and impacting aviation and cargo operations.",
+      "immediate_forecast_24h": "Increased tensions and potential for retaliatory actions from Iran, affecting regional stability and transport operations.",
+      "strategic_outlook": "Regime change in Iran is unlikely in the short term, but ongoing conflict and power struggles may lead to long-term instability, affecting trade and transport in the region.",
+      "operational_impact": "Potential disruptions to air travel, cargo shipments, and logistics operations in the region due to increased security measures, airspace restrictions, or retaliatory actions.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
   }
 ]
