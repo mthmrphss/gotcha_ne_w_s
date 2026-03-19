@@ -1,62 +1,5 @@
 [
   {
-    "id": "80a61ee94ae83bc817b434469a50f3ff",
-    "timestamp": "2026-03-19T21:04:24.933476",
-    "original_title": "Iran War Live Updates: As Attacks Shake Markets, Trump Seeks to Reassure Americans",
-    "link": "https://www.nytimes.com/live/2026/03/19/world/iran-war-news-trump-oil",
-    "source_name": "NewYork Times",
-    "ai_analysis": {
-      "category": "Conflict/Civil Unrest",
-      "risk_score": 10,
-      "location": "Tehran, Iran",
-      "latitude": 35.6892,
-      "longitude": 51.389,
-      "detailed_analysis": "The conflict between Iran and the US has the potential to disrupt global oil supplies, leading to increased prices and potential shortages. This could have a significant impact on the aviation and cargo industries, particularly if sanctions are lifted on Iranian oil.",
-      "immediate_forecast_24h": "Increased tensions and potential for further attacks on oil infrastructure, with President Trump seeking to reassure Americans and stabilize oil prices.",
-      "strategic_outlook": "Long-term instability in the region could lead to sustained higher oil prices, impacting the global economy and potentially leading to increased piracy and smuggling activities.",
-      "operational_impact": "Potential disruptions to air travel and cargo shipments, particularly in the Middle East region, with increased security measures and possible rerouting of flights and cargo vessels.",
-      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
-    }
-  },
-  {
-    "id": "f2312fbc847e97e28753ecefa171e405",
-    "timestamp": "2026-03-19T21:04:28.172758",
-    "original_title": "Denmark reportedly flew blood bags to Greenland in preparation for a US attack | Amid Trump threats, Copenhagen also sent over explosives intended to blow up runways, according to Danish media",
-    "link": "https://www.reddit.com/r/worldnews/comments/1rycbp4/denmark_reportedly_flew_blood_bags_to_greenland/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict/Aviation",
-      "risk_score": 8,
-      "location": "Greenland, Denmark",
-      "latitude": 64.4333,
-      "longitude": -51.7333,
-      "detailed_analysis": "Denmark reportedly flew blood bags to Greenland and sent explosives to blow up runways in preparation for a potential US attack, indicating a heightened state of alert and potential for conflict",
-      "immediate_forecast_24h": "Increased military presence and heightened security measures in Greenland, potential for US-Denmark diplomatic tensions",
-      "strategic_outlook": "Long-term implications for US-Denmark relations, potential for increased military build-up in the region, and impact on regional stability",
-      "operational_impact": "Potential disruptions to air traffic and logistics in Greenland, increased security screening for cargo and personnel",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "6503c27cdf8f3cb7440242ad57a97391",
-    "timestamp": "2026-03-19T21:04:30.017821",
-    "original_title": "Iran Publicly Executes Teen Champion Wrestler for Protesting Regime",
-    "link": "https://www.reddit.com/r/worldnews/comments/1ryc6cx/iran_publicly_executes_teen_champion_wrestler_for/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Civil Unrest/Conflict",
-      "risk_score": 6,
-      "location": "Iran",
-      "latitude": 32.0,
-      "longitude": 53.0,
-      "detailed_analysis": "Public execution of a teen champion wrestler for protesting the regime indicates heightened tensions and potential for further unrest, which could impact personnel and cargo security in the region.",
-      "immediate_forecast_24h": "Increased protests and demonstrations are likely, potentially disrupting transportation and logistics operations in the short term.",
-      "strategic_outlook": "Long-term instability in Iran could lead to sustained security concerns for assets, cargo, aviation, and personnel, particularly if the situation escalates into wider conflict.",
-      "operational_impact": "Transportation and logistics operations in Iran may be affected by the unrest, with potential for delays, route changes, or increased security measures to mitigate risks to personnel and cargo.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "9a93a45c5380bd31cd654894b034074d",
     "timestamp": "2026-03-19T21:56:18.973265",
     "original_title": "Gas prices soar as energy infrastructure is attacked in Gulf",
@@ -73,6 +16,101 @@
       "strategic_outlook": "The long-term impact of the attack on the global energy market could be significant, potentially leading to increased investment in alternative energy sources and changes to global energy policies. The attack may also lead to increased tensions in the region, potentially affecting trade and transport operations.",
       "operational_impact": "The attack on the energy infrastructure in the Gulf may lead to increased costs and disruptions to transport and logistics operations, particularly those reliant on natural gas. Cargo and shipping operations may need to be rerouted or delayed, and security measures may need to be increased to protect against potential future attacks.",
       "proximity_alert": null
+    }
+  },
+  {
+    "id": "812b904199b48b2cd03c72f35ad49ee8",
+    "timestamp": "2026-03-19T22:38:51.833475",
+    "original_title": "Trump compares first strikes on Iran to Japan's attack on Pearl Harbor - USA Today",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdTRSZ2RvajFUbWplV1IxQlBVZ2V3Qm9kTWdLc2MzdjZHUUlielRFZ3ZvTnZWSnZwakJDcGZvTTktUm1SeEY2a0NocGJXV1lWblZTOC1JWGtPa2p0ZFBzY2RyWW94eDFFbTZ0Z2U1R0J5WmNNeUh2UXptNWEzRG1BZXFzR1NYQTE4c2VGdlhOdlRtSVhYUDhSQkpxLUhzenlob3hQTmJ4Wkk2Y3E3S2c?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Iran, USA",
+      "latitude": 32.0,
+      "longitude": -96.0,
+      "detailed_analysis": "The comparison of first strikes on Iran to Japan's attack on Pearl Harbor by Trump may escalate tensions between the two nations, potentially leading to military action and affecting aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Increased diplomatic tensions and potential military mobilization, with a high risk of aviation disruptions and cargo delays.",
+      "strategic_outlook": "Long-term instability in the region, potentially affecting global oil prices, trade routes, and aviation security, with a high risk of conflict and terrorism.",
+      "operational_impact": "Potential disruptions to air traffic, cargo shipments, and logistics operations in the region, with a high risk of delays, cancellations, and increased security measures.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "4e27ad62cb99f349c661eddf778ab0ba",
+    "timestamp": "2026-03-19T22:38:55.611528",
+    "original_title": "Netanyahu says Iran decimated as Tehran warns of 'zero restraint' in energy attacks",
+    "link": "https://www.reddit.com/r/worldnews/comments/1ryesao/netanyahu_says_iran_decimated_as_tehran_warns_of/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Iran has warned of 'zero restraint' in energy attacks, which could potentially disrupt global energy supplies and impact aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Increased tensions between Iran and other nations may lead to heightened security measures and potential disruptions to transport and logistics in the region.",
+      "strategic_outlook": "Long-term escalation of conflict in the region could lead to significant disruptions to global energy supplies, trade, and transportation networks.",
+      "operational_impact": "Potential disruptions to air traffic, cargo shipments, and energy supplies may impact operational efficiency and safety in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "c154687ec1485e72b6561975b8db287c",
+    "timestamp": "2026-03-19T22:38:57.525729",
+    "original_title": "QatarEnergy declares \"Force Majeure\" on LNG contracts for up to 5 years following Iranian strikes on world's largest gas hub.",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rydz74/qatarenergy_declares_force_majeure_on_lng/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 8,
+      "location": "Qatar",
+      "latitude": 25.3548,
+      "longitude": 51.1839,
+      "detailed_analysis": "QatarEnergy has declared 'Force Majeure' on LNG contracts due to Iranian strikes on the world's largest gas hub, indicating a significant threat to energy supply chains and global markets.",
+      "immediate_forecast_24h": "Increased tensions between Qatar and Iran, potential for further disruptions to LNG supplies, and heightened security measures in the region.",
+      "strategic_outlook": "Long-term impact on global energy markets, potential for shifts in LNG supply chains, and increased geopolitical tensions in the Middle East.",
+      "operational_impact": "Disruptions to LNG supplies, potential delays or cancellations of shipments, and increased security protocols for vessels and personnel operating in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "369432af1066a2bc8556ee462092b859",
+    "timestamp": "2026-03-19T22:38:59.951513",
+    "original_title": "Iranian TV shows man rescued from South Khorasan rubble",
+    "link": "http://www.africanews.com/2026/03/19/iranian-tv-shows-man-rescued-from-south-khorasan-rubble/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 7,
+      "location": "South Khorasan, Iran",
+      "latitude": 32.8628,
+      "longitude": 59.2161,
+      "detailed_analysis": "Reported US-Israeli strikes in South Khorasan have resulted in a rising civilian toll and mounting destruction, with Red Crescent teams rescuing survivors from rubble. This indicates a high level of conflict and potential for further escalation.",
+      "immediate_forecast_24h": "Increased military activity and potential for further airstrikes, leading to heightened tensions and potential for civilian casualties.",
+      "strategic_outlook": "Long-term instability in the region, potentially leading to increased security measures and disruptions to transport and logistics.",
+      "operational_impact": "Potential disruptions to air transport and logistics in the region, with increased security measures and possible airspace restrictions.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "54ac467779947ec2f52a8698c4921fc1",
+    "timestamp": "2026-03-19T22:39:01.952176",
+    "original_title": "Video of Iranian soldier being targeted in a Tehran strike is AI generated",
+    "link": "https://www.france24.com/en/tv-shows/truth-or-fake/20260319-video-of-iranian-soldier-being-targeted-in-a-tehran-strike-is-ai-generated",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Cyber",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "A video purporting to show an Iranian soldier being targeted in a Tehran strike has been revealed to be AI-generated, sparking concerns over the spread of misinformation and potential escalation of conflict.",
+      "immediate_forecast_24h": "Increased tensions between Iran and Israel, potential for further misinformation campaigns, and heightened security measures in the region.",
+      "strategic_outlook": "Long-term implications for regional stability, potential for increased cyber warfare and information operations, and impact on global perceptions of conflict in the Middle East.",
+      "operational_impact": "Potential disruptions to air travel and logistics in the region, increased security screening for cargo and personnel, and heightened vigilance for cyber threats and misinformation campaigns.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
     }
   }
 ]
