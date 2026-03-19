@@ -625,5 +625,62 @@
       "operational_impact": "Potential disruptions to air cargo and passenger flights, as well as increased security protocols for personnel and assets in the region.",
       "proximity_alert": "YAKIN TEHDİT: King Khalid International Airport (27 km)"
     }
+  },
+  {
+    "id": "a5720df4cc9372f0851ec7191a0552be",
+    "timestamp": "2026-03-19T06:35:24.106502",
+    "original_title": "Trump vows no more attacks by Israel on Iran gas field after it 'violently lashed out'",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rxshu1/trump_vows_no_more_attacks_by_israel_on_iran_gas/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The situation involves a potential conflict between Israel and Iran, with the US attempting to intervene. The threat of attacks on Iran's gas field poses a significant risk to regional stability and global energy supplies.",
+      "immediate_forecast_24h": "The situation is volatile, and the risk of escalation remains high. Further attacks or retaliation from either side could occur, impacting regional security and global markets.",
+      "strategic_outlook": "The long-term implications of this conflict could lead to a broader regional conflict, affecting global energy markets, trade, and security. The involvement of the US and other international actors may help to de-escalate the situation, but the risk of miscalculation remains.",
+      "operational_impact": "The conflict could impact aviation and cargo operations in the region, with potential disruptions to flights, shipping, and logistics. The risk of attacks on critical infrastructure, such as gas fields and pipelines, could also have a significant impact on global energy supplies.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "76e0abc8202ceaadd9ed25e7cc2cfa9d",
+    "timestamp": "2026-03-19T06:35:25.946377",
+    "original_title": "Tehran intensifies attacks on Gulf energy facilities after Israel hits Iranian gas field",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rxsaeh/tehran_intensifies_attacks_on_gulf_energy/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Tehran has intensified attacks on Gulf energy facilities in response to Israel's strike on an Iranian gas field, posing a significant threat to regional energy security and stability.",
+      "immediate_forecast_24h": "Increased tensions and potential for further retaliatory attacks on energy infrastructure, with possible spillover effects on global energy markets.",
+      "strategic_outlook": "Prolonged conflict could lead to long-term disruptions in energy supplies, impacting global economic stability and potentially drawing in other regional or global actors.",
+      "operational_impact": "Heightened security measures for energy facilities, potential disruptions to cargo and aviation operations, and increased risk of supply chain disruptions in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "74f22d35d6297ba960f9c9feb3f257bf",
+    "timestamp": "2026-03-19T06:35:28.727060",
+    "original_title": "France's FM to visit Lebanon in show of 'support and solidarity' amid Middle East war",
+    "link": "https://www.france24.com/en/middle-east/20260319-france-s-fm-to-visit-lebanon-in-show-of-support-and-solidarity-amid-middle-east-war",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Beirut, Lebanon",
+      "latitude": 33.8938,
+      "longitude": 35.5018,
+      "detailed_analysis": "The visit of France's Foreign Minister to Lebanon amid the escalating Middle East war poses a significant threat to aviation and personnel. The ongoing conflict between Israel and its northern neighbour increases the risk of strikes, bombings, or other violent incidents that could impact aviation operations and personnel safety.",
+      "immediate_forecast_24h": "Heightened tensions and increased military activity in the region are expected in the next 24 hours, potentially disrupting air travel and posing a risk to personnel on the ground.",
+      "strategic_outlook": "The long-term outlook for the region remains uncertain, with the potential for further escalation of the conflict, which could lead to prolonged disruptions to air travel and logistics operations.",
+      "operational_impact": "The conflict may impact air cargo operations, personnel movements, and overall logistics in the region, requiring enhanced security measures and contingency planning to mitigate potential risks.",
+      "proximity_alert": "YAKIN TEHDİT: Beirut–Rafic Hariri International Airport (0 km)"
+    }
   }
 ]
