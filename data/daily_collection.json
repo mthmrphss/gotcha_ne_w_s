@@ -739,5 +739,138 @@
       "operational_impact": "Potential disruptions to air and sea transport, increased security measures, and possible rerouting of cargo and personnel to avoid conflict zones.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "726402b43b0e2b421acd280b1cc86b6b",
+    "timestamp": "2026-03-19T08:53:40.921891",
+    "original_title": "Israel and Iran attack gas facilities, in a major escalation that rattles markets - NPR",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtNVdmLVU1OS03dE1ic2FzMzUyZm42QTBmSnRuTFVReDEyTjB3LWdBeUdrMVRGaktWdGF4aFFiY1RoVV9FUGRzdTlwcDVUNW52ZlVTQjVKTDk0d2hwbzFUN3NxUXJYdjVJOXRha0J3R3Jjd083bXBHTk5IcTdQajA?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Israel/Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The recent attacks on gas facilities by Israel and Iran mark a significant escalation in their conflict, posing a substantial threat to regional stability and global energy markets.",
+      "immediate_forecast_24h": "Increased tensions and potential for further retaliatory strikes, potentially disrupting oil and gas supplies and affecting global market prices.",
+      "strategic_outlook": "Prolonged conflict could lead to long-term instability in the region, impacting global energy security and potentially drawing in other nations, while also affecting aviation and cargo operations in the area.",
+      "operational_impact": "Potential disruptions to oil and gas supplies, increased security measures for aviation and cargo operations, and heightened risk of attacks on critical infrastructure.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "c3e4a966ca18f20aedd2e4e0f93b3781",
+    "timestamp": "2026-03-19T08:53:43.145322",
+    "original_title": "Dream Security flags critical RCE vulnerability in GNU Inetutils telnetd, exposing ICS and OT systems - Industrial Cyber",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeGhoT3h5cUhybGF1X3d1TFdkMXhnUVZBLW84WDhVYXdkRmd1bmlqU2FNcWNxMGtzUUtRR196MW5wUExXbU9vdnl2UEtZb19Lekt3VXU4NWFubzUwRlpjRXNqcDA4R3NyUW5ZVWtucUkzX2M5YkZUMDNOVktXZ0pMMjZxSHQ3M1ZCSUVKckg1QkFfTFRPSVR4bVljMjM2VEJjRGRjRnRXQWlBUEhIVFAxck1iUFJiWU1OZjhQOHItNF85b3cybkhEVlpsLVhxZ09uMHVUSzhjcXhWNXBK?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 8,
+      "location": "Global",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "A critical RCE vulnerability has been flagged in GNU Inetutils telnetd, potentially exposing Industrial Control Systems (ICS) and Operational Technology (OT) systems to remote code execution attacks. This vulnerability could be exploited by malicious actors to gain unauthorized access to critical infrastructure, disrupt operations, or steal sensitive information.",
+      "immediate_forecast_24h": "In the next 24 hours, there is a high likelihood that threat actors will attempt to exploit this vulnerability, potentially leading to increased scanning and probing activity. Organizations should prioritize patching and mitigation efforts to prevent potential attacks.",
+      "strategic_outlook": "In the long term, this vulnerability highlights the importance of proactive cybersecurity measures, including regular vulnerability assessments, patch management, and employee training. Organizations should also consider implementing additional security controls, such as network segmentation and intrusion detection systems, to protect against similar threats in the future.",
+      "operational_impact": "The exploitation of this vulnerability could have significant operational impacts on industries that rely on ICS and OT systems, including transportation, logistics, and energy. Potential consequences include disruption of critical services, equipment damage, and compromise of sensitive data.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "e2e71aad6d9fe1ac206daaa876c7b696",
+    "timestamp": "2026-03-19T08:53:45.319391",
+    "original_title": "War enters new phase as Israel attack on Iran gasfield sparks Gulf response - Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPa1dWVUFGa1VqTTRFdi15NEVYVEhRUmtqU01wZDZZODZKeXhCV0xGNmIyZVQzcVhGWHRweTRZOXV1a2NHYkp5SnZpYTB3RWpjMzI5NHRvQ1lEN0pabndYM2lRUUZMNkdjRTV2V1pqM2hrUW9hNjNvMnh6cTFkYVpWbUYzWEw4endnYUs4OVlzQdIBlAFBVV95cUxOVzd3WWt1N2J2WUN6TkctLXhQUXp3X2VKZjdqMVdRYlUta3ZHWXJDaF9qZWhqWmhsTHN3NHNqaTBJQkVuUjNralZaQU16X0dnNnFaUjhWUFU3SWw2UjB6M3ZlSG15dklfcXFlTG93Yk0wUkN4dzhjZ2dXZHZ1M29Lcko5RjE0REowX21xRjJGZWNzY0hU?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Gulf Region, Middle East",
+      "latitude": 26.2072,
+      "longitude": 50.5902,
+      "detailed_analysis": "The recent attack by Israel on an Iranian gasfield has sparked a response from the Gulf region, indicating a potential escalation of conflict. This could lead to increased tensions and instability in the region, posing a threat to assets, cargo, aviation, and personnel.",
+      "immediate_forecast_24h": "In the next 24 hours, there is a high likelihood of retaliatory actions from Iran and its allies, which could lead to further escalation of the conflict. This may result in increased military activity, potential disruptions to shipping lanes, and heightened security measures in the region.",
+      "strategic_outlook": "In the long term, this conflict has the potential to draw in other regional and global powers, leading to a wider and more complex conflict. This could have significant implications for global energy markets, trade, and security, and may require a coordinated international response to mitigate the risks.",
+      "operational_impact": "The conflict may impact transport and logistics operations in the region, including potential disruptions to shipping lanes, increased security measures, and potential airspace restrictions. This could lead to delays, increased costs, and potential risks to personnel and assets.",
+      "proximity_alert": "YAKIN TEHDİT: Bahrain International Airport (8 km)"
+    }
+  },
+  {
+    "id": "39ef037aa787e0b889d98f8811b154e1",
+    "timestamp": "2026-03-19T08:53:49.903717",
+    "original_title": "Three Palestinian women killed during Iranian missile attack in West Bank",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rxuu78/three_palestinian_women_killed_during_iranian/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 8,
+      "location": "West Bank",
+      "latitude": 32.0,
+      "longitude": 35.5,
+      "detailed_analysis": "Iranian missile attack in the West Bank resulted in the death of three Palestinian women, indicating a high level of conflict and potential for further escalation in the region, posing a significant threat to personnel and potentially disrupting aviation and cargo operations.",
+      "immediate_forecast_24h": "Increased tensions and potential for retaliatory attacks are expected in the short term, with a high likelihood of further violence and instability in the region.",
+      "strategic_outlook": "The long-term outlook for the region remains volatile, with ongoing conflict and tensions between various factions likely to continue, posing a persistent threat to assets, cargo, aviation, and personnel.",
+      "operational_impact": "The conflict may impact transport and logistics operations in the region, including potential disruptions to air travel, cargo shipments, and ground transportation, with increased security measures and precautions likely to be implemented.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "238225c9a86c76ca4450de369dd915b8",
+    "timestamp": "2026-03-19T08:53:52.376374",
+    "original_title": "Countering Drones and the Pace of Modern War",
+    "link": "https://warontherocks.com/2026/03/countering-drones-and-the-pace-of-modern-war/",
+    "source_name": "War on the Rocks",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 7,
+      "location": "Unknown, Global",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "The episode discusses the threat of drones in modern warfare and how the U.S. military is adapting to counter these threats. The conversation also touches on the problems with America's procurement process and the exaggeration of value provided by some companies to Ukraine.",
+      "immediate_forecast_24h": "No immediate threats are reported, but the ongoing discussion on drone countermeasures suggests a heightened awareness of potential drone-related incidents in the near future.",
+      "strategic_outlook": "The increasing use of drones in warfare poses a long-term threat to aviation and national security. The development of effective counter-drone solutions is crucial to mitigating these risks.",
+      "operational_impact": "The threat of drones could impact aviation operations, particularly in conflict zones or areas with high drone activity. This may lead to increased security measures, such as enhanced surveillance and counter-drone systems, to protect aircraft and personnel.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "1019ea35fdb2255e02a4d390cb82c552",
+    "timestamp": "2026-03-19T08:53:54.714149",
+    "original_title": "Iran missile strike hits Tel Aviv area as deaths mount across region",
+    "link": "http://www.africanews.com/2026/03/19/iran-missile-strike-hits-tel-aviv-area-as-deaths-mount-across-region/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Civil Unrest",
+      "risk_score": 10,
+      "location": "Tel Aviv, Israel",
+      "latitude": 32.0853,
+      "longitude": 34.7818,
+      "detailed_analysis": "Iranian missile strikes have hit the Tel Aviv area, causing damage to residential blocks and multiple sites nearby, resulting in a significant number of deaths across the region. This escalation of violence poses a high threat to assets, personnel, and aviation in the region.",
+      "immediate_forecast_24h": "Expect continued violence and potential retaliation, with increased security measures and possible disruptions to air travel and logistics in the region.",
+      "strategic_outlook": "The long-term impact of this conflict could lead to sustained instability in the region, affecting trade routes, aviation security, and the overall safety of personnel and assets.",
+      "operational_impact": "Potential disruptions to air travel, increased security checks, and possible rerouting of cargo and flights to avoid the conflict zone, with a high risk of further escalation and attacks on critical infrastructure.",
+      "proximity_alert": "YAKIN TEHDİT: Ben Gurion International Airport (0 km)"
+    }
+  },
+  {
+    "id": "194929ac62a64f1de22cd9564ebdbb4c",
+    "timestamp": "2026-03-19T08:53:56.875461",
+    "original_title": "Nigeria's army chief visits Maiduguri following deadly suicide bombings",
+    "link": "http://www.africanews.com/2026/03/19/nigerias-army-chief-visits-maiduguri-following-deadly-suicide-bombings/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict",
+      "risk_score": 8,
+      "location": "Maiduguri, Nigeria",
+      "latitude": 11.8467,
+      "longitude": 13.1579,
+      "detailed_analysis": "The recent deadly suicide bombings in Maiduguri, blamed on Boko Haram, pose a significant threat to personnel and assets in the region. The attack resulted in at least 23 deaths and 108 injuries, indicating a high level of violence and intent to harm.",
+      "immediate_forecast_24h": "In the next 24 hours, there is a high likelihood of increased military presence and security measures in Maiduguri, potentially leading to disruptions in transport and logistics. Further attacks by Boko Haram cannot be ruled out.",
+      "strategic_outlook": "The long-term outlook for the region remains unstable, with Boko Haram's continued presence and activity posing a persistent threat to security and stability. This may lead to ongoing disruptions and risks to assets, cargo, aviation, and personnel.",
+      "operational_impact": "The attacks and subsequent security measures may impact transport and logistics operations in the region, including potential delays, route changes, or increased security protocols for cargo and personnel movement.",
+      "proximity_alert": null
+    }
   }
 ]
