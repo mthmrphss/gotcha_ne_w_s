@@ -17,5 +17,43 @@
       "operational_impact": "Transport and logistics operations in the area may be affected due to increased security checks and potential protests or demonstrations, leading to delays and disruptions.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "cced15d9a66e667a18b0cd925b25bc90",
+    "timestamp": "2026-03-19T20:01:33.886393",
+    "original_title": "Iran strikes US Fifth Fleet and Israeli energy targets in latest escalation",
+    "link": "https://www.reddit.com/r/worldnews/comments/1ryaclt/iran_strikes_us_fifth_fleet_and_israeli_energy/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Persian Gulf, Middle East",
+      "latitude": 26.0,
+      "longitude": 56.0,
+      "detailed_analysis": "Iran has struck the US Fifth Fleet and Israeli energy targets, indicating a significant escalation in the region. This could lead to increased tensions and potential retaliation, posing a threat to aviation and maritime assets.",
+      "immediate_forecast_24h": "Heightened military activity and potential for further strikes in the region, with possible disruptions to air and sea traffic.",
+      "strategic_outlook": "Long-term instability in the region, with potential for ongoing conflict and increased security measures for aviation and maritime operations.",
+      "operational_impact": "Potential disruptions to air and sea traffic, increased security protocols for flights and ships, and possible rerouting of cargo and personnel to avoid the affected area.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "cdb7b987d0fdeb65bf2c71014d15c617",
+    "timestamp": "2026-03-19T20:01:37.760400",
+    "original_title": "Replay: Israeli PM Netanyahu addresses press conference",
+    "link": "https://www.france24.com/en/replay-israeli-pm-netanyahu-addresses-press-conference",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Israel",
+      "latitude": 31.7833,
+      "longitude": 35.2167,
+      "detailed_analysis": "Israeli PM Netanyahu's statement on airstrikes against Iran's nuclear and missile facilities indicates an escalation of conflict, potentially affecting regional stability and aviation security.",
+      "immediate_forecast_24h": "Increased tensions between Israel and Iran may lead to retaliatory actions, potentially impacting air traffic and cargo operations in the region.",
+      "strategic_outlook": "Prolonged conflict could disrupt global supply chains, particularly those relying on Middle Eastern air and sea routes, and may lead to increased security measures for aviation and cargo.",
+      "operational_impact": "Potential for flight delays or cancellations, increased security screening for cargo and passengers, and heightened risk of cyberattacks against logistics and transportation infrastructure.",
+      "proximity_alert": null
+    }
   }
 ]
