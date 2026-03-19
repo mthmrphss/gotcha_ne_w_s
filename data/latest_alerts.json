@@ -1,24 +1,5 @@
 [
   {
-    "id": "d222c3774626adadbcb5bb39e5567133",
-    "timestamp": "2026-03-19T19:08:47.619610",
-    "original_title": "Photog on devastation of Michigan synagogue attack: ‘Worst fears come true’ - Bridge Michigan",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNXplSjhxMndFa3l4dndGdlRqeGI5NmVSUWJBak1yalJRdXJGWl9vcERRNVhpdXNNaFMzVG9oYkROZl9nZmZYZV9wN0c1OHBaNEs2cThvVFFjNXd3eTYwUHFQWmNhTFlyT2tIX3AyUnJRZVhMeHRpVGtuTnJnN2pzdHNrMDFXZm9GcklWazNyNXlHTnlFLUVhZXZBTnlFb3loZGExUEpXa0hzNHM?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Terrorism/Civil Unrest",
-      "risk_score": 8,
-      "location": "Michigan, USA",
-      "latitude": 42.3314,
-      "longitude": -85.6024,
-      "detailed_analysis": "A synagogue in Michigan was attacked, indicating a potential rise in hate crimes and terrorism, posing a significant threat to personnel and assets in the area.",
-      "immediate_forecast_24h": "Increased security measures are expected in the area, with potential disruptions to local transport and logistics. There is a risk of copycat attacks or retaliatory violence.",
-      "strategic_outlook": "The long-term impact of this attack could lead to increased tensions and violence against religious institutions, affecting the overall security landscape and requiring enhanced security protocols for personnel and assets.",
-      "operational_impact": "Transport and logistics operations in the area may be affected due to increased security checks and potential protests or demonstrations, leading to delays and disruptions.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "cced15d9a66e667a18b0cd925b25bc90",
     "timestamp": "2026-03-19T20:01:33.886393",
     "original_title": "Iran strikes US Fifth Fleet and Israeli energy targets in latest escalation",
@@ -53,6 +34,63 @@
       "immediate_forecast_24h": "Increased tensions between Israel and Iran may lead to retaliatory actions, potentially impacting air traffic and cargo operations in the region.",
       "strategic_outlook": "Prolonged conflict could disrupt global supply chains, particularly those relying on Middle Eastern air and sea routes, and may lead to increased security measures for aviation and cargo.",
       "operational_impact": "Potential for flight delays or cancellations, increased security screening for cargo and passengers, and heightened risk of cyberattacks against logistics and transportation infrastructure.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "80a61ee94ae83bc817b434469a50f3ff",
+    "timestamp": "2026-03-19T21:04:24.933476",
+    "original_title": "Iran War Live Updates: As Attacks Shake Markets, Trump Seeks to Reassure Americans",
+    "link": "https://www.nytimes.com/live/2026/03/19/world/iran-war-news-trump-oil",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The conflict between Iran and the US has the potential to disrupt global oil supplies, leading to increased prices and potential shortages. This could have a significant impact on the aviation and cargo industries, particularly if sanctions are lifted on Iranian oil.",
+      "immediate_forecast_24h": "Increased tensions and potential for further attacks on oil infrastructure, with President Trump seeking to reassure Americans and stabilize oil prices.",
+      "strategic_outlook": "Long-term instability in the region could lead to sustained higher oil prices, impacting the global economy and potentially leading to increased piracy and smuggling activities.",
+      "operational_impact": "Potential disruptions to air travel and cargo shipments, particularly in the Middle East region, with increased security measures and possible rerouting of flights and cargo vessels.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "f2312fbc847e97e28753ecefa171e405",
+    "timestamp": "2026-03-19T21:04:28.172758",
+    "original_title": "Denmark reportedly flew blood bags to Greenland in preparation for a US attack | Amid Trump threats, Copenhagen also sent over explosives intended to blow up runways, according to Danish media",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rycbp4/denmark_reportedly_flew_blood_bags_to_greenland/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Greenland, Denmark",
+      "latitude": 64.4333,
+      "longitude": -51.7333,
+      "detailed_analysis": "Denmark reportedly flew blood bags to Greenland and sent explosives to blow up runways in preparation for a potential US attack, indicating a heightened state of alert and potential for conflict",
+      "immediate_forecast_24h": "Increased military presence and heightened security measures in Greenland, potential for US-Denmark diplomatic tensions",
+      "strategic_outlook": "Long-term implications for US-Denmark relations, potential for increased military build-up in the region, and impact on regional stability",
+      "operational_impact": "Potential disruptions to air traffic and logistics in Greenland, increased security screening for cargo and personnel",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "6503c27cdf8f3cb7440242ad57a97391",
+    "timestamp": "2026-03-19T21:04:30.017821",
+    "original_title": "Iran Publicly Executes Teen Champion Wrestler for Protesting Regime",
+    "link": "https://www.reddit.com/r/worldnews/comments/1ryc6cx/iran_publicly_executes_teen_champion_wrestler_for/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 6,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Public execution of a teen champion wrestler for protesting the regime indicates heightened tensions and potential for further unrest, which could impact personnel and cargo security in the region.",
+      "immediate_forecast_24h": "Increased protests and demonstrations are likely, potentially disrupting transportation and logistics operations in the short term.",
+      "strategic_outlook": "Long-term instability in Iran could lead to sustained security concerns for assets, cargo, aviation, and personnel, particularly if the situation escalates into wider conflict.",
+      "operational_impact": "Transportation and logistics operations in Iran may be affected by the unrest, with potential for delays, route changes, or increased security measures to mitigate risks to personnel and cargo.",
       "proximity_alert": null
     }
   }
