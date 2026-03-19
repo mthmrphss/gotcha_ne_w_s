@@ -1,24 +1,5 @@
 [
   {
-    "id": "9a93a45c5380bd31cd654894b034074d",
-    "timestamp": "2026-03-19T21:56:18.973265",
-    "original_title": "Gas prices soar as energy infrastructure is attacked in Gulf",
-    "link": "https://www.france24.com/en/gas-prices-soar-as-energy-infrastructure-is-attacked-in-gulf",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict/Other",
-      "risk_score": 8,
-      "location": "Gulf, Middle East",
-      "latitude": 25.3548,
-      "longitude": 51.1839,
-      "detailed_analysis": "The attack on the energy infrastructure in the Gulf, specifically the Ras Laffan plant in Qatar, poses a significant threat to global natural gas supplies. The damage to the facility could take years to repair, leading to a substantial impact on the global energy market.",
-      "immediate_forecast_24h": "Natural gas prices are expected to continue to soar in the short term, potentially leading to increased costs for transportation and logistics. The attack may also lead to increased security measures in the region, potentially causing disruptions to transport and cargo operations.",
-      "strategic_outlook": "The long-term impact of the attack on the global energy market could be significant, potentially leading to increased investment in alternative energy sources and changes to global energy policies. The attack may also lead to increased tensions in the region, potentially affecting trade and transport operations.",
-      "operational_impact": "The attack on the energy infrastructure in the Gulf may lead to increased costs and disruptions to transport and logistics operations, particularly those reliant on natural gas. Cargo and shipping operations may need to be rerouted or delayed, and security measures may need to be increased to protect against potential future attacks.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "812b904199b48b2cd03c72f35ad49ee8",
     "timestamp": "2026-03-19T22:38:51.833475",
     "original_title": "Trump compares first strikes on Iran to Japan's attack on Pearl Harbor - USA Today",
@@ -111,6 +92,44 @@
       "strategic_outlook": "Long-term implications for regional stability, potential for increased cyber warfare and information operations, and impact on global perceptions of conflict in the Middle East.",
       "operational_impact": "Potential disruptions to air travel and logistics in the region, increased security screening for cargo and personnel, and heightened vigilance for cyber threats and misinformation campaigns.",
       "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "b90c3198e6d251a6f7f3ffda8e76f39a",
+    "timestamp": "2026-03-19T23:36:42.650055",
+    "original_title": "Jet2 flight makes emergency landing in Bristol due to passenger illness - 112.ua",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa0RFUEgxRGRJcWxZYWVCTTZyRlUtVktCQi0zNTBVRzhDX1V4VnRuWmxiQWN3VGZnTm5oLXV2U0w5Q2xNWWZQalhTUHUwM3NMemNPeGV6dlFOYWZveWZwZjU3eWtvLVU4UUQ5R2NTall0RHFMc0pEQVdkY2tVWnR2dnlhVWVtN2hKUUh6VmRoS0JISmVkRElNNQ?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 2,
+      "location": "Bristol, UK",
+      "latitude": 51.4545,
+      "longitude": -2.5879,
+      "detailed_analysis": "A Jet2 flight made an emergency landing in Bristol due to a passenger illness, no indication of a security threat or malicious intent.",
+      "immediate_forecast_24h": "The situation is expected to be resolved without further incident, with the passenger receiving medical attention.",
+      "strategic_outlook": "This incident highlights the importance of emergency response planning in the aviation industry, but does not indicate a broader security threat.",
+      "operational_impact": "Minimal disruption to flight operations, with the potential for some delays or rescheduling.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "974540a194a18c3fcf7b8923c7b5427c",
+    "timestamp": "2026-03-19T23:36:46.028523",
+    "original_title": "US reportedly weighing military reinforcements as Iran war enters possible new phase",
+    "link": "https://www.france24.com/en/tv-shows/a-propos/20260319-us-reportedly-weighing-military-reinforcements-as-iran-war-enters-possible-new-phase",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Middle East",
+      "latitude": 29.4574,
+      "longitude": 47.6466,
+      "detailed_analysis": "The US is considering deploying thousands of troops to the Middle East, indicating a possible escalation of the conflict with Iran, which could impact aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Increased military presence and potential for heightened tensions between the US and Iran, potentially affecting air travel and cargo transport in the region.",
+      "strategic_outlook": "A prolonged conflict could lead to increased instability in the region, affecting trade routes, aviation, and cargo operations, with potential long-term consequences for global supply chains.",
+      "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics operations in the Middle East, with possible delays, increased security measures, and heightened risk of attacks on aviation and cargo assets.",
+      "proximity_alert": null
     }
   }
 ]
