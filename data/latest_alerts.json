@@ -1,43 +1,5 @@
 [
   {
-    "id": "cced15d9a66e667a18b0cd925b25bc90",
-    "timestamp": "2026-03-19T20:01:33.886393",
-    "original_title": "Iran strikes US Fifth Fleet and Israeli energy targets in latest escalation",
-    "link": "https://www.reddit.com/r/worldnews/comments/1ryaclt/iran_strikes_us_fifth_fleet_and_israeli_energy/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict/Aviation",
-      "risk_score": 8,
-      "location": "Persian Gulf, Middle East",
-      "latitude": 26.0,
-      "longitude": 56.0,
-      "detailed_analysis": "Iran has struck the US Fifth Fleet and Israeli energy targets, indicating a significant escalation in the region. This could lead to increased tensions and potential retaliation, posing a threat to aviation and maritime assets.",
-      "immediate_forecast_24h": "Heightened military activity and potential for further strikes in the region, with possible disruptions to air and sea traffic.",
-      "strategic_outlook": "Long-term instability in the region, with potential for ongoing conflict and increased security measures for aviation and maritime operations.",
-      "operational_impact": "Potential disruptions to air and sea traffic, increased security protocols for flights and ships, and possible rerouting of cargo and personnel to avoid the affected area.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "cdb7b987d0fdeb65bf2c71014d15c617",
-    "timestamp": "2026-03-19T20:01:37.760400",
-    "original_title": "Replay: Israeli PM Netanyahu addresses press conference",
-    "link": "https://www.france24.com/en/replay-israeli-pm-netanyahu-addresses-press-conference",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 8,
-      "location": "Israel",
-      "latitude": 31.7833,
-      "longitude": 35.2167,
-      "detailed_analysis": "Israeli PM Netanyahu's statement on airstrikes against Iran's nuclear and missile facilities indicates an escalation of conflict, potentially affecting regional stability and aviation security.",
-      "immediate_forecast_24h": "Increased tensions between Israel and Iran may lead to retaliatory actions, potentially impacting air traffic and cargo operations in the region.",
-      "strategic_outlook": "Prolonged conflict could disrupt global supply chains, particularly those relying on Middle Eastern air and sea routes, and may lead to increased security measures for aviation and cargo.",
-      "operational_impact": "Potential for flight delays or cancellations, increased security screening for cargo and passengers, and heightened risk of cyberattacks against logistics and transportation infrastructure.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "80a61ee94ae83bc817b434469a50f3ff",
     "timestamp": "2026-03-19T21:04:24.933476",
     "original_title": "Iran War Live Updates: As Attacks Shake Markets, Trump Seeks to Reassure Americans",
@@ -91,6 +53,25 @@
       "immediate_forecast_24h": "Increased protests and demonstrations are likely, potentially disrupting transportation and logistics operations in the short term.",
       "strategic_outlook": "Long-term instability in Iran could lead to sustained security concerns for assets, cargo, aviation, and personnel, particularly if the situation escalates into wider conflict.",
       "operational_impact": "Transportation and logistics operations in Iran may be affected by the unrest, with potential for delays, route changes, or increased security measures to mitigate risks to personnel and cargo.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "9a93a45c5380bd31cd654894b034074d",
+    "timestamp": "2026-03-19T21:56:18.973265",
+    "original_title": "Gas prices soar as energy infrastructure is attacked in Gulf",
+    "link": "https://www.france24.com/en/gas-prices-soar-as-energy-infrastructure-is-attacked-in-gulf",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Other",
+      "risk_score": 8,
+      "location": "Gulf, Middle East",
+      "latitude": 25.3548,
+      "longitude": 51.1839,
+      "detailed_analysis": "The attack on the energy infrastructure in the Gulf, specifically the Ras Laffan plant in Qatar, poses a significant threat to global natural gas supplies. The damage to the facility could take years to repair, leading to a substantial impact on the global energy market.",
+      "immediate_forecast_24h": "Natural gas prices are expected to continue to soar in the short term, potentially leading to increased costs for transportation and logistics. The attack may also lead to increased security measures in the region, potentially causing disruptions to transport and cargo operations.",
+      "strategic_outlook": "The long-term impact of the attack on the global energy market could be significant, potentially leading to increased investment in alternative energy sources and changes to global energy policies. The attack may also lead to increased tensions in the region, potentially affecting trade and transport operations.",
+      "operational_impact": "The attack on the energy infrastructure in the Gulf may lead to increased costs and disruptions to transport and logistics operations, particularly those reliant on natural gas. Cargo and shipping operations may need to be rerouted or delayed, and security measures may need to be increased to protect against potential future attacks.",
       "proximity_alert": null
     }
   }
