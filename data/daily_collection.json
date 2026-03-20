@@ -131,5 +131,43 @@
       "operational_impact": "The situation may lead to flight disruptions, airspace restrictions, and increased security protocols for aviation and cargo operations in the region. Ground transportation and logistics may also be affected, with potential for delays or disruptions to supply chains.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "b7f817903048392d7aba4db1318cee83",
+    "timestamp": "2026-03-20T22:36:25.895411",
+    "original_title": "1 dead after small plane crash in Whiteside County - WIFR",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMTZadUdnRDVzRzJPak1aOUVkbTZxMDhOeEpWbElPQm9FcXNkU0JISF9yM25hVGkzSG0wdXRoUG54aTZWUS1qa203cE9xRG9seXdWRzRLVm1NVFQtN201OG4wRGhOVC0tZ2NGSXkwODhRdWhJQUlmb3BZanZKbjY1WHJPRG5aY0E?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 8,
+      "location": "Whiteside County",
+      "latitude": 41.7833,
+      "longitude": -89.9333,
+      "detailed_analysis": "A small plane crash in Whiteside County has resulted in one fatality, indicating a significant risk to aviation safety and potential disruption to local air traffic.",
+      "immediate_forecast_24h": "Investigations into the cause of the crash are likely to commence, with potential temporary restrictions on air traffic in the area.",
+      "strategic_outlook": "The incident highlights the importance of maintaining rigorous aviation safety standards and protocols to prevent such accidents in the future.",
+      "operational_impact": "The crash may cause temporary disruptions to local aviation operations, but it is unlikely to have a significant impact on national or international air transport logistics.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "92b354d195187a51115bea425516a353",
+    "timestamp": "2026-03-20T22:36:32.540998",
+    "original_title": "Trump Says US Considering ‘Winding Down’ Iran Military Campaign",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1rz9uvd/trump_says_us_considering_winding_down_iran/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 6,
+      "location": "Iran, Middle East",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The US is considering winding down its military campaign in Iran, which could lead to a decrease in tensions and conflict in the region. However, the situation remains volatile and any escalation could impact aviation and logistics in the area.",
+      "immediate_forecast_24h": "The situation is expected to remain unstable, with a possibility of further clashes or retaliatory actions. Aviation and logistics operations in the region should exercise caution and monitor the situation closely.",
+      "strategic_outlook": "A de-escalation of the conflict could lead to improved stability in the region, benefiting aviation and logistics operations. However, the situation remains uncertain and subject to change, requiring ongoing monitoring and risk assessment.",
+      "operational_impact": "The conflict could impact aviation operations, including flights to and from Iran, as well as logistics and cargo transport in the region. Operators should be prepared for potential disruptions and have contingency plans in place.",
+      "proximity_alert": null
+    }
   }
 ]
