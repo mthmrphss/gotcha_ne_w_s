@@ -93,5 +93,43 @@
       "operational_impact": "The crisis may cause disruptions to supply chains, increased costs for transportation and logistics, and potential delays or cancellations of flights and shipments.",
       "proximity_alert": "YAKIN TEHDİT: San Francisco International Airport (17 km)"
     }
+  },
+  {
+    "id": "b1f89fac9575cabca2e0e7a4a1e596e5",
+    "timestamp": "2026-03-20T21:37:26.872985",
+    "original_title": "Iran War Live Updates: Trump Uninterested in Cease-Fire Because U.S. Is ‘Obliterating the Other Side’",
+    "link": "https://www.nytimes.com/live/2026/03/20/world/iran-war-oil-trump",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Strait of Hormuz, Iran",
+      "latitude": 26.0,
+      "longitude": 56.0,
+      "detailed_analysis": "The U.S. is engaging in military action against Iranian targets to reopen the Strait of Hormuz, which could lead to increased tensions and potential threats to aviation and cargo in the region.",
+      "immediate_forecast_24h": "Increased military activity and potential for escalation in the region, with possible disruptions to shipping and air traffic.",
+      "strategic_outlook": "Long-term instability in the region could lead to sustained higher oil prices and increased risk of conflict, affecting global trade and logistics.",
+      "operational_impact": "Potential disruptions to shipping and air traffic in the region, with possible delays or cancellations of flights and cargo shipments.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "9fdf8df1456ed3c5776acf4f3f61cbb4",
+    "timestamp": "2026-03-20T21:37:31.086142",
+    "original_title": "Impact in Old City after Iran missile warning",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rz8xwu/impact_in_old_city_after_iran_missile_warning/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "Old City, Country not specified (likely Middle East)",
+      "latitude": 32.0,
+      "longitude": 44.0,
+      "detailed_analysis": "A missile warning from Iran has resulted in an impact in Old City, suggesting a potential escalation of conflict in the region. The situation poses a significant threat to assets, cargo, aviation, and personnel in the area.",
+      "immediate_forecast_24h": "Increased tensions and potential for further military action in the region, with possible disruptions to air travel and logistics. There is a high likelihood of additional security measures being implemented in the affected area.",
+      "strategic_outlook": "The long-term outlook for the region remains uncertain, with ongoing geopolitical tensions and conflict posing a continued threat to stability and security. This may lead to sustained disruptions to transport and logistics, as well as potential risks to personnel and assets.",
+      "operational_impact": "The situation may lead to flight disruptions, airspace restrictions, and increased security protocols for aviation and cargo operations in the region. Ground transportation and logistics may also be affected, with potential for delays or disruptions to supply chains.",
+      "proximity_alert": null
+    }
   }
 ]
