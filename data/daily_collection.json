@@ -1043,5 +1043,43 @@
       "operational_impact": "Potential disruption to air travel and logistics in Greenland, increased security measures may be implemented at airports",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "8fa56bdeb9f682f2bd6fb056fa8d320d",
+    "timestamp": "2026-03-20T16:07:34.195447",
+    "original_title": "easyJet flight declares emergency and diverts to Glasgow - The Herald",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYmtfWXpZNVhuQUE2Tl9qd3RJOW0xbG5UM3dCTExnVkdxeF9maGRFeThTQ0NoMHFySHZKdEdQc3BGcWN4Rk5scDZjaFk3RGF1VFBEVGdkY19YeUJQcTNUUzhtbXZyQ1Jtano1WUQwNGJFWGZKMlc1ZFFmeUowbXRaTFd4WHBHVmFKdjk3cHdTcVdRUk5iUkd4bXNSTQ?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 6,
+      "location": "Glasgow, Scotland",
+      "latitude": 55.8612,
+      "longitude": -4.2509,
+      "detailed_analysis": "An easyJet flight declared an emergency and diverted to Glasgow, indicating a potential threat to aviation safety and security.",
+      "immediate_forecast_24h": "Investigations into the cause of the emergency declaration are likely to be conducted, and the airline may face disruptions to its operations.",
+      "strategic_outlook": "The incident may lead to increased security measures and scrutiny of easyJet's safety procedures, potentially impacting the airline's reputation and operations in the long term.",
+      "operational_impact": "The diversion may cause delays and disruptions to flights, affecting passengers and cargo, and potentially leading to increased costs and resource allocation for the airline.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "d16e2d32dcce92074f39761b111e62d8",
+    "timestamp": "2026-03-20T16:07:37.125926",
+    "original_title": "Iran Supreme Leader names new year 'resistance economy', denies role in attacks on Turkey, Oman",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rz0076/iran_supreme_leader_names_new_year_resistance/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Iran's Supreme Leader has named the new year as 'resistance economy', which may indicate increased tensions and potential for conflict in the region. The denial of role in attacks on Turkey and Oman suggests a complex geopolitical situation that could impact regional stability and security.",
+      "immediate_forecast_24h": "Increased rhetoric and potential for escalation in the region, particularly between Iran and its neighbors. Monitoring of the situation is recommended to assess potential impact on aviation and cargo operations.",
+      "strategic_outlook": "Long-term view suggests continued tensions in the region, potentially leading to increased security measures and potential disruptions to transport and logistics. The 'resistance economy' stance may also lead to increased scrutiny of cargo and trade in the region.",
+      "operational_impact": "Potential for increased security checks and delays at airports and border crossings, particularly for cargo and personnel traveling to or from Iran. Aviation operations may be impacted by increased tensions and potential for conflict in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
   }
 ]
