@@ -1081,5 +1081,138 @@
       "operational_impact": "Potential for increased security checks and delays at airports and border crossings, particularly for cargo and personnel traveling to or from Iran. Aviation operations may be impacted by increased tensions and potential for conflict in the region.",
       "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
     }
+  },
+  {
+    "id": "74e863193336b433c208673ce189e018",
+    "timestamp": "2026-03-20T17:10:36.583717",
+    "original_title": "EasyJet flight diverts to Scottish airport after declaring mid-air emergency - Thenational Scot",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcFR1MFJYaVBfTU9TTFNIbjNwZ1NJNkk4eUZCMkk5VTNkUE1aY2JGM1M3NTctU3hfSWJpR2NFNjhVel80cWI4RGFvQjFHY0pDeDNFM3ZQYlVnZ1oxX2RIUjVUNi1kRWl0aWNqdWk2N2hCY09GcUVqUzZHNmZocENZZ01UMnI1WU56YjhEcmU2ZkN3Q3JIRzhJX3lKQTJyS1hKOWc?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 6,
+      "location": "Scotland, UK",
+      "latitude": 57.0,
+      "longitude": -4.0,
+      "detailed_analysis": "An EasyJet flight declared a mid-air emergency and diverted to a Scottish airport, the cause of the emergency is not specified but it poses a potential threat to aviation safety and security",
+      "immediate_forecast_24h": "Investigations into the cause of the emergency will likely be conducted, and the airline may face disruptions to their operations",
+      "strategic_outlook": "The incident highlights the importance of emergency procedures and protocols in the aviation industry, and airlines may need to review and update their safety and security measures",
+      "operational_impact": "The diversion of the flight may cause delays and disruptions to passengers and cargo, and the airline may need to adjust their schedules and operations to mitigate the impact",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "38eb3335a25d39fc635b56de0c42c034",
+    "timestamp": "2026-03-20T17:10:39.525705",
+    "original_title": "U.S. Prosecutors Investigate Colombia’s President, a Onetime Trump Foe",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rz1xo2/us_prosecutors_investigate_colombias_president_a/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Crime",
+      "risk_score": 6,
+      "location": "Colombia",
+      "latitude": 4.0,
+      "longitude": -72.0,
+      "detailed_analysis": "U.S. prosecutors are investigating Colombia's president for potential ties to drug trafficking, which could lead to increased instability and crime in the region, affecting cargo and logistics operations.",
+      "immediate_forecast_24h": "No immediate disruptions to transport or logistics are expected, but the situation will be closely monitored for potential developments.",
+      "strategic_outlook": "The investigation could lead to long-term implications for Colombia's government and economy, potentially affecting trade and cargo operations in the region.",
+      "operational_impact": "Cargo and logistics operators should be aware of the potential for increased crime and instability in Colombia, and take necessary precautions to ensure the security of their operations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "054e922c6f8f489e1fb86c349d23895d",
+    "timestamp": "2026-03-20T17:10:41.624317",
+    "original_title": "Israel strikes Syria after Druze clashes",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rz1vu9/israel_strikes_syria_after_druze_clashes/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 7,
+      "location": "Syria/Israel",
+      "latitude": 33.0,
+      "longitude": 36.0,
+      "detailed_analysis": "The recent clashes between Druze communities and the subsequent Israeli strike on Syria pose a significant threat to regional stability, potentially impacting aviation and cargo operations in the area.",
+      "immediate_forecast_24h": "Escalation of violence is possible, with potential for further military action and disruption to air traffic and logistics in the region.",
+      "strategic_outlook": "The long-term implications of this conflict could lead to increased tensions between Israel and Syria, affecting trade and transport routes, as well as the safety of personnel in the area.",
+      "operational_impact": "Potential disruptions to air traffic, increased security measures at airports and borders, and heightened risk of violence or unrest in the region, which could impact cargo transport and personnel safety.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "667421b8b2d78cec779359db39c548b1",
+    "timestamp": "2026-03-20T17:10:45.272427",
+    "original_title": "Iran threatens to target recreational and tourist sites worldwide",
+    "link": "http://www.africanews.com/2026/03/20/iran-threatens-to-target-recreational-and-tourist-sites-worldwide/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict",
+      "risk_score": 8,
+      "location": "Global",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Iran's threat to target recreational and tourist sites worldwide poses a significant risk to global security, particularly for aviation and personnel. The threat of missile attacks could lead to a heightened state of alert for airlines, airports, and tourist destinations.",
+      "immediate_forecast_24h": "Increased security measures are expected at major tourist sites and airports worldwide, with possible disruptions to travel and cargo operations. The threat may lead to a heightened sense of vigilance among security agencies and law enforcement.",
+      "strategic_outlook": "The long-term implications of Iran's threat could lead to a sustained increase in security measures, potentially affecting global travel and trade. The situation may escalate into a broader conflict, impacting regional stability and global security.",
+      "operational_impact": "The threat may lead to increased security checks, potential flight disruptions, and enhanced screening of cargo and personnel. Airlines, airports, and tourist destinations may need to implement additional security protocols to mitigate the risk of attack.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "da4840f1b8856aacd604d649407655be",
+    "timestamp": "2026-03-20T17:10:47.157443",
+    "original_title": "Alliance of Sahel states outraged at EU demand to free Niger's president",
+    "link": "http://www.africanews.com/2026/03/20/alliance-of-sahel-states-outraged-at-eu-demand-to-free-nigers-president/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Niamey, Niger",
+      "latitude": 13.5142,
+      "longitude": 2.1155,
+      "detailed_analysis": "The Alliance of Sahel states' outrage at the EU's demand to free Niger's president could lead to increased tensions and potential unrest, posing a threat to regional stability and potentially affecting aviation and cargo operations.",
+      "immediate_forecast_24h": "Protests or demonstrations may occur in response to the EU's resolution, potentially disrupting transport and logistics in the region.",
+      "strategic_outlook": "The situation may escalate into a full-blown conflict, affecting the stability of the Sahel region and having long-term implications for aviation, cargo, and personnel security.",
+      "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics operations in Niger and the surrounding region, with possible increased security measures and restrictions.",
+      "proximity_alert": "YAKIN TEHDİT: Diori Hamani International Airport (7 km)"
+    }
+  },
+  {
+    "id": "c3ccc4b67c948a6f5971803245ad33f5",
+    "timestamp": "2026-03-20T17:10:49.457524",
+    "original_title": "Israel says struck Syrian army camps after Druze 'attacked'",
+    "link": "https://www.france24.com/en/video/20260320-israel-says-struck-syrian-army-camps-after-druze-attacked",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "Sweida, Syria",
+      "latitude": 32.7,
+      "longitude": 36.6,
+      "detailed_analysis": "The conflict between Israel and Syria poses a significant threat to assets, cargo, aviation, and personnel in the region. The strikes on Syrian army camps could lead to further escalation and potentially disrupt logistics and transportation in the area.",
+      "immediate_forecast_24h": "Increased tensions and potential for further military action between Israel and Syria, with possible spillover effects on neighboring countries and regional stability.",
+      "strategic_outlook": "Long-term instability in the region could lead to increased security measures, potential border closures, and disruptions to supply chains, affecting cargo and personnel movement.",
+      "operational_impact": "Potential disruptions to air traffic, increased security checks, and possible restrictions on cargo movement in the region, affecting aviation and logistics operations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "71b0716457ea13c50bce113dd5e3bbd7",
+    "timestamp": "2026-03-20T17:10:52.819224",
+    "original_title": "Air Canada Flight Attendants Are Furious With Plans to Improve Service On Leisure Flights",
+    "link": "https://www.paddleyourownkanoo.com/2026/03/20/air-canada-flight-attendants-are-furious-with-plans-to-improve-service-on-leisure-flights/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Montreal, Canada",
+      "latitude": 45.5017,
+      "longitude": -73.5673,
+      "detailed_analysis": "Air Canada flight attendants are protesting plans to improve service on leisure flights, which may lead to potential disruptions in flight operations.",
+      "immediate_forecast_24h": "Possible labor unrest and disruptions to Air Canada Rouge flights, but no immediate threat to safety or security.",
+      "strategic_outlook": "Long-term impact on Air Canada's operations and customer satisfaction, potential for further labor disputes if not resolved.",
+      "operational_impact": "Minimal impact on transport/logistics, but potential delays or cancellations of flights if labor unrest escalates.",
+      "proximity_alert": "YAKIN TEHDİT: Montréal–Pierre Elliott Trudeau International Airport (0 km)"
+    }
   }
 ]
