@@ -739,5 +739,81 @@
       "operational_impact": "The staffing shortages and potential security vulnerabilities may impact the efficiency and security of air travel, cargo handling, and personnel safety at US airports.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "57be9c66846e3eaf0ac838202e8a3661",
+    "timestamp": "2026-03-21T10:35:23.512572",
+    "original_title": "Iran war: Israel launches strikes on Tehran, Beirut - dw.com",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOM2JWM1dYWXB5cEFtc3MzSUx4XzNLQ0haNERCUGJ3Qk84M2UtQjJtUUI2UDRKV3lIcEE0VjBGcHJENEZIRWYzOTdjbzNTckdIUlREMEFIbW5JaWY0MmhJNzEtUWhnRDVqYUl5TG02VHZMN1ZxMU9yTDFLNDZlRG84dlQ3SHFTUU5xYmJjZXZR?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 10,
+      "location": "Tehran, Iran and Beirut, Lebanon",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Israel has launched strikes on Tehran and Beirut, indicating a significant escalation in the conflict. This could lead to retaliatory actions and increased instability in the region, posing a threat to aviation and logistics operations.",
+      "immediate_forecast_24h": "Increased military activity and potential for further strikes or retaliation, heightened security measures at airports and logistics hubs.",
+      "strategic_outlook": "Prolonged conflict could lead to long-term disruption of air travel and cargo transport in the region, with potential for spill-over effects into neighboring countries.",
+      "operational_impact": "Flight disruptions, potential for airport closures, increased security screening, and possible delays or cancellations of cargo shipments.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "62300309ba24bd5bc56360515dc2170e",
+    "timestamp": "2026-03-21T10:35:28.520005",
+    "original_title": "Iran reportedly fires missiles towards UK-US base on Diego Garcia",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rznn7p/iran_reportedly_fires_missiles_towards_ukus_base/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "Diego Garcia, British Indian Ocean Territory",
+      "latitude": -7.2957,
+      "longitude": 72.3738,
+      "detailed_analysis": "Iran has reportedly fired missiles towards a UK-US base on Diego Garcia, posing a significant threat to aviation and personnel in the region. The incident has the potential to escalate tensions and impact global security.",
+      "immediate_forecast_24h": "Increased military presence and heightened security measures are expected in the region. There is a possibility of further missile launches or retaliatory actions, which could lead to disruptions in air traffic and logistics.",
+      "strategic_outlook": "The long-term implications of this incident could lead to a significant shift in global geopolitics, potentially affecting international relations, trade, and security alliances. The region may experience increased militarization, and the threat of further attacks could remain elevated.",
+      "operational_impact": "The incident may cause disruptions to air traffic, particularly in the Indian Ocean region. Cargo and personnel movements may be affected, and there could be increased security screening and protocols for flights and ships passing through the area.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "d81525ef87bc79d0071ef85bcde3d029",
+    "timestamp": "2026-03-21T10:35:31.266663",
+    "original_title": "How Iran's Revolutionary Guards helped Hezbollah prepare for its latest war with Israel",
+    "link": "https://www.france24.com/en/middle-east/20260321-how-iran-revolutionary-guards-helped-hezbollah-prepare-for-its-latest-war-with-israel",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 10,
+      "location": "Lebanon/Israel",
+      "latitude": 33.8667,
+      "longitude": 35.5333,
+      "detailed_analysis": "Iran's Revolutionary Guards are supporting Hezbollah in preparation for a potential war with Israel, indicating heightened tensions and increased risk of conflict in the region, which could impact aviation and cargo operations.",
+      "immediate_forecast_24h": "Escalation of tensions between Hezbollah and Israel, potential for military action or retaliation, and increased security measures at airports and border crossings.",
+      "strategic_outlook": "Prolonged conflict could lead to significant disruptions to regional transportation networks, including aviation and cargo logistics, with potential for spillover into neighboring countries.",
+      "operational_impact": "Potential for flight disruptions, cargo delays, and increased security protocols at airports and border crossings, affecting personnel and asset safety in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Beirut–Rafic Hariri International Airport (3 km)"
+    }
+  },
+  {
+    "id": "13bfeb5e631bf8e7e725f1aa5e9757a5",
+    "timestamp": "2026-03-21T10:35:33.158788",
+    "original_title": "War in Ukraine: Russia drone strike blacks out Chernihiv city",
+    "link": "https://www.france24.com/en/war-in-ukraine-russia-drone-strike-blacks-out-chernihiv-city",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Chernihiv, Ukraine",
+      "latitude": 51.4933,
+      "longitude": 31.2944,
+      "detailed_analysis": "A drone strike by Russia has caused a blackout in Chernihiv city, indicating a significant escalation in the conflict and posing a direct threat to aviation and personnel safety in the region.",
+      "immediate_forecast_24h": "Increased military activity and potential for further drone strikes or aerial attacks, leading to heightened risks for aviation and personnel in the area.",
+      "strategic_outlook": "The ongoing conflict in Ukraine is likely to continue posing significant risks to assets, cargo, aviation, and personnel, with potential for expansion into neighboring regions or escalation of military activities.",
+      "operational_impact": "Transport and logistics operations in and around Ukraine are likely to be severely impacted, with potential for disruptions to supply chains, increased security measures, and heightened risks for personnel and assets.",
+      "proximity_alert": null
+    }
   }
 ]
