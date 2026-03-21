@@ -492,5 +492,62 @@
       "operational_impact": "Potential disruptions to air travel, increased security checks, and potential delays or cancellations of flights and cargo shipments in the region.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "4fc9add28b162c945417878713bef4a6",
+    "timestamp": "2026-03-21T07:38:11.770496",
+    "original_title": "Bill to fund Homeland Security fails again as concern grows about airport lines - ABC11 Raleigh-Durham",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWDR4SmNoeTJkWmxiZWRGRWpBOTNLeVF1bnVkem5mVGNVZkUwWlU3Zm1ZTXVaSDN6OWF1TjkwNFdRSU94SjdCYVJ3cXd3TmVFdmd2c1ctaU1DY3FoaDdpWmh4YTZoMk9ROVZyQkRkaUZ3Z0JOR2dJR2NNLXI1dDZhZ2NoV1JiX1laZGJET09pRVdLOTkzYlF3czNR0gGfAUFVX3lxTFA3V0tSNXpMdjR5TEctTmJHcGpSTEd2RFNiNW84VEhDNVE4OGMtTWIyelJ4bThSeWpsNXppMER3X1QxWkpZcC1RSWxuUnhrMFZkSVUyZWxuVnhUTnFDbFRLcHB5MGZ2dXVHcjk0TEJoU2xoNDFGSC12WTNIR1hOVUFYc2VfeHJHMmxfZEhJYjVKRUJjbGQ0c3FCdWNOMTBwSQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation/Civil Unrest",
+      "risk_score": 6,
+      "location": "Raleigh-Durham, USA",
+      "latitude": 35.7796,
+      "longitude": -78.6382,
+      "detailed_analysis": "The failure to fund Homeland Security may lead to increased wait times at airport security checkpoints, potentially causing disruptions to air travel and logistics. This could have a ripple effect on the entire transportation system, impacting cargo and personnel movement.",
+      "immediate_forecast_24h": "Increased wait times at airport security checkpoints, potential for traveler frustration and disruptions to flight schedules.",
+      "strategic_outlook": "Long-term funding issues for Homeland Security could lead to sustained disruptions in air travel, impacting the economy and national security. Alternative funding solutions or increased efficiency in security screening processes may be necessary to mitigate these risks.",
+      "operational_impact": "Potential delays in cargo and personnel movement, increased costs due to extended wait times, and possible losses due to missed flights or connections.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "83265d949e850b01e665f9dceaed285f",
+    "timestamp": "2026-03-21T07:38:13.696483",
+    "original_title": "Trivy Supply Chain Attack Triggers Self-Spreading CanisterWorm Across 47 npm Packages - The Hacker News",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQc1Q2Z1NMMUkxY1UzV2dGVGZwNmlOQVk2OEFCM3REaVU0RHBnMEZMN2dJUnZkeUQwd2ZXLU53RS1zS1lJQkswTEpyNXZXamQ2Y005eGZvUnMyTzVqcGRxRzQ0QUFVMFM1ako1THJnRjd1NHB2Mm5pUU4yc3hZSnNBOG1maWQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 8,
+      "location": "Global",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "A supply chain attack on Trivy has triggered a self-spreading CanisterWorm across 47 npm packages, posing a significant threat to software supply chains and potentially affecting various industries, including aviation and logistics.",
+      "immediate_forecast_24h": "In the next 24 hours, the worm is likely to continue spreading, potentially compromising more packages and systems, and causing disruptions to operations that rely on affected software.",
+      "strategic_outlook": "In the long term, this attack highlights the need for enhanced security measures in software development and supply chain management, including better vulnerability management, secure coding practices, and continuous monitoring of dependencies.",
+      "operational_impact": "The attack may impact transport and logistics operations that rely on affected software, potentially causing delays, disruptions, or even complete system failures, emphasizing the need for swift mitigation and remediation efforts.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "0a6e73c186b612f2f1f1906eb43bd0a0",
+    "timestamp": "2026-03-21T07:38:15.534749",
+    "original_title": "The Danish military developed detailed plans to blow up airfields in Greenland in the event of a U.S. invasion, two European officials said. - Facebook",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbzlZQkNoYy1NeTZWOFpwZ0VvQndjc1VZUTBEcUtDUEJyNzh5VEwxX2lRZ2dPb1RUUDEwcmUwMVAyN01zRHg0THM5MmlCYnBkMDN4R24wNnhLUEdySzRmdHF5clhRM2J4VERieTdHM1l3UDR2NWp4dkhIbnF4U1NkNGFuVm5XSW51SXFoRG9Ob00xclQ5T25TNFlMaWZNRW1CVk5mWndlMHRiUm5jVFZPVFMxc0VlekttX2ZKQzhFMjdxc3c3bnRLUXV2VTRpak5zeTdz?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Greenland, Denmark",
+      "latitude": 64.5167,
+      "longitude": -51.7333,
+      "detailed_analysis": "The Danish military has developed plans to destroy airfields in Greenland in the event of a U.S. invasion, indicating a potential conflict scenario that could impact aviation and logistics in the region.",
+      "immediate_forecast_24h": "Tensions between Denmark and the U.S. may escalate, potentially leading to increased military activity in the region, but no immediate action is expected within the next 24 hours.",
+      "strategic_outlook": "The long-term implications of this plan could lead to increased military presence in Greenland, potentially disrupting air traffic and logistics in the region, and straining relations between Denmark and the U.S.",
+      "operational_impact": "Potential disruption to air traffic, increased security measures, and possible restrictions on cargo and personnel movement in the region.",
+      "proximity_alert": null
+    }
   }
 ]
