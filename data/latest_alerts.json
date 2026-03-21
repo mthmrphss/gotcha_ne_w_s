@@ -93,5 +93,62 @@
       "operational_impact": "The conflict could lead to operational disruptions, including potential airspace restrictions, increased security checks for cargo and personnel, and possible rerouting of flights and shipments to avoid conflict zones.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "a3bf33b85af75689e9bf598e180f1c36",
+    "timestamp": "2026-03-21T19:31:29.803036",
+    "original_title": "Iran Targeted Diego Garcia Base",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1rzzcyo/iran_targeted_diego_garcia_base/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "Diego Garcia, British Indian Ocean Territory",
+      "latitude": -7.2956,
+      "longitude": 72.3738,
+      "detailed_analysis": "Iran has targeted the Diego Garcia base with ballistic missiles, posing a significant threat to aviation and personnel in the region. The base is a strategic location for military operations, and an attack on it could have far-reaching consequences.",
+      "immediate_forecast_24h": "Increased military presence and heightened security measures are expected in the region. There may be disruptions to air traffic and logistics operations in the short term.",
+      "strategic_outlook": "The long-term implications of this attack could lead to an escalation of tensions between Iran and the US/UK, potentially affecting global aviation and trade. The security of strategic military bases and personnel may be re-evaluated.",
+      "operational_impact": "The attack may impact air traffic control, cargo operations, and personnel safety in the region. Transport and logistics companies may need to reassess their routes and security protocols to mitigate potential risks.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "d5eefbd1c2dc19c0d447eb1b1cdbd103",
+    "timestamp": "2026-03-21T19:31:31.907902",
+    "original_title": "Iran attacks Israel's Dimona nuclear site in retaliation, dozens wounded",
+    "link": "https://www.reddit.com/r/worldnews/comments/1s00epq/iran_attacks_israels_dimona_nuclear_site_in/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 8,
+      "location": "Dimona, Israel",
+      "latitude": 31.0667,
+      "longitude": 35.0167,
+      "detailed_analysis": "Iran's attack on Israel's Dimona nuclear site poses a significant threat to regional stability and global security. The attack has resulted in dozens of wounded, and the situation is volatile.",
+      "immediate_forecast_24h": "Escalation of violence between Iran and Israel is possible, with potential for further attacks on critical infrastructure. Increased military presence and heightened security measures are expected in the region.",
+      "strategic_outlook": "The long-term implications of this attack could lead to a significant escalation of the conflict between Iran and Israel, potentially drawing in other regional actors. This could have far-reaching consequences for global security and the stability of the Middle East.",
+      "operational_impact": "The attack may disrupt air traffic and logistics in the region, particularly if the conflict escalates. Cargo and personnel movement may be restricted, and aviation operations may be impacted due to the increased risk of retaliation or further attacks.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "f0c052ae4d3fcbfb286353ff4f49a605",
+    "timestamp": "2026-03-21T19:31:34.290121",
+    "original_title": "🔴 Iranian missile hit town housing nuclear facility, Israeli army says",
+    "link": "https://www.france24.com/en/middle-east/20260321-middle-east-war-live-trump-mulls-winding-down-iran-war-as-us-sends-thousands-more-marines",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Iranian missile hitting a town housing a nuclear facility poses a significant threat to regional stability and global security, potentially disrupting aviation and cargo operations in the area.",
+      "immediate_forecast_24h": "Increased tensions between Iran and Israel, potential for further military action, and heightened security measures at nearby airports and logistics hubs.",
+      "strategic_outlook": "Long-term escalation of conflict could lead to widespread instability in the region, impacting global supply chains, aviation routes, and personnel safety.",
+      "operational_impact": "Potential disruption to air traffic, cargo shipments, and personnel movements in the region, with possible rerouting of flights and cargo vessels to avoid the affected area.",
+      "proximity_alert": null
+    }
   }
 ]
