@@ -872,5 +872,43 @@
       "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics in the region, with increased security measures and possible restrictions on movement of personnel and assets.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "e168616af380041cc1b404a8119557a1",
+    "timestamp": "2026-03-21T11:50:51.934411",
+    "original_title": "Russian drone attack kills two in Ukraine ahead of talks in US, officials say",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rzp7xy/russian_drone_attack_kills_two_in_ukraine_ahead/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "A Russian drone attack in Ukraine has resulted in two fatalities, occurring ahead of talks in the US. This incident highlights the ongoing conflict and the potential for drone attacks to impact aviation and personnel safety.",
+      "immediate_forecast_24h": "Increased tensions between Russia and Ukraine are expected, with a potential for further drone attacks or military escalations in the region.",
+      "strategic_outlook": "The ongoing conflict in Ukraine poses long-term risks to regional stability, with potential implications for global aviation and logistics. The use of drones in attacks may become a more significant concern for security operations.",
+      "operational_impact": "The drone attack may impact aviation operations in the region, with potential for flight restrictions or increased security measures. Personnel and cargo safety are also at risk due to the conflict.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "6a8d91eadc288221730974268bf8e026",
+    "timestamp": "2026-03-21T11:50:55.387611",
+    "original_title": "Bangladesh - Level 3: Reconsider Travel",
+    "link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/bangladesh-travel-advisory.html",
+    "source_name": "US State Dept",
+    "ai_analysis": {
+      "category": "Crime/Civil Unrest/Terrorism",
+      "risk_score": 10,
+      "location": "Bangladesh",
+      "latitude": 23.8103,
+      "longitude": 90.4125,
+      "detailed_analysis": "The current situation in Bangladesh poses significant threats to assets, cargo, aviation, and personnel due to kidnapping, unrest, crime, and terrorism. The Chittagong Hill Tracts Region is particularly high-risk, with separatist groups and political violence creating an environment conducive to kidnappings, IED explosions, and active shootings.",
+      "immediate_forecast_24h": "In the next 24 hours, the situation is likely to remain volatile, with occasional protests and the potential for violent clashes. U.S. citizens are advised to avoid all gatherings and take necessary precautions to ensure their safety.",
+      "strategic_outlook": "In the long term, the security situation in Bangladesh is likely to remain challenging, with the potential for increased unrest and violence. The U.S. government has limited ability to provide emergency services to U.S. citizens in Bangladesh, particularly outside of Dhaka.",
+      "operational_impact": "The current situation in Bangladesh may impact transport and logistics operations, particularly in the Chittagong Hill Tracts Region. Companies operating in the area should take necessary precautions to ensure the safety of their personnel and assets, including avoiding travel to high-risk areas and taking extra security measures.",
+      "proximity_alert": "YAKIN TEHDİT: Hazrat Shahjalal International Airport (3 km)"
+    }
   }
 ]
