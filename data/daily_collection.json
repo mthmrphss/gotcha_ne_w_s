@@ -815,5 +815,62 @@
       "operational_impact": "Transport and logistics operations in and around Ukraine are likely to be severely impacted, with potential for disruptions to supply chains, increased security measures, and heightened risks for personnel and assets.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "e70404c8d59b93e284a3413f2c66df4a",
+    "timestamp": "2026-03-21T11:29:44.398587",
+    "original_title": "Bill to fund Homeland Security fails again as concern grows about airport lines - KSL NewsRadio",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZEE3bEM0cGtjeWtHcThBQjdLcTl1bXpucEVrRDhheE9tTVJ3dG11MER3N1ZUWk5yOTUxZF9qd2JBdlNpX0RSelI2SEtVWXpOOGQtajl0XzdnOFVHVzk4Z3BCSDM2OHVjTWlXUkhnNHhNd3FlR3B2bFVHMnNPYjJISEswVlAtdklZV29yV1dkcVd1VHplUHIwNkV6dHhkZGZQRnNfUHZqQ0JfX1JBYk9HLTd0TmpwXzNzN3FWeDJfZlRLd1B4cXM2SldkbHZLRnlnWlFzZGdPNVc?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation/Crime",
+      "risk_score": 10,
+      "location": "Washington D.C., USA",
+      "latitude": 38.8951,
+      "longitude": -77.0364,
+      "detailed_analysis": "The failure to fund Homeland Security may lead to increased wait times and reduced security measures at airports, potentially creating vulnerabilities for security breaches or threats to aviation safety.",
+      "immediate_forecast_24h": "Increased wait times and potential security concerns at airports, but no immediate indication of a specific threat.",
+      "strategic_outlook": "Long-term underfunding of Homeland Security could lead to systemic security risks and increased vulnerability to threats, including terrorism and organized crime.",
+      "operational_impact": "Potential delays and disruptions to air travel, with possible increased screening and security protocols to mitigate risks.",
+      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
+    }
+  },
+  {
+    "id": "97c71429d566d51e671ccf03ca57fc78",
+    "timestamp": "2026-03-21T11:29:48.106310",
+    "original_title": "Russia Says Drone Attacks Repelled Near Bashneft Oil Refineries",
+    "link": "https://www.reddit.com/r/worldnews/comments/1rznh1a/russia_says_drone_attacks_repelled_near_bashneft/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 10,
+      "location": "Bashneft, Russia",
+      "latitude": 54.7333,
+      "longitude": 55.9333,
+      "detailed_analysis": "Drone attacks were reportedly repelled near Bashneft oil refineries in Russia, indicating a potential threat to critical infrastructure and aviation security.",
+      "immediate_forecast_24h": "Increased security measures are likely to be implemented in the area, with potential disruptions to oil refinery operations and nearby air traffic.",
+      "strategic_outlook": "The incident highlights the growing concern of drone-based threats to critical infrastructure and the need for enhanced security measures to mitigate such risks.",
+      "operational_impact": "Potential disruptions to oil supply chains, increased security protocols for air traffic and nearby facilities, and heightened vigilance for similar drone-based threats in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Ufa International Airport (20 km)"
+    }
+  },
+  {
+    "id": "1ccad2d3c1218c8aa2cead49a16c03a7",
+    "timestamp": "2026-03-21T11:29:50.636130",
+    "original_title": "US to send more Marines to Middle East as Trump hints at wind-down",
+    "link": "https://www.france24.com/en/us-to-send-more-marines-to-middle-east-as-trump-hints-at-wind-down",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "Middle East",
+      "latitude": 29.4574,
+      "longitude": 47.6466,
+      "detailed_analysis": "The US is sending more Marines to the Middle East amidst escalating war and Iran's threat to expand retaliatory attacks on recreational and tourist sites worldwide, indicating a heightened risk of conflict and potential terrorism targeting aviation and other assets.",
+      "immediate_forecast_24h": "Increased military presence and heightened tensions may lead to further escalation, with potential for attacks on US interests and assets in the region.",
+      "strategic_outlook": "Long-term instability in the region may lead to sustained elevated risk levels, with potential for broader conflict and impact on global security and trade.",
+      "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics in the region, with increased security measures and possible restrictions on movement of personnel and assets.",
+      "proximity_alert": null
+    }
   }
 ]
