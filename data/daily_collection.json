@@ -112,5 +112,43 @@
       "operational_impact": "Potential disruptions to flights, increased security measures, and impact on personnel and cargo operations",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "f30e25ebfda33a3dc748bfef0dc4b636",
+    "timestamp": "2026-03-22T23:35:11.267260",
+    "original_title": "Israel’s Missile Defense Under Scrutiny After Iranian Attack",
+    "link": "https://www.nytimes.com/2026/03/22/world/middleeast/israel-missile-defense-iran.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 8,
+      "location": "Negev Desert, Israel",
+      "latitude": 30.5333,
+      "longitude": 34.7667,
+      "detailed_analysis": "Iranian missile attack on a heavily guarded nuclear site in the Negev Desert, indicating a significant threat to national security and potential disruption to aviation and logistics in the region.",
+      "immediate_forecast_24h": "Heightened security measures are expected in the region, with potential for additional attacks or retaliatory measures, impacting flight operations and ground transportation.",
+      "strategic_outlook": "The incident may escalate tensions between Israel and Iran, potentially leading to a broader conflict that could impact regional stability, aviation, and logistics.",
+      "operational_impact": "Potential disruption to air traffic, increased security checks, and possible restrictions on cargo transport in the region, affecting supply chains and operational efficiency.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "6b359eb08e7ed8cdb98fbf93ba97588c",
+    "timestamp": "2026-03-22T23:35:14.082570",
+    "original_title": "Russia thwarts protests over the blocking of a popular messaging app, but frustration persists",
+    "link": "https://www.reddit.com/r/worldnews/comments/1s10pz4/russia_thwarts_protests_over_the_blocking_of_a/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest/Cyber",
+      "risk_score": 10,
+      "location": "Moscow, Russia",
+      "latitude": 55.7558,
+      "longitude": 37.6176,
+      "detailed_analysis": "The Russian government has blocked a popular messaging app, leading to protests and frustration among citizens. While the event is primarily related to civil unrest and cyber issues, it may have indirect implications for aviation and cargo operations if the situation escalates.",
+      "immediate_forecast_24h": "The protests are likely to continue, but the Russian government is expected to maintain control and prevent major disruptions to critical infrastructure.",
+      "strategic_outlook": "The long-term impact of the messaging app blockage and subsequent protests may lead to increased tensions between Russia and other countries, potentially affecting international trade and aviation.",
+      "operational_impact": "The current situation is unlikely to have a significant direct impact on transport and logistics operations, but airlines and cargo companies should be prepared for potential disruptions if the situation escalates.",
+      "proximity_alert": "YAKIN TEHDİT: Vnukovo International Airport (27 km)"
+    }
   }
 ]
