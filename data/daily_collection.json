@@ -283,5 +283,43 @@
       "operational_impact": "Potential disruption to oil supplies and maritime trade, increased security measures for cargo and aviation operations in the region, possible rerouting of flights and ships to avoid the area.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "02eaeb506d4f2e5c6ba08ebba6cc6bd3",
+    "timestamp": "2026-03-22T06:01:05.224611",
+    "original_title": "36 people remain hospitalized after last night’s missile attack on Dimona and Arad - The Times of Israel",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQT2h4SHpLdHo0Q0hQYWZ3UkJUREZKUXMtNUIxVFNYZkZBazBfMGNYOE04UXVFaWs4a1pmM3NwajFVcTY2bm9zR3JKdDRhNFZfZ0M0eFFZWGQyZ0V6emxMc25TbndjbWFCdnhNenR5TTdkWXFvVlk3R3VEOF9LQU9pQVRBSTRicFlxa3NUUElydm1tQXQtVTdsXy1iUXJDS1B1V2t1S2RVV0p1bEN5ZlhCYklWbWk3dU1kd0p2VmYtZGFKcTdVSEE?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 8,
+      "location": "Dimona and Arad, Israel",
+      "latitude": 31.0679,
+      "longitude": 34.9783,
+      "detailed_analysis": "A missile attack occurred in Dimona and Arad, resulting in 36 people hospitalized, indicating a high level of threat to personnel and potential disruption to local assets and cargo operations.",
+      "immediate_forecast_24h": "Increased security measures are expected in the affected areas, with potential for further attacks or retaliatory actions, impacting local transport and logistics.",
+      "strategic_outlook": "The conflict may escalate, affecting regional stability and potentially disrupting international air travel and cargo shipments, especially those involving Israel or neighboring countries.",
+      "operational_impact": "Transport and logistics operations in the region may be disrupted due to increased security checks, potential airspace restrictions, and heightened tensions, affecting the movement of assets, cargo, and personnel.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "3eadbe86004b66f6ad631cb3fb70037b",
+    "timestamp": "2026-03-22T06:01:08.511448",
+    "original_title": "Iranian Missiles Evade Israel’s Formidable Defenses, Hitting 2 Cities",
+    "link": "https://www.nytimes.com/live/2026/03/21/world/iran-war-oil-trump",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "Dimona, Israel",
+      "latitude": 31.0667,
+      "longitude": 34.9667,
+      "detailed_analysis": "Iranian missiles have struck Dimona and Arad in southern Israel, targeting Israel's nuclear facilities and injuring dozens. This attack demonstrates Iran's capability to evade Israel's defense systems, posing a significant threat to aviation and national security.",
+      "immediate_forecast_24h": "Heightened tensions between Iran and Israel are expected, with potential for retaliatory strikes. Aviation in the region may be impacted by increased military activity and potential missile threats.",
+      "strategic_outlook": "The long-term implications of this attack may include increased military build-up and tensions in the region, potentially disrupting air travel and logistics. The conflict may also have global implications, affecting international relations and security measures.",
+      "operational_impact": "The attack may impact air traffic in the region, with potential for flight disruptions or airspace restrictions. Cargo and logistics operations may also be affected, particularly those related to sensitive or high-risk materials.",
+      "proximity_alert": null
+    }
   }
 ]
