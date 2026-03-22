@@ -929,5 +929,62 @@
       "operational_impact": "Shipping companies and oil tankers may need to take alternative routes or increase security measures, potentially leading to increased costs and delays in cargo transport.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "1296c4bc0f2552338e4c794f58c4392b",
+    "timestamp": "2026-03-22T11:30:17.433790",
+    "original_title": "FBI Warns Russian Hackers Hijacked Signal, WhatsApp Accounts in Global Phishing Campaign",
+    "link": "https://www.reddit.com/r/worldnews/comments/1s0iwzs/fbi_warns_russian_hackers_hijacked_signal/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 7,
+      "location": "Global",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Russian hackers have hijacked Signal and WhatsApp accounts in a global phishing campaign, posing a significant threat to the security of communication systems used by individuals and organizations, including those in the aviation and logistics sectors.",
+      "immediate_forecast_24h": "Increased phishing attempts and potential account hijackings are expected in the next 24 hours, with a high likelihood of sensitive information being compromised.",
+      "strategic_outlook": "The long-term impact of this campaign could lead to a loss of trust in secure communication platforms, potentially disrupting operations and supply chains that rely on these services.",
+      "operational_impact": "Aviation and logistics companies should be on high alert, implementing additional security measures to protect their communication systems and ensuring that employees are aware of the phishing campaign to prevent potential breaches.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "aa9d6eda85eb4e6230088260b6a9430a",
+    "timestamp": "2026-03-22T11:30:19.869053",
+    "original_title": "'Disaster' for Gulf states if Iran targets desalination plants",
+    "link": "https://www.france24.com/en/disaster-for-gulf-states-if-iran-targets-desalination-plants",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 10,
+      "location": "Gulf states",
+      "latitude": 24.4667,
+      "longitude": 54.3667,
+      "detailed_analysis": "Iran has threatened to target key infrastructure in neighboring countries, including desalination plants, in retaliation for potential US action. This poses a significant threat to the Gulf states, which rely heavily on these plants for freshwater.",
+      "immediate_forecast_24h": "Heightened tensions between Iran and the US may lead to increased military presence in the region, potentially disrupting shipping lanes and aviation routes.",
+      "strategic_outlook": "A long-term conflict in the region could have devastating effects on the global economy, particularly in the energy and shipping sectors. The targeting of desalination plants could also lead to a humanitarian crisis in the affected countries.",
+      "operational_impact": "Potential disruptions to shipping and aviation routes, increased security measures, and possible shortages of essential resources such as water and energy.",
+      "proximity_alert": "YAKIN TEHDİT: ABU DHABİ (1 km)"
+    }
+  },
+  {
+    "id": "6a9f57e9fd200e2247446b6f62bedd06",
+    "timestamp": "2026-03-22T11:30:21.538703",
+    "original_title": "The week in pictures: Strikes on Iran, the Oscars and the UEFA Champions League",
+    "link": "https://www.france24.com/en/middle-east/20260322-the-week-in-pictures-strikes-on-iran-oscars-and-the-uefa-champions-league",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 6,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "US and Israeli strikes on Iran pose a significant threat to aviation and personnel in the region, potentially disrupting air travel and logistics.",
+      "immediate_forecast_24h": "Increased military activity and potential retaliation from Iran may lead to further escalation, affecting air traffic and transport in the region.",
+      "strategic_outlook": "Long-term instability in the region may lead to sustained disruptions to air travel, cargo transport, and personnel movement, with potential spillover effects on global logistics and trade.",
+      "operational_impact": "Airlines and logistics operators should exercise caution when operating in the region, with potential rerouting of flights and cargo shipments to avoid areas of conflict.",
+      "proximity_alert": null
+    }
   }
 ]
