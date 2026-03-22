@@ -1,24 +1,5 @@
 [
   {
-    "id": "b50711c802e2cf5002b2606941598e5b",
-    "timestamp": "2026-03-22T14:54:51.429849",
-    "original_title": "Nabatieh under fire: Life inside a war zone in southern Lebanon",
-    "link": "https://www.france24.com/en/nabatieh-under-fire-life-inside-a-war-zone-in-southern-lebanon",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict/Civil Unrest",
-      "risk_score": 8,
-      "location": "Nabatieh, Lebanon",
-      "latitude": 33.3833,
-      "longitude": 35.5,
-      "detailed_analysis": "The city of Nabatieh in southern Lebanon is under constant air strikes, targeting areas linked to Hezbollah. This poses a significant threat to assets, cargo, aviation, and personnel in the region due to the ongoing conflict and potential for further escalation.",
-      "immediate_forecast_24h": "The situation is expected to remain volatile, with continued air strikes and potential for ground fighting, posing an immediate threat to life and safety in the area.",
-      "strategic_outlook": "The long-term outlook for the region remains uncertain, with the potential for further conflict and instability. This could lead to disruptions in supply chains, logistics, and transportation, affecting cargo and personnel movement.",
-      "operational_impact": "The conflict in Nabatieh is likely to impact aviation operations, with potential for flight disruptions or airspace restrictions. Additionally, the safety of personnel and cargo in the region cannot be guaranteed, making it essential to reassess operational plans and consider alternative routes or measures to mitigate risks.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "2fe83f16b9690098f1d2d193e6204b83",
     "timestamp": "2026-03-22T15:33:16.524684",
     "original_title": "All seven on board Qatar military helicopter killed in crash - Al Jazeera",
@@ -73,6 +54,44 @@
       "strategic_outlook": "Long-term escalation of conflict, disruption to global energy markets, and potential for widespread instability in the Middle East.",
       "operational_impact": "Potential disruption to air and sea transport in the region, increased security protocols for cargo and personnel, and heightened risk of attacks on critical infrastructure.",
       "proximity_alert": null
+    }
+  },
+  {
+    "id": "b971f65921b35a29d9b377172ff4bea8",
+    "timestamp": "2026-03-22T16:39:13.642491",
+    "original_title": "Israel strikes main bridge in south Lebanon, orders destruction of homes near border",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1s0q0fj/israel_strikes_main_bridge_in_south_lebanon/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict/Border/Civil Unrest",
+      "risk_score": 8,
+      "location": "South Lebanon, Lebanon",
+      "latitude": 33.1667,
+      "longitude": 35.2167,
+      "detailed_analysis": "The recent strike by Israel on a main bridge in south Lebanon and the order to destroy homes near the border indicates a heightened state of conflict and tension in the region. This could lead to disruptions in cargo transport, aviation, and personnel movement.",
+      "immediate_forecast_24h": "Increased military activity and potential for retaliation from Lebanon or its allies, leading to further escalation of the conflict. There is a high likelihood of disruptions to transport and logistics in the region.",
+      "strategic_outlook": "The long-term view suggests a continued state of instability and conflict in the region, with potential for periodic escalations and disruptions to transport and logistics. This could have a significant impact on the regional economy and global supply chains.",
+      "operational_impact": "The conflict could lead to closures of border crossings, disruption of cargo transport, and increased security measures for aviation and personnel movement. This could result in significant delays and increased costs for logistics and transport operations in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "72da02fdf76848f8d6b9c4479964fc0c",
+    "timestamp": "2026-03-22T16:39:16.094234",
+    "original_title": "Sudan drone attack on key hospital killed 64 people during Eid, WHO says",
+    "link": "https://www.reddit.com/r/worldnews/comments/1s0qcoc/sudan_drone_attack_on_key_hospital_killed_64/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 10,
+      "location": "Sudan",
+      "latitude": 15.6333,
+      "longitude": 32.5333,
+      "detailed_analysis": "A drone attack on a key hospital in Sudan has resulted in the deaths of 64 people, according to the World Health Organization (WHO). The attack occurred during Eid, a significant holiday, and highlights the ongoing conflict and instability in the region.",
+      "immediate_forecast_24h": "Increased tensions and potential for further attacks on civilian targets, including hospitals and other critical infrastructure. Aviation and logistics operations may be impacted due to the heightened security concerns.",
+      "strategic_outlook": "The long-term outlook for the region remains uncertain, with ongoing conflict and instability posing a significant threat to assets, cargo, aviation, and personnel. The use of drones in attacks on civilian targets is a concerning trend that may continue to evolve and pose a threat to regional security.",
+      "operational_impact": "The attack may impact aviation operations in the region, with potential disruptions to flight schedules and increased security measures. Logistics and cargo operations may also be affected, particularly if the conflict escalates or spreads to other areas.",
+      "proximity_alert": "YAKIN TEHDİT: Khartoum International Airport (5 km)"
     }
   }
 ]
