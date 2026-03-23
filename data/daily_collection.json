@@ -150,5 +150,62 @@
       "operational_impact": "The current situation is unlikely to have a significant direct impact on transport and logistics operations, but airlines and cargo companies should be prepared for potential disruptions if the situation escalates.",
       "proximity_alert": "YAKIN TEHDİT: Vnukovo International Airport (27 km)"
     }
+  },
+  {
+    "id": "0d17b3cb42f5e891ffc62c6f32dd4dc0",
+    "timestamp": "2026-03-23T02:52:46.312928",
+    "original_title": "Iran reportedly scales back strikes on Saudi Arabia over fear of retaliation",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1s12xeg/iran_reportedly_scales_back_strikes_on_saudi/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran/Saudi Arabia",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Iran has reportedly scaled back strikes on Saudi Arabia due to fear of retaliation, indicating a potential decrease in conflict but still a significant threat to regional stability and aviation security.",
+      "immediate_forecast_24h": "Reduced likelihood of immediate strikes, but ongoing tensions may lead to unpredictable actions from either side.",
+      "strategic_outlook": "Long-term view suggests continued tensions between Iran and Saudi Arabia, with potential for periodic escalations that could impact aviation and logistics in the region.",
+      "operational_impact": "Potential for increased security measures at airports and borders, possible rerouting of flights, and heightened vigilance for cargo and personnel moving through the region.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "a8900169828683b9ae81438d64cfa924",
+    "timestamp": "2026-03-23T02:52:49.757001",
+    "original_title": "West Bank settler violence surges as Israeli strikes in Gaza kill 4 Palestinians",
+    "link": "https://www.france24.com/en/middle-east/20260322-west-bank-settler-violence-gaza-strikes-palestinians-killed",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 7,
+      "location": "West Bank, Palestine",
+      "latitude": 32.1079,
+      "longitude": 35.3054,
+      "detailed_analysis": "Surge in settler violence and Israeli strikes in Gaza pose significant threats to personnel and assets in the region, with potential for further escalation and impact on local logistics and transport.",
+      "immediate_forecast_24h": "Increased tensions and potential for further clashes between settlers and Palestinians, with possible expansion of Israeli military operations in Gaza.",
+      "strategic_outlook": "Prolonged conflict could lead to long-term instability in the region, affecting aviation, cargo transport, and personnel safety, with potential for broader geopolitical implications.",
+      "operational_impact": "Transport and logistics operations in the West Bank and Gaza Strip may be disrupted or suspended due to the conflict, with potential for damage to infrastructure and assets.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "8dad7105f3c66efeb4099832b8f762cd",
+    "timestamp": "2026-03-23T02:52:51.659107",
+    "original_title": "Iran threatens to cripple Gulf water and energy systems after Trump ultimatum",
+    "link": "https://www.france24.com/en/middle-east/20260322-iran-gulf-water-energy-threat-trump-ultimatum",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 10,
+      "location": "Gulf, Middle East",
+      "latitude": 26.0659,
+      "longitude": 50.5577,
+      "detailed_analysis": "Iran has threatened to target Gulf energy and water infrastructure in response to a potential US strike on its power grid, escalating the conflict in the region. This could lead to disruptions in aviation, cargo, and personnel movements.",
+      "immediate_forecast_24h": "Increased tensions and potential for retaliatory attacks, air raid sirens sounded in Israel after Iranian missile attacks, indicating a heightened state of alert",
+      "strategic_outlook": "Long-term instability in the region could lead to sustained disruptions in global energy markets and trade routes, affecting aviation and cargo operations",
+      "operational_impact": "Potential for disruptions in air traffic, cargo shipments, and personnel movements in the Gulf region, with possible spillover effects on global supply chains",
+      "proximity_alert": "YAKIN TEHDİT: Bahrain International Airport (23 km)"
+    }
   }
 ]
