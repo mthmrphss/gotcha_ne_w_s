@@ -1442,5 +1442,100 @@
       "operational_impact": "The crash and subsequent investigation may cause short-term disruptions to flights and air traffic control operations, potentially affecting cargo and passenger transport.",
       "proximity_alert": "YAKIN TEHDİT: John F. Kennedy (22 km)"
     }
+  },
+  {
+    "id": "62eac287b04ebd955a5d11ee7f2f8e39",
+    "timestamp": "2026-03-24T17:59:58.754538",
+    "original_title": "The U.S. Military Said It Helped Bomb a Drug Camp in Ecuador. It Was a Dairy Farm.",
+    "link": "https://www.nytimes.com/2026/03/24/world/americas/us-ecuador-drug-camp-bombing-dairy-farm.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Crime",
+      "risk_score": 6,
+      "location": "Ecuador",
+      "latitude": -1.831239,
+      "longitude": -78.183401,
+      "detailed_analysis": "The U.S. military's involvement in a bombing operation in Ecuador, mistakenly targeting a dairy farm instead of an armed group's training camp, poses a significant risk to the region's stability and security. This incident may escalate tensions and potentially lead to retaliatory actions, affecting aviation and cargo operations in the area.",
+      "immediate_forecast_24h": "Increased military presence and surveillance in the region, potential for retaliatory attacks or protests, and heightened security measures at airports and border crossings.",
+      "strategic_outlook": "Long-term implications include strained relations between the U.S. and Ecuador, potentially affecting bilateral cooperation on counter-narcotics and counter-terrorism efforts. This may also lead to increased instability in the region, impacting trade and logistics.",
+      "operational_impact": "Potential disruptions to air traffic and cargo transport in the region, increased security screening and inspections, and possible rerouting of flights or cargo shipments to avoid the affected area.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "96ce250a71c6b966b8bed680d41d0eac",
+    "timestamp": "2026-03-24T18:00:02.181484",
+    "original_title": "Pakistan missiles ‘significant threat’ to US: Gabbard",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1s2k13k/pakistan_missiles_significant_threat_to_us_gabbard/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 10,
+      "location": "Pakistan, USA",
+      "latitude": 33.7294,
+      "longitude": 73.0931,
+      "detailed_analysis": "The statement by Gabbard regarding Pakistan missiles being a significant threat to the US indicates a heightened state of tension and potential conflict between the two nations, which could impact aviation and transport logistics.",
+      "immediate_forecast_24h": "Increased diplomatic tensions and potential military posturing between Pakistan and the US, with possible impacts on air travel and cargo transport in the region.",
+      "strategic_outlook": "Long-term escalation of tensions could lead to increased security measures, potential trade restrictions, and heightened surveillance, affecting both personnel and cargo movement.",
+      "operational_impact": "Potential disruption to air traffic, increased security checks for cargo and personnel, and possible rerouting of flights to avoid sensitive airspace.",
+      "proximity_alert": "YAKIN TEHDİT: Islamabad International Airport (4 km)"
+    }
+  },
+  {
+    "id": "552afeb7e2db292a6969114ef905c74f",
+    "timestamp": "2026-03-24T18:00:05.155418",
+    "original_title": "Russian Drones Strike Lviv, Hitting UNESCO Heritage Sites and Residential Building",
+    "link": "https://www.reddit.com/r/worldnews/comments/1s2kw67/russian_drones_strike_lviv_hitting_unesco/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 10,
+      "location": "Lviv, Ukraine",
+      "latitude": 49.8383,
+      "longitude": 24.0232,
+      "detailed_analysis": "Russian drones have struck Lviv, hitting UNESCO heritage sites and residential buildings, indicating a significant escalation in conflict and potential threat to aviation and personnel in the region.",
+      "immediate_forecast_24h": "Increased military activity and potential for further drone strikes in the region, posing a high risk to aviation and personnel.",
+      "strategic_outlook": "Long-term instability and conflict in the region may lead to sustained threats to aviation, cargo, and personnel, with potential for escalation into wider conflict.",
+      "operational_impact": "Transport and logistics operations in the region may be severely impacted, with potential for disruptions to air traffic, cargo transport, and personnel movements.",
+      "proximity_alert": "YAKIN TEHDİT: Lviv Danylo Halytskyi International Airport (5 km)"
+    }
+  },
+  {
+    "id": "d207cb433dee63de7d87d76aefc75856",
+    "timestamp": "2026-03-24T18:00:07.939542",
+    "original_title": "Ghana, European Union agree defence pact",
+    "link": "http://www.africanews.com/2026/03/24/ghana-european-union-agree-defence-pact/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict",
+      "risk_score": 10,
+      "location": "Accra, Ghana",
+      "latitude": 5.6037,
+      "longitude": -0.1869,
+      "detailed_analysis": "The defence pact between Ghana and the European Union aims to strengthen cooperation in counterterrorism, intelligence sharing, and crisis response, which may lead to increased security measures and potential disruptions to transport and logistics in the region.",
+      "immediate_forecast_24h": "No immediate threats are expected, but increased security presence and cooperation may lead to enhanced screening and inspections, potentially causing minor delays.",
+      "strategic_outlook": "The agreement may lead to a long-term reduction in terrorism and crime in the region, resulting in a safer environment for transport and logistics, but may also lead to increased tensions with neighboring countries or groups opposed to the agreement.",
+      "operational_impact": "Potential for increased security checks and inspections, minor delays, and enhanced cooperation between Ghanaian and EU authorities, which may impact cargo and personnel movement in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Kotoka International Airport (2 km)"
+    }
+  },
+  {
+    "id": "e770cc3ccccddda52a34821640b3f010",
+    "timestamp": "2026-03-24T18:00:13.047118",
+    "original_title": "Qatar Says Recent Iranian Attacks Had a ‘Direct and Tangible’ Impact On Planned Resumption Of Flights",
+    "link": "https://www.paddleyourownkanoo.com/2026/03/24/qatar-says-recent-iranian-attacks-had-a-direct-and-tangible-impact-on-planned-resumption-of-flights/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 10,
+      "location": "Qatar, Persian Gulf",
+      "latitude": 25.276987,
+      "longitude": 51.533572,
+      "detailed_analysis": "Recent Iranian drone and missile attacks have had a direct impact on the planned resumption of flights in Qatar, posing a significant risk to commercial air travel due to the potential for misidentification by air defense systems.",
+      "immediate_forecast_24h": "Increased vigilance and caution are expected in the region's airspace, with potential disruptions to flight schedules and routes.",
+      "strategic_outlook": "The ongoing tensions between Qatar and Iran may lead to a prolonged period of elevated risk for aviation in the region, necessitating enhanced security measures and contingency planning.",
+      "operational_impact": "Qatar Airways and other airlines operating in the region may need to reassess their flight plans, consider alternative routes, and implement additional security protocols to mitigate the risks associated with Iranian drone and missile attacks.",
+      "proximity_alert": "YAKIN TEHDİT: Hamad International Airport (7 km)"
+    }
   }
 ]
