@@ -1,24 +1,5 @@
 [
   {
-    "id": "0a8b5014168538108316b042a25ebb31",
-    "timestamp": "2026-03-25T21:03:42.389521",
-    "original_title": "'Difficult of overemphasise how risky it would be for the US' to put boots on the ground: expert",
-    "link": "https://www.france24.com/en/difficult-of-overemphasise-how-risky-it-would-be-for-the-us-to-put-boots-on-the-ground-expert",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 8,
-      "location": "Middle East",
-      "latitude": 29.4574,
-      "longitude": 47.6466,
-      "detailed_analysis": "The potential deployment of thousands of US soldiers to the Middle East poses significant risks, including escalation of conflict, geopolitical tensions, and potential threats to US military personnel and assets.",
-      "immediate_forecast_24h": "Increased military activity and heightened tensions in the region are expected, with potential for clashes or incidents involving US troops.",
-      "strategic_outlook": "Long-term deployment of US troops in the Middle East could lead to sustained conflict, instability, and potential for terrorist attacks or other security threats against US interests and personnel.",
-      "operational_impact": "Potential disruptions to aviation and logistics operations in the region, including increased security measures, airspace restrictions, and potential for attacks on transport infrastructure or personnel.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "ae42c6545e576f3c3a8f3c6abe78601e",
     "timestamp": "2026-03-25T22:03:30.668917",
     "original_title": "Deadly plane crash at New York’s LaGuardia Airport - NBC News",
@@ -111,6 +92,44 @@
       "strategic_outlook": "Long-term, increased scrutiny of financial transactions and potential organized crime activity may lead to enhanced security measures at airports and logistics hubs.",
       "operational_impact": "Minimal to no operational impact expected on transport and logistics due to this incident.",
       "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (2 km)"
+    }
+  },
+  {
+    "id": "c7017507c2b423d3bee3315f0896a7a1",
+    "timestamp": "2026-03-25T23:04:36.326286",
+    "original_title": "Iran War Live Updates: Tehran Dismisses U.S. Cease-Fire Conditions as Israel Orders 48 Hours of Attacks",
+    "link": "https://www.nytimes.com/live/2026/03/25/world/iran-war-trump-oil-news",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The conflict between Iran and Israel poses a significant threat to aviation and cargo operations in the region. Israel's plans to ramp up attacks and Iran's demand for reparations indicate an escalation of the conflict, which could lead to disruptions in air traffic and logistics.",
+      "immediate_forecast_24h": "Increased military activity and potential airstrikes in the region, posing a risk to civilian aircraft and cargo operations. There is also a risk of retaliatory attacks against Israeli or US interests in the region.",
+      "strategic_outlook": "The conflict has the potential to destabilize the region, leading to long-term disruptions in air traffic and logistics. The situation could also lead to a wider conflict, involving other countries in the region.",
+      "operational_impact": "Airlines and cargo operators should exercise extreme caution when operating in the region, and consider rerouting flights or suspending operations until the situation stabilizes. There is also a risk of supply chain disruptions, particularly for cargo shipments originating from or destined for the region.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "423d4ab4b368f88557f61463c4c149e0",
+    "timestamp": "2026-03-25T23:04:40.160694",
+    "original_title": "US ties Ukraine security guarantees to Donbas withdrawal, Zelensky says",
+    "link": "https://www.france24.com/en/europe/20260325-us-ties-ukraine-security-guarantees-to-donbas-withdrawal",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Donbas, Ukraine",
+      "latitude": 48.0,
+      "longitude": 37.0,
+      "detailed_analysis": "The US conditioning post-war security guarantees on Kyiv ceding the Russian-occupied Donbas may lead to increased tensions and conflict in the region, potentially affecting aviation and cargo operations.",
+      "immediate_forecast_24h": "Uncertainty over future US support and potential escalation of conflict in the Donbas region may impact transport and logistics operations in the short term.",
+      "strategic_outlook": "A prolonged conflict in the region could lead to long-term instability, affecting trade and economic activities, and potentially emboldening Moscow to take further action.",
+      "operational_impact": "Potential disruptions to cargo and aviation operations, increased security measures, and possible restrictions on personnel movement in the region.",
+      "proximity_alert": null
     }
   }
 ]
