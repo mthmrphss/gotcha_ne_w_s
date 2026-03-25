@@ -416,5 +416,62 @@
       "operational_impact": "Potential disruptions to air traffic, cargo shipments, and personnel movements in the region. Enhanced security measures may be necessary to mitigate the risks associated with the conflict.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "0d5e815532b61e112a4ceca66e8d6f43",
+    "timestamp": "2026-03-25T06:40:11.957335",
+    "original_title": "Pentagon Orders 2,000 Airborne Troops to Middle East",
+    "link": "https://www.nytimes.com/live/2026/03/24/world/iran-war-trump-oil",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Middle East",
+      "latitude": 29.9116,
+      "longitude": 47.0612,
+      "detailed_analysis": "The deployment of 2,000 airborne troops to the Middle East could escalate tensions and increase the risk of conflict, potentially impacting aviation and logistics in the region.",
+      "immediate_forecast_24h": "Increased military presence may lead to heightened security measures, potentially disrupting air travel and cargo operations in the region.",
+      "strategic_outlook": "The long-term implications of this deployment could lead to a prolonged period of instability, affecting the security and efficiency of transport and logistics in the Middle East.",
+      "operational_impact": "Potential disruptions to air travel, increased security checks, and possible restrictions on cargo movements may impact operational efficiency and safety in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "8d40655645787e5d4b82fda8f08a47a9",
+    "timestamp": "2026-03-25T06:40:21.630012",
+    "original_title": "Iran rejects Trump's talk of negotiation as Israel and Iran launch airstrikes",
+    "link": "https://www.reddit.com/r/worldnews/comments/1s330pc/iran_rejects_trumps_talk_of_negotiation_as_israel/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Iran has rejected Trump's talk of negotiation, and both Israel and Iran have launched airstrikes, indicating a significant escalation in conflict. This situation poses a high risk to aviation, with potential for further airstrikes or retaliation.",
+      "immediate_forecast_24h": "Increased tensions and potential for further military action between Israel and Iran, with possible expansion to other countries in the region.",
+      "strategic_outlook": "Long-term instability in the region, potentially leading to increased security measures for aviation and logistics, as well as heightened risk of terrorism and conflict.",
+      "operational_impact": "Potential disruptions to air traffic, increased security screening, and possible restrictions on cargo transport to and from the region.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "21556b0c562d0099c2926e52b20a55ab",
+    "timestamp": "2026-03-25T06:40:23.347782",
+    "original_title": "Iranian military mocks Trump’s claim of US-Iran negotiations",
+    "link": "https://www.reddit.com/r/worldnews/comments/1s31zlt/iranian_military_mocks_trumps_claim_of_usiran/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The Iranian military's public dismissal of US claims of negotiations could escalate tensions between the two nations, potentially affecting regional stability and aviation security.",
+      "immediate_forecast_24h": "Increased rhetoric and posturing between the US and Iran, with potential for minor incidents or skirmishes in contested areas.",
+      "strategic_outlook": "Prolonged tensions could lead to increased military presence in the region, impacting air traffic and cargo shipments, as well as heightened security measures for personnel and assets.",
+      "operational_impact": "Potential for flight restrictions, cargo delays, or increased security protocols for aviation and logistics operations in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
   }
 ]
