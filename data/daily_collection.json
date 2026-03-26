@@ -644,5 +644,62 @@
       "operational_impact": "The passenger cap is likely to impact airline operations, passenger travel plans, and cargo transport, with potential knock-on effects on the broader logistics and supply chain in the region.",
       "proximity_alert": "YAKIN TEHDİT: Ben Gurion International Airport (13 km)"
     }
+  },
+  {
+    "id": "9a8dbd1d69377b6f6b26b38e2c16194a",
+    "timestamp": "2026-03-26T12:08:29.569205",
+    "original_title": "Russian forces attack Slobidskyi district of Kharkiv, injure 10 people",
+    "link": "https://www.reddit.com/r/worldnews/comments/1s45mpp/russian_forces_attack_slobidskyi_district_of/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Kharkiv, Ukraine",
+      "latitude": 49.9935,
+      "longitude": 36.2304,
+      "detailed_analysis": "Russian forces have attacked the Slobidskyi district of Kharkiv, resulting in 10 injuries. This incident indicates an escalation of conflict in the region, posing a significant threat to personnel and potentially disrupting logistics and transport operations.",
+      "immediate_forecast_24h": "Further clashes and attacks are likely in the short term, potentially leading to increased instability and disruption of transport routes.",
+      "strategic_outlook": "The ongoing conflict in Ukraine is expected to continue, with potential long-term implications for regional stability, trade, and transport security.",
+      "operational_impact": "The attack may impact transport and logistics operations in the region, particularly those involving personnel and cargo movement. Aviation operations may also be affected due to potential airspace restrictions or security concerns.",
+      "proximity_alert": "YAKIN TEHDİT: Kharkiv International Airport (8 km)"
+    }
+  },
+  {
+    "id": "c19355cc6ae7bb110fff53cee08f5b6f",
+    "timestamp": "2026-03-26T12:08:31.691661",
+    "original_title": "A Torpedo in the Trade Lanes: Naval Warfare Returns to the Indo-Pacific",
+    "link": "https://warontherocks.com/2026/03/a-torpedo-in-the-trade-lanes-naval-warfare-returns-to-the-indo-pacific/",
+    "source_name": "War on the Rocks",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Indian Ocean, off Sri Lanka",
+      "latitude": 5.9343,
+      "longitude": 80.7627,
+      "detailed_analysis": "A U.S. submarine sank an Iranian warship in the Indian Ocean, highlighting the return of naval warfare to the Indo-Pacific region and posing a significant threat to maritime trade and security.",
+      "immediate_forecast_24h": "Increased naval presence and tensions in the region, potential for further incidents or miscalculations.",
+      "strategic_outlook": "Long-term escalation of naval warfare in the Indo-Pacific, potentially disrupting global trade and shipping lanes.",
+      "operational_impact": "Potential delays or disruptions to maritime cargo transport, increased security measures for ships and personnel, and heightened risk of conflict-related incidents.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "cd1f0d2d3c6a61f422bc76d28b42d504",
+    "timestamp": "2026-03-26T12:08:34.067737",
+    "original_title": "WTO members gather in Yaounde amid deep divisions and calls for reform",
+    "link": "http://www.africanews.com/2026/03/26/wto-members-gather-in-yaounde-amid-deep-divisions-and-calls-for-reform/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest/Other",
+      "risk_score": 10,
+      "location": "Yaounde, Cameroon",
+      "latitude": 3.8667,
+      "longitude": 11.5167,
+      "detailed_analysis": "The World Trade Organization ministerial conference in Yaounde, Cameroon, is marked by deep divisions among its 166 members, with geopolitical tensions, protectionism, and the Middle East war affecting global trade. While there are no direct threats to assets, cargo, aviation, or personnel mentioned, the conference's outcome could indirectly influence trade policies and stability.",
+      "immediate_forecast_24h": "The conference is expected to continue with intense negotiations, but no immediate security threats are anticipated in the next 24 hours.",
+      "strategic_outlook": "The long-term implications of the conference's outcome could lead to changes in global trade policies, potentially affecting the stability and security of assets, cargo, aviation, and personnel in the region.",
+      "operational_impact": "The conference's outcome may influence trade routes, logistics, and supply chains, but no immediate operational disruptions are expected.",
+      "proximity_alert": "YAKIN TEHDİT: Yaoundé Nsimalen International Airport (0 km)"
+    }
   }
 ]
