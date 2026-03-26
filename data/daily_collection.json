@@ -1,1 +1,59 @@
-[]
+[
+  {
+    "id": "0b8f9acb5edf53b0403e56bdef466d18",
+    "timestamp": "2026-03-26T20:43:48.030702",
+    "original_title": "Iran War Live Updates: Trump Again Gives Iran More Time to Reopen Strait of Hormuz",
+    "link": "https://www.nytimes.com/live/2026/03/26/world/iran-war-israel-trump-oil",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Strait of Hormuz, Iran",
+      "latitude": 26.0,
+      "longitude": 56.0,
+      "detailed_analysis": "The threat of strikes by the US on Iran's power plants if the Strait of Hormuz is not reopened poses a significant risk to maritime transport and global oil supply. The deadline extension to April 6 indicates a temporary reprieve but does not diminish the underlying tensions.",
+      "immediate_forecast_24h": "Heightened tensions and increased military presence in the region are expected, with potential for miscalculations or accidental clashes. Oil tankers and other vessels may exercise caution or reroute.",
+      "strategic_outlook": "A prolonged closure of the Strait of Hormuz could lead to significant economic and geopolitical repercussions, including increased oil prices and potential for further conflict escalation in the region.",
+      "operational_impact": "Shipping and logistics companies should prepare for potential disruptions, including increased transit times, higher insurance premiums, and possible rerouting of cargo. Aviation may also be impacted due to increased military activity in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "2d32ee015b9656bd4b2974569f62c44e",
+    "timestamp": "2026-03-26T20:43:50.911458",
+    "original_title": "Zelensky visits Saudi Arabia after offering Ukraine's drone expertise",
+    "link": "https://www.reddit.com/r/worldnews/comments/1s4j3xd/zelensky_visits_saudi_arabia_after_offering/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 10,
+      "location": "Riyadh, Saudi Arabia",
+      "latitude": 24.7136,
+      "longitude": 46.6753,
+      "detailed_analysis": "Ukrainian President Zelensky's visit to Saudi Arabia after offering Ukraine's drone expertise may pose a risk to aviation security, particularly if the expertise is used to enhance military capabilities. This could lead to increased tensions in the region and potentially impact air travel.",
+      "immediate_forecast_24h": "Heightened security measures are expected at airports and airspaces in the region, with potential for increased surveillance and monitoring of drone activity.",
+      "strategic_outlook": "The long-term implications of Ukraine's drone expertise being shared with Saudi Arabia could lead to a shift in the regional balance of power, potentially impacting global aviation security and logistics.",
+      "operational_impact": "Air cargo and passenger flights may experience delays or disruptions due to increased security measures, and logistics operations may need to adapt to new regulations or protocols.",
+      "proximity_alert": "YAKIN TEHDİT: King Khalid International Airport (27 km)"
+    }
+  },
+  {
+    "id": "8f86637d501faa3404798621ce75ea81",
+    "timestamp": "2026-03-26T20:43:53.652215",
+    "original_title": "Israeli strike kills Iran's navy commander Alireza Tangsiri",
+    "link": "https://www.france24.com/en/middle-east/20260326-israeli-strike-kills-iran-navy-commander-alireza-tangsiri",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Israel/Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The killing of Iran's navy commander Alireza Tangsiri by an Israeli air strike increases tensions between the two nations and may lead to retaliatory actions, potentially affecting aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Heightened alertness and potential for retaliatory strikes or increased military presence in the region, which may impact air traffic and shipping lanes.",
+      "strategic_outlook": "Escalation of conflict between Israel and Iran could lead to a broader regional conflict, affecting global oil prices, air travel, and cargo shipments, with potential long-term implications for regional stability and security.",
+      "operational_impact": "Possible disruptions to air traffic and shipping in the region, increased security measures for aviation and cargo operations, and potential for delays or cancellations of flights and shipments.",
+      "proximity_alert": null
+    }
+  }
+]
