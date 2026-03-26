@@ -758,5 +758,81 @@
       "operational_impact": "Minimal direct impact on transport/logistics operations, but potential for indirect effects on Air Canada's operations and reputation",
       "proximity_alert": "YAKIN TEHDİT: John F. Kennedy (22 km)"
     }
+  },
+  {
+    "id": "56e27207dc8189aa24bb2c548b6140dd",
+    "timestamp": "2026-03-26T15:51:26.703185",
+    "original_title": "Iran War Live Updates: Trump Mixes Diplomacy and Threats in Effort to Pressure Iran",
+    "link": "https://www.nytimes.com/live/2026/03/26/world/iran-war-israel-trump-oil",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "Strait of Hormuz, Middle East",
+      "latitude": 26.0,
+      "longitude": 56.0,
+      "detailed_analysis": "The situation in the Strait of Hormuz has escalated with the killing of an Iranian naval commander, indicating heightened tensions between Iran and Israel, potentially drawing in the US. This could lead to increased risk of attacks on aviation and cargo vessels.",
+      "immediate_forecast_24h": "Increased military presence and heightened alertness in the region, potential for retaliatory strikes from Iran.",
+      "strategic_outlook": "Long-term instability in the region could lead to sustained elevated risk for aviation and cargo, potentially disrupting global supply chains.",
+      "operational_impact": "Shipping and aviation companies should exercise extreme caution when navigating the Strait of Hormuz, consider rerouting or delaying transport to avoid potential conflict zones.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "5d383c79a6bbfa2354eabb6b26ed4bd7",
+    "timestamp": "2026-03-26T15:51:29.816534",
+    "original_title": "Iranian naval commander Alireza Tangsiri killed in attack, Israel says",
+    "link": "https://www.reddit.com/r/worldnews/comments/1s4apnu/iranian_naval_commander_alireza_tangsiri_killed/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The killing of Iranian naval commander Alireza Tangsiri in an attack attributed to Israel poses a significant escalation in tensions between the two nations, potentially impacting regional stability and maritime security.",
+      "immediate_forecast_24h": "Heightened tensions and potential retaliatory actions from Iran, affecting shipping lanes and aviation routes in the region.",
+      "strategic_outlook": "Long-term implications include increased military presence, potential blockades, and heightened security measures for assets, cargo, and personnel in the region.",
+      "operational_impact": "Possible disruptions to maritime trade, increased security protocols for vessels and aircraft, and heightened vigilance for potential attacks on transport infrastructure.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "0ca9a8de47424e4666fa54c1dda8cef2",
+    "timestamp": "2026-03-26T15:51:32.133729",
+    "original_title": "European Parliament backs controversial migrant ‘Return Hubs’",
+    "link": "http://www.africanews.com/2026/03/26/european-parliament-backs-controversial-migrant-return-hubs/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Border/Civil Unrest",
+      "risk_score": 10,
+      "location": "European Union",
+      "latitude": 50.8467,
+      "longitude": 4.3522,
+      "detailed_analysis": "The European Parliament's approval of plans for offshore detention centres and tougher penalties on irregular migrants may lead to increased tensions and potential unrest at border crossings and transport hubs, affecting the movement of assets, cargo, and personnel.",
+      "immediate_forecast_24h": "Protests or demonstrations may occur at key border points or transport hubs in response to the new policies, potentially causing disruptions to logistics and transport operations.",
+      "strategic_outlook": "The implementation of these policies may lead to a shift in migrant routes and methods, potentially increasing the risk of stowaways or border breaches affecting transport in the long term.",
+      "operational_impact": "Transport and logistics operators should be prepared for potential disruptions at border crossings and hubs, and consider alternative routes or enhanced security measures to mitigate the risks associated with the new migrant policies.",
+      "proximity_alert": "YAKIN TEHDİT: SHERATON AIRPORT (0 km)"
+    }
+  },
+  {
+    "id": "d487822796bb7a5290595979fb4bd7eb",
+    "timestamp": "2026-03-26T15:51:35.530651",
+    "original_title": "Air Canada CEO Apologizes For Lack of French Language Skills But Refuses to Resign Over ‘Insulting’ Crash Video Message",
+    "link": "https://www.paddleyourownkanoo.com/2026/03/26/air-canada-ceo-apoligizes-for-lack-of-french-language-skills-but-refuses-to-resign-over-insulting-crash-video-message/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "LaGuardia Airport, USA",
+      "latitude": 40.7769,
+      "longitude": -73.874,
+      "detailed_analysis": "Air Canada Express regional jet fatal crash at LaGuardia Airport, CEO's response to the incident has sparked controversy due to lack of French language skills in the video message",
+      "immediate_forecast_24h": "Potential for increased scrutiny of Air Canada's crisis management and communication protocols, possible protests or backlash from French-speaking communities",
+      "strategic_outlook": "Long-term implications for Air Canada's reputation and relationships with French-speaking stakeholders, potential review of language policies and crisis management procedures",
+      "operational_impact": "Minimal direct impact on transport/logistics operations, but potential for indirect effects on Air Canada's operations and reputation",
+      "proximity_alert": "YAKIN TEHDİT: John F. Kennedy (22 km)"
+    }
   }
 ]
