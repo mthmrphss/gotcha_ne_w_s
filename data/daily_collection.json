@@ -169,5 +169,62 @@
       "operational_impact": "Potential disruption to logistics and transport in the region, increased risk to personnel and assets, and possible restrictions on air travel or cargo shipments.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "995c69357cce8a1d41338ebf435bfd98",
+    "timestamp": "2026-03-26T23:38:48.607937",
+    "original_title": "Military helicopter crossed in front of SF United flight approaching SoCal airport: FAA - ABC7 San Francisco",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSzBMN1ZWVWI1SVFGT3hndW5UVUpxcHRtd0pYb0lzU3IzdzdmTnAtdmMzeFZ3SkpOdGV3TGNkcWtKYW42ZTFTeXo1OEVvdkV1bGJCRXRrMnRMOU5vRTJ4S3pKbWFyb1BXYnVGdGlFRzd1UXFRY0hic2tlLUpNWmlXQUU3VldpcW94cEpFQTg5VDU4dHptbTQxMThZZy1KU0JLYXB3T3JLbTZsWGpMSllMdVNOVElOUXZMRjlzZ0t1ejJKakRKRXV2bXRmcWQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "SoCal, USA",
+      "latitude": 33.9425,
+      "longitude": -118.4081,
+      "detailed_analysis": "A military helicopter crossed in front of a United flight approaching a SoCal airport, posing a potential risk to aviation safety and security.",
+      "immediate_forecast_24h": "Increased air traffic control vigilance and possible investigations into the incident are expected in the next 24 hours.",
+      "strategic_outlook": "This incident highlights the need for improved communication and coordination between military and civilian air traffic control to prevent such incidents in the future.",
+      "operational_impact": "The incident may cause minor disruptions to air traffic, but it is not expected to have a significant impact on overall transport and logistics operations.",
+      "proximity_alert": "YAKIN TEHDİT: Los Angeles International Airport (1 km)"
+    }
+  },
+  {
+    "id": "63b149f64a6e1590ff0664fa142824cf",
+    "timestamp": "2026-03-26T23:38:51.892861",
+    "original_title": "‘Return hubs’ for migrants clear EU Parliament hurdle",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1s4n2aw/return_hubs_for_migrants_clear_eu_parliament/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Border",
+      "risk_score": 10,
+      "location": "European Union",
+      "latitude": 50.8467,
+      "longitude": 4.3527,
+      "detailed_analysis": "The establishment of 'return hubs' for migrants has cleared the EU Parliament hurdle, which may lead to increased security measures at border crossings and potential disruptions to transport and logistics.",
+      "immediate_forecast_24h": "No immediate disruptions expected, but increased security presence at border crossings may cause minor delays.",
+      "strategic_outlook": "Long-term, the implementation of 'return hubs' may lead to a reduction in migrant-related security threats, but may also lead to increased tensions and potential unrest at border crossings.",
+      "operational_impact": "Transport and logistics operations may experience minor disruptions due to increased security measures, but overall impact is expected to be minimal.",
+      "proximity_alert": "YAKIN TEHDİT: SHERATON AIRPORT (0 km)"
+    }
+  },
+  {
+    "id": "bbbd9c876f0f4f2a1fcf19be28efcb86",
+    "timestamp": "2026-03-26T23:38:53.941054",
+    "original_title": "Philippines declares energy emergency as Asia embraces fuel austerity | CNN",
+    "link": "https://www.reddit.com/r/worldnews/comments/1s4ng5u/philippines_declares_energy_emergency_as_asia/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Other",
+      "risk_score": 10,
+      "location": "Manila, Philippines",
+      "latitude": 14.5833,
+      "longitude": 121.0,
+      "detailed_analysis": "The Philippines has declared an energy emergency due to fuel austerity measures in Asia, which may lead to potential disruptions in transportation and logistics, but does not pose a direct threat to assets, cargo, aviation, or personnel.",
+      "immediate_forecast_24h": "Short-term fuel shortages and increased prices are expected, potentially causing delays in transportation and logistics.",
+      "strategic_outlook": "In the long term, the energy emergency may lead to increased investment in renewable energy sources and more efficient fuel management, reducing the risk of future disruptions.",
+      "operational_impact": "Transportation and logistics operations may be affected by fuel shortages and price increases, but the impact is expected to be minimal, and alternative arrangements can be made to mitigate the effects.",
+      "proximity_alert": "YAKIN TEHDİT: Ninoy Aquino International Airport (8 km)"
+    }
   }
 ]
