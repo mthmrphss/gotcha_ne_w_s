@@ -207,5 +207,62 @@
       "operational_impact": "Potential disruption to air traffic and cargo operations, increased risk of collateral damage to civilian infrastructure, and heightened security measures at airports and logistics hubs. Operators should exercise extreme caution and consider alternative routes or modes of transport to mitigate the risks.",
       "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
     }
+  },
+  {
+    "id": "a2b29e041318fcf19292a70196fabfc1",
+    "timestamp": "2026-03-26T05:43:49.735061",
+    "original_title": "Tehran Dismisses U.S. Cease-Fire Conditions as Israel Steps Up Attacks",
+    "link": "https://www.nytimes.com/live/2026/03/25/world/iran-war-trump-oil-news",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The conflict between Iran and Israel is escalating, with Israel planning to ramp up its attacks. This could lead to increased instability in the region, potentially affecting aviation and cargo operations.",
+      "immediate_forecast_24h": "Increased military activity and potential airstrikes in the region, posing a risk to aviation and cargo operations.",
+      "strategic_outlook": "Long-term escalation of the conflict could lead to significant disruptions to regional trade and transportation, with potential spillover effects on global markets.",
+      "operational_impact": "Potential disruptions to air traffic, increased security measures, and possible restrictions on cargo shipments in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "d3434810bfe7c74e9da387f5b5cd3a13",
+    "timestamp": "2026-03-26T05:43:52.344072",
+    "original_title": "UK authorises military to board Russian shadow fleet tankers",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1s3xin0/uk_authorises_military_to_board_russian_shadow/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "International Waters, UK",
+      "latitude": 51.5074,
+      "longitude": 0.1278,
+      "detailed_analysis": "The UK has authorized its military to board Russian shadow fleet tankers, indicating a heightened state of tension between the two nations. This move could potentially disrupt global oil supplies and lead to further escalation in the conflict.",
+      "immediate_forecast_24h": "Increased military presence in international waters, potential for interceptions or boardings of Russian tankers, and heightened alertness among naval vessels in the region.",
+      "strategic_outlook": "Long-term implications could include increased sanctions, trade restrictions, and a heightened risk of miscalculation or accidental conflict between the UK and Russian militaries.",
+      "operational_impact": "Potential disruptions to global oil supplies, increased costs for shipping and insurance, and heightened security measures for vessels operating in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "956c629f8b19db4bdd4bcdd2abeeb019",
+    "timestamp": "2026-03-26T05:43:54.601007",
+    "original_title": "Merz Flags Taurus Missiles Redundant Amid Ukraine’s Weapons Breakthrough",
+    "link": "https://www.reddit.com/r/worldnews/comments/1s3yuy2/merz_flags_taurus_missiles_redundant_amid/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 6,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "The news indicates that Ukraine has made a significant breakthrough in weapons development, rendering Taurus missiles redundant. This could potentially impact the balance of power in the region and affect aviation and logistics operations.",
+      "immediate_forecast_24h": "Increased tensions and potential escalation of conflict in the region, with possible impacts on air traffic and cargo transport.",
+      "strategic_outlook": "Long-term implications for the regional balance of power and potential shifts in military strategies, which could affect aviation and logistics operations in the area.",
+      "operational_impact": "Potential disruptions to air traffic and cargo transport in the region, with possible increased security measures and restrictions on aviation operations.",
+      "proximity_alert": null
+    }
   }
 ]
