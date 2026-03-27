@@ -872,5 +872,81 @@
       "operational_impact": "The conflict may lead to increased security measures and potential disruptions to air travel and cargo operations in the region, with possible knock-on effects for global supply chains.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "670c2b2f1cb7721bc66284c74c74bcbb",
+    "timestamp": "2026-03-27T12:04:41.537930",
+    "original_title": "AP is calling Israel's attack on Lebanon an invasion. What does that mean and why does it matter? - AP News",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcm5FWFVNdUpIVlN3ZWpOUWc2TXV4ZGxwM0pLbjJHV3E2bzR3MnNyRGwyeHNQR1FpOEZPZGY1Q3VIWGNNM1dPbmw0SS14Y0YyTWREaUZvTzVqa1d4NTlyRGZzZmZucGdESEJKUWNtcUJwekpHaGVMVFhjUlNlUUg3aHE2X1ZaYXFsdXI2c1g5MWNXT054aXJlYmJTME0tZEUtM0xj?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "Lebanon/Israel",
+      "latitude": 33.8667,
+      "longitude": 35.8333,
+      "detailed_analysis": "The situation between Israel and Lebanon has escalated, with AP referring to Israel's actions as an invasion. This indicates a significant increase in tensions and potential for further conflict, which could impact aviation, cargo, and personnel in the region.",
+      "immediate_forecast_24h": "Increased military activity, potential for airstrikes or ground incursions, and heightened security measures are expected in the short term. This could lead to disruptions in air travel, cargo transport, and personnel movements.",
+      "strategic_outlook": "The long-term implications of this conflict could include a prolonged period of instability in the region, affecting trade, tourism, and economic development. The conflict may also draw in other regional or international actors, further complicating the situation.",
+      "operational_impact": "Transport and logistics operations in the region may be severely impacted, with potential for airspace closures, port disruptions, and ground transport restrictions. Personnel in the area should exercise extreme caution, and contingency plans should be put in place for emergency evacuations or operational adjustments.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "ccf211e0b6675c8afb71974bc14c5aee",
+    "timestamp": "2026-03-27T12:04:45.133713",
+    "original_title": "More B-1s arrive in UK to put bomber force for Iran ops at 21",
+    "link": "https://www.reddit.com/r/worldnews/comments/1s525d2/more_b1s_arrive_in_uk_to_put_bomber_force_for/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 8,
+      "location": "United Kingdom",
+      "latitude": 54.7589,
+      "longitude": -4.5729,
+      "detailed_analysis": "The deployment of additional B-1 bombers to the UK increases the military presence in the region, potentially escalating tensions with Iran. This could lead to increased risk of conflict, affecting aviation and logistics in the area.",
+      "immediate_forecast_24h": "Heightened military activity and increased surveillance in the region, potential for Iranian retaliation or provocation.",
+      "strategic_outlook": "Long-term escalation of tensions between the US and Iran could lead to increased instability in the region, affecting global aviation and logistics.",
+      "operational_impact": "Potential disruption to air traffic and logistics in the region, increased security measures for aviation and cargo operations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "178b0b312585715514b088d155b88b44",
+    "timestamp": "2026-03-27T12:04:47.572067",
+    "original_title": "UN warns DRC conflict expanding, drone warfare threatens civilians",
+    "link": "http://www.africanews.com/2026/03/27/un-warns-drc-conflict-expanding-drone-warfare-threatens-civilians/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Tshopo Province, Democratic Republic of Congo",
+      "latitude": -0.5167,
+      "longitude": 25.2,
+      "detailed_analysis": "The expanding conflict between the government and the AFC/M23 in the Democratic Republic of Congo poses a significant threat to aviation and logistics in the region. The use of drone warfare threatens civilians and could potentially disrupt air traffic and logistics operations.",
+      "immediate_forecast_24h": "Increased hostilities and drone activity are expected in the coming 24 hours, posing a high risk to aviation and personnel in the region.",
+      "strategic_outlook": "The long-term outlook for the region remains unstable, with the potential for further escalation of the conflict and increased use of drone warfare, posing a continued threat to aviation, cargo, and personnel.",
+      "operational_impact": "The conflict and drone activity may disrupt air traffic and logistics operations in the region, potentially leading to delays or cancellations of flights and cargo shipments.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "071e1917002c99229b94d82dbd9388e7",
+    "timestamp": "2026-03-27T12:04:49.504657",
+    "original_title": "Effort to create buffer zone in Lebanon positions 'Israel as aggressive force requiring resistance'",
+    "link": "https://www.france24.com/en/video/20260327-effort-to-create-buffer-zone-in-lebanon-positions-israel-as-aggressive-force-requiring-resistance",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 7,
+      "location": "Lebanon",
+      "latitude": 33.8547,
+      "longitude": 35.8623,
+      "detailed_analysis": "The creation of a buffer zone in Lebanon by Israel may lead to increased tensions and conflict, potentially affecting aviation and cargo operations in the region. Hezbollah's narrative-driven legitimacy within the Shia community could lead to resistance and unrest.",
+      "immediate_forecast_24h": "Increased military presence and potential clashes between Israeli forces and Hezbollah militants, potentially disrupting air traffic and logistics in the region.",
+      "strategic_outlook": "Long-term escalation of conflict, potentially drawing in other regional actors and affecting stability in the Middle East, with significant implications for aviation, cargo, and personnel security.",
+      "operational_impact": "Potential disruption to air traffic, increased security measures at airports and borders, and heightened risk of attacks on cargo and personnel in the region.",
+      "proximity_alert": null
+    }
   }
 ]
