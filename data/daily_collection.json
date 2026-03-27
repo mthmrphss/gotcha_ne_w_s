@@ -1252,5 +1252,43 @@
       "operational_impact": "Potential disruption to air traffic and cargo operations in the region, with possible rerouting of flights and increased security measures.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "2034118d0cc3d2addf3d2f8596a082b4",
+    "timestamp": "2026-03-27T18:30:34.029272",
+    "original_title": "Iran says nuclear facilities have been targeted after Israel said attacks 'will escalate and expand'",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1s5au5u/iran_says_nuclear_facilities_have_been_targeted/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 8,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Iran's nuclear facilities have been targeted, and Israel has stated that attacks will escalate and expand, indicating a heightened state of conflict and potential for further attacks on critical infrastructure.",
+      "immediate_forecast_24h": "Increased tensions between Iran and Israel, potential for retaliatory strikes, and heightened security measures at nuclear facilities and other critical infrastructure.",
+      "strategic_outlook": "Long-term escalation of conflict between Iran and Israel, potentially drawing in other regional or global actors, and increased instability in the region.",
+      "operational_impact": "Potential disruptions to air travel, shipping, and logistics in the region, increased security protocols, and potential for supply chain disruptions.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "71ab713b126642ce4d871fee36d1d286",
+    "timestamp": "2026-03-27T18:30:36.608323",
+    "original_title": "Huge Iranian missile fragments, intercepted by air defenses, lay scattered across Israel, West Bank",
+    "link": "https://www.reddit.com/r/worldnews/comments/1s5asmd/huge_iranian_missile_fragments_intercepted_by_air/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "Israel, West Bank",
+      "latitude": 31.7833,
+      "longitude": 35.2167,
+      "detailed_analysis": "Huge Iranian missile fragments intercepted by air defenses have been found scattered across Israel and the West Bank, indicating a significant escalation in regional tensions and a direct threat to aviation and personnel safety.",
+      "immediate_forecast_24h": "Increased military alertness and potential for further missile launches or retaliatory actions, posing immediate risks to aviation and personnel in the region.",
+      "strategic_outlook": "Long-term escalation of conflict between Iran and Israel, potentially drawing in other regional actors and affecting global aviation security, cargo transport, and personnel safety.",
+      "operational_impact": "Potential disruption to air traffic, increased security measures at airports, and heightened vigilance for cargo and personnel transport in the region, with possible spillover effects on global logistics and supply chains.",
+      "proximity_alert": null
+    }
   }
 ]
