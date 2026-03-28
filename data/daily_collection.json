@@ -872,5 +872,62 @@
       "operational_impact": "The conflict may cause disruptions to air traffic, potential closures of airports, and increased security measures at border crossings. Cargo and logistics operations may be impacted, with potential delays or disruptions to supply chains.",
       "proximity_alert": "YAKIN TEHDİT: Beirut–Rafic Hariri International Airport (0 km)"
     }
+  },
+  {
+    "id": "e5612522c2284035690390730a9d830e",
+    "timestamp": "2026-03-28T11:37:42.955511",
+    "original_title": "Egyptian outrage as Ethiopia announces plans for more dams on Blue Nile",
+    "link": "https://www.reddit.com/r/worldnews/comments/1s5xoyz/egyptian_outrage_as_ethiopia_announces_plans_for/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Cairo, Egypt; Addis Ababa, Ethiopia",
+      "latitude": 30.0626,
+      "longitude": 31.2497,
+      "detailed_analysis": "Tensions between Egypt and Ethiopia are escalating due to Ethiopia's plans to build more dams on the Blue Nile, which could impact Egypt's water supply and lead to civil unrest and conflict.",
+      "immediate_forecast_24h": "Protests and diplomatic tensions are expected to rise in the short term, potentially affecting aviation and cargo operations in the region.",
+      "strategic_outlook": "The long-term implications of this conflict could lead to increased instability in the region, affecting trade and transport routes, particularly for cargo and aviation.",
+      "operational_impact": "Potential disruptions to air traffic and cargo shipments are possible, especially if the conflict escalates, affecting personnel and assets in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Cairo International Airport (17 km)"
+    }
+  },
+  {
+    "id": "a2f640385c2db864a7bbb3ae245f114d",
+    "timestamp": "2026-03-28T11:37:47.070487",
+    "original_title": "Cyprus - Level 3: Reconsider Travel",
+    "link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/cyprus-travel-advisory.html",
+    "source_name": "US State Dept",
+    "ai_analysis": {
+      "category": "Conflict/Aviation/Civil Unrest",
+      "risk_score": 10,
+      "location": "Cyprus",
+      "latitude": 35.1264,
+      "longitude": 33.4299,
+      "detailed_analysis": "The U.S. Department of State has increased the advisory level for Cyprus to 3, citing the threat of armed conflict and limited U.S. embassy assistance for Americans in the Turkish Cypriot Administered area. Recent incidents include a drone strike on a building on the British Sovereign Base Area and significant disruptions to commercial flights following hostilities between the United States and Iran.",
+      "immediate_forecast_24h": "Increased tensions and potential for further disruptions to commercial flights, with a heightened risk of armed conflict in the region.",
+      "strategic_outlook": "Long-term instability in the region, with potential for ongoing conflicts and disruptions to transport and logistics. The U.S. embassy's limited ability to assist Americans in the Turkish Cypriot Administered area may exacerbate the situation.",
+      "operational_impact": "Potential disruptions to air travel, with flights to and from Cyprus possibly being affected. Travelers should exercise caution and consider alternative routes or modes of transportation. Cargo and logistics operations may also be impacted, particularly in the Turkish Cypriot Administered area.",
+      "proximity_alert": "YAKIN TEHDİT: Ercan Airport (7 km)"
+    }
+  },
+  {
+    "id": "8dc438b8af7673e5439c937f0d5f3936",
+    "timestamp": "2026-03-28T11:37:49.486158",
+    "original_title": "Tragic Update in Search For Missing American Airlines Flight Attendant Who Went Missing During Layover in Colombia",
+    "link": "https://www.paddleyourownkanoo.com/2026/03/28/tragic-update-in-search-for-missing-american-airlines-flight-attendant-who-went-missing-during-layover-in-colombia/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Crime/Aviation",
+      "risk_score": 6,
+      "location": "Medellín, Colombia",
+      "latitude": 6.2518,
+      "longitude": -75.5635,
+      "detailed_analysis": "An American Airlines flight attendant went missing during a layover in Medellín, Colombia, indicating potential safety risks for aviation personnel in the region.",
+      "immediate_forecast_24h": "Investigations are likely to continue, and the airline may increase security measures for crew members during layovers.",
+      "strategic_outlook": "This incident may lead to a review of airline protocols for crew safety during international layovers, potentially resulting in enhanced security procedures.",
+      "operational_impact": "The incident may affect American Airlines' operations in Colombia, with possible increased security measures or changes to crew layover policies.",
+      "proximity_alert": null
+    }
   }
 ]
