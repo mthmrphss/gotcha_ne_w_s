@@ -1518,5 +1518,62 @@
       "operational_impact": "The missile strike and ongoing conflict may disrupt air travel and logistics in the region, with potential for flight cancellations, delays, and increased security measures at airports and other transportation hubs.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "e330a12e7544198c244b23417f7cf21e",
+    "timestamp": "2026-03-28T19:35:47.595258",
+    "original_title": "Iran War Live Updates: U.S. Marines Arrive in Middle East, as Houthis Enter War",
+    "link": "https://www.nytimes.com/live/2026/03/28/world/iran-war-trump-israel-oil",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "Middle East",
+      "latitude": 29.4574,
+      "longitude": 47.6466,
+      "detailed_analysis": "Iranian strike on a military base in Saudi Arabia injured two dozen U.S. troops, indicating a significant escalation of conflict. The involvement of U.S. Marines and Houthi entry into the war suggests heightened tensions and potential for further military engagements.",
+      "immediate_forecast_24h": "Increased military activity and potential for retaliatory strikes are expected in the next 24 hours, posing a high risk to aviation and personnel in the region.",
+      "strategic_outlook": "The long-term outlook suggests a prolonged conflict with potential for widespread instability in the Middle East, impacting cargo transport, aviation, and personnel safety.",
+      "operational_impact": "The conflict may lead to disruptions in logistics and supply chains, particularly in the aviation sector, with potential for flight restrictions, airspace closures, and increased security measures.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "0a2f4070e61d65400d9ba39b92563633",
+    "timestamp": "2026-03-28T19:35:49.303430",
+    "original_title": "Israeli Strike Kills 3 Journalists in Southern Lebanon, Officials Say",
+    "link": "https://www.nytimes.com/2026/03/28/world/middleeast/lebanon-journalists-killed-israeli-strike.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 8,
+      "location": "Southern Lebanon",
+      "latitude": 33.1667,
+      "longitude": 35.3833,
+      "detailed_analysis": "Israeli strike in Southern Lebanon resulted in the killing of 3 journalists, with one accused of being a Hezbollah operative, indicating heightened tensions and potential for further conflict in the region.",
+      "immediate_forecast_24h": "Increased tensions between Israel and Lebanon, potential for retaliatory actions from Hezbollah, and heightened security measures in the region.",
+      "strategic_outlook": "Long-term escalation of conflict between Israel and Hezbollah, potentially drawing in other regional actors, and impacting regional stability and security.",
+      "operational_impact": "Potential disruption to air transport and logistics in the region, increased security protocols for aviation and cargo operations, and heightened risk for personnel and assets in the area.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "6cffea7761abaa35818d7f76d120b4a1",
+    "timestamp": "2026-03-28T19:35:51.333981",
+    "original_title": "Yemen’s Houthis Fire at Israel and Vow Further Attacks",
+    "link": "https://www.nytimes.com/2026/03/28/world/middleeast/yemen-houthis-attack-israel-war.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "Red Sea, Yemen",
+      "latitude": 15.0,
+      "longitude": 48.0,
+      "detailed_analysis": "The Houthi militia's attack on Israel poses a significant threat to aviation and shipping in the Red Sea, potentially disrupting cargo transport and putting personnel at risk.",
+      "immediate_forecast_24h": "Further attacks are likely, and the situation may escalate, affecting air traffic and maritime operations in the region.",
+      "strategic_outlook": "The conflict may lead to a prolonged period of instability, impacting global supply chains and requiring increased security measures for assets, cargo, and personnel in the region.",
+      "operational_impact": "Shipping and aviation companies should exercise extreme caution when operating in the Red Sea, and consider rerouting or delaying transport to minimize risk.",
+      "proximity_alert": null
+    }
   }
 ]
