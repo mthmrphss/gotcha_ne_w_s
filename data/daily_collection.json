@@ -131,5 +131,62 @@
       "operational_impact": "Potential for flight restrictions, shipping delays, and increased security measures in the region, affecting cargo transport, aviation operations, and personnel safety.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "8190fa1bf6dc2a8024ccee8d32371631",
+    "timestamp": "2026-03-28T23:38:32.512359",
+    "original_title": "Yemen's Houthis enter Iran war with attacks on Israel, while US Marines arrive in region",
+    "link": "https://www.reddit.com/r/worldnews/comments/1s6fi3w/yemens_houthis_enter_iran_war_with_attacks_on/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "Middle East",
+      "latitude": 30.0,
+      "longitude": 45.0,
+      "detailed_analysis": "Yemen's Houthis have entered the Iran war with attacks on Israel, indicating an escalation of conflict in the region. The arrival of US Marines suggests a potential increase in military activity, which could impact aviation and cargo operations.",
+      "immediate_forecast_24h": "Increased tensions and potential for further attacks on Israel or other regional targets, with possible disruptions to air traffic and cargo shipments.",
+      "strategic_outlook": "Prolonged conflict in the region could lead to sustained disruptions to transport and logistics, with potential for spill-over effects into other areas of the Middle East.",
+      "operational_impact": "Aviation and cargo operations in the region may be impacted by increased security measures, potential airspace restrictions, and heightened risk of attacks or sabotage.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "d933593c10b48de8f78cb29f9af94237",
+    "timestamp": "2026-03-28T23:38:34.675656",
+    "original_title": "Thousands protest across Israel calling to end war",
+    "link": "https://www.reddit.com/r/worldnews/comments/1s6ejwm/thousands_protest_across_israel_calling_to_end_war/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 6,
+      "location": "Israel",
+      "latitude": 31.7833,
+      "longitude": 35.2167,
+      "detailed_analysis": "Thousands of protesters across Israel are calling to end the war, which may lead to increased tensions and potential disruptions to transportation and logistics. The protests could also lead to clashes with security forces, further escalating the situation.",
+      "immediate_forecast_24h": "The protests are likely to continue, with a potential for increased violence and disruptions to daily life. There may be roadblocks, demonstrations, and other forms of civil unrest that could impact transport and logistics.",
+      "strategic_outlook": "The long-term outlook is uncertain, but the ongoing conflict and civil unrest could lead to a prolonged period of instability in the region. This may impact trade, tourism, and other economic activities, as well as the overall security situation.",
+      "operational_impact": "The protests and potential clashes may impact air travel, with possible delays or cancellations of flights. Road transport may also be affected, with potential roadblocks and disruptions to supply chains. Personnel and cargo may be at risk due to the increased tensions and potential for violence.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "9c665b1cb92dabeeae8a84aee8f9eb45",
+    "timestamp": "2026-03-28T23:38:37.373960",
+    "original_title": "Double fears over Red Sea, Hormuz",
+    "link": "https://www.france24.com/en/video/20260328-double-fears-over-red-sea-hormuz",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 8,
+      "location": "Red Sea, Middle East",
+      "latitude": 22.0,
+      "longitude": 38.0,
+      "detailed_analysis": "The escalation of Yemen's Houthi rebels' involvement in the conflict, with missile firings toward Israel, poses a significant threat to Red Sea shipping routes, a vital global trade corridor. This development increases tensions across an already volatile regional conflict, potentially disrupting cargo transport and aviation in the region.",
+      "immediate_forecast_24h": "Heightened tensions and potential for further missile launches or attacks on shipping routes, with possible retaliatory actions from affected countries.",
+      "strategic_outlook": "Long-term instability in the region, with potential for protracted conflict, increased risk of attacks on global trade corridors, and implications for international relations and global security.",
+      "operational_impact": "Potential disruption to cargo transport, increased risk of piracy or attacks on ships, and possible restrictions on aviation in the region, leading to delays, increased costs, and potential losses for transport and logistics operators.",
+      "proximity_alert": null
+    }
   }
 ]
