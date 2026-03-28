@@ -1005,5 +1005,43 @@
       "operational_impact": "Potential disruptions to flights, increased security screening, and travel delays are expected. Cargo and logistics operations may also be impacted, with potential delays or changes to shipping routes.",
       "proximity_alert": "YAKIN TEHDİT: DUBAİ (25 km)"
     }
+  },
+  {
+    "id": "e0788d51c01564f29213e0b62c0536a4",
+    "timestamp": "2026-03-28T14:04:54.210276",
+    "original_title": "Iran-backed Houthis in Yemen launch attack on Israel for first time in war - The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB2LW9fUjBuQ1haQUdiQzRBSDBVNkFWazR3dDZsbDBJZE5yeDRUQjFBN0RaS0dzWjNCSm1TdW85anFXNno3V3p4OXFEUEgwRVJNOC1LcUhRN3p6X21FRm5uaFZwTUFxeDVmR2pZYm9iem4wOHBzUGpyOWRLSEg?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "Yemen/Israel",
+      "latitude": 31.7833,
+      "longitude": 35.2167,
+      "detailed_analysis": "Iran-backed Houthis in Yemen have launched an attack on Israel for the first time in the war, indicating an escalation of conflict and potential threat to aviation and regional stability.",
+      "immediate_forecast_24h": "Increased tensions between Iran-backed Houthis and Israel, potential for retaliatory strikes, and heightened security measures in the region.",
+      "strategic_outlook": "Long-term escalation of the conflict could lead to increased instability in the region, affecting transport and logistics, and potentially drawing in other nations.",
+      "operational_impact": "Potential disruption to air traffic, increased security checks, and heightened risk of attacks on aviation assets and personnel in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "3b40455d5ff24b7442a9fb4ca550f422",
+    "timestamp": "2026-03-28T14:05:00.212177",
+    "original_title": "22 die off coast of Greece after six days at sea on migrant rubber boat",
+    "link": "https://www.france24.com/en/europe/20260328-22-die-off-coast-of-greece-after-six-days-at-sea-on-migrant-rubber-boat",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Border",
+      "risk_score": 6,
+      "location": "Off coast of Greece",
+      "latitude": 38.0,
+      "longitude": 23.0,
+      "detailed_analysis": "Migrant rubber boat incident off the coast of Greece resulting in 22 deaths, highlighting the risks associated with border breaches and human trafficking in the region.",
+      "immediate_forecast_24h": "Increased surveillance and rescue operations by Greek coastguards, potential for further migrant attempts to reach EU soil.",
+      "strategic_outlook": "Long-term concerns regarding the rising number of migrant deaths and the need for enhanced border security and cooperation among EU countries to address the issue.",
+      "operational_impact": "Potential disruptions to maritime transport and logistics in the region due to increased security measures and rescue operations.",
+      "proximity_alert": null
+    }
   }
 ]
