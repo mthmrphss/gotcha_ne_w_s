@@ -625,5 +625,81 @@
       "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics in the Middle East. Increased security measures may be implemented, causing delays and affecting personnel movement.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "fb72ec91fd608747381fb7ca7605414e",
+    "timestamp": "2026-03-28T10:01:36.760387",
+    "original_title": "U.S. troops injured in attack on Saudi base as the war reaches one month - NPR",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JWTFJV1pZMDF5aERWWUUzU2hmaFFxN1FXS0R2S2puYTZubXhpTTdEeEk5WVRRY0xEZmY3bHJkdlI0ZElPWXc1aEl1LTlWdWRHY3FadGlCbnJMSFppbG5CNEZZcFAzVnhtMkdnRGJBMVQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 10,
+      "location": "Saudi Arabia",
+      "latitude": 24.7133,
+      "longitude": 46.6753,
+      "detailed_analysis": "A recent attack on a Saudi base has resulted in U.S. troops being injured, indicating an escalation of violence in the region. This poses a significant threat to personnel and aviation assets.",
+      "immediate_forecast_24h": "Increased security measures are expected in the short term, with potential for further attacks or retaliations.",
+      "strategic_outlook": "The ongoing conflict may lead to prolonged instability in the region, affecting aviation and logistics operations. Enhanced security protocols and contingency planning are essential for mitigating risks.",
+      "operational_impact": "The attack may disrupt air traffic and logistics operations in the region, potentially affecting cargo transport and personnel movement. Airlines and logistics providers should be prepared for possible delays or rerouting of flights and shipments.",
+      "proximity_alert": "YAKIN TEHDİT: King Khalid International Airport (27 km)"
+    }
+  },
+  {
+    "id": "7b1542e5271cc4ddb54ecf89a3f7c982",
+    "timestamp": "2026-03-28T10:01:42.477081",
+    "original_title": "Ukraine strikes Russian Project 23550 Arctic patrol ship",
+    "link": "https://www.reddit.com/r/worldnews/comments/1s5vxif/ukraine_strikes_russian_project_23550_arctic/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Ukraine/Russia",
+      "latitude": 48.3794,
+      "longitude": 31.1656,
+      "detailed_analysis": "Ukraine has struck a Russian Project 23550 Arctic patrol ship, indicating an escalation of conflict between the two nations. This event poses a significant threat to maritime assets, cargo, and personnel in the region.",
+      "immediate_forecast_24h": "Increased tensions and potential for further military action between Ukraine and Russia, potentially affecting shipping lanes and logistics in the Black Sea and surrounding areas.",
+      "strategic_outlook": "Long-term implications of this conflict may include disruptions to global supply chains, increased insurance costs for maritime transport, and heightened security measures for vessels operating in the region.",
+      "operational_impact": "Shipping companies and logistics operators should exercise extreme caution when navigating the Black Sea and surrounding areas, with potential for delays, cargo damage, or loss due to military action or increased security protocols.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "20a65b34b29a7064a1a77551b76f0022",
+    "timestamp": "2026-03-28T10:01:45.211527",
+    "original_title": "Iranian-backed Houthi rebels say launched missile attack on Israel",
+    "link": "https://www.france24.com/en/iranian-backed-houthi-rebels-say-launched-missile-attack-on-israel",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "Israel",
+      "latitude": 31.7833,
+      "longitude": 35.2167,
+      "detailed_analysis": "Iranian-backed Houthi rebels have claimed responsibility for a missile attack on Israel, which was intercepted by Israel's military. This incident poses a significant threat to aviation and national security in the region.",
+      "immediate_forecast_24h": "Heightened tensions between Israel and Houthi rebels, potential for retaliatory strikes, and increased security measures at Israeli airports and borders.",
+      "strategic_outlook": "Escalation of conflict in the region, potentially drawing in other countries, and long-term implications for regional stability and security. Increased risk of attacks on aviation and logistics infrastructure.",
+      "operational_impact": "Potential disruptions to air travel and logistics in the region, increased security screening and protocols, and possible rerouting of flights to avoid conflict zones.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "53ede23986cd65e8255248862e4714f5",
+    "timestamp": "2026-03-28T10:01:47.456131",
+    "original_title": "Yemen's Houthis claim missile attack on Israel in expanding conflict",
+    "link": "https://www.france24.com/en/yemen-s-houthis-claim-missile-attack-on-israel-in-expanding-conflict",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "Yemen/Israel",
+      "latitude": 31.7833,
+      "longitude": 35.2167,
+      "detailed_analysis": "Iranian-backed Houthi rebels have launched a missile attack towards Israel, which was intercepted by the Israeli military. This is the first such attack by the Houthis since the start of the war in the Middle East, indicating an expanding conflict.",
+      "immediate_forecast_24h": "Increased tensions between Israel and Houthi rebels, potential for further missile launches or retaliatory strikes, heightened security measures in the region.",
+      "strategic_outlook": "The conflict may escalate, drawing in more regional actors, and potentially disrupting air traffic and logistics in the area. The involvement of Iranian-backed groups could lead to a wider geopolitical crisis.",
+      "operational_impact": "Potential disruptions to air travel and cargo transport in the region, increased security checks and protocols for flights and shipments, possible rerouting of flights to avoid conflict zones.",
+      "proximity_alert": null
+    }
   }
 ]
