@@ -1442,5 +1442,81 @@
       "operational_impact": "Immediate disruption to aviation operations at Prince Sultan Air Base, potential delays or cancellations of flights, and increased security protocols for cargo and personnel transport in the region.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "53843bdc74ada9eb1f81bb5bfb825f8f",
+    "timestamp": "2026-03-28T18:52:52.122653",
+    "original_title": "Man in Paris Accused of Attempted Attack on Bank of America - The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNalNTRnljUXdyblZ1bHFGYzN1eTdxN2x0MU95NXZ0SVVEVGZuOEtZcTYxWWFKNWdpUThkc0gxQl9LdFhqSXJyandXZVhORjJTZTA2M2djQjNtSnJzenJlMDBwSldKWWpaTDFCdDI4VFZvQ2s5T1dFYXRGYmJJNzlueU9sWno2SUY5?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Crime/Terrorism",
+      "risk_score": 10,
+      "location": "Paris, France",
+      "latitude": 48.8567,
+      "longitude": 2.3508,
+      "detailed_analysis": "A man in Paris has been accused of attempting to attack Bank of America, indicating a potential threat to financial institutions and possibly affecting the security of personnel and assets.",
+      "immediate_forecast_24h": "Increased security measures are expected around financial institutions in Paris, with potential for heightened alertness across the city.",
+      "strategic_outlook": "This incident may lead to a long-term increase in security protocols for financial institutions globally, particularly in high-risk areas, affecting operational logistics and personnel safety.",
+      "operational_impact": "The attempted attack may cause a short-term disruption in banking operations and could lead to increased security checks for personnel and assets, potentially affecting the efficiency of logistics and transport operations in the financial sector.",
+      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (2 km)"
+    }
+  },
+  {
+    "id": "93fc88bab9d5ff18b150699890380dab",
+    "timestamp": "2026-03-28T18:52:54.970378",
+    "original_title": "Man in Paris Accused of Attempted Attack on Bank of America",
+    "link": "https://www.nytimes.com/2026/03/28/world/europe/paris-attack-bank-of-america.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Terrorism/Crime",
+      "risk_score": 10,
+      "location": "Paris, France",
+      "latitude": 48.8567,
+      "longitude": 2.3508,
+      "detailed_analysis": "A man in Paris was accused of attempting to attack Bank of America, with prosecutors stating that police thwarted the attacker as he tried to detonate explosives, being investigated as possible terrorism.",
+      "immediate_forecast_24h": "Increased security measures are expected in the area, with potential for further investigations and arrests, but no immediate indication of follow-up attacks.",
+      "strategic_outlook": "The incident highlights the ongoing threat of terrorism in major cities, emphasizing the need for continued vigilance and cooperation between law enforcement agencies to prevent such attacks.",
+      "operational_impact": "The attack may lead to increased security checks and protocols for financial institutions and potentially affect the movement of personnel and assets in the area, but no direct impact on aviation or cargo is reported at this time.",
+      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (2 km)"
+    }
+  },
+  {
+    "id": "bd6156f79875552e43e88de05cbc7497",
+    "timestamp": "2026-03-28T18:52:58.083414",
+    "original_title": "'He has what I need and I have what he needs' — Zelensky says he's ready for talks on interceptor drones with Netanyahu",
+    "link": "https://www.reddit.com/r/worldnews/comments/1s686nj/he_has_what_i_need_and_i_have_what_he_needs/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 10,
+      "location": "Kyiv, Ukraine",
+      "latitude": 50.4333,
+      "longitude": 30.5167,
+      "detailed_analysis": "Ukrainian President Zelensky is open to talks with Israeli Prime Minister Netanyahu regarding interceptor drones, which could potentially impact the aviation and defense capabilities of Ukraine, posing a risk to aviation and national security",
+      "immediate_forecast_24h": "Talks between Zelensky and Netanyahu may commence, potentially leading to the exchange of military technology and intelligence, which could escalate tensions in the region",
+      "strategic_outlook": "The acquisition of interceptor drones could enhance Ukraine's defense capabilities, but may also lead to increased tensions with neighboring countries, potentially disrupting regional aviation and logistics",
+      "operational_impact": "The potential exchange of military technology could impact the operational security of aviation and logistics in the region, with possible disruptions to air traffic and cargo transport",
+      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
+    }
+  },
+  {
+    "id": "d2a77fad4f089c14c29a465078c6c124",
+    "timestamp": "2026-03-28T18:53:00.791162",
+    "original_title": "Israel assesses damage after missile strike near Jerusalem",
+    "link": "http://www.africanews.com/2026/03/28/israel-assesses-damage-after-missile-strike-near-jerusalem/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "Jerusalem, Israel",
+      "latitude": 31.7833,
+      "longitude": 35.2167,
+      "detailed_analysis": "A ballistic missile strike near Jerusalem has caused damage to homes, vehicles, and nearby structures, injuring residents. This incident is part of a larger regional conflict and indicates a high level of threat to aviation and personnel in the area.",
+      "immediate_forecast_24h": "Increased military activity and potential for further missile strikes are expected in the next 24 hours, posing a significant risk to aviation and personnel in the region.",
+      "strategic_outlook": "The ongoing regional conflict is likely to continue, with potential for escalation and further attacks on civilian and military targets, including aviation infrastructure and personnel.",
+      "operational_impact": "The missile strike and ongoing conflict may disrupt air travel and logistics in the region, with potential for flight cancellations, delays, and increased security measures at airports and other transportation hubs.",
+      "proximity_alert": null
+    }
   }
 ]
