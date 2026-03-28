@@ -245,5 +245,43 @@
       "operational_impact": "Immediate operational impact includes potential flight rerouting, increased security checks, and possible delays in cargo transport by air, affecting the efficiency and reliability of logistics operations in the region.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "a2c409d4a2c415e426ebfa390bbfa786",
+    "timestamp": "2026-03-28T06:06:18.959455",
+    "original_title": "12 U.S. Troops Injured in Attack on Saudi Base, Officials Say",
+    "link": "https://www.nytimes.com/live/2026/03/27/world/iran-war-trump-oil-israel",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "Prince Sultan Air Base, Saudi Arabia",
+      "latitude": 24.0553,
+      "longitude": 47.4767,
+      "detailed_analysis": "A recent attack on the Prince Sultan Air Base in Saudi Arabia has resulted in 12 U.S. troops being injured, with two seriously wounded. This incident represents a significant breach of American defenses and highlights the ongoing security threats in the region.",
+      "immediate_forecast_24h": "Increased security measures are expected to be implemented at the air base and surrounding areas. There may be a heightened sense of alertness among coalition forces and a potential for retaliatory actions.",
+      "strategic_outlook": "The long-term implications of this attack may include a reevaluation of security protocols and defense strategies at the air base and other similar installations in the region. It could also lead to increased tensions between the involved parties and potentially escalate the conflict.",
+      "operational_impact": "The attack may disrupt aviation operations at the Prince Sultan Air Base, potentially affecting cargo and personnel transport. It could also lead to increased security checks and protocols for flights and logistics operations in the region, causing potential delays and inefficiencies.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "6a8d91eadc288221730974268bf8e026",
+    "timestamp": "2026-03-28T06:06:24.136120",
+    "original_title": "Bangladesh - Level 3: Reconsider Travel",
+    "link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/bangladesh-travel-advisory.html",
+    "source_name": "US State Dept",
+    "ai_analysis": {
+      "category": "Terrorism/Crime/Civil Unrest",
+      "risk_score": 10,
+      "location": "Bangladesh",
+      "latitude": 23.8103,
+      "longitude": 90.4125,
+      "detailed_analysis": "The current situation in Bangladesh poses significant threats due to kidnapping, unrest, crime, and terrorism. The Chittagong Hill Tracts Region is particularly high-risk, with instances of kidnappings, separatist group activities, and political violence. U.S. citizens are advised to reconsider travel to Bangladesh and exercise extreme caution, especially in areas with increased risk.",
+      "immediate_forecast_24h": "In the next 24 hours, the situation is expected to remain volatile, with potential for protests and violent clashes. U.S. citizens should avoid all gatherings and stay informed about local conditions.",
+      "strategic_outlook": "Long-term, the security situation in Bangladesh is likely to remain unstable, with ongoing risks from terrorism, crime, and civil unrest. Travelers and organizations should maintain a high level of vigilance and consider contingency plans for emergency situations.",
+      "operational_impact": "The threats in Bangladesh may significantly impact transport and logistics operations, particularly in high-risk areas. Organizations should assess their risk exposure, consider alternative routes or modes of transport, and ensure that personnel are aware of and prepared for potential security threats.",
+      "proximity_alert": "YAKIN TEHDİT: Hazrat Shahjalal International Airport (3 km)"
+    }
   }
 ]
