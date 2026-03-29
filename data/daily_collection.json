@@ -1214,5 +1214,62 @@
       "operational_impact": "Potential disruption to air travel, increased security checks, and heightened risk of attacks on aviation and logistics infrastructure.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "de143109be27a26be7637f62e18b47f0",
+    "timestamp": "2026-03-29T16:46:00.546521",
+    "original_title": "Ryanair flight FR4017 to Milan declared an emergency over South of France - airlive",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWkdYelFrSFg1VE9BTGRQb1RaakVtbktRWTlIMllBbHl3TTNuWVcyZzU2OWpSekxGYzRZclpqLVFOb1RqYXZxUVI4dTc1ek1hXzZRTnl4dzJvd01qTk1vTXBxUmtsUVpHOHRyV1NGcmM3aFNlU1BBcEtHRHA1RVVEZHYzNml1Smt6bUVyREJXeUZNMnZLUTNldXdhb3VWcm1OYlQycmhLdF9PSnM3UTh5RFlHUzlBQQ?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 6,
+      "location": "South of France",
+      "latitude": 43.5,
+      "longitude": 2.5,
+      "detailed_analysis": "Ryanair flight FR4017 declared an emergency over South of France, potentially indicating a security or technical issue on board, but no further details are available at this time.",
+      "immediate_forecast_24h": "The situation is being monitored, and the flight's status will be updated as more information becomes available. Potential disruptions to air traffic in the region are possible.",
+      "strategic_outlook": "This incident may have implications for aviation security protocols and emergency response procedures in the region. Airlines and regulatory bodies may review and update their procedures to prevent similar incidents in the future.",
+      "operational_impact": "The emergency declaration may cause delays or disruptions to flights in the region, potentially affecting cargo and passenger transport. The impact on logistics and supply chains will depend on the outcome of the incident and any subsequent actions taken by aviation authorities.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "eaf40076033f9a3351c9127b90781c75",
+    "timestamp": "2026-03-29T16:46:03.335248",
+    "original_title": "Attacks on Syria’s Christian community fuel distrust of Sharaa regime",
+    "link": "https://www.reddit.com/r/worldnews/comments/1s6zsq5/attacks_on_syrias_christian_community_fuel/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 7,
+      "location": "Syria",
+      "latitude": 35.0,
+      "longitude": 38.0,
+      "detailed_analysis": "Attacks on Syria's Christian community are fueling distrust of the Sharaa regime, indicating heightened tensions and potential for further violence, which could impact personnel and assets in the region.",
+      "immediate_forecast_24h": "Increased unrest and potential for retaliatory attacks are expected in the short term, with possible disruptions to transport and logistics in the region.",
+      "strategic_outlook": "Long-term instability in Syria could lead to ongoing security concerns for assets, cargo, aviation, and personnel, with potential for spillover into neighboring countries.",
+      "operational_impact": "Transport and logistics operations in Syria and surrounding areas may be affected by the increased unrest, with potential for delays, disruptions, or even suspension of services.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "1791f47a81bd8db5168a65f8e66cd0c0",
+    "timestamp": "2026-03-29T16:46:06.926095",
+    "original_title": "Lebanon mourns three journalists killed in Israeli strikes",
+    "link": "https://www.france24.com/en/lebanon-mourns-three-journalists-killed-in-israeli-strikes",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 10,
+      "location": "Beirut, Lebanon",
+      "latitude": 33.8938,
+      "longitude": 35.5018,
+      "detailed_analysis": "Israeli strikes have killed three journalists in Lebanon, sparking widespread outrage and condemnation. The incident has the potential to escalate tensions in the region, posing a significant threat to aviation and personnel safety.",
+      "immediate_forecast_24h": "Increased tensions and protests are expected in the short term, potentially disrupting air travel and logistics in the region.",
+      "strategic_outlook": "The long-term impact of this incident could lead to increased instability in the region, affecting aviation and cargo operations. The risk of further strikes or retaliation is high, and the situation will require close monitoring.",
+      "operational_impact": "Aviation and logistics operations in the region may be disrupted due to increased security measures, protests, or potential retaliation. Personnel and cargo safety are at risk, and contingency plans should be in place to mitigate these risks.",
+      "proximity_alert": "YAKIN TEHDİT: Beirut–Rafic Hariri International Airport (0 km)"
+    }
   }
 ]
