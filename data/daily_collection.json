@@ -74,5 +74,62 @@
       "operational_impact": "Potential disruptions to transport and logistics in the region, particularly for aviation and personnel, due to increased security measures and potential unrest.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "730b4f563db311698c20c4d7a2cf9f72",
+    "timestamp": "2026-03-29T22:38:58.202968",
+    "original_title": "Fort Lauderdale crash leaves engaged father dead, family says - NBC 6 South Florida",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUkFEZDlGMnA2a1pRQkQ5Q2lYdUgzaEpZV0JKMjdZamtrdGU5M1Vub0M4cWxpUlRwM3IxQkN0cEMwWGlCY0ZoMUlXZG4zeWMwcFl5enkyb2FUaHVIMHZYa09QM2o5M19KRmRKOVlmWjdzSENRYk4xZ2g4ZDM5YlZiUXdzS0dfWmFINEt4clBSX3RNNldsN1F0djM3dG9HRmJtSXQzYTg0MFRVSFFXdHVFR9IBuAFBVV95cUxQbWw2OVY4bkV0ZXhqMVRQbWU2a2tHZTdaLUJ3YjFuOE1hTFFRSkxvbkpuamI1Y0hXZG9taW05d2pXSThXY2VfWXpRX1V4V0p5QVBxemZvNTRybTNFVEJBbG1HaHljanVhYnVzSUlseWRaWFFERjhPeFBVVThRaWJ4WjgyRkRZMGptNnRpaGVCVlpBZWpMa3BCdWo3cHI3QXV1LTU0N3hVbnlWdjM1QXpOUURzRUR0NE5s?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 8,
+      "location": "Fort Lauderdale, USA",
+      "latitude": 26.1223,
+      "longitude": -80.1373,
+      "detailed_analysis": "A crash occurred in Fort Lauderdale, resulting in the death of an engaged father. The context does not provide information on the cause of the crash or whether it was related to any malicious activity. However, given the severity of the incident and its potential impact on aviation, a moderate to high risk score is assigned.",
+      "immediate_forecast_24h": "Investigations into the crash are likely to be ongoing, and there may be disruptions to local air traffic. However, there is no indication of an imminent threat to other aircraft or personnel.",
+      "strategic_outlook": "The long-term impact of this incident on aviation safety and security will depend on the findings of the investigation. If the crash was due to a mechanical failure or human error, it may lead to changes in maintenance procedures or pilot training. If the crash was the result of a malicious act, it could lead to increased security measures at airports.",
+      "operational_impact": "The crash may cause delays or disruptions to flights in and out of Fort Lauderdale, potentially affecting cargo and personnel transport. However, the overall impact on logistics is expected to be minimal.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "3cd9f6b9c0322f8c165094632d7d25d9",
+    "timestamp": "2026-03-29T22:39:02.124339",
+    "original_title": "RSF attack on Sudan’s South Kordofan kills at least 14, including children | Al Jazeera",
+    "link": "https://www.reddit.com/r/worldnews/comments/1s76olk/rsf_attack_on_sudans_south_kordofan_kills_at/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "South Kordofan, Sudan",
+      "latitude": 11.1667,
+      "longitude": 29.6667,
+      "detailed_analysis": "RSF attack on Sudan’s South Kordofan resulted in at least 14 deaths, including children, indicating a high level of violence and instability in the region, posing a significant threat to personnel and potentially disrupting cargo and aviation operations.",
+      "immediate_forecast_24h": "Increased tensions and potential for further clashes between RSF and government forces, with a high risk of civilian casualties and disruptions to transport and logistics.",
+      "strategic_outlook": "Long-term instability and conflict in the region may lead to a prolonged disruption of transport and logistics, with potential spillover effects into neighboring countries.",
+      "operational_impact": "Potential disruptions to air and ground transport, increased risk of violence against personnel, and potential for cargo theft or damage, highlighting the need for enhanced security measures and contingency planning.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "d0b3639a81b71548094c95ff075ea855",
+    "timestamp": "2026-03-29T22:39:06.744290",
+    "original_title": "Frontier Airlines Makes Emergency Landing at Atlanta Hartsfield After Pilots Repot Possible ‘Hijacking Incident’",
+    "link": "https://www.paddleyourownkanoo.com/2026/03/29/frontier-airlines-makes-emergency-landing-at-atlanta-hartsfield-after-pilots-repot-possible-hijacking-incident/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Aviation/Terrorism",
+      "risk_score": 10,
+      "location": "Atlanta, USA",
+      "latitude": 33.6367,
+      "longitude": -84.4281,
+      "detailed_analysis": "Frontier Airlines flight F9-2539 made an emergency landing at Atlanta Hartsfield International Airport due to a potential hijacking incident reported by the pilots, indicating a significant threat to aviation security and passenger safety.",
+      "immediate_forecast_24h": "Enhanced security measures are expected at Atlanta Hartsfield International Airport, with possible delays or cancellations of flights. Law enforcement agencies will likely investigate the incident to determine the credibility of the hijacking threat.",
+      "strategic_outlook": "The incident may lead to a review of aviation security protocols and procedures for handling potential hijacking incidents. Airlines and airports may increase security measures, including passenger screening and surveillance, to mitigate the risk of similar incidents in the future.",
+      "operational_impact": "The emergency landing and subsequent investigation may cause disruptions to flight operations at Atlanta Hartsfield International Airport, potentially affecting cargo and passenger traffic. Airlines and logistics providers should be prepared for possible delays or changes in flight schedules.",
+      "proximity_alert": "YAKIN TEHDİT: Hartsfield–Jackson Atlanta International Airport (0 km)"
+    }
   }
 ]
