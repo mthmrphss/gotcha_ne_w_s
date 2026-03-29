@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "id": "4db1da636d03ea562b5a206044403afd",
+    "timestamp": "2026-03-29T20:41:10.923921",
+    "original_title": "Ryanair Flight FR4017 Makes Emergency Landing in Toulouse Following Mid-Air Incident - fakta.co",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5RRlVfOXhLYTBUekVuNFZXaV9qR1dtcFJ3aEx2cnhzU0pqUkpRRVVWZEZuMUpsbXdhVmYyWjdneURNdWlqTzJPZlFsTU9icHVvZHZMNEhYWF95Q2dGaUlCTHR4aldmbTYxSDg4VEVZMFlQLVNwUWxIbA?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Toulouse, France",
+      "latitude": 43.6046,
+      "longitude": 1.4442,
+      "detailed_analysis": "Ryanair Flight FR4017 made an emergency landing in Toulouse following a mid-air incident, the nature of which is not specified. This could potentially be related to a technical issue, medical emergency, or other aviation-related threat.",
+      "immediate_forecast_24h": "Investigations into the cause of the mid-air incident are likely to begin immediately. There may be disruptions to Ryanair flights or increased security measures at Toulouse airport in the short term.",
+      "strategic_outlook": "The long-term impact will depend on the cause of the incident. If it is related to a technical issue, Ryanair may need to inspect their fleet, potentially leading to flight disruptions. If it is related to a security threat, there may be increased security measures implemented across European airports.",
+      "operational_impact": "The emergency landing may cause delays or cancellations of Ryanair flights, potentially affecting cargo and passenger transport. The incident may also lead to increased security checks, affecting the efficiency of logistics operations at Toulouse airport.",
+      "proximity_alert": "YAKIN TEHDİT: Toulouse Blagnac Airport (7 km)"
+    }
+  },
+  {
+    "id": "814c305fe4d422b3f2e18fdd4afe5f59",
+    "timestamp": "2026-03-29T20:41:13.921994",
+    "original_title": "Electricity cut in parts of Tehran after attacks on infrastructure, energy ministry says",
+    "link": "https://www.reddit.com/r/worldnews/comments/1s74z0g/electricity_cut_in_parts_of_tehran_after_attacks/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Attacks on infrastructure have resulted in electricity cuts in parts of Tehran, indicating a potential threat to the stability and security of the region, which could impact aviation, cargo, and personnel.",
+      "immediate_forecast_24h": "Increased security measures are likely to be implemented, and there may be further disruptions to essential services. The situation could escalate, leading to more widespread unrest.",
+      "strategic_outlook": "The long-term impact of these attacks could lead to increased tensions and instability in the region, potentially affecting trade and transport routes. This may result in heightened security protocols for aviation and cargo operations.",
+      "operational_impact": "Potential disruptions to logistics and supply chains, especially those reliant on stable energy supplies. Aviation operations may also be affected due to possible airspace restrictions or increased security screening.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  }
+]
