@@ -1,103 +1,65 @@
 [
   {
-    "id": "9fc622b6a6bada27d20bab038683489e",
-    "timestamp": "2026-03-29T05:24:32.493666",
-    "original_title": "Iranian attack on Saudi base injures US troops. More American forces arrive in the Middle East - theintelligencer.net",
-    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTVBwbjhFeFVqdFRkbVZDcHBwQ3dPUHUtV2V0M1J0aWUwRHU1VWZ5UTAwVnBsem51U1M2Vm9BN2NCdTdteFlKOV9vczBPb2pTZHFXcTlWNG1GMGkyZFVzZ0xXWUlaNlhsMmtqMXVQYlRPeHUySDBZN3ZnT3gzMThjSUpZMDVjTlRWVWhaRS1RVkRaOC1nUnN5cV9BaFowT29CM3ZqODhUTF9BYmctMWVacUgxbHl1Z3JFRWlYUkxtR3pnVE1FbHdmN1FjWXlhQXdoaVdENlBacE5qbHNhU2JiYzllQ0FoeFN2Mnc?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Conflict/Terrorism/Aviation",
-      "risk_score": 10,
-      "location": "Saudi Arabia, Middle East",
-      "latitude": 24.7133,
-      "longitude": 46.6753,
-      "detailed_analysis": "Iranian attack on a Saudi base has resulted in injuries to US troops, indicating a significant escalation of tensions in the region. The involvement of US troops and the strategic location of the attack pose a substantial threat to aviation and regional stability.",
-      "immediate_forecast_24h": "Increased military presence and heightened alertness are expected in the region, with potential for further clashes or retaliatory actions. Air travel and cargo operations may face disruptions or enhanced security measures.",
-      "strategic_outlook": "The long-term outlook suggests continued instability in the Middle East, with potential for broader conflict involving multiple nations. This could lead to sustained disruptions in air travel, cargo transport, and regional logistics.",
-      "operational_impact": "The attack and subsequent military buildup may lead to airspace restrictions, enhanced security protocols for flights and cargo, and potential rerouting of air traffic to avoid conflict zones, affecting operational efficiency and safety in the region.",
-      "proximity_alert": "YAKIN TEHDİT: King Khalid International Airport (27 km)"
-    }
-  },
-  {
-    "id": "a5155faa7d4beea604653076491bd30a",
-    "timestamp": "2026-03-29T05:24:36.153908",
-    "original_title": "U.S. Marines Arrive in Middle East, as Houthis Enter War",
-    "link": "https://www.nytimes.com/live/2026/03/28/world/iran-war-trump-israel-oil",
-    "source_name": "NewYork Times",
-    "ai_analysis": {
-      "category": "Conflict/Terrorism/Aviation",
-      "risk_score": 8,
-      "location": "Middle East",
-      "latitude": 24.0,
-      "longitude": 45.0,
-      "detailed_analysis": "The arrival of U.S. Marines in the Middle East and the involvement of Houthis in the war poses a significant threat to aviation and personnel. The recent Iranian strike at a military base in Saudi Arabia injuring U.S. troops highlights the escalating conflict and potential for further attacks.",
-      "immediate_forecast_24h": "Increased military presence and heightened tensions may lead to further clashes, potentially affecting aviation and logistics in the region.",
-      "strategic_outlook": "The ongoing conflict may lead to a prolonged period of instability, impacting transport and logistics in the Middle East, with potential for spillover effects into other regions.",
-      "operational_impact": "Potential disruptions to air travel, increased security measures, and possible restrictions on cargo transport may be expected, affecting operational efficiency and safety in the region.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "17141b5ed73d8a890405fde929593958",
-    "timestamp": "2026-03-29T05:24:38.869227",
-    "original_title": "'Two Criminals': Iran Labels US Navy Officers Who Ordered 3 Missile Strikes Killing 168 Children In Minab School, Embassies Worldwide Posts Photos Of The Officers",
-    "link": "https://www.reddit.com/r/geopolitics/comments/1s6mah7/two_criminals_iran_labels_us_navy_officers_who/",
+    "id": "226c21481b4e1e260fd003ed920631de",
+    "timestamp": "2026-03-29T06:43:02.930600",
+    "original_title": "Does Trump (or whomever may be influencing him) have profitable ties to the military industrial complex to the point where starting the war with Iran was meant to get rid of weapons inventory for creation of new inventory? Also starting a war to test new products while making room for new inventory?",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1s6nqm8/does_trump_or_whomever_may_be_influencing_him/",
     "source_name": "Reddit r/Geopolitics",
     "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Iran, USA",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Potential conflict between the US and Iran could lead to increased military activity, impacting aviation and cargo operations in the region. Alleged ties between the Trump administration and the military-industrial complex may be a motivating factor for conflict.",
+      "immediate_forecast_24h": "Heightened tensions and increased military presence in the region, potentially disrupting air traffic and cargo shipments.",
+      "strategic_outlook": "Prolonged conflict could lead to a significant increase in military spending, driving demand for new weapons and equipment, and potentially disrupting global supply chains.",
+      "operational_impact": "Aviation and cargo operations in the region may be impacted by increased military activity, with potential disruptions to air traffic, cargo shipments, and personnel movements.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "17ea224569f36bd4101012eed44caaa4",
+    "timestamp": "2026-03-29T06:43:04.928196",
+    "original_title": "Most Valuable U.S. Support Aircraft (E3 Sentry) Destroyed in Iranian Strike",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1s6mrum/most_valuable_us_support_aircraft_e3_sentry/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The destruction of a U.S. E3 Sentry support aircraft in an Iranian strike poses a significant threat to aviation assets and personnel. This incident may escalate tensions between the U.S. and Iran, potentially leading to further military action.",
+      "immediate_forecast_24h": "Increased military presence and alertness in the region, potential for retaliatory strikes or diplomatic fallout.",
+      "strategic_outlook": "Long-term implications for U.S.-Iran relations, potential for increased military buildup and posturing in the region, and heightened security measures for U.S. and allied aviation assets.",
+      "operational_impact": "Potential disruptions to air traffic and logistics in the region, increased security protocols for U.S. and allied military personnel and assets, and possible impacts on global supply chains and trade.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "caa97b435ae153812c460bd657d22db7",
+    "timestamp": "2026-03-29T06:43:07.564311",
+    "original_title": "North Korea tests high-thrust engine for missile capable of striking US mainland",
+    "link": "https://www.france24.com/en/asia-pacific/20260329-north-korea-tests-high-thrust-engine-for-missile-capable-of-striking-us-mainland",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
       "category": "Conflict/Terrorism/Aviation",
       "risk_score": 8,
-      "location": "Minab, Iran",
-      "latitude": 27.0667,
-      "longitude": 57.0667,
-      "detailed_analysis": "Iran has labeled two US Navy officers as 'criminals' for ordering missile strikes that allegedly killed 168 children in a school, escalating tensions between the two nations and potentially threatening aviation and personnel safety",
-      "immediate_forecast_24h": "Increased diplomatic tensions, potential for retaliatory actions, and heightened security measures at US embassies and military installations worldwide",
-      "strategic_outlook": "Long-term escalation of conflict between the US and Iran, potentially affecting global aviation, cargo, and personnel security, with increased risk of cyberattacks and terrorism",
-      "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics in the region, with increased security protocols and screening measures for personnel and assets",
+      "location": "Pyongyang, North Korea",
+      "latitude": 39.0392,
+      "longitude": 125.7625,
+      "detailed_analysis": "North Korea's test of a high-thrust engine for a missile capable of striking the US mainland poses a significant threat to global security, particularly for aviation and personnel. The development could enable North Korea to place multiple warheads on a single missile, increasing its military capability.",
+      "immediate_forecast_24h": "Increased tensions between North Korea and the US, potential for further missile tests, and heightened security measures in the region.",
+      "strategic_outlook": "Long-term escalation of the conflict, potential for nuclear proliferation, and increased risk of miscalculation or accidental conflict.",
+      "operational_impact": "Potential disruptions to air travel and logistics in the region, increased security screening, and possible restrictions on cargo and personnel movement.",
       "proximity_alert": null
     }
   },
   {
-    "id": "cc4c447809a2bb125472797d0f110163",
-    "timestamp": "2026-03-29T05:24:41.404524",
-    "original_title": "Pakistan Still Sheltering Terrorist Groups Targeting India, Warns US Report",
-    "link": "https://www.reddit.com/r/worldnews/comments/1s6mi0x/pakistan_still_sheltering_terrorist_groups/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Terrorism/Conflict",
-      "risk_score": 10,
-      "location": "Pakistan/India",
-      "latitude": 33.7294,
-      "longitude": 73.0931,
-      "detailed_analysis": "A US report warns that Pakistan is still sheltering terrorist groups targeting India, posing a significant threat to regional stability and security. This could lead to increased tensions and potential attacks on Indian assets, cargo, aviation, and personnel.",
-      "immediate_forecast_24h": "Heightened security measures are expected in the region, with potential disruptions to transport and logistics. There is a risk of retaliatory attacks or border skirmishes.",
-      "strategic_outlook": "The long-term implications of this report could lead to increased diplomatic tensions between Pakistan and India, potentially affecting trade and economic relationships. This could also lead to increased security measures and cooperation between India and other countries to counter terrorist threats.",
-      "operational_impact": "Transport and logistics operations in the region may be affected due to increased security measures, potential border closures, or disruptions to supply chains. Aviation and cargo operations may also be impacted, with potential delays or rerouting of flights and shipments.",
-      "proximity_alert": "YAKIN TEHDİT: Islamabad International Airport (4 km)"
-    }
-  },
-  {
-    "id": "0a15dfab7a85bd4df23d8fdb4de94e6b",
-    "timestamp": "2026-03-29T05:24:43.643759",
-    "original_title": "Key USAF E-3 AWACS Aircraft Damaged in Iranian Attack",
-    "link": "https://www.reddit.com/r/worldnews/comments/1s6meaj/key_usaf_e3_awacs_aircraft_damaged_in_iranian/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Aviation/Conflict/Terrorism",
-      "risk_score": 8,
-      "location": "Saudi Air Base",
-      "latitude": 24.0797,
-      "longitude": 49.4744,
-      "detailed_analysis": "A key USAF E-3 AWACS aircraft was damaged in an Iranian attack on a Saudi air base, posing a significant threat to aviation and regional security. The attack highlights the escalating tensions between Iran and the US, with potential implications for global air travel and logistics.",
-      "immediate_forecast_24h": "Increased military presence and heightened security measures are expected in the region, with potential disruptions to air traffic and logistics operations. The risk of further attacks or retaliatory measures is high.",
-      "strategic_outlook": "The long-term implications of this attack could lead to increased tensions and conflict in the region, potentially disrupting global supply chains and air travel. The US and its allies may respond with increased military presence, sanctions, or other measures, which could further escalate the situation.",
-      "operational_impact": "The damage to the E-3 AWACS aircraft could impact air surveillance and command capabilities, potentially compromising the safety and security of air operations in the region. Logistics and transport operations may also be affected, with potential delays or disruptions to cargo and passenger flights.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "603054b9e015d3b497b51824e5ad9e3a",
-    "timestamp": "2026-03-29T05:24:46.277212",
-    "original_title": "Middle East war live: Loud blasts rock Tehran as Yemen's Houthis widen conflict",
+    "id": "f51b02353aa1c2a3e707db80d28f6d2d",
+    "timestamp": "2026-03-29T06:43:09.517074",
+    "original_title": "Middle East war live: Loud blasts rock Tehran, Iran threatens US universities in the Gulf",
     "link": "https://www.france24.com/en/middle-east/20260329-middle-east-war-live-loud-blasts-rock-tehran-yemen-houthis-widen-conflict-iran-israel",
     "source_name": "France 24 ME",
     "ai_analysis": {
@@ -106,10 +68,10 @@
       "location": "Tehran, Iran",
       "latitude": 35.6892,
       "longitude": 51.389,
-      "detailed_analysis": "The situation in the Middle East has escalated with explosions in Tehran and missile attacks claimed by Yemen's Houthi rebels, indicating a heightened threat to aviation and regional stability.",
-      "immediate_forecast_24h": "Further escalation of the conflict is possible, with potential for more missile attacks or retaliatory actions, affecting aviation and logistics in the region.",
-      "strategic_outlook": "The long-term view suggests a protracted conflict with significant implications for regional security, potentially disrupting air travel, cargo transport, and personnel movements.",
-      "operational_impact": "The conflict may lead to airspace restrictions, increased security measures at airports, and potential disruptions to cargo and passenger flights, affecting operational efficiency and safety.",
+      "detailed_analysis": "Explosions in Tehran and threats of retaliatory strikes on US universities in the Gulf indicate a heightened state of conflict and potential for terrorism, affecting aviation and regional stability.",
+      "immediate_forecast_24h": "Increased tensions and potential for further military action or terrorist attacks in the region, particularly targeting US interests and aviation assets.",
+      "strategic_outlook": "Long-term escalation of conflict in the Middle East, potentially drawing in more countries and affecting global aviation and logistics security, with significant operational impacts on transport and cargo movements.",
+      "operational_impact": "Potential disruptions to air travel, increased security measures at airports, and heightened risk of attacks on aviation and logistics infrastructure, affecting cargo and personnel safety in the region.",
       "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
     }
   }
