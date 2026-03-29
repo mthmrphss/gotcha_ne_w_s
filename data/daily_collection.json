@@ -1176,5 +1176,43 @@
       "operational_impact": "Potential for disruptions to flights and shipping in the region, increased security measures for aircraft and vessels, possible rerouting of flights and cargo ships to avoid the area.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "a16a461cab2822ba652e574fc87bc961",
+    "timestamp": "2026-03-29T15:55:52.800279",
+    "original_title": "easyJet flight declared an emergency and returned to Glasgow due to crew welfare issue - airlive",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQX0VxdmVLbjU1V1o0VGhwWXlXcnQ5MnpxUXpkaHR2UkF4RzdLbDU0NDZHM3JCZHZhclNMSXdfZkYtV1lvRUJ4Mm1WX1Y4WWxqWWcyWm5sWUNRY0VaeUJUS1dsYnZ3dEM4bms3TlF0ZDQtM3NfYUdxN2JUR1JQY2RpRkxwaUpxMFQ2cTVGeDlkb2JZRXFaTGlkUnEyV2xRNWRDeU1iZTFoaEZWdWZDaHU0ZEdCcHpmVW9hTVJqTzJrSm5YNXMwdlVN?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 6,
+      "location": "Glasgow, Scotland",
+      "latitude": 55.8612,
+      "longitude": -4.2509,
+      "detailed_analysis": "An easyJet flight declared an emergency and returned to Glasgow due to a crew welfare issue, indicating a potential risk to aviation safety and operations.",
+      "immediate_forecast_24h": "The situation is likely to be resolved within the next 24 hours, with the airline and authorities investigating the cause of the crew welfare issue and taking necessary actions to prevent similar incidents in the future.",
+      "strategic_outlook": "This incident highlights the importance of crew welfare and the need for airlines to prioritize the well-being of their staff to ensure safe and efficient operations.",
+      "operational_impact": "The incident may cause delays or disruptions to easyJet's operations, potentially affecting passengers and cargo, but the impact is expected to be minimal and short-term.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "8b103a80dd449958cb3d3a95157777ea",
+    "timestamp": "2026-03-29T15:55:55.705929",
+    "original_title": "‘Her head was broken’: parents at Iranian school bombed by US describe their worst day | Children",
+    "link": "https://www.reddit.com/r/worldnews/comments/1s6yolj/her_head_was_broken_parents_at_iranian_school/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 8,
+      "location": "Minab, Iran",
+      "latitude": 27.0667,
+      "longitude": 57.0667,
+      "detailed_analysis": "A US bombing of an Iranian school has resulted in civilian casualties, including children. This event has the potential to escalate tensions between the US and Iran, posing a significant threat to regional stability and global security.",
+      "immediate_forecast_24h": "Increased tensions between the US and Iran, potential for retaliatory actions, and heightened security measures in the region.",
+      "strategic_outlook": "Long-term escalation of conflict, impact on global oil prices, and potential for widespread instability in the Middle East.",
+      "operational_impact": "Potential disruption to air travel, increased security checks, and heightened risk of attacks on aviation and logistics infrastructure.",
+      "proximity_alert": null
+    }
   }
 ]
