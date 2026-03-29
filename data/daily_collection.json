@@ -910,5 +910,81 @@
       "operational_impact": "The foiled attack may cause short-term disruptions to operations in the surrounding area, but it is unlikely to have a significant long-term impact on transport or logistics in Paris. However, it may lead to increased security measures and scrutiny of individuals and cargo, potentially causing delays or additional costs.",
       "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (2 km)"
     }
+  },
+  {
+    "id": "66f19cf40144da5a7c0c2ef59f9c89a4",
+    "timestamp": "2026-03-29T13:11:40.578494",
+    "original_title": "Emergency Landing in Glasgow on easyJet Flight Due to Crew Injury - theaviationhub.co.uk",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUGxLTVU2SXMtYi0xX2JyemctU3NZMVoyYndCd0ttaERJOTNXa2xaeG04Vl8zdS1RWTN1ZlFQY3ZabUtOR0kwWGZVa3B3VDhmQmxPblRaUFd1ZjIzVjZPcmFJeFVoVi1QWXk3Mjg2MU9oZWJ6b0ZoZ1lsOHJMNUhjMV9oc0tEZUNNQTFNT1Vnc2xJQXJpcVl4VXVNdw?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 6,
+      "location": "Glasgow, Scotland",
+      "latitude": 55.8612,
+      "longitude": -4.2509,
+      "detailed_analysis": "An easyJet flight made an emergency landing in Glasgow due to a crew injury, which may indicate a potential safety risk or medical emergency on board, but does not suggest a deliberate act of sabotage or terrorism.",
+      "immediate_forecast_24h": "The incident may cause minor disruptions to easyJet's flight schedule, but it is unlikely to have a significant impact on overall aviation operations in the next 24 hours.",
+      "strategic_outlook": "The long-term impact of this incident will depend on the investigation's findings and any subsequent actions taken by the airline or regulatory bodies to prevent similar incidents in the future.",
+      "operational_impact": "The emergency landing may cause some delays or cancellations for easyJet passengers, but it is not expected to have a significant impact on the overall transport or logistics operations in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "3b414f304de5bf5d18983bce8e576908",
+    "timestamp": "2026-03-29T13:11:43.588810",
+    "original_title": "Uganda General Claims Army Could Take Tehran in 2 Weeks",
+    "link": "https://www.reddit.com/r/worldnews/comments/1s6u4p9/uganda_general_claims_army_could_take_tehran_in_2/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "A Ugandan general has made a claim that the Ugandan army could take Tehran in 2 weeks, which could lead to increased tensions and potential conflict between Uganda and Iran, affecting regional stability and potentially impacting aviation and cargo operations.",
+      "immediate_forecast_24h": "Increased diplomatic tensions and potential military mobilization, with a low likelihood of immediate conflict but a high likelihood of escalated rhetoric.",
+      "strategic_outlook": "Long-term instability in the region, potentially affecting trade routes and logistics, with a heightened risk of conflict spillover into neighboring countries.",
+      "operational_impact": "Potential disruption to air traffic and cargo operations in the region, with increased security measures and possible restrictions on flights and shipments to and from Iran.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "2d6de603d8171d1117158351c891d9fe",
+    "timestamp": "2026-03-29T13:11:46.462944",
+    "original_title": "Unidentified drones crash in Finland",
+    "link": "https://www.france24.com/en/europe/20260329-unidentified-drones-crash-finland",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Aviation/Terrorism",
+      "risk_score": 8,
+      "location": "Southern Finland, Finland",
+      "latitude": 60.4518,
+      "longitude": 22.2666,
+      "detailed_analysis": "Unidentified drones crashing in southern Finland pose a significant threat to aviation security and territorial integrity, suggesting potential malicious intent or espionage activities, especially given similar incidents in neighboring countries.",
+      "immediate_forecast_24h": "Increased surveillance and security measures are expected in the region, with potential disruptions to air traffic and heightened alertness for further drone sightings or related incidents.",
+      "strategic_outlook": "The incident may lead to a review and enhancement of drone regulations and counter-drone technologies in Finland and neighboring countries, aiming to prevent future breaches and ensure airspace security.",
+      "operational_impact": "Potential delays or restrictions in air travel, increased security checks for cargo and personnel, and heightened vigilance across the aviation and logistics sectors in response to the perceived threat.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "defdcf7473ff1ac35e8b11e88256c0c7",
+    "timestamp": "2026-03-29T13:11:48.854465",
+    "original_title": "Mediation talks in Islamabad: Middle East powers meet to discuss how to end the fighting",
+    "link": "https://www.france24.com/en/mediation-talks-in-islamabad-middle-east-powers-meet-to-discuss-how-to-end-the-fighting",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Islamabad, Pakistan",
+      "latitude": 33.7294,
+      "longitude": 73.0931,
+      "detailed_analysis": "The situation involves heightened tensions between the US and Iran, with claims of a potential US ground attack on Iran. The presence of American marines in the region and the death of an Israeli soldier in south Lebanon indicate an escalation of conflict. Mediation talks in Islamabad may aim to de-escalate the situation, but the risk of conflict spilling over into the region remains high.",
+      "immediate_forecast_24h": "The next 24 hours will be crucial in determining the outcome of the mediation talks. Any failure in negotiations could lead to an increase in military activity, potentially affecting aviation and cargo operations in the region.",
+      "strategic_outlook": "The long-term view suggests that the conflict between the US and Iran, as well as the involvement of other Middle Eastern powers, could lead to a prolonged period of instability in the region. This may result in increased security measures for aviation and cargo, potentially disrupting logistics and transport operations.",
+      "operational_impact": "The conflict may impact transport and logistics operations, particularly in the aviation sector, due to the potential for drone sightings, bomb threats, or other security incidents. Cargo operations may also be affected by increased security measures or potential disruptions to supply chains.",
+      "proximity_alert": "YAKIN TEHDİT: Islamabad International Airport (4 km)"
+    }
   }
 ]
