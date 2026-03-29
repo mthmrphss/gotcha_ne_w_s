@@ -834,5 +834,81 @@
       "operational_impact": "Potential for disruptions to air travel, shipping, and logistics operations in the region, with increased security measures and potential for evacuations of personnel.",
       "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
     }
+  },
+  {
+    "id": "9e29440c36cca552e0e99de8fcbf9676",
+    "timestamp": "2026-03-29T11:35:53.700516",
+    "original_title": "Three Lebanese journalists killed in Israeli strike, employers say",
+    "link": "https://www.reddit.com/r/worldnews/comments/1s6snzq/three_lebanese_journalists_killed_in_israeli/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Lebanon/Israel border",
+      "latitude": 33.8547,
+      "longitude": 35.8623,
+      "detailed_analysis": "Three Lebanese journalists were killed in an Israeli strike, indicating heightened tensions and potential for further conflict in the region, which could impact aviation and cargo operations.",
+      "immediate_forecast_24h": "Increased military activity and potential for retaliation or escalation of violence in the region, posing a risk to aviation and personnel.",
+      "strategic_outlook": "Long-term instability and conflict in the region could lead to sustained disruptions to transport and logistics, with potential for spillover into neighboring countries.",
+      "operational_impact": "Potential for disruptions to air traffic, cargo transport, and personnel movements in the region, with increased security measures and risk of violence or attack.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "5826e561a379a596dc2c8b15afb0738e",
+    "timestamp": "2026-03-29T11:35:55.564922",
+    "original_title": "Ukraine steps up attacks on Russian oil industry as Kremlin reaps export windfall",
+    "link": "https://www.reddit.com/r/worldnews/comments/1s6smjv/ukraine_steps_up_attacks_on_russian_oil_industry/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Ukraine, Russia",
+      "latitude": 48.3794,
+      "longitude": 31.1656,
+      "detailed_analysis": "Ukraine has increased attacks on the Russian oil industry, which could lead to disruptions in global oil supplies and impact the aviation and cargo sectors. The Kremlin's export windfall may also be affected, potentially leading to economic instability.",
+      "immediate_forecast_24h": "Increased tensions between Ukraine and Russia, potential for further attacks on oil infrastructure, and possible disruptions to oil exports.",
+      "strategic_outlook": "Long-term instability in the region, potential for escalation of conflict, and impact on global energy markets. The situation may also lead to increased security measures for aviation and cargo operations in the region.",
+      "operational_impact": "Potential disruptions to oil supplies, increased security measures for aviation and cargo operations, and possible delays or cancellations of flights and shipments in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "65b7c2a320ac2e61d021b7993bd879d8",
+    "timestamp": "2026-03-29T11:35:57.515561",
+    "original_title": "Drones crash in southeastern Finland, ministry confirms | Yle News",
+    "link": "https://www.reddit.com/r/worldnews/comments/1s6s7td/drones_crash_in_southeastern_finland_ministry/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 8,
+      "location": "Southeastern Finland, Finland",
+      "latitude": 60.4667,
+      "longitude": 27.3667,
+      "detailed_analysis": "Drones have crashed in southeastern Finland, which could pose a potential threat to aviation safety and security. The incident may indicate a possible drone-related risk to aircraft or other aerial operations in the area.",
+      "immediate_forecast_24h": "Increased surveillance and monitoring of drone activity in the region is expected. Possible disruptions to air traffic or restrictions on drone usage may be implemented.",
+      "strategic_outlook": "The incident highlights the need for enhanced drone regulation and security measures to prevent similar incidents in the future. Long-term strategies may include investing in drone detection and mitigation technologies.",
+      "operational_impact": "Potential disruptions to air traffic, restrictions on drone usage, and increased security measures may impact logistics and transportation operations in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "f52723d254c40a94fe00e22a7eb39e59",
+    "timestamp": "2026-03-29T11:36:01.142545",
+    "original_title": "France foils bomb attack outside Bank of America in Paris",
+    "link": "https://www.france24.com/en/france-foils-bomb-attack-outside-bank-of-america-in-paris",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Terrorism/Crime",
+      "risk_score": 10,
+      "location": "Paris, France",
+      "latitude": 48.8567,
+      "longitude": 2.3508,
+      "detailed_analysis": "A bomb attack was foiled outside a Bank of America branch in Paris, with the French counter-terrorism prosecutor's office investigating a 'terrorist criminal conspiracy'. This incident highlights the ongoing threat of terrorism in major cities and the potential for attacks on financial institutions.",
+      "immediate_forecast_24h": "Increased security measures are likely to be implemented in the area, with potential disruptions to traffic and pedestrian access. The investigation may lead to additional arrests or discoveries of related threats.",
+      "strategic_outlook": "The incident underscores the need for continued vigilance and cooperation between law enforcement agencies to prevent and respond to terrorist threats. It may also lead to a review of security protocols at financial institutions and other potential targets.",
+      "operational_impact": "The foiled attack may cause short-term disruptions to operations in the surrounding area, but it is unlikely to have a significant long-term impact on transport or logistics in Paris. However, it may lead to increased security measures and scrutiny of individuals and cargo, potentially causing delays or additional costs.",
+      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (2 km)"
+    }
   }
 ]
