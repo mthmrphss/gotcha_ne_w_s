@@ -226,5 +226,43 @@
       "operational_impact": "Transportation and logistics operations in the region may be severely impacted, with potential delays, disruptions, or even suspension of services due to the security situation.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "88927b64778aa98a675e1fadf946086b",
+    "timestamp": "2026-03-30T05:37:44.020660",
+    "original_title": "Indonesia Condemns Israeli Attack, RI Troops Killed - Gotrade",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSzFwNnVERW5NYXNDbkRXbzNnZmhacXZYZ29MX3BvSzQ3WjMwYVdtVjBNYTdqN2tfSU1OVjAzZEx1SlVnbEdJNVpvSllsRk5xVzI5Q2hmMGhxZ0psc1g4enNrRHVzankwWElEcjdPMVlvMkFpNDlkdUc0RU1CQ3gzX1Y1TS1KRDBLRk1xelFiTQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Indonesia/Israel",
+      "latitude": -0.7893,
+      "longitude": 113.9213,
+      "detailed_analysis": "The recent attack by Israel resulting in the death of Indonesian troops has escalated tensions between the two nations, posing a significant threat to regional stability and potentially impacting aviation and cargo operations.",
+      "immediate_forecast_24h": "Heightened diplomatic tensions and potential for retaliatory actions, increased security measures at airports and border crossings.",
+      "strategic_outlook": "Long-term implications for regional security, potential for increased conflict, and impact on global supply chains and trade relationships.",
+      "operational_impact": "Possible disruptions to air travel, cargo shipments, and personnel movements due to increased security protocols and potential conflict escalation.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "285ba9f39aa5aa568e62104aada6a9ed",
+    "timestamp": "2026-03-30T05:37:49.982472",
+    "original_title": "Ugandan military chief vows to back Israel against Iran in viral social media barrage",
+    "link": "https://www.reddit.com/r/worldnews/comments/1s7hncu/ugandan_military_chief_vows_to_back_israel/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 6,
+      "location": "Kampala, Uganda",
+      "latitude": 0.3167,
+      "longitude": 32.5833,
+      "detailed_analysis": "The Ugandan military chief's public declaration of support for Israel against Iran may escalate tensions and increase the risk of retaliatory attacks, potentially affecting aviation and logistics in the region.",
+      "immediate_forecast_24h": "Heightened security measures are expected in the region, with potential disruptions to air travel and cargo operations. Iran or its allies may respond with aggressive rhetoric or actions, further increasing tensions.",
+      "strategic_outlook": "The long-term implications of this development may include increased instability in the region, potentially affecting trade routes and supply chains. Uganda's stance may also impact its relationships with other nations, particularly in the Middle East and Africa.",
+      "operational_impact": "Aviation and logistics operations in the region may be affected by increased security measures, potential airspace restrictions, and heightened tensions. Cargo and personnel may face additional screening, delays, or disruptions.",
+      "proximity_alert": null
+    }
   }
 ]
