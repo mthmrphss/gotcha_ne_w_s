@@ -340,5 +340,43 @@
       "operational_impact": "The incident may cause delays or disruptions to flights, particularly if additional security measures are implemented. Airlines and airports may need to reassess their security protocols to prevent similar incidents in the future.",
       "proximity_alert": "YAKIN TEHDİT: Hartsfield–Jackson Atlanta International Airport (12 km)"
     }
+  },
+  {
+    "id": "4906de52be3fa8b6bd0fddcbd372812c",
+    "timestamp": "2026-03-30T09:21:56.649059",
+    "original_title": "ENISA playbook calls for security by design across product lifecycle, urges shift to continuous cybersecurity - Industrial Cyber",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNOEswaWJpeTVtS0ozWlZFSDVRWU1GQl9ZdzV6b2QwcjY3VXZJMVk4LV9iUmlfQ2FEWkdVX3RMMFlKQTlFblVwNml0OFQyYkMwbDlCWHJuamJmb1BLejZwZWdvRFVlT1ExR2Fycloxc3dFNVlINjR4QUxWb2dybGdqb0xPcy1DWVNvTVhsajVfaWgtdjhXU3pyQmxuQVh6VHlsUW93UHFQc2NpdXNnLXc4WG1tbzlwNkJVQzJJaXpONDIyWERZV2M2bDlwcm55Qml2TGVEYXRndnhaejRBZGEwWGxCbVFxTk1u?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 6,
+      "location": "Europe",
+      "latitude": 50.0,
+      "longitude": 10.0,
+      "detailed_analysis": "ENISA's call for security by design across product lifecycle and shift to continuous cybersecurity indicates a growing concern for industrial cyber threats, potentially impacting critical infrastructure and supply chains.",
+      "immediate_forecast_24h": "Increased awareness and discussions among industry stakeholders and policymakers, potentially leading to new guidelines or regulations for cybersecurity in industrial settings.",
+      "strategic_outlook": "Long-term adoption of security by design principles and continuous cybersecurity practices may lead to reduced risk of cyber attacks and improved resilience of industrial systems.",
+      "operational_impact": "Potential impact on transport and logistics operations, particularly those relying on industrial control systems, as cybersecurity measures are enhanced to prevent disruptions and protect against cyber threats.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "76759a2f9673266ad9ab560b491a6895",
+    "timestamp": "2026-03-30T09:22:03.820010",
+    "original_title": "Every Soldier a Software Builder: Governing the Army’s New Digital Workforce",
+    "link": "https://warontherocks.com/2026/03/every-soldier-a-software-builder-governing-the-armys-new-digital-workforce/",
+    "source_name": "War on the Rocks",
+    "ai_analysis": {
+      "category": "Cyber/Other",
+      "risk_score": 10,
+      "location": "Unknown, USA",
+      "latitude": 38.8977,
+      "longitude": -77.0365,
+      "detailed_analysis": "The article discusses the US Army's efforts to develop a digital workforce, with a focus on software development and the use of digital platforms. There is no direct threat to assets, cargo, aviation, or personnel, but the increased reliance on digital tools and infrastructure may introduce cybersecurity risks.",
+      "immediate_forecast_24h": "No immediate threats are expected, but the Army's increased use of digital platforms may attract the attention of malicious actors.",
+      "strategic_outlook": "In the long term, the Army's digital transformation may lead to increased efficiency and effectiveness, but it also requires careful management of cybersecurity risks to prevent potential breaches or disruptions.",
+      "operational_impact": "The impact on transport and logistics is expected to be minimal, as the article focuses on the Army's internal software development and digital transformation efforts.",
+      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
+    }
   }
 ]
