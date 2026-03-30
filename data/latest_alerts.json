@@ -1,43 +1,5 @@
 [
   {
-    "id": "de3d462d58e413926486afbe313328b6",
-    "timestamp": "2026-03-30T21:10:08.883953",
-    "original_title": "Israel passes law to give death penalty to Palestinians convicted of lethal attacks | Israel",
-    "link": "https://www.reddit.com/r/worldnews/comments/1s833yu/israel_passes_law_to_give_death_penalty_to/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict/Terrorism/Civil Unrest",
-      "risk_score": 8,
-      "location": "Israel",
-      "latitude": 31.7833,
-      "longitude": 35.2167,
-      "detailed_analysis": "The new law passed in Israel to give the death penalty to Palestinians convicted of lethal attacks may escalate tensions and increase the risk of retaliatory attacks, potentially affecting aviation, cargo, and personnel in the region.",
-      "immediate_forecast_24h": "Increased security measures are expected in the short term, with potential for protests and unrest in Israel and the Palestinian territories.",
-      "strategic_outlook": "The long-term implications of this law may lead to further destabilization of the region, increased violence, and potential for more severe attacks on assets, cargo, aviation, and personnel.",
-      "operational_impact": "Transportation and logistics operations in the region may be affected by increased security checks, potential border closures, and unrest, leading to delays and disruptions.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "0518b68a6eee0529531063371bad6ab7",
-    "timestamp": "2026-03-30T21:10:11.403723",
-    "original_title": "Germany's Merz says 80 percent of Syrian immigrants should return home",
-    "link": "https://www.france24.com/en/europe/20260330-germany-s-merz-says-80-percent-of-syrian-immigrants-should-return-home",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Border/Civil Unrest",
-      "risk_score": 10,
-      "location": "Berlin, Germany",
-      "latitude": 52.52,
-      "longitude": 13.405,
-      "detailed_analysis": "The statement by Germany's Chancellor Friedrich Merz regarding the return of Syrian immigrants may lead to civil unrest or protests, potentially affecting border control and transport logistics.",
-      "immediate_forecast_24h": "Protests or demonstrations may occur in the next 24 hours, particularly at border crossings or transportation hubs, in response to the Chancellor's statement.",
-      "strategic_outlook": "In the long term, the implementation of the agreement between Germany and Syria could lead to an increase in migrant returns, potentially straining border control resources and logistics.",
-      "operational_impact": "Transportation and logistics operations may be impacted by potential protests, demonstrations, or increased border control measures, particularly if they involve large numbers of people or occur at critical transportation hubs.",
-      "proximity_alert": "YAKIN TEHDİT: Berlin Tegel Airport (0 km)"
-    }
-  },
-  {
     "id": "7193e229ec185886db78a0ee4907bfa8",
     "timestamp": "2026-03-30T22:04:55.014466",
     "original_title": "Palm Sunday Attack in Nigeria Leaves at Least 12 Dead - The New York Times",
@@ -148,6 +110,44 @@
       "immediate_forecast_24h": "Increased naval presence and heightened security measures are expected in the region. Shipping companies may reroute vessels or take additional security precautions, potentially leading to delays and increased costs.",
       "strategic_outlook": "The conflict in the region is likely to escalate, with potential long-term implications for global trade and energy security. The Houthi rebels' ability to launch attacks on commercial ships may lead to a prolonged period of instability in the region, requiring sustained security measures and contingency planning.",
       "operational_impact": "Shipping companies and logistics operators should be prepared for potential disruptions, including delays, increased costs, and changes to routing. The situation may also lead to increased insurance premiums and security costs for vessels transiting the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "72a30485ef624340320b26e34c4f8b90",
+    "timestamp": "2026-03-30T23:05:18.415295",
+    "original_title": "Michigan Synagogue Attack Was ‘Inspired by Hezbollah,’ Officials Say - The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV0dMaUdVSUFULUlSZmMtblR3U2RwdnNVY0JvVTdGdUxScS1VU3FFeEhRZGlVQTRnTmd2MUNlbWJEOG51LWlWR05qcWNIalQyYUhNM1FuU1hBMG84Zzg5cUxBcWdBbXNqYWtVVFFaLVV0YXd6OWxsS2pFbk5RVDFQZ2lpNXI?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism/Crime",
+      "risk_score": 7,
+      "location": "Michigan, USA",
+      "latitude": 42.3314,
+      "longitude": -85.6024,
+      "detailed_analysis": "A synagogue in Michigan was attacked, with officials stating the incident was inspired by Hezbollah, indicating a potential terrorist threat to personnel and assets.",
+      "immediate_forecast_24h": "Increased security measures are expected in the area, with potential for further incidents or copycat attacks, but no immediate indication of a larger-scale threat to aviation or cargo.",
+      "strategic_outlook": "The incident highlights the ongoing threat of terrorism and the need for continued vigilance and security measures to protect vulnerable targets, including places of worship and community centers.",
+      "operational_impact": "The attack may lead to increased security protocols and screenings in the area, potentially causing minor disruptions to local transport and logistics, but no significant impact on national or international aviation or cargo operations is anticipated.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "b226043d8cf1ad29d8cfc91523b46f9e",
+    "timestamp": "2026-03-30T23:05:23.299815",
+    "original_title": "Israel passes death penalty law for Palestinians convicted of lethal attacks",
+    "link": "https://www.reddit.com/r/worldnews/comments/1s86598/israel_passes_death_penalty_law_for_palestinians/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 6,
+      "location": "Israel",
+      "latitude": 31.7833,
+      "longitude": 35.2167,
+      "detailed_analysis": "The passing of a death penalty law for Palestinians convicted of lethal attacks may escalate tensions and increase the likelihood of retaliatory attacks, potentially affecting aviation and personnel safety in the region.",
+      "immediate_forecast_24h": "Heightened security measures are expected, with potential for increased violence and unrest in the short term.",
+      "strategic_outlook": "Long-term implications may include increased instability in the region, potentially affecting cargo and aviation operations, as well as personnel safety.",
+      "operational_impact": "Transport and logistics operations in the region may be impacted by increased security measures, potential unrest, and retaliatory attacks, requiring enhanced security protocols and contingency planning.",
       "proximity_alert": null
     }
   }
