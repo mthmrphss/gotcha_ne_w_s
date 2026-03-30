@@ -492,5 +492,62 @@
       "operational_impact": "Potential disruption to oil exports, increased risk to aviation and shipping in the region, and heightened security measures for personnel and assets.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "3741ee20e6562fbd3ceaec651c122b61",
+    "timestamp": "2026-03-30T11:57:57.922796",
+    "original_title": "The first of the air defence units formed by Ukrainian industrial enterprises has already begun carrying out combat duties, while new units are being formed at 13 other enterprises, Ukraine's defence minister said on Monday",
+    "link": "https://www.reddit.com/r/worldnews/comments/1s7oaiw/the_first_of_the_air_defence_units_formed_by/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "The formation of air defence units by Ukrainian industrial enterprises poses a significant threat to aviation, as these units are now carrying out combat duties and more are being formed. This increases the risk of drone sightings and potential strikes, which could impact aviation operations in the region.",
+      "immediate_forecast_24h": "Increased military activity in the region may lead to heightened tensions and potential disruptions to air traffic in the next 24 hours.",
+      "strategic_outlook": "The long-term presence of these air defence units could lead to a sustained increase in military activity, potentially affecting aviation operations and logistics in the region for an extended period.",
+      "operational_impact": "The increased risk of drone sightings and potential strikes may require aviation operators to take additional precautions, such as altering flight routes or increasing security measures, which could impact transport and logistics operations in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "7866efe86cd499f2e3da0a24c1c8ba7c",
+    "timestamp": "2026-03-30T11:58:00.328073",
+    "original_title": "Air China resumes flights to North Korea after six-year pause",
+    "link": "https://www.france24.com/en/video/20260330-air-china-resumes-flights-to-north-korea-after-six-year-pause",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Aviation/Border",
+      "risk_score": 10,
+      "location": "Beijing, China; Pyongyang, North Korea",
+      "latitude": 39.9042,
+      "longitude": 116.4074,
+      "detailed_analysis": "Air China has resumed direct flights between Beijing and Pyongyang after a six-year pause, indicating a potential increase in travel and trade between the two countries. However, this development does not pose an immediate threat to assets, cargo, aviation, or personnel.",
+      "immediate_forecast_24h": "No significant changes or incidents are expected in the next 24 hours, as the resumption of flights is a planned and coordinated effort between the two countries.",
+      "strategic_outlook": "The resumption of flights may lead to increased economic cooperation and people-to-people exchanges between China and North Korea, potentially reducing tensions and improving regional stability.",
+      "operational_impact": "The resumption of flights may lead to increased air traffic and cargo movement between the two countries, but it is not expected to have a significant impact on overall transport and logistics operations.",
+      "proximity_alert": "YAKIN TEHDİT: Beijing Capital International Airport (25 km)"
+    }
+  },
+  {
+    "id": "a41c0520fee04055eb6beecde89e8a18",
+    "timestamp": "2026-03-30T11:58:02.152096",
+    "original_title": "Iranian leaders 'do not take any statements from Donald Trump seriously '",
+    "link": "https://www.france24.com/en/iranian-leaders-do-not-take-any-statements-from-donald-trump-seriously",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The situation between the US and Iran is escalating, with ongoing attacks and strikes. Iranian leaders do not take statements from Donald Trump seriously, which may lead to further tensions and potential military action.",
+      "immediate_forecast_24h": "Increased tensions and potential for further strikes or military action in the region, particularly targeting Iranian assets such as Kharg Island.",
+      "strategic_outlook": "Long-term instability in the region, potentially affecting global oil supplies and trade routes. The conflict may also have a broader impact on regional security and global politics.",
+      "operational_impact": "Potential disruptions to air and sea transport in the region, particularly for cargo and aviation. Increased security measures may be necessary for personnel and assets in the area.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
   }
 ]
