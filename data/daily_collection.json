@@ -720,5 +720,81 @@
       "operational_impact": "US planes involved in attacks on Iran will be unable to use Spanish airspace, potentially causing rerouting and delays for affected flights.",
       "proximity_alert": "YAKIN TEHDİT: Adolfo Suárez Madrid–Barajas Airport (14 km)"
     }
+  },
+  {
+    "id": "1fbdc81dd1f441a6a0536c3fd40d2fd4",
+    "timestamp": "2026-03-31T11:28:08.023016",
+    "original_title": "Jos attack: Curfew imposed in Nigerian city after at least 22 killed in Plateau state - bbc.com",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PQjhGSGQydXRZZzZyV0lhXzNuYzBFX2ZqdEhYcTlOU3NPSlpvNXBFQUtUNlhqcTA2QTBocWNNbVNyd1Zndk1UempmTDNNbVhxMk11bDFSdnh4QQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 8,
+      "location": "Jos, Nigeria",
+      "latitude": 9.93,
+      "longitude": 8.88,
+      "detailed_analysis": "At least 22 people have been killed in an attack in Jos, Plateau state, Nigeria, prompting the imposition of a curfew. The incident poses a significant threat to personnel and assets in the region.",
+      "immediate_forecast_24h": "Increased security presence and potential for further unrest or violence in the short term, with the curfew likely to remain in place.",
+      "strategic_outlook": "Long-term stability in the region remains uncertain, with potential for recurring incidents of violence and unrest, impacting transport and logistics operations.",
+      "operational_impact": "Potential disruptions to transport and logistics operations in the region, with increased security measures and possible restrictions on movement, affecting cargo and personnel safety.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "c572588912181adb078cab6f5be63bcf",
+    "timestamp": "2026-03-31T11:28:14.330175",
+    "original_title": "Delta Air Lines A350 Atlanta-Santiago Declares Emergency - theaviationhub.co.uk",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQempfV1NpcGFsNDJTTmtETGNWalE1ajg4cXpaTzk1Mk1rRXB2QW5Cb3NEdDVINmpBdXRkZ2c1SVo1V0I1R3htQ3R0MVdYc3I1djN3TWs2NkQ3TzUzZElibW9tbGFBbGRCQjRrZUgtdHE1WDR0Rlo5eE5xU0dFMTlweDJ2NlJTdlVieExuWGFBVQ?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Atlanta, USA and Santiago, Chile",
+      "latitude": 33.748995,
+      "longitude": -84.387982,
+      "detailed_analysis": "A Delta Air Lines A350 flying from Atlanta to Santiago declared an emergency, the cause of which is not specified in the report. This incident could pose a risk to the safety of passengers and crew on board, as well as potentially disrupt air travel between the two cities.",
+      "immediate_forecast_24h": "The situation is likely to be resolved within the next 24 hours, with the aircraft either landing safely or being diverted to a nearby airport. Further information will be needed to determine the cause of the emergency and the impact on future flights.",
+      "strategic_outlook": "This incident highlights the importance of emergency procedures in the aviation industry. Airlines and regulatory bodies will likely review the incident to identify areas for improvement and implement measures to prevent similar incidents in the future.",
+      "operational_impact": "The incident may cause delays or cancellations of flights between Atlanta and Santiago, potentially affecting cargo and passenger transport. The impact will depend on the severity of the incident and the response of the airline and regulatory authorities.",
+      "proximity_alert": "YAKIN TEHDİT: Hartsfield–Jackson Atlanta International Airport (12 km)"
+    }
+  },
+  {
+    "id": "461f2974cc653cfedb55a37591ec2b44",
+    "timestamp": "2026-03-31T11:28:16.552946",
+    "original_title": "Iran Said It Opened A Drone Factory In Tajikistan. But There's No Sign Of It.",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1s8je2p/iran_said_it_opened_a_drone_factory_in_tajikistan/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 7,
+      "location": "Tajikistan",
+      "latitude": 38.8618,
+      "longitude": 70.7936,
+      "detailed_analysis": "Iran's reported opening of a drone factory in Tajikistan poses a potential threat to regional aviation security, given the lack of visible evidence and unclear intentions behind the facility.",
+      "immediate_forecast_24h": "Increased surveillance and monitoring of the region's airspace, potential escalation of tensions between Iran and neighboring countries.",
+      "strategic_outlook": "Long-term implications for regional security and stability, potential for drone-based attacks or espionage, and impact on international relations in the area.",
+      "operational_impact": "Potential disruption to air traffic, increased security measures for aviation and logistics operations in the region, and heightened vigilance for drone sightings or related incidents.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "85d58267c1f403f7cddbe935d9142902",
+    "timestamp": "2026-03-31T11:28:18.756654",
+    "original_title": "Mexico demands answers after another migrant dies in ICE custody",
+    "link": "https://www.reddit.com/r/worldnews/comments/1s8k9dp/mexico_demands_answers_after_another_migrant_dies/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Border/Civil Unrest",
+      "risk_score": 10,
+      "location": "Mexico, USA",
+      "latitude": 19.4326,
+      "longitude": -99.1332,
+      "detailed_analysis": "A migrant has died in ICE custody, prompting Mexico to demand answers. This incident may lead to increased tensions and protests at the US-Mexico border, potentially disrupting transport and logistics operations.",
+      "immediate_forecast_24h": "Protests and demonstrations are likely to occur at the US-Mexico border, which may cause delays and disruptions to cargo and personnel movement.",
+      "strategic_outlook": "The ongoing migrant crisis and tensions between the US and Mexico may lead to long-term instability and security concerns at the border, affecting aviation, cargo, and personnel operations.",
+      "operational_impact": "Transport and logistics operations at the US-Mexico border may be impacted due to protests, demonstrations, and potential border closures, leading to delays and increased security measures.",
+      "proximity_alert": "YAKIN TEHDİT: Mexico City International Airport (6 km)"
+    }
   }
 ]
