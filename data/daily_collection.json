@@ -93,5 +93,62 @@
       "operational_impact": "Potential for flight cancellations, cargo delays, and increased security measures for personnel and assets in the region.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "83f229dfea302c481f02ba0a8264be59",
+    "timestamp": "2026-03-31T22:41:18.281467",
+    "original_title": "Iran remains a stubborn foe after absorbing massive US-Israeli attacks",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1s927ky/iran_remains_a_stubborn_foe_after_absorbing/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Iran's ability to absorb massive US-Israeli attacks indicates a high level of resilience and potential for retaliation, posing a significant threat to regional stability and global security, particularly in the aviation and logistics sectors.",
+      "immediate_forecast_24h": "Increased tensions between Iran, the US, and Israel may lead to further military actions or cyberattacks, potentially disrupting air traffic and logistics operations in the region.",
+      "strategic_outlook": "The ongoing conflict may lead to a prolonged period of instability, affecting global supply chains, oil prices, and the overall security landscape, with potential long-term implications for aviation, cargo, and personnel safety.",
+      "operational_impact": "Transport and logistics operations in the region may be impacted by increased security measures, potential airspace restrictions, and supply chain disruptions, requiring heightened vigilance and contingency planning.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "77f5b77219ac29f8147d83389cb6e7b8",
+    "timestamp": "2026-03-31T22:41:21.279280",
+    "original_title": "Lebanon condemns Israel’s 'clear intention' to impose new occupation of its territory",
+    "link": "https://www.france24.com/en/middle-east/20260331-lebanon-condemns-israel-s-clear-intention-to-impose-new-occupation-of-its-territory",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Aviation/Civil Unrest",
+      "risk_score": 10,
+      "location": "Beirut, Lebanon",
+      "latitude": 33.8938,
+      "longitude": 35.5018,
+      "detailed_analysis": "Israeli strikes near Beirut's airport road and the intention to occupy parts of southern Lebanon post-war pose a significant threat to aviation and regional stability.",
+      "immediate_forecast_24h": "Escalation of tensions between Israel and Lebanon, potential for further airstrikes or military action, and increased security measures at Beirut's airport.",
+      "strategic_outlook": "Prolonged conflict could lead to a destabilization of the region, impacting air travel and cargo transport, with potential long-term effects on regional trade and economic stability.",
+      "operational_impact": "Possible disruptions to flights, increased security checks, and potential rerouting of cargo shipments due to the conflict, affecting logistics and supply chains in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Beirut–Rafic Hariri International Airport (0 km)"
+    }
+  },
+  {
+    "id": "828551858bd4d07eab6823a21c720a41",
+    "timestamp": "2026-03-31T22:41:24.046770",
+    "original_title": "Nepal - Level 2: Exercise Increased Caution",
+    "link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/nepal-travel-advisory.html",
+    "source_name": "US State Dept",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Kathmandu, Nepal",
+      "latitude": 27.7172,
+      "longitude": 85.324,
+      "detailed_analysis": "The security situation in Nepal is stable after nationwide demonstrations stopped, but demonstrations and local unrest can still occur, particularly in cities, with potential for violence and impact on transport and logistics.",
+      "immediate_forecast_24h": "Low likelihood of major demonstrations in the next 24 hours, but possibility of local unrest and gatherings that could affect traffic and operations.",
+      "strategic_outlook": "Long-term stability is expected, but the potential for demonstrations and unrest remains, particularly during periods of political tension or social unrest.",
+      "operational_impact": "Potential disruptions to ground transport, possible delays or rerouting of cargo, and increased caution advised for personnel and assets in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Tribhuvan International Airport (4 km)"
+    }
   }
 ]

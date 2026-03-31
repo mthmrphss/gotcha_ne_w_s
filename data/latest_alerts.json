@@ -1,43 +1,5 @@
 [
   {
-    "id": "184798ba7e3cc8dcba25ec66853daeee",
-    "timestamp": "2026-03-31T20:52:43.143993",
-    "original_title": "Attack on axios software developer tool threatens widespread compromises - cyberscoop.com",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5mWkl4dDNGT2U0YU1VUndyMnBfb3NQTGdWb3N6Y2dpS1hXS05LbTdRdWdJQjAwV1RkUnlIZ1AwcF9hYVVfT3hUeW5TVHhFak1BbDN4U0dOb2UyR1pZZ0Y3T0VWM2ppcWQ4ZmlpZTZoeHA5Slp1eEY0SnJuZw?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Cyber",
-      "risk_score": 8,
-      "location": "Global",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "A cyber attack on the axios software developer tool has been reported, potentially threatening widespread compromises across various industries, including aviation and logistics. This could lead to significant disruptions in operations and potential data breaches.",
-      "immediate_forecast_24h": "In the next 24 hours, there is a high likelihood of further exploitation of the vulnerability, potentially leading to increased cyber attacks on companies using the axios tool. Immediate action is required to patch the vulnerability and secure systems.",
-      "strategic_outlook": "In the long term, this incident highlights the importance of robust cybersecurity measures in the development and use of software tools. Companies must prioritize vulnerability management and invest in cybersecurity to mitigate the risk of such attacks.",
-      "operational_impact": "The attack could have significant operational impacts on aviation and logistics, particularly if companies using the axios tool are unable to secure their systems. This could lead to delays, disruptions, and potential safety risks.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "602761675e747c6b60c462a36a6cc001",
-    "timestamp": "2026-03-31T20:52:49.168933",
-    "original_title": "Airports, plants and ports: The civilian targets increasingly under threat in the Middle East",
-    "link": "https://www.reddit.com/r/worldnews/comments/1s8zic4/airports_plants_and_ports_the_civilian_targets/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Terrorism/Aviation/Conflict",
-      "risk_score": 8,
-      "location": "Middle East",
-      "latitude": 29.4574,
-      "longitude": 47.6466,
-      "detailed_analysis": "The increasing threat to civilian targets such as airports, plants, and ports in the Middle East poses a significant risk to assets, cargo, aviation, and personnel. This threat is likely to be carried out by extremist groups or state-sponsored actors, and could involve bombings, drone attacks, or other forms of sabotage.",
-      "immediate_forecast_24h": "In the next 24 hours, there is a high likelihood of increased security measures at airports, plants, and ports in the Middle East, potentially causing disruptions to cargo and passenger traffic. There is also a risk of retaliatory attacks or escalation of violence in the region.",
-      "strategic_outlook": "In the long term, the threat to civilian targets in the Middle East is likely to continue, driven by ongoing conflicts and geopolitical tensions in the region. This could lead to a sustained increase in security measures and disruptions to transport and logistics, with potential knock-on effects for global trade and economic stability.",
-      "operational_impact": "The threat to airports, plants, and ports in the Middle East could have significant operational impacts, including delays or cancellations of flights, increased security screening and inspections of cargo, and potential disruptions to supply chains. This could also lead to increased costs and liabilities for transport and logistics operators, as well as potential losses or damage to assets and cargo.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "bc31372dec540df2abb855de2cbd57f3",
     "timestamp": "2026-03-31T21:48:57.663688",
     "original_title": "Iran Threatens to Start Attacking Major US Tech Firms on April 1",
@@ -92,6 +54,63 @@
       "strategic_outlook": "Long-term instability in the region could lead to sustained disruptions to transport and logistics, with potential for escalation into a wider conflict.",
       "operational_impact": "Potential for flight cancellations, cargo delays, and increased security measures for personnel and assets in the region.",
       "proximity_alert": null
+    }
+  },
+  {
+    "id": "83f229dfea302c481f02ba0a8264be59",
+    "timestamp": "2026-03-31T22:41:18.281467",
+    "original_title": "Iran remains a stubborn foe after absorbing massive US-Israeli attacks",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1s927ky/iran_remains_a_stubborn_foe_after_absorbing/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Iran's ability to absorb massive US-Israeli attacks indicates a high level of resilience and potential for retaliation, posing a significant threat to regional stability and global security, particularly in the aviation and logistics sectors.",
+      "immediate_forecast_24h": "Increased tensions between Iran, the US, and Israel may lead to further military actions or cyberattacks, potentially disrupting air traffic and logistics operations in the region.",
+      "strategic_outlook": "The ongoing conflict may lead to a prolonged period of instability, affecting global supply chains, oil prices, and the overall security landscape, with potential long-term implications for aviation, cargo, and personnel safety.",
+      "operational_impact": "Transport and logistics operations in the region may be impacted by increased security measures, potential airspace restrictions, and supply chain disruptions, requiring heightened vigilance and contingency planning.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "77f5b77219ac29f8147d83389cb6e7b8",
+    "timestamp": "2026-03-31T22:41:21.279280",
+    "original_title": "Lebanon condemns Israel’s 'clear intention' to impose new occupation of its territory",
+    "link": "https://www.france24.com/en/middle-east/20260331-lebanon-condemns-israel-s-clear-intention-to-impose-new-occupation-of-its-territory",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Aviation/Civil Unrest",
+      "risk_score": 10,
+      "location": "Beirut, Lebanon",
+      "latitude": 33.8938,
+      "longitude": 35.5018,
+      "detailed_analysis": "Israeli strikes near Beirut's airport road and the intention to occupy parts of southern Lebanon post-war pose a significant threat to aviation and regional stability.",
+      "immediate_forecast_24h": "Escalation of tensions between Israel and Lebanon, potential for further airstrikes or military action, and increased security measures at Beirut's airport.",
+      "strategic_outlook": "Prolonged conflict could lead to a destabilization of the region, impacting air travel and cargo transport, with potential long-term effects on regional trade and economic stability.",
+      "operational_impact": "Possible disruptions to flights, increased security checks, and potential rerouting of cargo shipments due to the conflict, affecting logistics and supply chains in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Beirut–Rafic Hariri International Airport (0 km)"
+    }
+  },
+  {
+    "id": "828551858bd4d07eab6823a21c720a41",
+    "timestamp": "2026-03-31T22:41:24.046770",
+    "original_title": "Nepal - Level 2: Exercise Increased Caution",
+    "link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/nepal-travel-advisory.html",
+    "source_name": "US State Dept",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Kathmandu, Nepal",
+      "latitude": 27.7172,
+      "longitude": 85.324,
+      "detailed_analysis": "The security situation in Nepal is stable after nationwide demonstrations stopped, but demonstrations and local unrest can still occur, particularly in cities, with potential for violence and impact on transport and logistics.",
+      "immediate_forecast_24h": "Low likelihood of major demonstrations in the next 24 hours, but possibility of local unrest and gatherings that could affect traffic and operations.",
+      "strategic_outlook": "Long-term stability is expected, but the potential for demonstrations and unrest remains, particularly during periods of political tension or social unrest.",
+      "operational_impact": "Potential disruptions to ground transport, possible delays or rerouting of cargo, and increased caution advised for personnel and assets in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Tribhuvan International Airport (4 km)"
     }
   }
 ]
