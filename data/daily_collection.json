@@ -340,5 +340,62 @@
       "operational_impact": "Potential disruptions to air traffic, cargo shipments, and logistics operations in the region, with a high risk of delays and cancellations.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "5b1b0bf8bda74fadcd18896374586c85",
+    "timestamp": "2026-04-01T09:16:41.347650",
+    "original_title": "Iran threatens Nvidia, Apple and other tech giants with attack - CNBC",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kcWxaZEpSbExrbVZFUDcxZ09jNm5pVmcwWUVyRUgyMWNRSWw5a2FhVVhCRE54OFlPX1RIOXg0TFFwZS1ZX2FDWUJ2cFlfcmo0Vmd1VjVFdEs3czJPeXVtcU1sUFNsMUlVXzNBckg0dVZBcnNnbk1fbTU1VmphdlnSAYQBQVVfeXFMUE5SVzR5S1FaMng3TkY5bjQ4WE8xMDJqQlU0MnV0V0dHZk5lLVdNNmtUOWxEbl9peVN2S052dU5nX1VTSjZ4a2FyNjNwQV91NG9sQmtNbGdlY2VpNnRteHE4Qmktd3ZTeWZuMS1wSVhUT0VseTlIa0hJTzgwcWhTUXNFX0Zm?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Cyber/Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Iran has threatened to attack tech giants such as Nvidia and Apple, which could lead to significant disruptions in the global technology supply chain and potential cyber attacks on these companies' infrastructure and assets.",
+      "immediate_forecast_24h": "Increased cyber security threats and potential DDoS attacks on targeted companies' websites and infrastructure, with possible disruptions to their operations and services.",
+      "strategic_outlook": "Long-term escalation of cyber conflicts between Iran and the targeted tech giants, potentially leading to a wider geopolitical crisis and increased tensions in the region.",
+      "operational_impact": "Potential disruptions to global technology supply chains, increased risk of data breaches and cyber attacks on logistics and transportation systems, and possible impacts on the operations of companies that rely on these tech giants.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "82998711685ba449c5690dceca424066",
+    "timestamp": "2026-04-01T09:16:43.000028",
+    "original_title": "U.S. Plans Military Expansion in Greenland - The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQXZXTk9fN2JsVjlzbEc5M21pdkdJaHZVXzhEbkhabE9SZ21IejNQQ0o0X1pDcUFhMXNZOWlMemRfR0FQbUZyQXk2blRiQWg3aDFxSXhXYWZTRTBHbWZJMktTcU9raHlESllJMldRZWJPM2tKX19zaXlsYW9TOVdyRTVuY2x3bmluMEszM3RwSmdzUWpBaEN3Qg?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 6,
+      "location": "Greenland",
+      "latitude": 64.5167,
+      "longitude": -51.7167,
+      "detailed_analysis": "The U.S. plans for military expansion in Greenland could lead to increased tensions with other nations, potentially affecting aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "No immediate disruptions expected, but increased military activity may lead to heightened security measures.",
+      "strategic_outlook": "Long-term implications of the expansion could include increased military presence, potential for conflict, and impacts on regional trade and logistics.",
+      "operational_impact": "Potential for increased security checks, airspace restrictions, and logistical challenges for cargo and aviation operations in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "a514191fcc1466273473b6b75bc5aaf8",
+    "timestamp": "2026-04-01T09:16:48.364758",
+    "original_title": "UAE considers military role to reopen Strait of Hormuz by force",
+    "link": "https://www.reddit.com/r/worldnews/comments/1s9f2fa/uae_considers_military_role_to_reopen_strait_of/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Strait of Hormuz, UAE",
+      "latitude": 26.0,
+      "longitude": 56.0,
+      "detailed_analysis": "The UAE is considering a military role to reopen the Strait of Hormuz by force, which could lead to a significant escalation of conflict in the region, posing a high risk to shipping and aviation assets.",
+      "immediate_forecast_24h": "Increased military presence and tensions in the region, potential for clashes or skirmishes, and disruption to shipping lanes.",
+      "strategic_outlook": "A prolonged conflict could lead to a significant increase in insurance premiums, higher fuel costs, and potential disruptions to global supply chains, with a long-term impact on the regional and global economy.",
+      "operational_impact": "Shipping and aviation companies may need to reroute or cancel flights and shipments, incurring additional costs and delays, while also increasing security measures to protect personnel and assets.",
+      "proximity_alert": null
+    }
   }
 ]
