@@ -815,5 +815,43 @@
       "operational_impact": "Potential disruptions to air travel, increased security checks, and possible restrictions on cargo movement could impact logistics and supply chains in the region.",
       "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (1 km)"
     }
+  },
+  {
+    "id": "99ad78c7df84ce3a0fd73b795d1d81a6",
+    "timestamp": "2026-04-01T19:13:35.942140",
+    "original_title": "Trump Says U.S. Military Campaign to Wind Down and Plans National Address - nytimes.com",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFByNUhNM0FZd3RDdDNRUU5XX2pqS3dtbE9aMjFfY0Z6WlkydU5xcWkyY0tlRkRmZjVtRmRaN1RHanRNb20tbHViV0Fwa3FXVU9VTlYwYk43b3VMQWdyTXVCTzZ3dGNEZkJuWG16aGhTQ0Y1QQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Washington D.C., USA",
+      "latitude": 38.8951,
+      "longitude": -77.0364,
+      "detailed_analysis": "The announcement of a U.S. military campaign winding down may lead to changes in global conflict dynamics, potentially affecting transport and logistics operations. However, without specific details on the campaign's scope and the national address, the immediate impact on assets, cargo, aviation, and personnel remains uncertain.",
+      "immediate_forecast_24h": "Expect heightened media and public attention to the national address, with potential for increased security measures around key infrastructure and government facilities.",
+      "strategic_outlook": "A drawdown of military campaigns could lead to a reduction in conflict-related risks over the long term, but this depends on various geopolitical factors and the specifics of the campaign's conclusion.",
+      "operational_impact": "Transport and logistics operations may face minimal direct impact in the short term, but changes in conflict zones and security postures could influence operational planning and risk assessments in the future.",
+      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
+    }
+  },
+  {
+    "id": "28d710db638374d5f0bdaaa548516459",
+    "timestamp": "2026-04-01T19:13:38.089514",
+    "original_title": "Threat Brief: Widespread Impact of the Axios Supply Chain Attack - Unit 42",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhajFQT2pqMnRqd3BmUWZ3QklNSUJDbWpxcnVpenNSVG4yQmtxWlpiM1RmSVJiWnhvaGotN1E5WmlvZFdVMklRd0hsdWJmYUk1V0J2N0lhcjZ1bUJ0cGxqc3dvNk41TnVNOWNfNXYxcw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 8,
+      "location": "Global",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "The Axios supply chain attack has widespread impact, potentially compromising multiple organizations and systems, leading to significant disruptions in supply chains and logistics.",
+      "immediate_forecast_24h": "Increased vigilance and monitoring of systems for potential breaches, with possible short-term disruptions to supply chains and logistics.",
+      "strategic_outlook": "Long-term efforts will focus on strengthening supply chain security, implementing more robust cybersecurity measures, and enhancing incident response plans to mitigate future attacks.",
+      "operational_impact": "Potential delays and disruptions to cargo transport, aviation, and personnel movements due to compromised systems and supply chain disruptions.",
+      "proximity_alert": null
+    }
   }
 ]
