@@ -1,59 +1,78 @@
 [
   {
-    "id": "5b1b0bf8bda74fadcd18896374586c85",
-    "timestamp": "2026-04-01T09:16:41.347650",
-    "original_title": "Iran threatens Nvidia, Apple and other tech giants with attack - CNBC",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kcWxaZEpSbExrbVZFUDcxZ09jNm5pVmcwWUVyRUgyMWNRSWw5a2FhVVhCRE54OFlPX1RIOXg0TFFwZS1ZX2FDWUJ2cFlfcmo0Vmd1VjVFdEs3czJPeXVtcU1sUFNsMUlVXzNBckg0dVZBcnNnbk1fbTU1VmphdlnSAYQBQVVfeXFMUE5SVzR5S1FaMng3TkY5bjQ4WE8xMDJqQlU0MnV0V0dHZk5lLVdNNmtUOWxEbl9peVN2S052dU5nX1VTSjZ4a2FyNjNwQV91NG9sQmtNbGdlY2VpNnRteHE4Qmktd3ZTeWZuMS1wSVhUT0VseTlIa0hJTzgwcWhTUXNFX0Zm?oc=5",
+    "id": "117a8892fbca5706233eb1b01cdabacf",
+    "timestamp": "2026-04-01T10:34:37.832997",
+    "original_title": "Russian military plane crashes in Crimea, killing 29 people - CBS News",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pRmVkNkdZLWgzLTJaX3BfYTNEbkhmMzQ0c0NYczZQZk43d1pYZjBPdlVEa0Y2YUhzS0dUZU5GRUhsUkM5eGdpU21GODZjUEhnMmRLOXJ4QlZhdURqRTFMeEswNkFTQ1ZieFVHVG83Q1JkeGVLdW9sUjEya0dNWmvSAYQBQVVfeXFMTWNGbDluekdoZC1OOUFHakplQlpYdmFGMjJjb0VwQW5CN3c5cVh5VG1vdlJiMjBFcnpGWDgtamRiT1pvWkowTGk1alFGQlZNSWFINTY2TDZZWDc4YjlLdjFOOUUzaEpVNzVvX3JuSlRYanlwQXhOR2ozMnAtYzBnYWdMdVFa?oc=5",
     "source_name": "Google News (Breaking)",
     "ai_analysis": {
-      "category": "Cyber/Conflict",
+      "category": "Aviation/Conflict",
+      "risk_score": 10,
+      "location": "Crimea",
+      "latitude": 44.9343,
+      "longitude": 34.1067,
+      "detailed_analysis": "A Russian military plane crashed in Crimea, resulting in 29 fatalities. The incident may indicate a heightened risk to aviation assets and personnel in the region due to potential military conflicts or accidents.",
+      "immediate_forecast_24h": "Increased military presence and potential for further accidents or incidents in the region, impacting aviation operations and personnel safety.",
+      "strategic_outlook": "Long-term instability in the region may lead to sustained elevated risks for aviation and military assets, with potential for conflict escalation or accidents.",
+      "operational_impact": "Potential disruptions to air traffic and logistics in the region, with increased security measures and possible restrictions on flight operations.",
+      "proximity_alert": "YAKIN TEHDİT: Simferopol International Airport (15 km)"
+    }
+  },
+  {
+    "id": "055a3b08f5f939ffedba4807caf08082",
+    "timestamp": "2026-04-01T10:34:42.518960",
+    "original_title": "Greece to send anti-aircraft, anti-ballistic missiles to UAE",
+    "link": "https://www.reddit.com/r/worldnews/comments/1s9gi06/greece_to_send_antiaircraft_antiballistic/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "UAE, Greece",
+      "latitude": 24.4667,
+      "longitude": 54.3667,
+      "detailed_analysis": "Greece is sending anti-aircraft and anti-ballistic missiles to the UAE, which could potentially escalate tensions in the region and impact aviation and cargo operations.",
+      "immediate_forecast_24h": "Increased military activity and heightened security measures are expected in the region, potentially causing disruptions to air traffic and cargo transport.",
+      "strategic_outlook": "The transfer of military equipment could lead to a shift in the regional balance of power, potentially affecting trade routes and logistics operations in the long term.",
+      "operational_impact": "Aviation and cargo operations may be impacted by increased security measures, potential airspace restrictions, and heightened tensions in the region.",
+      "proximity_alert": "YAKIN TEHDİT: ABU DHABİ (1 km)"
+    }
+  },
+  {
+    "id": "7ad66ef22dece334d602e80e49b1bff7",
+    "timestamp": "2026-04-01T10:34:45.353030",
+    "original_title": "War in the Middle East: Israeli strikes kill 7 in Lebanon",
+    "link": "https://www.france24.com/en/video/20260401-war-in-the-middle-east-israeli-strikes-kill-7-in-lebanon",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Beirut, Lebanon",
+      "latitude": 33.8938,
+      "longitude": 35.5018,
+      "detailed_analysis": "The recent Israeli strikes in south Beirut and nearby areas have resulted in significant loss of life and injuries, indicating an escalation of the conflict in the region. This situation poses a high risk to assets, cargo, aviation, and personnel due to the potential for further military action and instability.",
+      "immediate_forecast_24h": "In the next 24 hours, there is a high likelihood of continued clashes between Israeli forces and Hezbollah, potentially leading to more airstrikes and a ground offensive. This could lead to disruptions in air traffic, road closures, and increased security measures.",
+      "strategic_outlook": "The long-term outlook for the region remains uncertain, with the potential for a protracted conflict that could have far-reaching consequences for regional stability and global security. The situation may lead to increased tensions between other nations in the region, potentially drawing in other countries and affecting global supply chains.",
+      "operational_impact": "The conflict is likely to have a significant impact on transport and logistics in the region, with potential disruptions to air travel, road transport, and shipping. There may be increased security checks, roadblocks, and closures of key infrastructure, such as airports and seaports, which could lead to delays and increased costs for cargo and personnel movement.",
+      "proximity_alert": "YAKIN TEHDİT: Beirut–Rafic Hariri International Airport (0 km)"
+    }
+  },
+  {
+    "id": "eaaf684bad9eead4240b08fd09a32100",
+    "timestamp": "2026-04-01T10:34:47.134564",
+    "original_title": "The latest from Tehran: 'Air strikes hit non-military targets every day'",
+    "link": "https://www.france24.com/en/video/20260401-the-latest-from-tehran-airstrikes-hit-non-military-targets-every-day",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
       "risk_score": 10,
       "location": "Tehran, Iran",
       "latitude": 35.6892,
       "longitude": 51.389,
-      "detailed_analysis": "Iran has threatened to attack tech giants such as Nvidia and Apple, which could lead to significant disruptions in the global technology supply chain and potential cyber attacks on these companies' infrastructure and assets.",
-      "immediate_forecast_24h": "Increased cyber security threats and potential DDoS attacks on targeted companies' websites and infrastructure, with possible disruptions to their operations and services.",
-      "strategic_outlook": "Long-term escalation of cyber conflicts between Iran and the targeted tech giants, potentially leading to a wider geopolitical crisis and increased tensions in the region.",
-      "operational_impact": "Potential disruptions to global technology supply chains, increased risk of data breaches and cyber attacks on logistics and transportation systems, and possible impacts on the operations of companies that rely on these tech giants.",
+      "detailed_analysis": "Air strikes targeting infrastructure sites in Tehran pose a significant threat to aviation and personnel, with potential for collateral damage to nearby assets and cargo.",
+      "immediate_forecast_24h": "Increased tensions and potential for further air strikes, with possible disruptions to air traffic and logistics in the region.",
+      "strategic_outlook": "Escalating conflict may lead to prolonged instability, affecting regional aviation and cargo operations, with potential for spillover into neighboring countries.",
+      "operational_impact": "Delays and cancellations of flights, increased security measures, and potential rerouting of cargo shipments to avoid affected areas.",
       "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
-    }
-  },
-  {
-    "id": "82998711685ba449c5690dceca424066",
-    "timestamp": "2026-04-01T09:16:43.000028",
-    "original_title": "U.S. Plans Military Expansion in Greenland - The New York Times",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQXZXTk9fN2JsVjlzbEc5M21pdkdJaHZVXzhEbkhabE9SZ21IejNQQ0o0X1pDcUFhMXNZOWlMemRfR0FQbUZyQXk2blRiQWg3aDFxSXhXYWZTRTBHbWZJMktTcU9raHlESllJMldRZWJPM2tKX19zaXlsYW9TOVdyRTVuY2x3bmluMEszM3RwSmdzUWpBaEN3Qg?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 6,
-      "location": "Greenland",
-      "latitude": 64.5167,
-      "longitude": -51.7167,
-      "detailed_analysis": "The U.S. plans for military expansion in Greenland could lead to increased tensions with other nations, potentially affecting aviation and cargo operations in the region.",
-      "immediate_forecast_24h": "No immediate disruptions expected, but increased military activity may lead to heightened security measures.",
-      "strategic_outlook": "Long-term implications of the expansion could include increased military presence, potential for conflict, and impacts on regional trade and logistics.",
-      "operational_impact": "Potential for increased security checks, airspace restrictions, and logistical challenges for cargo and aviation operations in the region.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "a514191fcc1466273473b6b75bc5aaf8",
-    "timestamp": "2026-04-01T09:16:48.364758",
-    "original_title": "UAE considers military role to reopen Strait of Hormuz by force",
-    "link": "https://www.reddit.com/r/worldnews/comments/1s9f2fa/uae_considers_military_role_to_reopen_strait_of/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 8,
-      "location": "Strait of Hormuz, UAE",
-      "latitude": 26.0,
-      "longitude": 56.0,
-      "detailed_analysis": "The UAE is considering a military role to reopen the Strait of Hormuz by force, which could lead to a significant escalation of conflict in the region, posing a high risk to shipping and aviation assets.",
-      "immediate_forecast_24h": "Increased military presence and tensions in the region, potential for clashes or skirmishes, and disruption to shipping lanes.",
-      "strategic_outlook": "A prolonged conflict could lead to a significant increase in insurance premiums, higher fuel costs, and potential disruptions to global supply chains, with a long-term impact on the regional and global economy.",
-      "operational_impact": "Shipping and aviation companies may need to reroute or cancel flights and shipments, incurring additional costs and delays, while also increasing security measures to protect personnel and assets.",
-      "proximity_alert": null
     }
   }
 ]
