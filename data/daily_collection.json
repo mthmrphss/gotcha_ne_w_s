@@ -625,5 +625,81 @@
       "operational_impact": "Potential disruptions to shipping and aviation operations in the region, increased risk of attacks on cargo and personnel, and potential for insurance premiums to rise due to increased risk.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "239aca9d11a4181c20a95da7d40f0113",
+    "timestamp": "2026-04-01T15:17:08.234235",
+    "original_title": "Iran War Live Updates: Trump Berates Allies While Offering Conflicting Signals About the War",
+    "link": "https://www.nytimes.com/live/2026/04/01/world/iran-war-trump-oil-news",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Iran, USA",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The situation between Iran and the US is escalating, with President Trump threatening more attacks and considering leaving NATO due to lack of support from allies. This conflict has the potential to disrupt aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Increased tensions and potential military action between Iran and the US, with possible impacts on regional air traffic and cargo shipments.",
+      "strategic_outlook": "Long-term instability in the region, potentially leading to sustained disruptions in aviation and cargo operations, as well as increased security measures and costs for transport and logistics companies.",
+      "operational_impact": "Potential delays or cancellations of flights and cargo shipments, increased security screening and protocols, and possible rerouting of air traffic and cargo shipments to avoid the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "43fb4f8caa28eb0c44320f164a132b4e",
+    "timestamp": "2026-04-01T15:17:12.848017",
+    "original_title": "Amazon's cloud business in Bahrain damaged in Iran strike, FT reports",
+    "link": "https://www.reddit.com/r/worldnews/comments/1s9nf9j/amazons_cloud_business_in_bahrain_damaged_in_iran/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Cyber",
+      "risk_score": 10,
+      "location": "Bahrain",
+      "latitude": 26.0667,
+      "longitude": 50.5667,
+      "detailed_analysis": "Amazon's cloud business in Bahrain has been damaged in an Iran strike, potentially disrupting cloud services and impacting businesses that rely on Amazon Web Services (AWS) in the region.",
+      "immediate_forecast_24h": "Increased cyber security threats and potential disruptions to cloud services are expected in the next 24 hours, with possible retaliatory cyber attacks from Iran.",
+      "strategic_outlook": "Long-term, this incident may lead to increased tensions between Iran and Bahrain, potentially affecting the stability of the region and the security of cloud infrastructure.",
+      "operational_impact": "The damage to Amazon's cloud business may impact logistics and transportation companies that rely on AWS for their operations, potentially leading to delays or disruptions in cargo shipments and aviation services.",
+      "proximity_alert": "YAKIN TEHDİT: Bahrain International Airport (23 km)"
+    }
+  },
+  {
+    "id": "f9c1387ee9e216b6495a2e592b2499ea",
+    "timestamp": "2026-04-01T15:17:14.928126",
+    "original_title": "Russian governor orders companies to select employees as 'candidates' for joining the military",
+    "link": "https://www.reddit.com/r/worldnews/comments/1s9m2mc/russian_governor_orders_companies_to_select/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 6,
+      "location": "Ryazan, Russia",
+      "latitude": 54.6333,
+      "longitude": 39.6833,
+      "detailed_analysis": "A Russian governor has ordered companies to select employees as candidates for joining the military, potentially impacting the availability of personnel in various industries, including logistics and aviation.",
+      "immediate_forecast_24h": "Increased scrutiny of companies and their employees, potential disruptions to business operations as employees are selected for military service.",
+      "strategic_outlook": "Long-term implications for the Russian economy and global trade, potential escalation of conflict, and increased tensions between Russia and other nations.",
+      "operational_impact": "Potential disruptions to supply chains, increased security measures, and challenges in maintaining personnel and operations in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "b42ab78bfc5950431a9f49beaa525c2e",
+    "timestamp": "2026-04-01T15:17:17.551437",
+    "original_title": "The Folly of Seizing Kharg Island",
+    "link": "https://warontherocks.com/2026/04/the-folly-of-seizing-kharg-island/",
+    "source_name": "War on the Rocks",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Strait of Hormuz, Iran",
+      "latitude": 26.0,
+      "longitude": 56.0,
+      "detailed_analysis": "The closure of the Strait of Hormuz by the Islamic Revolutionary Guard Corps in response to U.S. and Israeli attacks poses a significant threat to global energy supply chains and maritime trade, potentially disrupting cargo shipments and impacting aviation operations in the region.",
+      "immediate_forecast_24h": "Increased naval presence and potential for further escalation of conflict in the region, with possible impacts on shipping lanes and air traffic.",
+      "strategic_outlook": "Long-term disruption to global energy markets and trade routes, with potential for sustained conflict and instability in the region, affecting assets, cargo, aviation, and personnel.",
+      "operational_impact": "Potential delays or disruptions to cargo shipments, increased security measures for aviation operations, and heightened risk of conflict-related incidents affecting personnel and assets in the region.",
+      "proximity_alert": null
+    }
   }
 ]
