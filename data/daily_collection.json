@@ -530,5 +530,100 @@
       "operational_impact": "Transport and logistics operations in the region may be affected by increased security measures, protests, and potential unrest, leading to delays and disruptions.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "7e91e76bfaee32d2cc391ea1988006f5",
+    "timestamp": "2026-04-01T13:56:30.642000",
+    "original_title": "In UK Prisons, Drones Fly In Contraband ‘As if by Uber Eats’",
+    "link": "https://www.nytimes.com/2026/04/01/world/europe/uk-prisons-contraband-drones.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Aviation/Crime",
+      "risk_score": 7,
+      "location": "UK",
+      "latitude": 54.7589,
+      "longitude": -4.5729,
+      "detailed_analysis": "Drones are being used to smuggle contraband into UK prisons, exploiting the vulnerability of old prison buildings to aerial deliveries. This poses a significant threat to the security of the prisons and the safety of personnel and inmates.",
+      "immediate_forecast_24h": "Increased drone activity near prisons is likely, with potential for more contraband to be smuggled in. Prison authorities may respond with enhanced security measures, including drone detection systems.",
+      "strategic_outlook": "The use of drones for smuggling contraband into prisons is a long-term threat that will require sustained efforts to counter. Prisons may need to invest in drone mitigation technologies and develop new strategies to prevent aerial smuggling.",
+      "operational_impact": "The smuggling of contraband into prisons via drones can compromise the security of the facilities, putting personnel and inmates at risk. This can also disrupt the normal functioning of the prisons and impact the safety of the surrounding areas.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "9c136690cfe2a2887154fad73011a8fb",
+    "timestamp": "2026-04-01T13:56:33.905661",
+    "original_title": "Ukraine intercepts nearly 90% of Russian missiles, kamikaze drones in March, Defense Ministry says",
+    "link": "https://www.reddit.com/r/worldnews/comments/1s9kvvq/ukraine_intercepts_nearly_90_of_russian_missiles/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "Ukraine's Defense Ministry reports intercepting nearly 90% of Russian missiles and kamikaze drones in March, indicating a high level of military conflict and potential threat to aviation and personnel",
+      "immediate_forecast_24h": "Continued military engagements and potential escalation of conflict, with possible impacts on air traffic and logistics in the region",
+      "strategic_outlook": "Long-term instability and conflict in the region may lead to sustained disruptions to transport and logistics, with potential for spillover effects into neighboring countries",
+      "operational_impact": "Potential for disruptions to air traffic, increased security measures, and impacts on supply chains and logistics operations in the region",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "724a0f5817f86cbc25d87d28c6e191b8",
+    "timestamp": "2026-04-01T13:56:36.099752",
+    "original_title": "The US military says its 70-year-old B-52 bombers are now flying overland missions as air superiority expands over Iran",
+    "link": "https://www.reddit.com/r/worldnews/comments/1s9kvku/the_us_military_says_its_70yearold_b52_bombers/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The US military's deployment of 70-year-old B-52 bombers for overland missions in Iran signifies an escalation of air superiority efforts, potentially increasing tensions and the risk of conflict in the region.",
+      "immediate_forecast_24h": "Heightened military activity and increased surveillance are expected in the short term, with potential for retaliatory actions from Iran or its allies.",
+      "strategic_outlook": "The long-term implications of this development could include a sustained military presence, ongoing tensions, and potential for further escalation, affecting regional stability and global security.",
+      "operational_impact": "The increased military activity may impact aviation operations, potentially leading to restricted airspace, increased security measures, and heightened vigilance for commercial flights and cargo transport in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "737e8b36989527cd149901f8d30712ad",
+    "timestamp": "2026-04-01T13:56:38.899408",
+    "original_title": "Brussels urges EU states to 'coordinate' in face of oil price hike",
+    "link": "https://www.france24.com/en/video/20260401-brussels-urges-eu-states-to-coordinate-in-face-of-oil-price-hike",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Other",
+      "risk_score": 10,
+      "location": "Brussels, Belgium",
+      "latitude": 50.8503,
+      "longitude": 4.3517,
+      "detailed_analysis": "The surge in energy prices due to the Middle East war and US-Israeli attacks on Iran may lead to increased costs and potential disruptions in oil supplies, affecting aviation and cargo operations.",
+      "immediate_forecast_24h": "Short-term price volatility and potential supply chain disruptions are expected, with EU member states urged to make coordinated preparations to secure oil supplies.",
+      "strategic_outlook": "Long-term geopolitical tensions and conflicts in the Middle East may continue to impact global energy markets, requiring sustained vigilance and adaptability from the aviation and cargo industries.",
+      "operational_impact": "Potential operational impacts include increased fuel costs, reduced flight schedules, and altered cargo routes, emphasizing the need for proactive risk management and contingency planning.",
+      "proximity_alert": "YAKIN TEHDİT: SHERATON AIRPORT (0 km)"
+    }
+  },
+  {
+    "id": "82cff92988bea0807fcc1dfd706574e8",
+    "timestamp": "2026-04-01T13:56:41.100545",
+    "original_title": "US Trump says will be leaving Iran 'very soon'",
+    "link": "https://www.france24.com/en/video/20260401-us-trump-says-will-be-leaving-iran-very-soon",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Strait of Hormuz, Iran",
+      "latitude": 26.0,
+      "longitude": 56.0,
+      "detailed_analysis": "US President Donald Trump's announcement of a potential withdrawal from Iran and shifting responsibility for the Strait of Hormuz to other countries could lead to increased tensions and conflict in the region, posing a threat to shipping and aviation assets.",
+      "immediate_forecast_24h": "Increased military presence and heightened alertness in the region, potential for miscalculations or accidental clashes between US and Iranian forces.",
+      "strategic_outlook": "Long-term instability in the region, potential for Iran to increase its military presence in the Strait of Hormuz, and increased risk of conflict between US and Iranian forces.",
+      "operational_impact": "Potential disruptions to shipping and aviation operations in the region, increased risk of attacks on cargo and personnel, and potential for insurance premiums to rise due to increased risk.",
+      "proximity_alert": null
+    }
   }
 ]
