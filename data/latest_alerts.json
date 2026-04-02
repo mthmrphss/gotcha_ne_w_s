@@ -1,24 +1,5 @@
 [
   {
-    "id": "d57a4fc26df96d218f266fb8384e8046",
-    "timestamp": "2026-04-02T19:09:03.703484",
-    "original_title": "Videos show explosions in central Iran as conflict with Israel intensifies",
-    "link": "http://www.africanews.com/2026/04/02/videos-show-explosions-in-central-iran-as-conflict-with-israel-intensifies/",
-    "source_name": "Africa News",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 10,
-      "location": "Esfahan, Iran",
-      "latitude": 32.6567,
-      "longitude": 51.6679,
-      "detailed_analysis": "Explosions in central Iran, specifically in the Esfahan region, indicate an escalation of conflict with Israel, posing a significant threat to assets, cargo, aviation, and personnel in the area.",
-      "immediate_forecast_24h": "Increased tensions and potential for further strikes or retaliation, affecting air traffic and ground logistics in the region.",
-      "strategic_outlook": "Prolonged conflict could lead to extended disruptions in supply chains, increased security measures, and heightened risk of accidents or incidents involving aviation and cargo assets.",
-      "operational_impact": "Potential for flight restrictions, cargo delays, and increased security protocols for personnel and assets in the region, necessitating contingency planning and enhanced risk management.",
-      "proximity_alert": "YAKIN TEHDİT: Isfahan International Airport (23 km)"
-    }
-  },
-  {
     "id": "910c8fc47c816f792f749cf24e75c156",
     "timestamp": "2026-04-02T20:03:10.925241",
     "original_title": "Iran War Live Updates: Macron Voices European Frustration With Trump for Criticizing NATO",
@@ -72,6 +53,25 @@
       "immediate_forecast_24h": "Expect continued elevated crime levels, potentially impacting tourist areas and logistics.",
       "strategic_outlook": "Long-term, Costa Rica's crime situation may continue to pose a threat to assets, cargo, and personnel, requiring increased security measures.",
       "operational_impact": "Transport and logistics operations may be affected by increased crime, potentially leading to supply chain disruptions and asset theft.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "d2813890b750c8fc9f54386084381c9d",
+    "timestamp": "2026-04-02T21:04:08.982721",
+    "original_title": "Iran continues strikes across the Persian Gulf despite Trump’s warning - NPR",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA3R0lYV1Byb2xJTTgwRkNudzFndVhpMXo4R25BeVRKc0xKUGJwOGFNSjhfOWI3OFN3dGd5SFJ1NEZ0a1JwaWdjNjFiMDZDU0NzSWtUaEVUcVUzQlVsdDJMSDcwRzNzWTVuV1BXWFlOSE9UeFRG?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Persian Gulf",
+      "latitude": 26.0,
+      "longitude": 52.0,
+      "detailed_analysis": "Iran continues to launch strikes across the Persian Gulf, posing a significant threat to aviation and maritime assets in the region. The actions are in defiance of warnings from the US, indicating a heightened state of tension.",
+      "immediate_forecast_24h": "Increased military activity and potential for further strikes in the next 24 hours, with elevated risk to aviation and shipping in the Persian Gulf.",
+      "strategic_outlook": "Long-term escalation of conflict in the region could lead to significant disruptions to global oil supplies and trade routes, with potential for spill-over effects into other areas of the Middle East.",
+      "operational_impact": "Shipping and aviation operations in the Persian Gulf may need to take additional security precautions, including potential rerouting or increased surveillance, to mitigate the risk of being caught in the conflict.",
       "proximity_alert": null
     }
   }
