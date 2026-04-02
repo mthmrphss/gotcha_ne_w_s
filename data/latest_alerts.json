@@ -17,5 +17,62 @@
       "operational_impact": "Potential for flight restrictions, cargo delays, and increased security protocols for personnel and assets in the region, necessitating contingency planning and enhanced risk management.",
       "proximity_alert": "YAKIN TEHDİT: Isfahan International Airport (23 km)"
     }
+  },
+  {
+    "id": "910c8fc47c816f792f749cf24e75c156",
+    "timestamp": "2026-04-02T20:03:10.925241",
+    "original_title": "Iran War Live Updates: Macron Voices European Frustration With Trump for Criticizing NATO",
+    "link": "https://www.nytimes.com/live/2026/04/02/world/iran-war-trump-news",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Europe",
+      "latitude": 48.8567,
+      "longitude": 2.351,
+      "detailed_analysis": "The event involves a verbal confrontation between French leader Macron and US President Trump regarding NATO commitment, which may lead to increased tensions between European nations and the US.",
+      "immediate_forecast_24h": "No immediate escalation expected, but diplomatic relations may be strained.",
+      "strategic_outlook": "Potential long-term impact on international relations and alliances, which could affect global security and stability.",
+      "operational_impact": "No direct impact on transport/logistics expected at this time, but increased tensions could lead to future disruptions.",
+      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (2 km)"
+    }
+  },
+  {
+    "id": "256aed17ba21a2f3fafe02bc75586ef7",
+    "timestamp": "2026-04-02T20:03:21.134455",
+    "original_title": "UK accuses Iran of Hormuz \"hijack,\" holding global economy hostage",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1samgmk/uk_accuses_iran_of_hormuz_hijack_holding_global/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 8,
+      "location": "Hormuz, Iran",
+      "latitude": 26.6122,
+      "longitude": 55.6214,
+      "detailed_analysis": "The UK has accused Iran of hijacking a vessel in the Hormuz strait, which could severely impact global trade and economy. This incident has the potential to escalate tensions between Iran and Western nations, posing a significant threat to maritime security and global supply chains.",
+      "immediate_forecast_24h": "Increased naval presence in the region, potential for further escalation and disruption to shipping lanes. Cargo vessels may be advised to take alternative routes, leading to increased costs and delays.",
+      "strategic_outlook": "Long-term implications could include increased insurance premiums for vessels transiting the Hormuz strait, potential for a blockade or restrictions on Iranian oil exports, and a heightened risk of conflict in the region.",
+      "operational_impact": "Shipping companies and cargo operators should exercise extreme caution when navigating the Hormuz strait, consider re-routing vessels, and be prepared for potential delays or disruptions to their operations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "396b3951ef23054f65b5c8dab3e8aa3d",
+    "timestamp": "2026-04-02T20:07:15.031504",
+    "original_title": "Costa Rica - Level 2: Exercise Increased Caution",
+    "link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.cri.html",
+    "source_name": "US State Dept",
+    "ai_analysis": {
+      "category": "Crime",
+      "risk_score": 6,
+      "location": "Costa Rica",
+      "latitude": 9.7489,
+      "longitude": -83.7534,
+      "detailed_analysis": "Increased caution is advised due to common petty crime and violent crime affecting tourists, including armed robbery, homicide, and sexual assault.",
+      "immediate_forecast_24h": "Expect continued elevated crime levels, potentially impacting tourist areas and logistics.",
+      "strategic_outlook": "Long-term, Costa Rica's crime situation may continue to pose a threat to assets, cargo, and personnel, requiring increased security measures.",
+      "operational_impact": "Transport and logistics operations may be affected by increased crime, potentially leading to supply chain disruptions and asset theft.",
+      "proximity_alert": null
+    }
   }
 ]
