@@ -321,5 +321,43 @@
       "operational_impact": "Potential for flight disruptions, cargo delays, and increased security protocols for personnel and assets in the region, with possible spillover effects on global trade and commerce.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "aba230f9f66733ad89c5ab7d153adfae",
+    "timestamp": "2026-04-03T09:30:30.729346",
+    "original_title": "Could There Be a Popular Uprising in Cuba?",
+    "link": "https://www.nytimes.com/2026/04/03/world/americas/cuba-opposition-uprising.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Havana, Cuba",
+      "latitude": 23.1333,
+      "longitude": -82.3667,
+      "detailed_analysis": "Growing anti-government protests in Cuba could potentially disrupt aviation and cargo operations, as well as pose a risk to personnel and assets on the island.",
+      "immediate_forecast_24h": "Protests may escalate, potentially leading to clashes with authorities and disruptions to transportation and logistics.",
+      "strategic_outlook": "A popular uprising in Cuba could have long-term implications for the stability of the region, potentially affecting trade and travel.",
+      "operational_impact": "Transportation and logistics operations in Cuba may be disrupted, and personnel and assets in the region should exercise caution and be prepared for potential unrest.",
+      "proximity_alert": "YAKIN TEHDİT: José Martí International Airport (16 km)"
+    }
+  },
+  {
+    "id": "1f1dc9a376035739b957bd14d92cd6b5",
+    "timestamp": "2026-04-03T09:30:38.658605",
+    "original_title": "Hezbollah fires some 130 rockets at north on Passover; 4 lightly injured",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1sb7o9d/hezbollah_fires_some_130_rockets_at_north_on/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 8,
+      "location": "Northern Israel",
+      "latitude": 33.0,
+      "longitude": 35.5,
+      "detailed_analysis": "Hezbollah has launched a significant rocket attack on northern Israel, firing approximately 130 rockets and resulting in 4 lightly injured individuals. This escalation in violence poses a substantial threat to the safety and security of assets, cargo, aviation, and personnel in the region.",
+      "immediate_forecast_24h": "The situation is likely to remain volatile, with potential for further retaliatory strikes or escalation from either side. There may be disruptions to air traffic, ground transportation, and logistics in the affected areas.",
+      "strategic_outlook": "The long-term implications of this conflict could lead to increased tensions between Israel and Hezbollah, potentially drawing in other regional actors. This may result in sustained instability and heightened security risks for assets, cargo, aviation, and personnel in the region.",
+      "operational_impact": "The rocket attacks may cause disruptions to air traffic, particularly at nearby airports, and could impact ground transportation and logistics. There may be increased security measures and checkpoints, potentially leading to delays or restrictions on the movement of people and goods.",
+      "proximity_alert": null
+    }
   }
 ]
