@@ -1,24 +1,5 @@
 [
   {
-    "id": "b3344117b576448909634257ee00d4d5",
-    "timestamp": "2026-04-02T22:04:15.086403",
-    "original_title": "The Global Ripple Effect of the War in Iran",
-    "link": "https://warontherocks.com/2026/04/the-global-ripple-effect-of-the-war-in-iran/",
-    "source_name": "War on the Rocks",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 8,
-      "location": "Strait of Hormuz, Iran",
-      "latitude": 26.0,
-      "longitude": 56.0,
-      "detailed_analysis": "The ongoing war in Iran poses a significant threat to global shipping and the economy, with the Iranian regime still capable of striking Israel and Gulf allies, and threatening shipping through the Strait of Hormuz.",
-      "immediate_forecast_24h": "Increased tensions and potential for further military action, with possible disruptions to shipping and logistics in the region.",
-      "strategic_outlook": "Long-term instability in the region, with potential for ongoing disruptions to global trade and commerce, and increased risk of conflict escalation.",
-      "operational_impact": "Potential for delays and disruptions to cargo shipments, increased security measures for aviation and maritime transport, and heightened risk of attacks on personnel and assets in the region.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "e9314da045e39d252db61cb1c9c65f92",
     "timestamp": "2026-04-02T23:01:15.936493",
     "original_title": "Hegseth ousts the Army chief of staff as the Iran war rages through Week 5 - npr.org",
@@ -35,6 +16,44 @@
       "strategic_outlook": "Prolonged conflict may lead to long-term disruptions in logistics and supply chains, as well as increased security measures for cargo and personnel.",
       "operational_impact": "Potential for flight restrictions, cargo delays, and increased security protocols for transport and logistics operations in the region.",
       "proximity_alert": null
+    }
+  },
+  {
+    "id": "442fc18e5eb1f596448f6f87ef226c46",
+    "timestamp": "2026-04-03T00:00:06.429702",
+    "original_title": "New Hegseth Order Lets Troops Carry Personal Firearms on Base - Military.com",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMmI3UHUzdFdpZkRVa29vMDFjdzBkRVYwODM2cGxEOFBiU1pibFFiS1hQMnNWNDhhdW8zNmlBZFhvS01zWXo1Mkt1b0ZSZXlWTVFfUHBxTmVYVDZFajhobG9Od1ZFZ1lXendOY2E2RzczaER4QzltUWhvYWRBNnNUalVBcEpVUVJMVndUU3JXUTVsTm44aGl6bTQ2Vm1RTTJGLU85b1FfbVRTSzVs?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Other",
+      "risk_score": 10,
+      "location": "United States",
+      "latitude": 38.8977,
+      "longitude": -77.0365,
+      "detailed_analysis": "The new order allowing troops to carry personal firearms on base may increase the risk of accidental discharge or unauthorized use of firearms, but it does not directly pose a threat to assets, cargo, aviation, or personnel from external sources.",
+      "immediate_forecast_24h": "No immediate increase in threat level is expected, but the situation will be monitored for potential changes in security protocols or incidents related to the new policy.",
+      "strategic_outlook": "In the long term, this policy change may lead to a shift in security protocols and procedures on military bases, potentially affecting the overall security posture and risk landscape.",
+      "operational_impact": "The impact on transport and logistics is expected to be minimal, as the policy change primarily affects personnel and base security rather than external operations or supply chains.",
+      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
+    }
+  },
+  {
+    "id": "3e8683eea25a3a0d32755d0a6560f05e",
+    "timestamp": "2026-04-03T00:00:15.653120",
+    "original_title": "Iran War Live Updates: Strikes Hit Infrastructure Sites in Iran After Trump’s Threat",
+    "link": "https://www.nytimes.com/live/2026/04/02/world/iran-war-trump-news",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The recent strikes on infrastructure sites in Iran, including a major highway bridge and a leading public health institution, pose a significant threat to assets, cargo, aviation, and personnel in the region. The escalation of tensions between Iran and the US could lead to further attacks on critical infrastructure, disrupting logistics and transportation.",
+      "immediate_forecast_24h": "Increased military activity and potential retaliatory strikes from Iran are expected in the next 24 hours, which may impact air traffic and ground transportation in the region.",
+      "strategic_outlook": "The long-term outlook suggests a heightened risk of conflict in the region, which could lead to prolonged disruptions to logistics and transportation, as well as potential shortages of critical supplies.",
+      "operational_impact": "The strikes on infrastructure sites may cause significant disruptions to logistics and transportation in the region, including potential delays or cancellations of flights, and increased risk of cargo theft or damage.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
     }
   }
 ]
