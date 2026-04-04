@@ -226,5 +226,100 @@
       "operational_impact": "Potential disruptions to supply chain management, cargo handling, and aviation operations due to compromised data and systems, highlighting the importance of robust cybersecurity protocols.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "dcaf9631281a2e89dbe3757ef2c14be2",
+    "timestamp": "2026-04-04T06:04:24.217529",
+    "original_title": "US military aircraft hit in Iran war are first shot down by enemy fire in over 20 years - The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQX0RzR0RLVE85M2k1WUVqYkxuNFJtYTBOd1BzcU9abnpZbElyNU9nd0dscDdKNEk0VXpkcHlILU1zTFhReGdCYTF4QUp5XzRyazJ3N2xZU2VZaXZUVmNtRHJ0d0xndjFSNVVyY1pvem1LRXVLa25hbXZMN3pTSUJrVEowbWRwUTRya1k3MmtkdzNNOGtCdUMxdWxnRl9LQ0c5dzktYVU4SFQ0TGdwQURWY05SbmVyT1Z0QVpPUWk1aUpUQ0lsdXF0NV9fOThRUm1B?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "US military aircraft have been shot down by enemy fire in Iran, marking the first such incident in over 20 years. This indicates a significant escalation of conflict and poses a high risk to aviation assets and personnel in the region.",
+      "immediate_forecast_24h": "Increased military activity and potential for further aerial engagements are expected in the short term, posing a high risk to aviation operations in the region.",
+      "strategic_outlook": "The long-term implications of this incident could lead to increased tensions between the US and Iran, potentially affecting global aviation security and logistics.",
+      "operational_impact": "The incident may lead to increased security measures for military and civilian aviation operations in the region, potentially causing disruptions to transport and logistics.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "b0b002ed4eca01749c2a00f27c45a68b",
+    "timestamp": "2026-04-04T06:04:31.758446",
+    "original_title": "Iran executes protest detainee over Basij base fire case",
+    "link": "https://www.reddit.com/r/worldnews/comments/1sc1cvv/iran_executes_protest_detainee_over_basij_base/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 6,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The execution of a protest detainee in Iran over a Basij base fire case indicates heightened tensions and potential for further unrest, which could impact aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Increased protests and potential for violence are expected in the short term, which may lead to disruptions in transportation and logistics.",
+      "strategic_outlook": "The ongoing unrest in Iran may lead to long-term instability, affecting the security and efficiency of transport operations in the region.",
+      "operational_impact": "Potential disruptions to air travel, cargo transport, and personnel movement are expected due to the increased unrest and instability in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "588830298ff05aaeebb4d1dbd5ab7189",
+    "timestamp": "2026-04-04T06:04:33.526819",
+    "original_title": "Death toll in US-Israeli attack on Iran bridge rises to 13",
+    "link": "https://www.reddit.com/r/worldnews/comments/1sc0bcy/death_toll_in_usisraeli_attack_on_iran_bridge/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "A US-Israeli attack on an Iranian bridge has resulted in 13 deaths, indicating heightened tensions between nations and potential for further conflict, which could impact regional stability and transport logistics.",
+      "immediate_forecast_24h": "Increased military presence and heightened security measures are expected in the region, with potential for retaliatory actions from Iran.",
+      "strategic_outlook": "Long-term implications include potential escalation of conflict, impact on global oil prices, and increased instability in the Middle East, affecting aviation, cargo, and personnel movement.",
+      "operational_impact": "Transport and logistics operations in the region may be disrupted due to increased security checks, potential airspace restrictions, and heightened risk of attacks on critical infrastructure.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "9bd4d28ef80bb05b1a555f8d3b8fe903",
+    "timestamp": "2026-04-04T06:04:36.363303",
+    "original_title": "Live: Several blasts heard coming from northern Tehran",
+    "link": "https://www.france24.com/en/middle-east/20260404-live-several-blasts-heard-coming-from-northern-tehran",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Several blasts heard in northern Tehran, indicating potential conflict escalation and aviation risks due to the downing of an American warplane by Iran.",
+      "immediate_forecast_24h": "Increased tensions between Iranian and American forces, potential for further military engagements, and recovery operations for the missing crew member.",
+      "strategic_outlook": "Prolonged conflict in the Middle East may lead to heightened security measures, potential disruptions to air traffic, and increased risks to aviation and personnel.",
+      "operational_impact": "Possible disruptions to flights, increased security checks, and heightened alertness for airlines and airports in the region, affecting cargo and personnel movement.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "2c77be9a6770a8ae5f7be77aba56f625",
+    "timestamp": "2026-04-04T06:04:38.482137",
+    "original_title": "Iran, US race to find crew member of crashed American fighter jet",
+    "link": "https://www.france24.com/en/live-news/20260404-iran-us-race-to-find-crew-member-of-crashed-american-fighter-jet",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 8,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "A US fighter jet has crashed inside Iran, prompting a race between Iranian and American forces to recover the crew member, indicating a high-stakes and potentially volatile situation that could escalate tensions between the two nations and impact aviation security in the region.",
+      "immediate_forecast_24h": "Increased military activity and surveillance in the area, potential for further incidents or clashes between Iranian and American forces, and heightened security measures for aviation assets in the region.",
+      "strategic_outlook": "Long-term implications for regional stability and security, potential for increased military presence and activity in the area, and possible impacts on global aviation security protocols and international relations.",
+      "operational_impact": "Potential disruptions to air traffic and logistics in the region, increased security screening and protocols for flights and cargo, and possible restrictions on airspace usage.",
+      "proximity_alert": null
+    }
   }
 ]
