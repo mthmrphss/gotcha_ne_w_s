@@ -17,5 +17,43 @@
       "operational_impact": "The incident may lead to increased security measures and restrictions on air travel in the region, potentially disrupting cargo and passenger flights, and impacting the operations of airlines, airports, and logistics providers.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "a5d7d9020fdd3f3bf4380a547415b814",
+    "timestamp": "2026-04-04T19:36:49.230579",
+    "original_title": "Russian attack on Ukraine market kills five - BBC",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52TUUtVWI1dzd2b1cweUtBMXM0ZkdUcEhMRGF0OXFvSXRSTEdQRHIzTmRPbmxpUTVGVXkzZHY2UUJ2cnJHRUtmN1N5Q3dYdlU2X1MwQ3JqMEVOdw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "Russian attack on a market in Ukraine resulted in five fatalities, indicating a high level of conflict and potential for further escalation, posing a significant threat to personnel and assets in the region.",
+      "immediate_forecast_24h": "Increased tensions and potential for further attacks in the region, with possible disruptions to logistics and transport operations.",
+      "strategic_outlook": "Long-term instability and conflict in the region could lead to sustained disruptions to cargo and aviation operations, with potential for spillover effects into neighboring countries.",
+      "operational_impact": "Transport and logistics operations in the region may be severely impacted, with potential for delays, cancellations, or rerouting of cargo and flights.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "c9e718499819574b55ffb901f17eac85",
+    "timestamp": "2026-04-04T19:37:36.763253",
+    "original_title": "US authorities arrest relatives of late Iranian military commander who were living in Los Angeles - The Guardian",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMEJRYUhsaDhUZ0dQNVlkYy1TUENLbU5BaGxNTEFUbl9MSXJfbW5VTHdXcGVXMU1RR0FGX1BUWHlzVlNvVzJ1ek5DTjBOc3lpaVZxcWI2RmRibkJGdEtJYTl0VTFEWlBqcHlZSHJVNGMydExZOGZhNVdUa1BWb1lCVXBXbXQ5UXRBVDNGdDcyOUZrYmtoRGNOd2Z3cHM?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict",
+      "risk_score": 10,
+      "location": "Los Angeles, USA",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "detailed_analysis": "The arrest of relatives of a late Iranian military commander may lead to increased tensions between the US and Iran, potentially affecting aviation and cargo operations.",
+      "immediate_forecast_24h": "No immediate impact expected, but heightened security measures may be implemented at Los Angeles airports and ports.",
+      "strategic_outlook": "Long-term implications may include increased scrutiny of Iranian nationals and potential retaliatory actions from Iran, affecting global aviation and cargo security.",
+      "operational_impact": "Minimal direct impact on transport and logistics, but potential for increased security protocols and delays at Los Angeles airports and ports.",
+      "proximity_alert": "YAKIN TEHDİT: Los Angeles International Airport (20 km)"
+    }
   }
 ]
