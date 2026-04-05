@@ -1,21 +1,97 @@
 [
   {
-    "id": "8adb09ac8c34378fab004e05a78b77e4",
-    "timestamp": "2026-04-05T06:44:28.157272",
-    "original_title": "Trump says U.S. military has rescued airman shot down over Iran - NPR",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOc0ZoTURsb1FmSDNxZEdtRXBIQUZSdVNROHhYSkkyYVl6UElhOEpFYkZWSi1zbHV4WHd2WFVSNmpGa19tZ21RME9CVWVhQWRWa3ZFR2JEUGNfVURBRGhBTmYtTERWRlJweDdYMkxZVU5BT08xTWk4S1dNQXJ3YVpMbXhn?oc=5",
+    "id": "ea0c0dc1c5b2032db88e683ae434b9d7",
+    "timestamp": "2026-04-05T07:57:15.149135",
+    "original_title": "Yemen’s Houthis claim cluster missile attack on Israel’s Ben Gurion airport - Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNUV4YU9JdTdtLW9meDVfN2dSVTFjS2ZGc3BPaVVvTmFwTUdCOW5IRnNuUzJxYUdra3Q1MzROZDVpQWZxczM2djBTQ09Va2dRcnVzeklUVlFHa3RySkh4UHpOV2lCWVl6NDk5M256NDJTdV84THdTZ0Z2MFNxYXZiVjdrTGZZRERzNTZxRkwxUTJmc1U2dWZSaThvbldUcUNoVkZ4U3g1VXpjazlMOXJyR2FvLTg4aHVxZGJpREVwM27SAcYBQVVfeXFMTm1EdFhJUnRzZXdzc2xOLWIydXNjUzZfaW9xeFY4UXNyNDVqRlVaMUQ2M0p5Wm5CLXMzVUhrSS1NeGtTSFEzYlBFR0l3eU1tTXpjQjFDblF6UnlSa0ZzYjFjbHdTSVBPcHRLLWg0bDAzWU83NjRjam9QWTFWMUdBMmlwdUQwQXNfVnNpTWstcXhueUdPdXBzM2VHZERHZU1FTEIzcHc4blctT1c3NGRfbnIwRXhnZGEyUXlEZ0tLa29VS2hlbXRR?oc=5",
     "source_name": "Google News (Breaking)",
     "ai_analysis": {
-      "category": "Aviation/Conflict",
+      "category": "Terrorism/Aviation/Conflict",
+      "risk_score": 10,
+      "location": "Tel Aviv, Israel",
+      "latitude": 32.0118,
+      "longitude": 34.8824,
+      "detailed_analysis": "Yemen's Houthis have claimed a cluster missile attack on Israel's Ben Gurion airport, which poses a significant threat to aviation and personnel safety. The attack could lead to disruptions in air travel and potential harm to individuals in the surrounding area.",
+      "immediate_forecast_24h": "Increased security measures are expected at Ben Gurion airport, with possible flight delays or cancellations. There is a high likelihood of retaliatory actions from Israel, which could escalate the conflict.",
+      "strategic_outlook": "The long-term implications of this attack could lead to increased tensions between Israel and Yemen, potentially drawing in other regional actors. This could result in a destabilization of the region, affecting trade and transport routes.",
+      "operational_impact": "The attack may cause disruptions to air cargo and passenger flights, potentially affecting supply chains and logistics operations in the region. Airlines and logistics companies should be prepared for possible changes in flight schedules and security protocols.",
+      "proximity_alert": "YAKIN TEHDİT: Ben Gurion International Airport (12 km)"
+    }
+  },
+  {
+    "id": "b83994fed16334fa25f059505181507e",
+    "timestamp": "2026-04-05T07:57:18.252946",
+    "original_title": "Iran War Live Updates: U.S. Rescues Officer From Downed Fighter Jet in Iran, Trump Says",
+    "link": "https://www.nytimes.com/live/2026/04/05/world/iran-war-trump-news",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
       "risk_score": 8,
       "location": "Iran",
       "latitude": 32.0,
       "longitude": 53.0,
-      "detailed_analysis": "A U.S. airman was shot down over Iran and has been rescued by the U.S. military, indicating a high level of conflict and risk to aviation assets and personnel in the region.",
-      "immediate_forecast_24h": "Increased tensions between the U.S. and Iran may lead to further military action or retaliation, potentially affecting aviation operations and personnel in the region.",
-      "strategic_outlook": "The rescue operation may escalate the conflict between the U.S. and Iran, leading to long-term instability and increased risk to aviation assets, cargo, and personnel in the region.",
-      "operational_impact": "The incident may lead to increased security measures and restrictions on aviation operations in the region, potentially disrupting cargo transport and logistics.",
+      "detailed_analysis": "A U.S. fighter jet crashed in Iran, and the U.S. successfully rescued the injured airman, indicating a high-stakes, high-risk operation with potential for escalation between U.S. and Iranian forces.",
+      "immediate_forecast_24h": "Tensions between the U.S. and Iran are likely to remain elevated, with potential for further military action or retaliation, impacting aviation and personnel safety in the region.",
+      "strategic_outlook": "The incident may lead to a prolonged period of increased tensions, affecting regional stability and potentially impacting global aviation and logistics operations, particularly in the Middle East.",
+      "operational_impact": "The rescue operation and subsequent tensions may lead to increased security measures, airspace restrictions, and potential disruptions to air travel and cargo operations in the region.",
       "proximity_alert": null
+    }
+  },
+  {
+    "id": "4f034a5d55f2490a2e4958d4e08aacae",
+    "timestamp": "2026-04-05T07:57:20.269449",
+    "original_title": "Dozens Killed in Haiti Massacre as International Force Trickles In",
+    "link": "https://www.nytimes.com/2026/04/04/world/americas/haiti-gang-massacre.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest/Crime",
+      "risk_score": 7,
+      "location": "Haiti",
+      "latitude": 18.9712,
+      "longitude": -72.2852,
+      "detailed_analysis": "The recent massacre in Haiti by gangs poses a significant threat to the safety of personnel and cargo in the region. The introduction of a U.N.-backed Gang Suppression Force may lead to increased instability and conflict in the short term.",
+      "immediate_forecast_24h": "Increased violence and instability are expected in the next 24 hours as the Gang Suppression Force begins to deploy and engage with local gangs.",
+      "strategic_outlook": "The long-term outlook for Haiti remains uncertain, with the potential for ongoing conflict and instability. The success of the Gang Suppression Force will be crucial in determining the future security environment.",
+      "operational_impact": "Transport and logistics operations in Haiti may be severely impacted by the ongoing violence and instability, with potential disruptions to supply chains and increased risk to personnel and cargo.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "b7bdb563444574d1d39c19eea446abcc",
+    "timestamp": "2026-04-05T07:57:23.465551",
+    "original_title": "Russian attack on Ukraine market kills five",
+    "link": "https://www.reddit.com/r/worldnews/comments/1scxouj/russian_attack_on_ukraine_market_kills_five/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "A Russian attack on a market in Ukraine has resulted in the deaths of five people, indicating a high level of conflict and instability in the region. This could lead to disruptions in supply chains, logistics, and transportation.",
+      "immediate_forecast_24h": "Increased tensions and potential for further attacks in the region, potentially affecting cargo and personnel movement.",
+      "strategic_outlook": "Long-term instability and conflict in the region could lead to significant disruptions to trade and commerce, with potential for widespread impact on global supply chains.",
+      "operational_impact": "Transportation and logistics operations in the region may be severely impacted, with potential for delays, disruptions, and increased risk to assets and personnel.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "fef1d57907ac989bffad03cadd764bba",
+    "timestamp": "2026-04-05T07:57:26.079742",
+    "original_title": "Cameroon parliament votes to create vice president post",
+    "link": "http://www.africanews.com/2026/04/05/cameroon-parliament-votes-to-create-vice-president-post/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Yaounde, Cameroon",
+      "latitude": 3.8667,
+      "longitude": 11.5167,
+      "detailed_analysis": "The creation of a vice president post in Cameroon's parliament has been met with opposition protests, indicating potential for civil unrest. However, there is no direct indication of a threat to assets, cargo, aviation, or personnel at this time.",
+      "immediate_forecast_24h": "Protests may continue in the short term, potentially disrupting local transportation and logistics, but no major escalation is expected.",
+      "strategic_outlook": "The long-term impact of this political development on the stability of Cameroon is uncertain and will depend on how the opposition and government navigate this change.",
+      "operational_impact": "Minimal direct impact on transport and logistics is expected, but operators should be aware of potential protests and plan accordingly to minimize disruptions.",
+      "proximity_alert": "YAKIN TEHDİT: Yaoundé Nsimalen International Airport (0 km)"
     }
   }
 ]
