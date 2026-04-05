@@ -93,5 +93,81 @@
       "operational_impact": "Minimal operational impact expected in the short term, but potential for future disruptions if labor relations deteriorate or if the agreement sets a precedent for other airlines, leading to increased costs or operational changes.",
       "proximity_alert": "YAKIN TEHDİT: Chicago O'Hare International Airport (0 km)"
     }
+  },
+  {
+    "id": "30deab9f735a25ea0db3f9f210686bcf",
+    "timestamp": "2026-04-05T05:25:36.073551",
+    "original_title": "China Built the World’s Drone Industry. Now It’s Locking Down the Skies.",
+    "link": "https://www.nytimes.com/2026/04/05/world/asia/china-drone-regulations.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Aviation/Regulatory",
+      "risk_score": 10,
+      "location": "Beijing, China",
+      "latitude": 39.9042,
+      "longitude": 116.4074,
+      "detailed_analysis": "The Chinese government has tightened rules on drone use, potentially restricting flights and impacting aviation operations, but no direct threat to assets, cargo, or personnel is reported.",
+      "immediate_forecast_24h": "No significant disruptions expected in the next 24 hours, but drone users may face increased restrictions.",
+      "strategic_outlook": "Long-term, these regulations may lead to increased safety and security in Chinese airspace, but could also hinder commercial drone operations.",
+      "operational_impact": "Potential delays or restrictions on drone-based logistics and transport operations in China.",
+      "proximity_alert": "YAKIN TEHDİT: Beijing Capital International Airport (25 km)"
+    }
+  },
+  {
+    "id": "8b8845a89a13e155b53fc712a42258ed",
+    "timestamp": "2026-04-05T05:25:39.266102",
+    "original_title": "US Deploys Bulk of Stealthy Long-Range Missile for Iran War",
+    "link": "https://www.reddit.com/r/worldnews/comments/1scu9uq/us_deploys_bulk_of_stealthy_longrange_missile_for/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Iran, Middle East",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The US has deployed a bulk of stealthy long-range missiles in preparation for a potential war with Iran, indicating a heightened state of military readiness and increased tensions in the region.",
+      "immediate_forecast_24h": "Increased military activity and heightened alertness in the region, potential for escalation of conflict.",
+      "strategic_outlook": "Prolonged conflict could lead to significant disruptions in global oil supplies, increased risk of cyberattacks, and potential for the conflict to spread to other countries in the region.",
+      "operational_impact": "Potential disruptions to air traffic and logistics in the region, increased risk of attacks on personnel and assets, and potential for the conflict to impact global supply chains.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "cd1e1a64312b550cb1de599cd8c37857",
+    "timestamp": "2026-04-05T05:25:41.552469",
+    "original_title": "Middle East War live: Rescued crew member from downed US fighter jet 'safe and sound,' says Trump",
+    "link": "https://www.france24.com/en/middle-east/20260405-middle-east-war-live-us-airman-rescued-from-iran-safe-and-sound-says-trump",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Middle East",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "A US fighter jet was downed in Iran, and the crew member was rescued in a daring operation. Iran has launched missiles and drones at Israel and Kuwait, indicating a high level of conflict in the region.",
+      "immediate_forecast_24h": "Increased military activity and potential for further escalation in the region, with possible impacts on air travel and logistics.",
+      "strategic_outlook": "The conflict may lead to a prolonged period of instability in the region, affecting trade and transportation routes.",
+      "operational_impact": "Potential disruptions to air traffic, increased security measures, and possible restrictions on cargo transport in the affected areas.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "420da8b1b0dcc1d0c092b0d2ca71b4b4",
+    "timestamp": "2026-04-05T05:25:44.914713",
+    "original_title": "If aviation fuel rationing starts, how might passengers on the three big airlines be affected?",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/aviation-fuel-rationing-british-airways-easyjet-ryanair-b2951895.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 6,
+      "location": "Europe",
+      "latitude": 51.5074,
+      "longitude": 0.1278,
+      "detailed_analysis": "Aviation fuel rationing could lead to schedule culls, affecting passengers on British Airways, easyJet, and Ryanair, potentially causing disruptions and delays in flight operations.",
+      "immediate_forecast_24h": "Passengers may experience flight cancellations or rescheduling, and airlines may need to adjust their operations to mitigate the impact of fuel rationing.",
+      "strategic_outlook": "The long-term impact of fuel rationing on the aviation industry could lead to changes in airline operations, route adjustments, and potential increases in ticket prices.",
+      "operational_impact": "Fuel rationing could lead to reduced flight frequencies, changes in flight schedules, and potential impacts on cargo transport, affecting the overall efficiency of the aviation industry.",
+      "proximity_alert": null
+    }
   }
 ]
