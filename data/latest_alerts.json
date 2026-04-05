@@ -1,24 +1,5 @@
 [
   {
-    "id": "a56da7ebf510eeccbbee7050c72c2ec1",
-    "timestamp": "2026-04-05T13:13:25.001510",
-    "original_title": "Trump pulls off 'miraculous' rescue. But this will hurt him at home",
-    "link": "https://www.reddit.com/r/geopolitics/comments/1sd2k84/trump_pulls_off_miraculous_rescue_but_this_will/",
-    "source_name": "Reddit r/Geopolitics",
-    "ai_analysis": {
-      "category": "Aviation/Conflict",
-      "risk_score": 8,
-      "location": "Iran",
-      "latitude": 32.0,
-      "longitude": 53.0,
-      "detailed_analysis": "A jet crash in Iran with potential implications for international conflict and aviation safety. The event may escalate tensions and impact air travel.",
-      "immediate_forecast_24h": "Increased military presence and surveillance in the region, potential for retaliatory actions or diplomatic fallout.",
-      "strategic_outlook": "Long-term implications for global aviation security, potential shifts in international relations and conflict dynamics.",
-      "operational_impact": "Possible disruptions to air traffic, increased security measures for flights in the region, and heightened alertness for aviation personnel.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "93ef55e60ebc02f2fa63e9a650e1d83e",
     "timestamp": "2026-04-05T14:07:10.212829",
     "original_title": "Iran War Live Updates: Trump Escalates Threat to Hit Iranian Power Plants After U.S. Rescues Downed Airman",
@@ -34,6 +15,25 @@
       "immediate_forecast_24h": "Increased military presence and heightened tensions in the region, potential for further incidents or accidents involving US or Iranian military assets.",
       "strategic_outlook": "Prolonged conflict or heightened tensions between the US and Iran could lead to long-term disruptions to global supply chains, increased insurance costs, and higher risk premiums for operators in the region.",
       "operational_impact": "Potential for flight restrictions, airspace closures, or shipping lane disruptions, increased security measures for cargo and personnel, possible delays or cancellations of flights and shipments.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "d61763c00a50fc1d9fe1c58920368d84",
+    "timestamp": "2026-04-05T15:03:17.486252",
+    "original_title": "Louisville businesses still struggling 5 months after deadly UPS plane crash - WDRB",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPanBKZkhscU1sd3FYMjl5NFg3ekVkd0k0TnhKTlZlYl9NbXUwV1dSUWpzSHFYR3U2SUNoVmdSbG5ub0pTZTlNSUVhZ1RLUHJWb0ctTWpSQUxpVnROQUVGSW0zMVpGclJBX2g5dVFpT1ZZNWtUVkl4X3B4bHVZQ1h1ZWRPeWNMYlJKa1BCdEZpcU1MM0pzMTR5dm91SnM4UGhWWWhPMXNCb1I0bHdMM2F2ZFgtaS1jbWVpalVzSHpJOWF6SmxpRjl1V3Q3R2lFRzBES2ZRdVpxbGhoUmlWWk5CSU9KekxwenM?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 8,
+      "location": "Louisville, USA",
+      "latitude": 38.2542,
+      "longitude": -85.7594,
+      "detailed_analysis": "A UPS plane crash occurred 5 months ago, and the area is still experiencing disruptions. The crash has had a significant impact on local businesses, suggesting potential operational and logistical challenges.",
+      "immediate_forecast_24h": "No immediate threats are reported, but the aftermath of the crash may still be affecting aviation and cargo operations in the area.",
+      "strategic_outlook": "The long-term effects of the crash on the local economy and aviation industry will depend on the response and recovery efforts. Increased security measures may be implemented to prevent similar incidents.",
+      "operational_impact": "The crash has already caused disruptions to local businesses, and the aviation industry may experience increased scrutiny and security measures, potentially affecting cargo and personnel operations.",
       "proximity_alert": null
     }
   }
