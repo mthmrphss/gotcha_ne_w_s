@@ -473,5 +473,24 @@
       "operational_impact": "Potential disruptions to air traffic and logistics operations in the region, with increased security measures and possible restrictions on flight paths and cargo transport.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "026cdcd5a0c9b93b75e64c8be79f954f",
+    "timestamp": "2026-04-05T16:50:44.551994",
+    "original_title": "More Than 70 Migrants Missing After Boat Capsizes Off Libya",
+    "link": "https://www.nytimes.com/2026/04/05/world/europe/migrants-missing-boat-capsize-libya.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Border",
+      "risk_score": 6,
+      "location": "Libya",
+      "latitude": 32.8667,
+      "longitude": 11.75,
+      "detailed_analysis": "A boat carrying over 100 migrants capsized off the coast of Libya, resulting in at least 70 missing persons. This incident highlights the risks associated with human trafficking and the potential for border breaches affecting transport.",
+      "immediate_forecast_24h": "Increased surveillance and rescue operations are expected in the region, with potential disruptions to maritime traffic.",
+      "strategic_outlook": "The ongoing migrant crisis in the region may lead to further incidents, emphasizing the need for enhanced border security and cooperation between countries to prevent such tragedies.",
+      "operational_impact": "Shipping and logistics operations in the region may be affected by increased security measures, potential delays, and the need for enhanced vigilance to prevent stowaways and human trafficking.",
+      "proximity_alert": null
+    }
   }
 ]

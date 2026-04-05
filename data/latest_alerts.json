@@ -1,24 +1,5 @@
 [
   {
-    "id": "d61763c00a50fc1d9fe1c58920368d84",
-    "timestamp": "2026-04-05T15:03:17.486252",
-    "original_title": "Louisville businesses still struggling 5 months after deadly UPS plane crash - WDRB",
-    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPanBKZkhscU1sd3FYMjl5NFg3ekVkd0k0TnhKTlZlYl9NbXUwV1dSUWpzSHFYR3U2SUNoVmdSbG5ub0pTZTlNSUVhZ1RLUHJWb0ctTWpSQUxpVnROQUVGSW0zMVpGclJBX2g5dVFpT1ZZNWtUVkl4X3B4bHVZQ1h1ZWRPeWNMYlJKa1BCdEZpcU1MM0pzMTR5dm91SnM4UGhWWWhPMXNCb1I0bHdMM2F2ZFgtaS1jbWVpalVzSHpJOWF6SmxpRjl1V3Q3R2lFRzBES2ZRdVpxbGhoUmlWWk5CSU9KekxwenM?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Aviation",
-      "risk_score": 8,
-      "location": "Louisville, USA",
-      "latitude": 38.2542,
-      "longitude": -85.7594,
-      "detailed_analysis": "A UPS plane crash occurred 5 months ago, and the area is still experiencing disruptions. The crash has had a significant impact on local businesses, suggesting potential operational and logistical challenges.",
-      "immediate_forecast_24h": "No immediate threats are reported, but the aftermath of the crash may still be affecting aviation and cargo operations in the area.",
-      "strategic_outlook": "The long-term effects of the crash on the local economy and aviation industry will depend on the response and recovery efforts. Increased security measures may be implemented to prevent similar incidents.",
-      "operational_impact": "The crash has already caused disruptions to local businesses, and the aviation industry may experience increased scrutiny and security measures, potentially affecting cargo and personnel operations.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "249f214f029fd1d625e3f9c16eb564ed",
     "timestamp": "2026-04-05T15:57:40.266352",
     "original_title": "South Korean military helicopter mistakenly enters DMZ during wildfire operation - NK News",
@@ -53,6 +34,44 @@
       "immediate_forecast_24h": "Increased military activity and potential for further escalation between Iran and the US, with possible impacts on regional air traffic and security.",
       "strategic_outlook": "Long-term implications for regional stability and security, with potential for ongoing military tensions and conflicts that could affect aviation and logistics operations.",
       "operational_impact": "Potential disruptions to air traffic and logistics operations in the region, with increased security measures and possible restrictions on flight paths and cargo transport.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "026cdcd5a0c9b93b75e64c8be79f954f",
+    "timestamp": "2026-04-05T16:50:44.551994",
+    "original_title": "More Than 70 Migrants Missing After Boat Capsizes Off Libya",
+    "link": "https://www.nytimes.com/2026/04/05/world/europe/migrants-missing-boat-capsize-libya.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Border",
+      "risk_score": 6,
+      "location": "Libya",
+      "latitude": 32.8667,
+      "longitude": 11.75,
+      "detailed_analysis": "A boat carrying over 100 migrants capsized off the coast of Libya, resulting in at least 70 missing persons. This incident highlights the risks associated with human trafficking and the potential for border breaches affecting transport.",
+      "immediate_forecast_24h": "Increased surveillance and rescue operations are expected in the region, with potential disruptions to maritime traffic.",
+      "strategic_outlook": "The ongoing migrant crisis in the region may lead to further incidents, emphasizing the need for enhanced border security and cooperation between countries to prevent such tragedies.",
+      "operational_impact": "Shipping and logistics operations in the region may be affected by increased security measures, potential delays, and the need for enhanced vigilance to prevent stowaways and human trafficking.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "f5ec4ad52eeab4c6a85434b15c6f8a43",
+    "timestamp": "2026-04-05T16:51:54.024256",
+    "original_title": "Two dead, dozens missing after migrant boat capsizes in Mediterranean",
+    "link": "https://www.france24.com/en/europe/20260405-two-dead-dozens-missing-after-migrant-boat-capsizes-in-mediterranean",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Border",
+      "risk_score": 5,
+      "location": "Mediterranean",
+      "latitude": 38.0,
+      "longitude": 15.0,
+      "detailed_analysis": "A migrant boat capsized in the Mediterranean, resulting in at least two deaths and dozens missing. The incident highlights the risks associated with migrant crossings and potential border breaches affecting transport.",
+      "immediate_forecast_24h": "Increased search and rescue efforts are expected in the next 24 hours, with potential disruptions to maritime traffic in the area.",
+      "strategic_outlook": "The long-term view suggests continued migrant crossing attempts, posing a risk to border security and transport operations in the region.",
+      "operational_impact": "The incident may lead to increased security measures and surveillance in the Mediterranean, potentially affecting maritime transport and logistics operations.",
       "proximity_alert": null
     }
   }
