@@ -17,5 +17,43 @@
       "operational_impact": "Potential for flight disruptions, increased security measures at airports, and possible restrictions on cargo transport in the region.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "56ad16f54e35dcec75c0129495346220",
+    "timestamp": "2026-04-06T20:05:52.922837",
+    "original_title": "Iran rejects a U.S. ceasefire plan as Trump again threatens to bomb its infrastructure",
+    "link": "https://www.reddit.com/r/worldnews/comments/1se9v1j/iran_rejects_a_us_ceasefire_plan_as_trump_again/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Iran has rejected a US ceasefire plan, and President Trump has threatened to bomb Iran's infrastructure, increasing tensions between the two nations and posing a significant risk to regional stability and global security.",
+      "immediate_forecast_24h": "Escalation of tensions, potential military action, and increased security measures in the region are expected in the next 24 hours.",
+      "strategic_outlook": "The long-term outlook suggests a prolonged period of heightened tensions, potentially leading to a significant impact on global trade, oil prices, and regional security.",
+      "operational_impact": "The conflict may disrupt air traffic, impact cargo shipments, and affect personnel safety in the region, particularly in Iran and neighboring countries.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "312d6f8f8155a28074e910cac495e7d2",
+    "timestamp": "2026-04-06T20:08:22.199557",
+    "original_title": "Burkina Faso: Govt. denies report alleging more than 1,800 killed since junta took power",
+    "link": "http://www.africanews.com/2026/04/06/burkina-faso-govt-denies-report-alleging-more-than-1800-killed-since-junta-took-power/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Ouagadougou, Burkina Faso",
+      "latitude": 12.35,
+      "longitude": -1.53,
+      "detailed_analysis": "The government's denial of the report alleging over 1,800 civilian deaths since the junta took power may indicate ongoing instability and potential for increased violence, posing a threat to personnel and assets in the region.",
+      "immediate_forecast_24h": "Tensions may escalate between the government and opposition groups, potentially leading to protests or clashes, which could impact aviation and cargo operations.",
+      "strategic_outlook": "The long-term stability of Burkina Faso remains uncertain, with potential for continued conflict and unrest, affecting the security of assets, cargo, and personnel in the region.",
+      "operational_impact": "Transport and logistics operations may be disrupted due to potential unrest, and aviation operations may be affected by increased security measures or potential strikes.",
+      "proximity_alert": "YAKIN TEHDİT: Ouagadougou Airport (1 km)"
+    }
   }
 ]
