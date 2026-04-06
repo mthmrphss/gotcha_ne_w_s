@@ -1,43 +1,5 @@
 [
   {
-    "id": "8179354cc99cefd8cd22b6b83c44ce74",
-    "timestamp": "2026-04-06T15:55:24.747472",
-    "original_title": "IDF: Palestinian terrorists violate Gaza ceasefire 22 times since start of Iran war - Foundation for Defense of Democracies",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNEpwTVhxT0k1ZE5DXzhYVjJmXzhKbm1DS1RPd3BLd1Mzc0E1aVFMQkQ5b3FXbUJSdXlZQ2ZTZWt2cVV3cFhGbUpETFkwem1EeG01aEZEeFFocTZfSWlPLWFnOHdCbjRxaExnMmgyaU8xeURPcGk5QjJqNVZxc29uYTNUeDAweFhZMEwwaGdJQ25OdjBaN3d6Q2lleEJBcng1NURpdHE2Vm9VNTFnV3BjYmY2TC1XQmNETUZodXJHWDU?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Conflict/Terrorism",
-      "risk_score": 8,
-      "location": "Gaza, Palestine",
-      "latitude": 31.5,
-      "longitude": 34.5,
-      "detailed_analysis": "Palestinian terrorists have violated the Gaza ceasefire 22 times since the start of the Iran war, posing a significant threat to regional stability and aviation security.",
-      "immediate_forecast_24h": "Increased tensions and potential for further ceasefire violations, with possible escalation of violence affecting aviation and logistics in the region.",
-      "strategic_outlook": "Long-term instability in the region may lead to sustained security threats, impacting cargo transport, aviation, and personnel safety.",
-      "operational_impact": "Potential disruptions to air traffic, increased security measures, and heightened risk of attacks on transport infrastructure and personnel.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "51ba787e86215dec4dbee35b67644677",
-    "timestamp": "2026-04-06T15:56:30.176798",
-    "original_title": "Nigeria troops rescue 31 abducted Easter worshippers in Kaduna attack",
-    "link": "http://www.africanews.com/2026/04/06/nigeria-troops-rescue-31-abducted-easter-worshippers-in-kaduna-attack/",
-    "source_name": "Africa News",
-    "ai_analysis": {
-      "category": "Conflict/Civil Unrest/Terrorism",
-      "risk_score": 7,
-      "location": "Kaduna, Nigeria",
-      "latitude": 10.5167,
-      "longitude": 7.4333,
-      "detailed_analysis": "The abduction of Easter worshippers in Kaduna state by armed groups poses a significant threat to personnel and potentially to cargo and aviation if the conflict escalates or spreads to other areas, including airports or logistics hubs.",
-      "immediate_forecast_24h": "Increased military presence and patrols are expected in the area, potentially leading to temporary disruptions in transport and logistics. The situation could escalate if the perpetrators are not apprehended or if there are retaliatory attacks.",
-      "strategic_outlook": "Long-term stability in the region is at risk due to recurring attacks and kidnappings, which could deter investment, affect supply chains, and compromise the security of assets, cargo, and personnel. The Nigerian government's response to these incidents will be crucial in determining the future security landscape.",
-      "operational_impact": "Transport and logistics operations in and around Kaduna may face disruptions due to the enhanced security measures and potential for further violence. Companies operating in the area should review their security protocols and consider contingency plans to mitigate risks to their assets, cargo, and personnel.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "0ce534cfb75ab3e5c9c80da59ae56057",
     "timestamp": "2026-04-06T17:01:31.123807",
     "original_title": "Airbridge Crashed into Cockpit of Boeing 737 Sending Glass Flying Towards Pilots… On Two Seperate Occasions",
@@ -54,6 +16,44 @@
       "strategic_outlook": "The incident may lead to a review of airbridge maintenance and operational procedures at the airport, potentially resulting in changes to standard operating procedures and staff training programs.",
       "operational_impact": "The incident may cause some disruption to flight operations, particularly if airbridge operations are restricted or modified. However, the overall impact on transport and logistics is expected to be minimal.",
       "proximity_alert": null
+    }
+  },
+  {
+    "id": "e047ad744f4bb611a6c3f9411eaae103",
+    "timestamp": "2026-04-06T17:56:48.535551",
+    "original_title": "Iran War Live Updates: Trump Details Rescue of Airman as He Vows New Attacks",
+    "link": "https://www.nytimes.com/live/2026/04/06/world/iran-war-trump-israel",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The threat of new attacks by the US on Iran, including strikes on power plants and bridges, poses a significant risk to aviation and logistics in the region. The closure of the Strait of Hormuz could severely impact cargo transport and global oil supplies.",
+      "immediate_forecast_24h": "Increased tensions and potential for military action in the next 24 hours, with possible disruptions to air traffic and shipping in the region.",
+      "strategic_outlook": "Long-term escalation of conflict could lead to prolonged disruptions to global supply chains, increased insurance costs, and higher risk of accidents or attacks on aircraft and cargo vessels.",
+      "operational_impact": "Potential for flight cancellations, rerouting of cargo ships, and increased security measures at airports and seaports in the region, leading to delays and increased costs for logistics and transport operations.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "21d10289577e859459b52e6dd85d80bf",
+    "timestamp": "2026-04-06T17:57:52.559957",
+    "original_title": "Zambia: Government declares fuel supply situation an emergency",
+    "link": "http://www.africanews.com/2026/04/06/zambia-government-declares-fuel-supply-situation-an-emergency/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Other",
+      "risk_score": 10,
+      "location": "Lusaka, Zambia",
+      "latitude": -15.4067,
+      "longitude": 28.2871,
+      "detailed_analysis": "The Zambian government has declared a state of emergency due to the fuel supply situation, which may lead to civil unrest, protests, and potential disruptions to transportation and logistics.",
+      "immediate_forecast_24h": "Increased security presence, potential fuel shortages, and civil unrest are expected in the short term.",
+      "strategic_outlook": "The situation may escalate if the fuel supply situation is not resolved, potentially leading to long-term disruptions to the economy and transportation infrastructure.",
+      "operational_impact": "Potential delays and disruptions to cargo transport, aviation, and personnel movement due to fuel shortages and civil unrest.",
+      "proximity_alert": "YAKIN TEHDİT: Kenneth Kaunda International Airport (19 km)"
     }
   }
 ]
