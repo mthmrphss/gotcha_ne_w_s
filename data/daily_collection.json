@@ -188,5 +188,81 @@
       "operational_impact": "The attack may cause delays or cancellations of flights, and disruptions to cargo handling and logistics operations at Baghdad Airport, with potential ripple effects on regional supply chains.",
       "proximity_alert": "YAKIN TEHDİT: Baghdad International Airport (13 km)"
     }
+  },
+  {
+    "id": "ff317f05d363ffda45b184dc6fabd668",
+    "timestamp": "2026-04-06T07:55:37.557214",
+    "original_title": "Iran War Live Updates: Israel and Iran Trade Attacks After Trump’s New Hormuz Ultimatum",
+    "link": "https://www.nytimes.com/live/2026/04/06/world/iran-war-trump-israel",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "Strait of Hormuz, Middle East",
+      "latitude": 26.0,
+      "longitude": 56.0,
+      "detailed_analysis": "The threat of bombing power plants and bridges by the US if Iran does not open the Strait of Hormuz has led to retaliatory attacks between Israel and Iran, posing a significant risk to aviation, cargo, and personnel in the region.",
+      "immediate_forecast_24h": "Escalation of conflict is likely, with potential for further attacks on strategic targets, including those related to aviation and logistics.",
+      "strategic_outlook": "The conflict may lead to a prolonged period of instability in the region, affecting global oil supplies and trade routes, with potential for cyberattacks and other forms of sabotage.",
+      "operational_impact": "Shipping and aviation operations in the region may be severely disrupted, with potential for delays, cancellations, and increased security measures, impacting cargo and personnel movement.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "529f316f7120706f32a69be9aacc26eb",
+    "timestamp": "2026-04-06T07:55:40.920330",
+    "original_title": "Airstrikes on Iran kill more than 25 as Trump's deadline to open Strait of Hormuz looms",
+    "link": "https://www.reddit.com/r/worldnews/comments/1sdro4x/airstrikes_on_iran_kill_more_than_25_as_trumps/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Airstrikes on Iran have resulted in over 25 casualties, with the US deadline to open the Strait of Hormuz looming, potentially escalating tensions in the region and impacting aviation and cargo operations.",
+      "immediate_forecast_24h": "Increased military activity and potential retaliation from Iran, affecting air traffic and maritime operations in the region.",
+      "strategic_outlook": "Prolonged conflict could lead to long-term disruptions in global oil supplies, increased insurance costs, and heightened security measures for aviation and cargo operations.",
+      "operational_impact": "Potential delays or cancellations of flights, increased security screening, and rerouting of cargo ships to avoid the Strait of Hormuz, leading to increased costs and reduced efficiency for logistics operations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "d3836480ed626aeffb403568eea60f8e",
+    "timestamp": "2026-04-06T07:55:43.275385",
+    "original_title": "The Age of Unlearning: How Democracies Lost Their Grip on Strategic Time",
+    "link": "https://warontherocks.com/2026/04/the-age-of-unlearning-how-democracies-lost-their-grip-on-strategic-time/",
+    "source_name": "War on the Rocks",
+    "ai_analysis": {
+      "category": "Conflict/Other",
+      "risk_score": 10,
+      "location": "United States",
+      "latitude": 38.8977,
+      "longitude": -77.0365,
+      "detailed_analysis": "The article discusses the decline of long-term strategic thinking in the United States, particularly in the context of defense and national security. The dismantling of the Pentagon's Office of Net Assessment is cited as an example of this trend.",
+      "immediate_forecast_24h": "No immediate threats are identified, but the decline of strategic thinking may lead to increased vulnerabilities in the long term.",
+      "strategic_outlook": "The erosion of strategic capabilities may compromise the ability of the United States to respond to emerging threats and challenges, potentially affecting national security and global stability.",
+      "operational_impact": "The impact on transport and logistics is indirect, but a decline in strategic thinking may lead to decreased investment in critical infrastructure and capabilities, potentially affecting the efficiency and security of supply chains.",
+      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
+    }
+  },
+  {
+    "id": "648f4ceefe52acfa290454472176226a",
+    "timestamp": "2026-04-06T07:55:47.064551",
+    "original_title": "Middle East war live: Iran Revolutionary Guards’ intelligence chief Khademi killed in strikes",
+    "link": "https://www.france24.com/en/middle-east/20260406-middle-east-war-live-iran-vows-harsh-response-after-usa-trump-threatens-civilian-targets",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "Middle East",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The killing of the head of the Revolutionary Guards' intelligence organisation, Majid Khademi, in US-Israeli air strikes significantly escalates tensions in the Middle East, posing a high risk to aviation, cargo, and personnel in the region due to potential retaliatory actions.",
+      "immediate_forecast_24h": "Increased military activity and heightened alertness are expected in the next 24 hours, with potential for further airstrikes or retaliatory attacks, which could impact air travel and cargo operations in the region.",
+      "strategic_outlook": "The long-term view suggests an increased risk of conflict escalation, potentially drawing in other regional actors, and impacting global oil prices, trade routes, and security measures for aviation and cargo operations.",
+      "operational_impact": "The operational impact is significant, with potential disruptions to air travel, increased security measures at airports, and possible rerouting of cargo shipments to avoid the conflict zone, leading to delays and increased costs for logistics and transport operations.",
+      "proximity_alert": null
+    }
   }
 ]
