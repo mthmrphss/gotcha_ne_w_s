@@ -1,59 +1,21 @@
 [
   {
-    "id": "0ce534cfb75ab3e5c9c80da59ae56057",
-    "timestamp": "2026-04-06T17:01:31.123807",
-    "original_title": "Airbridge Crashed into Cockpit of Boeing 737 Sending Glass Flying Towards Pilots… On Two Seperate Occasions",
-    "link": "https://www.paddleyourownkanoo.com/2026/04/06/airbridge-crashed-into-cockpit-of-boeing-737-sending-glass-flying-towards-pilots-on-two-seperate-occasions/",
-    "source_name": "Paddle Your Own Kanoo",
-    "ai_analysis": {
-      "category": "Aviation",
-      "risk_score": 8,
-      "location": "Brisbane, Australia",
-      "latitude": -27.3869,
-      "longitude": 153.0215,
-      "detailed_analysis": "An airbridge crashed into the cockpit of a Boeing 737 on two separate occasions, sending glass flying towards the pilots, but no injuries were reported. This incident highlights a potential safety risk at Brisbane International Airport.",
-      "immediate_forecast_24h": "Enhanced safety protocols are expected to be implemented at the airport to prevent similar incidents. Pilots and airport staff may be on high alert, and airbridge operations may be subject to additional scrutiny.",
-      "strategic_outlook": "The incident may lead to a review of airbridge maintenance and operational procedures at the airport, potentially resulting in changes to standard operating procedures and staff training programs.",
-      "operational_impact": "The incident may cause some disruption to flight operations, particularly if airbridge operations are restricted or modified. However, the overall impact on transport and logistics is expected to be minimal.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "e047ad744f4bb611a6c3f9411eaae103",
-    "timestamp": "2026-04-06T17:56:48.535551",
-    "original_title": "Iran War Live Updates: Trump Details Rescue of Airman as He Vows New Attacks",
+    "id": "bd01bc1bd60383ec00245deb88a1dc44",
+    "timestamp": "2026-04-06T19:14:07.555941",
+    "original_title": "Iran War Live Updates: Trump Renews Threat of Attacks on Bridges and Power Plants",
     "link": "https://www.nytimes.com/live/2026/04/06/world/iran-war-trump-israel",
     "source_name": "NewYork Times",
     "ai_analysis": {
-      "category": "Conflict/Aviation",
-      "risk_score": 10,
-      "location": "Tehran, Iran",
-      "latitude": 35.6892,
-      "longitude": 51.389,
-      "detailed_analysis": "The threat of new attacks by the US on Iran, including strikes on power plants and bridges, poses a significant risk to aviation and logistics in the region. The closure of the Strait of Hormuz could severely impact cargo transport and global oil supplies.",
-      "immediate_forecast_24h": "Increased tensions and potential for military action in the next 24 hours, with possible disruptions to air traffic and shipping in the region.",
-      "strategic_outlook": "Long-term escalation of conflict could lead to prolonged disruptions to global supply chains, increased insurance costs, and higher risk of accidents or attacks on aircraft and cargo vessels.",
-      "operational_impact": "Potential for flight cancellations, rerouting of cargo ships, and increased security measures at airports and seaports in the region, leading to delays and increased costs for logistics and transport operations.",
-      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
-    }
-  },
-  {
-    "id": "21d10289577e859459b52e6dd85d80bf",
-    "timestamp": "2026-04-06T17:57:52.559957",
-    "original_title": "Zambia: Government declares fuel supply situation an emergency",
-    "link": "http://www.africanews.com/2026/04/06/zambia-government-declares-fuel-supply-situation-an-emergency/",
-    "source_name": "Africa News",
-    "ai_analysis": {
-      "category": "Conflict/Other",
-      "risk_score": 10,
-      "location": "Lusaka, Zambia",
-      "latitude": -15.4067,
-      "longitude": 28.2871,
-      "detailed_analysis": "The Zambian government has declared a state of emergency due to the fuel supply situation, which may lead to civil unrest, protests, and potential disruptions to transportation and logistics.",
-      "immediate_forecast_24h": "Increased security presence, potential fuel shortages, and civil unrest are expected in the short term.",
-      "strategic_outlook": "The situation may escalate if the fuel supply situation is not resolved, potentially leading to long-term disruptions to the economy and transportation infrastructure.",
-      "operational_impact": "Potential delays and disruptions to cargo transport, aviation, and personnel movement due to fuel shortages and civil unrest.",
-      "proximity_alert": "YAKIN TEHDİT: Kenneth Kaunda International Airport (19 km)"
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "Iran, Middle East",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The threat of attacks on bridges and power plants by the US against Iran poses a significant risk to aviation and logistics in the region. The mixed messages from both countries about escalating the war and diplomacy to end it increases uncertainty and potential for conflict.",
+      "immediate_forecast_24h": "Increased tensions and potential for military action in the next 24 hours, with possible disruptions to air travel and logistics in the region.",
+      "strategic_outlook": "Long-term escalation of the conflict could lead to significant disruptions to global supply chains, increased risk of terrorism, and potential for widespread instability in the region.",
+      "operational_impact": "Potential for flight disruptions, increased security measures at airports, and possible restrictions on cargo transport in the region.",
+      "proximity_alert": null
     }
   }
 ]
