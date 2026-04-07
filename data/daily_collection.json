@@ -758,5 +758,62 @@
       "operational_impact": "The incident may cause disruptions to transportation and logistics operations in the area, particularly if security measures are heightened or if there are further incidents. Cargo and aviation operations may be affected, and personnel may face increased risks when traveling to or operating in the region.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "2732c13ddfb2515c478ae0ad69474090",
+    "timestamp": "2026-04-07T19:37:44.189864",
+    "original_title": "US strikes Kharg Island military targets, American official confirms to 'Post' - The Jerusalem Post",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13ZG04cHpzcTBraUhMaEVFRjgwaWJsd19pYzB1R1NOLUE2cWFseW1UbUVSV0hiVnk2VHZ5X2VXRHBabU0xVHhXRFMyaWFFY3BONFhMaXdwTktUcVBLcHZsUC1ucjN5amNSS1E?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Kharg Island, Iran",
+      "latitude": 29.2333,
+      "longitude": 50.3167,
+      "detailed_analysis": "US military strike on Kharg Island military targets poses significant risk to regional stability and potential escalation of conflict, impacting aviation and cargo operations in the area.",
+      "immediate_forecast_24h": "Increased military activity and potential retaliation from Iranian forces, heightened security measures at nearby airports and ports.",
+      "strategic_outlook": "Long-term implications for regional security and trade, potential disruption to global oil supplies and shipping lanes.",
+      "operational_impact": "Possible delays or cancellations of flights and cargo shipments, increased security protocols for personnel and assets in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "d3bc2335265293b70e74054c75172fde",
+    "timestamp": "2026-04-07T19:37:49.245244",
+    "original_title": "With Trump Threatening a Genocide in Iran, Military Must Disobey His Orders, Former Pentagon Officials Say",
+    "link": "https://www.reddit.com/r/worldnews/comments/1sf6c4p/with_trump_threatening_a_genocide_in_iran/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Former Pentagon officials warn that military must disobey Trump's orders if they threaten genocide in Iran, indicating a high level of conflict and potential for escalation",
+      "immediate_forecast_24h": "Increased tensions between the US and Iran, potential for military action or retaliation",
+      "strategic_outlook": "Long-term instability in the region, potential for widespread conflict and humanitarian crisis",
+      "operational_impact": "Potential disruption to air travel, cargo transport, and logistics in the region, increased security measures and risk of attack on personnel and assets",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "b6b9a6e3ace30e4bf9c46720b3b6ead6",
+    "timestamp": "2026-04-07T19:37:56.476571",
+    "original_title": "U.S. Warns of Cyberattacks Tied to Iran on Water and Energy Systems",
+    "link": "https://www.reddit.com/r/worldnews/comments/1sf645c/us_warns_of_cyberattacks_tied_to_iran_on_water/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 8,
+      "location": "United States",
+      "latitude": 37.0902,
+      "longitude": -95.7129,
+      "detailed_analysis": "The U.S. has warned of potential cyberattacks tied to Iran targeting water and energy systems, which could have significant implications for national security and infrastructure. This threat has the potential to disrupt critical services and impact the daily lives of citizens.",
+      "immediate_forecast_24h": "In the next 24 hours, there is a high likelihood of increased cyberactivity from Iranian actors, potentially targeting U.S. water and energy systems. This could lead to disruptions in service, data breaches, or other malicious activity.",
+      "strategic_outlook": "In the long term, this threat highlights the ongoing tensions between the U.S. and Iran, and the potential for cyberwarfare to be used as a tool of statecraft. This could lead to a prolonged period of heightened cyberthreats, requiring ongoing vigilance and investment in cybersecurity measures.",
+      "operational_impact": "The potential cyberattacks on water and energy systems could have significant operational impacts on transport and logistics, particularly if critical infrastructure is disrupted. This could lead to delays, cancellations, or other disruptions to supply chains and transportation networks.",
+      "proximity_alert": null
+    }
   }
 ]
