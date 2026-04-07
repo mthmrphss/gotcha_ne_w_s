@@ -492,5 +492,81 @@
       "operational_impact": "The attack may cause short-term disruptions to logistics and transportation operations in Istanbul, particularly those related to diplomatic or high-security cargo. Airlines and airports may also enhance security protocols.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "f248f545f2de5b66da9593070338c87b",
+    "timestamp": "2026-04-07T13:52:49.417817",
+    "original_title": "US hits military targets on Iran's Kharg Island, Vance says no change to strategy - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQnllNW1Zd0hZZEJ5WF9ZV2RVRS1nZlNUS2lWN2pZMGM2WFBWNXlxNk9INVF0ZFd2S2RiUFdUQkVjSjltYkN5VmZxanBTdU9xUmFQRFc0M0JHUlNpVjJIWHpFSWhMbVo1QzM5YmtOMXdtbGl4UUJSMGE4YVk1MU9uT1JueHgwU3NPOHBUQzFNSF8tblJpOS1ZNG9kRGgwNGtmM1hVSWduMjZlSmRiVXJGN0FGWktYUy10?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Kharg Island, Iran",
+      "latitude": 29.2333,
+      "longitude": 50.3167,
+      "detailed_analysis": "The US has conducted a military strike on Iran's Kharg Island, targeting military assets. This action may escalate tensions between the US and Iran, potentially affecting regional stability and global oil supplies.",
+      "immediate_forecast_24h": "Increased tensions and potential retaliation from Iran, possibly targeting US or allied interests in the region.",
+      "strategic_outlook": "Long-term implications include potential disruption to global oil markets, increased risk of conflict in the Middle East, and heightened security concerns for aviation and maritime operations in the region.",
+      "operational_impact": "Potential disruptions to oil supplies, increased security measures for aviation and maritime operations, and heightened risk of conflict-related incidents affecting transport and logistics in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "eef5ed9a9da28790a668b94ebd01cb6e",
+    "timestamp": "2026-04-07T13:52:51.501598",
+    "original_title": "When the Goal Is Destruction: What the Stryker Cyber Attack Means - CBIA",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1za0xEQVNFVmFmdFF1bkJ0MVBTcGU1aWdJaS1VVnpVT0szSUhZdFlKWVBRdnBUeVA4a2U0N3RCZDFieEVEZnVRRlg5UG83UXd2Yy1OUUFCLTgtWjVzRTNlT082UVU4ajBDemxHYUZZdnRROV9lQndqOHVEYmxMZnc?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 8,
+      "location": "Unknown, USA",
+      "latitude": 37.0902,
+      "longitude": -95.7129,
+      "detailed_analysis": "The Stryker cyber attack indicates a significant threat to assets and personnel, highlighting the vulnerability of critical infrastructure to malicious cyber activities. The attack's goal of destruction suggests a high level of intent to disrupt operations and cause harm.",
+      "immediate_forecast_24h": "In the next 24 hours, there is a high likelihood of further cyber attacks or attempts to exploit vulnerabilities in similar systems, potentially leading to disruptions in logistics and supply chains.",
+      "strategic_outlook": "In the long term, this attack underscores the need for enhanced cybersecurity measures to protect critical infrastructure and assets from increasingly sophisticated cyber threats. It may also lead to increased investment in cybersecurity and more stringent regulations to prevent such attacks.",
+      "operational_impact": "The Stryker cyber attack may have significant operational implications, including potential disruptions to supply chains, delays in shipments, and compromised security of sensitive information, which could impact the efficiency and reliability of logistics and transportation services.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "13d412849ac85d0b399c6ec96c14ba51",
+    "timestamp": "2026-04-07T13:52:55.251194",
+    "original_title": "Pakistan Says It Hit a Military Target. Investigations Suggest It Was a Rehab Center.",
+    "link": "https://www.nytimes.com/2026/04/07/world/asia/kabul-drug-rehab-pakistan-airstrike.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 10,
+      "location": "Pakistan/Afghanistan",
+      "latitude": 33.7294,
+      "longitude": 73.0931,
+      "detailed_analysis": "A military target was hit in Pakistan, but investigations suggest it was a rehab center, indicating potential for escalation and harm to civilians and personnel. The recent deadliest attack in Afghanistan since the Taliban took over adds to the volatility of the region.",
+      "immediate_forecast_24h": "Increased tensions between Pakistan and Afghanistan, potential for retaliatory attacks, and heightened security measures in the region.",
+      "strategic_outlook": "Long-term instability in the region, potential for ongoing conflict, and continued threats to assets, cargo, aviation, and personnel. The situation may lead to increased security protocols and potential disruptions to logistics and transport operations.",
+      "operational_impact": "Potential disruptions to air and ground transport, increased security checks, and heightened risk of attacks on personnel and assets in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Islamabad International Airport (4 km)"
+    }
+  },
+  {
+    "id": "2d3410f349e06ae2d0ddccfaec54aa07",
+    "timestamp": "2026-04-07T13:52:57.331420",
+    "original_title": "Ukraine Ramps Up Attacks on Russian Oil, Aiming to Curb Iran War Windfall",
+    "link": "https://www.nytimes.com/2026/04/07/world/europe/ukraine-attacks-russian-oil-exports.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Ukraine, Russia",
+      "latitude": 48.3794,
+      "longitude": 31.1656,
+      "detailed_analysis": "Ukraine's increased attacks on Russian oil infrastructure pose a significant threat to global energy supplies and may lead to retaliatory actions from Russia, potentially escalating the conflict and impacting regional stability.",
+      "immediate_forecast_24h": "Increased military activity and potential disruptions to oil shipments in the Black Sea region, with possible spillover effects on global energy markets.",
+      "strategic_outlook": "Long-term disruption to Russian oil exports could have significant economic and geopolitical implications, potentially altering the balance of power in the region and impacting global energy security.",
+      "operational_impact": "Potential disruptions to shipping and logistics in the Black Sea region, increased risk of attacks on energy infrastructure, and possible shortages or price increases in global energy markets.",
+      "proximity_alert": null
+    }
   }
 ]
