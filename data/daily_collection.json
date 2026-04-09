@@ -378,5 +378,62 @@
       "operational_impact": "The strike will likely cause disruptions to passenger flights, cargo transport, and overall airline operations.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "6225042dc39c0a67ae5f7ca32a9b5f5c",
+    "timestamp": "2026-04-09T09:51:31.954464",
+    "original_title": "Iran War Live Updates: Israeli Strikes in Lebanon Threaten Shaky U.S.-Iran Cease-Fire",
+    "link": "https://www.nytimes.com/live/2026/04/09/world/iran-ceasefire-trump-lebanon",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "Lebanon",
+      "latitude": 33.8547,
+      "longitude": 35.8623,
+      "detailed_analysis": "Israeli strikes against Hezbollah in Lebanon have resulted in significant casualties, threatening the fragile U.S.-Iran cease-fire. The situation poses a high risk to aviation and personnel in the region due to potential retaliatory actions and escalation of violence.",
+      "immediate_forecast_24h": "Increased tensions and potential for further military action between Israel and Hezbollah, with possible spillover effects on neighboring countries and global stability.",
+      "strategic_outlook": "Long-term implications include the potential for a broader conflict in the Middle East, impacting regional security, global oil prices, and international relations. The situation demands close monitoring and contingency planning for assets, cargo, and personnel in the region.",
+      "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics in the region due to increased security measures, airspace restrictions, or direct attacks on transportation infrastructure.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "fca732698ba3938cbe23fbf166288602",
+    "timestamp": "2026-04-09T09:51:34.903739",
+    "original_title": "Taiwan opposition leader talks peace with China as her party skips defence talks in Taipei",
+    "link": "https://www.reddit.com/r/worldnews/comments/1sgkxrl/taiwan_opposition_leader_talks_peace_with_china/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Politics",
+      "risk_score": 10,
+      "location": "Taipei, Taiwan",
+      "latitude": 25.033,
+      "longitude": 121.5654,
+      "detailed_analysis": "Taiwan opposition leader's talks with China may lead to reduced tensions, but the skipping of defence talks by her party could indicate internal divisions and uncertainty, potentially affecting regional stability.",
+      "immediate_forecast_24h": "No immediate escalation expected, but diplomatic developments will be closely watched.",
+      "strategic_outlook": "Long-term implications for regional security and trade depend on the outcome of these diplomatic efforts and the response from China and other stakeholders.",
+      "operational_impact": "Minimal direct impact on transport/logistics expected at this time, but ongoing monitoring of the situation is recommended due to the potential for future developments affecting the region.",
+      "proximity_alert": "YAKIN TEHDİT: Taiwan Taoyuan International Airport (0 km)"
+    }
+  },
+  {
+    "id": "16a0a4633bf08bd66e7095e02bb5e495",
+    "timestamp": "2026-04-09T09:51:37.242472",
+    "original_title": "Fears Middle East ceasefire at risk after Israeli strikes on Lebanon kill 182 people",
+    "link": "http://www.africanews.com/2026/04/09/rescue-workers-in-beirut-search-for-survivors-after-israeli-strikes-on-lebanon/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Beirut, Lebanon",
+      "latitude": 33.8938,
+      "longitude": 35.5018,
+      "detailed_analysis": "Israeli strikes on Lebanon have resulted in significant casualties, putting the Middle East ceasefire at risk. This escalation could lead to further violence and instability in the region, affecting aviation, cargo, and personnel safety.",
+      "immediate_forecast_24h": "Increased tensions and potential for retaliatory attacks are expected in the short term, which may disrupt air travel and logistics in the region.",
+      "strategic_outlook": "The long-term outlook is uncertain, with the potential for a broader conflict that could impact global supply chains, aviation security, and regional stability.",
+      "operational_impact": "Potential disruptions to air traffic, cargo shipments, and personnel movements in the region are expected, with possible closures of airspace or restrictions on ground transportation.",
+      "proximity_alert": "YAKIN TEHDİT: Beirut–Rafic Hariri International Airport (0 km)"
+    }
   }
 ]
