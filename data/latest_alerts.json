@@ -1,39 +1,96 @@
 [
   {
-    "id": "317dffa39d8e27fe9efa51f39cc9822e",
-    "timestamp": "2026-04-09T11:06:26.936676",
-    "original_title": "NATO Secretary General Mark Rutte: US Attack On Iran \"Absolutely\" Made The World Safer",
-    "link": "https://www.reddit.com/r/geopolitics/comments/1sglroz/nato_secretary_general_mark_rutte_us_attack_on/",
-    "source_name": "Reddit r/Geopolitics",
+    "id": "f09399967254450095df69ad02b7d65d",
+    "timestamp": "2026-04-09T14:21:19.791592",
+    "original_title": "Why Israel’s attacks on Lebanon could cripple US-Iran ceasefire - Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYVhOZE9RWllDOHh3cjJuTnVwVkpnREJvdnMwNFBWazhfdG1yYXN5dFFmTDBFXzJUOVdaN05CNHZfVGxqaDIzR0hzOEUzQlpDWVZ5TWRrQUQ3UVd6RkpLY3N0d0N6N3lYb2szVEFqRFk4dFA3cU53WFJTMzNGUkRpUGswRV90NTh0eXBiWi02dXl6UVpTUkt6dnJCRU83T09ZekduadIBqgFBVV95cUxQelloTE5SYW14RXdPNWl1ZnZsS1lGYmgyWXktSmZKa2dCdWwxYmFhWjEydnhIVXJVbDFtY3IzS2tZc3pndEh3Y1Q1djduWlRzekJrN2hNOGxYS0MzLUlQWFFaVXBHQU1PcXZOWTlyb0hBaEtYV0FJeHBENVltY2p0ZEFIU3lYMXRLYW5STHBKb1pONlE0OXA3d3kwRDlGalBsZkl4SEliWTFfZw?oc=5",
+    "source_name": "Google News (Breaking)",
     "ai_analysis": {
       "category": "Conflict",
       "risk_score": 8,
-      "location": "Iran",
-      "latitude": 32.0,
-      "longitude": 53.0,
-      "detailed_analysis": "The statement by NATO Secretary General Mark Rutte that the US attack on Iran made the world safer could escalate tensions and potentially lead to retaliatory actions, affecting aviation and cargo operations in the region.",
-      "immediate_forecast_24h": "Increased military activity and heightened alertness in the region, potential for drone sightings or bomb threats against aviation assets.",
-      "strategic_outlook": "Long-term instability in the region could lead to increased security measures, affecting transport and logistics operations, and potentially disrupting global supply chains.",
-      "operational_impact": "Potential for flight restrictions, cargo delays, and increased security protocols for personnel and assets in the region.",
+      "location": "Lebanon",
+      "latitude": 33.8547,
+      "longitude": 35.8623,
+      "detailed_analysis": "The recent attacks by Israel on Lebanon could potentially destabilize the region and jeopardize the US-Iran ceasefire, leading to increased tensions and conflict that may impact aviation and cargo operations.",
+      "immediate_forecast_24h": "Escalation of violence and retaliation from affected parties, potentially disrupting air traffic and logistics in the region.",
+      "strategic_outlook": "Long-term instability in the region could lead to sustained conflict, affecting trade and transport routes, and requiring heightened security measures for assets, cargo, aviation, and personnel.",
+      "operational_impact": "Potential disruption to air traffic, increased security checks, and heightened risk of attacks on aviation and logistics infrastructure, requiring contingency planning and enhanced security protocols.",
       "proximity_alert": null
     }
   },
   {
-    "id": "c7c303876ab88d12b34f84f4f7f4aa0e",
-    "timestamp": "2026-04-09T12:11:01.484468",
-    "original_title": "Iran's president says Israeli strikes on Lebanon render negotiations meaningless",
-    "link": "https://www.reddit.com/r/worldnews/comments/1sgno2m/irans_president_says_israeli_strikes_on_lebanon/",
+    "id": "b344e8a2967cff0800951a21f3eaa7cd",
+    "timestamp": "2026-04-09T14:21:22.862716",
+    "original_title": "Iran War Live Updates: Israel’s Strikes in Lebanon Threaten Shaky U.S.-Iran Cease-Fire",
+    "link": "https://www.nytimes.com/live/2026/04/09/world/iran-ceasefire-trump-lebanon",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "Lebanon/Israel",
+      "latitude": 33.8547,
+      "longitude": 35.8623,
+      "detailed_analysis": "The ongoing conflict between Israel and Hezbollah in Lebanon poses a significant threat to aviation and regional stability. Israel's strikes against Hezbollah could lead to retaliatory actions, potentially targeting Israeli or Western assets, including aircraft or logistics facilities.",
+      "immediate_forecast_24h": "Escalation of violence is possible, with potential for strikes or drone sightings in the region, affecting air travel and cargo operations.",
+      "strategic_outlook": "The situation could lead to a broader conflict, impacting regional security and global supply chains, particularly if the U.S.-Iran cease-fire is threatened.",
+      "operational_impact": "Potential disruptions to air traffic, increased security measures at airports, and possible rerouting of flights or cargo shipments to avoid the conflict zone.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "5fd63f13b2c05007e799b220c930d792",
+    "timestamp": "2026-04-09T14:21:25.893289",
+    "original_title": "Al Jazeera condemns killing of journalist in Israeli strike in Gaza",
+    "link": "https://www.reddit.com/r/worldnews/comments/1sgqa9a/al_jazeera_condemns_killing_of_journalist_in/",
     "source_name": "Reddit r/WorldNews",
     "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "Gaza",
+      "latitude": 31.5,
+      "longitude": 34.5,
+      "detailed_analysis": "The killing of a journalist in an Israeli strike in Gaza poses a significant threat to personnel and assets in the region. The incident has the potential to escalate tensions and lead to further violence.",
+      "immediate_forecast_24h": "Increased violence and protests are expected in the short term, potentially disrupting aviation and logistics operations in the region.",
+      "strategic_outlook": "The long-term outlook remains uncertain, with the potential for ongoing conflict and instability in the region. This could lead to sustained disruptions to transport and logistics operations.",
+      "operational_impact": "The incident may impact aviation operations, with potential disruptions to flights and increased security measures. Cargo and logistics operations may also be affected, with potential delays or disruptions to supply chains.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "fb0b431f0313513e523a17356b8d3fc4",
+    "timestamp": "2026-04-09T14:21:28.503993",
+    "original_title": "Israeli strikes on Lebanon leave more than 200 dead and 1,000 wounded",
+    "link": "http://www.africanews.com/2026/04/09/israeli-strikes-on-lebanon-leave-more-than-200-dead-and-1000-wounded/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Beirut, Lebanon",
+      "latitude": 33.8938,
+      "longitude": 35.5018,
+      "detailed_analysis": "Israeli strikes on Beirut, Tyre, and the southern village of Abbassiyeh have resulted in significant loss of life and injuries, indicating a high level of conflict and instability in the region, posing a substantial threat to aviation, cargo, and personnel.",
+      "immediate_forecast_24h": "Further escalation of violence is possible, with potential for additional strikes or retaliatory actions, which could impact aviation operations and cargo transport in the region.",
+      "strategic_outlook": "The ongoing conflict could lead to a prolonged period of instability, affecting the security and efficiency of transport and logistics operations in Lebanon and potentially the broader region.",
+      "operational_impact": "Aviation and cargo operations may be disrupted due to the conflict, with potential for flight cancellations, delays, or rerouting, as well as increased security measures and potential risks to personnel and assets.",
+      "proximity_alert": "YAKIN TEHDİT: Beirut–Rafic Hariri International Airport (0 km)"
+    }
+  },
+  {
+    "id": "80ee214cd6f3c4fc2348e1e23dcaa436",
+    "timestamp": "2026-04-09T14:21:31.757804",
+    "original_title": "Israel dismisses calls to add Lebanon to US-Iran ceasefire",
+    "link": "https://www.france24.com/en/video/20260409-israel-dismisses-calls-to-add-lebanon-to-us-iran-ceasefire",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
       "category": "Conflict",
-      "risk_score": 7,
+      "risk_score": 8,
       "location": "Lebanon",
       "latitude": 33.8547,
       "longitude": 35.8623,
-      "detailed_analysis": "Iran's president has stated that Israeli strikes on Lebanon render negotiations meaningless, indicating heightened tensions between the two nations and potential for further conflict in the region.",
-      "immediate_forecast_24h": "Increased military activity and potential for retaliatory strikes from either side, posing a threat to aviation and personnel in the region.",
-      "strategic_outlook": "Long-term escalation of conflict could lead to significant disruptions in regional logistics and transport, affecting cargo and personnel movement.",
-      "operational_impact": "Potential for airspace restrictions, increased security measures at airports and borders, and heightened risk of attacks on transport infrastructure.",
+      "detailed_analysis": "The situation in Lebanon is escalating with Israel vowing more strikes against Hezbollah, resulting in significant casualties and potential for further violence. This conflict poses a high risk to assets, cargo, aviation, and personnel in the region.",
+      "immediate_forecast_24h": "Increased airstrikes and potential retaliation from Hezbollah are expected, posing an immediate threat to aviation and logistics in the area.",
+      "strategic_outlook": "The expansion of the US-Iran ceasefire to cover the war in Lebanon is unlikely, suggesting a prolonged period of conflict and instability in the region, which will continue to impact transport and logistics.",
+      "operational_impact": "Flights and cargo operations may be disrupted or suspended due to the conflict, and there is a high risk of damage to infrastructure and assets. Personnel in the area should exercise extreme caution.",
       "proximity_alert": null
     }
   }
