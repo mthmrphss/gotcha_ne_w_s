@@ -112,5 +112,62 @@
       "operational_impact": "Potential disruption to air traffic, increased security measures at airports, and heightened risk of attacks on personnel and cargo. Logistics and transport operations in the region may need to be adjusted or suspended until the situation stabilizes.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "92d7a19c2a6239f99db8fc149ddc5635",
+    "timestamp": "2026-04-09T05:18:56.628232",
+    "original_title": "Pakistani man charged with plotting to attack a Jewish center in New York pleads guilty - The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVHF1bUo5VWIyRnVZaWFtZmh4QXRlYzM5aWpSdGYzbzdpZm9DUlk5R19ZVDZkaVNQNDFENGVxNkVRUkk3ZUVzbVU2ekh6bTRJVW1FR0hYZ2JBaGhrZjZCcXZ5SnFfdHhXSVhYX1ExUHI2ZzVrclVnNXg0ZWZCd0ZlMVNUTFltMTlfQWRxTExMMEpfR0lvMXg1Q3dMejlocWJGblcyTjg1N1BfMjF2UllEN2pTbC1Xb2lGdmw0SzJIU2J4eXExTnU5a2R3a1hzbVhiMWFLQTh6SV9UVk1jb3c?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism/Crime",
+      "risk_score": 10,
+      "location": "New York, USA",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "detailed_analysis": "A Pakistani man has pleaded guilty to plotting an attack on a Jewish center in New York, indicating a high level of intent and planning, posing a significant threat to personnel and assets.",
+      "immediate_forecast_24h": "Increased security measures are expected in the vicinity of Jewish centers and other potential targets in New York, with law enforcement on high alert for copycat attacks or retaliatory actions.",
+      "strategic_outlook": "The guilty plea may lead to increased cooperation between law enforcement agencies to prevent similar plots, but also highlights the ongoing threat of terrorism and the need for continued vigilance and intelligence gathering.",
+      "operational_impact": "Transportation and logistics in the area may be affected by increased security checks and potential disruptions, particularly if additional threats are made or discovered.",
+      "proximity_alert": "YAKIN TEHDİT: Paramount Hotel (5 km)"
+    }
+  },
+  {
+    "id": "00bdb5e33c5d8daf01abcc3353519cc9",
+    "timestamp": "2026-04-09T05:19:01.255142",
+    "original_title": "Mediterranean migrant deaths mounting towards 1,000 in 2026: UN",
+    "link": "https://www.reddit.com/r/worldnews/comments/1sggg3e/mediterranean_migrant_deaths_mounting_towards/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Border",
+      "risk_score": 6,
+      "location": "Mediterranean Sea",
+      "latitude": 38.0,
+      "longitude": 17.0,
+      "detailed_analysis": "The increasing number of migrant deaths in the Mediterranean Sea poses a significant threat to maritime transport and border security. The UN's report of nearly 1,000 deaths in 2026 highlights the severity of the issue, which may lead to increased stowaway attempts, border breaches, and potential disruptions to cargo and passenger transport.",
+      "immediate_forecast_24h": "In the next 24 hours, there is a high likelihood of continued migrant attempts to cross the Mediterranean, potentially leading to further incidents and casualties. This may result in temporary disruptions to maritime traffic and increased security measures.",
+      "strategic_outlook": "In the long term, the migrant crisis in the Mediterranean is likely to persist, posing an ongoing threat to border security, maritime transport, and regional stability. This may lead to increased cooperation between countries to address the root causes of migration and improve border security measures.",
+      "operational_impact": "The migrant crisis may impact maritime transport operations, including potential delays, increased security checks, and changes to routing. Cargo and passenger ships may need to take alternative routes or implement additional security measures to mitigate the risks associated with migrant attempts to cross the Mediterranean.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "0ccc2a265f2075accd4bc45ac3a8c368",
+    "timestamp": "2026-04-09T05:19:03.559670",
+    "original_title": "Middle East live: Trump says US military to stay deployed near Iran until 'real agreement' reached",
+    "link": "https://www.france24.com/en/middle-east/20260409-middle-east-live-us-iran-truce-enters-second-day-as-war-flares-in-lebanon",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Middle East",
+      "latitude": 29.5,
+      "longitude": 47.5,
+      "detailed_analysis": "US military presence near Iran poses a threat to regional stability, potentially impacting aviation and cargo operations in the area.",
+      "immediate_forecast_24h": "Tensions between the US and Iran are expected to remain high, with a risk of military escalation or proxy attacks.",
+      "strategic_outlook": "A prolonged US military presence in the region could lead to increased instability, affecting trade routes and transport infrastructure.",
+      "operational_impact": "Potential disruptions to air traffic, cargo shipments, and personnel movements in the region, with possible rerouting of flights and cargo vessels.",
+      "proximity_alert": null
+    }
   }
 ]
