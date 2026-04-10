@@ -606,5 +606,62 @@
       "operational_impact": "Possible delays and disruptions to cargo transport, aviation, and personnel movement due to fuel shortages and protests.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "9867a004322b75fec162342d1fc53758",
+    "timestamp": "2026-04-10T16:02:13.328364",
+    "original_title": "Trump posts graphic video of deadly hammer attack by an undocumented immigrant - NBC News",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSU5VV2VWd1pyaG5YcnpHNDlLTDI5NU5lWGRGZ3A3bnJreE1kelpudVBKc0VjR3lENHJoVjF6MzNBNWt2SjN1LTM2Q0RseUpKRzd2VnMzOThKT29NVHg2ZG5iSHpRUnNTdEE0a241Tkp3V2lmLVplMERobEQwbjJ6Qm9VSElrWW1ONDVncTgwSm1qWTY5bnZrdnRhc1NEZE9FaDNES2VPRHNERVJUZVRDYWdlbG9FXzNZaTJvZnZ1b2hkbjNWVU5J?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Crime/Border/Civil Unrest",
+      "risk_score": 10,
+      "location": "United States",
+      "latitude": 38.8977,
+      "longitude": -77.0365,
+      "detailed_analysis": "The event involves a graphic video of a deadly hammer attack by an undocumented immigrant posted by Trump, which may lead to increased tensions and potential civil unrest, affecting border security and potentially impacting logistics and transport operations.",
+      "immediate_forecast_24h": "Increased security measures at border crossings and potential protests or demonstrations in response to the video, which may cause disruptions to transport and logistics operations.",
+      "strategic_outlook": "Long-term implications may include increased scrutiny of border security and potential changes to immigration policies, which could impact the flow of goods and people across borders.",
+      "operational_impact": "Potential disruptions to supply chains, increased security protocols for cargo and personnel, and possible delays at border crossings.",
+      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
+    }
+  },
+  {
+    "id": "1b71d9745874aaf225495bd913918d5b",
+    "timestamp": "2026-04-10T16:02:16.688230",
+    "original_title": "Inside Israel's expansionist ambitions • Israel has never officially defined its borders, but Israeli settlers and ministers are flirting with the biblical idea of extending them far beyond the current state. What's behind the concept of \"Greater Israel\"?",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1shpo2x/inside_israels_expansionist_ambitions_israel_has/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict/Border",
+      "risk_score": 6,
+      "location": "Israel",
+      "latitude": 31.7833,
+      "longitude": 35.2167,
+      "detailed_analysis": "The concept of 'Greater Israel' poses a potential threat to regional stability, with possible expansionist ambitions that could lead to conflict and affect transport and logistics in the area.",
+      "immediate_forecast_24h": "Tensions may rise in the region, with potential for protests or clashes, but no immediate impact on aviation or cargo operations is expected.",
+      "strategic_outlook": "Long-term, the situation could escalate into a larger conflict, affecting trade routes and aviation in the region, with potential for increased security measures and disruptions to logistics.",
+      "operational_impact": "Potential for increased security checks, route changes, or delays in transport and logistics operations in the region, particularly if the situation escalates into a larger conflict.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "c5c6de3380feceede8a3d361561002a5",
+    "timestamp": "2026-04-10T16:04:18.118274",
+    "original_title": "France's drone minehunters target Strait of Hormuz",
+    "link": "https://www.france24.com/en/video/20260410-france-s-drone-minehunters-target-strait-of-hormuz",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Strait of Hormuz, Middle East",
+      "latitude": 26.0,
+      "longitude": 56.0,
+      "detailed_analysis": "The presence of naval mines in the Strait of Hormuz poses a significant threat to maritime traffic, with Iran affirming that a large part of the passage contains these mines. The use of drone minehunters by France to detect and destroy mines underwater is a notable development, but the overall situation remains volatile and poses a high risk to assets, cargo, and personnel.",
+      "immediate_forecast_24h": "Increased tensions and potential disruptions to maritime traffic in the Strait of Hormuz, with a high risk of mine explosions and accidents. The use of drone minehunters may help mitigate some of these risks, but the situation remains unpredictable.",
+      "strategic_outlook": "The long-term outlook for the Strait of Hormuz remains uncertain, with ongoing tensions between Iran and other nations. The use of drone minehunters may become more prevalent, but the risk of conflict and disruptions to maritime traffic will likely persist. Shipping companies and logistics operators should exercise extreme caution when navigating the region.",
+      "operational_impact": "The presence of naval mines and the use of drone minehunters will likely lead to increased costs and delays for shipping companies and logistics operators. There may also be a need for additional security measures, such as convoy escorts or enhanced surveillance, to mitigate the risks associated with navigating the Strait of Hormuz.",
+      "proximity_alert": null
+    }
   }
 ]
