@@ -530,5 +530,62 @@
       "operational_impact": "Potential disruption to air traffic, increased security measures at airports, and a heightened risk of incidents involving drones. Transport and logistics operations in the region may need to be adjusted to account for the increased risk.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "ab9a137f0eb046c7ca8f821d5b651b6f",
+    "timestamp": "2026-04-10T13:55:55.267135",
+    "original_title": "Q&A: How do escalating tensions in the Middle East affect the Sudan conflict? - ACLED",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT1NSNk1LNU9xc1FIenhSYUd4X0JWUUxBTE56Wm01MGNMeC1BNFd2c25IbVI4UUw2UUhtRU5XSU5mVG1tbDh0cmM2R2pvZ0NQMWYxQTR2Tkh0ZHVETjdvZEQ0Vl9JSldzRUZEdXVnQ1dSOGJhUWJCQXJOZ3A5YXRiS1B6X0hXM195OTlkMTlXTUhjZw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 6,
+      "location": "Sudan, Middle East",
+      "latitude": 12.8628,
+      "longitude": 30.2176,
+      "detailed_analysis": "Escalating tensions in the Middle East may exacerbate the Sudan conflict, potentially leading to increased violence, instability, and disruptions to transport and logistics in the region.",
+      "immediate_forecast_24h": "Heightened security measures and potential clashes between rival groups may occur in the next 24 hours, affecting aviation and cargo operations.",
+      "strategic_outlook": "The ongoing conflict in Sudan, coupled with rising tensions in the Middle East, may lead to a prolonged period of instability, affecting regional trade and transport corridors.",
+      "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics operations in Sudan and surrounding regions, with possible spillover effects on regional trade and economic activity.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "fe13db1a6600440fe135b2f118d3573b",
+    "timestamp": "2026-04-10T13:55:58.548326",
+    "original_title": "Ryanair Flight FR4523 from Milan, Italy Emergency Turn Around After a Failed Landing Attempt at Brussels South Charleroi Airport, New Update is Here - Travel And Tour World",
+    "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOTklJMUJETndWNVVULWRxcWhONFJlbnZ3cnZFV3QyWko5Nkp6MVlqUS03VG1PY0ZhaDJfaW11REpTdXdUcHBra1FOcTFlYjZ0cnBrRzVPNlVaSUtRYzNkWU4tZHdKRlBELUVQeTdYc2NReVhzVlNlU0NWY3F0N2lnY3VwVWN4cGZWSHhDTXdXZUdUdEtmZXVPOEwwT3YtWHFXMUpkWll6TV9ubTNQN0cyUmNCSk84VVFnMXNNNVVERHJGVDVFdnlrajJsbDhsRnBpM09ramRaNFItZFJ3MWQxLXJsSVpNWmllcURqbFpzYTNNZkVWbmFRTk4zV2NfbkNwd1F1RXlROWx6ODBMUUxXQkNJWWstcWVsdmhqVlFUcDY?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 6,
+      "location": "Brussels, Belgium",
+      "latitude": 50.4592,
+      "longitude": 4.4531,
+      "detailed_analysis": "Ryanair Flight FR4523 from Milan, Italy made an emergency turn around after a failed landing attempt at Brussels South Charleroi Airport, indicating potential safety risks to passengers and crew.",
+      "immediate_forecast_24h": "Investigations into the cause of the failed landing attempt are expected, and potential disruptions to flight schedules may occur.",
+      "strategic_outlook": "The incident highlights the importance of aviation safety and the need for airlines to ensure that their aircraft are airworthy and that pilots are adequately trained.",
+      "operational_impact": "The incident may cause delays or cancellations of flights, potentially impacting the travel plans of passengers and the operations of logistics companies that rely on air transport.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "5adf8e9cd6f1bce94151ac45f9f46940",
+    "timestamp": "2026-04-10T13:56:38.306150",
+    "original_title": "Luxembourg - Level 1: Exercise Normal Precautions",
+    "link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/luxembourg-travel-advisory.html",
+    "source_name": "US State Dept",
+    "ai_analysis": {
+      "category": "Crime",
+      "risk_score": 10,
+      "location": "Luxembourg",
+      "latitude": 49.8153,
+      "longitude": 6.1296,
+      "detailed_analysis": "Petty crime can occur, especially in popular tourist locations, and there are areas with increased risk due to unexploded ordnance from World Wars I and II, particularly in Northern Luxembourg.",
+      "immediate_forecast_24h": "Low risk of crime, but travelers should exercise normal precautions and be aware of their surroundings, especially in areas with unexploded ordnance.",
+      "strategic_outlook": "Long-term risk remains low, but travelers should stay informed about local conditions and follow local authorities' guidance, particularly in areas with unexploded ordnance.",
+      "operational_impact": "Minimal impact on transport and logistics, but travelers should be cautious and aware of their surroundings, especially in areas with increased risk.",
+      "proximity_alert": "YAKIN TEHDİT: Luxembourg Airport (21 km)"
+    }
   }
 ]
