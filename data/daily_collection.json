@@ -283,5 +283,24 @@
       "operational_impact": "There is no apparent operational impact on current transport or logistics due to this being a commemorative event rather than an active threat.",
       "proximity_alert": "YAKIN TEHDİT: Paramount Hotel (8 km)"
     }
+  },
+  {
+    "id": "052c37ca315b9fee17649263fc9177b3",
+    "timestamp": "2026-04-11T13:14:32.351145",
+    "original_title": "Hundreds of flights cancelled and passengers stranded after major strike",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/lufthansa-strike-flights-germany-frankfurt-munich-b2955769.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Aviation/Civil Unrest",
+      "risk_score": 7,
+      "location": "Unknown, Unknown",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "A major strike has caused the cancellation of hundreds of flights, affecting at least 72,000 passengers, indicating a significant disruption to aviation operations.",
+      "immediate_forecast_24h": "Further flight cancellations and passenger disruptions are likely as the strike continues, with potential for increased tensions and unrest among affected travelers.",
+      "strategic_outlook": "The strike may lead to long-term impacts on the aviation industry, including potential changes to labor policies or increased security measures to mitigate future disruptions.",
+      "operational_impact": "The cancellation of flights and disruption to aviation operations may have significant impacts on transport and logistics, including delays and increased costs for passengers and cargo.",
+      "proximity_alert": null
+    }
   }
 ]
