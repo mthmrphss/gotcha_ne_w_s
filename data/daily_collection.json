@@ -207,5 +207,43 @@
       "operational_impact": "The event is unlikely to have a significant impact on transport and logistics operations in the region, but airlines and cargo operators should remain vigilant and monitor the situation closely to ensure the safety of their assets and personnel.",
       "proximity_alert": "YAKIN TEHDİT: Islamabad International Airport (4 km)"
     }
+  },
+  {
+    "id": "d41c0a8df9f429664457c681598bffe1",
+    "timestamp": "2026-04-11T09:50:51.766777",
+    "original_title": "Iran Tries to Grasp Economic Devastation of War, and Find a Way Past It",
+    "link": "https://www.nytimes.com/2026/04/11/world/middleeast/iran-economy-war.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The U.S. and Israeli bombardment of Iran has caused significant destruction, which may lead to increased tensions and potential retaliatory actions, impacting regional stability and potentially affecting aviation and cargo operations.",
+      "immediate_forecast_24h": "Increased military activity and potential for further escalation, with possible disruptions to air traffic and logistics in the region.",
+      "strategic_outlook": "Long-term instability in the region may lead to prolonged disruptions to trade and commerce, with potential for increased security measures and restrictions on air travel and cargo transport.",
+      "operational_impact": "Potential for flight delays or cancellations, increased security screening, and disruptions to supply chains, with possible impacts on personnel and asset safety in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "296ee8a232dd590b1825a65805c618cb",
+    "timestamp": "2026-04-11T09:51:51.631998",
+    "original_title": "Israel refuses ceasefire with Hezbollah",
+    "link": "https://www.france24.com/en/israel-refuses-ceasefire-with-hezbollah",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "Israel, Lebanon",
+      "latitude": 33.0,
+      "longitude": 35.0,
+      "detailed_analysis": "The conflict between Israel and Hezbollah poses a significant threat to assets, cargo, aviation, and personnel in the region. The refusal of a ceasefire and ongoing strikes increase the risk of damage to infrastructure, disruption of logistics, and harm to individuals.",
+      "immediate_forecast_24h": "Escalation of violence and increased tensions between Israel and Lebanon, potentially affecting air traffic and ground transportation in the region.",
+      "strategic_outlook": "Prolonged conflict may lead to a destabilization of the region, impacting global supply chains and aviation security. The lack of diplomatic relations between Israel and Lebanon complicates the resolution of the conflict.",
+      "operational_impact": "Potential disruption to air traffic, increased security measures at airports and borders, and heightened risk of attacks on transportation infrastructure and personnel.",
+      "proximity_alert": null
+    }
   }
 ]
