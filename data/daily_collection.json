@@ -55,5 +55,43 @@
       "operational_impact": "The incident may cause a short-term increase in caution among pilots and air traffic controllers, potentially leading to minor delays, but is unlikely to have a significant long-term impact on aviation operations at LAX.",
       "proximity_alert": "YAKIN TEHDİT: Los Angeles International Airport (1 km)"
     }
+  },
+  {
+    "id": "283aaa862d3beeddb28ece8c110c98e8",
+    "timestamp": "2026-04-11T05:13:19.388830",
+    "original_title": "Russia's AK-47 manufacturer is making special bullets for its assault rifles to knock drones out of the sky",
+    "link": "https://www.reddit.com/r/worldnews/comments/1sia15b/russias_ak47_manufacturer_is_making_special/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 7,
+      "location": "Russia",
+      "latitude": 61.524,
+      "longitude": 105.3188,
+      "detailed_analysis": "Russia's AK-47 manufacturer is developing special bullets to counter drones, potentially impacting aviation security and drone operations in conflict zones",
+      "immediate_forecast_24h": "Increased likelihood of drone-related incidents in conflict areas, potential disruption to aviation operations",
+      "strategic_outlook": "Long-term implications for drone warfare and countermeasures, potential escalation of conflict in affected regions",
+      "operational_impact": "Potential disruption to cargo transport and aviation operations in conflict zones, increased security measures for drone operations",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "880addd0d5b127b5c28d622bfd08e523",
+    "timestamp": "2026-04-11T05:13:21.087096",
+    "original_title": "New Evidence Further Implicates U.S. Missiles in Strikes That Killed 21 Civilians in Iran",
+    "link": "https://www.reddit.com/r/worldnews/comments/1si9frd/new_evidence_further_implicates_us_missiles_in/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Lamerd, Iran",
+      "latitude": 27.3667,
+      "longitude": 53.1833,
+      "detailed_analysis": "New evidence suggests U.S. missiles were involved in strikes that killed 21 civilians in Iran, indicating a high level of conflict and potential for further escalation",
+      "immediate_forecast_24h": "Increased tensions between the U.S. and Iran, potential for retaliatory actions, and heightened security measures in the region",
+      "strategic_outlook": "Long-term implications for regional stability, potential for ongoing conflict, and impact on global aviation and logistics",
+      "operational_impact": "Potential disruptions to air traffic, increased security screening, and heightened risk of attacks on aviation assets and personnel",
+      "proximity_alert": null
+    }
   }
 ]
