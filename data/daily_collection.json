@@ -93,5 +93,43 @@
       "operational_impact": "Potential disruptions to air traffic, increased security screening, and heightened risk of attacks on aviation assets and personnel",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "1111445b3c7775e23ca1199bea4df840",
+    "timestamp": "2026-04-11T06:38:56.308123",
+    "original_title": "In New War With Israel, Hezbollah Defies Notion That It Was Crippled",
+    "link": "https://www.nytimes.com/2026/04/11/world/middleeast/hezbollah-israel.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 8,
+      "location": "Lebanon/Israel",
+      "latitude": 33.0,
+      "longitude": 35.0,
+      "detailed_analysis": "Hezbollah's intensified attacks on Israel indicate a heightened state of conflict, posing significant threats to aviation, cargo, and personnel in the region.",
+      "immediate_forecast_24h": "Escalation of violence and potential for further attacks on Israeli targets, including airports and critical infrastructure.",
+      "strategic_outlook": "Prolonged conflict could lead to increased instability in the region, affecting trade routes, air traffic, and the safety of personnel and assets.",
+      "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics in the region, with increased security measures and possible airspace restrictions.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "ece65f80877a82272195ad0f42b0c248",
+    "timestamp": "2026-04-11T06:39:01.455721",
+    "original_title": "Live: US delegation arrives in Pakistan for peace talks with Iranian officials",
+    "link": "https://www.france24.com/en/middle-east/20260411-live-vance-in-pakistan-for-peace-talks-with-iranian-officials",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Diplomacy",
+      "risk_score": 10,
+      "location": "Islamabad, Pakistan",
+      "latitude": 33.7294,
+      "longitude": 73.0931,
+      "detailed_analysis": "A US delegation has arrived in Pakistan for peace talks with Iranian officials, aiming to end the six-week-old Iran war. The talks may have a positive impact on regional stability, but the situation remains sensitive.",
+      "immediate_forecast_24h": "The talks are expected to continue, with a potential for positive developments, but the risk of disruptions or spoilers remains low in the short term.",
+      "strategic_outlook": "A successful outcome to the talks could lead to a reduction in regional tensions, improved stability, and a positive impact on global energy supplies and the economy. However, the complexity of the conflict and the involvement of multiple parties mean that a long-term resolution will be challenging.",
+      "operational_impact": "The peace talks are unlikely to have a direct impact on transport or logistics operations in the short term, but a successful outcome could lead to improved stability and reduced risks for assets, cargo, aviation, and personnel in the region over time.",
+      "proximity_alert": "YAKIN TEHDİT: Islamabad International Airport (4 km)"
+    }
   }
 ]
