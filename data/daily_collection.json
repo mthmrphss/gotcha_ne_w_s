@@ -131,5 +131,62 @@
       "operational_impact": "The conflict may impact transport and logistics operations in the region, including aviation, with potential disruptions to supply chains and increased risks for personnel and assets. Cargo transport may also be affected, with potential delays or losses due to the conflict.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "3a0c49130637bbf5a07111c6ec5832ce",
+    "timestamp": "2026-04-13T06:21:52.952543",
+    "original_title": "US military says it will blockade Iran's ports as ship traffic appears to halt in Strait of Hormuz",
+    "link": "https://www.reddit.com/r/worldnews/comments/1sk23rz/us_military_says_it_will_blockade_irans_ports_as/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Strait of Hormuz, Iran",
+      "latitude": 26.0,
+      "longitude": 56.0,
+      "detailed_analysis": "The US military's announcement to blockade Iran's ports has resulted in a halt of ship traffic in the Strait of Hormuz, a critical waterway for international trade. This development poses a significant threat to cargo and aviation operations in the region.",
+      "immediate_forecast_24h": "Increased tensions and potential for military escalation in the region, with possible disruptions to shipping lanes and air traffic.",
+      "strategic_outlook": "Prolonged blockade and conflict could lead to long-term disruptions in global trade, increased insurance costs, and heightened security measures for vessels and aircraft operating in the region.",
+      "operational_impact": "Potential delays and rerouting of cargo ships, increased security protocols for aviation operations, and heightened risk of piracy or attacks on vessels in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "d2e4463b9a8b130308f030d675737de5",
+    "timestamp": "2026-04-13T06:21:54.847336",
+    "original_title": "At least 100 dead in Nigeria after air force 'misfire' on market, sources say",
+    "link": "https://www.reddit.com/r/worldnews/comments/1sk22dm/at_least_100_dead_in_nigeria_after_air_force/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 8,
+      "location": "Nigeria",
+      "latitude": 9.081999,
+      "longitude": 8.675277,
+      "detailed_analysis": "A reported misfire by the Nigerian air force on a market has resulted in at least 100 deaths, indicating a significant threat to personnel and potentially destabilizing the region.",
+      "immediate_forecast_24h": "Increased tensions and potential for further violence or unrest in the region, with possible disruptions to aviation and logistics operations.",
+      "strategic_outlook": "Long-term instability in the region could lead to increased security measures and potential restrictions on air travel, impacting cargo and personnel movement.",
+      "operational_impact": "Potential disruptions to air traffic, increased security checks, and possible rerouting of flights to avoid the affected area, with implications for cargo transport and personnel safety.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "db7b41507a54ce6af1b0f09a508f97e7",
+    "timestamp": "2026-04-13T06:21:58.230645",
+    "original_title": "Iran executed at least 1,639 people in 2025, most since 1989: NGOs",
+    "link": "https://www.france24.com/en/live-news/20260413-iran-executed-at-least-1-639-people-in-2025-most-since-1989-ngos",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 6,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The execution of at least 1,639 people in 2025 by Iranian authorities indicates a heightened state of repression and potential for increased unrest, which could impact aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Protests and unrest may escalate in the short term, potentially affecting airport operations and cargo logistics.",
+      "strategic_outlook": "The long-term outlook suggests continued instability in the region, with potential for increased conflict and impact on aviation and cargo operations.",
+      "operational_impact": "Potential disruptions to air travel and cargo transport in and out of Iran, with possible spillover effects into neighboring countries.",
+      "proximity_alert": null
+    }
   }
 ]
