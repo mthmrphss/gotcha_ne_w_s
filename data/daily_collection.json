@@ -321,5 +321,43 @@
       "operational_impact": "No direct operational impact on transport or logistics is expected at this time.",
       "proximity_alert": "YAKIN TEHDİT: Fiumicino – Leonardo da Vinci International Airport (2 km)"
     }
+  },
+  {
+    "id": "52e13187b75a78011927f3536f6ab23d",
+    "timestamp": "2026-04-14T11:12:08.353558",
+    "original_title": "Manchester Airport flight in emergency landing minutes after take-off - Stoke-on-Trent Live",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOajk4dVBEWDJ0M2w5Qy1oUFRsSEZ0dnBSNUg3di1zMlA1cHkzRVJpZ2JNZ1AyUGx4V08xMmUycnlBd244SWhqc3F3Y1E2M0N5Q1FjMDRrd3pJMHhPR0I3cURQUHZkcjBVX0tkY09MRDRFblpJQzFqd0x4U1NwanRRZ1pTZ3dDRTB6dEg0c2ZzYjhfSWExbHY1YlpZTEl3enBXM1ZnaTdmY3BhSS1hanfSAbMBQVVfeXFMT09zYnVQR0N6U29iVm5IQjNwWTVmZ0dndHFPMl9VSnFkWm9tc3ZHOVF1UFpEM1lvSzljOENxRDFZWVpQaUJoOHRiejUwOWxwR29wTVI5Z0NuZXJZMnhBcVFxT0FUeGtqT0FsOFVxTlNPVmhQN3VYXzVSRjF4SWlVOFd5RlJtRF9OeDBIYzVtM2w2RlRmamZpSVNvdDcwc0VvQUkxRHFhQ3ZjalhfRS1Yc1MxaUk?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Manchester, United Kingdom",
+      "latitude": 53.3539,
+      "longitude": -2.2778,
+      "detailed_analysis": "A flight from Manchester Airport made an emergency landing minutes after take-off, the cause of which is not yet specified. This incident could be related to a technical issue, medical emergency, or other aviation-related threats.",
+      "immediate_forecast_24h": "Investigations into the cause of the emergency landing will likely be conducted, and the airport may experience some disruptions to flights. However, it is unlikely to have a significant impact on overall aviation operations in the next 24 hours.",
+      "strategic_outlook": "The long-term impact of this incident will depend on the cause of the emergency landing. If it is related to a technical issue, the airline and airport may need to review their maintenance procedures to prevent similar incidents in the future.",
+      "operational_impact": "The incident may cause some delays to flights at Manchester Airport, but it is unlikely to have a significant impact on the overall transport and logistics operations in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Manchester Airport (0 km)"
+    }
+  },
+  {
+    "id": "70efe2e9b63d1a70ef9d335764860e71",
+    "timestamp": "2026-04-14T11:12:11.182725",
+    "original_title": "Cameroon's Catholics fear papal visit could pay political dividends for President Biya",
+    "link": "http://www.africanews.com/2026/04/14/cameroons-catholics-fear-papal-visit-will-pay-political-dividends-for-president-biya/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Yaounde, Cameroon",
+      "latitude": 3.85,
+      "longitude": 11.52,
+      "detailed_analysis": "The potential papal visit to Cameroon could lead to increased tensions and protests, particularly given the contested re-election of President Biya and the deadly protests that followed. This may impact the security situation in the country, potentially affecting aviation and cargo operations.",
+      "immediate_forecast_24h": "Heightened security measures are likely to be implemented in anticipation of the papal visit, with potential for protests and demonstrations in major cities.",
+      "strategic_outlook": "The situation in Cameroon is likely to remain volatile in the coming months, with the potential for further unrest and instability. This could have long-term implications for the security of assets, cargo, aviation, and personnel in the region.",
+      "operational_impact": "Potential disruptions to aviation and cargo operations, particularly if protests or demonstrations affect major transportation hubs or infrastructure.",
+      "proximity_alert": "YAKIN TEHDİT: Yaoundé Nsimalen International Airport (2 km)"
+    }
   }
 ]
