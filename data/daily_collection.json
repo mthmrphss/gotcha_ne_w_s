@@ -264,5 +264,62 @@
       "operational_impact": "Flights have been grounded, and air travel in the region is expected to be severely impacted, with potential knock-on effects for cargo transport and logistics operations.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "b43bcbc29dbb3cb3140b14dcb6c7c244",
+    "timestamp": "2026-04-14T09:56:25.540275",
+    "original_title": "As War Chills Economy, Dubai’s Most Vulnerable Bear the Cost",
+    "link": "https://www.nytimes.com/2026/04/14/world/middleeast/dubai-migrant-workers-war.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Dubai, United Arab Emirates",
+      "latitude": 25.276987,
+      "longitude": 55.296249,
+      "detailed_analysis": "The war with Iran is having a significant impact on Dubai's economy, particularly the hospitality industry, leading to furloughs, pay cuts, and repatriation of migrant workers. This could lead to civil unrest and potential disruptions to transport and logistics.",
+      "immediate_forecast_24h": "Increased tensions and potential protests by affected migrant workers, but no immediate threat to aviation or cargo operations.",
+      "strategic_outlook": "Long-term economic instability and potential for increased civil unrest, which could impact the stability of the region and affect transport and logistics operations.",
+      "operational_impact": "Potential disruptions to ground transportation and logistics due to civil unrest, but no immediate impact on aviation or cargo operations.",
+      "proximity_alert": "YAKIN TEHDİT: DUBAİ (25 km)"
+    }
+  },
+  {
+    "id": "d7e6432f27a83a3b6d907bdfde25fe19",
+    "timestamp": "2026-04-14T09:56:29.558293",
+    "original_title": "US military seeks Philippines site to store millions of gallons of fuel",
+    "link": "https://www.reddit.com/r/worldnews/comments/1sl3bho/us_military_seeks_philippines_site_to_store/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 6,
+      "location": "Philippines",
+      "latitude": 13.0,
+      "longitude": 122.0,
+      "detailed_analysis": "The US military seeking a site in the Philippines to store millions of gallons of fuel poses a potential risk to aviation and regional stability. This development could attract unwanted attention from hostile actors, potentially leading to security threats.",
+      "immediate_forecast_24h": "No immediate threats are anticipated, but the situation will be closely monitored for any signs of hostility or unrest.",
+      "strategic_outlook": "The long-term implications of this development could lead to increased military presence in the region, potentially altering the security landscape and introducing new risks to aviation and logistics.",
+      "operational_impact": "The storage of large quantities of fuel in the Philippines could impact local logistics and transport operations, particularly if security measures are not adequately implemented to protect the site and surrounding areas.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "df52882844355bdeaefc0a32cb083125",
+    "timestamp": "2026-04-14T09:56:31.665721",
+    "original_title": "'Shocking attack': Italian press reacts to Trump's feud with pope",
+    "link": "https://www.france24.com/en/video/20260414-shocking-attack-italian-press-reacts-to-trump-s-feud-with-pope",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Rome, Italy",
+      "latitude": 41.87,
+      "longitude": 12.5,
+      "detailed_analysis": "The feud between US President Donald Trump and Pope Leo has sparked widespread criticism and could potentially lead to increased tensions between the US and the Vatican, but does not directly pose a threat to assets, cargo, aviation, or personnel.",
+      "immediate_forecast_24h": "The situation is likely to continue to attract media attention and public debate, but no immediate escalation is expected.",
+      "strategic_outlook": "The long-term impact of this feud is uncertain, but it could potentially affect diplomatic relations between the US and the Vatican, as well as other countries.",
+      "operational_impact": "No direct operational impact on transport or logistics is expected at this time.",
+      "proximity_alert": "YAKIN TEHDİT: Fiumicino – Leonardo da Vinci International Airport (2 km)"
+    }
   }
 ]
