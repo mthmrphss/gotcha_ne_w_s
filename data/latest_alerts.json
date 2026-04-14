@@ -1,40 +1,59 @@
 [
   {
-    "id": "52e13187b75a78011927f3536f6ab23d",
-    "timestamp": "2026-04-14T11:12:08.353558",
-    "original_title": "Manchester Airport flight in emergency landing minutes after take-off - Stoke-on-Trent Live",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOajk4dVBEWDJ0M2w5Qy1oUFRsSEZ0dnBSNUg3di1zMlA1cHkzRVJpZ2JNZ1AyUGx4V08xMmUycnlBd244SWhqc3F3Y1E2M0N5Q1FjMDRrd3pJMHhPR0I3cURQUHZkcjBVX0tkY09MRDRFblpJQzFqd0x4U1NwanRRZ1pTZ3dDRTB6dEg0c2ZzYjhfSWExbHY1YlpZTEl3enBXM1ZnaTdmY3BhSS1hanfSAbMBQVVfeXFMT09zYnVQR0N6U29iVm5IQjNwWTVmZ0dndHFPMl9VSnFkWm9tc3ZHOVF1UFpEM1lvSzljOENxRDFZWVpQaUJoOHRiejUwOWxwR29wTVI5Z0NuZXJZMnhBcVFxT0FUeGtqT0FsOFVxTlNPVmhQN3VYXzVSRjF4SWlVOFd5RlJtRF9OeDBIYzVtM2w2RlRmamZpSVNvdDcwc0VvQUkxRHFhQ3ZjalhfRS1Yc1MxaUk?oc=5",
-    "source_name": "Live Flight Emergencies (Squawk)",
+    "id": "053e3b52b598e90fca8c5a21db8150a6",
+    "timestamp": "2026-04-14T12:40:49.432320",
+    "original_title": "No discussions between Qatar and Iran over payment of funds to stop Iranian attacks, Qatari official says",
+    "link": "https://www.reddit.com/r/worldnews/comments/1sl649e/no_discussions_between_qatar_and_iran_over/",
+    "source_name": "Reddit r/WorldNews",
     "ai_analysis": {
-      "category": "Aviation",
+      "category": "Conflict/Terrorism",
       "risk_score": 10,
-      "location": "Manchester, United Kingdom",
-      "latitude": 53.3539,
-      "longitude": -2.2778,
-      "detailed_analysis": "A flight from Manchester Airport made an emergency landing minutes after take-off, the cause of which is not yet specified. This incident could be related to a technical issue, medical emergency, or other aviation-related threats.",
-      "immediate_forecast_24h": "Investigations into the cause of the emergency landing will likely be conducted, and the airport may experience some disruptions to flights. However, it is unlikely to have a significant impact on overall aviation operations in the next 24 hours.",
-      "strategic_outlook": "The long-term impact of this incident will depend on the cause of the emergency landing. If it is related to a technical issue, the airline and airport may need to review their maintenance procedures to prevent similar incidents in the future.",
-      "operational_impact": "The incident may cause some delays to flights at Manchester Airport, but it is unlikely to have a significant impact on the overall transport and logistics operations in the region.",
-      "proximity_alert": "YAKIN TEHDİT: Manchester Airport (0 km)"
+      "location": "Doha, Qatar",
+      "latitude": 25.2861,
+      "longitude": 51.5339,
+      "detailed_analysis": "A Qatari official stated that there are no discussions between Qatar and Iran regarding payment of funds to stop Iranian attacks, indicating a potential escalation of tensions between the two nations, which could impact regional stability and security, particularly for aviation and cargo operations.",
+      "immediate_forecast_24h": "Increased tensions between Qatar and Iran may lead to heightened security measures at airports and ports, potentially causing delays or disruptions to cargo and aviation operations in the region.",
+      "strategic_outlook": "The lack of diplomatic progress between Qatar and Iran could lead to a prolonged period of instability, affecting trade and transportation in the region, and potentially drawing in other nations, further complicating the security landscape.",
+      "operational_impact": "Cargo and aviation operations in Qatar and the surrounding region may be subject to increased security screening, potential delays, or even rerouting of flights and shipments to avoid areas of conflict, which could increase costs and reduce efficiency.",
+      "proximity_alert": "YAKIN TEHDİT: Hamad International Airport (7 km)"
     }
   },
   {
-    "id": "70efe2e9b63d1a70ef9d335764860e71",
-    "timestamp": "2026-04-14T11:12:11.182725",
-    "original_title": "Cameroon's Catholics fear papal visit could pay political dividends for President Biya",
-    "link": "http://www.africanews.com/2026/04/14/cameroons-catholics-fear-papal-visit-will-pay-political-dividends-for-president-biya/",
+    "id": "25b15682d1878998f3cf66553e1baf0a",
+    "timestamp": "2026-04-14T12:40:53.137808",
+    "original_title": "U.S.-Iran tensions persist as diplomacy struggles to keep pace",
+    "link": "http://www.africanews.com/2026/04/14/us-iran-tensions-persist-as-diplomacy-struggles-to-keep-pace/",
     "source_name": "Africa News",
     "ai_analysis": {
-      "category": "Civil Unrest",
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Strait of Hormuz, Middle East",
+      "latitude": 26.0,
+      "longitude": 56.0,
+      "detailed_analysis": "Escalating threats around the Strait of Hormuz due to U.S.-Iran tensions pose a significant risk to assets, cargo, aviation, and personnel in the region.",
+      "immediate_forecast_24h": "Increased military presence and heightened alertness are expected in the next 24 hours, potentially disrupting maritime and air traffic.",
+      "strategic_outlook": "Prolonged tensions may lead to a sustained increase in security measures, affecting global trade and energy markets, with potential long-term implications for regional stability.",
+      "operational_impact": "Shipping and aviation operations in the region may be impacted, with possible delays, rerouting, or increased security protocols, affecting logistics and supply chains.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "6c0c6c11c1f81da059e5c65f5c20d59a",
+    "timestamp": "2026-04-14T12:41:10.037070",
+    "original_title": "Italy suspends defence agreement with Israel as Lebanon attacks stoke tensions",
+    "link": "https://www.france24.com/en/europe/20260414-italy-suspends-defence-agreement-with-israel-as-lebanon-attacks-stoke-tensions",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
       "risk_score": 10,
-      "location": "Yaounde, Cameroon",
-      "latitude": 3.85,
-      "longitude": 11.52,
-      "detailed_analysis": "The potential papal visit to Cameroon could lead to increased tensions and protests, particularly given the contested re-election of President Biya and the deadly protests that followed. This may impact the security situation in the country, potentially affecting aviation and cargo operations.",
-      "immediate_forecast_24h": "Heightened security measures are likely to be implemented in anticipation of the papal visit, with potential for protests and demonstrations in major cities.",
-      "strategic_outlook": "The situation in Cameroon is likely to remain volatile in the coming months, with the potential for further unrest and instability. This could have long-term implications for the security of assets, cargo, aviation, and personnel in the region.",
-      "operational_impact": "Potential disruptions to aviation and cargo operations, particularly if protests or demonstrations affect major transportation hubs or infrastructure.",
-      "proximity_alert": "YAKIN TEHDİT: Yaoundé Nsimalen International Airport (2 km)"
+      "location": "Rome, Italy",
+      "latitude": 41.87,
+      "longitude": 12.5,
+      "detailed_analysis": "Italy has suspended its defence agreement with Israel due to rising tensions after Israeli forces fired warning shots at a convoy of Italian UN peacekeepers in Lebanon, potentially impacting aviation and personnel safety in the region.",
+      "immediate_forecast_24h": "Increased tensions between Italy and Israel may lead to heightened security measures and potential disruptions to aviation and logistics operations in the region.",
+      "strategic_outlook": "The suspension of the defence agreement may have long-term implications for regional security and stability, potentially affecting cargo and personnel movements.",
+      "operational_impact": "Potential disruptions to aviation operations, increased security measures, and possible impacts on cargo logistics and personnel safety in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Fiumicino – Leonardo da Vinci International Airport (2 km)"
     }
   }
 ]
