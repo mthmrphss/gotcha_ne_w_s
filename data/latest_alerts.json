@@ -1,40 +1,59 @@
 [
   {
-    "id": "3c3f64e741385c1c6fa7f124bc5a0a24",
-    "timestamp": "2026-04-13T23:27:10.529706",
-    "original_title": "American Airlines Flight Attendants Say They Should Be Paid More For Working London Flights Due to Catering Mess",
-    "link": "https://www.paddleyourownkanoo.com/2026/04/13/american-airlines-flight-attendants-say-they-should-be-paid-more-for-working-london-flights-due-to-catering-mess/",
+    "id": "ec5bf856d49caf48b5f6c02c2d064af2",
+    "timestamp": "2026-04-14T03:50:20.700013",
+    "original_title": "Iran Proposes Suspending Nuclear Activity for Up to 5 Years",
+    "link": "https://www.nytimes.com/live/2026/04/13/world/iran-war-trump-news",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Strait of Hormuz, Iran",
+      "latitude": 26.0,
+      "longitude": 56.0,
+      "detailed_analysis": "The proposed suspension of nuclear activity by Iran for up to 5 years and the rejection by President Trump, combined with the U.S. military blockade of the Strait of Hormuz, indicates a heightened state of tension between the two nations, potentially impacting maritime transport and global oil supply.",
+      "immediate_forecast_24h": "Increased military presence in the region may lead to heightened security measures and potential disruptions to shipping lanes in the short term.",
+      "strategic_outlook": "The failure to reach an agreement and the initiation of a military blockade may escalate tensions, potentially leading to further conflict and long-term disruptions to global trade and energy supplies.",
+      "operational_impact": "Shipping companies and airlines may need to reassess their routes and security protocols, potentially leading to increased costs and delays in the transport of cargo and personnel.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "ffd19bcdfdf1552311bb4a1afa2fa5dc",
+    "timestamp": "2026-04-14T03:50:26.993860",
+    "original_title": "Trinidad and Tobago - Level 3: Reconsider Travel",
+    "link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/trinidad-and-tobago-travel-advisory.html",
+    "source_name": "US State Dept",
+    "ai_analysis": {
+      "category": "Crime/Terrorism/Civil Unrest",
+      "risk_score": 7,
+      "location": "Port of Spain, Trinidad and Tobago",
+      "latitude": 10.6667,
+      "longitude": -61.5167,
+      "detailed_analysis": "There is a heightened risk of terrorism and crime in Trinidad and Tobago, with a State of Emergency declared due to a spike in violent criminal activity. Certain areas in Port of Spain are restricted for U.S. government employees, and there is a risk of terrorist violence, including terrorist attacks.",
+      "immediate_forecast_24h": "The situation is expected to remain volatile, with the Government of Trinidad and Tobago monitoring the State of Emergency daily and restrictions potentially changing with little or no notice.",
+      "strategic_outlook": "The long-term outlook is uncertain, but the security efforts started during the previous state of emergencies have led to a decrease in violent crime since 2024. However, crime remains a challenge throughout the country.",
+      "operational_impact": "The State of Emergency and increased risk of crime and terrorism may impact transport and logistics operations in Trinidad and Tobago, particularly in restricted areas. Companies should exercise caution and consider the risks when operating in the country.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "ef77669f224b2c1986ab2a79c6fc57be",
+    "timestamp": "2026-04-14T03:50:29.158893",
+    "original_title": "British Airways Starts Cancelling Some Short-Haul Services in May as Jet Fuel Prices Surge",
+    "link": "https://www.paddleyourownkanoo.com/2026/04/13/british-airways-starts-cancelling-some-short-haul-services-in-may-as-jet-fuel-prices-surge/",
     "source_name": "Paddle Your Own Kanoo",
     "ai_analysis": {
-      "category": "Aviation/Civil Unrest",
+      "category": "Aviation",
       "risk_score": 10,
       "location": "London, United Kingdom",
       "latitude": 51.5074,
       "longitude": -0.1278,
-      "detailed_analysis": "American Airlines flight attendants are demanding higher pay for working London flights due to extra work caused by a catering supplier change, which may lead to labor disputes or disruptions in service.",
-      "immediate_forecast_24h": "Potential for labor unrest or service disruptions on American Airlines flights to and from London Heathrow.",
-      "strategic_outlook": "Long-term labor relations and operational efficiency may be affected if the issue is not resolved, potentially impacting passenger experience and airline reputation.",
-      "operational_impact": "Minimal direct impact on transport/logistics, but potential for disruptions to passenger flights and services.",
+      "detailed_analysis": "British Airways is cancelling some short-haul services in May due to surging jet fuel prices, which may lead to disruptions in air travel and potential delays or cancellations of flights.",
+      "immediate_forecast_24h": "Passengers may experience flight disruptions and cancellations, and the airline's operations may be affected in the short term.",
+      "strategic_outlook": "The surge in jet fuel prices may have a long-term impact on the aviation industry, potentially leading to increased fares, reduced services, and changes in airline operations.",
+      "operational_impact": "The cancellations may affect cargo transport, personnel travel, and overall air logistics, potentially leading to delays and increased costs for businesses and individuals reliant on air travel.",
       "proximity_alert": "YAKIN TEHDİT: Heathrow Airport (23 km)"
-    }
-  },
-  {
-    "id": "01421878f1832ed4246875b88e685c34",
-    "timestamp": "2026-04-14T00:09:31.975626",
-    "original_title": "Russia suffers ‘record’ soldier casualties as Ukraine ups drone production | Russia-Ukraine war News",
-    "link": "https://www.reddit.com/r/worldnews/comments/1skrtew/russia_suffers_record_soldier_casualties_as/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 8,
-      "location": "Ukraine",
-      "latitude": 49.0,
-      "longitude": 32.0,
-      "detailed_analysis": "Reports indicate a significant increase in Russian soldier casualties, with Ukraine ramping up drone production. This escalation in conflict poses a substantial threat to aviation and personnel in the region.",
-      "immediate_forecast_24h": "Expect continued clashes and potential drone strikes, with elevated risks to aviation and personnel. The situation may further deteriorate, leading to increased instability.",
-      "strategic_outlook": "The long-term outlook suggests a protracted conflict, with both sides likely to suffer significant losses. The increased use of drones by Ukraine may shift the dynamics of the conflict, potentially leading to more targeted strikes.",
-      "operational_impact": "The conflict poses significant risks to transport and logistics in the region, particularly for aviation. Cargo and personnel movements may be severely disrupted, and the use of drones increases the risk of strikes on critical infrastructure.",
-      "proximity_alert": null
     }
   }
 ]
