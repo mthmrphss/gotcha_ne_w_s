@@ -549,5 +549,43 @@
       "operational_impact": "Transportation and logistics operations in the region may be severely impacted, with potential for delays, cancellations, or even attacks on assets and personnel. Aviation operations may be particularly affected due to the risk of rocket fire and potential airspace restrictions.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "c76bd1b7f5db3a32335f40e3a36e8f2b",
+    "timestamp": "2026-04-14T19:26:08.508260",
+    "original_title": "Iran War Live Updates: Israel and Lebanon Conclude Direct Talks as Strikes Go On",
+    "link": "https://www.nytimes.com/live/2026/04/14/world/iran-war-oil-hormuz",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "Southern Lebanon",
+      "latitude": 33.3533,
+      "longitude": 35.5133,
+      "detailed_analysis": "Ongoing strikes between Israel and Iran-backed Hezbollah in southern Lebanon pose a significant threat to aviation and regional stability. The violence could potentially disrupt air travel and logistics in the area.",
+      "immediate_forecast_24h": "Continued fighting and potential escalation of violence between Israel and Hezbollah, with possible impact on nearby airspaces and transport routes.",
+      "strategic_outlook": "The fragile U.S.-Iran cease-fire and ongoing conflict in Lebanon may lead to a prolonged period of instability in the region, affecting aviation and logistics operations.",
+      "operational_impact": "Potential disruption to air travel, increased security measures at airports, and possible rerouting of flights to avoid conflict zones, affecting cargo and personnel transport in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "98477af0cc8a0ea82a0a96d86ca54c33",
+    "timestamp": "2026-04-14T19:26:11.776430",
+    "original_title": "Synagogue targeted in first such arson attack in modern N. Macedonian history",
+    "link": "https://www.reddit.com/r/worldnews/comments/1sli9jd/synagogue_targeted_in_first_such_arson_attack_in/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Terrorism/Civil Unrest",
+      "risk_score": 10,
+      "location": "Skopje, North Macedonia",
+      "latitude": 41.9965,
+      "longitude": 21.4313,
+      "detailed_analysis": "A synagogue in North Macedonia was targeted in an arson attack, marking the first such incident in the country's modern history. This event indicates a rise in anti-Semitic sentiment and potential for further attacks on religious or ethnic minorities.",
+      "immediate_forecast_24h": "Increased security measures are expected around places of worship and potential targets for similar attacks. Tensions may rise within communities, potentially leading to civil unrest.",
+      "strategic_outlook": "Long-term, this incident could signal a growing trend of intolerance and extremism in the region, posing a threat to social cohesion and stability. It may also impact the country's reputation and relations with international partners.",
+      "operational_impact": "The attack may lead to increased security checks and measures for personnel and assets, particularly those associated with or visiting places of worship or potential targets. Cargo and aviation operations may not be directly impacted but should remain vigilant due to the potential for copycat attacks or broader civil unrest.",
+      "proximity_alert": "YAKIN TEHDİT: Skopje \"Alexander the Great\" Airport (0 km)"
+    }
   }
 ]
