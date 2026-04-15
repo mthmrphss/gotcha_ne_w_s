@@ -454,5 +454,62 @@
       "operational_impact": "The conflict may disrupt air travel and logistics operations in the region, posing a threat to the safe and efficient transportation of cargo and personnel. Operators should exercise caution and consider alternative routes or modes of transport to minimize the risk of disruption or loss.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "07f7c2435dd3cb595f5e30b4dea871f3",
+    "timestamp": "2026-04-15T15:48:44.805648",
+    "original_title": "Trump says Iran talks could resume in days as U.S. military blocks Iranian ports - NPR",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4wMjBLaWhsZ0lndlJtZWJaNTdXc1JOTDY5OU56R0NBUlZZNl9VbkpuM3FsQzM1OExtMjdTTm1jV0xzNW1vN2RiRWNZWkhrazZEb3BUNTVsR0dhalVrM2l1YXBQWmhUdXNMTEo3TXRDaDQteTFuYmJWMQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Iran, Middle East",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The U.S. military blocking Iranian ports could lead to increased tensions and potential conflict, posing a threat to assets, cargo, aviation, and personnel in the region.",
+      "immediate_forecast_24h": "Increased military presence and potential for escalation, possible disruptions to shipping and trade in the region.",
+      "strategic_outlook": "Long-term implications for regional stability and global trade, potential for ongoing conflict or diplomatic efforts to resolve the situation.",
+      "operational_impact": "Possible delays or disruptions to cargo shipments, increased security measures for aviation and personnel, and potential for assets to be affected by conflict or sanctions.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "b6b9e065052ee41a8b3c33404045713c",
+    "timestamp": "2026-04-15T15:48:48.946201",
+    "original_title": "U.K.-Ukraine duo beats Americans at their own drone game",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1sm87yc/ukukraine_duo_beats_americans_at_their_own_drone/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 7,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "A U.K.-Ukraine duo has developed drone technology that surpasses American capabilities, potentially disrupting the balance of power in the region and impacting aviation security.",
+      "immediate_forecast_24h": "Increased tensions between the U.S. and the U.K.-Ukraine duo, potentially leading to a surge in drone-related incidents or conflicts in the next 24 hours.",
+      "strategic_outlook": "Long-term implications include a potential shift in global drone technology leadership, with the U.K.-Ukraine duo gaining an upper hand, and possible retaliatory measures from the U.S.",
+      "operational_impact": "Potential disruptions to air traffic, increased security measures at airports, and heightened vigilance for drone sightings in the region, which may impact transport and logistics operations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "1ff812a9b480310710b7c0343f0394a0",
+    "timestamp": "2026-04-15T15:49:27.276244",
+    "original_title": "Chinese national sentenced to a year in prison for attempting to smuggle ants out of Kenya",
+    "link": "http://www.africanews.com/2026/04/15/chinese-national-sentenced-to-a-year-in-prison-for-attempting-to-smuggle-ants-out-of-kenya/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Crime",
+      "risk_score": 10,
+      "location": "Nairobi, Kenya",
+      "latitude": -1.2921,
+      "longitude": 36.8219,
+      "detailed_analysis": "A Chinese national was arrested and sentenced for attempting to smuggle over 2,000 ants out of Kenya, highlighting a potential threat to cargo security and biosecurity at Nairobi airport.",
+      "immediate_forecast_24h": "Increased security checks at Nairobi airport, potential for further arrests or seizures of smuggled goods.",
+      "strategic_outlook": "Long-term implications for biosecurity and cargo security in Kenya, potential for increased cooperation between Kenyan authorities and international partners to combat wildlife trafficking.",
+      "operational_impact": "Potential delays or disruptions to air cargo operations at Nairobi airport, increased scrutiny of passengers and cargo shipments.",
+      "proximity_alert": "YAKIN TEHDİT: Jomo Kenyatta International Airport (12 km)"
+    }
   }
 ]
