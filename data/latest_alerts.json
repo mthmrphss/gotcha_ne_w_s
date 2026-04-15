@@ -1,20 +1,77 @@
 [
   {
-    "id": "b2433f4b03429c564117b15db104cf7b",
-    "timestamp": "2026-04-14T23:52:56.174277",
-    "original_title": "UN says Haiti powerful gang expansion halted but threat persists",
-    "link": "https://www.france24.com/en/americas/20260414-un-haiti-powerful-gang-expansion-halted-threat-persists",
+    "id": "52b157b652dbd885ad6cae0c17925d9d",
+    "timestamp": "2026-04-15T03:26:05.510730",
+    "original_title": "Israeli strikes kill 10 in northern Gaza, including toddler, civil defence says",
+    "link": "https://www.france24.com/en/middle-east/20260415-israeli-fire-kills-six-palestinians-including-two-children-across-gaza-health-officials-say",
     "source_name": "France 24 ME",
     "ai_analysis": {
-      "category": "Civil Unrest/Crime/Conflict",
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "Gaza City, Gaza",
+      "latitude": 31.5,
+      "longitude": 34.45,
+      "detailed_analysis": "Israeli strikes in northern Gaza have resulted in the deaths of 10 people, including a toddler, indicating an escalation of violence despite a ceasefire. The strikes on a police vehicle and other areas pose a significant threat to personnel and assets in the region.",
+      "immediate_forecast_24h": "Continued violence and potential for further strikes are expected, with an increased risk of harm to civilians and personnel in the area.",
+      "strategic_outlook": "The long-term outlook remains volatile, with the potential for ongoing conflict and instability in the region, posing a persistent threat to assets, cargo, aviation, and personnel.",
+      "operational_impact": "The conflict may disrupt logistics and transportation in the area, with potential for delays or cancellations of flights and shipments, and increased security measures for personnel and assets.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "fe9eb2de8f3d9486bcc7166e43ba8c1e",
+    "timestamp": "2026-04-15T03:26:08.586545",
+    "original_title": "China Airlines Airbus A350-1000 Grounded After Jetbridge Tears Cabin Door Off Its Hinges",
+    "link": "https://www.paddleyourownkanoo.com/2026/04/14/air-china-airbus-a350-1000-grounded-after-jetbridge-tears-cabin-door-off-its-hinges/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Melbourne, Australia",
+      "latitude": -37.6739,
+      "longitude": 144.8433,
+      "detailed_analysis": "A China Airlines Airbus A350-1000 was grounded after a jetbridge damaged the forward left-hand boarding door, partly ripping it off its hinges. The incident occurred at Melbourne International Airport.",
+      "immediate_forecast_24h": "The aircraft will likely undergo repairs, and an investigation into the incident will be conducted. There may be some disruption to China Airlines' operations, but it is unlikely to have a significant impact on overall aviation operations in the region.",
+      "strategic_outlook": "The incident highlights the importance of proper maintenance and operation of ground handling equipment to prevent damage to aircraft. Airlines and airports may need to review their procedures to minimize the risk of similar incidents in the future.",
+      "operational_impact": "The grounding of the aircraft may cause some disruption to China Airlines' schedule, potentially affecting passengers and cargo. However, the impact is expected to be limited, and the airline can likely adjust its operations to minimize the effects of the incident.",
+      "proximity_alert": "YAKIN TEHDİT: Melbourne Havalimanı (18 km)"
+    }
+  },
+  {
+    "id": "3db250c9aaf314e07eb56e68fad5dd55",
+    "timestamp": "2026-04-15T03:26:11.057185",
+    "original_title": "American Airlines flight forced to divert after crew reports ‘oven issue’",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/american-airlines-flight-oven-fire-arizona-b2957288.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Aviation",
       "risk_score": 6,
-      "location": "Port-au-Prince, Haiti",
-      "latitude": 18.5333,
-      "longitude": -72.3333,
-      "detailed_analysis": "The expansion of powerful gangs in Haiti has been halted due to anti-gang operations, but the threat persists as gangs continue to adapt. Drone strikes and self-defence groups have been used to curb gang advances.",
-      "immediate_forecast_24h": "Gang activity is expected to remain a threat in the short term, with potential for increased violence or clashes with authorities.",
-      "strategic_outlook": "The security crisis in Haiti is likely to continue, with gangs posing a long-term threat to stability and security in the country.",
-      "operational_impact": "The ongoing security crisis and gang activity may impact transport and logistics operations in Haiti, particularly in Port-au-Prince, with potential for cargo theft, smuggling, or other crimes.",
+      "location": "Unknown, USA",
+      "latitude": 37.0902,
+      "longitude": -95.7129,
+      "detailed_analysis": "An American Airlines flight was forced to divert due to an 'oven issue' reported by the crew, which is under investigation by the Federal Aviation Administration. The nature of the issue is not specified, but it could potentially indicate a technical malfunction or a possible security threat.",
+      "immediate_forecast_24h": "The investigation by the Federal Aviation Administration is expected to continue, and the cause of the 'oven issue' will be determined. There may be increased scrutiny of American Airlines' maintenance procedures and potential inspections of similar aircraft.",
+      "strategic_outlook": "This incident may lead to a review of aviation safety protocols and procedures for addressing in-flight issues. It could also impact the public's perception of air travel safety and potentially influence future travel decisions.",
+      "operational_impact": "The diversion of the flight may cause disruptions to the travel plans of the passengers on board, as well as potential delays or cancellations of subsequent flights. The incident may also lead to increased security measures or inspections for American Airlines flights.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "02ab52f8434abdabe140bba04fd4213e",
+    "timestamp": "2026-04-15T03:26:12.967822",
+    "original_title": "Air travel crisis worsens as airlines furlough staff and prepare to ground planes",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/iran-war-flights-grounded-air-travel-b2957536.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 6,
+      "location": "Global",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Airlines are preparing to ground planes and cut capacity due to the air travel crisis, which may lead to disruptions in flight schedules and potential safety risks",
+      "immediate_forecast_24h": "Flight cancellations and delays are expected to increase in the next 24 hours, causing inconvenience to passengers and potential losses to airlines",
+      "strategic_outlook": "The air travel crisis may lead to a long-term impact on the aviation industry, with potential job losses and changes in consumer behavior",
+      "operational_impact": "The grounding of planes and reduction in capacity may affect cargo transport, leading to delays and increased costs for logistics and supply chain operations",
       "proximity_alert": null
     }
   }
