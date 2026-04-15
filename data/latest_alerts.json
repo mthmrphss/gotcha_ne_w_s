@@ -17,5 +17,43 @@
       "operational_impact": "Potential disruptions to shipping and air traffic, increased security measures for cargo and personnel, and possible rerouting of flights and vessels.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "4c29971d31ec9691c325bfb2a700b0d8",
+    "timestamp": "2026-04-15T12:11:40.878823",
+    "original_title": "Dodging Bombs and Drones, This Postman in Ukraine Still Delivers",
+    "link": "https://www.nytimes.com/2026/04/15/world/europe/ukraine-russia-war-kharkiv-nova-poshta.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "The ongoing conflict in Ukraine poses a significant threat to aviation and logistics, with reports of drones and bombs being used near the front lines. The postman's experience highlights the risks faced by personnel and cargo in the region.",
+      "immediate_forecast_24h": "Increased risk of drone sightings and potential attacks on aviation and logistics assets in the conflict zone.",
+      "strategic_outlook": "The conflict in Ukraine is likely to continue, posing a long-term risk to aviation, logistics, and personnel in the region. The use of drones and other aerial threats may become more prevalent, requiring increased security measures.",
+      "operational_impact": "Transport and logistics operations in the region may be disrupted or suspended due to the conflict, with potential delays or losses of cargo and assets.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "8b67922e9720abbf745ec557a067b77c",
+    "timestamp": "2026-04-15T12:12:18.832775",
+    "original_title": "Ukraine’s drone forces count their air defense kills by the fortnight — 12 in the first two weeks of April alone",
+    "link": "https://www.reddit.com/r/worldnews/comments/1sm41fp/ukraines_drone_forces_count_their_air_defense/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 8,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "Ukraine's drone forces have reported a significant number of air defense kills, with 12 in the first two weeks of April alone, indicating a heightened level of conflict and potential threat to aviation assets.",
+      "immediate_forecast_24h": "Increased drone activity and potential for further air defense engagements, posing a risk to aircraft and personnel in the region.",
+      "strategic_outlook": "The ongoing conflict in Ukraine is likely to continue, with drone warfare playing a significant role, posing a long-term risk to aviation assets and personnel in the region.",
+      "operational_impact": "Potential disruption to air traffic and logistics operations in the region, with increased risk of drone-related incidents and air defense engagements.",
+      "proximity_alert": null
+    }
   }
 ]
