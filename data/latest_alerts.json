@@ -1,40 +1,21 @@
 [
   {
-    "id": "f11de682f9cf6bd774be16b905177d03",
-    "timestamp": "2026-04-16T21:53:26.311435",
-    "original_title": "At least 17 people killed in Russia’s deadliest attack on Ukraine this year - The Guardian",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcXV0NzlQWWNoRDVBZWpWMHhWcGRHeUszb3FxRHFmUEJDSDVVa1VJQWxPV1laWXo1WmhIc2ZxLUFuQjFZWllrZURrdC12TkFQMGpYdHJhVUYyVDlrazZDOTRFbkdlYjZhdEJPTkE4akN5dnNhYmNOeXdCZTdYbms0U183QVBDMGpJQ01xcWd4cDBMdnFFTEZMNVFfWElmN0dTUUZQdzZualo5Zm1Ea095QnlrdTY?oc=5",
-    "source_name": "Google News (Breaking)",
+    "id": "808e295695c218ea8f3dc475ac67099c",
+    "timestamp": "2026-04-16T23:50:55.984248",
+    "original_title": "Hezbollah Fired an Iranian Cruise Missile That Reaches Riyadh. The Gulf Is Running Out of Interceptors.",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1snca2t/hezbollah_fired_an_iranian_cruise_missile_that/",
+    "source_name": "Reddit r/Geopolitics",
     "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 8,
-      "location": "Ukraine",
-      "latitude": 49.0,
-      "longitude": 32.0,
-      "detailed_analysis": "At least 17 people killed in Russia’s deadliest attack on Ukraine this year, indicating a significant escalation of violence and potential threat to assets, cargo, aviation, and personnel in the region.",
-      "immediate_forecast_24h": "Increased military activity and potential for further attacks, posing a high risk to transport and logistics operations in the area.",
-      "strategic_outlook": "Long-term instability and conflict in the region may lead to sustained disruptions to supply chains and transportation networks, with potential for spillover effects into neighboring countries.",
-      "operational_impact": "Transport and logistics operations in Ukraine and surrounding areas may be severely impacted, with potential for delays, damage to infrastructure, and risks to personnel and cargo.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "6fdfeae05f89f055fdefbe7c03560317",
-    "timestamp": "2026-04-16T21:57:34.643424",
-    "original_title": "Lufthansa becomes first major airline to ground planes as Iran war fuel crisis worsens",
-    "link": "https://www.independent.co.uk/travel/news-and-advice/lufthansa-airlines-flights-grounded-planes-iran-war-fuel-crisis-b2959354.html",
-    "source_name": "Independent Travel",
-    "ai_analysis": {
-      "category": "Conflict/Aviation",
-      "risk_score": 8,
-      "location": "Iran, Europe",
-      "latitude": 51.1657,
-      "longitude": 10.4515,
-      "detailed_analysis": "Lufthansa grounding planes due to Iran war fuel crisis, triggering panic buying and stockpiling of jet fuel, potentially disrupting aviation operations and supply chains",
-      "immediate_forecast_24h": "Increased fuel prices, potential flight cancellations and delays, heightened security measures at airports",
-      "strategic_outlook": "Prolonged conflict may lead to sustained fuel shortages, impacting global air travel and logistics, with potential for further escalation and expansion of the crisis",
-      "operational_impact": "Disruption to air cargo and passenger services, potential for increased costs and reduced capacity, affecting the entire aviation and logistics industry",
-      "proximity_alert": null
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 10,
+      "location": "Riyadh, Saudi Arabia",
+      "latitude": 24.7136,
+      "longitude": 46.6753,
+      "detailed_analysis": "Hezbollah has fired an Iranian cruise missile that reached Riyadh, indicating a significant escalation in regional tensions and a direct threat to aviation and personnel in the area. The Gulf region's interceptor stockpile is reportedly running low, which could exacerbate the situation.",
+      "immediate_forecast_24h": "Increased military alertness and potential for retaliatory strikes are expected in the short term. Air travel and logistics in the region may face disruptions due to heightened security measures and possible no-fly zones.",
+      "strategic_outlook": "The long-term implications of this event could lead to a destabilization of the region, affecting global oil prices and potentially drawing in other international actors. The depletion of interceptors in the Gulf suggests a need for replenishment or alternative defense strategies to mitigate future threats.",
+      "operational_impact": "Aviation and logistics operations in the region are at high risk due to the potential for further missile strikes and the depletion of defensive capabilities. Cargo and personnel movement may be restricted or subject to rigorous security screenings, leading to delays and increased costs.",
+      "proximity_alert": "YAKIN TEHDİT: King Khalid International Airport (27 km)"
     }
   }
 ]
