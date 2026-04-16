@@ -492,5 +492,24 @@
       "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics operations in the region. Increased security measures may be necessary to mitigate risks to personnel and assets.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "60e59a4082ae2c1f7e3a9dd2d13f4bf6",
+    "timestamp": "2026-04-16T19:48:55.233237",
+    "original_title": "Israeli military admit to posting AI photo of Lebanese journalist it killed",
+    "link": "https://www.france24.com/en/israeli-military-admit-to-posting-ai-photo-of-killed-lebanese-journalist",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 8,
+      "location": "Southern Lebanon",
+      "latitude": 33.1667,
+      "longitude": 35.2167,
+      "detailed_analysis": "The Israeli military's admission to posting an AI-generated photo of a Lebanese journalist it killed, presenting him as a 'Hezbollah terrorist', indicates a high level of conflict and potential for escalation in the region. This incident may lead to increased tensions between Israel and Lebanon, potentially affecting aviation and cargo operations in the area.",
+      "immediate_forecast_24h": "Increased military activity and potential for retaliation from Hezbollah or other groups in the region, which may impact aviation and cargo operations. Heightened security measures are expected in the area.",
+      "strategic_outlook": "Long-term escalation of the conflict may lead to increased instability in the region, affecting transport and logistics operations. The use of AI-generated content for disinformation purposes may become a growing concern for security operations.",
+      "operational_impact": "Potential for disruptions to aviation and cargo operations in the region due to increased military activity, airspace restrictions, or security measures. Transport and logistics companies should exercise caution and monitor the situation closely.",
+      "proximity_alert": null
+    }
   }
 ]
