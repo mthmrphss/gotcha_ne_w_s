@@ -473,5 +473,24 @@
       "operational_impact": "Potential disruptions to air traffic, cargo shipments, and ground transport in Lebanon and surrounding areas due to conflict-related activity.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "0899e0a6a3eb68e45f73bae7018ede65",
+    "timestamp": "2026-04-16T18:15:01.505637",
+    "original_title": "'Lebanon is being held hostage by Hezbollah acting at Iran's behest'",
+    "link": "https://www.france24.com/en/tv-shows/middle-east-matters/20260416-lebanon-is-being-held-hostage-to-hezbollah-acting-at-iran-s-behest",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 8,
+      "location": "Lebanon",
+      "latitude": 33.8547,
+      "longitude": 35.8623,
+      "detailed_analysis": "Hezbollah's ongoing conflict with Israel poses a significant threat to regional stability, with potential risks to aviation, cargo, and personnel. The militant group's ability to continue fighting despite setbacks suggests a robust support network, potentially backed by Iran.",
+      "immediate_forecast_24h": "Escalation of violence between Hezbollah and Israel, potentially drawing in other regional actors. Increased risk of attacks on aviation and logistics infrastructure.",
+      "strategic_outlook": "Long-term instability in Lebanon, with potential for protracted conflict and humanitarian crisis. Regional powers may become increasingly involved, exacerbating the situation.",
+      "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics operations in the region. Increased security measures may be necessary to mitigate risks to personnel and assets.",
+      "proximity_alert": null
+    }
   }
 ]
