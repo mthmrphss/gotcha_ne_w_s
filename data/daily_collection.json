@@ -454,5 +454,24 @@
       "operational_impact": "Potential for increased security checks and delays in transport and logistics, but no direct threat to assets, cargo, aviation, or personnel is currently apparent.",
       "proximity_alert": "YAKIN TEHDİT: Yaoundé Nsimalen International Airport (2 km)"
     }
+  },
+  {
+    "id": "1942d4d2f502ac885aa167c488f054b1",
+    "timestamp": "2026-04-16T16:56:53.821085",
+    "original_title": "'Lebanon is being held hostage to Hezbollah acting at Iran's behest'",
+    "link": "https://www.france24.com/en/tv-shows/middle-east-matters/20260416-lebanon-is-being-held-hostage-to-hezbollah-acting-at-iran-s-behest",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 8,
+      "location": "Lebanon",
+      "latitude": 33.8547,
+      "longitude": 35.8623,
+      "detailed_analysis": "Hezbollah's ongoing conflict with Israel poses a significant threat to regional stability, with potential implications for aviation and cargo security in the area.",
+      "immediate_forecast_24h": "Continued clashes between Hezbollah and Israel are expected, with potential for escalation and impact on nearby transport infrastructure.",
+      "strategic_outlook": "Long-term resolution of the conflict is uncertain, with potential for protracted instability and security risks to assets, cargo, aviation, and personnel in the region.",
+      "operational_impact": "Potential disruptions to air traffic, cargo shipments, and ground transport in Lebanon and surrounding areas due to conflict-related activity.",
+      "proximity_alert": null
+    }
   }
 ]
