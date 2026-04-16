@@ -112,5 +112,43 @@
       "operational_impact": "The strike is likely to cause significant delays and cancellations, impacting cargo transport, passenger travel, and overall aviation operations.",
       "proximity_alert": "YAKIN TEHDİT: Berlin Tegel Airport (0 km)"
     }
+  },
+  {
+    "id": "b19cc2f3305f79d6cbd39fb8b8a28f7c",
+    "timestamp": "2026-04-16T06:09:11.628362",
+    "original_title": "Nigeria drops terrorism charges against ex-justice minister: lawyer",
+    "link": "http://www.africanews.com/2026/04/16/nigeria-drops-terrorism-charges-against-ex-justice-minister-lawyer/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 10,
+      "location": "Abuja, Nigeria",
+      "latitude": 9.082,
+      "longitude": 7.5328,
+      "detailed_analysis": "The withdrawal of terrorism financing charges against former justice minister Abubakar Malami may indicate a shift in the political landscape, but does not directly pose a threat to assets, cargo, aviation, or personnel.",
+      "immediate_forecast_24h": "No immediate increase in threat level is expected, but the situation will be monitored for potential developments.",
+      "strategic_outlook": "The long-term implications of this event are uncertain, but it may lead to changes in the country's approach to counter-terrorism efforts.",
+      "operational_impact": "No direct operational impact on transport or logistics is anticipated at this time.",
+      "proximity_alert": "YAKIN TEHDİT: Nnamdi Azikiwe International Airport (29 km)"
+    }
+  },
+  {
+    "id": "0aed83f48d394a599716cec4b008ff7f",
+    "timestamp": "2026-04-16T06:09:13.842077",
+    "original_title": "More than a dozen killed in Russian attacks on Kyiv, other Ukrainian cities",
+    "link": "https://www.france24.com/en/europe/20260416-more-than-a-dozen-killed-in-russian-attacks-on-kyiv-other-ukrainian-cities",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 10,
+      "location": "Kyiv, Ukraine",
+      "latitude": 50.4501,
+      "longitude": 30.5236,
+      "detailed_analysis": "Russian missile and drone attacks on residential buildings in Kyiv and other Ukrainian cities have resulted in over a dozen fatalities and several dozen injuries, indicating a significant threat to personnel and potential disruption to aviation and logistics operations.",
+      "immediate_forecast_24h": "Further attacks are possible in the next 24 hours, with potential escalation of violence and increased risk to aviation, cargo, and personnel.",
+      "strategic_outlook": "The ongoing conflict between Russia and Ukraine poses a long-term threat to regional stability, with potential for continued attacks on urban areas and critical infrastructure, impacting transport and logistics operations.",
+      "operational_impact": "The attacks may disrupt air traffic, cargo transport, and logistics operations in the region, with potential for delays, cancellations, and increased security measures.",
+      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
+    }
   }
 ]
