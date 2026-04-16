@@ -150,5 +150,81 @@
       "operational_impact": "The attacks may disrupt air traffic, cargo transport, and logistics operations in the region, with potential for delays, cancellations, and increased security measures.",
       "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
     }
+  },
+  {
+    "id": "95507cda011e169d7f1b291427e73f72",
+    "timestamp": "2026-04-16T08:14:14.515879",
+    "original_title": "Anthropic’s Nuclear Bomb",
+    "link": "https://warontherocks.com/anthropics-nuclear-bomb/",
+    "source_name": "War on the Rocks",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 8,
+      "location": "Global",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "The launch of Anthropic's Claude Mythos Preview model poses a significant threat to global cybersecurity, as it can autonomously exploit previously unknown vulnerabilities in major operating systems and web browsers without human supervision.",
+      "immediate_forecast_24h": "Increased likelihood of AI-enabled cyberattacks on critical infrastructure, potentially leading to disruptions in various sectors, including aviation and logistics.",
+      "strategic_outlook": "The barrier between nation-state-level hacking and other threat actors is eroding, making it essential for organizations to enhance their cybersecurity measures to mitigate the risks associated with AI-enabled cyberattacks.",
+      "operational_impact": "Potential disruptions to air traffic control systems, cargo handling, and other logistics operations due to cyberattacks, which could compromise the safety and security of assets, cargo, aviation, and personnel.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "2b97bf010d1d38950c21fb97a898669d",
+    "timestamp": "2026-04-16T08:14:17.263996",
+    "original_title": "The End of Managed Escalation in the Gulf",
+    "link": "https://warontherocks.com/the-end-of-managed-escalation-in-the-gulf/",
+    "source_name": "War on the Rocks",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Gulf Region, Middle East",
+      "latitude": 26.2071,
+      "longitude": 50.5865,
+      "detailed_analysis": "The breakdown of the deterrence model in the Gulf region poses a significant threat to assets, cargo, aviation, and personnel due to increased tensions and potential for escalation between the U.S., Israel, and Iran.",
+      "immediate_forecast_24h": "Heightened military activity and increased risk of proxy warfare and covert strikes in the region, potentially disrupting air and sea transportation.",
+      "strategic_outlook": "Long-term instability in the region may lead to a shift in global power dynamics, affecting trade routes and security alliances, with potential for increased conflict and terrorism.",
+      "operational_impact": "Potential disruptions to air and sea transportation, increased security measures, and potential for attacks on critical infrastructure, affecting logistics and supply chains in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Bahrain International Airport (8 km)"
+    }
+  },
+  {
+    "id": "06f444deb88b5dd0aff644312b6e2747",
+    "timestamp": "2026-04-16T08:14:19.447023",
+    "original_title": "Ukraine: Deadly Russian strikes on Kyiv, Odesa and Dnipro leave 12 dead",
+    "link": "http://www.africanews.com/2026/04/16/ukraine-deadly-russian-strikes-on-kyiv-odesa-and-dnipro-leave-12-dead/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Kyiv, Ukraine",
+      "latitude": 50.4501,
+      "longitude": 30.5236,
+      "detailed_analysis": "Russian strikes on Kyiv, Odesa, and Dnipro have resulted in at least 12 fatalities, indicating a significant escalation of conflict in the region, posing a high risk to assets, personnel, and potentially disrupting aviation and cargo operations.",
+      "immediate_forecast_24h": "Continued fighting and potential for additional strikes are expected, with elevated risks to personnel and assets in the affected areas.",
+      "strategic_outlook": "The ongoing conflict is likely to persist, leading to long-term instability and heightened security risks for assets, cargo, aviation, and personnel in Ukraine.",
+      "operational_impact": "Transport and logistics operations in the region may be severely disrupted due to the conflict, with potential for damage to infrastructure, delays, and increased security measures.",
+      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
+    }
+  },
+  {
+    "id": "d75d24cec5f45942ca12dbfb931da49c",
+    "timestamp": "2026-04-16T08:14:21.495896",
+    "original_title": "Why is France’s bill against ‘new forms of anti-Semitism’ sparking controversy?",
+    "link": "https://www.france24.com/en/france/20260416-why-is-france-s-bill-against-new-forms-of-anti-semitism-sparking-controversy",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Terrorism/Civil Unrest",
+      "risk_score": 10,
+      "location": "Paris, France",
+      "latitude": 48.8567,
+      "longitude": 2.3508,
+      "detailed_analysis": "The proposed bill in France may lead to increased tensions and protests, potentially affecting aviation and cargo operations due to its controversial nature and potential to fuel anti-Semitism.",
+      "immediate_forecast_24h": "Debates and potential protests are expected in the next 24 hours, which may cause disruptions in the city but are unlikely to directly impact aviation or cargo operations.",
+      "strategic_outlook": "In the long term, the bill could lead to increased security measures and potential unrest, affecting the overall security landscape in France and potentially impacting transport and logistics.",
+      "operational_impact": "The operational impact is expected to be low in the immediate term, but increased security measures and potential protests could lead to minor disruptions in transport and logistics in the future.",
+      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (2 km)"
+    }
   }
 ]
