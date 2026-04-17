@@ -1,21 +1,40 @@
 [
   {
-    "id": "c0ce9e116249bb947b9f0df4897a94ac",
-    "timestamp": "2026-04-17T12:10:30.642533",
-    "original_title": "As small attack drones become vital in warfare, the U.S. is trying to catch up to other countries - WUNC",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5xdGlqRDBEUkdkdlB4MmFodEc2bDFIemlYeGhGZDhhVkhxa0lJVGMzQmcwRTljc1A0TS1XSHl4cXZSMmwxYUpUNDRYbTc1WnVuQjlZbEY0dkJQZV9OM1hRVGlRbUVJSTVxdlJwc0xpd2xMQQ?oc=5",
-    "source_name": "Google News (Breaking)",
+    "id": "902f577e761074901a4ffcc3bc20d008",
+    "timestamp": "2026-04-17T14:03:48.427470",
+    "original_title": "Trump Tries to Stop Drug Smuggling From South America. Drug Smugglers Invent New Tactics.",
+    "link": "https://www.nytimes.com/2026/04/17/world/americas/trump-drug-trafficking-south-america-brazil.html",
+    "source_name": "NewYork Times",
     "ai_analysis": {
-      "category": "Aviation/Conflict",
+      "category": "Crime",
+      "risk_score": 7,
+      "location": "South America",
+      "latitude": -25.0,
+      "longitude": -57.0,
+      "detailed_analysis": "Drug smugglers are inventing new tactics to move record amounts of drugs across the world, despite authorities using drones, troops, and A.I. to crack down on cocaine smuggling.",
+      "immediate_forecast_24h": "Increased surveillance and security measures are expected in the next 24 hours, but smugglers may adapt and find new ways to evade authorities.",
+      "strategic_outlook": "The cat-and-mouse game between authorities and smugglers is likely to continue, with smugglers constantly evolving their tactics to stay ahead of law enforcement.",
+      "operational_impact": "The increased smuggling activity may impact cargo and logistics operations, particularly in the aviation and maritime sectors, with potential delays and disruptions to supply chains.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "dca0d958bd99025adf61adee437bddc1",
+    "timestamp": "2026-04-17T14:04:52.359962",
+    "original_title": "Italy: 25 hostages freed as Naples bank gang vanishes underground",
+    "link": "http://www.africanews.com/2026/04/17/italy-25-hostages-freed-as-naples-bank-gang-vanishes-underground/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Crime",
       "risk_score": 10,
-      "location": "United States",
-      "latitude": 38.8977,
-      "longitude": -77.0365,
-      "detailed_analysis": "The increasing use of small attack drones in warfare poses a significant threat to aviation and personnel. The U.S. is trying to catch up to other countries in developing countermeasures, indicating a potential vulnerability in its current defense systems.",
-      "immediate_forecast_24h": "In the next 24 hours, there is a possibility of increased drone activity in conflict zones, which could lead to a higher risk of attacks on aviation assets and personnel.",
-      "strategic_outlook": "In the long term, the proliferation of small attack drones will likely continue to pose a significant threat to aviation and personnel, requiring the development of effective countermeasures and strategies to mitigate these risks.",
-      "operational_impact": "The use of small attack drones could impact transport and logistics operations, particularly in conflict zones, by disrupting air traffic and posing a risk to personnel and assets.",
-      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
+      "location": "Naples, Italy",
+      "latitude": 40.8568,
+      "longitude": 14.2493,
+      "detailed_analysis": "A group of three masked robbers held 25 people hostage during a bank heist in Naples before escaping through a tunnel connected to the city’s sewer network, indicating a high level of planning and coordination, and potential for future similar crimes in the area.",
+      "immediate_forecast_24h": "Increased police presence in the area, potential for further investigations and searches for the escaped robbers, and heightened security measures at financial institutions.",
+      "strategic_outlook": "Long-term concerns about the potential for copycat crimes, and the need for improved security measures at banks and other high-value targets, as well as increased surveillance and monitoring of the sewer network and other potential escape routes.",
+      "operational_impact": "Potential disruptions to banking and financial services in the area, and increased security protocols for personnel and assets, particularly in the financial sector.",
+      "proximity_alert": "YAKIN TEHDİT: Naples International Airport (4 km)"
     }
   }
 ]
