@@ -1,59 +1,21 @@
 [
   {
-    "id": "0e54fbaa0a3cb36e95370f7a19954ad0",
-    "timestamp": "2026-04-18T05:44:34.243195",
-    "original_title": "Drones hit oil refinery in Russia's Samara Oblast",
-    "link": "https://www.reddit.com/r/worldnews/comments/1soociz/drones_hit_oil_refinery_in_russias_samara_oblast/",
-    "source_name": "Reddit r/WorldNews",
+    "id": "0180aecf9ded532f36ee8a27faf88fdb",
+    "timestamp": "2026-04-18T07:19:41.459347",
+    "original_title": "South Sudan tensions escalate as opposition retakes key stronghold",
+    "link": "http://www.africanews.com/2026/04/18/south-sudan-tensions-escalate-as-opposition-retakes-key-stronghold/",
+    "source_name": "Africa News",
     "ai_analysis": {
-      "category": "Aviation/Conflict",
-      "risk_score": 8,
-      "location": "Samara Oblast, Russia",
-      "latitude": 53.2,
-      "longitude": 50.15,
-      "detailed_analysis": "Drones have hit an oil refinery in Russia's Samara Oblast, indicating a potential threat to critical infrastructure and aviation security. The incident may be related to ongoing conflicts or terrorist activities.",
-      "immediate_forecast_24h": "Increased security measures are expected at nearby airports and critical infrastructure facilities. Potential for retaliatory actions or further drone attacks in the region.",
-      "strategic_outlook": "Long-term implications for the security of oil refineries and critical infrastructure in the region. Potential escalation of conflict or terrorist activities targeting aviation and logistics.",
-      "operational_impact": "Potential disruptions to oil supply chains and logistics operations in the region. Increased security protocols may cause delays or restrictions on air traffic and cargo transport.",
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 7,
+      "location": "Akobo, South Sudan",
+      "latitude": 7.7933,
+      "longitude": 33.0333,
+      "detailed_analysis": "The retaking of the strategic town of Akobo by opposition forces from government troops indicates a significant escalation of tensions in South Sudan, posing a threat to the stability of the region and potentially impacting the safety of assets, cargo, aviation, and personnel.",
+      "immediate_forecast_24h": "Increased violence and clashes between government and opposition forces are likely, potentially disrupting transport and logistics operations in the area.",
+      "strategic_outlook": "The ongoing conflict in South Sudan may lead to a prolonged period of instability, affecting the country's ability to maintain secure transport routes and potentially spilling over into neighboring countries.",
+      "operational_impact": "Transport and logistics operations in the region may be disrupted due to the conflict, with potential risks to cargo and personnel, and aviation operations may be impacted by the unstable security environment.",
       "proximity_alert": null
-    }
-  },
-  {
-    "id": "bd7219e62ff1c3949e8c3bd65662474b",
-    "timestamp": "2026-04-18T05:44:37.674443",
-    "original_title": "Police lock down Kensington Gardens in London over drone threat",
-    "link": "https://www.reddit.com/r/worldnews/comments/1soo0a6/police_lock_down_kensington_gardens_in_london/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Aviation",
-      "risk_score": 10,
-      "location": "London, United Kingdom",
-      "latitude": 51.5074,
-      "longitude": -0.1278,
-      "detailed_analysis": "A drone threat has prompted the lockdown of Kensington Gardens in London, indicating a potential risk to aviation and public safety. The incident may be related to malicious or unauthorized drone activity, which could pose a threat to aircraft or people on the ground.",
-      "immediate_forecast_24h": "The situation is likely to be resolved within the next 24 hours, with police and aviation authorities taking steps to secure the area and prevent any further incidents. However, there is a possibility of continued disruptions to air traffic or public gatherings in the area.",
-      "strategic_outlook": "The long-term implications of this incident may include increased security measures for public events and gatherings, as well as enhanced regulations for drone usage in urban areas. This could lead to a reduction in the risk of similar incidents in the future, but may also impose additional costs and restrictions on individuals and organizations.",
-      "operational_impact": "The lockdown of Kensington Gardens may cause disruptions to local transportation and logistics, particularly if the incident is linked to a broader security threat. Airlines and airports in the area may need to take additional precautions, such as enhancing security screening or restricting access to certain areas.",
-      "proximity_alert": "YAKIN TEHDİT: Heathrow Airport (23 km)"
-    }
-  },
-  {
-    "id": "4491eeeb727508ea7d23ad982c52dc3d",
-    "timestamp": "2026-04-18T05:44:39.503490",
-    "original_title": "Kensington Gardens shut amid Israeli Embassy 'drone threat' probe",
-    "link": "https://www.reddit.com/r/worldnews/comments/1sonz61/kensington_gardens_shut_amid_israeli_embassy/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Aviation/Terrorism",
-      "risk_score": 10,
-      "location": "London, United Kingdom",
-      "latitude": 51.5074,
-      "longitude": -0.1278,
-      "detailed_analysis": "A drone threat near the Israeli Embassy has led to the shutdown of Kensington Gardens, indicating a potential security risk to aviation and personnel in the area.",
-      "immediate_forecast_24h": "Increased security measures are expected in the area, with potential disruptions to local aviation and transport operations. The situation may escalate if the threat is deemed credible.",
-      "strategic_outlook": "The use of drones for malicious purposes poses a long-term threat to aviation security, and this incident may lead to increased surveillance and countermeasures in sensitive areas.",
-      "operational_impact": "The shutdown of Kensington Gardens may cause disruptions to local transport and logistics, and the drone threat may lead to increased security screening and delays at nearby airports.",
-      "proximity_alert": "YAKIN TEHDİT: Heathrow Airport (23 km)"
     }
   }
 ]
