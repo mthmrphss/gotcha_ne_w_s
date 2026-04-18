@@ -1,21 +1,59 @@
 [
   {
-    "id": "f21e794f0d277552fadbac55d4027c92",
-    "timestamp": "2026-04-18T03:37:24.279804",
-    "original_title": "Witnesses describe chaos as Inkster police chase ends in fatal crash, shooting - ClickOnDetroit | WDIV Local 4",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTlhkZzVOVnFLTV9waGwzcFNUR1JMUElneTdCWE13aWF0bjJxcjdfTVhaaW96WHhaSUVRZi1xRkh4cXpjcktlSlVNV19Cd2Q1WDlzenZDUVMzNmhmb3N2WmZTSENkNTQtcjBKcjJoLURnTjJ5YWVuNFo4Y1FfVzRhcmphY2NPXzBKcHBwOHJuNk12dXJBMEJZSkVPOFpDYU1jTWk0Yk5iMGJtZWVqNC11bC1tM3hPeHhvc0taQUNXLUpfclBnOTQyX0ZVWQ?oc=5",
-    "source_name": "Google News (Breaking)",
+    "id": "0e54fbaa0a3cb36e95370f7a19954ad0",
+    "timestamp": "2026-04-18T05:44:34.243195",
+    "original_title": "Drones hit oil refinery in Russia's Samara Oblast",
+    "link": "https://www.reddit.com/r/worldnews/comments/1soociz/drones_hit_oil_refinery_in_russias_samara_oblast/",
+    "source_name": "Reddit r/WorldNews",
     "ai_analysis": {
-      "category": "Crime/Civil Unrest",
+      "category": "Aviation/Conflict",
+      "risk_score": 8,
+      "location": "Samara Oblast, Russia",
+      "latitude": 53.2,
+      "longitude": 50.15,
+      "detailed_analysis": "Drones have hit an oil refinery in Russia's Samara Oblast, indicating a potential threat to critical infrastructure and aviation security. The incident may be related to ongoing conflicts or terrorist activities.",
+      "immediate_forecast_24h": "Increased security measures are expected at nearby airports and critical infrastructure facilities. Potential for retaliatory actions or further drone attacks in the region.",
+      "strategic_outlook": "Long-term implications for the security of oil refineries and critical infrastructure in the region. Potential escalation of conflict or terrorist activities targeting aviation and logistics.",
+      "operational_impact": "Potential disruptions to oil supply chains and logistics operations in the region. Increased security protocols may cause delays or restrictions on air traffic and cargo transport.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "bd7219e62ff1c3949e8c3bd65662474b",
+    "timestamp": "2026-04-18T05:44:37.674443",
+    "original_title": "Police lock down Kensington Gardens in London over drone threat",
+    "link": "https://www.reddit.com/r/worldnews/comments/1soo0a6/police_lock_down_kensington_gardens_in_london/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Aviation",
       "risk_score": 10,
-      "location": "Inkster, USA",
-      "latitude": 42.2942,
-      "longitude": -83.3099,
-      "detailed_analysis": "A police chase in Inkster ended in a fatal crash and shooting, indicating a high level of violence and instability in the area, but not directly impacting aviation, cargo, or border security.",
-      "immediate_forecast_24h": "The situation is likely to be contained by local law enforcement, with potential for further civil unrest or protests in the area.",
-      "strategic_outlook": "The long-term impact on the area is likely to be minimal, but the incident highlights the need for continued vigilance and cooperation between law enforcement agencies to prevent and respond to violent incidents.",
-      "operational_impact": "The incident may cause temporary disruptions to local traffic and transport, but is unlikely to have a significant impact on regional or national logistics operations.",
-      "proximity_alert": "YAKIN TEHDİT: DETROIT (21 km)"
+      "location": "London, United Kingdom",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "detailed_analysis": "A drone threat has prompted the lockdown of Kensington Gardens in London, indicating a potential risk to aviation and public safety. The incident may be related to malicious or unauthorized drone activity, which could pose a threat to aircraft or people on the ground.",
+      "immediate_forecast_24h": "The situation is likely to be resolved within the next 24 hours, with police and aviation authorities taking steps to secure the area and prevent any further incidents. However, there is a possibility of continued disruptions to air traffic or public gatherings in the area.",
+      "strategic_outlook": "The long-term implications of this incident may include increased security measures for public events and gatherings, as well as enhanced regulations for drone usage in urban areas. This could lead to a reduction in the risk of similar incidents in the future, but may also impose additional costs and restrictions on individuals and organizations.",
+      "operational_impact": "The lockdown of Kensington Gardens may cause disruptions to local transportation and logistics, particularly if the incident is linked to a broader security threat. Airlines and airports in the area may need to take additional precautions, such as enhancing security screening or restricting access to certain areas.",
+      "proximity_alert": "YAKIN TEHDİT: Heathrow Airport (23 km)"
+    }
+  },
+  {
+    "id": "4491eeeb727508ea7d23ad982c52dc3d",
+    "timestamp": "2026-04-18T05:44:39.503490",
+    "original_title": "Kensington Gardens shut amid Israeli Embassy 'drone threat' probe",
+    "link": "https://www.reddit.com/r/worldnews/comments/1sonz61/kensington_gardens_shut_amid_israeli_embassy/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Aviation/Terrorism",
+      "risk_score": 10,
+      "location": "London, United Kingdom",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "detailed_analysis": "A drone threat near the Israeli Embassy has led to the shutdown of Kensington Gardens, indicating a potential security risk to aviation and personnel in the area.",
+      "immediate_forecast_24h": "Increased security measures are expected in the area, with potential disruptions to local aviation and transport operations. The situation may escalate if the threat is deemed credible.",
+      "strategic_outlook": "The use of drones for malicious purposes poses a long-term threat to aviation security, and this incident may lead to increased surveillance and countermeasures in sensitive areas.",
+      "operational_impact": "The shutdown of Kensington Gardens may cause disruptions to local transport and logistics, and the drone threat may lead to increased security screening and delays at nearby airports.",
+      "proximity_alert": "YAKIN TEHDİT: Heathrow Airport (23 km)"
     }
   }
 ]
