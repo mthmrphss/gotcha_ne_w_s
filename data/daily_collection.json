@@ -169,5 +169,100 @@
       "operational_impact": "The incident may lead to changes in the way mail and packages are screened for naval vessels, potentially causing minor disruptions to operations. However, the primary impact will be on the cybersecurity posture of naval forces, with a focus on enhancing protection against similar low-tech, high-impact threats.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "98b462460fe4c9e32a143ef03709d729",
+    "timestamp": "2026-04-19T07:53:48.219974",
+    "original_title": "Iran War Live Updates: Iran Declares Strait of Hormuz Closed Again as Ships Report Attacks",
+    "link": "https://www.nytimes.com/live/2026/04/19/world/iran-us-war-trump-hormuz",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Strait of Hormuz, Iran",
+      "latitude": 26.0,
+      "longitude": 56.0,
+      "detailed_analysis": "Iran has declared the Strait of Hormuz closed again, warning it will continue to block transit due to the U.S. blockade of ships from Iranian ports, posing a significant threat to maritime assets, cargo, and personnel in the region.",
+      "immediate_forecast_24h": "Increased tensions and potential for further attacks on ships in the Strait of Hormuz, with possible disruptions to global oil supplies and trade routes.",
+      "strategic_outlook": "Prolonged conflict in the region could lead to a significant escalation of violence, impacting global trade and economic stability, with potential long-term consequences for the security of maritime transport and logistics.",
+      "operational_impact": "Shipping companies and maritime operators should exercise extreme caution when navigating the Strait of Hormuz, with potential rerouting of ships and increased security measures to mitigate the risk of attacks and disruptions to cargo transport.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "83321de906d6dd8ee1ffaa32b5573d69",
+    "timestamp": "2026-04-19T07:53:50.687989",
+    "original_title": "From ‘Open’ to Gunfire: The Strait of Hormuz Signals a Fractured Iranian Command",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1spmkot/from_open_to_gunfire_the_strait_of_hormuz_signals/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "Strait of Hormuz, Iran",
+      "latitude": 26.0,
+      "longitude": 56.0,
+      "detailed_analysis": "The Strait of Hormuz is experiencing heightened tensions due to a fractured Iranian command, leading to gunfire incidents. This poses a significant threat to assets, cargo, aviation, and personnel in the region.",
+      "immediate_forecast_24h": "Increased military presence and potential for further escalation, affecting maritime traffic and aviation routes.",
+      "strategic_outlook": "Long-term instability in the region may lead to sustained risks for transport and logistics, potentially disrupting global supply chains.",
+      "operational_impact": "Shipping and aviation companies should exercise extreme caution when navigating the Strait of Hormuz, with potential for delays, rerouting, or increased security measures.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "5c0a37c17985b3178a42abd0180b04d7",
+    "timestamp": "2026-04-19T07:53:52.851535",
+    "original_title": "Sanctions and Sudan’s Muslim Brotherhood: Decoupling Burhan from Sudan’s Islamists and Iran",
+    "link": "https://www.reddit.com/r/worldnews/comments/1spmn1a/sanctions_and_sudans_muslim_brotherhood/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 10,
+      "location": "Khartoum, Sudan",
+      "latitude": 15.6333,
+      "longitude": 32.5333,
+      "detailed_analysis": "The article discusses the potential decoupling of Sudan's military leader, Burhan, from the country's Islamist groups and Iran, which could lead to increased instability and conflict in the region, posing a threat to aviation and cargo security.",
+      "immediate_forecast_24h": "Increased tensions between Sudan's military and Islamist groups, potentially leading to civil unrest and conflict, which could impact aviation and cargo operations in the region.",
+      "strategic_outlook": "Long-term instability in Sudan could lead to increased terrorism and conflict, posing a significant threat to regional security and transport/logistics operations.",
+      "operational_impact": "Potential disruptions to air travel and cargo transport in the region, increased security measures at airports and border crossings, and potential rerouting of flights and cargo shipments to avoid the area.",
+      "proximity_alert": "YAKIN TEHDİT: Khartoum International Airport (5 km)"
+    }
+  },
+  {
+    "id": "db41c3f679d1c1cd12c6a728f7895b53",
+    "timestamp": "2026-04-19T07:53:54.494553",
+    "original_title": "IDF chief: Israeli Air Force ready for immediate strike, including in Iran",
+    "link": "https://www.reddit.com/r/worldnews/comments/1splv4o/idf_chief_israeli_air_force_ready_for_immediate/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Israel/Iran",
+      "latitude": 32.0,
+      "longitude": 34.0,
+      "detailed_analysis": "The Israeli Air Force is reportedly ready for an immediate strike, including in Iran, posing a significant threat to aviation and regional stability.",
+      "immediate_forecast_24h": "Heightened tensions between Israel and Iran, potential for military action, and increased risk of aviation-related incidents.",
+      "strategic_outlook": "Long-term escalation of conflict between Israel and Iran, potentially drawing in other regional actors, and impacting global aviation and logistics.",
+      "operational_impact": "Potential disruption to air traffic, increased security measures, and heightened risk of attacks on aviation assets and personnel.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "47eb8048963188b9a61ac9890a203125",
+    "timestamp": "2026-04-19T07:53:56.970861",
+    "original_title": "North Korea fires short-range ballistic missiles in latest weapons tests",
+    "link": "https://www.france24.com/en/asia-pacific/20260419-north-korea-fires-short-range-ballistic-missiles-in-latest-weapons-tests",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "North Korea",
+      "latitude": 39.0392,
+      "longitude": 125.7625,
+      "detailed_analysis": "North Korea's launch of short-range ballistic missiles poses a significant threat to regional stability and security, potentially impacting aviation and cargo operations in the area.",
+      "immediate_forecast_24h": "Increased tensions between North Korea and neighboring countries, potentially leading to further military actions or escalations.",
+      "strategic_outlook": "Long-term implications include heightened security measures and potential trade restrictions, affecting logistics and transport operations in the region.",
+      "operational_impact": "Possible disruptions to air traffic and cargo shipments, particularly in the vicinity of the Korean Peninsula, due to increased military activity and potential airspace restrictions.",
+      "proximity_alert": null
+    }
   }
 ]
