@@ -454,5 +454,81 @@
       "operational_impact": "Minimal direct impact on transport and logistics, but potential for future disruptions if the situation escalates.",
       "proximity_alert": "YAKIN TEHDİT: José Martí International Airport (16 km)"
     }
+  },
+  {
+    "id": "648ae8e63748e3fb7c27f1967826806b",
+    "timestamp": "2026-04-20T14:19:50.652954",
+    "original_title": "Iran War Live Updates: Tehran Sends Mixed Signals on Talks After U.S. Seizes Ship",
+    "link": "https://www.nytimes.com/live/2026/04/20/world/iran-us-war-trump-hormuz",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Crime",
+      "risk_score": 7,
+      "location": "Strait of Hormuz, Iran",
+      "latitude": 26.0,
+      "longitude": 56.0,
+      "detailed_analysis": "Iran has vowed retaliation for the U.S. seizure of an Iran-flagged vessel, indicating potential escalation of conflict in the region, which could impact shipping and cargo operations.",
+      "immediate_forecast_24h": "Increased tensions between the U.S. and Iran may lead to further incidents at sea, potentially disrupting maritime trade routes and posing a risk to assets, cargo, and personnel.",
+      "strategic_outlook": "The conflict may lead to a prolonged period of instability in the region, affecting global oil prices and trade, with potential long-term implications for aviation and logistics operations.",
+      "operational_impact": "Shipping companies and airlines may need to reassess their routes and security protocols to mitigate the risks associated with operating in the region, potentially leading to increased costs and delays.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "a07449cb95927a229d05947d8655b686",
+    "timestamp": "2026-04-20T14:19:52.825062",
+    "original_title": "Ukraine, Short on Troops, Is Turning to Robots to Help Its War Efforts",
+    "link": "https://www.nytimes.com/2026/04/20/world/europe/ukraine-russia-war-robots-drones.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "Ukraine is utilizing unmanned ground vehicles armed with bombs, guns, or rockets to carry out attacks, potentially reducing the risk to its soldiers but introducing a new dynamic to the conflict that could impact aviation and logistics operations in the region.",
+      "immediate_forecast_24h": "Increased use of unmanned vehicles by Ukraine could lead to escalated military responses from opposing forces, potentially affecting air traffic and ground logistics in the immediate vicinity of conflict zones.",
+      "strategic_outlook": "The long-term use of unmanned vehicles in conflict could set a precedent for future military engagements, impacting how forces approach logistics and personnel safety, and potentially leading to increased investment in countermeasures against such technologies.",
+      "operational_impact": "The use of armed unmanned ground vehicles could lead to heightened security measures for cargo and personnel moving through or near conflict zones, potentially disrupting supply chains and requiring additional security protocols for aviation and ground transport.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "0a1ea77e5f14b674bb4be2df68fecbd7",
+    "timestamp": "2026-04-20T14:19:55.411757",
+    "original_title": "Putin finally admits Russia's economy is in trouble and grasps for answers, after warnings about a financial crisis have been piling up",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1sqq80r/putin_finally_admits_russias_economy_is_in/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict/Economy",
+      "risk_score": 10,
+      "location": "Moscow, Russia",
+      "latitude": 55.7558,
+      "longitude": 37.6176,
+      "detailed_analysis": "Russian economy is in trouble, which may lead to instability and potential impact on global trade and logistics. However, there is no direct threat to assets, cargo, aviation, or personnel at this time.",
+      "immediate_forecast_24h": "No immediate changes expected, but the situation will continue to be monitored for potential escalation.",
+      "strategic_outlook": "Long-term economic instability in Russia could lead to increased tensions and potential conflict, which may impact global trade and logistics. However, this is a developing situation and will require continued monitoring.",
+      "operational_impact": "No direct operational impact expected at this time, but potential future disruptions to trade and logistics should be considered in strategic planning.",
+      "proximity_alert": "YAKIN TEHDİT: Vnukovo International Airport (27 km)"
+    }
+  },
+  {
+    "id": "e150224cf780418447d9ccd6062e94bf",
+    "timestamp": "2026-04-20T14:19:59.086712",
+    "original_title": "Africa’s shifting security map: Ten years on, a continent under strain",
+    "link": "http://www.africanews.com/2026/04/20/africas-shifting-security-map-ten-years-on-a-continent-under-strain/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest/Terrorism",
+      "risk_score": 7,
+      "location": "Africa",
+      "latitude": 0.0,
+      "longitude": 20.0,
+      "detailed_analysis": "Africa's security landscape has deteriorated over the past decade, with a significant increase in political violence, civil wars, jihadist attacks, and government crackdowns, posing a substantial threat to assets, cargo, aviation, and personnel across the continent.",
+      "immediate_forecast_24h": "Expect continued instability and potential for violent clashes in hotspots, with possible disruptions to transport and logistics operations.",
+      "strategic_outlook": "The long-term security outlook for Africa remains challenging, with ongoing conflicts, extremist activity, and political instability likely to persist, necessitating sustained vigilance and adaptive security measures.",
+      "operational_impact": "Transport and logistics operations may face disruptions, delays, or increased security costs due to the heightened risk environment, particularly in areas affected by conflict or civil unrest.",
+      "proximity_alert": null
+    }
   }
 ]
