@@ -1,77 +1,96 @@
 [
   {
-    "id": "ba856c1ff5d37612f05e7d4558355b8a",
-    "timestamp": "2026-04-20T06:24:51.614461",
-    "original_title": "The Axis of Terror: The Destructive Price of America’s Blind Allegiance to Israel - CounterPunch.org",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaHJNa3JwbmRNVW9ON29paXphVnpxWE40RGR1eXlyTy1MYkhaTGFqa0JZR2ZYUGNnZEhYdkpSYUtDaDJRUW9rR0h1T2JoNTVPVkFCWk9lRlVwMUdCZXY5SUVyMWRFbkV0MGlaNS1sOXFaWXVHX0QxT19sZEgzUHRoRFFmX01ranUtbE0ySGZvVnZpQXM4djhzU2NfTjZndnpHQ3VROGVuSER1YWhRQ1B6QzFSYlR0RjNGcEhEQg?oc=5",
+    "id": "4245b1ae6c50dd82a963d3eb6ffada7a",
+    "timestamp": "2026-04-20T08:35:03.673553",
+    "original_title": "US military strike on alleged drug boat kills 3 in Caribbean Sea - San Antonio Express-News",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRjM0U1BMRHEyejdUaEJ4THNCOVRhUm82ZXpEMmFVNURPLXp6aWxqQ1dua05sSnVhTThzMEp3Z0VXc0c3RlN5Z0U5OHlKRVJMcmotbVlnSE5pamREcWhEa2QteEVaM1Vjb25uMldCeWo0cHJlWmpYV2t1Nng1STliN1NiY2cySzVnaWg2TmhjNFpsNGk4cGdTZERMSERHTi1IWjN3?oc=5",
     "source_name": "Google News (Breaking)",
     "ai_analysis": {
-      "category": "Terrorism/Conflict",
+      "category": "Conflict/Crime",
+      "risk_score": 7,
+      "location": "Caribbean Sea",
+      "latitude": 15.0,
+      "longitude": -65.0,
+      "detailed_analysis": "A US military strike on an alleged drug boat in the Caribbean Sea has resulted in 3 fatalities, indicating a high level of conflict and crime in the region, potentially disrupting maritime transport and logistics.",
+      "immediate_forecast_24h": "Increased military presence and surveillance in the area, potential for further confrontations with drug trafficking vessels.",
+      "strategic_outlook": "Long-term efforts to combat drug trafficking in the Caribbean may lead to increased security measures, potentially impacting legitimate maritime trade and transport.",
+      "operational_impact": "Shipping and cargo operations in the Caribbean Sea may be affected by increased military activity and security measures, potentially leading to delays or disruptions.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "d74bb5e614c3490938d31b8f0fb2d9cf",
+    "timestamp": "2026-04-20T08:35:06.512828",
+    "original_title": "Iran War Live Updates: Oil Prices Rise as Iran Vows Retaliation for Cargo Ship Attack",
+    "link": "https://www.nytimes.com/live/2026/04/20/world/iran-us-war-trump-hormuz",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Crime",
+      "risk_score": 7,
+      "location": "Iran, Middle East",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The attack on an Iranian cargo ship by the U.S. has led to a vow of retaliation from Iran, potentially threatening global oil supplies and maritime security. This could lead to increased piracy, smuggling, or other criminal activities in the region.",
+      "immediate_forecast_24h": "Heightened tensions between the U.S. and Iran may lead to further military action or retaliatory measures, potentially disrupting shipping lanes and global oil markets.",
+      "strategic_outlook": "The conflict may escalate into a broader regional crisis, affecting global trade and economic stability. Iran's retaliation could target U.S. or allied interests, including cargo ships or aviation assets.",
+      "operational_impact": "Potential disruptions to maritime trade, increased security measures for cargo ships, and heightened risk of piracy or smuggling in the region. Aviation assets may also be at risk due to potential Iranian retaliation.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "07ebb4f6ba8cca099993934d37318ed0",
+    "timestamp": "2026-04-20T08:35:09.663572",
+    "original_title": "How Cybercrime Became a Leading Industry in ‘Scambodia’",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1sqhwfg/how_cybercrime_became_a_leading_industry_in/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Cyber",
       "risk_score": 10,
-      "location": "United States, Israel",
+      "location": "Cambodia",
+      "latitude": 11.555556,
+      "longitude": 104.916667,
+      "detailed_analysis": "Cambodia has become a hub for cybercrime, with a significant rise in online scams and cyberattacks. This poses a threat to assets, cargo, and personnel, particularly in the logistics and transportation sectors.",
+      "immediate_forecast_24h": "Increased risk of cyberattacks and online scams targeting individuals and businesses in the region, potentially disrupting logistics and transportation operations.",
+      "strategic_outlook": "Long-term risk of Cambodia's cybercrime industry expanding and becoming more sophisticated, potentially leading to more severe and widespread attacks on critical infrastructure and supply chains.",
+      "operational_impact": "Potential disruption to logistics and transportation operations, including cargo theft, smuggling, and other cyber-enabled crimes, which could impact the safety and security of assets, cargo, and personnel.",
+      "proximity_alert": "YAKIN TEHDİT: Phnom Penh International Airport (7 km)"
+    }
+  },
+  {
+    "id": "b434fca0006c84e976f1d10652ff3352",
+    "timestamp": "2026-04-20T08:35:13.392588",
+    "original_title": "The F-35 Is a Masterpiece Built for the Wrong War",
+    "link": "https://warontherocks.com/cogs-of-war/the-f-35-is-a-masterpiece-built-for-the-wrong-war/",
+    "source_name": "War on the Rocks",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 10,
+      "location": "United States",
       "latitude": 38.8977,
       "longitude": -77.0365,
-      "detailed_analysis": "The article discusses the potential consequences of the United States' allegiance to Israel, highlighting the risk of terrorism and conflict. The language used suggests a high level of tension and potential for violence, which could impact aviation, cargo, and personnel.",
-      "immediate_forecast_24h": "Increased tensions between the US and Middle Eastern countries, potential for protests or violent incidents",
-      "strategic_outlook": "Long-term instability in the region, potential for escalation of conflict, and increased risk of terrorism",
-      "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics in the region, increased security measures and protocols",
+      "detailed_analysis": "The F-35 program's high cost and production challenges may impact the US tactical air fleet's capabilities, potentially affecting national security and aviation operations.",
+      "immediate_forecast_24h": "No immediate threats to aviation or personnel are reported, but the F-35 program's issues may lead to strategic decisions affecting US military operations.",
+      "strategic_outlook": "The long-term implications of the F-35 program's costs and production challenges may influence US military strategy and aviation investments, potentially impacting global conflict dynamics.",
+      "operational_impact": "The F-35 program's issues may affect US military aviation operations, potentially limiting their capabilities and responsiveness to emerging threats.",
       "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
     }
   },
   {
-    "id": "036b21b6e2105a88ec30779e5ef77c37",
-    "timestamp": "2026-04-20T06:24:54.771900",
-    "original_title": "U.S. Attacks Iranian Cargo Ship While Preparing for New Round of Talks",
-    "link": "https://www.nytimes.com/live/2026/04/19/world/iran-us-war-trump-hormuz",
-    "source_name": "NewYork Times",
+    "id": "c9b502f09e18df0a81980f8696adf70b",
+    "timestamp": "2026-04-20T08:35:16.790284",
+    "original_title": "All the airlines cancelling flights and adding extra charges amid jet fuel crisis",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/airline-flight-cancellations-iran-easyjet-lufthansa-fuel-shortage-b2960844.html",
+    "source_name": "Independent Travel",
     "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 8,
-      "location": "Gulf of Oman",
-      "latitude": 25.0,
-      "longitude": 58.0,
-      "detailed_analysis": "The U.S. attack on an Iranian-flagged cargo ship in the Gulf of Oman poses a significant threat to assets, cargo, and personnel in the region. The incident may escalate tensions between the U.S. and Iran, potentially disrupting maritime trade and logistics.",
-      "immediate_forecast_24h": "Increased naval presence and heightened security measures are expected in the Gulf of Oman. There is a risk of retaliatory actions from Iran, which could impact shipping lanes and cargo operations.",
-      "strategic_outlook": "The long-term implications of this incident may include increased military presence in the region, potentially leading to a higher risk of conflict and disruptions to global trade. The upcoming talks between the U.S. and Pakistan may be affected by this development, potentially altering the diplomatic landscape in the region.",
-      "operational_impact": "Shipping companies and logistics operators should exercise caution when navigating the Gulf of Oman, considering alternative routes or enhanced security measures to mitigate potential risks. The incident may also impact oil prices and global trade, leading to increased costs and delays for cargo owners and operators.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "f39939f607ee3233c1155423f6ac51ac",
-    "timestamp": "2026-04-20T06:24:57.788805",
-    "original_title": "‘Robots don’t bleed’: Ukraine sends machines into the battlefield",
-    "link": "https://www.reddit.com/r/worldnews/comments/1sqh687/robots_dont_bleed_ukraine_sends_machines_into_the/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 8,
-      "location": "Ukraine",
-      "latitude": 49.0,
-      "longitude": 32.0,
-      "detailed_analysis": "Ukraine is deploying robots into the battlefield, which could lead to increased use of unmanned systems in combat zones, potentially disrupting logistics and transport operations.",
-      "immediate_forecast_24h": "Increased military activity and potential for escalation in the conflict zone, with possible disruptions to air and ground transport.",
-      "strategic_outlook": "Long-term use of robots in combat could lead to changes in military tactics and strategies, potentially affecting the security of transport infrastructure and logistics operations.",
-      "operational_impact": "Potential disruptions to air and ground transport, increased security measures for logistics operations, and possible changes to transport routes and schedules.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "785913719706de203e867529ae948e0e",
-    "timestamp": "2026-04-20T06:25:01.916871",
-    "original_title": "Middle East war live: Israeli army urges south Lebanon residents to avoid restricted areas",
-    "link": "https://www.france24.com/en/middle-east/20260419-middle-east-war-live-iran-vows-response-after-us-destroyer-fires-on-cargo-ship",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict/Civil Unrest",
-      "risk_score": 8,
-      "location": "Southern Lebanon",
-      "latitude": 33.3333,
-      "longitude": 35.3833,
-      "detailed_analysis": "The Israeli military has warned residents in southern Lebanon to avoid restricted areas due to continued Hezbollah activity, indicating a heightened state of tension and potential for conflict in the region. The situation is further complicated by Iran's vow of retaliation after a US destroyer fired on an Iranian-flagged cargo ship in the Gulf of Oman.",
-      "immediate_forecast_24h": "Increased military presence and activity in the area, potential for escalation of conflict, and heightened security measures for cargo and personnel in the region.",
-      "strategic_outlook": "Long-term instability in the region, potential for ongoing conflict between Israel and Hezbollah, and increased risk of retaliation from Iran, all of which could impact aviation, cargo, and personnel in the Middle East.",
-      "operational_impact": "Potential disruptions to cargo shipments and aviation operations in the region, increased security protocols for personnel and assets, and heightened vigilance for potential attacks or sabotage.",
+      "category": "Conflict/Aviation",
+      "risk_score": 7,
+      "location": "Middle East",
+      "latitude": 29.4574,
+      "longitude": 47.4822,
+      "detailed_analysis": "The global jet fuel shortage caused by conflict in the Middle East is leading to flight cancellations and extra charges by airlines, potentially disrupting air travel and logistics.",
+      "immediate_forecast_24h": "Airlines may continue to cancel flights and impose additional fees, causing inconvenience to passengers and potentially affecting cargo transport.",
+      "strategic_outlook": "The conflict in the Middle East may lead to a prolonged jet fuel shortage, resulting in long-term disruptions to air travel and logistics, with potential economic and social implications.",
+      "operational_impact": "Flight cancellations and extra charges may impact personnel travel, cargo transport, and overall supply chain operations, requiring alternative arrangements and contingency planning.",
       "proximity_alert": null
     }
   }
