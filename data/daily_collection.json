@@ -416,5 +416,24 @@
       "operational_impact": "Potential disruptions to transport and logistics in London due to increased security measures or protests. Aviation and cargo operations may be affected if the situation escalates.",
       "proximity_alert": "YAKIN TEHDİT: Heathrow Airport (23 km)"
     }
+  },
+  {
+    "id": "c34e8ca21a01ecf70491ddbbf6d7a417",
+    "timestamp": "2026-04-21T16:38:35.550589",
+    "original_title": "AA314 Declares Emergency, Diverts To Houston IAH - Hoodline",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQamp2bmpEcmFuWXRGT2ExbVRoVFh2WVdwZWVOaVAxUkE3UFZMcWxKcTlRVEt1d185SXItVUxyYlg5SHBmWlNSdkFRbnhxWmg5eFg5NUNGVVNQa0ZUYnJKLXIwM3hwSkV5ZnRNYV9DNmt4NWdQU0ZlOWcwQ2RCZHpzdEVwS0hzVlRJTEJrOVZWSWhfNzRjODVKUDNXVQ?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Houston, USA",
+      "latitude": 29.7633,
+      "longitude": -95.3632,
+      "detailed_analysis": "American Airlines flight AA314 declared an emergency and diverted to Houston IAH, the cause of the emergency is unknown and under investigation",
+      "immediate_forecast_24h": "Further investigation and possible delays at Houston IAH airport",
+      "strategic_outlook": "Potential impact on airline operations and passenger safety, possible review of emergency procedures",
+      "operational_impact": "Disruption to flight schedules, potential delays and cancellations, impact on passenger travel plans",
+      "proximity_alert": "YAKIN TEHDİT: George Bush Intercontinental Airport (24 km)"
+    }
   }
 ]
