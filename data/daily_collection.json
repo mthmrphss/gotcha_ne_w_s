@@ -112,5 +112,43 @@
       "operational_impact": "The incident may lead to increased scrutiny of air traffic control procedures and potential adjustments to flight routing or scheduling to minimize the risk of similar incidents.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "d04fd15bdfa6e1356aea5ffb30bcd96f",
+    "timestamp": "2026-04-21T06:07:24.425191",
+    "original_title": "Sudan war: Senior RSF commander defects to army in major blow to paramilitaries",
+    "link": "http://www.africanews.com/2026/04/21/sudan-war-senior-rsf-commander-defects-to-army-in-major-blow-to-paramilitaries/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Khartoum, Sudan",
+      "latitude": 15.6333,
+      "longitude": 32.5333,
+      "detailed_analysis": "A senior RSF commander defecting to the army could lead to a significant shift in the balance of power in Sudan's conflict, potentially affecting the security and stability of the region, including transport and logistics operations.",
+      "immediate_forecast_24h": "Increased tensions and potential clashes between RSF and army forces, with possible disruptions to supply chains and transport routes.",
+      "strategic_outlook": "The defection may lead to further divisions within the RSF, potentially weakening their position and creating opportunities for the army to gain control, but also risks escalating the conflict and destabilizing the region.",
+      "operational_impact": "Transport and logistics operations in Sudan may face increased risks due to the conflict, including potential disruptions to supply chains, roadblocks, and security checkpoints, as well as the risk of violence and instability.",
+      "proximity_alert": "YAKIN TEHDİT: Khartoum International Airport (5 km)"
+    }
+  },
+  {
+    "id": "bdf9843e186b6eeb326f520770152fe0",
+    "timestamp": "2026-04-21T06:07:28.065564",
+    "original_title": "TfL Tube strikes: When are drivers walking out this week and what lines will be affected?",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/tfl-tube-strikes-april-2026-london-underground-dates-lines-b2961538.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "London, United Kingdom",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "detailed_analysis": "TfL Tube strikes may cause disruptions to London's transportation system, potentially affecting commuters and cargo movement",
+      "immediate_forecast_24h": "Commuters may face delays and disruptions due to the strike, with potential knock-on effects for logistics and supply chains",
+      "strategic_outlook": "The strike may have a limited long-term impact on the city's transportation infrastructure, but could lead to increased tensions between unions and transport authorities",
+      "operational_impact": "Potential delays and disruptions to passenger and cargo transport, with possible increased demand for alternative modes of transportation",
+      "proximity_alert": "YAKIN TEHDİT: Heathrow Airport (23 km)"
+    }
   }
 ]
