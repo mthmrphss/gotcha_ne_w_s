@@ -17,5 +17,43 @@
       "operational_impact": "The attack plan, although focused on a police station, may have indirect implications for local transport and logistics, particularly if security measures are heightened or if the incident sparks civil unrest.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "43ead2260413f8148532d20cef646970",
+    "timestamp": "2026-04-21T21:55:52.174077",
+    "original_title": "Iran War Live Updates: Trump Extends Cease-Fire With Iran",
+    "link": "https://www.nytimes.com/live/2026/04/21/world/iran-us-war-trump-news",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The extension of the cease-fire between the US and Iran reduces the immediate risk of conflict, but the situation remains volatile. Pakistan's mediation efforts may help to de-escalate tensions, but the potential for miscalculation or provocation remains.",
+      "immediate_forecast_24h": "The cease-fire is expected to hold, but there is a risk of isolated incidents or skirmishes. The US and Iranian military will likely remain on high alert.",
+      "strategic_outlook": "The long-term outlook for the region remains uncertain, with the potential for ongoing tensions and conflict between the US and Iran. The involvement of other regional actors, such as Pakistan, may help to mitigate the risk of escalation.",
+      "operational_impact": "The extension of the cease-fire may lead to a reduction in security measures for aviation and cargo operations in the region, but operators should remain vigilant and prepared for potential disruptions or changes in the security environment.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "927e1a1f9e32feb50cd3cc959b08192f",
+    "timestamp": "2026-04-21T21:56:30.114320",
+    "original_title": "Trump extends US-Iran ceasefire indefinitely at request of Pakistan",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1ss1axq/trump_extends_usiran_ceasefire_indefinitely_at/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "US-Iran border region",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The extension of the US-Iran ceasefire indefinitely at the request of Pakistan may reduce tensions in the short term, but the situation remains volatile. The potential for miscalculation or provocation by either side could still lead to an escalation of conflict, posing a significant threat to regional stability and global security.",
+      "immediate_forecast_24h": "The ceasefire is expected to hold in the next 24 hours, but the situation will remain fragile. Any incident or provocation could lead to a rapid escalation of tensions.",
+      "strategic_outlook": "The long-term outlook for the region remains uncertain, with the potential for ongoing tensions and conflict between the US and Iran. The involvement of other regional actors, such as Pakistan, may help to mitigate the situation, but the risk of conflict remains high.",
+      "operational_impact": "The extension of the ceasefire may lead to a reduction in disruptions to transport and logistics in the region, but the situation remains unpredictable. Airlines and shipping companies should remain vigilant and prepared for any changes in the security situation.",
+      "proximity_alert": null
+    }
   }
 ]
