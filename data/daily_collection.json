@@ -131,5 +131,62 @@
       "operational_impact": "The incident may impact the operations of Southwest Airlines, particularly if the aircraft is grounded for investigation or repair, and may also affect the travel plans of passengers.",
       "proximity_alert": "YAKIN TEHDİT: Las Vegas International Airport (0 km)"
     }
+  },
+  {
+    "id": "1b7ea1f0b190011facce4b29bc86b151",
+    "timestamp": "2026-04-22T05:39:26.217530",
+    "original_title": "Mexico to beef up security at tourist sites after shooting at pyramids - NPR",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOU0wyTU5sN2QzUk1iZDVOOTZuY05hYjlnVWUwalRMRVViQ2xZT2dxdHB2c1JGNW1CMGhmbE45cDUtTXdESlluRlFrZ2FqV2FGNkhkOEZsRU9kSDJzSlc2ZFozVllXaDJ4aEdDaG5kTWVXUnhjYkgyVjlDcGhWX25UUy1kU3V5enJRZUpMaTRLdw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Crime/Civil Unrest",
+      "risk_score": 10,
+      "location": "Mexico",
+      "latitude": 19.4326,
+      "longitude": -99.1332,
+      "detailed_analysis": "A shooting incident occurred at the pyramids, a popular tourist site in Mexico, prompting the government to increase security measures at tourist sites.",
+      "immediate_forecast_24h": "Enhanced security presence is expected at tourist sites, potentially causing minor disruptions to travel plans, but overall reducing the risk of further incidents.",
+      "strategic_outlook": "The increased security measures may deter future attacks, but the underlying causes of the violence need to be addressed to ensure long-term stability and safety for tourists and locals alike.",
+      "operational_impact": "Tourist transportation and logistics may experience minor delays or increased security checks, but overall, the impact on transport and logistics is expected to be minimal.",
+      "proximity_alert": "YAKIN TEHDİT: Mexico City International Airport (6 km)"
+    }
+  },
+  {
+    "id": "bb5e032b0fe2e096654771ba5e03a2c2",
+    "timestamp": "2026-04-22T05:39:28.378760",
+    "original_title": "Chaos, a blast, then bloodshed: U.S. Marine recounts deadly Kabul airport attack - The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ3pXUW5YOU5iTFRLc2IzN0JaOGxVM1JVeHRwWWFIdGs2T3R2Ukl3bHV0Q2dfVDNmcDNTM0Rtbno5VFFZN3VONVR1QXQzOGh1OHVwbEk5NElNNUczdjlxOUNTcXV3SGFJZllYNnF1QUZyd3NmUVloMWtmN090X2lTc3FVMUdWSEw4Y3lkWFdqNEtYWTlJdDAtS05HeGw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism/Aviation/Conflict",
+      "risk_score": 10,
+      "location": "Kabul, Afghanistan",
+      "latitude": 34.5167,
+      "longitude": 69.1833,
+      "detailed_analysis": "A deadly blast and attack occurred at Kabul airport, resulting in bloodshed and chaos. The incident involved a U.S. Marine and highlights the ongoing security threats in the region, particularly at transportation hubs.",
+      "immediate_forecast_24h": "Increased security measures are expected at Kabul airport and potentially other transportation hubs in the region. There may be disruptions to flights and other logistics operations.",
+      "strategic_outlook": "The long-term security situation in Afghanistan remains unstable, with potential for further attacks on transportation infrastructure and personnel. This could lead to sustained disruptions to logistics and transport operations in the region.",
+      "operational_impact": "The attack may lead to increased security protocols for aviation and logistics operations in the region, potentially causing delays or disruptions to cargo and personnel transport. Airlines and logistics companies may need to reassess their risk management strategies for operating in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Hamid Karzai International Airport (5 km)"
+    }
+  },
+  {
+    "id": "990ebc10c6f849069b9215728e3bf9f9",
+    "timestamp": "2026-04-22T05:39:32.106363",
+    "original_title": "Navy arming warships with Patriot missiles to counter China's hypersonic threat",
+    "link": "https://www.reddit.com/r/worldnews/comments/1ssbma6/navy_arming_warships_with_patriot_missiles_to/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "International Waters, Global",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "The US Navy is arming warships with Patriot missiles to counter China's hypersonic threat, indicating a significant escalation in military capabilities and a potential increase in tensions between the two nations.",
+      "immediate_forecast_24h": "Increased military presence and surveillance in contested waters, potential for miscalculations or accidental engagements.",
+      "strategic_outlook": "Long-term implications for global security, potential for an arms race, and increased risk of conflict in the Asia-Pacific region.",
+      "operational_impact": "Potential disruptions to maritime trade, increased risk of accidents or incidents involving military vessels, and heightened security measures for cargo and personnel.",
+      "proximity_alert": null
+    }
   }
 ]
