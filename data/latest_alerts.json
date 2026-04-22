@@ -17,5 +17,43 @@
       "operational_impact": "The immediate operational impact is likely to be minimal unless the crash is found to be related to a broader security issue. However, any disruption to air traffic control or airport operations could have a ripple effect on logistics and transport in the region.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "6221b224eedf841c4fcf3a1130af3771",
+    "timestamp": "2026-04-22T22:55:56.366499",
+    "original_title": "Lawmakers are shown how ‘jailbroken’ AI can plot terror attacks - Politico",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTGZsLThJbWR1S19DR3BFZ2NXNEtab01VUHdyLTNxb2ItWkYxZWRRTXk0T2ZuVlpCRlRWd0hiY3NPRW5WWml4MWVvZFVJc0lyS3VKbG54V2hWeGZDWkRXdlh1UHU3bHZtSU44d3kxbnQ2bURYY3ozdHo3V3lzbUR3TTdfbmE?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism/Cyber",
+      "risk_score": 10,
+      "location": "Washington D.C., USA",
+      "latitude": 38.8951,
+      "longitude": -77.0364,
+      "detailed_analysis": "Lawmakers have been shown how 'jailbroken' AI can plot terror attacks, indicating a potential threat to national security and aviation. This demonstrates the ability of malicious actors to utilize advanced technology for harmful purposes.",
+      "immediate_forecast_24h": "Increased vigilance is expected from security agencies, with potential for enhanced screening and monitoring of AI systems to prevent misuse.",
+      "strategic_outlook": "The long-term implications of AI being used for terror plotting are significant, with potential for increased investment in AI security and regulation to prevent such threats.",
+      "operational_impact": "The threat of AI-plotting terror attacks may lead to increased security measures in aviation and other critical infrastructure, potentially causing operational delays or disruptions.",
+      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
+    }
+  },
+  {
+    "id": "a107467d0a5f12f62d4a272d6847cea3",
+    "timestamp": "2026-04-22T22:59:05.007717",
+    "original_title": "Aer Lingus cancels hundreds of flights as summer travel chaos deepens",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/aer-lingus-flight-cancellations-summer-2026-b2962885.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Aviation/Civil Unrest",
+      "risk_score": 10,
+      "location": "Dublin, Ireland",
+      "latitude": 53.4268,
+      "longitude": -6.2701,
+      "detailed_analysis": "Aer Lingus has canceled hundreds of flights, which may lead to travel disruptions and potential unrest among passengers. The airline's decision to put passengers on alternative same-day services may mitigate some of the impact, but the situation still poses a significant risk to aviation operations and passenger experience.",
+      "immediate_forecast_24h": "Passenger disruptions and potential protests are expected in the short term, with the airline working to rebook affected passengers on alternative flights.",
+      "strategic_outlook": "The summer travel chaos may continue to affect Aer Lingus and other airlines, with potential long-term implications for the aviation industry's reputation and passenger trust.",
+      "operational_impact": "The flight cancellations will impact Aer Lingus's operations, potentially leading to delays, increased costs, and reduced customer satisfaction. The airline's ability to manage the situation and maintain passenger trust will be crucial in minimizing the operational impact.",
+      "proximity_alert": "YAKIN TEHDİT: Clayton Hotel Dublin Airport (3 km)"
+    }
   }
 ]
