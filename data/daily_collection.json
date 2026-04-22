@@ -492,5 +492,43 @@
       "operational_impact": "The conflict could lead to disruptions in shipping lanes, increased insurance premiums, and potential delays or cancellations of flights in the region. Cargo and logistics operations may need to be rerouted or suspended, and personnel may be at risk of injury or kidnapping.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "fc85637c4c5d9eca27919b78d83b3407",
+    "timestamp": "2026-04-22T16:14:17.056561",
+    "original_title": "Niger junta says it suspended nearly 3,000 NGOs in 2025",
+    "link": "http://www.africanews.com/2026/04/22/niger-junta-says-it-suspended-nearly-3000-ngos-in-2025/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict/Other",
+      "risk_score": 10,
+      "location": "Niamey, Niger",
+      "latitude": 13.5142,
+      "longitude": 2.1155,
+      "detailed_analysis": "The suspension of nearly 3,000 NGOs in Niger by the military government may lead to increased instability and potential unrest, which could indirectly affect transport and logistics operations in the region.",
+      "immediate_forecast_24h": "No immediate significant impact on aviation, cargo, or personnel is expected, but the situation will be monitored for potential escalation.",
+      "strategic_outlook": "The long-term effects of this suspension could lead to increased humanitarian and economic challenges, potentially affecting the stability of the region and, by extension, transport and logistics operations.",
+      "operational_impact": "Operations may face increased scrutiny or bureaucratic hurdles due to the government's actions, but no direct impact on cargo, aviation, or personnel security is anticipated at this time.",
+      "proximity_alert": "YAKIN TEHDİT: Diori Hamani International Airport (7 km)"
+    }
+  },
+  {
+    "id": "f405379f05c88ec34bbe9500cab0d1e0",
+    "timestamp": "2026-04-22T16:14:19.453048",
+    "original_title": "Mapping the environmental toll of the Middle East war",
+    "link": "https://www.france24.com/en/tv-shows/the-observers/20260422-mapping-environmental-toll-middle-east-war",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Environmental",
+      "risk_score": 8,
+      "location": "Middle East",
+      "latitude": 29.5,
+      "longitude": 47.5,
+      "detailed_analysis": "The ongoing war in the Middle East has resulted in significant environmental damage, including oil refineries set ablaze, missiles hitting pesticide factories, and an oil slick in the Strait of Hormuz, posing a threat to local populations and potentially disrupting aviation and cargo operations",
+      "immediate_forecast_24h": "Continued conflict and environmental degradation are expected, with potential for further disruptions to transport and logistics in the region",
+      "strategic_outlook": "Long-term environmental and health consequences of the conflict are likely to be severe, with potential for prolonged disruptions to regional trade and commerce",
+      "operational_impact": "Potential for disruptions to air and sea transport, as well as logistics and supply chain operations, due to environmental damage and conflict-related risks",
+      "proximity_alert": null
+    }
   }
 ]
