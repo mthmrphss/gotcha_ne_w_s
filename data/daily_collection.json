@@ -397,5 +397,43 @@
       "operational_impact": "Transport and logistics operations may face disruptions or increased security measures due to the ongoing conflict and civil unrest, potentially affecting the movement of cargo and personnel.",
       "proximity_alert": "YAKIN TEHDİT: Khartoum International Airport (5 km)"
     }
+  },
+  {
+    "id": "a880bcef45844cb9a58885876e6ac345",
+    "timestamp": "2026-04-22T12:41:10.130259",
+    "original_title": "Iran War Live Updates: Iranian Forces Claim Seizure of 2 Ships After Trump Extends Truce",
+    "link": "https://www.nytimes.com/live/2026/04/22/world/iran-war-trump-ceasefire-talks",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Crime",
+      "risk_score": 7,
+      "location": "Strait of Hormuz, Iran",
+      "latitude": 26.0,
+      "longitude": 56.0,
+      "detailed_analysis": "Iran's Revolutionary Guards have seized two cargo ships, indicating a heightened threat to maritime assets and cargo in the region, potentially disrupting global supply chains and trade routes.",
+      "immediate_forecast_24h": "Increased tensions and potential for further seizures or attacks on ships in the Strait of Hormuz, with both Iranian and US forces on high alert.",
+      "strategic_outlook": "Long-term implications include increased insurance costs, potential rerouting of ships, and heightened security measures for vessels transiting the Strait of Hormuz, which could lead to increased costs and delays for global trade.",
+      "operational_impact": "Shipping companies and cargo owners should exercise extreme caution when navigating the Strait of Hormuz, consider rerouting or delaying shipments, and ensure all necessary security protocols are in place to mitigate the risk of seizure or attack.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "332b9ada4b0abe25c81b194131be4a37",
+    "timestamp": "2026-04-22T12:41:18.302464",
+    "original_title": "A Pentagon intelligence agency assessment says Iran still has significant military capabilities",
+    "link": "https://www.reddit.com/r/worldnews/comments/1sskb62/a_pentagon_intelligence_agency_assessment_says/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "A Pentagon intelligence agency assessment indicates that Iran still possesses significant military capabilities, posing a potential threat to regional stability and global security. This could impact aviation and cargo operations in the area.",
+      "immediate_forecast_24h": "Increased tensions between Iran and other nations may lead to heightened security measures and potential disruptions to transport and logistics in the region.",
+      "strategic_outlook": "Long-term, the situation could escalate into a larger conflict, affecting global trade routes and aviation corridors, particularly in the Middle East.",
+      "operational_impact": "Potential for increased security checks, route changes, and possible airspace restrictions, affecting cargo and aviation operations in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
   }
 ]

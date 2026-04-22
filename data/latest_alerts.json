@@ -1,59 +1,40 @@
 [
   {
-    "id": "07ce7c4af8ed92a409ab8dd4c920ebe1",
-    "timestamp": "2026-04-22T11:13:40.256373",
-    "original_title": "Iran War Live Updates: At Least 2 Ships Are Attacked Amid Uncertainty Over Talks",
+    "id": "a880bcef45844cb9a58885876e6ac345",
+    "timestamp": "2026-04-22T12:41:10.130259",
+    "original_title": "Iran War Live Updates: Iranian Forces Claim Seizure of 2 Ships After Trump Extends Truce",
     "link": "https://www.nytimes.com/live/2026/04/22/world/iran-war-trump-ceasefire-talks",
     "source_name": "NewYork Times",
     "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 8,
+      "category": "Conflict/Crime",
+      "risk_score": 7,
       "location": "Strait of Hormuz, Iran",
       "latitude": 26.0,
       "longitude": 56.0,
-      "detailed_analysis": "Iran's military enforcement actions against two vessels near the contested Strait of Hormuz pose a significant threat to assets, cargo, and personnel in the region. The uncertainty over talks between the US and Iran adds to the volatility of the situation.",
-      "immediate_forecast_24h": "Increased tensions and potential for further military action in the Strait of Hormuz, potentially disrupting shipping lanes and impacting global trade.",
-      "strategic_outlook": "Prolonged conflict in the region could lead to a significant escalation of violence, impacting global energy markets and trade routes. Diplomatic efforts to resolve the stalemate are crucial to preventing further escalation.",
-      "operational_impact": "Shipping companies and cargo operators should exercise extreme caution when navigating the Strait of Hormuz, and consider alternative routes if possible. Aviation operations in the region may also be impacted due to increased military activity.",
+      "detailed_analysis": "Iran's Revolutionary Guards have seized two cargo ships, indicating a heightened threat to maritime assets and cargo in the region, potentially disrupting global supply chains and trade routes.",
+      "immediate_forecast_24h": "Increased tensions and potential for further seizures or attacks on ships in the Strait of Hormuz, with both Iranian and US forces on high alert.",
+      "strategic_outlook": "Long-term implications include increased insurance costs, potential rerouting of ships, and heightened security measures for vessels transiting the Strait of Hormuz, which could lead to increased costs and delays for global trade.",
+      "operational_impact": "Shipping companies and cargo owners should exercise extreme caution when navigating the Strait of Hormuz, consider rerouting or delaying shipments, and ensure all necessary security protocols are in place to mitigate the risk of seizure or attack.",
       "proximity_alert": null
     }
   },
   {
-    "id": "6ab47ecc001ec5b61dddc85b1a7dc6bc",
-    "timestamp": "2026-04-22T11:13:46.183861",
-    "original_title": "Libya, UAE fuelled Sudan war with Colombian mercenaries, reports find",
-    "link": "http://www.africanews.com/2026/04/22/libya-uae-fuelled-sudan-war-with-colombian-mercenaries-reports-find/",
-    "source_name": "Africa News",
+    "id": "332b9ada4b0abe25c81b194131be4a37",
+    "timestamp": "2026-04-22T12:41:18.302464",
+    "original_title": "A Pentagon intelligence agency assessment says Iran still has significant military capabilities",
+    "link": "https://www.reddit.com/r/worldnews/comments/1sskb62/a_pentagon_intelligence_agency_assessment_says/",
+    "source_name": "Reddit r/WorldNews",
     "ai_analysis": {
-      "category": "Conflict/Civil Unrest",
-      "risk_score": 8,
-      "location": "Sudan",
-      "latitude": 12.8628,
-      "longitude": 30.2176,
-      "detailed_analysis": "The involvement of Colombian mercenaries in the Sudanese civil war, fuelled by Libya and the UAE, indicates a high level of external influence and potential for escalation, posing significant threats to assets, cargo, aviation, and personnel in the region.",
-      "immediate_forecast_24h": "Increased violence and instability are expected in the short term, with potential for clashes between the Sudanese army and the Rapid Support Forces, affecting transport and logistics operations.",
-      "strategic_outlook": "The long-term outlook for Sudan remains uncertain, with the potential for prolonged conflict and instability, which could have significant implications for regional security and global trade routes.",
-      "operational_impact": "The conflict may disrupt air transport, cargo shipments, and personnel movements in and out of Sudan, with potential for aviation risks such as bomb threats or drone sightings, and increased crime and smuggling activities in the region.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "437ff60c22d49c9a3cce2f928697a36d",
-    "timestamp": "2026-04-22T11:13:48.292342",
-    "original_title": "Khartoum slowly comes back to life, one year after recapture by military",
-    "link": "http://www.africanews.com/2026/04/22/khartoum-slowly-comes-back-to-life-one-year-after-recapture-by-military/",
-    "source_name": "Africa News",
-    "ai_analysis": {
-      "category": "Conflict/Civil Unrest",
+      "category": "Conflict",
       "risk_score": 10,
-      "location": "Khartoum, Sudan",
-      "latitude": 15.6333,
-      "longitude": 32.5333,
-      "detailed_analysis": "The city of Khartoum is slowly recovering one year after being recaptured by the military, indicating a reduced but still present level of conflict and civil unrest. This could potentially impact the safety and security of assets, cargo, aviation, and personnel in the area.",
-      "immediate_forecast_24h": "The situation is expected to remain relatively calm but with a continued presence of military and potential for sporadic outbreaks of violence or unrest.",
-      "strategic_outlook": "Long-term stability and security in Khartoum and Sudan as a whole are uncertain and will depend on the political and military developments in the country. Ongoing conflict could lead to increased risks for all categories.",
-      "operational_impact": "Transport and logistics operations may face disruptions or increased security measures due to the ongoing conflict and civil unrest, potentially affecting the movement of cargo and personnel.",
-      "proximity_alert": "YAKIN TEHDİT: Khartoum International Airport (5 km)"
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "A Pentagon intelligence agency assessment indicates that Iran still possesses significant military capabilities, posing a potential threat to regional stability and global security. This could impact aviation and cargo operations in the area.",
+      "immediate_forecast_24h": "Increased tensions between Iran and other nations may lead to heightened security measures and potential disruptions to transport and logistics in the region.",
+      "strategic_outlook": "Long-term, the situation could escalate into a larger conflict, affecting global trade routes and aviation corridors, particularly in the Middle East.",
+      "operational_impact": "Potential for increased security checks, route changes, and possible airspace restrictions, affecting cargo and aviation operations in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
     }
   }
 ]
