@@ -55,5 +55,62 @@
       "operational_impact": "The flight cancellations will impact Aer Lingus's operations, potentially leading to delays, increased costs, and reduced customer satisfaction. The airline's ability to manage the situation and maintain passenger trust will be crucial in minimizing the operational impact.",
       "proximity_alert": "YAKIN TEHDİT: Clayton Hotel Dublin Airport (3 km)"
     }
+  },
+  {
+    "id": "d339909b1aaca566c5ad4cf665219647",
+    "timestamp": "2026-04-23T03:31:57.990168",
+    "original_title": "Israeli strike kills journalist after ongoing attacks blocked rescuers, Lebanon says | Lebanon",
+    "link": "https://www.reddit.com/r/worldnews/comments/1st127h/israeli_strike_kills_journalist_after_ongoing/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "Lebanon",
+      "latitude": 33.8547,
+      "longitude": 35.8623,
+      "detailed_analysis": "An Israeli strike has killed a journalist in Lebanon, with reports suggesting that ongoing attacks blocked rescuers. This incident indicates heightened tensions and potential for further conflict in the region, posing a significant threat to aviation and personnel safety.",
+      "immediate_forecast_24h": "Increased military activity and potential for retaliatory strikes are expected in the short term, posing a high risk to aviation and personnel in the region.",
+      "strategic_outlook": "The long-term outlook suggests continued instability and conflict in the region, with potential for escalation and increased threats to assets, cargo, and personnel. Diplomatic efforts may be necessary to de-escalate tensions and reduce the risk of further violence.",
+      "operational_impact": "The incident may impact transport and logistics operations in the region, particularly for aviation. Increased security measures and potential flight disruptions or restrictions are possible, and operators should exercise caution when planning routes and operations in the area.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "1af0402b7b09a5dfd4ada8780890365f",
+    "timestamp": "2026-04-23T03:32:00.256593",
+    "original_title": "Europe Might Sit Out In An Indo-Pacific War — But It Can’t Escape the Fallout",
+    "link": "https://warontherocks.com/europe-might-sit-out-in-an-indo-pacific-war-but-it-cant-escape-the-fallout/",
+    "source_name": "War on the Rocks",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Indo-Pacific, Europe",
+      "latitude": 30.0,
+      "longitude": 120.0,
+      "detailed_analysis": "A potential war between the US and China over Taiwan could draw in and weaken Europe, even if European states try to remain on the sidelines, posing a significant threat to global stability and trade.",
+      "immediate_forecast_24h": "Heightened tensions in the Indo-Pacific region, potential for increased military presence and posturing.",
+      "strategic_outlook": "Long-term implications for global trade, potential for a new world order, and increased competition between major powers.",
+      "operational_impact": "Potential disruptions to global supply chains, increased risk of piracy and smuggling, and heightened security measures for cargo and personnel.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "a2d3551fb47f4655ded1ae41fa878564",
+    "timestamp": "2026-04-23T03:32:04.460397",
+    "original_title": "Long lines at airports could return as DHS warns it will run out of money to pay security staff within weeks",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/tsa-airports-lines-funding-dhs-shutdown-b2963165.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Aviation/Civil Unrest",
+      "risk_score": 10,
+      "location": "United States",
+      "latitude": 38.8977,
+      "longitude": -77.0365,
+      "detailed_analysis": "The potential lack of funding for security staff at airports could lead to reduced security screening capabilities, increased wait times, and potential disruptions to air travel, posing a risk to aviation operations and passenger safety.",
+      "immediate_forecast_24h": "Within the next 24 hours, airports may start to experience longer security lines and potential delays in flight departures and arrivals due to reduced security staffing.",
+      "strategic_outlook": "In the long term, the lack of funding for security staff could lead to a decrease in the overall security posture of airports, potentially making them more vulnerable to security threats and disruptions.",
+      "operational_impact": "The potential reduction in security staff could impact the efficiency of air travel, leading to delays, increased wait times, and potential disruptions to cargo and passenger operations.",
+      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
+    }
   }
 ]
