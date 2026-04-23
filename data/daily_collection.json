@@ -207,5 +207,100 @@
       "operational_impact": "Potential delays and disruptions to cargo and personnel movement, with possible increased costs and decreased efficiency for logistics operations.",
       "proximity_alert": "YAKIN TEHDİT: Heathrow Airport (23 km)"
     }
+  },
+  {
+    "id": "e204cc34f65f40b6fdf173533a202132",
+    "timestamp": "2026-04-23T10:07:04.881535",
+    "original_title": "Middle East: Local disputes, the Israeli military, and settler violence endanger officials - ACLED",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTlltU1JLeEw0aV9USnMxQ1JrOExvRGM5OEpPdHhjSE9fc2N6LWtuRm16NXAwS3Q4cTRzdnVqN2RLVEZOZnJhSnlrWlQ5ZWhJX2dqNm1fclZCNEE3NDZQNHBFTUZ4ZHc3azhSQVRsRkU1c2pUaE1uTmx1bDZZSlVOdEY0bEhhdGdVRVcxSVRiWmFrbko5TEdYU0Nwa1NfdUUwODV6NjR6ZDl3YjNsUUROelFn?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Middle East",
+      "latitude": 32.0,
+      "longitude": 35.0,
+      "detailed_analysis": "The region is experiencing local disputes, Israeli military activity, and settler violence, posing a threat to officials and potentially disrupting transport and logistics operations.",
+      "immediate_forecast_24h": "Escalation of violence and unrest is possible, with potential for clashes between Israeli military and local populations, which could impact road and air transport.",
+      "strategic_outlook": "The ongoing conflict and civil unrest in the region may lead to long-term instability, affecting the security and efficiency of transport and logistics operations.",
+      "operational_impact": "Potential disruptions to road and air transport, increased security measures, and possible rerouting of cargo and personnel to avoid affected areas.",
+      "proximity_alert": "YAKIN TEHDİT: Ben Gurion International Airport (22 km)"
+    }
+  },
+  {
+    "id": "8fb5cae30fa2c52ae96e1972f901c26f",
+    "timestamp": "2026-04-23T10:07:07.639821",
+    "original_title": "After U.S. Aid Fell by 99%, E.U. Pledges $106 Billion Loan to Ukraine",
+    "link": "https://www.nytimes.com/2026/04/23/world/europe/eu-loan-ukraine.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Ukraine, Europe",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "The E.U.'s pledge of a $106 billion loan to Ukraine, with a significant portion allocated to military spending, indicates an escalation of the conflict. This could lead to increased instability and potential threats to assets, cargo, aviation, and personnel in the region.",
+      "immediate_forecast_24h": "In the short term, there may be an increase in military activity and potential clashes, which could impact transport and logistics in the region.",
+      "strategic_outlook": "In the long term, the conflict in Ukraine may continue to escalate, leading to a prolonged period of instability and potential threats to regional security.",
+      "operational_impact": "The increased military spending and potential escalation of the conflict may impact transport and logistics operations in the region, including potential disruptions to cargo shipments and aviation operations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "9cd1b4794a75ebdace766ae5674ca8b7",
+    "timestamp": "2026-04-23T10:07:09.985612",
+    "original_title": "Trump’s Ceasefire Extension: Pause for Peace or Prelude to a Strike?",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1stdv9z/trumps_ceasefire_extension_pause_for_peace_or/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 6,
+      "location": "Hormuz, Iran",
+      "latitude": 27.0,
+      "longitude": 56.0,
+      "detailed_analysis": "The extension of the ceasefire by Trump may be perceived as a pause for peace, but it could also be a prelude to a strike. This uncertainty creates a risk for assets, cargo, aviation, and personnel in the region.",
+      "immediate_forecast_24h": "Increased tensions and potential for military action in the Hormuz Strait, affecting maritime transport and aviation in the region.",
+      "strategic_outlook": "Long-term instability in the region, potentially leading to increased conflict and disruption of global supply chains.",
+      "operational_impact": "Potential disruption to shipping lanes, increased security measures for aviation and maritime transport, and heightened risk of attacks on assets and personnel in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "ff7af3c1ee319cbda928f648c822595a",
+    "timestamp": "2026-04-23T10:07:12.186663",
+    "original_title": "Taiwan complains to Malaysia about airport removing national flag",
+    "link": "https://www.reddit.com/r/worldnews/comments/1steaqh/taiwan_complains_to_malaysia_about_airport/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest/Diplomatic Incident",
+      "risk_score": 10,
+      "location": "Kuala Lumpur, Malaysia",
+      "latitude": 2.9958,
+      "longitude": 101.7122,
+      "detailed_analysis": "The removal of Taiwan's national flag at a Malaysian airport has led to a diplomatic incident, with Taiwan complaining to Malaysia. This incident may lead to increased tensions between the two countries but does not directly pose a threat to assets, cargo, aviation, or personnel.",
+      "immediate_forecast_24h": "The situation is likely to remain tense, with diplomatic efforts to resolve the issue. No immediate escalation is expected.",
+      "strategic_outlook": "The long-term impact of this incident on relations between Taiwan and Malaysia is uncertain, but it may lead to increased scrutiny of diplomatic relations and potential trade implications.",
+      "operational_impact": "No direct operational impact on transport or logistics is expected from this incident.",
+      "proximity_alert": "YAKIN TEHDİT: Kuala Lumpur International Airport (17 km)"
+    }
+  },
+  {
+    "id": "ec09b835dc6197b778255b6d55a1f1e5",
+    "timestamp": "2026-04-23T10:07:17.262464",
+    "original_title": "Simon Calder explains what to do if your flight is cancelled as jet fuel price soars",
+    "link": "https://www.independent.co.uk/tv/news/flights-fuel-shortage-simon-calder-b2963322.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 6,
+      "location": "Global",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "The US-Israeli attack on Iran and subsequent reprisals may lead to flight cancellations and fuel shortages, causing travel uncertainty and potential disruptions to aviation operations.",
+      "immediate_forecast_24h": "Increased risk of flight cancellations and delays due to rising jet fuel prices and potential retaliatory actions.",
+      "strategic_outlook": "Long-term impact on global air travel and logistics, with potential for sustained increases in fuel prices and travel disruptions.",
+      "operational_impact": "Potential disruptions to flight schedules, increased costs for airlines and passengers, and potential impacts on global supply chains.",
+      "proximity_alert": null
+    }
   }
 ]
