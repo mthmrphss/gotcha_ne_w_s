@@ -169,5 +169,43 @@
       "operational_impact": "The state of emergency and security concerns in Trinidad and Tobago may impact transport and logistics operations, particularly in high-risk areas. There may be restrictions on movement, and an increased risk of cargo theft or disruption to supply chains.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "5e38c6a951aaa50599742011b18e80c2",
+    "timestamp": "2026-04-23T08:21:22.872738",
+    "original_title": "Seeing the Cyber in Economic Statecraft",
+    "link": "https://warontherocks.com/seeing-the-cyber-in-economic-statecraft/",
+    "source_name": "War on the Rocks",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 10,
+      "location": "United States",
+      "latitude": 38.8977,
+      "longitude": -77.0365,
+      "detailed_analysis": "The article highlights the significant economic losses due to cybercrime, with Americans losing nearly $21 billion in 2025. State-sponsored hackers are increasingly targeting America's economy, posing a substantial threat to the country's financial security.",
+      "immediate_forecast_24h": "Increased cyber attacks on private sector entities, potentially disrupting supply chains and logistics operations.",
+      "strategic_outlook": "Long-term escalation of cyber-enabled economic statecraft, with potential for widespread disruption to global trade and commerce.",
+      "operational_impact": "High risk of cyber attacks on logistics and transportation systems, potentially compromising the security of cargo and personnel.",
+      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
+    }
+  },
+  {
+    "id": "e21724aecdbe8535dbb57fa35c6eb698",
+    "timestamp": "2026-04-23T08:21:28.421401",
+    "original_title": "When do the London Tube strikes end and what lines are affected?",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/tube-strikes-today-london-dates-2026-tfl-b2963267.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "London, United Kingdom",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "detailed_analysis": "The London Tube strike may cause disruptions to commuters' travel plans, potentially affecting personnel and cargo movement in the city.",
+      "immediate_forecast_24h": "Commuters may face delays and cancellations, with possible increased congestion on alternative modes of transport.",
+      "strategic_outlook": "The strike may have a limited long-term impact on the city's transport infrastructure, but could lead to increased tensions between transport unions and authorities.",
+      "operational_impact": "Potential delays and disruptions to cargo and personnel movement, with possible increased costs and decreased efficiency for logistics operations.",
+      "proximity_alert": "YAKIN TEHDİT: Heathrow Airport (23 km)"
+    }
   }
 ]

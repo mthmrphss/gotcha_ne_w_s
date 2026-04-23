@@ -1,59 +1,40 @@
 [
   {
-    "id": "d66eefde211290755b51de86a6a2a281",
-    "timestamp": "2026-04-23T06:11:12.993996",
-    "original_title": "Iran's embassy account claims bombing a UAE facility changed the region's weather",
-    "link": "https://www.reddit.com/r/geopolitics/comments/1st9ykv/irans_embassy_account_claims_bombing_a_uae/",
-    "source_name": "Reddit r/Geopolitics",
+    "id": "5e38c6a951aaa50599742011b18e80c2",
+    "timestamp": "2026-04-23T08:21:22.872738",
+    "original_title": "Seeing the Cyber in Economic Statecraft",
+    "link": "https://warontherocks.com/seeing-the-cyber-in-economic-statecraft/",
+    "source_name": "War on the Rocks",
     "ai_analysis": {
-      "category": "Conflict/Terrorism",
-      "risk_score": 8,
-      "location": "UAE",
-      "latitude": 24.0,
-      "longitude": 54.0,
-      "detailed_analysis": "Iran's embassy account claims bombing a UAE facility, potentially altering the region's weather, indicating a high level of hostility and potential for further escalation",
-      "immediate_forecast_24h": "Increased tensions between Iran and UAE, potential for retaliatory actions, and heightened security measures in the region",
-      "strategic_outlook": "Long-term instability in the region, potential for proxy wars, and impact on global oil prices and trade routes",
-      "operational_impact": "Potential disruptions to air traffic, increased security checks, and heightened alertness for cargo and personnel in the region",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "78c71795ba24a67fb0f2011705f443ca",
-    "timestamp": "2026-04-23T06:11:16.619954",
-    "original_title": "Pentagon removes top Navy official amid military shake-up",
-    "link": "https://www.france24.com/en/americas/20260423-pentagon-removes-top-navy-official-amid-military-shake-up",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict",
+      "category": "Cyber",
       "risk_score": 10,
-      "location": "Washington D.C., USA",
-      "latitude": 38.8951,
-      "longitude": -77.0364,
-      "detailed_analysis": "The removal of the top Navy official amid a broader clear-out of senior military figures under President Donald Trump, combined with the unresolved conflict with Iran, may lead to instability and potential security threats to US military assets and personnel.",
-      "immediate_forecast_24h": "Increased tensions between the US and Iran may lead to heightened security measures and potential disruptions to military operations and logistics in the region.",
-      "strategic_outlook": "The long-term implications of this shake-up may lead to changes in US military strategy and operations, potentially affecting global security and stability, particularly in regions with US military presence.",
-      "operational_impact": "Potential disruptions to military logistics and operations, as well as increased security measures, may impact the movement of personnel and cargo, particularly in areas with high US military activity.",
+      "location": "United States",
+      "latitude": 38.8977,
+      "longitude": -77.0365,
+      "detailed_analysis": "The article highlights the significant economic losses due to cybercrime, with Americans losing nearly $21 billion in 2025. State-sponsored hackers are increasingly targeting America's economy, posing a substantial threat to the country's financial security.",
+      "immediate_forecast_24h": "Increased cyber attacks on private sector entities, potentially disrupting supply chains and logistics operations.",
+      "strategic_outlook": "Long-term escalation of cyber-enabled economic statecraft, with potential for widespread disruption to global trade and commerce.",
+      "operational_impact": "High risk of cyber attacks on logistics and transportation systems, potentially compromising the security of cargo and personnel.",
       "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
     }
   },
   {
-    "id": "ffd19bcdfdf1552311bb4a1afa2fa5dc",
-    "timestamp": "2026-04-23T06:11:19.960524",
-    "original_title": "Trinidad and Tobago - Level 3: Reconsider Travel",
-    "link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/trinidad-and-tobago-travel-advisory.html",
-    "source_name": "US State Dept",
+    "id": "e21724aecdbe8535dbb57fa35c6eb698",
+    "timestamp": "2026-04-23T08:21:28.421401",
+    "original_title": "When do the London Tube strikes end and what lines are affected?",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/tube-strikes-today-london-dates-2026-tfl-b2963267.html",
+    "source_name": "Independent Travel",
     "ai_analysis": {
-      "category": "Crime/Terrorism/Civil Unrest",
-      "risk_score": 7,
-      "location": "Port of Spain, Trinidad and Tobago",
-      "latitude": 10.6667,
-      "longitude": -61.5167,
-      "detailed_analysis": "There is a heightened risk of terrorism and crime in Trinidad and Tobago, with a state of emergency declared due to a spike in violent criminal activity. Certain areas in Port of Spain are considered high-risk, and U.S. government employees are restricted from traveling to these areas. There is also a risk of terrorist violence, including terrorist attacks and other activity.",
-      "immediate_forecast_24h": "The state of emergency is expected to continue, with potential for increased security measures and restrictions on movement. There is a risk of violent crime and terrorism in the next 24 hours, particularly in high-risk areas.",
-      "strategic_outlook": "The long-term outlook for Trinidad and Tobago is uncertain, with the potential for ongoing security concerns and civil unrest. The country's security efforts have shown some success in reducing crime rates, but the risk of terrorism and violent crime remains.",
-      "operational_impact": "The state of emergency and security concerns in Trinidad and Tobago may impact transport and logistics operations, particularly in high-risk areas. There may be restrictions on movement, and an increased risk of cargo theft or disruption to supply chains.",
-      "proximity_alert": null
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "London, United Kingdom",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "detailed_analysis": "The London Tube strike may cause disruptions to commuters' travel plans, potentially affecting personnel and cargo movement in the city.",
+      "immediate_forecast_24h": "Commuters may face delays and cancellations, with possible increased congestion on alternative modes of transport.",
+      "strategic_outlook": "The strike may have a limited long-term impact on the city's transport infrastructure, but could lead to increased tensions between transport unions and authorities.",
+      "operational_impact": "Potential delays and disruptions to cargo and personnel movement, with possible increased costs and decreased efficiency for logistics operations.",
+      "proximity_alert": "YAKIN TEHDİT: Heathrow Airport (23 km)"
     }
   }
 ]
