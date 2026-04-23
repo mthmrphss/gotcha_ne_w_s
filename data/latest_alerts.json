@@ -1,59 +1,40 @@
 [
   {
-    "id": "7feb8c79534ef44994f0d12a3fb579a5",
-    "timestamp": "2026-04-23T16:17:26.601427",
-    "original_title": "EU court OKs lifetime entry bans in terror cases, with strict checks - Courthouse News",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOelA4dUNsMVFqQldHU041OWZSTTBnbHFOVGtVRDVqS2FfZUEyY2RGeF9yUGE3WG56RWdRT0hvcUpMQVJpTXhDUUhCaHQweVdEcEM2STlFVEJwNEIwUG5qSGlHS2t3eGYwYl9HZ3FOM2VTMFljTGo1NUF2RGc2dnh4STdNNFRIeGxYUFJzR0FIRmRtbnlublp0TXdPaGd0ajNV?oc=5",
-    "source_name": "Google News (Breaking)",
+    "id": "cdebf142d78d9e96ce6e65ac349c5853",
+    "timestamp": "2026-04-23T17:53:56.758559",
+    "original_title": "U.S. Air Force F-35A Stealth Fighter Lightning II Declared an In-Flight Emergency Over Phoenix - 19FortyFive",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQM2pEeFo0SEw2S1pIMWlRZnRLSzRTU1M5elBYU01kamg5WXZDakpVeFV6QXlKN1kxRVFwT1pvdHc2RXRGWUtUemg4S3JOV3FZOF9rZzFqeEVpaExmMU5yaWp1azlGUUlQc0RQRl9mX3lfZkpka2ZNaUFGeHlkeDZDcVJncDFaQkxTdm1LSWVfSzJDTl83NnhJcnFxT1hvQ2JIRTZpRy1WR2VRMGlTUmtVNjVHanl4dzB0dmE0azhDMmhEMUJrOUxrUDJ3?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
     "ai_analysis": {
-      "category": "Terrorism/Border",
+      "category": "Aviation",
+      "risk_score": 8,
+      "location": "Phoenix, USA",
+      "latitude": 33.4484,
+      "longitude": -112.0739,
+      "detailed_analysis": "A U.S. Air Force F-35A Stealth Fighter declared an in-flight emergency over Phoenix, indicating a potential threat to aviation safety and security.",
+      "immediate_forecast_24h": "The situation is being monitored, and an investigation into the cause of the emergency is likely to be launched. There may be disruptions to air traffic in the area.",
+      "strategic_outlook": "The incident highlights the importance of maintaining the safety and security of military aircraft, and the need for effective emergency response procedures.",
+      "operational_impact": "The incident may impact aviation operations in the area, potentially leading to delays or cancellations of flights. Military and civilian air traffic control will need to coordinate to ensure safe separation of aircraft.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "5dfb31f69e51c47e2bba3d3d80a3430c",
+    "timestamp": "2026-04-23T17:53:59.647101",
+    "original_title": "Russia warns European states against hosting French nuclear bomber planes",
+    "link": "https://www.reddit.com/r/worldnews/comments/1stnj5j/russia_warns_european_states_against_hosting/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
       "risk_score": 10,
-      "location": "European Union",
-      "latitude": 50.8467,
-      "longitude": 4.3522,
-      "detailed_analysis": "The EU court has ruled that lifetime entry bans can be imposed in terror cases, with strict checks. This may lead to increased security measures at borders, potentially affecting travel and logistics.",
-      "immediate_forecast_24h": "Enhanced security checks at EU borders may cause delays, but no immediate disruptions to aviation or cargo operations are expected.",
-      "strategic_outlook": "The long-term impact may be a reduction in terror-related threats, but also potential increases in wait times and security protocols for travelers and cargo.",
-      "operational_impact": "Transport and logistics operations may experience minor delays due to increased security checks, but overall impact is expected to be minimal.",
-      "proximity_alert": "YAKIN TEHDİT: SHERATON AIRPORT (0 km)"
-    }
-  },
-  {
-    "id": "46dd4af076bf01db0eeb02ad9ff8086c",
-    "timestamp": "2026-04-23T16:17:30.735439",
-    "original_title": "Scam Center Strike Force Takes Major Actions Against Southeast Asian Scam Centers Targeting Americans",
-    "link": "https://www.reddit.com/r/geopolitics/comments/1stmznk/scam_center_strike_force_takes_major_actions/",
-    "source_name": "Reddit r/Geopolitics",
-    "ai_analysis": {
-      "category": "Crime",
-      "risk_score": 6,
-      "location": "Southeast Asia",
-      "latitude": 10.0,
-      "longitude": 105.0,
-      "detailed_analysis": "The Scam Center Strike Force has taken major actions against Southeast Asian scam centers targeting Americans, indicating a significant law enforcement effort to combat transnational crime. This operation may disrupt scam activities but could also lead to retaliatory actions or increased security measures in the region.",
-      "immediate_forecast_24h": "In the next 24 hours, there may be increased scrutiny of financial transactions and communications originating from Southeast Asia, potentially leading to temporary disruptions in logistics and transport operations. However, the direct impact on aviation, cargo, and personnel is expected to be minimal.",
-      "strategic_outlook": "Long term, this operation could lead to a reduction in scam activities targeting Americans, enhancing the security posture of financial transactions and communications. However, the adaptability of scam centers and their potential to evolve tactics poses a continued threat, necessitating sustained vigilance and cooperation between law enforcement agencies across borders.",
-      "operational_impact": "The operational impact on transport and logistics is expected to be low to moderate, primarily due to potential increased security checks and scrutiny of transactions. Aviation operations are unlikely to be directly affected, but cargo and personnel may face additional screening or verification processes, particularly if they are involved in transactions with Southeast Asian entities.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "f4a36b7027fbe083810d90fb544e9d08",
-    "timestamp": "2026-04-23T16:17:38.860484",
-    "original_title": "Tanzania poll violence claimed 518 lives: government enquiry",
-    "link": "http://www.africanews.com/2026/04/23/tanzania-poll-violence-claimed-518-lives-government-enquiry/",
-    "source_name": "Africa News",
-    "ai_analysis": {
-      "category": "Civil Unrest/Conflict",
-      "risk_score": 7,
-      "location": "Tanzania",
-      "latitude": -6.17,
-      "longitude": 35.74,
-      "detailed_analysis": "Violence around Tanzania’s general election resulted in 518 deaths, according to a government-appointed commission. The actual number may be higher, as opposition estimates suggest thousands were killed. This indicates a high level of civil unrest and potential conflict.",
-      "immediate_forecast_24h": "The situation is likely to remain volatile, with potential for further clashes between opposition and government supporters. However, the immediate 24-hour forecast suggests a decrease in violence as the government and opposition engage in dialogue.",
-      "strategic_outlook": "In the long term, the situation in Tanzania may stabilize as the government and opposition work towards a resolution. However, the risk of civil unrest and conflict remains, particularly if opposition groups feel their concerns are not being addressed.",
-      "operational_impact": "The violence and civil unrest may impact transport and logistics operations in Tanzania, particularly in areas where opposition and government supporters clash. Cargo and personnel may be at risk, and aviation operations may be affected if the situation escalates.",
-      "proximity_alert": null
+      "location": "Europe",
+      "latitude": 48.8567,
+      "longitude": 2.2943,
+      "detailed_analysis": "Russia has warned European states against hosting French nuclear bomber planes, indicating a potential escalation in tensions between Russia and European countries. This warning could lead to increased military activity and heightened security measures in the region.",
+      "immediate_forecast_24h": "In the next 24 hours, we can expect increased diplomatic tensions between Russia and European countries, with a possibility of military posturing or increased surveillance activities.",
+      "strategic_outlook": "In the long term, this development could lead to a significant shift in the balance of power in Europe, with potential implications for NATO and European defense strategies. It may also lead to increased investment in military capabilities and a heightened state of alertness among European countries.",
+      "operational_impact": "The warning could impact aviation operations in Europe, particularly if Russia were to increase its military activity in the region. This could lead to changes in flight routes, increased air traffic control measures, and potential disruptions to logistics and supply chains.",
+      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (1 km)"
     }
   }
 ]
