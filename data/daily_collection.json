@@ -112,5 +112,62 @@
       "operational_impact": "The risks in Burundi are likely to have a significant impact on transport and logistics operations, particularly for cargo and aviation. Operators should take necessary precautions to mitigate risks, such as avoiding high-risk areas, using secure transportation, and having contingency plans in place for emergency situations.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "7fdc8b5be5d494340c5899a125227238",
+    "timestamp": "2026-04-24T06:14:53.289453",
+    "original_title": "2 young people arrested in alleged plot to attack Houston synagogue - NPR",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbnFRWkcyV1M4cnNuYjZmMnVablB1OUpFT3BsMWJyVnB6TTdLLW1pVVc2c2pHd1pURk1LZUNVbElkdEhDdnJWSzVoSHkxdmNrbmdOUC16WC0yNEw4dmk2YUdCRkNoS09LNm1Lb0tmTW85bUxXTkFWV1E0NEhZYnBsMFVXNHVnMnB4UEhFUzlQRHJHdUk?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism/Crime",
+      "risk_score": 10,
+      "location": "Houston, USA",
+      "latitude": 29.7633,
+      "longitude": -95.3632,
+      "detailed_analysis": "Two young individuals have been arrested for an alleged plot to attack a synagogue in Houston, indicating a potential threat to public safety and security. This incident highlights the ongoing concern of terrorism and violent crime targeting specific communities and locations.",
+      "immediate_forecast_24h": "Increased security measures are expected around places of worship and potentially high-risk areas in Houston. Law enforcement will likely be on high alert for similar threats.",
+      "strategic_outlook": "The long-term impact could involve heightened security protocols for vulnerable targets, increased community engagement to prevent radicalization, and enhanced intelligence gathering to preempt future plots.",
+      "operational_impact": "The immediate operational impact may be minimal on general transport and logistics, but there could be increased security checks and vigilance around critical infrastructure and public gatherings, potentially affecting traffic and movement in the vicinity of targeted locations.",
+      "proximity_alert": "YAKIN TEHDİT: George Bush Intercontinental Airport (24 km)"
+    }
+  },
+  {
+    "id": "c36da7734e7079e80645c40a16e0ab74",
+    "timestamp": "2026-04-24T06:14:56.410042",
+    "original_title": "Cato traces large-scale Modbus/TCP activity targeting PLCs, exposing persistent gaps in OT security - Industrial Cyber",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWWQ5ZU0tcmNUNTgybS05MXVGTl8zNlpEUmRPZTVhX2k5bTR1Q2duRDJlQUFwRFlwd3dqamcxd0Y4Q3dvTlU0a3lyMHZCdmFWcG5QY1UwLTFpQU05dUI4cXhGMXlfQmtmUkZTek9YYmtEWkMxVG1TeVZIeGVEODNVWnpqWHNkWmRTeDdNMlRocDNCaTcybjdDZlhSb0JwdzlQZ05BdE5rSUhqM2tabFNtYkNtOThXTFZnekszeHV4SF9QbzJLRzVDcDZDbW9WZFE1eWNsanQ4MVNXM0p6ekU1aGd1TFlndw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 8,
+      "location": "Global",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Large-scale Modbus/TCP activity targeting Programmable Logic Controllers (PLCs) has been detected, exposing significant gaps in Operational Technology (OT) security. This activity poses a substantial threat to industrial control systems, potentially allowing attackers to disrupt or manipulate critical infrastructure.",
+      "immediate_forecast_24h": "Increased monitoring and vigilance are recommended as the threat actors may continue to exploit vulnerabilities in OT systems, potentially leading to disruptions in industrial operations.",
+      "strategic_outlook": "The long-term impact of this threat could be severe, with potential consequences including compromised safety, environmental damage, and economic loss. Implementing robust OT security measures, such as network segmentation and regular vulnerability assessments, is crucial to mitigate these risks.",
+      "operational_impact": "The threat to OT systems could have significant operational implications, including disruptions to supply chains, production delays, and potential safety risks to personnel. Proactive measures, such as incident response planning and employee training, are essential to minimize the impact of a potential attack.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "79764cc67887730efae1e5db2006f13a",
+    "timestamp": "2026-04-24T06:15:01.343893",
+    "original_title": "Middle East war live: Oil prices jump as tensions remain high in Strait of Hormuz",
+    "link": "https://www.france24.com/en/middle-east/20260424-middle-east-war-live-israel-lebanon-ceasefire-continues-as-trump-hopes-for-peace-deal",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Strait of Hormuz, Middle East",
+      "latitude": 26.0,
+      "longitude": 56.0,
+      "detailed_analysis": "Tensions remain high in the Strait of Hormuz despite a ceasefire between Iran and the US, with Iran releasing footage of commandos boarding a ship and engaging 'hostile targets', indicating potential threats to shipping and oil transportation",
+      "immediate_forecast_24h": "Increased military presence and potential for further escalation, with possible disruptions to oil shipping and transportation in the region",
+      "strategic_outlook": "Long-term instability in the region could lead to sustained higher oil prices and increased risk of attacks on shipping and transportation infrastructure",
+      "operational_impact": "Potential disruptions to oil supply chains, increased costs for shipping and transportation, and heightened security measures for vessels and personnel operating in the region",
+      "proximity_alert": null
+    }
   }
 ]
