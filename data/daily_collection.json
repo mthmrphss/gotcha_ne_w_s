@@ -454,5 +454,43 @@
       "operational_impact": "The incident may lead to increased security checks, potential flight delays, and cargo screening, which could impact the efficiency and reliability of transport and logistics operations in the region.",
       "proximity_alert": "YAKIN TEHDİT: Mexico City International Airport (6 km)"
     }
+  },
+  {
+    "id": "1948883d4c037bb065a20c6881831809",
+    "timestamp": "2026-04-25T19:03:58.902931",
+    "original_title": "Plane crashes into yard near Crystal Airport - FOX 9 Minneapolis-St. Paul",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ScElBRFlmaHlqRWlFYldWam1nZjNKaDBzRUZnNUFvQngyTm9WY2VpR19yWE5yY0pWemdQM21HZE1hNkRKamZFUE1heG1JZXRlQ09ud0Vyb213UkpYRHJRSTk2dXMyNWU2MFM2QkZvZkZYdG5BUUNjeC1DVGVhd9IBgwFBVV95cUxPdHFsUGo1akhjQ3lFWTJWWm1FM0g1UWhoX3puSE5Kd21fa2JBa3JXdjRCMFpxSUZPUnRGd3EwR2U4R1Zfa2RLQVNwcGp0Mm4xeEpzRkpJRmZyNWhORWRXTVpIVllHVjBuMUNlZ09ZSFlFbkRVWkR5eDBrenRZcWxGV0xfQQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 8,
+      "location": "Crystal, USA",
+      "latitude": 45.05,
+      "longitude": -93.35,
+      "detailed_analysis": "A plane has crashed into a yard near Crystal Airport, indicating a potential threat to aviation safety and security. The cause of the crash is unknown and under investigation.",
+      "immediate_forecast_24h": "Investigations will likely be conducted to determine the cause of the crash, and there may be disruptions to air traffic in the surrounding area.",
+      "strategic_outlook": "The incident highlights the importance of maintaining aviation safety and security protocols to prevent such crashes in the future. It may also lead to increased scrutiny of aviation practices and regulations.",
+      "operational_impact": "The crash may cause temporary disruptions to air traffic and logistics in the area, but the long-term impact on transport and logistics is expected to be minimal.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "8f961fcc81b3e3dbaf7f05a9cb86d00a",
+    "timestamp": "2026-04-25T19:04:48.882648",
+    "original_title": "Update: Mali's army claims situation under control following attacks",
+    "link": "http://www.africanews.com/2026/04/25/update-malis-army-claims-situation-under-control-following-attacks/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Civil Unrest",
+      "risk_score": 7,
+      "location": "Mali",
+      "latitude": 17.0,
+      "longitude": -4.0,
+      "detailed_analysis": "Mali's army claims the situation is under control following coordinated attacks by armed militants across the country, indicating a high level of instability and potential for further violence.",
+      "immediate_forecast_24h": "Increased security presence and potential for retaliatory attacks or further militant activity, affecting transport and logistics operations.",
+      "strategic_outlook": "Long-term instability in Mali could lead to sustained security threats, impacting regional trade and aviation, with potential spillover effects into neighboring countries.",
+      "operational_impact": "Potential disruptions to air travel, cargo transport, and personnel movement due to increased security measures and risk of attacks, necessitating enhanced security protocols and contingency planning.",
+      "proximity_alert": null
+    }
   }
 ]
