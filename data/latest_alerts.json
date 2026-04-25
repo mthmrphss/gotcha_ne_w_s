@@ -1,43 +1,5 @@
 [
   {
-    "id": "1948883d4c037bb065a20c6881831809",
-    "timestamp": "2026-04-25T19:03:58.902931",
-    "original_title": "Plane crashes into yard near Crystal Airport - FOX 9 Minneapolis-St. Paul",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ScElBRFlmaHlqRWlFYldWam1nZjNKaDBzRUZnNUFvQngyTm9WY2VpR19yWE5yY0pWemdQM21HZE1hNkRKamZFUE1heG1JZXRlQ09ud0Vyb213UkpYRHJRSTk2dXMyNWU2MFM2QkZvZkZYdG5BUUNjeC1DVGVhd9IBgwFBVV95cUxPdHFsUGo1akhjQ3lFWTJWWm1FM0g1UWhoX3puSE5Kd21fa2JBa3JXdjRCMFpxSUZPUnRGd3EwR2U4R1Zfa2RLQVNwcGp0Mm4xeEpzRkpJRmZyNWhORWRXTVpIVllHVjBuMUNlZ09ZSFlFbkRVWkR5eDBrenRZcWxGV0xfQQ?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Aviation",
-      "risk_score": 8,
-      "location": "Crystal, USA",
-      "latitude": 45.05,
-      "longitude": -93.35,
-      "detailed_analysis": "A plane has crashed into a yard near Crystal Airport, indicating a potential threat to aviation safety and security. The cause of the crash is unknown and under investigation.",
-      "immediate_forecast_24h": "Investigations will likely be conducted to determine the cause of the crash, and there may be disruptions to air traffic in the surrounding area.",
-      "strategic_outlook": "The incident highlights the importance of maintaining aviation safety and security protocols to prevent such crashes in the future. It may also lead to increased scrutiny of aviation practices and regulations.",
-      "operational_impact": "The crash may cause temporary disruptions to air traffic and logistics in the area, but the long-term impact on transport and logistics is expected to be minimal.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "8f961fcc81b3e3dbaf7f05a9cb86d00a",
-    "timestamp": "2026-04-25T19:04:48.882648",
-    "original_title": "Update: Mali's army claims situation under control following attacks",
-    "link": "http://www.africanews.com/2026/04/25/update-malis-army-claims-situation-under-control-following-attacks/",
-    "source_name": "Africa News",
-    "ai_analysis": {
-      "category": "Conflict/Terrorism/Civil Unrest",
-      "risk_score": 7,
-      "location": "Mali",
-      "latitude": 17.0,
-      "longitude": -4.0,
-      "detailed_analysis": "Mali's army claims the situation is under control following coordinated attacks by armed militants across the country, indicating a high level of instability and potential for further violence.",
-      "immediate_forecast_24h": "Increased security presence and potential for retaliatory attacks or further militant activity, affecting transport and logistics operations.",
-      "strategic_outlook": "Long-term instability in Mali could lead to sustained security threats, impacting regional trade and aviation, with potential spillover effects into neighboring countries.",
-      "operational_impact": "Potential disruptions to air travel, cargo transport, and personnel movement due to increased security measures and risk of attacks, necessitating enhanced security protocols and contingency planning.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "1ebee5ded0d3f04367934c61c5085425",
     "timestamp": "2026-04-25T20:02:49.012712",
     "original_title": "NTSB investigating plane crash near Minneapolis, according to officials - CBS News",
@@ -73,6 +35,25 @@
       "strategic_outlook": "This incident may impact United Airlines' reputation and operations, particularly if the issue is found to be related to the new aircraft's design or manufacturing process, potentially leading to increased scrutiny and regulatory attention.",
       "operational_impact": "The emergency diversion may cause disruptions to flight schedules, passenger travel plans, and cargo transportation, with potential ripple effects on the airline's operations and logistics.",
       "proximity_alert": "YAKIN TEHDİT: Singapore Changi Airport (16 km)"
+    }
+  },
+  {
+    "id": "ea366c2c3e8a06f941ec480db7b00767",
+    "timestamp": "2026-04-25T21:06:12.903763",
+    "original_title": "Militants launch coordinated attacks across Mali - The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0xam9kN2hzQ3JHT2RmZWpTakt1NXFPZ2lGcDRnUVF6UTU0WVBaeWlLUW9TaG1iRmNMZVh1eVRidVh5Zlk3RUtvRnZGZXdueVhxbW81SzlDcm9ScEZ0eGtoc0dSa1dGaHFFSWVnQ2FjaTNuellYei1rYUZFdw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "Mali",
+      "latitude": 17.0,
+      "longitude": -4.0,
+      "detailed_analysis": "Militants have launched coordinated attacks across Mali, posing a significant threat to assets, cargo, aviation, and personnel in the region. The attacks could lead to instability, violence, and disruption of transport and logistics operations.",
+      "immediate_forecast_24h": "Increased security measures are expected in the short term, with potential for further attacks or clashes between militants and security forces. Transport and logistics operations may be disrupted or suspended in affected areas.",
+      "strategic_outlook": "The long-term outlook for the region remains uncertain, with the potential for ongoing instability and conflict. This could lead to increased security costs, supply chain disruptions, and reputational risks for companies operating in the area.",
+      "operational_impact": "The attacks may impact air transport, road transport, and logistics operations in Mali, with potential for delays, disruptions, or cancellations. Companies operating in the region should review their security protocols, consider alternative routes or modes of transport, and monitor the situation closely.",
+      "proximity_alert": null
     }
   }
 ]
