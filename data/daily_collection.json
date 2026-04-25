@@ -74,5 +74,81 @@
       "operational_impact": "The primary operational impact will be on Ryanair's operations and staff in Berlin, with potential secondary effects on the airport's overall traffic and other airlines' strategic decisions regarding the airport.",
       "proximity_alert": "YAKIN TEHDİT: Berlin Tegel Airport (0 km)"
     }
+  },
+  {
+    "id": "b4a25f7c08d8d8b7671f7b9971c6cb85",
+    "timestamp": "2026-04-25T05:52:10.843000",
+    "original_title": "U.S. military strike on alleged drug boat kills 2 in eastern Pacific - NBC News",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdWlpMnN6TGR6YjY2YlE5TkhvNmxJNEhJeENxalBCTXZsSW42Z1RwcVZwVDVfR2xpYWs5LXBDemk0dmZ2bVJiRkZPWVNGanEzVWdKbHJmUU5PV25LeDg4N2h4T29yaHZnUFNuVHJ3ZVJvaFJCRTdPZTVEcG85Wl9qZW9pT3RrYVlvUUtzY1R6SThfOFkwOVg2ZXBLMlhqSkVqXzNUcExhR1d6Y1ItN1JqelJxY2FBMG9uQmc?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Crime",
+      "risk_score": 6,
+      "location": "Eastern Pacific",
+      "latitude": 0.0,
+      "longitude": -100.0,
+      "detailed_analysis": "A U.S. military strike on an alleged drug boat in the eastern Pacific has resulted in the deaths of 2 individuals, indicating a heightened level of conflict and crime in the region, potentially disrupting maritime logistics and transport.",
+      "immediate_forecast_24h": "Increased military presence and surveillance in the eastern Pacific may lead to further confrontations with alleged drug boats, potentially disrupting maritime traffic and cargo operations in the short term.",
+      "strategic_outlook": "The long-term impact of this incident may lead to increased security measures and cooperation between nations to combat drug trafficking in the region, potentially reducing the risk of cargo theft and smuggling.",
+      "operational_impact": "Maritime transport and logistics operations in the eastern Pacific may experience delays or disruptions due to increased military activity and surveillance, and shipping companies may need to take additional security measures to mitigate the risk of cargo theft or seizure.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "ff46193041106a1ba0fdae41d42a45bb",
+    "timestamp": "2026-04-25T05:52:14.875320",
+    "original_title": "SunExpress flight XQ3688 declares emergency due to passenger medical issue en route to Edinburgh - SSBCrack",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaVlUcUNDWGJaRVEzRGl5amN1QmdNZTVMSjNLU2xoMUkzRG9rWmNwWGtIaVhtNXdSaFppY2ExZjVBSF9RUmNyTlN1Vk1Ic1VvNFc5SEhTekg5Rm9uUXBiLU9ZYXhyZnVDRVF6Zmt5TmRwU1dTejlrMk1nLVFzRUJzZFFoa0k2eGhDQmFHcUJxZUNKZW41SGkzNW1hcmREWWpaem1VLTJCa2NCWHdqRUFzTUlWRFdkY3F6WldQckU0cXE?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "En route to Edinburgh",
+      "latitude": 55.95,
+      "longitude": -3.19,
+      "detailed_analysis": "A medical emergency occurred on board SunExpress flight XQ3688, prompting the declaration of an emergency. The situation is contained and under control, with the flight likely to proceed with a potential medical diversion.",
+      "immediate_forecast_24h": "The flight is expected to continue to its destination with possible medical assistance provided to the affected passenger. No further disruptions are anticipated in the next 24 hours.",
+      "strategic_outlook": "This incident highlights the importance of in-flight medical emergency preparedness and response. Airlines and aviation authorities should review and refine their protocols to ensure timely and effective assistance in similar situations.",
+      "operational_impact": "The incident may cause a minor delay to the flight schedule, but it is unlikely to have a significant impact on overall transport and logistics operations.",
+      "proximity_alert": "YAKIN TEHDİT: Edinburg Airport (10 km)"
+    }
+  },
+  {
+    "id": "cf38e919a53fd5d92ac7004b6fe5bc99",
+    "timestamp": "2026-04-25T05:52:17.621624",
+    "original_title": "S. Korea voices deep regret over Japan PM's offering, lawmakers' visit to war shrine",
+    "link": "https://www.reddit.com/r/worldnews/comments/1sv35my/s_korea_voices_deep_regret_over_japan_pms/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Seoul, South Korea",
+      "latitude": 37.5665,
+      "longitude": 126.9779,
+      "detailed_analysis": "The event involves a diplomatic dispute between South Korea and Japan, with South Korea expressing deep regret over Japan's PM's offering and lawmakers' visit to a war shrine. This incident may lead to increased tensions between the two nations, potentially affecting trade and diplomatic relations.",
+      "immediate_forecast_24h": "Protests or diplomatic meetings may occur in the next 24 hours, but no immediate threat to assets, cargo, aviation, or personnel is expected.",
+      "strategic_outlook": "Long-term relations between South Korea and Japan may be strained, potentially affecting regional stability and trade. However, this incident is unlikely to have a significant direct impact on global security or logistics.",
+      "operational_impact": "No immediate operational impact is expected, but companies with interests in South Korea and Japan should monitor the situation and be prepared for potential disruptions to trade or diplomatic relations.",
+      "proximity_alert": "YAKIN TEHDİT: Incheon International Airport (14 km)"
+    }
+  },
+  {
+    "id": "28a3ee44059c66f5c500500ba3b46114",
+    "timestamp": "2026-04-25T05:52:19.305163",
+    "original_title": "Ukrainian strikes have wiped $25.5 billion off Russia’s war machine, Syrskyi says",
+    "link": "https://www.reddit.com/r/worldnews/comments/1sv1pio/ukrainian_strikes_have_wiped_255_billion_off/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Ukraine, Russia",
+      "latitude": 48.3794,
+      "longitude": 31.1656,
+      "detailed_analysis": "Ukrainian strikes have caused significant damage to Russia's war machine, with estimated losses of $25.5 billion. This indicates a high level of conflict and potential for further escalation, posing a risk to assets, cargo, aviation, and personnel in the region.",
+      "immediate_forecast_24h": "Increased tensions and potential for further military action between Ukraine and Russia, with possible disruptions to transport and logistics in the region.",
+      "strategic_outlook": "Long-term instability and conflict in the region, with potential for ongoing disruptions to trade and commerce, and increased risk of cyber attacks and other forms of sabotage.",
+      "operational_impact": "Potential disruptions to air and ground transport, increased security measures, and potential for cargo delays or losses due to conflict-related activity.",
+      "proximity_alert": null
+    }
   }
 ]
