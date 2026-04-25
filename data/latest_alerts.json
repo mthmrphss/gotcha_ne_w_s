@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "id": "5988c9e0a949fa015184b8556c8e84ed",
+    "timestamp": "2026-04-25T03:41:07.145978",
+    "original_title": "Human rights watch releases a new report detailing the quote “unrelenting persecution of Tigrayans”",
+    "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20260424-human-rights-watch-releases-a-new-report-detailing-the-quote-unrelenting-persecution-of-tigrayans",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 6,
+      "location": "Tigray, Ethiopia and Tanzania",
+      "latitude": 13.5353,
+      "longitude": 39.0742,
+      "detailed_analysis": "The report of unrelenting persecution of Tigrayans and post-election violence in Tanzania indicates a high level of civil unrest and conflict in the regions, posing a significant threat to personnel and potentially disrupting cargo and aviation operations.",
+      "immediate_forecast_24h": "Increased tensions and potential for further violence in the affected areas, with possible disruptions to transport and logistics in the short term.",
+      "strategic_outlook": "Long-term instability and conflict in the regions could lead to sustained disruptions to cargo and aviation operations, as well as posing a significant risk to personnel and assets.",
+      "operational_impact": "Potential disruptions to transport and logistics, increased risk to personnel and assets, and possible restrictions on aviation operations in the affected areas.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "5d5d5feea307bcf2233745e6f23b7b5a",
+    "timestamp": "2026-04-25T03:41:10.807066",
+    "original_title": "Ryanair Shutters Base in Berlin With Loss of 210 Jobs in Row Over Airport Fees",
+    "link": "https://www.paddleyourownkanoo.com/2026/04/24/ryanair-shutters-base-in-berlin-with-loss-of-210-jobs-in-row-over-airport-fees/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Aviation/Other",
+      "risk_score": 10,
+      "location": "Berlin, Germany",
+      "latitude": 52.52,
+      "longitude": 13.405,
+      "detailed_analysis": "Ryanair is shutting down its base at Berlin Brandenburg International Airport due to a dispute over airport fees, resulting in the loss of 210 jobs and the relocation of seven Boeing 737s. This event does not pose a direct threat to assets, cargo, aviation, or personnel but may have operational implications for the airline and related logistics.",
+      "immediate_forecast_24h": "No immediate disruptions to flights or operations are expected beyond the planned relocation of aircraft and staff adjustments.",
+      "strategic_outlook": "The long-term impact could involve adjustments in airline operations, potential shifts in market dynamics, and possible renegotiations of airport fees. However, these are strategic business decisions rather than security threats.",
+      "operational_impact": "The primary operational impact will be on Ryanair's operations and staff in Berlin, with potential secondary effects on the airport's overall traffic and other airlines' strategic decisions regarding the airport.",
+      "proximity_alert": "YAKIN TEHDİT: Berlin Tegel Airport (0 km)"
+    }
+  }
+]
