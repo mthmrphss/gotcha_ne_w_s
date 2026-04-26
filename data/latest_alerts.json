@@ -1,24 +1,5 @@
 [
   {
-    "id": "0f514de11d7f8265cb07b5c7405b3c6b",
-    "timestamp": "2026-04-25T22:03:28.362838",
-    "original_title": "🔴 Jihadist group JNIM says it launched attacks in Mali with Tuareg rebels",
-    "link": "https://www.france24.com/en/africa/20260425-mali-live-army-says-armed-terrorist-groups-launch-attacks-on-military-positions-nationwide",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Terrorism/Conflict",
-      "risk_score": 8,
-      "location": "Mali",
-      "latitude": 17.0,
-      "longitude": -4.0,
-      "detailed_analysis": "Jihadist group JNIM has launched attacks in Mali in collaboration with Tuareg rebels, posing a significant threat to regional stability and security of assets, cargo, aviation, and personnel.",
-      "immediate_forecast_24h": "Increased militant activity is expected in the region, potentially disrupting transport and logistics operations, and posing a risk to personnel and assets.",
-      "strategic_outlook": "The collaboration between JNIM and Tuareg rebels may lead to a prolonged period of instability in the region, affecting trade and economic activities, and requiring enhanced security measures for assets, cargo, and personnel.",
-      "operational_impact": "Transport and logistics operations in the region may be disrupted or suspended due to the increased security risk, and alternative routes or security protocols may be necessary to mitigate the threat.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "a757ffb8b0188068e03e21ae93a275df",
     "timestamp": "2026-04-25T23:06:54.341254",
     "original_title": "Family of man accused of anti-Semitic attack detained by ICE, flown from Colorado, then returned after a day of chaos - Colorado Public Radio",
@@ -35,6 +16,44 @@
       "strategic_outlook": "The incident highlights the need for increased security measures and cooperation between law enforcement agencies to prevent similar events in the future.",
       "operational_impact": "The detention and return of the family may cause disruptions to air travel and border crossings in the short term, but the overall impact on transport and logistics is expected to be minimal.",
       "proximity_alert": "YAKIN TEHDİT: DENVER (7 km)"
+    }
+  },
+  {
+    "id": "322c810adb8aea30fd96063c2e62302a",
+    "timestamp": "2026-04-26T00:05:18.083156",
+    "original_title": "North Dakota lawmaker Liz Conmy dies in Minnesota plane crash - InForum",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdXRTdkRrM0tSVFl1VmhtaDA1WHVXeVN1d3gyYmR1OVZ5bC1qTzVPQVBiRmZlNmxnQW9hc2trNHM2ZVdTa2xWN1QxVVB4YzZjaHBaS1IxQUx1Zy03TGJqMWUwVWZDNUtHOVowdnNjU2FGa0g2TEdVTWlLQ1FRV3NUZm1xRF9UWVFfVjN1bnlQZUhteGVLVlZFS3dtYlc?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 8,
+      "location": "Minnesota, USA",
+      "latitude": 46.7296,
+      "longitude": -94.6859,
+      "detailed_analysis": "A plane crash occurred in Minnesota, resulting in the death of North Dakota lawmaker Liz Conmy. The incident is currently being reported as an accident, but the cause of the crash has not been disclosed.",
+      "immediate_forecast_24h": "Investigations into the cause of the crash are expected to begin immediately. There may be a temporary disruption to air traffic in the area, but it is unlikely to have a significant impact on overall aviation operations.",
+      "strategic_outlook": "The long-term impact of this incident will depend on the findings of the investigation. If the crash is attributed to a mechanical failure or human error, it may lead to increased scrutiny of aviation safety protocols and potential regulatory changes.",
+      "operational_impact": "The incident may cause a short-term increase in security measures at nearby airports, but it is unlikely to have a significant impact on cargo or personnel transport in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "6eae29caa51604e054a136cdc95dc2d1",
+    "timestamp": "2026-04-26T00:05:35.914845",
+    "original_title": "Two killed in small plane crash near Crystal Airport - KTTC | Rochester, MN",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNa2UzT3NDZkJnUTJwU3FzOVdDRzNISE5LRmgyeEd3RU9VUTBuSm1vUHhGX0hqdi1fZWJBTlpfNHZCaVRFbVJ6dnNRaEgwZFA3dnFqVU1qU01jeUxnT0VlYm1tZ1hnbzlGS29sSTc1aDVTT1pSVXZmUnV2S0p2X3BsdlpiSmdhbnZKdzA1UW1rZ3dyUQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 8,
+      "location": "Crystal Airport, Minnesota, USA",
+      "latitude": 45.0614,
+      "longitude": -93.3522,
+      "detailed_analysis": "A small plane crash near Crystal Airport has resulted in two fatalities, indicating a significant aviation safety risk. The incident may have implications for local air traffic and aviation operations.",
+      "immediate_forecast_24h": "Investigations into the cause of the crash are likely to commence, with potential disruptions to air traffic in the vicinity of Crystal Airport. Emergency services will be on high alert.",
+      "strategic_outlook": "The incident may lead to a review of aviation safety procedures and protocols in the region, potentially resulting in changes to air traffic control, pilot training, or aircraft maintenance regulations.",
+      "operational_impact": "The crash may cause temporary disruptions to flight schedules and air traffic in the region, with potential delays or cancellations of flights. Cargo and passenger operations may be affected, with a focus on ensuring the safety of passengers and crew.",
+      "proximity_alert": null
     }
   }
 ]
