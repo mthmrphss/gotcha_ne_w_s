@@ -910,5 +910,24 @@
       "operational_impact": "Potential delays or disruptions to cargo shipments, increased security checks at airports and seaports, possible restrictions on air traffic in the region, and heightened vigilance for drone sightings or other aerial threats.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "ec02fd29cdd9c68cced1c567dbd4a4e8",
+    "timestamp": "2026-04-26T20:07:05.603853",
+    "original_title": "King Charles state visit to US to go on as planned after shooting",
+    "link": "https://www.france24.com/en/king-charles-state-visit-to-us-to-go-on-as-planned-after-shooting",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Terrorism/Civil Unrest",
+      "risk_score": 10,
+      "location": "Washington D.C., USA",
+      "latitude": 38.8951,
+      "longitude": -77.0364,
+      "detailed_analysis": "A shooting incident occurred at a White House dinner, but King Charles' state visit to the US will proceed as planned. The incident may indicate a heightened security threat, particularly for high-profile events and dignitaries.",
+      "immediate_forecast_24h": "Increased security measures are expected to be implemented during King Charles' visit, with potential disruptions to traffic and logistics in the surrounding area.",
+      "strategic_outlook": "The incident may lead to a review of security protocols for high-profile events in the US, potentially resulting in enhanced security measures for future events.",
+      "operational_impact": "The shooting incident may cause delays or disruptions to transport and logistics in the Washington D.C. area, particularly if security measures are heightened during King Charles' visit.",
+      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
+    }
   }
 ]
