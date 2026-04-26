@@ -1,24 +1,5 @@
 [
   {
-    "id": "826acff1682562570ae93b058cec3562",
-    "timestamp": "2026-04-26T14:26:01.036323",
-    "original_title": "Attacks in Mali: Malian Defense Minister Sadio Camara killed by rebels",
-    "link": "https://www.france24.com/en/malian-defense-minister-killed-by-rebels",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict/Terrorism",
-      "risk_score": 10,
-      "location": "Bamako, Mali",
-      "latitude": 12.65,
-      "longitude": -8.0,
-      "detailed_analysis": "Malian Defense Minister Sadio Camara was killed by rebels, indicating a high level of instability and violence in the region, posing a significant threat to personnel and potentially disrupting aviation and cargo operations.",
-      "immediate_forecast_24h": "Increased security measures are expected in the region, with potential for further clashes between government forces and rebel groups, affecting transport and logistics in the short term.",
-      "strategic_outlook": "The long-term impact of this event could lead to increased instability in the region, affecting trade and economic development, with potential for spillover into neighboring countries.",
-      "operational_impact": "Transport and logistics operations in the region may be disrupted due to increased security risks, with potential for delays or cancellations of flights and cargo shipments.",
-      "proximity_alert": "YAKIN TEHDİT: Bamako–Sénou International Airport (13 km)"
-    }
-  },
-  {
     "id": "9b742c7e14b608f5b21ba6a89a5478fc",
     "timestamp": "2026-04-26T15:10:59.900403",
     "original_title": "What we know about security after the White House press dinner shooting - USA Today",
@@ -73,6 +54,44 @@
       "strategic_outlook": "Long-term instability and conflict in Mali could lead to increased terrorist activity, affecting regional security and potentially disrupting air travel and cargo transport in West Africa.",
       "operational_impact": "Potential disruptions to air travel, increased security measures at airports, and heightened risk for personnel and assets in the region, particularly those involved in military or government operations.",
       "proximity_alert": "YAKIN TEHDİT: Bamako–Sénou International Airport (13 km)"
+    }
+  },
+  {
+    "id": "e8da70dab55e7f4feadc2e7033460b2e",
+    "timestamp": "2026-04-26T16:07:46.531055",
+    "original_title": "Washington hotel shooting raises questions about Trump security - BBC",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rZHJ2UGJFWUZMejQ3dWdydFRrOVdtdzJ0WTZWem5rZ0pHMldiSjh1NGJMWEpoN3o2U3dDS3BydmpndUJTY09Xd2xjck9neHlUcWRfWmxGRFN0Zw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Crime/Civil Unrest",
+      "risk_score": 10,
+      "location": "Washington, USA",
+      "latitude": 38.8951,
+      "longitude": -77.0364,
+      "detailed_analysis": "A shooting incident at a Washington hotel has raised concerns about security, particularly in relation to high-profile individuals such as Trump. The event highlights potential vulnerabilities in security protocols and the need for enhanced measures to protect personnel and assets.",
+      "immediate_forecast_24h": "Increased security presence and vigilance are expected in the short term, with potential disruptions to local transport and logistics. The incident may also lead to a review of security protocols for high-profile events and individuals.",
+      "strategic_outlook": "The long-term impact of this incident may lead to a reevaluation of security strategies for high-risk targets, including the implementation of more stringent security measures and increased cooperation between law enforcement agencies.",
+      "operational_impact": "The incident may cause temporary disruptions to local transport and logistics, particularly in areas surrounding the hotel. However, the overall impact on aviation and cargo operations is expected to be minimal.",
+      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
+    }
+  },
+  {
+    "id": "4eba417c7290904c3578cd4e9ef7d505",
+    "timestamp": "2026-04-26T16:07:48.677120",
+    "original_title": "Al-Qaeda-linked militants launch coordinated attacks across Mali - The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0xam9kN2hzQ3JHT2RmZWpTakt1NXFPZ2lGcDRnUVF6UTU0WVBaeWlLUW9TaG1iRmNMZVh1eVRidVh5Zlk3RUtvRnZGZXdueVhxbW81SzlDcm9ScEZ0eGtoc0dSa1dGaHFFSWVnQ2FjaTNuellYei1rYUZFdw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict",
+      "risk_score": 8,
+      "location": "Mali",
+      "latitude": 17.0,
+      "longitude": -4.0,
+      "detailed_analysis": "Al-Qaeda-linked militants have launched coordinated attacks across Mali, posing a significant threat to Assets, Cargo, Aviation, and Personnel in the region. The attacks may disrupt logistics, transportation, and supply chains, and could potentially lead to further instability and violence.",
+      "immediate_forecast_24h": "Increased security measures are expected in the short term, with potential disruptions to air travel, ground transportation, and cargo operations. There is a high risk of further attacks or incidents in the next 24 hours.",
+      "strategic_outlook": "The long-term outlook for the region remains unstable, with the potential for ongoing militant activity and conflict. This could lead to sustained disruptions to logistics and transportation, and may impact the overall security and stability of the region.",
+      "operational_impact": "The attacks may impact air travel, ground transportation, and cargo operations in Mali, with potential disruptions to supply chains and logistics. Personnel and assets in the region should exercise extreme caution, and contingency plans should be put in place to mitigate the risks associated with the current situation.",
+      "proximity_alert": null
     }
   }
 ]
