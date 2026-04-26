@@ -568,5 +568,43 @@
       "operational_impact": "The incident may cause disruptions to transport and logistics in the Washington, D.C. area, particularly if security measures are increased or if there are concerns about potential follow-up attacks. Aviation and cargo operations may also be affected if additional security protocols are implemented.",
       "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
     }
+  },
+  {
+    "id": "06f593ca4075d86b5a83cd59f13e11c8",
+    "timestamp": "2026-04-26T11:44:52.803291",
+    "original_title": "Mali Defence Minister killed during military attacks on Bamako and other towns - commonspace.eu",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVnNJejhDcVRCRnpqVFdoWEt6VTVMdG9aWTQydXpRZXcxRGxRbnNkWkZfcmVmbDM1enBvQ2ZJbW9RR1owM3B4TUx5dkVSdTl1MFRBZ2dic0NrcndlcW9uUlVqX09uNnM2YXhnS05qakZDZmZBVlFQWmRxcnJCRmttWHN0dVNOQ2xRNGMwNlAxVGIzUnp2cElDajdGV21RVmZjTVRxcExpSEtuUDA?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest/Terrorism",
+      "risk_score": 10,
+      "location": "Bamako, Mali",
+      "latitude": 12.65,
+      "longitude": -8.0,
+      "detailed_analysis": "Mali's Defence Minister was killed during military attacks on Bamako and other towns, indicating a high level of instability and conflict in the region, posing significant threats to assets, personnel, and potentially aviation and cargo operations.",
+      "immediate_forecast_24h": "Increased military activity and potential for further clashes are expected in the short term, with risks of collateral damage to infrastructure and potential disruptions to transport and logistics.",
+      "strategic_outlook": "The long-term outlook for the region remains unstable, with ongoing conflict and terrorism posing persistent threats to security and operations. This could lead to increased security measures and potential restrictions on movement and operations.",
+      "operational_impact": "The attacks and subsequent instability could impact aviation operations, particularly in terms of safety and security, and may lead to disruptions in cargo transport and logistics, affecting supply chains and operations in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Bamako–Sénou International Airport (13 km)"
+    }
+  },
+  {
+    "id": "828bde8daa729f386698edb6c75d74c5",
+    "timestamp": "2026-04-26T11:44:56.843549",
+    "original_title": "Toronto police make arrests in text-message cyberattack, 13M disruptions reported",
+    "link": "https://www.reddit.com/r/worldnews/comments/1sw554m/toronto_police_make_arrests_in_textmessage/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 10,
+      "location": "Toronto, Canada",
+      "latitude": 43.6532,
+      "longitude": -79.3832,
+      "detailed_analysis": "A cyberattack via text messages has been reported, resulting in 13 million disruptions. Toronto police have made arrests in connection with the attack, indicating a potential threat to communication and data security in the region.",
+      "immediate_forecast_24h": "In the next 24 hours, there may be continued disruptions to communication services, and potential follow-up attacks or retaliatory measures from the perpetrators. Enhanced security measures are likely to be implemented by authorities and service providers.",
+      "strategic_outlook": "Long-term, this incident highlights the vulnerability of communication systems to cyber threats. It may lead to increased investment in cybersecurity measures by governments and private companies, as well as potential changes to regulations and laws related to cybersecurity.",
+      "operational_impact": "The cyberattack may have an operational impact on logistics and transportation in the region, particularly if communication systems are disrupted. This could lead to delays or disruptions in the movement of cargo, aviation, and personnel.",
+      "proximity_alert": "YAKIN TEHDİT: Toronto Pearson International Airport (19 km)"
+    }
   }
 ]
