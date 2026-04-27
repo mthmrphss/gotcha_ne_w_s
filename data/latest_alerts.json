@@ -1,21 +1,116 @@
 [
   {
-    "id": "9b632284950f18964057d79cd90a8221",
-    "timestamp": "2026-04-27T17:50:18.381868",
-    "original_title": "Iran court upholds death sentence for protester, 25-year term for daughter",
-    "link": "https://www.reddit.com/r/worldnews/comments/1sxamrw/iran_court_upholds_death_sentence_for_protester/",
-    "source_name": "Reddit r/WorldNews",
+    "id": "a3dcfc42de46703c54f9cc80c267ede0",
+    "timestamp": "2026-04-27T19:42:21.095287",
+    "original_title": "Security, politics and protest: top stories in {Africanews Today}",
+    "link": "http://www.africanews.com/2026/04/27/security-politics-and-protest-top-stories-in-africanews-today/",
+    "source_name": "Africa News",
     "ai_analysis": {
-      "category": "Civil Unrest/Conflict",
+      "category": "Terrorism/Conflict/Civil Unrest",
+      "risk_score": 7,
+      "location": "Mali",
+      "latitude": 17.0,
+      "longitude": -4.0,
+      "detailed_analysis": "Jihadist attack in Mali resulted in the death of General Sadio Camara, indicating a high level of instability and potential for future attacks",
+      "immediate_forecast_24h": "Increased security presence and potential for retaliatory attacks or protests",
+      "strategic_outlook": "Long-term instability in the region may lead to continued security threats and potential for extremist activity",
+      "operational_impact": "Potential disruptions to transport and logistics in the region, with increased risk to personnel and assets",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "fc6b8e044563eb60c5cb05ee2274cda5",
+    "timestamp": "2026-04-27T19:42:23.020775",
+    "original_title": "14 Killed in crash near Juba as poor weather suspected",
+    "link": "http://www.africanews.com/2026/04/27/14-killed-in-crash-near-juba-as-poor-weather-suspected/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Aviation",
       "risk_score": 10,
-      "location": "Tehran, Iran",
-      "latitude": 35.6892,
-      "longitude": 51.389,
-      "detailed_analysis": "Iranian court upholds death sentence for a protester and 25-year term for their daughter, indicating heightened tensions and potential for further unrest",
-      "immediate_forecast_24h": "Increased protests and demonstrations are possible in response to the court's decision, potentially affecting local transportation and logistics",
-      "strategic_outlook": "Long-term instability and conflict in Iran may impact regional security, trade, and aviation, with potential spillover effects on neighboring countries",
-      "operational_impact": "Transportation and logistics operations in Iran may be affected by protests, demonstrations, and potential unrest, with possible delays or disruptions to cargo and personnel movements",
-      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+      "location": "Juba, South Sudan",
+      "latitude": 4.85,
+      "longitude": 31.6,
+      "detailed_analysis": "A Cessna aircraft crashed near Juba, resulting in 14 fatalities, with poor weather suspected as a contributing factor. This incident highlights the risks associated with aviation operations in adverse weather conditions.",
+      "immediate_forecast_24h": "Investigations into the crash are likely to commence, with a focus on determining the cause of the accident. Flight operations in the region may be subject to increased scrutiny and safety measures.",
+      "strategic_outlook": "The incident underscores the importance of robust safety protocols and weather risk management in aviation. Operators and regulatory bodies may need to reassess and enhance their procedures to mitigate similar risks in the future.",
+      "operational_impact": "The crash may lead to temporary disruptions in air traffic, and operators may need to adjust their flight schedules and routes to account for potential weather-related hazards.",
+      "proximity_alert": "YAKIN TEHDİT: Juba Uluslararası Havalimanı (0 km)"
+    }
+  },
+  {
+    "id": "c01f89cd3fcd05e4bc01e85104d12578",
+    "timestamp": "2026-04-27T19:42:24.951341",
+    "original_title": "Malians respond to the death of defence Minister Sadio Camara",
+    "link": "http://www.africanews.com/2026/04/27/malians-respond-to-the-death-of-defence-minister-sadio-camara/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Kati, Mali",
+      "latitude": 12.7333,
+      "longitude": -8.0667,
+      "detailed_analysis": "The death of the Minister of Defence Sadio Camara in a car bomb attack indicates a high level of threat to government officials and potentially to aviation and cargo operations in the region due to the instability and violence it may provoke.",
+      "immediate_forecast_24h": "Increased security measures are expected in the capital and other major cities, potentially affecting transport and logistics operations. There is a risk of retaliatory attacks or civil unrest.",
+      "strategic_outlook": "The long-term impact could be a destabilization of the government and an increase in terrorist activities, affecting the overall security situation in Mali and potentially the Sahel region.",
+      "operational_impact": "Transport and logistics operations may face disruptions due to increased security checks, potential curfews, or unrest. Aviation operations may also be affected by the heightened security situation.",
+      "proximity_alert": "YAKIN TEHDİT: Bamako–Sénou International Airport (25 km)"
+    }
+  },
+  {
+    "id": "74a3f9333f2e198ed9865b3f77794ec4",
+    "timestamp": "2026-04-27T19:42:26.829789",
+    "original_title": "Mali under pressure as coordinated attacks aim to 'destabilise' state [Interview]",
+    "link": "http://www.africanews.com/2026/04/27/mali-under-pressure-as-coordinated-attacks-aim-to-destabilise-state-interview/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest/Terrorism",
+      "risk_score": 8,
+      "location": "Mali",
+      "latitude": 17.5707,
+      "longitude": -3.9963,
+      "detailed_analysis": "Coordinated attacks targeting major cities in Mali, using covert infiltration and bringing together rival armed groups, pose a significant threat to the stability of the state and potentially to aviation, cargo, and personnel.",
+      "immediate_forecast_24h": "Increased likelihood of further attacks and heightened tensions within the next 24 hours, potentially disrupting transport and logistics operations.",
+      "strategic_outlook": "Long-term instability in Mali could lead to increased terrorist activity, affecting regional security and potentially spilling over into neighboring countries, impacting aviation and cargo operations.",
+      "operational_impact": "Potential disruptions to transport and logistics operations, increased security measures for personnel and cargo, and possible rerouting of flights or cargo shipments to avoid the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "308524ed7430b8530c630e13a30c6607",
+    "timestamp": "2026-04-27T19:42:28.917058",
+    "original_title": "Suspect in press gala shooting charged with attempted assassination of Trump",
+    "link": "https://www.france24.com/en/americas/20260427-suspect-in-press-gala-shooting-charged-with-attempted-assassination-of-trump",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Terrorism/Crime/Civil Unrest",
+      "risk_score": 10,
+      "location": "Washington, USA",
+      "latitude": 38.8951,
+      "longitude": -77.0364,
+      "detailed_analysis": "A suspect has been charged with attempted assassination of President Trump after opening fire at a press gala, bypassing security and using multiple weapons, indicating a high level of threat to personnel and potential future targets",
+      "immediate_forecast_24h": "Increased security measures are expected in the vicinity of high-profile events and government buildings, with potential for copycat incidents or retaliatory actions",
+      "strategic_outlook": "The incident highlights vulnerabilities in security protocols and the need for enhanced screening and protection measures for high-profile events and targets, potentially leading to a review and overhaul of security procedures",
+      "operational_impact": "Transport and logistics in the area may be affected by increased security checks and potential road closures, with aviation security also potentially being heightened due to the high-profile nature of the target",
+      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
+    }
+  },
+  {
+    "id": "0356d3cc59d78828df94bc4008c4edf3",
+    "timestamp": "2026-04-27T19:45:33.159601",
+    "original_title": "Why and how European airlines may cancel flights – and why passengers shouldn’t worry about holidays",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/european-airlines-cancel-flights-jet-fuel-b2965673.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Europe",
+      "latitude": 48.8567,
+      "longitude": 2.2945,
+      "detailed_analysis": "European airlines may cancel flights due to concerns about the price and availability of jet fuel, but passengers are advised not to worry about their holidays",
+      "immediate_forecast_24h": "Some flight cancellations possible, but overall impact on air travel expected to be minimal",
+      "strategic_outlook": "Airlines and airports may need to adapt to changing fuel prices and availability, potentially leading to adjustments in flight schedules and routes",
+      "operational_impact": "Potential for some disruptions to air travel, but overall impact on transport and logistics expected to be limited",
+      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (1 km)"
     }
   }
 ]
