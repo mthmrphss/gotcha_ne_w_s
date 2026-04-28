@@ -492,5 +492,62 @@
       "operational_impact": "Transportation and logistics companies operating in the region should be prepared for potential delays and increased security checks, and should consider implementing additional security measures to protect their personnel and cargo.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "d40830592299239923985b555480ace2",
+    "timestamp": "2026-04-28T17:13:01.538550",
+    "original_title": "Gulf leaders meet in Saudi Arabia to discuss response to Iranian strikes",
+    "link": "https://www.reddit.com/r/worldnews/comments/1sy784d/gulf_leaders_meet_in_saudi_arabia_to_discuss/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Riyadh, Saudi Arabia",
+      "latitude": 24.7136,
+      "longitude": 46.6753,
+      "detailed_analysis": "Gulf leaders meeting to discuss response to Iranian strikes indicates heightened tensions in the region, potentially affecting aviation and cargo operations.",
+      "immediate_forecast_24h": "Increased military presence and heightened security measures are expected in the region, potentially causing disruptions to air traffic and cargo transport.",
+      "strategic_outlook": "Escalation of conflict between Gulf states and Iran could lead to long-term disruptions to global supply chains, particularly in the energy and shipping sectors.",
+      "operational_impact": "Potential for flight restrictions, cargo delays, and increased security protocols for personnel and assets in the region.",
+      "proximity_alert": "YAKIN TEHDİT: King Khalid International Airport (27 km)"
+    }
+  },
+  {
+    "id": "12bc92e1ce5e0573a2467027488e5550",
+    "timestamp": "2026-04-28T17:13:03.925662",
+    "original_title": "Six jailed for life over deadly 2020 jihadist attack in Ivory Coast",
+    "link": "http://www.africanews.com/2026/04/28/six-jailed-for-life-over-deadly-2020-jihadist-attack-in-ivory-coast/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Terrorism/Crime",
+      "risk_score": 6,
+      "location": "Kafolo, Ivory Coast",
+      "latitude": 8.1167,
+      "longitude": -5.7667,
+      "detailed_analysis": "The event refers to a jihadist attack in 2020, resulting in severe consequences. The recent sentencing of perpetrators indicates a resolution to the incident, but the region's history of such attacks poses a continued threat to assets, cargo, aviation, and personnel.",
+      "immediate_forecast_24h": "No immediate escalation expected due to the resolution of the case, but vigilance is advised due to the potential for retaliatory actions.",
+      "strategic_outlook": "Long-term stability in the region is crucial to prevent future attacks. Enhanced security measures and international cooperation are necessary to mitigate the risk of terrorism.",
+      "operational_impact": "The attack highlights the need for heightened security protocols in logistics and transportation, particularly in regions prone to jihadist activities, to protect assets, cargo, and personnel.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "a4d331270f70beed001894c7af3e2fcc",
+    "timestamp": "2026-04-28T17:13:05.620942",
+    "original_title": "Mali airline suspends flights to country's north and centre after attacks",
+    "link": "http://www.africanews.com/2026/04/28/mali-airline-suspends-flights-to-countrys-north-and-centre-after-attacks/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 7,
+      "location": "Mali",
+      "latitude": 17.0,
+      "longitude": -4.0,
+      "detailed_analysis": "Mali airline suspends flights to the country's north and centre due to a surge in violence, indicating a significant threat to aviation and regional security.",
+      "immediate_forecast_24h": "Further disruptions to air travel are expected, with potential for increased violence and instability in the region.",
+      "strategic_outlook": "Long-term instability in Mali may lead to sustained disruptions to air travel and logistics, with potential for broader regional impacts.",
+      "operational_impact": "Flights to northern and central Mali have been suspended, affecting transport and logistics operations in the region.",
+      "proximity_alert": null
+    }
   }
 ]
