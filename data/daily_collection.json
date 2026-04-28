@@ -112,5 +112,100 @@
       "operational_impact": "The deployment of ground robots could lead to increased efficiency in logistics, but it may also require significant investments in cybersecurity and technical support to ensure the secure and reliable operation of these systems.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "851fbb932dc94c4c2acd229fb73e2e26",
+    "timestamp": "2026-04-28T05:00:17.653830",
+    "original_title": "Ukrainian drones reportedly strike Russian oil storage tanks in Tuapse before flames from previous attacks extinguished.",
+    "link": "https://www.reddit.com/r/worldnews/comments/1sxq3pb/ukrainian_drones_reportedly_strike_russian_oil/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Tuapse, Russia",
+      "latitude": 44.0953,
+      "longitude": 39.0742,
+      "detailed_analysis": "Ukrainian drones have reportedly struck Russian oil storage tanks in Tuapse, before flames from previous attacks were extinguished, indicating an escalation of conflict and potential disruption to oil supplies and logistics.",
+      "immediate_forecast_24h": "Increased tensions between Ukraine and Russia, potential for further drone strikes or retaliatory actions, and heightened security measures in the region.",
+      "strategic_outlook": "Long-term disruption to oil supplies, potential for economic sanctions, and increased instability in the region, affecting trade and transport logistics.",
+      "operational_impact": "Potential disruption to oil supplies, increased security measures for transport and logistics, and heightened risk of further attacks on critical infrastructure.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "d1dfc9d420bbcab1489da0993ced3a5b",
+    "timestamp": "2026-04-28T05:00:20.123531",
+    "original_title": "Tuareg rebels in control of Kidal",
+    "link": "https://www.france24.com/en/tuareg-rebels-in-control-of-kidal",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 7,
+      "location": "Kidal, Mali",
+      "latitude": 18.4389,
+      "longitude": 1.4083,
+      "detailed_analysis": "Tuareg rebels are in control of Kidal, indicating a high level of instability and potential for violence in the region, which could impact transport and logistics operations.",
+      "immediate_forecast_24h": "Increased risk of clashes and violence in the Kidal area, potentially disrupting supply chains and posing a threat to personnel and assets.",
+      "strategic_outlook": "Long-term instability in the region could lead to sustained disruptions to cargo and aviation operations, with potential for spillover into neighboring countries.",
+      "operational_impact": "Transport and logistics operations in the region may need to be suspended or rerouted to avoid areas of conflict, with additional security measures implemented to protect personnel and assets.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "b02a5aa6c3401b394d3479eddf61915b",
+    "timestamp": "2026-04-28T05:00:22.083532",
+    "original_title": "Mali's tale of two insurgencies: 'Jihadists seek caliphate while Tuareg rebels pursue autonomy'",
+    "link": "https://www.france24.com/en/tv-shows/spotlight/20260427-mali-s-tale-of-two-insurgencies-jihadists-seek-caliphate-while-tuareg-rebels-pursue-autonomy",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Civil Unrest",
+      "risk_score": 8,
+      "location": "Mali",
+      "latitude": 17.0,
+      "longitude": 4.0,
+      "detailed_analysis": "The situation in Mali is deteriorating due to the presence of jihadist and Tuareg rebel groups, with the latter seeking autonomy and the former aiming to establish a caliphate. The involvement of external actors like Russia has further complicated the situation, leading to a shift in the balance of power.",
+      "immediate_forecast_24h": "Increased violence and instability are expected in the short term, with potential attacks on government and military targets, as well as on civilian infrastructure and personnel.",
+      "strategic_outlook": "The long-term outlook for Mali is bleak, with the potential for protracted conflict and instability. The situation may lead to a humanitarian crisis, with significant implications for regional security and stability.",
+      "operational_impact": "The conflict in Mali poses significant risks to aviation, cargo, and personnel. There is a high risk of attacks on airports, aircraft, and logistics infrastructure, as well as kidnappings and violence against personnel. Transport and logistics operations in the region should be conducted with extreme caution.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "c82bb7b115a7562f959f1f7f48634782",
+    "timestamp": "2026-04-28T05:00:28.022964",
+    "original_title": "Emirates Becomes First Airline to Deploy Ultra-Fast Starlink Inflight Wi-Fi on the Iconic Airbus A380 Superjumbo",
+    "link": "https://www.paddleyourownkanoo.com/2026/04/27/emirates-becomes-first-airline-to-deploy-ultra-fast-starlink-inflight-wi-fi-on-the-iconic-airbus-a380-superjumbo/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Aviation/Cyber",
+      "risk_score": 10,
+      "location": "Dubai, UAE",
+      "latitude": 25.276987,
+      "longitude": 55.296249,
+      "detailed_analysis": "Emirates has deployed ultra-fast Starlink in-flight Wi-Fi on an Airbus A380, increasing bandwidth by 2000 times. This development may introduce new cyber vulnerabilities, but no immediate threats are reported.",
+      "immediate_forecast_24h": "No significant changes expected in the next 24 hours, as this is a technological upgrade rather than a security incident.",
+      "strategic_outlook": "The introduction of Starlink in-flight Wi-Fi may set a new standard for in-flight connectivity, potentially increasing the attack surface for cyber threats if not properly secured.",
+      "operational_impact": "The upgrade is expected to enhance passenger experience and potentially increase operational efficiency, but the security implications of the new technology will need to be closely monitored.",
+      "proximity_alert": "YAKIN TEHDİT: DUBAİ (25 km)"
+    }
+  },
+  {
+    "id": "de57422d2e7eb72d8e20c57fe32808ca",
+    "timestamp": "2026-04-28T05:00:29.978922",
+    "original_title": "American Airlines is the latest carrier to restrict portable chargers on planes. Here’s what to know about the new policy",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/american-airlines-portable-chargers-policy-b2966087.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 6,
+      "location": "United States",
+      "latitude": 37.0902,
+      "longitude": -95.7129,
+      "detailed_analysis": "American Airlines has restricted portable chargers on planes due to the risk of lithium batteries catching fire if damaged, posing a potential threat to aviation safety",
+      "immediate_forecast_24h": "Passengers may face restrictions on carrying portable chargers, and airlines may increase inspections to ensure compliance with the new policy",
+      "strategic_outlook": "The restriction may set a precedent for other airlines to follow, leading to a reduction in the risk of in-flight fires caused by lithium batteries",
+      "operational_impact": "The new policy may cause minor disruptions to passengers, but it is expected to improve overall aviation safety and reduce the risk of accidents",
+      "proximity_alert": null
+    }
   }
 ]
