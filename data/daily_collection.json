@@ -74,5 +74,43 @@
       "operational_impact": "Transportation and logistics in the vicinity of government buildings and high-profile events may be affected by increased security measures, potentially causing delays or disruptions.",
       "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
     }
+  },
+  {
+    "id": "7d90424b5b32c345340273b232fb593a",
+    "timestamp": "2026-04-28T01:17:47.741989",
+    "original_title": "Nigeria’s military backs local startup unveiling drones, mine-clearing vehicles",
+    "link": "https://www.reddit.com/r/worldnews/comments/1sxlcqi/nigerias_military_backs_local_startup_unveiling/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 6,
+      "location": "Nigeria",
+      "latitude": 9.081999,
+      "longitude": 8.675277,
+      "detailed_analysis": "Nigeria's military backing a local startup unveiling drones and mine-clearing vehicles could pose a threat to aviation and cargo security, potentially increasing the risk of drone-related incidents or the use of drones for malicious purposes.",
+      "immediate_forecast_24h": "Increased military activity and potential for drone sightings in Nigerian airspace, potentially disrupting air traffic and logistics operations.",
+      "strategic_outlook": "Long-term implications for regional security and stability, with potential for increased use of drones in military and civilian contexts, and associated risks for aviation and cargo security.",
+      "operational_impact": "Potential disruptions to air traffic and logistics operations, increased security measures at airports and cargo facilities, and heightened vigilance for drone-related threats.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "a1edd3c6f43c5be4a7fd2591db104acb",
+    "timestamp": "2026-04-28T01:17:49.946409",
+    "original_title": "Ukraine to field 25,000 ground robots in push to replace soldiers for frontline logistics",
+    "link": "https://www.reddit.com/r/worldnews/comments/1sxkx8j/ukraine_to_field_25000_ground_robots_in_push_to/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 6,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "Ukraine's plan to deploy 25,000 ground robots for frontline logistics could potentially replace soldiers, reducing the risk of personnel casualties. However, this could also introduce new vulnerabilities, such as the potential for robotic systems to be hacked or compromised, which could impact the security of cargo and personnel.",
+      "immediate_forecast_24h": "In the short term, the deployment of ground robots may lead to increased efficiency in logistics, but it may also lead to a higher risk of cyber attacks or technical failures, which could disrupt operations.",
+      "strategic_outlook": "In the long term, the use of ground robots in conflict zones could become a new norm, leading to a shift in the way military logistics are conducted. This could lead to a reduction in personnel risks, but also introduce new risks related to the security and reliability of robotic systems.",
+      "operational_impact": "The deployment of ground robots could lead to increased efficiency in logistics, but it may also require significant investments in cybersecurity and technical support to ensure the secure and reliable operation of these systems.",
+      "proximity_alert": null
+    }
   }
 ]
