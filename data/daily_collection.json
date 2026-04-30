@@ -606,5 +606,43 @@
       "operational_impact": "The immediate operational impact is likely to be minimal on transport and logistics, but there could be increased security checks and delays for events or gatherings that are deemed high-risk. The aviation sector might see increased security vigilance, especially for flights carrying high-profile passengers.",
       "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
     }
+  },
+  {
+    "id": "326ed6c0aba71cdff030564ac690089a",
+    "timestamp": "2026-04-30T17:51:38.821999",
+    "original_title": "Briefing the Security Council, USG DiCarlo warns of DPRK’s advancing missile and nuclear capabilities - DPPA",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONTc0Wlh1UWZfZzBtOUUtSnAzZnRTQmtNVE1sOWVMZWw2QktFbll2N09vZFVuUi1uUUxQRDVPVFRqVG5yVkdzVjI0TGg1QWVwMmJwWWd2Zm1Hb3l6M0hNLXpfUXhFbm1jVlZJeFQzQTMtaHA2SHJQdHR1RTZWQ1FyWmpOMFl4a2g2Mkg1ZUF6WUpqM1paeEdIeDNQVFZQNDdEbTNuMUpYcjdGY0pQbDJVZUh1Y2s?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 8,
+      "location": "Pyongyang, North Korea",
+      "latitude": 39.0392,
+      "longitude": 125.7625,
+      "detailed_analysis": "The advancing missile and nuclear capabilities of the Democratic People's Republic of Korea (DPRK) pose a significant threat to regional and global security, potentially impacting aviation and cargo operations in the area.",
+      "immediate_forecast_24h": "Increased tensions and heightened alertness among regional actors, with potential for miscalculations or accidental escalation.",
+      "strategic_outlook": "Long-term instability and uncertainty in the region, with potential for further escalation of military capabilities and posturing.",
+      "operational_impact": "Potential disruptions to air traffic and cargo operations in the region, with increased security measures and potential for airspace restrictions.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "aadd539d7ee1271886ff02d03b87811e",
+    "timestamp": "2026-04-30T17:51:45.706112",
+    "original_title": "'Damage control mode': Reputations of Mali junta & Russian mercenaries 'hang in balance'",
+    "link": "https://www.france24.com/en/damage-control-mode-reputations-of-mali-junta-russian-mercenaries-hang-in-balance",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 7,
+      "location": "Mali",
+      "latitude": 17.0,
+      "longitude": -4.0,
+      "detailed_analysis": "The situation in Mali is volatile due to the junta's struggle to project control and the alliance between Tuareg separatists and jihadist forces, posing a threat to assets, cargo, aviation, and personnel in the region.",
+      "immediate_forecast_24h": "Increased tensions and potential for violent clashes between the junta, separatist, and jihadist forces, which could impact transport and logistics operations.",
+      "strategic_outlook": "Long-term instability in the region could lead to a rise in terrorist activities, further compromising the security of assets, cargo, aviation, and personnel, and potentially disrupting supply chains.",
+      "operational_impact": "Transport and logistics operations in the region may be affected due to the increased risk of attacks, kidnappings, and other security threats, requiring enhanced security measures and contingency planning.",
+      "proximity_alert": null
+    }
   }
 ]
