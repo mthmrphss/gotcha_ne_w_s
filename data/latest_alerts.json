@@ -1,21 +1,59 @@
 [
   {
-    "id": "087c3a4e41e4b0d870273ecf62f4c7e4",
-    "timestamp": "2026-04-30T07:10:29.211772",
-    "original_title": "US Military Commander to Brief Trump on New Military Options Against Iran",
-    "link": "https://www.reddit.com/r/worldnews/comments/1szon15/us_military_commander_to_brief_trump_on_new/",
-    "source_name": "Reddit r/WorldNews",
+    "id": "fe49bc1d46b9bb1e05a5f4ecd63f2634",
+    "timestamp": "2026-04-30T09:35:11.745653",
+    "original_title": "Israel Intercepts Aid Flotilla Headed to Gaza",
+    "link": "https://www.nytimes.com/2026/04/30/world/middleeast/israel-gaza-aid-flotilla.html",
+    "source_name": "NewYork Times",
     "ai_analysis": {
-      "category": "Conflict",
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 6,
+      "location": "International waters near Greece",
+      "latitude": 37.5,
+      "longitude": 24.0,
+      "detailed_analysis": "The Israeli military intercepting an aid flotilla headed to Gaza in international waters near Greece poses a significant risk to maritime assets and personnel. The incident has the potential to escalate into a larger conflict, affecting regional stability and potentially impacting global shipping lanes.",
+      "immediate_forecast_24h": "Tensions are expected to remain high in the region, with a possibility of further confrontations between Israeli forces and activist groups. The situation may attract international attention, potentially leading to diplomatic interventions.",
+      "strategic_outlook": "The long-term implications of this incident could lead to increased militarization of the region, affecting maritime trade and the safety of personnel. It may also lead to a rise in activism and protests, potentially disrupting logistics and supply chains.",
+      "operational_impact": "Shipping companies and logistics providers should exercise caution when navigating the region, as the situation may lead to disruptions in maritime traffic and potential risks to cargo and personnel.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "a2b1d0b272b3fea5fb2096d798734fe2",
+    "timestamp": "2026-04-30T09:35:13.663804",
+    "original_title": "Police in Australia Were Warned of Terror Risk Before Bondi Attack, Report Says",
+    "link": "https://www.nytimes.com/2026/04/30/world/asia/australia-bondi-beach-attack-antisemitism.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Terrorism/Crime/Civil Unrest",
+      "risk_score": 7,
+      "location": "Sydney, Australia",
+      "latitude": -33.8688,
+      "longitude": 151.2093,
+      "detailed_analysis": "A Jewish security group warned police of a potential terror attack on the community due to heightened antisemitism, which was followed by a mass shooting in Sydney, indicating a significant threat to personnel and potentially aviation and cargo if the attack had targeted related infrastructure.",
+      "immediate_forecast_24h": "Increased security measures are expected in the area, particularly around Jewish community centers and potential targets for terrorism. There is a possibility of copycat attacks or retaliatory actions.",
+      "strategic_outlook": "The long-term view suggests an ongoing threat from terrorism and antisemitism, requiring sustained vigilance and cooperation between law enforcement and community groups to prevent future attacks.",
+      "operational_impact": "The attack and subsequent warnings may lead to increased security checks and protocols at airports, seaports, and other critical infrastructure, potentially causing minor disruptions to cargo and passenger operations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "2eb0d315e685d38d3968e8595d3fd72a",
+    "timestamp": "2026-04-30T09:35:17.523695",
+    "original_title": "Funeral services for Mali's slain defence minister to be held on Thursday",
+    "link": "http://www.africanews.com/2026/04/30/funeral-services-for-malis-slain-defence-minister-to-be-held-on-thursday/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
       "risk_score": 10,
-      "location": "Washington D.C., USA",
-      "latitude": 38.8951,
-      "longitude": -77.0364,
-      "detailed_analysis": "A US military commander is set to brief President Trump on new military options against Iran, indicating a potential escalation of tensions between the two nations. This could lead to increased instability in the region, affecting aviation and cargo operations.",
-      "immediate_forecast_24h": "Heightened tensions between the US and Iran may lead to increased military activity, potentially disrupting air traffic and cargo shipments in the region.",
-      "strategic_outlook": "A prolonged conflict or increased tensions between the US and Iran could have long-term implications for global aviation and cargo operations, potentially leading to increased security measures and disruptions to supply chains.",
-      "operational_impact": "Potential disruptions to air traffic and cargo shipments in the region, increased security measures for aviation and cargo operations, and possible impacts on global supply chains.",
-      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
+      "location": "Bamako, Mali",
+      "latitude": 12.65,
+      "longitude": -8.0,
+      "detailed_analysis": "The assassination of Mali's defence minister indicates a high level of instability and potential for further violence, which could impact aviation and personnel safety in the region.",
+      "immediate_forecast_24h": "Increased security measures are expected during the funeral services, with potential for protests or further attacks.",
+      "strategic_outlook": "The ongoing instability in Mali could lead to a prolonged period of heightened security risks, affecting transport and logistics operations in the region.",
+      "operational_impact": "Aviation and personnel operations in Mali may be impacted by the increased security risks, with potential for flight disruptions or restrictions on movement.",
+      "proximity_alert": "YAKIN TEHDİT: Bamako–Sénou International Airport (13 km)"
     }
   }
 ]
