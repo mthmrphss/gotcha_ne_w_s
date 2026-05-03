@@ -36,5 +36,43 @@
       "operational_impact": "The incident may cause disruptions to local traffic and businesses, particularly in the vicinity of the health club. However, it is unlikely to have a significant impact on regional or national transportation systems, unless further incidents occur.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "1cc59fc9892d3f8bf166f270d114fd1d",
+    "timestamp": "2026-05-03T00:09:27.130536",
+    "original_title": "Car With Explosive Devices Crashes Into Athletic Club in Portland, Ore. - The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTE11Mzl4NkcxQlFaMXNsQlhWVk1pSEstTy11TGtJZzNZR2ctYlJwWGpuUVNLcGN1ZmdTQ2Rsb0VOd1FuS2tJRVZKTjg2RVhzWGkxdHNnb2x3ZndpRjVrRHJ4RXRyUEpNcDVwOVZlaEdYNF9NZXZ1SzVTQVl6R0RYcg?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism/Crime/Civil Unrest",
+      "risk_score": 8,
+      "location": "Portland, USA",
+      "latitude": 45.5236,
+      "longitude": -122.675,
+      "detailed_analysis": "A car with explosive devices crashed into an athletic club, indicating a potential terrorist attack or a serious crime incident. The presence of explosive devices suggests a high level of intent to cause harm.",
+      "immediate_forecast_24h": "Increased security measures are expected in the area, with potential disruptions to local traffic and businesses. Law enforcement will likely investigate the incident and assess the threat level.",
+      "strategic_outlook": "This incident may indicate a rising threat level for terrorist or criminal activities in the region, potentially affecting local assets, cargo, and personnel. Enhanced security protocols may be necessary to mitigate future risks.",
+      "operational_impact": "The incident may cause short-term disruptions to local transport and logistics, particularly if security measures are heightened. However, the overall impact on regional aviation and cargo operations is expected to be minimal, unless further incidents occur.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "a3de816b7df8816c674ec2f23ad15007",
+    "timestamp": "2026-05-03T00:13:06.225757",
+    "original_title": "US-Israel talks to discuss shifting military aid funding to joint defense partnership",
+    "link": "https://www.reddit.com/r/worldnews/comments/1t24sko/usisrael_talks_to_discuss_shifting_military_aid/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "US, Israel",
+      "latitude": 32.0,
+      "longitude": 34.8,
+      "detailed_analysis": "The US and Israel are discussing a potential shift in military aid funding to a joint defense partnership, which may impact regional security dynamics but does not directly pose an immediate threat to assets, cargo, aviation, or personnel.",
+      "immediate_forecast_24h": "No significant changes or escalations are expected in the next 24 hours as these discussions are part of ongoing diplomatic efforts.",
+      "strategic_outlook": "Long-term, this partnership could enhance regional security but may also introduce complexities in terms of joint operations and resource allocation.",
+      "operational_impact": "The impact on transport and logistics is expected to be minimal unless the discussions lead to significant changes in military operations or security protocols in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Ben Gurion International Airport (9 km)"
+    }
   }
 ]
