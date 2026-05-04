@@ -55,5 +55,43 @@
       "operational_impact": "The incident may cause some disruptions to flights and airport operations, but it is not expected to have a significant long-term impact on transport or logistics.",
       "proximity_alert": "YAKIN TEHDİT: Newark International Airport (0 km)"
     }
+  },
+  {
+    "id": "1f5ae4d953589896008f8b89b0e15509",
+    "timestamp": "2026-05-04T05:02:13.256731",
+    "original_title": "Philippine mission's China-made drone won't fly in West Philippine Sea",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1t34ruo/philippine_missions_chinamade_drone_wont_fly_in/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 6,
+      "location": "West Philippine Sea, Philippines",
+      "latitude": 12.0,
+      "longitude": 117.0,
+      "detailed_analysis": "The Philippine mission's China-made drone won't fly in the West Philippine Sea, indicating potential tensions or restrictions in the area that could impact aviation and transport operations.",
+      "immediate_forecast_24h": "Increased surveillance and monitoring of the area by Philippine and Chinese authorities, potential for further restrictions on drone flights.",
+      "strategic_outlook": "Long-term implications for regional security and aviation regulations, potential for increased tensions between the Philippines and China.",
+      "operational_impact": "Potential disruptions to transport and logistics operations in the West Philippine Sea, increased security measures for aviation and maritime activities.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "0280b65671cbdd6862a5e6a42ff8af18",
+    "timestamp": "2026-05-04T05:02:19.123167",
+    "original_title": "Spanish PM Pedro Sánchez’s plane makes emergency landing in Turkey",
+    "link": "https://www.france24.com/en/europe/20260504-spanish-pm-pedro-s%C3%A1nchez-s-plane-makes-emergency-landing-in-turkey",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 6,
+      "location": "Ankara, Turkey",
+      "latitude": 39.9334,
+      "longitude": 32.8597,
+      "detailed_analysis": "The plane carrying Spanish Prime Minister Pedro Sánchez made an emergency landing in Turkey due to a technical issue, which could indicate a potential security vulnerability or mechanical failure.",
+      "immediate_forecast_24h": "The Spanish delegation is expected to continue on to Yerevan, and the situation is being monitored. However, the cause of the technical issue is unknown and could pose a risk to future flights.",
+      "strategic_outlook": "The incident highlights the importance of aircraft maintenance and the potential risks associated with technical failures. It may also lead to increased security measures for high-profile flights.",
+      "operational_impact": "The emergency landing may cause delays or disruptions to the Spanish delegation's schedule, but it is not expected to have a significant impact on overall aviation operations.",
+      "proximity_alert": null
+    }
   }
 ]
