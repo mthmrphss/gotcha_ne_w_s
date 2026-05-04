@@ -321,5 +321,81 @@
       "operational_impact": "The attack highlights the need for enhanced security measures and contingency planning for assets, cargo, and personnel in the region. Transport and logistics operators should be prepared for potential disruptions, and consider alternative routes or modes of transport to mitigate risk.",
       "proximity_alert": "YAKIN TEHDİT: Kharkiv International Airport (8 km)"
     }
+  },
+  {
+    "id": "305251677bc60d5ba7f896459e6cb0ea",
+    "timestamp": "2026-05-04T14:38:36.823550",
+    "original_title": "Glasgow Airport flight declares emergency on approach - The Herald",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTGl2LTBpLS1yOGxRWHh5TWRtNlJ3V0pOU0dyM0ZMc0tFYlY3STV1a29PUXBZck9YSUhkMlFiZXV5QWR5cTFxbDVIc2hOLXUyMXFqcXJ1VFc1ejd0RmhUbWI3UjdOMTQxV2Q4UWI4anhsU2czLTYtMHdXbkt5b0RjREtYSlNTeUNOR2JmcGdxWkZxZG9uTFBjQWFfcV8?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 8,
+      "location": "Glasgow, Scotland",
+      "latitude": 55.8719,
+      "longitude": -4.4339,
+      "detailed_analysis": "A flight at Glasgow Airport declared an emergency on approach, posing a potential threat to the safety of passengers, crew, and airport operations.",
+      "immediate_forecast_24h": "Investigations into the cause of the emergency declaration will likely be conducted, and airport operations may be affected in the short term.",
+      "strategic_outlook": "The incident may lead to increased security measures and emergency response protocols at Glasgow Airport, potentially impacting future flight operations and passenger experience.",
+      "operational_impact": "Potential delays or disruptions to flights, increased security screening, and enhanced emergency response measures may impact transport and logistics operations at Glasgow Airport.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "90943256eac2e520788883b731b3e265",
+    "timestamp": "2026-05-04T14:38:39.624137",
+    "original_title": "Volodymyr Zelenskyy warned that Ukrainian drones may target Russia’s May 9 Victory Day parade in Moscow",
+    "link": "https://www.reddit.com/r/worldnews/comments/1t3jfnm/volodymyr_zelenskyy_warned_that_ukrainian_drones/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 10,
+      "location": "Moscow, Russia",
+      "latitude": 55.7558,
+      "longitude": 37.6176,
+      "detailed_analysis": "Ukrainian drones may target Russia's May 9 Victory Day parade in Moscow, posing a significant threat to aviation security and public safety",
+      "immediate_forecast_24h": "Increased security measures are expected in Moscow, with potential disruptions to air traffic and logistics in the region",
+      "strategic_outlook": "The situation may escalate tensions between Ukraine and Russia, potentially leading to further conflicts and disruptions to regional transport and logistics",
+      "operational_impact": "Potential disruptions to air traffic, increased security checks, and possible restrictions on cargo and personnel movement in the region",
+      "proximity_alert": "YAKIN TEHDİT: Vnukovo International Airport (27 km)"
+    }
+  },
+  {
+    "id": "1a634c2d05e6c97a49e1274d80b654cf",
+    "timestamp": "2026-05-04T14:38:42.476341",
+    "original_title": "Nigerian, Beninese militias kill dozens of Fulani herders in border raid",
+    "link": "http://www.africanews.com/2026/05/04/nigerian-beninese-militias-kill-dozens-of-fulani-herders-in-border-raid/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 7,
+      "location": "Nigeria-Benin border",
+      "latitude": 9.5,
+      "longitude": 3.0,
+      "detailed_analysis": "Militia attack on Fulani herders near the Nigeria-Benin border poses a significant threat to personnel and potentially cargo in the region, as it may lead to further instability and violence.",
+      "immediate_forecast_24h": "Escalation of violence is possible in the short term, with potential for retaliatory attacks or further clashes between militias and herders.",
+      "strategic_outlook": "Long-term instability in the region could lead to increased security concerns for assets, cargo, and personnel, potentially disrupting logistics and transport operations.",
+      "operational_impact": "Transport and logistics operations in the region may be affected due to increased security risks, and companies should consider alternative routes or enhanced security measures to mitigate potential threats.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "19746aa82107d7b29e1b3e618a89778c",
+    "timestamp": "2026-05-04T14:38:44.785484",
+    "original_title": "🔴 Live: Seoul says 'explosion and fire' on S. Korean ship in Hormuz strait",
+    "link": "https://www.france24.com/en/middle-east/20260504-live-us-to-escort-ships-through-strait-of-hormuz-as-iran-warns-of-ceasefire-breach-trump",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Other",
+      "risk_score": 8,
+      "location": "Hormuz Strait",
+      "latitude": 26.6,
+      "longitude": 56.3,
+      "detailed_analysis": "An explosion and fire have occurred on a South Korean ship in the Hormuz strait, indicating a potential threat to maritime assets and cargo. The cause of the incident is currently unknown, but it may be related to regional tensions or other malicious activities.",
+      "immediate_forecast_24h": "The situation may escalate, with potential disruptions to shipping lanes and nearby ports. There is a risk of further incidents or attacks in the region.",
+      "strategic_outlook": "The long-term impact of this incident may depend on the cause and the response of regional actors. If the incident is related to regional tensions, it may lead to increased instability and security concerns for maritime trade.",
+      "operational_impact": "Shipping companies and cargo owners should exercise caution when navigating the Hormuz strait, and consider alternative routes or enhanced security measures to mitigate potential risks.",
+      "proximity_alert": null
+    }
   }
 ]
