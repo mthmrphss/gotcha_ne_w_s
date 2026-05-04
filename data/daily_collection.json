@@ -511,5 +511,62 @@
       "operational_impact": "The conflict may disrupt air transport operations, with potential for closures of airports or restrictions on flight routes. Cargo operations may also be impacted, with increased risk of theft, smuggling, or hijacking. Personnel security is a major concern, with potential for kidnappings or attacks on transport personnel.",
       "proximity_alert": "YAKIN TEHDİT: Bamako–Sénou International Airport (13 km)"
     }
+  },
+  {
+    "id": "bad1c3a6a6e0e17f7f99eb296e320377",
+    "timestamp": "2026-05-04T18:20:59.681977",
+    "original_title": "U.S. says Iran launched missiles and drones at American ships, no vessels hit - NBC News",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd1lRd244NmhHT2FjZVlOMTVmQ1lGVmYzQTQ0WDZYdWQwQ3o3VDVJZzBGRHlMUGkxSWRUNzNnMW5uN1BfbXZCd2JVU3o4S09rWFN2c3lYREFsSHFrWWZzX1FvYnhGMDJGb2Z4UTVYSzJFUkppeDBBYXd6NHlPTnBOUklvRkxjVGx2ZlRyWDU2cTR1dld4X0JvdG12ZzNubFg5RXZxLTEwdzJWT3gyRnFJcjhjbmMtQQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "Persian Gulf, Middle East",
+      "latitude": 26.0,
+      "longitude": 56.0,
+      "detailed_analysis": "Iran launched missiles and drones at American ships, but no vessels were hit. This incident poses a significant threat to aviation and maritime operations in the region.",
+      "immediate_forecast_24h": "Increased tensions between the US and Iran may lead to further military actions, potentially disrupting shipping lanes and air traffic in the region.",
+      "strategic_outlook": "The conflict may escalate, affecting global oil prices and trade routes, with potential long-term implications for regional stability and security.",
+      "operational_impact": "Shipping and aviation companies should exercise extreme caution when operating in the region, with possible rerouting of flights and ships to avoid potential conflict zones.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "2bc03b3e8f73ecf5744da20b790fbfdf",
+    "timestamp": "2026-05-04T18:21:02.381852",
+    "original_title": "Iran War Live Updates: Attacks in Gulf Threaten to Reignite Conflict",
+    "link": "https://www.nytimes.com/live/2026/05/04/world/iran-hormuz-ships-navy",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Gulf Region, Middle East",
+      "latitude": 26.0659,
+      "longitude": 50.5577,
+      "detailed_analysis": "The recent attacks in the Gulf have heightened tensions and threaten to reignite conflict in the region, posing a significant risk to assets, cargo, aviation, and personnel.",
+      "immediate_forecast_24h": "Increased military presence and heightened security measures are expected in the region, with potential for further escalation and disruptions to transport and logistics.",
+      "strategic_outlook": "The conflict has the potential to spread and involve multiple countries, leading to a prolonged period of instability and increased risk for assets and personnel in the region.",
+      "operational_impact": "Disruptions to shipping lanes, increased security checks, and potential airspace restrictions may impact cargo transport and aviation operations, leading to delays and increased costs.",
+      "proximity_alert": "YAKIN TEHDİT: Bahrain International Airport (23 km)"
+    }
+  },
+  {
+    "id": "e059e443dcfd266e4b75aa8a90ee26f2",
+    "timestamp": "2026-05-04T18:21:04.530682",
+    "original_title": "Jet2 LS190 Emergency: What Happened Before Glasgow Landing After 7700 Alert - Bez Kabli",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTDRqUEh2azhEeFk5RFZGVE15MzJuTGVac0F4bEZaU0FBRGN0TXVjNWR4U2RrQ2hXUUxCd3pGSnlfajJZYXZNYnFybTBHTUdfWm9OVzNKcFkxQ3Y1YjgzV3dZUHRVWXJqS0RaRi1PUmhpSXdSb2taQndjbnZURHMzNmxPeWZaMTg0ME5rTkRhelNRT1ZOVG5iQUV4LXNtczhvZmc?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 6,
+      "location": "Glasgow, Scotland",
+      "latitude": 55.8612,
+      "longitude": -4.2593,
+      "detailed_analysis": "Jet2 flight LS190 declared an emergency and landed in Glasgow after issuing a 7700 alert, indicating a potential threat to the safety of the aircraft, its passengers, and crew.",
+      "immediate_forecast_24h": "Investigations into the cause of the emergency are likely to be conducted, and the airline may face disruptions to its operations in the short term.",
+      "strategic_outlook": "The incident highlights the importance of emergency procedures and protocols in the aviation industry, and airlines may need to review their safety measures to prevent similar incidents in the future.",
+      "operational_impact": "The emergency landing may cause delays or cancellations of flights, affecting passengers and cargo, and the airline's reputation may be impacted if the incident is not handled properly.",
+      "proximity_alert": null
+    }
   }
 ]
