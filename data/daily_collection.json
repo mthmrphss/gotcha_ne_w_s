@@ -283,5 +283,43 @@
       "operational_impact": "The incident may cause disruptions to flights and airport operations, potentially affecting cargo and passenger transport. However, the impact is expected to be limited and short-term.",
       "proximity_alert": "YAKIN TEHDİT: Newark International Airport (0 km)"
     }
+  },
+  {
+    "id": "d74a43941b99cfc041e24a9a85cf21d2",
+    "timestamp": "2026-05-04T12:22:24.456264",
+    "original_title": "Iran Threatens Ships Over Trump Plan to Break Iran’s Blockade",
+    "link": "https://www.nytimes.com/2026/05/04/world/middleeast/iran-trump-ships-hormuz-strait.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Strait of Hormuz, Iran",
+      "latitude": 26.0,
+      "longitude": 56.0,
+      "detailed_analysis": "A senior Iranian military official has threatened ships attempting to cross the Strait of Hormuz without permission, posing a significant risk to maritime assets and cargo in the region.",
+      "immediate_forecast_24h": "Increased tensions and potential for confrontation between Iranian forces and vessels attempting to transit the Strait of Hormuz, potentially disrupting shipping lanes and global trade.",
+      "strategic_outlook": "Long-term escalation of tensions in the region could lead to further restrictions on maritime trade, increased insurance costs, and potential for military conflict, affecting global energy markets and economic stability.",
+      "operational_impact": "Shipping companies and maritime operators should exercise extreme caution when navigating the Strait of Hormuz, consider alternative routes, and ensure compliance with all relevant regulations and permissions to minimize risk of interception or attack.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "3db3ad4d74c3342e543fd0ef8bd27caa",
+    "timestamp": "2026-05-04T12:22:28.028759",
+    "original_title": "Russian missile attack kills five in Ukraine's Kharkiv region, officials say",
+    "link": "https://www.reddit.com/r/worldnews/comments/1t3g1vv/russian_missile_attack_kills_five_in_ukraines/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Kharkiv, Ukraine",
+      "latitude": 49.9935,
+      "longitude": 36.2304,
+      "detailed_analysis": "A Russian missile attack in Ukraine's Kharkiv region has resulted in the deaths of five people, indicating an escalation of conflict in the area. This could lead to increased instability and potential threats to assets, cargo, aviation, and personnel in the region.",
+      "immediate_forecast_24h": "The situation is likely to remain volatile, with potential for further attacks or retaliatory actions. There may be disruptions to transport and logistics in the area, and an increased risk of collateral damage to assets and infrastructure.",
+      "strategic_outlook": "The ongoing conflict in Ukraine poses a long-term risk to regional stability, with potential for further escalation and expansion of the conflict zone. This could have significant implications for global supply chains, trade, and economic stability.",
+      "operational_impact": "The attack highlights the need for enhanced security measures and contingency planning for assets, cargo, and personnel in the region. Transport and logistics operators should be prepared for potential disruptions, and consider alternative routes or modes of transport to mitigate risk.",
+      "proximity_alert": "YAKIN TEHDİT: Kharkiv International Airport (8 km)"
+    }
   }
 ]

@@ -1,97 +1,40 @@
 [
   {
-    "id": "fcc14acfcd4521d08fbd876b158c69e1",
-    "timestamp": "2026-05-04T10:32:41.478616",
-    "original_title": "U.S. launches mission to guide ships through the Strait of Hormuz; Iran threatens attacks - NBC News",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd1lRd244NmhHT2FjZVlOMTVmQ1lGVmYzQTQ0WDZYdWQwQ3o3VDVJZzBGRHlMUGkxSWRUNzNnMW5uN1BfbXZCd2JVU3o4S09rWFN2c3lYREFsSHFrWWZzX1FvYnhGMDJGb2Z4UTVYSzJFUkppeDBBYXd6NHlPTnBOUklvRkxjVGx2ZlRyWDU2cTR1dld4X0JvdG12ZzNubFg5RXZxLTEwdzJWT3gyRnFJcjhjbmMtQQ?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Conflict/Terrorism/Aviation",
-      "risk_score": 8,
-      "location": "Strait of Hormuz, Middle East",
-      "latitude": 26.0,
-      "longitude": 56.0,
-      "detailed_analysis": "The U.S. has launched a mission to guide ships through the Strait of Hormuz due to increased tensions with Iran, which has threatened attacks on ships in the region. This poses a significant threat to assets, cargo, aviation, and personnel in the area.",
-      "immediate_forecast_24h": "Increased military presence in the region, potential for miscalculation or accidental conflict, and heightened risk of attacks on ships and aviation assets.",
-      "strategic_outlook": "Long-term escalation of tensions between the U.S. and Iran, potentially leading to a wider conflict in the region, and increased risk of attacks on global shipping and aviation.",
-      "operational_impact": "Potential disruptions to shipping and aviation operations in the region, increased security measures and costs for transport and logistics companies, and potential for diversion of routes to avoid the area.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "3c0dc5342f2643ee24590e325c67e5d0",
-    "timestamp": "2026-05-04T10:32:44.642643",
-    "original_title": "Drone Hits a Moscow High-Rise Days Before a Major Military Parade - The New York Times",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9SckJfVjZqU3pEN2JFb2lxdzFucGJOYlpGbnN5VEJBMVpWd1RCM1BDWUdxYS1tS0hzOERJZzNzcXJLZUFtZU9GWGROTDJ1dEJfdmw1UHRjUVd0ZWVqSjFtT3N2RGxRWkVZZnB1Y0ZlQkZHMFJqWnhKcC1ORkQ?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Aviation/Terrorism",
-      "risk_score": 10,
-      "location": "Moscow, Russia",
-      "latitude": 55.7558,
-      "longitude": 37.6176,
-      "detailed_analysis": "A drone has hit a high-rise building in Moscow just days before a major military parade, raising concerns about potential security threats and the ability of unauthorized drones to penetrate restricted airspace.",
-      "immediate_forecast_24h": "Increased security measures are expected around the parade area, with possible restrictions on drone usage and enhanced surveillance. There is a heightened risk of copycat incidents or other security breaches.",
-      "strategic_outlook": "This incident highlights the ongoing vulnerability of urban areas to drone-based threats and the need for enhanced counter-drone technologies and strategies to protect critical infrastructure and public events.",
-      "operational_impact": "The incident may lead to increased security protocols for aviation and public events in Moscow, potentially causing disruptions to logistics and transport operations in the area.",
-      "proximity_alert": "YAKIN TEHDİT: Vnukovo International Airport (27 km)"
-    }
-  },
-  {
-    "id": "655cf1e0ad9b9ffaf85d637fec392dd7",
-    "timestamp": "2026-05-04T10:32:48.493560",
-    "original_title": "With World Distracted by Iran War, Israeli Settlers Intensify Attacks in West Bank",
-    "link": "https://www.nytimes.com/2026/05/04/world/middleeast/israel-palestinians-west-bank-settler-violence-iran-war.html",
+    "id": "d74a43941b99cfc041e24a9a85cf21d2",
+    "timestamp": "2026-05-04T12:22:24.456264",
+    "original_title": "Iran Threatens Ships Over Trump Plan to Break Iran’s Blockade",
+    "link": "https://www.nytimes.com/2026/05/04/world/middleeast/iran-trump-ships-hormuz-strait.html",
     "source_name": "NewYork Times",
     "ai_analysis": {
-      "category": "Conflict/Civil Unrest",
-      "risk_score": 7,
-      "location": "West Bank, Israel",
-      "latitude": 32.0,
-      "longitude": 35.2,
-      "detailed_analysis": "The escalation of violence by Israeli settlers in the West Bank poses a significant threat to personnel and assets in the region. The failure of the Israeli government to intervene may lead to further instability and increased risk of attacks on civilians and infrastructure.",
-      "immediate_forecast_24h": "Increased tensions and clashes between Israeli settlers and Palestinians are expected, potentially leading to injuries and damage to property. The situation may deteriorate further if the government does not take decisive action to address the violence.",
-      "strategic_outlook": "The long-term outlook for the region remains uncertain, with the potential for ongoing conflict and instability. The international community may need to intervene to broker a peaceful resolution and prevent further escalation of violence.",
-      "operational_impact": "The conflict may impact transport and logistics in the region, particularly for cargo and personnel traveling to or from the West Bank. Aviation operations may also be affected, with potential disruptions to flights and air traffic control.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "561e78a8a9a25e65e88df23472c3ad47",
-    "timestamp": "2026-05-04T10:32:52.930283",
-    "original_title": "Cheap Missiles, Not Drones, Will Win the Next Air War",
-    "link": "https://warontherocks.com/cogs-of-war/cheap-missiles-not-drones-will-win-the-next-air-war/",
-    "source_name": "War on the Rocks",
-    "ai_analysis": {
-      "category": "Conflict/Aviation",
+      "category": "Conflict",
       "risk_score": 8,
-      "location": "Ukraine",
-      "latitude": 49.0,
-      "longitude": 32.0,
-      "detailed_analysis": "The use of cheap, missile-like systems by Russia in Ukraine has complicated Ukrainian air defense, indicating a potential shift in the nature of air warfare. This development could have significant implications for aviation and air defense systems.",
-      "immediate_forecast_24h": "Increased tensions and potential for escalation in the Ukraine conflict, with a focus on air defense and countermeasures against turbojet-equipped drones.",
-      "strategic_outlook": "The proliferation of cheap, advanced drone technology could lead to a significant shift in the balance of power in future conflicts, with potential implications for global security and aviation.",
-      "operational_impact": "Potential disruption to air transport and logistics in conflict zones, with a need for enhanced air defense systems and countermeasures against advanced drone technology.",
+      "location": "Strait of Hormuz, Iran",
+      "latitude": 26.0,
+      "longitude": 56.0,
+      "detailed_analysis": "A senior Iranian military official has threatened ships attempting to cross the Strait of Hormuz without permission, posing a significant risk to maritime assets and cargo in the region.",
+      "immediate_forecast_24h": "Increased tensions and potential for confrontation between Iranian forces and vessels attempting to transit the Strait of Hormuz, potentially disrupting shipping lanes and global trade.",
+      "strategic_outlook": "Long-term escalation of tensions in the region could lead to further restrictions on maritime trade, increased insurance costs, and potential for military conflict, affecting global energy markets and economic stability.",
+      "operational_impact": "Shipping companies and maritime operators should exercise extreme caution when navigating the Strait of Hormuz, consider alternative routes, and ensure compliance with all relevant regulations and permissions to minimize risk of interception or attack.",
       "proximity_alert": null
     }
   },
   {
-    "id": "6a4d12bf6d8ee2bba8d74b75420cb210",
-    "timestamp": "2026-05-04T10:32:59.487145",
-    "original_title": "United Airlines flight strikes truck and light pole before landing at Newark Airport",
-    "link": "https://www.independent.co.uk/travel/news-and-advice/united-airlines-plane-crash-newark-airport-b2969982.html",
-    "source_name": "Independent Travel",
+    "id": "3db3ad4d74c3342e543fd0ef8bd27caa",
+    "timestamp": "2026-05-04T12:22:28.028759",
+    "original_title": "Russian missile attack kills five in Ukraine's Kharkiv region, officials say",
+    "link": "https://www.reddit.com/r/worldnews/comments/1t3g1vv/russian_missile_attack_kills_five_in_ukraines/",
+    "source_name": "Reddit r/WorldNews",
     "ai_analysis": {
-      "category": "Aviation",
+      "category": "Conflict",
       "risk_score": 10,
-      "location": "Newark, USA",
-      "latitude": 40.6895,
-      "longitude": -74.1745,
-      "detailed_analysis": "A United Airlines flight struck a truck and a light pole before landing at Newark Airport, prompting a federal investigation. The incident suggests a potential safety risk, but there is no indication of malicious intent or terrorism.",
-      "immediate_forecast_24h": "The airport is likely to experience delays and increased security measures in the short term. An investigation will be conducted to determine the cause of the incident.",
-      "strategic_outlook": "The incident highlights the importance of airport safety and security protocols. Airlines and airports may review and enhance their procedures to prevent similar incidents in the future.",
-      "operational_impact": "The incident may cause disruptions to flights and airport operations, potentially affecting cargo and passenger transport. However, the impact is expected to be limited and short-term.",
-      "proximity_alert": "YAKIN TEHDİT: Newark International Airport (0 km)"
+      "location": "Kharkiv, Ukraine",
+      "latitude": 49.9935,
+      "longitude": 36.2304,
+      "detailed_analysis": "A Russian missile attack in Ukraine's Kharkiv region has resulted in the deaths of five people, indicating an escalation of conflict in the area. This could lead to increased instability and potential threats to assets, cargo, aviation, and personnel in the region.",
+      "immediate_forecast_24h": "The situation is likely to remain volatile, with potential for further attacks or retaliatory actions. There may be disruptions to transport and logistics in the area, and an increased risk of collateral damage to assets and infrastructure.",
+      "strategic_outlook": "The ongoing conflict in Ukraine poses a long-term risk to regional stability, with potential for further escalation and expansion of the conflict zone. This could have significant implications for global supply chains, trade, and economic stability.",
+      "operational_impact": "The attack highlights the need for enhanced security measures and contingency planning for assets, cargo, and personnel in the region. Transport and logistics operators should be prepared for potential disruptions, and consider alternative routes or modes of transport to mitigate risk.",
+      "proximity_alert": "YAKIN TEHDİT: Kharkiv International Airport (8 km)"
     }
   }
 ]
