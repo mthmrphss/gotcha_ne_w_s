@@ -720,5 +720,43 @@
       "operational_impact": "The conflict may impact transport and logistics operations, including aviation, with potential disruptions to flights, cargo shipments, and personnel movements. Companies operating in the region should be prepared for potential disruptions and have contingency plans in place to mitigate the risks.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "e7b17447f6061378d50be025616ae001",
+    "timestamp": "2026-05-05T18:54:17.402208",
+    "original_title": "Iran War Live Updates: U.S. and Iran Both Claim Control Over Strait of Hormuz",
+    "link": "https://www.nytimes.com/live/2026/05/05/world/iran-war-trump-hormuz",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "Strait of Hormuz, Middle East",
+      "latitude": 26.0,
+      "longitude": 56.0,
+      "detailed_analysis": "The current situation in the Strait of Hormuz poses a significant threat to assets, cargo, aviation, and personnel due to the conflict between the U.S. and Iran. The engagement of air defense systems against missiles and drones from Iran indicates a high level of tension and potential for escalation.",
+      "immediate_forecast_24h": "In the next 24 hours, there is a high likelihood of continued military posturing and potential clashes between the U.S. and Iran, which could lead to disruptions in ship traffic and aviation in the region.",
+      "strategic_outlook": "In the long term, the conflict in the Strait of Hormuz could have significant implications for global trade and energy markets, potentially leading to increased costs and risks for assets, cargo, and personnel in the region.",
+      "operational_impact": "The current situation is likely to cause significant disruptions to transport and logistics in the region, with potential delays or cancellations of flights and ship traffic, and increased security measures for assets and personnel.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "b74a53b79985c1146df19859e6538160",
+    "timestamp": "2026-05-05T18:54:19.432287",
+    "original_title": "United Airlines crew 'declare mid-air emergency' as plane diverts to Heathrow - The Mirror",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPX1VyRXQ1NEttaVVoWl9IMWR2TlliNXptWDJ1akVQcVpOTG93X0RwQURDbDdMTGxmTzRKUm1ta2pYVmZlRkMzRzNuTklRRzNnME9oc2tnVlgzVXZROHpEVjc3SThZWFZ2SEgzV0xWSzZUaVRZaVNNekp3djVVdldiUGRRNGZZT0N3VTdJWkd0d9IBlAFBVV95cUxNT0ZCRjQ4YWZTbWxJVWZfV09HOHRkaVc1N2JVZjZDLWhCZzFsNjk4eFBzYVlQNG81ZWN3bmZvaFRfX1FJQ0JwMUQ4bzFHSHFyWkhpZDVhaUZGaGdqVWM1TkZhRVFsNzR5WW8yLVBtNGZuX3BqTXVCd3pZcWVTbFdOd2pVZDNlV0NZWkVZaTJuU3RmMFRZ?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Heathrow, United Kingdom",
+      "latitude": 51.47,
+      "longitude": -0.4614,
+      "detailed_analysis": "A United Airlines flight declared a mid-air emergency and diverted to Heathrow, indicating a potential threat to aviation safety and security.",
+      "immediate_forecast_24h": "Investigations will likely be conducted to determine the cause of the emergency, and potential disruptions to flights may occur.",
+      "strategic_outlook": "The incident highlights the importance of robust emergency response protocols in the aviation industry and the need for ongoing vigilance to ensure passenger safety.",
+      "operational_impact": "The diversion may cause delays or cancellations of flights, potentially affecting cargo and passenger operations at Heathrow Airport.",
+      "proximity_alert": "YAKIN TEHDİT: Heathrow Airport (0 km)"
+    }
   }
 ]
