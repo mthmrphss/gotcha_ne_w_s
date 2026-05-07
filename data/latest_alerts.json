@@ -1,78 +1,116 @@
 [
   {
-    "id": "50e3944c67a566d615b058b0bf2818db",
-    "timestamp": "2026-05-07T05:00:37.027875",
-    "original_title": "Family mourns security guard killed in Deep Ellum shooting while working extra shift - CBS News",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOT3FRN09paXVaV2gzek54OWxEQlNyaThZa2t5Y1k1RmFPbTUxRTNDNmc2M25PYlVrTXlFSVRWbjNpQXViTm5fZ3RXd1FZTkRkMC1IY3JxMjA4eVExWHhlYjNqNkFqZUQxTHZvTlNZTHQ1eUQyel8zVTkyZ1NFWDhzd3VsYXctUk12bGcwdC1ZUzZsU1cxWUlwNldsNGY?oc=5",
-    "source_name": "Google News (Breaking)",
+    "id": "37241992ee196dcc9f2a12be95fb7dff",
+    "timestamp": "2026-05-07T08:03:31.774153",
+    "original_title": "An Air France Boeing 777 made an emergency landing in Munich early this morning following engine issue - airlive",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRzhzQlp3bzVleTRSNWRmeUtDN2F5WXU1SWJiOUNjOTZFY1lsTjlRUUVtVS1mR3lpMjh1cmw3cGhpZjRhUWNrLXVxeWw1Nko5cE1jSlhCWFltcmYtOFhUbXQ5NjRDSnBpZXUwOWgwX05PUkhQTTFqaFFuNDVMSnM0RnNyaFlWbm1OTkJmalc5VGdpWGJ3SmNBcDRMbGRHX19UaEFuc2JlMTE2T3VvVlpuaC1NVmxFZzU2eGFZNklkV0I0OTBmYVhwcHBGSVdiS1hqTFUwMDZkNWdNN0Zy?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
     "ai_analysis": {
-      "category": "Crime",
+      "category": "Aviation",
       "risk_score": 10,
-      "location": "Deep Ellum, USA",
-      "latitude": 32.7833,
-      "longitude": -96.7833,
-      "detailed_analysis": "A security guard was killed in a shooting while working an extra shift in Deep Ellum, indicating a potential threat to personnel in the area.",
-      "immediate_forecast_24h": "Increased security measures are likely to be implemented in the area, and there may be a heightened sense of alertness among security personnel and law enforcement.",
-      "strategic_outlook": "The incident highlights the need for enhanced security protocols and measures to protect personnel working in high-risk areas, particularly at night or in areas with high crime rates.",
-      "operational_impact": "The incident may impact the operational security of assets and personnel in the area, and logistics operations may need to be adjusted to ensure the safety of employees and cargo.",
-      "proximity_alert": "YAKIN TEHDİT: Dallas Fort Worth (4 km)"
+      "location": "Munich, Germany",
+      "latitude": 48.1351,
+      "longitude": 11.582,
+      "detailed_analysis": "An Air France Boeing 777 made an emergency landing in Munich due to an engine issue, posing a potential risk to aviation safety and operations.",
+      "immediate_forecast_24h": "The incident may cause delays or disruptions to Air France flights and potentially impact air traffic in the region.",
+      "strategic_outlook": "The incident highlights the importance of regular maintenance and safety checks to prevent engine issues and ensure the safety of passengers and crew.",
+      "operational_impact": "The emergency landing may affect Air France's operations and scheduling, potentially leading to cancellations or rescheduling of flights.",
+      "proximity_alert": "YAKIN TEHDİT: Munich Airport (0 km)"
     }
   },
   {
-    "id": "5773b4d1d83d391f13e984792ebdd734",
-    "timestamp": "2026-05-07T05:00:43.009781",
-    "original_title": "Middle East war live: Trump says Iran war will be 'over quickly'",
-    "link": "https://www.france24.com/en/middle-east/20260507-middle-east-war-live-source-close-to-hezbollah-says-top-commander-killed-in-israeli-strike",
+    "id": "b889b0d6312d2698cfde3683311da6c9",
+    "timestamp": "2026-05-07T08:03:34.652293",
+    "original_title": "The Pentagon Needs a Playbook for Munitions Surge Production",
+    "link": "https://warontherocks.com/cogs-of-war/the-pentagon-needs-a-playbook-for-munitions-surge-production/",
+    "source_name": "War on the Rocks",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 6,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "The Russo-Ukrainian War has highlighted the challenge of quickly replenishing U.S. munitions, with production timelines taking months to years. This poses a risk to the U.S. military's ability to respond to future conflicts.",
+      "immediate_forecast_24h": "No immediate changes expected in the next 24 hours, but the U.S. military may accelerate efforts to develop a playbook for surge production of munitions.",
+      "strategic_outlook": "In the long term, the U.S. military may develop new strategies for rapid munitions production, potentially reducing reliance on exquisite munitions and improving response times to future conflicts.",
+      "operational_impact": "The current production timelines may impact the U.S. military's ability to respond to conflicts, potentially affecting transport and logistics of munitions and personnel.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "452fc91e34eb38b36e1fa606644a3a03",
+    "timestamp": "2026-05-07T08:03:38.074008",
+    "original_title": "Israeli airstrike kills 4 and injures 33 in southern Lebanon despite fragile ceasefire",
+    "link": "http://www.africanews.com/2026/05/07/israeli-airstrike-kills-4-and-injures-33-in-southern-lebanon-despite-fragile-ceasefire/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Saksakieh, Lebanon",
+      "latitude": 33.3333,
+      "longitude": 35.3667,
+      "detailed_analysis": "An Israeli airstrike hit a house in Saksakieh, southern Lebanon, killing 4 and injuring 33, despite a fragile ceasefire. This incident has the potential to escalate the conflict and impact aviation and logistics in the region.",
+      "immediate_forecast_24h": "Renewed escalation of violence is possible, with potential for further airstrikes or retaliatory attacks, affecting aviation and transport operations in the region.",
+      "strategic_outlook": "The long-term impact of this incident could lead to increased tensions between Israel and Lebanon, potentially disrupting air travel and logistics in the region, and affecting the safety of personnel and cargo.",
+      "operational_impact": "The airstrike may cause disruptions to air traffic and logistics operations in southern Lebanon, with potential delays or cancellations of flights, and increased security measures for cargo and personnel.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "5c6f439769767ecdcdede6cdbc69dff2",
+    "timestamp": "2026-05-07T08:03:39.834986",
+    "original_title": "US war on Iran: 'A game of high risk, high reward' for both Trump and the Islamic Republic",
+    "link": "https://www.france24.com/en/tv-shows/spotlight/20260507-us-war-on-iran-a-game-of-high-risk-high-reward-for-both-trump-and-the-islamic-republic",
     "source_name": "France 24 ME",
     "ai_analysis": {
       "category": "Conflict",
-      "risk_score": 8,
-      "location": "Gulf of Oman, Middle East",
-      "latitude": 25.0,
-      "longitude": 58.0,
-      "detailed_analysis": "US military engagement with Iranian oil tanker in the Gulf of Oman, potential for escalation in the region, and impact on maritime trade and logistics",
-      "immediate_forecast_24h": "Increased tensions between US and Iran, potential for further military action, and disruption to shipping lanes",
-      "strategic_outlook": "Prolonged conflict could lead to significant disruptions to global oil supplies, increased risk of attacks on shipping, and destabilization of the region",
-      "operational_impact": "Potential delays or disruptions to cargo shipments, increased security measures for vessels transiting the Gulf of Oman, and heightened risk of piracy or terrorist attacks",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "8eca508ef668c5773716bf5daf132f90",
-    "timestamp": "2026-05-07T05:00:45.152437",
-    "original_title": "New Trump counterterrorism strategy brands Europe an 'incubator' for terrorism",
-    "link": "https://www.france24.com/en/americas/20260507-new-trump-counterterrorism-strategy-brands-europe-an-incubator-for-terrorism",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Terrorism/Border/Civil Unrest",
-      "risk_score": 6,
-      "location": "Europe, USA",
-      "latitude": 37.0902,
-      "longitude": -95.7129,
-      "detailed_analysis": "The new Trump counterterrorism strategy accuses Europe of being an 'incubator' for terrorism due to mass migration, which could lead to increased security threats in the region, potentially affecting aviation and cargo transport.",
-      "immediate_forecast_24h": "Heightened security measures may be implemented in European airports and borders, potentially causing delays or disruptions to transport and logistics operations.",
-      "strategic_outlook": "The expanded focus on domestic extremism, including 'violent left-wing extremists' and 'radically pro-transgender' groups, may lead to increased tensions and potential unrest in the US, which could have long-term implications for transport security.",
-      "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics operations due to increased security measures or civil unrest, with a focus on European and US transport hubs.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "c577e558f21f68c4ad167391a3aee847",
-    "timestamp": "2026-05-07T05:00:46.946810",
-    "original_title": "Russia warns foreign diplomats to leave Kyiv in case of strike",
-    "link": "https://www.france24.com/en/europe/20260506-russia-warns-foreign-diplomats-to-leave-kyiv-in-case-of-strike",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict/Civil Unrest",
       "risk_score": 10,
-      "location": "Kyiv, Ukraine",
-      "latitude": 50.4501,
-      "longitude": 30.5236,
-      "detailed_analysis": "Russia has warned foreign diplomats to leave Kyiv due to potential retaliatory strikes if Ukraine disrupts Moscow's World War II Victory Day celebrations, indicating a heightened threat of conflict and civil unrest in the region.",
-      "immediate_forecast_24h": "Increased tensions and potential for military action in the next 24 hours, especially around May 9 celebrations.",
-      "strategic_outlook": "Long-term instability and conflict in the region may lead to ongoing threats to assets, cargo, aviation, and personnel, with potential for escalation into a larger conflict.",
-      "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics in and around Kyiv, with possible spillover effects into neighboring countries.",
-      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The escalating confrontation between Iran and the United States poses a high risk to assets, cargo, aviation, and personnel due to the potential for military and economic conflict, as well as psychological and performative contests over leverage, narratives, and perceived resolve.",
+      "immediate_forecast_24h": "Increased tensions and potential for further escalation, with Tehran probing Washington's tolerance for escalation and the Trump administration responding with firmness.",
+      "strategic_outlook": "A prolonged and complex conflict with significant implications for regional and global stability, potentially affecting trade routes, aviation security, and the safety of personnel and assets.",
+      "operational_impact": "Potential disruptions to logistics and supply chains, increased security measures for aviation and cargo, and heightened risk of cyber attacks and other forms of sabotage.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "db19cdd090818e215843e00841e5c5f6",
+    "timestamp": "2026-05-07T08:03:42.857225",
+    "original_title": "The Bahamas - Level 2: Exercise Increased Caution",
+    "link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/the-bahamas-travel-advisory.html",
+    "source_name": "US State Dept",
+    "ai_analysis": {
+      "category": "Crime",
+      "risk_score": 6,
+      "location": "Nassau, The Bahamas",
+      "latitude": 25.0583,
+      "longitude": -77.3458,
+      "detailed_analysis": "The Bahamas has a high crime rate, with violent crimes such as armed robberies, burglaries, and sexual assaults occurring throughout the country. Areas like the 'Over the Hill' area in Nassau and vacation rental properties without private security are particularly high-risk. Additionally, watercraft operators may not be licensed or insured, and there have been reports of sexual assaults by jet ski operators.",
+      "immediate_forecast_24h": "Increased caution is advised due to the high crime rate, and travelers should be aware of their surroundings, especially in high-risk areas. There is a possibility of increased crime activity, particularly at night or in areas with low security.",
+      "strategic_outlook": "The high crime rate in The Bahamas is likely to continue, and travelers should exercise increased caution when visiting the country. It is essential to stay informed about local conditions, follow local authorities' advice, and take necessary precautions to ensure personal safety.",
+      "operational_impact": "The high crime rate in The Bahamas may impact transport and logistics operations, particularly in areas with high crime activity. Companies operating in the area should take necessary precautions to secure their assets and personnel, such as increasing security measures and monitoring local conditions.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "cd3f7be5926e5c7c8db8d1e57b0abcd3",
+    "timestamp": "2026-05-07T08:03:45.074786",
+    "original_title": "Rwanda - Level 2: Exercise Increased Caution",
+    "link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/rwanda-travel-advisory.html",
+    "source_name": "US State Dept",
+    "ai_analysis": {
+      "category": "Crime/Border/Civil Unrest",
+      "risk_score": 10,
+      "location": "Rwanda",
+      "latitude": -1.95,
+      "longitude": 29.87,
+      "detailed_analysis": "Increased risk of crime and unrest in Rwanda, particularly near the border with the Democratic Republic of the Congo. Armed groups and military forces operate in the area, posing a threat to personnel and cargo.",
+      "immediate_forecast_24h": "Heightened security measures are expected in the coming days, with potential for unrest and violence to spill over into Rwanda from neighboring countries.",
+      "strategic_outlook": "Long-term stability in the region is uncertain, with ongoing conflicts and tensions between Rwanda and the Democratic Republic of the Congo. This may lead to continued security concerns for assets, cargo, aviation, and personnel.",
+      "operational_impact": "Transport and logistics operations in Rwanda may be affected by increased security measures, potential unrest, and violence. Cargo and personnel may be at risk, particularly in areas near the border with the Democratic Republic of the Congo.",
+      "proximity_alert": "YAKIN TEHDİT: Kigali International Airport (29 km)"
     }
   }
 ]
