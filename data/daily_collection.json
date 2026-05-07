@@ -815,5 +815,81 @@
       "operational_impact": "Potential disruptions to air travel, cargo shipments, and logistics operations in Russia due to civil unrest and conflict.",
       "proximity_alert": "YAKIN TEHDİT: Vnukovo International Airport (27 km)"
     }
+  },
+  {
+    "id": "50e3944c67a566d615b058b0bf2818db",
+    "timestamp": "2026-05-07T05:00:37.027875",
+    "original_title": "Family mourns security guard killed in Deep Ellum shooting while working extra shift - CBS News",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOT3FRN09paXVaV2gzek54OWxEQlNyaThZa2t5Y1k1RmFPbTUxRTNDNmc2M25PYlVrTXlFSVRWbjNpQXViTm5fZ3RXd1FZTkRkMC1IY3JxMjA4eVExWHhlYjNqNkFqZUQxTHZvTlNZTHQ1eUQyel8zVTkyZ1NFWDhzd3VsYXctUk12bGcwdC1ZUzZsU1cxWUlwNldsNGY?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Crime",
+      "risk_score": 10,
+      "location": "Deep Ellum, USA",
+      "latitude": 32.7833,
+      "longitude": -96.7833,
+      "detailed_analysis": "A security guard was killed in a shooting while working an extra shift in Deep Ellum, indicating a potential threat to personnel in the area.",
+      "immediate_forecast_24h": "Increased security measures are likely to be implemented in the area, and there may be a heightened sense of alertness among security personnel and law enforcement.",
+      "strategic_outlook": "The incident highlights the need for enhanced security protocols and measures to protect personnel working in high-risk areas, particularly at night or in areas with high crime rates.",
+      "operational_impact": "The incident may impact the operational security of assets and personnel in the area, and logistics operations may need to be adjusted to ensure the safety of employees and cargo.",
+      "proximity_alert": "YAKIN TEHDİT: Dallas Fort Worth (4 km)"
+    }
+  },
+  {
+    "id": "5773b4d1d83d391f13e984792ebdd734",
+    "timestamp": "2026-05-07T05:00:43.009781",
+    "original_title": "Middle East war live: Trump says Iran war will be 'over quickly'",
+    "link": "https://www.france24.com/en/middle-east/20260507-middle-east-war-live-source-close-to-hezbollah-says-top-commander-killed-in-israeli-strike",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Gulf of Oman, Middle East",
+      "latitude": 25.0,
+      "longitude": 58.0,
+      "detailed_analysis": "US military engagement with Iranian oil tanker in the Gulf of Oman, potential for escalation in the region, and impact on maritime trade and logistics",
+      "immediate_forecast_24h": "Increased tensions between US and Iran, potential for further military action, and disruption to shipping lanes",
+      "strategic_outlook": "Prolonged conflict could lead to significant disruptions to global oil supplies, increased risk of attacks on shipping, and destabilization of the region",
+      "operational_impact": "Potential delays or disruptions to cargo shipments, increased security measures for vessels transiting the Gulf of Oman, and heightened risk of piracy or terrorist attacks",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "8eca508ef668c5773716bf5daf132f90",
+    "timestamp": "2026-05-07T05:00:45.152437",
+    "original_title": "New Trump counterterrorism strategy brands Europe an 'incubator' for terrorism",
+    "link": "https://www.france24.com/en/americas/20260507-new-trump-counterterrorism-strategy-brands-europe-an-incubator-for-terrorism",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Terrorism/Border/Civil Unrest",
+      "risk_score": 6,
+      "location": "Europe, USA",
+      "latitude": 37.0902,
+      "longitude": -95.7129,
+      "detailed_analysis": "The new Trump counterterrorism strategy accuses Europe of being an 'incubator' for terrorism due to mass migration, which could lead to increased security threats in the region, potentially affecting aviation and cargo transport.",
+      "immediate_forecast_24h": "Heightened security measures may be implemented in European airports and borders, potentially causing delays or disruptions to transport and logistics operations.",
+      "strategic_outlook": "The expanded focus on domestic extremism, including 'violent left-wing extremists' and 'radically pro-transgender' groups, may lead to increased tensions and potential unrest in the US, which could have long-term implications for transport security.",
+      "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics operations due to increased security measures or civil unrest, with a focus on European and US transport hubs.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "c577e558f21f68c4ad167391a3aee847",
+    "timestamp": "2026-05-07T05:00:46.946810",
+    "original_title": "Russia warns foreign diplomats to leave Kyiv in case of strike",
+    "link": "https://www.france24.com/en/europe/20260506-russia-warns-foreign-diplomats-to-leave-kyiv-in-case-of-strike",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Kyiv, Ukraine",
+      "latitude": 50.4501,
+      "longitude": 30.5236,
+      "detailed_analysis": "Russia has warned foreign diplomats to leave Kyiv due to potential retaliatory strikes if Ukraine disrupts Moscow's World War II Victory Day celebrations, indicating a heightened threat of conflict and civil unrest in the region.",
+      "immediate_forecast_24h": "Increased tensions and potential for military action in the next 24 hours, especially around May 9 celebrations.",
+      "strategic_outlook": "Long-term instability and conflict in the region may lead to ongoing threats to assets, cargo, aviation, and personnel, with potential for escalation into a larger conflict.",
+      "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics in and around Kyiv, with possible spillover effects into neighboring countries.",
+      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
+    }
   }
 ]
