@@ -1,134 +1,39 @@
 [
   {
-    "id": "bb5b393b44c368b979b483364a884682",
-    "timestamp": "2026-05-08T08:10:51.471591",
-    "original_title": "OpenAI tunes GPT-5.5-Cyber for more permissive security workflows - Help Net Security",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1vdXV2dnh5d1Z6WURWRWdmRFktV0Z3WGJ6RWRYblJHZUNRLU5MM2FybnhNUDNSUHBFMTFKM0t0LWZ2VjhJZHAwX21KdWZLcnNjWjRncXc0SjJQaVgwZFZ4VkNnYlZDSzYwVkpLYlliVFZOVnpYZDk4Wjd3?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Cyber",
-      "risk_score": 6,
-      "location": "Global",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "OpenAI's tuning of GPT-5.5-Cyber for more permissive security workflows may introduce potential vulnerabilities in security protocols, posing a threat to assets, cargo, aviation, and personnel through increased susceptibility to cyber attacks.",
-      "immediate_forecast_24h": "In the next 24 hours, there may be an increased likelihood of cyber attacks exploiting the updated GPT-5.5-Cyber model, particularly targeting logistics and transportation systems.",
-      "strategic_outlook": "In the long term, the development of more permissive security workflows using AI models like GPT-5.5-Cyber may lead to a shift in the cybersecurity landscape, with potential benefits but also increased risks if not properly managed.",
-      "operational_impact": "The operational impact may include increased monitoring and mitigation efforts by security teams to prevent potential cyber attacks, as well as potential disruptions to logistics and transportation systems if such attacks are successful.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "dd63d6a3ebf18b3fab7fd6341bab3a74",
-    "timestamp": "2026-05-08T08:10:54.358087",
-    "original_title": "Many Russians in No Mood for Celebration on Kremlin’s Biggest Day of the Year",
-    "link": "https://www.nytimes.com/2026/05/08/world/europe/russia-mood-victory-day.html",
+    "id": "aa185dcf7e990cfb5d211622beb1726a",
+    "timestamp": "2026-05-08T10:04:52.239447",
+    "original_title": "Iran War Live Updates: Trump Insists Cease-Fire Holds Despite Exchange of Fire",
+    "link": "https://www.nytimes.com/live/2026/05/08/world/iran-strikes-trump-ceasefire-hormuz",
     "source_name": "NewYork Times",
     "ai_analysis": {
-      "category": "Conflict/Civil Unrest",
+      "category": "Conflict",
       "risk_score": 10,
-      "location": "Moscow, Russia",
-      "latitude": 55.7558,
-      "longitude": 37.6176,
-      "detailed_analysis": "The Kremlin's fear of Ukrainian attacks on Victory Day poses a significant threat to personnel and aviation, with potential for disruptions to cargo and logistics operations.",
-      "immediate_forecast_24h": "Increased security measures and potential for civil unrest or protests, with a heightened risk of attacks or sabotage targeting key infrastructure or events.",
-      "strategic_outlook": "Long-term instability and tensions between Russia and Ukraine may lead to sustained elevated risk levels, impacting regional security and transport operations.",
-      "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics operations in and around Moscow, with possible restrictions on movement and access to key areas.",
-      "proximity_alert": "YAKIN TEHDİT: Vnukovo International Airport (27 km)"
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The exchange of fire between the United States and Iran poses a significant threat to aviation and personnel in the region. The conflict may lead to disruptions in air traffic and potential targeting of American assets and interests.",
+      "immediate_forecast_24h": "The situation is likely to remain volatile, with a high risk of further military action and potential escalation. Aviation and cargo operations may be impacted, with possible disruptions to flight schedules and logistics.",
+      "strategic_outlook": "The long-term implications of the conflict are uncertain, but it may lead to increased tensions and instability in the region. This could result in sustained disruptions to transport and logistics, as well as potential threats to personnel and assets.",
+      "operational_impact": "The conflict may impact air cargo operations, with potential delays or cancellations of flights. Additionally, the risk of targeting American assets and interests may lead to increased security measures, potentially affecting personnel and cargo movements.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
     }
   },
   {
-    "id": "29669c797086ae4e7303ba4cc0634fe2",
-    "timestamp": "2026-05-08T08:10:57.065073",
-    "original_title": "Trump's Iran war boasts shredded by leaked CIA dossier",
-    "link": "https://www.reddit.com/r/geopolitics/comments/1t71arw/trumps_iran_war_boasts_shredded_by_leaked_cia/",
-    "source_name": "Reddit r/Geopolitics",
+    "id": "5d2cd23f99221d44f3cde2e0cf003c2c",
+    "timestamp": "2026-05-08T10:04:53.926108",
+    "original_title": "The French Couple That Tried to Burgle 29 Churches in 3 Months",
+    "link": "https://www.nytimes.com/2026/05/08/france-churches-burglaries-couple.html",
+    "source_name": "NewYork Times",
     "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 8,
-      "location": "Iran, Middle East",
-      "latitude": 32.0,
-      "longitude": 53.0,
-      "detailed_analysis": "Leaked CIA dossier reveals Iran has retained significant military capabilities despite Trump's claims, potentially escalating tensions and impacting regional stability",
-      "immediate_forecast_24h": "Increased rhetoric and potential for military posturing between the US and Iran, with possible impacts on aviation and cargo operations in the region",
-      "strategic_outlook": "Prolonged conflict or heightened tensions could lead to disruptions in global supply chains, particularly for oil and gas shipments, and increased security measures for aviation and cargo",
-      "operational_impact": "Potential for flight restrictions, cargo delays, and increased security protocols for transport and logistics operations in the region",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "0d2d1f2d8694730bb7fd0457b3fa024a",
-    "timestamp": "2026-05-08T08:10:59.320379",
-    "original_title": "US-Iran ceasefire under threat after exchange of strikes in strait of Hormuz",
-    "link": "https://www.reddit.com/r/worldnews/comments/1t717xf/usiran_ceasefire_under_threat_after_exchange_of/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 8,
-      "location": "Strait of Hormuz, Middle East",
-      "latitude": 26.0,
-      "longitude": 56.0,
-      "detailed_analysis": "The US-Iran ceasefire is under threat after an exchange of strikes in the Strait of Hormuz, which could lead to further escalation and impact maritime trade and aviation in the region.",
-      "immediate_forecast_24h": "Increased tensions and potential for further military action, with possible disruptions to shipping and air traffic in the region.",
-      "strategic_outlook": "Long-term instability in the region could lead to sustained higher risk levels for assets, cargo, aviation, and personnel, with potential for broader conflict.",
-      "operational_impact": "Potential disruptions to maritime trade, increased risk of attacks on ships and aircraft, and possible restrictions on air and sea travel in the region.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "0d27a3590bba37392ef88d53c49b543a",
-    "timestamp": "2026-05-08T08:11:02.633236",
-    "original_title": "As Adversaries Integrate, U.S. Partners Bypass Washington",
-    "link": "https://warontherocks.com/as-adversaries-integrate-u-s-partners-bypass-washington/",
-    "source_name": "War on the Rocks",
-    "ai_analysis": {
-      "category": "Aviation/Conflict",
-      "risk_score": 8,
-      "location": "Gulf Arab states",
-      "latitude": 24.0,
-      "longitude": 56.0,
-      "detailed_analysis": "Iranian drones, improved by Russia, are being used to attack Gulf Arab states, posing a significant threat to aviation and regional security. The drones' designs and production processes were refined by Russia through years of battlefield testing against Ukrainian defenses.",
-      "immediate_forecast_24h": "Increased drone attacks on Gulf Arab states are likely, with potential for escalation of conflict in the region. The United States and its partners may respond with military operations or counter-drone measures.",
-      "strategic_outlook": "The integration of adversaries, such as Iran and Russia, poses a long-term threat to regional security and global stability. The use of drones and other advanced technologies will continue to evolve, requiring adaptive countermeasures from the United States and its partners.",
-      "operational_impact": "The drone attacks may disrupt air traffic and logistics in the region, with potential for damage to critical infrastructure and loss of life. The conflict may also impact global supply chains and energy markets.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "9d7ffcfbe8837a881269a0883ba6fd62",
-    "timestamp": "2026-05-08T08:11:04.613312",
-    "original_title": "Could Russia Follow the “Hormuz Playbook” in the Baltic and Black Seas?",
-    "link": "https://warontherocks.com/could-russia-follow-the-hormuz-playbook-in-the-baltic-and-black-seas/",
-    "source_name": "War on the Rocks",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 7,
-      "location": "Baltic and Black Seas",
-      "latitude": 45.0,
-      "longitude": 30.0,
-      "detailed_analysis": "The article discusses the possibility of Russia following the 'Hormuz Playbook' in the Baltic and Black Seas, which could lead to a significant disruption in maritime trade. The 'Hormuz Playbook' refers to the use of drone strikes and insurance market pressure to effectively shut down a critical maritime chokepoint, as seen in the Strait of Hormuz.",
-      "immediate_forecast_24h": "In the next 24 hours, there is a low likelihood of an immediate attack, but the situation remains volatile and could escalate quickly.",
-      "strategic_outlook": "In the long term, the situation in the Baltic and Black Seas could become increasingly unstable, with Russia potentially using similar tactics to disrupt maritime trade and exert pressure on the international community.",
-      "operational_impact": "A disruption in the Baltic and Black Seas could have significant operational impacts on maritime trade, including delays, increased costs, and potential losses of cargo and vessels.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "f01c11e0c702162047c4de170511c8e3",
-    "timestamp": "2026-05-08T08:11:06.870496",
-    "original_title": "Chad declares state of emergency after deadly Boko Haram attacks",
-    "link": "http://www.africanews.com/2026/05/08/chad-declares-state-of-emergency-after-deadly-boko-haram-attacks/",
-    "source_name": "Africa News",
-    "ai_analysis": {
-      "category": "Terrorism/Conflict/Civil Unrest",
-      "risk_score": 8,
-      "location": "Lake Chad region, Chad",
-      "latitude": 13.0,
-      "longitude": 14.0,
-      "detailed_analysis": "Boko Haram attacks have led to a state of emergency in the Lake Chad region, posing a significant threat to assets, cargo, aviation, and personnel in the area. The declaration of a state of emergency indicates a heightened level of alert and potential for further violence.",
-      "immediate_forecast_24h": "Increased military presence and security checks are expected in the region, potentially causing disruptions to transport and logistics. Further attacks by Boko Haram are possible, targeting civilians, infrastructure, and security forces.",
-      "strategic_outlook": "The long-term stability of the region is at risk due to the ongoing insurgency. Chad's security forces will likely face continued challenges in combating Boko Haram, and the humanitarian situation may deteriorate, leading to increased migration and displacement.",
-      "operational_impact": "Transport and logistics operations in the Lake Chad region may be severely impacted due to the state of emergency and potential for further violence. Aviation operations may be subject to increased security checks, and cargo transport may be delayed or disrupted due to the heightened security presence.",
+      "category": "Crime",
+      "risk_score": 6,
+      "location": "France",
+      "latitude": 46.227638,
+      "longitude": 2.213749,
+      "detailed_analysis": "A French couple was involved in a spree of thefts targeting 29 churches over 3 months, highlighting vulnerabilities in cultural and rural heritage protection.",
+      "immediate_forecast_24h": "Increased security measures are expected to be implemented in churches and cultural sites across France to prevent similar incidents.",
+      "strategic_outlook": "The incident may lead to a long-term review of security protocols for cultural and rural heritage sites in France, potentially resulting in enhanced protection measures.",
+      "operational_impact": "The thefts may impact the logistics and transportation of valuable items to and from cultural sites, with potential increases in security escorts and monitoring.",
       "proximity_alert": null
     }
   }
