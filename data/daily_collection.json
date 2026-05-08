@@ -473,5 +473,43 @@
       "operational_impact": "The attacks may disrupt cargo and aviation operations in the region, and personnel may be at risk of violence or kidnapping, requiring enhanced security measures and contingency planning to mitigate these risks.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "48717ace2796eff671c90c9abb6d923b",
+    "timestamp": "2026-05-08T14:06:33.444554",
+    "original_title": "Iran War Live Updates: Tehran Accuses U.S. of ‘Reckless’ Attacks After Exchange of Fire in Strait",
+    "link": "https://www.nytimes.com/live/2026/05/08/world/iran-strikes-trump-ceasefire-hormuz",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Strait of Hormuz, Iran",
+      "latitude": 26.0,
+      "longitude": 56.0,
+      "detailed_analysis": "Exchange of fire between US and Iran in the Strait of Hormuz indicates heightened tensions, posing a significant threat to aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Increased military presence and potential for further clashes, impacting shipping lanes and air traffic.",
+      "strategic_outlook": "Prolonged conflict could lead to disruptions in global oil supply, increased insurance costs, and heightened security measures for assets and personnel in the region.",
+      "operational_impact": "Potential delays or rerouting of cargo ships, increased security checks for aviation, and heightened risk of attacks on personnel and assets in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "8877ac205699cd823b753fb049c83d4f",
+    "timestamp": "2026-05-08T14:07:46.170029",
+    "original_title": "Sudan and Ethiopia inching closer to war",
+    "link": "https://www.reddit.com/r/worldnews/comments/1t78uyw/sudan_and_ethiopia_inching_closer_to_war/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 7,
+      "location": "Sudan/Ethiopia border",
+      "latitude": 12.0,
+      "longitude": 36.0,
+      "detailed_analysis": "The escalating tensions between Sudan and Ethiopia pose a significant threat to regional stability, potentially disrupting air travel, cargo transport, and personnel movement in the area.",
+      "immediate_forecast_24h": "Increased military presence and heightened alertness along the border, potential for skirmishes or clashes, and possible airspace restrictions.",
+      "strategic_outlook": "Prolonged conflict could lead to a humanitarian crisis, displacement of people, and long-term instability in the region, affecting aviation and logistics operations.",
+      "operational_impact": "Potential for flight disruptions, cargo delays, and increased security measures for personnel and assets in the region, with possible rerouting of flights and cargo shipments.",
+      "proximity_alert": null
+    }
   }
 ]
