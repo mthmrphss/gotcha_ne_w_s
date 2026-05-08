@@ -587,5 +587,43 @@
       "operational_impact": "The increased tensions may lead to airspace restrictions, cargo delays, and potential disruptions to personnel movements. Aviation and cargo operators should be prepared for potential changes to flight plans and logistics operations.",
       "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
     }
+  },
+  {
+    "id": "be0528210f8235e47fc7cdafae52f2d4",
+    "timestamp": "2026-05-08T19:38:52.725776",
+    "original_title": "Iran War Live Updates: U.S. Fires on Tankers as Tehran Accuses Washington of ‘Reckless’ Attacks",
+    "link": "https://www.nytimes.com/live/2026/05/08/world/iran-strikes-trump-ceasefire-hormuz",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Iran, Middle East",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The U.S. firing on tankers and Iran's accusations of 'reckless' attacks indicate a heightened state of conflict, posing a significant threat to assets, cargo, aviation, and personnel in the region.",
+      "immediate_forecast_24h": "Escalation of tensions between the U.S. and Iran, potentially leading to further military action or retaliation, affecting maritime and air transport in the region.",
+      "strategic_outlook": "Prolonged conflict could lead to increased instability in the Middle East, impacting global oil prices, and disrupting supply chains, with potential long-term consequences for regional and global security.",
+      "operational_impact": "Shipping and aviation companies should exercise extreme caution when operating in the region, with potential disruptions to routes, increased security measures, and possible delays or cancellations of flights and shipments.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "6744144e9e2c0042c3a306308d9b26f7",
+    "timestamp": "2026-05-08T19:38:59.386523",
+    "original_title": "Flight Attendant Exposed to Hantavirus Patient On KLM Flight to Amsterdam Tests Negative After Showing Symptoms",
+    "link": "https://www.paddleyourownkanoo.com/2026/05/08/flight-attendant-exposed-to-hantavirus-patient-on-klm-flight-to-amsterdam-tests-negative-after-showing-symptoms/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Aviation/Health",
+      "risk_score": 10,
+      "location": "Johannesburg, South Africa",
+      "latitude": -26.2041,
+      "longitude": 28.0473,
+      "detailed_analysis": "A flight attendant was exposed to a Hantavirus patient on a KLM flight from Johannesburg to Amsterdam, but has tested negative after showing symptoms. The risk of transmission is low, but the incident highlights the potential for infectious diseases to spread on flights.",
+      "immediate_forecast_24h": "The flight attendant's test results reduce the immediate risk of an outbreak, but monitoring of crew and passengers will continue.",
+      "strategic_outlook": "The incident underscores the need for airlines and airports to have robust health screening and response protocols in place to mitigate the risk of infectious disease transmission during air travel.",
+      "operational_impact": "Minimal disruption to flights is expected, but airlines may need to enhance cleaning and disinfection procedures, and provide guidance to crew and passengers on disease prevention and response.",
+      "proximity_alert": "YAKIN TEHDİT: O. R. Tambo International Airport (19 km)"
+    }
   }
 ]
