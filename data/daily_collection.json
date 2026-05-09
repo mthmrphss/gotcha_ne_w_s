@@ -150,5 +150,81 @@
       "operational_impact": "The potential civil unrest and instability in South Africa could impact transportation and logistics operations in the country, including aviation, cargo handling, and supply chain management. Companies operating in the country should be prepared for possible disruptions and take necessary precautions to ensure the security of their assets and personnel.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "1ee0c37235b9c60452174f9e3f3b06c1",
+    "timestamp": "2026-05-09T06:32:57.412321",
+    "original_title": "How China’s Leader Lost Faith in His Generals",
+    "link": "https://www.nytimes.com/2026/05/09/world/asia/china-military-generals.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Other",
+      "risk_score": 10,
+      "location": "Beijing, China",
+      "latitude": 39.9042,
+      "longitude": 116.4074,
+      "detailed_analysis": "The article discusses the loss of faith by China's leader, Xi Jinping, in his handpicked generals, which may lead to internal power struggles and potential instability within the Chinese military. However, there is no direct threat to assets, cargo, aviation, or personnel mentioned in the article.",
+      "immediate_forecast_24h": "No immediate impact expected, but potential for increased tensions within the Chinese military and government.",
+      "strategic_outlook": "Long-term implications could include changes in China's military strategy and leadership, potentially affecting regional and global security dynamics.",
+      "operational_impact": "No direct operational impact on transport or logistics expected at this time.",
+      "proximity_alert": "YAKIN TEHDİT: Beijing Capital International Airport (25 km)"
+    }
+  },
+  {
+    "id": "b60998960ab5a25382e9be395202f752",
+    "timestamp": "2026-05-09T06:33:00.801793",
+    "original_title": "IDF strikes over 85 Hezbollah sites in 24 hours, following rocket fire in southern Lebanon",
+    "link": "https://www.reddit.com/r/worldnews/comments/1t7why9/idf_strikes_over_85_hezbollah_sites_in_24_hours/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 8,
+      "location": "Southern Lebanon",
+      "latitude": 33.1167,
+      "longitude": 35.2167,
+      "detailed_analysis": "The Israeli Defense Forces (IDF) have struck over 85 Hezbollah sites in 24 hours in response to rocket fire in southern Lebanon, indicating a significant escalation in the conflict. This surge in military activity poses a substantial threat to aviation, cargo, and personnel in the region.",
+      "immediate_forecast_24h": "The situation is likely to remain volatile, with potential for further exchanges of fire and increased military presence. There is a high risk of collateral damage to civilian infrastructure, including airports and logistics hubs.",
+      "strategic_outlook": "The long-term implications of this conflict could lead to sustained instability in the region, affecting trade routes and the movement of goods. The involvement of Hezbollah, a militant group, raises concerns about potential terrorist activities targeting aviation and cargo.",
+      "operational_impact": "The conflict may disrupt air traffic and cargo operations in the region, potentially leading to delays or cancellations of flights. Additionally, the increased military activity could lead to restrictions on the movement of personnel and cargo, impacting logistics and supply chains.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "4d0a0c145031c5b224bbd0ee00a3c58a",
+    "timestamp": "2026-05-09T06:33:02.679106",
+    "original_title": "Trump's feuds, tensions with allies likely to outlast Iran war",
+    "link": "https://www.reddit.com/r/worldnews/comments/1t7vphm/trumps_feuds_tensions_with_allies_likely_to/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "International",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "detailed_analysis": "The article discusses the potential for ongoing tensions between the US and its allies, as well as with Iran, to outlast any potential conflict. This could lead to increased instability and unrest in the region, potentially affecting aviation and logistics.",
+      "immediate_forecast_24h": "In the next 24 hours, we can expect continued rhetoric and posturing from world leaders, with a low likelihood of immediate military action.",
+      "strategic_outlook": "In the long term, the ongoing tensions and feuds between the US and its allies, as well as with Iran, could lead to a destabilization of the region, potentially affecting global trade and logistics.",
+      "operational_impact": "The potential for increased instability and unrest in the region could lead to disruptions in aviation and logistics, particularly if there are any military actions or increased security measures put in place.",
+      "proximity_alert": "YAKIN TEHDİT: Paramount Hotel (5 km)"
+    }
+  },
+  {
+    "id": "1af7740aa805594e8015457ee2596748",
+    "timestamp": "2026-05-09T06:33:05.356376",
+    "original_title": "Moscow set to hold Victory Day parade in Red Square parade amid tight security",
+    "link": "https://www.france24.com/en/europe/20260509-moscow-set-to-hold-victory-day-parade-in-red-square-parade-amid-tight-security",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Moscow, Russia",
+      "latitude": 55.7558,
+      "longitude": 37.6176,
+      "detailed_analysis": "The Victory Day parade in Red Square poses a potential threat due to fears of Ukrainian attacks, despite a fragile ceasefire. The scaled-back military display and tight security measures indicate a heightened state of alert.",
+      "immediate_forecast_24h": "The situation is likely to remain tense, with a high likelihood of security incidents or disruptions during the parade. Ukrainian attacks or other security breaches could occur, despite the ceasefire.",
+      "strategic_outlook": "The long-term implications of this event are uncertain, but it may exacerbate existing tensions between Russia and Ukraine, potentially leading to further conflict or instability in the region.",
+      "operational_impact": "The potential for disruptions to air travel, cargo transport, and personnel movement in and around Moscow is moderate to high, particularly if security incidents occur during the parade.",
+      "proximity_alert": "YAKIN TEHDİT: Vnukovo International Airport (27 km)"
+    }
   }
 ]
