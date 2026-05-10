@@ -1,21 +1,40 @@
 [
   {
-    "id": "c92a2986650b7d34465b478e5a57e8b2",
-    "timestamp": "2026-05-09T23:26:24.476562",
-    "original_title": "Churches under attack in southern Lebanon - Vatican News",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY3RIT2YtYkh1cDdZbGRGSDBZWjVCOHk2bDAwYUV5eGMycDJzSVAyM20tYktBbUo4aHBtV0pzVmtqVDVHVWlLWjlSSnczX0ZpV0VEZjUycnMtZkhLVzNjNV9nZ3JjNTFRek5reUs0SFpPczM3XzktSEYyTkdJRGN3OE5qM1pod2tRQmRFUlFLWkFMSUo1bU5tdnBxX2M4UDBfODB3QU9rMzl2SUxkbTBCa25YVEZLZC1MYlBV?oc=5",
-    "source_name": "Google News (Breaking)",
+    "id": "1cff933efd0fc0214ddb6eecaa6ab8ab",
+    "timestamp": "2026-05-10T01:22:30.589980",
+    "original_title": "Airports in Southern Russia Paralyzed After Ukrainian Drone Hits Air Traffic Control Center",
+    "link": "https://www.reddit.com/r/worldnews/comments/1t8rku2/airports_in_southern_russia_paralyzed_after/",
+    "source_name": "Reddit r/WorldNews",
     "ai_analysis": {
-      "category": "Conflict/Civil Unrest",
-      "risk_score": 6,
-      "location": "Southern Lebanon, Lebanon",
-      "latitude": 33.3667,
-      "longitude": 35.3667,
-      "detailed_analysis": "Churches under attack in southern Lebanon indicates a rise in sectarian violence and unrest, posing a threat to personnel and potentially disrupting transport and logistics in the region.",
-      "immediate_forecast_24h": "Increased security measures are expected in the region, with potential for further clashes and unrest, affecting aviation and cargo operations.",
-      "strategic_outlook": "Long-term instability in the region could lead to sustained disruptions in transport and logistics, with potential for spillover into neighboring countries.",
-      "operational_impact": "Transport and logistics operations in southern Lebanon may be disrupted due to increased security measures and potential for further violence, with aviation operations potentially being affected by the unrest.",
-      "proximity_alert": null
+      "category": "Aviation/Conflict",
+      "risk_score": 10,
+      "location": "Southern Russia",
+      "latitude": 47.2129,
+      "longitude": 39.7232,
+      "detailed_analysis": "A Ukrainian drone has hit an air traffic control center in Southern Russia, causing airports to be paralyzed. This incident poses a significant threat to aviation safety and security in the region.",
+      "immediate_forecast_24h": "Flight disruptions and cancellations are expected to continue in the short term, with potential for further drone sightings or attacks.",
+      "strategic_outlook": "The conflict between Ukraine and Russia is likely to escalate, with potential for more drone attacks on critical infrastructure, including airports and air traffic control centers.",
+      "operational_impact": "The incident is likely to cause significant disruptions to air travel and logistics in the region, with potential for delays, cancellations, and increased security measures.",
+      "proximity_alert": "YAKIN TEHDİT: Rostov-on-Don International Airport (5 km)"
+    }
+  },
+  {
+    "id": "f0462883c216a11459e6d8ec0ea008c4",
+    "timestamp": "2026-05-10T01:23:01.157513",
+    "original_title": "Could and would Ukraine target Putin?",
+    "link": "https://www.france24.com/en/tv-shows/spotlight/20260509-could-and-would-ukraine-target-putin",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Red Square, Moscow, Russia",
+      "latitude": 55.7558,
+      "longitude": 37.6176,
+      "detailed_analysis": "The temporary ceasefire between Russia and Ukraine, combined with President Putin's oversight of a military parade in Red Square, suggests a heightened state of alert due to the potential for Ukraine to target Putin. The absence of military hardware and technological might usually on display may indicate a precautionary measure or a strategic move.",
+      "immediate_forecast_24h": "The ceasefire is expected to hold, but the situation remains volatile. There is a possibility of an attack or an attempt on Putin's life, which could escalate the conflict.",
+      "strategic_outlook": "The long-term view suggests that the conflict between Russia and Ukraine will continue, with periods of escalation and de-escalation. The potential for Ukraine to target Putin or other high-ranking Russian officials remains a concern.",
+      "operational_impact": "The situation may impact aviation and cargo operations in the region, particularly if the conflict escalates. There may be increased security measures, flight restrictions, or cargo delays, which could affect logistics and supply chains.",
+      "proximity_alert": "YAKIN TEHDİT: Vnukovo International Airport (27 km)"
     }
   }
 ]
