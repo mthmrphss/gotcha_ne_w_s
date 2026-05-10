@@ -1,40 +1,78 @@
 [
   {
-    "id": "1cff933efd0fc0214ddb6eecaa6ab8ab",
-    "timestamp": "2026-05-10T01:22:30.589980",
-    "original_title": "Airports in Southern Russia Paralyzed After Ukrainian Drone Hits Air Traffic Control Center",
-    "link": "https://www.reddit.com/r/worldnews/comments/1t8rku2/airports_in_southern_russia_paralyzed_after/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Aviation/Conflict",
-      "risk_score": 10,
-      "location": "Southern Russia",
-      "latitude": 47.2129,
-      "longitude": 39.7232,
-      "detailed_analysis": "A Ukrainian drone has hit an air traffic control center in Southern Russia, causing airports to be paralyzed. This incident poses a significant threat to aviation safety and security in the region.",
-      "immediate_forecast_24h": "Flight disruptions and cancellations are expected to continue in the short term, with potential for further drone sightings or attacks.",
-      "strategic_outlook": "The conflict between Ukraine and Russia is likely to escalate, with potential for more drone attacks on critical infrastructure, including airports and air traffic control centers.",
-      "operational_impact": "The incident is likely to cause significant disruptions to air travel and logistics in the region, with potential for delays, cancellations, and increased security measures.",
-      "proximity_alert": "YAKIN TEHDİT: Rostov-on-Don International Airport (5 km)"
-    }
-  },
-  {
-    "id": "f0462883c216a11459e6d8ec0ea008c4",
-    "timestamp": "2026-05-10T01:23:01.157513",
-    "original_title": "Could and would Ukraine target Putin?",
-    "link": "https://www.france24.com/en/tv-shows/spotlight/20260509-could-and-would-ukraine-target-putin",
-    "source_name": "France 24 ME",
+    "id": "888f110957dcce25d23d3903690313d6",
+    "timestamp": "2026-05-10T05:06:58.360528",
+    "original_title": "Putin says Ukraine conflict 'coming to an end'",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1t8wufs/putin_says_ukraine_conflict_coming_to_an_end/",
+    "source_name": "Reddit r/Geopolitics",
     "ai_analysis": {
       "category": "Conflict",
       "risk_score": 10,
-      "location": "Red Square, Moscow, Russia",
+      "location": "Moscow, Russia",
       "latitude": 55.7558,
       "longitude": 37.6176,
-      "detailed_analysis": "The temporary ceasefire between Russia and Ukraine, combined with President Putin's oversight of a military parade in Red Square, suggests a heightened state of alert due to the potential for Ukraine to target Putin. The absence of military hardware and technological might usually on display may indicate a precautionary measure or a strategic move.",
-      "immediate_forecast_24h": "The ceasefire is expected to hold, but the situation remains volatile. There is a possibility of an attack or an attempt on Putin's life, which could escalate the conflict.",
-      "strategic_outlook": "The long-term view suggests that the conflict between Russia and Ukraine will continue, with periods of escalation and de-escalation. The potential for Ukraine to target Putin or other high-ranking Russian officials remains a concern.",
-      "operational_impact": "The situation may impact aviation and cargo operations in the region, particularly if the conflict escalates. There may be increased security measures, flight restrictions, or cargo delays, which could affect logistics and supply chains.",
+      "detailed_analysis": "Russian President Vladimir Putin has stated that the conflict with Ukraine is coming to an end, which may lead to a decrease in tensions and potential threats to assets, cargo, aviation, and personnel in the region.",
+      "immediate_forecast_24h": "The situation is likely to remain volatile, with potential for further statements or actions from Putin or other involved parties, but no immediate escalation is expected.",
+      "strategic_outlook": "A potential end to the conflict could lead to increased stability in the region, but the situation remains uncertain and dependent on various factors, including the actions of Western countries and the Ukrainian government.",
+      "operational_impact": "The potential decrease in tensions may lead to a reduction in risks associated with cargo transport, aviation, and personnel movement in the region, but continued caution is advised due to the uncertain nature of the situation.",
       "proximity_alert": "YAKIN TEHDİT: Vnukovo International Airport (27 km)"
+    }
+  },
+  {
+    "id": "554e6f1ddc6fd9b51211c207b6b2568f",
+    "timestamp": "2026-05-10T05:07:03.377193",
+    "original_title": "Delta Air Lines Employee Dies in Tragic Accident at Orlando International Airport After Tug Crashes into Jetbridge",
+    "link": "https://www.paddleyourownkanoo.com/2026/05/09/delta-air-lines-employee-dies-in-tragic-accident-at-orlando-international-airport-after-tug-crashes-into-jetbridge/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Orlando, USA",
+      "latitude": 28.4317,
+      "longitude": -81.3081,
+      "detailed_analysis": "A Delta Air Lines employee died in a tragic accident at Orlando International Airport after a tug crashed into a jetbridge, highlighting potential safety concerns and operational risks at the airport.",
+      "immediate_forecast_24h": "Investigations into the accident are likely to be conducted, and airport operations may be affected in the short term. There may be increased scrutiny of ground handling procedures and equipment maintenance.",
+      "strategic_outlook": "The incident may lead to a review of safety protocols and procedures for ground handling operations at the airport, potentially resulting in changes to standard operating procedures and increased investment in safety measures.",
+      "operational_impact": "The accident may cause disruptions to flight operations, particularly for Delta Air Lines, and could impact passenger and cargo services in the short term. Airlines and airport authorities may need to reassess their risk management strategies to mitigate similar incidents in the future.",
+      "proximity_alert": "YAKIN TEHDİT: Orlando International Airport (2 km)"
+    }
+  },
+  {
+    "id": "78cb8467fccd3087b1df4aa0c78099f2",
+    "timestamp": "2026-05-10T05:07:05.114213",
+    "original_title": "British Airways Bans Passengers From Putting Power Banks in Overhead Lockers As New Safety Rules Come into Force",
+    "link": "https://www.paddleyourownkanoo.com/2026/05/09/british-airways-bans-passengers-from-putting-power-banks-in-overhead-lockers-as-new-safety-rules-come-into-force/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "London, United Kingdom",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "detailed_analysis": "British Airways has banned passengers from storing portable power banks in overhead lockers due to the risk of overheating and fire, posing a potential threat to aviation safety",
+      "immediate_forecast_24h": "Passengers may face disruptions and delays as they adjust to the new safety rules, with potential for non-compliance and confusion",
+      "strategic_outlook": "The ban may set a precedent for other airlines to follow, leading to a reduction in the risk of in-flight fires and improved overall aviation safety",
+      "operational_impact": "The ban may cause some inconvenience to passengers, but it is likely to have a positive impact on transport and logistics by reducing the risk of accidents and improving safety protocols",
+      "proximity_alert": "YAKIN TEHDİT: Heathrow Airport (23 km)"
+    }
+  },
+  {
+    "id": "76b6b93c39b3c4ffd50c972ab56f4540",
+    "timestamp": "2026-05-10T05:07:07.831967",
+    "original_title": "The Iran war has made jet fuel twice as expensive. Should we be flying with cooking oil instead?",
+    "link": "https://www.independent.co.uk/climate-change/news/jet-fuel-shortage-sustainale-aviation-cooking-oil-iran-war-b2972736.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 6,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The Iran war has led to a significant increase in jet fuel prices, potentially affecting the aviation industry's operational costs and profitability. The search for alternative fuels may introduce new security risks if not properly managed.",
+      "immediate_forecast_24h": "Airlines may experience increased financial pressure, potentially leading to changes in flight schedules or routes. Alternative fuel sources may be explored, but their implementation is unlikely in the short term.",
+      "strategic_outlook": "The long-term impact of the Iran war on jet fuel prices may lead to a shift towards cleaner, alternative fuels in the aviation industry. However, this transition will require significant investment and infrastructure development.",
+      "operational_impact": "The increase in jet fuel prices may lead to higher operating costs for airlines, potentially resulting in increased ticket prices or reduced services. The exploration of alternative fuels may also introduce new operational complexities and security risks.",
+      "proximity_alert": null
     }
   }
 ]
