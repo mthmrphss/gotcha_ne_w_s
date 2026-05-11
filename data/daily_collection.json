@@ -226,5 +226,43 @@
       "operational_impact": "The discussion on conflict and medical evacuation may impact military logistics and operational planning, particularly in terms of prioritizing rapid and secure transportation of wounded personnel to medical facilities.",
       "proximity_alert": "YAKIN TEHDİT: Paramount Hotel (5 km)"
     }
+  },
+  {
+    "id": "ef52dde80648631ef65b13c631b0d71d",
+    "timestamp": "2026-05-11T12:43:15.204120",
+    "original_title": "‘It’s organised intimidation’: New wave of anti-migrant violence sweeps South Africa",
+    "link": "https://www.france24.com/en/africa/20260511-organised-intimidation-new-wave-anti-migrant-violence-south-africa",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 6,
+      "location": "South Africa",
+      "latitude": -30.0,
+      "longitude": 25.0,
+      "detailed_analysis": "A new wave of anti-migrant violence has been reported in South Africa, resulting in at least seven deaths. Organised anti-migrant movements are fueling tensions, exacerbated by unemployment and inequality, which may impact transport and logistics operations.",
+      "immediate_forecast_24h": "The situation is likely to remain volatile, with potential for further clashes and disruptions to transport and logistics in the short term.",
+      "strategic_outlook": "The ongoing unrest may lead to increased security measures and potential disruptions to supply chains, particularly for cargo and personnel movement, in the long term.",
+      "operational_impact": "Transport and logistics operations, particularly those involving migrant workers or cargo from affected areas, may be impacted by the unrest, with potential for delays, route changes, or increased security measures.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "0900b5d80a8ba9f928ba82a96a32c29b",
+    "timestamp": "2026-05-11T12:43:16.950126",
+    "original_title": "Trump rejects Iran's response to US peace proposal as 'unacceptable'",
+    "link": "https://www.france24.com/en/video/20260511-trump-rejects-iran-s-response-to-us-peace-proposal-as-unacceptable",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Middle East",
+      "latitude": 29.5,
+      "longitude": 47.5,
+      "detailed_analysis": "The rejection of Iran's response to the US peace proposal by President Trump increases the likelihood of renewed conflict in the Middle East, potentially affecting aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Increased tensions between the US and Iran may lead to heightened security measures and potential disruptions to air and sea traffic in the region.",
+      "strategic_outlook": "Prolonged conflict in the Middle East could lead to long-term instability, affecting global supply chains and logistics operations, particularly those relying on the Strait of Hormuz.",
+      "operational_impact": "Potential disruptions to air and sea traffic, increased security measures, and possible retaliatory actions against US or allied interests in the region may impact transport and logistics operations.",
+      "proximity_alert": null
+    }
   }
 ]
