@@ -359,5 +359,62 @@
       "operational_impact": "The incident may cause disruptions to transport and logistics in the Washington D.C. area, particularly around the White House and other secure locations. However, the impact is expected to be minimal and short-term.",
       "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
     }
+  },
+  {
+    "id": "dffefec7d5843801d9b6a4fd3578d47d",
+    "timestamp": "2026-05-11T18:18:46.432389",
+    "original_title": "British Airways Flight from London Declares Emergency at Edinburgh - The Aviation Hub",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOS3pZX2N2THprcEVLaVFWUU9TNXZyRm5zYkl0SWFHdTNiOHlybFNJVlhMbmVJNTZ1RzMwTk9GMm1qRUhmWGVEYVJoeW1zVmNSa0ZWMzBuRmxhREtGcTVCU0dRdHNwZE1lNkZtc2JSdE1zM3RMRGdtUmxreVRsZkFxeXV2ZGlIc3JUOEZITGZ1ODJsRHZKUlptTlR3Rlo?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Edinburgh, United Kingdom",
+      "latitude": 55.95,
+      "longitude": -3.19,
+      "detailed_analysis": "British Airways flight from London declared emergency at Edinburgh, potential threat to aviation safety and security",
+      "immediate_forecast_24h": "Investigation and response efforts will be underway, possible disruptions to flight schedules",
+      "strategic_outlook": "Incident may impact airline's reputation and passenger confidence, potential long-term effects on aviation industry",
+      "operational_impact": "Flight operations may be affected, potential delays or cancellations, increased security measures",
+      "proximity_alert": "YAKIN TEHDİT: Edinburg Airport (10 km)"
+    }
+  },
+  {
+    "id": "72a61dcd8830f489584db2b0d3bdb4d7",
+    "timestamp": "2026-05-11T18:18:49.246265",
+    "original_title": "Philippines' Duterte ally in standoff with law enforcers after ICC arrest warrant",
+    "link": "https://www.reddit.com/r/worldnews/comments/1taaxar/philippines_duterte_ally_in_standoff_with_law/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Manila, Philippines",
+      "latitude": 14.5833,
+      "longitude": 121.0,
+      "detailed_analysis": "A former ally of President Duterte is in a standoff with law enforcers after an ICC arrest warrant, indicating potential for civil unrest and conflict that could impact transport and logistics operations in the region.",
+      "immediate_forecast_24h": "The situation may escalate into violent clashes between the ally's supporters and law enforcement, potentially disrupting traffic and aviation operations in Manila.",
+      "strategic_outlook": "The long-term implications of this event could lead to increased instability in the Philippines, affecting the overall security environment for assets, cargo, aviation, and personnel.",
+      "operational_impact": "Transport and logistics operations in the region may be impacted by potential disruptions to traffic and aviation, and companies should consider contingency plans to mitigate these risks.",
+      "proximity_alert": "YAKIN TEHDİT: Ninoy Aquino International Airport (8 km)"
+    }
+  },
+  {
+    "id": "46bcec080f6af8d1114c19742281f192",
+    "timestamp": "2026-05-11T18:18:51.932388",
+    "original_title": "Kemi Seba tells South African court he fears for his life if returned to Benin",
+    "link": "http://www.africanews.com/2026/05/11/kemi-seba-tells-south-african-court-he-fears-for-his-life-if-returned-to-benin/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict",
+      "risk_score": 6,
+      "location": "Pretoria, South Africa",
+      "latitude": -25.7462,
+      "longitude": 28.1871,
+      "detailed_analysis": "Kemi Seba, a firebrand anti-Western activist, has expressed fear for his life if deported to Benin, where he is wanted for an alleged foiled coup plot. His arrest in South Africa for overstaying his visa may lead to unrest or retaliatory actions from his supporters, potentially impacting local security and aviation.",
+      "immediate_forecast_24h": "Seba's court hearing may attract protests or demonstrations, and his potential deportation could lead to increased tensions between South Africa and Benin, affecting diplomatic relations and regional stability.",
+      "strategic_outlook": "The situation may escalate into a diplomatic crisis, potentially affecting trade and travel between the two countries. Seba's supporters may attempt to disrupt aviation or logistics operations in South Africa or Benin, posing a threat to personnel and assets.",
+      "operational_impact": "Increased security measures may be necessary at airports and logistics hubs in South Africa and Benin, particularly if Seba is deported. Cargo and personnel may face delays or disruptions due to protests or unrest, and aviation operations may be affected by potential strikes or demonstrations.",
+      "proximity_alert": null
+    }
   }
 ]
