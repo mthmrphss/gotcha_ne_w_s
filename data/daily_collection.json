@@ -416,5 +416,81 @@
       "operational_impact": "Increased security measures may be necessary at airports and logistics hubs in South Africa and Benin, particularly if Seba is deported. Cargo and personnel may face delays or disruptions due to protests or unrest, and aviation operations may be affected by potential strikes or demonstrations.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "8631d5f7ca98995c3aee05cf5b75e9e7",
+    "timestamp": "2026-05-11T20:18:19.007061",
+    "original_title": "British Airways BA1458 declares emergency on approach to Edinburgh as co-pilot requires medical attention - airlive",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQzFHdE00akhiYmt3VnRoR21RRXdsQmZVRGkyenQwSzFzdUVTcDUzMU1fSmtwSnNmTzlUR0FKOUQwbkpMZ0RzQS1fY2ZZMWJGTGozVy14TzlnVWtVaHZUMFp2WVBMcWxxUTc2SjU3UXkzREhZdXYzaTdsSXlXVlZWODQwcDV3NS1jMnlDR09RckEyQ2NidlF4MGw0RW5aMlhnclN5cXYyOU1FYk4zc0tvT0dfM3VkY2pqMzluMUw1WnVxQmlubm9RenJJNFNoTjdSbmdERWlJcG92WlNfM2tycg?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Edinburgh, United Kingdom",
+      "latitude": 55.95,
+      "longitude": -3.19,
+      "detailed_analysis": "British Airways flight BA1458 declared an emergency on approach to Edinburgh due to the co-pilot requiring medical attention. This incident highlights the potential risks associated with in-flight medical emergencies and their impact on aviation operations.",
+      "immediate_forecast_24h": "The situation is likely to be resolved within the next 24 hours, with the co-pilot receiving medical attention and the flight resuming normal operations. However, there may be some delays or disruptions to British Airways flights in the short term.",
+      "strategic_outlook": "In the long term, this incident may lead to a review of British Airways' emergency procedures and medical protocols for crew members. It may also highlight the need for increased investment in crew training and medical resources to mitigate the risks associated with in-flight medical emergencies.",
+      "operational_impact": "The incident may cause some disruption to British Airways operations, particularly if the co-pilot is unable to fly for an extended period. However, the impact is likely to be limited, and the airline should be able to maintain its scheduled flights with minimal disruption.",
+      "proximity_alert": "YAKIN TEHDİT: Edinburg Airport (10 km)"
+    }
+  },
+  {
+    "id": "dc0a2605ad8fed992356fc047f48be5e",
+    "timestamp": "2026-05-11T20:18:21.493265",
+    "original_title": "Markets sell off as U.S.-Iran ceasefire plans go nowhere, leaving Trump with a military option to reopen the Strait of Hormuz",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1tad8rm/markets_sell_off_as_usiran_ceasefire_plans_go/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Strait of Hormuz, Middle East",
+      "latitude": 26.0,
+      "longitude": 56.0,
+      "detailed_analysis": "The breakdown of U.S.-Iran ceasefire plans increases the likelihood of a military conflict, potentially affecting the Strait of Hormuz, a critical waterway for international oil trade. This could lead to disruptions in cargo shipping and aviation in the region.",
+      "immediate_forecast_24h": "Increased military presence and heightened tensions in the region, potentially leading to disruptions in shipping and air traffic.",
+      "strategic_outlook": "A prolonged conflict could lead to a significant increase in oil prices, affecting the global economy, and potentially drawing in other nations, escalating the conflict further.",
+      "operational_impact": "Potential disruptions to cargo shipping, increased risk of piracy or attacks on vessels, and possible airspace restrictions or closures, affecting aviation operations in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "3632dbf59390c6b28a0525358a5c87c7",
+    "timestamp": "2026-05-11T20:18:24.348309",
+    "original_title": "France arrests Tunisian suspected of planning 'jihad-inspired' attack in Paris",
+    "link": "https://www.france24.com/en/france/20260511-france-arrests-tunisian-suspected-of-planning-jihad-inspired-attack-in-paris",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Terrorism/Crime",
+      "risk_score": 10,
+      "location": "Paris, France",
+      "latitude": 48.8567,
+      "longitude": 2.3508,
+      "detailed_analysis": "A 27-year-old Tunisian man was arrested for planning a 'jihad-inspired' attack in Paris, targeting a museum and the Jewish community, indicating a high level of intent and potential for harm to personnel and assets.",
+      "immediate_forecast_24h": "Increased security measures are expected in Paris, particularly around potential targets such as museums and Jewish community centers, with a heightened alert for any suspicious activity.",
+      "strategic_outlook": "The long-term impact could involve increased security protocols for museums and community centers, as well as enhanced surveillance and intelligence gathering to prevent similar plots, potentially affecting tourism and local businesses.",
+      "operational_impact": "Transportation and logistics in and around Paris may experience delays or increased security checks due to the heightened alert status, particularly for cargo and personnel moving through the city.",
+      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (2 km)"
+    }
+  },
+  {
+    "id": "8699815d2271959c319d113de5f703eb",
+    "timestamp": "2026-05-11T20:18:28.123267",
+    "original_title": "Police Swarm Frontier Airlines Plane at Denver International Airport After Ammunition Magazine Discovered Just Before Takeoff",
+    "link": "https://www.paddleyourownkanoo.com/2026/05/11/police-swarm-frontier-airlines-plane-at-denver-international-airport-after-ammunition-magazine-discovered-just-before-takeoff/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Aviation/Crime",
+      "risk_score": 7,
+      "location": "Denver, USA",
+      "latitude": 39.8561,
+      "longitude": -104.6739,
+      "detailed_analysis": "A Frontier Airlines plane was swarmed by police after an ammunition magazine was discovered on the floor of the cabin, prompting a security sweep and deplaning of passengers. The incident occurred just before takeoff, indicating a potential threat to aviation security.",
+      "immediate_forecast_24h": "The incident may cause delays or cancellations of flights at Denver International Airport, and passengers may experience increased security screening. Law enforcement will likely investigate the source of the ammunition magazine and review security protocols.",
+      "strategic_outlook": "The incident highlights the need for continued vigilance and robust security measures in aviation. Airlines and airports may need to reassess their security procedures to prevent similar incidents in the future.",
+      "operational_impact": "The incident may impact flight operations at Denver International Airport, potentially causing delays or disruptions to cargo and passenger transport. Airlines and logistics providers should be prepared for potential security enhancements and increased scrutiny of passengers and cargo.",
+      "proximity_alert": null
+    }
   }
 ]
