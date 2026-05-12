@@ -682,5 +682,43 @@
       "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics in the region due to increased security measures or conflict, with possible effects on global supply chains.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "a008e07302f18b4a5bad7ca1f93d5d97",
+    "timestamp": "2026-05-12T20:15:51.689132",
+    "original_title": "Plane crash reported off Melbourne coast; 10 rescued by U.S. Coast Guard - Florida Today",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQmZWaHhUYngxcnBOQXc2a1NyNnBxSmxETGZEZXN4M3RaUnlrN2lhVnNYVlNPcnRULVVyWElNVmFKazVHTG5OanRWT0RqZDI4UEEwbUdnd0FqZVpLazRRMV9ncEdsbV9zWW1oR0pfNVkzWXNWMy0waDNub2JYbVNIQU56Q3FjZFJ5dm9TLThDYW1ONm93LWZFbUZTV2F5RWtrczByMHlWRjl3NDhZVlZEaHpmX3VCUTh2SU5QZ3J4WlVBNWNBSjZWSVNScklhTWM?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Melbourne, Australia",
+      "latitude": -37.81,
+      "longitude": 144.96,
+      "detailed_analysis": "A plane crash has been reported off the coast of Melbourne, with 10 people rescued by the U.S. Coast Guard. The cause of the crash is currently unknown, but it poses a significant threat to aviation safety and security in the region.",
+      "immediate_forecast_24h": "Investigations into the cause of the crash will likely begin immediately, and there may be disruptions to air traffic in the area. The U.S. Coast Guard and local authorities will continue to respond to the incident and provide support to those affected.",
+      "strategic_outlook": "The long-term impact of the crash will depend on the findings of the investigation, but it may lead to changes in aviation safety protocols and procedures in the region. The incident may also have implications for the aviation industry as a whole, particularly if it is found to be related to a systemic issue or a security threat.",
+      "operational_impact": "The crash may cause disruptions to air travel in the region, particularly if the cause is found to be related to a security threat or a systemic issue. There may also be an impact on logistics and cargo operations, particularly if the crash affects the availability of air transport services.",
+      "proximity_alert": "YAKIN TEHDİT: Melbourne Havalimanı (0 km)"
+    }
+  },
+  {
+    "id": "1c54e0515314f0dd7be5951df12fe282",
+    "timestamp": "2026-05-12T20:15:57.415835",
+    "original_title": "Saudi Arabia launched covert attacks on Iran as regional war widened",
+    "link": "https://www.reddit.com/r/worldnews/comments/1tbdawg/saudi_arabia_launched_covert_attacks_on_iran_as/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Saudi Arabia, Iran",
+      "latitude": 24.7136,
+      "longitude": 46.6753,
+      "detailed_analysis": "Saudi Arabia's covert attacks on Iran indicate a significant escalation of regional conflict, posing a high risk to aviation, cargo, and personnel in the region.",
+      "immediate_forecast_24h": "Increased tensions and potential for further military action, with possible disruptions to air travel and logistics in the region.",
+      "strategic_outlook": "Prolonged conflict could lead to long-term instability, affecting global oil supplies, trade routes, and regional security, with potential for spillover into other countries.",
+      "operational_impact": "Potential for flight disruptions, cargo delays, and increased security measures for personnel and assets in the region, with possible effects on global supply chains and trade.",
+      "proximity_alert": "YAKIN TEHDİT: King Khalid International Airport (27 km)"
+    }
   }
 ]
