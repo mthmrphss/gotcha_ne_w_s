@@ -1,20 +1,39 @@
 [
   {
-    "id": "0c0e469efd00ca55e9e6319af552ba40",
-    "timestamp": "2026-05-13T18:24:42.975183",
-    "original_title": "Russia unleashes deadly daylight drone blitz across Ukraine",
-    "link": "https://www.france24.com/en/europe/20260513-russia-unleashes-deadly-daylight-drone-blitz-across-ukraine",
-    "source_name": "France 24 ME",
+    "id": "bf54a5f93aeff88c8729267b0e556eb6",
+    "timestamp": "2026-05-13T20:19:09.058661",
+    "original_title": "UAE coordinated attacks on Iran with Israel",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1tc8j9p/uae_coordinated_attacks_on_iran_with_israel/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 10,
+      "location": "UAE/Iran",
+      "latitude": 25.276987,
+      "longitude": 55.296249,
+      "detailed_analysis": "Reports of coordinated attacks by UAE and Israel on Iran pose a significant threat to aviation and regional stability. The situation has the potential to escalate into a larger conflict, affecting air travel and cargo operations in the region.",
+      "immediate_forecast_24h": "Increased military activity and heightened tensions between the involved nations are expected. Air travel disruptions, including possible airspace closures or restrictions, may occur in the next 24 hours.",
+      "strategic_outlook": "The long-term implications of these attacks could lead to a prolonged period of instability in the region, affecting trade and logistics. The situation may also draw in other nations, further complicating the conflict.",
+      "operational_impact": "Potential disruptions to air cargo and passenger flights, increased security measures at airports, and possible rerouting of flights to avoid affected areas. Ground transportation and logistics may also be impacted due to heightened security concerns.",
+      "proximity_alert": "YAKIN TEHDİT: DUBAİ (25 km)"
+    }
+  },
+  {
+    "id": "869286b3506ff530575117ebf5a5e04d",
+    "timestamp": "2026-05-13T20:19:11.244175",
+    "original_title": "Poland says it intercepts Russian aircraft over Baltic Sea",
+    "link": "https://www.reddit.com/r/worldnews/comments/1tcbjrq/poland_says_it_intercepts_russian_aircraft_over/",
+    "source_name": "Reddit r/WorldNews",
     "ai_analysis": {
       "category": "Aviation/Conflict",
-      "risk_score": 8,
-      "location": "Ukraine",
-      "latitude": 49.0,
-      "longitude": 32.0,
-      "detailed_analysis": "A large-scale daytime drone assault by Russia across Ukraine has resulted in significant casualties and damage, marking a shift in Moscow's tactics. The attack involved over 800 drones and was potentially timed to coincide with a high-profile diplomatic visit.",
-      "immediate_forecast_24h": "Increased tensions between Russia and Ukraine are expected, with potential for further drone attacks or retaliatory measures. Enhanced security measures may be implemented in Ukrainian airspace and on the ground.",
-      "strategic_outlook": "The use of drones in such a large-scale and coordinated manner indicates an escalation in the conflict, potentially leading to increased instability in the region and impacting global security dynamics. Long-term, this could lead to a significant shift in how nations approach drone warfare and defense strategies.",
-      "operational_impact": "The attack may disrupt air travel and logistics operations in and around Ukraine, with potential for delays or cancellations of flights. Ground transportation may also be affected due to increased security checks and potential for further attacks.",
+      "risk_score": 7,
+      "location": "Baltic Sea",
+      "latitude": 55.0,
+      "longitude": 18.0,
+      "detailed_analysis": "Poland intercepted Russian aircraft over the Baltic Sea, indicating heightened tensions and potential risks to aviation and regional security.",
+      "immediate_forecast_24h": "Increased military presence and surveillance in the region, potential for further interceptions or airspace violations.",
+      "strategic_outlook": "Escalation of tensions between Poland and Russia could lead to increased military activity, impacting regional stability and aviation safety.",
+      "operational_impact": "Potential disruptions to air traffic, increased security measures for flights in the region, and heightened vigilance for aviation operators.",
       "proximity_alert": null
     }
   }

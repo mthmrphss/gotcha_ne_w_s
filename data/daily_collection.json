@@ -568,5 +568,43 @@
       "operational_impact": "The attack may disrupt air travel and logistics operations in and around Ukraine, with potential for delays or cancellations of flights. Ground transportation may also be affected due to increased security checks and potential for further attacks.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "bf54a5f93aeff88c8729267b0e556eb6",
+    "timestamp": "2026-05-13T20:19:09.058661",
+    "original_title": "UAE coordinated attacks on Iran with Israel",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1tc8j9p/uae_coordinated_attacks_on_iran_with_israel/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 10,
+      "location": "UAE/Iran",
+      "latitude": 25.276987,
+      "longitude": 55.296249,
+      "detailed_analysis": "Reports of coordinated attacks by UAE and Israel on Iran pose a significant threat to aviation and regional stability. The situation has the potential to escalate into a larger conflict, affecting air travel and cargo operations in the region.",
+      "immediate_forecast_24h": "Increased military activity and heightened tensions between the involved nations are expected. Air travel disruptions, including possible airspace closures or restrictions, may occur in the next 24 hours.",
+      "strategic_outlook": "The long-term implications of these attacks could lead to a prolonged period of instability in the region, affecting trade and logistics. The situation may also draw in other nations, further complicating the conflict.",
+      "operational_impact": "Potential disruptions to air cargo and passenger flights, increased security measures at airports, and possible rerouting of flights to avoid affected areas. Ground transportation and logistics may also be impacted due to heightened security concerns.",
+      "proximity_alert": "YAKIN TEHDİT: DUBAİ (25 km)"
+    }
+  },
+  {
+    "id": "869286b3506ff530575117ebf5a5e04d",
+    "timestamp": "2026-05-13T20:19:11.244175",
+    "original_title": "Poland says it intercepts Russian aircraft over Baltic Sea",
+    "link": "https://www.reddit.com/r/worldnews/comments/1tcbjrq/poland_says_it_intercepts_russian_aircraft_over/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 7,
+      "location": "Baltic Sea",
+      "latitude": 55.0,
+      "longitude": 18.0,
+      "detailed_analysis": "Poland intercepted Russian aircraft over the Baltic Sea, indicating heightened tensions and potential risks to aviation and regional security.",
+      "immediate_forecast_24h": "Increased military presence and surveillance in the region, potential for further interceptions or airspace violations.",
+      "strategic_outlook": "Escalation of tensions between Poland and Russia could lead to increased military activity, impacting regional stability and aviation safety.",
+      "operational_impact": "Potential disruptions to air traffic, increased security measures for flights in the region, and heightened vigilance for aviation operators.",
+      "proximity_alert": null
+    }
   }
 ]
