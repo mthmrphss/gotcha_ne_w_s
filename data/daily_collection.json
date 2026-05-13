@@ -549,5 +549,24 @@
       "operational_impact": "Aviation and logistics operations in and around Beirut may be disrupted due to the conflict, with potential for delays, rerouting, or cessation of services to ensure safety.",
       "proximity_alert": "YAKIN TEHDİT: Beirut–Rafic Hariri International Airport (0 km)"
     }
+  },
+  {
+    "id": "0c0e469efd00ca55e9e6319af552ba40",
+    "timestamp": "2026-05-13T18:24:42.975183",
+    "original_title": "Russia unleashes deadly daylight drone blitz across Ukraine",
+    "link": "https://www.france24.com/en/europe/20260513-russia-unleashes-deadly-daylight-drone-blitz-across-ukraine",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 8,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "A large-scale daytime drone assault by Russia across Ukraine has resulted in significant casualties and damage, marking a shift in Moscow's tactics. The attack involved over 800 drones and was potentially timed to coincide with a high-profile diplomatic visit.",
+      "immediate_forecast_24h": "Increased tensions between Russia and Ukraine are expected, with potential for further drone attacks or retaliatory measures. Enhanced security measures may be implemented in Ukrainian airspace and on the ground.",
+      "strategic_outlook": "The use of drones in such a large-scale and coordinated manner indicates an escalation in the conflict, potentially leading to increased instability in the region and impacting global security dynamics. Long-term, this could lead to a significant shift in how nations approach drone warfare and defense strategies.",
+      "operational_impact": "The attack may disrupt air travel and logistics operations in and around Ukraine, with potential for delays or cancellations of flights. Ground transportation may also be affected due to increased security checks and potential for further attacks.",
+      "proximity_alert": null
+    }
   }
 ]
