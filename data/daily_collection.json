@@ -359,5 +359,81 @@
       "operational_impact": "The conflict may impact air cargo and logistics operations in the region, particularly if airspace restrictions are implemented or military activity disrupts air traffic control. Ground transportation may also be affected by increased security measures or military mobilization.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "f976e16ed927ba6d135aa664b10e04fe",
+    "timestamp": "2026-05-13T11:09:48.157830",
+    "original_title": "Russian drone attacks kill nine in Ukraine after ceasefire expires",
+    "link": "https://www.reddit.com/r/worldnews/comments/1tbvupo/russian_drone_attacks_kill_nine_in_ukraine_after/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "Russian drone attacks have killed nine people in Ukraine after a ceasefire expired, indicating an escalation of violence and potential threat to aviation and personnel in the region.",
+      "immediate_forecast_24h": "Increased military activity and potential for further drone attacks, posing a risk to aviation and personnel in the region.",
+      "strategic_outlook": "Long-term instability and conflict in the region may lead to sustained threats to aviation, cargo, and personnel, with potential for escalation into a wider conflict.",
+      "operational_impact": "Potential disruption to air traffic and logistics in the region, with increased risk to personnel and assets, and possible restrictions on flight operations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "c3ff204ddd4f684120cd4a770d684deb",
+    "timestamp": "2026-05-13T11:09:50.430185",
+    "original_title": "Iran feels economic strain as Strait of Hormuz tensions deepen",
+    "link": "http://www.africanews.com/2026/05/13/iran-feels-economic-strain-as-strait-of-hormuz-tensions-deepen/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 6,
+      "location": "Strait of Hormuz, Iran",
+      "latitude": 26.0,
+      "longitude": 56.0,
+      "detailed_analysis": "The economic strain on Iran due to the tensions in the Strait of Hormuz, combined with a month-long internet cut, is leading to mass job losses and business closures, potentially destabilizing the region and affecting maritime trade.",
+      "immediate_forecast_24h": "Increased tensions may lead to further disruptions in shipping and trade, potentially escalating into military conflicts.",
+      "strategic_outlook": "Long-term instability in the region could have significant impacts on global oil prices and trade routes, affecting the operations of aviation and cargo companies.",
+      "operational_impact": "Potential disruptions to maritime trade and aviation operations, increased security measures, and possible rerouting of cargo and flights to avoid the affected area.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "9bb1168b892372c44af8e8154c0efcf8",
+    "timestamp": "2026-05-13T11:09:54.124088",
+    "original_title": "Russia announces new nuclear missile ready to launch by end of year",
+    "link": "https://www.france24.com/en/video/20260513-russia-announces-new-nuclear-missile-ready-to-launch-by-end-of-year",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Moscow, Russia",
+      "latitude": 55.7558,
+      "longitude": 37.6176,
+      "detailed_analysis": "Russia's announcement of a new nuclear missile ready to launch by the end of the year poses a significant threat to global security, potentially escalating tensions and increasing the risk of conflict.",
+      "immediate_forecast_24h": "Increased military activity and heightened alertness are expected in the region, with potential impacts on air travel and logistics.",
+      "strategic_outlook": "The deployment of the Sarmat missile could lead to a long-term escalation of the conflict in Ukraine and potentially draw in other nations, affecting global stability and trade.",
+      "operational_impact": "Potential disruptions to air travel, increased security measures, and heightened tensions may impact cargo transport, aviation, and personnel safety in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Vnukovo International Airport (27 km)"
+    }
+  },
+  {
+    "id": "8aa5cf5a26e0c47c11c1ce1516ca4645",
+    "timestamp": "2026-05-13T11:09:57.811632",
+    "original_title": "A Passenger Left a Jacket With €30,500 in the Pocket at Dubai International Airport… They Never Bothered to Claim Back Their Property",
+    "link": "https://www.paddleyourownkanoo.com/2026/05/13/a-passenger-left-a-jacket-with-e30500-in-the-pocket-at-dubai-international-airport-they-never-bothered-to-claim-back-their-property/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Crime",
+      "risk_score": 10,
+      "location": "Dubai, UAE",
+      "latitude": 25.2522,
+      "longitude": 55.3644,
+      "detailed_analysis": "A passenger left a jacket with €30,500 in the pocket at Dubai International Airport and never reclaimed it, indicating a potential security vulnerability and possible insider threat or opportunistic crime",
+      "immediate_forecast_24h": "No immediate threats expected, but potential for similar incidents if security protocols are not reviewed and strengthened",
+      "strategic_outlook": "Long-term, this incident highlights the need for enhanced security measures and passenger screening to prevent and respond to potential crimes at the airport",
+      "operational_impact": "Potential disruption to airport operations if similar incidents occur, and possible reputational damage to the airport and its security services",
+      "proximity_alert": "YAKIN TEHDİT: DUBAİ (26 km)"
+    }
   }
 ]
