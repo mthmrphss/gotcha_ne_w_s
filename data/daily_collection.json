@@ -492,5 +492,62 @@
       "operational_impact": "The attack may disrupt oil supply chains, affecting cargo shipments and logistics in the region. Aviation operations may also be impacted due to increased military activity and potential airspace restrictions.",
       "proximity_alert": "YAKIN TEHDİT: Krasnodar Pashkovsky International Airport (4 km)"
     }
+  },
+  {
+    "id": "72798bef36e1db317b130397eb14dbeb",
+    "timestamp": "2026-05-13T16:25:33.256299",
+    "original_title": "Gulf Countries Arrest Shiite ‘Traitors’ Amid War With Iran",
+    "link": "https://www.nytimes.com/2026/05/13/world/middleeast/gulf-countries-arrest-shiite.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict/Civil Unrest",
+      "risk_score": 7,
+      "location": "Gulf Countries",
+      "latitude": 24.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The Gulf countries' arrest of Shiite citizens accused of belonging to Iran-linked terrorism cells indicates a heightened state of tension and potential for further conflict in the region, posing a threat to aviation, cargo, and personnel.",
+      "immediate_forecast_24h": "Increased security measures and potential for retaliatory actions from Iran or affiliated groups, potentially disrupting air travel and logistics in the region.",
+      "strategic_outlook": "The escalation of the conflict between Gulf countries and Iran may lead to a prolonged period of instability, affecting trade and transportation routes, and potentially drawing in other regional or global actors.",
+      "operational_impact": "Potential for flight disruptions, increased security screenings, and cargo delays due to heightened security measures, as well as possible targeting of critical infrastructure, such as airports and seaports.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "a995d66903630d1545c55eb67054ddea",
+    "timestamp": "2026-05-13T16:25:36.678915",
+    "original_title": "Israel's government is expected to collapse over ultra-Orthodox military draft",
+    "link": "https://www.reddit.com/r/worldnews/comments/1tc4lan/israels_government_is_expected_to_collapse_over/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 6,
+      "location": "Jerusalem, Israel",
+      "latitude": 31.7833,
+      "longitude": 35.2167,
+      "detailed_analysis": "The potential collapse of Israel's government due to disagreements over the ultra-Orthodox military draft could lead to civil unrest and instability, potentially affecting aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Increased protests and demonstrations are expected in the coming days, which may cause disruptions to transportation and logistics in the area.",
+      "strategic_outlook": "A prolonged period of political instability could have long-term implications for the security and stability of the region, potentially affecting trade and commerce.",
+      "operational_impact": "Flights and cargo shipments may be delayed or disrupted due to the potential for civil unrest and protests, and transport operators should exercise caution when operating in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "ccd2bc8215c66c1bcd475ece9430f7f5",
+    "timestamp": "2026-05-13T16:25:39.645071",
+    "original_title": "Israeli drone strikes kill 8 near Beirut ahead of talks",
+    "link": "http://www.africanews.com/2026/05/13/israeli-drone-strikes-kill-8-near-beirut-ahead-of-talks/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 10,
+      "location": "Beirut, Lebanon",
+      "latitude": 33.8938,
+      "longitude": 35.5018,
+      "detailed_analysis": "Israeli drone strikes near Beirut have resulted in significant loss of life, indicating a heightened state of conflict that could impact aviation and ground transport in the region.",
+      "immediate_forecast_24h": "Escalation of violence is possible, with potential for further drone strikes or retaliatory actions, affecting air travel and logistics in the immediate area.",
+      "strategic_outlook": "The long-term impact could involve increased tensions between involved parties, potentially leading to sustained conflict that affects regional aviation and transport security.",
+      "operational_impact": "Aviation and logistics operations in and around Beirut may be disrupted due to the conflict, with potential for delays, rerouting, or cessation of services to ensure safety.",
+      "proximity_alert": "YAKIN TEHDİT: Beirut–Rafic Hariri International Airport (0 km)"
+    }
   }
 ]
