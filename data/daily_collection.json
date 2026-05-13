@@ -435,5 +435,62 @@
       "operational_impact": "Potential disruption to airport operations if similar incidents occur, and possible reputational damage to the airport and its security services",
       "proximity_alert": "YAKIN TEHDİT: DUBAİ (26 km)"
     }
+  },
+  {
+    "id": "3e96ce153f0a190e001158375ccdf10a",
+    "timestamp": "2026-05-13T13:36:50.554839",
+    "original_title": "VIDEO: 11 rescued after plane crash off Florida coast - KIRO 7 News Seattle",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNldMMVp0RGtMSVlGaWJoNWlaeWpoZXNUMndaQ0Q0dWtHR2NZT3M0RFRCWWd5MTdIY2ZRVWNuNm1veEhBUXpCdTNOYTljQWhWa1ZwQ3d5N0NMUFFOY09uV0ItU1JMVVo0UF9JQmVGWXZ0MzQzZ0ExckRmakRIZ0pSNGhCOF84eWdGVTVnNlU2WXFjaWxNVnBqRXhkOFZoMnYtWGxsZElGMFFmTjIzSTAtU25NaExCQXhoT2dxWjhpb2U?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 8,
+      "location": "Florida coast, USA",
+      "latitude": 27.6648,
+      "longitude": -80.5479,
+      "detailed_analysis": "A plane crash occurred off the Florida coast, resulting in the rescue of 11 people. The incident poses a significant risk to aviation safety and may have operational implications for air travel and logistics in the region.",
+      "immediate_forecast_24h": "Investigations into the cause of the crash are likely to begin immediately, and air traffic in the region may be subject to increased scrutiny and potential disruptions.",
+      "strategic_outlook": "The incident may lead to a review of aviation safety protocols and procedures in the region, potentially resulting in changes to air travel regulations and increased security measures.",
+      "operational_impact": "The crash may cause delays or cancellations of flights in the region, and may also impact the transportation of cargo and personnel.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "91a8714d686ad6170054e4a8bef17d81",
+    "timestamp": "2026-05-13T13:36:54.184608",
+    "original_title": "Russia targets Ukraine with more than 200 drones in daytime assault",
+    "link": "https://www.reddit.com/r/worldnews/comments/1tbzts3/russia_targets_ukraine_with_more_than_200_drones/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "Russia has launched a large-scale drone assault on Ukraine, with over 200 drones involved in the daytime attack. This poses a significant threat to Ukrainian aviation and national security.",
+      "immediate_forecast_24h": "Increased military activity and potential for further drone attacks in the region, with possible disruptions to air traffic and logistics.",
+      "strategic_outlook": "Escalation of the conflict between Russia and Ukraine, potentially leading to increased instability and security risks in the region, with long-term implications for global security and trade.",
+      "operational_impact": "Potential disruptions to air traffic, logistics, and supply chains in the region, with possible impacts on cargo transport, aviation operations, and personnel safety.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "079163277d94c4063784ee9f85ec3446",
+    "timestamp": "2026-05-13T13:36:56.168920",
+    "original_title": "Russian Black Sea oil terminal ablaze amid Ukrainian drone attack as Moscow's Navy celebrates anniversary",
+    "link": "https://www.reddit.com/r/worldnews/comments/1tbzewv/russian_black_sea_oil_terminal_ablaze_amid/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 10,
+      "location": "Krasnodar Krai, Russia",
+      "latitude": 45.0,
+      "longitude": 39.0,
+      "detailed_analysis": "A Ukrainian drone attack has set a Russian Black Sea oil terminal ablaze, posing a significant threat to regional stability and oil supply chains. The attack coincides with the Moscow Navy's anniversary celebrations, potentially escalating tensions between Ukraine and Russia.",
+      "immediate_forecast_24h": "Increased military activity and potential retaliation from Russia are expected in the short term, with possible disruptions to maritime traffic and oil exports in the Black Sea region.",
+      "strategic_outlook": "The long-term implications of this attack may include heightened security measures at oil terminals and increased tensions between Ukraine and Russia, potentially affecting global oil prices and regional stability.",
+      "operational_impact": "The attack may disrupt oil supply chains, affecting cargo shipments and logistics in the region. Aviation operations may also be impacted due to increased military activity and potential airspace restrictions.",
+      "proximity_alert": "YAKIN TEHDİT: Krasnodar Pashkovsky International Airport (4 km)"
+    }
   }
 ]
