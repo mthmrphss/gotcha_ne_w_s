@@ -454,5 +454,100 @@
       "operational_impact": "The installation of transponders on airport vehicles may cause temporary disruptions to airport operations, but is expected to ultimately enhance the safety and security of aviation operations.",
       "proximity_alert": "YAKIN TEHDİT: John F. Kennedy (22 km)"
     }
+  },
+  {
+    "id": "71d2938f810025bbb8fefbc8d974316e",
+    "timestamp": "2026-05-14T15:27:52.374724",
+    "original_title": "West Pharmaceutical starts restoring operations after ransomware attack - Cybersecurity Dive",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTkRPeVZ0NkZFVEZlVDhuWFFLRzlnTUtrTFM5cnI1ZnJlOFFVWVg5VDBCTHpmc1E1NlZNZnJCVjg0VWE0dWpqLWhVWnE4NEhPc196Wnp3TUFDa1k5a3puZkFjeldDVnctT2tacDRZRTNMVDc5UGY2TnlYcU1jRDRoU1kyNlcyQTFfRWo4aDFNdzZUbFBDbk40WVdZUTlGejFLR2UyaU5ma0U?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 6,
+      "location": "Unknown, USA",
+      "latitude": 39.9523,
+      "longitude": -75.1631,
+      "detailed_analysis": "West Pharmaceutical experienced a ransomware attack, which has impacted their operations. The company has started restoring operations, but the attack may have compromised sensitive data and disrupted supply chains.",
+      "immediate_forecast_24h": "The company's operations are expected to be partially restored within the next 24 hours, but the full extent of the damage and potential data breaches may take longer to assess.",
+      "strategic_outlook": "The attack highlights the vulnerability of pharmaceutical companies to cyber threats, which can have significant consequences for public health and the global supply chain. Companies must invest in robust cybersecurity measures to prevent such attacks.",
+      "operational_impact": "The attack may cause delays in the production and delivery of pharmaceutical products, potentially affecting the availability of essential medicines and impacting the healthcare sector.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "b6cccf0f92cfcaa0245c52b5c7ebe97b",
+    "timestamp": "2026-05-14T15:27:55.126905",
+    "original_title": "Live Updates: After Xi’s Warning on Taiwan, He and Trump Strike Positive Tone",
+    "link": "https://www.nytimes.com/live/2026/05/13/world/trump-xi-summit-china",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Beijing, China",
+      "latitude": 39.9042,
+      "longitude": 116.4074,
+      "detailed_analysis": "Tensions between the US and China regarding Taiwan could potentially escalate, but the positive tone struck by Xi and Trump suggests a desire to cooperate and avoid conflict.",
+      "immediate_forecast_24h": "No immediate escalation expected, but the situation will be closely monitored by both countries.",
+      "strategic_outlook": "Long-term relations between the US and China will depend on how the Taiwan issue is handled, with potential for increased tensions or cooperation.",
+      "operational_impact": "No direct impact on transport or logistics expected at this time, but increased tensions could potentially affect trade and shipping in the future.",
+      "proximity_alert": "YAKIN TEHDİT: Beijing Capital International Airport (25 km)"
+    }
+  },
+  {
+    "id": "c0321a95f87ef6968b815d3b2d18d17c",
+    "timestamp": "2026-05-14T15:27:58.445745",
+    "original_title": "Synthetic drugs from India fuelling West Africa's opioid epidemic",
+    "link": "http://www.africanews.com/2026/05/14/synthetic-drugs-from-india-fuelling-west-africas-opioid-epidemic/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Crime",
+      "risk_score": 7,
+      "location": "West Africa",
+      "latitude": 10.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Synthetic drugs from India are fuelling a growing opioid epidemic in West Africa, indicating a significant increase in smuggling and illicit trade, posing a threat to cargo and personnel in the region.",
+      "immediate_forecast_24h": "Increased surveillance and interdiction efforts by law enforcement may lead to seizures and arrests, potentially disrupting supply chains and logistics operations.",
+      "strategic_outlook": "The opioid epidemic in West Africa is likely to continue, driven by demand and supply factors, with potential long-term consequences for regional stability and security, including increased crime and violence.",
+      "operational_impact": "Transport and logistics operations in the region may be affected by increased security measures, potential seizures, and disruptions to supply chains, requiring enhanced risk management and mitigation strategies.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "43a94fc934601daa55be83b8641f4f0a",
+    "timestamp": "2026-05-14T15:28:00.286742",
+    "original_title": "Mali's army carries out overnight strikes on rebel-held city of Kidal",
+    "link": "http://www.africanews.com/2026/05/14/malis-army-carries-out-overnight-strikes-on-rebel-held-city-of-kidal/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 7,
+      "location": "Kidal, Mali",
+      "latitude": 18.0333,
+      "longitude": 1.4167,
+      "detailed_analysis": "Mali's army has carried out overnight strikes on the rebel-held city of Kidal, targeting specific objectives, indicating an escalation of conflict in the region.",
+      "immediate_forecast_24h": "Intensifying strikes are expected in the coming days, potentially leading to increased instability and security risks for assets, cargo, aviation, and personnel in the area.",
+      "strategic_outlook": "The conflict in Mali may lead to a prolonged period of instability, affecting regional security and potentially disrupting transport and logistics operations.",
+      "operational_impact": "The strikes may impact aviation operations, with potential risks to aircraft and personnel, and may also disrupt cargo transport and logistics in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "0916016830349ae3bf7c47964de41319",
+    "timestamp": "2026-05-14T15:28:08.917911",
+    "original_title": "How stray Ukrainian drones pushed Latvia's prime minister to resign",
+    "link": "https://www.france24.com/en/europe/20260514-how-stray-ukrainian-drones-pushed-latvia-prime-minister-resign",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 10,
+      "location": "Riga, Latvia",
+      "latitude": 56.9496,
+      "longitude": 24.1052,
+      "detailed_analysis": "Ukrainian drones straying into Latvian airspace pose a significant threat to aviation security, potentially disrupting air traffic and compromising the safety of aircraft and personnel. The resignation of the Latvian Prime Minister highlights the political instability and potential for further conflict.",
+      "immediate_forecast_24h": "Increased military presence and heightened security measures are expected in the short term, potentially leading to disruptions in air traffic and logistics. The situation may escalate if the drone incursions continue.",
+      "strategic_outlook": "The long-term implications of this incident may include increased tensions between Latvia and Ukraine, as well as potential repercussions for regional security and stability. The incident may also lead to a review of Latvia's air defense systems and protocols.",
+      "operational_impact": "The incident may cause delays or disruptions to air traffic, potentially affecting cargo transport and logistics in the region. Airlines and logistics companies may need to reassess their routes and security protocols to mitigate the risks associated with the drone incursions.",
+      "proximity_alert": "YAKIN TEHDİT: Riga International Airport (8 km)"
+    }
   }
 ]

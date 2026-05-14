@@ -1,116 +1,97 @@
 [
   {
-    "id": "70edf30f012226ddbbf1b1761d1b4696",
-    "timestamp": "2026-05-14T12:59:56.796497",
-    "original_title": "\"They’re turning their backs on Russia”… In India, French defense contractors are making significant inroads one year after Operation Sindoor",
-    "link": "https://www.reddit.com/r/geopolitics/comments/1tcvbac/theyre_turning_their_backs_on_russia_in_india/",
-    "source_name": "Reddit r/Geopolitics",
+    "id": "71d2938f810025bbb8fefbc8d974316e",
+    "timestamp": "2026-05-14T15:27:52.374724",
+    "original_title": "West Pharmaceutical starts restoring operations after ransomware attack - Cybersecurity Dive",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTkRPeVZ0NkZFVEZlVDhuWFFLRzlnTUtrTFM5cnI1ZnJlOFFVWVg5VDBCTHpmc1E1NlZNZnJCVjg0VWE0dWpqLWhVWnE4NEhPc196Wnp3TUFDa1k5a3puZkFjeldDVnctT2tacDRZRTNMVDc5UGY2TnlYcU1jRDRoU1kyNlcyQTFfRWo4aDFNdzZUbFBDbk40WVdZUTlGejFLR2UyaU5ma0U?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 6,
+      "location": "Unknown, USA",
+      "latitude": 39.9523,
+      "longitude": -75.1631,
+      "detailed_analysis": "West Pharmaceutical experienced a ransomware attack, which has impacted their operations. The company has started restoring operations, but the attack may have compromised sensitive data and disrupted supply chains.",
+      "immediate_forecast_24h": "The company's operations are expected to be partially restored within the next 24 hours, but the full extent of the damage and potential data breaches may take longer to assess.",
+      "strategic_outlook": "The attack highlights the vulnerability of pharmaceutical companies to cyber threats, which can have significant consequences for public health and the global supply chain. Companies must invest in robust cybersecurity measures to prevent such attacks.",
+      "operational_impact": "The attack may cause delays in the production and delivery of pharmaceutical products, potentially affecting the availability of essential medicines and impacting the healthcare sector.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "b6cccf0f92cfcaa0245c52b5c7ebe97b",
+    "timestamp": "2026-05-14T15:27:55.126905",
+    "original_title": "Live Updates: After Xi’s Warning on Taiwan, He and Trump Strike Positive Tone",
+    "link": "https://www.nytimes.com/live/2026/05/13/world/trump-xi-summit-china",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Beijing, China",
+      "latitude": 39.9042,
+      "longitude": 116.4074,
+      "detailed_analysis": "Tensions between the US and China regarding Taiwan could potentially escalate, but the positive tone struck by Xi and Trump suggests a desire to cooperate and avoid conflict.",
+      "immediate_forecast_24h": "No immediate escalation expected, but the situation will be closely monitored by both countries.",
+      "strategic_outlook": "Long-term relations between the US and China will depend on how the Taiwan issue is handled, with potential for increased tensions or cooperation.",
+      "operational_impact": "No direct impact on transport or logistics expected at this time, but increased tensions could potentially affect trade and shipping in the future.",
+      "proximity_alert": "YAKIN TEHDİT: Beijing Capital International Airport (25 km)"
+    }
+  },
+  {
+    "id": "c0321a95f87ef6968b815d3b2d18d17c",
+    "timestamp": "2026-05-14T15:27:58.445745",
+    "original_title": "Synthetic drugs from India fuelling West Africa's opioid epidemic",
+    "link": "http://www.africanews.com/2026/05/14/synthetic-drugs-from-india-fuelling-west-africas-opioid-epidemic/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Crime",
+      "risk_score": 7,
+      "location": "West Africa",
+      "latitude": 10.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Synthetic drugs from India are fuelling a growing opioid epidemic in West Africa, indicating a significant increase in smuggling and illicit trade, posing a threat to cargo and personnel in the region.",
+      "immediate_forecast_24h": "Increased surveillance and interdiction efforts by law enforcement may lead to seizures and arrests, potentially disrupting supply chains and logistics operations.",
+      "strategic_outlook": "The opioid epidemic in West Africa is likely to continue, driven by demand and supply factors, with potential long-term consequences for regional stability and security, including increased crime and violence.",
+      "operational_impact": "Transport and logistics operations in the region may be affected by increased security measures, potential seizures, and disruptions to supply chains, requiring enhanced risk management and mitigation strategies.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "43a94fc934601daa55be83b8641f4f0a",
+    "timestamp": "2026-05-14T15:28:00.286742",
+    "original_title": "Mali's army carries out overnight strikes on rebel-held city of Kidal",
+    "link": "http://www.africanews.com/2026/05/14/malis-army-carries-out-overnight-strikes-on-rebel-held-city-of-kidal/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 7,
+      "location": "Kidal, Mali",
+      "latitude": 18.0333,
+      "longitude": 1.4167,
+      "detailed_analysis": "Mali's army has carried out overnight strikes on the rebel-held city of Kidal, targeting specific objectives, indicating an escalation of conflict in the region.",
+      "immediate_forecast_24h": "Intensifying strikes are expected in the coming days, potentially leading to increased instability and security risks for assets, cargo, aviation, and personnel in the area.",
+      "strategic_outlook": "The conflict in Mali may lead to a prolonged period of instability, affecting regional security and potentially disrupting transport and logistics operations.",
+      "operational_impact": "The strikes may impact aviation operations, with potential risks to aircraft and personnel, and may also disrupt cargo transport and logistics in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "0916016830349ae3bf7c47964de41319",
+    "timestamp": "2026-05-14T15:28:08.917911",
+    "original_title": "How stray Ukrainian drones pushed Latvia's prime minister to resign",
+    "link": "https://www.france24.com/en/europe/20260514-how-stray-ukrainian-drones-pushed-latvia-prime-minister-resign",
+    "source_name": "France 24 ME",
     "ai_analysis": {
       "category": "Aviation/Conflict",
       "risk_score": 10,
-      "location": "New Delhi, India",
-      "latitude": 28.7041,
-      "longitude": 77.1025,
-      "detailed_analysis": "French defense contractors are making significant inroads in India, potentially replacing Russian imports. This shift could impact the regional balance of power and lead to increased tensions between India and Pakistan. The Indian Air Force's plans to integrate French missiles and acquire Rafale jets may also affect the country's military capabilities.",
-      "immediate_forecast_24h": "No immediate threats are expected, but the situation will be closely monitored for any signs of escalation between India and Pakistan.",
-      "strategic_outlook": "In the long term, India's shift towards Western defense suppliers may lead to a reduction in Russian influence in the region. This could have significant implications for the global balance of power and the future of defense cooperation in the region.",
-      "operational_impact": "The increased presence of French defense contractors in India may lead to changes in the country's military logistics and supply chain. This could potentially disrupt existing operations and require adjustments to be made by transport and logistics providers.",
-      "proximity_alert": "YAKIN TEHDİT: Indira Gandhi International Airport (16 km)"
-    }
-  },
-  {
-    "id": "85f3dcba7e09d49e5c87c08b951574ca",
-    "timestamp": "2026-05-14T12:59:59.035130",
-    "original_title": "India says attack that sank Indian-flagged ship off Oman's coast 'unacceptable'.",
-    "link": "https://www.reddit.com/r/worldnews/comments/1tcx2zz/india_says_attack_that_sank_indianflagged_ship/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict/Terrorism/Crime",
-      "risk_score": 8,
-      "location": "Oman's coast",
-      "latitude": 22.0,
-      "longitude": 58.0,
-      "detailed_analysis": "An Indian-flagged ship was attacked and sank off Oman's coast, which is considered an unacceptable act by India. This incident poses a significant threat to maritime security and may have implications for global trade and shipping.",
-      "immediate_forecast_24h": "Increased tensions between India and the responsible party, potential for retaliatory actions, and enhanced security measures for ships in the region.",
-      "strategic_outlook": "Long-term implications for maritime security, potential shifts in global shipping routes, and increased cooperation between nations to combat piracy and terrorism in the region.",
-      "operational_impact": "Potential disruptions to shipping lanes, increased security protocols for vessels, and heightened vigilance for crews operating in the region.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "cffbc6732d2e112d7aa793103c7c04e9",
-    "timestamp": "2026-05-14T13:00:03.014349",
-    "original_title": "Ghana evacuates 300 citizens caught in xenophobic acts in South Africa",
-    "link": "https://www.france24.com/en/ghana-evacuates-300-citizens-caught-in-xenophobic-acts-in-south-africa",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Civil Unrest/Border/Conflict",
-      "risk_score": 10,
-      "location": "Accra, Ghana and Johannesburg, South Africa",
-      "latitude": -26.2041,
-      "longitude": 28.0473,
-      "detailed_analysis": "Xenophobic attacks in South Africa have led to the evacuation of 300 Ghanaian citizens, indicating a significant threat to personnel and potential disruption to aviation and logistics operations.",
-      "immediate_forecast_24h": "Further evacuations are likely, and there may be increased tensions between South Africa and other sub-Saharan countries, potentially affecting transport and logistics in the region.",
-      "strategic_outlook": "The situation may escalate into a broader regional conflict, impacting trade and economic relations between affected countries, and potentially leading to long-term instability in the region.",
-      "operational_impact": "Aviation and logistics operations may be disrupted due to the evacuations and potential unrest, with possible delays or cancellations of flights and shipments.",
-      "proximity_alert": "YAKIN TEHDİT: O. R. Tambo International Airport (19 km)"
-    }
-  },
-  {
-    "id": "5978d7a37937d5de4bcbd26abd640b15",
-    "timestamp": "2026-05-14T13:00:06.940057",
-    "original_title": "Russia pummels Ukraine, hitting regions far from the front lines",
-    "link": "https://www.france24.com/en/russia-pummels-ukraine-hitting-regions-far-from-the-front-lines",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict/Aviation",
-      "risk_score": 8,
-      "location": "Ukraine",
-      "latitude": 49.0,
-      "longitude": 32.0,
-      "detailed_analysis": "Russia has intensified its daytime attacks on Ukraine, including regions far from the front lines, with at least 800 drones launched, resulting in casualties and damage. This indicates a significant escalation of the conflict, posing a high risk to aviation and personnel.",
-      "immediate_forecast_24h": "Continued drone attacks and potential escalation of violence, with increased risk to aviation and personnel in the region.",
-      "strategic_outlook": "Long-term instability and conflict in the region, with potential for further escalation and increased risk to assets, cargo, and personnel.",
-      "operational_impact": "Potential disruption to air traffic and logistics in the region, with increased risk of damage or loss to assets and cargo, and risk to personnel safety.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "fcd762005591810e46662e5cc5823c8d",
-    "timestamp": "2026-05-14T13:00:26.329153",
-    "original_title": "Burkina Faso - Level 4: Do Not Travel",
-    "link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.bfa.html",
-    "source_name": "US State Dept",
-    "ai_analysis": {
-      "category": "Terrorism/Crime",
-      "risk_score": 10,
-      "location": "Burkina Faso",
-      "latitude": 12.2669,
-      "longitude": -1.5616,
-      "detailed_analysis": "High threat of kidnapping, terrorism, and crime in Burkina Faso. The U.S. government has issued a Level 4: Do Not Travel advisory due to safety risks. Terrorist organizations continue to plan and conduct terrorist activities throughout the country, targeting foreigners for kidnapping and ransom.",
-      "immediate_forecast_24h": "Increased risk of terrorist attacks, kidnappings, and crime in the next 24 hours, especially in areas frequented by foreigners and in the Sahel and East regions.",
-      "strategic_outlook": "Long-term instability and security risks in Burkina Faso, with potential for increased terrorist activity and crime. The government's declaration of a state of emergency in several territories may lead to increased military presence and potential for conflict.",
-      "operational_impact": "High risk to personnel, cargo, and aviation operations in Burkina Faso. Transport and logistics operations should exercise extreme caution, avoiding travel to high-risk areas and taking necessary security precautions to mitigate the risk of kidnapping, terrorism, and crime.",
-      "proximity_alert": "YAKIN TEHDİT: Ouagadougou Airport (10 km)"
-    }
-  },
-  {
-    "id": "9dbeadf929e43409f69801352ef053cc",
-    "timestamp": "2026-05-14T13:00:31.555980",
-    "original_title": "FAA Orders All its Airport Vehicles to be Fitted With Transponders in Wake of Deadly Air Canada Express Crash at LaGuardia",
-    "link": "https://www.paddleyourownkanoo.com/2026/05/14/faa-orders-all-its-airport-vehicles-to-be-fitted-with-transponders-in-wake-of-deadly-air-canada-express-crash-at-laguardia/",
-    "source_name": "Paddle Your Own Kanoo",
-    "ai_analysis": {
-      "category": "Aviation",
-      "risk_score": 10,
-      "location": "LaGuardia, USA",
-      "latitude": 40.7769,
-      "longitude": -73.874,
-      "detailed_analysis": "The FAA has ordered the installation of transponders on all airport airside vehicles following a deadly Air Canada Express crash at LaGuardia, indicating a potential threat to aviation safety and security.",
-      "immediate_forecast_24h": "Increased vigilance and safety measures are expected at airports, particularly at LaGuardia, in the short term.",
-      "strategic_outlook": "The long-term impact of this initiative may lead to improved aviation safety and reduced risk of accidents involving airport vehicles.",
-      "operational_impact": "The installation of transponders on airport vehicles may cause temporary disruptions to airport operations, but is expected to ultimately enhance the safety and security of aviation operations.",
-      "proximity_alert": "YAKIN TEHDİT: John F. Kennedy (22 km)"
+      "location": "Riga, Latvia",
+      "latitude": 56.9496,
+      "longitude": 24.1052,
+      "detailed_analysis": "Ukrainian drones straying into Latvian airspace pose a significant threat to aviation security, potentially disrupting air traffic and compromising the safety of aircraft and personnel. The resignation of the Latvian Prime Minister highlights the political instability and potential for further conflict.",
+      "immediate_forecast_24h": "Increased military presence and heightened security measures are expected in the short term, potentially leading to disruptions in air traffic and logistics. The situation may escalate if the drone incursions continue.",
+      "strategic_outlook": "The long-term implications of this incident may include increased tensions between Latvia and Ukraine, as well as potential repercussions for regional security and stability. The incident may also lead to a review of Latvia's air defense systems and protocols.",
+      "operational_impact": "The incident may cause delays or disruptions to air traffic, potentially affecting cargo transport and logistics in the region. Airlines and logistics companies may need to reassess their routes and security protocols to mitigate the risks associated with the drone incursions.",
+      "proximity_alert": "YAKIN TEHDİT: Riga International Airport (8 km)"
     }
   }
 ]
