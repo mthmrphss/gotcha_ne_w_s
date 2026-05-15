@@ -1,59 +1,116 @@
 [
   {
-    "id": "1615bff3484c1481eee7d39c067815b3",
-    "timestamp": "2026-05-15T05:34:20.906284",
-    "original_title": "Athens-Kyiv relations in \"crisis mode\" after Ukrainian sea drone incident | Greek foreign minister warns operations in Mediterranean \"will not be tolerated\"",
-    "link": "https://www.reddit.com/r/geopolitics/comments/1tdc9yw/athenskyiv_relations_in_crisis_mode_after/",
+    "id": "de895237692f8cb4143c6c6245a57882",
+    "timestamp": "2026-05-15T09:18:32.869649",
+    "original_title": "Enter the Killer Robots: The Ukrainian Forging the Future of Warfare",
+    "link": "https://www.nytimes.com/2026/05/15/world/europe/mykhailo-fedorov-ukraine-ai.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "The Ukrainian defense minister's focus on futuristic military technology, including killer robots, indicates a potential escalation in the conflict, posing a significant threat to assets, cargo, aviation, and personnel in the region.",
+      "immediate_forecast_24h": "Increased military activity and potential for drone or robotic attacks on key infrastructure, including airports and logistics hubs.",
+      "strategic_outlook": "Long-term implications of advanced military technology on the conflict, potentially leading to increased instability and security risks in the region.",
+      "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics operations in Ukraine and surrounding areas, with increased security measures and protocols likely to be implemented.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "0293256e0f0ab2649a51105f9d3c7978",
+    "timestamp": "2026-05-15T09:18:34.814576",
+    "original_title": "Inside the Congolese Hotel Where Trump Deported 15 U.S. Migrants",
+    "link": "https://www.nytimes.com/2026/05/15/world/africa/deportation-congo-migrants-trump.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Border/Civil Unrest",
+      "risk_score": 10,
+      "location": "Kinshasa, Democratic Republic of the Congo",
+      "latitude": -4.32,
+      "longitude": 15.3,
+      "detailed_analysis": "The deportation of 15 U.S. migrants to Kinshasa poses a risk to personnel and potentially to aviation, as it may lead to unrest or protests. The migrants' situation could also lead to a humanitarian crisis, affecting local resources and stability.",
+      "immediate_forecast_24h": "Increased tensions and potential protests near the hotel where the migrants are being held, with a low likelihood of escalation into violent clashes.",
+      "strategic_outlook": "Long-term, the situation may lead to increased diplomatic tensions between the U.S. and the Democratic Republic of the Congo, potentially affecting trade and travel between the two countries.",
+      "operational_impact": "Potential disruptions to logistics and transport in the region, particularly if protests or unrest affect major transportation hubs or routes.",
+      "proximity_alert": "YAKIN TEHDİT: N'djili Airport (4 km)"
+    }
+  },
+  {
+    "id": "c93707599276d5f140bb02120d58dba3",
+    "timestamp": "2026-05-15T09:18:37.485231",
+    "original_title": "Norway halts NSM missile exports to Malaysia, triggering diplomatic backlash",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1tdq4rf/norway_halts_nsm_missile_exports_to_malaysia/",
     "source_name": "Reddit r/Geopolitics",
     "ai_analysis": {
-      "category": "Conflict/Civil Unrest",
-      "risk_score": 7,
-      "location": "Athens, Greece; Kyiv, Ukraine",
-      "latitude": 37.9833,
-      "longitude": 23.7333,
-      "detailed_analysis": "The relations between Athens and Kyiv have deteriorated due to a Ukrainian sea drone incident, with the Greek foreign minister warning that such operations in the Mediterranean will not be tolerated. This escalation could potentially disrupt maritime trade and pose a risk to cargo and personnel in the region.",
-      "immediate_forecast_24h": "Tensions between Greece and Ukraine are expected to remain high, with a possibility of further diplomatic fallout and increased military presence in the region.",
-      "strategic_outlook": "The long-term implications of this incident could lead to a re-evaluation of alliances and partnerships in the region, potentially affecting trade and security agreements. The situation may also draw in other regional players, further complicating the conflict.",
-      "operational_impact": "Shipping and logistics companies operating in the Mediterranean should be prepared for potential disruptions, including increased security checks and possible rerouting of cargo. Airlines and airports in the region may also experience heightened security measures.",
-      "proximity_alert": null
+      "category": "Conflict/Diplomatic",
+      "risk_score": 10,
+      "location": "Oslo, Norway",
+      "latitude": 59.9139,
+      "longitude": 10.7522,
+      "detailed_analysis": "Norway's halt on NSM missile exports to Malaysia may trigger diplomatic backlash, potentially affecting international relations and trade agreements, but does not directly pose a threat to assets, cargo, aviation, or personnel at this time.",
+      "immediate_forecast_24h": "Diplomatic tensions between Norway and Malaysia are expected to rise, with potential repercussions on trade and defense partnerships, but no immediate operational impact on transport or logistics is anticipated.",
+      "strategic_outlook": "Long-term implications may include a shift in Malaysia's defense procurement strategies and potential realignments in regional alliances, which could indirectly affect global security and trade dynamics.",
+      "operational_impact": "No direct operational impact on transport or logistics is expected at this time, but ongoing diplomatic tensions could lead to changes in trade policies or defense cooperation agreements that might affect cargo shipments or aviation operations in the future.",
+      "proximity_alert": "YAKIN TEHDİT: Oslo Airport (0 km)"
     }
   },
   {
-    "id": "ab58f55b87d24c3d9c5fef72a35dbf1d",
-    "timestamp": "2026-05-15T05:34:23.335268",
-    "original_title": "The war is on hold, but Iran’s internal crackdown is only deepening",
-    "link": "https://www.reddit.com/r/worldnews/comments/1tdlohp/the_war_is_on_hold_but_irans_internal_crackdown/",
+    "id": "8a61a74267e71a0ecb95c2e774c2fc74",
+    "timestamp": "2026-05-15T09:18:39.711120",
+    "original_title": "Death toll in attack on Kyiv apartment building now stands at 24, including three children",
+    "link": "https://www.reddit.com/r/worldnews/comments/1tdql6v/death_toll_in_attack_on_kyiv_apartment_building/",
     "source_name": "Reddit r/WorldNews",
     "ai_analysis": {
-      "category": "Civil Unrest/Conflict",
-      "risk_score": 6,
-      "location": "Iran",
-      "latitude": 32.0,
-      "longitude": 53.0,
-      "detailed_analysis": "Iran's internal crackdown is deepening, indicating increased instability and potential for unrest, which could impact personnel and cargo security within the country.",
-      "immediate_forecast_24h": "Continued protests and potential for further crackdowns by the government, leading to heightened tensions and possible disruptions to transport and logistics.",
-      "strategic_outlook": "Long-term instability in Iran could lead to increased risks for assets, cargo, and personnel, particularly if the situation escalates or spreads to other regions.",
-      "operational_impact": "Potential disruptions to air and ground transport, increased security measures, and possible restrictions on cargo movement, affecting logistics and supply chain operations in and around Iran.",
-      "proximity_alert": null
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Kyiv, Ukraine",
+      "latitude": 50.4501,
+      "longitude": 30.5236,
+      "detailed_analysis": "The attack on a Kyiv apartment building resulting in 24 deaths, including three children, indicates a high level of conflict and civil unrest in the area. This event poses a significant threat to personnel and assets in the region.",
+      "immediate_forecast_24h": "Increased military activity and potential for further attacks in the Kyiv area, posing a high risk to aviation and ground transportation.",
+      "strategic_outlook": "The ongoing conflict in Ukraine is likely to continue, with potential for escalation and further attacks on civilian targets, posing a long-term risk to assets, cargo, and personnel in the region.",
+      "operational_impact": "Transportation and logistics operations in the Kyiv area may be disrupted due to the conflict, with potential for delays, damage to assets, and risk to personnel.",
+      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
     }
   },
   {
-    "id": "92d4db71a60c9dd9eefe576a17ab8311",
-    "timestamp": "2026-05-15T05:34:28.629835",
-    "original_title": "Passenger Stopped Trying to Smuggle Rare Bears Through Dubai International Airport Ater Customs Officers Spot Skeleton On X-Ray Monitor",
-    "link": "https://www.paddleyourownkanoo.com/2026/05/14/passenger-stopped-trying-to-smuggle-rare-bears-through-dubai-international-airport-ater-customs-officers-spot-skeleton-on-x-ray-monitor/",
+    "id": "954613dc9eaef1902e9b971e0572327f",
+    "timestamp": "2026-05-15T09:18:41.852495",
+    "original_title": "Protests erupt in Havana as Cuba faces severe fuel shortages",
+    "link": "http://www.africanews.com/2026/05/15/protests-erupt-in-havana-as-cuba-faces-severe-fuel-shortages/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Havana, Cuba",
+      "latitude": 23.1333,
+      "longitude": -82.3833,
+      "detailed_analysis": "Protests have erupted in Havana due to severe fuel shortages, which could potentially disrupt logistics and transportation in the area. The situation is being blamed on US sanctions by Cuban authorities.",
+      "immediate_forecast_24h": "Protests may continue or escalate in the short term, potentially affecting cargo and personnel movement in and around Havana.",
+      "strategic_outlook": "The fuel shortage crisis in Cuba may lead to prolonged civil unrest, impacting the stability of the region and potentially affecting aviation and cargo operations in the long term.",
+      "operational_impact": "Transportation and logistics operations in Havana may be disrupted due to the protests, and companies should consider alternative routes or contingency plans to minimize the impact on their operations.",
+      "proximity_alert": "YAKIN TEHDİT: José Martí International Airport (16 km)"
+    }
+  },
+  {
+    "id": "d9f878f605b8e5ec12749e3b58cea529",
+    "timestamp": "2026-05-15T09:18:45.500263",
+    "original_title": "Helsinki Airport Shuttered For Hours After Military Drone Threat Puts Finland On High Alert",
+    "link": "https://www.paddleyourownkanoo.com/2026/05/15/helsinki-airport-shuttered-for-hours-after-military-drone-threat-puts-finland-on-high-alert/",
     "source_name": "Paddle Your Own Kanoo",
     "ai_analysis": {
-      "category": "Crime",
+      "category": "Aviation/Terrorism",
       "risk_score": 10,
-      "location": "Dubai, United Arab Emirates",
-      "latitude": 25.276987,
-      "longitude": 55.296249,
-      "detailed_analysis": "A passenger attempted to smuggle rare bears through Dubai International Airport, which was detected by customs officers using X-ray monitors. The incident highlights the ongoing threat of wildlife smuggling and the importance of effective security measures at airports.",
-      "immediate_forecast_24h": "Increased security checks and inspections are likely to be implemented at Dubai International Airport in the short term to prevent similar incidents.",
-      "strategic_outlook": "The incident underscores the need for continued vigilance and cooperation between law enforcement agencies and airport authorities to combat wildlife trafficking and other forms of organized crime.",
-      "operational_impact": "The incident may lead to increased scrutiny of cargo and passenger luggage, potentially causing minor delays or disruptions to air travel and logistics operations at Dubai International Airport.",
-      "proximity_alert": "YAKIN TEHDİT: DUBAİ (25 km)"
+      "location": "Helsinki, Finland",
+      "latitude": 60.1699,
+      "longitude": 24.9384,
+      "detailed_analysis": "A military drone threat was detected at Helsinki International Airport, prompting a shutdown of airport operations and a high alert in the Uusimaa region, affecting 1.8 million people.",
+      "immediate_forecast_24h": "Increased security measures are expected to be in place, with possible continued disruptions to flights and airport operations. The situation may return to normal once the threat is neutralized.",
+      "strategic_outlook": "The incident highlights the growing concern of drone threats to aviation security and the need for enhanced countermeasures. It may lead to a review of security protocols and increased investment in drone detection and mitigation technologies.",
+      "operational_impact": "Flights were diverted, and airport operations were suspended, causing disruptions to air travel and logistics. The incident may have a ripple effect on the entire air transport system, with potential delays and cancellations.",
+      "proximity_alert": "YAKIN TEHDİT: Helsinki Airport (16 km)"
     }
   }
 ]
