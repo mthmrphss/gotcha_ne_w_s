@@ -587,5 +587,43 @@
       "operational_impact": "Potential for flight disruptions, increased security measures at airports, and heightened risk of attacks on aviation and logistics infrastructure, impacting the movement of cargo and personnel.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "5a43211a0d83f7be9cbd971fe8fc94a1",
+    "timestamp": "2026-05-15T20:03:55.973603",
+    "original_title": "Terrorist commander accused of planning attacks across U.S., authorities say - NBC News",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUElPVkhJN1N6VlpoeGhxNXJmUWdfNzRHUnUzMkU1VkVYYU9KbXZoZEVGeGxNdzRHcUJvY29mMURSXzZCenlaM1BoeFpsX0xseFVycEs0djByYVZPaGItMGFaZndNTmJRQVdEcG9QM2xFeERHNGhCbTdnbzlySnpBWWdoYmJIVmt1N3paTGdNVzFJYUdlSmhOSVNXdGd3UQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism/Aviation/Crime",
+      "risk_score": 8,
+      "location": "United States",
+      "latitude": 39.8283,
+      "longitude": -98.5795,
+      "detailed_analysis": "A terrorist commander has been accused of planning attacks across the U.S., posing a significant threat to national security, aviation, and public safety. The threat is considered high due to the potential for coordinated attacks on multiple targets.",
+      "immediate_forecast_24h": "Increased security measures are expected to be implemented at major airports, transportation hubs, and public gathering places. Law enforcement agencies will likely be on high alert, and the public may experience disruptions to daily activities.",
+      "strategic_outlook": "The long-term impact of this threat will depend on the effectiveness of law enforcement efforts to neutralize the terrorist commander and disrupt any planned attacks. The U.S. government may need to reassess its counter-terrorism strategies and enhance cooperation with international partners to prevent similar threats in the future.",
+      "operational_impact": "The threat may cause significant disruptions to air travel, cargo transportation, and logistics operations. Airlines, airports, and transportation companies should be prepared for increased security screening, potential flight delays, and changes to operational procedures.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "6ea9e8efeca2d2a3ccb74cc3d10f8047",
+    "timestamp": "2026-05-15T20:04:13.770461",
+    "original_title": "Finnish intelligence agency warns drone incidents could affect public support for Ukraine",
+    "link": "https://www.reddit.com/r/worldnews/comments/1te6ig4/finnish_intelligence_agency_warns_drone_incidents/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 10,
+      "location": "Finland, Ukraine",
+      "latitude": 60.1699,
+      "longitude": 24.9384,
+      "detailed_analysis": "Finnish intelligence agency warns that drone incidents could affect public support for Ukraine, indicating potential escalation of conflict and increased risk to aviation and logistics",
+      "immediate_forecast_24h": "Increased surveillance and security measures are expected in the region, with potential disruptions to air traffic and logistics",
+      "strategic_outlook": "Long-term impact on public support for Ukraine could lead to changes in international relations and trade agreements, affecting cargo and aviation operations",
+      "operational_impact": "Potential disruptions to air traffic, increased security checks, and altered flight routes may impact transport and logistics operations in the region",
+      "proximity_alert": "YAKIN TEHDİT: Helsinki Airport (16 km)"
+    }
   }
 ]
