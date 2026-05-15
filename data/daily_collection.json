@@ -359,5 +359,81 @@
       "operational_impact": "The attack on the UN aid convoy highlights the risks to personnel, assets, and cargo in the region. Logistics and transport operations may need to be adjusted to mitigate these risks, including the use of secure routes, enhanced security measures, and contingency planning for potential disruptions.",
       "proximity_alert": "YAKIN TEHDİT: Kherson International Airport (9 km)"
     }
+  },
+  {
+    "id": "7e0196a36df30945855b50d66a3be363",
+    "timestamp": "2026-05-15T14:24:00.632543",
+    "original_title": "Man Charged With Posting Bomb Instructions Used in New Orleans Attack - The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWUtibTF0NHdaZGVpa0VZNTZKNjhocG5taUVPYjhuQy1Hc0dXUUY4RkdWTDh4a1YtSFgyTmFKUkhRNzhyV0tTdkhBdVUtZ0pJYUJ2c2FEdVlFTWkzQXNRdkthelh2TnJldzN5enRETmdlUmJZTkF5M2U1eXpWdW1YQW9hZVlHTHJ1djlOLUVSQm9KMjFkRlE?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism/Aviation/Crime",
+      "risk_score": 8,
+      "location": "New Orleans, USA",
+      "latitude": 29.9511,
+      "longitude": -90.0715,
+      "detailed_analysis": "A man has been charged with posting bomb instructions used in a New Orleans attack, indicating a potential threat to aviation and public safety. The incident suggests a heightened risk of terrorism and crime in the area.",
+      "immediate_forecast_24h": "Increased security measures are likely to be implemented in the short term, with potential disruptions to aviation and logistics operations. Law enforcement agencies may be on high alert for similar threats.",
+      "strategic_outlook": "The long-term impact of this incident may lead to increased security protocols and surveillance in public areas, particularly in transportation hubs. This could result in a new normal for security measures, affecting the efficiency and cost of logistics operations.",
+      "operational_impact": "The incident may cause delays or cancellations of flights, and increased security checks for cargo and personnel. This could lead to supply chain disruptions and potential losses for businesses relying on timely transportation of goods.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "dc91c693f3448d9b0889098012b49d3e",
+    "timestamp": "2026-05-15T14:24:04.499829",
+    "original_title": "Iran Is Smuggling Millions Of Liters Of Fuel To Pakistan Every Day",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1tdxf6g/iran_is_smuggling_millions_of_liters_of_fuel_to/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Crime/Border",
+      "risk_score": 7,
+      "location": "Iran-Pakistan border",
+      "latitude": 29.5,
+      "longitude": 61.5,
+      "detailed_analysis": "Iran is smuggling millions of liters of fuel to Pakistan every day, indicating a significant organized crime operation that could impact regional security and stability.",
+      "immediate_forecast_24h": "Increased security measures may be implemented along the border to counter smuggling activities, potentially disrupting legitimate cargo and transport operations.",
+      "strategic_outlook": "Long-term, this smuggling operation could lead to increased tensions between Iran and Pakistan, as well as with other regional countries, potentially destabilizing the area and affecting aviation and logistics operations.",
+      "operational_impact": "Transport and logistics operations in the region may be affected by increased security checks and potential border closures, leading to delays and increased costs for cargo and personnel movement.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "2470c4ae5af08356ef7362e379566db6",
+    "timestamp": "2026-05-15T14:24:07.962155",
+    "original_title": "Funeral in Jabalia after Israeli strike hits Gaza wake despite ceasefire",
+    "link": "http://www.africanews.com/2026/05/15/funeral-in-jabalia-after-israeli-strike-hits-gaza-wake-despite-ceasefire/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "Jabalia, Gaza",
+      "latitude": 31.5372,
+      "longitude": 34.4733,
+      "detailed_analysis": "The recent Israeli strike on a wake in Jabalia, despite a ceasefire, indicates a high level of tension and violence in the region, posing a significant threat to personnel and potentially disrupting aviation and cargo operations.",
+      "immediate_forecast_24h": "Continued truce violations and potential for further strikes are expected, with elevated risk of civilian casualties and damage to infrastructure.",
+      "strategic_outlook": "The ongoing conflict in Gaza may lead to a prolonged period of instability, affecting regional security and potentially disrupting global supply chains.",
+      "operational_impact": "Aviation and cargo operations in the region may be impacted by the conflict, with potential for flight disruptions, cargo delays, and increased security measures.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "8b9791f0561484eb692fbcc7431f28ea",
+    "timestamp": "2026-05-15T14:24:14.104672",
+    "original_title": "When are the next tube strikes? Disruption expected to last across four working days",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/tube-tfl-strikes-london-underground-lines-b2977324.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "London, United Kingdom",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "detailed_analysis": "The RMT union is staging two 24-hour walkouts in May, which may cause disruption to transportation services, potentially affecting aviation and cargo operations.",
+      "immediate_forecast_24h": "Disruption expected to last across four working days, with potential delays and cancellations of flights and cargo shipments.",
+      "strategic_outlook": "The strikes may have a long-term impact on the transportation sector, potentially leading to increased costs and decreased efficiency for cargo and aviation operations.",
+      "operational_impact": "The strikes may cause delays and cancellations of flights, as well as disruptions to cargo shipments, which could have a significant impact on logistics and supply chain operations.",
+      "proximity_alert": "YAKIN TEHDİT: Heathrow Airport (23 km)"
+    }
   }
 ]
