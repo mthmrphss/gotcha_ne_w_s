@@ -169,5 +169,62 @@
       "operational_impact": "Potential disruptions to air traffic, cargo operations, and logistics in the region, with possible delays or cancellations of flights and shipments.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "04bde995ce1ab20145eb84d70efc2770",
+    "timestamp": "2026-05-16T09:12:05.602092",
+    "original_title": "Senior IS leader killed by US and Nigerian forces - BBC",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PcEZyN3lNRmQ5cHdtTmpZbzViMlBFR0lRR2pNUHRPODJ3bVVGWnd0TnpWN3BpdUdLY01wdHRFVm5QTy12TXk3czhadXMxWUNhVnNGYXd6c2Nrdw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict",
+      "risk_score": 8,
+      "location": "Nigeria",
+      "latitude": 9.081999,
+      "longitude": 8.675277,
+      "detailed_analysis": "Senior IS leader killed by US and Nigerian forces, indicating a significant counter-terrorism operation. Potential for retaliation or increased terrorist activity in the region.",
+      "immediate_forecast_24h": "Heightened security measures and potential for increased military activity in the region. Risk of retaliatory attacks against US or Nigerian interests.",
+      "strategic_outlook": "Long-term impact on regional stability and potential for increased cooperation between US and Nigerian forces in counter-terrorism efforts.",
+      "operational_impact": "Potential disruption to transport and logistics operations in the region due to increased security measures or terrorist activity. Aviation and cargo operations may be affected.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "88191cf76e74b63eeb3e0bf78f5f84dc",
+    "timestamp": "2026-05-16T09:12:07.387604",
+    "original_title": "London Prepares for Rival Protests, With a Major Security Effort - The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1INHpTTTRsemI4elZoOVlsb2lYRExSdFlvdlZENjdia3M2X0NGMTFsTmRHNkZkV0JURzl2eENrZDJFVVUzaDZ6b2pqSFpJQlNFYkNNTE9FeFpteDBJY013U0JVNk5oMThrdWxNSVZySGxCLWg1cHBvbUtSZERQZkU?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "London, United Kingdom",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "detailed_analysis": "Rival protests in London may lead to disruptions in transportation and potential security threats to assets and personnel in the area.",
+      "immediate_forecast_24h": "Increased security presence and potential clashes between protesters may cause traffic congestion and disruptions to local businesses.",
+      "strategic_outlook": "The situation may escalate if protests turn violent, affecting the overall stability of the region and potentially impacting aviation and cargo operations.",
+      "operational_impact": "Transportation and logistics in the area may be affected due to road closures and security checkpoints, potentially causing delays and increased costs for cargo and personnel movement.",
+      "proximity_alert": "YAKIN TEHDİT: Heathrow Airport (23 km)"
+    }
+  },
+  {
+    "id": "bdc2005d86f8d65f0daac7d6802b1507",
+    "timestamp": "2026-05-16T09:12:11.346058",
+    "original_title": "Ukraine vows retribution after Russian strike on housing block kills 24",
+    "link": "https://www.france24.com/en/ukraine-vows-retribution-after-russian-strike-on-housing-block-kills-24",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Kyiv, Ukraine",
+      "latitude": 50.4501,
+      "longitude": 30.5236,
+      "detailed_analysis": "A Russian missile strike on a residential building in Kyiv has resulted in 24 fatalities, including three children. The Ukrainian President has vowed retribution, indicating a potential escalation of the conflict.",
+      "immediate_forecast_24h": "Increased tensions between Ukraine and Russia, potential for further military strikes or retaliatory actions.",
+      "strategic_outlook": "Long-term instability in the region, potential for prolonged conflict, and impact on regional security and global geopolitics.",
+      "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics in the region due to increased military activity and security concerns.",
+      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
+    }
   }
 ]
