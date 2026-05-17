@@ -93,5 +93,81 @@
       "operational_impact": "The incident caused a six-hour delay, which may have resulted in inconvenience to passengers and potential knock-on effects for connecting flights, but it is not expected to have a significant impact on the overall transport or logistics operations.",
       "proximity_alert": "YAKIN TEHDİT: Heathrow Airport (0 km)"
     }
+  },
+  {
+    "id": "82c1605e18ea6e78ecbba08f8e716e60",
+    "timestamp": "2026-05-17T08:28:40.161190",
+    "original_title": "IDF tests readiness for surprise attack on eastern border - The Jerusalem Post",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBLMzJ6VkpYTTJBc1hCdVdMRnJ3Q2tNbkNLTnpGUWY2Z2JrSlE5YWFpQUxwckJKUU9xRHdWRDJNYzVtclYwamhOUDdoazJYWWVoUDRxc293cEhiS05iOHg0TXZ1anVMbU1kbWFJamNR?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Eastern Border, Israel",
+      "latitude": 32.0,
+      "longitude": 35.5,
+      "detailed_analysis": "The IDF is testing readiness for a surprise attack on the eastern border, indicating a potential threat to assets, cargo, aviation, and personnel in the region.",
+      "immediate_forecast_24h": "Increased military activity and heightened alertness are expected in the region, potentially disrupting transport and logistics operations.",
+      "strategic_outlook": "The situation may escalate into a larger conflict, affecting regional stability and security, with potential long-term impacts on trade and commerce.",
+      "operational_impact": "Transport and logistics operations in the region may be disrupted or delayed due to increased security measures and potential conflict, with potential risks to assets, cargo, and personnel.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "09bc02e7bba030c447c193eea6aa1866",
+    "timestamp": "2026-05-17T08:28:42.746564",
+    "original_title": "W.H.O. Declares Ebola Outbreak a Global Health Emergency",
+    "link": "https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Other",
+      "risk_score": 8,
+      "location": "Uganda and Democratic Republic of Congo",
+      "latitude": 0.321,
+      "longitude": 32.581,
+      "detailed_analysis": "The W.H.O. declaration of the Ebola outbreak as a global health emergency poses a significant threat to personnel and potentially to cargo and aviation if the outbreak spreads to major transportation hubs.",
+      "immediate_forecast_24h": "Increased health screenings at airports and border crossings, potential travel restrictions, and heightened security measures to prevent the spread of the outbreak.",
+      "strategic_outlook": "Long-term impact on global health security, potential economic disruption to affected regions, and increased investment in public health infrastructure.",
+      "operational_impact": "Potential disruptions to cargo and aviation operations, particularly if the outbreak spreads to major transportation hubs, and increased security measures to prevent the spread of the disease.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "9cc4c3173f4c69f159e2fe331f18cb82",
+    "timestamp": "2026-05-17T08:28:46.817710",
+    "original_title": "WHO declares Ebola outbreak an emergency of international concern",
+    "link": "http://www.africanews.com/2026/05/17/who-declares-ebola-outbreak-an-emergency-of-international-concern/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Other",
+      "risk_score": 6,
+      "location": "DR Congo, Uganda",
+      "latitude": -4.0,
+      "longitude": 21.0,
+      "detailed_analysis": "The World Health Organization (WHO) has declared the Ebola outbreak in the DR Congo an emergency of international concern, with 88 deaths and 336 suspected cases. This poses a significant risk to personnel and potentially to cargo and aviation if the outbreak spreads to major transportation hubs.",
+      "immediate_forecast_24h": "The situation is likely to worsen in the short term, with increased risk of transmission and potential for further cases in neighboring countries.",
+      "strategic_outlook": "The long-term impact will depend on the effectiveness of containment measures, but there is a risk of widespread disruption to transportation and logistics in the region if the outbreak is not brought under control.",
+      "operational_impact": "Transportation and logistics operations in the region may be impacted by increased health screening, potential border closures, and reduced personnel availability due to quarantine or illness.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "988274eaa860c3a1bbeb83ccc521869a",
+    "timestamp": "2026-05-17T08:28:48.890921",
+    "original_title": "Ukraine launches more than 500 drones at Russia in deadly overnight attack, authorities say",
+    "link": "https://www.france24.com/en/europe/20260517-ukraine-launches-more-than-500-drones-at-russia-in-deadly-overnight-attack-authorities-say",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 10,
+      "location": "Moscow, Russia",
+      "latitude": 55.7558,
+      "longitude": 37.6176,
+      "detailed_analysis": "Ukraine launched over 500 drones at Russia in a massive overnight attack, with Russian air defenses intercepting the drones across 14 regions and the annexed Crimean peninsula, resulting in three fatalities in the Moscow region.",
+      "immediate_forecast_24h": "Heightened security measures are expected in Russian airspace, with potential disruptions to air traffic and increased military presence. Further drone attacks are possible, and the situation may escalate.",
+      "strategic_outlook": "The conflict between Ukraine and Russia may continue to escalate, with potential long-term impacts on regional stability, air travel, and global security. The use of drones in attacks may become a more common tactic, posing new challenges for air defense systems.",
+      "operational_impact": "The attack may cause disruptions to air traffic in the region, with potential delays or cancellations of flights. The increased military presence and security measures may also impact logistics and cargo operations, particularly those involving air transport.",
+      "proximity_alert": "YAKIN TEHDİT: Vnukovo International Airport (27 km)"
+    }
   }
 ]
