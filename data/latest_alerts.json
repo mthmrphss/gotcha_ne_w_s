@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "id": "5876f7d25ff416473857de69e1bf4a32",
+    "timestamp": "2026-05-17T01:27:25.815674",
+    "original_title": "EasyJet flight makes emergency U-turn over English Channel after fault - sussex.news",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSzRLd2Y5VTJpVkpGTW1ZOXc0NUZzZlJxWWRRdU4xQWxEazVsa2FBZGM0WTdhbl9GSGtCbnZSWGhJLTlxTk5VZVdDdElPZXA3RG9DWV9fOEFlWTRZRk50R1pzU0F1NUVSaHVzdGJSYUdhM0xtdXJ0RHdXTVhqb1E0Y25kNUN2RTlVOWJKc3A1N3RraDc2eFhmUkk4VlRJOTNKQ3hhNE1ES2ZRR0s3VWJKbHJfZDd3VVdy?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 6,
+      "location": "English Channel",
+      "latitude": 50.0,
+      "longitude": 0.0,
+      "detailed_analysis": "An EasyJet flight made an emergency U-turn over the English Channel due to a fault, posing a potential risk to the safety of passengers and crew on board.",
+      "immediate_forecast_24h": "The incident may cause delays or disruptions to EasyJet flights, and an investigation into the cause of the fault is likely to be launched.",
+      "strategic_outlook": "The incident highlights the importance of regular maintenance and safety checks for aircraft to prevent such faults from occurring in the future.",
+      "operational_impact": "The incident may impact EasyJet's operations, potentially leading to flight cancellations or delays, and affecting the travel plans of passengers.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "09128be373f47e51156c0a8137a00438",
+    "timestamp": "2026-05-17T01:27:43.549472",
+    "original_title": "America's Options, Apparently: More Bombing, Boots on the Ground, and Walk-away",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1texqv6/americas_options_apparently_more_bombing_boots_on/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 6,
+      "location": "Iran, USA",
+      "latitude": 32.0,
+      "longitude": -96.0,
+      "detailed_analysis": "The article discusses the potential options for the US in relation to Iran, including more bombing, boots on the ground, and walk-away, indicating a heightened state of tension and potential conflict between the two nations, which could impact aviation and logistics in the region.",
+      "immediate_forecast_24h": "Increased military activity and heightened tensions between the US and Iran, potentially leading to disruptions in air travel and cargo transport in the region.",
+      "strategic_outlook": "Long-term escalation of conflict between the US and Iran could lead to significant disruptions in global supply chains, particularly in the Middle East, and increased risk of terrorism and cyber attacks.",
+      "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics in the region, with possible increased security measures and restrictions on personnel movement.",
+      "proximity_alert": null
+    }
+  }
+]
