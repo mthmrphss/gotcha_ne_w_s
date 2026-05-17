@@ -169,5 +169,62 @@
       "operational_impact": "The attack may cause disruptions to air traffic in the region, with potential delays or cancellations of flights. The increased military presence and security measures may also impact logistics and cargo operations, particularly those involving air transport.",
       "proximity_alert": "YAKIN TEHDİT: Vnukovo International Airport (27 km)"
     }
+  },
+  {
+    "id": "d91e6a47f1050cb9c1037a538a64ac1b",
+    "timestamp": "2026-05-17T10:10:02.707630",
+    "original_title": "Wave of Ukrainian Strikes Kills at Least 4, Russia Says",
+    "link": "https://www.nytimes.com/2026/05/17/world/europe/russia-ukraine-strikes-moscow.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 10,
+      "location": "Moscow, Russia",
+      "latitude": 55.7558,
+      "longitude": 37.6176,
+      "detailed_analysis": "A wave of Ukrainian strikes using over 550 drones has been reported, with at least 4 killed and multiple regions affected, including Moscow. This represents a significant escalation in the conflict and poses a substantial threat to aviation and personnel.",
+      "immediate_forecast_24h": "Increased military activity and potential for further drone strikes are expected in the next 24 hours, with heightened security measures likely to be implemented in affected regions.",
+      "strategic_outlook": "The long-term outlook suggests continued instability and potential for further conflict escalation, with significant implications for regional security and global geopolitical dynamics.",
+      "operational_impact": "The drone strikes may disrupt air traffic and logistics operations in the region, with potential delays or cancellations of flights and increased security screening for cargo and personnel.",
+      "proximity_alert": "YAKIN TEHDİT: Vnukovo International Airport (27 km)"
+    }
+  },
+  {
+    "id": "ddc868a39769828ecf6d3f1ed1ef41dd",
+    "timestamp": "2026-05-17T10:10:05.868867",
+    "original_title": "🔴 Ukraine launches around 600 drones at Russia, Zelensky claims ‘justified’ attack",
+    "link": "https://www.france24.com/en/europe/20260517-ukraine-launches-more-than-500-drones-at-russia-in-deadly-overnight-attack-authorities-say",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 8,
+      "location": "Ukraine/Russia",
+      "latitude": 48.3794,
+      "longitude": 31.1656,
+      "detailed_analysis": "Ukraine has launched a large-scale drone attack on Russia, with around 600 drones involved. This is a significant escalation of the conflict and poses a substantial threat to aviation and personnel in the region.",
+      "immediate_forecast_24h": "Increased tensions and potential for retaliation from Russia, with possible disruptions to air traffic and logistics in the region.",
+      "strategic_outlook": "The conflict between Ukraine and Russia is likely to continue, with potential for further escalation and impact on regional stability and global supply chains.",
+      "operational_impact": "Potential disruptions to air traffic, increased security measures, and possible restrictions on cargo and personnel movements in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "4590c0221484b126cf477374128235a9",
+    "timestamp": "2026-05-17T10:10:08.490156",
+    "original_title": "Joint US-Nigeria operation killed a senior militant leader of IS",
+    "link": "https://www.france24.com/en/joint-us-nigeria-operation-killed-a-senior-militant-leader-of-is",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict",
+      "risk_score": 8,
+      "location": "Nigeria",
+      "latitude": 9.081999,
+      "longitude": 8.675277,
+      "detailed_analysis": "A joint US-Nigeria operation has killed a senior militant leader of the Islamic State group in Nigeria, indicating a heightened level of counter-terrorism activity in the region.",
+      "immediate_forecast_24h": "Potential for retaliatory attacks by IS affiliates or sympathizers, increased security measures at airports and other critical infrastructure.",
+      "strategic_outlook": "Long-term reduction in IS influence in the region, but potential for ongoing instability and security threats.",
+      "operational_impact": "Increased security protocols for aviation and cargo operations, potential for delays or disruptions to transport and logistics in the region.",
+      "proximity_alert": null
+    }
   }
 ]
