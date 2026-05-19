@@ -36,5 +36,81 @@
       "operational_impact": "The incident is unlikely to have a significant impact on transport or logistics operations.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "e7303227f4c237e03357be005a1f8926",
+    "timestamp": "2026-05-19T01:31:10.162730",
+    "original_title": "Trump says he’s called off an attack on Iran to give talks more time - The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeVdjaDlZX3JFeDhwd0o4MmNFMHA2UTJ3SUhyVEg4cHg2QjVvd0NmT0ZkdFJBcWJ3a3Z6UUpkUFRQTmtQSWFOeWt2SlFmeHp4NFVsczVuNFZxUDZjdXNiMFpyQUZhN1FuUURmaVlleGJQWExCU2Fnam4yd2RhSUEyRWtJYTM2Z19HUFFRc2UzYy01SGc?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Iran, Middle East",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The US President has called off an attack on Iran, indicating a temporary de-escalation of tensions. However, the situation remains volatile, and any miscalculation could lead to conflict, affecting aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Tensions are expected to remain high, with a possibility of retaliatory actions from Iran or its allies. Aviation and cargo operations may face disruptions due to increased security measures or airspace restrictions.",
+      "strategic_outlook": "The long-term outlook remains uncertain, with the potential for conflict still present. The situation may escalate if talks between the US and Iran fail to yield positive results, leading to increased risks for aviation, cargo, and personnel in the region.",
+      "operational_impact": "The situation may impact flight routes, cargo shipments, and personnel movements in the region. Airlines and cargo operators should be prepared for potential disruptions, including airspace restrictions, increased security measures, and possible attacks on assets and personnel.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "6725eb3195035036b47925ff4a52ffbc",
+    "timestamp": "2026-05-19T01:31:12.897093",
+    "original_title": "Trump news at a glance: president says scheduled attack on Iran has been postponed – for now - The Guardian",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSllPRlNZSjdPeWpLM2Fwa2J2a0kxNjBtOUhDOUozVGtxbUozWXotWlF6WmFmWHBlRlltN0trOE9Nd0tjZGZWMnBMR2M5VjJ4amxQR2pvUWc0a1pTUnRLNWZtc3pBbmRBUlRXRFR0aWE5RUR0Z0dfNzROclRybW1vMw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Iran, Middle East",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The US president has announced a postponement of a scheduled attack on Iran, indicating a potential escalation of conflict in the region, which could impact aviation and cargo operations.",
+      "immediate_forecast_24h": "Tensions between the US and Iran are expected to remain high, with a possibility of further escalation or retaliation, affecting regional stability and transport operations.",
+      "strategic_outlook": "The conflict could lead to a prolonged period of instability in the region, impacting global supply chains, aviation routes, and cargo shipments, with potential long-term consequences for trade and economic relations.",
+      "operational_impact": "Airlines and cargo operators may need to reassess flight routes and schedules, while transport and logistics companies should be prepared for potential disruptions to supply chains and increased security measures.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "c9a8bbf75e51941d100897ee34d60858",
+    "timestamp": "2026-05-19T01:31:16.381844",
+    "original_title": "Putin gains upper hand as Trump triggers European missile crisis",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1th3c3f/putin_gains_upper_hand_as_trump_triggers_european/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Europe",
+      "latitude": 48.8567,
+      "longitude": 2.2945,
+      "detailed_analysis": "The current situation between Putin and Trump has triggered a European missile crisis, which poses a significant threat to aviation and personnel in the region. The conflict has the potential to escalate, affecting cargo and logistics operations.",
+      "immediate_forecast_24h": "Increased tensions and potential military mobilization in the region, with a high likelihood of airspace restrictions and potential disruptions to air travel.",
+      "strategic_outlook": "Long-term instability in the region, potentially leading to a prolonged conflict, which could have a significant impact on global trade and logistics operations.",
+      "operational_impact": "Potential disruptions to air travel, increased security measures, and possible restrictions on cargo movements, which could lead to delays and increased costs for logistics operations.",
+      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (1 km)"
+    }
+  },
+  {
+    "id": "eea34508bdf5e34ccf06a52abd158e76",
+    "timestamp": "2026-05-19T01:31:49.911995",
+    "original_title": "US tightens Ebola precautions as outbreak declared international emergency",
+    "link": "https://www.france24.com/en/americas/20260518-us-tightens-ebola-precautions-as-outbreak-declared-international-emergency",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Aviation/Health",
+      "risk_score": 6,
+      "location": "Democratic Republic of Congo, Africa",
+      "latitude": -4.0,
+      "longitude": 21.0,
+      "detailed_analysis": "The World Health Organization has declared the Ebola outbreak in the Democratic Republic of Congo an international health emergency, prompting the US to increase precautions, including screening air travellers from outbreak-hit areas and suspending visa services, which may impact aviation operations and personnel safety",
+      "immediate_forecast_24h": "Enhanced screening measures at US airports and potential disruptions to air travel from affected regions are expected in the next 24 hours",
+      "strategic_outlook": "The outbreak may lead to long-term changes in aviation security protocols and health screening procedures, potentially affecting global air travel and logistics",
+      "operational_impact": "Potential disruptions to air travel, increased security measures, and impacts on personnel safety and cargo operations due to the outbreak and subsequent precautions",
+      "proximity_alert": null
+    }
   }
 ]
