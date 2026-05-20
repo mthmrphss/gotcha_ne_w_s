@@ -1,58 +1,39 @@
 [
   {
-    "id": "3e69bbe0bb5c9c0b62cc49fff9e8571d",
-    "timestamp": "2026-05-20T20:34:58.834865",
-    "original_title": "Cuba Says the Trump Administration Is Not Negotiating in Good Faith",
-    "link": "https://www.nytimes.com/2026/05/20/world/americas/guzman-cuba-us-negotiations-trump.html",
-    "source_name": "NewYork Times",
+    "id": "5e0011c3d4a09c7fb33edd9c95f11140",
+    "timestamp": "2026-05-20T22:26:03.875192",
+    "original_title": "U.S. military boards Iranian-flagged oil tanker suspected of trying to breach blockade - PBS",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWjNMLUllaXRBVlpqaHowY2gzZkJlcXl0dFo2MV9Db0NTN0Y4VTdnM2trcUk3dGRQUXc1b29PUjBXSDlmbnJ2ekFORDZMa2F4YmdHSmZ5S2dyTGMyTHBjVzlYdkRtOFp3dEhEUU9qb0NCNlNtRFRqOW9pQzg2TkVYTE1PQnE2X1FRamlsMkNMejVMX0tsX2FyT1NCcGtyWFk4aEJ3YlhKcWJhYWhXUVpReUdPdEE1RzNpd2pIOdIBwgFBVV95cUxOWHR3UW1mTXFMM3RRYWFrcUxUQUpEQTR2aXZMcnppdldOcjg1aGpXOWpCX0JEVkl4cENvU2JFQ0QtZ3lXc0NaaXNqV0VoUlc5dnA0TGs3VzNEbjlPM19YMDNfTkpmbkNEUHdPQ0Q0aUFJYTdqUmtObkRXLWlYVnBQOE54WHUzeUxUNGFzRk1jUTladTEwX1d1aWFqVjNSYnF3bFJXSlNrZjFGTWJjRU55ZElqVlpGbDV5VENsbHdLRUFlZw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Crime",
+      "risk_score": 10,
+      "location": "International Waters",
+      "latitude": 25.0,
+      "longitude": 55.0,
+      "detailed_analysis": "The U.S. military has boarded an Iranian-flagged oil tanker suspected of attempting to breach a blockade, indicating a potential escalation of tensions between the two nations and a heightened risk of conflict in the region, which could impact maritime trade and shipping lanes.",
+      "immediate_forecast_24h": "Increased naval presence and surveillance in the region, potential for further confrontations or interceptions of vessels suspected of sanctions evasion.",
+      "strategic_outlook": "Long-term implications for global oil markets and trade, potential for increased military presence in the region, and heightened tensions between the U.S. and Iran.",
+      "operational_impact": "Potential disruptions to maritime trade, increased risk of piracy or armed robbery against ships, and heightened security measures for vessels transiting the region.",
+      "proximity_alert": "YAKIN TEHDİT: DUBAİ (20 km)"
+    }
+  },
+  {
+    "id": "db66a62cd70bbb51b484e345c9ca5729",
+    "timestamp": "2026-05-20T22:26:08.496582",
+    "original_title": "Demand soars for Israel's battle-tested weapons tech despite global criticism of its wartime conduct",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1tizi7v/demand_soars_for_israels_battletested_weapons/",
+    "source_name": "Reddit r/Geopolitics",
     "ai_analysis": {
       "category": "Conflict",
-      "risk_score": 10,
-      "location": "Havana, Cuba",
-      "latitude": 23.1333,
-      "longitude": -82.3833,
-      "detailed_analysis": "Cuba's ambassador to the UN stated that the Trump administration is not negotiating in good faith, creating pretexts for military action. This indicates a heightened state of tension between the two nations.",
-      "immediate_forecast_24h": "No immediate action is expected, but the situation may escalate if diplomatic efforts fail.",
-      "strategic_outlook": "Long-term relations between the US and Cuba may deteriorate, potentially affecting trade, aviation, and personnel in the region.",
-      "operational_impact": "No direct impact on assets, cargo, or aviation is expected at this time, but increased tensions may lead to future disruptions.",
-      "proximity_alert": "YAKIN TEHDİT: José Martí International Airport (16 km)"
-    }
-  },
-  {
-    "id": "2c74a190020bafcc083470d33d049ce7",
-    "timestamp": "2026-05-20T20:35:02.261958",
-    "original_title": "Hamas memos show Canadian-funded charities worked with terror group, NGO says",
-    "link": "https://www.reddit.com/r/worldnews/comments/1tiy14k/hamas_memos_show_canadianfunded_charities_worked/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Terrorism/Crime",
-      "risk_score": 7,
-      "location": "Gaza, Palestine/Canada",
-      "latitude": 31.5,
-      "longitude": 34.5,
-      "detailed_analysis": "Hamas memos reveal Canadian-funded charities worked with the terror group, posing a significant threat to global security and potential impact on cargo and aviation logistics.",
-      "immediate_forecast_24h": "Increased scrutiny of charitable organizations and potential disruptions to logistics operations in the region.",
-      "strategic_outlook": "Long-term implications for international aid and charitable work in high-risk areas, with potential for increased security measures and regulations.",
-      "operational_impact": "Potential delays or disruptions to cargo shipments and aviation operations due to increased security protocols and scrutiny of charitable organizations.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "afb9486b87ce6ca7c8eb79951ad27f5c",
-    "timestamp": "2026-05-20T20:35:07.313847",
-    "original_title": "Argentina - Level 1: Exercise Normal Precautions",
-    "link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/argentina-travel-advisory.html",
-    "source_name": "US State Dept",
-    "ai_analysis": {
-      "category": "Health/Crime",
-      "risk_score": 4,
-      "location": "Argentina, City of Rosario",
-      "latitude": -32.95,
-      "longitude": -60.65,
-      "detailed_analysis": "There have been reported cases of Andes (Hantavirus) Virus in the region, with low risk for most travelers. Additionally, increased crime and violence in the City of Rosario due to criminal and narcotics trafficking elements.",
-      "immediate_forecast_24h": "No significant changes expected in the next 24 hours, but travelers should remain vigilant and take necessary precautions to prevent exposure to hantavirus and crime.",
-      "strategic_outlook": "Long-term outlook indicates a need for continued monitoring of the health situation and crime trends in Argentina, particularly in high-risk areas like the City of Rosario.",
-      "operational_impact": "Potential impact on transport and logistics operations in Argentina, particularly in areas with high crime rates, and a need for awareness and precautions to prevent the spread of hantavirus among personnel.",
+      "risk_score": 6,
+      "location": "Israel",
+      "latitude": 31.7833,
+      "longitude": 35.2167,
+      "detailed_analysis": "Increased demand for Israel's battle-tested weapons tech despite global criticism of its wartime conduct may lead to heightened tensions and conflict in the region, potentially impacting aviation and logistics operations.",
+      "immediate_forecast_24h": "No immediate escalation expected, but ongoing tensions may lead to increased security measures and potential disruptions to transport operations.",
+      "strategic_outlook": "Long-term implications of increased weapons sales and global criticism may lead to shifts in regional alliances and increased conflict, potentially affecting cargo and personnel movements.",
+      "operational_impact": "Potential for increased security checks and delays at airports and border crossings, as well as heightened risk of conflict-related disruptions to logistics and supply chains.",
       "proximity_alert": null
     }
   }
