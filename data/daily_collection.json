@@ -188,5 +188,62 @@
       "operational_impact": "Flights may be suspended or rerouted, and cargo operations may be delayed or disrupted due to the increased security measures and potential for further conflict.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "e99b49ee5ed19bd41385e1eba5a4e009",
+    "timestamp": "2026-05-20T11:52:33.433273",
+    "original_title": "How Iran Gained Leverage in the War",
+    "link": "https://www.nytimes.com/2026/05/20/world/middleeast/iran-strait-of-hormuz-triangular-coercion.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "Strait of Hormuz, Middle East",
+      "latitude": 26.0,
+      "longitude": 56.0,
+      "detailed_analysis": "Iran's use of triangular coercion by attacking Gulf states and closing the Strait of Hormuz poses a significant threat to aviation and cargo transport in the region, highlighting a long-term U.S. vulnerability.",
+      "immediate_forecast_24h": "Increased tensions and potential for further attacks on Gulf states and shipping lanes, with possible disruptions to air traffic and cargo transport.",
+      "strategic_outlook": "Long-term instability in the region, with potential for ongoing conflicts and disruptions to global supply chains, particularly affecting oil and cargo shipments.",
+      "operational_impact": "Potential for delays, rerouting, or cancellations of flights and cargo shipments, with increased security measures and costs for transport and logistics companies operating in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "ab8e8ff78911ef5d89a36dbb1ca5a7d5",
+    "timestamp": "2026-05-20T11:52:38.072816",
+    "original_title": "Nigeria-US strikes kill three senior ISWAP leaders",
+    "link": "http://www.africanews.com/2026/05/20/nigeria-us-strikes-kill-three-senior-iswap-leaders/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict",
+      "risk_score": 8,
+      "location": "Northeast, Nigeria",
+      "latitude": 10.0,
+      "longitude": 10.0,
+      "detailed_analysis": "Nigerian forces and US Africa Command conducted joint air and ground strikes, killing three senior ISWAP leaders, indicating heightened counter-terrorism operations in the region, posing a threat to aviation and personnel",
+      "immediate_forecast_24h": "Increased security measures and potential for retaliatory attacks by ISWAP",
+      "strategic_outlook": "Long-term instability in the region, with potential for continued clashes between Nigerian forces and ISWAP, affecting aviation and cargo operations",
+      "operational_impact": "Potential disruptions to air travel and cargo transport in the region, with increased security protocols and possible rerouting of flights",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "423c2a7acf915239f6d355f39bbff966",
+    "timestamp": "2026-05-20T11:52:42.240619",
+    "original_title": "Los Angeles World Cup workers vow strike if ICE deployed at stadium",
+    "link": "https://www.france24.com/en/video/20260520-los-angeles-world-cup-workers-vow-strike-if-ice-deployed-at-stadium",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Los Angeles, USA",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "detailed_analysis": "Potential strike by workers at SoFi Stadium in Los Angeles due to concerns over ICE deployment during World Cup matches, which could disrupt stadium operations and impact personnel and event logistics.",
+      "immediate_forecast_24h": "Tensions may escalate if federal guarantees are not provided, leading to potential strike action and disruptions to stadium activities.",
+      "strategic_outlook": "The situation may be resolved through negotiations between workers and federal authorities, but the threat of strike action could have long-term implications for event security and logistics at the stadium.",
+      "operational_impact": "Potential disruptions to stadium operations, logistics, and personnel management, which could impact the safety and security of assets, cargo, and attendees at the World Cup matches.",
+      "proximity_alert": "YAKIN TEHDİT: Los Angeles International Airport (20 km)"
+    }
   }
 ]
