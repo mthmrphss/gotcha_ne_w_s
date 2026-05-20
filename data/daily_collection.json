@@ -378,5 +378,43 @@
       "operational_impact": "Potential disruptions to air traffic and cargo operations in the region due to increased military activity, with possible restrictions on airspace and shipping lanes.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "3e69bbe0bb5c9c0b62cc49fff9e8571d",
+    "timestamp": "2026-05-20T20:34:58.834865",
+    "original_title": "Cuba Says the Trump Administration Is Not Negotiating in Good Faith",
+    "link": "https://www.nytimes.com/2026/05/20/world/americas/guzman-cuba-us-negotiations-trump.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Havana, Cuba",
+      "latitude": 23.1333,
+      "longitude": -82.3833,
+      "detailed_analysis": "Cuba's ambassador to the UN stated that the Trump administration is not negotiating in good faith, creating pretexts for military action. This indicates a heightened state of tension between the two nations.",
+      "immediate_forecast_24h": "No immediate action is expected, but the situation may escalate if diplomatic efforts fail.",
+      "strategic_outlook": "Long-term relations between the US and Cuba may deteriorate, potentially affecting trade, aviation, and personnel in the region.",
+      "operational_impact": "No direct impact on assets, cargo, or aviation is expected at this time, but increased tensions may lead to future disruptions.",
+      "proximity_alert": "YAKIN TEHDİT: José Martí International Airport (16 km)"
+    }
+  },
+  {
+    "id": "2c74a190020bafcc083470d33d049ce7",
+    "timestamp": "2026-05-20T20:35:02.261958",
+    "original_title": "Hamas memos show Canadian-funded charities worked with terror group, NGO says",
+    "link": "https://www.reddit.com/r/worldnews/comments/1tiy14k/hamas_memos_show_canadianfunded_charities_worked/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Terrorism/Crime",
+      "risk_score": 7,
+      "location": "Gaza, Palestine/Canada",
+      "latitude": 31.5,
+      "longitude": 34.5,
+      "detailed_analysis": "Hamas memos reveal Canadian-funded charities worked with the terror group, posing a significant threat to global security and potential impact on cargo and aviation logistics.",
+      "immediate_forecast_24h": "Increased scrutiny of charitable organizations and potential disruptions to logistics operations in the region.",
+      "strategic_outlook": "Long-term implications for international aid and charitable work in high-risk areas, with potential for increased security measures and regulations.",
+      "operational_impact": "Potential delays or disruptions to cargo shipments and aviation operations due to increased security protocols and scrutiny of charitable organizations.",
+      "proximity_alert": null
+    }
   }
 ]
