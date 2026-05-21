@@ -302,5 +302,81 @@
       "operational_impact": "The fuel shortages and rising prices may impact airlines' operational efficiency, leading to reduced flight schedules, increased costs, and potential delays, which could have a ripple effect on the entire logistics and transportation industry.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "c6ec9ad71743f65880f355c2de7b683a",
+    "timestamp": "2026-05-21T11:48:27.135431",
+    "original_title": "Myanmar military recaptures 2 strategic border towns from ethnic militias - The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUkpxMjBUSVVwRGRtcUkyRF9tVC1LZHIxTkJBcVFJcEdVcGtzUFZjTHRoN2JEYzFRaE9wOGg0U2lBc2lTVWdXMEktUnNFbDdIenF4TktrV2RUZFpQRHNOZGZrem9qeUxDUGxTaTlMbVpLSTJjdEV4WlJNQkw5YW5iQ0FfRG01dDBpYVRMazlpTWlYM1VOUks2aXNNOVNFTWEwZWppQTZvQmRmeDhYeGNKOW5BSnF0dWhEX1dxSmZmbFRDLWJ6OUVzYmVpUzBDaWFZ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest/Border",
+      "risk_score": 6,
+      "location": "Myanmar border towns",
+      "latitude": 21.9167,
+      "longitude": 95.9667,
+      "detailed_analysis": "The recapture of strategic border towns by the Myanmar military from ethnic militias indicates heightened conflict and instability in the region, posing a risk to assets, cargo, aviation, and personnel in the area.",
+      "immediate_forecast_24h": "Increased military presence and potential for further clashes between the military and ethnic militias, potentially disrupting transport and logistics in the region.",
+      "strategic_outlook": "Long-term instability and conflict in the region may lead to sustained disruptions to transport and logistics, with potential for spillover into neighboring countries.",
+      "operational_impact": "Potential disruptions to supply chains, increased risk of cargo theft or damage, and heightened security concerns for personnel and assets in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "03585e304b39f2e1ef5358c699a5bf2e",
+    "timestamp": "2026-05-21T11:48:31.488734",
+    "original_title": "Iran rebuilding military industrial base faster than expected, already producing drones, according to US intel | CNN Politics",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1tjh6ai/iran_rebuilding_military_industrial_base_faster/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Iran's rapid rebuilding of its military industrial base, with a focus on drone production, poses a significant threat to regional stability and aviation security. This development could lead to increased tensions and potential conflicts, affecting cargo and personnel safety.",
+      "immediate_forecast_24h": "Heightened surveillance and monitoring of Iranian military activities, with potential for increased drone sightings in the region, affecting aviation operations and transport logistics.",
+      "strategic_outlook": "Long-term implications include a potential shift in the regional balance of power, with Iran's growing military capabilities posing a threat to neighboring countries and global interests, necessitating strategic planning and contingency measures for transport and logistics operations.",
+      "operational_impact": "Potential disruptions to air traffic, increased security measures at airports, and enhanced screening of cargo and personnel, with possible rerouting of flights and adjustments to logistics operations to mitigate risks.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "520626a8a69fe61abc837b140032ea07",
+    "timestamp": "2026-05-21T11:48:34.344512",
+    "original_title": "Gideon Levy says Ben-Gvir sees 'all of Gaza as Hamas: No innocent people in Gaza or even Europe'",
+    "link": "https://www.france24.com/en/tv-shows/spotlight/20260521-gideon-levy-says-ben-gvir-sees-all-of-gaza-as-hamas-no-innocent-people-in-gaza-or-even-europe",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Tel Aviv, Israel",
+      "latitude": 32.0853,
+      "longitude": 34.7818,
+      "detailed_analysis": "The statement by Gideon Levy regarding the views of Ben-Gvir on Gaza and Hamas may indicate heightened tensions and potential for conflict, but does not directly imply a threat to assets, cargo, aviation, or personnel at this time.",
+      "immediate_forecast_24h": "No immediate escalation expected, but the situation will continue to be monitored due to the sensitive nature of the comments and the current electoral tensions in Israel.",
+      "strategic_outlook": "The rise of xenophobic nationalism and the dependence on the United States could lead to long-term instability in the region, potentially affecting transport and logistics in the future.",
+      "operational_impact": "Currently, there is no direct operational impact on transport or logistics, but the situation will be closely watched for any signs of escalation that could affect aviation, cargo, or personnel safety.",
+      "proximity_alert": "YAKIN TEHDİT: Ben Gurion International Airport (0 km)"
+    }
+  },
+  {
+    "id": "28fb4cd82e5afe0df4ab8dc38698d00c",
+    "timestamp": "2026-05-21T11:48:40.066226",
+    "original_title": "EasyJet issue summer fuel update after sharp rise in financial losses",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/easyjet-aviation-fuel-supply-summer-financial-losses-b2980898.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Aviation/Financial",
+      "risk_score": 10,
+      "location": "London, United Kingdom",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "detailed_analysis": "EasyJet faces financial losses, but CEO confirms intention to maintain summer schedule, no direct threat to aviation safety or security",
+      "immediate_forecast_24h": "No immediate disruption expected, but financial struggles may impact future operations",
+      "strategic_outlook": "Long-term financial stability of EasyJet may be at risk, potentially affecting the airline's ability to maintain services",
+      "operational_impact": "No immediate impact on transport or logistics, but potential for future disruptions if financial issues persist",
+      "proximity_alert": "YAKIN TEHDİT: Heathrow Airport (23 km)"
+    }
   }
 ]
