@@ -245,5 +245,81 @@
       "operational_impact": "Disruptions to flight schedules, potential for cargo delays, and increased security measures to mitigate the impact of the strike on airport operations",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "c26f956538054a259ed722a381aa7003",
+    "timestamp": "2026-05-22T11:12:42.006688",
+    "original_title": "Russia says four killed, 35 children wounded in Ukrainian attack on Luhansk region - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRHdwUXVTUDdqRGxxLTZRV3Z0UHN4U2poVm1iRU5iYmVSU2tET2Zud05ZOUxnaUZRSHJ0bUhPQjlOZWthYjRnZDRIMlJRUUl3Yng1eWlnZFA1VnphWWJlaXJMWnU1enI2WDJQSDhEMXBpOC1VTXBtVEhRcS1fZUpuc285RUg0a29UVWNTOTJ2YVdpMjZGOWgzN0cya1FFNDdzeFE3NG9MZW5ZMk1haFJDQTRqc0phekZ4RG1DemtLMTgzSWljVU9wQQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "Luhansk, Ukraine",
+      "latitude": 48.5833,
+      "longitude": 39.3333,
+      "detailed_analysis": "The attack on the Luhansk region by Ukrainian forces has resulted in civilian casualties, including children, indicating a high level of conflict and instability in the area. This poses a significant threat to personnel and assets in the region.",
+      "immediate_forecast_24h": "Escalation of violence and further attacks are possible in the next 24 hours, with potential for increased military activity and civilian displacement.",
+      "strategic_outlook": "The ongoing conflict in the region is likely to continue, with potential for long-term instability and security risks to assets, cargo, aviation, and personnel.",
+      "operational_impact": "Transport and logistics operations in the region may be disrupted due to the conflict, with potential for delays, damage to infrastructure, and risks to personnel and cargo.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "77408e34334464dd21cf10b483514092",
+    "timestamp": "2026-05-22T11:12:48.004833",
+    "original_title": "145,000 Losses, 86,000 Killed: Zelenskyy Details Russia’s 2026 Battlefield Toll",
+    "link": "https://www.reddit.com/r/worldnews/comments/1tkeoxt/145000_losses_86000_killed_zelenskyy_details/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "The report details significant losses and casualties on the Russian side in the 2026 battlefield, indicating an ongoing and intense conflict in Ukraine. This situation poses a high risk to assets, cargo, aviation, and personnel in the region due to the potential for escalation, collateral damage, and disruptions to logistics and transportation.",
+      "immediate_forecast_24h": "The conflict is likely to continue with potential for increased violence and disruptions in the short term, affecting transport and logistics operations in and around Ukraine.",
+      "strategic_outlook": "The long-term outlook suggests a protracted conflict with significant humanitarian, economic, and geopolitical implications, necessitating careful strategic planning for assets and operations in the region.",
+      "operational_impact": "The conflict poses significant operational risks, including disruptions to supply chains, potential for airspace restrictions, and increased security measures for personnel and assets. Logistics and transportation operations may need to be adjusted or suspended in affected areas.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "733dbe2c6bedeb978f13b1d2193c51dc",
+    "timestamp": "2026-05-22T11:12:50.381465",
+    "original_title": "Inside Ukraine’s Battlefield Innovation Loop",
+    "link": "https://warontherocks.com/cogs-of-war/inside-ukraines-battlefield-innovation-loop/",
+    "source_name": "War on the Rocks",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Kyiv, Ukraine",
+      "latitude": 50.4501,
+      "longitude": 30.5236,
+      "detailed_analysis": "The article discusses Ukraine's military and defense innovations, with no direct threats to assets, cargo, aviation, or personnel. However, the context implies an ongoing conflict, which may indirectly affect logistics and transport in the region.",
+      "immediate_forecast_24h": "No immediate threats are expected, but the conflict in Ukraine may continue to escalate, potentially affecting nearby areas.",
+      "strategic_outlook": "A long-term partnership between Ukraine and Western defense companies may lead to increased innovation and cooperation, potentially reducing the risk of conflict in the region.",
+      "operational_impact": "The conflict in Ukraine may cause disruptions to transport and logistics, particularly for companies operating in the region or relying on Ukrainian supply chains.",
+      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
+    }
+  },
+  {
+    "id": "4858a860391e6b523eb8860628825e40",
+    "timestamp": "2026-05-22T11:12:53.882815",
+    "original_title": "Paris: Far-right blamed as football fans riot",
+    "link": "https://www.france24.com/en/video/20260522-paris-far-right-blamed-as-football-fans-riot",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Paris, France",
+      "latitude": 48.8567,
+      "longitude": 2.3508,
+      "detailed_analysis": "Rioting football fans, potentially influenced by far-right elements, pose a threat to public safety and order in Paris ahead of a major football match.",
+      "immediate_forecast_24h": "Increased security presence and potential for further clashes between fans and law enforcement, especially around the match venue.",
+      "strategic_outlook": "Long-term implications for public safety and security in Paris, particularly during large events, with potential for recurring unrest if underlying issues are not addressed.",
+      "operational_impact": "Possible disruptions to local transportation and logistics due to security measures and potential unrest, but no direct impact on aviation or major cargo operations anticipated at this time.",
+      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (2 km)"
+    }
   }
 ]
