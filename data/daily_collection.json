@@ -321,5 +321,119 @@
       "operational_impact": "Possible disruptions to local transportation and logistics due to security measures and potential unrest, but no direct impact on aviation or major cargo operations anticipated at this time.",
       "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (2 km)"
     }
+  },
+  {
+    "id": "6df782ed4776e65ace4df187af5fcae9",
+    "timestamp": "2026-05-22T13:55:11.499573",
+    "original_title": "Four killed, 35 children wounded in Ukrainian attack on Luhansk region",
+    "link": "https://www.reddit.com/r/worldnews/comments/1tkjkvt/four_killed_35_children_wounded_in_ukrainian/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Luhansk, Ukraine",
+      "latitude": 48.5833,
+      "longitude": 39.3333,
+      "detailed_analysis": "A Ukrainian attack on the Luhansk region has resulted in four fatalities and 35 injured children, indicating a high level of conflict and potential for further escalation.",
+      "immediate_forecast_24h": "Increased tensions and potential for retaliatory attacks in the region, posing a significant threat to personnel and assets.",
+      "strategic_outlook": "The ongoing conflict in the region may lead to long-term instability, affecting aviation, cargo, and personnel, and requiring heightened security measures.",
+      "operational_impact": "Transport and logistics operations in the region may be disrupted or suspended due to the conflict, and alternative routes or security protocols may be necessary to ensure safe passage.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "05283a3752123e39282f698d5d9fa408",
+    "timestamp": "2026-05-22T13:55:14.280878",
+    "original_title": "Ukraine strikes Russia's Yaroslavl Oil Refinery 4 times in month, Zelensky confirms",
+    "link": "https://www.reddit.com/r/worldnews/comments/1tkivs2/ukraine_strikes_russias_yaroslavl_oil_refinery_4/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Yaroslavl, Russia",
+      "latitude": 57.6167,
+      "longitude": 39.8833,
+      "detailed_analysis": "Ukraine has struck Russia's Yaroslavl Oil Refinery four times in a month, as confirmed by Zelensky. This indicates an escalation of conflict between the two nations, posing a significant threat to assets, cargo, and personnel in the region.",
+      "immediate_forecast_24h": "Increased tensions and potential for further strikes on Russian oil refineries and other strategic targets. Elevated risk of retaliation from Russia.",
+      "strategic_outlook": "Long-term disruption to global oil supplies and potential for widespread economic impact. Prolonged conflict may lead to increased instability in the region, affecting aviation, cargo, and personnel.",
+      "operational_impact": "Potential disruptions to logistics and supply chains, particularly those reliant on Russian oil exports. Increased security measures may be necessary for assets and personnel in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "cb1fddd1612057709ddb7ca1455977d7",
+    "timestamp": "2026-05-22T13:55:17.794488",
+    "original_title": "Mali Eid celebrations dimmed by insecurity, shortages and surging costs",
+    "link": "http://www.africanews.com/2026/05/22/mali-eid-celebrations-dimmed-by-insecurity-shortages-and-surging-costs/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict/Crime",
+      "risk_score": 10,
+      "location": "Bamako, Mali",
+      "latitude": 12.65,
+      "longitude": -8.0,
+      "detailed_analysis": "Al-Qaeda's Sahel branch has imposed a road blockade on main routes into Bamako, torching dozens of buses and freight trucks, indicating a significant threat to cargo and personnel safety due to terrorism and crime.",
+      "immediate_forecast_24h": "Increased security measures are expected, with potential for further disruptions to supply chains and transportation routes in the short term.",
+      "strategic_outlook": "The ongoing insecurity and shortages may lead to long-term instability in the region, affecting aviation and cargo operations, as well as the overall safety of personnel.",
+      "operational_impact": "Transportation and logistics operations in and around Bamako are likely to be severely impacted, with potential for delays, damage to cargo, and risks to personnel safety.",
+      "proximity_alert": "YAKIN TEHDİT: Bamako–Sénou International Airport (13 km)"
+    }
+  },
+  {
+    "id": "e891fc6beb78b0f5579f8025d385aa44",
+    "timestamp": "2026-05-22T13:55:20.072301",
+    "original_title": "Ukraine boosts border security with Belarus over attack fears",
+    "link": "https://www.france24.com/en/video/20260522-ukraine-boosts-border-security-with-belarus-over-attack-fears",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Border",
+      "risk_score": 7,
+      "location": "Ukraine-Belarus border",
+      "latitude": 51.8233,
+      "longitude": 28.6569,
+      "detailed_analysis": "Ukraine is increasing security measures along its border with Belarus due to concerns of a potential attack from Russia, which could impact cargo and personnel movement in the region.",
+      "immediate_forecast_24h": "Heightened security presence and potential border closures or restrictions, which may cause disruptions to logistics and transport operations.",
+      "strategic_outlook": "Escalating tensions between Ukraine and Russia, potentially involving Belarus, could lead to a prolonged conflict, affecting regional stability and transport security.",
+      "operational_impact": "Possible delays or rerouting of cargo, increased security checks, and potential risks to personnel and assets in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "29aef7dd210a4529f77ad2a7f332e4df",
+    "timestamp": "2026-05-22T13:55:23.794783",
+    "original_title": "Laser hair removal device sparks bomb scare at Australian airport",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/laser-hair-removal-device-bomb-scare-airport-melbourne-b2981707.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 6,
+      "location": "Australian airport, Australia",
+      "latitude": -25.274398,
+      "longitude": 133.775136,
+      "detailed_analysis": "A laser hair removal device sparked a bomb scare at an Australian airport, prompting a response from bomb disposal robots. The device was identified and the situation was resolved without incident.",
+      "immediate_forecast_24h": "Increased security measures may be implemented at the airport, and passengers can expect potential delays or additional screening.",
+      "strategic_outlook": "The incident highlights the need for continued vigilance and effective security protocols to mitigate potential threats to aviation safety.",
+      "operational_impact": "The incident may cause short-term disruptions to airport operations, but is unlikely to have a significant long-term impact on transport or logistics.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "87a45d506276ca4468cbd996cc063801",
+    "timestamp": "2026-05-22T13:55:25.977743",
+    "original_title": "Air India plane forced to make emergency landing at Delhi due to engine fire",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/air-india-engine-fire-tail-strike-delhi-airport-b2981701.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Delhi, India",
+      "latitude": 28.7041,
+      "longitude": 77.1025,
+      "detailed_analysis": "An Air India plane was forced to make an emergency landing at Delhi due to an engine fire, indicating a potential safety threat to passengers and crew. This incident, combined with another Air India plane suffering a tailstrike in Bengaluru, raises concerns about the airline's maintenance and operational standards.",
+      "immediate_forecast_24h": "Increased scrutiny of Air India's safety protocols and possible inspections of their fleet are expected in the next 24 hours. Passengers may experience delays or cancellations as a result of the emergency landing and subsequent investigations.",
+      "strategic_outlook": "The long-term impact of this incident could lead to a review of Air India's safety procedures and potential changes to their maintenance schedules. This may also affect the airline's reputation and passenger confidence, potentially influencing their market share.",
+      "operational_impact": "The emergency landing may cause disruptions to Air India's flight schedule, affecting cargo and passenger transport. The incident could also lead to increased security measures at Delhi airport, potentially causing delays for other flights and airlines.",
+      "proximity_alert": "YAKIN TEHDİT: Indira Gandhi International Airport (16 km)"
+    }
   }
 ]
