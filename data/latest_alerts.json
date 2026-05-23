@@ -1,21 +1,40 @@
 [
   {
-    "id": "d376ea39a87fa32f333352188c5973de",
-    "timestamp": "2026-05-23T13:52:40.160028",
-    "original_title": "Israeli bombardment reduces buildings to craters in southern Lebanon",
-    "link": "https://www.reddit.com/r/worldnews/comments/1tlgsmd/israeli_bombardment_reduces_buildings_to_craters/",
-    "source_name": "Reddit r/WorldNews",
+    "id": "311aa964e1e51696bd688a6b6f874731",
+    "timestamp": "2026-05-23T15:07:43.925595",
+    "original_title": "Dakar residents react to sacking of Senegal's PM Sonko",
+    "link": "http://www.africanews.com/2026/05/23/dakar-residents-react-to-sacking-of-senegals-pm-sonko/",
+    "source_name": "Africa News",
     "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 8,
-      "location": "Southern Lebanon",
-      "latitude": 33.3333,
-      "longitude": 35.3333,
-      "detailed_analysis": "The Israeli bombardment in southern Lebanon has resulted in significant damage to buildings and infrastructure, posing a high risk to personnel and assets in the region. The conflict has the potential to disrupt aviation and cargo operations, and may lead to further escalation.",
-      "immediate_forecast_24h": "The situation is likely to remain volatile, with potential for further airstrikes and retaliation. There is a high risk of civilian casualties and damage to infrastructure.",
-      "strategic_outlook": "The conflict has the potential to destabilize the region, with long-term implications for aviation, cargo, and personnel. The situation will require close monitoring and contingency planning to mitigate potential risks.",
-      "operational_impact": "The conflict may disrupt air traffic and cargo operations in the region, with potential for delays and cancellations. Personnel and assets in the area should exercise extreme caution, and contingency plans should be put in place to mitigate potential risks.",
-      "proximity_alert": null
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Dakar, Senegal",
+      "latitude": 14.73,
+      "longitude": -17.38,
+      "detailed_analysis": "The sacking of Senegal's PM Ousmane Sonko has led to reactions from residents of Dakar, with potential for civil unrest and protests. The former prime minister has a passionate following among the country's youth, which could lead to demonstrations and disruptions.",
+      "immediate_forecast_24h": "Increased protests and demonstrations are expected in the short term, potentially disrupting traffic and logistics in Dakar.",
+      "strategic_outlook": "The situation may escalate into larger-scale unrest, potentially affecting the stability of the government and the country as a whole.",
+      "operational_impact": "Potential disruptions to transport and logistics in Dakar, with possible delays or cancellations of flights and shipments.",
+      "proximity_alert": "YAKIN TEHDİT: Blaise Diagne International Airport (8 km)"
+    }
+  },
+  {
+    "id": "ae73371e015c731b5c0373d7b503f204",
+    "timestamp": "2026-05-23T15:07:45.926540",
+    "original_title": "Senegal's president fires prime minister after months of tensions",
+    "link": "https://www.france24.com/en/senegal-s-president-fires-prime-minister-after-months-of-tensions",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Dakar, Senegal",
+      "latitude": 14.73,
+      "longitude": -17.38,
+      "detailed_analysis": "The firing of the prime minister by the president of Senegal after months of tensions may lead to civil unrest and potential instability in the country, which could indirectly affect aviation, cargo, and personnel operations.",
+      "immediate_forecast_24h": "Increased protests and demonstrations are possible in the short term, potentially disrupting transportation and logistics operations.",
+      "strategic_outlook": "The long-term impact will depend on how the situation is managed by the government and the opposition, but it has the potential to lead to sustained instability if not addressed properly.",
+      "operational_impact": "Potential disruptions to transport and logistics operations, especially if protests or unrest occur near critical infrastructure such as airports, seaports, or major highways.",
+      "proximity_alert": "YAKIN TEHDİT: Blaise Diagne International Airport (8 km)"
     }
   }
 ]
