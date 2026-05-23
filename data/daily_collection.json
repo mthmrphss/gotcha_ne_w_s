@@ -454,5 +454,24 @@
       "operational_impact": "The evacuation and potential explosion risk may impact local transportation, including roads and potentially airports, and may also affect cargo and personnel movement in the area.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "4d93ce23dce8ba827150d7de05b64838",
+    "timestamp": "2026-05-23T11:42:27.550206",
+    "original_title": "Manchester Airport easyJet flight declares mid-air emergency - Stoke-on-Trent Live",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTGVpU1FmaVpvcEZPazRjMENhVE1tbTl0c1F3N2lhUXNqLTNHTXE3ems0WWtYMDRQNlU5Mk9leW5lcHl4TjhaR1Y2a3BMcUZxemZ0ZWh2eEFCUHBVbF9KTm14TVNjNHpmLXh3MXdPVmRZcXQwbU5qLWtyWl9NdGFxVHRXX0cxaTJkaWJQeTBDdWQ0eWV6SkpvdEZoWHBpclZ4SDJJZnNmTmFxVE4x0gGyAUFVX3lxTE55UVJ6Q0dwb0hYS0Rsb2l3ZUNOZzBrRHFQc3lKOHJjMWtWM3R1a09tTjZQblYtTUhyckVqbWs1aG14Zlpmd19IYUw0Nk5yLVQ0eGZKMnJJNkt4OWd1bW9Kdzhwc1NydFhYSnJITjBHSVp5ZXY0VFB4V0JndjNUa0ZOcEVJWXRscExfTkpyVHFUMnpteFFreVR1WG1QclJHOF9BZ0YyUl9fVDY1RC1VRTNjVVE?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Manchester, United Kingdom",
+      "latitude": 53.3539,
+      "longitude": -2.2778,
+      "detailed_analysis": "An easyJet flight from Manchester Airport declared a mid-air emergency, indicating a potential threat to aviation safety and security. The cause of the emergency is currently unknown.",
+      "immediate_forecast_24h": "The situation is being monitored, and an investigation will likely be launched to determine the cause of the emergency. There may be disruptions to flights and airport operations in the short term.",
+      "strategic_outlook": "The incident highlights the importance of aviation safety and security protocols. Airlines and airports may review and enhance their emergency procedures to prevent similar incidents in the future.",
+      "operational_impact": "The incident may cause delays or cancellations of flights, affecting passengers and cargo. The operational impact will depend on the outcome of the investigation and any subsequent actions taken by the airline and airport authorities.",
+      "proximity_alert": "YAKIN TEHDİT: Manchester Airport (0 km)"
+    }
   }
 ]
