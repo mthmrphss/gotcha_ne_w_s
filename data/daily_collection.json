@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "id": "2523cab9e31504d3a15fd0b1eec9ec48",
+    "timestamp": "2026-05-24T21:03:55.613013",
+    "original_title": "At least 24 killed in Pakistan train blast claimed by separatist militants",
+    "link": "https://www.reddit.com/r/worldnews/comments/1tmn2eb/at_least_24_killed_in_pakistan_train_blast/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict",
+      "risk_score": 8,
+      "location": "Quetta, Pakistan",
+      "latitude": 30.1833,
+      "longitude": 66.9833,
+      "detailed_analysis": "A train blast in Quetta, Pakistan has resulted in at least 24 fatalities, with the attack claimed by separatist militants. This incident poses a significant threat to personnel and assets in the region, particularly those involved in transportation and logistics.",
+      "immediate_forecast_24h": "Increased security measures are expected in the region, with potential disruptions to transportation services. There is a high likelihood of further attacks or unrest in the short term.",
+      "strategic_outlook": "The long-term outlook for the region remains unstable, with ongoing separatist militant activity posing a persistent threat to security and stability. This may lead to increased security protocols and potential disruptions to supply chains and logistics operations.",
+      "operational_impact": "The blast may impact rail transportation in the region, potentially leading to delays or cancellations. Additionally, the incident may lead to increased security checks and protocols, affecting the efficiency of logistics operations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "2cb4516a2ac16b42f67719b060046724",
+    "timestamp": "2026-05-24T21:04:03.115689",
+    "original_title": "'We don't know what the death toll among military personnel is': Kyiv reels from Russian strikes",
+    "link": "https://www.france24.com/en/we-don-t-know-what-the-death-toll-among-military-personnel-is-kyiv-reels-from-russian-strikes",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 10,
+      "location": "Kyiv, Ukraine",
+      "latitude": 50.4501,
+      "longitude": 30.5236,
+      "detailed_analysis": "Russian drone and missile strikes against Ukraine have resulted in an unknown number of military personnel casualties, indicating a high level of conflict and potential threat to aviation and personnel in the region.",
+      "immediate_forecast_24h": "Increased tensions and potential for further strikes are expected in the short term, posing a significant risk to aviation and personnel in the area.",
+      "strategic_outlook": "The ongoing conflict between Russia and Ukraine is likely to continue, with potential long-term implications for regional stability and the safety of aviation and personnel.",
+      "operational_impact": "The strikes may disrupt air traffic and logistics in the region, posing a significant operational impact on transport and cargo movements.",
+      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
+    }
+  }
+]
