@@ -207,5 +207,81 @@
       "operational_impact": "The attack may disrupt air traffic and logistics operations in and around Kyiv, with potential for delays or cancellations of flights and cargo shipments.",
       "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
     }
+  },
+  {
+    "id": "32bde3e025ace27987f30be5e53fad0a",
+    "timestamp": "2026-05-24T10:00:43.685683",
+    "original_title": "Two killed in civilian plane crash in Israel's north - The Jerusalem Post",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZUXZSeFJIeWwwaHpmcnVkd3dIRXUxQXlHdDVYMTlPOEVnWVBybXp3M3JJdnpJdGRfQWpJUUVtS3ktTk55YldSb2pDcnZuanhBUV9jdjF4N0VBNFZf?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 8,
+      "location": "Northern Israel",
+      "latitude": 32.9965,
+      "longitude": 35.5493,
+      "detailed_analysis": "A civilian plane crash in Israel's north has resulted in two fatalities, indicating a significant aviation incident with potential implications for air travel safety and security in the region.",
+      "immediate_forecast_24h": "Investigations into the cause of the crash are likely to commence immediately, with potential disruptions to local air traffic and heightened security measures at nearby airports.",
+      "strategic_outlook": "The incident may lead to a review of aviation safety protocols in Israel and potentially impact the country's aviation industry, with long-term implications for air travel and cargo transport.",
+      "operational_impact": "The crash may cause short-term disruptions to local air traffic, with potential delays or cancellations of flights, and could have a moderate impact on the regional logistics and transport sector.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "3f2d8f7ff1ea4245aa75c624a90d4365",
+    "timestamp": "2026-05-24T10:00:45.720488",
+    "original_title": "Pakistan: Blast targeting train kills at least 24 in Balochistan - BBC",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SaEJGeVpaMmg1V2R5aURhMkFhMWZvS3J5X1g0OUNSemYwb3BVeFMyUy1nTW1rNDRXRVBfaWp1ZG4xd3FUMjVwUGE0LWctU0FWSlh5U0daRDYtQQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism/Civil Unrest/Conflict",
+      "risk_score": 8,
+      "location": "Balochistan, Pakistan",
+      "latitude": 28.9035,
+      "longitude": 66.9775,
+      "detailed_analysis": "A blast targeting a train in Balochistan, Pakistan has resulted in at least 24 fatalities, indicating a high level of threat to personnel and potentially disrupting transportation services in the region.",
+      "immediate_forecast_24h": "Increased security measures are expected in the region, with potential disruptions to rail services and heightened alertness for similar attacks in the next 24 hours.",
+      "strategic_outlook": "The long-term outlook suggests continued instability in the region, with potential for further attacks targeting transportation infrastructure, which could have significant implications for cargo and personnel movement.",
+      "operational_impact": "The blast may impact rail transportation services, potentially causing delays or cancellations, and could also affect the movement of cargo and personnel in the region, highlighting the need for enhanced security protocols.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "d69f9be9dafdd49da41b8992458e58bc",
+    "timestamp": "2026-05-24T10:00:52.579949",
+    "original_title": "Suicide car bomb attack on train in Pakistan kills at least 24",
+    "link": "https://www.reddit.com/r/worldnews/comments/1tm7hsv/suicide_car_bomb_attack_on_train_in_pakistan/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict",
+      "risk_score": 8,
+      "location": "Balochistan, Pakistan",
+      "latitude": 28.9035,
+      "longitude": 66.5899,
+      "detailed_analysis": "A suicide car bomb attack on a train in Pakistan's Balochistan province has resulted in at least 24 fatalities, indicating a high level of threat to personnel and assets in the region. The attack highlights the ongoing security concerns and instability in the area.",
+      "immediate_forecast_24h": "Increased security measures are expected in the region, with potential disruptions to transportation and logistics. Further attacks or incidents cannot be ruled out in the short term.",
+      "strategic_outlook": "The long-term outlook for the region remains unstable, with ongoing security threats and potential for further attacks. This could lead to sustained disruptions to transport and logistics, as well as continued risks to personnel and assets.",
+      "operational_impact": "The attack is likely to impact rail transport in the region, with potential delays or cancellations of services. This could also have a knock-on effect on other modes of transport and logistics, particularly if security measures are increased or if there are further incidents.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "583e38a1892ce8b2a5b3a655130db813",
+    "timestamp": "2026-05-24T10:00:54.580718",
+    "original_title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
+    "link": "https://www.reddit.com/r/worldnews/comments/1tm6w7g/largescale_russian_attack_on_ukraine_leaves_four/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "A large-scale Russian attack on Ukraine has resulted in four deaths and dozens injured, indicating a significant escalation of conflict in the region. This could lead to increased instability and potential disruptions to transport and logistics operations.",
+      "immediate_forecast_24h": "Further clashes and potential retaliatory actions are expected, which may lead to increased security measures and potential disruptions to air and ground transportation in the region.",
+      "strategic_outlook": "The ongoing conflict in Ukraine poses a long-term risk to regional stability, potentially affecting trade routes, supply chains, and the overall security of assets, cargo, aviation, and personnel in the area.",
+      "operational_impact": "Transport and logistics operations in the region may be impacted by increased security measures, potential border closures, and disruptions to air and ground transportation, requiring contingency planning and risk mitigation strategies to ensure continuity of operations.",
+      "proximity_alert": null
+    }
   }
 ]
