@@ -530,5 +530,43 @@
       "operational_impact": "Minimal operational impact is expected, but the incident may lead to increased security checks and potential delays for flights in the future.",
       "proximity_alert": "YAKIN TEHDİT: Fiumicino – Leonardo da Vinci International Airport (2 km)"
     }
+  },
+  {
+    "id": "ee372ba9ae89b01bf1c613ca009ed2e6",
+    "timestamp": "2026-05-24T15:10:54.282088",
+    "original_title": "Fidayeen Attack Rocks Pakistan: 24 Killed, Baloch Army Claims Deadly Train Blast",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1tmekxv/fidayeen_attack_rocks_pakistan_24_killed_baloch/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Terrorism/Civil Unrest/Conflict",
+      "risk_score": 8,
+      "location": "Chaman Phatak, Balochistan, Pakistan",
+      "latitude": 30.9333,
+      "longitude": 66.45,
+      "detailed_analysis": "A blast targeting a train near Chaman Phatak in Balochistan killed 24 people and injured over 50 others. The Baloch Liberation Army claimed responsibility, calling it a suicide mission against Pakistani military personnel.",
+      "immediate_forecast_24h": "Increased security measures are expected in the region, with potential disruptions to rail and road transportation. Further attacks or retaliatory actions cannot be ruled out.",
+      "strategic_outlook": "The attack highlights the ongoing instability and security concerns in the region, which may lead to increased tensions between the Pakistani government and the Baloch Liberation Army. This could result in long-term disruptions to transportation and logistics in the area.",
+      "operational_impact": "The attack may impact rail and road transportation in the region, potentially disrupting cargo and passenger services. Companies operating in the area should exercise caution and consider alternative routes or increased security measures to mitigate the risks.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "ad22ce10689633578d0306542ed3d277",
+    "timestamp": "2026-05-24T15:10:57.342588",
+    "original_title": "Turkey riot police use tear gas to take opposition party HQ in Ankara",
+    "link": "https://www.france24.com/en/turkey-riot-police-use-tear-gas-to-take-opposition-party-hq-in-ankara",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 6,
+      "location": "Ankara, Turkey",
+      "latitude": 39.9334,
+      "longitude": 32.8597,
+      "detailed_analysis": "Riot police using tear gas to take opposition party HQ indicates a high level of civil unrest, potentially disrupting transport and logistics in the area.",
+      "immediate_forecast_24h": "Increased security presence and potential for further clashes between police and protesters, possibly affecting road access and aviation operations.",
+      "strategic_outlook": "Prolonged unrest could lead to long-term instability, impacting the overall security environment and transport infrastructure in Turkey.",
+      "operational_impact": "Potential disruptions to ground transportation, possible delays or cancellations of flights, and increased security measures for personnel and cargo in the Ankara area.",
+      "proximity_alert": null
+    }
   }
 ]
