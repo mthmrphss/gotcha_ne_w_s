@@ -663,5 +663,43 @@
       "operational_impact": "Delays and disruptions to cargo and aviation operations are possible, and personnel in the area should exercise caution and monitor the situation closely.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "477a137d81e26af426a259318627af80",
+    "timestamp": "2026-05-24T18:03:05.643362",
+    "original_title": "Flight diverted to Manchester Airport as Liverpool runway shuts amid incident - facebook.com",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcjBMUXpPa0I2R255VjhnRFE5TWZONXBBUTEzaDRuTF80VVpKQXA5OFNTZjltWGMxQmRSdjhhRlRrMnNNRy1pQzN3d1pJV05tcnFycHM3WTJQdmJBLVRUVjZzM0tUOEFXdDBkVFlPdDFyeFdHOVNRNXRST0loLXpUT2trcnFLZERBZC1pQW5qSm55cWJIZ0EzNE4wNGFMNXhUQTJWU01SZ1k5eTZaTm9NSW1jeTFMdVRvUTNIQXA5Z3hKQVg2VkNtcGIwN2llT2xiSVh2TkhGdHpZUFRNV0F0OEVn?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 6,
+      "location": "Liverpool, United Kingdom",
+      "latitude": 53.4304,
+      "longitude": -2.9604,
+      "detailed_analysis": "A flight was diverted to Manchester Airport due to an incident at Liverpool Airport, resulting in the shutdown of the runway. The nature of the incident is not specified, but it has caused disruptions to air travel.",
+      "immediate_forecast_24h": "Further flight disruptions and delays are expected as the situation is assessed and resolved. The airport may experience increased security measures and passenger screening.",
+      "strategic_outlook": "The incident may lead to a review of airport security protocols and procedures to prevent similar incidents in the future. It may also impact the reputation of Liverpool Airport and affect passenger confidence.",
+      "operational_impact": "The diversion of flights to Manchester Airport may cause logistical challenges, including potential delays and cancellations. Airlines and airports may need to adjust their schedules and operations to accommodate the changes.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "ef9235383a033d9ccc011952034a72d9",
+    "timestamp": "2026-05-24T18:03:39.001755",
+    "original_title": "Tearful Kostyuk speaks of Ukraine missile attack after 'most difficult' French Open win",
+    "link": "https://www.france24.com/en/sport/20260524-tearful-kostyuk-speaks-of-ukraine-missile-attack-after-most-difficult-french-open-win",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 6,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "A Russian missile struck near the home of Marta Kostyuk's parents in Ukraine, indicating ongoing conflict and potential threats to personnel and assets in the region.",
+      "immediate_forecast_24h": "Increased tensions and potential for further missile strikes in Ukraine, affecting aviation and personnel safety.",
+      "strategic_outlook": "Long-term instability in the region may lead to sustained threats to assets, cargo, and personnel, with potential for escalation of conflict.",
+      "operational_impact": "Potential disruptions to air travel and logistics in the region, with increased security measures and precautions recommended for personnel and assets.",
+      "proximity_alert": null
+    }
   }
 ]
