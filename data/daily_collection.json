@@ -283,5 +283,43 @@
       "operational_impact": "The new regulations may impact the logistics of transporting electronic devices, and airlines may need to adjust their procedures for handling passenger electronics",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "78c85cd97193e9e40ab4368c059ecad2",
+    "timestamp": "2026-05-25T13:34:07.919035",
+    "original_title": "Ukraine strikes major Russian oil pumping station supplying Moscow Oblast, SBU says",
+    "link": "https://www.reddit.com/r/worldnews/comments/1tn9b2q/ukraine_strikes_major_russian_oil_pumping_station/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Moscow Oblast, Russia",
+      "latitude": 55.7558,
+      "longitude": 37.6176,
+      "detailed_analysis": "Ukraine has struck a major Russian oil pumping station supplying Moscow Oblast, which could lead to disruptions in oil supply and potentially impact the logistics and transportation of goods in the region.",
+      "immediate_forecast_24h": "Increased tensions between Ukraine and Russia, potential for further attacks on critical infrastructure, and possible disruptions to oil supply chains.",
+      "strategic_outlook": "Long-term impact on regional stability, potential for escalation of conflict, and effects on global oil markets and trade.",
+      "operational_impact": "Potential disruptions to transportation and logistics in the region, increased security measures for critical infrastructure, and possible rerouting of cargo and aviation traffic.",
+      "proximity_alert": "YAKIN TEHDİT: Vnukovo International Airport (27 km)"
+    }
+  },
+  {
+    "id": "1f90b7db3484b5d90e2d892dca65c236",
+    "timestamp": "2026-05-25T13:34:10.409419",
+    "original_title": "Ukraine: Kyiv residents endure 'worst night of the year' over the weekend",
+    "link": "https://www.france24.com/en/video/20260525-ukraine-kyiv-residents-endure-worst-night-of-the-year-over-the-weeked",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Kyiv, Ukraine",
+      "latitude": 50.4501,
+      "longitude": 30.5236,
+      "detailed_analysis": "Massive Russian strikes targeted the city centre of Kyiv, causing a high number of casualties and significant damage to buildings. Air defence systems were effective in repelling the attacks, but the situation remains volatile.",
+      "immediate_forecast_24h": "Rescue teams will continue to work on stabilising buildings, and there is a high likelihood of further Russian strikes. The city centre may remain under threat, and residents should exercise extreme caution.",
+      "strategic_outlook": "The ongoing conflict between Russia and Ukraine will continue to pose a significant threat to the region, with potential for further escalation and disruption to transport and logistics. The effectiveness of air defence systems will be crucial in mitigating the impact of future attacks.",
+      "operational_impact": "The attacks may cause disruptions to air travel, and cargo operations may be affected due to the targeting of the city centre. Personnel and assets in the region should be prepared for potential further attacks and take necessary precautions to ensure safety.",
+      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
+    }
   }
 ]
