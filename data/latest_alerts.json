@@ -1,39 +1,58 @@
 [
   {
-    "id": "ce88267c00a83b84989de79c1ea0bfca",
-    "timestamp": "2026-05-25T00:06:24.246214",
-    "original_title": "Russia has been attacking Europe for years. It’s time we woke up",
-    "link": "https://www.reddit.com/r/geopolitics/comments/1tmrg29/russia_has_been_attacking_europe_for_years_its/",
+    "id": "5d7897913f76cbac2c11aabbecfa188f",
+    "timestamp": "2026-05-25T05:06:52.336319",
+    "original_title": "OpenHack: Open-source AI-powered vulnerability research - Help Net Security",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS3JUZzkzUFRZRTdCY0c5bjdhSkdDejBNTmdTcHR2bUtYdnVxX09mS2NEd1Z0b01PWTE4a25pSVA2bjRGbmlHMURiTVhIcG9YVzhMRGZJMW5TU0dUNDdJVW11RFpucjlXSl9vREUtMk1OZ3M5ekJwVjBKWHZUN2dVb21KR3NhUHlTejRRdDkxVzlINjQ4R0xwX1RQU09Va1U?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 6,
+      "location": "Unknown, Global",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "OpenHack is an open-source AI-powered vulnerability research tool that can potentially be used to identify and exploit vulnerabilities in various systems, including those used in aviation, cargo, and logistics. This could lead to increased risk of cyber attacks and data breaches.",
+      "immediate_forecast_24h": "In the next 24 hours, there is a possibility of increased scanning and probing of systems by malicious actors using OpenHack, which could lead to potential security incidents.",
+      "strategic_outlook": "In the long term, the availability of OpenHack could lead to an increase in the number of vulnerabilities being discovered and potentially exploited, which could have significant implications for the security of assets, cargo, aviation, and personnel.",
+      "operational_impact": "The use of OpenHack could potentially disrupt operations in various industries, including logistics and aviation, by compromising the security of critical systems and infrastructure.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "aa5f75ba92e64b60fbbf0b7a44c28b65",
+    "timestamp": "2026-05-25T05:06:56.050793",
+    "original_title": "easyJet Flight U2516 Airbus A319 from Isle of Man to Liverpool Declares Mid-Air Distress, Diverts for Unprecedented Emergency Landing at Manchester Airport: Latest Update - Travel And Tour World",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5uWG9vc1I0QjF0Yzd3bC1JME1UYm5qM3BYNV8yNW9SbU93WFpwRnpPTERCWG9uRkJZUWQ3TzVsdlhyQzZudlRkODRQWno3NnVlWE9rYjdobG1XV2xPMm1lQ1Q1bTBDOVRodmk2UU1B?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Manchester, United Kingdom",
+      "latitude": 53.3539,
+      "longitude": -2.2759,
+      "detailed_analysis": "easyJet Flight U2516 Airbus A319 declared mid-air distress and diverted for an emergency landing at Manchester Airport, indicating a potential high-risk situation for aviation safety and security.",
+      "immediate_forecast_24h": "Investigations into the cause of the distress signal will likely be conducted, and the airline may face disruptions to their schedule. Passengers may experience delays or cancellations.",
+      "strategic_outlook": "The incident may lead to increased security measures and inspections for easyJet flights, potentially impacting the airline's operations and reputation in the long term.",
+      "operational_impact": "The emergency landing may cause disruptions to air traffic at Manchester Airport, and the airline's operations may be affected until the cause of the distress signal is determined and addressed.",
+      "proximity_alert": "YAKIN TEHDİT: Manchester Airport (0 km)"
+    }
+  },
+  {
+    "id": "adfd9ed68e411dc3926b1e36fbc88ebf",
+    "timestamp": "2026-05-25T05:06:59.260001",
+    "original_title": "Zelensky Calls For 'Consequences' After Russia Hits Kyiv With One of Heaviest Bombardments Since War Began",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1tmuirg/zelensky_calls_for_consequences_after_russia_hits/",
     "source_name": "Reddit r/Geopolitics",
     "ai_analysis": {
       "category": "Conflict",
       "risk_score": 10,
-      "location": "Europe",
-      "latitude": 48.8567,
-      "longitude": 2.2945,
-      "detailed_analysis": "The article suggests that Russia has been engaging in attacks against Europe for years, implying a heightened state of conflict and potential threat to assets, cargo, aviation, and personnel in the region.",
-      "immediate_forecast_24h": "Increased tensions between Russia and European countries, potential for further attacks or retaliatory measures, and heightened security measures in the region.",
-      "strategic_outlook": "Long-term escalation of conflict, potential for economic sanctions, and increased military presence in the region, which could impact transport and logistics operations.",
-      "operational_impact": "Potential disruptions to air travel, cargo shipments, and supply chains, as well as increased security protocols for personnel and assets in the region.",
-      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (1 km)"
-    }
-  },
-  {
-    "id": "de9f25dcba85e4a0a71e5ec83e6340f9",
-    "timestamp": "2026-05-25T00:06:31.798429",
-    "original_title": "'Damage in every district of Kyiv' — Massive Russian ballistic missile, drone attack kills 4, injures 100",
-    "link": "https://www.reddit.com/r/worldnews/comments/1tmr0nr/damage_in_every_district_of_kyiv_massive_russian/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict/Terrorism/Aviation",
-      "risk_score": 10,
       "location": "Kyiv, Ukraine",
       "latitude": 50.4501,
       "longitude": 30.5236,
-      "detailed_analysis": "A massive Russian ballistic missile and drone attack has caused significant damage in every district of Kyiv, resulting in 4 deaths and 100 injuries. This attack poses a substantial threat to aviation, cargo, and personnel in the region.",
-      "immediate_forecast_24h": "Increased military activity and potential for further attacks are expected in the next 24 hours, posing a high risk to aviation and logistics operations in the area.",
-      "strategic_outlook": "The ongoing conflict between Russia and Ukraine is likely to continue, with potential for further escalation and attacks on major cities, including Kyiv. This will have a long-term impact on the security and stability of the region, affecting transport and logistics operations.",
-      "operational_impact": "The attack is likely to disrupt air traffic and logistics operations in and around Kyiv, with potential for delays, cancellations, and increased security measures. Cargo and personnel movement may be restricted, and alternative routes or modes of transport may need to be considered.",
+      "detailed_analysis": "The recent bombardment of Kyiv by Russia, including the launch of an advanced ballistic Oreshnik missile, poses a significant threat to assets, cargo, aviation, and personnel in the region. The use of such advanced weaponry increases the risk of damage to critical infrastructure and potential loss of life.",
+      "immediate_forecast_24h": "Increased military activity and potential for further bombardments in the next 24 hours, with a high likelihood of disruptions to transport and logistics operations in the region.",
+      "strategic_outlook": "The ongoing conflict between Russia and Ukraine is likely to continue, with potential for escalation and further threats to regional stability. This may lead to long-term disruptions to supply chains and increased risks for assets, cargo, aviation, and personnel.",
+      "operational_impact": "The conflict may cause significant disruptions to air travel, with potential for flight cancellations, delays, and increased security measures. Additionally, ground transportation and logistics operations may be impacted, with potential for supply chain disruptions and increased risks for cargo and personnel.",
       "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
     }
   }
