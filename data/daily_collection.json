@@ -131,5 +131,43 @@
       "operational_impact": "No direct operational impact on transport or logistics is anticipated at this time, but companies operating in Senegal should monitor the situation closely for any signs of instability that could affect their operations.",
       "proximity_alert": "YAKIN TEHDİT: Blaise Diagne International Airport (8 km)"
     }
+  },
+  {
+    "id": "67a25c4dfbddd40d30bbe8cc92d62884",
+    "timestamp": "2026-05-25T23:13:01.348257",
+    "original_title": "US jets strike IRGC boats near Bandar Abbas",
+    "link": "https://www.reddit.com/r/worldnews/comments/1tno5qw/us_jets_strike_irgc_boats_near_bandar_abbas/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Bandar Abbas, Iran",
+      "latitude": 27.1833,
+      "longitude": 56.2833,
+      "detailed_analysis": "US jets have struck IRGC boats near Bandar Abbas, indicating a significant escalation in military tensions between the US and Iran, potentially disrupting maritime and aviation operations in the region.",
+      "immediate_forecast_24h": "Increased military presence and heightened alertness in the region, potential for further clashes or retaliatory actions, and possible disruptions to shipping and air traffic.",
+      "strategic_outlook": "Long-term implications include potential for prolonged conflict, impact on global oil prices, and increased instability in the Middle East, affecting trade and transportation routes.",
+      "operational_impact": "Potential disruptions to maritime and air traffic in the region, increased security measures for cargo and personnel, and possible rerouting of flights and ships to avoid the area.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "643e961e20630ea06192abba0e54baca",
+    "timestamp": "2026-05-25T23:13:03.333442",
+    "original_title": "Netanyahu Says Israel Plans to Intensify Attacks on Hezbollah in Lebanon",
+    "link": "https://www.reddit.com/r/worldnews/comments/1tno2sz/netanyahu_says_israel_plans_to_intensify_attacks/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 8,
+      "location": "Lebanon/Israel",
+      "latitude": 33.8667,
+      "longitude": 35.8333,
+      "detailed_analysis": "The Israeli government has announced plans to intensify attacks on Hezbollah in Lebanon, which could lead to increased violence and instability in the region, posing a significant threat to aviation, cargo, and personnel.",
+      "immediate_forecast_24h": "Escalation of military operations, potential for retaliatory attacks, and increased tensions in the region, which may impact air travel and cargo transport.",
+      "strategic_outlook": "Prolonged conflict could lead to long-term instability, affecting trade and economic activities, and potentially drawing in other regional actors, further complicating the security landscape.",
+      "operational_impact": "Potential disruptions to air traffic, increased security measures at airports and borders, and heightened risk of attacks on cargo and personnel, particularly in the vicinity of conflict zones.",
+      "proximity_alert": null
+    }
   }
 ]
