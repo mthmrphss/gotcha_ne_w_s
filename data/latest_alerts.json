@@ -1,97 +1,154 @@
 [
   {
-    "id": "40c040cb4be313c30e1d67bd68144c8f",
-    "timestamp": "2026-05-26T05:45:41.718128",
-    "original_title": "Israel's military says it's striking Hezbollah sites as Netanyahu vows to 'increase the blows' - Pittsburgh Post-Gazette",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUnNaX0pMbHQtdEp3RFdSbHRqbUtnUjFFOV9HYkR3Z1g5QVFfRWxSZnU4N09sYks4dDJ4RXBhS3hVZ283QTFaa0FQMFR1RVhTT0E0TTdmRWFUOExJQW1CaUN4aWp6dzhWRWxzU1hQall4MG1nRlI1WEZ6eGFKVkJzdVZNR1JxWFJ3NVZaaVNQRU5tYjVXWENnczQzX0lZYzlVRHd1UGVVUTd3dEE?oc=5",
+    "id": "bd443146210f1dcb95e9d5e61bb15b63",
+    "timestamp": "2026-05-26T10:10:08.272110",
+    "original_title": "Claroty and Corsha integrate OT threat detection with machine identity security for US federal agencies - Industrial Cyber",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZE80bTdxUDNKWWVVT2RwZ0VnN0xLRVRsNXVrSUlkLVVkUDBOZ2d2LTJlMmY1MzR5TUlNeHE1bVFLMlZIUkpZOEdhYWxYanJnel93M1JoRGNRenBOTjh4ekdFd0JjX2kyVm4weFlqeW01bGNjZ3JYeTFZd2V4dExPdU5HMVN2Vjh6VE5qTUpQVG9IcGp1NXdxZ3lVcy1udXdUQkIzNTVBZzZsaFRfNjlDZXhpeDFuNm1IVThWWlloc0FQdFdNc0Y0VGpQSlVmeTU3Q2c?oc=5",
     "source_name": "Google News (Breaking)",
     "ai_analysis": {
-      "category": "Conflict/Terrorism/Aviation",
+      "category": "Cyber",
       "risk_score": 10,
-      "location": "Israel/Lebanon",
-      "latitude": 32.0833,
-      "longitude": 34.7667,
-      "detailed_analysis": "The conflict between Israel and Hezbollah poses a significant threat to aviation and regional stability. Israel's military strikes on Hezbollah sites increase the risk of retaliation and escalation, potentially affecting air travel and logistics in the region.",
-      "immediate_forecast_24h": "Increased military activity and potential retaliation from Hezbollah are expected in the next 24 hours, posing a high risk to aviation and personnel in the region.",
-      "strategic_outlook": "The ongoing conflict between Israel and Hezbollah may lead to a prolonged period of instability in the region, affecting cargo transport, aviation, and personnel safety. A long-term strategic plan should include contingency measures for potential escalation and disruption to logistics and transport operations.",
-      "operational_impact": "The conflict may cause disruptions to air travel, cargo transport, and logistics in the region. Airlines and logistics companies should be prepared for potential delays, cancellations, or rerouting of flights and cargo shipments.",
-      "proximity_alert": "YAKIN TEHDİT: Ben Gurion International Airport (1 km)"
+      "location": "United States",
+      "latitude": 38.8977,
+      "longitude": -77.0365,
+      "detailed_analysis": "Claroty and Corsha's integration of OT threat detection with machine identity security for US federal agencies indicates a proactive approach to mitigating potential cyber threats in industrial control systems, which could impact critical infrastructure and national security.",
+      "immediate_forecast_24h": "No immediate threats are reported, but the integration may lead to increased vigilance and potential discovery of previously undetected vulnerabilities.",
+      "strategic_outlook": "The long-term impact of this integration could lead to enhanced security posture for US federal agencies, reducing the risk of cyber-attacks on critical infrastructure and industrial control systems.",
+      "operational_impact": "The integration may lead to increased monitoring and potential disruptions to industrial operations as vulnerabilities are identified and mitigated, but overall, it is expected to improve the security and resilience of critical infrastructure.",
+      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
     }
   },
   {
-    "id": "02d44acc0cdedded6a3ae65f0b0911da",
-    "timestamp": "2026-05-26T05:45:45.688413",
-    "original_title": "As Delegations Gather in Qatar For Talks, U.S. Strikes Iran’s Gulf Coast",
-    "link": "https://www.nytimes.com/live/2026/05/25/world/iran-war-trump",
+    "id": "5f67596b21101f73c47d985fc762a053",
+    "timestamp": "2026-05-26T10:10:12.234905",
+    "original_title": "Iran War Live Updates: Tensions Rise as Iran Threatens to Retaliate Against U.S. Strikes",
+    "link": "https://www.nytimes.com/live/2026/05/26/world/iran-war-trump-deal",
     "source_name": "NewYork Times",
-    "ai_analysis": {
-      "category": "Conflict/Terrorism/Aviation",
-      "risk_score": 8,
-      "location": "Qatar/Iran",
-      "latitude": 25.3548,
-      "longitude": 51.1839,
-      "detailed_analysis": "US strikes on Iran's Gulf Coast pose a significant threat to aviation and regional stability, potentially disrupting cargo and personnel movements. The involvement of Israel and its plans to intensify attacks against Hezbollah in Lebanon further escalates the situation.",
-      "immediate_forecast_24h": "Increased tensions and potential for retaliatory actions from Iran or its allies, affecting air travel and cargo operations in the region.",
-      "strategic_outlook": "Long-term instability in the region could lead to sustained disruptions in aviation and logistics, with potential for broader conflict.",
-      "operational_impact": "Possible delays or cancellations of flights, increased security measures for cargo and personnel, and heightened risk of attacks on aviation and logistics infrastructure.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "0bf79a6348bebdfbfd7e0328eea7fdb1",
-    "timestamp": "2026-05-26T05:45:48.731431",
-    "original_title": "Vivid Sydney drone shows cancelled for now after malfunction saw 89 drones fall into the harbour",
-    "link": "https://www.reddit.com/r/worldnews/comments/1tnw45v/vivid_sydney_drone_shows_cancelled_for_now_after/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Aviation",
-      "risk_score": 6,
-      "location": "Sydney, Australia",
-      "latitude": -33.8688,
-      "longitude": 151.2093,
-      "detailed_analysis": "A malfunction during a drone show in Vivid Sydney resulted in 89 drones falling into the harbour, prompting the cancellation of the shows. This incident highlights the potential risks associated with drone technology and its impact on aviation and public safety.",
-      "immediate_forecast_24h": "Investigations into the cause of the malfunction are expected to be conducted, and measures will likely be taken to prevent similar incidents in the future. The cancellation of the drone shows may cause disruptions to the event schedule and impact attendees.",
-      "strategic_outlook": "The incident may lead to increased scrutiny of drone safety protocols and regulations, potentially resulting in more stringent guidelines for drone operations in public events. This could have long-term implications for the use of drones in entertainment and other industries.",
-      "operational_impact": "The cancellation of the drone shows may cause logistical challenges for event organizers and attendees. Additionally, the incident may raise concerns about the safety and reliability of drone technology, potentially impacting its adoption in various industries, including aviation and logistics.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "9155dda5c612386c50bf9ca1723b4a29",
-    "timestamp": "2026-05-26T05:45:51.366619",
-    "original_title": "Middle East live: US carries out 'self-defense' strikes on Iran",
-    "link": "https://www.france24.com/en/middle-east/20260526-middle-east-live-us-carries-out-self-defense-strikes-on-iran",
-    "source_name": "France 24 ME",
     "ai_analysis": {
       "category": "Conflict",
       "risk_score": 8,
-      "location": "Middle East",
-      "latitude": 32.0,
-      "longitude": 53.0,
-      "detailed_analysis": "The US has carried out 'self-defense' strikes on Iran, indicating a heightened state of conflict in the region, posing significant risks to aviation, cargo, and personnel.",
-      "immediate_forecast_24h": "Escalation of tensions between the US and Iran, potential for retaliatory strikes, and increased military presence in the region, which may disrupt air traffic and logistics.",
-      "strategic_outlook": "Prolonged conflict could lead to a destabilization of the region, affecting global oil supplies, and potentially drawing in other nations, thereby increasing the risk to assets, cargo, aviation, and personnel.",
-      "operational_impact": "Potential for flight restrictions, increased security measures at airports, and heightened surveillance of cargo shipments, which may cause delays and disruptions to logistics and supply chains.",
+      "location": "Southern Iran",
+      "latitude": 30.0,
+      "longitude": 50.0,
+      "detailed_analysis": "Renewed American military strikes in southern Iran have led to increased tensions, with Iran threatening to retaliate against the U.S. This escalation poses a significant threat to aviation and personnel in the region.",
+      "immediate_forecast_24h": "Increased military activity and potential retaliation from Iran are expected, posing a high risk to aviation and personnel in the region.",
+      "strategic_outlook": "The ongoing conflict between the U.S. and Iran may lead to a prolonged period of instability in the region, affecting transport and logistics operations.",
+      "operational_impact": "Potential disruptions to air traffic, increased security measures, and heightened risk of attacks on personnel and assets are expected, requiring enhanced security protocols and contingency planning.",
       "proximity_alert": null
     }
   },
   {
-    "id": "fa6802f2846411202cf87e2cfed20ca2",
-    "timestamp": "2026-05-26T05:45:56.547167",
-    "original_title": "Burma - Level 4: Do Not Travel",
-    "link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/burma-travel-advisory.html",
+    "id": "c68a7117d728cf65f9b079cf365e8bf5",
+    "timestamp": "2026-05-26T10:10:14.315094",
+    "original_title": "Evolving Warfare Connects the Conflicts in Ukraine and Iran",
+    "link": "https://www.nytimes.com/2026/05/26/world/middleeast/iran-ukraine-wars-similarities.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Ukraine/Iran",
+      "latitude": 48.0,
+      "longitude": 32.0,
+      "detailed_analysis": "The evolving warfare in Ukraine and Iran, with aspects such as drone technology and diplomacy, poses a significant threat to assets, cargo, aviation, and personnel in the region. The intersection of these conflicts on the battlefield and in global alignments provides a model for future conflicts, indicating a high level of risk.",
+      "immediate_forecast_24h": "Increased tensions and potential for drone sightings or strikes in the region, affecting aviation and cargo operations.",
+      "strategic_outlook": "Long-term escalation of conflicts in the region, potentially drawing in other global powers and affecting global supply chains and logistics.",
+      "operational_impact": "Potential disruptions to air traffic, cargo transport, and logistics in the region, with possible spillover effects on global trade and commerce.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "97c641ad86cddc2a7b9d4869fcf7744a",
+    "timestamp": "2026-05-26T10:10:16.994353",
+    "original_title": "The new 310mph Russian drone terrorising Ukraine",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1to0ezx/the_new_310mph_russian_drone_terrorising_ukraine/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 8,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "A new Russian drone with a speed of 310mph has been terrorizing Ukraine, posing a significant threat to aviation and national security. The drone's capabilities and intentions are unknown, but its presence in Ukrainian airspace is a cause for concern.",
+      "immediate_forecast_24h": "Increased military activity and heightened alertness are expected in the region, with potential disruptions to air traffic and logistics. The Ukrainian military may attempt to neutralize the drone threat, leading to potential escalation.",
+      "strategic_outlook": "The introduction of this advanced drone technology by Russia may signal a new era of aerial warfare, with potential long-term implications for regional stability and global security. Ukraine's defense capabilities and international support will be crucial in mitigating this threat.",
+      "operational_impact": "The drone's presence may lead to restrictions on air traffic, impacting cargo transport, aviation operations, and personnel movement. Logistics and supply chains may be disrupted, and security measures may be enhanced to counter the drone threat.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "dcd3c22a2ec2551a4738898d1e960052",
+    "timestamp": "2026-05-26T10:10:18.876349",
+    "original_title": "Israel Intensifies Attacks In Lebanon As Netanyahu Vows To 'Increase The Blows’ On Hezbollah Sites",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1tnyi31/israel_intensifies_attacks_in_lebanon_as/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "Bekaa Valley, Lebanon",
+      "latitude": 33.85,
+      "longitude": 35.95,
+      "detailed_analysis": "Israel has intensified airstrikes on Hezbollah sites in Lebanon's Bekaa Valley, with Netanyahu vowing to escalate attacks in response to Hezbollah's use of fiber optic drones against Israeli forces. This escalation poses a significant threat to aviation and regional stability.",
+      "immediate_forecast_24h": "Increased airstrikes and potential retaliation from Hezbollah are expected, posing a high risk to aviation and personnel in the region.",
+      "strategic_outlook": "The conflict between Israel and Hezbollah may escalate further, potentially drawing in other regional actors and affecting cargo and personnel movement in the area.",
+      "operational_impact": "Airlines and logistics operators should exercise extreme caution when operating in the region, with potential disruptions to flights and cargo transport due to the conflict.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "d635b6b0d8850872e5831ba34ff81a72",
+    "timestamp": "2026-05-26T10:10:20.969954",
+    "original_title": "UK defense secretary's plane hit by suspected Russian GPS jamming",
+    "link": "https://www.reddit.com/r/worldnews/comments/1to1uz3/uk_defense_secretarys_plane_hit_by_suspected/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Aviation/Conflict/Cyber",
+      "risk_score": 8,
+      "location": "Near Russian border, UK",
+      "latitude": 55.0,
+      "longitude": 30.0,
+      "detailed_analysis": "The UK defense secretary's plane was hit by suspected Russian GPS jamming, indicating a potential cyber threat and conflict escalation, which could compromise aviation safety and security",
+      "immediate_forecast_24h": "Increased tensions between the UK and Russia, potential for further GPS jamming incidents, and heightened security measures for aviation assets",
+      "strategic_outlook": "Long-term implications for global aviation security, potential for increased cyber attacks on critical infrastructure, and strained international relations",
+      "operational_impact": "Potential disruptions to flight operations, increased security protocols for aviation assets, and heightened vigilance for cyber threats in the logistics and transportation sectors",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "be5871ab7729cfd7a31c48e64df181ec",
+    "timestamp": "2026-05-26T10:10:25.852115",
+    "original_title": "Israel strikes Lebanese village and calls up more troops in the region",
+    "link": "https://www.france24.com/en/israel-strikes-lebanese-village-and-calls-up-more-troops-in-the-region",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "Southern Lebanon, Lebanon",
+      "latitude": 33.3333,
+      "longitude": 35.5333,
+      "detailed_analysis": "The Israeli army's strikes on a Lebanese village and the call-up of more troops in the region pose a significant threat to assets, cargo, aviation, and personnel in the area. The escalation of the conflict between Israel and Hezbollah increases the risk of further violence and instability.",
+      "immediate_forecast_24h": "Increased military activity and potential for further clashes between Israel and Hezbollah, with possible spillover effects on neighboring areas and transport routes.",
+      "strategic_outlook": "Prolonged conflict could lead to a significant disruption of logistics and supply chains in the region, with potential long-term consequences for regional stability and security.",
+      "operational_impact": "Potential for disruptions to air and ground transport, increased security measures, and possible restrictions on movement in the area, affecting cargo and personnel.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "97b9d4982024163cd9fc36a03c8559f3",
+    "timestamp": "2026-05-26T10:10:32.081456",
+    "original_title": "Gabon - Level 2: Exercise Increased Caution",
+    "link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/gabon-travel-advisory.html",
     "source_name": "US State Dept",
     "ai_analysis": {
-      "category": "Conflict/Civil Unrest/Crime",
-      "risk_score": 8,
-      "location": "Burma",
-      "latitude": 19.7333,
-      "longitude": 95.0667,
-      "detailed_analysis": "The situation in Burma is highly volatile due to ongoing armed conflicts, civil unrest, and the arbitrary enforcement of local laws. The presence of landmines, unexploded ordnance, and improvised explosive devices poses a significant threat to personnel and assets. Additionally, the risk of crime, including violent crime and scams, is notable. The military regime's actions, including conscription laws and detention of individuals without fair treatment, further exacerbate the risks.",
-      "immediate_forecast_24h": "In the next 24 hours, the situation is likely to remain volatile, with potential for further protests, demonstrations, and violence. The risk of IED attacks and unexploded ordnance remains high, particularly in areas with ongoing conflict.",
-      "strategic_outlook": "In the long term, the situation in Burma is unlikely to improve significantly, given the ongoing conflict and the military regime's actions. The risk of further escalation and instability remains high, posing a continued threat to assets, cargo, aviation, and personnel.",
-      "operational_impact": "The situation in Burma is likely to have a significant operational impact on transport and logistics, particularly for those operating in or near conflict zones. The risk of delays, disruptions, and damage to assets is high, and companies should exercise extreme caution when operating in the region.",
-      "proximity_alert": null
+      "category": "Civil Unrest/Crime",
+      "risk_score": 10,
+      "location": "Libreville, Gabon",
+      "latitude": 0.3933,
+      "longitude": 9.45,
+      "detailed_analysis": "The current situation in Gabon poses a threat to assets, cargo, aviation, and personnel due to unrest, crime, and health concerns. Demonstrations and protests may occur without warning, and crime is common in major cities like Libreville and Port Gentil.",
+      "immediate_forecast_24h": "Increased caution is advised in the next 24 hours due to the potential for demonstrations and protests. Travelers should be aware of their surroundings and avoid areas where protests are likely to occur.",
+      "strategic_outlook": "In the long term, the situation in Gabon is likely to remain unstable, with ongoing unrest and crime posing a threat to assets and personnel. It is essential to monitor the situation closely and adjust plans accordingly.",
+      "operational_impact": "The current situation in Gabon may impact transport and logistics operations, particularly in major cities like Libreville and Port Gentil. Cargo and assets may be at risk of theft or damage, and personnel may be affected by the unrest and health concerns.",
+      "proximity_alert": "YAKIN TEHDİT: Libreville International Airport (8 km)"
     }
   }
 ]
