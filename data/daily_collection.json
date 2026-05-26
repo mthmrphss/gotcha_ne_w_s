@@ -169,5 +169,81 @@
       "operational_impact": "Potential disruptions to air traffic, increased security measures at airports and borders, and heightened risk of attacks on cargo and personnel, particularly in the vicinity of conflict zones.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "07280e78dcbaf7f54604871768e88f65",
+    "timestamp": "2026-05-26T01:26:04.010460",
+    "original_title": "US military says it has launched new strikes on southern Iran - BBC",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WaDJGdEZ0YndpVVJXUlUydGhtZnZWVUFDdnR6MUdTSmhQNVMyZmRKUGMxZC0yTUNNTGw1Q2Q1M3VsNWVacFJ2X3cwd1BiOTd4b1BSYWxBM1Bodw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Southern Iran",
+      "latitude": 29.0,
+      "longitude": 52.0,
+      "detailed_analysis": "The US military has launched new strikes on southern Iran, which poses a significant threat to aviation and regional stability. The strikes may lead to retaliatory actions, affecting air traffic and cargo operations in the region.",
+      "immediate_forecast_24h": "Increased tensions and potential for further military action in the region, with possible disruptions to air travel and cargo transport. There is a high risk of escalation, which may impact aviation operations and personnel safety.",
+      "strategic_outlook": "The conflict may lead to a prolonged period of instability in the region, affecting trade and economic activities. The situation may also lead to increased security measures, potentially impacting cargo and personnel movement.",
+      "operational_impact": "Potential disruptions to air traffic, cargo operations, and personnel movement in the region. Airlines and logistics companies may need to reassess their operations and consider alternative routes to minimize risks.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "534d21c7e354b2cb6400bd4dc65c5b60",
+    "timestamp": "2026-05-26T01:26:08.502822",
+    "original_title": "Iran War Live Updates: As Talks to End War Resume in Qatar, U.S. Conducts Strikes on Iran’s Gulf Coast",
+    "link": "https://www.nytimes.com/live/2026/05/25/world/iran-war-trump",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Gulf Coast, Iran",
+      "latitude": 29.0,
+      "longitude": 50.0,
+      "detailed_analysis": "The U.S. military conducted strikes on Iran's Gulf Coast, citing self-defense to protect troops, amidst ongoing talks to end the war in Qatar. This escalation may lead to increased tensions and potential retaliatory actions, affecting aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Heightened military activity and potential for further strikes or retaliations, with possible disruptions to air traffic and shipping lanes in the Gulf Coast area.",
+      "strategic_outlook": "Prolonged conflict may lead to increased instability in the region, affecting global supply chains, oil prices, and aviation security. Israel's plans to intensify attacks against Hezbollah in Lebanon may further exacerbate the situation.",
+      "operational_impact": "Potential disruptions to air traffic, shipping lanes, and cargo operations in the Gulf Coast area, with possible delays or rerouting of flights and vessels. Increased security measures may be implemented at airports and seaports in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "bd76d84fe28bf5b626c8cb9b8e61c2fc",
+    "timestamp": "2026-05-26T01:26:11.061268",
+    "original_title": "DeepDraft SITREP | Hormuz Cargoes Move, But Clearance Risk Spreads Toward Malacca (May 26, 2026)",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1tnriaa/deepdraft_sitrep_hormuz_cargoes_move_but/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Crime/Border/Conflict",
+      "risk_score": 6,
+      "location": "Hormuz, Malacca",
+      "latitude": 26.0,
+      "longitude": 56.0,
+      "detailed_analysis": "Clearance risk spreads toward Malacca, indicating potential threats to cargo and shipping lanes, possibly due to increased tensions or security breaches in the region.",
+      "immediate_forecast_24h": "Increased surveillance and security measures are expected in the Malacca Strait, with potential disruptions to cargo movements and shipping schedules.",
+      "strategic_outlook": "Long-term, the situation may lead to increased costs and risks for shipping companies, as well as potential shifts in global trade routes to avoid the affected areas.",
+      "operational_impact": "Transport and logistics operations in the region may experience delays, increased security checks, and potential rerouting of cargo to avoid high-risk areas.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "abba70a27546d0a6fff972efc7c9fd31",
+    "timestamp": "2026-05-26T01:26:12.935808",
+    "original_title": "Khamenei military adviser says Iran has ‘legal right’ to manage Strait of Hormuz",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1tnq8tx/khamenei_military_adviser_says_iran_has_legal/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Strait of Hormuz, Iran",
+      "latitude": 26.0,
+      "longitude": 56.0,
+      "detailed_analysis": "Iran's claim to manage the Strait of Hormuz poses a significant threat to global shipping and aviation, potentially disrupting cargo transport and impacting personnel safety",
+      "immediate_forecast_24h": "Increased tensions between Iran and other nations, potential for naval blockades or military action",
+      "strategic_outlook": "Long-term implications for global trade, potential for conflict escalation in the region, and impact on aviation routes",
+      "operational_impact": "Possible delays or disruptions to cargo shipments, increased security measures for aviation and maritime transport, and heightened risk for personnel in the region",
+      "proximity_alert": null
+    }
   }
 ]
