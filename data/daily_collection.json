@@ -530,5 +530,100 @@
       "operational_impact": "The incident may cause disruptions to flight schedules and passenger travel plans. Airlines and aviation authorities may need to review and update their safety protocols to minimize the risk of similar incidents in the future.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "a8bcbefccd89658455dcd1eeb96aa255",
+    "timestamp": "2026-05-26T16:58:30.005949",
+    "original_title": "Iran War Live Updates: Iran Threatens to Retaliate for U.S. Strikes as Talks Continue",
+    "link": "https://www.nytimes.com/live/2026/05/26/world/iran-war-trump-deal",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "Strait of Hormuz, Iran",
+      "latitude": 26.0,
+      "longitude": 56.0,
+      "detailed_analysis": "Iran's Revolutionary Guards Corps has threatened to retaliate against the U.S. for strikes near the Strait of Hormuz, posing a significant threat to aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Increased tensions and potential for military escalation in the region, with possible disruptions to air and sea traffic.",
+      "strategic_outlook": "Long-term instability in the region could lead to sustained threats to aviation and cargo operations, with potential for conflict spillover into other areas.",
+      "operational_impact": "Potential for flight disruptions, cargo delays, and increased security measures for aviation and maritime operations in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "48951d1eca194be937c95a55ca57dd29",
+    "timestamp": "2026-05-26T16:58:33.452393",
+    "original_title": "The Wars in Ukraine and Iran Are More Alike Than You May Think",
+    "link": "https://www.nytimes.com/2026/05/26/world/middleeast/iran-ukraine-wars-similarities.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Ukraine and Iran",
+      "latitude": 48.0,
+      "longitude": 32.0,
+      "detailed_analysis": "The ongoing wars in Ukraine and Iran share similarities in the use of drone technology and diplomatic efforts, potentially serving as a model for future conflicts and impacting global alignments.",
+      "immediate_forecast_24h": "Escalation of tensions and potential for increased drone activity in conflict zones, affecting aviation and cargo operations.",
+      "strategic_outlook": "Long-term implications for global security, with potential for the development of new military strategies and alliances, influencing the security landscape for assets, cargo, aviation, and personnel.",
+      "operational_impact": "Possible disruptions to air traffic, increased security measures for cargo and personnel, and heightened vigilance for drone activity in sensitive areas.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "4c5a06e380f6f9f75ae0cf7826b67d5a",
+    "timestamp": "2026-05-26T16:58:37.435175",
+    "original_title": "Ghana introduces free e-visa system for African citizens",
+    "link": "https://www.france24.com/en/ghana-introduces-free-e-visa-system-for-african-citizens",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Border",
+      "risk_score": 10,
+      "location": "Accra, Ghana",
+      "latitude": 5.6037,
+      "longitude": -0.1869,
+      "detailed_analysis": "Ghana's introduction of a free e-visa system for African citizens may lead to increased border activity and potential security concerns, including the risk of stowaways or border breaches affecting transport.",
+      "immediate_forecast_24h": "Increased travel and border crossings are expected in the short term, which may put a strain on border control measures.",
+      "strategic_outlook": "In the long term, the free e-visa system may lead to increased economic activity and growth, but it also poses a risk of increased illegal activities, such as human trafficking or smuggling, if not properly managed.",
+      "operational_impact": "Transport and logistics operators should be aware of the potential for increased border activity and take necessary precautions to ensure the security of their assets and personnel.",
+      "proximity_alert": "YAKIN TEHDİT: Kotoka International Airport (2 km)"
+    }
+  },
+  {
+    "id": "d01bd9c56324420f4027137078596580",
+    "timestamp": "2026-05-26T16:58:39.324242",
+    "original_title": "Iran war threatens Sudan's already fragile agricultural sector",
+    "link": "https://www.france24.com/en/iran-war-threatens-sudan-s-already-fragile-agricultural-sector",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Sudan",
+      "latitude": 15.6333,
+      "longitude": 32.5333,
+      "detailed_analysis": "The ongoing conflict between the army and the RSF paramilitary in Sudan, combined with the Iran war disrupting shipping lanes, poses a significant threat to the country's agricultural sector and overall stability. This could lead to increased instability, affecting cargo and personnel movement.",
+      "immediate_forecast_24h": "Short-term disruptions to food production and distribution are expected, with potential for further escalation of violence and instability.",
+      "strategic_outlook": "Long-term effects on Sudan's economy and food security are likely, with potential for increased migration and further destabilization of the region.",
+      "operational_impact": "Transport and logistics operations in Sudan may be severely impacted, with potential for delays, increased costs, and risks to personnel and cargo.",
+      "proximity_alert": "YAKIN TEHDİT: Khartoum International Airport (5 km)"
+    }
+  },
+  {
+    "id": "80c1df447dc1f9d7b069ab866fb3cf51",
+    "timestamp": "2026-05-26T16:58:43.447595",
+    "original_title": "Thousands of passengers delayed or diverted after Glasgow airport closes runway",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/passengers-stranded-diverted-glasgow-airport-closed-runway-b2983862.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 6,
+      "location": "Glasgow, Scotland",
+      "latitude": 55.8612,
+      "longitude": -4.4339,
+      "detailed_analysis": "Glasgow airport has closed a runway, causing thousands of passengers to be delayed or diverted, with flights from major airports such as Heathrow, Gatwick, Faro, and Frankfurt being rerouted to Edinburgh airport. The cause of the closure is not specified, but it indicates a potential disruption to aviation operations.",
+      "immediate_forecast_24h": "In the next 24 hours, flights may continue to be delayed or diverted, and passengers should expect disruptions to their travel plans. The situation may be resolved once the runway is reopened, but the cause of the closure will need to be addressed to prevent future occurrences.",
+      "strategic_outlook": "The long-term impact of this event will depend on the cause of the runway closure and the measures taken to prevent similar incidents in the future. If the cause is related to a systemic issue, it may require significant investment to resolve, potentially affecting the airport's operations and reputation.",
+      "operational_impact": "The closure of the runway at Glasgow airport will have a significant operational impact on flights and passengers, with potential knock-on effects for connecting flights and overall air travel in the region. Logistics and cargo operations may also be affected, particularly if flights are diverted to other airports.",
+      "proximity_alert": null
+    }
   }
 ]
