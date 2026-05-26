@@ -492,5 +492,43 @@
       "operational_impact": "The current situation in Gabon may impact transport and logistics operations, particularly in major cities like Libreville and Port Gentil. Cargo and assets may be at risk of theft or damage, and personnel may be affected by the unrest and health concerns.",
       "proximity_alert": "YAKIN TEHDİT: Libreville International Airport (8 km)"
     }
+  },
+  {
+    "id": "269d058f7126ff913d10cae06cf81e45",
+    "timestamp": "2026-05-26T13:29:52.895899",
+    "original_title": "Traders in eastern Congo warn of shortages due to Rwanda border measures",
+    "link": "http://www.africanews.com/2026/05/26/traders-in-eastern-congo-warn-of-shortages-due-to-rwanda-border-measures/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Border/Civil Unrest/Conflict",
+      "risk_score": 6,
+      "location": "Bukavu, DR Congo",
+      "latitude": -2.5,
+      "longitude": 28.85,
+      "detailed_analysis": "The border measures imposed by Rwanda, including refusing entry to foreign nationals who have traveled to the DRC in the last month, may lead to shortages and disruptions in trade and logistics, potentially affecting cargo and personnel movement.",
+      "immediate_forecast_24h": "Shortages and disruptions to trade and logistics are expected to worsen in the short term, with potential for increased tensions and unrest at the border.",
+      "strategic_outlook": "The long-term impact of these measures could lead to a decline in economic activity and increased instability in the region, potentially affecting aviation and other transport modes.",
+      "operational_impact": "Transport and logistics operations may be severely impacted, with potential for delays, increased costs, and reduced access to certain areas, affecting both cargo and personnel movement.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "97cae8d316b7392b4a6780b4f33c5820",
+    "timestamp": "2026-05-26T13:30:01.675685",
+    "original_title": "Cathay Pacific flight plunges mid-air in severe turbulence leaving 10 passengers injured",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/cathay-pacific-flight-turbulence-brisbane-hong-kong-injuries-b2983504.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 6,
+      "location": "Unknown, International Airspace",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "A Cathay Pacific flight experienced severe turbulence, resulting in injuries to 10 passengers. The incident occurred during breakfast service, and passengers reported feeling as though the plane was going down.",
+      "immediate_forecast_24h": "The airline will likely conduct an investigation into the incident, and there may be increased scrutiny of in-flight safety protocols. Passenger injuries may require medical attention, and the flight may be delayed or rerouted.",
+      "strategic_outlook": "The incident highlights the importance of turbulence forecasting and mitigation strategies in aviation. Airlines may need to reassess their safety procedures and provide additional training to crew members on handling severe turbulence.",
+      "operational_impact": "The incident may cause disruptions to flight schedules and passenger travel plans. Airlines and aviation authorities may need to review and update their safety protocols to minimize the risk of similar incidents in the future.",
+      "proximity_alert": null
+    }
   }
 ]
