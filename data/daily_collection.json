@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "id": "05ef51b58dfb8b3884f07ea53ee120da",
+    "timestamp": "2026-05-26T22:51:02.043937",
+    "original_title": "1 injured in plane crash at Saratoga County Airport - Times Union",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOblBfU3dlQXhLNnUwX21pdXljTXhIeThNb29GUEQxUkNiZGRBN3hzR1BYUjMtYTZ1T1ZVUU5nTVNfbE93U0NuNGR1amlvMDdiRnlsM1hQYlBkQV9JYldDM2xnSlZjdTF5V1AyNFF0Z0hXM25aSXdlU3hqai1RWTJ6ekM0ZHAwdjJfMlRaamtjZlpjYWhUaHBYM3padVl3ckFY?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 8,
+      "location": "Saratoga County, USA",
+      "latitude": 43.0683,
+      "longitude": -73.7917,
+      "detailed_analysis": "A plane crash occurred at Saratoga County Airport, resulting in one injury. The incident poses a significant risk to aviation safety and may impact airport operations.",
+      "immediate_forecast_24h": "Investigations into the cause of the crash are likely to begin immediately, and airport operations may be disrupted. There is a possibility of further incidents or accidents if the cause is related to a systemic issue.",
+      "strategic_outlook": "The long-term impact of the crash will depend on the investigation's findings and any subsequent actions taken to address safety concerns. The incident may lead to increased scrutiny of aviation safety protocols and potential updates to regulations or procedures.",
+      "operational_impact": "The crash may cause delays or cancellations of flights at Saratoga County Airport, and potentially impact the transportation of cargo and personnel in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "17d2ceb2dabefd0b634b78e63b7f2203",
+    "timestamp": "2026-05-26T22:51:08.188438",
+    "original_title": "Iran says US violated ceasefire with strikes near Hormuz",
+    "link": "https://www.france24.com/en/middle-east/20260526-iran-says-us-violated-ceasefire-with-strikes-near-hormuz-war",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Strait of Hormuz, Iran",
+      "latitude": 26.0,
+      "longitude": 56.0,
+      "detailed_analysis": "Iran has accused the US of breaching a fragile ceasefire with strikes near the Strait of Hormuz, which could escalate tensions and impact shipping and aviation in the region.",
+      "immediate_forecast_24h": "Increased military presence and heightened tensions in the region, potentially disrupting shipping lanes and air traffic.",
+      "strategic_outlook": "Prolonged conflict could lead to significant disruptions to global trade, increased insurance costs, and potential for further escalation.",
+      "operational_impact": "Potential delays or rerouting of cargo ships and flights, increased security measures, and possible closure of airspace or shipping lanes.",
+      "proximity_alert": null
+    }
+  }
+]
