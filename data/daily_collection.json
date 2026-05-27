@@ -36,5 +36,62 @@
       "operational_impact": "Potential delays or rerouting of cargo ships and flights, increased security measures, and possible closure of airspace or shipping lanes.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "7215571b26b9cd490d038819069d8640",
+    "timestamp": "2026-05-27T00:14:32.867219",
+    "original_title": "Emergency vehicle responding to plane crash collides with Jeep in Saratoga County - WRGB",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQU09ZQm5vcE95TExLekMxOUt4Y2NQOHNuYVJOWkVmQVd3NlE2MWNWa0RmZWtBbzN4NzdDb2lGZWx4REdvTDZuY2tINlZ4Rnh3U1piSHFvZjF1MThnYnJwcHoxUlF4RF9samdLVUczbEJONmdYN0hjS1JtdjlWbzlvejZWNVJXbkM1Q3hja2VndjVTRC1pNWFJQlp3dkdDTk1zbndKU1lucHpQMEI5a3hUempOUTFESmt1d2cxdlk2UjBfQ094N1ZNNnpURllIS1pGTEtEMTN3WlAtVEZMZ2dkSERvSWxqc05VYk8w?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 6,
+      "location": "Saratoga County",
+      "latitude": 43.0829,
+      "longitude": -73.7848,
+      "detailed_analysis": "A plane crash occurred, prompting an emergency response. However, the emergency vehicle collided with a Jeep, which may indicate a secondary incident. The primary concern is the plane crash, which poses a significant risk to aviation safety.",
+      "immediate_forecast_24h": "Investigations into the plane crash and the collision between the emergency vehicle and the Jeep are expected to commence. There may be disruptions to local air traffic and emergency services.",
+      "strategic_outlook": "The incident may lead to a review of emergency response procedures and aviation safety protocols in the region. It could also result in increased surveillance and safety measures to prevent similar incidents in the future.",
+      "operational_impact": "The plane crash and subsequent collision may cause temporary disruptions to local air traffic and emergency services. However, the overall impact on transport and logistics is expected to be minimal, as the incident appears to be isolated.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "c7f5e9b7fcde0102571655ec3914d554",
+    "timestamp": "2026-05-27T00:14:34.600948",
+    "original_title": "Iran War Updates: U.S. Saw Threats From Iran Before Renewing Strikes, Officials Said - The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqYzdyRkVnYnVJbDBrS0Fpb2VULTI2XzNIQlN2ZVZSMlg0b01VLTJXY1VDeDJ6NTlTQ1BScXdKTGEzaTdUWWR0UFdyalJneDlyUGZEckFpSFMzcjJvVFNfVUhJblIxWFM0MktoeXBLcG94UFk?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Iran, Middle East",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The U.S. saw threats from Iran before renewing strikes, indicating a heightened state of tension and potential for conflict, which could impact aviation and transport in the region.",
+      "immediate_forecast_24h": "Increased military activity and potential for retaliatory strikes from Iran, posing a risk to aviation and transport in the region.",
+      "strategic_outlook": "Long-term escalation of conflict could lead to significant disruptions to transport and logistics in the Middle East, affecting global supply chains.",
+      "operational_impact": "Potential for flight restrictions, airspace closures, and increased security measures for transport and logistics operations in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "9f606237aa4f302264e61678e8d55059",
+    "timestamp": "2026-05-27T00:14:38.305217",
+    "original_title": "Iran War Updates: U.S. Saw Threats From Iran Before Renewing Strikes, Officials Said",
+    "link": "https://www.nytimes.com/live/2026/05/26/world/iran-war-trump-deal",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Strait of Hormuz, Iran",
+      "latitude": 26.0,
+      "longitude": 56.0,
+      "detailed_analysis": "The U.S. saw threats from Iran before renewing strikes, and Iran has warned of retaliation after American military forces attacked sites near the Strait of Hormuz, posing a significant risk to aviation and cargo in the region.",
+      "immediate_forecast_24h": "Increased military activity and potential for retaliation from Iran, which may lead to disruptions in air traffic and shipping lanes.",
+      "strategic_outlook": "Escalating tensions between the U.S. and Iran may lead to a prolonged conflict, affecting global oil prices, air travel, and cargo shipments in the region.",
+      "operational_impact": "Potential for flight delays or cancellations, increased security measures at airports and ports, and disruptions to supply chains due to the conflict.",
+      "proximity_alert": null
+    }
   }
 ]
