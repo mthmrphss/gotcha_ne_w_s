@@ -663,5 +663,43 @@
       "operational_impact": "Minimal direct impact on transport/logistics, but potential for indirect consequences such as increased delays or passenger dissatisfaction if similar errors occur frequently.",
       "proximity_alert": "YAKIN TEHDİT: ABU DHABİ (1 km)"
     }
+  },
+  {
+    "id": "c2abdffd919805b40c44bf0c99f984f1",
+    "timestamp": "2026-05-28T19:41:46.841192",
+    "original_title": "Gaza City hospitals say several killed in strike, as Israel targets Hamas leaders",
+    "link": "https://www.reddit.com/r/worldnews/comments/1tqdw2n/gaza_city_hospitals_say_several_killed_in_strike/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "Gaza City, Palestine",
+      "latitude": 31.5,
+      "longitude": 34.45,
+      "detailed_analysis": "Airstrikes targeting Hamas leaders in Gaza City have resulted in several casualties, indicating a heightened state of conflict and potential for further escalation, posing significant risks to aviation, personnel, and assets in the region.",
+      "immediate_forecast_24h": "Increased tensions and potential for retaliatory attacks are expected, with heightened security measures likely to be implemented at nearby airports and critical infrastructure.",
+      "strategic_outlook": "The ongoing conflict may lead to prolonged instability in the region, affecting air travel and logistics, with potential for spillover into neighboring countries or international waters.",
+      "operational_impact": "Flights to and from nearby airports may be disrupted or rerouted, and cargo operations could be suspended or delayed due to the conflict, with potential for significant economic and humanitarian impacts.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "c2571aa0651279a3991ef48b8e55c062",
+    "timestamp": "2026-05-28T19:41:49.829425",
+    "original_title": "US, Iran trade blame over fire exchanges",
+    "link": "https://www.france24.com/en/tv-shows/spotlight/20260528-us-iran-trade-blame-over-fire-exchanges",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Bandar Abbas, Iran",
+      "latitude": 27.1833,
+      "longitude": 56.2833,
+      "detailed_analysis": "The US and Iran have engaged in tit-for-tat clashes, with Iran firing on a US army base and the US striking the Bandar Abbas port in Iran, indicating a high level of conflict and potential for further escalation.",
+      "immediate_forecast_24h": "A 60-day ceasefire agreement has been reached, but its approval by President Donald Trump is pending, and the situation remains volatile, with Pakistan's foreign minister attempting to facilitate negotiations.",
+      "strategic_outlook": "The conflict between the US and Iran has significant implications for regional stability and global security, with potential long-term consequences for trade, logistics, and aviation in the region.",
+      "operational_impact": "The conflict may disrupt cargo shipments and aviation operations in the region, particularly at the Bandar Abbas port, and may also impact personnel safety and security.",
+      "proximity_alert": null
+    }
   }
 ]
