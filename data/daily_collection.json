@@ -55,5 +55,62 @@
       "operational_impact": "The attack may impact rail transport operations in Switzerland, with potential delays or cancellations of train services. Cargo and passenger operations may also be affected by increased security screening and measures.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "796ae49de0df2bc066f3ddcb40fb6f5a",
+    "timestamp": "2026-05-29T04:17:48.349646",
+    "original_title": "Suspect in Taylor Swift Vienna concert attack plot convicted and sentenced to 15 years - Pittsburgh Post-Gazette",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxON0Rvd0dGclNRVzlvMXJvV3JUYkRBeThEWkJwX3pjanNZYW9idlpjeUEwcEp3Ti1WM0g4Tm56SVRPNDFvZTZyZXM4NkFXQnFaYkVQSUtmWk5sRVRqUEwxXzRaZGxMbXFjdTB3RmlpWUJsWkdpNHZPNVBkSF9LTTR3RzA1SnZRand4S3plMFJ5VHhqS2o0OFFjb2VGcGtkdmhVNnp3am9kMWNvbVluUU5ORGp3YXcyeDJVVUxr?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism/Crime",
+      "risk_score": 10,
+      "location": "Vienna, Austria",
+      "latitude": 48.2082,
+      "longitude": 16.3738,
+      "detailed_analysis": "A suspect involved in a plot to attack a Taylor Swift concert in Vienna has been convicted and sentenced to 15 years, indicating a high level of intent and planning, posing a significant threat to public safety and security, particularly in crowded areas such as concert venues.",
+      "immediate_forecast_24h": "Increased security measures are likely to be implemented in public areas, especially around concert venues and other crowded spaces, to mitigate potential threats and ensure public safety.",
+      "strategic_outlook": "The conviction and sentencing of the suspect may deter similar plots in the future, but the threat of terrorism and crime remains, requiring continued vigilance and proactive security measures to protect assets, cargo, aviation, and personnel.",
+      "operational_impact": "The incident may lead to increased security checks and protocols at concert venues and other public events, potentially causing delays or disruptions to logistics and transportation operations, but the primary impact is on public safety and security rather than direct operational disruption.",
+      "proximity_alert": "YAKIN TEHDİT: Vienna International Airport (0 km)"
+    }
+  },
+  {
+    "id": "b455952459d74d436aebac41b9c43e80",
+    "timestamp": "2026-05-29T04:17:54.652132",
+    "original_title": "Russian drone hits apartment building in Romania near Ukraine border",
+    "link": "https://www.france24.com/en/europe/20260529-russian-drone-hits-apartment-building-in-romania-near-ukraine-border",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 8,
+      "location": "Romania near Ukraine border",
+      "latitude": 47.7,
+      "longitude": 25.9,
+      "detailed_analysis": "A Russian drone has hit an apartment building in Romania near the Ukraine border, indicating a potential escalation of the conflict and posing a significant threat to aviation and regional stability.",
+      "immediate_forecast_24h": "Increased military activity and heightened tensions are expected in the region, with potential for further drone sightings or attacks.",
+      "strategic_outlook": "The incident may lead to increased diplomatic tensions between Russia and Romania, as well as other European countries, potentially affecting regional security and aviation regulations.",
+      "operational_impact": "Potential disruptions to air traffic and logistics in the region, with increased security measures and possible restrictions on drone usage.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "b455952459d74d436aebac41b9c43e80",
+    "timestamp": "2026-05-29T04:17:56.667286",
+    "original_title": "Russian drone hits apartment building in Romania near Ukraine border",
+    "link": "https://www.france24.com/en/europe/20260529-russian-drone-hits-apartment-building-in-romania-near-ukraine-border",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 8,
+      "location": "Galati, Romania",
+      "latitude": 45.4333,
+      "longitude": 28.0667,
+      "detailed_analysis": "A Russian drone struck an apartment building in Galati, Romania, near the Ukrainian border, injuring two people and causing a fire. The incident is linked to the ongoing war in Ukraine and highlights the risk of drone activity in the region.",
+      "immediate_forecast_24h": "Increased drone activity is expected in the region, potentially targeting civilian areas. Authorities may enhance security measures and surveillance to mitigate the threat.",
+      "strategic_outlook": "The conflict in Ukraine may continue to escalate, leading to more frequent drone sightings and potential strikes in neighboring countries, including Romania. This could have long-term implications for regional security and stability.",
+      "operational_impact": "The incident may disrupt air traffic and logistics operations in the region, particularly if drone activity increases. Transport and logistics companies should be prepared for potential delays or rerouting of cargo and personnel.",
+      "proximity_alert": null
+    }
   }
 ]
