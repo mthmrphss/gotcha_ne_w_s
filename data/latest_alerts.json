@@ -1,97 +1,78 @@
 [
   {
-    "id": "510b82e45d726bab079761ff989d1e96",
-    "timestamp": "2026-05-31T12:14:40.801050",
-    "original_title": "United Airlines Flight UA236 From Newark Liberty to Palma de Mallorca Turns Back Mid‑Ocean After In‑Flight Bluetooth Security Alert Disrupts Transatlantic Service - Travel And Tour World",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0dFNmQlc2LUh1RGpZT04tdkV4ZXctUTFJYVkybTVTVndQZ0QxbF9NQzJmemJJWk9Fd0lBaEQyUU1aei1jQTZHZ1kxMmhWcDNiN1VkN1JPX2l2b3ktLVB4aWJBbmtVRDNEYkZEOU5R?oc=5",
-    "source_name": "Live Flight Emergencies (Squawk)",
-    "ai_analysis": {
-      "category": "Aviation/Cyber",
-      "risk_score": 7,
-      "location": "Mid-Atlantic Ocean",
-      "latitude": 40.0,
-      "longitude": -30.0,
-      "detailed_analysis": "United Airlines Flight UA236 experienced an in-flight Bluetooth security alert, prompting the aircraft to turn back mid-ocean, disrupting transatlantic service from Newark Liberty to Palma de Mallorca.",
-      "immediate_forecast_24h": "The flight will likely be grounded for investigation, and passengers will be accommodated on alternative flights, causing delays and inconvenience.",
-      "strategic_outlook": "This incident highlights the potential vulnerability of aviation systems to cyber threats, and airlines may need to review and enhance their security protocols to prevent similar disruptions in the future.",
-      "operational_impact": "The incident may cause delays and disruptions to United Airlines' transatlantic services, potentially affecting cargo and passenger operations, and impacting the airline's reputation and customer trust.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "cb776eb5125e1c02046fe12415bef137",
-    "timestamp": "2026-05-31T12:14:43.538011",
-    "original_title": "Ukrainian drones hit pipeline, refinery, fuel depot in overnight strikes",
-    "link": "https://www.reddit.com/r/worldnews/comments/1tstkxo/ukrainian_drones_hit_pipeline_refinery_fuel_depot/",
+    "id": "46ec93b2cf07ed9d65425fe34a0db1d8",
+    "timestamp": "2026-05-31T14:19:05.494384",
+    "original_title": "Lukashenko says Belarus has 'major' target in Ukraine in its sights",
+    "link": "https://www.reddit.com/r/worldnews/comments/1tswa2k/lukashenko_says_belarus_has_major_target_in/",
     "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict/Aviation",
-      "risk_score": 10,
-      "location": "Several Russian regions",
-      "latitude": 55.7558,
-      "longitude": 37.6176,
-      "detailed_analysis": "Ukrainian drones have conducted overnight strikes on a pipeline, refinery, and fuel depot across several Russian regions, indicating a significant escalation in the conflict with potential disruptions to fuel supplies and logistics.",
-      "immediate_forecast_24h": "Increased tensions between Ukraine and Russia, potential for retaliatory strikes, and heightened security measures in the affected regions.",
-      "strategic_outlook": "Long-term disruption to Russian fuel supplies and logistics, potential for economic sanctions, and increased instability in the region.",
-      "operational_impact": "Potential delays and disruptions to transport and logistics operations in the region, increased security protocols for fuel and energy infrastructure, and potential shortages of fuel supplies.",
-      "proximity_alert": "YAKIN TEHDİT: Vnukovo International Airport (27 km)"
-    }
-  },
-  {
-    "id": "69acfee9563ca054f6c2cd9e4cbd3735",
-    "timestamp": "2026-05-31T12:14:45.558101",
-    "original_title": "Americans Injured in Iranian Missile Strike on Kuwaiti Air Base | Today News",
-    "link": "https://www.reddit.com/r/worldnews/comments/1tsstay/americans_injured_in_iranian_missile_strike_on/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict/Aviation",
-      "risk_score": 8,
-      "location": "Kuwait",
-      "latitude": 29.3697,
-      "longitude": 47.6583,
-      "detailed_analysis": "Iranian missile strike on a Kuwaiti air base has resulted in American injuries, indicating a significant escalation of conflict in the region, posing a direct threat to aviation and personnel safety.",
-      "immediate_forecast_24h": "Heightened tensions between Iran and the US/Kuwait may lead to further military actions or retaliations, potentially disrupting air traffic and logistics in the region.",
-      "strategic_outlook": "The long-term implications of this incident could involve increased military presence, stricter security measures at air bases, and potential shifts in regional alliances, all of which could impact the operational environment for aviation and logistics.",
-      "operational_impact": "The attack may lead to increased security protocols at air bases, potential airspace restrictions, and heightened vigilance for similar attacks, affecting the efficiency and safety of aviation operations and logistics in the region.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "b28a242b68386c8d55fbc0ac3adb6073",
-    "timestamp": "2026-05-31T12:14:48.022778",
-    "original_title": "Dublin demands justice for Congolese man dead after being restrained by security guards",
-    "link": "https://www.france24.com/en/dublin-demands-justice-for-congolese-man-dead-after-being-restrained-by-security-guards",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Civil Unrest",
-      "risk_score": 10,
-      "location": "Dublin, Ireland",
-      "latitude": 53.3441,
-      "longitude": -6.2679,
-      "detailed_analysis": "Protests in Dublin following the death of a Congolese man after being restrained by security guards, with potential for further unrest and demonstrations",
-      "immediate_forecast_24h": "Continued protests and potential for clashes with authorities, but no immediate indication of escalation to more severe violence",
-      "strategic_outlook": "Long-term implications for community relations and potential for increased tensions between law enforcement and minority groups",
-      "operational_impact": "Potential for disruptions to local transportation and logistics due to protests, but no significant impact on aviation or cargo operations expected",
-      "proximity_alert": "YAKIN TEHDİT: Clayton Hotel Dublin Airport (8 km)"
-    }
-  },
-  {
-    "id": "dc062485e5d3538bfff4f31f426bb073",
-    "timestamp": "2026-05-31T12:14:50.834893",
-    "original_title": "Three months after the strike, Iranian families still mourn Minab's children",
-    "link": "https://www.france24.com/en/three-months-after-the-strike-iranian-families-still-mourn-minab-s-children",
-    "source_name": "France 24 ME",
     "ai_analysis": {
       "category": "Conflict",
       "risk_score": 8,
-      "location": "Minab, Iran",
-      "latitude": 27.0667,
-      "longitude": 57.0833,
-      "detailed_analysis": "A missile strike destroyed an elementary school in Minab, Iran, killing over a hundred children. The incident has significant implications for regional stability and may impact aviation and cargo operations in the area.",
-      "immediate_forecast_24h": "Increased tensions and potential for further conflict in the region, with possible disruptions to air travel and cargo transport.",
-      "strategic_outlook": "Long-term instability in the region may lead to sustained disruptions to aviation and cargo operations, with potential for increased security measures and protocols.",
-      "operational_impact": "Potential disruptions to air travel and cargo transport in the region, with possible increased security measures and protocols for aviation and cargo operations.",
+      "location": "Ukraine-Belarus border",
+      "latitude": 51.8233,
+      "longitude": 28.6569,
+      "detailed_analysis": "Belarusian President Lukashenko has announced a major target in Ukraine, indicating potential military action or escalation, posing a significant threat to assets, cargo, aviation, and personnel in the region.",
+      "immediate_forecast_24h": "Increased military activity and tensions along the Ukraine-Belarus border, potential for cross-border attacks or skirmishes, and heightened security measures in the area.",
+      "strategic_outlook": "Long-term instability and conflict in the region, potentially drawing in other nations, and impacting global supply chains, trade, and economic stability.",
+      "operational_impact": "Potential disruptions to air and ground transportation, increased security checks, and possible restrictions on cargo and personnel movement in the region.",
       "proximity_alert": null
+    }
+  },
+  {
+    "id": "258f333f50fa821c6b83551794624907",
+    "timestamp": "2026-05-31T14:19:07.186135",
+    "original_title": "PSG victory sparks chaos in Paris: Riots and mass arrests reported",
+    "link": "https://www.reddit.com/r/worldnews/comments/1tsvko0/psg_victory_sparks_chaos_in_paris_riots_and_mass/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Paris, France",
+      "latitude": 48.8567,
+      "longitude": 2.3508,
+      "detailed_analysis": "Riots and mass arrests have been reported in Paris following a PSG victory, indicating a high level of civil unrest that could potentially impact transport and logistics in the area.",
+      "immediate_forecast_24h": "The situation is likely to remain volatile in the short term, with potential for further clashes between protesters and law enforcement.",
+      "strategic_outlook": "The long-term impact of this event on the city's security and stability is uncertain, but it may lead to increased security measures and potential disruptions to transport and logistics in the future.",
+      "operational_impact": "The unrest may cause disruptions to road traffic, public transportation, and potentially air travel, with possible delays or cancellations of flights and other transport services.",
+      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (2 km)"
+    }
+  },
+  {
+    "id": "36f32e7beb7b82eced2d28077367b3c0",
+    "timestamp": "2026-05-31T14:19:09.125915",
+    "original_title": "Paris riots: Hundreds arrested and dozens of police injured in France after Champions League final",
+    "link": "https://www.reddit.com/r/worldnews/comments/1tsvith/paris_riots_hundreds_arrested_and_dozens_of/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Paris, France",
+      "latitude": 48.8567,
+      "longitude": 2.3508,
+      "detailed_analysis": "Riots broke out in Paris after the Champions League final, resulting in hundreds of arrests and dozens of police injuries. The unrest may impact transportation and logistics in the area, particularly around major event venues and city centers.",
+      "immediate_forecast_24h": "Increased police presence and potential for continued unrest, especially if the situation is not brought under control. There may be disruptions to public transportation and road closures.",
+      "strategic_outlook": "The long-term impact of the riots on the city's security and stability will depend on the government's response and the ability to address underlying social and economic issues. The aviation and cargo sectors may experience some disruptions, but it is unlikely to have a significant long-term impact.",
+      "operational_impact": "Transportation and logistics operations in Paris may be affected, particularly in areas where the riots are taking place. Companies should monitor the situation closely and consider alternative routes or contingency plans to minimize disruptions.",
+      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (2 km)"
+    }
+  },
+  {
+    "id": "ad2ca00361ffd90940ac8a2d283e5c7b",
+    "timestamp": "2026-05-31T14:19:12.460308",
+    "original_title": "Transatlantic United Airlines Flight Makes Emergency ‘Terror Threat’ Diversion Over Bluetooth Speaker Name",
+    "link": "https://www.paddleyourownkanoo.com/2026/05/31/transatlantic-united-airlines-flight-makes-emergency-terror-threat-diversion-over-bluetooth-speaker-name/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Aviation/Terrorism",
+      "risk_score": 10,
+      "location": "New York, USA",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "detailed_analysis": "A United Airlines flight from Newark to Palma de Mallorca made an emergency diversion due to a Bluetooth speaker named 'BOMB' carried by a teen passenger, indicating a potential terror threat.",
+      "immediate_forecast_24h": "Enhanced security measures are expected to be implemented on flights, with possible increased scrutiny of passenger belongings and electronic devices.",
+      "strategic_outlook": "This incident highlights the need for continued vigilance and awareness among passengers and airline staff to prevent and respond to potential security threats.",
+      "operational_impact": "The diversion may cause delays and disruptions to flight schedules, with potential knock-on effects for passengers, cargo, and airline operations.",
+      "proximity_alert": "YAKIN TEHDİT: Paramount Hotel (5 km)"
     }
   }
 ]
