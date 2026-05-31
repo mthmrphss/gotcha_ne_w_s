@@ -1,21 +1,40 @@
 [
   {
-    "id": "2843c81b8d5ae48ce43461713908ab7a",
-    "timestamp": "2026-05-31T18:46:03.170540",
-    "original_title": "In the West Bank, settlers are increasingly emboldened amidst war in Iran and their excesses are increasingly filmed and distributed. One story of an abused dog is inflaming as the war American-Israeli war in Iran remains unresolved.",
-    "link": "https://www.reddit.com/r/geopolitics/comments/1tt2eg5/in_the_west_bank_settlers_are_increasingly/",
-    "source_name": "Reddit r/Geopolitics",
+    "id": "a7fd901442f9cded9cb1998116daec3a",
+    "timestamp": "2026-05-31T20:16:08.565117",
+    "original_title": "Blast at building storing explosives in Myanmar kills more than 45 people",
+    "link": "https://www.reddit.com/r/worldnews/comments/1tt47th/blast_at_building_storing_explosives_in_myanmar/",
+    "source_name": "Reddit r/WorldNews",
     "ai_analysis": {
-      "category": "Conflict/Civil Unrest",
-      "risk_score": 6,
-      "location": "West Bank",
-      "latitude": 32.0,
-      "longitude": 35.5,
-      "detailed_analysis": "The situation in the West Bank is escalating due to increased settler activity and the ongoing American-Israeli war in Iran. The abuse of a dog has sparked outrage, and the distribution of such incidents on social media may fuel further unrest.",
-      "immediate_forecast_24h": "Tensions are likely to remain high, with potential for clashes between settlers and local residents. The situation may deteriorate if the war in Iran continues unresolved.",
-      "strategic_outlook": "The long-term outlook is uncertain, with the potential for increased violence and instability in the region. The situation may impact transport and logistics operations, particularly those related to aviation and cargo.",
-      "operational_impact": "The conflict may lead to disruptions in transport and logistics operations, particularly in the West Bank and surrounding areas. Aviation and cargo operations may be affected by increased security measures or potential airspace restrictions.",
+      "category": "Conflict/Explosives",
+      "risk_score": 8,
+      "location": "Myanmar",
+      "latitude": 21.9162,
+      "longitude": 95.9555,
+      "detailed_analysis": "A blast occurred at a building storing explosives in Myanmar, resulting in over 45 fatalities. The incident highlights the risks associated with storing hazardous materials and the potential for catastrophic accidents or intentional attacks.",
+      "immediate_forecast_24h": "Increased security measures are expected in the surrounding area, with potential disruptions to local transport and logistics. The risk of further incidents or attacks in the region may be elevated.",
+      "strategic_outlook": "The long-term impact of this incident may lead to increased scrutiny of explosive storage facilities and potentially more stringent regulations. This could have implications for the transportation and storage of hazardous materials in the region.",
+      "operational_impact": "The incident may cause disruptions to local supply chains, particularly those involving hazardous materials. Aviation and cargo operations in the region may need to exercise increased caution and adhere to enhanced security protocols.",
       "proximity_alert": null
+    }
+  },
+  {
+    "id": "bce4718ab1071d07ccd9c3d8c9a68d60",
+    "timestamp": "2026-05-31T20:16:12.626873",
+    "original_title": "Emirates Flight From Edinburgh Forced to Make Stopover in Manchester Due to Jet Fuel Crisis Hitting Scottish Airport",
+    "link": "https://www.paddleyourownkanoo.com/2026/05/31/emirates-flight-from-edinburgh-forced-to-make-stopover-in-manchester-due-to-jet-fuel-crisis-hitting-scottish-airport/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Edinburgh, Scotland",
+      "latitude": 55.95,
+      "longitude": -3.19,
+      "detailed_analysis": "A jet fuel crisis at Edinburgh Airport has forced an Emirates flight to make an unscheduled stopover in Manchester, indicating potential disruptions to aviation operations and logistics.",
+      "immediate_forecast_24h": "Further flight delays or cancellations are possible if the fuel crisis is not resolved promptly.",
+      "strategic_outlook": "The incident highlights the need for airports to have contingency plans in place to mitigate the impact of fuel supply chain disruptions on aviation operations.",
+      "operational_impact": "The stopover may cause inconvenience to passengers and potentially affect cargo transport, but the overall impact on logistics is expected to be minimal.",
+      "proximity_alert": "YAKIN TEHDİT: Edinburg Airport (10 km)"
     }
   }
 ]
