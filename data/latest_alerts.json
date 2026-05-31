@@ -1,59 +1,40 @@
 [
   {
-    "id": "d6519ceb94ca7d08f1882a4b48633601",
-    "timestamp": "2026-05-31T05:05:24.223388",
-    "original_title": "In Taiwan, ‘Mainland Spouses’ From China Become a Focus of Infiltration Fears",
-    "link": "https://www.nytimes.com/2026/05/31/world/asia/taiwan-china-mainland-spouses-infiltration.html",
-    "source_name": "NewYork Times",
-    "ai_analysis": {
-      "category": "Border/Civil Unrest/Conflict",
-      "risk_score": 10,
-      "location": "Taipei, Taiwan",
-      "latitude": 25.033,
-      "longitude": 121.5654,
-      "detailed_analysis": "The situation involves a Chinese-born woman accused of infiltration, sparking debate over how Taiwan defends its democracy without profiling migrants from China, potentially leading to increased tensions and security measures at borders and within the country.",
-      "immediate_forecast_24h": "Heightened security checks and scrutiny of migrants from China are expected in the short term, potentially causing delays or disruptions in transportation and logistics.",
-      "strategic_outlook": "Long-term, this could lead to stricter border control policies and increased surveillance, affecting the flow of people and goods between Taiwan and China, and potentially impacting regional stability.",
-      "operational_impact": "Transportation and logistics operations may face increased scrutiny and security checks, particularly for cargo and personnel traveling between Taiwan and China, which could lead to delays and additional costs.",
-      "proximity_alert": "YAKIN TEHDİT: Taiwan Taoyuan International Airport (0 km)"
-    }
-  },
-  {
-    "id": "84f68e6497658dbbe4db986a5f4cf885",
-    "timestamp": "2026-05-31T05:05:26.478467",
-    "original_title": "United flight turned around over Atlantic as a boy named his Bluetooth device “bomb” - airlive",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVVMxWmItM0V2bjR2RzMzYmViMlRldWcxdDZBWGo3akpieWdMemVsY1BFWWVZT0Y4NlhMbGYzYzI0S2FqaXpkdFpoZXg0RFNuM2VXLW9hNHNIcmJtOVk5UE8tUFlZdGxMSEIxZlFlUFBCZ29tbXU2MEx2bzcxaFhsX3lYWVFIVHFITUE5eUE2RlJtUEhDeVlqWDRnMFRDWk9zemRKTXlkZXVMS0twTjVPajlZM0owMXR2REliT2g2Z0VyZw?oc=5",
-    "source_name": "Live Flight Emergencies (Squawk)",
-    "ai_analysis": {
-      "category": "Aviation",
-      "risk_score": 6,
-      "location": "Over Atlantic",
-      "latitude": 40.0,
-      "longitude": -30.0,
-      "detailed_analysis": "A United flight was turned around over the Atlantic due to a bomb threat caused by a boy naming his Bluetooth device 'bomb'. The incident highlights the potential for false alarms and the importance of vigilance in aviation security.",
-      "immediate_forecast_24h": "The flight will likely be thoroughly searched and cleared before resuming its journey. Passengers may experience delays, and the airline may face additional security screening measures.",
-      "strategic_outlook": "The incident may lead to increased awareness and education about the importance of responsible device naming and the potential consequences of false alarms in aviation. Airlines and regulatory bodies may review and update their security protocols to mitigate similar incidents in the future.",
-      "operational_impact": "The incident may cause delays and disruptions to flight schedules, potentially affecting cargo and passenger transport. Airlines and logistics operators should be prepared for potential security screenings and inspections, and consider implementing additional security measures to prevent similar incidents.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "bd9cd01bf108281fb14e8305b4712e4a",
-    "timestamp": "2026-05-31T05:05:29.503074",
-    "original_title": "As Iran's internet comes online after months-long blackout, first posts send anti-regime videos viral",
-    "link": "https://www.reddit.com/r/worldnews/comments/1tslo4u/as_irans_internet_comes_online_after_monthslong/",
+    "id": "7aee43d381a30e4d13e822da91cb0c93",
+    "timestamp": "2026-05-31T08:27:25.955883",
+    "original_title": "US Congress advances American-Israeli military integration plan | Government News",
+    "link": "https://www.reddit.com/r/worldnews/comments/1tso240/us_congress_advances_americanisraeli_military/",
     "source_name": "Reddit r/WorldNews",
     "ai_analysis": {
-      "category": "Civil Unrest/Conflict",
+      "category": "Conflict",
       "risk_score": 10,
-      "location": "Tehran, Iran",
-      "latitude": 35.6892,
-      "longitude": 51.389,
-      "detailed_analysis": "The recent restoration of internet services in Iran after a months-long blackout has led to the spread of anti-regime videos, indicating growing civil unrest and potential conflict. This could impact the stability of the region and affect transport and logistics operations.",
-      "immediate_forecast_24h": "Increased online activity and potential protests in the next 24 hours, with a possibility of the government reimposing internet restrictions or taking other measures to suppress dissent.",
-      "strategic_outlook": "Long-term instability in Iran could lead to increased tensions with neighboring countries and global powers, potentially affecting regional trade and aviation routes.",
-      "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics operations in and around Iran due to civil unrest, conflict, or government restrictions.",
-      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+      "location": "Washington D.C., USA",
+      "latitude": 38.8951,
+      "longitude": -77.0364,
+      "detailed_analysis": "The US Congress advancing an American-Israeli military integration plan may lead to increased tensions in the Middle East, potentially affecting aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "No immediate impact expected, but increased diplomatic activity and potential protests may occur in the next 24 hours.",
+      "strategic_outlook": "Long-term implications may include increased military cooperation between the US and Israel, potentially altering the regional security landscape and affecting transport and logistics operations.",
+      "operational_impact": "Potential for increased security measures and airspace restrictions in the region, which may impact flight routes and cargo shipments.",
+      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
+    }
+  },
+  {
+    "id": "b522c91b72d251e78ccb55b7bd2f3943",
+    "timestamp": "2026-05-31T08:27:29.248179",
+    "original_title": "Middle East live: Israel says ground forces 'expanding' in Lebanon",
+    "link": "https://www.france24.com/en/middle-east/20260531-middle-east-live-israel-says-ground-forces-expanding-in-lebanon",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "Nabatiyeh, Lebanon",
+      "latitude": 33.3833,
+      "longitude": 35.5,
+      "detailed_analysis": "The expansion of Israeli ground forces into Lebanon, particularly the capture of a strategic mountain near Nabatiyeh, indicates a heightened state of conflict that could impact aviation, cargo, and personnel in the region.",
+      "immediate_forecast_24h": "Increased military activity and potential clashes between Israeli forces and Lebanese groups are expected, which may lead to disruptions in air traffic and ground logistics.",
+      "strategic_outlook": "The long-term implications of this conflict could include prolonged instability in the region, affecting trade routes, aviation security, and the safety of personnel and cargo.",
+      "operational_impact": "Transport and logistics operations in the region may be severely impacted due to the conflict, with potential for airspace restrictions, border closures, and increased security measures.",
+      "proximity_alert": null
     }
   }
 ]

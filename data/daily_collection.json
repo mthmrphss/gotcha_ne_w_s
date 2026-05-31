@@ -131,5 +131,43 @@
       "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics operations in and around Iran due to civil unrest, conflict, or government restrictions.",
       "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
     }
+  },
+  {
+    "id": "7aee43d381a30e4d13e822da91cb0c93",
+    "timestamp": "2026-05-31T08:27:25.955883",
+    "original_title": "US Congress advances American-Israeli military integration plan | Government News",
+    "link": "https://www.reddit.com/r/worldnews/comments/1tso240/us_congress_advances_americanisraeli_military/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Washington D.C., USA",
+      "latitude": 38.8951,
+      "longitude": -77.0364,
+      "detailed_analysis": "The US Congress advancing an American-Israeli military integration plan may lead to increased tensions in the Middle East, potentially affecting aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "No immediate impact expected, but increased diplomatic activity and potential protests may occur in the next 24 hours.",
+      "strategic_outlook": "Long-term implications may include increased military cooperation between the US and Israel, potentially altering the regional security landscape and affecting transport and logistics operations.",
+      "operational_impact": "Potential for increased security measures and airspace restrictions in the region, which may impact flight routes and cargo shipments.",
+      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
+    }
+  },
+  {
+    "id": "b522c91b72d251e78ccb55b7bd2f3943",
+    "timestamp": "2026-05-31T08:27:29.248179",
+    "original_title": "Middle East live: Israel says ground forces 'expanding' in Lebanon",
+    "link": "https://www.france24.com/en/middle-east/20260531-middle-east-live-israel-says-ground-forces-expanding-in-lebanon",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "Nabatiyeh, Lebanon",
+      "latitude": 33.3833,
+      "longitude": 35.5,
+      "detailed_analysis": "The expansion of Israeli ground forces into Lebanon, particularly the capture of a strategic mountain near Nabatiyeh, indicates a heightened state of conflict that could impact aviation, cargo, and personnel in the region.",
+      "immediate_forecast_24h": "Increased military activity and potential clashes between Israeli forces and Lebanese groups are expected, which may lead to disruptions in air traffic and ground logistics.",
+      "strategic_outlook": "The long-term implications of this conflict could include prolonged instability in the region, affecting trade routes, aviation security, and the safety of personnel and cargo.",
+      "operational_impact": "Transport and logistics operations in the region may be severely impacted due to the conflict, with potential for airspace restrictions, border closures, and increased security measures.",
+      "proximity_alert": null
+    }
   }
 ]
