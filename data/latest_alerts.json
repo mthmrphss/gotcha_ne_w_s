@@ -1,40 +1,59 @@
 [
   {
-    "id": "bea2a443a1d9e1dc14f7b4a7777fa5de",
-    "timestamp": "2026-05-31T00:06:16.949146",
-    "original_title": "Security Alert: Presidential Elections – May 31, 2026 - U.S. Embassy in Colombia (.gov)",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaWVfRlFYYXBHUlBRSy1vR0RCYl9XbUV1czJpRjN4S2JXQnhyVXMzbi1pZGF4NVVlcDMzb3JjYkw3X25qbFBzWmtTQjFuWTNacjFMTWc1UjBsN09MMlhERFJtNDdVZ3VETzdIc1pCTThpbkV5cklIVkhLSGFzX1Vxcw?oc=5",
-    "source_name": "Google News (Breaking)",
+    "id": "d6519ceb94ca7d08f1882a4b48633601",
+    "timestamp": "2026-05-31T05:05:24.223388",
+    "original_title": "In Taiwan, ‘Mainland Spouses’ From China Become a Focus of Infiltration Fears",
+    "link": "https://www.nytimes.com/2026/05/31/world/asia/taiwan-china-mainland-spouses-infiltration.html",
+    "source_name": "NewYork Times",
     "ai_analysis": {
-      "category": "Civil Unrest",
+      "category": "Border/Civil Unrest/Conflict",
       "risk_score": 10,
-      "location": "Bogota, Colombia",
-      "latitude": 4.6097,
-      "longitude": -74.0817,
-      "detailed_analysis": "The U.S. Embassy in Colombia has issued a security alert due to the upcoming presidential elections on May 31, 2026. This event may lead to civil unrest, protests, and potential disruptions to transportation and logistics.",
-      "immediate_forecast_24h": "Increased security presence and potential protests in major cities, including Bogota, may cause disruptions to traffic and transportation.",
-      "strategic_outlook": "The outcome of the presidential elections may lead to long-term changes in the country's political landscape, potentially affecting the overall security situation and stability in Colombia.",
-      "operational_impact": "Potential disruptions to transportation and logistics, including roadblocks, protests, and increased security checks, may impact the movement of assets, cargo, and personnel in the region.",
-      "proximity_alert": "YAKIN TEHDİT: El Dorado International Airport (12 km)"
+      "location": "Taipei, Taiwan",
+      "latitude": 25.033,
+      "longitude": 121.5654,
+      "detailed_analysis": "The situation involves a Chinese-born woman accused of infiltration, sparking debate over how Taiwan defends its democracy without profiling migrants from China, potentially leading to increased tensions and security measures at borders and within the country.",
+      "immediate_forecast_24h": "Heightened security checks and scrutiny of migrants from China are expected in the short term, potentially causing delays or disruptions in transportation and logistics.",
+      "strategic_outlook": "Long-term, this could lead to stricter border control policies and increased surveillance, affecting the flow of people and goods between Taiwan and China, and potentially impacting regional stability.",
+      "operational_impact": "Transportation and logistics operations may face increased scrutiny and security checks, particularly for cargo and personnel traveling between Taiwan and China, which could lead to delays and additional costs.",
+      "proximity_alert": "YAKIN TEHDİT: Taiwan Taoyuan International Airport (0 km)"
     }
   },
   {
-    "id": "847776bd952ad3c0390c902b29dba6e9",
-    "timestamp": "2026-05-31T00:06:27.204637",
-    "original_title": "Hegseth says US will ‘find a way’ to help Ukraine after Zelensky's plea for air defense missiles",
-    "link": "https://www.reddit.com/r/worldnews/comments/1tsehkp/hegseth_says_us_will_find_a_way_to_help_ukraine/",
+    "id": "84f68e6497658dbbe4db986a5f4cf885",
+    "timestamp": "2026-05-31T05:05:26.478467",
+    "original_title": "United flight turned around over Atlantic as a boy named his Bluetooth device “bomb” - airlive",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVVMxWmItM0V2bjR2RzMzYmViMlRldWcxdDZBWGo3akpieWdMemVsY1BFWWVZT0Y4NlhMbGYzYzI0S2FqaXpkdFpoZXg0RFNuM2VXLW9hNHNIcmJtOVk5UE8tUFlZdGxMSEIxZlFlUFBCZ29tbXU2MEx2bzcxaFhsX3lYWVFIVHFITUE5eUE2RlJtUEhDeVlqWDRnMFRDWk9zemRKTXlkZXVMS0twTjVPajlZM0owMXR2REliT2g2Z0VyZw?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 6,
+      "location": "Over Atlantic",
+      "latitude": 40.0,
+      "longitude": -30.0,
+      "detailed_analysis": "A United flight was turned around over the Atlantic due to a bomb threat caused by a boy naming his Bluetooth device 'bomb'. The incident highlights the potential for false alarms and the importance of vigilance in aviation security.",
+      "immediate_forecast_24h": "The flight will likely be thoroughly searched and cleared before resuming its journey. Passengers may experience delays, and the airline may face additional security screening measures.",
+      "strategic_outlook": "The incident may lead to increased awareness and education about the importance of responsible device naming and the potential consequences of false alarms in aviation. Airlines and regulatory bodies may review and update their security protocols to mitigate similar incidents in the future.",
+      "operational_impact": "The incident may cause delays and disruptions to flight schedules, potentially affecting cargo and passenger transport. Airlines and logistics operators should be prepared for potential security screenings and inspections, and consider implementing additional security measures to prevent similar incidents.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "bd9cd01bf108281fb14e8305b4712e4a",
+    "timestamp": "2026-05-31T05:05:29.503074",
+    "original_title": "As Iran's internet comes online after months-long blackout, first posts send anti-regime videos viral",
+    "link": "https://www.reddit.com/r/worldnews/comments/1tslo4u/as_irans_internet_comes_online_after_monthslong/",
     "source_name": "Reddit r/WorldNews",
     "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 7,
-      "location": "Ukraine",
-      "latitude": 49.0,
-      "longitude": 32.0,
-      "detailed_analysis": "The US is considering providing air defense missiles to Ukraine, which could escalate the conflict and impact aviation and logistics in the region.",
-      "immediate_forecast_24h": "Increased tensions between Ukraine and its adversaries, potential for increased military activity",
-      "strategic_outlook": "Long-term instability in the region, potential for broader conflict, impact on global supply chains and trade",
-      "operational_impact": "Potential disruptions to air traffic, increased security measures for cargo and personnel, heightened risk of cyber attacks and espionage",
-      "proximity_alert": null
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The recent restoration of internet services in Iran after a months-long blackout has led to the spread of anti-regime videos, indicating growing civil unrest and potential conflict. This could impact the stability of the region and affect transport and logistics operations.",
+      "immediate_forecast_24h": "Increased online activity and potential protests in the next 24 hours, with a possibility of the government reimposing internet restrictions or taking other measures to suppress dissent.",
+      "strategic_outlook": "Long-term instability in Iran could lead to increased tensions with neighboring countries and global powers, potentially affecting regional trade and aviation routes.",
+      "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics operations in and around Iran due to civil unrest, conflict, or government restrictions.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
     }
   }
 ]
