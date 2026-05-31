@@ -36,5 +36,43 @@
       "operational_impact": "The conflict may disrupt air and ground transportation in the region, posing a risk to cargo and personnel. Aviation operations may be impacted by the conflict, and there is a potential for increased security measures to be implemented.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "bea2a443a1d9e1dc14f7b4a7777fa5de",
+    "timestamp": "2026-05-31T00:06:16.949146",
+    "original_title": "Security Alert: Presidential Elections – May 31, 2026 - U.S. Embassy in Colombia (.gov)",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaWVfRlFYYXBHUlBRSy1vR0RCYl9XbUV1czJpRjN4S2JXQnhyVXMzbi1pZGF4NVVlcDMzb3JjYkw3X25qbFBzWmtTQjFuWTNacjFMTWc1UjBsN09MMlhERFJtNDdVZ3VETzdIc1pCTThpbkV5cklIVkhLSGFzX1Vxcw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Bogota, Colombia",
+      "latitude": 4.6097,
+      "longitude": -74.0817,
+      "detailed_analysis": "The U.S. Embassy in Colombia has issued a security alert due to the upcoming presidential elections on May 31, 2026. This event may lead to civil unrest, protests, and potential disruptions to transportation and logistics.",
+      "immediate_forecast_24h": "Increased security presence and potential protests in major cities, including Bogota, may cause disruptions to traffic and transportation.",
+      "strategic_outlook": "The outcome of the presidential elections may lead to long-term changes in the country's political landscape, potentially affecting the overall security situation and stability in Colombia.",
+      "operational_impact": "Potential disruptions to transportation and logistics, including roadblocks, protests, and increased security checks, may impact the movement of assets, cargo, and personnel in the region.",
+      "proximity_alert": "YAKIN TEHDİT: El Dorado International Airport (12 km)"
+    }
+  },
+  {
+    "id": "847776bd952ad3c0390c902b29dba6e9",
+    "timestamp": "2026-05-31T00:06:27.204637",
+    "original_title": "Hegseth says US will ‘find a way’ to help Ukraine after Zelensky's plea for air defense missiles",
+    "link": "https://www.reddit.com/r/worldnews/comments/1tsehkp/hegseth_says_us_will_find_a_way_to_help_ukraine/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "The US is considering providing air defense missiles to Ukraine, which could escalate the conflict and impact aviation and logistics in the region.",
+      "immediate_forecast_24h": "Increased tensions between Ukraine and its adversaries, potential for increased military activity",
+      "strategic_outlook": "Long-term instability in the region, potential for broader conflict, impact on global supply chains and trade",
+      "operational_impact": "Potential disruptions to air traffic, increased security measures for cargo and personnel, heightened risk of cyber attacks and espionage",
+      "proximity_alert": null
+    }
   }
 ]
