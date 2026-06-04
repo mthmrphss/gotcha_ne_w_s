@@ -55,5 +55,43 @@
       "operational_impact": "Potential disruptions to transport and logistics in the region, with possible delays or cancellations of flights and cargo shipments.",
       "proximity_alert": "YAKIN TEHDİT: Aden Adde International Airport (4 km)"
     }
+  },
+  {
+    "id": "5f1bdb467d465ddfaeadf76faee2bd22",
+    "timestamp": "2026-06-04T23:46:36.098974",
+    "original_title": "Pentagon likely to cancel missile sale to Germany over fears of Russia.",
+    "link": "https://www.reddit.com/r/worldnews/comments/1tx4g50/pentagon_likely_to_cancel_missile_sale_to_germany/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Washington D.C., USA",
+      "latitude": 38.8951,
+      "longitude": -77.0364,
+      "detailed_analysis": "The Pentagon's potential cancellation of a missile sale to Germany due to fears of Russia could indicate heightened tensions between the US and Russia, potentially affecting aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Increased diplomatic tensions between the US and Russia, with potential for further escalations in the coming days.",
+      "strategic_outlook": "Long-term implications for global security and trade, particularly in the context of US-Germany relations and the ongoing conflict in Ukraine.",
+      "operational_impact": "Potential disruptions to cargo and aviation operations in the region, particularly if tensions escalate into military action or trade restrictions.",
+      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
+    }
+  },
+  {
+    "id": "3d22a081474a715f03518b105ee972da",
+    "timestamp": "2026-06-04T23:46:38.070752",
+    "original_title": "Russia keeps bombing itself with guide munitions, shows crew fatigue, bad training: UK MOD",
+    "link": "https://www.reddit.com/r/worldnews/comments/1tx3ygn/russia_keeps_bombing_itself_with_guide_munitions/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Russia",
+      "latitude": 61.524,
+      "longitude": 105.3188,
+      "detailed_analysis": "Reports indicate Russian military is experiencing crew fatigue and bad training, resulting in guide munitions being used against their own forces, suggesting a high level of operational risk and potential for further accidents or unintended targets.",
+      "immediate_forecast_24h": "Increased risk of accidental bombings or military equipment malfunctions due to crew fatigue and inadequate training, potentially leading to further loss of life or equipment.",
+      "strategic_outlook": "Long-term implications include erosion of military effectiveness, potential for increased desertion or decreased morale among troops, and heightened risk of unintended escalation with neighboring countries or allies.",
+      "operational_impact": "Potential disruption to military logistics and supply chains, increased risk to personnel and equipment, and potential for spill-over effects into the broader region, impacting aviation and cargo operations.",
+      "proximity_alert": null
+    }
   }
 ]
