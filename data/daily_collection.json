@@ -435,5 +435,62 @@
       "operational_impact": "The incident may cause delays or cancellations of flights, affecting passenger travel plans and cargo transport, with potential ripple effects on the broader logistics and supply chain",
       "proximity_alert": "YAKIN TEHDİT: Frankfurt Airport (1 km)"
     }
+  },
+  {
+    "id": "81ac7032bf14850ccc8300e08d2df9db",
+    "timestamp": "2026-06-04T20:12:34.347521",
+    "original_title": "Pentagon likely to cancel missile sale to Germany over fears of Russia",
+    "link": "https://www.reddit.com/r/worldnews/comments/1twyppc/pentagon_likely_to_cancel_missile_sale_to_germany/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Washington D.C., USA",
+      "latitude": 38.8951,
+      "longitude": -77.0364,
+      "detailed_analysis": "The Pentagon is likely to cancel a missile sale to Germany due to fears of Russia, indicating a potential escalation of geopolitical tensions between the US, Germany, and Russia.",
+      "immediate_forecast_24h": "No immediate impact on assets, cargo, aviation, or personnel is expected, but diplomatic relations between the countries may be strained.",
+      "strategic_outlook": "Long-term implications may include increased tensions between NATO and Russia, potentially affecting global security and stability.",
+      "operational_impact": "No direct operational impact on transport or logistics is anticipated, but the situation will be monitored for potential future developments.",
+      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
+    }
+  },
+  {
+    "id": "5a639538f59b0d0d4686bb195fb68e9c",
+    "timestamp": "2026-06-04T20:12:36.486089",
+    "original_title": "Gaza city residents survey destruction after overnight Israeli airstrike",
+    "link": "http://www.africanews.com/2026/06/04/gaza-city-residents-survey-destruction-after-overnight-israeli-airstrike/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Gaza City, Palestine",
+      "latitude": 31.5,
+      "longitude": 34.45,
+      "detailed_analysis": "Overnight Israeli airstrike on an apartment in Gaza City's Sheikh Radwan neighbourhood caused extensive damage, posing a significant threat to personnel and assets in the area.",
+      "immediate_forecast_24h": "Further airstrikes or retaliatory actions are possible, increasing the risk of harm to aviation, cargo, and personnel in the region.",
+      "strategic_outlook": "The ongoing conflict may lead to prolonged instability, affecting transport and logistics in the area, and potentially disrupting regional aviation and cargo operations.",
+      "operational_impact": "Transport and logistics operations in the region may be disrupted or suspended due to the conflict, and aviation operations may be impacted by the risk of further airstrikes or retaliatory actions.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "753875d84e2194e41be7cc06a71cadfe",
+    "timestamp": "2026-06-04T20:12:38.385374",
+    "original_title": "Gaza: Families mourn victims after overnight Israeli strikes that killed at least nine",
+    "link": "http://www.africanews.com/2026/06/04/gaza-families-mourn-victims-after-overnight-israeli-strikes-that-killed-at-least-nine/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Gaza City, Gaza",
+      "latitude": 31.5,
+      "longitude": 34.45,
+      "detailed_analysis": "Overnight Israeli airstrikes in Gaza City resulted in at least nine fatalities, indicating a high level of conflict and potential for further escalation, posing a significant threat to personnel and assets in the region.",
+      "immediate_forecast_24h": "Further airstrikes or retaliatory actions are possible, leading to increased tensions and potential for more casualties, affecting aviation and cargo operations in the area.",
+      "strategic_outlook": "The ongoing conflict in the region may lead to long-term instability, impacting transport and logistics operations, and requiring heightened security measures for assets, cargo, and personnel.",
+      "operational_impact": "Aviation and cargo operations in the region may be disrupted or suspended due to the conflict, and security protocols should be enhanced to mitigate potential risks to personnel and assets.",
+      "proximity_alert": null
+    }
   }
 ]
