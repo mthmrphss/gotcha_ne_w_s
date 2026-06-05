@@ -283,5 +283,100 @@
       "operational_impact": "The grounding of the aircraft may cause short-term disruptions to Iberia's flight schedule, potentially affecting passengers and cargo. However, the impact is expected to be limited, and normal operations should resume once the aircraft is cleared for flight.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "e2b6da342cf89964903d80d2e29441d1",
+    "timestamp": "2026-06-05T12:14:51.517410",
+    "original_title": "Europe Needs New Military Alliance to Defend Itself, Italy Says",
+    "link": "https://www.nytimes.com/2026/06/05/world/europe/eu-italy-defense-military-alliance-crosetto.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Europe",
+      "latitude": 48.8567,
+      "longitude": 2.2945,
+      "detailed_analysis": "Italy's defense minister suggests a new joint defense system for European nations, indicating a potential shift in regional security dynamics but no immediate threat to assets, cargo, aviation, or personnel.",
+      "immediate_forecast_24h": "No significant changes expected in the next 24 hours as this is a strategic announcement rather than an immediate operational threat.",
+      "strategic_outlook": "Long-term, this could lead to increased cooperation among European nations on defense, potentially altering the security landscape and impacting how assets, cargo, aviation, and personnel are protected.",
+      "operational_impact": "Currently, no direct operational impact on transport or logistics, but future defense alliances could influence security protocols and measures for cargo and aviation.",
+      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (1 km)"
+    }
+  },
+  {
+    "id": "13a8ea341af712a0fa6ec773570efcdb",
+    "timestamp": "2026-06-05T12:14:54.648390",
+    "original_title": "Ukraine strikes Russian patrol ship in Sea of Azov, confirms damage to St. Petersburg oil terminal",
+    "link": "https://www.reddit.com/r/worldnews/comments/1txj829/ukraine_strikes_russian_patrol_ship_in_sea_of/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Sea of Azov, Ukraine/Russia",
+      "latitude": 47.0,
+      "longitude": 37.0,
+      "detailed_analysis": "Ukraine has struck a Russian patrol ship in the Sea of Azov, confirming damage to the St. Petersburg oil terminal. This escalation of conflict poses significant risks to maritime assets, cargo, and personnel in the region.",
+      "immediate_forecast_24h": "Increased tensions and potential for further military action in the Sea of Azov, with possible disruptions to shipping and logistics in the area.",
+      "strategic_outlook": "Long-term implications for regional stability and global energy markets, with potential for prolonged conflict and economic disruption.",
+      "operational_impact": "Shipping and logistics operations in the Sea of Azov may be severely impacted, with potential for delays, damage to assets, and risks to personnel. Alternative routes and contingency planning may be necessary to mitigate these risks.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "b50a4a18f5fb8039e424e19c62e46559",
+    "timestamp": "2026-06-05T12:14:57.102133",
+    "original_title": "Hundreds in Libya protest against migrants, refugees",
+    "link": "http://www.africanews.com/2026/06/05/hundreds-in-libya-protest-against-migrants-refugees/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Civil Unrest/Border",
+      "risk_score": 10,
+      "location": "Tripoli, Libya",
+      "latitude": 32.8867,
+      "longitude": 13.1893,
+      "detailed_analysis": "Protests against migrants and refugees in Libya could lead to increased tensions and potential disruptions to transport and logistics operations, particularly if protests escalate or spread to other areas.",
+      "immediate_forecast_24h": "Protests may continue or spread, potentially affecting transport hubs and border crossings, with a low to moderate risk of violence or clashes.",
+      "strategic_outlook": "The situation in Libya remains volatile, with potential long-term implications for regional stability and security, including the risk of migrant-related unrest and its impact on transport and logistics.",
+      "operational_impact": "Potential disruptions to air and land transport, as well as logistics operations, particularly if protests target transport infrastructure or key routes, with a moderate risk of delays or cancellations.",
+      "proximity_alert": "YAKIN TEHDİT: Tripoli International Airport (24 km)"
+    }
+  },
+  {
+    "id": "c9f36a5f96dabb5e6b307067b9ab095f",
+    "timestamp": "2026-06-05T12:15:00.428245",
+    "original_title": "India: Viral 'Cockroach' party to take message to the streets",
+    "link": "https://www.france24.com/en/video/20260605-india-viral-cockroach-party-to-take-message-to-the-streets",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "New Delhi, India",
+      "latitude": 28.7041,
+      "longitude": 77.1025,
+      "detailed_analysis": "A protest planned by the Cockroach Janta Party may cause disruptions in the city, potentially affecting traffic and logistics, but there is no indication of a direct threat to assets, cargo, aviation, or personnel.",
+      "immediate_forecast_24h": "The protest is planned for this Saturday, and while it may cause some disruptions, it is unlikely to escalate into a major incident.",
+      "strategic_outlook": "The movement's focus on unemployment and inflation may lead to continued protests and demonstrations, but these are likely to be peaceful and targeted at the government rather than infrastructure or transport.",
+      "operational_impact": "Minimal impact expected on transport and logistics, but potential for traffic congestion and delays in the vicinity of the protest.",
+      "proximity_alert": "YAKIN TEHDİT: Indira Gandhi International Airport (16 km)"
+    }
+  },
+  {
+    "id": "aed1b6f7608cb2349603a18fc3667536",
+    "timestamp": "2026-06-05T12:15:02.936982",
+    "original_title": "Rwanda - Level 3: Reconsider Travel",
+    "link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.rwa.html",
+    "source_name": "US State Dept",
+    "ai_analysis": {
+      "category": "Crime/Border/Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Rwanda",
+      "latitude": -1.95,
+      "longitude": 29.87,
+      "detailed_analysis": "Increased risk of crime, unrest, and health risks in Rwanda due to Ebola outbreak in neighboring countries, clashes between armed groups, and limited ability to provide emergency consular services.",
+      "immediate_forecast_24h": "Potential for increased unrest and crime near the border with the Democratic Republic of the Congo, with a risk of violence spilling over into Rwanda.",
+      "strategic_outlook": "Long-term instability in the region may lead to ongoing security concerns, including the risk of Ebola transmission and armed conflict.",
+      "operational_impact": "Transport and logistics operations in Rwanda may be impacted by increased security measures, potential border closures, and limited access to emergency services.",
+      "proximity_alert": "YAKIN TEHDİT: Kigali International Airport (29 km)"
+    }
   }
 ]
