@@ -511,5 +511,62 @@
       "operational_impact": "The potential evacuation of the ISS could impact the transportation of crew and cargo to and from the space station, as well as the execution of scientific experiments and research projects.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "b2d23534264ab46d589547dbf8e14d62",
+    "timestamp": "2026-06-05T18:01:35.409930",
+    "original_title": "Iran sentences another January protest detainee to death",
+    "link": "https://www.reddit.com/r/worldnews/comments/1txrawu/iran_sentences_another_january_protest_detainee/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The recent sentencing of a January protest detainee to death in Iran may lead to increased civil unrest and potential instability in the region, which could indirectly impact aviation and cargo operations.",
+      "immediate_forecast_24h": "Heightened tensions and potential protests are expected in the short term, but no immediate disruptions to aviation or cargo operations are anticipated.",
+      "strategic_outlook": "The ongoing unrest and harsh sentencing may lead to long-term instability and potential economic sanctions, which could impact trade and logistics in the region.",
+      "operational_impact": "No immediate operational impact is expected, but the situation should be monitored closely for potential disruptions to air travel and cargo transport in the future.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "7fed9cd8a490b3f727d690e7899d5baa",
+    "timestamp": "2026-06-05T18:01:37.798207",
+    "original_title": "Nigerian jihadists kill 3 troops in first raid since death of IS leader",
+    "link": "http://www.africanews.com/2026/06/05/nigerian-jihadists-kill-3-troops-in-first-raid-since-death-of-is-leader/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict",
+      "risk_score": 8,
+      "location": "Northeast Nigeria",
+      "latitude": 11.5,
+      "longitude": 13.2,
+      "detailed_analysis": "The killing of 3 troops by Nigerian jihadists in a raid, following the death of IS leader Abu-Bilal al-Minuki, indicates a heightened threat of terrorism in the region, potentially targeting military and security personnel, as well as aviation and logistics assets.",
+      "immediate_forecast_24h": "Increased security measures are expected in the region, with potential for retaliatory attacks by the jihadists, and heightened alertness for aviation and logistics operations.",
+      "strategic_outlook": "The death of the IS leader may lead to a power vacuum, potentially causing further instability and increased terrorist activity in the region, with potential long-term implications for security and stability in Nigeria and the surrounding area.",
+      "operational_impact": "The attack may impact logistics and transportation operations in the region, particularly for military and security personnel, with potential for increased security protocols, route changes, and delays.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "fdc2cdc1d04d7fd92c643607c4aeeefd",
+    "timestamp": "2026-06-05T18:01:39.724091",
+    "original_title": "Lebanon: Israel launches deadly raids as Hezbollah demands withdrawal",
+    "link": "http://www.africanews.com/2026/06/05/lebanon-israel-launches-deadly-raids-as-hezbollah-demands-withdrawal/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Southern Lebanon, Lebanon",
+      "latitude": 33.3333,
+      "longitude": 35.3333,
+      "detailed_analysis": "Israel's air force has launched raids on southern Lebanon, with evacuation warnings issued for nine villages. This escalation of conflict poses a significant threat to aviation, with potential risks to aircraft and personnel.",
+      "immediate_forecast_24h": "Further airstrikes and potential retaliation from Hezbollah are expected, leading to increased tensions and risks to aviation and personnel in the region.",
+      "strategic_outlook": "The ongoing conflict between Israel and Hezbollah may lead to a prolonged period of instability in the region, with potential long-term impacts on aviation, logistics, and personnel safety.",
+      "operational_impact": "The conflict may disrupt air traffic and logistics operations in the region, with potential delays or cancellations of flights and increased security measures for personnel and cargo.",
+      "proximity_alert": null
+    }
   }
 ]
