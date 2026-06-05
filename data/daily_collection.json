@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "id": "ae0ecfb1ee9fd06b32410f0ccb4b9e46",
+    "timestamp": "2026-06-05T22:02:12.034567",
+    "original_title": "Protests in Mexico City capitalize on World Cup celebrations to pressure government",
+    "link": "https://www.reddit.com/r/worldnews/comments/1txygau/protests_in_mexico_city_capitalize_on_world_cup/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Mexico City, Mexico",
+      "latitude": 19.4326,
+      "longitude": -99.1332,
+      "detailed_analysis": "Protests in Mexico City are leveraging World Cup celebrations to pressure the government, which may lead to disruptions in transportation and logistics. However, there is no direct indication of a threat to aviation, cargo, or personnel at this time.",
+      "immediate_forecast_24h": "The protests are likely to continue and may escalate, potentially causing traffic disruptions and affecting local businesses. However, the situation is being monitored by authorities, and no major incidents have been reported.",
+      "strategic_outlook": "The long-term impact of these protests on the stability of Mexico City and the country as a whole will depend on the government's response and the protesters' demands. If the situation escalates, it could lead to increased instability and potential risks to assets, cargo, and personnel.",
+      "operational_impact": "Transportation and logistics operations in Mexico City may be affected by the protests, particularly if they escalate or spread to other areas. Companies with operations in the region should monitor the situation closely and be prepared for potential disruptions.",
+      "proximity_alert": "YAKIN TEHDİT: Mexico City International Airport (6 km)"
+    }
+  },
+  {
+    "id": "fef4190bea2459fa6893f029803a0d65",
+    "timestamp": "2026-06-05T22:02:14.549900",
+    "original_title": "Anti-migrant violence leaves even South Africans living in fear",
+    "link": "http://www.africanews.com/2026/06/05/anti-migrant-violence-leaves-even-south-africans-living-in-fear/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 6,
+      "location": "Mossel Bay, South Africa",
+      "latitude": -34.1833,
+      "longitude": 22.1333,
+      "detailed_analysis": "The recent anti-migrant violence in Mossel Bay, South Africa, resulting in the death of a 19-year-old South African, poses a significant threat to personnel and potentially to cargo and aviation if the unrest escalates or spreads to other areas, including ports or airports.",
+      "immediate_forecast_24h": "The situation is likely to remain volatile in the short term, with potential for further clashes between different groups, which could impact transport and logistics operations in the area.",
+      "strategic_outlook": "In the long term, if the violence is not contained and addressed, it could lead to increased instability in the region, affecting trade and economic activities, including those related to aviation and cargo transport.",
+      "operational_impact": "The unrest could lead to disruptions in supply chains, particularly if key infrastructure such as ports or major highways are affected, and may require additional security measures to protect assets, cargo, and personnel.",
+      "proximity_alert": null
+    }
+  }
+]
