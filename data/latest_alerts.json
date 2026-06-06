@@ -1,40 +1,78 @@
 [
   {
-    "id": "1b4cf19d0d814763845af0985e897114",
-    "timestamp": "2026-06-06T17:20:43.183417",
-    "original_title": "Terror in a tent: How FBI agents say they caught an accused predator on the Oregon coast - OregonLive.com",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTDNPbzlVejZ1X0lGc1hqVXh2ajFESDhaZEJiaWlFZnU2TDM5am5reHEtbUt0UXBEbWxjZjdlNHdkdGluSHhUc2tqWV9QTEcxcER5SVJzZldjTU9mV19KbFJLWjl0UkxjODg0OV9NbVBNMGlhRk1YNjlVNWwyQUxCNVl0bW45b3djT2l4djAzekV2TkJqa2dmVENydFVUZEV2TzhLUGF0YmVXbV9xbEhzWmRNSGIwV0Q4OHk5WHA4N3NQb19ZcFFkMzZMcF9SQdIB4gFBVV95cUxOV2Q1Rzh6eHBsWS16R3hBWDQ3em5wMHF5b3QydnVWYkRpLS0wR3p4MllvZFIwR1lVREVYOGVSTWRNdjVBZDFPZzB6M1BJc1N2aE52QktCTFlqQUh3cUlqVGRKWV9DQlVtdG5TYWFpWEhkb1pJX1ZDb2Rfbml6dVNwQzA1YWlJMGZaOEtPNFlfeWRoVEVoam5sX01qRENfTEpJV0tXQkdvTm5tWmVWMHl6N2swNXNkZ2tLS2h1RnpLbkJyWEt1cjVQczVxSEwxODZhZXhSdHFCT0FZdFVUVHRYNnBB?oc=5",
+    "id": "7edc068776c8c4f61b384562fa3c349b",
+    "timestamp": "2026-06-06T18:49:13.182351",
+    "original_title": "Multiple security failures exposed after man sneaks onto United flight at Bush airport in Houston, expert says - ABC11 News",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaVZYXzVGR3ZBVVRXdl9DbkVGa0dCMmFnb1RhZTdHdkhVSlJKSkR1MHBNZmNteDN6dS12UjBqalhiOXcyeTdpaVdEQmJiRHVwenYwT2NJZ3p3UFpqamdDU3NUNlVNQldjS2o3LXN2M05wcThseXJIbVV0Ynh0dzVocVhtX2doUzN2dHdZNnZTd0JxNC0xSEhhNlJ0SjZVajdYMFdzbG9JTld4S1Y2R0lBY3FGYm9SZU1ubkptaUxaZ0ZkWlnSAcgBQVVfeXFMTmYwaGR1bDBZdWlUclFaS01JeTV4aXo1UThDa1hCYjIzbTV4ZEROV0lUQ0tmY2tOU19odnV5dDd6TndmNEhUMDNZcThqNmRnWmJtS2VBc0ZjWnNsN0dpSUVvaUN1MEVxNF9LN3VoYXRoRk9QWjh0VUVibGIzWWx3SkRtbE9xYWtwRHFaMmxZOFR4VVlKRFc0RmJwdGxsamt5dTJfMHJleEl2d1Ezci1fVkdGcWpKTm9QVElhR2o4NWx4bnpwcjlsRzg?oc=5",
     "source_name": "Google News (Breaking)",
     "ai_analysis": {
-      "category": "Crime/Terrorism",
+      "category": "Aviation/Security",
+      "risk_score": 10,
+      "location": "Houston, USA",
+      "latitude": 29.7633,
+      "longitude": -95.3632,
+      "detailed_analysis": "A security breach occurred at Bush airport in Houston when a man sneaked onto a United flight, exposing multiple security failures. This incident highlights vulnerabilities in airport security protocols, potentially allowing unauthorized individuals to access restricted areas and flights.",
+      "immediate_forecast_24h": "Enhanced security measures are expected to be implemented at the airport, including increased surveillance and screening of passengers and staff. There may be delays in flights as a result of the increased security checks.",
+      "strategic_outlook": "The long-term impact of this incident may lead to a review of airport security protocols nationwide, with potential updates to procedures and technologies used to prevent similar breaches. Airlines and airports may also face increased scrutiny and regulation to ensure the security of their operations.",
+      "operational_impact": "The incident may cause disruptions to flights and passenger travel, particularly if additional security measures are implemented. Airlines and airports will need to balance the need for enhanced security with the need to maintain efficient and timely operations.",
+      "proximity_alert": "YAKIN TEHDİT: George Bush Intercontinental Airport (24 km)"
+    }
+  },
+  {
+    "id": "d44298657405a0ddc390deb3b48f3ee4",
+    "timestamp": "2026-06-06T18:49:15.136384",
+    "original_title": "Fighting a Denial of Service Attack with AI Assistance - tidbits.com",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNGVvNWVmU0JxRFJaaDctX3dWU05WM0w2Z05KRE1SeHRkcTExekNQZ3hJZWtiMnlDQk5EWkpOV0doQWVEUjZmUFI4WmpWOTdSdlBNSkdSMmEtRDFLa0FjOFRWcUNwcmZSRDR3OUEyYnRyTk4wY1lOWTRSTFcxVHZWNE1uQ0t3clk1WTZmdWRPaw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Cyber",
       "risk_score": 6,
-      "location": "Oregon coast, USA",
-      "latitude": 45.5236,
-      "longitude": -122.675,
-      "detailed_analysis": "The FBI caught an accused predator on the Oregon coast, indicating potential threats to personnel and assets in the area. The incident highlights the need for vigilance and security measures to prevent such crimes.",
-      "immediate_forecast_24h": "Increased law enforcement presence in the area, potential for further investigations and arrests",
-      "strategic_outlook": "Long-term focus on improving security measures and intelligence gathering to prevent similar incidents",
-      "operational_impact": "Potential disruptions to local transport and logistics due to increased security measures, but no significant impact on aviation or cargo operations",
+      "location": "Unknown, Global",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "A Denial of Service (DoS) attack is a type of cyberattack where an attacker attempts to make a computer or network resource unavailable by overwhelming it with traffic. The use of AI assistance to fight such attacks indicates a growing trend in cybersecurity. This could potentially impact aviation, cargo, and personnel by disrupting critical infrastructure or services.",
+      "immediate_forecast_24h": "Increased likelihood of similar attacks as attackers adapt to new defensive measures. Potential for temporary disruptions to online services and networks.",
+      "strategic_outlook": "Long-term, the use of AI in cybersecurity will continue to evolve, leading to more sophisticated attacks and defenses. Organizations must stay vigilant and adapt their security measures to keep pace with these developments.",
+      "operational_impact": "Potential disruptions to transport and logistics operations that rely on online services or networks. Organizations should review their cybersecurity measures and consider implementing AI-powered defensive solutions to mitigate the risk of DoS attacks.",
       "proximity_alert": null
     }
   },
   {
-    "id": "4d96234f7b80d53319962d88d2f0e19f",
-    "timestamp": "2026-06-06T17:20:47.922472",
-    "original_title": "Russian drone attack kills four at Ukrainian dairy factory that produced baby food, officials say",
-    "link": "https://www.reddit.com/r/worldnews/comments/1tyma67/russian_drone_attack_kills_four_at_ukrainian/",
+    "id": "60f50525954091d3a51f678535d5bb2e",
+    "timestamp": "2026-06-06T18:49:18.999699",
+    "original_title": "Russia obstructed evacuations after Kakhovka dam destruction leading to civilian casualties, report says",
+    "link": "https://www.reddit.com/r/worldnews/comments/1tyljfa/russia_obstructed_evacuations_after_kakhovka_dam/",
     "source_name": "Reddit r/WorldNews",
     "ai_analysis": {
-      "category": "Conflict/Aviation",
-      "risk_score": 10,
-      "location": "Kyiv Region, Ukraine",
-      "latitude": 50.4501,
-      "longitude": 30.5236,
-      "detailed_analysis": "A Russian drone attack on a Ukrainian dairy factory has resulted in four fatalities. The factory produced baby food, indicating a potential disruption to critical supply chains. The use of drones in the attack highlights the evolving nature of modern warfare and its impact on civilian infrastructure.",
-      "immediate_forecast_24h": "Increased tensions between Russia and Ukraine are expected, with potential for further drone attacks on critical infrastructure. Enhanced security measures may be implemented in the region to mitigate future threats.",
-      "strategic_outlook": "The long-term implications of this attack may include increased investment in drone defense systems and enhanced security protocols for critical infrastructure. The conflict may also lead to a re-evaluation of global supply chains and the potential for alternative production facilities.",
-      "operational_impact": "The attack may disrupt the supply of baby food and other essential products, potentially impacting logistics and transport operations in the region. Enhanced security measures and contingency planning may be necessary to mitigate the risks associated with drone attacks on critical infrastructure.",
-      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "Kakhovka, Ukraine",
+      "latitude": 46.7933,
+      "longitude": 33.4753,
+      "detailed_analysis": "The destruction of the Kakhovka dam has led to civilian casualties, and reports indicate that Russia obstructed evacuations, exacerbating the crisis. This event poses a significant threat to personnel and potentially to cargo and aviation in the region due to the conflict escalation.",
+      "immediate_forecast_24h": "Expect continued conflict and potential for further civilian casualties. Evacuation efforts may be hindered, and the situation could deteriorate further.",
+      "strategic_outlook": "The long-term view suggests an increased risk of conflict in the region, potentially affecting transport and logistics. The obstruction of evacuations indicates a heightened level of hostility, which could lead to more severe consequences for assets, cargo, aviation, and personnel.",
+      "operational_impact": "The destruction of the dam and the ensuing conflict could impact transport and logistics in the region, including potential disruptions to supply chains and increased risk for personnel and cargo. Aviation may also be affected due to the conflict's proximity to airspace.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "ad39c39ddbafa1dc4703c75f0ffc5673",
+    "timestamp": "2026-06-06T18:49:21.210512",
+    "original_title": "Hegseth blasts ‘invasion’ of migrants on Europe’s beaches in D-Day speech in France",
+    "link": "https://www.france24.com/en/europe/20260606-hegseth-urges-europe-on-d-day-to-counter-present-day-invasion",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Border/Civil Unrest",
+      "risk_score": 5,
+      "location": "Normandy, France",
+      "latitude": 49.2909,
+      "longitude": -0.6048,
+      "detailed_analysis": "The speech by Pentagon chief Pete Hegseth highlights the issue of migrants on Europe's beaches, which could lead to potential border breaches and disruptions to transport and logistics.",
+      "immediate_forecast_24h": "Increased tensions and potential protests or demonstrations in the area, but no immediate threat to aviation or cargo.",
+      "strategic_outlook": "Long-term concerns about border security and potential impact on regional stability, but no direct threat to assets or personnel at this time.",
+      "operational_impact": "Potential delays or disruptions to transport and logistics in the region due to increased security measures or protests.",
+      "proximity_alert": null
     }
   }
 ]
