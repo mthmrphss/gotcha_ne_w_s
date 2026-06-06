@@ -36,5 +36,43 @@
       "operational_impact": "The conflict in Gaza City could impact aviation operations, including potential flight restrictions or cancellations, and cargo operations, including potential delays or disruptions to supply chains. Personnel in the region may also be at risk due to the conflict.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "c376dab01749b63518dd00d30936b4e4",
+    "timestamp": "2026-06-06T23:09:54.387479",
+    "original_title": "Ukraine Strikes St. Petersburg in Long-Range Drone Attack",
+    "link": "https://www.nytimes.com/2026/06/06/world/europe/ukraine-drone-strike-st-petersburg.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 10,
+      "location": "St. Petersburg, Russia",
+      "latitude": 59.9375,
+      "longitude": 30.3086,
+      "detailed_analysis": "Ukraine's long-range drone attack on St. Petersburg poses a significant threat to aviation and national security, indicating an escalation of conflict and potential for future attacks on key infrastructure and personnel.",
+      "immediate_forecast_24h": "Increased security measures are expected in and around St. Petersburg, with potential disruptions to air traffic and heightened alertness for further drone attacks.",
+      "strategic_outlook": "The conflict between Ukraine and Russia may intensify, leading to more frequent and daring attacks, which could have long-term implications for regional stability and global security.",
+      "operational_impact": "Potential disruptions to air travel, increased security checks, and heightened alertness for logistics and transport operations in the region, with possible spillover effects on global supply chains.",
+      "proximity_alert": "YAKIN TEHDİT: Pulkovo Airport (15 km)"
+    }
+  },
+  {
+    "id": "3ca399db6da2baf60eceb8d04711a683",
+    "timestamp": "2026-06-06T23:09:57.190462",
+    "original_title": "Two IDF soldiers killed in southern Lebanon as fighting against Hezbollah continues",
+    "link": "https://www.reddit.com/r/worldnews/comments/1tyube8/two_idf_soldiers_killed_in_southern_lebanon_as/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 8,
+      "location": "Southern Lebanon",
+      "latitude": 33.1667,
+      "longitude": 35.3333,
+      "detailed_analysis": "Two IDF soldiers were killed in southern Lebanon as fighting against Hezbollah continues, indicating a high level of conflict and potential for further escalation, posing a significant threat to personnel and potentially disrupting aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Increased military activity and potential for further clashes between IDF and Hezbollah, with possible spillover effects on nearby areas, including potential impacts on transport and logistics.",
+      "strategic_outlook": "The ongoing conflict in southern Lebanon has the potential to escalate into a larger regional conflict, posing long-term risks to assets, cargo, aviation, and personnel in the area, as well as potentially disrupting global supply chains.",
+      "operational_impact": "The conflict may lead to disruptions in air and ground transportation, potentially affecting cargo shipments and personnel movements, with possible closures of airspace or borders, and increased security measures in the region.",
+      "proximity_alert": null
+    }
   }
 ]
