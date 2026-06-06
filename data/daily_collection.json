@@ -321,5 +321,62 @@
       "operational_impact": "The protest is unlikely to have a significant impact on transport or logistics in the short term, but prolonged or widespread unrest could potentially disrupt operations in the future.",
       "proximity_alert": "YAKIN TEHDİT: Indira Gandhi International Airport (16 km)"
     }
+  },
+  {
+    "id": "dcdc5e993d003271729dabc10c8e15c7",
+    "timestamp": "2026-06-06T11:56:02.962109",
+    "original_title": "NATO Weighs New €70 Billion Military Aid Package for Ukraine Ahead of Ankara Summit",
+    "link": "https://www.reddit.com/r/worldnews/comments/1tyf1no/nato_weighs_new_70_billion_military_aid_package/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "NATO's consideration of a new €70 billion military aid package for Ukraine indicates a significant escalation of the conflict, potentially drawing in more countries and increasing the risk of military action, which could impact aviation, cargo, and personnel in the region.",
+      "immediate_forecast_24h": "Tensions are expected to rise ahead of the Ankara Summit, with potential for increased military activity and heightened security measures in the region.",
+      "strategic_outlook": "The long-term view suggests a protracted conflict with significant humanitarian and economic implications, potentially disrupting global supply chains and impacting regional stability.",
+      "operational_impact": "The conflict may lead to restrictions on air travel, increased security checks, and potential disruptions to cargo transport, affecting personnel and assets in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "640aa17fb4de99c4265853d815bdc21c",
+    "timestamp": "2026-06-06T11:56:05.430660",
+    "original_title": "Displaced migrants leave South Africa after xenophobic attacks",
+    "link": "http://www.africanews.com/2026/06/06/displaced-migrants-leave-south-africa-after-xenophobic-attacks/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Civil Unrest/Border",
+      "risk_score": 10,
+      "location": "Western Cape, South Africa",
+      "latitude": -33.9249,
+      "longitude": 18.4241,
+      "detailed_analysis": "Displaced migrants leaving South Africa after xenophobic attacks may lead to increased border activity and potential stowaways, affecting transport and logistics in the region.",
+      "immediate_forecast_24h": "Migrant movements are expected to continue, potentially causing disruptions to local transportation and logistics operations.",
+      "strategic_outlook": "The situation may lead to increased tensions and potential further unrest, impacting regional stability and transport security in the long term.",
+      "operational_impact": "Transport and logistics operations in the Western Cape region may experience delays or disruptions due to the migrant movements and potential border breaches.",
+      "proximity_alert": "YAKIN TEHDİT: Cape Town International Airport (17 km)"
+    }
+  },
+  {
+    "id": "43f763a2f5430de26255129eb67d9e40",
+    "timestamp": "2026-06-06T11:56:07.872035",
+    "original_title": "Pope Leo visits Spain with focus on immigration",
+    "link": "https://www.france24.com/en/pope-leo-visits-spain-with-focus-on-immigration",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Border",
+      "risk_score": 10,
+      "location": "Barcelona, Spain",
+      "latitude": 41.3879,
+      "longitude": 2.169,
+      "detailed_analysis": "Pope Leo's visit to Spain, focusing on immigration, may draw attention to migrant issues and potentially increase border activity, but no direct threat to assets, cargo, aviation, or personnel is reported.",
+      "immediate_forecast_24h": "Increased security presence around the Pope's visit and potential migrant gatherings, but no significant disruptions to transport or logistics expected.",
+      "strategic_outlook": "The visit may highlight immigration issues in Europe, potentially influencing border policies and security measures in the long term.",
+      "operational_impact": "Minimal impact on transport and logistics expected, but security measures around the Pope's visit may cause minor disruptions to local traffic and aviation.",
+      "proximity_alert": "YAKIN TEHDİT: Barcelona–El Prat Airport (12 km)"
+    }
   }
 ]
