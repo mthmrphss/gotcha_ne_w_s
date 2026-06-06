@@ -568,5 +568,43 @@
       "operational_impact": "The incident may cause minor disruptions to airport operations, but is unlikely to have a significant impact on overall air travel or cargo operations.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "1b4cf19d0d814763845af0985e897114",
+    "timestamp": "2026-06-06T17:20:43.183417",
+    "original_title": "Terror in a tent: How FBI agents say they caught an accused predator on the Oregon coast - OregonLive.com",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTDNPbzlVejZ1X0lGc1hqVXh2ajFESDhaZEJiaWlFZnU2TDM5am5reHEtbUt0UXBEbWxjZjdlNHdkdGluSHhUc2tqWV9QTEcxcER5SVJzZldjTU9mV19KbFJLWjl0UkxjODg0OV9NbVBNMGlhRk1YNjlVNWwyQUxCNVl0bW45b3djT2l4djAzekV2TkJqa2dmVENydFVUZEV2TzhLUGF0YmVXbV9xbEhzWmRNSGIwV0Q4OHk5WHA4N3NQb19ZcFFkMzZMcF9SQdIB4gFBVV95cUxOV2Q1Rzh6eHBsWS16R3hBWDQ3em5wMHF5b3QydnVWYkRpLS0wR3p4MllvZFIwR1lVREVYOGVSTWRNdjVBZDFPZzB6M1BJc1N2aE52QktCTFlqQUh3cUlqVGRKWV9DQlVtdG5TYWFpWEhkb1pJX1ZDb2Rfbml6dVNwQzA1YWlJMGZaOEtPNFlfeWRoVEVoam5sX01qRENfTEpJV0tXQkdvTm5tWmVWMHl6N2swNXNkZ2tLS2h1RnpLbkJyWEt1cjVQczVxSEwxODZhZXhSdHFCT0FZdFVUVHRYNnBB?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Crime/Terrorism",
+      "risk_score": 6,
+      "location": "Oregon coast, USA",
+      "latitude": 45.5236,
+      "longitude": -122.675,
+      "detailed_analysis": "The FBI caught an accused predator on the Oregon coast, indicating potential threats to personnel and assets in the area. The incident highlights the need for vigilance and security measures to prevent such crimes.",
+      "immediate_forecast_24h": "Increased law enforcement presence in the area, potential for further investigations and arrests",
+      "strategic_outlook": "Long-term focus on improving security measures and intelligence gathering to prevent similar incidents",
+      "operational_impact": "Potential disruptions to local transport and logistics due to increased security measures, but no significant impact on aviation or cargo operations",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "4d96234f7b80d53319962d88d2f0e19f",
+    "timestamp": "2026-06-06T17:20:47.922472",
+    "original_title": "Russian drone attack kills four at Ukrainian dairy factory that produced baby food, officials say",
+    "link": "https://www.reddit.com/r/worldnews/comments/1tyma67/russian_drone_attack_kills_four_at_ukrainian/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 10,
+      "location": "Kyiv Region, Ukraine",
+      "latitude": 50.4501,
+      "longitude": 30.5236,
+      "detailed_analysis": "A Russian drone attack on a Ukrainian dairy factory has resulted in four fatalities. The factory produced baby food, indicating a potential disruption to critical supply chains. The use of drones in the attack highlights the evolving nature of modern warfare and its impact on civilian infrastructure.",
+      "immediate_forecast_24h": "Increased tensions between Russia and Ukraine are expected, with potential for further drone attacks on critical infrastructure. Enhanced security measures may be implemented in the region to mitigate future threats.",
+      "strategic_outlook": "The long-term implications of this attack may include increased investment in drone defense systems and enhanced security protocols for critical infrastructure. The conflict may also lead to a re-evaluation of global supply chains and the potential for alternative production facilities.",
+      "operational_impact": "The attack may disrupt the supply of baby food and other essential products, potentially impacting logistics and transport operations in the region. Enhanced security measures and contingency planning may be necessary to mitigate the risks associated with drone attacks on critical infrastructure.",
+      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
+    }
   }
 ]
