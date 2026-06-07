@@ -1,21 +1,40 @@
 [
   {
-    "id": "8550e027a4954f5d4bff5359eefb7da9",
-    "timestamp": "2026-06-07T01:37:56.581150",
-    "original_title": "Multiple security failures exposed after man sneaks onto United flight at Bush airport, expert says - ABC13 Houston",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd1I5Ny01ZVh6UWthWER5cTBTaTBBb0pNOTBBaDZsTzVWUk4wM1lTQ0M0Wi16UG9jdXVKSnByVU8wektqQUJHWGl5a2FpSnpfUjhmV3FUS0NQcldVLXJIWFRsdWxDQmJEM3FzMlBLWl9USS0wa0d4NGZXOE9YdXhpeTZBZHdOQV9oQUxPd093X0F3MUcxTld5VG94ZDc4dEY2T1M1YnMyaGQycHRRYW92UlVUcTRnWkF30gG-AUFVX3lxTE4xemJMQzBoQW93dmxYY0paVmxnSTBMTWN4X1JoYVJUZG5Tc00xV3RCMktsdjhleXNiQTRLeDc0WHRNZ25NN2JMbnBDam5xTEplYlJsR1VoVWYwZngtREJpUzF4UG9GUWlxMVRydUZuQWtGdjZCNl9FeXFCVkJka3RDVXBaX3gtcW5DR1dKbzNqZ094RWJBaEV5U1VGYWp1dGdkejMzNzA0UUpaSC1IY3YtaTg3c3VXUk5IRm04UEE?oc=5",
-    "source_name": "Google News (Breaking)",
+    "id": "6a4c390f7bc0f4c11ddbb45b936c050e",
+    "timestamp": "2026-06-07T06:36:27.882001",
+    "original_title": "'Not your country': Lebanese leaders rebuke Iran as Israel, Hezbollah trade attacks",
+    "link": "https://www.reddit.com/r/worldnews/comments/1tz2s1e/not_your_country_lebanese_leaders_rebuke_iran_as/",
+    "source_name": "Reddit r/WorldNews",
     "ai_analysis": {
-      "category": "Aviation/Security",
+      "category": "Conflict/Terrorism/Civil Unrest",
+      "risk_score": 8,
+      "location": "Lebanon",
+      "latitude": 33.8547,
+      "longitude": 35.8623,
+      "detailed_analysis": "The situation in Lebanon is escalating due to exchanges of attacks between Israel and Hezbollah, with Lebanese leaders rebuking Iran's involvement. This indicates a high level of tension and potential for further conflict, which could impact aviation, cargo, and personnel safety in the region.",
+      "immediate_forecast_24h": "Increased military activity and potential for further clashes between Israel and Hezbollah are expected, which may lead to disruptions in air travel and logistics in the region.",
+      "strategic_outlook": "The long-term outlook suggests continued instability in the region, with potential for the conflict to spread or escalate, posing significant risks to assets, cargo, aviation, and personnel.",
+      "operational_impact": "The conflict may lead to airspace restrictions, increased security measures at airports, and potential disruptions to cargo transport and logistics operations in the region, affecting the safety and efficiency of operations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "c7bf2b08406f46fbec8035a826b99d35",
+    "timestamp": "2026-06-07T06:36:30.088712",
+    "original_title": "Why Zelensky’s celebration of WWII-era nationalist guerrillas is causing tension with Poland",
+    "link": "https://www.france24.com/en/europe/20260607-why-zelensky-celebration-of-wwii-era-nationalist-guerrillas-is-causing-tension-with-poland",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
       "risk_score": 10,
-      "location": "Houston, USA",
-      "latitude": 29.7633,
-      "longitude": -95.3632,
-      "detailed_analysis": "A security breach occurred at Bush airport when a man sneaked onto a United flight, exposing multiple security failures. This incident highlights vulnerabilities in airport security protocols, potentially allowing unauthorized individuals to access restricted areas and flights.",
-      "immediate_forecast_24h": "Enhanced security measures are expected to be implemented at Bush airport in the next 24 hours, including increased surveillance and screening of passengers and staff. The incident may cause delays and disruptions to flights, but no major disruptions are anticipated.",
-      "strategic_outlook": "The long-term impact of this incident may lead to a review and overhaul of airport security protocols, including the implementation of more advanced technologies and increased training for security personnel. This could result in improved security measures at Bush airport and potentially other airports in the region.",
-      "operational_impact": "The incident may cause some disruptions to flights and passenger travel in the short term, but it is not expected to have a significant impact on overall air transportation operations. However, it highlights the need for continued vigilance and investment in airport security to prevent similar incidents in the future.",
-      "proximity_alert": "YAKIN TEHDİT: George Bush Intercontinental Airport (24 km)"
+      "location": "Kyiv, Ukraine",
+      "latitude": 50.4333,
+      "longitude": 30.5167,
+      "detailed_analysis": "Ukrainian President Volodymyr Zelensky's decision to name a military unit after a WWII-era militia has led to increased tensions with Poland, potentially affecting diplomatic relations and regional stability.",
+      "immediate_forecast_24h": "Tensions between Ukraine and Poland are expected to remain high, with potential for further diplomatic fallout and protests.",
+      "strategic_outlook": "Long-term implications may include strained relations between Ukraine and Poland, potentially impacting regional security and cooperation.",
+      "operational_impact": "Increased tensions may affect transport and logistics operations between Ukraine and Poland, with potential for delays or disruptions.",
+      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
     }
   }
 ]
