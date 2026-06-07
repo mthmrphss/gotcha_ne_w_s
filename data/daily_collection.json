@@ -283,5 +283,62 @@
       "operational_impact": "The blockades and protests may cause significant delays and disruptions to cargo transport, aviation, and personnel movement, particularly in the eastern region of Bolivia.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "d88feff5fc038e2de78afc11dc342e55",
+    "timestamp": "2026-06-07T12:08:16.079546",
+    "original_title": "One killed, five wounded in shooting attack in Israel: Medics - Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNnpWUXBhaDdrVVpKZnJ5Z29GdHVScjNxVHZBWl9tNjV5VFJabFZ1RDM3bVNvMGE4QWgtMWluSHoxT2M5V09pM1R4MHN0VEExTnkxZUprY2xwWmNmbkF4bjMyTkhxUlBZNlhrcnh0U3pwZlFoYjBCSzFaQnkxTWxFODg5ODdTX0xCZy00X3NSY0hvQTJmbmxNeUhvVk9lcF9J0gGmAUFVX3lxTE9UTElHclVjT2ViT1F6NFlMZXZ4Z0R0eTJ3SVJsRXZXQk9CRWZUcFRzUERpNWhOM1FYcUVkeS1tUGZXekppd0c1VVpsSDJDTUExOWEydVpueHduSGVHYlhLWEhTNDBOZ1BhWlJzWlJ6ZEJscGxSUVVuZkNNTTY5UjBtTTJ0UnFWejVFUHc0RW1yTFF1WXEzR3E3MldTSmxfenBsVVlTT3c?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism/Civil Unrest/Conflict",
+      "risk_score": 8,
+      "location": "Israel",
+      "latitude": 31.7833,
+      "longitude": 35.2167,
+      "detailed_analysis": "A shooting attack in Israel has resulted in one fatality and five injuries. The incident poses a significant threat to personnel and may impact the security of assets and cargo in the region.",
+      "immediate_forecast_24h": "Increased security measures are expected in the affected area, potentially causing disruptions to transport and logistics. Further attacks or retaliatory actions are possible, exacerbating the situation.",
+      "strategic_outlook": "The long-term impact of this incident may lead to heightened tensions and increased security concerns in the region, affecting the movement of assets, cargo, and personnel. Ongoing monitoring of the situation is necessary to assess the evolving threat landscape.",
+      "operational_impact": "Transport and logistics operations in the region may be affected due to increased security checks, potential roadblocks, or other measures implemented in response to the attack. Aviation operations may also be impacted if the situation escalates or if there are concerns about the safety of aircraft or airports.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "b76e80470bc45d924eebcabfdc0d1a23",
+    "timestamp": "2026-06-07T12:08:21.138485",
+    "original_title": "Iran lawmaker tells protesting students to stop and ‘go study’",
+    "link": "https://www.reddit.com/r/worldnews/comments/1tzae31/iran_lawmaker_tells_protesting_students_to_stop/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Protesting students in Iran have been told to stop by a lawmaker, which may lead to increased tensions and potential unrest in the region, but does not directly impact aviation, cargo, or personnel at this time.",
+      "immediate_forecast_24h": "The situation is likely to remain volatile, with potential for further protests or clashes between students and authorities, but no immediate threat to transport or logistics is anticipated.",
+      "strategic_outlook": "Long-term, the situation in Iran could lead to increased instability, potentially affecting regional security and transport, but this is not currently a significant concern for assets, cargo, aviation, or personnel.",
+      "operational_impact": "No direct operational impact on transport or logistics is expected at this time, but the situation should be monitored for potential future developments that could affect the region.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "8ba51d7b13f9064279195e70d7b72219",
+    "timestamp": "2026-06-07T12:08:23.639589",
+    "original_title": "Nigeria: Hundreds of kidnapped women, children freed from Boko Haram jihadists",
+    "link": "https://www.france24.com/en/africa/20260607-nigeria-hundreds-kidnapped-women-children-freed-from-boko-haram-jihadists",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict",
+      "risk_score": 7,
+      "location": "Northeastern Nigeria",
+      "latitude": 10.0,
+      "longitude": 10.0,
+      "detailed_analysis": "The release of hundreds of kidnapped women and children from Boko Haram jihadists indicates a potential shift in the group's strategy or a successful intelligence-led operation by the military. The situation remains volatile, with potential for further kidnappings or attacks.",
+      "immediate_forecast_24h": "Increased military presence and patrols in the region, potential for retaliatory attacks by Boko Haram.",
+      "strategic_outlook": "Long-term instability in northeastern Nigeria, potential for continued terrorist activity and kidnappings, impacting regional security and transport logistics.",
+      "operational_impact": "Potential disruptions to transport and logistics in the region, increased security measures for personnel and cargo, heightened risk of kidnappings and terrorist attacks.",
+      "proximity_alert": null
+    }
   }
 ]
