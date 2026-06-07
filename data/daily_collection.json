@@ -435,5 +435,81 @@
       "operational_impact": "Transport and logistics operations in the region may be severely impacted due to the increased risk of conflict, with potential disruptions to supply chains and personnel movements.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "7a7860241fbc910c98247dda57e9423f",
+    "timestamp": "2026-06-07T17:24:50.783282",
+    "original_title": "The Making of a Teenage Terror Suspect - The Free Press",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSE5Sd0lTdmtsMm5pVV9Ea3RBTE1KLVJKc19tbVd0X2JUeGVwMjZGSTUyUGlxbml1SFdEd0VTTWo5WW1zUVdydHdMTVdiQmdPREcwWTdhLTJOWGV1YWZPMG1UczdiRTlsMDZRMlEyQ01KMzNKMjBFOTNtMWZfSVJHQ1A3aEI?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism",
+      "risk_score": 7,
+      "location": "Unknown, Global",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "The article discusses the making of a teenage terror suspect, indicating potential threats to aviation, cargo, and personnel. The risk is elevated due to the potential for future attacks.",
+      "immediate_forecast_24h": "Increased security measures may be implemented in high-risk areas, and law enforcement may be on high alert for potential threats.",
+      "strategic_outlook": "The long-term impact could be a heightened sense of awareness and increased security protocols in place to prevent future attacks, potentially affecting transport and logistics operations.",
+      "operational_impact": "Potential disruptions to air travel, cargo transport, and personnel movement due to increased security measures and potential threats.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "aff11348d6b224a0b1f93ec10ee4a4af",
+    "timestamp": "2026-06-07T17:24:57.119702",
+    "original_title": "U.S. eyes Iranian assets for Gulf allies' reconstruction, source says",
+    "link": "https://www.reddit.com/r/worldnews/comments/1tzgra3/us_eyes_iranian_assets_for_gulf_allies/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Gulf Region",
+      "latitude": 26.0689,
+      "longitude": 56.3478,
+      "detailed_analysis": "The U.S. is considering seizing Iranian assets to aid in the reconstruction of its Gulf allies, following recent drone launches by Iran. This escalation in tensions poses a significant threat to regional stability and may impact aviation and cargo operations.",
+      "immediate_forecast_24h": "Increased military presence and potential for further drone launches or retaliatory strikes, which may disrupt air traffic and shipping lanes.",
+      "strategic_outlook": "Prolonged conflict could lead to a significant increase in risk for assets, cargo, aviation, and personnel in the region, potentially drawing in other nations and causing a broader destabilization.",
+      "operational_impact": "Potential for flight restrictions, cargo delays, and increased security measures for personnel and assets in the region, with possible long-term effects on global supply chains and energy markets.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "823edf014309279f58536ee2fed90b06",
+    "timestamp": "2026-06-07T17:24:59.142476",
+    "original_title": "Israel targets Hezbollah with strike on Beirut despite ceasefire",
+    "link": "https://www.reddit.com/r/worldnews/comments/1tzgjs8/israel_targets_hezbollah_with_strike_on_beirut/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 10,
+      "location": "Beirut, Lebanon",
+      "latitude": 33.8938,
+      "longitude": 35.5018,
+      "detailed_analysis": "Israel has conducted a strike on Beirut targeting Hezbollah despite a ceasefire, indicating heightened tensions and potential for further conflict. This could lead to increased instability in the region, affecting aviation and logistics operations.",
+      "immediate_forecast_24h": "Increased military activity and potential for retaliation from Hezbollah, leading to heightened security measures at airports and potential disruptions to flights and cargo operations.",
+      "strategic_outlook": "Long-term escalation of conflict could lead to significant disruptions to regional logistics and aviation, with potential for spill-over effects into neighboring countries.",
+      "operational_impact": "Potential for flight delays or cancellations, increased security screening, and disruptions to cargo handling and transportation in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Beirut–Rafic Hariri International Airport (0 km)"
+    }
+  },
+  {
+    "id": "b1f8aff067e3b4caa2595a068004551a",
+    "timestamp": "2026-06-07T17:25:03.263814",
+    "original_title": "Etihad Airways Plans to Expand Capacity Above Pre-Iran War Levels Despite Continuing Uncertainty in the Region",
+    "link": "https://www.paddleyourownkanoo.com/2026/06/07/etihad-airways-plans-to-expand-capacity-above-pre-iran-war-levels-despite-continuing-uncertainty-in-the-region/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 10,
+      "location": "Abu Dhabi, United Arab Emirates",
+      "latitude": 24.4667,
+      "longitude": 54.3667,
+      "detailed_analysis": "Etihad Airways plans to expand capacity despite ongoing uncertainty in the Middle East, which may pose a risk to aviation operations due to potential instability and conflict in the region.",
+      "immediate_forecast_24h": "No immediate threats are reported, but the situation in the region remains volatile and may impact flight operations.",
+      "strategic_outlook": "The expansion of Etihad Airways' capacity may be affected by the ongoing conflict in the region, and the airline's operations may be subject to increased security measures and potential disruptions.",
+      "operational_impact": "Potential disruptions to flight schedules, increased security screening, and possible rerouting of flights due to regional instability.",
+      "proximity_alert": "YAKIN TEHDİT: ABU DHABİ (1 km)"
+    }
   }
 ]
