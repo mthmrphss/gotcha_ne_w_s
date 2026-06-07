@@ -340,5 +340,62 @@
       "operational_impact": "Potential disruptions to transport and logistics in the region, increased security measures for personnel and cargo, heightened risk of kidnappings and terrorist attacks.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "ad79009a19a1170df2d1c8fa870a0baf",
+    "timestamp": "2026-06-07T14:29:46.311307",
+    "original_title": "Arab Gunman Kills One in Attack on Central Israel",
+    "link": "https://www.nytimes.com/2026/06/07/world/middleeast/israel-west-bank-shooting.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict/Civil Unrest",
+      "risk_score": 6,
+      "location": "Central Israel",
+      "latitude": 31.7833,
+      "longitude": 35.2167,
+      "detailed_analysis": "A lone gunman, an Arab citizen of Israel, carried out a fatal attack in central Israel. The assailant was killed, and Hamas praised the shooting without claiming responsibility, indicating potential for further unrest or attacks.",
+      "immediate_forecast_24h": "Increased security measures are expected in the region, with potential for retaliatory actions or further attacks. Tensions between Israeli and Palestinian groups may escalate.",
+      "strategic_outlook": "The long-term view suggests continued instability in the region, with potential for periodic outbreaks of violence. This could impact aviation and cargo operations, particularly those involving Israeli or Palestinian interests.",
+      "operational_impact": "Transport and logistics operations in the region may face disruptions due to increased security checks, potential protests, or further attacks. Aviation operations may be affected by heightened security measures or airspace restrictions.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "3570cf60d1cab8c1ec85908ac3fded40",
+    "timestamp": "2026-06-07T14:29:49.427777",
+    "original_title": "Zelensky set for London talks as he criticises 'vile' Chornobyl drone strike",
+    "link": "https://www.reddit.com/r/worldnews/comments/1tzd1k9/zelensky_set_for_london_talks_as_he_criticises/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "London, UK/Chornobyl, Ukraine",
+      "latitude": 51.5074,
+      "longitude": 0.1278,
+      "detailed_analysis": "A drone strike on the Chornobyl nuclear power plant has been criticized by Zelensky, indicating a potential escalation of conflict. Zelensky's visit to London may be affected by the situation, posing a risk to aviation and personnel.",
+      "immediate_forecast_24h": "Increased security measures are expected in London and surrounding areas, with potential disruptions to air travel. The situation in Ukraine may deteriorate further, leading to additional security concerns.",
+      "strategic_outlook": "The conflict in Ukraine is likely to continue, with potential long-term implications for global security and aviation. The use of drones in the conflict may become more prevalent, posing a significant risk to personnel and assets.",
+      "operational_impact": "Transport and logistics operations in the region may be disrupted due to the conflict, with potential delays or cancellations of flights. Security protocols should be reviewed and updated to address the emerging threats.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "c2f466e7880c5e2984c82b0d2562d307",
+    "timestamp": "2026-06-07T14:29:52.190358",
+    "original_title": "One dead, five wounded after shootings in Israel",
+    "link": "https://www.france24.com/en/one-dead-five-wounded-after-shootings-in-israel",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Terrorism/Civil Unrest/Conflict",
+      "risk_score": 8,
+      "location": "Central Israel",
+      "latitude": 31.7669,
+      "longitude": 35.2137,
+      "detailed_analysis": "A Palestinian man with Israeli citizenship went on a shooting rampage in several towns in central Israel, killing one person and wounding five others. The attack occurred in a time of heightened tensions following a spate of Israeli settler attacks and the deadly shooting of a Palestinian baby over the weekend.",
+      "immediate_forecast_24h": "Increased security measures are expected in the region, with potential for further clashes or retaliatory attacks. The situation remains volatile, with a high likelihood of additional incidents in the short term.",
+      "strategic_outlook": "The long-term outlook for the region remains uncertain, with ongoing tensions between Israeli and Palestinian communities. The potential for further violence and unrest is high, which could impact regional stability and security.",
+      "operational_impact": "The attack may impact transport and logistics operations in the region, particularly those involving personnel or cargo movement. Increased security checks and potential route disruptions could cause delays, and companies operating in the area should exercise caution and monitor the situation closely.",
+      "proximity_alert": null
+    }
   }
 ]
