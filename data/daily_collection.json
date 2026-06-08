@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "id": "ae58334d57b1182dbd4b47b782be7e2d",
+    "timestamp": "2026-06-08T22:59:55.904682",
+    "original_title": "Israel and Iran step back from further strikes after renewed clashes",
+    "link": "https://www.france24.com/en/middle-east/20260608-israel-and-iran-step-back-from-further-strikes-after-renewed-clashes",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Middle East",
+      "latitude": 32.0,
+      "longitude": 34.0,
+      "detailed_analysis": "Renewed clashes between Israel and Iran have increased tensions in the region, posing a threat to aviation and cargo operations. The exchange of fire and warnings of retaliation indicate a high level of hostility.",
+      "immediate_forecast_24h": "The situation is expected to remain volatile, with a high risk of further military action. Regional powers and the international community are likely to continue efforts to de-escalate the conflict.",
+      "strategic_outlook": "The long-term outlook is uncertain, with the potential for the conflict to escalate into a wider war. This could have significant implications for global security, trade, and aviation.",
+      "operational_impact": "The conflict may disrupt air traffic and cargo operations in the region, with potential delays or cancellations of flights. Shipping and logistics companies may need to reassess their routes and security protocols to mitigate the risks.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "55a100a956a1478de38a92aa123625ab",
+    "timestamp": "2026-06-08T22:59:57.738798",
+    "original_title": "EU Taliban invite 'the wrong signal to anyone that is using power as a means of suppression'",
+    "link": "https://www.france24.com/en/eu-taliban-invite-the-wrong-signal-to-anyone-that-is-using-power-as-a-means-of-suppression",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Border/Civil Unrest",
+      "risk_score": 10,
+      "location": "Brussels, Belgium",
+      "latitude": 50.8503,
+      "longitude": 4.3517,
+      "detailed_analysis": "The European Commission's invitation to Taliban officials to discuss migrant deportations may be perceived as legitimizing a regime with a history of human rights abuses, potentially sending the wrong signal to suppressive regimes and impacting regional stability.",
+      "immediate_forecast_24h": "Increased criticism from human rights groups and potential protests or demonstrations in Brussels against the Taliban's presence.",
+      "strategic_outlook": "Long-term implications may include strained relationships between the EU and countries critical of the Taliban, potentially affecting international cooperation on migration and security issues.",
+      "operational_impact": "Potential disruptions to transport and logistics due to protests or increased security measures, particularly in areas surrounding the meeting venue in Brussels.",
+      "proximity_alert": "YAKIN TEHDİT: SHERATON AIRPORT (0 km)"
+    }
+  }
+]
