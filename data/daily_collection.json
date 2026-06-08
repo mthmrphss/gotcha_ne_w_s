@@ -587,5 +587,81 @@
       "operational_impact": "Delays and disruptions to air travel, potential loss of productivity and revenue for airlines and airports, and increased stress on passengers and airport staff.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "f9e3c6a973ee441bfb480eca675d783f",
+    "timestamp": "2026-06-08T16:36:07.434720",
+    "original_title": "Six people stabbed in attack at Penn Station in New York - The Guardian",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQVhOOWw1UGZ3ZkxNUlB4MXBkUVFIMXhHNko0d1lRejEwUFRnbWU0VWVEWG81U1VFdGs2Q3BsWTFlQlc3T2VTajZPNENQRzFNOXY4cFVzaDdHYzBVcXNCcFpyOXlTcVJQMVR6RFVxLXdlTlhnT1Vac1dyZGFMSHJ6b0VVbXQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Crime/Civil Unrest",
+      "risk_score": 10,
+      "location": "New York, USA",
+      "latitude": 40.7506,
+      "longitude": -73.9935,
+      "detailed_analysis": "A stabbing attack occurred at Penn Station in New York, resulting in six people being injured. The incident has the potential to disrupt transportation and logistics operations in the area.",
+      "immediate_forecast_24h": "Increased security presence is expected at Penn Station and surrounding areas, potentially causing delays and disruptions to transportation services. The situation is likely to be closely monitored by law enforcement and transportation authorities.",
+      "strategic_outlook": "The long-term impact of this incident on transportation and logistics in the area will depend on the effectiveness of the response and any subsequent security measures implemented. It may lead to increased security protocols and surveillance at transportation hubs.",
+      "operational_impact": "The attack may cause short-term disruptions to rail and other transportation services at Penn Station, potentially affecting cargo and personnel movement. Transportation operators and logistics companies should be prepared for possible delays and increased security checks.",
+      "proximity_alert": "YAKIN TEHDİT: Paramount Hotel (1 km)"
+    }
+  },
+  {
+    "id": "01d2c3458d650cfe6cf6cc0e121e397e",
+    "timestamp": "2026-06-08T16:36:11.015406",
+    "original_title": "Live Updates: Iran and Israel Pull Back After Exchange of Attacks",
+    "link": "https://www.nytimes.com/live/2026/06/08/world/iran-israel-lebanon-attacks",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Middle East",
+      "latitude": 32.0,
+      "longitude": 34.0,
+      "detailed_analysis": "The exchange of attacks between Iran and Israel poses a significant threat to aviation and personnel in the region. The involvement of state actors increases the risk of further escalation.",
+      "immediate_forecast_24h": "A temporary de-escalation is expected due to pressure from the US, but the situation remains volatile and prone to further attacks.",
+      "strategic_outlook": "The long-term outlook is uncertain, with the potential for continued conflict and instability in the region, affecting transport and logistics operations.",
+      "operational_impact": "Flights and cargo operations in the region may be disrupted or delayed due to the conflict, and personnel may be at risk of injury or kidnapping.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "af7d161c4e8bfb035f986b77de949d56",
+    "timestamp": "2026-06-08T16:36:13.229871",
+    "original_title": "United flight UA1568 is declaring an emergency and turning around after departure from SFO - airlive",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSGFJWm5pZG9IRGhwdEtBODdIUENfWVVjdVpVSVVBb1Nka2t5WTcwWXVKbDNEM3FwVWp0Q3Zuc2VNclN5VllTT0pHNWU0LW1zRHZBdzR5Y2NsUmx6UkZzR3hMNHFLbU1KcXpSc21rZFJJLXhNdUs1cjhjbjUyMGphckJhSWVrd1B0bWJIOVA5Mk9XUU5lSi1qVzNqX3NtVGJpam1WYlYyRmtYblRWbzN5Ym5OOHR1OTF1RXIya0lnd1NfeXFheWlqaGUySnc?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "San Francisco, USA",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "detailed_analysis": "United flight UA1568 declared an emergency and turned around after departure from SFO, indicating a potential threat to aviation safety and security.",
+      "immediate_forecast_24h": "The flight will likely be grounded for inspection and investigation, and passengers will be accommodated on alternative flights. There may be disruptions to United's flight schedule and operations at SFO.",
+      "strategic_outlook": "This incident may lead to increased security measures and screening procedures for flights departing from SFO, potentially causing delays and impacting passenger experience.",
+      "operational_impact": "The incident may cause delays and cancellations of flights, impacting cargo and passenger transport, and potentially affecting the operations of United Airlines and other airlines using SFO.",
+      "proximity_alert": "YAKIN TEHDİT: San Francisco International Airport (17 km)"
+    }
+  },
+  {
+    "id": "f7edd58d6727e938f2a40f05b4833152",
+    "timestamp": "2026-06-08T16:36:16.888291",
+    "original_title": "Activists protests over Nairobi National Park plan",
+    "link": "http://www.africanews.com/2026/06/08/activists-protests-over-nairobi-national-park-plan/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Nairobi, Kenya",
+      "latitude": -1.2921,
+      "longitude": 36.8219,
+      "detailed_analysis": "Environmental activists and conservationists staged a protest against plans to construct a parking facility inside Nairobi National Park, which may lead to potential disruptions in the area but does not directly target assets, cargo, aviation, or personnel.",
+      "immediate_forecast_24h": "The protest is likely to continue, potentially causing traffic disruptions and delays in the surrounding areas, but no significant escalation is expected in the next 24 hours.",
+      "strategic_outlook": "The long-term impact of this protest is likely to be minimal on the overall security of assets, cargo, aviation, and personnel, but it may contribute to a broader trend of environmental activism in the region.",
+      "operational_impact": "The protest may cause minor operational disruptions, particularly in terms of traffic and access to the Nairobi National Park, but it is not expected to significantly impact transport or logistics operations in the area.",
+      "proximity_alert": "YAKIN TEHDİT: Jomo Kenyatta International Airport (12 km)"
+    }
   }
 ]
