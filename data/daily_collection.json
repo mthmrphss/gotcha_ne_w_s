@@ -758,5 +758,81 @@
       "operational_impact": "Potential disruptions to air travel and cargo transport in the region, particularly if conflict escalates, affecting aviation operations, logistics, and personnel safety.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "f0f4ba3ef62e2aacaced482de56ee3b5",
+    "timestamp": "2026-06-08T21:23:27.629902",
+    "original_title": "Live Updates: Israel Halts Iran Strikes After Trump Claims Progress Toward Nuclear Talks, Officials Say",
+    "link": "https://www.nytimes.com/live/2026/06/08/world/iran-israel-lebanon-attacks",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Israel/Iran",
+      "latitude": 32.0,
+      "longitude": 34.8,
+      "detailed_analysis": "The halt in strikes between Israel and Iran after a phone call between Prime Minister Netanyahu and President Trump indicates a temporary de-escalation, but both sides have warned they are ready to resume attacks, posing a threat to aviation and personnel in the region.",
+      "immediate_forecast_24h": "Tensions remain high, and the situation could escalate quickly if either side perceives a threat, potentially disrupting air travel and logistics in the region.",
+      "strategic_outlook": "The long-term outlook is uncertain, with the potential for renewed conflict between Israel and Iran, which could have significant implications for regional stability and global security, affecting aviation, cargo, and personnel.",
+      "operational_impact": "The conflict could impact air travel, with potential disruptions to flight schedules, and increased security measures at airports, as well as affecting cargo shipments and personnel movements in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Ben Gurion International Airport (9 km)"
+    }
+  },
+  {
+    "id": "cc1df8dcd6129a3646c377313ae69cc8",
+    "timestamp": "2026-06-08T21:23:30.199349",
+    "original_title": "What a Russian Army Collapse Might Look Like",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1u0kcok/what_a_russian_army_collapse_might_look_like/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Ukraine, Eastern Europe",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "A potential collapse of the Russian army could lead to significant instability in the region, affecting transport and logistics. The use of drones and other military equipment could pose a threat to aviation and cargo operations.",
+      "immediate_forecast_24h": "Increased tensions and potential clashes between Russian and Ukrainian forces, with a high risk of disruptions to transport and logistics in the region.",
+      "strategic_outlook": "A long-term conflict could lead to a significant destabilization of the region, with potential spillover effects on neighboring countries and global trade routes.",
+      "operational_impact": "Potential disruptions to air and ground transport, with a high risk of delays, cancellations, and damage to cargo and equipment. Personnel may also be at risk due to the conflict.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "4f7f7f8c2fdf40d9705f7aa7a782b22a",
+    "timestamp": "2026-06-08T21:23:32.714155",
+    "original_title": "Nigeria: 360 kidnapping victims freed by the army [Africanews Today]",
+    "link": "http://www.africanews.com/2026/06/08/nigeria-360-kidnapping-victims-freed-by-the-army-africanews-today/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict/Crime",
+      "risk_score": 7,
+      "location": "Southern Nigeria, Nigeria",
+      "latitude": 7.0,
+      "longitude": 7.0,
+      "detailed_analysis": "Boko Haram's abduction of 360 people in southern Nigeria poses a significant threat to personnel and cargo security in the region. The national army's successful rescue operation indicates a high level of conflict and instability.",
+      "immediate_forecast_24h": "Increased military presence and patrols are expected in the region, potentially disrupting transport and logistics operations. Further kidnappings or attacks by Boko Haram cannot be ruled out.",
+      "strategic_outlook": "The long-term security situation in southern Nigeria remains uncertain, with Boko Haram's continued presence and activity posing a threat to regional stability and security. Transport and logistics companies should exercise caution and consider alternative routes or security measures.",
+      "operational_impact": "Potential disruptions to transport and logistics operations, increased security measures, and heightened risk of kidnappings or attacks on personnel and cargo.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "492c5549786307e59d498b0fcaed7a33",
+    "timestamp": "2026-06-08T21:23:36.175078",
+    "original_title": "Accused Houston Airport Stowaway Claims He Was Duped By Fake Ticket Scam",
+    "link": "https://www.paddleyourownkanoo.com/2026/06/08/accused-houston-airport-stowaway-claims-he-was-duped-by-fake-ticket-scam/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Border/Crime",
+      "risk_score": 10,
+      "location": "Houston, USA",
+      "latitude": 29.7633,
+      "longitude": -95.3632,
+      "detailed_analysis": "A stowaway allegedly evaded gate agents and snuck onboard a United Airlines flight from Houston George Bush Intercontinental Airport to Los Angeles, claiming he was sold a fake ticket and had no idea his boarding pass wasn’t genuine.",
+      "immediate_forecast_24h": "Increased security measures may be implemented at Houston George Bush Intercontinental Airport to prevent similar incidents, and an investigation into the fake ticket scam is likely to be conducted.",
+      "strategic_outlook": "The incident highlights the need for enhanced security protocols and verification processes for airline tickets to prevent unauthorized access to flights and potential security breaches.",
+      "operational_impact": "The incident may lead to increased security checks and delays for passengers, potentially affecting flight schedules and operations at Houston George Bush Intercontinental Airport.",
+      "proximity_alert": "YAKIN TEHDİT: George Bush Intercontinental Airport (24 km)"
+    }
   }
 ]
