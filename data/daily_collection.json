@@ -872,5 +872,62 @@
       "operational_impact": "The decrease in air travel may impact logistics and cargo operations in the region, and airlines may need to adjust their routes and schedules accordingly.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "b47a8fbf5bd1762b8b50891ed733c766",
+    "timestamp": "2026-06-10T19:14:00.213392",
+    "original_title": "Trump says US will attack Iran 'very hard' and has taken oil through Hormuz - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZUdOeWRybkJaaDV4dzVCMFdsOUJSSHhBaHliNV9WajdMUXgxTGx2QldYLXF3akJSSW5meGpzcW53QnFqOWpKQVpkci1aTUY4WEtkYlFGNHk3b3B0ci0zSjYzOENmd2xzcEFzUVBFbi04dk5QdTF3dWRPTGVJemJ3cmprRURzeFQ2T1YtejUxUVFMMXBKWTJjU1ZXcDAxTEZPTnp0OTJ3?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Hormuz, Iran",
+      "latitude": 26.57,
+      "longitude": 56.07,
+      "detailed_analysis": "The threat of a US attack on Iran poses a significant risk to assets, cargo, aviation, and personnel in the region. The Strait of Hormuz is a critical waterway for international oil trade, and any conflict could disrupt global energy supplies.",
+      "immediate_forecast_24h": "Increased military presence and heightened tensions in the region, potential for miscalculations or accidental clashes",
+      "strategic_outlook": "Prolonged conflict could lead to long-term instability in the region, impacting global energy markets and trade routes",
+      "operational_impact": "Potential disruptions to shipping and air traffic in the region, increased security measures for cargo and personnel",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "e2807680e1a50488e5ed96c884a76d1b",
+    "timestamp": "2026-06-10T19:14:05.650730",
+    "original_title": "MEA summons US Charge d’Affaires Jason Meeks over attack on tanker off Oman coast, lodge strong protest",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1u278gt/mea_summons_us_charge_daffaires_jason_meeks_over/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 8,
+      "location": "Oman Coast",
+      "latitude": 22.0,
+      "longitude": 58.0,
+      "detailed_analysis": "An attack on a tanker off the Oman coast has led to a strong protest from MEA to the US Charge d’Affaires, indicating heightened tensions and potential for further conflict in the region, posing a significant threat to maritime assets and cargo.",
+      "immediate_forecast_24h": "Increased diplomatic tensions between the involved parties, potential for retaliatory actions, and heightened security measures in the region.",
+      "strategic_outlook": "Long-term implications for regional stability, potential escalation of US-Iran conflict, and impact on global oil markets and maritime trade.",
+      "operational_impact": "Increased risk for ships and tankers in the region, potential disruptions to oil supply chains, and heightened security protocols for vessels and personnel.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "9953ae3f9ac9e50d0d0092edb259a5cc",
+    "timestamp": "2026-06-10T19:14:09.323580",
+    "original_title": "Congolese doctors to go on strike amid Ebola outbreak",
+    "link": "http://www.africanews.com/2026/06/10/congolese-doctors-to-go-on-strike-amid-ebola-outbreak/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Democratic Republic of the Congo",
+      "latitude": -4.328,
+      "longitude": 15.3139,
+      "detailed_analysis": "The strike by Congolese doctors amid an Ebola outbreak poses a significant threat to the healthcare system and potentially to the general population, including personnel involved in aviation and cargo operations. The lack of medical care could exacerbate the outbreak, leading to increased risk of infection for those in the region.",
+      "immediate_forecast_24h": "The situation is likely to worsen in the short term as the strike continues, potentially leading to increased unrest and disruption of essential services, including those related to aviation and cargo.",
+      "strategic_outlook": "In the long term, the strike highlights deeper issues related to healthcare infrastructure, governance, and the response to public health crises in the Democratic Republic of the Congo. Resolving these issues is crucial to preventing future outbreaks and ensuring the stability of the region.",
+      "operational_impact": "The strike and the ongoing Ebola outbreak could impact aviation and cargo operations by reducing the availability of medical services for personnel, potentially disrupting supply chains, and increasing the risk of infection among travelers and cargo handlers.",
+      "proximity_alert": "YAKIN TEHDİT: N'djili Airport (3 km)"
+    }
   }
 ]
