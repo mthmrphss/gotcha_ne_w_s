@@ -1,8 +1,65 @@
 [
   {
-    "id": "6689a3f01e82cd3df9967d8005e4ce63",
-    "timestamp": "2026-06-10T04:21:32.296615",
-    "original_title": "Iran War Live Updates: U.S. Launches Strikes on Iran; Tehran Claims Attacks on U.S. Fleet",
+    "id": "f122716372260b3f50612635c3c4a979",
+    "timestamp": "2026-06-10T08:31:56.407622",
+    "original_title": "U.S. launches strikes on Iran after downing of Army helicopter, prompting retaliation - The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMWdvRUJXeEttQUppc3Z2YnF1ZEdwLXNBN085ekR4SUhDaXZocVNJQ3BnRlZPUWNOMHBxNHJzSmxGZExnU1VleDJNQm1uYlpNNkJsT3VXeHZGWTAtYjQ1NFAzM1VuNGwwWEsyRHBydzl6ZkFvTl9WQU1CN19rQ0xuWkZZcmFhNkM3SEtybU9FNUtYTDdzemVweW5FZkR1aDRBc0xaaUFBZTBSUnd2SkxNam8zZ01xemE3Rmx6YVpULV83b3ByZXZMVw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Iran, Middle East",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The U.S. has launched strikes on Iran in response to the downing of an Army helicopter, prompting retaliation from Iran. This escalation of conflict poses a significant threat to aviation and regional stability.",
+      "immediate_forecast_24h": "Increased military activity and potential for further retaliation from Iran, posing a high risk to aviation and transport in the region.",
+      "strategic_outlook": "The conflict may lead to a prolonged period of instability in the region, affecting transport and logistics, and potentially drawing in other nations.",
+      "operational_impact": "Potential disruption to air traffic, increased security measures, and possible restrictions on transport and logistics in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "1aa29fceeecdb1a941c657b6992ad3fd",
+    "timestamp": "2026-06-10T08:31:58.135759",
+    "original_title": "Anti-immigrant violence erupts across Belfast after knife attack - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUUZSLXVQNElRTl9hVGVMZzFGVDhnM3d0U0dFWi1RSWhJbEV5VlRMcmpoRW1aV2ZIZjVPc1k4bzZtTEZJX3J0Wm42SU56XzQ4R3NPdVFTYWdaVFJVekRTX19xS2d4aHhza1NucFEzT2VEN3I1YlNhbEFmWFRDMXpYMEtOWTVLaWFuakxGZDdrTk5mZnJxN0FsX0RsRTJKa0ZhaG1qeWpIQ1NtWGNod3c?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 6,
+      "location": "Belfast, Northern Ireland",
+      "latitude": 54.5973,
+      "longitude": -5.9301,
+      "detailed_analysis": "Anti-immigrant violence has erupted across Belfast following a knife attack, posing a significant threat to public safety and potentially disrupting transport and logistics operations in the area.",
+      "immediate_forecast_24h": "Increased tensions and potential for further clashes between rival groups, with a heightened risk of violence and unrest in the short term.",
+      "strategic_outlook": "The situation may escalate into a larger-scale conflict, potentially drawing in external actors and having long-term implications for regional stability and security.",
+      "operational_impact": "Potential disruptions to transport and logistics operations, including possible delays or cancellations of flights, and increased security measures at airports and other critical infrastructure.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "8c36b31edfcc3f340a76d102a29a50fb",
+    "timestamp": "2026-06-10T08:32:00.216239",
+    "original_title": "Calm urged after attack, arrest in N. Ireland - The Arkansas Democrat-Gazette",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTjREVDhRYWNZQnhkMDdIZXhFLVFhdjdQUnpxMU4tRktaUl80WFpYQklmNzk4N1cycVZmRVJYcGdIdHBBZ0k4SmRrUllUTkdSWU5jTmRkMUJnZkU3Y0xsZWtaNTNVU0FrWE1oUTl0YUxGUEtzMmVLTVdTaHZWb1k2QUtrNlZjZnprd3hjR2dxMk1ib203SEtJ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Civil Unrest/Terrorism",
+      "risk_score": 6,
+      "location": "Northern Ireland, UK",
+      "latitude": 54.5973,
+      "longitude": -5.9301,
+      "detailed_analysis": "An attack and subsequent arrest in Northern Ireland has prompted calls for calm, indicating potential for civil unrest and possible impact on local security and transport operations.",
+      "immediate_forecast_24h": "Tensions may remain high in the immediate area, with potential for further incidents or protests, but no specific threats to aviation, cargo, or major transport hubs have been reported.",
+      "strategic_outlook": "The situation in Northern Ireland could escalate if not managed properly, potentially affecting regional stability and transport security, but current information does not suggest a significant, immediate threat to major aviation or cargo operations.",
+      "operational_impact": "Local transport and logistics may experience minor disruptions due to increased security measures or public gatherings, but no major operational impact is anticipated at this time.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "4b860ed2f059369b362eacae468916f3",
+    "timestamp": "2026-06-10T08:32:03.185988",
+    "original_title": "U.S. Launches Strikes on Iran; Tehran Claims Attacks on U.S. Fleet",
     "link": "https://www.nytimes.com/live/2026/06/09/world/iran-war-trump-israel-lebanon",
     "source_name": "NewYork Times",
     "ai_analysis": {
@@ -11,74 +68,93 @@
       "location": "Strait of Hormuz, Iran",
       "latitude": 26.0,
       "longitude": 56.0,
-      "detailed_analysis": "The U.S. has launched strikes on Iran after a U.S. Apache helicopter was shot down near the Strait of Hormuz, and Tehran has claimed attacks on the U.S. fleet, indicating a significant escalation in conflict that could impact aviation and maritime operations in the region.",
-      "immediate_forecast_24h": "Increased military activity and potential for further retaliation, posing a high risk to aviation and maritime assets in the region.",
-      "strategic_outlook": "The conflict could lead to a prolonged period of instability in the region, affecting global oil supplies and trade routes, with potential long-term implications for aviation and logistics operations.",
-      "operational_impact": "Potential disruption to air and sea traffic in the region, increased security measures, and possible rerouting of flights and ships to avoid the conflict zone.",
+      "detailed_analysis": "The U.S. has launched strikes on Iran, and Tehran claims to have attacked the U.S. fleet, indicating a significant escalation in conflict. This situation poses a high risk to aviation and maritime assets in the region.",
+      "immediate_forecast_24h": "Increased military activity and potential for further retaliation are expected in the next 24 hours, posing a high risk to aviation and maritime operations in the region.",
+      "strategic_outlook": "The long-term implications of this conflict could lead to increased instability in the region, affecting global trade and logistics. The risk of miscalculation and unintended escalation remains high.",
+      "operational_impact": "Shipping and aviation operations in the region may be disrupted or suspended due to the conflict, and companies should consider alternative routes or contingency plans to mitigate potential losses.",
       "proximity_alert": null
     }
   },
   {
-    "id": "0ace5f856b9ceeb288e90a183c650f5f",
-    "timestamp": "2026-06-10T04:21:34.753416",
-    "original_title": "Sudan crisis worsens as civil war enters 4th year and Hormuz closure disrupts aid",
-    "link": "https://www.reddit.com/r/geopolitics/comments/1u1psou/sudan_crisis_worsens_as_civil_war_enters_4th_year/",
+    "id": "29264e2985801d7bd44aea23cb5c7671",
+    "timestamp": "2026-06-10T08:32:06.323097",
+    "original_title": "Only one in 10 Europeans now see US as an ally, survey suggests | Nato",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1u1swsk/only_one_in_10_europeans_now_see_us_as_an_ally/",
     "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest/Other",
+      "risk_score": 10,
+      "location": "Europe",
+      "latitude": 48.8567,
+      "longitude": 2.2945,
+      "detailed_analysis": "A recent survey suggests that only one in 10 Europeans see the US as an ally, indicating deep mistrust and a potential shift in geopolitical alliances. This could impact diplomatic relations, trade, and security cooperation.",
+      "immediate_forecast_24h": "No immediate security threats are expected, but diplomatic tensions may escalate in the short term.",
+      "strategic_outlook": "The erosion of trust between Europe and the US could have long-term implications for NATO and global security, potentially leading to a shift in power dynamics and alliances.",
+      "operational_impact": "The survey's findings may not have a direct impact on transport or logistics operations in the short term, but could lead to changes in security protocols, trade agreements, and diplomatic relations in the long term.",
+      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (1 km)"
+    }
+  },
+  {
+    "id": "482b2049bb991adcb40c8a0b861d1d8a",
+    "timestamp": "2026-06-10T08:32:09.212248",
+    "original_title": "Greece approves quicker migrant returns, aims to set up return hubs",
+    "link": "https://www.reddit.com/r/worldnews/comments/1u1ulap/greece_approves_quicker_migrant_returns_aims_to/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Border",
+      "risk_score": 5,
+      "location": "Greece",
+      "latitude": 39.0742,
+      "longitude": 21.8243,
+      "detailed_analysis": "Greece's approval of quicker migrant returns and plans to set up return hubs may lead to increased security measures at borders and potential disruptions to transport and logistics.",
+      "immediate_forecast_24h": "Increased migrant returns and potential protests or unrest at border areas.",
+      "strategic_outlook": "Long-term reduction in migrant flows and improved border security, but potential for ongoing social and political tensions.",
+      "operational_impact": "Potential delays or disruptions to ground and air transport, particularly at border crossings and areas with high migrant activity.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "f41df2106b8985f528594f9c58d1100c",
+    "timestamp": "2026-06-10T08:32:12.241302",
+    "original_title": "M23 and Rwandan army committed war crimes, HRW report alleges",
+    "link": "http://www.africanews.com/2026/06/10/m23-and-rwandan-army-committed-war-crimes-hrw-report-alleges/",
+    "source_name": "Africa News",
     "ai_analysis": {
       "category": "Conflict/Civil Unrest",
       "risk_score": 8,
-      "location": "Sudan",
-      "latitude": 12.8628,
-      "longitude": 30.2176,
-      "detailed_analysis": "The Sudan crisis is worsening as the civil war enters its fourth year, with nearly two out of every five people facing emergency-level hunger. The closure of the Strait of Hormuz has disrupted aid, exacerbating the humanitarian crisis.",
-      "immediate_forecast_24h": "The situation is likely to deteriorate further, with increased hunger and humanitarian needs. The disruption to aid deliveries will continue to impact the affected population.",
-      "strategic_outlook": "The long-term outlook is bleak, with the potential for the crisis to spread to neighboring countries. The international community may need to intervene to stabilize the region and provide humanitarian assistance.",
-      "operational_impact": "The crisis will impact transport and logistics in the region, with potential disruptions to air and sea routes. Aid deliveries will be severely impacted, and the risk of cargo theft or diversion is high.",
+      "location": "Eastern DR Congo",
+      "latitude": -1.569,
+      "longitude": 29.231,
+      "detailed_analysis": "The report by Human Rights Watch alleges that M23 and Rwandan army have committed war crimes in eastern DR Congo, posing a significant threat to assets, cargo, aviation, and personnel in the region.",
+      "immediate_forecast_24h": "Increased violence and instability are expected in the region, potentially disrupting transport and logistics operations.",
+      "strategic_outlook": "The conflict may escalate, leading to a long-term destabilization of the region and impacting trade and economic activities.",
+      "operational_impact": "Transport and logistics operations in the region may be severely impacted, with potential risks to cargo, assets, and personnel, including theft, hijacking, and violence.",
       "proximity_alert": null
     }
   },
   {
-    "id": "eb0e5b711f3d44c310388c189162ebd9",
-    "timestamp": "2026-06-10T04:21:37.076616",
-    "original_title": "Pentagon labels tech giant Alibaba and electric car maker BYD as aiding Chinese military",
-    "link": "https://www.reddit.com/r/worldnews/comments/1u1rizj/pentagon_labels_tech_giant_alibaba_and_electric/",
-    "source_name": "Reddit r/WorldNews",
+    "id": "ed6d3edd7cf945ba61410d16ac58fffa",
+    "timestamp": "2026-06-10T08:32:14.088719",
+    "original_title": "Malawian migrants in South Africa prepare for repatriation as protests continue",
+    "link": "http://www.africanews.com/2026/06/10/malawian-migrants-in-south-africa-prepare-for-repatriation-as-protests-continue/",
+    "source_name": "Africa News",
     "ai_analysis": {
-      "category": "Conflict/Cyber",
+      "category": "Civil Unrest/Border",
       "risk_score": 10,
-      "location": "Beijing, China",
-      "latitude": 39.9042,
-      "longitude": 116.4074,
-      "detailed_analysis": "The Pentagon has labeled tech giant Alibaba and electric car maker BYD as aiding the Chinese military, which could lead to increased tensions and potential cyber threats to global supply chains and logistics.",
-      "immediate_forecast_24h": "Increased scrutiny of Chinese tech companies and potential retaliatory measures from China, which could impact global trade and logistics in the short term.",
-      "strategic_outlook": "Long-term implications for global trade, logistics, and cybersecurity, as the US-China rivalry continues to escalate, potentially leading to a decoupling of global supply chains and increased investment in domestic technologies.",
-      "operational_impact": "Potential disruptions to global supply chains, increased cybersecurity threats, and changes to logistics and transportation operations, particularly for companies with ties to China or using Chinese technology.",
-      "proximity_alert": "YAKIN TEHDİT: Beijing Capital International Airport (25 km)"
+      "location": "Durban, South Africa",
+      "latitude": -29.85,
+      "longitude": 31.0167,
+      "detailed_analysis": "Xenophobic violence in South Africa is driving Malawian migrants to prepare for repatriation, which may lead to increased border activity and potential disruptions to transport and logistics in the region.",
+      "immediate_forecast_24h": "Protests and violence are likely to continue, posing a risk to personnel and assets in the affected areas, with potential for further migrant movements and border crossings.",
+      "strategic_outlook": "The ongoing xenophobic violence and migrant repatriation efforts may lead to long-term instability and security concerns in the region, affecting aviation, cargo, and personnel safety.",
+      "operational_impact": "Transport and logistics operations in the region may be impacted by the unrest, with potential for delays, route changes, or increased security measures to ensure personnel and asset safety.",
+      "proximity_alert": "YAKIN TEHDİT: King Shaka International Airport (1 km)"
     }
   },
   {
-    "id": "c1a402886f94d720048f9f6a6674d180",
-    "timestamp": "2026-06-10T04:21:38.884754",
-    "original_title": "Pakistan carries out new deadly strikes on Afghanistan: government officials",
-    "link": "https://www.reddit.com/r/worldnews/comments/1u1rfj3/pakistan_carries_out_new_deadly_strikes_on/",
-    "source_name": "Reddit r/WorldNews",
-    "ai_analysis": {
-      "category": "Conflict/Terrorism/Aviation",
-      "risk_score": 8,
-      "location": "Afghanistan/Pakistan border",
-      "latitude": 33.0,
-      "longitude": 70.0,
-      "detailed_analysis": "Pakistan has carried out new deadly strikes on Afghanistan, according to government officials. This escalation of violence poses a significant threat to aviation, cargo, and personnel in the region.",
-      "immediate_forecast_24h": "Increased tensions and potential for further military action along the Afghanistan-Pakistan border, potentially disrupting air traffic and logistics operations.",
-      "strategic_outlook": "Long-term instability and conflict in the region may lead to sustained disruptions to transport and logistics, with potential for spillover effects into neighboring countries.",
-      "operational_impact": "Potential for flight disruptions, cargo delays, and increased security measures for personnel and assets in the region. Aviation and logistics operators should exercise extreme caution and monitor the situation closely.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "e36a213bf1213ac6f2d11f013c7d1058",
-    "timestamp": "2026-06-10T04:21:41.761709",
-    "original_title": "US, Iran exchange airstrikes after Trump accuses Tehran of downing army helicopter",
+    "id": "2a1fa4537070c1d0dfacf8987fdef30d",
+    "timestamp": "2026-06-10T08:32:16.643798",
+    "original_title": "US, Iran exchange air strikes after Trump accuses Tehran of downing army helicopter",
     "link": "https://www.france24.com/en/middle-east/20260610-us-iran-airstrikes-trump-tehran-downing-army-helicopter",
     "source_name": "France 24 ME",
     "ai_analysis": {
@@ -87,17 +163,17 @@
       "location": "Strait of Hormuz, Middle East",
       "latitude": 26.0,
       "longitude": 56.0,
-      "detailed_analysis": "The US and Iran have exchanged airstrikes following the downing of a US Army helicopter near the Strait of Hormuz, which President Trump blamed on Tehran. Iran has denied responsibility and vowed to respond, indicating a heightened state of tension between the two nations.",
+      "detailed_analysis": "The US and Iran have exchanged air strikes following the downing of a US Army helicopter near the Strait of Hormuz, which President Trump blamed on Tehran. Iran has denied responsibility and vowed to respond, indicating a heightened state of tension between the two nations.",
       "immediate_forecast_24h": "Further escalation of military action between the US and Iran is possible in the next 24 hours, potentially affecting air and sea traffic in the region.",
-      "strategic_outlook": "The conflict may lead to a prolonged period of instability in the region, impacting global oil supplies and trade routes. The situation may also draw in other nations, further complicating the conflict.",
-      "operational_impact": "The airstrikes and potential for further conflict may disrupt air and sea traffic in the region, posing a significant risk to aviation and cargo operations. Shipping and logistics companies should exercise caution and consider alternative routes to minimize the risk of disruption or attack.",
+      "strategic_outlook": "The conflict has the potential to disrupt global oil supplies and impact international trade, particularly in the Middle East. The situation may lead to increased security measures and potential restrictions on air and sea travel.",
+      "operational_impact": "The exchange of air strikes may impact aviation and shipping operations in the region, with potential delays or disruptions to cargo transport and personnel movement.",
       "proximity_alert": null
     }
   },
   {
-    "id": "571fac4cd8b69c4dd98e898a54af5cf1",
-    "timestamp": "2026-06-10T04:21:43.676416",
-    "original_title": "Middle East live: Iran missiles target US bases in Jordan and Bahrain, Revolutionary Guards say",
+    "id": "332e41264f0986c2cea0e756eef4444b",
+    "timestamp": "2026-06-10T08:32:18.564644",
+    "original_title": "Middle East live: Iranian missiles target US bases in Jordan and Bahrain, Revolutionary Guards say",
     "link": "https://www.france24.com/en/middle-east/20260610-middle-east-live-iran-s-revolutionary-guards-say-missiles-targeted-us-base-in-jordan-and-bahrain",
     "source_name": "France 24 ME",
     "ai_analysis": {
@@ -107,29 +183,10 @@
       "latitude": 32.0,
       "longitude": 45.0,
       "detailed_analysis": "Iran's Revolutionary Guards have launched missile strikes against US bases in Jordan and Bahrain, significantly escalating tensions in the region and posing a direct threat to aviation and personnel safety.",
-      "immediate_forecast_24h": "Increased military activity and heightened alert levels are expected in the region, with potential for further retaliatory strikes or clashes, impacting air travel and logistics.",
-      "strategic_outlook": "The long-term implications of these strikes could lead to sustained conflict, affecting regional stability, global oil prices, and international relations, with potential for broader conflict escalation.",
+      "immediate_forecast_24h": "Increased military activity and heightened alert levels are expected in the region, with potential for further retaliatory strikes or clashes, affecting air travel and logistics.",
+      "strategic_outlook": "The long-term implications of these attacks could lead to sustained conflict, impacting regional stability, global oil prices, and international relations, with potential for broader conflict escalation.",
       "operational_impact": "Immediate operational impacts include potential disruptions to air travel, increased security measures at airports and military bases, and heightened vigilance for cargo and personnel movements in the region.",
       "proximity_alert": null
-    }
-  },
-  {
-    "id": "38d549d362a6a976cbd8b8e18af42eb8",
-    "timestamp": "2026-06-10T04:21:45.443444",
-    "original_title": "US Congress approves $70 billion bill to fund Trump’s immigration crackdown",
-    "link": "https://www.france24.com/en/americas/20260610-us-congress-approves-70-billion-trump-immigration-crackdown",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Border",
-      "risk_score": 10,
-      "location": "Washington D.C., USA",
-      "latitude": 38.8951,
-      "longitude": -77.0364,
-      "detailed_analysis": "The US Congress has approved a $70 billion funding bill for President Trump's immigration agenda, which may lead to increased security measures at the US-Mexico border, potentially affecting migrant flows and transport logistics.",
-      "immediate_forecast_24h": "No immediate disruptions to transport or logistics are expected, but increased security presence at the border may cause minor delays.",
-      "strategic_outlook": "The long-term impact of the funding bill may lead to increased security measures, potentially reducing the risk of stowaways and border breaches affecting transport, but may also lead to increased tensions and protests at the border.",
-      "operational_impact": "Transport and logistics companies operating near the US-Mexico border should be prepared for potential delays and increased security checks, but the overall impact is expected to be minimal.",
-      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
     }
   }
 ]
