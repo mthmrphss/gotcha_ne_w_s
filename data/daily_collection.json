@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "id": "f5e79dd5e6df39156d2e7bca9905f5ae",
+    "timestamp": "2026-06-11T22:09:12.502597",
+    "original_title": "Strike, Counterstrike, Repeat",
+    "link": "https://warontherocks.com/strike-counterstrike-repeat/",
+    "source_name": "War on the Rocks",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "Lebanon/Middle East",
+      "latitude": 33.8547,
+      "longitude": 35.8623,
+      "detailed_analysis": "Increased hostilities between Israel and Hizballah in Lebanon, with Iran trading direct strikes, pose a significant threat to aviation and regional stability.",
+      "immediate_forecast_24h": "Escalation of violence and potential for further strikes between Israel and Iran, affecting air travel and logistics in the region.",
+      "strategic_outlook": "Prolonged conflict could lead to increased instability in the Middle East, impacting global supply chains and aviation security.",
+      "operational_impact": "Potential disruptions to air traffic, increased security measures, and heightened risk of attacks on aviation assets and personnel.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "beb226629614ac47a6fb83bbf8a98982",
+    "timestamp": "2026-06-11T22:09:15.443297",
+    "original_title": "'Civilians will be put in harm's way' expert warns as first autonomous drone kills revealed",
+    "link": "https://www.france24.com/en/tv-shows/a-propos/20260611-civilians-will-be-put-in-harm-s-way-expert-warns-as-first-autonomous-drone-kill-revealed",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 8,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "The use of fully autonomous drones with confirmed casualties poses a significant threat to aviation and personnel safety, as these systems are indiscriminate and can target anyone, including civilians and non-combatants.",
+      "immediate_forecast_24h": "Increased risk of drone-related incidents and potential escalation of conflict, with civilians being put in harm's way.",
+      "strategic_outlook": "The development and deployment of autonomous drones could lead to a significant shift in the nature of modern warfare, with potential long-term implications for global security and stability.",
+      "operational_impact": "Potential disruption to air traffic and logistics, with increased risk of accidents and incidents involving autonomous drones, and potential for significant harm to personnel and assets.",
+      "proximity_alert": null
+    }
+  }
+]
