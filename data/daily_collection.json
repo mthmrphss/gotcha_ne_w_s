@@ -397,5 +397,62 @@
       "operational_impact": "Potential disruptions to air travel, increased security screening, and enhanced surveillance measures for the 2026 World Cup and other high-profile events",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "ff1d3491e6ec6d2c8c7aa94fc12c4b77",
+    "timestamp": "2026-06-12T21:14:27.296462",
+    "original_title": "American Airlines Flight Struck by Lightning Forced to Make U-Turn - People.com",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdVdsd25hYk5HVWZkQU9XRHh3Ql83SVVSMWVHV3R1X3FLc09qVHlPeWx1SXpEdDJOc3ZFRlpTOVVWa3pjTUp6bkJ4QV9zbEFjMl94ZWd5OUt6d1dtMzVfMHBpUV96NGVIVm00RU4yeFpJaDVJekctM1gtaElrTmg0cnRMY1ZQemVrNU93S1lB?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 6,
+      "location": "Unknown, USA",
+      "latitude": 37.0902,
+      "longitude": -95.7129,
+      "detailed_analysis": "An American Airlines flight was struck by lightning and forced to make a U-turn, posing a significant threat to the safety of the passengers and crew on board.",
+      "immediate_forecast_24h": "The flight will likely undergo a thorough inspection and maintenance check to ensure its airworthiness before resuming operations.",
+      "strategic_outlook": "The incident highlights the importance of lightning protection and safety measures in aviation, and airlines may need to review and update their protocols to mitigate such risks in the future.",
+      "operational_impact": "The incident may cause delays or disruptions to American Airlines' operations, potentially affecting cargo and passenger transport, but the impact is expected to be minimal and short-term.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "f8e419e4ebb782dd0db160896dcaa60f",
+    "timestamp": "2026-06-12T21:14:30.061166",
+    "original_title": "Protesters denounce insecurity as police disperse march in Abuja",
+    "link": "http://www.africanews.com/2026/06/12/protesters-denounce-insecurity-as-police-disperse-march-in-abuja/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Abuja, Nigeria",
+      "latitude": 9.0765,
+      "longitude": 7.3989,
+      "detailed_analysis": "Protesters are denouncing insecurity and a surge in kidnappings, with police deployed in large numbers to disperse the march, indicating potential for further unrest and disruptions to transport and logistics",
+      "immediate_forecast_24h": "Further protests and clashes between protesters and police are possible, with potential for roadblocks and disruptions to transport",
+      "strategic_outlook": "The situation may escalate if the government does not address the underlying issues of insecurity and kidnappings, leading to prolonged unrest and instability in the region",
+      "operational_impact": "Potential disruptions to transport and logistics, particularly road transport, with possible delays and increased security measures",
+      "proximity_alert": "YAKIN TEHDİT: Nnamdi Azikiwe International Airport (15 km)"
+    }
+  },
+  {
+    "id": "e25225f842181f1ea90e80f8a410ce1f",
+    "timestamp": "2026-06-12T21:14:32.065402",
+    "original_title": "Former Tory MP and military officer on Keir Starmer's 'rope-a-dope' week",
+    "link": "https://www.france24.com/en/tv-shows/spotlight/20260612-former-tory-mp-and-military-officer-on-keir-starmer-s-rope-a-dope-week",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Politics",
+      "risk_score": 10,
+      "location": "London, United Kingdom",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "detailed_analysis": "The British government is facing internal strife due to the resignation of key defense officials, potentially impacting national security and defense spending. However, there is no direct threat to assets, cargo, aviation, or personnel mentioned in the context.",
+      "immediate_forecast_24h": "The situation is likely to remain fluid with potential further developments in the British government's defense strategy and leadership.",
+      "strategic_outlook": "The long-term implications of this event may include changes in the UK's defense policy and spending, potentially affecting its ability to respond to external threats.",
+      "operational_impact": "No immediate operational impact on transport or logistics is expected from this event.",
+      "proximity_alert": "YAKIN TEHDİT: Heathrow Airport (23 km)"
+    }
   }
 ]
