@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "id": "aa1d0a6289ebb13ef8f3f9663b21234c",
+    "timestamp": "2026-06-12T05:16:32.475702",
+    "original_title": "Middle East live: US forces shoot down Iranian drones near Strait of Hormuz",
+    "link": "https://www.france24.com/en/middle-east/20260612-middle-east-live-us-forces-shoot-down-iranian-drones-near-strait-of-hormuz",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Strait of Hormuz, Middle East",
+      "latitude": 26.0,
+      "longitude": 56.0,
+      "detailed_analysis": "US forces shot down two Iranian drones near the Strait of Hormuz, indicating a heightened threat to commercial ships and aviation in the region.",
+      "immediate_forecast_24h": "Increased military presence and surveillance in the area, potential for further drone sightings or attacks.",
+      "strategic_outlook": "Escalating tensions between the US and Iran may lead to prolonged instability in the region, affecting maritime and air transport.",
+      "operational_impact": "Potential disruptions to shipping lanes, increased security measures for commercial flights, and heightened risk of attacks on personnel and assets in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "4d11bd722a186e329ef7344cc934d33b",
+    "timestamp": "2026-06-12T05:16:36.398409",
+    "original_title": "Lufthansa Airbus A380 Superjumbo With As Many As 499 Passengers On Board Diverts to Boston After Passengers Attacks Seatmate",
+    "link": "https://www.paddleyourownkanoo.com/2026/06/12/lufthansa-airbus-a380-superjumbo-with-as-many-as-499-passengers-on-board-diverts-to-boston-after-passengers-attacks-seatmate/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Aviation/Crime/Civil Unrest",
+      "risk_score": 10,
+      "location": "Boston, USA",
+      "latitude": 42.3601,
+      "longitude": -71.0596,
+      "detailed_analysis": "A Lufthansa Airbus A380 with 508 people on board was forced to divert to Boston Logan International Airport due to an unruly passenger attacking a seatmate, posing a threat to the safety of passengers and crew.",
+      "immediate_forecast_24h": "The situation is likely to be contained, with the unruly passenger being taken into custody and the flight resuming or being re-routed. However, there may be delays and disruptions to the flight schedule.",
+      "strategic_outlook": "The incident highlights the need for airlines to enhance their security measures and protocols for dealing with unruly passengers, as well as the importance of passenger screening and behavioral monitoring.",
+      "operational_impact": "The diversion of the flight may cause delays and disruptions to the travel plans of passengers, as well as potential losses for the airline. Additionally, the incident may lead to increased security measures and screening procedures at airports, potentially affecting the efficiency of air travel.",
+      "proximity_alert": "YAKIN TEHDİT: General Edward Lawrence Logan International Airport (0 km)"
+    }
+  }
+]
