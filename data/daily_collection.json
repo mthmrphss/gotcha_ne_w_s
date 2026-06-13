@@ -74,5 +74,43 @@
       "operational_impact": "The disruptions will impact transport and logistics operations, particularly for time-sensitive cargo and passengers, with potential knock-on effects on supply chains and business operations.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "194c9e3eacfcd1af51632e3aaabbb73a",
+    "timestamp": "2026-06-13T08:38:14.063431",
+    "original_title": "DRC: Rally against constitution change plan turns violent",
+    "link": "http://www.africanews.com/2026/06/13/drc-rally-against-constitution-change-plan-turns-violent/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Kinshasa, Democratic Republic of the Congo",
+      "latitude": -4.32,
+      "longitude": 15.3,
+      "detailed_analysis": "A rally against government plans to change the constitution turned violent, with clashes between opposition and pro-government supporters, resulting in injuries to two opposition figures. The situation may escalate further, potentially affecting the stability of the region and impacting transport and logistics operations.",
+      "immediate_forecast_24h": "Increased tensions and potential for further clashes between opposition and pro-government groups, with a possibility of police intervention. This may lead to disruptions in traffic and transport operations in the affected areas.",
+      "strategic_outlook": "The situation may lead to a prolonged period of civil unrest, potentially affecting the overall stability of the country and the region. This could have long-term implications for transport and logistics operations, including potential disruptions to supply chains and increased security risks.",
+      "operational_impact": "The unrest may impact road transport and logistics operations in the Democratic Republic of the Congo, particularly in the Kinshasa area. There is a potential for disruptions to supply chains, increased security risks, and potential delays or cancellations of transport operations.",
+      "proximity_alert": "YAKIN TEHDİT: N'djili Airport (4 km)"
+    }
+  },
+  {
+    "id": "c269212d7d9ea1522f276c242163cff2",
+    "timestamp": "2026-06-13T08:38:16.109866",
+    "original_title": "Venezuela says leader of Tren de Aragua gang killed in 'joint operation' with US",
+    "link": "https://www.france24.com/en/americas/20260613-venezuela-says-leader-of-tren-de-aragua-killed-in-joint-operation-with-us",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Crime/Conflict",
+      "risk_score": 6,
+      "location": "Southern Venezuela",
+      "latitude": 7.0,
+      "longitude": -67.0,
+      "detailed_analysis": "The killing of the Tren de Aragua gang leader in a joint operation with the US may lead to a power vacuum, potentially increasing crime and violence in the region, which could impact cargo and personnel security.",
+      "immediate_forecast_24h": "Potential for retaliatory attacks or increased gang activity in the short term, but the situation is likely to remain contained due to the joint operation.",
+      "strategic_outlook": "Long-term reduction in gang activity and crime in the region is possible, but depends on sustained efforts by Venezuelan and US authorities to maintain pressure on criminal organizations.",
+      "operational_impact": "Increased security measures may be necessary for cargo and personnel moving through the region, particularly in areas known to be controlled by the Tren de Aragua gang or other criminal organizations.",
+      "proximity_alert": null
+    }
   }
 ]
