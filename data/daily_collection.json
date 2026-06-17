@@ -188,5 +188,62 @@
       "operational_impact": "Potential disruptions to cargo transport, increased risk of theft and kidnapping, and heightened security measures may be necessary to mitigate the risks associated with the surge in gang violence.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "35ba3dea9093a7c33892e42d917ccbd8",
+    "timestamp": "2026-06-17T10:15:59.447720",
+    "original_title": "Ukraine Tries to Cut Off Crimea, Choking Russian Supply Routes",
+    "link": "https://www.nytimes.com/2026/06/17/world/europe/russia-ukraine-crimea-fuel-shortages.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Ukraine, Crimea",
+      "latitude": 45.0,
+      "longitude": 34.0,
+      "detailed_analysis": "Targeted attacks on supply routes in Ukraine have caused gasoline shortages, indicating a significant disruption to logistics and potential threat to assets, cargo, and personnel in the region.",
+      "immediate_forecast_24h": "Increased tensions and potential for further attacks on supply routes, leading to heightened security measures and possible disruptions to transport and logistics.",
+      "strategic_outlook": "Long-term impact on regional stability and security, with potential for escalation of conflict and further disruptions to trade and commerce.",
+      "operational_impact": "High risk of delays and disruptions to transport and logistics operations, with potential for increased costs and reduced efficiency due to security measures and supply chain disruptions.",
+      "proximity_alert": "YAKIN TEHDİT: Simferopol International Airport (4 km)"
+    }
+  },
+  {
+    "id": "184fb7f1099029ad7c8d3d4e746d6ea9",
+    "timestamp": "2026-06-17T10:16:02.482456",
+    "original_title": "Ramaphosa defends South Africa amid rising anti-immigrant tensions",
+    "link": "http://www.africanews.com/2026/06/17/ramaphosa-defends-south-africa-amid-rising-anti-immigrant-tensions/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Civil Unrest/Border",
+      "risk_score": 6,
+      "location": "South Africa",
+      "latitude": -30.0,
+      "longitude": 25.0,
+      "detailed_analysis": "Rising anti-immigrant tensions in South Africa pose a threat to the safety of personnel and cargo, particularly in logistics and transportation. The unrest and violence may lead to disruptions in supply chains and potentially affect border crossings.",
+      "immediate_forecast_24h": "Increased protests and potential clashes between migrants and locals, with a possibility of disruptions to transportation and logistics operations.",
+      "strategic_outlook": "Long-term instability and security concerns may arise if the situation is not addressed, potentially affecting the country's economy and investment climate.",
+      "operational_impact": "Transportation and logistics companies should exercise caution when operating in South Africa, considering alternative routes and contingency plans to minimize disruptions and ensure the safety of personnel and cargo.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "bfa3a98eff40a755e7bf8c2ddc18b742",
+    "timestamp": "2026-06-17T10:16:04.371499",
+    "original_title": "DR Congo Ebola outbreak could become worst in history as thousands not being traced",
+    "link": "https://www.france24.com/en/dr-congo-ebola-outbreak-could-become-worst-in-history-as-thousands-not-being-traced",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Other",
+      "risk_score": 8,
+      "location": "Democratic Republic of Congo",
+      "latitude": -4.0,
+      "longitude": 21.0,
+      "detailed_analysis": "The Ebola outbreak in the Democratic Republic of Congo poses a significant threat to personnel and potentially cargo, as the disease could spread to areas with high aviation and logistics activity, disrupting operations and putting people at risk.",
+      "immediate_forecast_24h": "The situation is likely to worsen in the short term, with the number of cases and contacts increasing, and the potential for further spread to other areas or countries.",
+      "strategic_outlook": "The long-term outlook is concerning, as the outbreak could become the worst in history, with significant implications for global health security, trade, and economic stability.",
+      "operational_impact": "The outbreak may impact transport and logistics operations in the region, particularly in the aviation and healthcare sectors, with potential disruptions to supply chains, and increased risk of infection for personnel.",
+      "proximity_alert": null
+    }
   }
 ]
