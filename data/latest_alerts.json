@@ -1,21 +1,97 @@
 [
   {
-    "id": "7597f4f531919d1c225e4556bfb166b8",
-    "timestamp": "2026-06-21T07:01:56.915110",
-    "original_title": "Middle East live: US Vice President JD Vance arrives in Switzerland for Iran peace talks",
-    "link": "https://www.france24.com/en/middle-east/20260621-middle-east-live-us-vice-president-jd-vance-arrives-in-switzerland-for-iran-peace-talks",
+    "id": "aaade0c4153340d135b9bce50ae28495",
+    "timestamp": "2026-06-21T10:53:03.825810",
+    "original_title": "Luxury Kushner Project Collides With Albanian Discontent",
+    "link": "https://www.nytimes.com/2026/06/21/world/europe/albania-kushner-project-protests.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Tirana, Albania",
+      "latitude": 41.3275,
+      "longitude": 19.8189,
+      "detailed_analysis": "Protests in Albania against a luxury tourist site development have the potential to cause disruptions to local transportation and logistics, but there is no indication of a direct threat to aviation, cargo, or personnel at this time.",
+      "immediate_forecast_24h": "Protests are likely to continue, potentially causing traffic disruptions and delays in the local area, but no significant escalation is expected in the next 24 hours.",
+      "strategic_outlook": "The situation is being driven by local politics and opposition to the development project, and as such, the impact on regional security and transport is expected to remain limited.",
+      "operational_impact": "Minimal impact on transport and logistics is expected, with potential for local traffic disruptions and delays, but no significant effect on aviation, cargo, or personnel security.",
+      "proximity_alert": "YAKIN TEHDİT: Tirana International Airport (0 km)"
+    }
+  },
+  {
+    "id": "bbb84047be6b8ee1c9d6bfc52d67452a",
+    "timestamp": "2026-06-21T10:53:06.984735",
+    "original_title": "Niger and Benin discuss normalising relations between two countries",
+    "link": "http://www.africanews.com/2026/06/21/niger-and-benin-discuss-normalising-relations-between-two-countries/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Border/Conflict",
+      "risk_score": 10,
+      "location": "Cotonou, Benin",
+      "latitude": 6.3667,
+      "longitude": 2.4333,
+      "detailed_analysis": "High-level talks between Niger and Benin to normalize relations and reopen their shared border may reduce tensions, but the situation remains volatile and could impact transport and logistics in the region.",
+      "immediate_forecast_24h": "Low likelihood of immediate disruptions, but ongoing negotiations may lead to changes in border crossing procedures or security measures.",
+      "strategic_outlook": "Successful normalization of relations could lead to increased trade and cooperation between the two countries, improving the overall security and stability of the region.",
+      "operational_impact": "Potential for changes in border crossing procedures, security measures, or transport regulations, which could impact cargo and personnel movement in the short term.",
+      "proximity_alert": "YAKIN TEHDİT: Cardinal Bernadin Gantin International Airport (0 km)"
+    }
+  },
+  {
+    "id": "e2f60a6ef60acb82ada46a73075045e0",
+    "timestamp": "2026-06-21T10:53:09.116858",
+    "original_title": "Iran says Strait of Hormuz closed again after Israeli attacks on Lebanon",
+    "link": "http://www.africanews.com/2026/06/21/iran-says-strait-of-hormuz-closed-again-after-israeli-attacks-on-lebanon/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "Strait of Hormuz, Iran",
+      "latitude": 26.0,
+      "longitude": 56.0,
+      "detailed_analysis": "The closure of the Strait of Hormuz due to Israeli attacks on Lebanon poses a significant threat to aviation and cargo transport in the region. The conflict may lead to increased military presence, potentially disrupting air traffic and shipping lanes.",
+      "immediate_forecast_24h": "Increased tensions and potential for further military action in the region, with possible disruptions to air and sea traffic. Cargo and aviation operations may be impacted, with potential delays or rerouting of flights and ships.",
+      "strategic_outlook": "Long-term instability in the region may lead to sustained disruptions to global supply chains, with potential economic and security implications. The conflict may also lead to increased security measures, including enhanced surveillance and military presence, to protect assets and personnel.",
+      "operational_impact": "Potential disruptions to air and sea traffic, with possible delays or rerouting of flights and ships. Cargo operations may be impacted, with potential theft or damage to goods. Personnel may be at risk due to increased military presence and potential for further conflict.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "0090e07a705a61e46ca1a4073418d89d",
+    "timestamp": "2026-06-21T10:53:11.033617",
+    "original_title": "Zelensky stripped of Poland's top award amid diplomatic spat",
+    "link": "https://www.france24.com/en/zelensky-stripped-of-poland-s-top-award-amid-diplomatic-spat",
     "source_name": "France 24 ME",
     "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 7,
-      "location": "Switzerland",
-      "latitude": 46.7984,
-      "longitude": 8.2319,
-      "detailed_analysis": "US Vice President JD Vance's arrival in Switzerland for Iran peace talks amid rising tensions in the Middle East, including the closure of the Strait of Hormuz, poses a significant threat to regional stability and potentially to aviation and cargo operations.",
-      "immediate_forecast_24h": "Increased diplomatic efforts are expected, but the situation remains volatile, with potential for escalation in the Middle East, affecting air travel and cargo shipments.",
-      "strategic_outlook": "A long-term resolution to the conflict could lead to increased stability in the region, but the current situation poses significant risks to aviation, cargo, and personnel, with potential for disruptions to global supply chains.",
-      "operational_impact": "Potential disruptions to air travel, cargo shipments, and logistics operations in the region, with possible increased security measures and restrictions on movement.",
-      "proximity_alert": null
+      "category": "Conflict/Civil Unrest/Other",
+      "risk_score": 10,
+      "location": "Kiev, Ukraine",
+      "latitude": 50.4501,
+      "longitude": 30.5236,
+      "detailed_analysis": "Diplomatic spat between Ukraine and Poland due to renaming of a military unit, potential for increased tensions but no direct threat to assets, cargo, aviation, or personnel",
+      "immediate_forecast_24h": "Tensions may escalate, but no immediate action expected",
+      "strategic_outlook": "Long-term relations between Ukraine and Poland may be strained, potentially affecting trade and cooperation",
+      "operational_impact": "No direct impact on transport or logistics expected, but increased tensions may lead to heightened security measures",
+      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
+    }
+  },
+  {
+    "id": "ebe9a92be545264d4786dc7dd8a6952f",
+    "timestamp": "2026-06-21T10:53:13.150129",
+    "original_title": "Israel and Hezbollah trade fire, as US-Iran talks begin in Switzerland",
+    "link": "https://www.france24.com/en/israel-and-hezbollah-trade-fire-as-us-iran-talks-begin-in-switzerland",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 10,
+      "location": "Lebanon/Israel/Switzerland",
+      "latitude": 33.8667,
+      "longitude": 35.5333,
+      "detailed_analysis": "The exchange of fire between Israel and Hezbollah, coupled with the Strait of Hormuz being declared shut by the Iranian Revolutionary Guards, poses a significant threat to aviation and cargo operations in the region. The ongoing conflict and tensions may lead to disruptions in air travel and logistics.",
+      "immediate_forecast_24h": "Escalation of violence between Israel and Hezbollah, potentially affecting air traffic and cargo shipments. The US-Iran talks in Switzerland may influence the situation, but the outcome is uncertain.",
+      "strategic_outlook": "The conflict in Lebanon and the US-Iran talks may have long-term implications for regional stability, affecting aviation and cargo operations. A halt in fighting in Lebanon is conditional to the agreement, which may lead to a decrease in tensions.",
+      "operational_impact": "Potential disruptions to air travel, cargo shipments, and logistics operations in the region. Airlines and cargo operators may need to reroute flights or adjust their schedules to avoid the affected areas.",
+      "proximity_alert": "YAKIN TEHDİT: Beirut–Rafic Hariri International Airport (3 km)"
     }
   }
 ]
