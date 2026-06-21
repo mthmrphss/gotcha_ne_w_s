@@ -340,5 +340,81 @@
       "operational_impact": "Potential disruption to air traffic, increased security measures for cargo and personnel, and heightened vigilance for drone-related threats in the region.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "4761acfcfb8b0897fa6382e803110ae6",
+    "timestamp": "2026-06-21T19:03:01.111741",
+    "original_title": "3 killed when private plane that took off from OCNJ crashes into Maryland woods: Officials - 6abc Philadelphia",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOExHLXJzajFoM2U3bmNaOVhMMEZRQ1lWQk5ObE41S3AzZUtYbVBmSUNhdi1WWjdTR2lfSXF4SVREdkZTZUlMS3VsMTRMY1QtX3JaZnFUNGdZVjJwc3E0LUZ4Ry1nMnhvc1JDOUJFOVRsZnZBWkVMNmtuOFFtaVltbFJhOWxqYVY5WFk2d3p5M28xc3JWNkRz?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Maryland, USA",
+      "latitude": 39.0639,
+      "longitude": -76.8021,
+      "detailed_analysis": "A private plane crashed into Maryland woods, resulting in 3 fatalities. The incident occurred after the plane took off from OCNJ, indicating a potential risk to aviation safety and security.",
+      "immediate_forecast_24h": "Investigations into the cause of the crash are expected to begin immediately. There may be disruptions to air traffic in the surrounding area as authorities work to determine the circumstances of the incident.",
+      "strategic_outlook": "The crash highlights the importance of maintaining rigorous safety standards in private aviation. Regulatory bodies may re-examine safety protocols to prevent similar incidents in the future.",
+      "operational_impact": "The incident may lead to increased scrutiny of private plane operations, potentially resulting in more stringent safety regulations and inspections, which could impact the operational efficiency of private aviation services.",
+      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (27 km)"
+    }
+  },
+  {
+    "id": "6f414ca95e51d17eef7d553c1bb71526",
+    "timestamp": "2026-06-21T19:03:04.822567",
+    "original_title": "As Vance Offers Iran ‘Outstretched Hand’ in Talks, Trump Threatens Bombing",
+    "link": "https://www.nytimes.com/2026/06/21/world/middleeast/vance-iran-talks-trump.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 7,
+      "location": "Switzerland",
+      "latitude": 46.7984,
+      "longitude": 8.2319,
+      "detailed_analysis": "The United States and Iran are engaged in nuclear negotiations in Switzerland, with the US administration sending mixed signals, including a threat of bombing from Trump, which could escalate tensions and impact aviation security.",
+      "immediate_forecast_24h": "Increased tensions between the US and Iran may lead to heightened security measures at airports and potential disruptions to air travel in the region.",
+      "strategic_outlook": "Prolonged tensions between the US and Iran could lead to a destabilization of the region, affecting air travel and cargo transport, with potential long-term implications for global security and trade.",
+      "operational_impact": "Potential disruptions to air travel, increased security screening, and possible delays or cancellations of flights in the region, which could impact personnel, cargo, and aviation operations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "43ec75038e2f9613678765b0e4e15b1e",
+    "timestamp": "2026-06-21T19:03:07.429077",
+    "original_title": "Ukraine steps up drone campaign to isolate Crimea",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1ubwpp1/ukraine_steps_up_drone_campaign_to_isolate_crimea/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 10,
+      "location": "Crimea, Ukraine",
+      "latitude": 45.0,
+      "longitude": 34.0,
+      "detailed_analysis": "Ukraine has increased its drone campaign to isolate Crimea, which poses a significant threat to aviation and regional stability. The use of drones can potentially disrupt air traffic and pose a risk to aircraft.",
+      "immediate_forecast_24h": "Increased drone activity is expected in the region, which may lead to heightened security measures and potential disruptions to air travel.",
+      "strategic_outlook": "The escalation of drone attacks may lead to a prolonged conflict, affecting the regional security landscape and potentially impacting global supply chains.",
+      "operational_impact": "The drone campaign may impact air cargo operations, personnel safety, and overall logistics in the region, requiring enhanced security protocols and contingency planning.",
+      "proximity_alert": "YAKIN TEHDİT: Simferopol International Airport (4 km)"
+    }
+  },
+  {
+    "id": "d7f7f885dab96b886f38cd2207b103d4",
+    "timestamp": "2026-06-21T19:03:10.927920",
+    "original_title": "Trump threatens to strike Iran over support for Hezbollah as fighting continues in Lebanon",
+    "link": "https://www.france24.com/en/trump-threatens-to-strike-iran-over-support-for-hezbollah-as-fighting-continues-in-lebanon",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "Lebanon/Iran",
+      "latitude": 33.8667,
+      "longitude": 35.8333,
+      "detailed_analysis": "US President Donald Trump's threat to strike Iran over its support for Hezbollah poses a significant risk to regional stability, particularly in Lebanon where fighting continues. The memorandum of understanding between the US and Iran may not hold, given the ongoing Israeli strikes on Lebanon in response to projectiles fired by the Iran-backed group.",
+      "immediate_forecast_24h": "Escalation of violence in Lebanon, potential for US-Iran conflict, and disruption to air travel in the region",
+      "strategic_outlook": "Long-term instability in the Middle East, increased risk of terrorism, and potential for broader conflict involving multiple countries",
+      "operational_impact": "Disruption to air cargo and passenger flights, potential for airport closures, and increased security measures for transport and logistics operations in the region",
+      "proximity_alert": null
+    }
   }
 ]
