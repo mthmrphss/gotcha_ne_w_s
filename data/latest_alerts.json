@@ -1,21 +1,40 @@
 [
   {
-    "id": "fb22b6b327dcc4894c5c262977e27d9a",
-    "timestamp": "2026-06-22T19:53:56.228693",
-    "original_title": "Shooting in Montreal Jewish neighbourhood leaves three dead, including suspect",
-    "link": "https://www.france24.com/en/americas/20260622-shooting-montreal-jewish-neighbourhood-leaves-three-dead-including-suspect",
-    "source_name": "France 24 ME",
+    "id": "b40493ba45eff49ad27230f69a9ac3bf",
+    "timestamp": "2026-06-22T22:08:39.577370",
+    "original_title": "Jewish Man, Police Officer Killed in Montreal Shooting Attack; Motive Still Unannounced - Combat Antisemitism Movement",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYTBMbEV3VmU4OWNWcnZPM0h2QVY0TTlINkRQRWl0NFhpX1ZHbGFCYlZ6TUUySDlxLXpxY243aTRVNk9kR0pfdS1QdjJkREg3UWdCbFBqV2VMTmh4OHdIbVI3OEozc1pMZmNxbG92R0VzeGc4M1FfdXc5ZzRkNFdidU9BcVh4a0dYQmJzTTRLalJ0bkc1Zll5YzNzeDRneG1CZ3k2OW1KeVVQTU93UDVGQVdMQ1JLNXdDVUl1S2tkaEdLUE0?oc=5",
+    "source_name": "Google News (Breaking)",
     "ai_analysis": {
-      "category": "Civil Unrest/Crime",
+      "category": "Terrorism/Crime/Civil Unrest",
       "risk_score": 10,
       "location": "Montreal, Canada",
       "latitude": 45.5167,
-      "longitude": -73.5833,
-      "detailed_analysis": "A shooting in a Jewish neighbourhood in Montreal resulted in three fatalities, including the suspect. The incident may indicate heightened tensions or potential for further violence in the area.",
-      "immediate_forecast_24h": "Increased police presence and potential for further incidents or protests in the affected area. No immediate indication of a broader threat to aviation, cargo, or personnel.",
-      "strategic_outlook": "Potential for long-term increased security measures in sensitive areas, such as places of worship or community centers. No direct impact on aviation or cargo operations anticipated at this time.",
-      "operational_impact": "No immediate disruption to transport or logistics operations expected. However, security protocols may be enhanced in the region, potentially affecting personnel and asset movement.",
-      "proximity_alert": "YAKIN TEHDİT: Montréal–Pierre Elliott Trudeau International Airport (1 km)"
+      "longitude": -73.6568,
+      "detailed_analysis": "A shooting attack in Montreal has resulted in the deaths of a Jewish man and a police officer, with the motive still unannounced. This incident has the potential to escalate into further civil unrest and poses a significant threat to personnel and public safety.",
+      "immediate_forecast_24h": "Increased security presence and potential protests or demonstrations in response to the attack, with a heightened risk of further violence or retaliatory actions.",
+      "strategic_outlook": "Long-term implications may include increased tensions between communities, potential for copycat attacks, and a heightened need for security measures to protect vulnerable populations and critical infrastructure.",
+      "operational_impact": "Potential disruptions to transport and logistics in the Montreal area, particularly if protests or demonstrations affect major routes or transportation hubs. Aviation and cargo operations may also be impacted if security measures are heightened or if there are concerns about potential follow-up attacks.",
+      "proximity_alert": "YAKIN TEHDİT: Montréal–Pierre Elliott Trudeau International Airport (6 km)"
+    }
+  },
+  {
+    "id": "ca57e860e3465e2221b43fddc521422d",
+    "timestamp": "2026-06-22T22:08:48.198469",
+    "original_title": "United Airlines Set to Operate First Widebody Flight With Fast and Free Starlink Internet On Monday Night",
+    "link": "https://www.paddleyourownkanoo.com/2026/06/22/united-airlines-set-to-operate-first-widebody-flight-with-fast-and-free-starlink-internet-on-monday-night/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Aviation/Cyber",
+      "risk_score": 10,
+      "location": "Newark, USA and London, UK",
+      "latitude": 40.7096,
+      "longitude": -74.006,
+      "detailed_analysis": "Introduction of free Starlink Wi-Fi on a United Airlines widebody flight may introduce new cyber vulnerabilities, but no immediate threats are reported.",
+      "immediate_forecast_24h": "No significant disruptions expected, but monitoring of the new Wi-Fi system is recommended to ensure security.",
+      "strategic_outlook": "Widespread adoption of Starlink Wi-Fi in aviation may increase the attack surface for cyber threats, requiring enhanced security measures.",
+      "operational_impact": "Minimal impact expected on transport and logistics, but potential for increased productivity and passenger satisfaction due to improved internet connectivity.",
+      "proximity_alert": "YAKIN TEHDİT: Paramount Hotel (5 km)"
     }
   }
 ]
