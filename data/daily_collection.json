@@ -188,5 +188,24 @@
       "operational_impact": "Potential disruptions to logistics, aviation, and personnel operations due to cyber attacks on critical infrastructure. Enhanced security measures may cause short-term delays or inefficiencies, but are necessary to ensure long-term security and continuity of operations.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "fb22b6b327dcc4894c5c262977e27d9a",
+    "timestamp": "2026-06-22T19:53:56.228693",
+    "original_title": "Shooting in Montreal Jewish neighbourhood leaves three dead, including suspect",
+    "link": "https://www.france24.com/en/americas/20260622-shooting-montreal-jewish-neighbourhood-leaves-three-dead-including-suspect",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest/Crime",
+      "risk_score": 10,
+      "location": "Montreal, Canada",
+      "latitude": 45.5167,
+      "longitude": -73.5833,
+      "detailed_analysis": "A shooting in a Jewish neighbourhood in Montreal resulted in three fatalities, including the suspect. The incident may indicate heightened tensions or potential for further violence in the area.",
+      "immediate_forecast_24h": "Increased police presence and potential for further incidents or protests in the affected area. No immediate indication of a broader threat to aviation, cargo, or personnel.",
+      "strategic_outlook": "Potential for long-term increased security measures in sensitive areas, such as places of worship or community centers. No direct impact on aviation or cargo operations anticipated at this time.",
+      "operational_impact": "No immediate disruption to transport or logistics operations expected. However, security protocols may be enhanced in the region, potentially affecting personnel and asset movement.",
+      "proximity_alert": "YAKIN TEHDİT: Montréal–Pierre Elliott Trudeau International Airport (1 km)"
+    }
   }
 ]
