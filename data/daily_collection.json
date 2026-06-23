@@ -264,5 +264,81 @@
       "operational_impact": "Air travel and logistics operations may be impacted, with potential delays and disruptions to cargo and passenger flights",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "528c0319dfc453c694a7500ceeae99bf",
+    "timestamp": "2026-06-23T17:26:51.275954",
+    "original_title": "New Security Council resolution upholds accountability for attacks against peacekeepers - UN News",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80YmJJQU1naFczUGdDMGQyU3RtZkx4a1NhYVZPUTFXaDhzeS02NHlrazVyOWUwWElJd0t0QXNYeWd0amFUV3VGenh2VFFKeFh5Vkt0UE9FRQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Other",
+      "risk_score": 10,
+      "location": "United Nations, New York",
+      "latitude": 40.7484,
+      "longitude": -73.9857,
+      "detailed_analysis": "The new Security Council resolution aims to uphold accountability for attacks against peacekeepers, which may lead to increased security measures and potential tensions in areas where peacekeepers are deployed.",
+      "immediate_forecast_24h": "No immediate threats to assets, cargo, aviation, or personnel are expected, but the resolution may lead to increased security protocols in the coming days.",
+      "strategic_outlook": "The long-term impact of the resolution may lead to improved security for peacekeepers and reduced risk of attacks, but it may also lead to increased tensions and potential conflicts in areas where peacekeepers are deployed.",
+      "operational_impact": "The resolution is unlikely to have a direct impact on transport or logistics operations, but it may lead to increased security measures and protocols in areas where peacekeepers are deployed, which could potentially affect supply chains and transportation routes.",
+      "proximity_alert": "YAKIN TEHDİT: Paramount Hotel (1 km)"
+    }
+  },
+  {
+    "id": "a910e33545538b2e3c0ef18c75a8186b",
+    "timestamp": "2026-06-23T17:26:58.079375",
+    "original_title": "Downed F-15 Pilot’s ‘Jellyfish’ Drone Account Raises Fears Of Advanced Iranian Capabilities - Report",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1udlpy0/downed_f15_pilots_jellyfish_drone_account_raises/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 8,
+      "location": "Middle East",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "A downed F-15 pilot's 'Jellyfish' drone account has raised concerns about advanced Iranian drone capabilities, potentially threatening aviation security in the region.",
+      "immediate_forecast_24h": "Increased surveillance and security measures are expected in the region's airspace, with potential disruptions to flight operations.",
+      "strategic_outlook": "The incident highlights the growing threat of advanced drone technology in the hands of adversarial nations, which could lead to increased tensions and conflicts in the region.",
+      "operational_impact": "Aviation and logistics operations in the region may be impacted by increased security measures, potential airspace restrictions, and heightened tensions between nations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "49e31bfec9756eddf498c619abb49327",
+    "timestamp": "2026-06-23T17:27:01.928760",
+    "original_title": "Irish company 'assisting in commission of crimes' by supplying alumina to Russia for Ukraine war",
+    "link": "https://www.france24.com/en/tv-shows/spotlight/20260623-irish-company-assisting-in-commission-of-crimes-by-supplying-alumina-to-russia-for-ukraine-war",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Crime",
+      "risk_score": 7,
+      "location": "Ireland, Russia, Ukraine",
+      "latitude": 53.0,
+      "longitude": 10.0,
+      "detailed_analysis": "Irish company supplying alumina to Russia may be supporting Russian weapons production, posing a threat to global security and potentially impacting aviation and cargo operations",
+      "immediate_forecast_24h": "Increased scrutiny of alumina exports and potential sanctions on Irish company, possible escalation of conflict in Ukraine",
+      "strategic_outlook": "Long-term implications for global trade and security, potential for increased tensions between EU and Russia, and impact on aviation and cargo operations",
+      "operational_impact": "Potential disruptions to cargo shipments, increased security measures for aviation and logistics operations, and possible rerouting of supply chains",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "39216493b9fa5bb743f03877d2099ff4",
+    "timestamp": "2026-06-23T17:27:05.014572",
+    "original_title": "Jamaica - Level 2: Exercise Increased Caution",
+    "link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/jamaica-travel-advisory.html",
+    "source_name": "US State Dept",
+    "ai_analysis": {
+      "category": "Crime",
+      "risk_score": 7,
+      "location": "Jamaica",
+      "latitude": 18.1096,
+      "longitude": -77.2975,
+      "detailed_analysis": "High crime rates, including violent crime, armed robberies, and sexual assaults, have been reported throughout Jamaica, with some areas having elevated crime rates above national averages. U.S. government employees are restricted from traveling to certain areas without prior authorization.",
+      "immediate_forecast_24h": "Increased risk of crime, particularly at night, and in areas with high crime rates. U.S. citizens are advised to exercise increased caution and avoid walking or driving at night, using public buses, or visiting remote areas.",
+      "strategic_outlook": "Long-term crime trends in Jamaica are expected to continue, with some areas remaining high-risk. U.S. citizens and travelers should remain vigilant and take necessary precautions to ensure their safety.",
+      "operational_impact": "Transportation and logistics operations in Jamaica may be impacted by high crime rates, particularly in areas with restricted travel. Companies should consider implementing additional security measures, such as avoiding nighttime travel and using secure transportation.",
+      "proximity_alert": null
+    }
   }
 ]
