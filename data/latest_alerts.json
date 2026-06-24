@@ -1,20 +1,39 @@
 [
   {
-    "id": "25f2c484e7cefac4adcbab9ff4c11041",
-    "timestamp": "2026-06-24T04:47:28.755426",
-    "original_title": "Kim Jong Un unveils 5,000-ton destroyer, touting nuclear capabilities",
-    "link": "https://www.france24.com/en/asia-pacific/20260624-kim-jong-un-unveils-5-000-ton-destroyer-touting-nuclear-capabilities",
-    "source_name": "France 24 ME",
+    "id": "a489c238fb24beae50524c498fefb3cc",
+    "timestamp": "2026-06-24T08:27:06.657585",
+    "original_title": "The geopolitics of US bases: The \"Donroe Doctrine\" and China's rise are changing Europe's military role/Translation of the article is in the comments",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1ue496v/the_geopolitics_of_us_bases_the_donroe_doctrine/",
+    "source_name": "Reddit r/Geopolitics",
     "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 8,
-      "location": "Pyongyang, North Korea",
-      "latitude": 39.0392,
-      "longitude": 125.7625,
-      "detailed_analysis": "North Korea's unveiling of a 5,000-ton destroyer with touted nuclear capabilities poses a significant threat to regional and global security, potentially impacting maritime trade and aviation routes.",
-      "immediate_forecast_24h": "Increased military activity and surveillance in the region, potential for heightened tensions between North Korea and neighboring countries.",
-      "strategic_outlook": "Long-term escalation of military capabilities in the region, potential for nuclear proliferation and increased risk of conflict, impacting global trade and stability.",
-      "operational_impact": "Potential disruption to maritime trade routes, increased security measures for aviation and cargo operations in the region, heightened risk of conflict impacting personnel and assets.",
+      "category": "Conflict/Geopolitics",
+      "risk_score": 10,
+      "location": "Europe",
+      "latitude": 48.8567,
+      "longitude": 2.2945,
+      "detailed_analysis": "The article discusses the changing military role of Europe due to the rise of China and the 'Donroe Doctrine', which may lead to a shift in the geopolitical landscape and potentially impact US bases in Europe. This could lead to increased tensions and conflict in the region, affecting aviation and logistics.",
+      "immediate_forecast_24h": "No immediate changes expected, but increased diplomatic tensions possible",
+      "strategic_outlook": "Long-term implications for European security and US military presence in the region, potentially leading to changes in aviation routes and logistics",
+      "operational_impact": "Potential impact on air transport and logistics due to increased tensions and conflict, with possible disruptions to supply chains and cargo operations",
+      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (1 km)"
+    }
+  },
+  {
+    "id": "9f59242c4c0044f734fd18b5621b8651",
+    "timestamp": "2026-06-24T08:27:10.034405",
+    "original_title": "Amnesty slams EU migration cooperation with 'racist' Libya",
+    "link": "http://www.africanews.com/2026/06/24/amnesty-slams-eu-migration-cooperation-with-racist-libya/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Border/Civil Unrest",
+      "risk_score": 5,
+      "location": "Libya",
+      "latitude": 32.8667,
+      "longitude": 11.75,
+      "detailed_analysis": "Amnesty International's condemnation of EU migration cooperation with Libya due to an intensifying crackdown on migrants may lead to increased unrest and potential border breaches, affecting transport and logistics in the region.",
+      "immediate_forecast_24h": "Protests or demonstrations against the EU's decision are possible, potentially disrupting border crossings and transport routes.",
+      "strategic_outlook": "The situation may escalate into a full-blown humanitarian crisis, leading to long-term instability and security concerns in the region, affecting aviation, cargo, and personnel.",
+      "operational_impact": "Transport and logistics operations in Libya and surrounding areas may be impacted, with potential delays or disruptions to cargo shipments and aviation services.",
       "proximity_alert": null
     }
   }
