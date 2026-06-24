@@ -1,21 +1,40 @@
 [
   {
-    "id": "b710eb6987d9de95dbabbbd4b6feef1f",
-    "timestamp": "2026-06-24T18:19:09.589339",
-    "original_title": "Nuclear Stability in the Age of AI",
-    "link": "https://warontherocks.com/nuclear-stability-in-the-age-of-ai/",
-    "source_name": "War on the Rocks",
+    "id": "d94f5a892f7382da601dc7042139f11e",
+    "timestamp": "2026-06-24T20:19:03.721841",
+    "original_title": "Albania's flamingo revolution: Will protests stop Trump family luxury resort plan?",
+    "link": "https://www.france24.com/en/tv-shows/the-debate/20260624-albania-s-flamingo-revolution-will-protests-stop-trump-family-luxury-resort-plan",
+    "source_name": "France 24 ME",
     "ai_analysis": {
-      "category": "Conflict/Cyber",
-      "risk_score": 8,
-      "location": "Global",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "The integration of artificial intelligence into nuclear command chains poses significant risks to global security, including increased potential for miscalculation, accidental launches, and cyber attacks on nuclear systems.",
-      "immediate_forecast_24h": "No immediate threats are expected, but ongoing monitoring of AI development and deployment in nuclear contexts is crucial.",
-      "strategic_outlook": "The long-term implications of AI in nuclear stability are profound, with potential for destabilization of international relations and increased risk of nuclear conflict.",
-      "operational_impact": "The impact on transport and logistics could be significant in the event of a nuclear incident, with potential for widespread disruption to global supply chains and air travel.",
-      "proximity_alert": null
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Tirana, Albania",
+      "latitude": 41.3275,
+      "longitude": 19.8189,
+      "detailed_analysis": "Protests against Trump family luxury resort plan may cause disruptions to local transportation and logistics, but no direct threat to aviation, cargo, or personnel has been identified.",
+      "immediate_forecast_24h": "Protests are likely to continue, potentially causing traffic congestion and disruptions to local businesses.",
+      "strategic_outlook": "The situation may escalate if the government does not address the concerns of the protesters, potentially leading to more widespread unrest.",
+      "operational_impact": "Transportation and logistics operations may be affected by the protests, but the impact is expected to be minimal unless the situation escalates.",
+      "proximity_alert": "YAKIN TEHDİT: Tirana International Airport (0 km)"
+    }
+  },
+  {
+    "id": "362f73f03a990dd3f2ef5a596bbb0a03",
+    "timestamp": "2026-06-24T20:19:05.673958",
+    "original_title": "Kyiv using AI-powered Hornet drones to strike deep into Russian territory",
+    "link": "https://www.france24.com/en/kyiv-using-ai-powered-hornet-drones-to-strike-deep-into-russian-territory",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 10,
+      "location": "Kyiv, Ukraine",
+      "latitude": 50.4501,
+      "longitude": 30.5236,
+      "detailed_analysis": "Ukraine's use of AI-powered Hornet drones to strike deep into Russian territory poses a significant threat to aviation and logistics, potentially disrupting supply chains and impacting personnel safety.",
+      "immediate_forecast_24h": "Increased drone activity may lead to heightened tensions and potential retaliation from Russia, affecting air traffic and cargo operations in the region.",
+      "strategic_outlook": "The use of AI-powered drones in the conflict may set a new precedent for future warfare, potentially leading to an escalation of drone-based attacks and countermeasures, impacting global aviation security.",
+      "operational_impact": "Cargo and personnel transport in the region may be affected by increased drone activity, with potential disruptions to logistics and supply chains, and heightened security measures at airports and border crossings.",
+      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
     }
   }
 ]
