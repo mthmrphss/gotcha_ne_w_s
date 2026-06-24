@@ -1,40 +1,97 @@
 [
   {
-    "id": "a489c238fb24beae50524c498fefb3cc",
-    "timestamp": "2026-06-24T08:27:06.657585",
-    "original_title": "The geopolitics of US bases: The \"Donroe Doctrine\" and China's rise are changing Europe's military role/Translation of the article is in the comments",
-    "link": "https://www.reddit.com/r/geopolitics/comments/1ue496v/the_geopolitics_of_us_bases_the_donroe_doctrine/",
-    "source_name": "Reddit r/Geopolitics",
+    "id": "667f49da568346844733453252ec8e62",
+    "timestamp": "2026-06-24T11:24:14.976213",
+    "original_title": "Loganair flight makes emergency landing at Aberdeen Airport - Daily Record",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZENkNWQxa01iYm5kSWJmWklRZWFKOXp2N3F4ZVJzMWhyeVB4TExaZDVnNmo0dG5VbVJoOG9Pd2hIYzVJMjM2QWNEd0NLUzlzQkRaZWNUVVZ0U0lQR1F1M2lvYXZIX2dSOW1WUXh2bDhVRGtJUk5xOXhLWWlsQnp6UGctai1uSVZnMmtzWHZkUVUzZlU1bjRnbE1YalQ2d9IBowFBVV95cUxNeGVKUmZkOHdIcWJ6clFnaFlhNlY2NzNyaldlQ1VsczB2VHY3WmpQVU4tSC1RNzdXZlZpRGVsNThwMU1abDl0OFJOaEw1bjBUbHhiOEhEdkV2d3ozOUJGUmFxTGkxOHZHYnBGR3c2SnNDVy0zWUw4MU9iNjQwdmhVRzF6M3E1YUpEQzVpV0g0bHhKc1MtU2gxV1F4b3pwLWVwMGxV?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
     "ai_analysis": {
-      "category": "Conflict/Geopolitics",
-      "risk_score": 10,
-      "location": "Europe",
-      "latitude": 48.8567,
-      "longitude": 2.2945,
-      "detailed_analysis": "The article discusses the changing military role of Europe due to the rise of China and the 'Donroe Doctrine', which may lead to a shift in the geopolitical landscape and potentially impact US bases in Europe. This could lead to increased tensions and conflict in the region, affecting aviation and logistics.",
-      "immediate_forecast_24h": "No immediate changes expected, but increased diplomatic tensions possible",
-      "strategic_outlook": "Long-term implications for European security and US military presence in the region, potentially leading to changes in aviation routes and logistics",
-      "operational_impact": "Potential impact on air transport and logistics due to increased tensions and conflict, with possible disruptions to supply chains and cargo operations",
-      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (1 km)"
+      "category": "Aviation",
+      "risk_score": 6,
+      "location": "Aberdeen, Scotland",
+      "latitude": 57.1589,
+      "longitude": -2.0903,
+      "detailed_analysis": "A Loganair flight made an emergency landing at Aberdeen Airport, the cause of which is not specified in the report. This incident could potentially indicate a technical issue or other safety concern.",
+      "immediate_forecast_24h": "Investigations into the cause of the emergency landing are likely to be initiated. There may be disruptions to flight schedules, but no major aviation disruptions are expected in the next 24 hours.",
+      "strategic_outlook": "The long-term impact of this incident will depend on the findings of the investigation. If it is determined to be a one-time technical issue, the impact will be minimal. However, if it reveals a systemic problem, it could lead to increased scrutiny and potential changes in safety protocols for Loganair or similar airlines.",
+      "operational_impact": "The immediate operational impact is likely to be limited to the specific flight and possibly other Loganair flights operating out of Aberdeen Airport. Passengers may experience delays, but cargo operations are unlikely to be significantly affected unless the incident is part of a larger pattern of safety concerns.",
+      "proximity_alert": null
     }
   },
   {
-    "id": "9f59242c4c0044f734fd18b5621b8651",
-    "timestamp": "2026-06-24T08:27:10.034405",
-    "original_title": "Amnesty slams EU migration cooperation with 'racist' Libya",
-    "link": "http://www.africanews.com/2026/06/24/amnesty-slams-eu-migration-cooperation-with-racist-libya/",
+    "id": "1087346b9e2f179512109d2af168aa51",
+    "timestamp": "2026-06-24T11:24:17.447988",
+    "original_title": "Designing Drones for Africa",
+    "link": "https://warontherocks.com/cogs-of-war/designing-drones-for-africa/",
+    "source_name": "War on the Rocks",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 6,
+      "location": "Africa",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "The proliferation of cheap imported drones and sensor systems across Africa, particularly in the Sahel region, poses a potential threat to aviation and security. The use of drones by non-state actors increases the risk of drone sightings and potential strikes, which could impact aviation operations.",
+      "immediate_forecast_24h": "No immediate threats are reported, but the situation bears monitoring due to the potential for drone-related incidents.",
+      "strategic_outlook": "The development of autonomous drone and counter-drone systems by African companies like Terra Industries could enhance regional security capabilities and mitigate the risks associated with imported drones.",
+      "operational_impact": "The increased use of drones in Africa could lead to heightened security measures at airports and other critical infrastructure, potentially impacting transport and logistics operations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "8590e82e7c906d6974a8ef907566e389",
+    "timestamp": "2026-06-24T11:24:19.693554",
+    "original_title": "South African police probe killing of Malawian amid rising anti-immigrant attacks",
+    "link": "http://www.africanews.com/2026/06/24/south-african-police-probe-killing-of-malawian-amid-rising-anti-immigrant-attacks/",
     "source_name": "Africa News",
     "ai_analysis": {
-      "category": "Border/Civil Unrest",
-      "risk_score": 5,
-      "location": "Libya",
-      "latitude": 32.8667,
-      "longitude": 11.75,
-      "detailed_analysis": "Amnesty International's condemnation of EU migration cooperation with Libya due to an intensifying crackdown on migrants may lead to increased unrest and potential border breaches, affecting transport and logistics in the region.",
-      "immediate_forecast_24h": "Protests or demonstrations against the EU's decision are possible, potentially disrupting border crossings and transport routes.",
-      "strategic_outlook": "The situation may escalate into a full-blown humanitarian crisis, leading to long-term instability and security concerns in the region, affecting aviation, cargo, and personnel.",
-      "operational_impact": "Transport and logistics operations in Libya and surrounding areas may be impacted, with potential delays or disruptions to cargo shipments and aviation services.",
+      "category": "Civil Unrest",
+      "risk_score": 6,
+      "location": "Pietermaritzburg, South Africa",
+      "latitude": -29.6167,
+      "longitude": 30.3833,
+      "detailed_analysis": "The killing of a Malawian man during a march against illegal immigrants indicates rising tensions and potential for further violence, posing a threat to personnel and potentially disrupting transport and logistics in the area.",
+      "immediate_forecast_24h": "Increased police presence and potential for further clashes between protesters and law enforcement, with a possibility of spill-over into nearby areas.",
+      "strategic_outlook": "Long-term instability and increased risk of violence against immigrants and personnel in the region, potentially affecting supply chains and transport operations.",
+      "operational_impact": "Potential disruptions to ground transport and logistics in the Pietermaritzburg area, with possible delays or rerouting of cargo and personnel.",
       "proximity_alert": null
+    }
+  },
+  {
+    "id": "526efe97fc5597337d844cd28d764ca2",
+    "timestamp": "2026-06-24T11:24:21.576894",
+    "original_title": "'Genocide': UN report says Israel 'deliberately killed Palestinian children'",
+    "link": "https://www.france24.com/en/tv-shows/press-review/20260624-genocide-un-report-says-israel-deliberately-killed-palestinian-children",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "Israel/Palestine",
+      "latitude": 31.7833,
+      "longitude": 35.2167,
+      "detailed_analysis": "The UN report alleging that Israel deliberately killed Palestinian children may escalate tensions and lead to increased violence, potentially affecting aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Protests and unrest are likely to occur in the next 24 hours, potentially disrupting transport and logistics in the region.",
+      "strategic_outlook": "The long-term impact of this report may lead to increased instability in the region, affecting trade and transport operations, and potentially leading to a higher risk of terrorism and conflict.",
+      "operational_impact": "Aviation and cargo operations in the region may be disrupted due to increased security measures, protests, and potential violence, affecting personnel and asset safety.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "05e60f91df946642623ee73e3d34621f",
+    "timestamp": "2026-06-24T11:24:25.006353",
+    "original_title": "Emirates Forced to Ground Five A380 Superjumbos After Regulators Warn of Cracks Found in Wings",
+    "link": "https://www.paddleyourownkanoo.com/2026/06/24/emirates-forced-to-ground-five-a380-superjumbos-after-regulators-warn-of-cracks-found-in-wings/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Dubai, United Arab Emirates",
+      "latitude": 25.276987,
+      "longitude": 55.296249,
+      "detailed_analysis": "Emirates has grounded five A380 superjumbos due to cracks found in the wings, posing a potential safety risk to passengers and crew.",
+      "immediate_forecast_24h": "Further inspections and maintenance are expected, potentially leading to flight disruptions and schedule changes.",
+      "strategic_outlook": "The incident may impact Emirates' operations and reputation, with potential long-term consequences for the airline and the aviation industry as a whole.",
+      "operational_impact": "Grounding of aircraft may lead to reduced capacity, flight cancellations, and increased costs for Emirates, affecting passengers, cargo, and personnel.",
+      "proximity_alert": "YAKIN TEHDİT: DUBAİ (25 km)"
     }
   }
 ]
