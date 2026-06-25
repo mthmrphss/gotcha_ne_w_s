@@ -321,5 +321,43 @@
       "operational_impact": "The evacuation operation will likely cause disruptions to shipping and cargo transport in the Gulf, potentially leading to delays and increased costs for logistics and transport companies.",
       "proximity_alert": "YAKIN TEHDİT: DUBAİ (25 km)"
     }
+  },
+  {
+    "id": "2ff496f9f9cc1bf2826efc05180a7c43",
+    "timestamp": "2026-06-25T15:25:55.376756",
+    "original_title": "Supreme Court allows Trump administration to lift deportation protections for Haitians, Syrians",
+    "link": "https://www.france24.com/en/americas/20260625-supreme-court-allows-trump-administration-to-lift-deportation-protections-for-haitians-syrians",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Border/Civil Unrest",
+      "risk_score": 10,
+      "location": "Washington D.C., USA",
+      "latitude": 38.8951,
+      "longitude": -77.0364,
+      "detailed_analysis": "The US Supreme Court's decision to allow the Trump administration to lift deportation protections for Haitians and Syrians may lead to increased migrant activity and potential border breaches, affecting transport and logistics.",
+      "immediate_forecast_24h": "Protests and demonstrations are possible in response to the decision, potentially causing disruptions to traffic and logistics in major cities.",
+      "strategic_outlook": "The long-term impact of this decision may lead to increased migrant flows and potential security risks at border crossings, affecting the transport of cargo and personnel.",
+      "operational_impact": "Transport and logistics companies should be prepared for potential disruptions and increased security measures at border crossings, particularly in areas with high migrant activity.",
+      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
+    }
+  },
+  {
+    "id": "1ce405c556fce6ad9581763e0f9d2013",
+    "timestamp": "2026-06-25T15:26:05.816514",
+    "original_title": "Air Canada passengers started ‘praying’ after pilot’s medical emergency caused plane to swerve midair",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/air-canada-pilot-medical-emergency-midair-b3003020.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 7,
+      "location": "Unknown, Canada",
+      "latitude": 45.0,
+      "longitude": -75.0,
+      "detailed_analysis": "A medical emergency involving the pilot caused an Air Canada plane to swerve midair, prompting concern among passengers. The incident highlights the potential risks associated with in-flight medical emergencies and their impact on aviation safety.",
+      "immediate_forecast_24h": "The incident may lead to increased scrutiny of pilot health and safety protocols, potentially resulting in additional safety measures or regulations being implemented in the short term.",
+      "strategic_outlook": "In the long term, this incident may contribute to the development of more robust medical emergency response plans for airlines, potentially including enhanced training for crew members and the implementation of advanced medical technology on board.",
+      "operational_impact": "The incident may have a moderate impact on Air Canada's operations, potentially leading to delays or cancellations as the airline reviews and updates its safety protocols. However, the overall impact on the broader aviation industry is likely to be limited.",
+      "proximity_alert": null
+    }
   }
 ]
