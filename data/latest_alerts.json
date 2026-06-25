@@ -1,78 +1,97 @@
 [
   {
-    "id": "2ff496f9f9cc1bf2826efc05180a7c43",
-    "timestamp": "2026-06-25T15:25:55.376756",
-    "original_title": "Supreme Court allows Trump administration to lift deportation protections for Haitians, Syrians",
-    "link": "https://www.france24.com/en/americas/20260625-supreme-court-allows-trump-administration-to-lift-deportation-protections-for-haitians-syrians",
-    "source_name": "France 24 ME",
+    "id": "0ff38a027ef3cdc22b265f4f7f1bd506",
+    "timestamp": "2026-06-25T17:31:47.538926",
+    "original_title": "British military says a cargo ship was hit while on UN-approved route through the Strait of Hormuz - Anchorage Daily News",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVTg1X0NKQkxKVGxTR0JHT3o0dlNaVGxVVWhESEJXdnQ2d2llbTduaVBBOGxmVy1JcFBTUjJqb1F2RXBGdXdvMm9VR0xXWE83NzVnUjh6QmlUZmhYRXZuZklpa0h1YWotcnkxcnpBUVZCWGRWU2FQMVdnXzNuVTFITlh1WXVIMVo0dHpDSVV5Nk5qZi0ySHhBbWo3bEhxUlNtdHJ4eHp2Qnk0enZKQWJhUmhjb3NvTkZlNXlwZGxqSU5OajNtSmpEUjFjZzNZYmdMdjR1QzRiNEVQVEU?oc=5",
+    "source_name": "Google News (Breaking)",
     "ai_analysis": {
-      "category": "Border/Civil Unrest",
-      "risk_score": 10,
-      "location": "Washington D.C., USA",
-      "latitude": 38.8951,
-      "longitude": -77.0364,
-      "detailed_analysis": "The US Supreme Court's decision to allow the Trump administration to lift deportation protections for Haitians and Syrians may lead to increased migrant activity and potential border breaches, affecting transport and logistics.",
-      "immediate_forecast_24h": "Protests and demonstrations are possible in response to the decision, potentially causing disruptions to traffic and logistics in major cities.",
-      "strategic_outlook": "The long-term impact of this decision may lead to increased migrant flows and potential security risks at border crossings, affecting the transport of cargo and personnel.",
-      "operational_impact": "Transport and logistics companies should be prepared for potential disruptions and increased security measures at border crossings, particularly in areas with high migrant activity.",
-      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
-    }
-  },
-  {
-    "id": "794f6018fa0ee3877be16331f3253b61",
-    "timestamp": "2026-06-25T15:25:57.518015",
-    "original_title": "On the beach with migrants determined to cross Channel to UK",
-    "link": "https://www.france24.com/en/video/20260625-on-the-beach-with-migrants-determined-to-cross-channel-to-uk",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Border",
-      "risk_score": 5,
-      "location": "Calais, France",
-      "latitude": 50.9583,
-      "longitude": 1.8567,
-      "detailed_analysis": "Migrants attempting to cross the Channel to the UK in small boats pose a risk to maritime transport and border security. The increase in attempts due to favorable weather conditions and the determination of migrants to reach the UK may lead to stowaways or border breaches affecting transport.",
-      "immediate_forecast_24h": "The number of migrant attempts is likely to remain high in the next 24 hours due to continued sunny weather and calm seas.",
-      "strategic_outlook": "The long-term effectiveness of the UK's funding to reinforce policing along the French coastline remains to be seen, but the determination of migrants to cross the Channel suggests that the risk of border breaches and stowaways will persist.",
-      "operational_impact": "Transport and logistics operations in the region may be affected by the increased migrant activity, particularly if stowaways are successful in boarding vessels or if border breaches occur, potentially disrupting supply chains and requiring additional security measures.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "767bed5fb810486c060c578819a2ae45",
-    "timestamp": "2026-06-25T15:26:01.150529",
-    "original_title": "El Salvador - Level 1: Exercise Normal Precautions",
-    "link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/el-salvador-travel-advisory.html",
-    "source_name": "US State Dept",
-    "ai_analysis": {
-      "category": "Crime",
-      "risk_score": 4,
-      "location": "El Salvador",
-      "latitude": 13.7942,
-      "longitude": -89.1643,
-      "detailed_analysis": "Gang activity has decreased, but the State of Exception is still in place, allowing for arrests without normal constitutional protections. U.S. government employees are restricted from traveling at night and using public buses, indicating some level of risk.",
-      "immediate_forecast_24h": "No significant changes expected in the short term, but travelers should remain cautious, especially at night and when using public transportation.",
-      "strategic_outlook": "Long-term stability is uncertain due to the ongoing State of Exception and potential for gang activity to increase again, affecting travel and cargo security.",
-      "operational_impact": "Transport and logistics operations should exercise caution, particularly when moving cargo or personnel at night or through areas with high gang activity, and consider alternative, safer routes.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "1ce405c556fce6ad9581763e0f9d2013",
-    "timestamp": "2026-06-25T15:26:05.816514",
-    "original_title": "Air Canada passengers started ‘praying’ after pilot’s medical emergency caused plane to swerve midair",
-    "link": "https://www.independent.co.uk/travel/news-and-advice/air-canada-pilot-medical-emergency-midair-b3003020.html",
-    "source_name": "Independent Travel",
-    "ai_analysis": {
-      "category": "Aviation",
+      "category": "Conflict/Crime",
       "risk_score": 7,
-      "location": "Unknown, Canada",
-      "latitude": 45.0,
-      "longitude": -75.0,
-      "detailed_analysis": "A medical emergency involving the pilot caused an Air Canada plane to swerve midair, prompting concern among passengers. The incident highlights the potential risks associated with in-flight medical emergencies and their impact on aviation safety.",
-      "immediate_forecast_24h": "The incident may lead to increased scrutiny of pilot health and safety protocols, potentially resulting in additional safety measures or regulations being implemented in the short term.",
-      "strategic_outlook": "In the long term, this incident may contribute to the development of more robust medical emergency response plans for airlines, potentially including enhanced training for crew members and the implementation of advanced medical technology on board.",
-      "operational_impact": "The incident may have a moderate impact on Air Canada's operations, potentially leading to delays or cancellations as the airline reviews and updates its safety protocols. However, the overall impact on the broader aviation industry is likely to be limited.",
+      "location": "Strait of Hormuz",
+      "latitude": 26.0,
+      "longitude": 56.0,
+      "detailed_analysis": "A cargo ship was hit while on a UN-approved route through the Strait of Hormuz, indicating a potential threat to maritime assets and cargo. The incident may be related to regional conflicts or piracy.",
+      "immediate_forecast_24h": "Increased naval presence and surveillance in the area are expected. Shipping companies may reroute vessels or take additional security measures.",
+      "strategic_outlook": "The incident highlights the ongoing risks and instability in the region, which may lead to long-term disruptions in global trade and shipping. Diplomatic efforts may be necessary to de-escalate tensions and ensure safe passage for vessels.",
+      "operational_impact": "Shipping companies and logistics operators should exercise caution when navigating the Strait of Hormuz. Additional security measures, such as escort vessels or enhanced surveillance, may be necessary to mitigate the risk of attack or hijacking.",
       "proximity_alert": null
+    }
+  },
+  {
+    "id": "e5bd8d287b5f50e9640d29a157ea65bd",
+    "timestamp": "2026-06-25T17:31:49.526391",
+    "original_title": "Ukrainian attack on Crimea kills five, Russian officials say - Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQnFtLTZaUzdmb1JvYVpTbHkySVZPU3VQTlBUSjhjYWZyYUZxRFNVSnNkdWZHNjN2aTZnVGR6WmliMG5UQVJ4SmRrTGNXOGZ4RTJiTVVKMk93MTdRV0FOMVpGeUZsd2xXX0VhZmV6Z2dqTXpxWnB1cURrZHhBZnBGWFNEek9NYjkwLUhMMFRIOG5pZWRPMXNCdEVucFZQNUFsRUHSAacBQVVfeXFMTjYyWHh4a0lQaWIwaDRONzl4NDFFS3hVSGlGZ3FxaWtRQmhodDEwWURUUFFNNENaN1lBQkdPZUZHb004WHUzeER0cmtiMGF2dC1jSUVJWUNpeVE2ZXBCSnE3M1hrSUVVb0JYTG5RMFZzNzRsZEs0YnB6QVRyQVQwVWhRYms5Y1pYb2VkdzIxVnRSUEdRa2xobzdOSUFsZE9sM3oxR3gyZU0?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Crimea, Ukraine",
+      "latitude": 44.9343,
+      "longitude": 34.1067,
+      "detailed_analysis": "A Ukrainian attack on Crimea has resulted in five fatalities, according to Russian officials. This incident indicates an escalation of conflict in the region, posing a significant threat to assets, cargo, aviation, and personnel.",
+      "immediate_forecast_24h": "Increased tensions and potential for further clashes between Ukrainian and Russian forces in the region, potentially disrupting transport and logistics operations.",
+      "strategic_outlook": "The ongoing conflict in Ukraine may lead to a prolonged period of instability, affecting trade and commerce in the region. This could result in increased security measures, potential supply chain disruptions, and heightened risks for assets, cargo, and personnel.",
+      "operational_impact": "Transport and logistics operations in the region may be impacted due to the conflict, with potential disruptions to air and sea routes, as well as increased security checks and protocols.",
+      "proximity_alert": "YAKIN TEHDİT: Simferopol International Airport (15 km)"
+    }
+  },
+  {
+    "id": "d8d612b92ef48fcd6e91426bd9fdb367",
+    "timestamp": "2026-06-25T17:31:52.598022",
+    "original_title": "The Next Russia Threat: Moscow’s Military Power After Ukraine",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1uferxe/the_next_russia_threat_moscows_military_power/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Moscow, Russia",
+      "latitude": 55.7558,
+      "longitude": 37.6176,
+      "detailed_analysis": "The article discusses the potential threat of Russia's military power after the Ukraine conflict, highlighting the country's military capabilities and potential future actions.",
+      "immediate_forecast_24h": "Increased tensions between Russia and Western countries, potential escalation of military activities in Eastern Europe.",
+      "strategic_outlook": "Long-term instability in the region, potential for increased military spending and mobilization by Russia and its adversaries.",
+      "operational_impact": "Potential disruptions to air travel and logistics in the region, increased security measures at airports and border crossings.",
+      "proximity_alert": "YAKIN TEHDİT: Vnukovo International Airport (27 km)"
+    }
+  },
+  {
+    "id": "e89f4a048e609b68d729c73480396071",
+    "timestamp": "2026-06-25T17:31:55.220992",
+    "original_title": "Three Lesotho nationals charged with murder after mass shooting in South Africa",
+    "link": "http://www.africanews.com/2026/06/25/three-lesotho-nationals-charged-with-murder-after-mass-shooting-in-south-africa/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Crime/Civil Unrest",
+      "risk_score": 10,
+      "location": "Johannesburg, South Africa",
+      "latitude": -26.2041,
+      "longitude": 28.0473,
+      "detailed_analysis": "A mass shooting incident in Johannesburg, South Africa, has resulted in 13 deaths and 14 injuries. Three Lesotho nationals have been charged with murder. The incident may indicate a rise in violent crime in the area, potentially affecting personnel and assets.",
+      "immediate_forecast_24h": "Increased security presence is expected in the area, with potential for further unrest or retaliatory violence. Transport and logistics operations may experience minor disruptions due to enhanced security measures.",
+      "strategic_outlook": "The long-term impact of this incident may lead to increased security measures in public areas and potential changes in law enforcement strategies to mitigate similar incidents in the future.",
+      "operational_impact": "The incident may cause minor delays or disruptions to transport and logistics operations in the Johannesburg area, particularly if security measures are heightened or if there are further incidents of civil unrest.",
+      "proximity_alert": "YAKIN TEHDİT: O. R. Tambo International Airport (19 km)"
+    }
+  },
+  {
+    "id": "153d727bf948754409ae05723fb2bf7c",
+    "timestamp": "2026-06-25T17:31:57.318297",
+    "original_title": "#Kenya marks second anniversary of deadly 2024 #protests",
+    "link": "https://www.france24.com/en/video/20260625-kenya-marks-second-anniversary-of-deadly-2024-protests",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Nairobi, Kenya",
+      "latitude": -1.2921,
+      "longitude": 36.8219,
+      "detailed_analysis": "The second anniversary of the deadly 2024 protests in Kenya may lead to renewed demonstrations and unrest, potentially disrupting aviation, cargo, and personnel operations in the region.",
+      "immediate_forecast_24h": "Increased security presence and potential clashes between protesters and law enforcement, with possible disruptions to transportation and logistics.",
+      "strategic_outlook": "Ongoing frustration with the government and economic hardship may continue to fuel unrest, posing a long-term threat to stability and security in Kenya.",
+      "operational_impact": "Potential delays or disruptions to flights, cargo shipments, and personnel movements, with increased risk of violence or property damage in the vicinity of protests.",
+      "proximity_alert": "YAKIN TEHDİT: Jomo Kenyatta International Airport (12 km)"
     }
   }
 ]
