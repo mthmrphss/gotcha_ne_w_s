@@ -226,5 +226,100 @@
       "operational_impact": "The incident may cause delays or disruptions to Qatar Airways Cargo operations, particularly if the aircraft is grounded for inspection or if pilots are required to undergo additional training",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "1e5cea44a06cf9ebb91c34ee666d1631",
+    "timestamp": "2026-06-25T12:27:09.555953",
+    "original_title": "Attack Of The Killer Lawnmowers: Security Flaw Let Hackers Control These Landscaping Robots - Cybercrime Magazine",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPa211ZEdHRGxTeTgtcG53TlB2SV9JcFNjTGNUbXI5QkRUMHJ0YkhLWFV6UGtuN3FDd3d1X3lFRnBSY24tdHU1VDhBakk2V1FRNk9ydGM0ZFFPZVBlVFd0Z0NfaTJ2cjVKa1I3UU9tR25XT0VjeUZweGkteGZRVzhoX3I5dFdCVVdrWTIzSVlhZ3ZLaEtuc2hHa1huMl9hOXBZNVJGRk81MTZZVUp3SURvc1h3OVl1RWt2UGN3SlFjdVg0bXc?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 6,
+      "location": "Unknown, Global",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "A security flaw in landscaping robots, specifically lawnmowers, has been discovered, allowing hackers to control these devices. This vulnerability poses a potential threat to assets and personnel, particularly in areas where these robots are used, such as public parks, airports, and other large outdoor spaces.",
+      "immediate_forecast_24h": "In the next 24 hours, it is likely that hackers may attempt to exploit this vulnerability, potentially causing disruptions to outdoor activities or posing a risk to people in the vicinity of these robots.",
+      "strategic_outlook": "In the long term, this vulnerability highlights the need for increased cybersecurity measures in the development and deployment of autonomous devices, including those used in landscaping and other industries. Manufacturers and users of these devices must take steps to patch vulnerabilities and implement robust security protocols to prevent such threats.",
+      "operational_impact": "The operational impact of this threat is moderate, as it may cause disruptions to outdoor activities, potentially affecting personnel and assets in the vicinity of these robots. However, the impact on cargo and aviation is likely to be minimal, unless these robots are used in areas critical to these industries, such as airport grounds.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "bd9a6e33b28a83415ae958250f529dfb",
+    "timestamp": "2026-06-25T12:27:12.782199",
+    "original_title": "Flight from US to Scotland makes U-turn after pilot declares 'emergency' - The Scottish Sun",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVWc2M1hSOGtvTWdBaElYSktlN1NMenNCMmtGSUhWbEp2aWJWQ1NVdnN0eW93bThpTFVXWHpSSW81R2FwSTlMZDNEc3gwMzNQZTA4N2hVU08xU0NNQ3VHTm1TYmJkb1dyQ0l6ZFoydGNObHJYUjNCbDFraEJ5Qk1QVklXeHJJOWN4d3BQcUx4ZWRzQm8?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "US/Scotland",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "detailed_analysis": "A flight from the US to Scotland made a U-turn after the pilot declared an emergency, the cause of which is currently unknown. This incident could pose a potential threat to aviation safety and security.",
+      "immediate_forecast_24h": "Further investigation into the cause of the emergency declaration is expected, and potential disruptions to flight schedules may occur.",
+      "strategic_outlook": "The incident highlights the importance of emergency procedures and protocols in the aviation industry, and airlines may review their safety and security measures to prevent similar incidents in the future.",
+      "operational_impact": "The U-turn and potential investigation may cause delays or cancellations of flights, affecting passengers and cargo transport between the US and Scotland.",
+      "proximity_alert": "YAKIN TEHDİT: Paramount Hotel (5 km)"
+    }
+  },
+  {
+    "id": "f4dfbdb483cf674f686c73fd87812422",
+    "timestamp": "2026-06-25T12:27:16.069189",
+    "original_title": "Protesters in Nairobi run for cover as shots ring out and police deploy tear gas",
+    "link": "http://www.africanews.com/2026/06/25/protesters-in-nairobi-run-for-cover-as-shots-ring-out-and-police-deploy-tear-gas/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Nairobi, Kenya",
+      "latitude": -1.2833,
+      "longitude": 36.8167,
+      "detailed_analysis": "Protesters in Nairobi clashed with police, resulting in shots fired and tear gas deployment, indicating a high level of unrest and potential disruption to transport and logistics in the area.",
+      "immediate_forecast_24h": "Increased security presence and potential for further clashes between protesters and police, leading to road closures and disruptions to cargo and personnel movement.",
+      "strategic_outlook": "Prolonged civil unrest could lead to long-term instability, affecting the overall security and efficiency of transport and logistics operations in and around Nairobi.",
+      "operational_impact": "Potential delays and disruptions to cargo transport, aviation, and personnel movement due to road closures and security concerns, with possible diversion of routes or modes of transport to mitigate risks.",
+      "proximity_alert": "YAKIN TEHDİT: Jomo Kenyatta International Airport (13 km)"
+    }
+  },
+  {
+    "id": "51ee7f0107a3c6531a997ed8bf9204c4",
+    "timestamp": "2026-06-25T12:27:18.929074",
+    "original_title": "Two years after Gen Z uprising, Kenyan protesters return to Nairobi streets",
+    "link": "http://www.africanews.com/2026/06/25/two-years-after-gen-z-uprising-kenyan-protesters-return-to-nairobi-streets/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Nairobi, Kenya",
+      "latitude": -1.2833,
+      "longitude": 36.8167,
+      "detailed_analysis": "Protesters have gathered in Nairobi seeking justice for victims and greater government accountability, two years after the Gen Z tax revolt. The situation may lead to disruptions in transportation and logistics.",
+      "immediate_forecast_24h": "The protests may continue or escalate, potentially causing traffic congestion and disruptions to local businesses and transportation services.",
+      "strategic_outlook": "The long-term impact of the protests will depend on the government's response and the protesters' demands. If the situation is not resolved, it may lead to further unrest and instability in the region.",
+      "operational_impact": "The protests may affect ground transportation, including cargo movement, and potentially impact aviation operations at Nairobi's airports if the situation escalates.",
+      "proximity_alert": "YAKIN TEHDİT: Jomo Kenyatta International Airport (13 km)"
+    }
+  },
+  {
+    "id": "4100b5b5bfb4bfa507660dd697acbb56",
+    "timestamp": "2026-06-25T12:27:21.158133",
+    "original_title": "Evacuation of sailors stuck in Gulf likely to take weeks",
+    "link": "https://www.france24.com/en/video/20260625-evacuation-of-sailors-stuck-in-gulf-likely-to-take-weeks",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Gulf",
+      "latitude": 25.276987,
+      "longitude": 55.296249,
+      "detailed_analysis": "The evacuation of 11,000 commercial sailors stuck in the Gulf due to the presence of mines and a complex international operation poses a significant risk to personnel and cargo. The operation is expected to take weeks, increasing the likelihood of potential threats to assets and personnel.",
+      "immediate_forecast_24h": "The evacuation process is expected to continue with caution, and the risk of accidents or incidents remains high due to the presence of mines and the complexity of the operation.",
+      "strategic_outlook": "The successful evacuation of the sailors will depend on the coordination of international efforts and the clearance of mines from the area. The long-term impact on global oil prices and the shipping industry will also be closely monitored.",
+      "operational_impact": "The evacuation operation will likely cause disruptions to shipping and cargo transport in the Gulf, potentially leading to delays and increased costs for logistics and transport companies.",
+      "proximity_alert": "YAKIN TEHDİT: DUBAİ (25 km)"
+    }
   }
 ]
