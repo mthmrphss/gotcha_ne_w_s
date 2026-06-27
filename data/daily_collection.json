@@ -568,5 +568,62 @@
       "operational_impact": "The incident may lead to increased security screening and potential delays for flights operating in the vicinity of Newark Liberty Airport, with possible ripple effects on the overall air traffic in the region.",
       "proximity_alert": "YAKIN TEHDİT: Newark International Airport (0 km)"
     }
+  },
+  {
+    "id": "28db5484e21db202ea94802f76437a9c",
+    "timestamp": "2026-06-27T19:38:01.500656",
+    "original_title": "The tragic story of the plane crash that wiped out Uzbekistan’s greatest team - The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMU5sWWpaR1NJblliWFk2LUdSc2tyQ3dNN3R5eGZyXzdaeVJsWXctM1k2eVhrMXltdGpNN3lETGJoUmY5bFJZeF9tSk9IaDBlemxFZ01WTkxFWkF0cllIcVRDQV9UQ2dYQWhwVi1fNndXR0ItbGdYeHBvaU0zOEo1YjJuOFlsZjRZdlRPb0lwM2k1X1NqcVQxU0pB?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 9,
+      "location": "Uzbekistan",
+      "latitude": 42.0,
+      "longitude": 63.0,
+      "detailed_analysis": "A plane crash has occurred, resulting in significant loss of life, specifically Uzbekistan's greatest team, indicating a high-risk event with potential impact on aviation safety and security.",
+      "immediate_forecast_24h": "Investigations into the cause of the crash are likely to begin immediately, with potential disruptions to air travel in the region.",
+      "strategic_outlook": "The long-term impact on Uzbekistan's aviation industry and national morale may be significant, with potential changes to safety protocols and regulations.",
+      "operational_impact": "The crash may lead to increased security measures and inspections for flights in and out of Uzbekistan, potentially causing delays and disruptions to transport and logistics operations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "3e1d226f7b9b7182be5f949eb78face4",
+    "timestamp": "2026-06-27T19:38:05.049185",
+    "original_title": "Three Pakistani rangers killed in Karachi attack, Dawn newspaper reports - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSzY5OHh1Q192Mi1PeWZlX1djT2gwanJLR2lDRFh6MVc1TmVPOS1MUHkzTzBiWmp4N0dZWkRZeUlwV0tIOUstM05QQnA3ZG5DU2tNWEs2QmpmR2x2dlpSeFVmanRYUFRyR2RoSjU5UTd2RmV0M2QtVFZCOTIxYkNzLVpWWjlza0ZZMGMxUDZYLW5rZmJxeGNCejFka0M1cmxXaXJPdlI2Smc0eU1sU3djYnJlRi1rYUh3dHREQVA3R1U?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism/Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Karachi, Pakistan",
+      "latitude": 24.8607,
+      "longitude": 66.9904,
+      "detailed_analysis": "An attack in Karachi has resulted in the deaths of three Pakistani rangers, indicating a heightened level of violence and instability in the region, potentially impacting the security of assets, cargo, aviation, and personnel.",
+      "immediate_forecast_24h": "Increased security measures are likely to be implemented in the short term, potentially causing disruptions to transport and logistics operations in the area.",
+      "strategic_outlook": "The long-term implications of this event could include increased tensions and conflict in the region, potentially affecting the stability and security of Pakistan and its neighboring countries.",
+      "operational_impact": "Transport and logistics operations in Karachi and surrounding areas may be affected by increased security checks, potential curfews, and other measures to mitigate the risk of further attacks.",
+      "proximity_alert": "YAKIN TEHDİT: Jinnah International Airport (17 km)"
+    }
+  },
+  {
+    "id": "fd7dc84211b767a58cec011acbe9730f",
+    "timestamp": "2026-06-27T19:38:08.455310",
+    "original_title": "Iranian drones attack Bahrain and a ship is struck in the strait after US airstrikes",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1uh8zl1/iranian_drones_attack_bahrain_and_a_ship_is/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict/Aviation/Terrorism",
+      "risk_score": 8,
+      "location": "Bahrain, Strait of Hormuz",
+      "latitude": 25.9304,
+      "longitude": 50.6378,
+      "detailed_analysis": "Iranian drones have attacked Bahrain and a ship has been struck in the Strait of Hormuz following US airstrikes, indicating a significant escalation in regional tensions and posing a direct threat to aviation, cargo, and personnel in the area.",
+      "immediate_forecast_24h": "Increased military activity and potential for further drone attacks or retaliatory strikes are expected in the short term, with heightened security measures likely to be implemented in the region.",
+      "strategic_outlook": "The long-term outlook suggests continued instability in the region, with potential for ongoing conflict and disruptions to aviation and maritime transport, impacting global supply chains and energy markets.",
+      "operational_impact": "Immediate operational impacts include potential disruptions to shipping and air traffic in the region, with possible delays or rerouting of flights and vessels, and increased security protocols for personnel and cargo.",
+      "proximity_alert": null
+    }
   }
 ]
