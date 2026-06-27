@@ -530,5 +530,43 @@
       "operational_impact": "Potential disruptions to shipping and air traffic in the region, increased security protocols for flights and vessels, and possible rerouting of cargo and personnel to avoid high-risk areas.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "f4aff15564ccdee1a0eecc79b252b1c0",
+    "timestamp": "2026-06-27T17:38:41.080203",
+    "original_title": "Bahrain condemns Iranian drone attack after overnight US strikes - The Guardian",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWGpjWTdNa1Bka2sydC1Oc09UZmhoMTdteWVpMUFHOFpGdzRDcXlZc0ZoNXREck1qWC1aVkR4aUJwMmV6N3JKZ0FsMmNwNDJpV2FlOWtEMUdyUE5PRGpCUGlrU1lYdFRXMmV6ejVqd1liYnp6UjVfdXQtOVh5NktVTU9DNEZ4VFlKS1N5dWRNUDRsOV9zWmxDeE5ORkxrVF94elAxRW1YWDhkUQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 10,
+      "location": "Bahrain",
+      "latitude": 26.0667,
+      "longitude": 50.5667,
+      "detailed_analysis": "Iranian drone attack on Bahrain after overnight US strikes, indicating heightened tensions and potential for further conflict in the region, posing a significant threat to aviation and regional stability",
+      "immediate_forecast_24h": "Increased military presence and heightened security measures are expected in the region, with potential for further retaliatory strikes or drone sightings",
+      "strategic_outlook": "Long-term implications include potential escalation of conflict between the US and Iran, with Bahrain and other regional countries caught in the middle, affecting aviation and logistics operations",
+      "operational_impact": "Potential disruptions to air traffic, increased security screening, and possible rerouting of flights to avoid the region, impacting cargo and personnel transport",
+      "proximity_alert": "YAKIN TEHDİT: Bahrain International Airport (23 km)"
+    }
+  },
+  {
+    "id": "d3ebcd92e549f449af90aaa379dbfac5",
+    "timestamp": "2026-06-27T17:38:47.622537",
+    "original_title": "United Airlines Boeing 737 With 106 Passengers On Board Narrowly Avoids Collision With Drone Flying in Prohibited Airspace Near Newark Liberty Airport",
+    "link": "https://www.paddleyourownkanoo.com/2026/06/27/united-airlines-boeing-737-with-106-passengers-on-board-narrowly-avoids-collision-with-drone-flying-in-prohibited-airspace-near-newark-liberty-airport/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Newark, USA",
+      "latitude": 40.6925,
+      "longitude": -74.1685,
+      "detailed_analysis": "A United Airlines Boeing 737 with 106 passengers on board narrowly avoided collision with a drone flying in prohibited airspace near Newark Liberty Airport, posing a significant threat to aviation safety.",
+      "immediate_forecast_24h": "Increased surveillance and security measures are expected to be implemented at Newark Liberty Airport to prevent similar incidents, with possible disruptions to flight schedules.",
+      "strategic_outlook": "The incident highlights the growing concern of drone sightings in restricted airspace and the need for enhanced security protocols to mitigate such risks, potentially leading to long-term investments in drone detection and mitigation technologies.",
+      "operational_impact": "The incident may lead to increased security screening and potential delays for flights operating in the vicinity of Newark Liberty Airport, with possible ripple effects on the overall air traffic in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Newark International Airport (0 km)"
+    }
   }
 ]
