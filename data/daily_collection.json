@@ -511,5 +511,24 @@
       "operational_impact": "Minimal impact expected on aviation and cargo operations in the short term, but potential for increased security checks and delays at border crossings.",
       "proximity_alert": "YAKIN TEHDİT: Belgrade Nikola Tesla Airport (15 km)"
     }
+  },
+  {
+    "id": "9c296d909577a3e0c6f66aae21a71d46",
+    "timestamp": "2026-06-28T14:53:21.311200",
+    "original_title": "Skydiving Plane Crashes in France, Killing All 11 People Aboard",
+    "link": "https://www.nytimes.com/2026/06/28/world/europe/france-skydiving-plane-crash-nancy.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 8,
+      "location": "Nancy, France",
+      "latitude": 48.6921,
+      "longitude": 6.1842,
+      "detailed_analysis": "A skydiving plane crashed in a field near Nancy, France, resulting in the deaths of all 11 people on board, including five instructors, five students, and a pilot. The cause of the crash is not yet known.",
+      "immediate_forecast_24h": "Investigations into the crash are likely to begin immediately, and there may be a temporary disruption to skydiving operations in the area. However, there is no indication of a broader threat to aviation at this time.",
+      "strategic_outlook": "The crash highlights the importance of maintaining rigorous safety standards in aviation, particularly in high-risk activities such as skydiving. Regulatory bodies may review safety protocols and procedures to minimize the risk of similar incidents in the future.",
+      "operational_impact": "The crash is unlikely to have a significant impact on commercial air travel or logistics operations, but it may affect skydiving and other general aviation activities in the region.",
+      "proximity_alert": null
+    }
   }
 ]
