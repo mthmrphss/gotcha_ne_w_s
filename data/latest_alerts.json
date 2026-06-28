@@ -1,20 +1,77 @@
 [
   {
-    "id": "9c296d909577a3e0c6f66aae21a71d46",
-    "timestamp": "2026-06-28T14:53:21.311200",
-    "original_title": "Skydiving Plane Crashes in France, Killing All 11 People Aboard",
-    "link": "https://www.nytimes.com/2026/06/28/world/europe/france-skydiving-plane-crash-nancy.html",
-    "source_name": "NewYork Times",
+    "id": "c68cd3bb2319b933f7d6d00fc45c5be1",
+    "timestamp": "2026-06-28T16:18:10.625739",
+    "original_title": "Iran attacks Bahrain and Kuwait following U.S. strikes and threatens to halt talks - PBS",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLWJNblBIMnBWTmc5VW0zVU12bXNMcXhmdzR6T0dkYWpUMEgtbGV3ZG5VcmdudjJnenUyQXRQRDQ0NkhPYWtqU2xOYm9zbFFadTNxQksxNWJjaFdNdnpCV0RrNllwNGt4Y2stSk9lZ1l1MXhrYjlVMU9WMmlyNDNCZ1oxcnBFTWlzZnZsS1hvOEFrLWZXcmtsMWtnWW1hc1FFWjdLMjJkMTdEcnhnSzhMTXZ3cGVoMjDSAbwBQVVfeXFMUHhOMm5uRVFZY3FCMm9FZHZ4aDhPdF9BOUw2dkNoTVJ5ZUF5X2dCSVA1S0Z0QlRPUDI4YlNqMWN0QWZPWlIyZ3FHcmJmVkhmMXNYenFHb21BYmk1dnRHRVR4T0J3WmVTR2VpM1VfbmVkTEpfaHhsbzVuNU9rSDZwMDY0V0FHbXFPNDVENGxKNmVwWlVYYjNVeFNsWmloUkR1aE9kRldjelpVS1NXS2NGVHMwSDZOd3UxbWN3VzU?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 10,
+      "location": "Bahrain and Kuwait",
+      "latitude": 26.0667,
+      "longitude": 50.5667,
+      "detailed_analysis": "Iran has launched attacks on Bahrain and Kuwait following U.S. strikes, and has threatened to halt talks. This escalation poses a significant threat to regional stability and aviation security.",
+      "immediate_forecast_24h": "Increased tensions and potential for further military action in the region, with possible disruptions to air traffic and logistics operations.",
+      "strategic_outlook": "Long-term implications for regional security and global oil supplies, with potential for sustained conflict and elevated risk to aviation and logistics operations.",
+      "operational_impact": "Potential disruptions to air traffic, increased security measures at airports, and possible delays or cancellations of flights and logistics operations in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Bahrain International Airport (23 km)"
+    }
+  },
+  {
+    "id": "8f61a1540de89b871e295bbc1b091235",
+    "timestamp": "2026-06-28T16:18:12.560122",
+    "original_title": "Saudi Aramco helicopter crash in Ras Tanura kills all 14 on board - Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ1QwVGJJM1hVTjRTNUJnSUhjalZlOWVfeHhobTMzbWlXUzdRdnF2c0dsYl9VbUpISDdkYW9YejI4TW43c1JOOW9EWnBZdWhCV2hpeFJqSGs0N0VDUnRrRThScGZRVU1lWUpxTWV3dG9kcmVBYUhja1g1UUU4T1JCVE1uZDBlX2ZhOTlsUVZId2NMd1JqSk840gGcAUFVX3lxTE96U3pIWlQ2V3RfSlNsbnY5SjdnR3ZQdi1Bbkpad2N1M0dMRDd2QmpuLWpaeHhWZ1hJZnRhLUl4Z0hEaU1oSF9qbkh3QzM1VTlJVkF4eG9sYV9kdkNSVDdONkg4ZmFJVTZFSThqaEw0bHQ2aGtyQ0xIeksxYmZkRE9tdzVidjlpVTN2TXRpYnRqRFhhcVBwSmlUaHE3Zg?oc=5",
+    "source_name": "Google News (Breaking)",
     "ai_analysis": {
       "category": "Aviation",
       "risk_score": 8,
+      "location": "Ras Tanura, Saudi Arabia",
+      "latitude": 26.9333,
+      "longitude": 49.7833,
+      "detailed_analysis": "A helicopter crash in Ras Tanura, Saudi Arabia, has resulted in the loss of all 14 lives on board. The incident involves Saudi Aramco, a major oil company, and may have implications for aviation safety and security in the region.",
+      "immediate_forecast_24h": "Investigations into the cause of the crash are likely to begin immediately, with potential disruptions to Saudi Aramco's operations and aviation activities in the area.",
+      "strategic_outlook": "The long-term impact of this incident may depend on the findings of the investigation, but it could lead to increased scrutiny of aviation safety and security measures in the region, particularly for companies like Saudi Aramco.",
+      "operational_impact": "The crash may cause temporary disruptions to Saudi Aramco's operations, potentially affecting oil production and logistics in the region, as well as having implications for the safety and security of personnel and assets.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "190242953e343cb8a343c3adb5b75e82",
+    "timestamp": "2026-06-28T16:18:14.520822",
+    "original_title": "France skydiving crash: Plane crashes near Nancy-Essey airfield, killing all 11 people on board in Nancy - ABC11 News",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTmJqTEtnb0JFYjVxOTNsYmNVZkVhYndSdjZCN2E3RkEzVm1IOEpCVW5LZjIwcF9ZWC1aMmF6STVEazlTYVhFZ0E1alpFdjUzZXhQZGU1YlpHTWZvQmhtTExsTXV1LWZrRG1Zc2dYUzl0YzhwTTB6aUdHOEM5QTVhLWo1bnZOcjhxdktma2xETlpNOUUzcjJaYzFKbG1ha21QM3RocWktNjcwRnVFa3VUX3YtTkTSAboBQVVfeXFMTkIwQVR6R2R6Y3Rjejk3Ry14MTNjek5YV0RtMjF5NFN5a2hkNkhKemUtNkwya2NyZVlLVEdnVU13bTBzZUpxMTl2VGpiTkFobEtVTHA5SHBEbGNwazFvUzJJVF9UYUY1eF9EalREbjFLR3lIUGI5S081ellWT0tVeEN6aU1xUWRZNVQzZnJkQ1JtMnBjYkVDTnVfRWlrdno2eWkxSXhCRERPMWVGMF9QTTRjRko5Q2JTRDB3?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 9,
       "location": "Nancy, France",
-      "latitude": 48.6921,
+      "latitude": 48.6923,
       "longitude": 6.1842,
-      "detailed_analysis": "A skydiving plane crashed in a field near Nancy, France, resulting in the deaths of all 11 people on board, including five instructors, five students, and a pilot. The cause of the crash is not yet known.",
-      "immediate_forecast_24h": "Investigations into the crash are likely to begin immediately, and there may be a temporary disruption to skydiving operations in the area. However, there is no indication of a broader threat to aviation at this time.",
-      "strategic_outlook": "The crash highlights the importance of maintaining rigorous safety standards in aviation, particularly in high-risk activities such as skydiving. Regulatory bodies may review safety protocols and procedures to minimize the risk of similar incidents in the future.",
-      "operational_impact": "The crash is unlikely to have a significant impact on commercial air travel or logistics operations, but it may affect skydiving and other general aviation activities in the region.",
+      "detailed_analysis": "A plane carrying 11 people crashed near Nancy-Essey airfield, resulting in the death of all on board. The incident is a significant threat to aviation safety and may impact air travel in the region.",
+      "immediate_forecast_24h": "Investigations into the cause of the crash will likely begin immediately, and air traffic in the area may be affected. There is a possibility of increased security measures at nearby airports.",
+      "strategic_outlook": "The long-term impact of this incident will depend on the findings of the investigation. If the cause is determined to be a result of human error or mechanical failure, it may lead to changes in safety protocols and regulations for skydiving operations.",
+      "operational_impact": "The crash may lead to a temporary suspension of skydiving operations in the area, and nearby airports may experience disruptions to air traffic. The incident may also impact the confidence of passengers and skydivers, potentially affecting the aviation industry as a whole.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "59f954813290e9b5c78ab42d99ef6bf5",
+    "timestamp": "2026-06-28T16:18:19.537907",
+    "original_title": "Tehran targets Bahrain and Kuwait after US attacks",
+    "link": "https://www.france24.com/en/video/20260628-tehran-targets-bahrain-and-kuwait-after-us-attacks",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Bahrain and Kuwait",
+      "latitude": 29.0,
+      "longitude": 45.5,
+      "detailed_analysis": "Tehran launched missiles and drones at Bahrain and Kuwait, both hosting US military bases, escalating tensions in the region and posing a significant threat to aviation and personnel",
+      "immediate_forecast_24h": "Renewed violence and potential further escalation between Iran and the US, with possible attacks on US military bases and interests in the region",
+      "strategic_outlook": "Long-term instability in the region, potentially disrupting global shipping routes and impacting oil prices, with ongoing tensions between Iran and the US",
+      "operational_impact": "Potential disruption to air traffic and logistics in the region, with increased security measures and possible delays or cancellations of flights",
       "proximity_alert": null
     }
   }
