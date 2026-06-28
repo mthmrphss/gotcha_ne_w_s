@@ -112,5 +112,43 @@
       "operational_impact": "Potential delays or cancellations of flights and shipments, increased security protocols for aircraft and vessels, and possible rerouting of cargo and aviation traffic to avoid the affected area.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "259bcaef9214a46098a28919379aceb8",
+    "timestamp": "2026-06-28T00:08:50.050704",
+    "original_title": "U.S. strikes multiple targets in Iran in retaliation for oil tanker attack - NPR",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBudTduRW1oLXhJaGhPblRFdkM4SHFjMmd3WXFTaDF0RjJoUVd2N05GdjdUcDFSSXdxVFNjNFNKdHI4Ym1WNlotQ21zRTR5ZWUzcHFtSmltOGZHckx2YWU5SXo5elpkeXZodXBWYw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The U.S. has struck multiple targets in Iran in retaliation for an oil tanker attack, indicating a significant escalation in tensions between the two nations, posing a high risk to assets, cargo, aviation, and personnel in the region.",
+      "immediate_forecast_24h": "Increased military activity and heightened tensions are expected in the short term, potentially leading to further retaliatory actions and disruptions to transport and logistics in the region.",
+      "strategic_outlook": "The long-term outlook suggests a continued risk of conflict and instability in the region, potentially affecting global oil supplies and trade routes, with significant implications for aviation, cargo, and personnel security.",
+      "operational_impact": "Transport and logistics operations in the region may be severely impacted, with potential disruptions to oil supplies, increased security measures, and heightened risks to personnel and assets.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "91ea2d00064cb8b71cec73932a54925c",
+    "timestamp": "2026-06-28T00:08:55.853115",
+    "original_title": "Mideast Live Updates: U.S. Strikes Iran Again, Testing Truce",
+    "link": "https://www.nytimes.com/live/2026/06/27/world/us-iran-strikes-hormuz",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Mideast",
+      "latitude": 29.5599,
+      "longitude": 47.6467,
+      "detailed_analysis": "The U.S. has carried out retaliatory airstrikes on Iran for the second consecutive night, citing the latest barrage as a response to an attack on an oil tanker on Saturday, indicating heightened tensions and potential for further conflict in the region.",
+      "immediate_forecast_24h": "Increased military activity and potential for further retaliatory strikes between the U.S. and Iran, posing a significant threat to aviation and cargo operations in the region.",
+      "strategic_outlook": "The ongoing conflict between the U.S. and Iran may lead to a prolonged period of instability in the region, affecting global oil supplies, aviation routes, and cargo shipments, with potential long-term implications for global trade and security.",
+      "operational_impact": "Potential disruptions to air traffic and cargo shipments in the region, increased security measures for aviation and maritime operations, and possible rerouting of flights and cargo vessels to avoid the conflict zone.",
+      "proximity_alert": null
+    }
   }
 ]
