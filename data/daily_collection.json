@@ -606,5 +606,62 @@
       "operational_impact": "Potential disruption to air traffic and logistics in the region, with increased security measures and possible delays or cancellations of flights",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "b91a823b6e0e19183bdbfc706f560980",
+    "timestamp": "2026-06-28T17:45:32.838016",
+    "original_title": "5 nurses among 11 killed when skydiving plane crashes in France - CBS News",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPR3pkNWJDQm1sbEtJU0gyajg3QkNZamZvekIwaEhEZjhEVTVCWG16MHNrNVpRZzVLbFBlcDZCTy1IblM2bUUtYzFKQURHSWtGUzFVZmZkc3dGc2t1Tzh2dk1va1NhdzBmWm90bXlOLVdSdk1JaDRjeFhfQkNhN2ZhZg?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 8,
+      "location": "France",
+      "latitude": 46.227638,
+      "longitude": 2.213749,
+      "detailed_analysis": "A skydiving plane crashed in France, resulting in 11 fatalities, including 5 nurses. The incident highlights the risks associated with aviation, particularly in recreational activities.",
+      "immediate_forecast_24h": "Investigations into the cause of the crash are likely to begin immediately, and aviation authorities may increase surveillance and safety checks on similar aircraft in the region.",
+      "strategic_outlook": "The long-term impact of this incident may lead to increased safety regulations and protocols for skydiving operations, potentially affecting the aviation industry as a whole.",
+      "operational_impact": "The crash may cause a temporary disruption to skydiving operations in the region, but it is unlikely to have a significant impact on commercial aviation or logistics.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "7866984fc706672f237f1aa67a4efe17",
+    "timestamp": "2026-06-28T17:45:39.963234",
+    "original_title": "Ukrainian strike ignites Russian oil refinery, as Putin acknowledges 'difficult period'",
+    "link": "https://www.france24.com/en/europe/20260628-ukraine-drone-assault-ignites-russian-oil-refinery-as-putin-acknowledges-difficult-period",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Russia",
+      "latitude": 60.0,
+      "longitude": 100.0,
+      "detailed_analysis": "A Ukrainian strike using drones has ignited a major oil refinery in Russia, indicating an escalation in the conflict and potential disruption to fuel supplies and military logistics.",
+      "immediate_forecast_24h": "Increased tensions between Ukraine and Russia, potential for retaliatory strikes, and heightened security measures around critical infrastructure.",
+      "strategic_outlook": "Long-term disruption to Russia's fuel supplies and military capabilities, potentially weakening their position in the conflict, and increased reliance on alternative supply chains.",
+      "operational_impact": "Potential delays and disruptions to transport and logistics in the region, increased security checks, and possible shortages of fuel and other critical supplies.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "2d3fa6294ec400293065c0fd7b4eb7d7",
+    "timestamp": "2026-06-28T17:45:42.798408",
+    "original_title": "Kuwait - Level 3: Reconsider Travel",
+    "link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/kuwait-travel-advisory.html",
+    "source_name": "US State Dept",
+    "ai_analysis": {
+      "category": "Conflict/Aviation/Crime",
+      "risk_score": 10,
+      "location": "Kuwait City, Kuwait",
+      "latitude": 29.3759,
+      "longitude": 47.9774,
+      "detailed_analysis": "The U.S. Department of State has issued a Level 3 travel advisory for Kuwait due to the threat of armed conflict, landmines, and crime. There is an ongoing threat of drone and missile attacks from Iran, and commercial aviation has been disrupted. The Federal Aviation Administration has issued a Notice to Airmen due to risks to civil aviation operating within or nearby the Persian Gulf and the Gulf of Oman region, including Kuwait.",
+      "immediate_forecast_24h": "Increased risk of drone and missile attacks, potential for further disruptions to commercial aviation, and heightened crime in certain areas such as Jleeb Al-Shuyoukh in Kuwait City.",
+      "strategic_outlook": "Long-term instability in the region due to ongoing conflict between the United States and Iran, with potential for further escalation and increased risk to aviation, cargo, and personnel.",
+      "operational_impact": "Potential disruptions to air travel, increased security measures, and heightened risk of cargo theft or damage due to conflict and crime in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Kuwait International Airport (17 km)"
+    }
   }
 ]
