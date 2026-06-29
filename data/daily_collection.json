@@ -93,5 +93,43 @@
       "operational_impact": "Potential disruptions to air traffic, shipping, and logistics in the region, with increased security measures and possible rerouting of flights and cargo ships.",
       "proximity_alert": "YAKIN TEHDİT: Bahrain International Airport (23 km)"
     }
+  },
+  {
+    "id": "d675fc0115296447d5220bf8c068abc0",
+    "timestamp": "2026-06-29T05:14:08.429449",
+    "original_title": "US says Iran talks to continue, with 'both sides' pausing strikes",
+    "link": "https://www.france24.com/en/middle-east/20260629-middle-east-live-lebanon-rejects-us%E2%80%93israel-framework-hezbollah-asserts-right-to-self-defence",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The US and Iran have agreed to pause strikes, which could lead to a temporary reduction in tensions. However, the situation remains volatile, and any miscalculation could escalate into a larger conflict, potentially affecting aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "The pause in strikes is expected to hold, but there is a risk of isolated incidents or proxy attacks that could disrupt transport and logistics in the region.",
+      "strategic_outlook": "A long-term resolution to the conflict is uncertain, and the situation may remain unstable for an extended period, affecting the security and efficiency of aviation and cargo operations in the region.",
+      "operational_impact": "The conflict could impact air traffic control, cargo handling, and personnel safety in the region, particularly if the situation escalates or if there are retaliatory attacks against aviation or logistics targets.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "74d10c4178703cdffab72662a66ddff2",
+    "timestamp": "2026-06-29T05:14:10.497946",
+    "original_title": "Pakistan says retaliatory airstrikes in Afghanistan killed 25 militants",
+    "link": "https://www.france24.com/en/middle-east/20260629-pakistan-says-retaliatory-airstrikes-in-afghanistan-killed-25-militants",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "Eastern Afghanistan",
+      "latitude": 34.0,
+      "longitude": 69.0,
+      "detailed_analysis": "Pakistan's retaliatory airstrikes in eastern Afghanistan have killed 25 militants, indicating a heightened state of conflict and potential for further escalation. The strikes were in response to cross-border violence, including the killing of paramilitary troops in Karachi.",
+      "immediate_forecast_24h": "Increased tensions between Pakistan and Afghanistan are expected, with potential for further military action or retaliatory attacks from militant groups. Aviation and cargo operations in the region may be impacted by heightened security measures or airspace restrictions.",
+      "strategic_outlook": "The long-term outlook for the region remains unstable, with ongoing conflict and terrorism posing a significant threat to assets, cargo, aviation, and personnel. The situation may escalate into a broader conflict, affecting regional stability and global supply chains.",
+      "operational_impact": "Transport and logistics operations in the region may be disrupted due to increased security measures, airspace restrictions, or potential for further conflict. Cargo and aviation operators should exercise extreme caution and monitor the situation closely to minimize risks to their assets and personnel.",
+      "proximity_alert": null
+    }
   }
 ]
