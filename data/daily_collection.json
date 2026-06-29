@@ -492,5 +492,62 @@
       "operational_impact": "The incident may cause short-term disruptions to Ryanair operations, but the airline's swift response to increase security should mitigate any long-term impacts on transport and logistics.",
       "proximity_alert": "YAKIN TEHDİT: Clayton Hotel Dublin Airport (3 km)"
     }
+  },
+  {
+    "id": "8792b1068b386bf9fe43f75a570d6644",
+    "timestamp": "2026-06-29T20:11:51.596636",
+    "original_title": "Last chance for migrants as Spain's regularisation window closes",
+    "link": "http://www.africanews.com/2026/06/29/last-chance-for-migrants-as-spains-regularisation-window-closes/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Border",
+      "risk_score": 10,
+      "location": "Spain",
+      "latitude": 40.4168,
+      "longitude": -3.7038,
+      "detailed_analysis": "Undocumented migrants rushing to apply for regularisation may lead to increased border activity and potential stowaways, affecting transport and logistics.",
+      "immediate_forecast_24h": "Increased migrant activity at borders and potential congestion at application centers, with a focus on meeting the deadline.",
+      "strategic_outlook": "Long-term implications for border control and migrant management, potentially influencing transport security and logistics operations in the region.",
+      "operational_impact": "Potential delays and disruptions to transport and logistics operations due to increased border activity and security measures.",
+      "proximity_alert": "YAKIN TEHDİT: Adolfo Suárez Madrid–Barajas Airport (14 km)"
+    }
+  },
+  {
+    "id": "9738645966d2929d7e8b9ff3d52686df",
+    "timestamp": "2026-06-29T20:11:53.454338",
+    "original_title": "Deadly floods sweep through Ghana's capital",
+    "link": "http://www.africanews.com/2026/06/29/deadly-floods-sweep-through-ghanas-capital/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Other",
+      "risk_score": 10,
+      "location": "Accra, Ghana",
+      "latitude": 5.6037,
+      "longitude": -0.1869,
+      "detailed_analysis": "Torrential rains triggered severe flooding across Ghana's capital, Accra, resulting in at least three fatalities. The flooding may impact road transportation and logistics, potentially causing delays or disruptions to cargo and personnel movement.",
+      "immediate_forecast_24h": "Flooding is expected to continue, with potential for further disruptions to transportation and daily life. Emergency services are likely to be deployed to assist with rescue and relief efforts.",
+      "strategic_outlook": "The flooding may have long-term implications for Accra's infrastructure and disaster preparedness. It is essential for authorities to assess the damage and implement measures to mitigate the effects of future flooding events.",
+      "operational_impact": "The flooding may cause delays or disruptions to cargo and personnel movement, particularly for those relying on road transportation. Aviation operations are unlikely to be directly affected, but may be impacted by the broader logistical disruptions.",
+      "proximity_alert": "YAKIN TEHDİT: Kotoka International Airport (2 km)"
+    }
+  },
+  {
+    "id": "bbfa65824f667895383ef986d8842ce0",
+    "timestamp": "2026-06-29T20:11:55.371197",
+    "original_title": "Senegal MPs back sweeping constitutional reform",
+    "link": "http://www.africanews.com/2026/06/29/senegal-mps-back-sweeping-constitutional-reform/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Dakar, Senegal",
+      "latitude": 14.73,
+      "longitude": -17.38,
+      "detailed_analysis": "Protesters clashed with security outside Senegal's National Assembly, where lawmakers approved a major constitutional reform, leading to police firing tear gas. This unrest could potentially disrupt transport and logistics operations in the area.",
+      "immediate_forecast_24h": "Further protests and clashes are possible in the short term, potentially affecting aviation and cargo operations at nearby airports and ports.",
+      "strategic_outlook": "The situation may stabilize once the constitutional reforms are fully implemented, but ongoing unrest could lead to long-term disruptions in the region.",
+      "operational_impact": "Potential disruptions to ground transport, possible delays at airports and ports, and increased security measures may affect personnel and cargo movements.",
+      "proximity_alert": "YAKIN TEHDİT: Blaise Diagne International Airport (8 km)"
+    }
   }
 ]
