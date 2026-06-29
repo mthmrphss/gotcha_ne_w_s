@@ -55,5 +55,43 @@
       "operational_impact": "Transport and logistics operations in the region are likely to be severely disrupted, with potential for cargo theft, damage, or loss. Aviation operations may also be affected, particularly if drone strikes or other attacks on aircraft occur.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "ebac25601a8316820fdf420fa514759a",
+    "timestamp": "2026-06-29T00:14:30.166162",
+    "original_title": "Iran’s Next Military Arsenal Comes From China, Russia, and North Korea",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1uibsdg/irans_next_military_arsenal_comes_from_china/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Iran's acquisition of military arsenal from China, Russia, and North Korea poses a significant threat to regional stability and global security. This development could lead to an escalation of tensions and potentially disrupt aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Increased military activity and heightened tensions in the region, potentially affecting air traffic and cargo shipments.",
+      "strategic_outlook": "Long-term implications include a shift in the regional balance of power, potentially leading to increased conflict and instability, which could have a significant impact on global trade and logistics.",
+      "operational_impact": "Potential disruptions to air traffic, cargo shipments, and logistics operations in the region, with possible ripple effects on global supply chains.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "cc038d3805af1440f5df11cbf1159f5c",
+    "timestamp": "2026-06-29T00:14:33.519598",
+    "original_title": "Iran attacks Bahrain and Kuwait, threatens to halt talks after fresh US strikes",
+    "link": "https://www.france24.com/en/middle-east/20260628-iran-threatens-to-halt-talks-after-fresh-us-strikes-attacks-bahrain-and-kuwait",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 10,
+      "location": "Bahrain and Kuwait",
+      "latitude": 26.0667,
+      "longitude": 50.5667,
+      "detailed_analysis": "Iran has launched drone and missile attacks on Bahrain and Kuwait, threatening to halt negotiations and close the Strait of Hormuz if the US continues its attacks, posing a significant threat to aviation and regional stability.",
+      "immediate_forecast_24h": "Increased tensions and potential for further attacks on Bahrain and Kuwait, with possible disruptions to air traffic and shipping in the region.",
+      "strategic_outlook": "Escalating conflict between Iran and the US could lead to a prolonged period of instability in the region, affecting global oil supplies and air travel.",
+      "operational_impact": "Potential disruptions to air traffic, shipping, and logistics in the region, with increased security measures and possible rerouting of flights and cargo ships.",
+      "proximity_alert": "YAKIN TEHDİT: Bahrain International Airport (23 km)"
+    }
   }
 ]
