@@ -264,5 +264,81 @@
       "operational_impact": "The manhunt and investigation may cause disruptions to transport and logistics in the region, particularly if security measures are heightened.",
       "proximity_alert": "YAKIN TEHDİT: Nice Côte d'Azur Airport (18 km)"
     }
+  },
+  {
+    "id": "9a36f6673296ff36359d5dd520202116",
+    "timestamp": "2026-06-30T15:16:09.116744",
+    "original_title": "An Ecuadorian Fishing Boat Disappears Amid Trump’s Strikes in the Pacific",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1ujr459/an_ecuadorian_fishing_boat_disappears_amid_trumps/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict/Aviation/Crime",
+      "risk_score": 7,
+      "location": "Pacific Ocean, Ecuador",
+      "latitude": -0.5,
+      "longitude": -90.0,
+      "detailed_analysis": "An Ecuadorian fishing boat has disappeared amid strikes in the Pacific, potentially related to Trump's actions, posing a threat to assets, cargo, aviation, and personnel in the region due to increased military activity and potential for miscalculation or accidental targeting.",
+      "immediate_forecast_24h": "Increased naval and air activity in the region may lead to further incidents or accidents, and there is a risk of escalation between involved parties.",
+      "strategic_outlook": "The situation may lead to a prolonged period of heightened tensions in the Pacific, affecting maritime trade routes and aviation corridors, with potential long-term implications for regional stability and security.",
+      "operational_impact": "Shipping and aviation companies should exercise caution when operating in the region, with potential disruptions to supply chains and increased risk of accidents or incidents due to the heightened military presence.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "1608755afeb49035ceb68bfbe887b63b",
+    "timestamp": "2026-06-30T15:16:11.798400",
+    "original_title": "More than one million migrants apply for legal status in Spain",
+    "link": "http://www.africanews.com/2026/06/30/more-than-one-million-migrants-apply-for-legal-status-in-spain/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Border",
+      "risk_score": 10,
+      "location": "Spain",
+      "latitude": 40.4168,
+      "longitude": -3.7038,
+      "detailed_analysis": "Over one million undocumented migrants and asylum seekers have applied for legal residency in Spain, which may lead to increased border activity and potential stowaways affecting transport",
+      "immediate_forecast_24h": "Increased migrant activity at borders, potential for stowaways on transport vehicles",
+      "strategic_outlook": "Long-term impact on Spain's immigration policies and potential effects on European migration trends",
+      "operational_impact": "Potential disruptions to transport and logistics due to increased border activity and migrant flows",
+      "proximity_alert": "YAKIN TEHDİT: Adolfo Suárez Madrid–Barajas Airport (14 km)"
+    }
+  },
+  {
+    "id": "0934703078fa2929728cbfc6b7eeac72",
+    "timestamp": "2026-06-30T15:16:13.595298",
+    "original_title": "Anti-immigrant protests in South Africa on June 30 'deadline'",
+    "link": "http://www.africanews.com/2026/06/30/anti-immigrant-protests-in-south-africa-on-june-30-deadline/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 6,
+      "location": "South Africa",
+      "latitude": -30.0,
+      "longitude": 25.0,
+      "detailed_analysis": "Anti-immigrant protests in South Africa pose a threat to the safety of personnel and potential disruption to cargo and aviation operations due to civil unrest.",
+      "immediate_forecast_24h": "Increased tensions and potential clashes between protesters and law enforcement, with possible disruptions to transportation and logistics in the region.",
+      "strategic_outlook": "Long-term instability and potential for further protests, which could impact the overall security environment and operations in South Africa.",
+      "operational_impact": "Potential delays or disruptions to cargo and aviation operations, as well as risks to personnel safety, particularly for those from immigrant backgrounds or involved in logistics and transportation.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "93322c9c206ecfd42fe2076de2040d19",
+    "timestamp": "2026-06-30T15:16:15.487409",
+    "original_title": "Rights groups sue Ghana over US third-country deportations",
+    "link": "http://www.africanews.com/2026/06/30/rights-groups-sue-ghana-over-us-third-country-deportations/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Border",
+      "risk_score": 10,
+      "location": "Accra, Ghana",
+      "latitude": 5.6037,
+      "longitude": -0.1869,
+      "detailed_analysis": "The lawsuit against Ghana over US third-country deportations may lead to increased migrant activity and potential border breaches, affecting transport and logistics in the region.",
+      "immediate_forecast_24h": "No immediate disruptions expected, but increased security presence at borders and airports is possible.",
+      "strategic_outlook": "The outcome of the lawsuit may impact Ghana's migration policies and its relationship with the US, potentially leading to changes in border control and security measures.",
+      "operational_impact": "Potential delays or disruptions to transport and logistics operations, particularly at airports and border crossings, due to increased security measures or migrant activity.",
+      "proximity_alert": "YAKIN TEHDİT: Kotoka International Airport (2 km)"
+    }
   }
 ]
