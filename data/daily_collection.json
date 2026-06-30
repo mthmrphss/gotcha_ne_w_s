@@ -207,5 +207,62 @@
       "operational_impact": "Potential delays or increased security measures at airports, affecting air cargo and passenger travel.",
       "proximity_alert": "YAKIN TEHDİT: SHERATON AIRPORT (0 km)"
     }
+  },
+  {
+    "id": "5e94db7ee08c8d285b77854cbc8550e1",
+    "timestamp": "2026-06-30T12:29:45.288234",
+    "original_title": "Plane crash reported in Dinwiddie - FOX5 Vegas",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXNWJtMzd6S1E4aVNtS2RKZGVYQi03OE9BNUVCaUpHeVpOemd3Q0J6WWpSVk90a3hiWDRrdG5qZG5QRHZydHg1dWRfS0hqd1drQ0FxZEFMLUFwTE1Fd0FnY1Rjb1k3SzZidmd1NDN1eXc1TTZQbEhWRXpXSG1kMjQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 8,
+      "location": "Dinwiddie, USA",
+      "latitude": 37.0779,
+      "longitude": -77.5869,
+      "detailed_analysis": "A plane crash has been reported in Dinwiddie, indicating a potential threat to aviation safety and security. The cause of the crash is currently unknown and under investigation.",
+      "immediate_forecast_24h": "Emergency services are likely to be deployed to the scene, and an investigation into the cause of the crash will be initiated. There may be disruptions to local air traffic and potential ground transportation in the surrounding area.",
+      "strategic_outlook": "The incident may lead to a review of aviation safety protocols and procedures in the region. Depending on the cause of the crash, it could have implications for the aviation industry as a whole, potentially leading to changes in regulations or safety standards.",
+      "operational_impact": "The crash may cause disruptions to flight schedules and air traffic in the region, potentially impacting cargo and passenger transport. The incident may also lead to increased security measures at nearby airports and airfields.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "4647f759b3104951fb6cfe9010f4e707",
+    "timestamp": "2026-06-30T12:29:48.850761",
+    "original_title": "Parcel Bomb Explodes in Monaco, Injuring 3",
+    "link": "https://www.nytimes.com/2026/06/30/world/europe/monaco-parcel-bomb-explosion.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Terrorism/Crime",
+      "risk_score": 10,
+      "location": "Monaco",
+      "latitude": 43.7333,
+      "longitude": 7.4167,
+      "detailed_analysis": "A parcel bomb exploded in Monaco, injuring 3 people, including a child. The assailant is on the run, indicating a potential for further attacks.",
+      "immediate_forecast_24h": "Increased security measures are expected in Monaco, with potential disruptions to transportation and logistics. The assailant's whereabouts are unknown, posing a risk of additional attacks.",
+      "strategic_outlook": "This incident highlights the ongoing threat of terrorism and crime in the region, emphasizing the need for enhanced security protocols and intelligence gathering to prevent future attacks.",
+      "operational_impact": "Transportation and logistics operations in Monaco may be affected due to increased security checks and potential disruptions. Cargo and personnel security should be heightened, with a focus on mail and parcel screening.",
+      "proximity_alert": "YAKIN TEHDİT: Nice Côte d'Azur Airport (18 km)"
+    }
+  },
+  {
+    "id": "5cbb2fa08204ace553d637e67c7f347b",
+    "timestamp": "2026-06-30T12:29:52.924207",
+    "original_title": "Monaco bombing suspect flees to France as police probe attempted murder",
+    "link": "https://www.france24.com/en/europe/20260630-monaco-bomb-suspect-flees-to-france-as-police-probe-attempted-murder",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Crime",
+      "risk_score": 10,
+      "location": "Monaco, France",
+      "latitude": 43.7333,
+      "longitude": 7.4167,
+      "detailed_analysis": "A bombing suspect has fled to France after an explosion in Monaco wounded three people, including a Ukrainian-born oligarch. The attack is being investigated as attempted murder, but not considered a terrorism act.",
+      "immediate_forecast_24h": "Police in Monaco and France will continue the manhunt for the suspected bomber, potentially leading to increased security measures in the region.",
+      "strategic_outlook": "The incident may lead to increased security cooperation between Monaco and France, potentially affecting travel and transport in the region.",
+      "operational_impact": "The manhunt and investigation may cause disruptions to transport and logistics in the region, particularly if security measures are heightened.",
+      "proximity_alert": "YAKIN TEHDİT: Nice Côte d'Azur Airport (18 km)"
+    }
   }
 ]

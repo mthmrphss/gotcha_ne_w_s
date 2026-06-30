@@ -1,116 +1,59 @@
 [
   {
-    "id": "ddd403720aeb81ce9a77b006a743db6b",
-    "timestamp": "2026-06-30T10:08:14.106098",
-    "original_title": "China Increases Military and Economic Pressure on Japan",
-    "link": "https://www.nytimes.com/2026/06/30/world/asia/china-japan-rare-earths-patrols.html",
+    "id": "5e94db7ee08c8d285b77854cbc8550e1",
+    "timestamp": "2026-06-30T12:29:45.288234",
+    "original_title": "Plane crash reported in Dinwiddie - FOX5 Vegas",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXNWJtMzd6S1E4aVNtS2RKZGVYQi03OE9BNUVCaUpHeVpOemd3Q0J6WWpSVk90a3hiWDRrdG5qZG5QRHZydHg1dWRfS0hqd1drQ0FxZEFMLUFwTE1Fd0FnY1Rjb1k3SzZidmd1NDN1eXc1TTZQbEhWRXpXSG1kMjQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 8,
+      "location": "Dinwiddie, USA",
+      "latitude": 37.0779,
+      "longitude": -77.5869,
+      "detailed_analysis": "A plane crash has been reported in Dinwiddie, indicating a potential threat to aviation safety and security. The cause of the crash is currently unknown and under investigation.",
+      "immediate_forecast_24h": "Emergency services are likely to be deployed to the scene, and an investigation into the cause of the crash will be initiated. There may be disruptions to local air traffic and potential ground transportation in the surrounding area.",
+      "strategic_outlook": "The incident may lead to a review of aviation safety protocols and procedures in the region. Depending on the cause of the crash, it could have implications for the aviation industry as a whole, potentially leading to changes in regulations or safety standards.",
+      "operational_impact": "The crash may cause disruptions to flight schedules and air traffic in the region, potentially impacting cargo and passenger transport. The incident may also lead to increased security measures at nearby airports and airfields.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "4647f759b3104951fb6cfe9010f4e707",
+    "timestamp": "2026-06-30T12:29:48.850761",
+    "original_title": "Parcel Bomb Explodes in Monaco, Injuring 3",
+    "link": "https://www.nytimes.com/2026/06/30/world/europe/monaco-parcel-bomb-explosion.html",
     "source_name": "NewYork Times",
     "ai_analysis": {
-      "category": "Conflict/Aviation",
+      "category": "Terrorism/Crime",
       "risk_score": 10,
-      "location": "Japan, East Asia",
-      "latitude": 35.6895,
-      "longitude": 139.767,
-      "detailed_analysis": "China's increased military pressure on Japan, including flying bombers near Japanese airspace, poses a significant threat to aviation and regional stability. The detention of businesspeople and restrictions on rare earth exports add to the economic pressure.",
-      "immediate_forecast_24h": "Increased military activity near Japanese airspace, potential for further economic restrictions, and heightened tensions between China and Japan.",
-      "strategic_outlook": "Long-term escalation of tensions between China and Japan could lead to increased military presence, economic sanctions, and potential disruption to global supply chains.",
-      "operational_impact": "Potential disruption to air traffic, increased security measures for flights and cargo, and possible delays or restrictions on trade between Japan and China.",
-      "proximity_alert": "YAKIN TEHDİT: Haneda Airport (16 km)"
+      "location": "Monaco",
+      "latitude": 43.7333,
+      "longitude": 7.4167,
+      "detailed_analysis": "A parcel bomb exploded in Monaco, injuring 3 people, including a child. The assailant is on the run, indicating a potential for further attacks.",
+      "immediate_forecast_24h": "Increased security measures are expected in Monaco, with potential disruptions to transportation and logistics. The assailant's whereabouts are unknown, posing a risk of additional attacks.",
+      "strategic_outlook": "This incident highlights the ongoing threat of terrorism and crime in the region, emphasizing the need for enhanced security protocols and intelligence gathering to prevent future attacks.",
+      "operational_impact": "Transportation and logistics operations in Monaco may be affected due to increased security checks and potential disruptions. Cargo and personnel security should be heightened, with a focus on mail and parcel screening.",
+      "proximity_alert": "YAKIN TEHDİT: Nice Côte d'Azur Airport (18 km)"
     }
   },
   {
-    "id": "a9c10e6e1079312055e380a670c4eb3a",
-    "timestamp": "2026-06-30T10:08:17.393531",
-    "original_title": "At a Glance: American Quadcopter Component Manufacturing",
-    "link": "https://warontherocks.com/cogs-of-war/at-a-glance-american-quadcopter-component-manufacturing/",
-    "source_name": "War on the Rocks",
-    "ai_analysis": {
-      "category": "Other",
-      "risk_score": 10,
-      "location": "Washington, USA",
-      "latitude": 38.8951,
-      "longitude": -77.0364,
-      "detailed_analysis": "The article discusses the debate and anxiety in Washington about China's drone dominance and the need to decouple from it, with a focus on American quadcopter component manufacturing. There is no direct threat to assets, cargo, aviation, or personnel.",
-      "immediate_forecast_24h": "No immediate action or changes expected in the next 24 hours.",
-      "strategic_outlook": "Long-term, the US may focus on developing its own drone component manufacturing capabilities to reduce dependence on China, potentially impacting the aviation and logistics industries.",
-      "operational_impact": "No operational impact expected at this time, as the article is focused on a general debate and not a specific incident or threat.",
-      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
-    }
-  },
-  {
-    "id": "ab5cad713571f33f2efba2062668d7c6",
-    "timestamp": "2026-06-30T10:08:19.711454",
-    "original_title": "25,000 foreigners flee South Africa as unofficial deadline to leave expires",
-    "link": "http://www.africanews.com/2026/06/30/25000-foreigners-flee-south-africa-as-unofficial-deadline-to-leave-expires/",
-    "source_name": "Africa News",
-    "ai_analysis": {
-      "category": "Civil Unrest/Border/Conflict",
-      "risk_score": 6,
-      "location": "South Africa",
-      "latitude": -30.0,
-      "longitude": 25.0,
-      "detailed_analysis": "The situation in South Africa poses a significant threat to Assets, Cargo, Aviation, and Personnel due to civil unrest and the potential for violence as thousands of foreigners flee the country. The deployment of police to maintain order indicates a high level of tension.",
-      "immediate_forecast_24h": "Increased protests and potential clashes between citizens and foreign nationals, with a high likelihood of disruptions to transport and logistics. Aviation may be impacted by unrest at airports or nearby areas.",
-      "strategic_outlook": "Long-term instability in South Africa could lead to sustained disruptions in cargo transport, aviation, and overall economic activity, affecting regional and global supply chains.",
-      "operational_impact": "Potential delays or cancellations of flights, increased security measures at airports and border crossings, and disruptions to ground transportation and logistics operations.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "85ab03418147c247df0e674287cadc27",
-    "timestamp": "2026-06-30T10:08:21.956162",
-    "original_title": "South Africa deploys police, foreigners brace for violence as anti-immigrant protests begin",
-    "link": "https://www.france24.com/en/africa/20260630-south-africa-deploys-police-foreigners-brace-for-violence-as-anti-immigrant-protests-begin",
+    "id": "5cbb2fa08204ace553d637e67c7f347b",
+    "timestamp": "2026-06-30T12:29:52.924207",
+    "original_title": "Monaco bombing suspect flees to France as police probe attempted murder",
+    "link": "https://www.france24.com/en/europe/20260630-monaco-bomb-suspect-flees-to-france-as-police-probe-attempted-murder",
     "source_name": "France 24 ME",
     "ai_analysis": {
-      "category": "Civil Unrest",
-      "risk_score": 7,
-      "location": "South Africa",
-      "latitude": -30.0,
-      "longitude": 25.0,
-      "detailed_analysis": "Anti-immigrant protests in South Africa pose a significant threat to the safety of foreigners, with potential for violence and unrest. Thousands of foreigners have already fled the country ahead of the planned protests, indicating a high level of concern and risk.",
-      "immediate_forecast_24h": "Increased police presence and potential clashes between protesters and law enforcement, with a high likelihood of disruptions to daily life and business operations.",
-      "strategic_outlook": "Long-term instability and potential for further unrest, with possible impacts on the country's economy and international relations. The situation may also lead to increased migration and border control challenges.",
-      "operational_impact": "Potential disruptions to transport and logistics, particularly for cargo and personnel moving through or within South Africa. Companies with operations in the country should be prepared for possible delays, increased security measures, and potential evacuations.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "d0076c3be14a0ef2dcd4cffcb1b12272",
-    "timestamp": "2026-06-30T10:08:23.933705",
-    "original_title": "Final dash for documents as Spain triggers largest migrant amnesty in European history",
-    "link": "https://www.france24.com/en/video/20260630-final-dash-for-documents-as-spain-triggers-largest-migrant-amnesty-in-european-history",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Border",
+      "category": "Crime",
       "risk_score": 10,
-      "location": "Madrid, Spain",
-      "latitude": 40.4168,
-      "longitude": -3.7038,
-      "detailed_analysis": "A large-scale migrant regularization program in Spain may lead to increased border activity and potential security concerns, including stowaways and border breaches affecting transport.",
-      "immediate_forecast_24h": "The final day of the migrant regularization program may see a surge in applications, potentially leading to increased activity at border crossings and transportation hubs.",
-      "strategic_outlook": "The long-term impact of this program on border security and migration patterns in Europe remains to be seen, but it may lead to increased scrutiny of border controls and transportation security.",
-      "operational_impact": "Transportation and logistics operations in the region may be affected by increased security measures and potential disruptions at border crossings.",
-      "proximity_alert": "YAKIN TEHDİT: Adolfo Suárez Madrid–Barajas Airport (14 km)"
-    }
-  },
-  {
-    "id": "38edad24162c4c349f2b76699c8bf6bb",
-    "timestamp": "2026-06-30T10:08:28.328149",
-    "original_title": "EU reputation ‘at risk’ from entry-exit system, says aviation expert",
-    "link": "https://www.independent.co.uk/travel/news-and-advice/eu-entry-exit-system-airports-disaster-olivier-jankovec-b3005150.html",
-    "source_name": "Independent Travel",
-    "ai_analysis": {
-      "category": "Aviation/Border",
-      "risk_score": 10,
-      "location": "European Union",
-      "latitude": 50.8467,
-      "longitude": 4.3522,
-      "detailed_analysis": "The entry-exit system in the EU poses a risk to the reputation of the region, according to an aviation expert. This could lead to potential disruptions in air travel and logistics.",
-      "immediate_forecast_24h": "No immediate disruptions expected, but increased scrutiny of the entry-exit system is likely.",
-      "strategic_outlook": "The EU's reputation and air travel industry may be impacted in the long term if the entry-exit system is not improved.",
-      "operational_impact": "Potential delays or increased security measures at airports, affecting air cargo and passenger travel.",
-      "proximity_alert": "YAKIN TEHDİT: SHERATON AIRPORT (0 km)"
+      "location": "Monaco, France",
+      "latitude": 43.7333,
+      "longitude": 7.4167,
+      "detailed_analysis": "A bombing suspect has fled to France after an explosion in Monaco wounded three people, including a Ukrainian-born oligarch. The attack is being investigated as attempted murder, but not considered a terrorism act.",
+      "immediate_forecast_24h": "Police in Monaco and France will continue the manhunt for the suspected bomber, potentially leading to increased security measures in the region.",
+      "strategic_outlook": "The incident may lead to increased security cooperation between Monaco and France, potentially affecting travel and transport in the region.",
+      "operational_impact": "The manhunt and investigation may cause disruptions to transport and logistics in the region, particularly if security measures are heightened.",
+      "proximity_alert": "YAKIN TEHDİT: Nice Côte d'Azur Airport (18 km)"
     }
   }
 ]
