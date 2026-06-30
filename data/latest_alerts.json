@@ -1,21 +1,116 @@
 [
   {
-    "id": "025a480970232472dfcb53c5bdf981ec",
-    "timestamp": "2026-06-30T06:19:26.816846",
-    "original_title": "How ships are risking ‘safe’ passage through the Strait of Hormuz",
-    "link": "https://www.france24.com/en/middle-east/20260630-how-ships-are-risking-safe-passage-through-the-strait-of-hormuz",
+    "id": "ddd403720aeb81ce9a77b006a743db6b",
+    "timestamp": "2026-06-30T10:08:14.106098",
+    "original_title": "China Increases Military and Economic Pressure on Japan",
+    "link": "https://www.nytimes.com/2026/06/30/world/asia/china-japan-rare-earths-patrols.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 10,
+      "location": "Japan, East Asia",
+      "latitude": 35.6895,
+      "longitude": 139.767,
+      "detailed_analysis": "China's increased military pressure on Japan, including flying bombers near Japanese airspace, poses a significant threat to aviation and regional stability. The detention of businesspeople and restrictions on rare earth exports add to the economic pressure.",
+      "immediate_forecast_24h": "Increased military activity near Japanese airspace, potential for further economic restrictions, and heightened tensions between China and Japan.",
+      "strategic_outlook": "Long-term escalation of tensions between China and Japan could lead to increased military presence, economic sanctions, and potential disruption to global supply chains.",
+      "operational_impact": "Potential disruption to air traffic, increased security measures for flights and cargo, and possible delays or restrictions on trade between Japan and China.",
+      "proximity_alert": "YAKIN TEHDİT: Haneda Airport (16 km)"
+    }
+  },
+  {
+    "id": "a9c10e6e1079312055e380a670c4eb3a",
+    "timestamp": "2026-06-30T10:08:17.393531",
+    "original_title": "At a Glance: American Quadcopter Component Manufacturing",
+    "link": "https://warontherocks.com/cogs-of-war/at-a-glance-american-quadcopter-component-manufacturing/",
+    "source_name": "War on the Rocks",
+    "ai_analysis": {
+      "category": "Other",
+      "risk_score": 10,
+      "location": "Washington, USA",
+      "latitude": 38.8951,
+      "longitude": -77.0364,
+      "detailed_analysis": "The article discusses the debate and anxiety in Washington about China's drone dominance and the need to decouple from it, with a focus on American quadcopter component manufacturing. There is no direct threat to assets, cargo, aviation, or personnel.",
+      "immediate_forecast_24h": "No immediate action or changes expected in the next 24 hours.",
+      "strategic_outlook": "Long-term, the US may focus on developing its own drone component manufacturing capabilities to reduce dependence on China, potentially impacting the aviation and logistics industries.",
+      "operational_impact": "No operational impact expected at this time, as the article is focused on a general debate and not a specific incident or threat.",
+      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
+    }
+  },
+  {
+    "id": "ab5cad713571f33f2efba2062668d7c6",
+    "timestamp": "2026-06-30T10:08:19.711454",
+    "original_title": "25,000 foreigners flee South Africa as unofficial deadline to leave expires",
+    "link": "http://www.africanews.com/2026/06/30/25000-foreigners-flee-south-africa-as-unofficial-deadline-to-leave-expires/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Civil Unrest/Border/Conflict",
+      "risk_score": 6,
+      "location": "South Africa",
+      "latitude": -30.0,
+      "longitude": 25.0,
+      "detailed_analysis": "The situation in South Africa poses a significant threat to Assets, Cargo, Aviation, and Personnel due to civil unrest and the potential for violence as thousands of foreigners flee the country. The deployment of police to maintain order indicates a high level of tension.",
+      "immediate_forecast_24h": "Increased protests and potential clashes between citizens and foreign nationals, with a high likelihood of disruptions to transport and logistics. Aviation may be impacted by unrest at airports or nearby areas.",
+      "strategic_outlook": "Long-term instability in South Africa could lead to sustained disruptions in cargo transport, aviation, and overall economic activity, affecting regional and global supply chains.",
+      "operational_impact": "Potential delays or cancellations of flights, increased security measures at airports and border crossings, and disruptions to ground transportation and logistics operations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "85ab03418147c247df0e674287cadc27",
+    "timestamp": "2026-06-30T10:08:21.956162",
+    "original_title": "South Africa deploys police, foreigners brace for violence as anti-immigrant protests begin",
+    "link": "https://www.france24.com/en/africa/20260630-south-africa-deploys-police-foreigners-brace-for-violence-as-anti-immigrant-protests-begin",
     "source_name": "France 24 ME",
     "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 8,
-      "location": "Strait of Hormuz, Oman/Iran",
-      "latitude": 26.0,
-      "longitude": 56.0,
-      "detailed_analysis": "The Strait of Hormuz is at high risk due to recent attacks on ships, with Iran and Oman engaging in talks to manage the strait. The threat of mines and potential further attacks poses a significant risk to shipping and global trade.",
-      "immediate_forecast_24h": "Increased naval presence and heightened security measures are expected in the short term, with potential for further incidents or escalation of tensions between Tehran and Washington.",
-      "strategic_outlook": "Long-term stability in the region is uncertain, with ongoing tensions between Iran and the US, and the potential for further conflicts or disruptions to shipping in the Strait of Hormuz.",
-      "operational_impact": "Shipping companies and logistics operators should exercise extreme caution when navigating the Strait of Hormuz, with potential for delays, increased costs, and risk of damage or loss of cargo and vessels.",
+      "category": "Civil Unrest",
+      "risk_score": 7,
+      "location": "South Africa",
+      "latitude": -30.0,
+      "longitude": 25.0,
+      "detailed_analysis": "Anti-immigrant protests in South Africa pose a significant threat to the safety of foreigners, with potential for violence and unrest. Thousands of foreigners have already fled the country ahead of the planned protests, indicating a high level of concern and risk.",
+      "immediate_forecast_24h": "Increased police presence and potential clashes between protesters and law enforcement, with a high likelihood of disruptions to daily life and business operations.",
+      "strategic_outlook": "Long-term instability and potential for further unrest, with possible impacts on the country's economy and international relations. The situation may also lead to increased migration and border control challenges.",
+      "operational_impact": "Potential disruptions to transport and logistics, particularly for cargo and personnel moving through or within South Africa. Companies with operations in the country should be prepared for possible delays, increased security measures, and potential evacuations.",
       "proximity_alert": null
+    }
+  },
+  {
+    "id": "d0076c3be14a0ef2dcd4cffcb1b12272",
+    "timestamp": "2026-06-30T10:08:23.933705",
+    "original_title": "Final dash for documents as Spain triggers largest migrant amnesty in European history",
+    "link": "https://www.france24.com/en/video/20260630-final-dash-for-documents-as-spain-triggers-largest-migrant-amnesty-in-european-history",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Border",
+      "risk_score": 10,
+      "location": "Madrid, Spain",
+      "latitude": 40.4168,
+      "longitude": -3.7038,
+      "detailed_analysis": "A large-scale migrant regularization program in Spain may lead to increased border activity and potential security concerns, including stowaways and border breaches affecting transport.",
+      "immediate_forecast_24h": "The final day of the migrant regularization program may see a surge in applications, potentially leading to increased activity at border crossings and transportation hubs.",
+      "strategic_outlook": "The long-term impact of this program on border security and migration patterns in Europe remains to be seen, but it may lead to increased scrutiny of border controls and transportation security.",
+      "operational_impact": "Transportation and logistics operations in the region may be affected by increased security measures and potential disruptions at border crossings.",
+      "proximity_alert": "YAKIN TEHDİT: Adolfo Suárez Madrid–Barajas Airport (14 km)"
+    }
+  },
+  {
+    "id": "38edad24162c4c349f2b76699c8bf6bb",
+    "timestamp": "2026-06-30T10:08:28.328149",
+    "original_title": "EU reputation ‘at risk’ from entry-exit system, says aviation expert",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/eu-entry-exit-system-airports-disaster-olivier-jankovec-b3005150.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Aviation/Border",
+      "risk_score": 10,
+      "location": "European Union",
+      "latitude": 50.8467,
+      "longitude": 4.3522,
+      "detailed_analysis": "The entry-exit system in the EU poses a risk to the reputation of the region, according to an aviation expert. This could lead to potential disruptions in air travel and logistics.",
+      "immediate_forecast_24h": "No immediate disruptions expected, but increased scrutiny of the entry-exit system is likely.",
+      "strategic_outlook": "The EU's reputation and air travel industry may be impacted in the long term if the entry-exit system is not improved.",
+      "operational_impact": "Potential delays or increased security measures at airports, affecting air cargo and passenger travel.",
+      "proximity_alert": "YAKIN TEHDİT: SHERATON AIRPORT (0 km)"
     }
   }
 ]
