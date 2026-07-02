@@ -625,5 +625,62 @@
       "operational_impact": "The incident may cause short-term disruptions to Delta Air Lines' operations, but it is unlikely to have a significant impact on the overall aviation industry.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "66db2a12a2015ac3c5275308c07bbb13",
+    "timestamp": "2026-07-02T19:43:44.589463",
+    "original_title": "Russia hits Ukraine's capital with a massive drone and missile attack, killing at least 18 - NCPR: North Country Public Radio",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZTBLcWFrWVNrUWM3SGhjU09tU3cyZllrbUdveDBBTkJhLWV3Vmpmb1lzbk1KU2ZiaGFldk5YR3YxSGcwUDVPY0FjaFMyaHhMa2xCS3dobEJ0VVd3T1Z3VDJ2Rm5JaWNtZEtGOXVWVVRDZ2FaSllFcmpfUHh4VkR0NTNodDlCWHNacDE5dVB3dkZPTjNRSkdaUk92Ni1RcnRGZUpJTWFyc3ROaUlKdlhLS0xkMzRGMUZvSzBka2tHbVctM29OalJ0Qjc0NDN0TzVOWHg2RVkzSlluc21YazEwTWpkWmk?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 10,
+      "location": "Kyiv, Ukraine",
+      "latitude": 50.4501,
+      "longitude": 30.5236,
+      "detailed_analysis": "A massive drone and missile attack hit Ukraine's capital, resulting in at least 18 fatalities. This attack poses a significant threat to aviation and personnel in the region.",
+      "immediate_forecast_24h": "Increased military activity and potential for further attacks are expected in the next 24 hours, posing a high risk to aviation and personnel.",
+      "strategic_outlook": "The ongoing conflict between Russia and Ukraine will likely continue to pose a significant threat to regional stability, with potential long-term impacts on aviation, cargo, and personnel.",
+      "operational_impact": "The attack may disrupt air traffic and logistics operations in the region, with potential delays or cancellations of flights and increased security measures at airports.",
+      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
+    }
+  },
+  {
+    "id": "e06eb5638092b991d0dafc657c489cfb",
+    "timestamp": "2026-07-02T19:43:48.437414",
+    "original_title": "US Marine Corps deploys Iron Dome interceptors on Guam for China war drills | The US Marine Corps acquired the MRIC system, which combines an American radar and command-and-control system with trailer-mounted launchers carrying 20 SkyHunter interceptor missiles.",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1ulquwb/us_marine_corps_deploys_iron_dome_interceptors_on/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Guam",
+      "latitude": 13.4443,
+      "longitude": 144.7937,
+      "detailed_analysis": "The US Marine Corps has deployed Iron Dome interceptors on Guam for China war drills, indicating a heightened state of military readiness and potential for conflict in the region.",
+      "immediate_forecast_24h": "Increased military activity and heightened alertness in the region, potential for further deployments or exercises.",
+      "strategic_outlook": "Long-term escalation of tensions between the US and China, potentially impacting regional stability and global trade routes.",
+      "operational_impact": "Potential disruptions to air and sea traffic in the region, increased security measures for cargo and personnel, and heightened risk of miscalculation or accidental conflict.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "39216493b9fa5bb743f03877d2099ff4",
+    "timestamp": "2026-07-02T19:43:53.414864",
+    "original_title": "Jamaica - Level 2: Exercise Increased Caution",
+    "link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/jamaica-travel-advisory.html",
+    "source_name": "US State Dept",
+    "ai_analysis": {
+      "category": "Crime",
+      "risk_score": 7,
+      "location": "Jamaica",
+      "latitude": 18.1096,
+      "longitude": -77.2975,
+      "detailed_analysis": "High crime rates, including violent crime, armed robberies, and sexual assaults, have been reported throughout Jamaica, with some areas having elevated crime rates above national averages. U.S. government employees are restricted from traveling to certain areas without prior authorization.",
+      "immediate_forecast_24h": "Increased risk of crime, particularly at night, and in areas with high crime rates. U.S. citizens are advised to exercise increased caution and avoid walking or driving at night, using public buses, and visiting remote areas.",
+      "strategic_outlook": "Long-term crime trends in Jamaica are expected to continue, with some areas remaining high-risk. U.S. citizens and travelers should remain vigilant and take necessary precautions to ensure their safety.",
+      "operational_impact": "Transportation and logistics operations in Jamaica may be impacted by high crime rates, particularly in areas with restricted travel. Companies should consider implementing additional security measures, such as avoiding nighttime travel and using secure transportation, to mitigate risks.",
+      "proximity_alert": null
+    }
   }
 ]
