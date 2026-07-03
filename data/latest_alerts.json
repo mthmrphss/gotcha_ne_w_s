@@ -1,78 +1,21 @@
 [
   {
-    "id": "bec969db56e4a6d9d75780733f2419e4",
-    "timestamp": "2026-07-03T15:34:12.826323",
-    "original_title": "Four Reasons Crimea Has Become Crucial in the Ukraine War",
-    "link": "https://www.nytimes.com/2026/07/02/world/europe/russia-crimea-ukraine.html",
-    "source_name": "NewYork Times",
+    "id": "1a5191babbee997383537c6488c0ec5b",
+    "timestamp": "2026-07-03T17:39:59.426210",
+    "original_title": "Iran gets ready for Khamenei's funeral",
+    "link": "https://www.france24.com/en/video/20260703-iran-gets-ready-for-khamenei-s-funeral-1",
+    "source_name": "France 24 ME",
     "ai_analysis": {
-      "category": "Conflict/Aviation",
+      "category": "Conflict/Civil Unrest",
       "risk_score": 10,
-      "location": "Crimea, Ukraine",
-      "latitude": 44.9343,
-      "longitude": 34.1067,
-      "detailed_analysis": "Escalating drone strikes in Crimea pose a significant threat to aviation and regional stability, potentially disrupting air traffic and logistics operations.",
-      "immediate_forecast_24h": "Increased military activity and potential for further drone strikes may lead to heightened tensions and disruptions in the region.",
-      "strategic_outlook": "The ongoing conflict in Ukraine, with a focus on Crimea, may lead to long-term instability and security concerns for aviation and logistics operations.",
-      "operational_impact": "Potential disruptions to air traffic, increased security measures, and possible restrictions on cargo transport may impact operational efficiency and safety in the region.",
-      "proximity_alert": "YAKIN TEHDİT: Simferopol International Airport (15 km)"
-    }
-  },
-  {
-    "id": "f6eab1654c2ebd0ab3d5c5c403fbf87c",
-    "timestamp": "2026-07-03T15:34:15.487853",
-    "original_title": "Russia planning attack on Poland to test Nato resolve, US warns",
-    "link": "https://www.reddit.com/r/geopolitics/comments/1umbje3/russia_planning_attack_on_poland_to_test_nato/",
-    "source_name": "Reddit r/Geopolitics",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 8,
-      "location": "Poland",
-      "latitude": 52.0,
-      "longitude": 19.0,
-      "detailed_analysis": "The US has warned that Russia is planning an attack on Poland to test NATO's resolve, which poses a significant threat to regional stability and security. This could lead to a major conflict with potential impacts on aviation, cargo, and personnel.",
-      "immediate_forecast_24h": "Increased military activity and heightened tensions are expected in the region, with potential for escalation in the coming days.",
-      "strategic_outlook": "A Russian attack on Poland would have far-reaching consequences, including potential NATO intervention, economic sanctions, and long-term damage to regional relationships.",
-      "operational_impact": "Transport and logistics operations in the region may be severely disrupted, with potential for airspace closures, border restrictions, and increased security measures.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "d4eac2e4d017edd739c52b64ab539f25",
-    "timestamp": "2026-07-03T15:34:17.766818",
-    "original_title": "Over one million undocumented migrants apply for residency in Spain",
-    "link": "http://www.africanews.com/2026/07/03/over-one-million-undocumented-migrants-apply-for-residency-in-spain/",
-    "source_name": "Africa News",
-    "ai_analysis": {
-      "category": "Border",
-      "risk_score": 10,
-      "location": "Spain",
-      "latitude": 40.4168,
-      "longitude": -3.7038,
-      "detailed_analysis": "Over one million undocumented migrants applying for residency in Spain may lead to increased border activity and potential stowaways or border breaches affecting transport",
-      "immediate_forecast_24h": "Increased migrant activity at borders, potential for disruptions to transportation and logistics",
-      "strategic_outlook": "Long-term impact on Spain's immigration policies and potential effects on European migration trends",
-      "operational_impact": "Potential delays or disruptions to cargo and personnel transport due to increased border activity",
-      "proximity_alert": "YAKIN TEHDİT: Adolfo Suárez Madrid–Barajas Airport (14 km)"
-    }
-  },
-  {
-    "id": "41c531f7905b308b685d21fe634e0774",
-    "timestamp": "2026-07-03T15:34:21.832912",
-    "original_title": "Baggage Handler at Portland International Airport Caught Red Handed Stealing a Passenger’s Checked Firearm, Suspected in Multiple Similar Thefts",
-    "link": "https://www.paddleyourownkanoo.com/2026/07/03/baggage-handler-at-portland-international-airport-caught-red-handed-stealing-a-passengers-checked-firearm-suspected-in-multiple-similar-thefts/",
-    "source_name": "Paddle Your Own Kanoo",
-    "ai_analysis": {
-      "category": "Crime",
-      "risk_score": 7,
-      "location": "Portland, USA",
-      "latitude": 45.5887,
-      "longitude": -122.5901,
-      "detailed_analysis": "A baggage handler at Portland International Airport was caught stealing a passenger's checked firearm, suspected in multiple similar thefts, highlighting a significant security breach and potential insider threat",
-      "immediate_forecast_24h": "Increased security measures are expected to be implemented at the airport, with possible additional screening of baggage handlers and enhanced surveillance",
-      "strategic_outlook": "The incident may lead to a review of airport security protocols and background checks for personnel with access to secure areas, potentially resulting in improved security measures and reduced risk of similar incidents",
-      "operational_impact": "The theft of firearms from checked luggage may impact passenger trust in airport security, potentially affecting airline operations and passenger volumes, as well as highlighting the need for enhanced security protocols for sensitive or high-value cargo",
-      "proximity_alert": null
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The funeral of Iran's Supreme Leader Ali Khamenei, expected to draw 15-20 million attendees, poses significant security concerns due to the large crowd and potential for unrest or retaliation following his assassination in a US-Israeli strike.",
+      "immediate_forecast_24h": "Heightened security measures are anticipated, with potential for demonstrations or clashes between mourners and security forces, impacting local transportation and logistics.",
+      "strategic_outlook": "The event could escalate tensions between Iran and the US-Israeli alliance, potentially leading to increased conflict or cyberattacks in the long term, affecting regional stability and global supply chains.",
+      "operational_impact": "Transportation and logistics in the region may be disrupted due to security checkpoints, large crowds, and potential unrest, necessitating contingency planning for cargo and personnel movement.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
     }
   }
 ]
