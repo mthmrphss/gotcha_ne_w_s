@@ -245,5 +245,62 @@
       "operational_impact": "Potential for delays or disruptions to cargo transport, aviation operations, and personnel movement in the region due to increased security measures and military activity.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "98aebadf93c8b838153cea4b79ad6dbb",
+    "timestamp": "2026-07-03T13:00:37.194294",
+    "original_title": "First batch of 273 Ugandans arrives from South Africa amid unrest",
+    "link": "http://www.africanews.com/2026/07/03/first-batch-of-273-ugandans-arrives-from-south-africa-amid-unrest/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Civil Unrest/Border",
+      "risk_score": 10,
+      "location": "Johannesburg, South Africa",
+      "latitude": -26.2041,
+      "longitude": 28.0473,
+      "detailed_analysis": "The evacuation of Ugandans from South Africa due to rising anti-illegal immigration protests and xenophobic violence poses a significant risk to personnel and aviation. The unrest may lead to disruptions in air travel and potential security threats to Ugandan nationals and aviation staff.",
+      "immediate_forecast_24h": "More charter flights are expected to evacuate Ugandans, which may lead to increased tensions and potential security incidents at airports or during flights.",
+      "strategic_outlook": "The situation may escalate, leading to further violence and unrest, potentially affecting not only Ugandans but also other nationalities and the broader aviation industry in South Africa.",
+      "operational_impact": "The evacuation efforts may cause disruptions to air travel, and the unrest may impact logistics and cargo operations in the region, particularly if airports or transport hubs are affected by the violence.",
+      "proximity_alert": "YAKIN TEHDİT: O. R. Tambo International Airport (19 km)"
+    }
+  },
+  {
+    "id": "07242f39d2a4836f0410b2fa396d2353",
+    "timestamp": "2026-07-03T13:00:39.592746",
+    "original_title": "Human rights catastrophe unfolding in Sudan's al-Obeid, says UN",
+    "link": "https://www.france24.com/en/video/20260703-human-rights-catastrophe-unfolding-in-sudan-s-al-obeid-says-un",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "al-Obeid, Sudan",
+      "latitude": 13.3833,
+      "longitude": 30.6833,
+      "detailed_analysis": "The ongoing conflict between Sudan's army and the Rapid Support Forces (RSF) in al-Obeid poses significant threats to assets, cargo, aviation, and personnel in the region. The humanitarian crisis and potential for atrocities could lead to instability and disruptions in logistics and transportation.",
+      "immediate_forecast_24h": "The situation is likely to remain volatile, with potential for increased violence and humanitarian needs. There may be disruptions to supply chains and transportation routes.",
+      "strategic_outlook": "The long-term outlook is uncertain, but the conflict could lead to a protracted humanitarian crisis, displacement of people, and instability in the region, affecting trade and economic activities.",
+      "operational_impact": "The conflict may impact aviation operations, with potential for airspace restrictions or closures. Cargo and logistics operations may also be disrupted due to the humanitarian crisis and instability in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "a3ea31e8eb6e4122a9828f3ae3854e68",
+    "timestamp": "2026-07-03T13:00:43.077129",
+    "original_title": "Travellers warned of significant delays as workers at UK airport strike this summer",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/aberdeen-airport-security-strike-b3008254.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Aviation/Civil Unrest",
+      "risk_score": 7,
+      "location": "Aberdeen, UK",
+      "latitude": 57.15,
+      "longitude": -2.09,
+      "detailed_analysis": "Baggage screening staff at Aberdeen airport are staging walk-outs over 14 days, which may lead to significant delays and disruptions in airport operations, potentially affecting aviation security and passenger safety.",
+      "immediate_forecast_24h": "Delays and disruptions at Aberdeen airport are expected to worsen in the short term, with potential knock-on effects for connecting flights and passenger journeys.",
+      "strategic_outlook": "The strike may be resolved through negotiations, but the impact on airport operations and passenger confidence could be long-lasting, with potential reputational damage to the airport and airlines operating from it.",
+      "operational_impact": "Significant delays, potential cancellations, and increased security risks due to reduced baggage screening capacity, which may affect the movement of assets, cargo, and personnel through the airport.",
+      "proximity_alert": null
+    }
   }
 ]
