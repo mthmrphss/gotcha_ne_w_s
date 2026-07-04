@@ -302,5 +302,43 @@
       "operational_impact": "The conflict in the region could have a significant impact on transport and logistics, particularly for cargo and personnel. There is a high risk of disruptions to supply chains, and the potential for attacks on transport infrastructure and vehicles.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "054d078a391b115078bf72ba3687b0bc",
+    "timestamp": "2026-07-04T15:12:35.593112",
+    "original_title": "New wave of coordinated rebel attacks hits Mali",
+    "link": "https://www.france24.com/en/new-wave-of-coordinated-rebel-attacks-hits-mali",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest/Terrorism",
+      "risk_score": 8,
+      "location": "Mali",
+      "latitude": 17.0,
+      "longitude": -4.0,
+      "detailed_analysis": "Coordinated rebel attacks by jihadists and separatist Tuareg allies have hit multiple towns and a prison in Mali, indicating a heightened state of instability and potential threat to assets, cargo, aviation, and personnel in the region.",
+      "immediate_forecast_24h": "Increased security measures are expected, with potential for further clashes between rebels and government forces, impacting transport and logistics operations in the short term.",
+      "strategic_outlook": "The long-term outlook for the region remains unstable, with the potential for ongoing conflict and terrorism posing a significant threat to assets, cargo, aviation, and personnel, necessitating enhanced security protocols and contingency planning.",
+      "operational_impact": "Transport and logistics operations in Mali may be disrupted due to the conflict, with potential for delays, increased security checks, and heightened risk of attacks on personnel and assets.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "71b2ea6cfec7f1445da428abf75255d7",
+    "timestamp": "2026-07-04T15:12:39.478637",
+    "original_title": "Saudi Arabia Distances Itself From Illicit Sanctions-Busting Sale of Five Boeing 777s to Iran",
+    "link": "https://www.paddleyourownkanoo.com/2026/07/04/saudi-arabia-distances-itself-from-illicit-sanctions-busting-sale-of-five-boeing-777s-to-iran/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Aviation/Crime",
+      "risk_score": 10,
+      "location": "Riyadh, Saudi Arabia",
+      "latitude": 24.7136,
+      "longitude": 46.6753,
+      "detailed_analysis": "The sale of five Boeing 777s to Iran despite US sanctions poses a risk to aviation security and potentially undermines the effectiveness of sanctions. This could lead to increased scrutiny of aviation transactions and potential repercussions for entities involved in sanctions-busting activities.",
+      "immediate_forecast_24h": "Increased diplomatic tensions between Saudi Arabia and the US, potential investigations into the sale, and heightened security measures for aviation assets.",
+      "strategic_outlook": "Long-term implications for Saudi Arabia's relations with the US and other Western countries, potential changes to aviation regulations and security protocols, and increased monitoring of aircraft sales and transactions.",
+      "operational_impact": "Potential delays or disruptions to flights and aviation operations, increased security checks and inspections, and heightened vigilance for suspicious activity in the aviation sector.",
+      "proximity_alert": "YAKIN TEHDİT: King Khalid International Airport (27 km)"
+    }
   }
 ]
