@@ -226,5 +226,43 @@
       "operational_impact": "The grounding of the aircraft may cause delays or cancellations of flights, impacting passengers and cargo, and potentially affecting United Airlines' reputation and operations",
       "proximity_alert": "YAKIN TEHDİT: Chicago O'Hare International Airport (0 km)"
     }
+  },
+  {
+    "id": "739bab9b03ce99c0b5ba51875a503eec",
+    "timestamp": "2026-07-04T11:38:37.728927",
+    "original_title": "Iran begins farewell to Supreme Leader Khamenei",
+    "link": "http://www.africanews.com/2026/07/04/iran-begins-farewell-to-supreme-leader-khamenei/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The death of Supreme Leader Ayatollah Ali Khamenei in a joint US-Israeli airstrike and the subsequent funeral ceremonies may lead to increased tensions and potential unrest in Iran, affecting aviation and cargo operations.",
+      "immediate_forecast_24h": "Heightened security measures and potential protests or demonstrations in Tehran and other major cities in Iran, which may disrupt air travel and cargo transport.",
+      "strategic_outlook": "Long-term implications of Khamenei's death may include changes in Iran's political and military posture, potentially affecting regional stability and global security, with possible impacts on international aviation and cargo operations.",
+      "operational_impact": "Potential delays or disruptions to flights and cargo shipments in and out of Iran, as well as increased security screening and measures for aviation and cargo operations in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "6862eb21d4c6355383753f9d4dba22b6",
+    "timestamp": "2026-07-04T11:38:40.556996",
+    "original_title": "South Africa deploys troops as anti-migrant protests escalate",
+    "link": "http://www.africanews.com/2026/07/04/south-africa-deploys-troops-as-anti-migrant-protests-escalate/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Civil Unrest/Border/Conflict",
+      "risk_score": 6,
+      "location": "South Africa",
+      "latitude": -30.0,
+      "longitude": 25.0,
+      "detailed_analysis": "The deployment of troops in response to anti-migrant protests indicates a heightened state of tension and potential for violence, which could impact the safety and security of assets, cargo, aviation, and personnel in the region.",
+      "immediate_forecast_24h": "Increased protests and potential clashes between protesters and security forces are expected, which may lead to disruptions in transportation and logistics.",
+      "strategic_outlook": "The ongoing tensions and protests may lead to a prolonged period of instability, affecting the overall security environment and potentially impacting the economy and trade in the region.",
+      "operational_impact": "Transportation and logistics operations may be disrupted due to the protests and increased security presence, and companies should consider alternative routes or contingency plans to mitigate potential risks.",
+      "proximity_alert": null
+    }
   }
 ]
