@@ -112,5 +112,43 @@
       "operational_impact": "Transportation and logistics operations in Canada may be affected by increased security checks, potential delays, and changes in routing or scheduling to mitigate the perceived threat.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "bc52feca7484e44752792df035689fc4",
+    "timestamp": "2026-07-04T07:23:49.916912",
+    "original_title": "A strike against Europe- the US presses on with its policy/. Elon Musk promotes ‘anti-migrant’ Armie Hammer film with free download on X",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1un2ef0/a_strike_against_europe_the_us_presses_on_with/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Civil Unrest/Border/Other",
+      "risk_score": 10,
+      "location": "Europe",
+      "latitude": 48.8567,
+      "longitude": 2.2943,
+      "detailed_analysis": "The promotion of an 'anti-migrant' film by Elon Musk may exacerbate existing tensions related to migration policies in Europe, potentially leading to civil unrest and affecting border control, which could have implications for transport and logistics.",
+      "immediate_forecast_24h": "Increased online discourse and potential protests in European cities, with minimal immediate impact on transport infrastructure.",
+      "strategic_outlook": "Long-term escalation of migration-related tensions could lead to increased security measures at borders, potentially affecting cargo and personnel movement.",
+      "operational_impact": "Minimal immediate operational impact, but potential for increased security checks and delays at European borders in the long term.",
+      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (1 km)"
+    }
+  },
+  {
+    "id": "e94fecbbc0a69cafb36cb8486c3ee13b",
+    "timestamp": "2026-07-04T07:23:54.083317",
+    "original_title": "Middle East live: Iran begins days-long funeral for late Supreme Leader Ayatollah Ali Khamenei",
+    "link": "https://www.france24.com/en/middle-east/20260704-middle-east-live-iran-begins-days-long-funeral-for-late-supreme-leader-ayatollah-ali-khamenei",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The death of Supreme Leader Ayatollah Ali Khamenei in an air strike at the start of the US-Israeli war with Iran has led to a days-long funeral, indicating heightened tensions and potential for civil unrest or conflict escalation.",
+      "immediate_forecast_24h": "Increased security measures and potential protests or demonstrations during the funeral period, with a risk of clashes between mourners and security forces.",
+      "strategic_outlook": "Long-term instability and potential for further conflict between Iran and the US-Israeli alliance, with implications for regional security and global geopolitics.",
+      "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics in the region due to increased security measures, airspace restrictions, or conflict-related incidents.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
   }
 ]
