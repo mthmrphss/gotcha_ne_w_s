@@ -131,5 +131,100 @@
       "operational_impact": "Potential disruption to air and sea traffic, increased security measures for aviation and maritime operations, possible restrictions on cargo and personnel movement.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "91e348bbe4c50d850cc61bbc184aa49c",
+    "timestamp": "2026-07-06T13:05:16.186170",
+    "original_title": "Iran Live Updates: Hundreds of Thousands Attend Ayatollah’s Funeral Procession",
+    "link": "https://www.nytimes.com/live/2026/07/06/world/iran-funeral-khamenei",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The funeral procession of Ayatollah Ali Khamenei has drawn hundreds of thousands of mourners, creating a high-risk environment due to potential civil unrest and conflict. The presence of large crowds and the polarizing figure of the Ayatollah increase the likelihood of violent clashes or protests.",
+      "immediate_forecast_24h": "The situation is likely to remain volatile in the next 24 hours, with a high risk of civil unrest, protests, or clashes between mourners and security forces. The U.S.-Israeli attacks that led to the Ayatollah's death may also escalate tensions.",
+      "strategic_outlook": "In the long term, the death of Ayatollah Ali Khamenei may lead to a power vacuum, potentially destabilizing the region and affecting global politics. This could have significant implications for international relations, trade, and security.",
+      "operational_impact": "The situation may impact aviation, with potential disruptions to flights in and out of Tehran. Cargo and logistics operations may also be affected, particularly if civil unrest or conflict escalates, leading to supply chain disruptions.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "c513bf73d0557b4dc7f865257c743413",
+    "timestamp": "2026-07-06T13:05:19.984721",
+    "original_title": "China tests long-range missile in South Pacific",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1uoupfb/china_tests_longrange_missile_in_south_pacific/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "South Pacific",
+      "latitude": -20.0,
+      "longitude": 160.0,
+      "detailed_analysis": "China's test of a long-range missile in the South Pacific poses a significant threat to regional stability and security, potentially impacting aviation and maritime transport in the area.",
+      "immediate_forecast_24h": "Increased military activity and surveillance in the region, potential for miscalculation or escalation with neighboring countries.",
+      "strategic_outlook": "Long-term implications for regional security dynamics, potential for increased militarization and competition among major powers in the South Pacific.",
+      "operational_impact": "Potential disruptions to air and sea traffic, increased security measures for transport and logistics operations in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "1a7c90782a0765a485d45d9ae781536f",
+    "timestamp": "2026-07-06T13:05:22.596554",
+    "original_title": "Tanzania on edge ahead of planned protests",
+    "link": "http://www.africanews.com/2026/07/06/tanzania-on-edge-ahead-of-planned-protests/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Dar es Salaam, Tanzania",
+      "latitude": -6.8233,
+      "longitude": 39.2694,
+      "detailed_analysis": "Planned anti-government protests in Dar es Salaam may lead to violence, similar to last year's election violence, posing a threat to personnel and assets in the area.",
+      "immediate_forecast_24h": "Increased security presence and potential clashes between protesters and security forces, leading to possible disruptions in transportation and logistics.",
+      "strategic_outlook": "Prolonged unrest could impact the overall stability of the region, affecting trade and economic activities, and potentially leading to a higher risk of cargo theft or damage.",
+      "operational_impact": "Transportation and logistics operations in Dar es Salaam may be disrupted due to the protests, and personnel should exercise caution when traveling to or through the area.",
+      "proximity_alert": "YAKIN TEHDİT: Julius Nyerere International Airport (8 km)"
+    }
+  },
+  {
+    "id": "ef1500bf03b86f4e96cd5f6e98d323e5",
+    "timestamp": "2026-07-06T13:05:24.652253",
+    "original_title": "Bandit raid leaves nine farmers dead in northwest Nigeria",
+    "link": "http://www.africanews.com/2026/07/06/bandit-raid-leaves-nine-farmers-dead-in-northwest-nigeria/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Crime/Civil Unrest/Conflict",
+      "risk_score": 7,
+      "location": "Kaduna State, Nigeria",
+      "latitude": 10.5236,
+      "longitude": 7.4333,
+      "detailed_analysis": "Armed gangs have intensified attacks on rural communities during the planting season, resulting in the death of at least nine farmers and the abduction of several others, highlighting the growing insecurity in the region.",
+      "immediate_forecast_24h": "Further attacks on farming communities are likely, and the situation may escalate if not addressed by local authorities.",
+      "strategic_outlook": "The ongoing insecurity in northwest Nigeria may lead to increased displacement of people, disruption of food supply chains, and heightened tensions between communities, potentially destabilizing the region.",
+      "operational_impact": "Transportation and logistics operations in the region may be affected due to the increased risk of attacks and kidnappings, potentially disrupting the supply chain and impacting the local economy.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "45f135cabe7a45610d2297355692d8b0",
+    "timestamp": "2026-07-06T13:05:30.530625",
+    "original_title": "Flights cancelled at Italian airport after Mount Etna eruption",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/mount-etna-eruption-flights-cancelled-catania-airport-b3009647.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Aviation/Natural Disaster",
+      "risk_score": 10,
+      "location": "Catania, Italy",
+      "latitude": 37.4667,
+      "longitude": 15.0667,
+      "detailed_analysis": "The eruption of Mount Etna has led to the cancellation of flights at a nearby Italian airport, affecting airlines such as Ryanair, easyJet, British Airways, and Wizz Air. The volcanic eruption poses a significant threat to aviation operations due to potential ash clouds and reduced visibility.",
+      "immediate_forecast_24h": "Further flight disruptions are expected in the next 24 hours as the volcanic ash cloud may spread and affect air traffic. The situation is being closely monitored by aviation authorities.",
+      "strategic_outlook": "The long-term impact of the eruption on aviation operations will depend on the duration and intensity of the volcanic activity. Airlines and airports may need to develop contingency plans to mitigate the effects of the eruption.",
+      "operational_impact": "The cancellation of flights will have a significant impact on transport and logistics, with potential delays and disruptions to cargo and passenger services. Airlines and airports will need to work together to minimize the impact and restore normal operations as soon as possible.",
+      "proximity_alert": "YAKIN TEHDİT: Catania–Fontanarossa Airport (0 km)"
+    }
   }
 ]
