@@ -17,5 +17,43 @@
       "operational_impact": "Potential disruptions to air and ground transportation, increased risk of damage or loss of cargo, and heightened threat to personnel safety and security.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "0107fd4bd2a3d224e870b9b4fb3c399d",
+    "timestamp": "2026-07-06T04:53:39.444596",
+    "original_title": "Russian missile and drone attack on Ukraine’s capital kills at least 7 - NBC News",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSVM3Z21PS3M5bnRHbU5CSnlXakcxOXcwbUdCSzE1Tm91VVpKZVQ3NDNHU1ZkX09QMG5LcUE2VFRZTmdTbk1mb0Q3T1FXeUNxbDVOdWoyZl90aVZsNjRobU51RHZ6ajZZVE5RdEl2LXdlbDltNWVscGFWd3FkME5wT0R5Vktkd3lfRG1Rcm1USU1zNnF3YjFVWEJBaFRaTmJIcXZzdk9n?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 10,
+      "location": "Kyiv, Ukraine",
+      "latitude": 50.4501,
+      "longitude": 30.5236,
+      "detailed_analysis": "A Russian missile and drone attack on Ukraine's capital, Kyiv, has resulted in at least 7 fatalities. This incident poses a significant threat to aviation, cargo, and personnel in the region.",
+      "immediate_forecast_24h": "Increased military activity and potential for further attacks in the region, posing a high risk to aviation and logistics operations.",
+      "strategic_outlook": "The ongoing conflict between Russia and Ukraine is likely to continue, with potential for escalation and further disruptions to transport and logistics in the region.",
+      "operational_impact": "Flight disruptions, potential for airport closures, and increased security measures may impact cargo and personnel movement in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
+    }
+  },
+  {
+    "id": "74f7bf18b4f86b1e49997e90ec0322be",
+    "timestamp": "2026-07-06T04:53:46.341067",
+    "original_title": "Live: Russia launches deadly barrage on Kyiv region on eve of NATO summit",
+    "link": "https://www.france24.com/en/europe/20260706-live-russia-launches-deadly-barrage-on-kyiv-region-on-eve-of-nato-summit",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Kyiv, Ukraine",
+      "latitude": 50.4501,
+      "longitude": 30.5236,
+      "detailed_analysis": "Ballistic missile strikes on Kyiv region, resulting in casualties and damage, indicating an escalation of the conflict and potential disruption to aviation and logistics operations.",
+      "immediate_forecast_24h": "Increased tensions and potential for further attacks on Ukrainian cities, including Kyiv, in the lead-up to the NATO summit.",
+      "strategic_outlook": "Prolonged conflict in Ukraine, with potential for expanded military operations and increased risk to aviation, cargo, and personnel in the region.",
+      "operational_impact": "Potential disruption to air traffic, cargo transport, and logistics operations in Ukraine and surrounding regions, with increased security measures and risk assessments recommended for personnel and assets.",
+      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
+    }
   }
 ]
