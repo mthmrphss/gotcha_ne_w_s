@@ -55,5 +55,81 @@
       "operational_impact": "Potential disruption to air traffic, cargo transport, and logistics operations in Ukraine and surrounding regions, with increased security measures and risk assessments recommended for personnel and assets.",
       "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
     }
+  },
+  {
+    "id": "9eb8009750e64de87ca575b8907f5332",
+    "timestamp": "2026-07-06T09:04:49.656982",
+    "original_title": "Russian missile and drone attack on Ukraine’s capital kills at least 11 - AP News",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdzBYcmVtRXVET2hOUHR6c0ZBcEhVZjZkeTdJTnU4TnJpU3dGSldYS3hyZTRBbWh0TjBrYUd1eUxVZHoyYWRjSV9Qa0ZOOTFleFJPSi1rd2kyTFkzbGNMN25kWGtCOFNFWjFQdVBTOHc2dlhBTDc2eXRkb1ZlSGVEamlaSllJek02RUhxQ3E2N1hmNUpm?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 10,
+      "location": "Kyiv, Ukraine",
+      "latitude": 50.4501,
+      "longitude": 30.5236,
+      "detailed_analysis": "A Russian missile and drone attack on Ukraine's capital has resulted in at least 11 fatalities, indicating a significant escalation of conflict and posing a substantial threat to aviation, personnel, and potentially cargo operations in the region.",
+      "immediate_forecast_24h": "Increased military activity and potential for further attacks are expected, with heightened security measures likely to be implemented at airports and other critical infrastructure.",
+      "strategic_outlook": "The ongoing conflict is likely to continue disrupting logistics and transport operations in the region, with potential for long-term damage to infrastructure and impact on global supply chains.",
+      "operational_impact": "Flights may be grounded or rerouted, and cargo shipments may be delayed or diverted, with increased security protocols and potential for supply chain disruptions",
+      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
+    }
+  },
+  {
+    "id": "5fe2cd89fe14f6d4c3664c4bfde0f499",
+    "timestamp": "2026-07-06T09:04:54.217545",
+    "original_title": "Iran Live Updates: Crowds Gather in Tehran for Ayatollah’s Funeral Procession",
+    "link": "https://www.nytimes.com/live/2026/07/06/world/iran-funeral-khamenei",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The funeral procession of Ayatollah Ali Khamenei has drawn tens of thousands of Iranians, creating a potentially volatile situation. Given the controversial nature of the Ayatollah and the recent U.S.-Israeli attacks, there is a heightened risk of civil unrest and potential conflict.",
+      "immediate_forecast_24h": "Increased security presence and potential clashes between mourners and security forces are expected. The situation may escalate if anti-government or opposition groups attempt to capitalize on the event.",
+      "strategic_outlook": "The long-term implications of Ayatollah Khamenei's death and the U.S.-Israeli attacks may lead to increased tensions between Iran and the international community, potentially affecting regional stability and global security.",
+      "operational_impact": "The situation may impact air travel and logistics in and out of Tehran, with potential disruptions to cargo and personnel movement. Aviation and transport companies should exercise caution and monitor the situation closely.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "22f2d21d1b6c6922716c7d2c2b4f3994",
+    "timestamp": "2026-07-06T09:04:56.219601",
+    "original_title": "Deadly Russian Strikes Rock Kyiv on Eve of NATO Summit",
+    "link": "https://www.nytimes.com/2026/07/05/world/europe/kyiv-ukraine-russia-attack-nato.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Kyiv, Ukraine",
+      "latitude": 50.4501,
+      "longitude": 30.5236,
+      "detailed_analysis": "Ballistic missile strikes on Kyiv, resulting in at least 12 fatalities, indicate a significant escalation of conflict, posing a high threat to assets, personnel, and aviation in the region.",
+      "immediate_forecast_24h": "Increased military activity and potential for further strikes are expected, with elevated risks to aviation and ground transport.",
+      "strategic_outlook": "The ongoing conflict is likely to continue disrupting logistics and transport operations in the region, with potential for long-term instability and security threats.",
+      "operational_impact": "Transport and logistics operations in and around Kyiv may be severely impacted, with potential for damage to infrastructure, disruption of supply chains, and risks to personnel and assets.",
+      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
+    }
+  },
+  {
+    "id": "2240940aae1a9549a075d9c8191c4a77",
+    "timestamp": "2026-07-06T09:05:02.357426",
+    "original_title": "China conducts long-range ballistic missile test in South Pacific",
+    "link": "https://www.france24.com/en/asia-pacific/20260706-china-conducts-long-range-ballistic-missile-test-in-south-pacific",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "South Pacific",
+      "latitude": -20.0,
+      "longitude": 160.0,
+      "detailed_analysis": "China's test-launch of a long-range ballistic missile in the South Pacific poses a significant threat to regional security and stability, potentially disrupting aviation and maritime operations.",
+      "immediate_forecast_24h": "Increased military activity and surveillance in the region, potential for further missile tests or military exercises.",
+      "strategic_outlook": "Escalation of tensions between China and regional countries, potentially leading to increased military presence and posturing in the South Pacific.",
+      "operational_impact": "Potential disruption to air and sea traffic, increased security measures for aviation and maritime operations, possible restrictions on cargo and personnel movement.",
+      "proximity_alert": null
+    }
   }
 ]
