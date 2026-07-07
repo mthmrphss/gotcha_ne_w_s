@@ -36,5 +36,43 @@
       "operational_impact": "The article does not have a direct impact on transport or logistics operations, but the underlying issues could potentially lead to increased security measures or disruptions in the future.",
       "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
     }
+  },
+  {
+    "id": "1fcbf251f2fde124c609841d1d1d4415",
+    "timestamp": "2026-07-07T00:15:29.000682",
+    "original_title": "Israeli parliament backs first step towards October 7 inquiry",
+    "link": "https://www.france24.com/en/middle-east/20260706-israeli-parliament-backs-first-step-towards-october-7-inquiry",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 8,
+      "location": "Jerusalem, Israel",
+      "latitude": 31.7833,
+      "longitude": 35.2167,
+      "detailed_analysis": "The Israeli parliament's approval of a commission of inquiry into the October 7, 2023, Hamas attack indicates a heightened focus on security and potential retaliation, posing a threat to aviation and personnel in the region.",
+      "immediate_forecast_24h": "Increased tensions and potential for retaliatory attacks from Hamas or other extremist groups, with a focus on Israeli targets, including aviation and personnel.",
+      "strategic_outlook": "Long-term instability in the region, with ongoing conflicts between Israel and Hamas, posing a persistent threat to assets, cargo, aviation, and personnel, particularly in areas with high security concerns.",
+      "operational_impact": "Potential disruptions to air travel, increased security measures at airports and borders, and heightened vigilance for cargo and logistics operations in the region, with possible delays or rerouting of flights and shipments.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "c5e3b5d42ae9d1090cedec94e828cda1",
+    "timestamp": "2026-07-07T00:15:31.487894",
+    "original_title": "Russian missile and drone strikes kill 24 in Kyiv ahead of NATO summit",
+    "link": "https://www.france24.com/en/europe/20260706-russian-missile-and-drone-strikes-kill-24-in-kyiv-ahead-of-nato-summit",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 10,
+      "location": "Kyiv, Ukraine",
+      "latitude": 50.4501,
+      "longitude": 30.5236,
+      "detailed_analysis": "Russian missile and drone strikes on Kyiv have resulted in significant loss of life and injury, indicating a high level of threat to aviation and personnel in the region.",
+      "immediate_forecast_24h": "Increased tensions and potential for further strikes ahead of the NATO summit, with President Zelensky seeking stronger air defence support.",
+      "strategic_outlook": "Long-term escalation of conflict in the region, potentially leading to increased instability and threats to aviation, cargo, and personnel.",
+      "operational_impact": "Disruption to air traffic and logistics in the region, with potential for delays or cancellations of flights and increased security measures.",
+      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
+    }
   }
 ]
