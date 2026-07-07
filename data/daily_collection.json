@@ -340,5 +340,81 @@
       "operational_impact": "The explosions and potential for further violence could disrupt logistics and transport operations in Syria, affecting cargo and aviation. Enhanced security protocols may be necessary for personnel and assets in the region.",
       "proximity_alert": "YAKIN TEHDİT: Damascus International Airport (23 km)"
     }
+  },
+  {
+    "id": "2c3cfa89d15d084bd5c3f159c3b8b456",
+    "timestamp": "2026-07-07T13:36:49.383883",
+    "original_title": "Estonia Won the War on Fentanyl. What Came Next Was Even Worse.",
+    "link": "https://www.nytimes.com/2026/07/07/world/europe/estonia-fentanyl-new-drugs.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Crime",
+      "risk_score": 6,
+      "location": "Estonia",
+      "latitude": 58.5953,
+      "longitude": 25.0136,
+      "detailed_analysis": "Estonia's success in reducing fentanyl overdoses has led to the emergence of new, powerful drugs, posing a threat to public health and safety, with potential implications for cargo and logistics security due to the smuggling of these substances",
+      "immediate_forecast_24h": "Authorities are expected to continue racing to respond to the new drug threats, potentially leading to increased law enforcement presence and operations in the region",
+      "strategic_outlook": "The ongoing cat-and-mouse game between law enforcement and drug smugglers may lead to increased security measures in logistics and transportation, potentially affecting cargo operations and supply chains",
+      "operational_impact": "The emergence of new drugs and the authorities' response may lead to increased inspections, seizures, and disruptions to cargo and logistics operations, particularly in the transportation of pharmaceuticals or other high-risk goods",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "b5a444dba2be95403090b98bc965faf0",
+    "timestamp": "2026-07-07T13:36:52.591512",
+    "original_title": "Kenya crushes Saba Saba march in latest crackdown on dissent",
+    "link": "http://www.africanews.com/2026/07/07/kenya-crushes-saba-saba-march-in-latest-crackdown-on-dissent/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Nairobi, Kenya",
+      "latitude": -1.2833,
+      "longitude": 36.8167,
+      "detailed_analysis": "The Kenyan government's crackdown on dissent has led to the detention of protesters and the sealing off of the capital, indicating a heightened state of civil unrest. This could potentially disrupt transport and logistics operations in the area.",
+      "immediate_forecast_24h": "Further protests and clashes between police and demonstrators are possible, which may lead to increased security measures and potential disruptions to transport and logistics.",
+      "strategic_outlook": "The ongoing crackdown on dissent may lead to long-term instability and increased security risks in Kenya, potentially affecting the country's transport and logistics sector.",
+      "operational_impact": "The civil unrest may cause delays or disruptions to cargo transport, aviation, and personnel movement in and around Nairobi, with potential knock-on effects for regional and international supply chains.",
+      "proximity_alert": "YAKIN TEHDİT: Jomo Kenyatta International Airport (13 km)"
+    }
+  },
+  {
+    "id": "e501d2c32e787168838991323e546880",
+    "timestamp": "2026-07-07T13:36:54.590889",
+    "original_title": "Jihadists and Tuareg allies fight for control of strategic camp in northern Mali",
+    "link": "http://www.africanews.com/2026/07/07/jihadists-and-tuareg-allies-fight-for-control-of-strategic-camp-in-northern-mali/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 8,
+      "location": "Northern Mali",
+      "latitude": 18.0,
+      "longitude": 1.0,
+      "detailed_analysis": "Jihadists and Tuareg allies are fighting for control of a strategic camp in northern Mali, where Russian paramilitaries and forces from the country's military junta are present, posing a significant threat to regional stability and potentially impacting aviation and cargo operations.",
+      "immediate_forecast_24h": "Escalation of violence is likely, with potential for increased militant activity and clashes between opposing forces, affecting the security of nearby airports and logistics hubs.",
+      "strategic_outlook": "The conflict may lead to a prolonged period of instability in the region, potentially disrupting air travel and cargo transport, and posing long-term risks to personnel and assets.",
+      "operational_impact": "Aviation and cargo operations in the region may be impacted, with potential for flight disruptions, increased security measures, and risks to personnel and assets, necessitating enhanced security protocols and contingency planning.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "ecaf3cf452456cead402667874347f5a",
+    "timestamp": "2026-07-07T13:36:58.084089",
+    "original_title": "Strike action this weekend to affect services out of London Euston",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/strike-action-london-euston-tssa-union-b3010307.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "London, UK",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "detailed_analysis": "A strike action is planned for this weekend, affecting services out of London Euston, which may cause disruptions to rail transport and impact passengers' travel plans.",
+      "immediate_forecast_24h": "Passengers are advised to check their journeys before travelling, and potential delays or cancellations are expected.",
+      "strategic_outlook": "The strike action may lead to increased congestion on roads and other transportation modes, and could have a ripple effect on the overall transportation network in the UK.",
+      "operational_impact": "Rail services out of London Euston will be impacted, potentially affecting cargo and passenger transport, and alternative arrangements may need to be made to mitigate the disruption.",
+      "proximity_alert": "YAKIN TEHDİT: Heathrow Airport (23 km)"
+    }
   }
 ]
