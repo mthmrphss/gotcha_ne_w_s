@@ -55,5 +55,43 @@
       "operational_impact": "Shipping and aviation operations in the region may be impacted, with potential for delays, rerouting, or increased security measures. Companies with assets or personnel in the region should be prepared for potential disruptions and take necessary precautions to ensure safety.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "bba08cd97ee7145a0c6a31ea6cfac3fa",
+    "timestamp": "2026-07-08T06:34:55.000378",
+    "original_title": "U.S. launches dozens of strikes against Iran, citing attacks on commercial ships - The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY1o5OHkwY0twdzRvVmpHd1IyVXQyOWNObEpxcEJEaS0xSHQ2UDhRRnJ1bURnNlZKb05VWlI4SXFrRXYxZE03ZzRQV2JTTWRjN0FhZU5ZSWRPdl9CTjl5QjljS2Z2Z0hsZzBfLXB0NFpoalZPSGU2aU1zWkxUUDVETV9NcmtCb3RlZ19JUWdDbDlLeHlEWmFoZnFkNUdRV1RXSGdQN0hZTnNuRTNEWERXbTdJOVVGZw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Iran, Middle East",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The U.S. has launched dozens of strikes against Iran in response to attacks on commercial ships, indicating a significant escalation of tensions between the two nations and posing a substantial threat to assets, cargo, aviation, and personnel in the region.",
+      "immediate_forecast_24h": "Increased military activity and heightened tensions are expected in the short term, potentially leading to further clashes and disruptions to shipping and aviation operations.",
+      "strategic_outlook": "The long-term implications of this conflict could include prolonged instability in the region, increased security measures for commercial vessels and aircraft, and potential disruptions to global supply chains.",
+      "operational_impact": "Shipping and aviation operations in the region may be subject to increased security protocols, route changes, or temporary suspensions, leading to potential delays and increased costs for transport and logistics operators.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "97dce8e817fb536f12848ce9757fd093",
+    "timestamp": "2026-07-08T06:35:01.452574",
+    "original_title": "NATO summit live: Russia launches deadly strikes on Ukraine as Trump, Zelensky set to meet",
+    "link": "https://www.france24.com/en/europe/20260708-ukraine-live-russia-launches-deadly-strikes-kyiv-nato-leaders-prepare-meet-in-ankara",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "Russia's overnight attack on Ukraine has resulted in civilian casualties, indicating an escalation of conflict. The timing of the attack ahead of the NATO summit and the meeting between US President Donald Trump and Ukrainian President Volodymyr Zelensky suggests a strategic intent to influence or disrupt diplomatic efforts.",
+      "immediate_forecast_24h": "Further military strikes by Russia on Ukraine are possible, potentially targeting key infrastructure or population centers. The meeting between Trump and Zelensky may face increased security measures or could be postponed due to the heightened tensions.",
+      "strategic_outlook": "The conflict between Russia and Ukraine is likely to continue, with potential for increased international involvement or sanctions. This could lead to long-term instability in the region, affecting trade, aviation, and personnel safety.",
+      "operational_impact": "Transport and logistics operations in and around Ukraine may be severely impacted due to the conflict. Aviation may face increased risk due to potential military activity, while cargo and personnel movements could be restricted or delayed.",
+      "proximity_alert": null
+    }
   }
 ]
