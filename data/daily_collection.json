@@ -1,1 +1,59 @@
-[]
+[
+  {
+    "id": "abbada95e886542cfae6cac59cd5fe72",
+    "timestamp": "2026-07-08T21:15:26.155151",
+    "original_title": "US military is conducting fresh strikes on Iran - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUTQwUnZhbGt0S2NCc3VqWUt2TnJ5Y2FZNmNUeDZBU0doUDlVMHlwc3F1ZDMwMVlIVjB6eXkwM3pqTUdPU01oNHEyaF9XZUhMeXEtcFNNNVczcHAtcF84OF85SDFuRVVWdjNld2RvR0swYTJtUGhiSk9iTFM4N1hxNHhTSXc1MjRHUjRHWHJVb3Y0ZWNwQ1ZqWWhWTExsbTA?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Iran, Middle East",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The US military conducting fresh strikes on Iran poses a significant threat to aviation and regional stability, potentially disrupting air traffic and logistics in the area.",
+      "immediate_forecast_24h": "Increased military activity and potential retaliation from Iran could lead to heightened tensions and further escalation in the region, affecting air travel and cargo operations.",
+      "strategic_outlook": "The long-term implications of these strikes could lead to a prolonged conflict, impacting global oil prices, and causing instability in the region, which may affect transport and logistics operations for an extended period.",
+      "operational_impact": "Potential disruption to air traffic, increased security measures, and possible rerouting of flights and cargo shipments to avoid the conflict zone, leading to delays and increased costs for transport and logistics operations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "72f57ca498d5487336dd47b04793b424",
+    "timestamp": "2026-07-08T21:15:30.546269",
+    "original_title": "Iran War Live Updates: U.S. Launches New Strikes on Iran, Military Says",
+    "link": "https://www.nytimes.com/live/2026/07/08/world/iran-war-us-trump",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Strait of Hormuz, Iran",
+      "latitude": 26.0,
+      "longitude": 56.0,
+      "detailed_analysis": "The U.S. has launched new strikes on Iran, indicating an escalation of conflict in the region. This poses a significant threat to aviation and shipping in the Strait of Hormuz.",
+      "immediate_forecast_24h": "Increased military activity is expected in the region, with potential for further strikes or retaliation from Iran. This may lead to disruptions in shipping and air traffic.",
+      "strategic_outlook": "The conflict between the U.S. and Iran is likely to continue, with potential for long-term instability in the region. This may lead to increased security measures and disruptions to transport and logistics.",
+      "operational_impact": "Shipping and air traffic in the region may be disrupted, with potential for delays or cancellations. Transport and logistics companies should exercise caution and consider alternative routes or security measures.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "f57c74c54b86d68226ae99a627d7affb",
+    "timestamp": "2026-07-08T21:15:32.741171",
+    "original_title": "easyJet flight U28105 declared an emergency over France following technical issue with the aircraft - airlive",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdlZ6T3ViUDFFWHpGSy1DYl9oZDROZWx5cnZqTVR4LWlncHM0OUp5WURMRlFQeHUwR3JReGJ2NlZWbVpuYzZabjRlSHlpbjhqOVF2NUk0VS1JZGpaXzUzTUQzeGtRbmZkSWw2aTliVXgwY205Tm1FaVpBUk9FWk9IcHdrUEVyWDd5a2JQVnpMc04ycm81bkRNNW9hZlpHT3lxUzBLRm81ZTc1ZGRkUHZ2cS11NHdkQ2E3OUprRWtTd2RacEhNN2J5b29scl9Ra2tDVXYtMTRqSDc?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 6,
+      "location": "France",
+      "latitude": 46.227638,
+      "longitude": 2.213749,
+      "detailed_analysis": "easyJet flight U28105 declared an emergency over France due to a technical issue with the aircraft, posing a potential risk to the safety of passengers and crew",
+      "immediate_forecast_24h": "The aircraft is likely to undergo inspection and maintenance to identify and rectify the technical issue, and flights may be delayed or cancelled as a precautionary measure",
+      "strategic_outlook": "The incident may lead to increased scrutiny of easyJet's maintenance procedures and potential updates to safety protocols to prevent similar incidents in the future",
+      "operational_impact": "The emergency declaration may cause disruptions to flight schedules, and passengers may experience delays or cancellations, affecting the overall efficiency of air travel in the region",
+      "proximity_alert": null
+    }
+  }
+]
