@@ -473,5 +473,81 @@
       "operational_impact": "The incident may affect the operational efficiency of flights to and from London, with potential delays or cancellations due to increased security measures. Airlines and logistics companies may need to adapt their procedures to mitigate the risk of stowaways and ensure compliance with regulatory requirements.",
       "proximity_alert": "YAKIN TEHDİT: Heathrow Airport (23 km)"
     }
+  },
+  {
+    "id": "a0e9bf16b0401c36eda463dd98562acc",
+    "timestamp": "2026-07-08T17:44:51.458839",
+    "original_title": "Iran Live Updates: Trump Casts Doubt on Future of Cease-Fire After Exchange of Strikes",
+    "link": "https://www.nytimes.com/live/2026/07/08/world/iran-war-us-trump",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The exchange of strikes between the US and Iran, combined with President Trump's threat to strike Iran again, indicates a high level of tension and potential for further conflict. This could lead to increased instability in the region, affecting aviation and cargo operations.",
+      "immediate_forecast_24h": "In the next 24 hours, there is a high likelihood of further escalation, including potential airstrikes or missile launches. This could lead to disruptions in air traffic and cargo shipments in the region.",
+      "strategic_outlook": "In the long term, the conflict between the US and Iran could lead to a prolonged period of instability in the region, affecting global oil prices, trade routes, and aviation security. This could have significant implications for global supply chains and logistics operations.",
+      "operational_impact": "The conflict could lead to disruptions in air traffic, including potential flight restrictions or airspace closures. Cargo shipments may also be affected, with potential delays or diversions. Personnel and assets in the region may be at risk due to the increased tensions and potential for further violence.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "14a87835fedee70aaf1dba18fbe3a4d2",
+    "timestamp": "2026-07-08T17:45:05.096678",
+    "original_title": "'We’ll probably hit them hard again': Trump warns Iran U.S. is preparing for more strikes following what he called the end of the ceasefire",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1uqz657/well_probably_hit_them_hard_again_trump_warns/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Strait of Hormuz, Middle East",
+      "latitude": 25.5,
+      "longitude": 57.0,
+      "detailed_analysis": "The US and Iran are engaged in an escalating conflict, with the US preparing for more strikes following the end of the ceasefire. This poses a significant threat to assets, cargo, aviation, and personnel in the region.",
+      "immediate_forecast_24h": "Increased risk of military strikes and retaliation, potentially disrupting shipping lanes and air traffic in the region.",
+      "strategic_outlook": "The conflict may lead to a prolonged period of instability in the region, affecting global oil supplies and trade routes.",
+      "operational_impact": "Shipping and aviation companies should exercise extreme caution when operating in the region, and consider rerouting or delaying operations to minimize risk.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "1793baf12335676dde89b7bde310b067",
+    "timestamp": "2026-07-08T17:45:07.447844",
+    "original_title": "A Fresh Look at the Houthi Threat to Maritime Shipping",
+    "link": "https://warontherocks.com/a-fresh-look-at-the-houthi-threat-to-maritime-shipping/",
+    "source_name": "War on the Rocks",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 7,
+      "location": "Red Sea, Middle East",
+      "latitude": 16.0,
+      "longitude": 42.0,
+      "detailed_analysis": "The Houthi threat to maritime shipping in the Red Sea remains a significant concern, with potential attacks on vessels and disruption to global trade. The shift in global attention to the Strait of Hormuz does not diminish the risk in the Red Sea.",
+      "immediate_forecast_24h": "Increased vigilance is required for ships transiting the Red Sea, with a heightened risk of attacks or harassment by Houthi forces.",
+      "strategic_outlook": "The long-term outlook for maritime security in the Red Sea depends on the resolution of the conflict in Yemen and the effectiveness of international efforts to counter Houthi aggression.",
+      "operational_impact": "Shipping companies and naval forces should maintain enhanced security measures, including increased surveillance and escort vessels, to mitigate the risk of Houthi attacks.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "01d244b62d2d904e384470bc71c503ce",
+    "timestamp": "2026-07-08T17:45:10.439071",
+    "original_title": "Trump says he will allow Ukraine to make its own Patriot missiles",
+    "link": "https://www.france24.com/en/americas/20260708-trump-says-he-will-allow-ukraine-to-make-its-own-patriot-missiles",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Kyiv, Ukraine",
+      "latitude": 50.4333,
+      "longitude": 30.5167,
+      "detailed_analysis": "The US decision to allow Ukraine to manufacture its own Patriot air-defence systems could significantly enhance Ukraine's defence capabilities against Russian ballistic missiles, potentially escalating the conflict.",
+      "immediate_forecast_24h": "Increased tensions between Ukraine and Russia are expected, with potential for heightened military activity in the region.",
+      "strategic_outlook": "Long-term implications include a potential shift in the regional balance of power, with Ukraine gaining greater autonomy in its defence capabilities.",
+      "operational_impact": "The development and deployment of Patriot air-defence systems in Ukraine may impact aviation operations in the region, with potential for increased airspace restrictions and heightened security measures.",
+      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
+    }
   }
 ]
