@@ -302,5 +302,62 @@
       "operational_impact": "Potential disruptions to supply chains, increased security measures for cargo and personnel, and possible rerouting of flights or cargo shipments to avoid affected areas.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "9ca19ae0208a5cb603a48bc11e83f89c",
+    "timestamp": "2026-07-08T13:08:43.838353",
+    "original_title": "MINUSCA steps up security after attack on northern CAR base",
+    "link": "http://www.africanews.com/2026/07/08/minusca-steps-up-security-after-attack-on-northern-car-base/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 7,
+      "location": "Am Dafock, Central African Republic",
+      "latitude": 9.0833,
+      "longitude": 21.1833,
+      "detailed_analysis": "The attack on the MINUSCA base in Am Dafock indicates a heightened security threat in the region, potentially impacting aviation and personnel safety. The United Nations' decision to step up security measures suggests an acknowledgment of the increased risk.",
+      "immediate_forecast_24h": "In the next 24 hours, there is a possibility of further attacks or security incidents in the vicinity of the MINUSCA base, which could affect aviation operations and personnel movement.",
+      "strategic_outlook": "Long-term, the situation in the Central African Republic may continue to be volatile, with potential for ongoing conflict and civil unrest. This could lead to sustained security risks for assets, cargo, aviation, and personnel in the region.",
+      "operational_impact": "The increased security measures and potential for further incidents may lead to operational disruptions, including possible delays or restrictions on aviation activities and cargo movements in and around Am Dafock.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "4742a20d84350610475abea262846386",
+    "timestamp": "2026-07-08T13:08:47.068939",
+    "original_title": "Yet Another British Airways Flight is Cancelled After the Cabin Crew Got So Drunk On a Luxury Layover, They Ended Up Being Suspended",
+    "link": "https://www.paddleyourownkanoo.com/2026/07/08/yet-another-british-airways-flight-is-cancelled-after-the-cabin-crew-got-so-drunk-on-a-luxury-layover-they-ended-up-being-suspended/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Barbados, London Heathrow",
+      "latitude": 51.478,
+      "longitude": -0.4614,
+      "detailed_analysis": "British Airways flight cancelled due to cabin crew's inappropriate and drunken behavior during a luxury layover, resulting in the suspension of up to 10 flight attendants",
+      "immediate_forecast_24h": "No immediate security threats, but potential for further disruptions to British Airways flights if crew members are unavailable for duty",
+      "strategic_outlook": "Long-term impact on British Airways' reputation and potential changes to crew layover policies and procedures",
+      "operational_impact": "Minimal impact on transport/logistics, but potential for passenger inconvenience and disruption to travel plans",
+      "proximity_alert": "YAKIN TEHDİT: Heathrow Airport (1 km)"
+    }
+  },
+  {
+    "id": "38e9b5bb49206fd281d3d64768245089",
+    "timestamp": "2026-07-08T13:08:48.990790",
+    "original_title": "EES border checks: UK urges France to ‘prioritise flow’ ahead of summer holiday chaos",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/ees-border-check-delays-france-b3011186.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Border",
+      "risk_score": 10,
+      "location": "UK-France Border",
+      "latitude": 49.0,
+      "longitude": 2.0,
+      "detailed_analysis": "Potential for summer holiday chaos due to EES border checks, with the EU rejecting calls to suspend EES until September, which may lead to increased wait times and disruptions to travel plans.",
+      "immediate_forecast_24h": "Increased congestion and delays at border crossings are expected, particularly during peak travel hours.",
+      "strategic_outlook": "The situation may escalate if the EES system is not adequately staffed or if technical issues arise, leading to prolonged disruptions to travel and cargo transport.",
+      "operational_impact": "Transport and logistics operations may be impacted by increased wait times, potential border closures, or staff shortages, which could lead to delays and increased costs for cargo and passenger transport.",
+      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (28 km)"
+    }
   }
 ]
