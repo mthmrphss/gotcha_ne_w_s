@@ -473,5 +473,119 @@
       "operational_impact": "Potential for flight disruptions, cargo delays, and increased security protocols for personnel and assets in the region.",
       "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
     }
+  },
+  {
+    "id": "5ff51809e6a6935e731a7a2c34ea014a",
+    "timestamp": "2026-07-09T15:42:14.408667",
+    "original_title": "Trump’s NATO Summit, and Everyone Else’s",
+    "link": "https://www.nytimes.com/2026/07/09/world/europe/nato-trump-turkey-summit.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Politics",
+      "risk_score": 10,
+      "location": "NATO Summit Location, Europe",
+      "latitude": 50.8503,
+      "longitude": 4.3517,
+      "detailed_analysis": "The event involves a NATO summit with President Trump, where he insulted allies and demanded loyalty, while the military alliance moved closer to accepting more European responsibility for defense. No direct threats to assets, cargo, aviation, or personnel were reported.",
+      "immediate_forecast_24h": "Tensions may rise among allies, but no immediate threats to transport or logistics are expected in the next 24 hours.",
+      "strategic_outlook": "In the long term, increased European responsibility for defense may lead to changes in military alliances and strategies, potentially affecting global security and transport.",
+      "operational_impact": "No direct operational impact on transport or logistics is expected from this event.",
+      "proximity_alert": "YAKIN TEHDİT: SHERATON AIRPORT (0 km)"
+    }
+  },
+  {
+    "id": "225eb2029ca3fee54d4abaeb3f4eb07c",
+    "timestamp": "2026-07-09T15:42:16.330303",
+    "original_title": "Final Stage of Ayatollah Ali Khamenei’s Funeral Begins After Delay",
+    "link": "https://www.nytimes.com/2026/07/09/world/middleeast/khamenei-funeral-iran.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Mashhad, Iran",
+      "latitude": 36.2964,
+      "longitude": 59.6051,
+      "detailed_analysis": "The funeral of Ayatollah Ali Khamenei has begun after a delay, following a series of strikes between the United States and Iran, indicating heightened tensions and potential for further conflict.",
+      "immediate_forecast_24h": "Increased military activity and potential for retaliatory strikes are expected in the short term, posing a significant threat to aviation and personnel in the region.",
+      "strategic_outlook": "The ongoing conflict between the United States and Iran may lead to a prolonged period of instability, affecting cargo transport and logistics in the region, with potential for spillover into other areas.",
+      "operational_impact": "Transportation and logistics operations in the region may be severely impacted due to the conflict, with potential for disruptions to supply chains, and increased risk to personnel and assets.",
+      "proximity_alert": "YAKIN TEHDİT: Mashhad International Airport (7 km)"
+    }
+  },
+  {
+    "id": "1ad626e2c558992c3e30e0d440962f61",
+    "timestamp": "2026-07-09T15:42:18.494132",
+    "original_title": "Ryanair flight to Porto diverts to France after declaring emergency - The Portugal News",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQmZwN1Q3Zy1SMlhVYjlUcENSODRaQVk0QXZBdGNxbzBOSHhuSHdZZ085WUljeWN5WVBqVjZEeEM2b1BfRnhwajQ2ZnlzZHVtb3FFcEF3ZTF2MVJQOUF3MFB4MGNfRzBsLV9kQUdPOVdZSGVUZzVLejY2R1RCSjBZZTBHX0ZJcFU4UE1iUWVjNHB5aVlMU2RfVnJUaDRBTnFvSFRMZ3YwdWl5aDloMV91YnJDYWJDZVd5ejFKeVVlcmQ?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 6,
+      "location": "France",
+      "latitude": 46.227638,
+      "longitude": 2.213749,
+      "detailed_analysis": "A Ryanair flight to Porto declared an emergency and diverted to France, indicating a potential threat to aviation safety and security.",
+      "immediate_forecast_24h": "The situation is being monitored, and an investigation into the cause of the emergency declaration is likely to be conducted.",
+      "strategic_outlook": "This incident highlights the importance of emergency procedures and protocols in the aviation industry, and the need for continued vigilance and preparedness for potential security threats.",
+      "operational_impact": "The diversion of the flight may cause disruptions to passenger travel plans and potentially impact the operations of Ryanair and other airlines.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "c341a58f89ec06747e560b05e24ec594",
+    "timestamp": "2026-07-09T15:42:21.439666",
+    "original_title": "Victory for al-Qaeda’s Affiliate in Mali Would be a Catastrophe",
+    "link": "https://warontherocks.com/victory-for-al-qaedas-affiliate-in-mali-would-be-a-catastrophe/",
+    "source_name": "War on the Rocks",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict",
+      "risk_score": 8,
+      "location": "Mali",
+      "latitude": 17.0,
+      "longitude": -4.0,
+      "detailed_analysis": "A potential victory for al-Qaeda's affiliate in Mali, Jama'at Nusrat al-Islam wal-Muslimin, would pose a significant threat to regional security, with the group's goal of dismantling international borders and its radical rank and file.",
+      "immediate_forecast_24h": "Increased instability and potential for violent clashes in the region, with possible spillover effects into neighboring countries.",
+      "strategic_outlook": "A long-term increase in terrorist activity and instability in the Sahel region, potentially leading to a destabilization of the entire West African region.",
+      "operational_impact": "Potential disruption to transport and logistics in the region, with increased risk of attacks on aviation and cargo targets, as well as potential for border closures and restrictions on movement.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "2854ff040bb048d3eaa150637d8c22fd",
+    "timestamp": "2026-07-09T15:42:23.730443",
+    "original_title": "DR Congo opposition coalition postpones protests following AU mediation",
+    "link": "http://www.africanews.com/2026/07/09/dr-congo-opposition-coalition-postpones-protests-following-au-mediation/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Kinshasa, DR Congo",
+      "latitude": -4.32,
+      "longitude": 15.31,
+      "detailed_analysis": "The postponement of protests by the opposition coalition following AU mediation reduces the immediate risk of civil unrest, but the use of excessive force by security forces against demonstrators on 12 June indicates a volatile situation.",
+      "immediate_forecast_24h": "Low likelihood of major protests in the next 24 hours due to the postponement, but isolated incidents of unrest are possible.",
+      "strategic_outlook": "The situation remains unstable, with potential for future protests and clashes between security forces and demonstrators, which could impact transport and logistics operations in the region.",
+      "operational_impact": "Minimal immediate impact on aviation and cargo operations, but potential for disruptions to ground transport and logistics if unrest escalates.",
+      "proximity_alert": "YAKIN TEHDİT: N'djili Airport (3 km)"
+    }
+  },
+  {
+    "id": "8633da293ba690d34850281879caff8b",
+    "timestamp": "2026-07-09T15:42:27.302543",
+    "original_title": "As Iran buries Khamenei, it shifts from 'a theocracy to a nationalistic military leadership'",
+    "link": "https://www.france24.com/en/as-iran-buries-khamenei-it-shifts-from-a-theocracy-to-a-nationalistic-military-leadership",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Mashhad, Iran",
+      "latitude": 36.2964,
+      "longitude": 59.6051,
+      "detailed_analysis": "The funeral of Khamenei has led to mass processions and revenge slogans against the US, indicating heightened tensions between Iran and the US. The resurgence of strikes between the two countries poses a significant threat to regional stability and potentially to aviation and cargo operations.",
+      "immediate_forecast_24h": "Increased military activity and potential for retaliation from the US, leading to elevated risk of conflict in the region.",
+      "strategic_outlook": "A shift in Iran's leadership towards a more nationalistic military approach may lead to increased aggression and instability in the region, affecting transport and logistics operations.",
+      "operational_impact": "Potential disruptions to air traffic and cargo shipments due to increased military activity, as well as possible targeting of US or Western assets in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Mashhad International Airport (7 km)"
+    }
   }
 ]
