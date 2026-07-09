@@ -112,5 +112,43 @@
       "operational_impact": "The decision may lead to increased air traffic and cargo movements to and from Syria, but the current security situation and infrastructure limitations will continue to pose challenges to transport and logistics operations.",
       "proximity_alert": "YAKIN TEHDİT: Damascus International Airport (23 km)"
     }
+  },
+  {
+    "id": "b59edef5f2db9cc4378b10a4020f1cce",
+    "timestamp": "2026-07-09T04:33:21.791550",
+    "original_title": "Middle East live: Revolutionary Guards strike Kuwait and Bahrain after broken ceasefire",
+    "link": "https://www.france24.com/en/middle-east/20260709-middle-east-live-kuwait-and-bahrain-targeted-by-strikes-after-broken-ceasefire",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Aviation/Terrorism",
+      "risk_score": 8,
+      "location": "Kuwait and Bahrain, Middle East",
+      "latitude": 29.3677,
+      "longitude": 47.6583,
+      "detailed_analysis": "The broken ceasefire between the US and Iran has led to the Revolutionary Guards striking Kuwait and Bahrain, resulting in explosions and intercepted missile and drone attacks. This indicates a high level of hostility and potential for further escalation.",
+      "immediate_forecast_24h": "Increased tensions and potential for more attacks on Kuwait and Bahrain, with possible expansion to other countries in the region. Air travel and logistics may be disrupted.",
+      "strategic_outlook": "The conflict may lead to a prolonged period of instability in the region, affecting trade and transportation. The involvement of the US and Iran may draw in other countries, escalating the situation.",
+      "operational_impact": "Air travel to and from Kuwait and Bahrain may be suspended or heavily restricted. Cargo shipments may be delayed or diverted. Personnel in the region should exercise extreme caution and follow all security protocols.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "1b7c56d57dee80e8093d614a2b88da59",
+    "timestamp": "2026-07-09T04:33:23.660075",
+    "original_title": "US launches new strikes on Iran, Trump says they could get 'much worse'",
+    "link": "https://www.france24.com/en/middle-east/20260709-us-launches-new-strikes-on-iran-trump-says-they-could-get-much-worse",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Strait of Hormuz, Middle East",
+      "latitude": 26.0,
+      "longitude": 56.0,
+      "detailed_analysis": "The US has launched new strikes on Iran, with President Trump warning that the situation could escalate further if Iran continues to attack ships in the Strait of Hormuz, posing a significant threat to aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Increased military activity and tensions in the region are expected, with potential for further strikes or retaliation from Iran, affecting air traffic and shipping lanes.",
+      "strategic_outlook": "The conflict has the potential to disrupt global oil supplies and impact international trade, with long-term consequences for regional stability and security.",
+      "operational_impact": "Shipping and aviation operations in the region may be disrupted or suspended due to the increased risk of attack or military activity, with potential for significant delays and economic losses.",
+      "proximity_alert": null
+    }
   }
 ]
