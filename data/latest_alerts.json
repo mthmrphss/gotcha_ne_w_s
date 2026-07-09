@@ -1,211 +1,116 @@
 [
   {
-    "id": "5a10aea0bbd0fde51e610b52a2b3b9b9",
-    "timestamp": "2026-07-09T08:38:08.048731",
-    "original_title": "Bird of Prey: the answer to one-way attack drones - Airbus",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVnJWRW1MYTd5V1F5YlpsX2NqZVZ0TUE5ODNSRHMtck93R001VWwtUXBpcFRSY2tYeEVvWkZpcW5IYjgtdllLZThPY1FBazM2TXVsNndJQmQ0MElPWGROaG1VSy1kbkVjRDFfVTdoOHZnOUVMa0RmVHJ2TzhBU1ppTGw4XzRkTXJnWWRCNnJ2RE9RcGdySGZXTjJtUmtlanpZMkV6aUpHTF9mUQ?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Aviation",
-      "risk_score": 10,
-      "location": "Toulouse, France",
-      "latitude": 43.6043,
-      "longitude": 1.4442,
-      "detailed_analysis": "Airbus introduces Bird of Prey, a drone designed to counter one-way attack drones, potentially mitigating risks to aviation assets and personnel.",
-      "immediate_forecast_24h": "No immediate threats expected, but increased vigilance recommended for potential drone-related incidents.",
-      "strategic_outlook": "Long-term reduction in drone-based threats to aviation expected with the development and deployment of counter-drone technologies like Bird of Prey.",
-      "operational_impact": "Potential for reduced disruptions to air traffic and increased safety for aviation personnel and passengers.",
-      "proximity_alert": "YAKIN TEHDİT: Toulouse Blagnac Airport (7 km)"
-    }
-  },
-  {
-    "id": "b170678cc6729b84e337ea05ab0628f5",
-    "timestamp": "2026-07-09T08:38:09.936842",
-    "original_title": "US military has finished striking Iran, CENTCOM says, after explosions heard - The Jerusalem Post",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fdUdCVFNPdDNBWTVKMlNaYkoyMEpsbUVreUpvUlZka3pPZVVRbGFUOFAtcVhQSmdZcEF4cFpfV2tmMXFCUmhaNXltSWkzVFR2ZWZJQTl1blNXLVpNWHc0cXcxVk9xNnNPNkE?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Conflict/Aviation",
-      "risk_score": 8,
-      "location": "Iran",
-      "latitude": 32.0,
-      "longitude": 53.0,
-      "detailed_analysis": "US military strikes on Iran pose significant risks to aviation and regional stability, potentially disrupting air traffic and logistics in the region.",
-      "immediate_forecast_24h": "Increased tensions and potential for retaliatory actions from Iran, affecting air travel and cargo operations in the region.",
-      "strategic_outlook": "Long-term escalation of conflict could lead to prolonged disruptions in air travel, cargo transport, and regional trade, with potential for spill-over effects into neighboring countries.",
-      "operational_impact": "Potential for flight restrictions, airspace closures, and increased security measures at airports, impacting transport and logistics operations in the region.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "061f82832b0d5ec38c0432b6ed36a346",
-    "timestamp": "2026-07-09T08:38:11.993739",
-    "original_title": "North Korea calls Seoul-Tokyo military cooperation 'self-destruction' - upi.com",
-    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOY2plSmxObHNUeXFjNTBOTGU0VFBEclhvRFFNT0J4UTVCOWxVUWk4OWlGelc1U3pxQWxWaElsX1JQelZRUHNGZDhBWUR5OVJIZndnNllXSlY1ZGtxWTM2YUlKZ1pOTGo5Y3VuXzZVU3lldGlaMm1ZSWlvenVYTy1YMk52RFhyTDVlNDBETVZKU2ZZZUkxYU9Yd2U3dy1NUW1TWXJXSHR4M3lkMERMOUJfMTNURWFCRXZ0VVQ3NlZsVmhCaXRyRlBWMC1ZQ3NLUTVPc3BPN3ktVGl1MGtFNXZJVlNqb2VKTkdOenotWnpLXy0tbEXSAfgBQVVfeXFMTmhTcThRZmFKVkx2ZVlmLUVTVGdibW1fRjdmTjBabVpXSFdSa2NLaXJERW5yZDh1YUlycE42TzdraGFHRm5MeWZnQXlyQkhjZWRsVlljRHNCQUFmMzEwQjRfS3lhOUFlenQ4S3IzUC1TOURhbDlxVF93X25sSDhPdllhaGltOUgyY1BSVXU4RnNxRVZwRnhGY2N0VmwtbUdISHNjVUNBN0FkNFdsMy14ekZvZzM3VmFub0IwVWtkQnFhMjRLQWhNMWlaYnBvaTY3RkIzVjExbDRqY2VVUXcxLXkxaDlLRXhCdWhWM0p3WVYzNUE1OHFkV0o?oc=5",
+    "id": "e4aea605b2871d2b187499e289e737ef",
+    "timestamp": "2026-07-09T12:10:57.556275",
+    "original_title": "U.S., Iran trade dozens more strikes in dangerous cycle - The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQd2JISkQzUWNER2stdWVCdi1rdEkySEh6OGNPZDU2YUl3bl9ud25YRDQ4T3dSWFNqYklqaFFkZkU0UUxGaS1yNTVxTzdFYXFLVGZfRVpHc1MzbXNtc3JnS0Z6LUZNeVNTVTduLXNTVVpTNGt1T0ZGc2Fockc5cHM5VUtXZ1ZLc0JxQTU5RjEzVEs2UXJiUWxqeg?oc=5",
     "source_name": "Google News (Breaking)",
     "ai_analysis": {
       "category": "Conflict",
-      "risk_score": 10,
-      "location": "Seoul, South Korea/Tokyo, Japan",
-      "latitude": 37.5665,
-      "longitude": 126.9779,
-      "detailed_analysis": "North Korea's statement on Seoul-Tokyo military cooperation being 'self-destruction' indicates heightened tensions between the nations, potentially affecting aviation and cargo operations in the region.",
-      "immediate_forecast_24h": "Increased military activity and rhetoric between North Korea, South Korea, and Japan, potentially disrupting air traffic and logistics in the region.",
-      "strategic_outlook": "Long-term escalation of tensions could lead to increased security measures, potential trade disruptions, and heightened risk of conflict in the region, affecting transport and logistics operations.",
-      "operational_impact": "Potential delays or disruptions to air cargo and passenger flights, increased security screening, and possible restrictions on transport of certain goods or personnel in the region.",
-      "proximity_alert": "YAKIN TEHDİT: Incheon International Airport (14 km)"
-    }
-  },
-  {
-    "id": "bd671c5ed1a25717f62368bd0fb6ad0e",
-    "timestamp": "2026-07-09T08:38:13.652259",
-    "original_title": "President Trump Notifies Congress of Plan to Remove Syria From Terror List - The Media Line",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdVlId1l3SXFtNHFXLUw3ZTZ3Wlp4MjFYZFFwVldiU1ZqUkxLOUdlWVJWZkt3Qmh0SUxDMVhEa2trVXlFLUVTcXk5RHhCSDhiV2QwQlFyNEtRMXVNYjV2WC1Ga3I1VlRIWjBvZ3ZyREVpYW9sd3A3TFBKZXloWHhIYThpaC1pSlBDclNGQ1Z6WWhocm5lRWF4eGFWUzdkUEs4YlJ3VlluVzNNVGtJblVr?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Terrorism/Conflict",
-      "risk_score": 6,
-      "location": "Syria",
-      "latitude": 35.0,
-      "longitude": 38.0,
-      "detailed_analysis": "The US plan to remove Syria from the terror list may lead to increased instability and potential threats to aviation and personnel in the region.",
-      "immediate_forecast_24h": "No immediate changes expected, but potential for increased tensions and protests in the region.",
-      "strategic_outlook": "Long-term implications of the US decision may lead to a shift in regional dynamics, potentially affecting cargo and aviation operations.",
-      "operational_impact": "Transport and logistics operations in the region may be affected by increased security measures and potential unrest.",
+      "risk_score": 8,
+      "location": "Middle East",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The U.S. and Iran have engaged in dozens of strikes, indicating a heightened state of conflict that could impact aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Increased tensions and potential for further strikes, posing a risk to aviation and cargo operations in the region.",
+      "strategic_outlook": "Prolonged conflict could lead to long-term disruptions in regional logistics and transportation, affecting global supply chains.",
+      "operational_impact": "Potential for flight disruptions, cargo delays, and increased security measures for personnel and assets in the region.",
       "proximity_alert": null
     }
   },
   {
-    "id": "ca685549fbc4244df2d4fb9a73cb075a",
-    "timestamp": "2026-07-09T08:38:16.580032",
-    "original_title": "U.S. Launches New Strikes on Iran, Military Says",
-    "link": "https://www.nytimes.com/live/2026/07/08/world/iran-war-us-trump",
+    "id": "38cb7128eba5b50254b5de4587b09bf7",
+    "timestamp": "2026-07-09T12:11:00.696312",
+    "original_title": "Live Updates: U.S. and Iran Sink Into Violent Cycle After Latest Strikes",
+    "link": "https://www.nytimes.com/live/2026/07/09/world/iran-war-us-trump",
     "source_name": "NewYork Times",
     "ai_analysis": {
       "category": "Conflict",
+      "risk_score": 10,
+      "location": "Gulf nations",
+      "latitude": 26.2073,
+      "longitude": 50.5862,
+      "detailed_analysis": "The escalation of hostilities between the U.S. and Iran has led to a significant increase in risk for assets, cargo, aviation, and personnel in the region. The pattern of attacks and retaliatory strikes has all but collapsed the cease-fire, indicating a high likelihood of continued violence.",
+      "immediate_forecast_24h": "Further strikes and retaliatory actions are likely, with a potential for escalation into a wider conflict. This may lead to disruptions in shipping lanes, increased security measures, and potential targeting of aviation assets.",
+      "strategic_outlook": "The long-term outlook is uncertain, but the current trajectory suggests a prolonged period of heightened tensions and potential conflict. This may lead to increased costs, delays, and risks for assets, cargo, and personnel operating in the region.",
+      "operational_impact": "The conflict may impact transport and logistics operations in the region, including potential disruptions to shipping lanes, increased security measures, and potential targeting of aviation assets. This may lead to delays, increased costs, and risks for assets, cargo, and personnel.",
+      "proximity_alert": "YAKIN TEHDİT: Bahrain International Airport (8 km)"
+    }
+  },
+  {
+    "id": "a1d005610263ce870991e12746a85689",
+    "timestamp": "2026-07-09T12:11:02.717701",
+    "original_title": "Tanker Attacks Risk Overplaying Iran’s Hand, Analysts Say",
+    "link": "https://www.nytimes.com/2026/07/09/world/middleeast/iran-us-war-strait-of-hormuz.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
       "risk_score": 8,
-      "location": "Strait of Hormuz, Iran",
+      "location": "Persian Gulf, Middle East",
       "latitude": 26.0,
       "longitude": 56.0,
-      "detailed_analysis": "The U.S. has launched new strikes on Iran, which may escalate tensions in the region and impact shipping in the Strait of Hormuz, a critical waterway for international trade.",
-      "immediate_forecast_24h": "Increased military activity and potential for retaliation from Iran, which could lead to disruptions in shipping and aviation in the region.",
-      "strategic_outlook": "Long-term instability in the region could lead to sustained disruptions in global supply chains and increased risk of conflict, affecting assets, cargo, aviation, and personnel.",
-      "operational_impact": "Potential for delays or disruptions in shipping, increased security measures for aviation, and heightened risk of attacks on personnel and assets in the region.",
+      "detailed_analysis": "Recent tanker attacks in the Persian Gulf pose a significant threat to global oil supplies and maritime security, with Iran being suspected of involvement. This could lead to escalated tensions and potential military conflict in the region.",
+      "immediate_forecast_24h": "Increased naval presence and surveillance in the Persian Gulf, potential for further attacks or incidents, and heightened alert levels for ships and aircraft in the region.",
+      "strategic_outlook": "Long-term implications include potential disruption to global oil markets, increased insurance costs for shipping, and a heightened risk of conflict between Iran and other nations. Diplomatic efforts may be undertaken to de-escalate tensions.",
+      "operational_impact": "Shipping and aviation operations in the region may be affected, with potential delays, rerouting, or increased security measures. Cargo and personnel may be at risk due to the heightened threat of attack or conflict.",
       "proximity_alert": null
     }
   },
   {
-    "id": "82130d0c747cdd5ce8e61f2f17dcccb8",
-    "timestamp": "2026-07-09T08:38:19.668307",
-    "original_title": "Merz: Germany agreed to buy Tomahawk missiles at NATO summit",
-    "link": "https://www.reddit.com/r/geopolitics/comments/1urk5qa/merz_germany_agreed_to_buy_tomahawk_missiles_at/",
-    "source_name": "Reddit r/Geopolitics",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 8,
-      "location": "Germany",
-      "latitude": 51.1657,
-      "longitude": 10.4515,
-      "detailed_analysis": "Germany's agreement to buy Tomahawk missiles at the NATO summit indicates an escalation in military capabilities, potentially in response to regional security threats. This development may lead to increased tensions with neighboring countries, particularly Russia.",
-      "immediate_forecast_24h": "No immediate impact on aviation or cargo operations is expected, but heightened security measures may be implemented in the coming days.",
-      "strategic_outlook": "The acquisition of Tomahawk missiles by Germany may lead to a shift in the regional balance of power, potentially influencing the strategic decisions of other NATO member states and adversaries alike.",
-      "operational_impact": "The introduction of new missile systems may require adjustments to air defense systems and protocols, potentially affecting aviation operations and cargo transport in the region.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "7f60183183618da57e00349e4e6b1ec5",
-    "timestamp": "2026-07-09T08:38:22.073760",
-    "original_title": "The Pentagon’s AI Strategy Has a Funding Problem",
-    "link": "https://warontherocks.com/cogs-of-war/the-pentagons-ai-strategy-has-a-funding-problem/",
-    "source_name": "War on the Rocks",
-    "ai_analysis": {
-      "category": "Cyber/Conflict",
-      "risk_score": 10,
-      "location": "Washington D.C., USA",
-      "latitude": 38.8951,
-      "longitude": -77.0364,
-      "detailed_analysis": "The Pentagon's AI strategy faces a funding problem, which could impact the adoption of AI and cyber defense across the government, potentially leaving assets and personnel vulnerable to cyber threats.",
-      "immediate_forecast_24h": "No immediate threats are expected, but the funding issue may lead to delays in implementing the AI strategy.",
-      "strategic_outlook": "The lack of funding could hinder the US government's ability to keep pace with adversaries in the development and deployment of AI, potentially leading to a strategic disadvantage.",
-      "operational_impact": "The funding issue may impact the operational effectiveness of the US military and government agencies, potentially affecting the security of assets, cargo, aviation, and personnel.",
-      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
-    }
-  },
-  {
-    "id": "23bde525e9e0103cff74daeab9f28f4a",
-    "timestamp": "2026-07-09T08:38:24.044949",
-    "original_title": "Victory for al-Qaeda’s Affiliate in Mali Would be a Regional Catastrophe",
-    "link": "https://warontherocks.com/victory-for-al-qaedas-affiliate-in-mali-would-be-a-regional-catastrophe/",
-    "source_name": "War on the Rocks",
-    "ai_analysis": {
-      "category": "Terrorism/Conflict",
-      "risk_score": 8,
-      "location": "Mali",
-      "latitude": 17.0,
-      "longitude": -4.0,
-      "detailed_analysis": "A potential victory for al-Qaeda's affiliate in Mali, Jama'at Nusrat al-Islam wal-Muslimin, poses a significant threat to regional security, with the group's goal of dismantling existing international borders and its radical rank and file",
-      "immediate_forecast_24h": "Increased instability and potential for violent clashes in the region, with possible spillover effects into neighboring countries",
-      "strategic_outlook": "A long-term destabilization of the region, with potential for the spread of extremist ideologies and the disruption of transport and logistics networks",
-      "operational_impact": "Potential disruption to air transport and logistics in the region, with increased risk of attacks on aviation and transport infrastructure",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "c18df6c4209b634cb704cf3da1ff7833",
-    "timestamp": "2026-07-09T08:38:26.254037",
-    "original_title": "Russian FM meets with counterparts from Sahel alliance",
-    "link": "http://www.africanews.com/2026/07/09/russian-fm-meets-with-counterparts-from-sahel-alliance/",
+    "id": "ff24153bccc314412da5e959a41414d7",
+    "timestamp": "2026-07-09T12:11:06.937907",
+    "original_title": "US military completes latest strikes on Iran after Trump declares ceasefire is ‘over’",
+    "link": "http://www.africanews.com/2026/07/09/us-military-completes-latest-strikes-on-iran-after-trump-declares-ceasefire-is-over/",
     "source_name": "Africa News",
     "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Iran, Middle East",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The latest US military airstrikes against Iran, targeting around 90 military sites, significantly escalate the conflict and pose a substantial threat to aviation and regional stability.",
+      "immediate_forecast_24h": "Increased tensions and potential for retaliatory actions from Iran, affecting air travel and cargo operations in the region.",
+      "strategic_outlook": "Prolonged conflict could lead to heightened security measures, potential no-fly zones, and disruptions to global supply chains, particularly affecting oil and gas shipments.",
+      "operational_impact": "Aviation and cargo operations in the region may be severely impacted due to increased risk of airstrikes, missile attacks, and potential closure of airspace.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "da276d1aa19fa91d9e2912a814e20af0",
+    "timestamp": "2026-07-09T12:11:11.852239",
+    "original_title": "🔴 Middle East live: Jordan intercepts eight Iranian missiles sent into its airspace",
+    "link": "https://www.france24.com/en/middle-east/20260709-middle-east-live-kuwait-and-bahrain-targeted-by-strikes-after-broken-ceasefire",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 10,
+      "location": "Jordan",
+      "latitude": 31.9454,
+      "longitude": 35.9333,
+      "detailed_analysis": "Jordan has intercepted eight Iranian missiles sent into its airspace, indicating a significant escalation of tensions in the region and posing a direct threat to aviation safety and security.",
+      "immediate_forecast_24h": "Increased military alertness and potential for further missile launches or retaliatory actions, which could impact flight routes and aviation operations in the region.",
+      "strategic_outlook": "Long-term instability in the Middle East with potential for ongoing conflict, affecting regional security, aviation, and logistics. This could lead to increased security measures, potential no-fly zones, and altered flight paths.",
+      "operational_impact": "Potential disruption to air traffic, increased security screening for flights originating from or destined to the region, and possible rerouting of cargo and passenger flights to avoid conflict zones.",
+      "proximity_alert": "YAKIN TEHDİT: Queen Alia International Airport (25 km)"
+    }
+  },
+  {
+    "id": "10da2e12b1d6fc023701aaf75bdbc78a",
+    "timestamp": "2026-07-09T12:11:13.824080",
+    "original_title": "Khamenei successor has yet to be seen as late ruler's funeral comes to a close",
+    "link": "https://www.france24.com/en/khamenei-successor-has-yet-to-be-seen-as-ex-ayatollah-s-funeral-comes-to-a-close",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
       "category": "Conflict",
       "risk_score": 10,
-      "location": "Niamey, Niger",
-      "latitude": 13.5142,
-      "longitude": 2.1059,
-      "detailed_analysis": "The meeting between the Russian FM and counterparts from the Sahel alliance indicates a strengthening of military ties, potentially increasing instability in the region and affecting transport and logistics operations.",
-      "immediate_forecast_24h": "No immediate escalation expected, but increased military activity may lead to heightened tensions in the region.",
-      "strategic_outlook": "Long-term, the alliance may lead to increased conflict and instability in the Sahel region, affecting aviation and cargo operations, as well as personnel safety.",
-      "operational_impact": "Potential for increased security measures and restrictions on transport and logistics operations in the region, particularly for aviation and cargo.",
-      "proximity_alert": "YAKIN TEHDİT: Diori Hamani International Airport (8 km)"
-    }
-  },
-  {
-    "id": "0f0083e2da69ee63d924b03c4abd9737",
-    "timestamp": "2026-07-09T08:38:28.417899",
-    "original_title": "🔴 Middle East live: US says it struck 90 military targets in Iran as Tehran targets Gulf States",
-    "link": "https://www.france24.com/en/middle-east/20260709-middle-east-live-kuwait-and-bahrain-targeted-by-strikes-after-broken-ceasefire",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict/Aviation",
-      "risk_score": 8,
-      "location": "Middle East",
-      "latitude": 29.5599,
-      "longitude": 47.6467,
-      "detailed_analysis": "The US has struck 90 military targets in Iran, and Tehran is targeting Gulf States, indicating a significant escalation in conflict that could impact aviation and logistics in the region.",
-      "immediate_forecast_24h": "Increased military activity and potential for retaliation from Iran, posing a high risk to aviation and personnel in the region.",
-      "strategic_outlook": "Long-term instability and conflict in the Middle East could lead to sustained disruptions in cargo transport, aviation, and personnel movements, with potential for broader regional instability.",
-      "operational_impact": "Potential for flight disruptions, increased security measures, and heightened risk to personnel and cargo in the region, with possible spillover effects on global supply chains and logistics.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "df269b877c6475d864378d176696f503",
-    "timestamp": "2026-07-09T08:38:30.169149",
-    "original_title": "Middle East live: US says it struck 90 sites in Iran as Tehran targets Kuwait, Qatar, Bahrain",
-    "link": "https://www.france24.com/en/middle-east/20260709-middle-east-live-kuwait-and-bahrain-targeted-by-strikes-after-broken-ceasefire",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict/Aviation",
-      "risk_score": 8,
-      "location": "Middle East",
-      "latitude": 29.4574,
-      "longitude": 47.6583,
-      "detailed_analysis": "The US and Iran have engaged in a series of strikes, with the US targeting approximately 90 Iranian military sites and Iran targeting Bahrain, Kuwait, and Qatar, indicating a significant escalation in conflict that could impact aviation and logistics in the region.",
-      "immediate_forecast_24h": "Further strikes and retaliations are possible, potentially disrupting air travel and cargo operations in the region.",
-      "strategic_outlook": "The ongoing conflict could lead to a prolonged period of instability in the Middle East, affecting global supply chains and aviation security.",
-      "operational_impact": "Potential disruptions to air travel, increased security measures at airports, and possible delays or rerouting of cargo shipments in the region.",
-      "proximity_alert": null
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The death of Ayatollah Ali Khamenei and the potential for his son Mojtaba Khamenei to succeed him may lead to increased tensions between the US and Iran, potentially escalating into full-scale war. This could have significant implications for aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Increased military activity and potential for strikes against US and Israeli targets, potentially disrupting air traffic and logistics operations in the region.",
+      "strategic_outlook": "Long-term instability in the region could lead to increased security measures, potential for no-fly zones, and disruptions to global supply chains.",
+      "operational_impact": "Potential for flight disruptions, cargo delays, and increased security protocols for personnel and assets in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
     }
   }
 ]
