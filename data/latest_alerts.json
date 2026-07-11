@@ -1,24 +1,5 @@
 [
   {
-    "id": "e33434ddce787f115eacf25202ca3f41",
-    "timestamp": "2026-07-11T20:24:05.567212",
-    "original_title": "British Airways Dreamliner operating flight BA5 declared an emergency and diverted to Azerbaijan - airlive",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbGhDeFZfOExUT3dYYlBZdjJwZlBKNE41Nlh5ZU9YdGlOY0llQlRzYVZ4VnVVWktNZTQ3ZkhNZWlZZ0xhekhxUE1YUXM1ekNpdlpwdC1HbVA2dFNRT0xxU2w3LTJvV2VDY3k4d2UtTzBSbW1NS1lCM3RpbTI5QlEyc2RDQVJjejduSHJGd0pqeEhJbE5JZUlIVzM1UnVoYzQyb0ZEMEtLSkhWZExOeFhBaEJ5YkJzWjdKeFRIcnF2RmtfYU5wV25JT2thNUxmVm5tYmt1Wg?oc=5",
-    "source_name": "Live Flight Emergencies (Squawk)",
-    "ai_analysis": {
-      "category": "Aviation",
-      "risk_score": 10,
-      "location": "Azerbaijan",
-      "latitude": 40.4093,
-      "longitude": 49.8671,
-      "detailed_analysis": "British Airways Dreamliner operating flight BA5 declared an emergency and diverted to Azerbaijan, indicating a potential threat to aviation safety and security.",
-      "immediate_forecast_24h": "Investigations into the cause of the emergency declaration will likely be conducted, and the airline may experience disruptions to its operations.",
-      "strategic_outlook": "The incident may lead to increased security measures and scrutiny of aviation safety protocols, potentially impacting the airline industry as a whole.",
-      "operational_impact": "The diversion of the flight may cause delays and disruptions to passenger travel, and potentially impact cargo transport and logistics operations.",
-      "proximity_alert": "YAKIN TEHDİT: Heydar Aliyev International Airport (16 km)"
-    }
-  },
-  {
     "id": "cbba26cabc02a327f8b162c9decf0aaa",
     "timestamp": "2026-07-11T21:24:23.773589",
     "original_title": "Bahamas plane crash that killed 10 included musicians and a DJ, union says - ABC News - Breaking News, Latest News and Videos",
@@ -53,6 +34,25 @@
       "immediate_forecast_24h": "Flight disruptions and investigations into the cause of the crash are expected in the next 24 hours.",
       "strategic_outlook": "The incident may lead to increased scrutiny of aviation safety in the Bahamas and potentially impact the country's aviation industry in the long term.",
       "operational_impact": "Flights to and from the Bahamas may be affected, and cargo transport may experience delays due to the grounding of flights and subsequent investigations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "84c335894304bd1e4d925414ce431233",
+    "timestamp": "2026-07-11T22:24:25.922537",
+    "original_title": "Trump suggests a standing order to attack Iran if it assassinates him. But Vance would make the call - AP News",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS09GLTR6OERMc0tDYndyV0VZQ3NxdEFwa1Zpc1JZZVpzVFVqME1hLWtaNElHNmZsZjZIbjFyRGwyakdSU0U2cjdXSUFaSlVBYks2ejFtOVg5LUpLZGc4akg3SjI1eXY1VHJveE1TMVUyTHgxR1ZCOWExdHAwQXRUZTloanZ2WWVrbWROLVhsR1VDSEZybHQ2OGttdmI2LWc0Z01V?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 8,
+      "location": "Iran, USA",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The statement by Trump suggests a potential for military conflict between the US and Iran, which could lead to increased tensions and instability in the region, affecting aviation and cargo operations.",
+      "immediate_forecast_24h": "Heightened security measures and increased military presence in the region, potential for retaliatory actions from Iran.",
+      "strategic_outlook": "Long-term escalation of conflict could lead to significant disruptions to global supply chains, increased risk of terrorism, and higher insurance premiums for cargo and aviation operations.",
+      "operational_impact": "Potential for flight restrictions, increased security screening, and cargo delays due to heightened tensions and military activity in the region.",
       "proximity_alert": null
     }
   }
