@@ -1,21 +1,59 @@
 [
   {
-    "id": "5a2e2e4c227c74133114dcf2c6ed9dc5",
-    "timestamp": "2026-07-11T15:01:16.459094",
-    "original_title": "11 wounded in overnight Russian missile and drone strikes on Kyiv",
-    "link": "https://www.france24.com/en/video/20260711-11-wounded-in-overnight-russian-missile-and-drone-strikes-on-kyiv",
+    "id": "3d5e97b03d00befd4c15b97a596c4232",
+    "timestamp": "2026-07-11T16:26:47.685389",
+    "original_title": "10 dead in Bahamas plane crash, police say - NBC News",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOTJnMzA3VTVxR3ozc0hqTHdNMlRSa0h4QTVXQW1Hc09pRXRxTnZyZmR5d193ZTZNeGQwcHBWeW5QT3poM2JxWF9IcGVXblhpU3A1RnR5YXFYRWRzc24xeFRVUmM5YjhFdlF3VzI3ZTJnUnN4Z1gtWHl2aE5BeUNROWttVnA?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 8,
+      "location": "Bahamas",
+      "latitude": 25.0343,
+      "longitude": -77.3963,
+      "detailed_analysis": "A plane crash in the Bahamas has resulted in 10 fatalities, according to local police. The cause of the crash is currently unknown and under investigation.",
+      "immediate_forecast_24h": "Investigations into the crash are expected to continue, with potential disruptions to local air traffic. No immediate threats to other aircraft or personnel are reported.",
+      "strategic_outlook": "The incident may lead to increased scrutiny of aviation safety in the region, potentially resulting in enhanced security measures or regulations.",
+      "operational_impact": "The crash may cause temporary disruptions to air travel in the Bahamas, with potential delays or cancellations of flights. Cargo and personnel transport may also be affected.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "c196ba4f65c29704e6f14c7a84e955b5",
+    "timestamp": "2026-07-11T16:26:54.939654",
+    "original_title": "An islandwide blackout strikes Cuba for the second time this week",
+    "link": "https://www.france24.com/en/video/20260711-an-islandwide-blackout-strikes-cuba-for-the-second-time-this-week",
     "source_name": "France 24 ME",
     "ai_analysis": {
-      "category": "Conflict/Terrorism/Aviation",
+      "category": "Other",
       "risk_score": 10,
-      "location": "Kyiv, Ukraine",
-      "latitude": 50.4501,
-      "longitude": 30.5236,
-      "detailed_analysis": "Overnight Russian missile and drone strikes on Kyiv have resulted in 11 wounded, including a child, indicating a significant threat to personnel and potentially aviation assets in the region.",
-      "immediate_forecast_24h": "Further missile and drone strikes are possible in the next 24 hours, posing an immediate threat to aviation operations and personnel in Kyiv.",
-      "strategic_outlook": "The ongoing conflict between Russia and Ukraine continues to pose a long-term threat to regional stability, with potential for escalation and increased risk to aviation and logistics operations.",
-      "operational_impact": "The attacks may disrupt air traffic and logistics operations in and around Kyiv, with potential for delays or cancellations of flights and increased security measures for cargo and personnel.",
-      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
+      "location": "Havana, Cuba",
+      "latitude": 23.1333,
+      "longitude": -82.3667,
+      "detailed_analysis": "An islandwide blackout struck Cuba due to a crumbling power grid and fuel shortages, potentially disrupting logistics and transport operations.",
+      "immediate_forecast_24h": "The blackout may continue or recur, causing further disruptions to daily life and economic activities.",
+      "strategic_outlook": "Cuba's energy crisis may lead to long-term instability and potential civil unrest, affecting the overall security environment.",
+      "operational_impact": "The blackout may impact airport operations, cargo handling, and personnel safety, requiring contingency planning and alternative arrangements.",
+      "proximity_alert": "YAKIN TEHDİT: José Martí International Airport (16 km)"
+    }
+  },
+  {
+    "id": "43271e52b564d930d5edb2cebb4a5f12",
+    "timestamp": "2026-07-11T16:26:56.747489",
+    "original_title": "Overnight Russian missile and drone strikes on Ukraine kill six, officials say",
+    "link": "https://www.france24.com/en/europe/20260711-overnight-russian-missile-and-drone-strikes-on-ukraine-kill-six-officials-say",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "Overnight Russian missile and drone strikes on Ukraine resulted in six fatalities, including a child, and wounded dozens more, putting the country's air defence system under strain.",
+      "immediate_forecast_24h": "Increased tensions and potential for further Russian strikes, potentially targeting critical infrastructure and affecting air travel.",
+      "strategic_outlook": "Prolonged conflict may lead to significant disruptions in regional air traffic, impacting cargo and passenger flights, as well as posing a threat to aviation safety.",
+      "operational_impact": "Potential for airspace restrictions, flight cancellations, and increased security measures, affecting transport and logistics operations in the region.",
+      "proximity_alert": null
     }
   }
 ]
