@@ -492,5 +492,62 @@
       "operational_impact": "The strikes may disrupt air traffic and logistics operations in the region, posing a significant risk to cargo and personnel safety, and potentially affecting global supply chains.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "a03b3f52ebdb08ff3274828c130e4222",
+    "timestamp": "2026-07-12T11:18:33.875596",
+    "original_title": "U.S launches heaviest strikes in month after Iran declares Strait of Hormuz closed - The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORUNEd2J3SmxCOVdjblNITm5abTREZkJaOXZIRzFNTWFLaTV4aTBsZnB0MXllclhjQzRZb0ppYWZObmIzeXJ5SkNNNU1QalZPRTZEdFo4Qm1tMVFzSi10YXN4aVMxU2gyOXhhTFE5RE9DUVJLT3JPLXV6OVJ0S3FrTm9jX25HUVJFSmNDZXE4eDZGZ3RVemc4enlVUlFncDh4MXZLUUdWVVpVazc2?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Strait of Hormuz, Iran",
+      "latitude": 26.0,
+      "longitude": 56.0,
+      "detailed_analysis": "The U.S has launched its heaviest strikes in a month in response to Iran declaring the Strait of Hormuz closed, indicating a significant escalation in tensions between the two nations. This could lead to increased risk of attacks on aviation and cargo vessels in the region.",
+      "immediate_forecast_24h": "Increased military activity and heightened tensions in the region are expected, with a potential for further strikes or retaliation from Iran.",
+      "strategic_outlook": "The long-term implications of this escalation could lead to a prolonged period of instability in the region, affecting global oil supplies and trade routes, with potential for further conflict and increased risk to aviation and cargo assets.",
+      "operational_impact": "Shipping and aviation operations in the region may be disrupted, with potential for delays, rerouting, or cancellation of flights and cargo shipments, and increased security measures may be implemented to mitigate the risk of attacks.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "728977000cfa740e862facfa82552d30",
+    "timestamp": "2026-07-12T11:18:35.787041",
+    "original_title": "Missiles and drones fired at Gulf states after night of US strikes on Iran - Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ1BueGpGZTB1RHB3czg0SjUycDRQbmp4NWJTb3RQdE43NkNWWUlmbm9SdGJOTXRuTlhWbTVZeDRhVHg4Ykd2blBfZDdWS2FsQWxOZXJkdHEyTm5jSlQ5U1ZDX3dRSVN6aVg2RDZKVk53WW0tZlZ4NUFDbkFLVER1eHU4bjhnam5jYUJuSFc4OEwwU19YUldRWmFyMVlpZ1BsVkJOTHVZZVJpRExhalVJVTVtcWR1Z9IBuwFBVV95cUxNQmpTY21EcXRXV1pSUGhxYU1kZ25aRlE0TzRidVJWV3pLaFQzOXkxbEdLcW13c2lGUzFzcnhnYm9mNHNjVktJNTA5dDRrN040blprM3VEamgzb3JjaVdXMDJzTVpaemc3Vmg3QkxoMXdpNEhQREZscmpCMTVVSUp6SmVXMS0yTGZXVjJySFRxRHR3VE83NHZ3WnliRGRnVEFXTjZrelNrYmR0Tldjc0FYWkltSmxtY1JLQkcw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "Gulf states",
+      "latitude": 24.0,
+      "longitude": 54.0,
+      "detailed_analysis": "Missiles and drones have been fired at Gulf states following US strikes on Iran, indicating a significant escalation in conflict that poses a high risk to aviation and regional stability.",
+      "immediate_forecast_24h": "Increased military activity and potential for further retaliation are expected, posing immediate risks to aviation and personnel in the region.",
+      "strategic_outlook": "The conflict has the potential to destabilize the region, disrupt oil supplies, and impact global aviation and logistics, with long-term implications for security and trade.",
+      "operational_impact": "Flights may be rerouted or suspended, and cargo operations could be disrupted due to the increased risk of missile and drone attacks, affecting transport and logistics in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "fc2fc5cede5e43169417c2ec7728817c",
+    "timestamp": "2026-07-12T11:18:37.915751",
+    "original_title": "Unpatched XRING Vulnerability in XQUIC Exposes HTTP/3 Servers to Remote Crash Risk - Rescana",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcjY0dXBUSUE4eTZDanFJbm9ESkMzb1dRbW1NOUhmd1ByclF0OFd4allFcFNMdUdCVmpGSFd4U0t4cDRIeGllMEk3UGxQVlgyOE9SN055c0t0TWZfc2x4WmYydGk1UjJDUWhySVMyd21VTmdLM2hBYzdXdDRoQ2x3QzkwVklpcFZXVF9LdkdPRnhZTUt2Tk45Y0t6aExZSTBOdFdadEo1Xzh3dWtqVnA4dA?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 8,
+      "location": "Global",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "An unpatched XRING vulnerability in XQUIC exposes HTTP/3 servers to remote crash risk, potentially disrupting online services and impacting the security of data transmissions.",
+      "immediate_forecast_24h": "In the next 24 hours, there is a high likelihood of malicious actors exploiting this vulnerability to launch targeted attacks against vulnerable HTTP/3 servers, potentially causing service disruptions and data breaches.",
+      "strategic_outlook": "In the long term, this vulnerability highlights the importance of regular security updates and patches for emerging technologies like HTTP/3. Organizations should prioritize vulnerability management and implement robust security measures to mitigate the risk of similar exploits in the future.",
+      "operational_impact": "The operational impact of this vulnerability is significant, as it could lead to disruptions in online services, data breaches, and potential losses for organizations that rely on HTTP/3 servers. Transport and logistics organizations that use HTTP/3 for critical operations should take immediate action to patch vulnerable systems and implement additional security measures to mitigate the risk of exploitation.",
+      "proximity_alert": null
+    }
   }
 ]
