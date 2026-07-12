@@ -226,5 +226,157 @@
       "operational_impact": "Potential for shipping delays, increased security measures, and higher insurance premiums for vessels transiting the Strait of Hormuz. Aviation operations in the region may also be affected, with possible airspace restrictions or increased security protocols.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "3138dfc6fa4f0649932f5c20929057d9",
+    "timestamp": "2026-07-12T07:32:55.232604",
+    "original_title": "One Indian national missing after attack on vessel off Oman, foreign ministry says - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVWJXSGd0QTVpY0Q3ZDBxWndCTGNGOTRoSkZmYWxOUTRfdTZ4Z2lXN2FzRWJ1cjlZSnZURFBGNFJOenpWZ2dkZWNJNUdybXlZN1BQS0xDMmNhZ1dCYXIwVTNudEZvME1rUlNPLS1EMXVPamlSbzV4Z1BWYXNFQXhlNlQ2MGQ3NXFxd0dfUTd4NHptemJLdlg4ZlktMl9pd1JkQnp2YUZSQWgwQjlDNWJCWTIwYnE0aC1fRk05aFI1Y3lLRTZ4?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Crime/Conflict",
+      "risk_score": 7,
+      "location": "Off Oman",
+      "latitude": 21.5,
+      "longitude": 58.5,
+      "detailed_analysis": "An attack on a vessel off the coast of Oman has resulted in one Indian national going missing, indicating a potential threat to maritime security and personnel safety in the region.",
+      "immediate_forecast_24h": "Increased vigilance and security measures are expected in the vicinity, with possible disruptions to maritime traffic and cargo operations.",
+      "strategic_outlook": "The incident highlights the ongoing risks associated with maritime piracy and terrorism in the region, which could lead to increased security protocols and cooperation among nations to mitigate such threats.",
+      "operational_impact": "Shipping and cargo operations in the area may experience delays or rerouting due to the incident, with potential impacts on global supply chains and trade.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "ce70ca4230ff91ab14e2c1b675d24824",
+    "timestamp": "2026-07-12T07:32:57.145398",
+    "original_title": "US strikes Iran after attack on Cyprus-flagged ship - Euractiv",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQX3F5bXRxZ3hxMkJBdFhSQmJXWTAybnNJVTdKSkZKV2RGUzRNUUFyZS1wUVlVbW9CREpZNUl1N3pGMmtGay1rTFBDcGp1UDVzdTR4bTJzZWVXeEJCOUlwMmszLUlWdlp5cmJoQ3FsaFZlNi1zTlRYS3FPZFM2dFFjR0xSeFhXYTBGV0E?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Middle East",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The US has conducted strikes against Iran in response to an attack on a Cyprus-flagged ship, indicating a significant escalation in tensions between the two nations and posing a substantial threat to regional stability and maritime security.",
+      "immediate_forecast_24h": "Increased military activity and heightened tensions in the region are expected, potentially disrupting shipping lanes and aviation routes.",
+      "strategic_outlook": "Long-term implications include the potential for prolonged conflict, increased insurance costs for ships, and heightened security measures for aviation and maritime operations in the region.",
+      "operational_impact": "Shipping and aviation operations in the Middle East may face significant disruptions, including potential rerouting of ships and flights to avoid conflict zones, increased security checks, and possible delays or cancellations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "ff438380df8661ac33e3e34ac85b7ff2",
+    "timestamp": "2026-07-12T07:32:59.806970",
+    "original_title": "Typhoon Bavi Hits China, Causing Evacuations, Floods and Flight Delays",
+    "link": "https://www.nytimes.com/2026/07/12/world/asia/typhoon-bavi-china.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Other",
+      "risk_score": 6,
+      "location": "China",
+      "latitude": 23.5,
+      "longitude": 115.5,
+      "detailed_analysis": "Typhoon Bavi has made landfall in China, causing evacuations, floods, and flight delays. The storm's impact on aviation and logistics is significant, with potential disruptions to cargo transport and personnel safety.",
+      "immediate_forecast_24h": "Expect continued heavy rainfall and strong winds, leading to further flight delays and potential cancellations. Floods may also impact road transport and cargo handling.",
+      "strategic_outlook": "The long-term impact of Typhoon Bavi on China's transportation infrastructure and supply chains may be significant, with potential for extended disruptions and economic losses.",
+      "operational_impact": "Flight operations and cargo transport are likely to be severely impacted, with potential for extended delays and cancellations. Personnel safety is also a concern, with evacuations and floods posing a risk to life and limb.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "bbe28f57729b63b560a25599c63beb32",
+    "timestamp": "2026-07-12T07:33:01.588093",
+    "original_title": "How Putin Turned Japan Into a Den of Spies",
+    "link": "https://www.nytimes.com/2026/07/12/world/asia/russia-spies-japan-war-drones-electronics.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Intelligence/Crime",
+      "risk_score": 10,
+      "location": "Tokyo, Japan",
+      "latitude": 35.6895,
+      "longitude": 139.767,
+      "detailed_analysis": "Russian military intelligence unit operating in Tokyo, acquiring high-tech equipment for warfare, poses a significant threat to regional security and potentially to aviation and cargo operations",
+      "immediate_forecast_24h": "Increased surveillance and counter-intelligence activities by Japanese authorities, potential for diplomatic tensions between Japan and Russia",
+      "strategic_outlook": "Long-term implications for regional security, potential for escalation of tensions between Japan and Russia, and increased risk of cyber and physical threats to critical infrastructure",
+      "operational_impact": "Potential disruptions to logistics and supply chains, increased security measures at airports and seaports, and heightened vigilance for cargo and aviation operators",
+      "proximity_alert": "YAKIN TEHDİT: Haneda Airport (16 km)"
+    }
+  },
+  {
+    "id": "0c3dc83eabca4793fffc1273ca918010",
+    "timestamp": "2026-07-12T07:33:04.589716",
+    "original_title": "US launches fresh strikes as Iran closes Strait of Hormuz",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1uu6yw4/us_launches_fresh_strikes_as_iran_closes_strait/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Strait of Hormuz, Iran",
+      "latitude": 26.0,
+      "longitude": 56.0,
+      "detailed_analysis": "The US has launched fresh strikes as Iran closes the Strait of Hormuz, a critical waterway for international oil shipments, indicating a significant escalation in tensions between the two nations. This could lead to disruptions in global oil supplies and increased risk for aviation and maritime assets in the region.",
+      "immediate_forecast_24h": "Increased military activity and potential for further escalation in the region, with possible impacts on shipping and aviation traffic. There is a high likelihood of retaliatory actions from Iran, which could target US or allied assets.",
+      "strategic_outlook": "Long-term implications include the potential for a broader conflict in the Middle East, increased instability in global oil markets, and heightened security measures for assets and personnel in the region. The situation could also lead to a re-evaluation of international relationships and alliances.",
+      "operational_impact": "Immediate operational impacts include potential disruptions to shipping and aviation traffic through the Strait of Hormuz, increased security protocols for assets and personnel, and possible delays or cancellations of flights and shipments. There may also be a need for alternative routing or contingency planning to mitigate the risks associated with the conflict.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "3d2353cda72c99b9b878c755de40c399",
+    "timestamp": "2026-07-12T07:33:07.013285",
+    "original_title": "US attacks Iran over ship being hit in Strait of Hormuz",
+    "link": "http://www.africanews.com/2026/07/12/us-attacks-iran-over-ship-being-hit-in-strait-of-hormuz/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Strait of Hormuz, Iran",
+      "latitude": 25.3667,
+      "longitude": 57.2833,
+      "detailed_analysis": "The US attack on Iran in response to the Iranian strike on a vessel in the Strait of Hormuz poses a significant threat to assets, cargo, aviation, and personnel in the region. The escalation of tensions between the two nations increases the risk of further conflict, potentially disrupting maritime trade and air traffic.",
+      "immediate_forecast_24h": "Increased military presence and heightened tensions in the region are expected in the next 24 hours, potentially leading to further clashes or attacks on vessels and aircraft.",
+      "strategic_outlook": "The long-term outlook is uncertain, but the conflict has the potential to escalate into a broader regional conflict, impacting global trade and security. The situation will require close monitoring and contingency planning to mitigate potential risks.",
+      "operational_impact": "The conflict may disrupt maritime trade and air traffic in the region, potentially leading to delays, increased costs, and risks to personnel and assets. Shipping companies and airlines may need to re-route or cancel operations in the affected area.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "3bf3e3b83dbe8686aaa77c1987b54c32",
+    "timestamp": "2026-07-12T07:33:09.220547",
+    "original_title": "Live : US launches strikes in response to Iranian attacks on ships in Strait of Hormuz",
+    "link": "https://www.france24.com/en/middle-east/20260712-live-us-attacks-iran-over-ship-being-hit-in-strait-of-hormuz",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Strait of Hormuz, Middle East",
+      "latitude": 26.0,
+      "longitude": 56.0,
+      "detailed_analysis": "The US has launched strikes in response to Iranian attacks on ships in the Strait of Hormuz, indicating a significant escalation of tensions in the region, posing a high risk to maritime assets, cargo, and personnel.",
+      "immediate_forecast_24h": "Increased military presence and heightened alertness in the region, potential for further retaliatory actions, and possible disruptions to shipping lanes.",
+      "strategic_outlook": "Long-term implications include potential for prolonged conflict, increased insurance costs for ships, and heightened security measures for maritime transport, affecting global trade and economic stability.",
+      "operational_impact": "Shipping companies may need to reroute vessels, and airlines may adjust flight paths to avoid the region, leading to increased costs, delays, and potential shortages of critical goods.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "93ed9fec018efb02a18ef96e8323b70e",
+    "timestamp": "2026-07-12T07:33:10.999231",
+    "original_title": "Live: US launches strikes after Iran fires on ship in Strait of Hormuz",
+    "link": "https://www.france24.com/en/middle-east/20260712-live-us-attacks-iran-over-ship-being-hit-in-strait-of-hormuz",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Strait of Hormuz, Middle East",
+      "latitude": 25.3667,
+      "longitude": 57.2167,
+      "detailed_analysis": "The US has launched strikes against Iran after a container ship was set ablaze, indicating a significant escalation in tensions between the two nations, posing a high risk to maritime assets and cargo in the region.",
+      "immediate_forecast_24h": "Increased military activity and potential for further retaliation from Iran, posing a threat to shipping lanes and aviation in the region.",
+      "strategic_outlook": "Long-term instability in the region could lead to sustained disruptions to global supply chains and increased security measures for assets, cargo, and personnel.",
+      "operational_impact": "Potential disruptions to shipping and air traffic in the region, increased security protocols for vessels and aircraft, and heightened risk of attacks on personnel and assets.",
+      "proximity_alert": null
+    }
   }
 ]
