@@ -834,5 +834,62 @@
       "operational_impact": "Potential disruption to traditional military supply chains and logistics, as well as increased demand for advanced technologies and training for personnel to effectively utilize them.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "4538f87b1f041528d7b945dc9b8c94cd",
+    "timestamp": "2026-07-12T19:43:40.998163",
+    "original_title": "Iran reports new attacks on military targets on its largest island near the Strait of Hormuz - Newsday",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQM1Bjc2NFbktWUTlqWDFTbmE3U2dLX2pXTlplM0dJR1RabnJtVUVRUzhQc0dETzM3ZjE2Z2ZtRzVnRG1fVHN6N1Q2UHdORHN2dktDb1duckZrVlFVakdpX3RGRHE3MGdRYnNZT1RXRFNVTjZnSEJaQzhMM0NmZVhsd0oyQWFSUQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Strait of Hormuz, Iran",
+      "latitude": 26.5,
+      "longitude": 56.0,
+      "detailed_analysis": "Reports of new attacks on military targets on Iran's largest island near the Strait of Hormuz indicate a heightened state of conflict in the region, posing a significant threat to shipping and aviation assets.",
+      "immediate_forecast_24h": "Increased military presence and potential for further attacks in the region, potentially disrupting shipping lanes and air traffic.",
+      "strategic_outlook": "Long-term escalation of conflict in the region could lead to increased instability and risk for assets, cargo, aviation, and personnel, potentially affecting global oil supplies and trade routes.",
+      "operational_impact": "Potential disruption to shipping and air traffic in the region, increased security measures and protocols for vessels and aircraft, and possible rerouting of cargo and flights to avoid the area.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "234c3ea68991190050cfc2525ea5b37f",
+    "timestamp": "2026-07-12T19:43:46.281982",
+    "original_title": "Hundreds evacuated from Paris suburb after weapons found near synagogue",
+    "link": "https://www.france24.com/en/france/20260712-hundreds-evacuated-from-paris-suburb-after-weapons-found-near-synagogue",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Terrorism/Crime",
+      "risk_score": 10,
+      "location": "Sarcelles, France",
+      "latitude": 48.9964,
+      "longitude": 2.3778,
+      "detailed_analysis": "A suspicious vehicle with guns, including a military-grade weapon, was found near a synagogue in Sarcelles, leading to the evacuation of 300 people. An investigation has been launched by French anti-terrorist prosecutors, indicating a potential terrorism threat.",
+      "immediate_forecast_24h": "Increased security measures are expected in the area, with potential disruptions to local transport and logistics. The investigation may lead to further discoveries or arrests.",
+      "strategic_outlook": "The incident highlights the ongoing threat of terrorism in France and the need for continued vigilance. It may lead to increased security measures and cooperation between law enforcement agencies in the region.",
+      "operational_impact": "The evacuation and investigation may cause short-term disruptions to local transport and logistics, but the overall impact on regional aviation and cargo operations is expected to be minimal.",
+      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (15 km)"
+    }
+  },
+  {
+    "id": "f78ba8cf62ce42d83476191faa74aaf5",
+    "timestamp": "2026-07-12T19:43:47.960234",
+    "original_title": "Are tanks ageing like the cavalry in WW1?",
+    "link": "https://www.france24.com/en/tv-shows/spotlight/20260712-are-tanks-aging-like-the-cavalry-in-ww1",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 6,
+      "location": "Ukraine, Europe",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "The rapid advancement of drone warfare and artificial intelligence is changing the face of conflict, potentially making traditional assets like tanks obsolete and causing governments to reevaluate their investments in defense.",
+      "immediate_forecast_24h": "Increased investment in drone technology and AI, potential shifts in military strategy",
+      "strategic_outlook": "Long-term shift towards more technologically advanced warfare, potential reduction in traditional military assets",
+      "operational_impact": "Potential disruption to traditional military supply chains and logistics, increased focus on cybersecurity and counter-drone measures",
+      "proximity_alert": null
+    }
   }
 ]
