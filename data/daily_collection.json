@@ -701,5 +701,43 @@
       "operational_impact": "The situation may impact road transport and logistics, particularly at the Beitbridge border crossing, with potential delays and increased security measures.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "1ca77a6a1189575125f71748a9a51f07",
+    "timestamp": "2026-07-12T15:35:31.241226",
+    "original_title": "US strikes Iran over latest ship attack and Tehran responds by hitting Arab states - AP News",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZWNIZWpPMUROMXlXU0EwT1pjWWUycXFoTjBobEJLM0JpWGhjTWZwN0Q2RkxaY3N6cU9fNXZOT194MWFHYllDYUh4RWdEdmF3NVpGQ2tlOTl4dWI5VzVMWlgycVBYcmtSRDR6UV9lQmtoWkZMUWRvLUYwZXhIQzlGcVVpTGlMZElhRkxkT0pkMXlEZDJmSll0c2JsYkY?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "Middle East",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The US has conducted strikes against Iran in response to a ship attack, prompting Tehran to retaliate by targeting Arab states. This escalation poses significant risks to aviation, cargo, and personnel in the region.",
+      "immediate_forecast_24h": "Increased tensions and potential for further military action, with possible disruptions to air travel and shipping in the Middle East.",
+      "strategic_outlook": "Prolonged conflict could lead to long-term instability in the region, affecting global supply chains and energy markets.",
+      "operational_impact": "Potential for flight restrictions, cargo delays, and increased security measures for personnel and assets in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "3de2e957aacc369ba30a3360efcd81bf",
+    "timestamp": "2026-07-12T15:35:37.910070",
+    "original_title": "US: Salgado Araujo is mourned after fatal ICE shooting",
+    "link": "https://www.france24.com/en/video/20260712-us-salgado-araujo-is-mourned-after-fatal-ice-shooting",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest/Border",
+      "risk_score": 10,
+      "location": "Houston, USA",
+      "latitude": 29.7633,
+      "longitude": -95.3632,
+      "detailed_analysis": "A fatal shooting by a US Immigration and Customs Enforcement officer has sparked outrage and renewed scrutiny over ICE and immigration policies, potentially leading to increased civil unrest and protests in the area.",
+      "immediate_forecast_24h": "Protests and demonstrations are likely to occur in the Houston area, potentially causing disruptions to traffic and logistics operations.",
+      "strategic_outlook": "The incident may lead to long-term changes in immigration policies and increased tensions between law enforcement and the community, potentially affecting the security landscape in the region.",
+      "operational_impact": "Transport and logistics operations in the Houston area may be affected by potential protests and demonstrations, with possible delays or disruptions to cargo and personnel movement.",
+      "proximity_alert": "YAKIN TEHDİT: George Bush Intercontinental Airport (24 km)"
+    }
   }
 ]
