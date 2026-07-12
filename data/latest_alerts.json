@@ -1,58 +1,39 @@
 [
   {
-    "id": "4538f87b1f041528d7b945dc9b8c94cd",
-    "timestamp": "2026-07-12T19:43:40.998163",
-    "original_title": "Iran reports new attacks on military targets on its largest island near the Strait of Hormuz - Newsday",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQM1Bjc2NFbktWUTlqWDFTbmE3U2dLX2pXTlplM0dJR1RabnJtVUVRUzhQc0dETzM3ZjE2Z2ZtRzVnRG1fVHN6N1Q2UHdORHN2dktDb1duckZrVlFVakdpX3RGRHE3MGdRYnNZT1RXRFNVTjZnSEJaQzhMM0NmZVhsd0oyQWFSUQ?oc=5",
+    "id": "13db2eb30a69ff6797746016c8db4ddc",
+    "timestamp": "2026-07-12T20:58:50.112993",
+    "original_title": "This crash sparked an argument, gunfire and multiple other crashes in Detroit - ClickOnDetroit | WDIV Local 4",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWjBPaGJ3cFM5SUtXekxkZHdkU20xd3RLeko1LVdzQ04waml1ZXdneXk1YlR1WUFRME15SDluQUdaRUhsUG9tNzBReWRFQlBQTzZNT1E2YlBISVRxTmFIMkl1OWdGSEsxV3VOWDROYWVVLVVCQUQ4M2FfNGJueDRvbmRaODRuR3JpRWhINTFDQjBHSUFEVGxEVk5mc1V4VkdOdVBWT21FS01ObWNIN3dmSzdheVNzb1NEaEhxeFJ3?oc=5",
     "source_name": "Google News (Breaking)",
     "ai_analysis": {
-      "category": "Conflict",
+      "category": "Civil Unrest/Crime",
+      "risk_score": 10,
+      "location": "Detroit, USA",
+      "latitude": 42.3314,
+      "longitude": -83.0457,
+      "detailed_analysis": "A road crash in Detroit led to an argument, gunfire, and multiple other crashes, indicating a potential for civil unrest and increased crime in the area.",
+      "immediate_forecast_24h": "The situation may lead to further clashes and disruptions in the city, potentially affecting local transport and logistics.",
+      "strategic_outlook": "The long-term impact is likely to be minimal, but the incident highlights the need for continued monitoring of civil unrest and crime in the area.",
+      "operational_impact": "The incident may cause temporary disruptions to local transport and logistics, but it is unlikely to have a significant impact on regional or global operations.",
+      "proximity_alert": "YAKIN TEHDİT: DETROIT (4 km)"
+    }
+  },
+  {
+    "id": "9866b1fae4988dc33709749189a6553e",
+    "timestamp": "2026-07-12T20:58:56.347097",
+    "original_title": "Iran expands attacks on Gulf states after intense US strikes",
+    "link": "https://www.france24.com/en/middle-east/20260712-iran-expands-attacks-on-gulf-states-after-intense-us-strikes",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
       "risk_score": 8,
       "location": "Strait of Hormuz, Iran",
-      "latitude": 26.5,
+      "latitude": 26.0,
       "longitude": 56.0,
-      "detailed_analysis": "Reports of new attacks on military targets on Iran's largest island near the Strait of Hormuz indicate a heightened state of conflict in the region, posing a significant threat to shipping and aviation assets.",
-      "immediate_forecast_24h": "Increased military presence and potential for further attacks in the region, potentially disrupting shipping lanes and air traffic.",
-      "strategic_outlook": "Long-term escalation of conflict in the region could lead to increased instability and risk for assets, cargo, aviation, and personnel, potentially affecting global oil supplies and trade routes.",
-      "operational_impact": "Potential disruption to shipping and air traffic in the region, increased security measures and protocols for vessels and aircraft, and possible rerouting of cargo and flights to avoid the area.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "234c3ea68991190050cfc2525ea5b37f",
-    "timestamp": "2026-07-12T19:43:46.281982",
-    "original_title": "Hundreds evacuated from Paris suburb after weapons found near synagogue",
-    "link": "https://www.france24.com/en/france/20260712-hundreds-evacuated-from-paris-suburb-after-weapons-found-near-synagogue",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Terrorism/Crime",
-      "risk_score": 10,
-      "location": "Sarcelles, France",
-      "latitude": 48.9964,
-      "longitude": 2.3778,
-      "detailed_analysis": "A suspicious vehicle with guns, including a military-grade weapon, was found near a synagogue in Sarcelles, leading to the evacuation of 300 people. An investigation has been launched by French anti-terrorist prosecutors, indicating a potential terrorism threat.",
-      "immediate_forecast_24h": "Increased security measures are expected in the area, with potential disruptions to local transport and logistics. The investigation may lead to further discoveries or arrests.",
-      "strategic_outlook": "The incident highlights the ongoing threat of terrorism in France and the need for continued vigilance. It may lead to increased security measures and cooperation between law enforcement agencies in the region.",
-      "operational_impact": "The evacuation and investigation may cause short-term disruptions to local transport and logistics, but the overall impact on regional aviation and cargo operations is expected to be minimal.",
-      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (15 km)"
-    }
-  },
-  {
-    "id": "f78ba8cf62ce42d83476191faa74aaf5",
-    "timestamp": "2026-07-12T19:43:47.960234",
-    "original_title": "Are tanks ageing like the cavalry in WW1?",
-    "link": "https://www.france24.com/en/tv-shows/spotlight/20260712-are-tanks-aging-like-the-cavalry-in-ww1",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 6,
-      "location": "Ukraine, Europe",
-      "latitude": 49.0,
-      "longitude": 32.0,
-      "detailed_analysis": "The rapid advancement of drone warfare and artificial intelligence is changing the face of conflict, potentially making traditional assets like tanks obsolete and causing governments to reevaluate their investments in defense.",
-      "immediate_forecast_24h": "Increased investment in drone technology and AI, potential shifts in military strategy",
-      "strategic_outlook": "Long-term shift towards more technologically advanced warfare, potential reduction in traditional military assets",
-      "operational_impact": "Potential disruption to traditional military supply chains and logistics, increased focus on cybersecurity and counter-drone measures",
+      "detailed_analysis": "Iran has expanded its attacks on Gulf states following intense US strikes, with reported strikes on two southern islands and attacks on Kuwait's border posts and an offshore oil platform. The situation is volatile, with potential for further escalation.",
+      "immediate_forecast_24h": "Increased military activity and potential for further strikes in the region, with possible disruptions to shipping and aviation traffic in the Strait of Hormuz.",
+      "strategic_outlook": "Long-term instability in the region, with potential for ongoing conflict between Iran and the US, and possible impacts on global oil supplies and shipping routes.",
+      "operational_impact": "Potential disruptions to air and sea transport in the region, with possible delays or rerouting of flights and ships, and increased security measures for personnel and cargo.",
       "proximity_alert": null
     }
   }
