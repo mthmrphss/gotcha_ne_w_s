@@ -93,5 +93,62 @@
       "operational_impact": "The incident may cause disruptions to flight schedules and operations at Manchester airport, potentially leading to delays or cancellations of other flights. It could also impact the reputation of Jet2 and the aviation industry as a whole, highlighting the need for continued vigilance and investment in safety and security measures.",
       "proximity_alert": "YAKIN TEHDİT: Manchester Airport (0 km)"
     }
+  },
+  {
+    "id": "a9604f22db30e7a337c80d07025c5509",
+    "timestamp": "2026-07-12T01:09:19.846694",
+    "original_title": "Trump suggests a standing order to attack Iran if it assassinates him. But Vance would make the call - The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUnZ0Z1pKcHE4Ujh2X1NRQms5dUN6MFJMaXkyeUNaUFFXUWEwQkh2VWhtRkZPS3ZTQnQzb3AwOERtNTBiNzlYZ1oxQzZ3eVdqeExhMUdqRHJ6T251YmVobnhtSndQZVcxcHdZMFJKdWRlTEV5MVRZaWM1Y2FhdzZlN25xNU1HOHFLX0FTZ3pqX19mX3ViSzlyWllfRk53Y25ZMnFLOENMcjAzYnBTNVp0RGtKUHViZlZEZWtUUVBZYzliemtyZWp5cm9hdy1Qam5BcnAtWkYwZw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Iran, USA",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The statement by Trump regarding a standing order to attack Iran if it assassinates him poses a significant threat to regional stability and global security. This could lead to increased tensions between the US and Iran, potentially affecting aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Increased military alertness and heightened security measures are expected in the short term, with potential disruptions to air travel and cargo transport in the region.",
+      "strategic_outlook": "The long-term implications of such a statement could lead to a significant escalation of conflict between the US and Iran, affecting global oil prices, trade, and transportation logistics.",
+      "operational_impact": "Potential disruptions to air travel, increased security checks, and possible restrictions on cargo transport to and from the region, affecting personnel and asset security.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "430e14624c3a5285aedb874bc852d9a1",
+    "timestamp": "2026-07-12T01:09:21.724418",
+    "original_title": "US military says it is striking Iran in response to attack on civilian vessel in Strait of Hormuz - AP News",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb29YUXh5MnNRTjVBazdXOUdMSkx5bkU0WHJFVFRGX1pyY0E5cWZfRXc5NnhQVjdOUVFzZTJFNkpBNlZpdUZIVGdoNk5ieU1sVUw1dDMwdkhSYWF4a0pKUk9nYVFMLW5HRFRjOUJTSTBuVEkxLTQ1X2NEZk5FWDMwV2lnRlBhYmhyY2FjQU82S2pnM2RQSEpfTjFwSXBlbk54OGdr?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Strait of Hormuz, Iran",
+      "latitude": 26.0,
+      "longitude": 56.0,
+      "detailed_analysis": "The US military is striking Iran in response to an attack on a civilian vessel in the Strait of Hormuz, indicating a significant escalation of tensions in the region, which could impact shipping and aviation operations.",
+      "immediate_forecast_24h": "Increased military activity in the region, potential for further retaliation from Iran, and heightened security measures for vessels and aircraft transiting the Strait of Hormuz.",
+      "strategic_outlook": "Long-term implications for regional stability, potential disruption to global oil supplies, and increased risk of conflict between the US and Iran, which could have far-reaching consequences for global trade and security.",
+      "operational_impact": "Potential delays or disruptions to shipping and aviation operations in the region, increased security protocols for vessels and aircraft, and potential rerouting of traffic to avoid the affected area.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "356c6a7850fd091894bc1b08a12a627d",
+    "timestamp": "2026-07-12T01:09:25.489646",
+    "original_title": "Mojtaba Khamenei Vows Revenge as Iran’s Top Diplomat Is in Oman for Talks",
+    "link": "https://www.nytimes.com/2026/07/11/world/middleeast/iran-araghchi-oman-iran-strait-of-hormuz.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Crime",
+      "risk_score": 7,
+      "location": "Strait of Hormuz, Iran/Oman",
+      "latitude": 25.3667,
+      "longitude": 56.7667,
+      "detailed_analysis": "Iran's attack on a container ship following diplomatic talks between Iran and Oman indicates a heightened threat to maritime assets and cargo. The vow of revenge by Mojtaba Khamenei suggests potential for further escalation.",
+      "immediate_forecast_24h": "Increased tensions in the Strait of Hormuz, potential for further attacks on shipping vessels, and heightened security measures by Oman and other regional actors.",
+      "strategic_outlook": "Long-term instability in the region, potential disruption to global shipping lanes, and increased risk of conflict between Iran and its neighbors or international powers.",
+      "operational_impact": "Shipping companies and cargo operators should exercise extreme caution when navigating the Strait of Hormuz, consider rerouting or delaying shipments, and enhance security protocols to mitigate potential threats.",
+      "proximity_alert": null
+    }
   }
 ]
