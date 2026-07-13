@@ -492,5 +492,62 @@
       "operational_impact": "The incident may lead to increased security screening and measures at airports to prevent similar incidents, potentially causing minor delays or disruptions to air travel.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "133316f62cd2f0792a7fbc2852a6bd03",
+    "timestamp": "2026-07-13T17:31:15.996207",
+    "original_title": "Pilot dies in Hamilton County plane crash - WRGB",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTWhRaUVhNmItSnQ4ZWczc1Q4azExaUNFT1FnV1NKYWpBUWpQal9KLTRHaVNFSkhyX0dXR3BPNUpDOGNUVmRiVkxmRGRxU3BwRzBURno5TkRQNzRiUmtVV1RNTWNOSmZmaFhIT1JXVVRqVEpIdzdvQmc3U1VKU0RxczBOMWJNU0FPNk41OEl4ZWxRR1dydkkycmhsdV9VbWMtUXlnTA?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 8,
+      "location": "Hamilton County",
+      "latitude": 43.2833,
+      "longitude": -74.0667,
+      "detailed_analysis": "A pilot has died in a plane crash in Hamilton County, indicating a significant threat to aviation safety and potential disruption to air travel.",
+      "immediate_forecast_24h": "Investigations into the cause of the crash are likely to begin immediately, and air traffic in the surrounding area may be affected.",
+      "strategic_outlook": "The incident highlights the importance of aviation safety and the need for ongoing vigilance to prevent such accidents in the future.",
+      "operational_impact": "The crash may lead to temporary disruptions to air travel in the region, and airlines may need to adjust their schedules and routes accordingly.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "792c0f8f1d4faddcba63617a2f47a650",
+    "timestamp": "2026-07-13T17:31:20.448966",
+    "original_title": "Trump says U.S. military will reimpose blockade on Iranian ports - The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOT1J3QWlHWUJEUmItQkgxVWFPTTNiU3BhaUFZdXZjYU1fcFdHRml4M2lMMWxPZ1dSY3MwSzRPbm94ZklZSy11NGRnZWR5NGdVNGdSQTVMWi02dWJDQnBvUm5UVjFhRFEtRVAxNDlJeXR5cjNiZlBVQkZ1UFJzR29feEEzMjJFUTU1QnRkYXln?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Iranian ports, Iran",
+      "latitude": 30.0667,
+      "longitude": 51.6167,
+      "detailed_analysis": "The US military's planned reimposition of a blockade on Iranian ports poses a significant threat to cargo and shipping operations in the region, potentially disrupting global supply chains and escalating tensions between the US and Iran.",
+      "immediate_forecast_24h": "Increased naval presence and surveillance in the region, potential for Iranian retaliation or asymmetric responses, heightened risk of miscalculation or accidental conflict.",
+      "strategic_outlook": "Prolonged blockade could lead to significant economic and humanitarian consequences for Iran, potentially destabilizing the region and prompting a wider conflict, while also impacting global energy markets and trade flows.",
+      "operational_impact": "Shipping and cargo operations in the region may be severely disrupted, with potential for delays, diversions, or cancellations, while aviation operations may also be affected due to increased military activity and airspace restrictions.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "5c6772d376a71ac1878fc844085daed1",
+    "timestamp": "2026-07-13T17:31:22.709387",
+    "original_title": "VIDEO: 3 Lethal U.S. Drones Attack Iranian Sub, Port Facility - USNI News",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSk8xTExSNEVaakU0aldKUnJBZ0JtcHVROC1IYTh6QURpRG9UUk0wcWd1d3Z0elppZndObS1RYUhkMzlzQVB6MjlVMVM2MENOcmV4Rkh0QWc3eGIzVGJTSFA5Z296MkxIVmNJMzFWNjctUC1FYzZpMEExMGp4a3FJQkthMHlnLTNlbWdwd3dIb2pnaUlRX0E?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Three U.S. drones have attacked an Iranian submarine and a port facility, indicating a significant escalation in tensions between the two nations, posing a high risk to aviation and maritime assets in the region.",
+      "immediate_forecast_24h": "Increased military presence and heightened alertness in the region, potential for further clashes or retaliatory actions, and possible disruptions to shipping and air traffic.",
+      "strategic_outlook": "Long-term implications include the potential for a broader conflict, increased instability in the region, and a heightened risk of attacks on aviation and maritime assets, which could have significant strategic and operational implications for global trade and security.",
+      "operational_impact": "Potential disruptions to shipping and air traffic in the region, increased security measures for aviation and maritime assets, and possible rerouting of flights and ships to avoid the area.",
+      "proximity_alert": null
+    }
   }
 ]
