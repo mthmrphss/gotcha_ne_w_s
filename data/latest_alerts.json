@@ -1,115 +1,58 @@
 [
   {
-    "id": "efc4e16ee02be3152ea93d2b681705b1",
-    "timestamp": "2026-07-13T08:33:44.488027",
-    "original_title": "Cyolo debuts CPS Segmentation to boost zero trust security, limit lateral movement across OT, cyber-physical systems - Industrial Cyber",
-    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONUgzUDd3VWk1OTFpR1ZPdldJRFR3RjhlYzN4SlNMUWdTak53NjBQdk9UQU5Eb2dBTEpOOEN6NlpWMHFwcXd1VlRWZ0V0Vm5tUmxEZnpqa3JFdG5EREdYYUttVUU2V1oxWFlsUExqXzdoX3Q2OElhUTJGeWhCXy10V05NLWJ0Wk5FaFlGQy1jXzNWUUttbU9SUzdWcjdrbDlrOE1aaDBqUHFjMHhNRkV6aUJ4Y3p1OVFmUXVZYmNGSkdwZER2OFd6Y3N2RGZGdFlBbE9QQzBPLXBYVGhBR3hXTA?oc=5",
-    "source_name": "Google News (Breaking)",
+    "id": "c3d07a66dfbdaff7bbf91d93fd39a39a",
+    "timestamp": "2026-07-13T12:12:31.071760",
+    "original_title": "Live Updates: Iran Ramps Up Threats as It Retaliates Against U.S. Strikes",
+    "link": "https://www.nytimes.com/live/2026/07/13/world/iran-war-us-trump-hormuz",
+    "source_name": "NewYork Times",
     "ai_analysis": {
-      "category": "Cyber",
-      "risk_score": 6,
-      "location": "Global",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "Cyolo debuts CPS Segmentation to boost zero trust security, which could potentially limit lateral movement across OT and cyber-physical systems, reducing the risk of cyber attacks on industrial systems.",
-      "immediate_forecast_24h": "No immediate threats are expected, but the introduction of this new security measure may lead to increased scrutiny of industrial cyber security in the short term.",
-      "strategic_outlook": "In the long term, this development could lead to improved security for industrial systems, reducing the risk of cyber attacks and potential disruptions to critical infrastructure.",
-      "operational_impact": "The operational impact is expected to be low in the short term, but as the technology is adopted, it could lead to improved security and reduced risk of disruptions to industrial and logistical operations.",
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Senior Iranian officials have called for revenge against the United States and Israel, increasing the likelihood of retaliatory attacks that could impact aviation and logistics in the region.",
+      "immediate_forecast_24h": "Heightened tensions and increased military activity are expected in the next 24 hours, potentially leading to disruptions in air travel and cargo transport.",
+      "strategic_outlook": "The escalation of tensions between Iran, the US, and Israel could lead to a prolonged period of instability in the region, affecting aviation, cargo, and personnel safety.",
+      "operational_impact": "Potential disruptions to air travel, increased security measures, and possible restrictions on cargo transport are expected, with significant operational implications for logistics and supply chain management.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "603e9896f848c08509f105d35d679bbe",
+    "timestamp": "2026-07-13T12:12:33.046928",
+    "original_title": "A Robot Army Remakes Ground Warfare in Ukraine",
+    "link": "https://www.nytimes.com/2026/07/13/world/europe/ukraine-ground-robots.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "The use of ground robots in Ukraine for warfare poses a significant threat to personnel and assets. These robots can evacuate the wounded, hold trenches, and even engage in combat, indicating a high level of autonomy and potential for harm.",
+      "immediate_forecast_24h": "Increased use of ground robots in combat zones, potentially leading to higher casualties and disruptions in logistics and supply chains.",
+      "strategic_outlook": "The deployment of robot armies could fundamentally change the nature of ground warfare, with potential long-term implications for the use of autonomous systems in conflict zones.",
+      "operational_impact": "Transport and logistics operations in the region may be severely impacted due to the increased use of autonomous ground robots, which could lead to disruptions in supply chains and increased risk to personnel and assets.",
       "proximity_alert": null
     }
   },
   {
-    "id": "88ea9de59c6e637e8239596deca45e6c",
-    "timestamp": "2026-07-13T08:33:48.116003",
-    "original_title": "Middle East Updates: Cease-Fire Unraveling as U.S. and Iran Trade Strikes Again",
-    "link": "https://www.nytimes.com/live/2026/07/12/us/iran-war-trump-hormuz",
-    "source_name": "NewYork Times",
+    "id": "a9f726e9ce05ab521a4cd7ba377270f3",
+    "timestamp": "2026-07-13T12:12:36.546677",
+    "original_title": "U.S., Iran trade claims over Strait of Hormuz as tensions escalate",
+    "link": "http://www.africanews.com/2026/07/13/us-iran-trade-claims-over-strait-of-hormuz-as-tensions-escalate/",
+    "source_name": "Africa News",
     "ai_analysis": {
-      "category": "Conflict/Aviation",
+      "category": "Conflict",
       "risk_score": 8,
       "location": "Strait of Hormuz, Middle East",
       "latitude": 26.0,
       "longitude": 56.0,
-      "detailed_analysis": "The U.S. and Iran are engaged in a military conflict, with the U.S. striking dozens of Iranian targets and Iran retaliating with drone strikes on American military sites. This escalation poses a significant threat to aviation and cargo operations in the region.",
-      "immediate_forecast_24h": "Further military exchanges between the U.S. and Iran are likely, potentially disrupting air traffic and shipping lanes in the Strait of Hormuz.",
-      "strategic_outlook": "The conflict may lead to a prolonged period of instability in the region, affecting global oil supplies and trade routes. Aviation and cargo operations may need to be rerouted or suspended until the situation stabilizes.",
-      "operational_impact": "Flights and cargo shipments may be delayed or cancelled due to the conflict, and transport companies should consider alternative routes or modes of transportation to minimize disruptions.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "f87a6c6296f8d3eec159f2b5777ec595",
-    "timestamp": "2026-07-13T08:33:51.228095",
-    "original_title": "An Unlearned Lesson: The Sorry Record of Regime Change Operations in the Middle East",
-    "link": "https://warontherocks.com/an-unlearned-lesson-the-sorry-record-of-regime-change-operations-in-the-middle-east/",
-    "source_name": "War on the Rocks",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 8,
-      "location": "Middle East",
-      "latitude": 32.0,
-      "longitude": 53.0,
-      "detailed_analysis": "The announcement of Operation Epic Fury, a joint U.S.-Israeli military operation against Iran, poses a significant threat to regional stability and may impact aviation and cargo operations in the area.",
-      "immediate_forecast_24h": "Increased military activity and potential for escalation in the region, with possible disruptions to air traffic and logistics.",
-      "strategic_outlook": "Long-term instability and conflict in the region may lead to sustained disruptions to transport and logistics, with potential for terrorism and cyber threats.",
-      "operational_impact": "Potential for flight restrictions, cargo delays, and increased security measures in the region, with possible impacts on personnel and asset safety.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "91b66f848cb5dc4c7bde27e04c41971b",
-    "timestamp": "2026-07-13T08:33:53.613186",
-    "original_title": "RSF chief Mohamed Hamdan Daglo sentenced to death in absentia",
-    "link": "http://www.africanews.com/2026/07/13/rsf-chief-mohamed-hamdan-daglo-sentenced-to-death-in-absentia/",
-    "source_name": "Africa News",
-    "ai_analysis": {
-      "category": "Conflict/Civil Unrest",
-      "risk_score": 10,
-      "location": "Port Sudan, Sudan",
-      "latitude": 19.6167,
-      "longitude": 37.2167,
-      "detailed_analysis": "The sentencing of RSF chief Mohamed Hamdan Daglo to death in absentia may lead to increased tensions and potential violence in Sudan, particularly in the Darfur region. This could impact the security of assets, cargo, and personnel in the area.",
-      "immediate_forecast_24h": "Heightened security measures are expected in Port Sudan and surrounding areas, with potential for protests or clashes between rival groups. Aviation and cargo operations may be affected by increased security checks or disruptions to supply chains.",
-      "strategic_outlook": "The long-term implications of this event could lead to a destabilization of the region, potentially affecting trade routes and logistics operations. The conflict in Darfur may escalate, posing a significant threat to assets, cargo, and personnel in the area.",
-      "operational_impact": "Transport and logistics operations in Sudan, particularly in the Port Sudan area, may be impacted by increased security measures, potential violence, or disruptions to supply chains. Aviation operations may also be affected, with potential for flight delays or cancellations.",
-      "proximity_alert": "YAKIN TEHDİT: Port Sudan International Airport (20 km)"
-    }
-  },
-  {
-    "id": "21b67f68c4ee95103694db2bb2c3cff8",
-    "timestamp": "2026-07-13T08:33:55.606554",
-    "original_title": "Ukraine allies gather in Paris to step up defence aid, heighten pressure on Russia",
-    "link": "https://www.france24.com/en/europe/20260713-ukraine-allies-gather-paris-step-defence-aid-heighten-pressure-russia",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 10,
-      "location": "Paris, France",
-      "latitude": 48.8567,
-      "longitude": 2.3508,
-      "detailed_analysis": "The meeting of Ukraine's Western allies in Paris to discuss defence aid and pressure on Russia may lead to increased tensions and potential retaliation from Russia, posing a threat to aviation and personnel in the region.",
-      "immediate_forecast_24h": "Heightened security measures are expected in Paris during the meeting, with potential protests or demonstrations, but no immediate threat to cargo or assets is anticipated.",
-      "strategic_outlook": "The escalation of the conflict in Ukraine may lead to long-term instability in the region, affecting aviation and logistics, and potentially spreading to other parts of Europe.",
-      "operational_impact": "Increased security checks and potential delays at Paris airports and logistics hubs may occur, but overall operational impact is expected to be minimal in the short term.",
-      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (2 km)"
-    }
-  },
-  {
-    "id": "4e728ffd255e39e493bfa171e9c2ae8a",
-    "timestamp": "2026-07-13T08:33:57.649363",
-    "original_title": "🔴 Iran claims strikes against Oman, Bahrain, Kuwait and Jordan. Follow our live coverage",
-    "link": "https://www.france24.com/en/middle-east/20260712-middle-east-live-us-strikes-iran-gulf-states-targeted-strait-hormuz",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict/Civil Unrest",
-      "risk_score": 8,
-      "location": "Middle East",
-      "latitude": 29.5,
-      "longitude": 45.5,
-      "detailed_analysis": "Iran's claimed strikes against Oman, Bahrain, Kuwait, and Jordan pose a significant threat to regional stability, potentially disrupting air travel, cargo transport, and personnel safety.",
-      "immediate_forecast_24h": "Increased military presence, potential airspace restrictions, and heightened security measures are expected in the affected regions.",
-      "strategic_outlook": "Long-term implications may include escalated tensions between Iran and the targeted countries, potentially leading to a broader conflict and impacting global oil prices, trade routes, and aviation security.",
-      "operational_impact": "Transport and logistics operations in the region may face significant disruptions, including possible airspace closures, port shutdowns, and increased security checks, affecting cargo delivery and personnel movement.",
+      "detailed_analysis": "Escalating tensions between the U.S. and Iran over the Strait of Hormuz pose a significant threat to maritime assets, cargo, and personnel. Iran's claim of the strait as its territory and warning against U.S. interference increases the likelihood of conflict.",
+      "immediate_forecast_24h": "Increased military presence and heightened alertness from both sides are expected, potentially disrupting shipping lanes and air traffic in the region.",
+      "strategic_outlook": "Prolonged tensions may lead to a blockade or restricted access to the strait, severely impacting global oil supplies and trade routes, with potential long-term consequences for regional and global stability.",
+      "operational_impact": "Shipping and aviation companies should exercise extreme caution when navigating the region, with possible rerouting of cargo and flights to avoid the area, and heightened security measures to protect assets and personnel.",
       "proximity_alert": null
     }
   }

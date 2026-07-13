@@ -245,5 +245,62 @@
       "operational_impact": "Transport and logistics operations in the region may face significant disruptions, including possible airspace closures, port shutdowns, and increased security checks, affecting cargo delivery and personnel movement.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "c3d07a66dfbdaff7bbf91d93fd39a39a",
+    "timestamp": "2026-07-13T12:12:31.071760",
+    "original_title": "Live Updates: Iran Ramps Up Threats as It Retaliates Against U.S. Strikes",
+    "link": "https://www.nytimes.com/live/2026/07/13/world/iran-war-us-trump-hormuz",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Senior Iranian officials have called for revenge against the United States and Israel, increasing the likelihood of retaliatory attacks that could impact aviation and logistics in the region.",
+      "immediate_forecast_24h": "Heightened tensions and increased military activity are expected in the next 24 hours, potentially leading to disruptions in air travel and cargo transport.",
+      "strategic_outlook": "The escalation of tensions between Iran, the US, and Israel could lead to a prolonged period of instability in the region, affecting aviation, cargo, and personnel safety.",
+      "operational_impact": "Potential disruptions to air travel, increased security measures, and possible restrictions on cargo transport are expected, with significant operational implications for logistics and supply chain management.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "603e9896f848c08509f105d35d679bbe",
+    "timestamp": "2026-07-13T12:12:33.046928",
+    "original_title": "A Robot Army Remakes Ground Warfare in Ukraine",
+    "link": "https://www.nytimes.com/2026/07/13/world/europe/ukraine-ground-robots.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "The use of ground robots in Ukraine for warfare poses a significant threat to personnel and assets. These robots can evacuate the wounded, hold trenches, and even engage in combat, indicating a high level of autonomy and potential for harm.",
+      "immediate_forecast_24h": "Increased use of ground robots in combat zones, potentially leading to higher casualties and disruptions in logistics and supply chains.",
+      "strategic_outlook": "The deployment of robot armies could fundamentally change the nature of ground warfare, with potential long-term implications for the use of autonomous systems in conflict zones.",
+      "operational_impact": "Transport and logistics operations in the region may be severely impacted due to the increased use of autonomous ground robots, which could lead to disruptions in supply chains and increased risk to personnel and assets.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "a9f726e9ce05ab521a4cd7ba377270f3",
+    "timestamp": "2026-07-13T12:12:36.546677",
+    "original_title": "U.S., Iran trade claims over Strait of Hormuz as tensions escalate",
+    "link": "http://www.africanews.com/2026/07/13/us-iran-trade-claims-over-strait-of-hormuz-as-tensions-escalate/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Strait of Hormuz, Middle East",
+      "latitude": 26.0,
+      "longitude": 56.0,
+      "detailed_analysis": "Escalating tensions between the U.S. and Iran over the Strait of Hormuz pose a significant threat to maritime assets, cargo, and personnel. Iran's claim of the strait as its territory and warning against U.S. interference increases the likelihood of conflict.",
+      "immediate_forecast_24h": "Increased military presence and heightened alertness from both sides are expected, potentially disrupting shipping lanes and air traffic in the region.",
+      "strategic_outlook": "Prolonged tensions may lead to a blockade or restricted access to the strait, severely impacting global oil supplies and trade routes, with potential long-term consequences for regional and global stability.",
+      "operational_impact": "Shipping and aviation companies should exercise extreme caution when navigating the region, with possible rerouting of cargo and flights to avoid the area, and heightened security measures to protect assets and personnel.",
+      "proximity_alert": null
+    }
   }
 ]
