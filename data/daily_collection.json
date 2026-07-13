@@ -55,5 +55,81 @@
       "operational_impact": "Disruptions to train and highway traffic may cause delays, but overall operational impact on assets, cargo, aviation, and personnel is expected to be minimal",
       "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (2 km)"
     }
+  },
+  {
+    "id": "9f501f5742aeb59eb26c64c0bb571324",
+    "timestamp": "2026-07-13T22:29:20.300054",
+    "original_title": "There is no military solution to the conflict in Yemen - France ONU",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdnNJZEtsajBMOVZ0RkluQ3ZiNDVHUXJpZk9RNmpHZVlvMVNpMkZUY1NwZF84bUVndU5qeElQSXU5Y1VnN3pBQUZOSTkwX3VzcFJMNWxxRlBlanFOM1FURUZzemNBb09HMXJwQkFmaEJCTWtUNnRHWUxjSGdZbHJTVGE5MzhyOUxLQUE?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 6,
+      "location": "Yemen",
+      "latitude": 15.552,
+      "longitude": 48.516,
+      "detailed_analysis": "The conflict in Yemen has no military solution according to France ONU, indicating a prolonged and complex situation that could impact regional stability and potentially affect aviation and cargo operations.",
+      "immediate_forecast_24h": "No immediate escalation expected, but ongoing conflict may lead to sporadic violence and disruptions.",
+      "strategic_outlook": "Long-term resolution to the conflict is unlikely without diplomatic efforts, potentially leading to continued instability in the region and affecting transport and logistics operations.",
+      "operational_impact": "Potential for disruptions to air travel and cargo transport due to conflict, with possible increased security measures and restrictions in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "e67db18cd3a7eb3d66acf8a575114fe8",
+    "timestamp": "2026-07-13T22:29:22.828196",
+    "original_title": "Trump informs Congress of renewed military action against Iran - Roll Call",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZjNfZy1uN1lrQXBmWllQX2RWSWU4RXB6T0dXMFp4RHNpUGhtTW9lWUxiMU9QcGw3d21CbURMZzRneDFmVnVQQkdvOHBFN1VyNXplWlRFS3N6XzU3V3NfRVViYXpZR1FwYjZzajNONmphTUpoekc5LTFla0dTTEp3ZTFya1djdUlkcVdnVnVRU3RJd28yWlJWVTNuSQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Iran, Middle East",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Renewed military action against Iran by the US could lead to increased tensions and potential retaliation, posing a threat to aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Heightened security measures and potential disruptions to air traffic in the region, with possible missile strikes or other military actions.",
+      "strategic_outlook": "Long-term escalation of conflict could lead to increased instability in the region, affecting global oil prices and trade routes, with potential for spillover into other countries.",
+      "operational_impact": "Potential for flight restrictions, cargo delays, and increased security protocols for personnel and assets in the region, with possible diversion of air traffic and shipping routes.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "d317bdc6fcca2a60efeba63e12a0194f",
+    "timestamp": "2026-07-13T22:29:26.402346",
+    "original_title": "Live Updates: U.S. Forces Begin New Round of Strikes on Iran",
+    "link": "https://www.nytimes.com/live/2026/07/13/world/iran-war-us-trump-hormuz",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Strait of Hormuz, Iran",
+      "latitude": 26.0,
+      "longitude": 56.0,
+      "detailed_analysis": "The U.S. has begun a new round of strikes on Iran, with President Trump threatening 'very hard' strikes and ordering a blockade on Iranian ports, which may lead to increased tensions and potential attacks on aviation and cargo assets in the region.",
+      "immediate_forecast_24h": "Increased military activity and potential for retaliation from Iran, which may lead to disruptions in air and sea traffic in the region.",
+      "strategic_outlook": "Long-term escalation of conflict between the U.S. and Iran, potentially leading to increased instability and security threats in the region, affecting aviation, cargo, and personnel.",
+      "operational_impact": "Potential disruptions to air and sea traffic, increased security measures, and potential for attacks on cargo and aviation assets, which may impact logistics and transport operations in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "5bc4bbbf8f4a2270c9d8567c15709a57",
+    "timestamp": "2026-07-13T22:29:29.376581",
+    "original_title": "Ukraine strikes halt shipping on key wheat route as Russian fuel crisis deepens",
+    "link": "https://www.france24.com/en/ukraine-strikes-halt-shipping-on-key-wheat-route-as-russian-fuel-crisis-deepens",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "The conflict in Ukraine has halted shipping on a key wheat route, which may lead to disruptions in the global food supply chain. The Russian fuel crisis may exacerbate the situation, leading to further instability in the region.",
+      "immediate_forecast_24h": "Shipping operations are likely to remain suspended in the short term, with potential for further escalation of the conflict.",
+      "strategic_outlook": "The long-term impact of the conflict on global food security and trade routes may be significant, with potential for increased prices and shortages of wheat and other grains.",
+      "operational_impact": "Transport and logistics operations in the region are likely to be severely impacted, with potential for delays, cargo losses, and increased security risks for personnel and assets.",
+      "proximity_alert": null
+    }
   }
 ]
