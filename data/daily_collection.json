@@ -131,5 +131,43 @@
       "operational_impact": "Transport and logistics operations in the region are likely to be severely impacted, with potential for delays, cargo losses, and increased security risks for personnel and assets.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "5d3fcd0e9d3d1a61e6decd6718d13d30",
+    "timestamp": "2026-07-13T23:29:23.587320",
+    "original_title": "Pilot identified out of deadly Hamilton County plane crash - WRGB",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTWhRaUVhNmItSnQ4ZWczc1Q4azExaUNFT1FnV1NKYWpBUWpQal9KLTRHaVNFSkhyX0dXR3BPNUpDOGNUVmRiVkxmRGRxU3BwRzBURno5TkRQNzRiUmtVV1RNTWNOSmZmaFhIT1JXVVRqVEpIdzdvQmc3U1VKU0RxczBOMWJNU0FPNk41OEl4ZWxRR1dydkkycmhsdV9VbWMtUXlnTA?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 8,
+      "location": "Hamilton County",
+      "latitude": 43.55,
+      "longitude": -74.57,
+      "detailed_analysis": "A deadly plane crash occurred in Hamilton County, resulting in the loss of life. The pilot has been identified, and the incident is under investigation.",
+      "immediate_forecast_24h": "Investigations will continue, and authorities will work to determine the cause of the crash. There may be disruptions to local air traffic and emergency services.",
+      "strategic_outlook": "The incident highlights the importance of aviation safety and the need for continued vigilance in preventing such tragedies. Regulatory bodies and aviation authorities will likely review safety protocols and procedures to minimize the risk of similar incidents in the future.",
+      "operational_impact": "The crash may impact local aviation operations, and emergency services may be diverted to respond to the incident. However, the broader impact on transport and logistics is expected to be minimal.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "ef7d92f5877d6b912cd53f3e3407cef0",
+    "timestamp": "2026-07-13T23:29:27.246261",
+    "original_title": "Trump says to deliver 'speech to the nation' Thursday as Iran tensions escalate",
+    "link": "https://www.france24.com/en/americas/20260713-trump-says-to-deliver-speech-to-the-nation-thursday-as-iran-tensions-escalate",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Strait of Hormuz, Iran",
+      "latitude": 26.0,
+      "longitude": 56.0,
+      "detailed_analysis": "Escalating tensions between the US and Iran, with a potential naval blockade and increased fees for ships transiting the Strait of Hormuz, pose a significant threat to cargo and aviation operations in the region.",
+      "immediate_forecast_24h": "Increased military presence and heightened alertness in the region, potentially leading to disruptions in shipping and air traffic.",
+      "strategic_outlook": "Prolonged conflict or tensions in the region could lead to long-term disruptions in global supply chains, increased costs, and potential risks to personnel and assets.",
+      "operational_impact": "Shipping and aviation operations in the region may be affected, with potential delays, increased costs, and risks to personnel and cargo.",
+      "proximity_alert": null
+    }
   }
 ]
