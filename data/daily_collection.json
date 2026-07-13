@@ -549,5 +549,62 @@
       "operational_impact": "Potential disruptions to shipping and air traffic in the region, increased security measures for aviation and maritime assets, and possible rerouting of flights and ships to avoid the area.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "5edae57aaa0bd5af2a2d52256e69c4e6",
+    "timestamp": "2026-07-13T19:38:39.240691",
+    "original_title": "Replay: Macron speaks as Ukraine’s ‘Coalition of the Willing’ meeting ends in Paris",
+    "link": "https://www.france24.com/en/video/20260713-replay-macron-speaks-as-ukraine-s-coalition-of-the-willing-meeting-ends-in-paris",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 10,
+      "location": "Paris, France",
+      "latitude": 48.8567,
+      "longitude": 2.3508,
+      "detailed_analysis": "Ukraine's order of 16 Rafale fighter jets and surface-to-air defense batteries indicates an escalation of military capabilities, potentially increasing tensions in the region and affecting aviation security.",
+      "immediate_forecast_24h": "Increased military activity and potential for aerial conflicts in the region, with possible impacts on commercial aviation routes and logistics.",
+      "strategic_outlook": "Long-term increase in military presence and capabilities in the region, potentially leading to a heightened state of alert for aviation and logistics operations.",
+      "operational_impact": "Potential for increased security measures and airspace restrictions, affecting flight routes and logistics operations in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (2 km)"
+    }
+  },
+  {
+    "id": "08585e876c1c57c3da98aaf293824ada",
+    "timestamp": "2026-07-13T19:38:41.083339",
+    "original_title": "🔴 Ukraine orders 16 Rafale jets, announces new anti-ballistic missile coalition in Paris",
+    "link": "https://www.france24.com/en/europe/20260713-ukraine-allies-gather-paris-step-defence-aid-heighten-pressure-russia",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 10,
+      "location": "Paris, France",
+      "latitude": 48.8567,
+      "longitude": 2.3508,
+      "detailed_analysis": "Ukraine's order of 16 Rafale jets and the announcement of a new anti-ballistic missile coalition may indicate an escalation in regional tensions, potentially affecting aviation and cargo operations in the area.",
+      "immediate_forecast_24h": "Increased military activity and heightened security measures are expected in the region, with potential disruptions to air traffic and cargo transport.",
+      "strategic_outlook": "The formation of a new anti-ballistic missile coalition may lead to a shift in the regional balance of power, with potential long-term implications for aviation and cargo security in Eastern Europe.",
+      "operational_impact": "Transport and logistics operations in the region may be affected by increased security measures, potential airspace restrictions, and heightened tensions between nations.",
+      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (2 km)"
+    }
+  },
+  {
+    "id": "d64cb5be72e40da28a0edbd090dea773",
+    "timestamp": "2026-07-13T19:38:42.906042",
+    "original_title": "Willing to pay: how much? Ukraine allies in Paris without the United States",
+    "link": "https://www.france24.com/en/tv-shows/the-debate/20260713-willing-to-pay-how-much-ukraine-allies-in-paris-without-the-united-states",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Other",
+      "risk_score": 10,
+      "location": "Paris, France",
+      "latitude": 48.8567,
+      "longitude": 2.3508,
+      "detailed_analysis": "The absence of the United States in the coalition of the willing may lead to a shift in the balance of power and potentially create new security challenges, but there is no direct threat to assets, cargo, aviation, or personnel mentioned in the article.",
+      "immediate_forecast_24h": "No immediate threats are expected, but the situation will be closely monitored for any potential developments.",
+      "strategic_outlook": "The long-term implications of the United States' absence from the coalition may lead to a reevaluation of security alliances and potentially create new challenges for global security.",
+      "operational_impact": "No direct operational impact is expected, but the situation may lead to increased security measures and vigilance in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (2 km)"
+    }
   }
 ]
