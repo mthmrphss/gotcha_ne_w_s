@@ -1,1 +1,59 @@
-[]
+[
+  {
+    "id": "1fab1fff6b12993042f498ac6100017f",
+    "timestamp": "2026-07-13T21:04:03.301179",
+    "original_title": "Ebola: Workers at Congolese treatment center strike over unpaid salaries",
+    "link": "http://www.africanews.com/2026/07/13/ebola-workers-at-congolese-treatment-center-strike-over-unpaid-salaries/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Democratic Republic of Congo",
+      "latitude": -4.328,
+      "longitude": 15.3139,
+      "detailed_analysis": "The strike by workers at a Congolese treatment center over unpaid salaries poses a risk to the containment of the Ebola outbreak, potentially leading to increased transmission and spread of the disease. This could indirectly impact aviation and logistics operations in the region.",
+      "immediate_forecast_24h": "The strike is likely to continue until the workers' demands are met, potentially leading to a shortage of essential services and increased tensions in the affected areas.",
+      "strategic_outlook": "The long-term impact of the strike could be significant if the Ebola outbreak is not brought under control, potentially leading to increased restrictions on travel and trade in the region.",
+      "operational_impact": "The strike may lead to disruptions in the transportation of medical supplies, personnel, and other essential goods, potentially impacting the overall response to the Ebola outbreak.",
+      "proximity_alert": "YAKIN TEHDİT: N'djili Airport (3 km)"
+    }
+  },
+  {
+    "id": "329c7f34a1a3bbaad9248dc6f7af679b",
+    "timestamp": "2026-07-13T21:04:07.381171",
+    "original_title": "Ukraine and allies set up coalition to tackle Russia ballistic missile threat",
+    "link": "https://www.france24.com/en/ukraine-and-allies-set-up-coalition-to-tackle-russia-ballistic-missile-threat",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "The formation of an air-defence coalition between Ukraine and its Western allies to counter Russia's ballistic missile threat indicates a heightened state of military preparedness and potential for conflict escalation.",
+      "immediate_forecast_24h": "Increased military activity and potential for missile strikes in the region, posing a threat to aviation and personnel.",
+      "strategic_outlook": "Long-term implications include the development of new anti-ballistic missile systems, potentially altering the regional balance of power and influencing the trajectory of the conflict.",
+      "operational_impact": "Potential disruptions to air traffic, increased security measures for personnel and cargo, and heightened vigilance for missile threats in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "81d8a93cd10ca4b0966843b180ea2499",
+    "timestamp": "2026-07-13T21:04:09.496131",
+    "original_title": "Nearly 1,000 hectares burnt in fire near Paris",
+    "link": "https://www.france24.com/en/nearly-1-000-hectares-burnt-in-fire-near-paris",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Other",
+      "risk_score": 10,
+      "location": "Paris, France",
+      "latitude": 48.8567,
+      "longitude": 2.3508,
+      "detailed_analysis": "A fire in the Fontainebleau forest near Paris has prompted evacuations and disrupted traffic, potentially caused by arson, but does not directly impact aviation, cargo, or personnel security",
+      "immediate_forecast_24h": "Firefighting efforts are expected to continue, with potential for further disruptions to local traffic and logistics",
+      "strategic_outlook": "The region's third heatwave of the summer increases the risk of wildfires, which could have long-term impacts on local infrastructure and transport",
+      "operational_impact": "Disruptions to train and highway traffic may cause delays, but overall operational impact on assets, cargo, aviation, and personnel is expected to be minimal",
+      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (2 km)"
+    }
+  }
+]
