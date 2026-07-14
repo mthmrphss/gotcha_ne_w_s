@@ -36,5 +36,62 @@
       "operational_impact": "Shipping and aviation operations in the region may be severely impacted, with potential for delays, rerouting, or even suspension of services, and increased security measures may be implemented to mitigate the risks.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "67987b6b5081648731997a44713bd651",
+    "timestamp": "2026-07-14T22:31:36.131295",
+    "original_title": "Pilot killed in small plane crash near Spotsylvania County airport - WJLA",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPak9yTkI0S3pyQ3FUdG1Ra0VFWUdrLUhNenNza25Ma3hobW1oQlNVckY0OHd0Sl9OQkJEeVBOd3hUMmNtaGI0enJ6OUFZQ2JpNUJ3ZDdTVklNdEhwNmtYc2dwZFBaQ0puLWlkODJGRVR2RGFkZ2xQRjQtOExyb0I3NDNEcWtBQUxfZjc2eVdiOUs2eGgzYW9QbHdvU0dxdHM2b1NoUFh0VE5KVHF2WDhKUDlFdHV6SHVQZUxrYmJaemwxSVR6bE5TQUQ2ZFRHcmFYLWc0SGgyWHVuX2lzRFhlOElENjdMZ2drSmk5LQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 8,
+      "location": "Spotsylvania County, USA",
+      "latitude": 38.2,
+      "longitude": -77.6,
+      "detailed_analysis": "A small plane crash near Spotsylvania County airport has resulted in the death of the pilot. The incident is currently under investigation and the cause of the crash has not been determined.",
+      "immediate_forecast_24h": "Investigations into the crash are expected to continue, with potential disruptions to air traffic in the area. No further incidents are anticipated in the next 24 hours.",
+      "strategic_outlook": "The incident highlights the importance of aviation safety and the need for continued vigilance in preventing such accidents. It may also lead to increased scrutiny of small plane operations and pilot training.",
+      "operational_impact": "The crash may cause temporary disruptions to air traffic in the area, but it is not expected to have a significant impact on overall aviation operations or logistics.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "ea66812d0d66e0f0ca075856a760dc27",
+    "timestamp": "2026-07-14T22:31:38.046839",
+    "original_title": "Wilson shooting raises courthouse security concerns - ABC11 News",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMTN2WWN6M2ZxVGJfNzhHYnlFclBKa3pueGd5UVRPYUNET3lRZ0M2NkFOMU0zeWltSEpwWkZWemFneHNZVDFzdFJRdkVjSGQ4YU1xY3A4SjR3VkN1d2psZUFjb0R0SjlYVjFPeGVhWkFwY1B6VWpJbFdkNGk1ZmdTTFlnOXRZR1pIb2VGWNIBkgFBVV95cUxQeTVyaUNRdUlibU1kd1EzaEpiamU1aV9WZkZRdjA1YWl0MUVDd2YzNGxVQjVCNmlwUmg0X3kwZlZlRkNteGhORkNIa3F1N0U5THdfNkFMVzU0Unc5LTRHX2gtUXBwVGZqR2wxaEtDNzBZWjE4NWlpRloxcXdDSkNsRUR4UzlsUFRQVlRzdGhDTTBYZw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Crime/Civil Unrest",
+      "risk_score": 6,
+      "location": "Wilson, USA",
+      "latitude": 35.7332,
+      "longitude": -77.9153,
+      "detailed_analysis": "A shooting incident at a courthouse in Wilson raises concerns about security. The event highlights potential vulnerabilities in public buildings and the need for enhanced security measures to protect personnel and assets.",
+      "immediate_forecast_24h": "Increased security presence is expected at the courthouse and surrounding areas. There may be disruptions to normal operations as authorities assess and respond to the incident.",
+      "strategic_outlook": "The long-term impact will depend on the effectiveness of the response and any subsequent security enhancements. If the incident is addressed adequately, it may lead to improved security protocols and reduced risk of similar events in the future.",
+      "operational_impact": "The incident may cause temporary disruptions to courthouse operations and potentially affect the transport of personnel and assets in the area. However, it is not expected to have a significant impact on broader logistics or aviation operations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "ff4d81e0594b44f932c14932dc2b603b",
+    "timestamp": "2026-07-14T22:31:44.587198",
+    "original_title": "US military reimposes naval blockade on Iranian ports, launches new strikes",
+    "link": "https://www.france24.com/en/middle-east/20260714-us-military-reimposes-naval-blockade-on-iranian-ports-launches-new-strikes",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Strait of Hormuz, Iran",
+      "latitude": 26.0,
+      "longitude": 56.0,
+      "detailed_analysis": "The US military has reimposed a naval blockade on Iranian ports and launched new strikes in response to Tehran's attacks on commercial ships and Gulf facilities, posing a significant threat to assets, cargo, aviation, and personnel in the region.",
+      "immediate_forecast_24h": "Increased tensions and potential for further military action, with possible disruptions to shipping and air traffic in the region.",
+      "strategic_outlook": "Long-term escalation of conflict could lead to sustained disruptions to global supply chains, increased insurance costs, and heightened security measures for ships and aircraft operating in the region.",
+      "operational_impact": "Potential delays or cancellations of flights and ship voyages, increased security protocols for cargo and personnel, and possible rerouting of traffic to avoid the affected area.",
+      "proximity_alert": null
+    }
   }
 ]
