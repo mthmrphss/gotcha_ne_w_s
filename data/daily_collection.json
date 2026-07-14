@@ -625,5 +625,43 @@
       "operational_impact": "Potential disruptions to air travel, cargo transport, and personnel safety in the region, with a need for heightened security protocols and intelligence sharing",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "253ba2fb61e2f684319f734980dc17b6",
+    "timestamp": "2026-07-14T19:35:55.984209",
+    "original_title": "'An open wound': Nice commemorates 10 years since terror attack",
+    "link": "https://www.france24.com/en/an-open-wound-nice-commemorates-10-years-since-terror-attack",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Terrorism/Civil Unrest",
+      "risk_score": 10,
+      "location": "Nice, France",
+      "latitude": 43.7031,
+      "longitude": 7.2664,
+      "detailed_analysis": "The commemoration of the 10-year anniversary of the terror attack on the Promenade des Anglais in Nice, which killed 86 people and injured over 400, poses a potential threat to public safety and security. The presence of the French President and other high-profile attendees increases the risk of potential disruptions or attacks.",
+      "immediate_forecast_24h": "Increased security measures are expected in Nice, with potential disruptions to traffic and public gatherings. The risk of copycat attacks or civil unrest is elevated during this period.",
+      "strategic_outlook": "The long-term impact of this event may lead to increased security measures and surveillance in public areas, particularly during high-profile events or anniversaries. This could have implications for the operational efficiency and costs of logistics and transportation in the region.",
+      "operational_impact": "Potential disruptions to road traffic and public transportation in Nice, with possible delays or rerouting of cargo and passenger vehicles. Aviation operations at Nice Côte d'Azur Airport may also be affected by increased security measures.",
+      "proximity_alert": "YAKIN TEHDİT: Nice Côte d'Azur Airport (6 km)"
+    }
+  },
+  {
+    "id": "46566d814ceb71aef48143a8b99c935c",
+    "timestamp": "2026-07-14T19:35:57.985373",
+    "original_title": "War, talks, repeat: How to break the cycle between US and Iran?",
+    "link": "https://www.france24.com/en/tv-shows/the-debate/20260714-war-talks-repeat-how-to-break-the-cycle-between-us-and-iran",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Strait of Hormuz, Iran",
+      "latitude": 26.0,
+      "longitude": 56.0,
+      "detailed_analysis": "The current situation between the US and Iran has the potential to escalate into a conflict, with the Strait of Hormuz being a critical point of leverage for Iran. This could impact global oil supplies and shipping lanes, posing a significant threat to cargo and aviation.",
+      "immediate_forecast_24h": "Tensions are expected to remain high, with a possibility of increased military presence in the region. This could lead to disruptions in shipping and air traffic.",
+      "strategic_outlook": "A long-term conflict between the US and Iran could have far-reaching consequences for global trade and security. The strategic importance of the Strait of Hormuz makes it a critical flashpoint in the region.",
+      "operational_impact": "Potential disruptions to shipping and air traffic in the region, with possible impacts on global supply chains and oil prices. Aviation and cargo operations may need to be rerouted or delayed due to the increased risk of conflict.",
+      "proximity_alert": null
+    }
   }
 ]
