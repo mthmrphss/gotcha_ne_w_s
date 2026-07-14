@@ -340,5 +340,43 @@
       "operational_impact": "The tightening of rules may cause minor disruptions to flights and passenger travel plans, but is unlikely to have a significant impact on overall aviation operations.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "2a11e4a404e0cdba47b0b89e8ffdda24",
+    "timestamp": "2026-07-14T12:49:08.280393",
+    "original_title": "Zelenskyy joins Macron and European leaders in Paris for Bastille Day",
+    "link": "http://www.africanews.com/2026/07/14/zelenskyy-joins-macron-and-european-leaders-in-paris-for-bastille-day/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Paris, France",
+      "latitude": 48.8567,
+      "longitude": 2.3508,
+      "detailed_analysis": "The presence of Volodymyr Zelenskyy and Emmanuel Macron at a Ukraine-focused Bastille Day parade in Paris may attract protests or demonstrations, but there is no direct indication of a threat to assets, cargo, aviation, or personnel.",
+      "immediate_forecast_24h": "The event is likely to be heavily secured, minimizing the risk of disruptions or incidents.",
+      "strategic_outlook": "The gathering of European leaders may lead to discussions on security and cooperation, potentially influencing future conflict dynamics in the region.",
+      "operational_impact": "No significant impact on transport or logistics is expected, as the event is a controlled parade and gathering of leaders.",
+      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (2 km)"
+    }
+  },
+  {
+    "id": "9537e47a540e4067066e404fa9d2b0ce",
+    "timestamp": "2026-07-14T12:49:10.316836",
+    "original_title": "What the Lviv draft riot tells us about Ukraine’s struggle to send men to fight",
+    "link": "https://www.france24.com/en/europe/20260714-what-the-lviv-draft-riot-tells-us-about-ukraine-struggle-send-men-fight",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Lviv, Ukraine",
+      "latitude": 49.8397,
+      "longitude": 24.0297,
+      "detailed_analysis": "The violent confrontation between a crowd and draft officers in Lviv indicates a growing resistance to military conscription, potentially destabilizing the region and affecting the movement of assets, cargo, and personnel.",
+      "immediate_forecast_24h": "Increased tensions and potential for further clashes between civilians and military personnel, potentially disrupting logistics and transport operations in the area.",
+      "strategic_outlook": "The ongoing conflict and resistance to conscription may lead to a prolonged period of instability in Ukraine, affecting the security and efficiency of transport operations, particularly for cargo and personnel.",
+      "operational_impact": "Transport and logistics operations in the region may be impacted by the unrest, with potential delays, disruptions, or increased security measures, affecting the movement of assets, cargo, and personnel.",
+      "proximity_alert": "YAKIN TEHDİT: Lviv Danylo Halytskyi International Airport (6 km)"
+    }
   }
 ]
