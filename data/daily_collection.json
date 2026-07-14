@@ -587,5 +587,43 @@
       "operational_impact": "Transport and logistics operations in and around Nice may experience increased security checks and potential delays, but no significant disruptions are anticipated based on the information provided.",
       "proximity_alert": "YAKIN TEHDİT: Nice Côte d'Azur Airport (6 km)"
     }
+  },
+  {
+    "id": "50763c687923e780c1ccbfdbff29b758",
+    "timestamp": "2026-07-14T17:41:52.340159",
+    "original_title": "Emergency declared as Jet2 flight returns to Manchester Airport - The Bolton News",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTGQ5dVJuZnRzbXZBYlMyU01YYXYwNEE0d1plMDFFX1lFdlJfM3FhZlRteVdiRWdocnZGeml5N2R4RzV0aE11U0lTelBsbnNILXBxMkJaMkthU3pIU0NLcHlXNnNxdTdUOElNTk5ldm80RmlEMUtqTXpJVHpfTVZwN1lhN0Z6QXRWWmRaTmlVV0tVTXZZQkpZb213?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Manchester, United Kingdom",
+      "latitude": 53.3539,
+      "longitude": -2.2778,
+      "detailed_analysis": "A Jet2 flight declared an emergency and returned to Manchester Airport, the cause of the emergency is not specified but it poses a potential threat to aviation safety and security",
+      "immediate_forecast_24h": "Investigations will likely be conducted to determine the cause of the emergency, and there may be disruptions to flight schedules",
+      "strategic_outlook": "The incident highlights the importance of emergency procedures and protocols in the aviation industry, and may lead to reviews of safety and security measures",
+      "operational_impact": "Potential delays or cancellations of flights, and increased security measures at Manchester Airport",
+      "proximity_alert": "YAKIN TEHDİT: Manchester Airport (0 km)"
+    }
+  },
+  {
+    "id": "b194a3d2d6eae2ef78f3ce5c0d76438d",
+    "timestamp": "2026-07-14T17:41:57.539158",
+    "original_title": "How jihadist groups like Boko Haram use AI for acts of terror",
+    "link": "https://www.france24.com/en/africa/20260714-how-jihadist-groups-like-boko-haram-use-ai-for-acts-of-terror",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Terrorism/Cyber",
+      "risk_score": 8,
+      "location": "Nigeria",
+      "latitude": 9.081999,
+      "longitude": 8.675277,
+      "detailed_analysis": "Boko Haram's use of AI for terror attacks poses a significant threat to regional security, potentially impacting aviation and cargo operations",
+      "immediate_forecast_24h": "Increased vigilance required for potential terror attacks, with a focus on AI-driven tactics",
+      "strategic_outlook": "Long-term risk of jihadist groups leveraging AI for more sophisticated attacks, necessitating enhanced security measures and international cooperation",
+      "operational_impact": "Potential disruptions to air travel, cargo transport, and personnel safety in the region, with a need for heightened security protocols and intelligence sharing",
+      "proximity_alert": null
+    }
   }
 ]

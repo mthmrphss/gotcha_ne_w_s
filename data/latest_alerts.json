@@ -1,97 +1,40 @@
 [
   {
-    "id": "f78fa47834aaeb3973c3d540bb3918fb",
-    "timestamp": "2026-07-14T16:22:48.536931",
-    "original_title": "Small plane crash reported in Spotsylvania County - WUSA9",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORGdUbUQ2a0FqVk8yMlZYWjh0bkJxYV9HTFRVSVZoVHI3aXdsaUlNSEx4Tm9HQ2F2SXpOVWlBeVYxS19mWUhaYTBXOHBFR21jaVBicEdUUE40X3JRSzVXT3BFSVJwRngyTlNJa3c0YVdJMElQZDF5cUJJYkp4bmdtT2RydjBwN0dYZWVfcGRJa0pneVR3RHplVjlLYjNpZGtsRzllbFpVZ0RLWHZ3VERuSlM3bjZXbkNVOTVtLVNCWDRkTHBRSEhaQkxkUGN5VkU?oc=5",
-    "source_name": "Google News (Breaking)",
+    "id": "50763c687923e780c1ccbfdbff29b758",
+    "timestamp": "2026-07-14T17:41:52.340159",
+    "original_title": "Emergency declared as Jet2 flight returns to Manchester Airport - The Bolton News",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTGQ5dVJuZnRzbXZBYlMyU01YYXYwNEE0d1plMDFFX1lFdlJfM3FhZlRteVdiRWdocnZGeml5N2R4RzV0aE11U0lTelBsbnNILXBxMkJaMkthU3pIU0NLcHlXNnNxdTdUOElNTk5ldm80RmlEMUtqTXpJVHpfTVZwN1lhN0Z6QXRWWmRaTmlVV0tVTXZZQkpZb213?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
     "ai_analysis": {
       "category": "Aviation",
-      "risk_score": 8,
-      "location": "Spotsylvania County, USA",
-      "latitude": 38.1833,
-      "longitude": -77.5833,
-      "detailed_analysis": "A small plane crash has been reported in Spotsylvania County, indicating a potential threat to aviation safety and security. The cause of the crash is currently unknown and under investigation.",
-      "immediate_forecast_24h": "Emergency services are likely to be deployed to the scene, and an investigation into the cause of the crash will be initiated. There may be disruptions to local air traffic and nearby residents may experience some inconvenience.",
-      "strategic_outlook": "The incident highlights the importance of maintaining rigorous safety standards in aviation. Regulatory bodies and aviation authorities may review safety protocols and procedures to prevent similar incidents in the future.",
-      "operational_impact": "The crash may have a limited impact on local air transport and logistics, but it is unlikely to have a significant impact on national or international aviation operations. However, it may lead to increased scrutiny of small plane operations and safety measures in the region.",
-      "proximity_alert": null
+      "risk_score": 10,
+      "location": "Manchester, United Kingdom",
+      "latitude": 53.3539,
+      "longitude": -2.2778,
+      "detailed_analysis": "A Jet2 flight declared an emergency and returned to Manchester Airport, the cause of the emergency is not specified but it poses a potential threat to aviation safety and security",
+      "immediate_forecast_24h": "Investigations will likely be conducted to determine the cause of the emergency, and there may be disruptions to flight schedules",
+      "strategic_outlook": "The incident highlights the importance of emergency procedures and protocols in the aviation industry, and may lead to reviews of safety and security measures",
+      "operational_impact": "Potential delays or cancellations of flights, and increased security measures at Manchester Airport",
+      "proximity_alert": "YAKIN TEHDİT: Manchester Airport (0 km)"
     }
   },
   {
-    "id": "f431335b1bc733c10a49b2fe4501ba46",
-    "timestamp": "2026-07-14T16:22:51.641139",
-    "original_title": "Ann Widdecombe Was Killed in ‘Targeted Attack,’ UK Police Say",
-    "link": "https://www.nytimes.com/2026/07/14/world/europe/ann-widdecombe-targeted-attack.html",
-    "source_name": "NewYork Times",
-    "ai_analysis": {
-      "category": "Terrorism/Crime",
-      "risk_score": 7,
-      "location": "UK",
-      "latitude": 54.7589,
-      "longitude": -4.5723,
-      "detailed_analysis": "Ann Widdecombe was killed in a targeted attack, with counterterrorism police investigating and a 28-year-old man accused. This incident suggests a potential threat to personnel, particularly those in public positions or of public interest.",
-      "immediate_forecast_24h": "Increased security measures are likely to be implemented in the short term, especially for public figures and in areas of high public presence. The investigation may yield more information on the motivations behind the attack.",
-      "strategic_outlook": "Long-term, this incident could lead to a review of security protocols for public figures and potentially increased cooperation between law enforcement agencies to prevent similar attacks.",
-      "operational_impact": "The attack may lead to heightened security checks and measures in public areas and transportation hubs, potentially causing minor disruptions but aiming to enhance safety for the general public and personnel.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "34eb81f89e303318029f35f61206c692",
-    "timestamp": "2026-07-14T16:22:54.058564",
-    "original_title": "U.S. launches new strikes on Iran while Tehran mocks Trump’s reversal on charging for Hormuz transits — ‘20% is of course too much. We will be fair’",
-    "link": "https://www.reddit.com/r/geopolitics/comments/1uwbgmf/us_launches_new_strikes_on_iran_while_tehran/",
-    "source_name": "Reddit r/Geopolitics",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 8,
-      "location": "Strait of Hormuz, Iran",
-      "latitude": 26.0,
-      "longitude": 56.0,
-      "detailed_analysis": "The U.S. has launched new strikes on Iran, while Tehran has mocked Trump's reversal on charging for Hormuz transits, indicating a heightened state of conflict in the region that could impact shipping and aviation.",
-      "immediate_forecast_24h": "Increased tensions and potential for further military action in the Strait of Hormuz, posing a risk to commercial shipping and aviation in the region.",
-      "strategic_outlook": "Long-term instability in the region could lead to prolonged disruptions to global trade and energy supplies, with potential for escalation into a wider conflict.",
-      "operational_impact": "Shipping and aviation operations in the region may be impacted by the conflict, with potential for delays, rerouting, or increased security measures, affecting cargo and personnel safety.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "ecbf6e144d1488f6bc58298c690664c5",
-    "timestamp": "2026-07-14T16:22:57.268010",
-    "original_title": "Live: France marks tenth anniversary of deadly Nice terror attack",
-    "link": "https://www.france24.com/en/france/20260714-france-marks-tenth-anniversary-of-deadly-nice-terror-attack",
+    "id": "b194a3d2d6eae2ef78f3ce5c0d76438d",
+    "timestamp": "2026-07-14T17:41:57.539158",
+    "original_title": "How jihadist groups like Boko Haram use AI for acts of terror",
+    "link": "https://www.france24.com/en/africa/20260714-how-jihadist-groups-like-boko-haram-use-ai-for-acts-of-terror",
     "source_name": "France 24 ME",
     "ai_analysis": {
-      "category": "Terrorism/Civil Unrest",
-      "risk_score": 10,
-      "location": "Nice, France",
-      "latitude": 43.7031,
-      "longitude": 7.2664,
-      "detailed_analysis": "The tenth anniversary of the deadly Nice terror attack is being commemorated, which may lead to increased security measures and potential disruptions in the area. The event may also attract extremist attention, posing a risk to public safety and aviation security.",
-      "immediate_forecast_24h": "Heightened security presence and potential protests or demonstrations in Nice, with a low to moderate risk of copycat attacks or disruptions to aviation and logistics operations.",
-      "strategic_outlook": "The long-term impact of the commemoration on the security landscape in France and Europe may lead to increased vigilance and counter-terrorism efforts, potentially affecting transport and logistics operations in the region.",
-      "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics operations in and around Nice due to increased security measures and possible protests or demonstrations.",
-      "proximity_alert": "YAKIN TEHDİT: Nice Côte d'Azur Airport (6 km)"
-    }
-  },
-  {
-    "id": "672ea450100d703cb60d04e61d556b7c",
-    "timestamp": "2026-07-14T16:22:59.243347",
-    "original_title": "France marks 10 years since Nice terror attack",
-    "link": "https://www.france24.com/en/france-marks-10-years-since-nice-terror-attack",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Terrorism",
-      "risk_score": 10,
-      "location": "Nice, France",
-      "latitude": 43.7031,
-      "longitude": 7.2664,
-      "detailed_analysis": "The Nice terror attack anniversary may lead to increased security measures and potential threats to public gatherings, but no specific threats to assets, cargo, aviation, or personnel have been reported in the context provided.",
-      "immediate_forecast_24h": "Heightened security presence and vigilance are expected in Nice and potentially other major French cities, with a focus on public events and crowded areas.",
-      "strategic_outlook": "The anniversary serves as a reminder of the ongoing threat of terrorism, emphasizing the need for sustained security efforts and public awareness, particularly around significant public events.",
-      "operational_impact": "Transport and logistics operations in and around Nice may experience increased security checks and potential delays, but no significant disruptions are anticipated based on the information provided.",
-      "proximity_alert": "YAKIN TEHDİT: Nice Côte d'Azur Airport (6 km)"
+      "category": "Terrorism/Cyber",
+      "risk_score": 8,
+      "location": "Nigeria",
+      "latitude": 9.081999,
+      "longitude": 8.675277,
+      "detailed_analysis": "Boko Haram's use of AI for terror attacks poses a significant threat to regional security, potentially impacting aviation and cargo operations",
+      "immediate_forecast_24h": "Increased vigilance required for potential terror attacks, with a focus on AI-driven tactics",
+      "strategic_outlook": "Long-term risk of jihadist groups leveraging AI for more sophisticated attacks, necessitating enhanced security measures and international cooperation",
+      "operational_impact": "Potential disruptions to air travel, cargo transport, and personnel safety in the region, with a need for heightened security protocols and intelligence sharing",
+      "proximity_alert": null
     }
   }
 ]
