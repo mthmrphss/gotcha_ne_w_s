@@ -701,5 +701,43 @@
       "operational_impact": "Transport and logistics operations in the region may be disrupted due to the conflict, with potential for damage to infrastructure, delays, and increased security risks for personnel and cargo.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "965323814b375a4eae86e0ff3a937446",
+    "timestamp": "2026-07-15T19:21:26.510184",
+    "original_title": "Some ships refusing US-military guided Hormuz transits after attacks, sources say - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxON3J1czdNcVRwRXNPa0cwMXJ3VWR4Wld0eWF4Z3FNV2dTOElFZUFTMUg3cjZKTUJNOU9VNXl1OEN3S1Y4RjBHUWl0bWlqcHhnMF8tNVRkWDBYTmd2dloxSVhaV1hxcjlyVVhIcHVGUXAtdEItUW9YSTcwdDF2YjZCQXRBV05Zc2J5NlVyanYxV1IwRnBuWjlYMXVxWmdIQ0wzenNaOTZVZDYzOGhGZ0g3YUhjM3QydDl1SXdzNEtpbFJTa0V4QVNOdEtTVmVOZDg?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Hormuz, Middle East",
+      "latitude": 26.57,
+      "longitude": 56.28,
+      "detailed_analysis": "Some ships are refusing US-military guided transits through the Hormuz Strait after recent attacks, indicating a heightened threat to maritime assets and cargo in the region.",
+      "immediate_forecast_24h": "Increased risk of further attacks on ships in the Hormuz Strait, potentially disrupting global oil supplies and trade routes.",
+      "strategic_outlook": "Long-term instability in the region may lead to sustained threats to maritime security, necessitating increased military presence and security measures for ships transiting the Hormuz Strait.",
+      "operational_impact": "Potential delays and increased costs for ships transiting the Hormuz Strait, as well as possible disruptions to global supply chains and trade routes.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "b8d8e5c2bb25e80eeb4eb2baca089d4e",
+    "timestamp": "2026-07-15T19:21:33.146298",
+    "original_title": "US launches ‘wave of strikes’ on Iran, Tehran threatens to halt regional energy exports",
+    "link": "https://www.france24.com/en/middle-east/20260715-us-launches-wave-of-strikes-on-iran-tehran-threatens-to-halt-regional-energy-exports",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Iran, Gulf states",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The US military launched a wave of strikes on Iran, including a 90-minute wave of strikes, and reimposed a naval blockade on Iranian ports. Tehran responded with strikes on US military targets in Gulf states and threatened to halt energy exports in the region.",
+      "immediate_forecast_24h": "Escalation of conflict between the US and Iran, potential disruption to regional energy exports and increased tensions in the Gulf states.",
+      "strategic_outlook": "Long-term instability in the region, potential for further military action, and disruption to global energy markets.",
+      "operational_impact": "Potential disruption to aviation and cargo operations in the region, increased security measures, and potential for delays or cancellations of flights and shipments.",
+      "proximity_alert": null
+    }
   }
 ]
