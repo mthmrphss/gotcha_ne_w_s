@@ -1,21 +1,40 @@
 [
   {
-    "id": "5c1791c384397520bc1af38875fad005",
-    "timestamp": "2026-07-15T03:21:37.744395",
-    "original_title": "US reimposes its blockade on Iran after Tehran’s attacks on ships in the Strait of Hormuz - AP News",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWnBwMkRnYlE0eWdLanFlS1JwcWNwQW83YkJMbFJXdzZYRGFiZUtib0UzM1hRVFozX3RCTmwxUVQzV2RvNTU2ZE56RjZOYjRQbzF5SkJ1Y0RTQnktRmg1NjliM2pMcy1kY045dVQ4bk9sYkNDU2N6WTFnNV9NNjZMa21IYkxLX3NmWDF2NXMzUmRtRkN0eGlwRmx6SHdlakU?oc=5",
-    "source_name": "Google News (Breaking)",
+    "id": "810b7bed372c547de707e6ed0cf3db46",
+    "timestamp": "2026-07-15T05:54:23.066273",
+    "original_title": "At least nine planes all declare emergencies over Gatwick Airport as fire engines race to runway - GB News",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQUxSNlJPNmZGZzVsdTc1V3hXdF9BSlNFeEJTMVh5WkZhVDZfUFNvSUtTNWtVQnVNUTNDMjJ0UE15VUNQMGZIdHRYTmRhanNtWEc3cnE1MHBkMmxkOXZWSG5TeEJvd1JYbGE5ZFgwOEpIaGdGVEF6eDFXZGNFdFZTYThZTGp0Ui1jSVo2a0djazRubkFt?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
     "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 8,
-      "location": "Strait of Hormuz, Iran",
-      "latitude": 26.0,
-      "longitude": 56.0,
-      "detailed_analysis": "The US has reimposed its blockade on Iran following Tehran's attacks on ships in the Strait of Hormuz, indicating a heightened risk of conflict and potential disruptions to maritime trade and transport in the region.",
-      "immediate_forecast_24h": "Increased tensions and potential for further attacks on ships in the Strait of Hormuz, with possible retaliatory measures from Iran.",
-      "strategic_outlook": "Long-term escalation of conflict between the US and Iran, potentially drawing in other regional actors and affecting global oil prices and trade routes.",
-      "operational_impact": "Potential disruptions to shipping and cargo transport through the Strait of Hormuz, increased security measures and costs for vessels, and possible impacts on global supply chains and logistics.",
-      "proximity_alert": null
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Gatwick, UK",
+      "latitude": 51.1561,
+      "longitude": -0.1764,
+      "detailed_analysis": "Multiple planes declaring emergencies over Gatwick Airport, with fire engines racing to the runway, indicates a potential high-risk situation affecting aviation safety and operations.",
+      "immediate_forecast_24h": "Increased security measures and possible flight disruptions are expected in the next 24 hours as investigations into the cause of the emergencies are conducted.",
+      "strategic_outlook": "This incident may lead to a review of airport security protocols and emergency response procedures to prevent similar occurrences in the future.",
+      "operational_impact": "Potential delays and cancellations of flights, increased security checks, and possible restrictions on air traffic in the affected area.",
+      "proximity_alert": "YAKIN TEHDİT: Gatwick Airport (0 km)"
+    }
+  },
+  {
+    "id": "a4ad5f5f36d9ff5969f1ebcaa1bea322",
+    "timestamp": "2026-07-15T05:54:27.617296",
+    "original_title": "Middle East live: Tehran and US exchange strikes as blockade of Iranian ports resumes",
+    "link": "https://www.france24.com/en/middle-east/20260715-middle-east-live-tehran-and-us-exchange-strikes-as-blockade-of-iranian-ports-resumes",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The exchange of strikes between the US and Iran, including bombings in Bandar Abbas, Qeshm, and Ahvaz, poses a significant threat to aviation and cargo operations in the region. The resumption of the US naval blockade on Iranian ports further exacerbates the risk.",
+      "immediate_forecast_24h": "Escalation of military actions, potential for additional strikes, and increased tensions in the region, which may lead to disruptions in air traffic and cargo shipments.",
+      "strategic_outlook": "Prolonged conflict may lead to a significant increase in insurance premiums, cargo delays, and potential rerouting of flights and shipments. The blockade may also lead to shortages of essential goods and increased prices.",
+      "operational_impact": "Potential for flight cancellations, delays, and rerouting, as well as increased security measures at airports and ports. Cargo operations may be disrupted, and shipments may be delayed or diverted.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
     }
   }
 ]
