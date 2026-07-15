@@ -1,21 +1,59 @@
 [
   {
-    "id": "e94597c595a3dc0875958458d0eaf58a",
-    "timestamp": "2026-07-15T20:35:07.763278",
-    "original_title": "Feds tie counterterrorism grants to election security measures - Nextgov/FCW",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQkJwVTl3MHc0UlI3OVFnRlE5eHJIT3F2NW5iWFFSeG8xODk1TVNNTmtMVFJVREZhRUl4TWFVOHE4WldHQTBJWWVIUE1SM01iSXBhOUhsak1DTmxzX0QtclJrUzB0RExvQ3p5cV9kWXJ2UXlHZkUzZEM3YkFTX0RwTjFvZ3N2ZENfRTJYdGczZWhpeG5BenhmSk9fODdLOEtmSnBjXzVDVFA1TURrY2d1NGZMOUdRWHE1Z0tNR0hkZURIVzFZVmRsRQ?oc=5",
+    "id": "552181ee5d0ddfb2c2b253c5675a966d",
+    "timestamp": "2026-07-15T22:07:07.489273",
+    "original_title": "Many Democrats Break With Israel, Back Measure Stripping Military Aid - WSJ",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUHZzcFY1OXVlVUhyZVdrcmg2a0dXbmVRb2pVNUJjOFNWbW0zSFhxODFLYzd1R01zZnM2azRoTFFIVTRrOU8yMVMtN3V1dFk4bTdNX2lBRDVsZVpOUHZCeDM4YndOdVZPZWNzQjlCc2VOZWFRRnIyQm1UNlBIQXBoNWJUMUR4U3JQWEtGSGdPZlVISXIzWk0yUEpXTVRiaGVfaTBEMThEWVFNbVZfcEozSXhjMA?oc=5",
     "source_name": "Google News (Breaking)",
     "ai_analysis": {
-      "category": "Terrorism/Cyber",
+      "category": "Conflict/Other",
       "risk_score": 10,
-      "location": "United States",
-      "latitude": 38.9,
-      "longitude": -77.02,
-      "detailed_analysis": "The US government is tying counterterrorism grants to election security measures, indicating a potential threat to election infrastructure and a possible increase in cybersecurity measures.",
-      "immediate_forecast_24h": "No immediate threats are expected, but increased cybersecurity measures may be implemented in the coming days.",
-      "strategic_outlook": "Long-term, this move may lead to increased cooperation between federal and local authorities on cybersecurity and counterterrorism efforts, potentially reducing the risk of terrorist attacks and cyber threats.",
-      "operational_impact": "The impact on transport and logistics is expected to be minimal, but increased security measures at airports and other transportation hubs may be implemented as a precautionary measure.",
-      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (1 km)"
+      "location": "United States, Israel",
+      "latitude": 38.8977,
+      "longitude": -77.0365,
+      "detailed_analysis": "The news article discusses a potential shift in US policy towards Israel, with some Democrats backing a measure to strip military aid. This could lead to increased tensions between the US and Israel, potentially affecting diplomatic relations and regional stability.",
+      "immediate_forecast_24h": "No immediate impact on aviation, cargo, or personnel is expected, but the situation bears monitoring for potential future developments.",
+      "strategic_outlook": "A long-term reduction in US military aid to Israel could have significant implications for regional security and stability, potentially affecting transport and logistics in the area.",
+      "operational_impact": "Currently, no direct operational impact on transport or logistics is anticipated, but the situation should be closely watched for any changes that could affect assets, cargo, aviation, or personnel.",
+      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
+    }
+  },
+  {
+    "id": "56029ec8b0ef60eba4c30ba27d5a9de1",
+    "timestamp": "2026-07-15T22:07:09.525256",
+    "original_title": "House defeats bid to end military aid to Israel as over 100 Democrats vote for it - The Guardian",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwZ3dfQ2I2ejJWejJlVndhYkV1TGxOQkZlWkV6cy1jVV9pUlpFd25GZWJEclpTaERyMUZXNDExVDdabXJYeHVBXzh1cHRJejRGbE1iNWFGa2dFNjFOYWxwVF96dFVhLTg2WDNzWWdrYW5MdUw4cEZxclRjMGtWVUU?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Washington D.C., USA",
+      "latitude": 38.8951,
+      "longitude": -77.0364,
+      "detailed_analysis": "The US House of Representatives has defeated a bid to end military aid to Israel, with over 100 Democrats voting in favor of the measure. This development may indicate increased tensions in the region, but does not directly pose a threat to assets, cargo, aviation, or personnel at this time.",
+      "immediate_forecast_24h": "No immediate escalation is expected, but the situation will continue to be monitored for potential developments.",
+      "strategic_outlook": "The long-term implications of this vote may contribute to ongoing geopolitical tensions in the region, potentially affecting transport and logistics operations in the future.",
+      "operational_impact": "No direct operational impact is anticipated at this time, but the situation will be continuously assessed for potential effects on assets, cargo, aviation, and personnel.",
+      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
+    }
+  },
+  {
+    "id": "8409637232d367ce36a8591eff02a1f2",
+    "timestamp": "2026-07-15T22:07:13.522640",
+    "original_title": "Ukraine defence minister resigns as part of Zelensky's cabinet reshuffle",
+    "link": "https://www.france24.com/en/europe/20260715-ukraine-defence-minister-resigns-zelensky-cabinet-reshuffle",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Kyiv, Ukraine",
+      "latitude": 50.4501,
+      "longitude": 30.5236,
+      "detailed_analysis": "Ukraine's Defence Minister resignation as part of President Zelensky's cabinet reshuffle may lead to changes in military strategy and defence policies, potentially affecting the ongoing conflict with Russia.",
+      "immediate_forecast_24h": "No immediate impact expected on aviation, cargo, or personnel, but the situation will be closely monitored for any developments that could affect the security landscape.",
+      "strategic_outlook": "The cabinet reshuffle may lead to a shift in Ukraine's approach to the conflict, potentially influencing the security situation in the region and impacting transport and logistics operations in the long term.",
+      "operational_impact": "No direct operational impact expected at this time, but the situation will be continuously assessed for any potential effects on the movement of assets, cargo, and personnel.",
+      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
     }
   }
 ]
