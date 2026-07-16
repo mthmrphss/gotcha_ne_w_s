@@ -1,21 +1,59 @@
 [
   {
-    "id": "7c857cb5e79b65d24e7a510b51fb84e4",
-    "timestamp": "2026-07-16T10:30:09.199474",
-    "original_title": "Kyiv hit again as Ukraine reports two dead in Russian strike",
-    "link": "http://www.africanews.com/2026/07/16/kyiv-hit-again-as-ukraine-reports-two-dead-in-russian-strike/",
-    "source_name": "Africa News",
+    "id": "6be40c5c7ad71a90d1fd80cf1776b278",
+    "timestamp": "2026-07-16T12:05:22.073962",
+    "original_title": "Mass Protests Across Ukraine Oppose Ouster of Defense Minister",
+    "link": "https://www.nytimes.com/2026/07/16/world/europe/ukraine-fedorov-protests.html",
+    "source_name": "NewYork Times",
     "ai_analysis": {
-      "category": "Conflict",
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 6,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "Mass protests across Ukraine opposing the ouster of Defense Minister Mykhailo Fedorov, who symbolized Ukraine's success in using drones against Russia, pose a significant threat to aviation and personnel. The use of drones in the conflict and the protests' focus on their role in the war effort increase the risk of aviation-related incidents.",
+      "immediate_forecast_24h": "Protests are likely to continue, potentially disrupting air travel and posing a risk to aviation assets. The situation may escalate if the government does not address the protesters' demands.",
+      "strategic_outlook": "The long-term impact of these protests on Ukraine's defense capabilities and its use of drones in the conflict with Russia is uncertain. However, the continued unrest may lead to increased instability in the region, affecting aviation and logistics operations.",
+      "operational_impact": "The protests may cause disruptions to air travel, potentially affecting cargo transport and personnel movement. Aviation assets, including drones, may be at risk due to the protests' focus on their role in the conflict.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "ff3a6f13630e5d6046e0dfc98234fada",
+    "timestamp": "2026-07-16T12:05:25.251456",
+    "original_title": "Ukrainians protest the dismissal of Kyiv's 'most successful defence minister'",
+    "link": "https://www.france24.com/en/ukrainians-protest-the-dismissal-of-kyiv-s-most-successful-defence-minister",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
       "risk_score": 10,
       "location": "Kyiv, Ukraine",
       "latitude": 50.4501,
       "longitude": 30.5236,
-      "detailed_analysis": "Russian missile strike on Kyiv resulted in 2 fatalities and 5 injuries, including a child, indicating a significant threat to personnel and potential disruption to aviation and cargo operations in the region.",
-      "immediate_forecast_24h": "Increased tensions and potential for further strikes in the Kyiv area, posing a high risk to aviation and personnel. Cargo operations may be disrupted due to the conflict.",
-      "strategic_outlook": "The ongoing conflict between Russia and Ukraine is likely to continue, posing a long-term risk to assets, cargo, aviation, and personnel in the region. The situation may escalate, leading to increased instability and disruption to transport and logistics.",
-      "operational_impact": "The strike may impact flight operations and cargo transport in and out of Kyiv, with potential delays or cancellations. Personnel in the area should exercise extreme caution, and transport operators should consider alternative routes or measures to mitigate the risk.",
+      "detailed_analysis": "Protests in Kyiv against the dismissal of the defence minister, Mykhailo Fedorov, amidst ongoing conflict with Russia, including recent missile strikes on the city. The situation poses a risk to personnel and assets due to the potential for escalation and unrest.",
+      "immediate_forecast_24h": "Continued protests and potential clashes between protesters and authorities, with a heightened risk of Russian military action in the area.",
+      "strategic_outlook": "Long-term instability in the region, potentially affecting aviation and cargo operations, with increased security measures needed to protect assets and personnel.",
+      "operational_impact": "Potential disruptions to transport and logistics in the region, including possible airspace restrictions and increased security checks for cargo and personnel.",
       "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
+    }
+  },
+  {
+    "id": "56a01300a45c6391fdd7a7eee372c804",
+    "timestamp": "2026-07-16T12:05:28.665241",
+    "original_title": "Atlanta Hartsfield Sued By Shuttle Bus Manager Who Was Viciously Assaulted and Stabbed by Homeless Person Who Shouldn’t Have Been at Airport",
+    "link": "https://www.paddleyourownkanoo.com/2026/07/16/atlanta-hartsfield-sued-by-shuttle-bus-manager-who-was-viciously-assaulted-and-stabbed-by-homeless-person-who-shouldnt-have-been-at-airport/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Crime/Civil Unrest",
+      "risk_score": 10,
+      "location": "Atlanta, USA",
+      "latitude": 33.6367,
+      "longitude": -84.4281,
+      "detailed_analysis": "A violent assault by a homeless person on a shuttle bus manager at Atlanta Hartsfield International Airport highlights security concerns and potential threats to personnel and airport operations.",
+      "immediate_forecast_24h": "Increased security presence and potential heightened alertness among airport staff and security personnel in response to the incident.",
+      "strategic_outlook": "Long-term review and enhancement of airport security protocols to prevent similar incidents, potentially including improved access control and surveillance measures.",
+      "operational_impact": "Minimal immediate operational impact, but potential for increased security measures and protocols that could affect airport efficiency and passenger experience.",
+      "proximity_alert": "YAKIN TEHDİT: Hartsfield–Jackson Atlanta International Airport (0 km)"
     }
   }
 ]
