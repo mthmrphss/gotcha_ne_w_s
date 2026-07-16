@@ -150,5 +150,62 @@
       "operational_impact": "Shipping and logistics operations in the Strait of Hormuz may be severely impacted, with potential for delays, increased security measures, and higher insurance premiums.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "940f748c96b25ac23dabba26e8f392f6",
+    "timestamp": "2026-07-16T05:59:46.186150",
+    "original_title": "Russia says it hits military targets in Kyiv, Ukrainian ports - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOG10WDRNa3NnT0FNNFdmb0xMdU5GYzJSclVEM3Qzd3dZaVhRT2ZqTWVpVFVLVGtYa3hxOVg1UU8zeVRhLWlkYUdpbThmWVBfdmdJT3ktNl94bmQxSXVoQmpzQVpYTVZvd0Y1dVpaaDUyNXBoRnFKSGdRUGRzRFNHdEQ0MTFGaHFBZWJiMmZCYjJFSi1uV3daWkl4V1lWZjNvWm9HQjNtWkI5TGp1a2tDdk5zVGRzSU5BTFBjeQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Kyiv, Ukraine",
+      "latitude": 50.4501,
+      "longitude": 30.5236,
+      "detailed_analysis": "Russia has launched military strikes on targets in Kyiv and Ukrainian ports, posing a significant threat to assets, cargo, aviation, and personnel in the region.",
+      "immediate_forecast_24h": "Increased military activity and potential for further strikes in the region, disrupting transport and logistics operations.",
+      "strategic_outlook": "Escalating conflict may lead to prolonged disruptions to trade and commerce, with potential for widespread damage to infrastructure and loss of life.",
+      "operational_impact": "Shipping and aviation operations in the region may be severely impacted, with potential for delays, cancellations, and increased security measures.",
+      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
+    }
+  },
+  {
+    "id": "a246e42457cbac208b1a024bb176abf8",
+    "timestamp": "2026-07-16T05:59:50.109817",
+    "original_title": "Israeli strikes on Gaza kill at least 12 people, Palestinian authorities say",
+    "link": "http://www.africanews.com/2026/07/16/israeli-strikes-on-gaza-kill-at-least-12-people-palestinian-authorities-say/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Gaza, Palestine",
+      "latitude": 31.5,
+      "longitude": 34.45,
+      "detailed_analysis": "Israeli airstrikes on Gaza have resulted in at least 12 fatalities, indicating an escalation of violence despite a months-old ceasefire with Hamas, posing a significant threat to aviation and personnel in the region.",
+      "immediate_forecast_24h": "Continued airstrikes and potential retaliation from Hamas are expected, increasing the risk of further violence and disruptions to aviation and logistics in the area.",
+      "strategic_outlook": "The long-term outlook remains volatile, with the potential for further escalation and spillover effects on regional stability, impacting transport and logistics operations.",
+      "operational_impact": "Aviation operations in the region may be disrupted due to the airstrikes, and cargo transport may be affected by the ongoing conflict, necessitating heightened security measures and contingency planning.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "3e391589241b968b8c36e8929c49904c",
+    "timestamp": "2026-07-16T05:59:53.138128",
+    "original_title": "Middle East live: Iran says it targeted US military sites in Jordan, Kuwait and Bahrain",
+    "link": "https://www.france24.com/en/middle-east/20260716-middle-east-live-us-launches-fresh-strikes-on-iran-as-hormuz-remains-paralyzed",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Jordan, Kuwait, Bahrain",
+      "latitude": 29.4574,
+      "longitude": 47.4818,
+      "detailed_analysis": "Iran has carried out drone attacks on US military bases and facilities in Jordan, Kuwait, and Bahrain, with Jordan confirming it shot down eight missiles launched by Iran, indicating a significant escalation in conflict that directly impacts aviation and regional security.",
+      "immediate_forecast_24h": "Increased military presence and heightened alertness in the region, potential for further retaliatory strikes, and possible disruptions to air traffic and logistics operations.",
+      "strategic_outlook": "Long-term instability in the region could lead to sustained tensions between Iran and the US, affecting global oil prices, air travel, and cargo shipments, with potential for the conflict to spread or involve other nations.",
+      "operational_impact": "Immediate impact on aviation with potential flight restrictions or rerouting, increased security measures at airports and military bases, and potential delays or cancellations of cargo shipments to and from the affected areas.",
+      "proximity_alert": null
+    }
   }
 ]
