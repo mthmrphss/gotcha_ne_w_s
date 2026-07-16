@@ -302,5 +302,24 @@
       "operational_impact": "Potential disruptions to air traffic, increased security checks, and possible rerouting of flights or cargo shipments to avoid the affected areas.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "7c857cb5e79b65d24e7a510b51fb84e4",
+    "timestamp": "2026-07-16T10:30:09.199474",
+    "original_title": "Kyiv hit again as Ukraine reports two dead in Russian strike",
+    "link": "http://www.africanews.com/2026/07/16/kyiv-hit-again-as-ukraine-reports-two-dead-in-russian-strike/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Kyiv, Ukraine",
+      "latitude": 50.4501,
+      "longitude": 30.5236,
+      "detailed_analysis": "Russian missile strike on Kyiv resulted in 2 fatalities and 5 injuries, including a child, indicating a significant threat to personnel and potential disruption to aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Increased tensions and potential for further strikes in the Kyiv area, posing a high risk to aviation and personnel. Cargo operations may be disrupted due to the conflict.",
+      "strategic_outlook": "The ongoing conflict between Russia and Ukraine is likely to continue, posing a long-term risk to assets, cargo, aviation, and personnel in the region. The situation may escalate, leading to increased instability and disruption to transport and logistics.",
+      "operational_impact": "The strike may impact flight operations and cargo transport in and out of Kyiv, with potential delays or cancellations. Personnel in the area should exercise extreme caution, and transport operators should consider alternative routes or measures to mitigate the risk.",
+      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
+    }
   }
 ]
