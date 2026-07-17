@@ -397,5 +397,24 @@
       "operational_impact": "Potential disruptions to air traffic, cargo shipments, and personnel movements in the region, with increased risk of accidents, injuries, or fatalities.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "6d7edd34a41cfe804c7cab66edd74059",
+    "timestamp": "2026-07-17T14:47:56.084219",
+    "original_title": "Iran accuses the United States of bombing civilian infrastructure",
+    "link": "http://www.africanews.com/2026/07/17/iran-accuses-the-united-states-of-bombing-civilian-infrastructure/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Iran has accused the United States of bombing civilian infrastructure, including bridges, a train station, and an airport, which poses a significant threat to aviation and logistics in the region.",
+      "immediate_forecast_24h": "Renewed airstrikes are likely, and there may be disruptions to air travel and cargo transport in the region.",
+      "strategic_outlook": "The conflict may escalate, leading to long-term disruptions to aviation and logistics in the region, and potentially affecting global supply chains.",
+      "operational_impact": "Air travel and cargo transport in the region may be severely disrupted, and alternative routes may need to be considered to minimize delays and losses.",
+      "proximity_alert": null
+    }
   }
 ]

@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "id": "6d7edd34a41cfe804c7cab66edd74059",
+    "timestamp": "2026-07-17T14:47:56.084219",
+    "original_title": "Iran accuses the United States of bombing civilian infrastructure",
+    "link": "http://www.africanews.com/2026/07/17/iran-accuses-the-united-states-of-bombing-civilian-infrastructure/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Iran has accused the United States of bombing civilian infrastructure, including bridges, a train station, and an airport, which poses a significant threat to aviation and logistics in the region.",
+      "immediate_forecast_24h": "Renewed airstrikes are likely, and there may be disruptions to air travel and cargo transport in the region.",
+      "strategic_outlook": "The conflict may escalate, leading to long-term disruptions to aviation and logistics in the region, and potentially affecting global supply chains.",
+      "operational_impact": "Air travel and cargo transport in the region may be severely disrupted, and alternative routes may need to be considered to minimize delays and losses.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "e2bdc1decefddcb5081b37742adb0769",
+    "timestamp": "2026-07-17T14:47:58.190037",
+    "original_title": "What challenges await the UK's incoming Prime Minister Andy Burnham?",
+    "link": "https://www.france24.com/en/what-challenges-await-the-uk-s-incoming-prime-minister-andy-burnham",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Border/Civil Unrest",
+      "risk_score": 5,
+      "location": "United Kingdom",
+      "latitude": 54.7589,
+      "longitude": -4.5729,
+      "detailed_analysis": "The incoming UK Prime Minister, Andy Burnham, faces challenges including irregular migrants arriving in small boats, which could impact border security and potentially affect transport and logistics.",
+      "immediate_forecast_24h": "Increased focus on border control and potential protests or unrest related to migrant policies.",
+      "strategic_outlook": "Long-term efforts to address the root causes of migration and improve border security may be expected from the new government.",
+      "operational_impact": "Potential disruptions to transport and logistics due to increased security measures or civil unrest related to migrant policies.",
+      "proximity_alert": null
+    }
+  }
+]
