@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "id": "234dfc8e262c211736858ceb9aa1da3a",
+    "timestamp": "2026-07-17T19:19:55.614788",
+    "original_title": "Iran War Live Updates: Bridges and Water Plants Hit in Latest Escalation",
+    "link": "https://www.nytimes.com/live/2026/07/17/world/iran-war-trump-hormuz",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Iran, Middle East",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The latest escalation in Iran involves strikes on infrastructure that can serve civilian purposes, including bridges and water plants. This could potentially disrupt logistics and transportation in the region, posing a threat to assets, cargo, aviation, and personnel.",
+      "immediate_forecast_24h": "Increased tensions and potential for further retaliatory strikes, affecting air traffic and ground transportation in the region.",
+      "strategic_outlook": "Prolonged conflict could lead to significant disruptions in global supply chains, particularly for cargo and aviation, with potential long-term impacts on regional stability and security.",
+      "operational_impact": "Transportation and logistics operations in the region may be severely impacted, with potential for delays, rerouting, or cancellation of flights and shipments.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "d11139890c8d71ded9b7cf3364420dcd",
+    "timestamp": "2026-07-17T19:19:58.515859",
+    "original_title": "Baltics and Poland warn Russia could launch limited military or hybrid provocation against NATO",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1uz74fe/baltics_and_poland_warn_russia_could_launch/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Baltics and Poland",
+      "latitude": 54.5,
+      "longitude": 18.5,
+      "detailed_analysis": "The warning of a potential limited military or hybrid provocation by Russia against NATO in the Baltics and Poland poses a significant threat to regional stability and security. This could lead to disruptions in aviation, cargo transport, and personnel movement.",
+      "immediate_forecast_24h": "Increased military presence and heightened alertness are expected in the region, potentially causing delays or restrictions in air and ground transport. Diplomatic tensions may escalate, leading to further instability.",
+      "strategic_outlook": "A prolonged period of heightened tensions could lead to a re-evaluation of transport routes and logistics strategies in the region. Long-term implications may include increased security measures, potential trade disruptions, and altered geopolitical alliances.",
+      "operational_impact": "Potential disruptions to air traffic, increased security checks, and possible restrictions on cargo transport could significantly impact logistics and supply chain operations in the region. Personnel movement may also be affected due to heightened security concerns.",
+      "proximity_alert": null
+    }
+  }
+]
