@@ -416,5 +416,62 @@
       "operational_impact": "Air travel and cargo transport in the region may be severely disrupted, and alternative routes may need to be considered to minimize delays and losses.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "f39ad8c8cfc433943c9e7440e6f3a9f2",
+    "timestamp": "2026-07-17T16:20:17.986424",
+    "original_title": "Air commandos seek ‘SOF-peculiar’ attack drones with automatic target recognition capabilities - DefenseScoop",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU3F3QkpRUUFFc1hjVXpVa1lfZmNwU2YyVm9WWUVzaUVwTkQ5NlFjd0tEbVN3aWtkTWRBQWRrTlI3eGM1WDRyNHRlNEhHQ08tLWNQSkI2ZUNfd2hiNVhkdFFsWkYybHptNy1MY19OeGNBLWFNUXk2N1NlVndZcHc5T1FYTF8xZGNCZU13Ym1wdzdWZjZxX2VtVw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 10,
+      "location": "Unknown, USA",
+      "latitude": 38.8977,
+      "longitude": -77.0365,
+      "detailed_analysis": "The US Air Commandos are seeking to acquire attack drones with automatic target recognition capabilities, which could potentially be used in combat operations. This development may pose a threat to personnel and assets in conflict zones.",
+      "immediate_forecast_24h": "No immediate threat is expected in the next 24 hours, but the development of such drones could lead to an increased risk of drone-related incidents in the future.",
+      "strategic_outlook": "The acquisition of attack drones with automatic target recognition capabilities could lead to a significant increase in the effectiveness of air commando operations, but also raises concerns about the potential for unintended consequences, such as civilian casualties.",
+      "operational_impact": "The introduction of such drones could impact transport and logistics operations in conflict zones, potentially leading to increased security measures and disruptions to supply chains.",
+      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
+    }
+  },
+  {
+    "id": "eb55d73001717c2544678a3e9e17ca42",
+    "timestamp": "2026-07-17T16:20:21.949225",
+    "original_title": "Iran War Live Updates: U.S. Hits Bridges and a Control Tower in Country’s South",
+    "link": "https://www.nytimes.com/live/2026/07/17/world/iran-war-trump-hormuz",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Southern Iran, Iran",
+      "latitude": 29.0,
+      "longitude": 52.0,
+      "detailed_analysis": "The U.S. military has launched attacks on Iranian military targets, including bridges and a control tower, in the southern part of the country. This escalation of conflict poses a significant threat to aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Increased military activity and potential for retaliation from Iran, which may lead to further escalation and disruption of air and sea traffic in the region.",
+      "strategic_outlook": "The conflict may lead to a prolonged period of instability in the region, affecting trade and transportation routes, and potentially drawing in other countries or actors.",
+      "operational_impact": "Potential disruption to air traffic control, increased risk of accidents or incidents involving military aircraft, and possible restrictions on cargo shipments to and from the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "1a268f6c8422264fe41776586337f907",
+    "timestamp": "2026-07-17T16:20:26.969821",
+    "original_title": "LNER train drivers threaten strike action in long-running pay row",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/lner-train-drivers-strike-aslef-b3017009.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "London, UK",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "detailed_analysis": "LNER train drivers are threatening strike action due to a long-running pay dispute, which could impact services to and from London King’s Cross, potentially disrupting transportation and logistics.",
+      "immediate_forecast_24h": "Strike action may be announced or commence within the next 24 hours, causing disruptions to rail services and potential knock-on effects to other modes of transportation.",
+      "strategic_outlook": "The dispute may take several days or weeks to resolve, leading to ongoing disruptions and potential long-term impacts on the rail network and associated logistics operations.",
+      "operational_impact": "Potential disruptions to rail services, including delays and cancellations, may impact the movement of cargo, passengers, and personnel, with possible knock-on effects to supply chains and other transportation modes.",
+      "proximity_alert": "YAKIN TEHDİT: Heathrow Airport (23 km)"
+    }
   }
 ]
