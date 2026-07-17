@@ -511,5 +511,62 @@
       "operational_impact": "Potential disruptions to air traffic, increased security checks, and possible restrictions on cargo transport could significantly impact logistics and supply chain operations in the region. Personnel movement may also be affected due to heightened security concerns.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "3f8adeb7edf8f8dfb51d1ba06e165b59",
+    "timestamp": "2026-07-17T20:28:06.154206",
+    "original_title": "U.S. strikes bridges around key port in Iran, expanding campaign in battle over Hormuz - NBC News",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVEI2eGZFYnBWb2RZWU4yZERtYmVSMVdLeVk0UzJWOVp2bFRiVHFRQlpMaGwzQy15b1JsZlpfbU1ZRC0wNUZudldSdlRocWtueC1xekxieTZQQXdBMFY4Z1B1ZHlwWGFPaHdkM2FxaFhQekxrWVQ0WHJFdnhQZE4tTEkwdHFoSHhzVzV0TEtIZWFwRXNBMXFfLTlMLTFzMDY1Smc?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Hormuz, Iran",
+      "latitude": 27.1667,
+      "longitude": 56.2833,
+      "detailed_analysis": "The U.S. strikes on bridges around a key port in Iran pose a significant threat to assets, cargo, aviation, and personnel in the region. The expansion of the campaign in the battle over Hormuz may lead to increased tensions and potential disruptions to shipping and logistics.",
+      "immediate_forecast_24h": "Increased military activity and potential retaliatory actions from Iran are expected in the next 24 hours, which may impact shipping and aviation operations in the region.",
+      "strategic_outlook": "The long-term implications of this conflict may lead to a prolonged period of instability in the region, affecting global trade and energy supplies. The situation may escalate into a wider conflict, involving other nations and potentially impacting global security.",
+      "operational_impact": "The strikes may cause disruptions to shipping and logistics operations in the region, potentially leading to delays and increased costs. Aviation operations may also be impacted, with potential restrictions on airspace and increased security measures.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "62884349333e62c24d2789dc4f338e10",
+    "timestamp": "2026-07-17T20:28:08.901176",
+    "original_title": "Iran War Live Updates: Bridges and Water Plants Hit as Strikes Stretch to 7th Straight Day",
+    "link": "https://www.nytimes.com/live/2026/07/17/world/iran-war-trump-hormuz",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Iran, Gulf countries",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "US strikes on Iranian infrastructure, including bridges and water plants, pose a significant threat to aviation and logistics in the region. The targeting of similar sites in Gulf countries hosting American bases increases the risk of retaliation and escalation.",
+      "immediate_forecast_24h": "Increased military activity, potential for additional strikes, and heightened tensions between the US and Iran. Risk of civilian casualties and damage to critical infrastructure.",
+      "strategic_outlook": "Prolonged conflict could lead to long-term disruption of air travel, cargo transport, and logistics in the region. Potential for cyberattacks and other forms of retaliation against US interests and allies.",
+      "operational_impact": "Flight disruptions, potential for airport closures, and increased security measures. Cargo transport and logistics may be impacted by damage to infrastructure and increased risk of attacks.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "fec0822f99a7fc5402df16b93fd8c043",
+    "timestamp": "2026-07-17T20:28:12.056615",
+    "original_title": "Ukraine: Trouble at the Top? Adieu Keir, Alright Andy",
+    "link": "https://www.france24.com/en/tv-shows/the-world-this-week/20260717-ukraine-trouble-at-the-top-adieu-keir-alright-andy",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 6,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "Protests in Ukraine due to the ousting of Defence Minister Mykhailo Fedorov may lead to instability and potential disruptions in the region, affecting assets, cargo, aviation, and personnel.",
+      "immediate_forecast_24h": "Increased tensions and potential clashes between protesters and authorities, with possible disruptions to transportation and logistics.",
+      "strategic_outlook": "Long-term instability in Ukraine may impact regional security, trade, and economic stability, with potential spillover effects on neighboring countries.",
+      "operational_impact": "Potential disruptions to air and ground transportation, cargo handling, and personnel movements, with increased risk of conflict-related incidents and unrest.",
+      "proximity_alert": null
+    }
   }
 ]
