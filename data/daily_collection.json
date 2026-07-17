@@ -112,5 +112,43 @@
       "operational_impact": "Potential disruptions to air traffic, increased security measures, and possible rerouting of flights to avoid the affected area.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "fef2ea85df2b8c76d4f265a5858f168a",
+    "timestamp": "2026-07-17T01:04:07.965067",
+    "original_title": "Iran War Updates: U.S. Launches New Strikes, as Tensions Escalate Over Strait of Hormuz",
+    "link": "https://www.nytimes.com/live/2026/07/16/world/iran-war-trump-hormuz",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Strait of Hormuz, Iran",
+      "latitude": 26.0,
+      "longitude": 56.0,
+      "detailed_analysis": "The U.S. has launched new strikes on Iranian infrastructure, including bridges and a railway junction, which could impact cargo and aviation operations in the region.",
+      "immediate_forecast_24h": "Escalating tensions between the U.S. and Iran may lead to further military action, potentially disrupting shipping lanes and air traffic in the Strait of Hormuz.",
+      "strategic_outlook": "The conflict may lead to a prolonged period of instability in the region, affecting global oil supplies and trade routes, with potential long-term implications for aviation and cargo operations.",
+      "operational_impact": "Shipping and aviation companies should exercise caution when operating in the region, with potential disruptions to supply chains and increased risk of attacks on assets and personnel.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "0ba37c063b4bb33c3e5dd48ad62cd306",
+    "timestamp": "2026-07-17T01:04:11.194838",
+    "original_title": "Middle East live: US strikes in Iran hit airport, bridges and railway station",
+    "link": "https://www.france24.com/en/middle-east/20260716-middle-east-live-us-strikes-in-iran-hit-airport-bridges-and-railway-station",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "US strikes on Iranian airport, railway station, and bridges indicate heightened conflict, posing significant risks to aviation and logistics in the region.",
+      "immediate_forecast_24h": "Escalation of US-Iran conflict may lead to further strikes, potentially disrupting air traffic and logistics operations in the Middle East.",
+      "strategic_outlook": "Prolonged conflict could lead to increased instability in the Strait of Hormuz, affecting global oil supplies and maritime trade.",
+      "operational_impact": "Potential disruptions to air travel, cargo transport, and supply chains in the region, with possible spillover effects on global trade and commerce.",
+      "proximity_alert": null
+    }
   }
 ]
