@@ -1,1 +1,59 @@
-[]
+[
+  {
+    "id": "d06dc0f4cfbe7ea1031f17bc33779cc0",
+    "timestamp": "2026-07-18T20:57:59.088228",
+    "original_title": "Iran attack in Jordan leaves 2 US troops dead, 1 missing - NewsNation",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMXVSUjF3Qzh0STJuMTd5OC1XRFFuRlV6Q0lpeVdYcXBpWjFBUVNGNkZLZ3h2OHIxQjBsa0lZa1NGQ3Z4U0g1cWdPZll3N2dzR3ZxUUpsSzRHSHhQZm9RcTRMVVVXekc0WFMxR1AweHN0NFRUODBvUDJjRXp4dEZBYXhBRjVES2FiNUM0a2dLS05KcTc4X045U3Z5Z9IBoAFBVV95cUxOb0E0OEJiNUx0RlFOU19MY1k3bFJtcGtvWlphYWxqNXQ4QUdxSWcxNkhwcmFJS2ktSFhBb0hxMUxLQ25Vc0R0MlNmZ1FWVHVqbjRwWXREbExsT0I0YmFINHVpcVYyaHVoUW9qZnFUWm1Ya0dWNWg0ZThrUDFqbTBCSmowanpWSXpCX2dQcUdSdjVsZTQtVVZNX1lXeUU3WnNj?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 8,
+      "location": "Jordan",
+      "latitude": 31.0,
+      "longitude": 36.0,
+      "detailed_analysis": "Iranian attack in Jordan resulted in 2 US troops dead and 1 missing, indicating a high level of threat to personnel and potential escalation of conflict in the region.",
+      "immediate_forecast_24h": "Increased security measures are expected in the region, with potential for further clashes or retaliatory actions.",
+      "strategic_outlook": "The incident may lead to increased tensions between Iran and the US, potentially affecting regional stability and transport/logistics operations.",
+      "operational_impact": "Transport and logistics operations in the region may be affected due to increased security measures, potential border closures, or disruptions to supply chains.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "efd926f8e8bce875cdcf7564ab5c78f9",
+    "timestamp": "2026-07-18T20:58:03.414698",
+    "original_title": "Ukraine’s Top General Becomes a Target of Protesters’ Anger",
+    "link": "https://www.nytimes.com/2026/07/18/world/europe/ukraine-protests-general-syrskyi-fedorov.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Kyiv, Ukraine",
+      "latitude": 50.4501,
+      "longitude": 30.5236,
+      "detailed_analysis": "Protesters are denouncing Gen. Oleksandr Syrskyi, Ukraine's top general, which may lead to increased tensions and potential unrest in the region, affecting personnel and potentially disrupting logistics and transport operations.",
+      "immediate_forecast_24h": "Protests may escalate, potentially leading to clashes with authorities, and disruptions to local transport and logistics in the next 24 hours.",
+      "strategic_outlook": "The situation may lead to a long-term destabilization of the region, affecting Ukraine's ability to maintain security and stability, which could have a broader impact on regional transport and logistics.",
+      "operational_impact": "Potential disruptions to transport and logistics operations in Ukraine, particularly in areas where protests are taking place, may affect cargo and personnel movement.",
+      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
+    }
+  },
+  {
+    "id": "720809b44f74e4cefcf074b2aa5d9cbb",
+    "timestamp": "2026-07-18T20:58:06.634056",
+    "original_title": "Khamenei threatens ‘unforgettable lessons’, two US troops killed in Iranian attack",
+    "link": "https://www.france24.com/en/middle-east/20260718-khamenei-threatens-unforgettable-lessons-two-us-troops-killed-in-iranian-attack",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 10,
+      "location": "Jordan",
+      "latitude": 31.9454,
+      "longitude": 35.9333,
+      "detailed_analysis": "Iranian Supreme Leader Ayatollah Khamenei has threatened the US with 'unforgettable lessons', and two US troops were killed in an Iranian attack on a base in Jordan, indicating a heightened state of conflict and potential for further escalation",
+      "immediate_forecast_24h": "Increased tensions between the US and Iran, potential for further military action or retaliation, and heightened security measures in the region",
+      "strategic_outlook": "Long-term escalation of conflict between the US and Iran, potentially drawing in other regional actors, and increased instability in the Middle East",
+      "operational_impact": "Potential disruptions to air transport and logistics in the region, increased security protocols for personnel and cargo, and heightened risk of attacks on aviation and transport infrastructure",
+      "proximity_alert": "YAKIN TEHDİT: Queen Alia International Airport (25 km)"
+    }
+  }
+]
