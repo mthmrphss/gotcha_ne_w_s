@@ -359,5 +359,62 @@
       "operational_impact": "The blocking of crew flying time may lead to a shortage of available crew members, resulting in flight delays and cancellations. This could have a significant impact on the operations of American Airlines, as well as the broader aviation industry, particularly in terms of passenger travel and cargo transport.",
       "proximity_alert": "YAKIN TEHDİT: Dallas Fort Worth (24 km)"
     }
+  },
+  {
+    "id": "2fffbbb55a6bcebc968306cd77ba6855",
+    "timestamp": "2026-07-18T15:31:59.958286",
+    "original_title": "It was Ukrainian spies, says Monaco parcel bomb victim",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1uzywgw/it_was_ukrainian_spies_says_monaco_parcel_bomb/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Terrorism/Crime",
+      "risk_score": 10,
+      "location": "Monaco",
+      "latitude": 43.7333,
+      "longitude": 7.4167,
+      "detailed_analysis": "A parcel bomb incident in Monaco has been attributed to Ukrainian spies, indicating a potential escalation of tensions and threat to personnel and assets.",
+      "immediate_forecast_24h": "Increased security measures are expected in Monaco, with potential disruptions to mail and parcel services. There is a risk of further incidents or retaliatory actions.",
+      "strategic_outlook": "The incident highlights the growing threat of state-sponsored espionage and terrorism, which could have long-term implications for global security and international relations.",
+      "operational_impact": "Transport and logistics operations in Monaco may be affected by increased security checks and potential disruptions to mail and parcel services. Aviation and cargo operations may also be impacted by heightened security measures.",
+      "proximity_alert": "YAKIN TEHDİT: Nice Côte d'Azur Airport (18 km)"
+    }
+  },
+  {
+    "id": "ad191886473da65dc1b3485a178d2670",
+    "timestamp": "2026-07-18T15:32:03.646132",
+    "original_title": "Ethiopians march against alleged forced mobilisation in Tigray",
+    "link": "http://www.africanews.com/2026/07/18/ethiopians-march-against-alleged-forced-mobilisation-in-tigray/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Addis Ababa, Ethiopia",
+      "latitude": 9.0,
+      "longitude": 38.7,
+      "detailed_analysis": "The protest in Addis Ababa against alleged forced mobilisation in Tigray may lead to increased tensions and potential unrest, affecting the stability of the region and potentially impacting transport and logistics operations.",
+      "immediate_forecast_24h": "The situation is likely to remain volatile, with potential for further protests and clashes between protesters and security forces.",
+      "strategic_outlook": "The ongoing conflict between the Ethiopian federal government and the TPLF may escalate, leading to a prolonged period of instability in the region, affecting trade and transport routes.",
+      "operational_impact": "Potential disruptions to ground transport and logistics operations, particularly in the Tigray region, due to increased security measures and potential unrest.",
+      "proximity_alert": "YAKIN TEHDİT: Addis Ababa Bole International Airport (10 km)"
+    }
+  },
+  {
+    "id": "4eba26a7556dae6b1b7991723eee9fbf",
+    "timestamp": "2026-07-18T15:32:05.592286",
+    "original_title": "Malian army convoy ambushed by rebels north of Gao",
+    "link": "https://www.france24.com/en/africa/20260718-malian-army-convoy-ambushed-by-rebels-north-of-gao",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 8,
+      "location": "Gao, Mali",
+      "latitude": 16.2667,
+      "longitude": 0.05,
+      "detailed_analysis": "A Malian army convoy was ambushed by rebels in a remote part of the northern Gao region, with claims of great human losses by regional al Qaeda affiliate JNIM and the separatist Azawad Liberation Front (FLA). This incident poses a significant threat to personnel and assets in the region.",
+      "immediate_forecast_24h": "Increased military presence and potential for further clashes in the region, with possible disruptions to transport and logistics.",
+      "strategic_outlook": "Long-term instability in the region, with potential for ongoing conflict and terrorist activities, posing a persistent threat to assets, cargo, aviation, and personnel.",
+      "operational_impact": "Potential disruptions to supply chains, increased security measures for transport and logistics, and heightened risk of attacks on personnel and assets in the region.",
+      "proximity_alert": null
+    }
   }
 ]
