@@ -1,59 +1,40 @@
 [
   {
-    "id": "43d081b222c59cd893efa62a9b664136",
-    "timestamp": "2026-07-18T10:00:06.719152",
-    "original_title": "U.S. military says it has completed the latest round of strikes against Iran, amid more disruptions to shipping - CNBC",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQUZ4NFJJSU1NWWE3TlpSd0dvVzVwcVZFYW1kcEJIRVhJSDhxR052U1ctZWdjZ1BVNHlBYTFHRy1oLUFTa3VXU2czRzlUMFA5R1B4OWJ1VERrUlRuWE9IUzlhM1RMSnNKajh6eGhMSGZLMUFDSWl5ZGRkUG9Uby1iTldqdUVzcnFReGFrZC1MaWZ2QS1fRHNZT2twN25EWV9TaVIzVk9n0gGrAUFVX3lxTE1GemlvVkpUUGRsUFZLRnJiaGFaaUl4Q29qS29hcHFRbVFHLVhPTEtJbmpVUlhUZlRWZDQ5a2paTFBaS0ttbXl4Smk3aWVKZnVXRlFWaXRiX2l5UDBCSG1tdVQ1UzRzT2JWVlI3aWxnU2ZSY1FnV1p0b0hmRFBZOEdxY3M0QXNzUTczQzFJVS16RGJDRlVVZmR0dEd4SERleVIyQkQ1alhuS2ctQQ?oc=5",
+    "id": "35f1c4d276959ed61e23b5201555ebde",
+    "timestamp": "2026-07-18T11:14:53.440806",
+    "original_title": "8 killed and more than 60 wounded in Ukrainian drone attack on Russian regions - NPR",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSm53ZDZMX3FYRERGWm9YcmVoRlBqOEFGelpNWmRfdnJkSnJvdjR0U2dZb0VQR0IzWE9IMkRTUGxGOXBWa0ZKbjY1RVRzaFFPdWVyaFdrcTB6OThiMFMtRE84eHFsdGNxNVEyQ1dRZVQ2Rk5ndHRXV3B6dEhjUlpXQmN4ZUZ5OUVuUlhmQWY0YW5NWVVqQlBrSEF0UnlpY1RWRDI2UWxWY0pGUkN2N0RRLW43TUJPQzk5SUNtLVUzZGU?oc=5",
     "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Russian regions, Russia",
+      "latitude": 60.0,
+      "longitude": 100.0,
+      "detailed_analysis": "A Ukrainian drone attack on Russian regions has resulted in 8 killed and over 60 wounded, indicating a significant escalation in conflict and potential threat to aviation and personnel in the region.",
+      "immediate_forecast_24h": "Increased tensions between Ukraine and Russia, potential for retaliatory attacks, and heightened security measures in the region.",
+      "strategic_outlook": "Long-term instability in the region, potential for ongoing conflict, and increased risk to assets, cargo, aviation, and personnel.",
+      "operational_impact": "Potential disruptions to transport and logistics in the region, increased security protocols for aviation and personnel, and heightened risk of attacks on critical infrastructure.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "ac16e15f654547ecfcf5395841516d43",
+    "timestamp": "2026-07-18T11:14:58.303083",
+    "original_title": "Iran War Live Updates: Fighting Intensifies With Strikes on Critical Infrastructure",
+    "link": "https://www.nytimes.com/live/2026/07/18/world/iran-war-strikes-trump-hormuz",
+    "source_name": "NewYork Times",
     "ai_analysis": {
       "category": "Conflict",
       "risk_score": 8,
-      "location": "Iran, Middle East",
+      "location": "Iran",
       "latitude": 32.0,
       "longitude": 53.0,
-      "detailed_analysis": "The U.S. military has completed strikes against Iran, which may lead to disruptions in shipping and potential retaliation, posing a significant threat to assets, cargo, aviation, and personnel in the region.",
-      "immediate_forecast_24h": "Increased tensions and potential for further military action, with possible disruptions to shipping lanes and air traffic in the region.",
-      "strategic_outlook": "Long-term escalation of conflict could lead to sustained disruptions to global supply chains, increased insurance costs, and heightened security measures for transport and logistics operations.",
-      "operational_impact": "Shipping and aviation operations in the region may be impacted, with potential for delays, rerouting, or cancellation of flights and shipments, and increased security protocols for personnel and assets.",
+      "detailed_analysis": "The escalation of fighting between the U.S. and Iran, with strikes on critical infrastructure such as water facilities, poses a significant threat to assets, cargo, aviation, and personnel in the region.",
+      "immediate_forecast_24h": "Increased military activity and potential for further strikes on critical infrastructure, which may disrupt logistics and transportation operations.",
+      "strategic_outlook": "Prolonged conflict could lead to long-term instability in the region, affecting global supply chains and aviation routes.",
+      "operational_impact": "Potential disruptions to air traffic, cargo shipments, and personnel movements due to the conflict, with possible rerouting of flights and cargo vessels to avoid the affected areas.",
       "proximity_alert": null
-    }
-  },
-  {
-    "id": "af860670ea0501d0af8558cfd3434228",
-    "timestamp": "2026-07-18T10:00:08.806251",
-    "original_title": "Hegseth again backs a low-altitude military flyover as maneuvers draw scrutiny - WPLN News",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQnZOZzlOSmdMZFVQS0dpeFEyeU1RZ3ROMDRTTklldExWdG1KeFUtYkxQVjkydGtNbWx5SkdhZzBubG83aWt2RTcwYUJmQlJLcTVPLTNLblB3b1ZkNEZ3ZVhBMTQ3MC1vVkJSanY1QzRnYXhoVVNqUE95U1VvQlpEYlh1VzNnUGhDTjZhX1cxMlFoMHlwTFlnN1dlam12cnlJeU00?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Aviation",
-      "risk_score": 2,
-      "location": "Nashville, USA",
-      "latitude": 36.1627,
-      "longitude": -86.7816,
-      "detailed_analysis": "The event involves a low-altitude military flyover, which has drawn scrutiny. However, there is no indication of a direct threat to assets, cargo, aviation, or personnel.",
-      "immediate_forecast_24h": "No significant changes expected in the next 24 hours, as the flyover is a planned maneuver.",
-      "strategic_outlook": "The use of low-altitude military flyovers may continue to draw scrutiny, but it is unlikely to pose a significant threat to aviation or logistics in the long term.",
-      "operational_impact": "Minimal impact expected on transport and logistics, as the flyover is a controlled event.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "99412fd352189ab43e2094ae19ce8427",
-    "timestamp": "2026-07-18T10:00:15.047333",
-    "original_title": "US Democrats divided over support for Israel ahead of midterm elections",
-    "link": "https://www.france24.com/en/americas/20260718-us-democrats-divided-over-support-for-israel-ahead-of-midterm-elections",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict/Civil Unrest",
-      "risk_score": 10,
-      "location": "Washington D.C., USA",
-      "latitude": 38.8951,
-      "longitude": -77.0364,
-      "detailed_analysis": "The division among US Democrats over support for Israel may lead to increased tensions and protests, potentially affecting personnel and operations in the region, but does not directly indicate a threat to assets, cargo, or aviation at this time.",
-      "immediate_forecast_24h": "No immediate escalation expected, but the situation will be closely monitored for any signs of increased unrest or direct threats to transport and logistics.",
-      "strategic_outlook": "The erosion of support for Israel among left-leaning voters could lead to long-term shifts in US policy, potentially impacting regional stability and transport operations, especially if it affects military aid or diplomatic relations.",
-      "operational_impact": "Currently, there is no direct operational impact on transport or logistics, but any future changes in US policy towards Israel could indirectly affect cargo movements, aviation operations, or personnel safety in the region.",
-      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
     }
   }
 ]

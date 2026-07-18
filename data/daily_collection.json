@@ -226,5 +226,43 @@
       "operational_impact": "Currently, there is no direct operational impact on transport or logistics, but any future changes in US policy towards Israel could indirectly affect cargo movements, aviation operations, or personnel safety in the region.",
       "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
     }
+  },
+  {
+    "id": "35f1c4d276959ed61e23b5201555ebde",
+    "timestamp": "2026-07-18T11:14:53.440806",
+    "original_title": "8 killed and more than 60 wounded in Ukrainian drone attack on Russian regions - NPR",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSm53ZDZMX3FYRERGWm9YcmVoRlBqOEFGelpNWmRfdnJkSnJvdjR0U2dZb0VQR0IzWE9IMkRTUGxGOXBWa0ZKbjY1RVRzaFFPdWVyaFdrcTB6OThiMFMtRE84eHFsdGNxNVEyQ1dRZVQ2Rk5ndHRXV3B6dEhjUlpXQmN4ZUZ5OUVuUlhmQWY0YW5NWVVqQlBrSEF0UnlpY1RWRDI2UWxWY0pGUkN2N0RRLW43TUJPQzk5SUNtLVUzZGU?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Russian regions, Russia",
+      "latitude": 60.0,
+      "longitude": 100.0,
+      "detailed_analysis": "A Ukrainian drone attack on Russian regions has resulted in 8 killed and over 60 wounded, indicating a significant escalation in conflict and potential threat to aviation and personnel in the region.",
+      "immediate_forecast_24h": "Increased tensions between Ukraine and Russia, potential for retaliatory attacks, and heightened security measures in the region.",
+      "strategic_outlook": "Long-term instability in the region, potential for ongoing conflict, and increased risk to assets, cargo, aviation, and personnel.",
+      "operational_impact": "Potential disruptions to transport and logistics in the region, increased security protocols for aviation and personnel, and heightened risk of attacks on critical infrastructure.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "ac16e15f654547ecfcf5395841516d43",
+    "timestamp": "2026-07-18T11:14:58.303083",
+    "original_title": "Iran War Live Updates: Fighting Intensifies With Strikes on Critical Infrastructure",
+    "link": "https://www.nytimes.com/live/2026/07/18/world/iran-war-strikes-trump-hormuz",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The escalation of fighting between the U.S. and Iran, with strikes on critical infrastructure such as water facilities, poses a significant threat to assets, cargo, aviation, and personnel in the region.",
+      "immediate_forecast_24h": "Increased military activity and potential for further strikes on critical infrastructure, which may disrupt logistics and transportation operations.",
+      "strategic_outlook": "Prolonged conflict could lead to long-term instability in the region, affecting global supply chains and aviation routes.",
+      "operational_impact": "Potential disruptions to air traffic, cargo shipments, and personnel movements due to the conflict, with possible rerouting of flights and cargo vessels to avoid the affected areas.",
+      "proximity_alert": null
+    }
   }
 ]
