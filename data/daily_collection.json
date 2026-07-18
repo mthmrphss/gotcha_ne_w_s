@@ -74,5 +74,24 @@
       "operational_impact": "The diversion may have caused delays and disruptions to the flight schedule, but the impact is expected to be minimal. The incident does not appear to be related to any broader security threats.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "b4e2041f94456d8d22640b87229701d4",
+    "timestamp": "2026-07-18T04:09:08.328940",
+    "original_title": "Iran War Updates: Bridges and Water Plants Hit as Strikes Stretch to 7th Straight Day",
+    "link": "https://www.nytimes.com/live/2026/07/17/world/iran-war-trump-hormuz",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Iran, Gulf countries",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The ongoing conflict between the U.S. and Iran has resulted in strikes on infrastructure, including bridges and water plants, which can impact civilian purposes and may affect logistics and transportation in the region.",
+      "immediate_forecast_24h": "Further escalation of the conflict is expected, with potential for additional strikes on critical infrastructure, posing a significant threat to aviation, cargo, and personnel in the region.",
+      "strategic_outlook": "The long-term impact of the conflict may lead to increased instability in the region, potentially disrupting global supply chains and affecting trade routes, with a heightened risk of terrorism and cyber attacks.",
+      "operational_impact": "The conflict may cause disruptions to air traffic, cargo shipments, and personnel movements, with potential for airport closures, flight restrictions, and increased security measures, affecting the operational capacity of logistics and transportation companies in the region.",
+      "proximity_alert": null
+    }
   }
 ]
