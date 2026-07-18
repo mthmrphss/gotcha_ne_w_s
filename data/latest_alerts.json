@@ -55,5 +55,43 @@
       "operational_impact": "Potential disruptions to air transport and logistics in the region, increased security protocols for personnel and cargo, and heightened risk of attacks on aviation and transport infrastructure",
       "proximity_alert": "YAKIN TEHDİT: Queen Alia International Airport (25 km)"
     }
+  },
+  {
+    "id": "7364844c329536c48e218eb7303fd47e",
+    "timestamp": "2026-07-18T21:58:32.573293",
+    "original_title": "2 U.S. service members killed, 1 missing after Iranian attack in Jordan - NPR",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcHdrMGtDbk9GejZad2dqd0k2TWVKSnYxcVhpVHNPbDVKU0xyOEJSXzhHbzEzTl9EOE1jVjNSZnIydVdObUFCNXEtZXN5dW1qU2RfUXdqX28zSVJCaE1vTkN1NHA1SjZiMHVzNUt1VkdKVTFoZ0tPYjJZV3hJLU81OTVxRGgwMGJq?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 8,
+      "location": "Jordan",
+      "latitude": 31.0,
+      "longitude": 36.0,
+      "detailed_analysis": "Iranian attack in Jordan resulted in the death of 2 U.S. service members and 1 missing, indicating a high level of threat to personnel and potential escalation of conflict in the region.",
+      "immediate_forecast_24h": "Increased tensions between the U.S. and Iran, potential for retaliatory actions, and heightened security measures in the region.",
+      "strategic_outlook": "Long-term implications for regional stability, potential for increased military presence, and impact on global relations between the U.S. and Iran.",
+      "operational_impact": "Potential disruptions to aviation and logistics operations in the region, increased security protocols, and possible restrictions on personnel movement.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "b999a13d1173f9c5f70a3af32fcab411",
+    "timestamp": "2026-07-18T21:58:38.218433",
+    "original_title": "Members of the European Parliament blocked from inspecting Italy's migrant detention centre",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1v08bej/members_of_the_european_parliament_blocked_from/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Border/Civil Unrest",
+      "risk_score": 4,
+      "location": "Italy",
+      "latitude": 43.171855,
+      "longitude": 12.515312,
+      "detailed_analysis": "Members of the European Parliament were blocked from inspecting Italy's migrant detention centre, which could lead to increased tensions and potential unrest at the facility, affecting transport and logistics in the area.",
+      "immediate_forecast_24h": "Protests or demonstrations may occur outside the detention centre, potentially disrupting local traffic and transport operations.",
+      "strategic_outlook": "The incident may escalate into a larger controversy, affecting Italy's relations with the European Union and potentially impacting the country's border control and migration policies.",
+      "operational_impact": "Transport and logistics operations in the area may be affected by potential protests or unrest, and companies should be prepared for possible disruptions to their supply chains.",
+      "proximity_alert": null
+    }
   }
 ]
