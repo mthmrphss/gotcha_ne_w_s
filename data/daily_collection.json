@@ -625,5 +625,43 @@
       "operational_impact": "The attack is likely to disrupt air travel and logistics in the region, with potential for delays and cancellations. Personnel and cargo in the area may be at risk, and alternative routes and contingency plans should be considered.",
       "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
     }
+  },
+  {
+    "id": "2ddd2f19dac374f07441a3ee13ef5fbd",
+    "timestamp": "2026-07-19T17:05:30.758728",
+    "original_title": "Iran War Live Updates: U.S. and Iran Edge Closer to Wider War After U.S. Soldiers Killed",
+    "link": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Middle East",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The escalation of tensions between the US and Iran, with the US sending more warplanes to the Middle East and Iranian fire killing two US soldiers in Jordan, poses a significant threat to aviation and personnel in the region.",
+      "immediate_forecast_24h": "Increased military presence and heightened alertness are expected, with potential for further clashes or retaliatory actions.",
+      "strategic_outlook": "A wider conflict could have long-term implications for regional stability, global oil prices, and international relations, potentially disrupting cargo and aviation operations.",
+      "operational_impact": "Potential for flight restrictions, airspace closures, or increased security measures, affecting aviation and logistics operations in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "fbfbb865ae26eb20e59d6fcaf18cc8d6",
+    "timestamp": "2026-07-19T17:05:32.577417",
+    "original_title": "Russia Batters Kyiv in One of the Largest Missile Assaults of the War",
+    "link": "https://www.nytimes.com/2026/07/19/world/europe/russia-ukraine-strikes.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Kyiv, Ukraine",
+      "latitude": 50.4501,
+      "longitude": 30.5236,
+      "detailed_analysis": "The recent missile assault on Kyiv by Russia indicates a significant escalation in the conflict, posing a high risk to assets, cargo, aviation, and personnel in the region. The strikes on Russian warehouses by Ukraine suggest a retaliatory response, which may lead to further intensification of the conflict.",
+      "immediate_forecast_24h": "Increased military activity and potential for further missile strikes in the region, with possible disruptions to air traffic and logistics operations.",
+      "strategic_outlook": "The ongoing conflict may lead to a prolonged period of instability in the region, affecting trade and transportation routes, with potential long-term consequences for the global supply chain.",
+      "operational_impact": "Potential disruptions to air traffic, logistics operations, and supply chains in the region, with possible delays or cancellations of flights and cargo shipments.",
+      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
+    }
   }
 ]
