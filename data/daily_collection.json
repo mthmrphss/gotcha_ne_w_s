@@ -663,5 +663,62 @@
       "operational_impact": "Potential disruptions to air traffic, logistics operations, and supply chains in the region, with possible delays or cancellations of flights and cargo shipments.",
       "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
     }
+  },
+  {
+    "id": "55f96f3ade4e749c880fa77a0832c43e",
+    "timestamp": "2026-07-19T18:29:36.016567",
+    "original_title": "Russia launches major ballistic-missile attack on Ukrainian cities - BBC",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84QTBiR1JBa1FZRGJFaWJiLUFIUjZxQlFHQkxUMWFWQTdSbFFOYmItNTBfLTROczJXTFFjWGhaSXZSTjhrWEtoU2dvOFVWVFU4UGZaT0Y2Y2lFdw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Ukrainian cities, Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "Russia has launched a major ballistic-missile attack on Ukrainian cities, posing a significant threat to assets, personnel, and aviation in the region.",
+      "immediate_forecast_24h": "Increased military activity and potential for further attacks, leading to heightened security measures and potential disruptions to transport and logistics.",
+      "strategic_outlook": "Long-term escalation of the conflict, potentially leading to increased instability and security risks in the region, with implications for global supply chains and trade.",
+      "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics operations in Ukraine and surrounding regions, with increased security protocols and potential for airspace restrictions.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "5813be0ef92795fc2b2af99d2390a0c9",
+    "timestamp": "2026-07-19T18:29:41.219602",
+    "original_title": "Alaska Airlines Boeing 787-9 is declaring an emergency off France coast, after U-turn over UK - airlive",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaTY1ZTFSYXZOWmVQajY0OHJtaDJpNUpxWm50V1hRaEJKZ2gtMFZySG4tT0ZxNUlrTTN3YjMyWExVOVVybFBudmhXMjRqSlRwN3NGVW5KbDFReDVwbVBlZFUyQlRTTm15c1FRRnN1Qmtxam5fS3ExSm9OUEJ0ZVNvMDBmajhLYjNwUFV6bUI0cnZlMkxxX1lINkdBYlU2SEVkLU9HQ3VEUDNrWWRraHhudFFmS0JsNXhLLVhiUG1tTU9LWllUX01ubXZJeGpMMjg?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 8,
+      "location": "Off France coast",
+      "latitude": 48.8567,
+      "longitude": -2.3508,
+      "detailed_analysis": "Alaska Airlines Boeing 787-9 declared an emergency off the France coast after making a U-turn over the UK, indicating a potential safety or security threat to the aircraft, its passengers, and crew.",
+      "immediate_forecast_24h": "The situation is being closely monitored, and the aircraft's emergency status may lead to further investigations or actions to ensure the safety of all on board and the surrounding airspace.",
+      "strategic_outlook": "This incident may have implications for aviation safety and security protocols, particularly in regards to emergency procedures and international cooperation in emergency situations.",
+      "operational_impact": "The emergency declaration may cause disruptions to flight schedules and air traffic in the region, potentially affecting other aircraft and passengers, as well as the operations of Alaska Airlines and its partners.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "60b3f9c5c1f28881533cb6d52e38cbb1",
+    "timestamp": "2026-07-19T18:29:44.238579",
+    "original_title": "Israel says Iran missile towards Jordan's Aqaba intercepted",
+    "link": "https://www.france24.com/en/israel-says-iran-missile-towards-jordan-s-aqaba-intercepted",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 10,
+      "location": "Aqaba, Jordan",
+      "latitude": 29.5167,
+      "longitude": 35.0,
+      "detailed_analysis": "Iranian missile aimed at Jordan's Aqaba was intercepted by Israeli and Jordanian forces, indicating an escalation of conflict in the region with potential threats to aviation and personnel",
+      "immediate_forecast_24h": "Heightened security measures are expected in the region, with potential for further missile launches or retaliatory actions, affecting air travel and cargo operations",
+      "strategic_outlook": "The escalation of conflict between Israel and Iran poses a long-term threat to regional stability, potentially disrupting air traffic and logistics in the Middle East",
+      "operational_impact": "Air travel and cargo operations in the region may be affected by increased security measures, potential airspace restrictions, and heightened risk of missile attacks",
+      "proximity_alert": "YAKIN TEHDİT: King Hussein International Airport (10 km)"
+    }
   }
 ]
