@@ -1,154 +1,97 @@
 [
   {
-    "id": "8a710de72aa26a40c5480a3b40f97a57",
-    "timestamp": "2026-07-20T10:17:19.581848",
-    "original_title": "U.S. teeters on all-out war with Iran after more troops are killed - The Washington Post",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQV0dwdFhtR3dBNU1kQ1RnR1lBaV9mck9PdlpWb3hLSzlJWFRMellfc05nN3FXRGZlcmNQa1hIb052WU9UOFNWSlB6RWpzNHgtZjVRTmxPWFpoQTV0NlRGQjhsRXdFUjZoQ19abWZIM25PUF9SdjlNQzNaUkhtaEJlc0lXdzUxYVhuYmk2ckxzUV9NUTZ1NTdmak1sV0xEQ0VMbkg1Yng5MTVjUVpkLXJYeUF6QTlzclR5TE9LUGVpRC03OE0?oc=5",
-    "source_name": "Google News (Breaking)",
+    "id": "e43e0e8e3d4fc20edfa75347a0577bdf",
+    "timestamp": "2026-07-20T12:33:15.807273",
+    "original_title": "Another U.S. Service Member Is Killed as Iran War Expands",
+    "link": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz",
+    "source_name": "NewYork Times",
     "ai_analysis": {
-      "category": "Conflict",
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 10,
+      "location": "Northern Iraq, Iraq",
+      "latitude": 36.2389,
+      "longitude": 43.1376,
+      "detailed_analysis": "A U.S. service member was killed in northern Iraq while disposing of an Iranian drone, indicating heightened tensions and potential for further conflict in the region, posing a significant threat to aviation and personnel safety.",
+      "immediate_forecast_24h": "Increased military presence and heightened security measures are expected in the region, with potential for retaliatory attacks or drone sightings, affecting aviation operations and personnel movement.",
+      "strategic_outlook": "The expanding conflict between the U.S. and Iran may lead to prolonged instability in the region, impacting transport and logistics operations, particularly for cargo and personnel, and potentially disrupting global supply chains.",
+      "operational_impact": "Aviation and logistics operations in the region may be disrupted or suspended due to the increased risk of drone sightings, attacks, or other security threats, requiring enhanced security protocols and contingency planning.",
+      "proximity_alert": "YAKIN TEHDİT: Mosul International Airport (6 km)"
+    }
+  },
+  {
+    "id": "53168661c7ddc47831b0ee18b4796283",
+    "timestamp": "2026-07-20T12:33:17.790065",
+    "original_title": "Zelensky Faces Pressure to Remove Ukraine’s Top General",
+    "link": "https://www.nytimes.com/2026/07/20/world/europe/ukraine-zelensky-general-defense-minister.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Kyiv, Ukraine",
+      "latitude": 50.4501,
+      "longitude": 30.5236,
+      "detailed_analysis": "The situation in Ukraine is volatile due to the pressure on President Zelensky to remove the top general, which could lead to instability and potential unrest affecting aviation and logistics operations.",
+      "immediate_forecast_24h": "Increased protests and demonstrations are expected, potentially disrupting air travel and cargo operations in and out of Ukraine.",
+      "strategic_outlook": "The long-term impact could be significant if the situation escalates, affecting not just Ukraine but regional stability and global supply chains.",
+      "operational_impact": "Potential delays or cancellations of flights, increased security measures at airports, and possible disruptions to cargo transport and logistics operations in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
+    }
+  },
+  {
+    "id": "d391d23f505d7930d3433923f395a8c8",
+    "timestamp": "2026-07-20T12:33:20.133955",
+    "original_title": "Alaska Airlines 787-9 Declares Emergency Over Atlantic - FTN news",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdEZJY1U0TmQyejRSdU5BWmNjUTVBYW51RE5nWkFPd1VIZHpCR2VwRmQtcl94MUdtUEFvWVFaQzRsZkpFWDZEOU5EQ3FNeXJJVFROeHViUk9iNHZ6eVRpczJwRC1JX0k4NUZXRmgxRmNZRXRvS2tOc1E1cFFKVDdCak1pTEV5Ny1vM0JoQlJpV2tuelZjOUtfUWxVeno?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
       "risk_score": 8,
-      "location": "Middle East",
-      "latitude": 32.0,
-      "longitude": 53.0,
-      "detailed_analysis": "The U.S. and Iran are on the brink of all-out war after the killing of more troops, which could lead to significant disruptions in the region, including potential attacks on aviation and cargo assets.",
-      "immediate_forecast_24h": "Increased tensions and potential military action between the U.S. and Iran, with possible retaliatory attacks on U.S. interests and assets in the region.",
-      "strategic_outlook": "A prolonged conflict could lead to long-term instability in the region, affecting global oil supplies, trade routes, and aviation security, with potential spillover effects on other countries and regions.",
-      "operational_impact": "Potential disruptions to air travel, cargo shipments, and logistics operations in the region, with possible increased security measures and restrictions on personnel movement.",
+      "location": "Atlantic Ocean",
+      "latitude": 40.0,
+      "longitude": -30.0,
+      "detailed_analysis": "Alaska Airlines 787-9 declared emergency over the Atlantic, indicating a potential threat to aviation safety and security, possibly due to technical issues, medical emergencies, or other unforeseen circumstances.",
+      "immediate_forecast_24h": "The situation is being monitored, and the aircraft's emergency status may lead to changes in flight routes or cancellations, potentially affecting air traffic and passenger travel plans.",
+      "strategic_outlook": "This incident may lead to increased scrutiny of aircraft maintenance, crew training, and emergency response procedures, potentially impacting the aviation industry's safety and security protocols in the long term.",
+      "operational_impact": "The emergency declaration may cause disruptions to Alaska Airlines' operations, potentially affecting cargo and passenger transport, and leading to delays or cancellations of flights.",
       "proximity_alert": null
     }
   },
   {
-    "id": "b2f3299d845a763c75be4d7e57d4b2b2",
-    "timestamp": "2026-07-20T10:17:22.110501",
-    "original_title": "Turkiye and Libya’s Haftar are boosting military ties. Is Egypt worried? - Al Jazeera",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYmZjM003cXIzNHZsYm5JYXhmWEVFc2lsNzlEalpwYk56MDFaeV9PdEtWREw1TWVXcnBLaldsby13a3hYUERKNDByYW9oTjNzWGNXWm1rSzdtLXV2T3g0V3kwNjQteENIRnFtMVRBZzZ5SlBncUN5T2VLSk1CeTZtcVZ0REk1blJ1ckdmWnFkRmYtbEZYMjVZVGlCSEpSbTlEQm5qcV9pY21PSXVqWmJj0gG0AUFVX3lxTE1TZHJuNzNtTzFibkpEV3hLamRnb0h3Z0MxQ01pVHpNSHRJTzJ3RDhmMGV3V0xWalFTdjhybWlETDNYTnkwbHpLWGc4WmFReXJpdjdHcTRrZ24zb0NWSW5CTFVia2Frb1FKRDFrYnVNRnd0TlhIamt2TG9yNW1NbVdmcGJ6bTF0WVh6WWR6enFFTWJ3cEdBZ0syVGxyTmFpSGhaYldSWFU1MUhCRzBZb05BdUY4Uw?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 10,
-      "location": "Libya, Turkiye",
-      "latitude": 32.8667,
-      "longitude": 13.1833,
-      "detailed_analysis": "Turkiye and Libya's Haftar are boosting military ties, which may lead to increased tensions in the region and potentially impact aviation and cargo operations.",
-      "immediate_forecast_24h": "Increased military activity and potential for clashes in the region, which may disrupt air traffic and logistics.",
-      "strategic_outlook": "Long-term escalation of conflict in the region, potentially drawing in other countries and affecting regional stability and security.",
-      "operational_impact": "Potential disruption to air traffic, increased risk of airspace restrictions, and impact on cargo and logistics operations in the region.",
-      "proximity_alert": "YAKIN TEHDİT: Tripoli International Airport (22 km)"
-    }
-  },
-  {
-    "id": "4c1014853d7f3c7e370c3137e6c7abab",
-    "timestamp": "2026-07-20T10:17:25.104602",
-    "original_title": "Tehran and Washington Face a ‘Wake Up Moment’ Over the War",
-    "link": "https://www.nytimes.com/2026/07/20/world/middleeast/iran-united-states-escalation.html",
-    "source_name": "NewYork Times",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 10,
-      "location": "Tehran, Iran and Washington, USA",
-      "latitude": 35.6892,
-      "longitude": 51.389,
-      "detailed_analysis": "The escalating tensions between the U.S. and Iran pose a significant threat to regional stability, with a high risk of a wider war that could impact aviation, cargo, and personnel safety.",
-      "immediate_forecast_24h": "Increased military activity and heightened alertness are expected in the region, with a potential for further attacks or retaliations.",
-      "strategic_outlook": "A prolonged conflict could lead to significant disruptions to global supply chains, increased security measures, and potential losses for assets and personnel in the region.",
-      "operational_impact": "Transportation and logistics operations in the region may be severely impacted, with potential for flight restrictions, cargo delays, and increased security protocols.",
-      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
-    }
-  },
-  {
-    "id": "4cb0a0693aa980c9adbb16f7b6040551",
-    "timestamp": "2026-07-20T10:17:26.945061",
-    "original_title": "India’s CJP Party Leads Protest March to Parliament After Exam Leaks",
-    "link": "https://www.nytimes.com/2026/07/20/world/asia/india-protest-cjp-cockroach-jantar-mantar.html",
-    "source_name": "NewYork Times",
+    "id": "c53d162dc3553472c540ae540d51be41",
+    "timestamp": "2026-07-20T12:33:24.500005",
+    "original_title": "India's Cockroach party leads thousands of youth in protest to parliament",
+    "link": "https://www.france24.com/en/india-s-cockroach-party-leads-thousands-of-youth-in-protest-to-parliament",
+    "source_name": "France 24 ME",
     "ai_analysis": {
       "category": "Civil Unrest",
       "risk_score": 10,
       "location": "New Delhi, India",
       "latitude": 28.7041,
       "longitude": 77.1025,
-      "detailed_analysis": "Protest march to parliament due to exam leaks, potential for disruption to local transportation and logistics, but no direct threat to aviation, cargo, or personnel",
-      "immediate_forecast_24h": "Protests may continue, potentially causing traffic congestion and disruptions to local businesses",
-      "strategic_outlook": "The situation is likely to be contained by local authorities, with no long-term impact on national security or international trade",
-      "operational_impact": "Minimal impact on transport and logistics, with possible delays in local traffic and transportation",
+      "detailed_analysis": "The Cockroach party-led protest in India's capital, demanding the sacking of the education minister, has the potential to disrupt local transportation and logistics, but does not directly threaten assets, cargo, aviation, or personnel.",
+      "immediate_forecast_24h": "The protests may continue, potentially causing traffic congestion and disruptions in the city, but no significant escalation is expected in the next 24 hours.",
+      "strategic_outlook": "The youth-led movement may continue to grow, potentially leading to more widespread protests and demonstrations, but its impact on national security and transport infrastructure is expected to remain limited.",
+      "operational_impact": "The protests may cause minor disruptions to local transportation and logistics, but are unlikely to have a significant impact on national or international transport operations.",
       "proximity_alert": "YAKIN TEHDİT: Indira Gandhi International Airport (16 km)"
     }
   },
   {
-    "id": "d1c830d7d8e1a4db80c707da587c7e23",
-    "timestamp": "2026-07-20T10:17:30.503788",
-    "original_title": "War in Iran expands as third US soldier killed since end of ceasefire",
-    "link": "https://www.france24.com/en/war-in-iran-expands-as-third-us-soldier-killed-since-end-of-ceasefire",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict/Aviation",
-      "risk_score": 8,
-      "location": "Iraq",
-      "latitude": 33.2232,
-      "longitude": 43.6793,
-      "detailed_analysis": "The expansion of the war in Iran and the death of a third US soldier in Iraq due to the controlled detonation of a downed Iranian drone indicates a heightened threat to aviation and personnel in the region.",
-      "immediate_forecast_24h": "Increased military activity and potential for further drone sightings or attacks in the region, posing a risk to aviation and personnel.",
-      "strategic_outlook": "The ongoing conflict may lead to prolonged instability in the region, affecting transport and logistics operations, particularly in Iraq and Iran.",
-      "operational_impact": "Potential disruptions to air traffic, increased security measures, and heightened risk of attacks on personnel and assets in the region.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "2e88a843128c64e1dae17c2a10ae1011",
-    "timestamp": "2026-07-20T10:17:33.436897",
-    "original_title": "Israeli Airline Says ‘Foul Play’ Likely Responsible For Third Damaged Plane at London Airport in Less Than a Year",
-    "link": "https://www.paddleyourownkanoo.com/2026/07/20/israeli-airline-says-foul-play-likely-responsible-for-third-damaged-plane-at-london-airport-in-less-than-a-year/",
-    "source_name": "Paddle Your Own Kanoo",
-    "ai_analysis": {
-      "category": "Aviation/Crime",
-      "risk_score": 7,
-      "location": "London, United Kingdom",
-      "latitude": 51.8746,
-      "longitude": -0.3683,
-      "detailed_analysis": "Deliberate targeting of Israir aircraft by vandals at London Luton Airport, with three incidents of ground service vehicles colliding with planes in less than a year, suggests a potential security threat to aviation assets and personnel.",
-      "immediate_forecast_24h": "Increased security measures are likely to be implemented at London Luton Airport to prevent further incidents, and an investigation into the incidents will be conducted.",
-      "strategic_outlook": "The repeated incidents of vandalism at London Luton Airport may indicate a larger security issue, potentially related to terrorism or organized crime, which could have long-term implications for the safety and security of aviation assets and personnel.",
-      "operational_impact": "The incidents may cause disruptions to flight operations, potentially leading to delays or cancellations, and may also impact the reputation of London Luton Airport and Israir Airlines.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "4d5a36d69b709abb28d0a7eba17ac59f",
-    "timestamp": "2026-07-20T10:17:36.305101",
-    "original_title": "Is it safe to travel to Jordan? Updated advice after missiles intercepted",
-    "link": "https://www.independent.co.uk/travel/news-and-advice/jordan-travel-advice-safe-iran-war-middle-east-aqaba-b3017942.html",
+    "id": "1e1c0210ca7e664ed7679f17cebbbbf0",
+    "timestamp": "2026-07-20T12:33:27.489766",
+    "original_title": "Is it safe to travel to Dubai and Abu Dhabi? Latest advice after Iran strikes in the region",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/dubai-abu-dhabi-uae-is-it-safe-foreign-office-advice-iran-war-b3017964.html",
     "source_name": "Independent Travel",
     "ai_analysis": {
-      "category": "Aviation/Conflict",
+      "category": "Conflict/Terrorism",
       "risk_score": 10,
-      "location": "Aqaba, Jordan",
-      "latitude": 29.5167,
-      "longitude": 35.0,
-      "detailed_analysis": "Missiles were intercepted near Aqaba's airport and seaport, indicating a significant threat to aviation and cargo operations in the area.",
-      "immediate_forecast_24h": "Increased security measures are expected in the short term, with potential disruptions to air and sea traffic.",
-      "strategic_outlook": "The long-term impact will depend on the effectiveness of security measures and the ability to prevent future missile threats, but it may lead to increased security protocols and potential rerouting of cargo and flights.",
-      "operational_impact": "Transport and logistics operations in Aqaba may experience delays or disruptions due to enhanced security checks and potential airspace or sea lane restrictions.",
-      "proximity_alert": "YAKIN TEHDİT: King Hussein International Airport (10 km)"
-    }
-  },
-  {
-    "id": "43344101c073a219d65a8083735b6807",
-    "timestamp": "2026-07-20T10:17:38.301845",
-    "original_title": "Ryanair profits slump as Iran war sends jet fuel prices soaring",
-    "link": "https://www.independent.co.uk/news/business/ryanair-share-price-profits-fares-b3017990.html",
-    "source_name": "Independent Travel",
-    "ai_analysis": {
-      "category": "Conflict/Aviation",
-      "risk_score": 6,
-      "location": "Iran",
-      "latitude": 32.0,
-      "longitude": 53.0,
-      "detailed_analysis": "The Iran war has led to an increase in jet fuel prices, affecting Ryanair's profits. This could have a ripple effect on the aviation industry, potentially impacting flight schedules, routes, and overall operations.",
-      "immediate_forecast_24h": "Fuel prices may continue to rise, and airlines may start to adjust their routes or schedules to mitigate the impact. There is a possibility of increased tensions in the region, which could lead to further disruptions.",
-      "strategic_outlook": "The ongoing conflict in Iran may lead to a long-term increase in fuel prices, affecting the aviation industry's profitability and potentially leading to changes in the global air travel market.",
-      "operational_impact": "Airlines may need to adjust their operations to account for increased fuel costs, which could lead to changes in flight schedules, routes, and passenger demand. This may also impact cargo operations, as airlines may need to prioritize passenger flights over cargo flights.",
-      "proximity_alert": null
+      "location": "Dubai, UAE",
+      "latitude": 25.276987,
+      "longitude": 55.296249,
+      "detailed_analysis": "The recent Iran strikes in the region pose a threat to travel safety in Dubai and Abu Dhabi, despite the UK's Foreign Office lifting its travel advisory on the UAE last month.",
+      "immediate_forecast_24h": "Increased security measures are expected in the region, with potential for further strikes or retaliatory actions.",
+      "strategic_outlook": "The situation is likely to remain volatile in the short term, with potential long-term implications for regional stability and travel safety.",
+      "operational_impact": "Potential disruptions to air travel, cargo operations, and logistics in the region, with increased security checks and protocols likely to be implemented.",
+      "proximity_alert": "YAKIN TEHDİT: DUBAİ (25 km)"
     }
   }
 ]
