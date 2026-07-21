@@ -131,5 +131,24 @@
       "operational_impact": "Potential disruptions to air traffic, increased security measures at airports, and heightened risk of attacks on aviation assets and personnel in the region.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "3c2b0207cf0b60cfa7a572fb49a2a31c",
+    "timestamp": "2026-07-21T06:12:30.011165",
+    "original_title": "Live: Iran Revolutionary Guards say they hit US radar and air defence systems in Bahrain and Kuwait",
+    "link": "https://www.france24.com/en/middle-east/20260721-live-lebanon-s-aoun-to-meet-trump-as-pressure-builds-to-disarm-hezbollah",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 10,
+      "location": "Bahrain and Kuwait",
+      "latitude": 29.0379,
+      "longitude": 47.9262,
+      "detailed_analysis": "Iran's Revolutionary Guards have launched a strike on US military targets, including air defence systems and a radar installation in Bahrain and Kuwait, in response to US strikes on Iranian military command centres. This escalation poses a significant threat to aviation and regional stability.",
+      "immediate_forecast_24h": "Increased tensions and potential for further military action between the US and Iran, with possible disruptions to air traffic and logistics in the region.",
+      "strategic_outlook": "Prolonged conflict could lead to a significant increase in risk for assets, cargo, aviation, and personnel in the Middle East, with potential for spill-over effects into other regions.",
+      "operational_impact": "Possible disruptions to air traffic, increased security measures, and potential for delays or cancellations of flights and cargo shipments in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Kuwait International Airport (20 km)"
+    }
   }
 ]
