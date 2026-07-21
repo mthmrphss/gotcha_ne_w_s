@@ -150,5 +150,43 @@
       "operational_impact": "Possible disruptions to air traffic, increased security measures, and potential for delays or cancellations of flights and cargo shipments in the region.",
       "proximity_alert": "YAKIN TEHDİT: Kuwait International Airport (20 km)"
     }
+  },
+  {
+    "id": "5b8ee791403b03ac12f937e632fe9259",
+    "timestamp": "2026-07-21T09:11:31.039421",
+    "original_title": "Southwest Airlines Flight WN4761 Declares Emergency - FTN news",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcEdTeXBGNGZzMXhRLVZHZVdUM0ZDRkhPcFZweEJQRzc5OUxpUDZ3Nm9EYTBSSjVxdm0tTUxBOS0zVE9DU0Rkck15RFczd0dGdkVjdnlodzA0Y19aTktiLXNZckFSQXVOSXdEOHE2Skh6Q01hem9NQzBZTDA0YzY4OG5UT1VnTEVGb2R4eVd5NTJpd1g0QnY4Zw?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 8,
+      "location": "Unknown, USA",
+      "latitude": 37.0902,
+      "longitude": -95.7129,
+      "detailed_analysis": "Southwest Airlines Flight WN4761 declared an emergency, the cause and details of which are not specified in the provided context. This could potentially indicate a serious issue affecting the safety of the flight, such as a mechanical failure, medical emergency, or security threat.",
+      "immediate_forecast_24h": "The situation is likely to be resolved within the next 24 hours as more information becomes available. The emergency declaration may lead to an investigation to determine the cause and to ensure the safety of future flights.",
+      "strategic_outlook": "In the long term, this incident may lead to a review of safety procedures and protocols by Southwest Airlines and regulatory bodies to prevent similar emergencies in the future. It could also impact public perception of the airline's safety record.",
+      "operational_impact": "The immediate operational impact is likely to be minimal unless the emergency is related to a broader systemic issue. However, if the cause of the emergency is found to be a significant safety concern, it could lead to grounded flights, delays, or cancellations until the issue is resolved.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "ad401df6689dedcd02bfc6511fd327ae",
+    "timestamp": "2026-07-21T09:11:34.205953",
+    "original_title": "Demonstrations break out in Bologna after Moroccan man dies while being restrained by police",
+    "link": "https://www.france24.com/en/europe/20260721-demonstrations-break-out-in-bologna-after-moroccan-man-dies-while-being-restrained-by-police",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Bologna, Italy",
+      "latitude": 44.4949,
+      "longitude": 11.3426,
+      "detailed_analysis": "Demonstrations and clashes between protesters and police in Bologna, Italy, following the death of a Moroccan man while being restrained by police. The situation may lead to disruptions in local transportation and logistics.",
+      "immediate_forecast_24h": "Increased police presence and potential for further protests and clashes, which may cause traffic disruptions and delays in the city.",
+      "strategic_outlook": "The situation is likely to be contained by local authorities, but it may lead to increased tensions and protests in the coming days, potentially affecting the city's transportation infrastructure.",
+      "operational_impact": "Potential disruptions to local transportation, including road closures and delays, which may impact cargo and personnel movement in the area.",
+      "proximity_alert": "YAKIN TEHDİT: Bologna Guglielmo Marconi Airport (6 km)"
+    }
   }
 ]
