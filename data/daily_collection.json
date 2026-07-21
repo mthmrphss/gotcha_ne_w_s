@@ -397,5 +397,62 @@
       "operational_impact": "Potential disruptions to cargo and aviation operations in the region due to increased tensions and potential conflict.",
       "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
     }
+  },
+  {
+    "id": "26650e9089886fd81eb2389690588657",
+    "timestamp": "2026-07-21T18:19:59.275710",
+    "original_title": "Man arrested after fentanyl investigation chase ends in business crash - ABC7 WWSB",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeTRNOEN3czQ0X0ZLTEtKY2Q4cTFqNVpKMGFRYWhrOTRkQW1ZWHg5NERjalJjYzY4Z0RwQVlac0I3OHNNVmlGdEpkdWlFMkNHUWRtTzVHOUxNSi1QMmo0eGIyVWFRUE5BXzRKSmhmc0Z6QUxKTlI0d1pCeFNtcWo2VHZUejFwT3JGV052MURrOXdoa1BjMy14U2xmSUsxaUV2UkNyMEFjS0laZE5pczNZYXRR?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Crime",
+      "risk_score": 6,
+      "location": "Sarasota, USA",
+      "latitude": 27.3364,
+      "longitude": -82.5307,
+      "detailed_analysis": "A man was arrested after a fentanyl investigation led to a high-speed chase that ended in a crash at a business. The incident highlights the risk of drug-related crime affecting logistics and transportation in the area.",
+      "immediate_forecast_24h": "Increased police presence and surveillance in the area, potential for further arrests or seizures related to the fentanyl investigation.",
+      "strategic_outlook": "The incident underscores the ongoing issue of drug trafficking and smuggling in the region, which could lead to increased security measures and scrutiny of cargo and personnel.",
+      "operational_impact": "Potential delays or disruptions to logistics and transportation operations in the area due to increased security checks or law enforcement activity.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "bf256eac425ebfdf3a612380023f0e77",
+    "timestamp": "2026-07-21T18:20:03.961743",
+    "original_title": "Iran says it attacked Amazon infrastructure in Bahrain",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1v2p8y3/iran_says_it_attacked_amazon_infrastructure_in/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Cyber/Conflict",
+      "risk_score": 10,
+      "location": "Bahrain",
+      "latitude": 26.0667,
+      "longitude": 50.5667,
+      "detailed_analysis": "Iran's reported attack on Amazon infrastructure in Bahrain poses a significant threat to global logistics and supply chain operations, potentially disrupting critical services and impacting businesses that rely on Amazon's cloud infrastructure.",
+      "immediate_forecast_24h": "Increased cyber security measures are expected to be implemented by Amazon and other cloud service providers in the region, with potential for retaliatory cyber attacks from other nations or entities.",
+      "strategic_outlook": "The long-term implications of this attack could lead to increased tensions between Iran and other nations, potentially destabilizing the region and impacting global trade and commerce.",
+      "operational_impact": "Transport and logistics operations in the region may experience disruptions due to increased security measures, potential cyber attacks, and geopolitical tensions, highlighting the need for enhanced risk management and contingency planning.",
+      "proximity_alert": "YAKIN TEHDİT: Bahrain International Airport (23 km)"
+    }
+  },
+  {
+    "id": "be03a13bbae4e70f406be37891b204c5",
+    "timestamp": "2026-07-21T18:20:06.431891",
+    "original_title": "How the War with Iran is Shaping Key U.S. Relations Beyond the Middle East",
+    "link": "https://warontherocks.com/how-the-war-with-iran-is-shaping-key-u-s-relations-beyond-the-middle-east/",
+    "source_name": "War on the Rocks",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 6,
+      "location": "Middle East",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The U.S. war with Iran has had significant implications on U.S. bilateral relations with key countries, including South Korea, India, Ukraine, France, and the United Kingdom, potentially affecting global transport and logistics operations.",
+      "immediate_forecast_24h": "Increased tensions between the U.S. and Iran may lead to heightened security measures in the region, potentially disrupting air and sea transport.",
+      "strategic_outlook": "The conflict may have long-term effects on global trade and diplomacy, particularly if it escalates or spreads to other regions, impacting the stability of transport and logistics operations.",
+      "operational_impact": "Potential disruptions to air and sea transport in the Middle East, as well as increased security measures, may affect cargo and personnel movement in the region.",
+      "proximity_alert": null
+    }
   }
 ]
