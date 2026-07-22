@@ -1,40 +1,78 @@
 [
   {
-    "id": "b1009b328640cc716e8c6b6aafc212d3",
-    "timestamp": "2026-07-21T23:02:40.956688",
-    "original_title": "Afghanistan/Pakistan: Deadly Pakistan air strikes on Kabul drug rehab centre should be investigated as possible war crime – new investigation - Amnesty International",
-    "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPQ21PVWRRa19LTjVmYlB3R0JqbTFRemdzc1Vtc0lSaGdDczgzUUxrYzN2d3dJZjhpUnU0SVNFdm1YTUxqYzJYcUktaF8wYUdjNVV4R1QyTUNEUzZiTWZiN3FPV3FsYVlGWldIVXl1dGxLbnJ2SC10RGQ1dTd4eEc2ajFlNmJjVEhFdWpobEhTdWl4eURoX0VBcDJMSlUzZTF1dWdiblFZLV9ZSFFnTlJKV21uTjdnN1lqZHp4TWhpcms2SVlSeWJtZU9lcGMxRDRCOEZ3cXZzNzZITnpNR3ZrLXQzTVVXVUtrN1ZwWF9fbmd4aFYySlBsdW9QZ21POUJQTlozczYzZzc0VzNJMTZ4Z3ZqeVg?oc=5",
-    "source_name": "Google News (Breaking)",
+    "id": "4554cbd286bb51e2958b74e3f6240c6f",
+    "timestamp": "2026-07-22T00:57:14.908445",
+    "original_title": "Trump says US 'not finished' attacking Iran as conflict widens",
+    "link": "https://www.france24.com/en/middle-east/20260721-trump-says-us-not-finished-attacking-iran-as-conflict-widens",
+    "source_name": "France 24 ME",
     "ai_analysis": {
-      "category": "Aviation/Conflict/Crime",
-      "risk_score": 10,
-      "location": "Kabul, Afghanistan",
-      "latitude": 34.5281,
-      "longitude": 69.1723,
-      "detailed_analysis": "Pakistan air strikes on a drug rehab centre in Kabul may be considered a war crime, posing significant risks to aviation, personnel, and cargo in the region due to potential escalation of conflict and retaliatory actions.",
-      "immediate_forecast_24h": "Increased tensions between Pakistan and Afghanistan, potential for further airstrikes or retaliatory actions, heightened security measures at airports and border crossings.",
-      "strategic_outlook": "Long-term instability in the region, potential for increased terrorism and conflict, ongoing risks to aviation, cargo, and personnel, necessitating enhanced security protocols and contingency planning.",
-      "operational_impact": "Disruptions to air travel and cargo transport, potential for airport closures or restrictions, increased security checks and delays, risks to personnel and assets in the region.",
-      "proximity_alert": "YAKIN TEHDİT: Hamid Karzai International Airport (5 km)"
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Middle East",
+      "latitude": 29.5599,
+      "longitude": 47.6739,
+      "detailed_analysis": "The conflict between the US and Iran is escalating, with Tehran launching strikes on Gulf states and its Houthi allies threatening to blockade Saudi ports. This poses a significant threat to aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Increased military activity and potential for further strikes or retaliation, potentially disrupting air traffic and cargo operations.",
+      "strategic_outlook": "Prolonged conflict could lead to long-term instability in the region, affecting global supply chains and aviation operations. Diplomatic efforts may help de-escalate the situation, but the risk of miscalculation or unintended consequences remains high.",
+      "operational_impact": "Potential for flight disruptions, cargo delays, and increased security measures at airports and ports in the region. Shipping and logistics companies may need to re-route cargo or adjust operations to mitigate the risks.",
+      "proximity_alert": null
     }
   },
   {
-    "id": "cc6ed9f29812ff6c4986336a659cfd75",
-    "timestamp": "2026-07-21T23:02:44.371454",
-    "original_title": "Putin Thanks North Korea for Ukraine War Support as Kim-Putin Summit Speculation Grows",
-    "link": "https://www.reddit.com/r/geopolitics/comments/1v2wjnk/putin_thanks_north_korea_for_ukraine_war_support/",
-    "source_name": "Reddit r/Geopolitics",
+    "id": "de9cdffb024d7d3967954734f187e0b0",
+    "timestamp": "2026-07-22T00:57:16.696807",
+    "original_title": "Trump says will be hitting Iran's Pickaxe Mountain nuclear complex 'pretty soon'",
+    "link": "https://www.france24.com/en/trump-says-will-be-hitting-iran-s-pickaxe-mountain-nuclear-complex-pretty-soon",
+    "source_name": "France 24 ME",
     "ai_analysis": {
       "category": "Conflict",
+      "risk_score": 8,
+      "location": "Iran",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Potential US military strike on Iran's Pickaxe Mountain nuclear complex poses significant threat to regional stability and global security, with potential for escalation and impact on aviation and logistics in the region",
+      "immediate_forecast_24h": "Heightened tensions between US and Iran, potential for increased military activity and airspace restrictions",
+      "strategic_outlook": "Long-term implications for regional security, potential for increased conflict and instability, and impact on global energy markets and trade",
+      "operational_impact": "Potential disruptions to air traffic, increased security measures for cargo and personnel, and heightened risk of conflict-related incidents affecting transport and logistics in the region",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "38203e67c0f8921af987557d16676d8c",
+    "timestamp": "2026-07-22T00:57:18.718132",
+    "original_title": "Zelensky fires army chief Oleksandr Syrsky, ‌a 'victory for protestors'",
+    "link": "https://www.france24.com/en/zelensky-fires-army-chief-oleksandr-syrsky-a-victory-for-protestors",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
       "risk_score": 10,
-      "location": "Moscow, Russia",
-      "latitude": 55.7558,
-      "longitude": 37.6176,
-      "detailed_analysis": "The event involves Putin thanking North Korea for their support in the Ukraine war, which may lead to increased tensions and potential conflict escalation. A potential summit between Kim and Putin could further destabilize the region.",
-      "immediate_forecast_24h": "Increased diplomatic tensions between Russia and Western nations, potential for increased military activity in Ukraine",
-      "strategic_outlook": "Long-term escalation of the Ukraine conflict, potential for broader international involvement, and increased instability in the region",
-      "operational_impact": "Potential disruptions to air travel and logistics in the region, increased security measures for cargo and personnel",
-      "proximity_alert": "YAKIN TEHDİT: Vnukovo International Airport (27 km)"
+      "location": "Kyiv, Ukraine",
+      "latitude": 50.4501,
+      "longitude": 30.5236,
+      "detailed_analysis": "The firing of Ukraine's army chief Oleksandr Syrsky by President Zelensky may lead to short-term instability but is seen as a victory for protestors, potentially reducing civil unrest in the short term.",
+      "immediate_forecast_24h": "The situation is expected to remain volatile, with potential for further protests or demonstrations, but the immediate risk to assets, cargo, aviation, and personnel is considered low to moderate.",
+      "strategic_outlook": "The long-term impact of this change in military leadership on the conflict in Ukraine is uncertain and will depend on various factors, including the ability of the new commander-in-chief to effectively lead the military and the response of opposing forces.",
+      "operational_impact": "The change in leadership may have minimal direct impact on transport and logistics operations in the short term, but the ongoing conflict and potential for further instability could affect operations in Ukraine and the region.",
+      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
+    }
+  },
+  {
+    "id": "8a8eb02d767848592de78673a77fcdc1",
+    "timestamp": "2026-07-22T00:57:21.788612",
+    "original_title": "JetBlue in Meltdown as Beleagured Carrier Grounds All Flights to New York JFK Due to Widespread Thunderstorms Across the Northeast",
+    "link": "https://www.paddleyourownkanoo.com/2026/07/22/jetblue-in-meltdown-as-beleagured-carrier-grounds-all-flights-to-new-york-jfk-due-to-widespread-thunderstorms-across-the-northeast/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "New York, USA",
+      "latitude": 40.6397,
+      "longitude": -73.7789,
+      "detailed_analysis": "Widespread thunderstorms across the Northeast have led to FAA-mandated ground stops, causing JetBlue to ground all flights to New York JFK, potentially disrupting air travel and logistics",
+      "immediate_forecast_24h": "Flight disruptions and delays are expected to continue until the thunderstorms subside, with potential for further ground stops and cancellations",
+      "strategic_outlook": "The impact of the thunderstorms on air travel may be short-term, but it highlights the need for airlines and airports to have contingency plans in place for severe weather events",
+      "operational_impact": "The grounding of flights may cause delays and disruptions to cargo and passenger transport, with potential knock-on effects for supply chains and travel plans",
+      "proximity_alert": "YAKIN TEHDİT: John F. Kennedy (27 km)"
     }
   }
 ]
