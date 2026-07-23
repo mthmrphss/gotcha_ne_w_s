@@ -1,21 +1,59 @@
 [
   {
-    "id": "ab55896def81625247491dc777ac06c2",
-    "timestamp": "2026-07-23T13:06:05.098315",
-    "original_title": "US and Iran trade strikes as Tehran blocks tankers from Strait of Hormuz",
-    "link": "http://www.africanews.com/2026/07/23/us-and-iran-trade-strikes-as-tehran-blocks-tankers-from-strait-of-hormuz/",
+    "id": "6c390b3108a7b8e8229ef86eb98b7b3f",
+    "timestamp": "2026-07-23T15:32:52.478349",
+    "original_title": "House again passes resolution seeking to halt military action in Iran as some Republicans defect - AP News",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYk9VVlZkTHZyYXUwSWc3T2JVRW54TzhXck5NTExNSjZvblVjLTJjUUdUaFBEclFDR0FMUmRDUU9tVGxmR3h5b0JjQWVGSFNYd3BuQmVLcG9ZZU1JWnFFLWdPckpGSHBtTkxMemYzRnZIYVRRaEhObGtrcVBZckxZWGtCTDRWbWh6TUE0bXJHdlBKd25VX2dRYjFUVFZaSGY3SWc?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Washington D.C., USA",
+      "latitude": 38.8951,
+      "longitude": -77.0364,
+      "detailed_analysis": "The US House of Representatives has passed a resolution seeking to halt military action in Iran, which could potentially lead to increased tensions and conflict in the region, affecting aviation and cargo operations.",
+      "immediate_forecast_24h": "Increased diplomatic tensions between the US and Iran, potential for retaliatory actions or protests.",
+      "strategic_outlook": "Long-term escalation of conflict could impact global oil prices, trade routes, and aviation security, particularly in the Middle East.",
+      "operational_impact": "Potential disruptions to air travel, cargo shipments, and logistics operations in the region, with possible increased security measures and screening procedures.",
+      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
+    }
+  },
+  {
+    "id": "f3cb0c54cd273fe902869729d066e7c5",
+    "timestamp": "2026-07-23T15:32:55.505209",
+    "original_title": "Iran War Live Updates: Attacks in Red Sea Send Oil Prices Over $100 a Barrel",
+    "link": "https://www.nytimes.com/live/2026/07/23/world/iran-war-strikes-oil-trump",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Crime",
+      "risk_score": 8,
+      "location": "Red Sea",
+      "latitude": 21.0,
+      "longitude": 39.0,
+      "detailed_analysis": "Iran's Houthi allies in Yemen have claimed strikes on two Saudi tankers in the Red Sea, causing a significant increase in oil prices. This indicates a high level of threat to maritime assets and cargo in the region.",
+      "immediate_forecast_24h": "Further attacks on oil tankers and shipping vessels are possible in the next 24 hours, which could lead to increased oil prices and disruptions to global supply chains.",
+      "strategic_outlook": "The conflict between Iran and its allies, and Saudi Arabia and its allies, is likely to escalate, leading to a prolonged period of instability in the region and potential disruptions to global energy markets.",
+      "operational_impact": "Shipping companies and airlines may need to take alternative routes to avoid the affected area, which could lead to increased costs and delays. Additionally, the increased risk of attacks on oil tankers could lead to a shortage of oil supplies, affecting the global economy.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "7e3e1d6af02220c27d175d53fb3b413e",
+    "timestamp": "2026-07-23T15:32:58.786204",
+    "original_title": "UK cancels military training exercise in Kenya after licence dispute",
+    "link": "http://www.africanews.com/2026/07/23/uk-cancels-military-training-exercise-in-kenya-after-licence-dispute/",
     "source_name": "Africa News",
     "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 8,
-      "location": "Strait of Hormuz, Iran",
-      "latitude": 26.0,
-      "longitude": 56.0,
-      "detailed_analysis": "The US and Iran trade strikes pose a significant threat to assets, cargo, aviation, and personnel in the region. Iran's blockage of oil tankers from passing through the Strait of Hormuz could lead to disruptions in global oil supply and have a ripple effect on the logistics and transportation industry.",
-      "immediate_forecast_24h": "Increased tensions between the US and Iran may lead to further military action, potentially targeting critical infrastructure, including ports and shipping lanes. This could result in a higher risk of accidents, injuries, or even loss of life.",
-      "strategic_outlook": "The ongoing conflict between the US and Iran may lead to a prolonged period of instability in the region, affecting global trade and economic growth. The blockage of the Strait of Hormuz could lead to a significant increase in shipping costs and times, impacting the global economy.",
-      "operational_impact": "Shipping companies and logistics providers should exercise extreme caution when navigating the Strait of Hormuz. Alternative routes may need to be considered, and contingency plans should be put in place to mitigate potential disruptions to supply chains.",
-      "proximity_alert": null
+      "category": "Conflict/Other",
+      "risk_score": 10,
+      "location": "Nairobi, Kenya",
+      "latitude": -1.2921,
+      "longitude": 36.8219,
+      "detailed_analysis": "The cancellation of the UK military training exercise in Kenya due to a licence dispute does not pose a direct threat to assets, cargo, aviation, or personnel. However, it may indicate a deterioration in diplomatic relations between the two countries, which could have indirect implications for security and stability in the region.",
+      "immediate_forecast_24h": "No immediate security threats are expected, but the situation will be monitored for any potential escalation or impact on regional security.",
+      "strategic_outlook": "The long-term implications of this event are likely to be minimal, but it may contribute to a broader trend of shifting diplomatic relationships and security cooperation between nations.",
+      "operational_impact": "The cancellation of the military training exercise is unlikely to have a significant impact on transport or logistics operations in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Jomo Kenyatta International Airport (12 km)"
     }
   }
 ]
