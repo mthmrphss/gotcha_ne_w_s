@@ -777,5 +777,24 @@
       "operational_impact": "The attack may disrupt air traffic and logistics operations in the Kyiv region, with potential ripple effects on regional and international supply chains. Enhanced security measures and contingency planning are recommended for assets, cargo, and personnel in the area.",
       "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
     }
+  },
+  {
+    "id": "d5f72d92545ea5e47de5cf3de9021acc",
+    "timestamp": "2026-07-24T19:00:21.822692",
+    "original_title": "Iran War Live Updates: Trump Meets With Cabinet Over Whether to Intensify Iran Strikes",
+    "link": "https://www.nytimes.com/live/2026/07/24/world/iran-war-us-strikes-trump-oil",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Middle East",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The situation between Iran and the United States is escalating, with discussions of intensifying strikes. This could lead to increased tensions and potential attacks on aviation and cargo assets in the region.",
+      "immediate_forecast_24h": "Heightened military activity and potential for retaliatory strikes from Iran, impacting regional aviation and cargo operations.",
+      "strategic_outlook": "Prolonged conflict could disrupt global supply chains, particularly those relying on Middle Eastern air and sea routes, and pose significant risks to personnel and assets.",
+      "operational_impact": "Potential for flight restrictions, cargo delays, and increased security measures for personnel and assets in the region, affecting logistics and transport operations.",
+      "proximity_alert": null
+    }
   }
 ]
