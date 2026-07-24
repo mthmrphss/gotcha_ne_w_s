@@ -796,5 +796,62 @@
       "operational_impact": "Potential for flight restrictions, cargo delays, and increased security measures for personnel and assets in the region, affecting logistics and transport operations.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "6a4a65f4469051ee674e5f74ab9576fc",
+    "timestamp": "2026-07-24T20:46:54.115810",
+    "original_title": "Trump threatens a major escalation in Iran after 13 nights straight of strikes - NPR",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5maEJ4V2VxQkM2UzVGeFhRMHZ2SlI5dFY4d3E4R3R6UjE0REdWM1NFcEhyV0s4NVFYYmltNWRrV1ItbGoyYlpaVFdxRExVQ2dHT3M4RHVyTVoyVVBfQlpudXo0cG5PRlJuZGdhaHlTaw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Iran, Middle East",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The situation between the US and Iran is escalating, with 13 consecutive nights of strikes. This could lead to a significant increase in violence and instability in the region, posing a threat to aviation, cargo, and personnel.",
+      "immediate_forecast_24h": "Increased military activity and potential for further escalation, with possible disruptions to air traffic and logistics in the region.",
+      "strategic_outlook": "Long-term instability and conflict in the region could lead to sustained disruptions to global supply chains and increased security measures for aviation and cargo.",
+      "operational_impact": "Potential for flight restrictions, cargo delays, and increased security protocols for personnel and assets in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "8ec2eae37c7d30dbd8bd9ffa80bbd537",
+    "timestamp": "2026-07-24T20:46:58.570183",
+    "original_title": "Kuwait and Bahrain ‘sent secret jets to strike Iran’",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1v5mc0u/kuwait_and_bahrain_sent_secret_jets_to_strike_iran/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Kuwait, Bahrain, Iran",
+      "latitude": 29.0,
+      "longitude": 47.0,
+      "detailed_analysis": "Reports indicate that Kuwait and Bahrain have sent secret jets to strike Iran, which poses a significant threat to aviation and regional stability. This action could lead to escalated conflict and potential retaliation from Iran.",
+      "immediate_forecast_24h": "Increased military activity and heightened tensions in the region are expected in the next 24 hours, with potential for further airstrikes or retaliatory measures.",
+      "strategic_outlook": "The long-term implications of this conflict could lead to a destabilization of the region, affecting global oil supplies, trade routes, and aviation security. The situation may escalate into a broader conflict involving other nations.",
+      "operational_impact": "The conflict may impact air traffic control, flight routes, and logistics operations in the region, potentially disrupting cargo transport and personnel movement.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "6fc777af061269be27d71104f9558533",
+    "timestamp": "2026-07-24T20:47:00.663230",
+    "original_title": "Global Risks Heating Up",
+    "link": "https://warontherocks.com/global-risks-heating-up/",
+    "source_name": "War on the Rocks",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "Strait of Hormuz, Middle East",
+      "latitude": 26.0,
+      "longitude": 56.0,
+      "detailed_analysis": "The U.S.-Iranian ceasefire has deteriorated, with Iran targeting vessels transiting the Strait of Hormuz and launching drones and missiles at Arab Gulf states. The United States has resumed its naval blockade and is striking Iranian soil on a daily basis.",
+      "immediate_forecast_24h": "Increased hostilities and exchange of fire between the U.S. and Iran, potentially disrupting shipping lanes and aviation routes in the region.",
+      "strategic_outlook": "Escalating tensions between the U.S. and Iran may lead to a prolonged conflict, affecting global oil prices, trade, and regional stability.",
+      "operational_impact": "Potential disruptions to cargo shipments, increased risk of piracy and terrorism, and heightened security measures for aviation and maritime operations in the region.",
+      "proximity_alert": null
+    }
   }
 ]
