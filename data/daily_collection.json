@@ -397,5 +397,81 @@
       "operational_impact": "The conflict may impact ground transportation, potentially affecting the movement of cargo and personnel. Aviation operations may also be indirectly affected due to the regional instability, although there is no direct threat reported at this time.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "607bba18d1c99b9276e2deac65f0647a",
+    "timestamp": "2026-07-24T11:18:20.087677",
+    "original_title": "Livery cab driver shot in face after crash in Fort Greene, Brooklyn; Gunman on the run - ABC7 New York",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNemFRY1BqXzN1dXBJdTNuUTdhYmdXX0JYd2hnQVRoQXktRTFVaXJWWV9tUXVWZF9RVFhkLVFHdUxURlFhRkFKQ1ZNSG15ZWh2a2RSUnhiVVpZZUhrMHQxRXk1b0RZTWdzUUNRcWV2bWpRci1CZFVFZnNsMzBWbkNMVy1lc1pLNTU3aGtPcDB2N2Z4TW1yN3NjcEI1V0xUWGRY0gGmAUFVX3lxTE1aMGdjc0VrZkZzOUFzbHN0Y3hKaVlDU1AtMGpIdm04QUpnNWdLQkpJWl9ldTVqMnQ1NmlHWXl3cGkwczJHR3VfTnZOYl91eUpLWEI3TnRTb1hzRmRyT01YNjl2SmFSenJkRHFvcUhSXzN3bGZJNkdMeFA1NE1jeVRtLU1wUEdZbl91b244QjQ3clFMdVYwclV5WWNjaXJ2MzJQT2RJY1E?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Crime",
+      "risk_score": 10,
+      "location": "Fort Greene, Brooklyn, USA",
+      "latitude": 40.6833,
+      "longitude": -73.9667,
+      "detailed_analysis": "A livery cab driver was shot in the face after a crash in Fort Greene, Brooklyn. The gunman is on the run, indicating a potential threat to personnel and assets in the area.",
+      "immediate_forecast_24h": "Increased police presence in the area, potential for further violence or retaliation, and disruption to local transportation services.",
+      "strategic_outlook": "Long-term concerns about the safety and security of taxi drivers and passengers in the area, potentially leading to increased security measures or changes in transportation protocols.",
+      "operational_impact": "Potential disruption to local transportation services, increased security measures for taxi drivers and passengers, and possible changes to logistics operations in the area.",
+      "proximity_alert": "YAKIN TEHDİT: Paramount Hotel (8 km)"
+    }
+  },
+  {
+    "id": "ee68f4aecdb8c1a9495c1dcd7e4e5c68",
+    "timestamp": "2026-07-24T11:18:22.154266",
+    "original_title": "How a Chinese AI model stopped OpenAI’s ‘unprecedented’ cyber attack - CNBC",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9uTTRrTlB1X3V0akxjZERPdzI3RVZqS19ZVEVtWFg3QXM5MTNWa3RoQnk4RmQ2cHdCYWJ6ZzlKdWt1bk8yc0k5OHp5c25XdTFFS3FhSFBWY2lGT2ZnMVMtT0tBSm1qYjFNUTlzdG9wZWdfZlV0NU9GenNrMFJZZ9IBgwFBVV95cUxNR1Z2eGgweUw0dlhUV3E4VzVIZjlVekxkNXlKYWF3bVdYQXVVdVRzWmR5dldRQW1xNFB6aU5NdEl3aVNXWnFMN3dCZHFXSjJuU1plWE9ST18xWTRCa2Z3dW1QQnlHZ0RUb0E4QUd6VU1wLWJYUHpHWmtBeFFjOFNFak1XNA?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 8,
+      "location": "Global",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "A Chinese AI model reportedly stopped an 'unprecedented' cyber attack on OpenAI, indicating a high level of sophistication in both the attack and the defense. This event highlights the increasing threat of cyber attacks on critical infrastructure and the importance of AI-powered defense systems.",
+      "immediate_forecast_24h": "In the next 24 hours, there is a high likelihood of similar cyber attacks being attempted on other major AI and technology companies. Companies should be on high alert and review their cybersecurity measures.",
+      "strategic_outlook": "In the long term, this event marks a significant escalation in the cyber arms race, with AI-powered defense systems becoming a crucial component of cybersecurity. Companies and governments will need to invest heavily in AI-powered cybersecurity to stay ahead of emerging threats.",
+      "operational_impact": "The operational impact of this event is significant, as it highlights the vulnerability of critical infrastructure to cyber attacks. Companies should review their cybersecurity protocols and consider investing in AI-powered defense systems to protect against similar attacks.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "5dfca7cea0cf7acaa710694efe228bcb",
+    "timestamp": "2026-07-24T11:18:27.337668",
+    "original_title": "Wildfire emergency near Madrid forces over 10,000 to flee as Spain sounds alarm",
+    "link": "http://www.africanews.com/2026/07/24/wildfire-emergency-near-madrid-forces-over-10000-to-flee-as-spain-sounds-alarm/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Other/Civil Unrest",
+      "risk_score": 10,
+      "location": "Madrid, Spain",
+      "latitude": 40.4168,
+      "longitude": -3.7038,
+      "detailed_analysis": "A wildfire emergency near Madrid has forced over 10,000 people to flee, with Civil Guard officers, firefighters, and the Military Emergency Unit battling the fires. The situation is being closely monitored, but there is no indication of a direct threat to assets, cargo, aviation, or personnel at this time.",
+      "immediate_forecast_24h": "The wildfires are expected to continue, with extreme heat and dry conditions exacerbating the situation. Emergency services will likely remain engaged in firefighting efforts, and evacuations may continue.",
+      "strategic_outlook": "The long-term impact of the wildfires on the region's infrastructure and economy is uncertain, but it is likely to be significant. The Spanish government may need to provide support to affected communities and implement measures to prevent similar disasters in the future.",
+      "operational_impact": "The wildfires may cause disruptions to local transportation and logistics, particularly if the fires spread to nearby roads or infrastructure. However, at this time, there is no indication of a significant impact on regional or international transport operations.",
+      "proximity_alert": "YAKIN TEHDİT: Adolfo Suárez Madrid–Barajas Airport (14 km)"
+    }
+  },
+  {
+    "id": "9c2d559fa702d3f4b316d0f2061ba594",
+    "timestamp": "2026-07-24T11:18:33.197325",
+    "original_title": "Meloni's Italy: Fortress Europe?",
+    "link": "https://www.france24.com/en/tv-shows/fact-or-fake/20260724-meloni-s-italy-fortress-europe",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Border/Civil Unrest",
+      "risk_score": 10,
+      "location": "Italy, Albania",
+      "latitude": 41.8719,
+      "longitude": 12.4964,
+      "detailed_analysis": "The Italian government's migration policy and creation of a migrant processing centre in Albania may lead to increased tensions and potential border breaches, affecting transport and logistics in the region.",
+      "immediate_forecast_24h": "No immediate threats expected, but ongoing political tensions and potential protests may escalate in the coming days.",
+      "strategic_outlook": "The Italian government's approach to migration may lead to long-term instability and potential security risks, particularly if the policy is perceived as ineffective or overly restrictive.",
+      "operational_impact": "Potential disruptions to transport and logistics in the region, particularly if border breaches or protests occur, affecting the movement of assets, cargo, and personnel.",
+      "proximity_alert": "YAKIN TEHDİT: Fiumicino – Leonardo da Vinci International Airport (2 km)"
+    }
   }
 ]
