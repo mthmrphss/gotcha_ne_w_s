@@ -1,59 +1,21 @@
 [
   {
-    "id": "7ff604ab208b691d8138cea2374c51d2",
-    "timestamp": "2026-07-25T03:23:16.948690",
-    "original_title": "Iran War Updates: Trump Meets With Cabinet Over Whether to Intensify Iran Strikes",
-    "link": "https://www.nytimes.com/live/2026/07/24/world/iran-war-us-strikes-trump-oil",
-    "source_name": "NewYork Times",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 8,
-      "location": "Middle East",
-      "latitude": 32.0,
-      "longitude": 53.0,
-      "detailed_analysis": "The situation between Iran and the US is escalating, with discussions of intensifying strikes. This could lead to increased tensions and potential attacks on aviation and cargo assets in the region.",
-      "immediate_forecast_24h": "Increased military activity and potential for retaliatory strikes from Iran, posing a high risk to aviation and cargo operations in the region.",
-      "strategic_outlook": "Long-term conflict could lead to sustained disruption of logistics and transport operations, with potential for spillover into other regions.",
-      "operational_impact": "Potential for flight disruptions, cargo delays, and increased security measures for personnel and assets in the region.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "74c5c09bc9d2141d9a3a210ef57d5f34",
-    "timestamp": "2026-07-25T03:23:20.007048",
-    "original_title": "ICC asked to look into xenophobic violence in South Africa",
-    "link": "https://www.france24.com/en/icc-asked-to-look-into-xenophobic-violence-in-south-africa",
+    "id": "7fb69b25bb81d88adabf10fe79c194df",
+    "timestamp": "2026-07-25T06:01:43.120161",
+    "original_title": "Live: France orders evacuations near Bordeaux as wildfires sweep through southwest",
+    "link": "https://www.france24.com/en/europe/20260725-live-france-orders-evacuations-near-bordeaux-as-wildfires-sweep-through-southwest",
     "source_name": "France 24 ME",
     "ai_analysis": {
-      "category": "Civil Unrest/Conflict",
-      "risk_score": 6,
-      "location": "South Africa",
-      "latitude": -30.0,
-      "longitude": 25.0,
-      "detailed_analysis": "Xenophobic violence against migrants in South Africa poses a significant threat to personnel and assets, with potential for escalation and impact on logistics and transportation.",
-      "immediate_forecast_24h": "Increased tensions and potential for further violence, with possible disruptions to transport and logistics operations.",
-      "strategic_outlook": "Long-term instability and security concerns in South Africa, with potential for regional spillover and impact on trade and commerce.",
-      "operational_impact": "Potential disruptions to supply chains, increased security measures for personnel and assets, and possible rerouting of transport operations to avoid affected areas.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "a96166a6ccb3dfef3b22f97845846328",
-    "timestamp": "2026-07-25T03:23:22.760254",
-    "original_title": "Democratic Republic of the Congo - Level 4: Do Not Travel",
-    "link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/democratic-republic-of-the-congo-travel-advisory.html",
-    "source_name": "US State Dept",
-    "ai_analysis": {
-      "category": "Health/Crime/Civil Unrest",
-      "risk_score": 8,
-      "location": "Democratic Republic of the Congo",
-      "latitude": -4.0333,
-      "longitude": 21.7587,
-      "detailed_analysis": "The Democratic Republic of the Congo is experiencing a high-risk situation due to health concerns, crime, unrest, terrorism, and kidnapping. The Ebola outbreak has led to travel restrictions, and the local health infrastructure is inadequate.",
-      "immediate_forecast_24h": "The situation is expected to remain volatile, with continued risk of Ebola transmission and potential for increased unrest and crime.",
-      "strategic_outlook": "The long-term outlook is uncertain, with the potential for ongoing health and security concerns. The U.S. government has limited ability to provide emergency consular services, which may impact response to crises.",
-      "operational_impact": "The situation may impact transport and logistics operations, particularly aviation, due to travel restrictions and potential for unrest. Cargo and personnel may be at risk due to crime and kidnapping.",
-      "proximity_alert": null
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Bordeaux, France",
+      "latitude": 44.8378,
+      "longitude": -0.5792,
+      "detailed_analysis": "Wildfires are sweeping through southwestern France, prompting evacuations near Bordeaux. The situation poses a threat to local infrastructure, assets, and personnel, but does not directly impact aviation or cargo at this time.",
+      "immediate_forecast_24h": "The wildfires are expected to continue, with French authorities working to contain the situation. Further evacuations may be ordered, and there is a risk of disruption to local transport and logistics.",
+      "strategic_outlook": "The long-term impact of the wildfires will depend on the effectiveness of the response efforts and the extent of the damage. There may be a need for rebuilding and recovery efforts in the affected areas.",
+      "operational_impact": "The wildfires may cause disruptions to local transport and logistics, particularly if the fires spread to key infrastructure such as roads, bridges, or airports. However, at this time, the impact on aviation and cargo appears to be limited.",
+      "proximity_alert": "YAKIN TEHDİT: Bordeaux–Mérignac Airport (10 km)"
     }
   }
 ]

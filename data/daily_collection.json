@@ -112,5 +112,24 @@
       "operational_impact": "The situation may impact transport and logistics operations, particularly aviation, due to travel restrictions and potential for unrest. Cargo and personnel may be at risk due to crime and kidnapping.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "7fb69b25bb81d88adabf10fe79c194df",
+    "timestamp": "2026-07-25T06:01:43.120161",
+    "original_title": "Live: France orders evacuations near Bordeaux as wildfires sweep through southwest",
+    "link": "https://www.france24.com/en/europe/20260725-live-france-orders-evacuations-near-bordeaux-as-wildfires-sweep-through-southwest",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Bordeaux, France",
+      "latitude": 44.8378,
+      "longitude": -0.5792,
+      "detailed_analysis": "Wildfires are sweeping through southwestern France, prompting evacuations near Bordeaux. The situation poses a threat to local infrastructure, assets, and personnel, but does not directly impact aviation or cargo at this time.",
+      "immediate_forecast_24h": "The wildfires are expected to continue, with French authorities working to contain the situation. Further evacuations may be ordered, and there is a risk of disruption to local transport and logistics.",
+      "strategic_outlook": "The long-term impact of the wildfires will depend on the effectiveness of the response efforts and the extent of the damage. There may be a need for rebuilding and recovery efforts in the affected areas.",
+      "operational_impact": "The wildfires may cause disruptions to local transport and logistics, particularly if the fires spread to key infrastructure such as roads, bridges, or airports. However, at this time, the impact on aviation and cargo appears to be limited.",
+      "proximity_alert": "YAKIN TEHDİT: Bordeaux–Mérignac Airport (10 km)"
+    }
   }
 ]
