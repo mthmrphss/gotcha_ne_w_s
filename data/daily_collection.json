@@ -131,5 +131,81 @@
       "operational_impact": "The wildfires may cause disruptions to local transport and logistics, particularly if the fires spread to key infrastructure such as roads, bridges, or airports. However, at this time, the impact on aviation and cargo appears to be limited.",
       "proximity_alert": "YAKIN TEHDİT: Bordeaux–Mérignac Airport (10 km)"
     }
+  },
+  {
+    "id": "0038cf240d690003f5605e4225f8105c",
+    "timestamp": "2026-07-25T10:38:41.945262",
+    "original_title": "Live - No overnight attacks as Trump says US has yet to decide on major strikes - ایران اینترنشنال",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ITXpwOFFlSzhORVBRNG1JNWU2YXQwRkR6RzFSbmFodVE5bzJYRFhYcEMxTElRYl9zSkh5dXIxWTlzMk1YSHBIeHJTemQxUmc3cWFJYktyMWliZnN4WXc?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Iran, USA",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The situation between the US and Iran remains tense, with the US considering major strikes. No overnight attacks have been reported, but the threat of escalation remains high.",
+      "immediate_forecast_24h": "The US may decide on major strikes within the next 24 hours, potentially leading to an escalation of the conflict.",
+      "strategic_outlook": "The conflict between the US and Iran has the potential to disrupt global supply chains, particularly in the aviation and cargo sectors, and may lead to increased tensions in the region.",
+      "operational_impact": "The potential for strikes and escalation may impact aviation and cargo operations in the region, with possible disruptions to flights and shipping routes.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "c157641df22d315d11edbd63fee1d289",
+    "timestamp": "2026-07-25T10:38:43.552407",
+    "original_title": "A New Target for Ukraine’s Long-Range Attacks: Russia’s Version of Amazon - The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ1pCd1hnejExbWJzSWJVNENkdHpBVXNYNWUySUN0a29rNHdNN2RxeTROV2FVcEtwR0RnbkpZV0pUWmRBM19Ralg3UWh2d2RVUHNNczkxQnBQRDJXd1FIZHpGU2dUUENpVUxSZFhQZzA2ZXU1bUI0YmJpeW9uR0hSLU95WW1wbGF6QV9lMU51ekM?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Cyber",
+      "risk_score": 6,
+      "location": "Ukraine/Russia",
+      "latitude": 48.3794,
+      "longitude": 31.1656,
+      "detailed_analysis": "Ukraine's long-range attacks targeting Russia's e-commerce platform, potentially disrupting logistics and supply chain operations",
+      "immediate_forecast_24h": "Increased cyber attacks and potential disruptions to logistics operations in the region",
+      "strategic_outlook": "Escalation of conflict may lead to further targeting of critical infrastructure, including transportation and logistics hubs",
+      "operational_impact": "Potential delays and disruptions to cargo shipments, increased security measures for transportation and logistics operations",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "eab7f2776f01b011f8e395436880a035",
+    "timestamp": "2026-07-25T10:38:47.632177",
+    "original_title": "India’s Education Minister Steps Down, Handing Win to Protesters",
+    "link": "https://www.nytimes.com/2026/07/25/world/asia/india-education-minister-resigns.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "New Delhi, India",
+      "latitude": 28.7041,
+      "longitude": 77.1025,
+      "detailed_analysis": "The resignation of India's Education Minister Dharmendra Pradhan due to student protests indicates a significant victory for the protest movement against the government of Prime Minister Narendra Modi. While this event does not directly involve threats to assets, cargo, aviation, or personnel, it signifies a level of civil unrest that could potentially escalate and indirectly affect these areas.",
+      "immediate_forecast_24h": "The immediate aftermath is likely to see continued protests or demonstrations, potentially leading to disruptions in traffic or public services. However, without specific targets on critical infrastructure or direct threats to aviation, cargo, or personnel, the immediate risk remains relatively low.",
+      "strategic_outlook": "In the long term, the success of the student protest movement could embolden other groups to use similar tactics, potentially leading to increased civil unrest. This could have strategic implications for the stability of the government and the country's ability to maintain order, which in turn could affect the security and efficiency of transport and logistics operations.",
+      "operational_impact": "The operational impact is currently minimal since the event does not directly involve threats to transport or logistics. However, if the civil unrest escalates or spreads, it could lead to disruptions in supply chains, especially if protests target or inadvertently block critical infrastructure such as ports, airports, or major highways.",
+      "proximity_alert": "YAKIN TEHDİT: Indira Gandhi International Airport (16 km)"
+    }
+  },
+  {
+    "id": "30a0c4062b84b813aa375f92c719d0d3",
+    "timestamp": "2026-07-25T10:38:50.322658",
+    "original_title": "Lawyers call for former president to be freed three years after coup",
+    "link": "http://www.africanews.com/2026/07/25/lawyers-call-for-former-president-to-be-freed-three-years-after-coup/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Niamey, Niger",
+      "latitude": 13.5142,
+      "longitude": 2.1155,
+      "detailed_analysis": "The detention of the elected President and his wife in the presidential palace following a coup poses a significant threat to the stability of the region, potentially impacting aviation, cargo, and personnel safety.",
+      "immediate_forecast_24h": "Increased tensions and potential unrest are expected in the short term, with possible demonstrations or clashes between opposing groups.",
+      "strategic_outlook": "The long-term implications of the coup could lead to a prolonged period of instability, affecting the country's ability to maintain secure transport and logistics operations.",
+      "operational_impact": "Potential disruptions to air travel, cargo transport, and personnel movements are anticipated due to the uncertain security environment.",
+      "proximity_alert": "YAKIN TEHDİT: Diori Hamani International Airport (7 km)"
+    }
   }
 ]
