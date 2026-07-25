@@ -1,21 +1,78 @@
 [
   {
-    "id": "b8a0251b2413690f2588b78cb5f28e01",
-    "timestamp": "2026-07-25T20:59:47.887617",
-    "original_title": "Trump’s Push to Build Data Centers for the US Military - Mother Jones",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNEZCTk9qVm5tM19mczc3NWZvZ1c5WklhZGlPWjI4VVZKdDFZTC1KcnFTbl9VX1MtOGhreU9GV2F1LUg1WkR3TUdiT3BHbnJpdmNVUDhtZ0xqdjdqd3lHVTV0ODhOdXdMdTdHS1g1SGk3SldvLWlCRG9uYTFXaDJydTdqVDJXUGFDVmRPRTZNbTRHLXM?oc=5",
+    "id": "af1e967adbee5447ded179ae40f6ca32",
+    "timestamp": "2026-07-25T23:32:24.308760",
+    "original_title": "‘Shameful’: Pentagon accused of cover-up over US military casualties in Iran war - The Guardian",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTG9hNHJocmdRUVNvZzNzSUxlYTQydkFOeDdSa21sUWxidFg1Ri14OWs0TDdXUGtLSUlFdGpqUFFSYW1ibWZ3UGtVZU1UR0p2RzF2X2hVdTEtNnVBRWU5cHFGckJMdUNQOEp0WGp0ZUtFSXVXRVQ3c05tdTc5ZFpTaUlnYV9qOWJEVnA1YVVjUFJCY3ZlOWo5YWgwc1N0STE3QVE?oc=5",
     "source_name": "Google News (Breaking)",
     "ai_analysis": {
-      "category": "Cyber/Conflict",
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Iran, Middle East",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The Pentagon is accused of covering up US military casualties in the Iran war, which could lead to increased tensions and potential retaliation, posing a threat to US military personnel and assets in the region.",
+      "immediate_forecast_24h": "Increased military alertness and potential for retaliatory actions from Iran, affecting US military operations and personnel in the region.",
+      "strategic_outlook": "Long-term escalation of conflict between the US and Iran, potentially drawing in other regional actors and affecting global stability and security.",
+      "operational_impact": "Potential disruption to logistics and supply chains in the region, particularly for US military operations, and increased risk to personnel and assets.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "b905972a0542e9751de2068974a3a18d",
+    "timestamp": "2026-07-25T23:32:26.169390",
+    "original_title": "Iran accuses Ukraine of deadly attack on Caspian commercial vessel - Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa0FDc1lRUGJ3N3A4MFpoSU5DZG1YNVYzejZlaGlIbnk5UlNhWFdIOHo2ZFBQLWtDdnFCSkRsbHU0YkwxWFRCUnY1a0loVXZLcG91QXN6QUd0LUpsck1CN0tVR3dYM2hPMjJrWVFSN1dQNWlfMkFTYWVwREFWV3BjMDBMRFBLc1ZIRHlCWWhHZ2VXMEVWeUx3VnBrTEdKTlFLaWJtUU9wYWRyYWfSAbABQVVfeXFMTUt6SlEyMnNMbzdKcjFJbFBFNGJYTE5UWHVPaWp3NXhtVVlRUTNOVVRUSG9iakF4UWVBN0lvZUZ0M3prUjc1NUpVajBJdF9qLWwyYnVlWjYtOS15YmJ0S2dmRmpnZG9XUjdYVkRlMzA3X2JCcFFjeDRVeTRBamZZWEwyendQdkNlTEtaYUdBMUVKY2lER0gwV0VqZzFHS2dMazlab0JHaWVBVzcwOUZDOTU?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Crime",
+      "risk_score": 8,
+      "location": "Caspian Sea, Iran",
+      "latitude": 42.0,
+      "longitude": 50.0,
+      "detailed_analysis": "Iran has accused Ukraine of a deadly attack on a commercial vessel in the Caspian Sea, which could escalate tensions between the two nations and impact maritime trade in the region.",
+      "immediate_forecast_24h": "Increased naval presence and heightened security measures are expected in the Caspian Sea, potentially disrupting cargo shipments and maritime traffic.",
+      "strategic_outlook": "The incident may lead to a prolonged period of increased tensions between Iran and Ukraine, affecting regional stability and potentially impacting global energy markets.",
+      "operational_impact": "Shipping companies and cargo operators should exercise extreme caution when navigating the Caspian Sea, and consider alternative routes or enhanced security measures to mitigate potential risks.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "6814952aa6f68aab229b6ce673cfc3d7",
+    "timestamp": "2026-07-25T23:32:30.596459",
+    "original_title": "Van rams into Berlin Pride crowd, killing one and injuring 15",
+    "link": "https://www.france24.com/en/europe/20260725-van-rams-berlin-pride-crowd-killing-one-and-injuring-15",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest/Terrorism",
       "risk_score": 10,
-      "location": "Washington D.C., USA",
-      "latitude": 38.8951,
-      "longitude": -77.0364,
-      "detailed_analysis": "The article discusses Trump's push to build data centers for the US military, which may have implications for cybersecurity and potential conflicts related to data storage and management.",
-      "immediate_forecast_24h": "No immediate threats are expected, but the development of new data centers may attract attention from malicious actors.",
-      "strategic_outlook": "The long-term impact of this initiative may depend on the security measures implemented to protect the data centers and the potential for cyber attacks or data breaches.",
-      "operational_impact": "The construction of new data centers may have minimal direct impact on transport/logistics, but the potential for cyber threats could affect the overall security posture of the US military's supply chain and operations.",
-      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
+      "location": "Berlin, Germany",
+      "latitude": 52.52,
+      "longitude": 13.405,
+      "detailed_analysis": "A van intentionally rammed into a crowd at Berlin's Pride celebrations, killing one and injuring 15. The incident has been met with a significant police response, including the cancellation of the event and a search for possible suspects.",
+      "immediate_forecast_24h": "Increased security measures are expected in the area, with potential for further disruptions to public events and gatherings. The situation may remain volatile as authorities investigate the incident and assess potential threats.",
+      "strategic_outlook": "The long-term impact of this incident may include heightened security at public events, particularly those related to LGBTQ+ communities. It could also lead to increased tensions and potential for further civil unrest or targeted attacks.",
+      "operational_impact": "The incident may cause disruptions to local transport and logistics, particularly in areas surrounding the event location. However, the primary impact is on personnel and public safety rather than cargo or aviation operations.",
+      "proximity_alert": "YAKIN TEHDİT: Berlin Tegel Airport (0 km)"
+    }
+  },
+  {
+    "id": "a692758af0add3373622f689e6e3f6df",
+    "timestamp": "2026-07-25T23:32:32.399027",
+    "original_title": "Live: France evacuates 55,000 more as Bordeaux fires worsen",
+    "link": "https://www.france24.com/en/europe/20260725-france-evacuates-55-000-more-as-bordeaux-fires-worsen",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest/Other",
+      "risk_score": 10,
+      "location": "Bordeaux, France",
+      "latitude": 44.8378,
+      "longitude": -0.5792,
+      "detailed_analysis": "Wildfires in France are causing evacuations and disruptions, potentially impacting local transportation and logistics. However, there is no direct indication of a threat to aviation, cargo, or personnel at this time.",
+      "immediate_forecast_24h": "The situation is expected to worsen due to fire-generated whirlwinds, potentially leading to further evacuations and disruptions in the region.",
+      "strategic_outlook": "The long-term impact of the wildfires on the region's infrastructure and economy is uncertain, but it may lead to increased costs and delays for logistics and transportation companies operating in the area.",
+      "operational_impact": "The evacuations and wildfires may cause disruptions to local roads and transportation networks, potentially affecting the movement of cargo and personnel in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Bordeaux–Mérignac Airport (10 km)"
     }
   }
 ]
