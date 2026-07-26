@@ -93,5 +93,81 @@
       "operational_impact": "The evacuations and wildfires may cause disruptions to local roads and transportation networks, potentially affecting the movement of cargo and personnel in the region.",
       "proximity_alert": "YAKIN TEHDİT: Bordeaux–Mérignac Airport (10 km)"
     }
+  },
+  {
+    "id": "faf3ae2dbab71795393354a2feef908c",
+    "timestamp": "2026-07-26T03:36:46.863146",
+    "original_title": "Car Plows Into Crowd at Berlin Pride Event in Suspected Terror Attack - The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE44LWhNMno3dEtIRXJDUkVkcVFwTU94ekRnVGcwOEk2U2RLbURpVHk2cHc3UmF1dUtVaFFsbTFMRG9IU1FmWV81QjR5emVYeW96YTd3XzNmaWxrWjhSMERYcmttV2FZaVlsRTh1T0h4TWw3RUg4U3N1Ql9R?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism/Civil Unrest",
+      "risk_score": 10,
+      "location": "Berlin, Germany",
+      "latitude": 52.52,
+      "longitude": 13.405,
+      "detailed_analysis": "A car plowed into a crowd at a Berlin Pride event, suspected to be a terror attack, posing a significant threat to personnel and public safety",
+      "immediate_forecast_24h": "Increased security measures are expected to be implemented in the area, with potential for further civil unrest or protests",
+      "strategic_outlook": "The incident may lead to a long-term increase in security measures for public events and gatherings, particularly those related to LGBTQ+ communities",
+      "operational_impact": "Transportation and logistics in the area may be affected by increased security checks and potential protests, but the primary impact is on personnel and public safety rather than cargo or aviation",
+      "proximity_alert": "YAKIN TEHDİT: Berlin Tegel Airport (0 km)"
+    }
+  },
+  {
+    "id": "e4927c66887f3ca9a0b504f75c762c7d",
+    "timestamp": "2026-07-26T03:36:53.217950",
+    "original_title": "Van rams into Berlin Pride crowd, killing one and injuring 16",
+    "link": "https://www.france24.com/en/europe/20260725-van-rams-berlin-pride-crowd-killing-one-and-injuring-15",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Terrorism/Civil Unrest",
+      "risk_score": 10,
+      "location": "Berlin, Germany",
+      "latitude": 52.52,
+      "longitude": 13.405,
+      "detailed_analysis": "A van intentionally rammed into a crowd at Berlin's Pride celebrations, killing one and injuring 16. The incident has been treated as a potential terrorist attack, and the police are investigating and searching for possible suspects.",
+      "immediate_forecast_24h": "Increased security measures are expected in the area, and potential follow-up attacks or copycat incidents cannot be ruled out. The event's cancellation and the police's call for people to leave the area may lead to disruptions in the surrounding areas.",
+      "strategic_outlook": "This incident may lead to increased tensions and security concerns for future public events, particularly those related to the LGBTQ+ community. It may also lead to a review of security protocols for such events.",
+      "operational_impact": "The incident may cause disruptions to local transportation and logistics, particularly in the vicinity of the event. However, it is unlikely to have a significant impact on the overall aviation or cargo operations in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Berlin Tegel Airport (0 km)"
+    }
+  },
+  {
+    "id": "7a562f8711450f753c287e0ccc78acb6",
+    "timestamp": "2026-07-26T03:36:55.083205",
+    "original_title": "Live: Bordeaux evacuates 55,000 more as fires worsen in France and Spain",
+    "link": "https://www.france24.com/en/europe/20260725-france-evacuates-55-000-more-as-bordeaux-fires-worsen",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 10,
+      "location": "Bordeaux, France",
+      "latitude": 44.8378,
+      "longitude": -0.5792,
+      "detailed_analysis": "Wildfires in France and Spain are causing evacuations and disrupting normal operations, potentially impacting transport and logistics in the region.",
+      "immediate_forecast_24h": "Fires are expected to continue, with worsening conditions forcing fresh evacuations and potentially affecting air quality and visibility for aviation.",
+      "strategic_outlook": "The long-term impact of the wildfires on the region's infrastructure and economy is a concern, but the immediate threat to assets, cargo, aviation, and personnel appears to be low.",
+      "operational_impact": "Transport and logistics in the region may be disrupted due to the evacuations and wildfires, but there is no indication of a direct threat to aviation or cargo at this time.",
+      "proximity_alert": "YAKIN TEHDİT: Bordeaux–Mérignac Airport (10 km)"
+    }
+  },
+  {
+    "id": "a81141c4198d8baa63d22c1cdfc5dabb",
+    "timestamp": "2026-07-26T03:36:58.173031",
+    "original_title": "American Airlines Boeing 787 Dreamliner Makes Emergency Landing After Six Flight Attendants Suddenly Fall Ill",
+    "link": "https://www.paddleyourownkanoo.com/2026/07/26/american-airlines-boeing-787-dreamliner-makes-emergency-landing-after-six-flight-attendants-suddenly-fall-ill/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Dublin, Ireland",
+      "latitude": 53.3441,
+      "longitude": -6.2679,
+      "detailed_analysis": "American Airlines Boeing 787 Dreamliner made an emergency landing in Dublin after six flight attendants fell ill, potentially indicating a health or safety threat on board, but no clear indication of malicious intent or external threat.",
+      "immediate_forecast_24h": "Investigations into the cause of the illness are likely to be conducted, and the aircraft may undergo inspections to ensure safety before returning to service.",
+      "strategic_outlook": "This incident highlights the importance of in-flight health and safety protocols and the need for swift response mechanisms in case of emergencies. It may lead to reviews of airline health and safety procedures.",
+      "operational_impact": "The emergency landing may cause delays or disruptions to American Airlines' flight schedule, particularly for the affected route and potentially for other flights if the aircraft is taken out of service for an extended period.",
+      "proximity_alert": "YAKIN TEHDİT: Clayton Hotel Dublin Airport (8 km)"
+    }
   }
 ]
