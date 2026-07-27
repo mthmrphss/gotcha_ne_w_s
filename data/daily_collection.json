@@ -492,5 +492,43 @@
       "operational_impact": "Transport and logistics operations in affected areas may be disrupted or suspended due to the conflict, posing risks to cargo and personnel safety.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "f883658bb81febed4b1740215dc1ce4c",
+    "timestamp": "2026-07-27T17:02:50.052615",
+    "original_title": "Man attacks 3 women with knives in Paris before being stopped by bystander, witness says - CBS News",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE03Wmh5VzBDdndCSTVXQTk4NTJrUFh1c0d1c0JWbGZ1SmVTU292aGY3UzlhcHY1THFjSDIwSWVSRml2Q1paMmNpTU5ySGRCYXlFTlVtQTktdFRfUTQzbWJ0Q2tzNDNXYmxzWUpSelI3bEFNUQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Crime/Civil Unrest",
+      "risk_score": 10,
+      "location": "Paris, France",
+      "latitude": 48.8567,
+      "longitude": 2.3508,
+      "detailed_analysis": "A man attacked 3 women with knives in Paris before being stopped by a bystander, indicating a potential threat to public safety and security, particularly for women and potentially impacting areas with high foot traffic or tourist destinations.",
+      "immediate_forecast_24h": "Increased police presence is expected in the area, with potential for heightened security measures in public spaces. The risk of copycat attacks or further incidents cannot be ruled out.",
+      "strategic_outlook": "Long-term, this incident may lead to a review of security protocols in public areas and transportation hubs, potentially resulting in enhanced security measures to mitigate similar threats in the future.",
+      "operational_impact": "The immediate operational impact is likely to be minimal on aviation and cargo directly, but heightened security could lead to increased delays or scrutiny at checkpoints and public areas, affecting personnel and the general public.",
+      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (2 km)"
+    }
+  },
+  {
+    "id": "6d3f0fdde5a84cfcb5ab661dcccd66e2",
+    "timestamp": "2026-07-27T17:02:54.901666",
+    "original_title": "Why Did Trump Stop the Bombing?",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1v84n44/why_did_trump_stop_the_bombing/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Hormuz, Middle East",
+      "latitude": 26.63,
+      "longitude": 56.28,
+      "detailed_analysis": "The article discusses the halt of bombing in the Hormuz region, which could impact aviation and cargo transport in the area. The situation involves geopolitical tensions and potential military action, posing a risk to assets, cargo, aviation, and personnel.",
+      "immediate_forecast_24h": "Increased military presence and potential for further escalation in the region, which may lead to disruptions in air traffic and cargo transport.",
+      "strategic_outlook": "Long-term instability in the region could lead to sustained risks for aviation and cargo transport, with potential for conflict and terrorism.",
+      "operational_impact": "Potential disruptions to air traffic and cargo transport in the region, with possible rerouting of flights and cargo shipments to avoid the area.",
+      "proximity_alert": null
+    }
   }
 ]
