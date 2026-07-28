@@ -1,21 +1,59 @@
 [
   {
-    "id": "9e8f863202a4b5800547bf2f8b6298bb",
-    "timestamp": "2026-07-28T19:44:45.735016",
-    "original_title": "JUST IN: B-52 Radar Modernization Continues Following Fatal Test Flight Crash - National Defense Magazine",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSzNpeThSRzZNZDJBSS1GejZhZEpieTE2T1h0ckNTbGxRRHIyOHVxb0VVUFQydjB1WXVvZHlnMktyejNZRk91SG5remtFR0s3NHNOS2dSbzZGNDZGaURUYTFUOTVPYnFoMDBBcUFXWHZzb1ZxZkwyNlRPMjdNamVZWHAtSzg5VDZWRlN2VGpFWnpwQlltM0pjM3FjcG9zR0tJYUw3dGQ1WWk1czM0Sl9UT19BM0JEVjJ0T1c4Z0puZ2tJX0tm?oc=5",
-    "source_name": "Google News (Breaking)",
+    "id": "9ad1aa6f24a8a87d8b22cb97c3614c83",
+    "timestamp": "2026-07-28T21:13:46.441256",
+    "original_title": "Mali: Senegalese president arrives for talks with junta leader",
+    "link": "http://www.africanews.com/2026/07/28/mali-senegalese-president-arrives-for-talks-with-junta-leader/",
+    "source_name": "Africa News",
     "ai_analysis": {
-      "category": "Aviation",
+      "category": "Conflict/Civil Unrest",
       "risk_score": 10,
-      "location": "United States",
-      "latitude": 38.8977,
-      "longitude": -77.0365,
-      "detailed_analysis": "A fatal test flight crash of a B-52 aircraft has occurred, but the radar modernization program will continue. This incident highlights potential risks to aviation safety and security.",
-      "immediate_forecast_24h": "Investigations into the crash will likely be ongoing, with potential impacts on flight operations and testing schedules.",
-      "strategic_outlook": "The continuation of the radar modernization program suggests a long-term commitment to enhancing aviation capabilities, despite the setback from the crash.",
-      "operational_impact": "The crash may lead to temporary disruptions in flight testing and operations, but the overall program is expected to proceed, with potential improvements to aviation safety and security.",
-      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
+      "location": "Bamako, Mali",
+      "latitude": 12.65,
+      "longitude": -8.0,
+      "detailed_analysis": "The visit of the Senegalese president to Mali for talks with the head of the military junta may indicate efforts to stabilize the region, but the political situation remains volatile.",
+      "immediate_forecast_24h": "Low likelihood of immediate violence or disruption to aviation, cargo, or personnel, but the situation is unpredictable.",
+      "strategic_outlook": "The meeting could lead to improved relations between the two countries, potentially reducing regional tensions, but the outcome is uncertain.",
+      "operational_impact": "Minimal direct impact on transport or logistics expected from this event, but ongoing instability in Mali could affect regional security and operations.",
+      "proximity_alert": "YAKIN TEHDİT: Bamako–Sénou International Airport (13 km)"
+    }
+  },
+  {
+    "id": "d1011a254eed86fad2d907ac1eb72827",
+    "timestamp": "2026-07-28T21:13:48.752437",
+    "original_title": "Oman presents Iran with Gulf-backed plan to ease Strait of Hormuz tensions",
+    "link": "https://www.france24.com/en/middle-east/20260728-oman-presents-iran-with-gulf-backed-plan-to-ease-strait-of-hormuz-tensions",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 7,
+      "location": "Strait of Hormuz, Oman/Iran",
+      "latitude": 26.0,
+      "longitude": 56.0,
+      "detailed_analysis": "Oman's proposal to jointly manage the Strait of Hormuz with Iran, including a system of voluntary fees for ships, aims to ease tensions and restore stable shipping after months of disruption. The plan's success is uncertain and may be affected by the ongoing US-Israeli conflict with Iran.",
+      "immediate_forecast_24h": "Tensions in the Strait of Hormuz are expected to remain high in the short term, with a risk of further disruptions to shipping. Iran's response to the proposal is crucial and will likely determine the next steps.",
+      "strategic_outlook": "A long-term resolution to the conflict in the Strait of Hormuz will require a comprehensive agreement between Iran, the US, and other regional stakeholders. The proposed joint management of the strait could be a step towards de-escalation, but its success depends on the cooperation of all parties involved.",
+      "operational_impact": "The ongoing tensions and potential disruptions in the Strait of Hormuz may lead to increased costs and delays for shipping companies, as well as potential risks to crew and cargo. Transport and logistics operators should monitor the situation closely and consider alternative routes or contingency plans if necessary.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "db19cdd090818e215843e00841e5c5f6",
+    "timestamp": "2026-07-28T21:13:52.422016",
+    "original_title": "The Bahamas - Level 2: Exercise Increased Caution",
+    "link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/the-bahamas-travel-advisory.html",
+    "source_name": "US State Dept",
+    "ai_analysis": {
+      "category": "Crime",
+      "risk_score": 6,
+      "location": "Nassau, The Bahamas",
+      "latitude": 25.0597,
+      "longitude": -77.3383,
+      "detailed_analysis": "The Bahamas has a high crime rate, including violent crimes such as armed robberies, burglaries, and sexual assaults. Areas like the 'Over the Hill' in Nassau and vacation rental properties without private security are particularly vulnerable. Additionally, there are safety concerns related to jet skis, boating, and licenses, with reports of sexual assaults by jet ski operators and unlicensed watercraft operators ignoring weather forecasts.",
+      "immediate_forecast_24h": "Increased caution is advised due to the high crime rate, with a particular focus on areas like Nassau and Freeport. Travelers should be aware of their surroundings, especially in public restrooms and when engaging in water activities.",
+      "strategic_outlook": "The crime situation in The Bahamas is likely to remain a concern, with the potential for increased violence and safety risks. Long-term strategies should include enhanced security measures, such as increased police presence and improved lighting in high-risk areas.",
+      "operational_impact": "The high crime rate and safety concerns in The Bahamas may impact transport and logistics operations, particularly in areas like Nassau and Freeport. Companies should consider implementing additional security measures, such as GPS tracking and secure storage, to protect their assets and personnel.",
+      "proximity_alert": null
     }
   }
 ]
