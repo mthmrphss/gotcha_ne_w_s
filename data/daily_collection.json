@@ -112,5 +112,43 @@
       "operational_impact": "Potential disruptions to shipping and aviation operations, increased security measures, and possible rerouting of cargo and flights to avoid the affected areas.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "bd6c1177aa115a9f3b3ba7529302e50e",
+    "timestamp": "2026-07-28T09:18:27.169614",
+    "original_title": "How Orbán’s Fall Changed Serbia’s Political Future",
+    "link": "https://warontherocks.com/how-orbans-fall-changed-serbias-political-future/",
+    "source_name": "War on the Rocks",
+    "ai_analysis": {
+      "category": "Conflict/Politics",
+      "risk_score": 10,
+      "location": "Belgrade, Serbia",
+      "latitude": 44.8167,
+      "longitude": 20.4667,
+      "detailed_analysis": "The article discusses the impact of Vladimir Putin's actions and the fall of Viktor Orbán on Serbia's political future, with no direct threats to assets, cargo, aviation, or personnel.",
+      "immediate_forecast_24h": "No immediate threats or changes expected in the next 24 hours.",
+      "strategic_outlook": "Long-term political instability in the region could potentially affect transport and logistics, but no clear indication of this in the article.",
+      "operational_impact": "No direct operational impact on transport or logistics expected at this time.",
+      "proximity_alert": "YAKIN TEHDİT: Belgrade Nikola Tesla Airport (12 km)"
+    }
+  },
+  {
+    "id": "e96191e0ffd60df8b9bb337042766566",
+    "timestamp": "2026-07-28T09:18:30.838055",
+    "original_title": "Iran: Tehran slams Ukraine over Caspian sea attacks",
+    "link": "http://www.africanews.com/2026/07/27/iran-tehran-slams-ukraine-over-caspian-sea-attacks/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "Iran has condemned Ukraine for striking vessels linked to Iran in the Caspian Sea, indicating a potential escalation of conflict between the two nations, which could impact maritime trade and security in the region.",
+      "immediate_forecast_24h": "Heightened tensions between Iran and Ukraine, potential for further retaliatory actions, increased security measures in the Caspian Sea region.",
+      "strategic_outlook": "Long-term implications for regional stability, potential impact on global oil prices, and increased risk of miscalculation or accidental conflict.",
+      "operational_impact": "Possible disruptions to maritime trade, increased risk of piracy or attacks on vessels, and heightened security concerns for aviation and personnel in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
   }
 ]
