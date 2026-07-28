@@ -1,59 +1,21 @@
 [
   {
-    "id": "5b775ca160a68e20d5124f7de8fd1272",
-    "timestamp": "2026-07-28T11:36:03.312970",
-    "original_title": "As U.S. Pauses Strikes, Iran Is No Rush to Resume Cease-Fire Talks",
-    "link": "https://www.nytimes.com/2026/07/28/world/middleeast/iran-war-us-trump.html",
-    "source_name": "NewYork Times",
+    "id": "3415008a72ba2b975ce71b09b5d7bc9d",
+    "timestamp": "2026-07-28T14:24:59.753996",
+    "original_title": "Libya orders army to expel protesters from gas plant",
+    "link": "http://www.africanews.com/2026/07/28/libya-orders-army-to-expel-protesters-from-gas-plant/",
+    "source_name": "Africa News",
     "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 7,
-      "location": "Strait of Hormuz, Middle East",
-      "latitude": 26.0,
-      "longitude": 56.0,
-      "detailed_analysis": "The current pause in strikes between the U.S. and Iran, combined with Iran's reluctance to resume cease-fire talks, indicates a heightened state of tension that could impact shipping and aviation in the region, particularly through the strategic Strait of Hormuz.",
-      "immediate_forecast_24h": "In the next 24 hours, there is a potential for increased military presence and heightened security measures in the Strait of Hormuz, which could lead to delays or disruptions in maritime and possibly aviation traffic.",
-      "strategic_outlook": "Long term, the situation could escalate into further conflict, affecting global oil prices and significantly impacting maritime and aviation logistics, especially if Iran decides to exert its leverage over the Strait of Hormuz.",
-      "operational_impact": "The conflict could lead to increased costs and risks for shipping and aviation companies operating in the region, including potential insurance hikes, rerouting of cargo, and heightened security protocols for both personnel and assets.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "d72964c3831ddbdac44da16575068aa5",
-    "timestamp": "2026-07-28T11:36:05.875842",
-    "original_title": "Hundreds of Ukrainian Drones Target Moscow in Overnight Blitz",
-    "link": "https://www.reddit.com/r/geopolitics/comments/1v8unaj/hundreds_of_ukrainian_drones_target_moscow_in/",
-    "source_name": "Reddit r/Geopolitics",
-    "ai_analysis": {
-      "category": "Aviation/Conflict",
+      "category": "Conflict/Civil Unrest",
       "risk_score": 10,
-      "location": "Moscow, Russia",
-      "latitude": 55.7558,
-      "longitude": 37.6176,
-      "detailed_analysis": "Hundreds of Ukrainian drones have targeted Moscow in an overnight blitz, indicating a significant escalation in the conflict and posing a substantial threat to aviation and national security.",
-      "immediate_forecast_24h": "Increased military presence and heightened security measures are expected in Moscow, with potential disruptions to air traffic and logistics. Retaliation from Russia is also possible.",
-      "strategic_outlook": "This event may mark a new phase in the conflict, with increased use of drone technology and potential for further escalation. Long-term implications for regional stability and global security are significant.",
-      "operational_impact": "Disruptions to air traffic, increased security checks, and potential delays in logistics and transportation services can be expected. The incident may also impact international relations and trade.",
-      "proximity_alert": "YAKIN TEHDİT: Vnukovo International Airport (27 km)"
-    }
-  },
-  {
-    "id": "eb1f170682ae44dbd9a80427ba41ce47",
-    "timestamp": "2026-07-28T11:36:08.773881",
-    "original_title": "'Trump Needs a Way Out of This War': General Yakovlev explains 'charade' over US-Iran negotiations",
-    "link": "https://www.france24.com/en/trump-needs-a-way-out-of-this-war-general-yakovlev-explains-charade-over-us-iran-negotiations",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 7,
-      "location": "US-Iran",
-      "latitude": 32.0,
-      "longitude": 53.0,
-      "detailed_analysis": "The current lull in the US-Iran conflict is attributed to structural constraints rather than diplomatic progress, with General Yakovlev emphasizing the importance of sustainability in modern warfare, including missile stockpiles, industrial production capacity, and domestic political legitimacy.",
-      "immediate_forecast_24h": "No immediate escalation expected, but ongoing tensions may lead to sporadic incidents, potentially impacting regional aviation and cargo operations.",
-      "strategic_outlook": "Long-term sustainability of US military operations against Iran is questionable, with potential erosion of ability to deter other adversaries, reassure allies, and sustain global commitments, which could have far-reaching implications for regional and global security.",
-      "operational_impact": "Potential disruptions to aviation and cargo operations in the region, particularly if the conflict escalates, with possible impacts on supply chains, logistics, and personnel safety.",
-      "proximity_alert": null
+      "location": "Libya",
+      "latitude": 32.875,
+      "longitude": 13.187,
+      "detailed_analysis": "A group of protesters has forced their way into a gas plant in Libya, prompting the internationally-recognised government to order the army to regain control, which could lead to potential disruptions in gas supply and pose a risk to nearby assets and personnel.",
+      "immediate_forecast_24h": "The situation may escalate into violence as the army attempts to expel the protesters, potentially causing a blackout and disrupting critical infrastructure.",
+      "strategic_outlook": "The long-term stability of Libya's energy sector and the security of its critical infrastructure are at risk due to the ongoing conflict and civil unrest, which could have far-reaching consequences for the region.",
+      "operational_impact": "The potential disruption to the gas plant's operations could impact the supply chain, affecting cargo and logistics in the region, and posing a risk to personnel and assets.",
+      "proximity_alert": "YAKIN TEHDİT: Tripoli International Airport (23 km)"
     }
   }
 ]

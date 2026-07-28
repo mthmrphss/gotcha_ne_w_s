@@ -207,5 +207,24 @@
       "operational_impact": "Potential disruptions to aviation and cargo operations in the region, particularly if the conflict escalates, with possible impacts on supply chains, logistics, and personnel safety.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "3415008a72ba2b975ce71b09b5d7bc9d",
+    "timestamp": "2026-07-28T14:24:59.753996",
+    "original_title": "Libya orders army to expel protesters from gas plant",
+    "link": "http://www.africanews.com/2026/07/28/libya-orders-army-to-expel-protesters-from-gas-plant/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Libya",
+      "latitude": 32.875,
+      "longitude": 13.187,
+      "detailed_analysis": "A group of protesters has forced their way into a gas plant in Libya, prompting the internationally-recognised government to order the army to regain control, which could lead to potential disruptions in gas supply and pose a risk to nearby assets and personnel.",
+      "immediate_forecast_24h": "The situation may escalate into violence as the army attempts to expel the protesters, potentially causing a blackout and disrupting critical infrastructure.",
+      "strategic_outlook": "The long-term stability of Libya's energy sector and the security of its critical infrastructure are at risk due to the ongoing conflict and civil unrest, which could have far-reaching consequences for the region.",
+      "operational_impact": "The potential disruption to the gas plant's operations could impact the supply chain, affecting cargo and logistics in the region, and posing a risk to personnel and assets.",
+      "proximity_alert": "YAKIN TEHDİT: Tripoli International Airport (23 km)"
+    }
   }
 ]
