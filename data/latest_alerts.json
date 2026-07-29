@@ -1,78 +1,78 @@
 [
   {
-    "id": "d0029e5cc0da83e0cc22880c8984dbfe",
-    "timestamp": "2026-07-29T14:52:44.931409",
-    "original_title": "Russia Charges Telegram’s Founder Pavel Durov With Facilitating Terrorism",
-    "link": "https://www.nytimes.com/2026/07/29/world/europe/telegram-russia-pavel-durov.html",
+    "id": "53a1b21d985eef9b99e8035c45081552",
+    "timestamp": "2026-07-29T16:25:47.918146",
+    "original_title": "Iran War Live Updates: New Strikes Threaten to Engulf More Countries in Conflict",
+    "link": "https://www.nytimes.com/live/2026/07/28/world/iran-us-strikes-iraq-trump",
     "source_name": "NewYork Times",
     "ai_analysis": {
-      "category": "Terrorism/Cyber",
-      "risk_score": 10,
-      "location": "Moscow, Russia",
-      "latitude": 55.7558,
-      "longitude": 37.6176,
-      "detailed_analysis": "The charges against Telegram's founder Pavel Durov for facilitating terrorism may indicate a heightened risk of cyber attacks or disruptions to communication services, potentially impacting aviation and logistics operations in Russia.",
-      "immediate_forecast_24h": "Increased monitoring of Telegram and other messaging services by Russian authorities, potential for temporary disruptions to service.",
-      "strategic_outlook": "Long-term implications for the use of encrypted messaging services in Russia, potential for increased surveillance and censorship.",
-      "operational_impact": "Potential disruptions to communication services used by aviation and logistics personnel, increased risk of cyber attacks on critical infrastructure.",
-      "proximity_alert": "YAKIN TEHDİT: Vnukovo International Airport (27 km)"
-    }
-  },
-  {
-    "id": "92355ccdb8984c40455d5a9c59e6f680",
-    "timestamp": "2026-07-29T14:52:48.995605",
-    "original_title": "Kenyan security officers killed in suspected Al-Shabaab border ambush",
-    "link": "http://www.africanews.com/2026/07/29/kenyan-security-officers-killed-in-suspected-al-shabaab-border-ambush/",
-    "source_name": "Africa News",
-    "ai_analysis": {
-      "category": "Terrorism/Conflict/Border",
+      "category": "Conflict/Aviation",
       "risk_score": 8,
-      "location": "Kenya-Somalia border, Kenya",
-      "latitude": -0.0917,
-      "longitude": 39.7763,
-      "detailed_analysis": "The killing of Kenyan security officers in a suspected Al-Shabaab border ambush poses a significant threat to the security of personnel and assets in the region. Al-Shabaab's involvement suggests a high level of organization and potential for future attacks.",
-      "immediate_forecast_24h": "Increased security presence and patrols are expected along the Kenya-Somalia border in the next 24 hours. There is a high likelihood of retaliatory attacks or further ambushes by Al-Shabaab.",
-      "strategic_outlook": "The long-term outlook suggests continued instability and security threats in the region, with potential spillover effects into neighboring countries. Al-Shabaab's activities may disrupt cargo and aviation operations, particularly in areas near the border.",
-      "operational_impact": "The attack may lead to increased security checks and delays for cargo and personnel moving through the region. Aviation operations may also be affected, with potential restrictions on flight routes or increased security screening.",
+      "location": "Middle East",
+      "latitude": 32.0,
+      "longitude": 45.0,
+      "detailed_analysis": "The U.S. and Saudi Arabia's joint airstrikes on Iranian proxies in Iraq, and Iran's retaliatory attack on sites in Jordan, pose a significant threat to aviation and regional stability.",
+      "immediate_forecast_24h": "Escalation of conflict is likely, with potential for more countries to be drawn in, and increased risk of aviation-related incidents, such as drone sightings or missile strikes.",
+      "strategic_outlook": "The conflict may lead to a prolonged period of instability in the region, affecting cargo transport, aviation, and personnel safety, with potential for long-term disruption to global supply chains.",
+      "operational_impact": "Airlines and cargo operators should exercise extreme caution when operating in the region, with potential for flight route changes, increased security measures, and contingency planning for possible disruptions to logistics and supply chains.",
       "proximity_alert": null
     }
   },
   {
-    "id": "6ecce7fe51b40b88f1cbb2f4df97aa1b",
-    "timestamp": "2026-07-29T14:52:51.260655",
-    "original_title": "Public executions in Iran spark anti-regime protests",
-    "link": "https://www.france24.com/en/middle-east/20260729-iran-public-executions-isfahan-anti-regime-protests",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Civil Unrest/Conflict",
-      "risk_score": 10,
-      "location": "Isfahan, Iran",
-      "latitude": 32.6533,
-      "longitude": 51.6667,
-      "detailed_analysis": "Public executions in Iran have sparked anti-regime protests, indicating a high level of civil unrest and potential for further conflict. The situation may escalate, posing a threat to personnel and assets in the region.",
-      "immediate_forecast_24h": "Increased protests and clashes between protesters and anti-riot units are likely, potentially disrupting local transportation and logistics.",
-      "strategic_outlook": "The situation may lead to a prolonged period of instability, affecting the overall security environment in Iran and potentially impacting regional transport and trade routes.",
-      "operational_impact": "Transport and logistics operations in the region may be disrupted due to protests and potential clashes, and personnel may face increased risks to their safety and security.",
-      "proximity_alert": "YAKIN TEHDİT: Isfahan International Airport (23 km)"
-    }
-  },
-  {
-    "id": "418dbcbb18a98a089fc55e6903684623",
-    "timestamp": "2026-07-29T14:52:53.209306",
-    "original_title": "'Two options' for Trump in Middle East war: 'he waits or he escalates massively'",
-    "link": "https://www.france24.com/en/two-options-for-trump-in-middle-east-war-he-waits-or-he-escalates-massively",
+    "id": "7e813001e1edb0d217bc38753619a542",
+    "timestamp": "2026-07-29T16:26:01.094865",
+    "original_title": "Trump tries to take action in the Middle East ahead of midterm elections",
+    "link": "https://www.france24.com/en/video/20260729-trump-tries-to-take-action-in-the-middle-east-ahead-of-midterm-elections-1",
     "source_name": "France 24 ME",
     "ai_analysis": {
       "category": "Conflict",
-      "risk_score": 8,
+      "risk_score": 7,
       "location": "Middle East",
-      "latitude": 29.9792,
-      "longitude": 47.3917,
-      "detailed_analysis": "The US and Saudi Arabia's coordinated attacks on Iran-backed Iraqi militias have escalated tensions in the region, with Iraq calling the strikes a 'blatant violation'. This could lead to increased instability and potential retaliation, affecting aviation and cargo operations.",
-      "immediate_forecast_24h": "Increased military activity and potential retaliation from Iran-backed militias, posing a high risk to aviation and cargo operations in the region.",
-      "strategic_outlook": "The conflict may lead to a prolonged period of instability, affecting trade and logistics in the Middle East, with potential spillover effects on global markets.",
-      "operational_impact": "Potential disruptions to air traffic, cargo shipments, and personnel movements in the region, with increased security measures and possible airspace restrictions.",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The US and Saudi Arabia's joint strike on Iran-backed militias increases tensions in the Middle East, potentially disrupting air travel and cargo transport in the region.",
+      "immediate_forecast_24h": "Escalation of conflict is possible, with potential for further military action or retaliation from Iran-backed groups.",
+      "strategic_outlook": "The conflict may lead to a prolonged period of instability in the region, affecting aviation and cargo operations, as well as the safety of personnel.",
+      "operational_impact": "Potential for flight disruptions, cargo delays, and increased security measures for personnel and assets in the region.",
       "proximity_alert": null
+    }
+  },
+  {
+    "id": "d6ff65394c06aa32651263332d42d72d",
+    "timestamp": "2026-07-29T16:26:04.528210",
+    "original_title": "US and Saudi Araba jointly strike Iraq, widening the conflict",
+    "link": "https://www.france24.com/en/us-and-saudi-araba-jointly-strike-iraq-widening-the-conflict",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Iraq",
+      "latitude": 33.0,
+      "longitude": 44.0,
+      "detailed_analysis": "The US and Saudi Arabia have launched joint airstrikes on Iran-backed armed groups in Iraq, escalating the conflict in the region. This development poses a significant threat to aviation, with potential risks including drone sightings, strikes, and crashes.",
+      "immediate_forecast_24h": "Further retaliation from Iran is expected, potentially targeting US bases and ships in the region, which could lead to increased military activity and heightened tensions.",
+      "strategic_outlook": "The conflict is likely to enter a dangerous new phase, with potential long-term implications for regional stability and global security. The involvement of multiple countries and the use of airstrikes increase the risk of unintended consequences and escalation.",
+      "operational_impact": "The conflict may disrupt air traffic and logistics in the region, potentially affecting cargo transport and personnel movement. Airlines and shipping companies may need to reassess their routes and security protocols to mitigate the risks.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "7fa0e7092e35e55af3a7b0ce794e5585",
+    "timestamp": "2026-07-29T16:26:08.269093",
+    "original_title": "Passengers Trapped On Emirates A380 Superjumbo For Nearly 24 Hours After One Thing After Another Goes Wrong",
+    "link": "https://www.paddleyourownkanoo.com/2026/07/29/passengers-trapped-on-emirates-a380-superjumbo-for-nearly-24-hours-after-one-thing-after-another-goes-wrong/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Dubai, United Arab Emirates to Shanghai, China",
+      "latitude": 25.276987,
+      "longitude": 55.296249,
+      "detailed_analysis": "Passengers on an Emirates flight from Dubai to Shanghai experienced a prolonged delay of nearly 24 hours due to a series of operational issues, but no direct threat to safety or security was reported.",
+      "immediate_forecast_24h": "The situation is expected to be resolved with passengers being accommodated and the flight resuming, but potential for further disruptions to Emirates' operations.",
+      "strategic_outlook": "The incident highlights the importance of robust contingency planning and communication in the aviation industry to mitigate the impact of unforeseen events on passengers and operations.",
+      "operational_impact": "Minimal direct impact on transport/logistics, but potential for reputational damage to Emirates and indirect effects on passenger confidence and airline operations.",
+      "proximity_alert": "YAKIN TEHDİT: DUBAİ (25 km)"
     }
   }
 ]
