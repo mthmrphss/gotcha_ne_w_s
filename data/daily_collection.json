@@ -606,5 +606,62 @@
       "operational_impact": "Minimal direct impact on transport/logistics, but potential for reputational damage to Emirates and indirect effects on passenger confidence and airline operations.",
       "proximity_alert": "YAKIN TEHDİT: DUBAİ (25 km)"
     }
+  },
+  {
+    "id": "b0adf492be1827d62bae614ece60c9af",
+    "timestamp": "2026-07-29T17:49:40.178994",
+    "original_title": "Iran War Live Updates: New Strikes Engulf More Countries in Conflict",
+    "link": "https://www.nytimes.com/live/2026/07/28/world/iran-us-strikes-iraq-trump",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Iraq, Jordan",
+      "latitude": 33.0,
+      "longitude": 44.0,
+      "detailed_analysis": "The U.S. and Saudi Arabia have carried out joint airstrikes on Iran-backed militias in Iraq, and Iran has targeted U.S. military sites in Jordan, indicating an escalation of conflict in the region that could impact aviation and logistics operations.",
+      "immediate_forecast_24h": "Increased tensions and potential for further airstrikes or retaliatory actions, potentially disrupting air travel and cargo transport in the region.",
+      "strategic_outlook": "Prolonged conflict could lead to increased instability, affecting global supply chains and aviation security, with potential for spillover into neighboring countries.",
+      "operational_impact": "Potential for flight disruptions, airspace restrictions, and increased security measures for cargo and personnel, with possible delays or rerouting of transport operations in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "d5b74eb13bb36deeef1d76a7de5648bc",
+    "timestamp": "2026-07-29T17:49:44.076046",
+    "original_title": "Oil Prices Surge by 7.2% After Trump Vows to ‘Hit Iran Hard’ Following Missile Attack",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1va2eeg/oil_prices_surge_by_72_after_trump_vows_to_hit/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Middle East",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The surge in oil prices is a result of increased tensions between the US and Iran, following a missile attack and subsequent vows by Trump to 'hit Iran hard'. This escalation has the potential to disrupt global oil supplies, particularly from the Middle East, and could have significant implications for aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Increased military activity and potential retaliation from Iran could lead to further escalation, potentially affecting air traffic and shipping lanes in the region.",
+      "strategic_outlook": "A prolonged conflict or increased tensions between the US and Iran could lead to long-term disruptions to global oil supplies, potentially affecting the stability of the global economy and having significant implications for the aviation and cargo industries.",
+      "operational_impact": "Potential disruptions to air traffic and shipping lanes, increased security measures, and potential shortages of oil supplies could impact transport and logistics operations in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "eebdc338c6b978c55ff4630146114316",
+    "timestamp": "2026-07-29T17:49:46.371853",
+    "original_title": "How Mexico Locked In Its Militarized Police State",
+    "link": "https://warontherocks.com/how-mexico-locked-in-its-militarized-police-state/",
+    "source_name": "War on the Rocks",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Mexico City, Mexico",
+      "latitude": 19.4326,
+      "longitude": -99.1332,
+      "detailed_analysis": "Mexico's increased militarization and entrenchment of a militarized police state poses a threat to Assets, Cargo, Aviation, and Personnel due to potential civil unrest and conflict.",
+      "immediate_forecast_24h": "Increased security presence and potential for protests or demonstrations in major cities.",
+      "strategic_outlook": "Long-term instability and potential for escalation of conflict, impacting transport and logistics operations in the region.",
+      "operational_impact": "Potential disruptions to supply chains, increased security measures for cargo and personnel, and heightened risk of violence or unrest near transport hubs.",
+      "proximity_alert": "YAKIN TEHDİT: Mexico City International Airport (6 km)"
+    }
   }
 ]
