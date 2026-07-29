@@ -454,5 +454,81 @@
       "operational_impact": "The incident may lead to increased scrutiny of air traffic control procedures, potentially resulting in changes to standard operating procedures and increased training for air traffic controllers to mitigate the risk of similar incidents in the future.",
       "proximity_alert": "YAKIN TEHDİT: Hartsfield–Jackson Atlanta International Airport (0 km)"
     }
+  },
+  {
+    "id": "d0029e5cc0da83e0cc22880c8984dbfe",
+    "timestamp": "2026-07-29T14:52:44.931409",
+    "original_title": "Russia Charges Telegram’s Founder Pavel Durov With Facilitating Terrorism",
+    "link": "https://www.nytimes.com/2026/07/29/world/europe/telegram-russia-pavel-durov.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Terrorism/Cyber",
+      "risk_score": 10,
+      "location": "Moscow, Russia",
+      "latitude": 55.7558,
+      "longitude": 37.6176,
+      "detailed_analysis": "The charges against Telegram's founder Pavel Durov for facilitating terrorism may indicate a heightened risk of cyber attacks or disruptions to communication services, potentially impacting aviation and logistics operations in Russia.",
+      "immediate_forecast_24h": "Increased monitoring of Telegram and other messaging services by Russian authorities, potential for temporary disruptions to service.",
+      "strategic_outlook": "Long-term implications for the use of encrypted messaging services in Russia, potential for increased surveillance and censorship.",
+      "operational_impact": "Potential disruptions to communication services used by aviation and logistics personnel, increased risk of cyber attacks on critical infrastructure.",
+      "proximity_alert": "YAKIN TEHDİT: Vnukovo International Airport (27 km)"
+    }
+  },
+  {
+    "id": "92355ccdb8984c40455d5a9c59e6f680",
+    "timestamp": "2026-07-29T14:52:48.995605",
+    "original_title": "Kenyan security officers killed in suspected Al-Shabaab border ambush",
+    "link": "http://www.africanews.com/2026/07/29/kenyan-security-officers-killed-in-suspected-al-shabaab-border-ambush/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict/Border",
+      "risk_score": 8,
+      "location": "Kenya-Somalia border, Kenya",
+      "latitude": -0.0917,
+      "longitude": 39.7763,
+      "detailed_analysis": "The killing of Kenyan security officers in a suspected Al-Shabaab border ambush poses a significant threat to the security of personnel and assets in the region. Al-Shabaab's involvement suggests a high level of organization and potential for future attacks.",
+      "immediate_forecast_24h": "Increased security presence and patrols are expected along the Kenya-Somalia border in the next 24 hours. There is a high likelihood of retaliatory attacks or further ambushes by Al-Shabaab.",
+      "strategic_outlook": "The long-term outlook suggests continued instability and security threats in the region, with potential spillover effects into neighboring countries. Al-Shabaab's activities may disrupt cargo and aviation operations, particularly in areas near the border.",
+      "operational_impact": "The attack may lead to increased security checks and delays for cargo and personnel moving through the region. Aviation operations may also be affected, with potential restrictions on flight routes or increased security screening.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "6ecce7fe51b40b88f1cbb2f4df97aa1b",
+    "timestamp": "2026-07-29T14:52:51.260655",
+    "original_title": "Public executions in Iran spark anti-regime protests",
+    "link": "https://www.france24.com/en/middle-east/20260729-iran-public-executions-isfahan-anti-regime-protests",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Isfahan, Iran",
+      "latitude": 32.6533,
+      "longitude": 51.6667,
+      "detailed_analysis": "Public executions in Iran have sparked anti-regime protests, indicating a high level of civil unrest and potential for further conflict. The situation may escalate, posing a threat to personnel and assets in the region.",
+      "immediate_forecast_24h": "Increased protests and clashes between protesters and anti-riot units are likely, potentially disrupting local transportation and logistics.",
+      "strategic_outlook": "The situation may lead to a prolonged period of instability, affecting the overall security environment in Iran and potentially impacting regional transport and trade routes.",
+      "operational_impact": "Transport and logistics operations in the region may be disrupted due to protests and potential clashes, and personnel may face increased risks to their safety and security.",
+      "proximity_alert": "YAKIN TEHDİT: Isfahan International Airport (23 km)"
+    }
+  },
+  {
+    "id": "418dbcbb18a98a089fc55e6903684623",
+    "timestamp": "2026-07-29T14:52:53.209306",
+    "original_title": "'Two options' for Trump in Middle East war: 'he waits or he escalates massively'",
+    "link": "https://www.france24.com/en/two-options-for-trump-in-middle-east-war-he-waits-or-he-escalates-massively",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Middle East",
+      "latitude": 29.9792,
+      "longitude": 47.3917,
+      "detailed_analysis": "The US and Saudi Arabia's coordinated attacks on Iran-backed Iraqi militias have escalated tensions in the region, with Iraq calling the strikes a 'blatant violation'. This could lead to increased instability and potential retaliation, affecting aviation and cargo operations.",
+      "immediate_forecast_24h": "Increased military activity and potential retaliation from Iran-backed militias, posing a high risk to aviation and cargo operations in the region.",
+      "strategic_outlook": "The conflict may lead to a prolonged period of instability, affecting trade and logistics in the Middle East, with potential spillover effects on global markets.",
+      "operational_impact": "Potential disruptions to air traffic, cargo shipments, and personnel movements in the region, with increased security measures and possible airspace restrictions.",
+      "proximity_alert": null
+    }
   }
 ]
