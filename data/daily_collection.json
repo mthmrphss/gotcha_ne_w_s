@@ -131,5 +131,24 @@
       "operational_impact": "Potential disruptions to cargo shipments, increased security screening for aviation and maritime operations, possible rerouting of flights and ships to avoid conflict zones.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "ee09f714a7dc49bcd2a86c8c1a693337",
+    "timestamp": "2026-07-29T23:33:06.585670",
+    "original_title": "Deadly attack on Pakistan checkpoint leaves 15 dead as militant violence surges",
+    "link": "https://www.france24.com/en/asia-pacific/20260729-deadly-attack-on-pakistan-checkpoint-leaves-15-dead-as-militant-violence-surges",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "Khyber Pakhtunkhwa, Pakistan",
+      "latitude": 34.0211,
+      "longitude": 71.5789,
+      "detailed_analysis": "A deadly attack on a Pakistan checkpoint has resulted in 15 fatalities, indicating a surge in militant violence in the region. The assault comes after another recent clash in the same volatile border province, where authorities attribute the growing wave of attacks to militants operating from neighboring Afghanistan.",
+      "immediate_forecast_24h": "Increased security measures are expected in the region, with potential for further clashes or attacks. Travel and transport in the area may be disrupted or restricted.",
+      "strategic_outlook": "The long-term outlook suggests continued instability in the region due to militant activity, potentially affecting trade routes, aviation, and personnel safety. Enhanced security protocols and contingency planning are advisable for operations in or near the affected area.",
+      "operational_impact": "The attack may impact ground transport and logistics in the region, potentially affecting cargo movement and personnel safety. Aviation operations may also be indirectly affected due to the overall security situation, though there's no direct aviation threat reported in this incident.",
+      "proximity_alert": null
+    }
   }
 ]
