@@ -397,5 +397,138 @@
       "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics in the region due to heightened military activity and possible retaliatory measures.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "81020b5e28eb4ae00e4f7d014827ee13",
+    "timestamp": "2026-07-30T11:13:55.660788",
+    "original_title": "Egypt Suffers First Drone Attack, Widening the Iran War - WSJ",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQM0ZOOGk4MHA3dEUteWJQN1lCWXY4LUtIV3dyNTRLb05BMmxuT0dVRFFpNWM0Z2JCaFRzUndQblAwYW5UTVRIY0M0N2QtdGZNVXpTMG5Yd1NyaW5fSG82NU4xd1NRekM3aFhSTXRVc1RHT2RhdXdJc2xSTzRxUG1KMHRsajhvYnVya09XZlpsdWlDMGVoMGJJNmVkamkxX3k0bUxF?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation/Conflict/Terrorism",
+      "risk_score": 10,
+      "location": "Egypt",
+      "latitude": 30.0626,
+      "longitude": 31.2497,
+      "detailed_analysis": "Egypt has suffered its first drone attack, indicating a widening of the Iran war and increased threat to regional stability. This attack poses a significant risk to aviation and national security.",
+      "immediate_forecast_24h": "Increased military presence and heightened security measures are expected in the region. There is a potential for retaliatory attacks or further drone strikes.",
+      "strategic_outlook": "The escalation of the Iran war into Egyptian territory may lead to a broader conflict, affecting regional stability and global security. This could have long-term implications for international relations, trade, and travel.",
+      "operational_impact": "The drone attack may disrupt air traffic and logistics in the region, potentially affecting cargo transport and personnel movement. Enhanced security protocols and emergency response plans should be implemented to mitigate the risks.",
+      "proximity_alert": "YAKIN TEHDİT: Cairo International Airport (17 km)"
+    }
+  },
+  {
+    "id": "33b485d784b73552987f45b0dde77191",
+    "timestamp": "2026-07-30T11:14:00.141722",
+    "original_title": "Russia Strikes Ukraine With Missiles and Drones, Killing at Least 8",
+    "link": "https://www.nytimes.com/2026/07/30/world/europe/russia-ukraine-war-missiles-drones-attacks.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "Russia has launched a series of large-scale aerial assaults on Ukraine, resulting in the deaths of at least 8 people, including a family of five. The use of missiles and drones poses a significant threat to aviation and personnel in the region.",
+      "immediate_forecast_24h": "Further aerial assaults are likely, with potential for increased violence and disruption to aviation and logistics in the region.",
+      "strategic_outlook": "The ongoing conflict between Russia and Ukraine is likely to continue, with potential for escalation and increased risk to assets, cargo, aviation, and personnel in the region.",
+      "operational_impact": "The conflict is likely to disrupt air travel and logistics in the region, with potential for delays, cancellations, and increased security measures.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "57c4398e1a4316bce9ec48faaab7918c",
+    "timestamp": "2026-07-30T11:14:01.909299",
+    "original_title": "Poland’s Leader Says Russian Missile May Have Struck Its Territory During Ukraine Attack",
+    "link": "https://www.nytimes.com/2026/07/30/world/europe/ukraine-poland-russia-missile.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Poland",
+      "latitude": 52.0,
+      "longitude": 19.0,
+      "detailed_analysis": "A Russian missile may have struck Polish territory during a Ukraine attack, posing a significant threat to aviation and regional stability.",
+      "immediate_forecast_24h": "Increased tensions between Poland, Russia, and Ukraine are expected, with potential for further military action or retaliation.",
+      "strategic_outlook": "Long-term implications include heightened security measures in the region, potential economic sanctions, and strained international relations.",
+      "operational_impact": "Possible disruptions to air traffic, cargo transport, and logistics in the region, with potential for airspace restrictions or closures.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "419134e127757eb43b2f0b8785603642",
+    "timestamp": "2026-07-30T11:14:04.993386",
+    "original_title": "Hundreds of migrants swim from Morocco to the Spanish territory of Ceuta",
+    "link": "http://www.africanews.com/2026/07/30/hundreds-of-migrants-swim-from-morocco-to-the-spanish-territory-of-ceuta/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Border/Civil Unrest",
+      "risk_score": 6,
+      "location": "Ceuta, Spain",
+      "latitude": 35.8888,
+      "longitude": -5.3667,
+      "detailed_analysis": "A large number of migrants are swimming from Morocco to the Spanish territory of Ceuta, overwhelming border security. This could lead to potential disruptions in transport and logistics in the region.",
+      "immediate_forecast_24h": "Increased border security measures are expected in the next 24 hours, potentially causing delays in cargo and personnel movement.",
+      "strategic_outlook": "The situation may lead to a long-term increase in security measures and potential tensions between Morocco and Spain, affecting trade and travel in the region.",
+      "operational_impact": "Transport and logistics operations in the region may be affected due to increased security checks and potential border closures, leading to delays and disruptions in the supply chain.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "9413cc734857d687e7441fceba3c9f87",
+    "timestamp": "2026-07-30T11:14:07.114078",
+    "original_title": "#Ukraine pounded in Russian attack, Polish airspace 'violated'",
+    "link": "https://www.france24.com/en/video/20260730-ukraine-pounded-in-russian-attack-polish-airspace-violated",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Aviation/Terrorism",
+      "risk_score": 10,
+      "location": "Ukraine/Poland",
+      "latitude": 49.8175,
+      "longitude": 24.0139,
+      "detailed_analysis": "A recent attack by Russia on Ukraine has led to an unidentified object violating Polish airspace and crashing into a field, indicating a significant escalation in the conflict and potential for further aerial threats.",
+      "immediate_forecast_24h": "Increased tensions between Russia and Ukraine, potential for further aerial attacks or violations of neighboring countries' airspace, heightened security measures in the region.",
+      "strategic_outlook": "Long-term instability in the region, potential for expanded conflict, increased demand for military aid and defense systems, ongoing threats to aviation and personnel safety.",
+      "operational_impact": "Potential disruptions to air travel and logistics in the region, increased security protocols for aviation and cargo operations, heightened vigilance for potential aerial threats or violations of airspace.",
+      "proximity_alert": "YAKIN TEHDİT: Lviv Danylo Halytskyi International Airport (4 km)"
+    }
+  },
+  {
+    "id": "76dc79bf8518e5ace2d4a620ba791433",
+    "timestamp": "2026-07-30T11:14:10.046077",
+    "original_title": "Poland says giant crater left by explosion after Russia attacks on Ukraine",
+    "link": "https://www.france24.com/en/video/20260730-poland-says-giant-crater-left-by-explosion-after-russia-attacks-on-ukraine",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Eastern Poland, near Ukraine border",
+      "latitude": 50.0667,
+      "longitude": 22.9667,
+      "detailed_analysis": "A 10-meter wide crater was left by an explosion in eastern Poland, near the border with Ukraine, as Russia staged new missile attacks on Ukraine. The cause of the crater is not immediately known, but it poses a significant threat to the region's stability and security.",
+      "immediate_forecast_24h": "Increased tensions between Russia and Ukraine may lead to further attacks, potentially affecting aviation and cargo operations in the region.",
+      "strategic_outlook": "The ongoing conflict between Russia and Ukraine may lead to a prolonged period of instability in the region, posing a long-term threat to assets, cargo, aviation, and personnel.",
+      "operational_impact": "Potential disruptions to air traffic, cargo transport, and logistics operations in the region due to the conflict. Increased security measures may be necessary to mitigate the risks.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "e36dfa63ca0ae51c63235a7aad0a961d",
+    "timestamp": "2026-07-30T11:14:14.020225",
+    "original_title": "Major train disruption as union announces August strike action",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/east-midlands-railway-strikes-august-rmt-union-dates-b3024464.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Civil Unrest",
+      "risk_score": 6,
+      "location": "Unknown, UK",
+      "latitude": 54.0,
+      "longitude": -2.0,
+      "detailed_analysis": "A major train disruption is expected due to a union-announced strike in August, citing concerns over train safety. This could lead to significant disruptions in cargo and passenger transport.",
+      "immediate_forecast_24h": "Minimal immediate impact expected, but preparations for the strike may begin, causing some disruptions to transport services.",
+      "strategic_outlook": "The strike may lead to a re-evaluation of train safety protocols and potentially impact the reputation of the train operating companies. It could also lead to further industrial action if the concerns are not addressed.",
+      "operational_impact": "Significant disruptions to cargo and passenger rail services are expected during the strike, potentially causing delays and increased costs for logistics and transport companies.",
+      "proximity_alert": null
+    }
   }
 ]
