@@ -701,5 +701,62 @@
       "operational_impact": "Potential disruptions to air traffic, increased security checks, and possible restrictions on cargo and personnel movement in the region.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "b8ede0a370c8fa2367d4ba896c054626",
+    "timestamp": "2026-07-30T17:41:30.869341",
+    "original_title": "Lawmakers will investigate Iranian attack that killed 6 U.S. troops - washingtonpost.com",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMmhaTmN4cjZ4Zy1TcUREa2ZvOG4tSmRHR0R6S3p5R19Fa1p4WS1DZ09zOUtJOXd6ZkZRMTZVZUNkUWpoLWUtdDdOVF9nbWoxQmx1NGRCc1JQUFI5aS16bU5jY1plSkZGbkN0cUtTZDVCaGNHMUtZU2Y2N3ZlRXJvNVJ0Qnp6LUJNOHluRFE1cG5rTVVHYnFWaVdKWk9NdDZKdjZUU2xIMld0SFIxRWk0TXNnUlhMeTVUQndjZzUyaTNlUzBG?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 8,
+      "location": "Iran/USA",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Iranian attack on US troops indicates heightened tensions between nations, posing a significant threat to personnel and potentially disrupting regional aviation and logistics operations.",
+      "immediate_forecast_24h": "Increased military presence and heightened security measures are expected in the region, with potential for further clashes or retaliatory actions.",
+      "strategic_outlook": "Long-term implications include potential escalation of conflict, impact on global oil prices, and increased security measures for US and allied personnel and assets in the region.",
+      "operational_impact": "Transport and logistics operations in the region may be disrupted due to increased security measures, potential airspace restrictions, and heightened risk of attacks on personnel and assets.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "11300bb3e5cb6ae58ce19c00469ea26b",
+    "timestamp": "2026-07-30T17:41:37.383749",
+    "original_title": "Drone strike near Suez Canal in Egypt raises new security threat in widening war",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1vb0f1m/drone_strike_near_suez_canal_in_egypt_raises_new/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Suez Canal, Egypt",
+      "latitude": 30.5,
+      "longitude": 32.3,
+      "detailed_analysis": "A drone strike near the Suez Canal in Egypt poses a significant threat to aviation and cargo operations, potentially disrupting global trade and logistics. The incident is part of a widening conflict, indicating increased instability in the region.",
+      "immediate_forecast_24h": "Heightened security measures are expected in the region, with potential disruptions to air and sea traffic. Further drone strikes or retaliatory actions are possible, increasing the risk of escalation.",
+      "strategic_outlook": "The long-term impact of this incident could lead to increased security protocols and surveillance in the region, potentially affecting the efficiency and cost of cargo and aviation operations. The conflict may also lead to shifts in global trade routes and alliances.",
+      "operational_impact": "Transport and logistics operations in the region may experience delays or disruptions due to increased security checks and potential airspace or sea lane closures. Cargo and aviation companies should be prepared for possible changes in routing, scheduling, and security protocols.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "c80072cc56e316a4c7ebfa2e5d2ed3b3",
+    "timestamp": "2026-07-30T17:41:42.176200",
+    "original_title": "WestJet Flight Attendants Issue 72-Hour Strike Notice in Raging Dispute Over Crew Working For Free",
+    "link": "https://www.paddleyourownkanoo.com/2026/07/30/westjet-flight-attendants-issue-72-hour-strike-notice-in-raging-dispute-over-crew-working-for-free/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Aviation/Civil Unrest",
+      "risk_score": 7,
+      "location": "Calgary, Canada",
+      "latitude": 51.05,
+      "longitude": -114.06,
+      "detailed_analysis": "WestJet flight attendants have issued a 72-hour strike notice due to a dispute over working conditions, which could lead to disruptions in flight operations and impact passenger travel.",
+      "immediate_forecast_24h": "The strike notice period will expire, and if an agreement is not reached, flight attendants may proceed with strike action, potentially causing flight cancellations or delays.",
+      "strategic_outlook": "The dispute may lead to a prolonged labor conflict, affecting WestJet's operations and reputation, as well as the overall Canadian aviation industry.",
+      "operational_impact": "Potential disruptions to WestJet flights, impact on passenger travel, and possible delays or cancellations, which may also affect cargo transport and logistics operations.",
+      "proximity_alert": null
+    }
   }
 ]
