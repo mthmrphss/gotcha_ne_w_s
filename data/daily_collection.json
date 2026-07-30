@@ -625,5 +625,81 @@
       "operational_impact": "Transport and logistics operations in the region may be disrupted due to increased security measures and potential border closures, affecting the movement of cargo and personnel.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "b0d69f31d77808c995882536510dc71a",
+    "timestamp": "2026-07-30T15:33:11.724650",
+    "original_title": "Iran War Live Updates: Drone Attack in Egypt Threatens to Expand Fighting",
+    "link": "https://www.nytimes.com/live/2026/07/30/world/iran-war-strikes-trump",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 10,
+      "location": "Egypt",
+      "latitude": 30.0626,
+      "longitude": 31.2497,
+      "detailed_analysis": "Drone attack in Egypt threatens to expand fighting between the United States and Iran, with Saudi Arabia's direct involvement escalating the conflict. This poses a significant threat to aviation and regional stability.",
+      "immediate_forecast_24h": "Increased military activity and potential for further drone attacks or strikes in the region, affecting air traffic and transport logistics.",
+      "strategic_outlook": "Prolonged conflict could lead to heightened security measures, potential airspace restrictions, and increased risk of attacks on aviation assets and personnel.",
+      "operational_impact": "Disruptions to air travel, potential delays or cancellations of flights, and increased security protocols for cargo and personnel movement in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Cairo International Airport (17 km)"
+    }
+  },
+  {
+    "id": "ed6cb1a5b57b4f57b98aca8b25f0ca65",
+    "timestamp": "2026-07-30T15:33:13.577502",
+    "original_title": "NATO Says Russian Missile Hit Poland During Ukraine Attack",
+    "link": "https://www.nytimes.com/2026/07/30/world/europe/ukraine-poland-russia-missile.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Poland",
+      "latitude": 52.0,
+      "longitude": 19.0,
+      "detailed_analysis": "A Russian missile has struck Poland, a NATO member, during an attack on Ukraine, raising concerns about the escalation of the conflict and its impact on regional security and aviation safety.",
+      "immediate_forecast_24h": "Increased military activity and heightened tensions between NATO and Russia are expected, with potential for further incidents or retaliatory actions.",
+      "strategic_outlook": "The long-term implications of this incident could lead to a significant escalation of the conflict, potentially drawing in more countries and affecting global aviation and logistics.",
+      "operational_impact": "Potential disruptions to air traffic and logistics in the region, increased security measures at airports and borders, and possible restrictions on flights over conflict zones.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "83bd90d3fc71e9ec9a3145522ce613ca",
+    "timestamp": "2026-07-30T15:33:26.237619",
+    "original_title": "Ceuta calls for emergency as thousands of migrants cross",
+    "link": "http://www.africanews.com/2026/07/30/ceuta-calls-for-emergency-as-thousands-of-migrants-cross/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Border/Civil Unrest",
+      "risk_score": 6,
+      "location": "Ceuta, Spain",
+      "latitude": 35.8881,
+      "longitude": -5.3669,
+      "detailed_analysis": "Thousands of migrants crossing into Ceuta poses a significant threat to border security and may impact transport and logistics operations in the region.",
+      "immediate_forecast_24h": "Increased security measures and potential disruptions to transport services are expected in the next 24 hours as authorities respond to the crisis.",
+      "strategic_outlook": "The situation may lead to long-term changes in border control policies and procedures, potentially affecting cargo and personnel movement in the region.",
+      "operational_impact": "Transport and logistics operations in Ceuta may be disrupted due to the large influx of migrants, and security measures may be heightened, causing potential delays and increased costs.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "57182dfd06c47a3bbec158707730065c",
+    "timestamp": "2026-07-30T15:33:28.172846",
+    "original_title": "Warsaw blames Moscow after a missile crashes in Poland",
+    "link": "https://www.france24.com/en/europe/20260730-warsaw-blames-moscow-after-a-missile-crashes-in-poland",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Eastern Poland",
+      "latitude": 50.8833,
+      "longitude": 23.85,
+      "detailed_analysis": "A suspected Russian missile has crashed in eastern Poland, sparking an investigation by Polish authorities. The incident has raised concerns about the escalation of conflict and potential threats to aviation and regional security.",
+      "immediate_forecast_24h": "Increased tensions between Poland and Russia, potential for further incidents or military responses, and heightened security measures at Polish airports and borders.",
+      "strategic_outlook": "Long-term implications for regional stability, potential for NATO involvement, and increased security protocols for aviation and logistics in the region.",
+      "operational_impact": "Potential disruptions to air traffic, increased security checks, and possible restrictions on cargo and personnel movement in the region.",
+      "proximity_alert": null
+    }
   }
 ]
