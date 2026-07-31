@@ -511,5 +511,24 @@
       "operational_impact": "The crash may cause disruptions to military aviation operations in the area, potentially affecting personnel and cargo transport. However, the impact on commercial aviation and logistics is expected to be minimal.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "fdec5b1bebbbc6e941b025a643b239a1",
+    "timestamp": "2026-07-31T20:23:19.996980",
+    "original_title": "Trump says US has not agreed to Ukraine producing Patriot missiles",
+    "link": "https://www.france24.com/en/americas/20260731-trump-says-us-has-not-agreed-to-ukraine-producing-patriot-missiles",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Washington, USA",
+      "latitude": 38.8951,
+      "longitude": -77.0364,
+      "detailed_analysis": "The statement by US President Donald Trump regarding the production of Patriot missiles in Ukraine may lead to increased tensions between the US and Ukraine, but does not directly pose a threat to assets, cargo, aviation, or personnel at this time.",
+      "immediate_forecast_24h": "No immediate escalation is expected, but diplomatic relations may be strained.",
+      "strategic_outlook": "Long-term implications may include changes in military alliances or agreements, potentially affecting regional stability.",
+      "operational_impact": "No direct impact on transport or logistics is anticipated at this time.",
+      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
+    }
   }
 ]
