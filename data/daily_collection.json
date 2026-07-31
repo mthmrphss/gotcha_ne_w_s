@@ -283,5 +283,62 @@
       "operational_impact": "The wildfire may cause disruptions to local transport and logistics, particularly in the affected areas. However, the overall impact on national and international transport is expected to be minimal.",
       "proximity_alert": "YAKIN TEHDİT: Bordeaux–Mérignac Airport (10 km)"
     }
+  },
+  {
+    "id": "8806617fcf46a3fd3a26fef2e3a3f996",
+    "timestamp": "2026-07-31T12:29:09.005318",
+    "original_title": "Spain deploys military to Ceuta after thousands of migrant crossings at Morocco border; at least 34 dead - CBS News",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYjVWQ1JoM1F5SEd1VDRKVEotS2dibnNTczgyS1g5eVNIRlpYVmFWeDhzMXBMTEJkQVVOZGc4cEszb0NUWGlYeFYzd19Nb1MzMjFyem4xZHdWWnR4UHBZdDZQOUJRZlRFbm55WkRsSWpMd0xsZGUwazhQZ2hGYl9QM1hHM1VmUFJFMlE?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Border/Civil Unrest/Conflict",
+      "risk_score": 6,
+      "location": "Ceuta, Spain",
+      "latitude": 35.8881,
+      "longitude": -5.3669,
+      "detailed_analysis": "Thousands of migrant crossings at the Morocco border have led to the deployment of the military in Ceuta, Spain, resulting in at least 34 deaths. This situation poses a significant risk to border security and may impact transport and logistics in the region.",
+      "immediate_forecast_24h": "The situation is expected to remain volatile in the next 24 hours, with potential for further clashes between migrants and security forces. Transport and logistics operations may be disrupted or delayed.",
+      "strategic_outlook": "The long-term outlook suggests that the migrant crisis may continue to pose a challenge to border security and transport operations in the region. Spain and Morocco may need to work together to address the root causes of the crisis and find a sustainable solution.",
+      "operational_impact": "The deployment of the military and the ongoing migrant crisis may impact transport and logistics operations in the region, including potential delays or disruptions to cargo shipments and passenger travel.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "17981849eae2660754d77cab1de6255d",
+    "timestamp": "2026-07-31T12:29:13.404677",
+    "original_title": "Analysts believe US-Iran war at critical point with potential for further escalation",
+    "link": "http://www.africanews.com/2026/07/31/analysts-believe-us-iran-war-at-critical-point-with-potential-for-further-escalation/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Middle East",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "The US-Iran conflict is at a critical point with potential for further escalation, indicating a high risk of disruption to aviation, cargo, and personnel in the region.",
+      "immediate_forecast_24h": "Increased tensions and potential for retaliatory strikes may lead to heightened security measures and disruptions to air travel and logistics in the next 24 hours.",
+      "strategic_outlook": "Prolonged conflict may lead to long-term instability in the region, affecting global supply chains and aviation routes, with potential for increased risk of terrorism and cyber attacks.",
+      "operational_impact": "Potential for flight disruptions, cargo delays, and increased security protocols may impact transport and logistics operations in the region, with possible ripple effects on global trade and commerce.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "4c2e107b073012fcabe825fdb725fc42",
+    "timestamp": "2026-07-31T12:29:16.060005",
+    "original_title": "What to know about the arrival of 49,000 migrants into Spain's Ceuta",
+    "link": "https://www.france24.com/en/what-to-know-about-the-arrival-of-nearly-49-000-migrants-from-morocco-into-spain",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Border/Civil Unrest",
+      "risk_score": 6,
+      "location": "Ceuta, Spain",
+      "latitude": 35.8881,
+      "longitude": -5.3669,
+      "detailed_analysis": "Mass migration of approximately 49,000 individuals into Ceuta, Spain from Morocco, resulting in significant border breaches and potential disruptions to local transport and logistics. The situation may lead to increased tensions and unrest in the area.",
+      "immediate_forecast_24h": "Continued migrant influx and potential for further border breaches, with authorities likely to implement enhanced security measures to manage the situation.",
+      "strategic_outlook": "Long-term implications for regional border security and potential for increased migrant flows, which could impact local economies and social stability.",
+      "operational_impact": "Potential disruptions to transport and logistics in the region, particularly for cargo and personnel, due to increased security measures and potential civil unrest.",
+      "proximity_alert": null
+    }
   }
 ]
