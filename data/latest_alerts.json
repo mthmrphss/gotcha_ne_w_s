@@ -1,20 +1,39 @@
 [
   {
-    "id": "db982ee0bd1e2b1302831dc5ece59bf6",
-    "timestamp": "2026-07-31T00:09:09.255582",
-    "original_title": "Pakistan says US-Iran talks still alive despite fresh wave of US strikes",
-    "link": "https://www.france24.com/en/middle-east/20260730-pakistan-says-us-iran-talks-still-alive-despite-fresh-wave-of-us-strikes",
-    "source_name": "France 24 ME",
+    "id": "71227b323d1645339de30b16e3092c17",
+    "timestamp": "2026-07-31T04:02:03.881271",
+    "original_title": "U.S. spy agencies suspect Iran launched cyberattack on Minnesota water facilities - washingtonpost.com",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcEkyM093aGxCOWE1OTVEUlRCTUdQQUN1VGlFa3VST0JJNnV5QlZ0eXJNNDZ2cHU4SHREeHRMNHVJeWFxUHVkNzBHblpuOGZNWGhjNkc5NDZ6MWV4THp6aEowVjJnYmxsSEtvOXp5UnhxcURwZ3YybU9yQWphY2F5dXhPNkxsZmZ2SVRJcU9iNjVNTTFZb09BbUlpZnVRQllmR2ExNmw5SWptNTdvWFNuZEJVVlAyNVRyZU9vWllIb094OGVYbGJQY1lQaVhxcWdrNk1j?oc=5",
+    "source_name": "Google News (Breaking)",
     "ai_analysis": {
-      "category": "Conflict/Civil Unrest",
-      "risk_score": 7,
-      "location": "Middle East",
-      "latitude": 30.0,
-      "longitude": 50.0,
-      "detailed_analysis": "Renewed fighting between US and Iran has widened fears of a broader regional conflict, with potential impact on key shipping routes and aviation in the region.",
-      "immediate_forecast_24h": "Escalation of conflict may lead to increased military presence and potential disruptions to air and sea traffic in the region.",
-      "strategic_outlook": "Prolonged conflict could lead to long-term instability in the region, affecting global supply chains and trade routes.",
-      "operational_impact": "Potential disruptions to air and sea traffic, increased security measures, and possible rerouting of cargo and flights to avoid conflict zones.",
+      "category": "Cyber",
+      "risk_score": 8,
+      "location": "Minnesota, USA",
+      "latitude": 44.9778,
+      "longitude": -93.265,
+      "detailed_analysis": "U.S. spy agencies suspect Iran launched a cyberattack on Minnesota water facilities, indicating a potential threat to critical infrastructure and public services.",
+      "immediate_forecast_24h": "Increased monitoring and vigilance are expected from U.S. authorities, with possible retaliatory measures against Iran. No immediate physical impact on aviation, cargo, or personnel is anticipated, but the cyber threat landscape may escalate.",
+      "strategic_outlook": "This incident may lead to heightened tensions between the U.S. and Iran, potentially affecting global stability and increasing the risk of future cyberattacks on critical infrastructure.",
+      "operational_impact": "Water facilities and other critical infrastructure may need to enhance their cybersecurity measures to prevent similar attacks. The incident may also lead to increased scrutiny of supply chains and logistics, particularly those related to critical infrastructure.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "78efcae3d6b58ea50cca1c0cb97011ac",
+    "timestamp": "2026-07-31T04:02:07.561377",
+    "original_title": "Saudis Form Military Alliance to Protect Red Sea Shipping",
+    "link": "https://www.nytimes.com/live/2026/07/30/world/iran-war-strikes-trump",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Red Sea",
+      "latitude": 22.0,
+      "longitude": 38.0,
+      "detailed_analysis": "A new military alliance has been formed by Saudi Arabia and over a dozen other countries to protect Red Sea shipping from potential attacks, amidst the widening war between the United States and Iran. This development indicates a heightened state of alert and potential for conflict in the region, posing a significant threat to assets, cargo, aviation, and personnel.",
+      "immediate_forecast_24h": "Increased military presence in the Red Sea, potential for escalated tensions between the US and Iran, and a heightened risk of attacks on shipping vessels.",
+      "strategic_outlook": "Long-term instability in the region, potential for protracted conflict, and ongoing threats to global shipping and trade. The formation of the military alliance may help to mitigate some risks, but the situation remains volatile and unpredictable.",
+      "operational_impact": "Potential disruptions to shipping and logistics in the Red Sea, increased security measures for vessels and personnel, and possible rerouting of cargo shipments to avoid the affected area.",
       "proximity_alert": null
     }
   }
