@@ -1,59 +1,40 @@
 [
   {
-    "id": "1db52b34d6d82ca777017225dd1dbc56",
-    "timestamp": "2026-08-01T16:29:34.462658",
-    "original_title": "Life in Spanish enclave 'disrupted' by migrant influx, says Ceuta mayor",
-    "link": "http://www.africanews.com/2026/08/01/life-in-spanish-enclave-disrupted-by-migrant-influx-says-ceuta-mayor/",
-    "source_name": "Africa News",
+    "id": "ecaa2ffb022a4a2ad602142d83654ac8",
+    "timestamp": "2026-08-01T19:18:53.226511",
+    "original_title": "U.S. investigating if Iran was behind cyberattack on water systems in 7 states, including Minnesota and Michigan - CBS News",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeERJcG8xQXRGamk1aHNPcW1HdllJeWhGSXlFOWIyemFlZmZkQW1IUllubnBZemtwYml5V01YeFJsNXdMOXpyVUVOMjIxUDc1OUstVnBYTWFZVHdrb2R1MnRSNmhwbWR3dUNJYXBOeUtBQlVOTmNsaGZyWXd1OHczWGdJOUZFcHpzUFNWTnhSZFo?oc=5",
+    "source_name": "Google News (Breaking)",
     "ai_analysis": {
-      "category": "Border/Civil Unrest",
-      "risk_score": 5,
-      "location": "Ceuta, Spain",
-      "latitude": 35.8888,
-      "longitude": -5.3667,
-      "detailed_analysis": "A large influx of migrants has breached the border in Ceuta, Spain, causing disruptions to daily life and potentially affecting transport and logistics in the area.",
-      "immediate_forecast_24h": "The situation is likely to remain unstable in the short term, with potential for further disruptions and unrest.",
-      "strategic_outlook": "The long-term impact of this event could lead to increased security measures and potential changes in border control policies, affecting the flow of goods and people in the region.",
-      "operational_impact": "Transport and logistics operations in the area may be affected by the current situation, with potential delays or disruptions to supply chains.",
+      "category": "Cyber",
+      "risk_score": 8,
+      "location": "Multiple states, USA",
+      "latitude": 39.8333,
+      "longitude": -98.5833,
+      "detailed_analysis": "A cyberattack on water systems in 7 states, including Minnesota and Michigan, is being investigated, with potential ties to Iran. This attack could have significant implications for critical infrastructure and public health.",
+      "immediate_forecast_24h": "Further investigation and potential disclosure of attack details are expected. Immediate mitigation efforts will likely be undertaken to prevent further damage.",
+      "strategic_outlook": "This incident highlights the growing threat of state-sponsored cyberattacks on critical infrastructure. Enhanced cybersecurity measures and international cooperation will be crucial in preventing and responding to such attacks.",
+      "operational_impact": "The attack may impact the reliability and safety of water supplies, potentially disrupting logistics and transport operations that rely on these systems. Proactive measures to ensure business continuity and supply chain resilience are recommended.",
       "proximity_alert": null
     }
   },
   {
-    "id": "595c2bf9a0718a10ee67dbf704b395cb",
-    "timestamp": "2026-08-01T16:29:36.575583",
-    "original_title": "Russian forces strike targets in Ukraine's Odesa, Mykolaiv ports",
-    "link": "https://www.france24.com/en/europe/20260801-russian-forces-strike-targets-ukraine-odesa-mykolaiv-ports",
-    "source_name": "France 24 ME",
+    "id": "f79984015c4dfcfd927bd4d86be6729b",
+    "timestamp": "2026-08-01T19:19:00.236960",
+    "original_title": "Pilot Faces Threat of Death Sentence After Being Caught Allegedly Trying to Smuggle 70,000 Ecstasy Pills in Work Bag",
+    "link": "https://www.paddleyourownkanoo.com/2026/08/01/pilot-faces-threat-of-death-sentence-after-being-caught-allegedly-trying-to-smuggle-70000-ecstasy-pills-in-work-bag/",
+    "source_name": "Paddle Your Own Kanoo",
     "ai_analysis": {
-      "category": "Conflict",
+      "category": "Crime/Aviation",
       "risk_score": 10,
-      "location": "Odesa, Ukraine",
-      "latitude": 46.48,
-      "longitude": 30.73,
-      "detailed_analysis": "Russian forces have struck fuel storage facilities in Odesa and a tugboat in Mykolaiv, indicating an escalation of attacks on Ukrainian ports and shipping routes, potentially disrupting global grain markets and posing a significant threat to cargo and personnel in the region.",
-      "immediate_forecast_24h": "Increased tensions and potential for further strikes on Ukrainian ports and shipping routes, with possible expansion of conflict to other areas.",
-      "strategic_outlook": "Long-term disruption to global grain markets and potential for protracted conflict in the region, with significant implications for regional and global security.",
-      "operational_impact": "High risk to cargo and personnel in the region, with potential for significant disruptions to shipping routes and logistics operations.",
-      "proximity_alert": "YAKIN TEHDİT: Odessa International Airport (5 km)"
-    }
-  },
-  {
-    "id": "a5ded1bfe8282b2d0ee8bba89a1adad8",
-    "timestamp": "2026-08-01T17:35:39.359824",
-    "original_title": "Iran Plotted Wider War With Help of Its Proxies",
-    "link": "https://www.nytimes.com/2026/08/01/world/middleeast/iran-proxies-war-oil.html",
-    "source_name": "NewYork Times",
-    "ai_analysis": {
-      "category": "Conflict/Terrorism",
-      "risk_score": 10,
-      "location": "Tehran, Iran",
-      "latitude": 35.6892,
-      "longitude": 51.389,
-      "detailed_analysis": "Iran plotted a wider war with the help of its proxies, indicating a potential escalation of conflict that could impact regional stability and global security, particularly affecting aviation and cargo operations.",
-      "immediate_forecast_24h": "Increased tensions between Iran and the US, with potential for proxy attacks or retaliatory measures, which could disrupt air travel and cargo shipments in the region.",
-      "strategic_outlook": "Long-term instability in the region, with potential for ongoing conflict and proxy wars, which could lead to increased security measures and disruptions to transport and logistics operations.",
-      "operational_impact": "Potential for flight disruptions, cargo delays, and increased security protocols for aviation and cargo operations, particularly in the Middle East region.",
-      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+      "location": "Soekarno–Hatta International Airport, Indonesia",
+      "latitude": -6.1237,
+      "longitude": 106.6539,
+      "detailed_analysis": "A Malaysia Airlines pilot was caught allegedly trying to smuggle over 70,000 ecstasy pills into Indonesia, hiding them in his luggage. This incident poses a significant threat to aviation security and highlights the risk of insider threats in the industry.",
+      "immediate_forecast_24h": "Increased security screening for airline personnel and potential delays in flights to and from Soekarno–Hatta International Airport",
+      "strategic_outlook": "Long-term implications for airline security protocols and potential changes to regulations regarding cargo and personnel screening",
+      "operational_impact": "Potential disruption to air cargo and passenger services, increased scrutiny of airline personnel, and enhanced security measures at airports",
+      "proximity_alert": "YAKIN TEHDİT: Soekarno–Hatta International Airport (16 km)"
     }
   }
 ]
