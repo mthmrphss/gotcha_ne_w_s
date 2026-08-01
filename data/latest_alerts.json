@@ -1,43 +1,5 @@
 [
   {
-    "id": "ecaa2ffb022a4a2ad602142d83654ac8",
-    "timestamp": "2026-08-01T19:18:53.226511",
-    "original_title": "U.S. investigating if Iran was behind cyberattack on water systems in 7 states, including Minnesota and Michigan - CBS News",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeERJcG8xQXRGamk1aHNPcW1HdllJeWhGSXlFOWIyemFlZmZkQW1IUllubnBZemtwYml5V01YeFJsNXdMOXpyVUVOMjIxUDc1OUstVnBYTWFZVHdrb2R1MnRSNmhwbWR3dUNJYXBOeUtBQlVOTmNsaGZyWXd1OHczWGdJOUZFcHpzUFNWTnhSZFo?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Cyber",
-      "risk_score": 8,
-      "location": "Multiple states, USA",
-      "latitude": 39.8333,
-      "longitude": -98.5833,
-      "detailed_analysis": "A cyberattack on water systems in 7 states, including Minnesota and Michigan, is being investigated, with potential ties to Iran. This attack could have significant implications for critical infrastructure and public health.",
-      "immediate_forecast_24h": "Further investigation and potential disclosure of attack details are expected. Immediate mitigation efforts will likely be undertaken to prevent further damage.",
-      "strategic_outlook": "This incident highlights the growing threat of state-sponsored cyberattacks on critical infrastructure. Enhanced cybersecurity measures and international cooperation will be crucial in preventing and responding to such attacks.",
-      "operational_impact": "The attack may impact the reliability and safety of water supplies, potentially disrupting logistics and transport operations that rely on these systems. Proactive measures to ensure business continuity and supply chain resilience are recommended.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "f79984015c4dfcfd927bd4d86be6729b",
-    "timestamp": "2026-08-01T19:19:00.236960",
-    "original_title": "Pilot Faces Threat of Death Sentence After Being Caught Allegedly Trying to Smuggle 70,000 Ecstasy Pills in Work Bag",
-    "link": "https://www.paddleyourownkanoo.com/2026/08/01/pilot-faces-threat-of-death-sentence-after-being-caught-allegedly-trying-to-smuggle-70000-ecstasy-pills-in-work-bag/",
-    "source_name": "Paddle Your Own Kanoo",
-    "ai_analysis": {
-      "category": "Crime/Aviation",
-      "risk_score": 10,
-      "location": "Soekarno–Hatta International Airport, Indonesia",
-      "latitude": -6.1237,
-      "longitude": 106.6539,
-      "detailed_analysis": "A Malaysia Airlines pilot was caught allegedly trying to smuggle over 70,000 ecstasy pills into Indonesia, hiding them in his luggage. This incident poses a significant threat to aviation security and highlights the risk of insider threats in the industry.",
-      "immediate_forecast_24h": "Increased security screening for airline personnel and potential delays in flights to and from Soekarno–Hatta International Airport",
-      "strategic_outlook": "Long-term implications for airline security protocols and potential changes to regulations regarding cargo and personnel screening",
-      "operational_impact": "Potential disruption to air cargo and passenger services, increased scrutiny of airline personnel, and enhanced security measures at airports",
-      "proximity_alert": "YAKIN TEHDİT: Soekarno–Hatta International Airport (16 km)"
-    }
-  },
-  {
     "id": "960905caa8aa7f9012bc21fe296a170b",
     "timestamp": "2026-08-01T20:27:29.144911",
     "original_title": "Thirteen die in tourist plane crash over Peru's Nazca Lines, TVPeru says - Reuters",
@@ -53,6 +15,25 @@
       "immediate_forecast_24h": "Investigations into the cause of the crash are likely to begin immediately, with potential disruptions to tourist flights in the area.",
       "strategic_outlook": "The incident may lead to increased safety measures and regulations for tourist flights in Peru, potentially impacting the aviation industry's operations and reputation in the region.",
       "operational_impact": "The crash may cause a temporary suspension of tourist flights over the Nazca Lines, affecting local tourism and aviation businesses.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "0cbdf028b826d2a482003405c5294d94",
+    "timestamp": "2026-08-01T21:29:50.905181",
+    "original_title": "Spain installs floating barrier in Ceuta after migration influx",
+    "link": "https://www.france24.com/en/europe/20260801-spain-installs-floating-barrier-in-ceuta-after-migration-influx",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Border/Civil Unrest",
+      "risk_score": 5,
+      "location": "Ceuta, Spain",
+      "latitude": 35.8881,
+      "longitude": -5.3669,
+      "detailed_analysis": "The installation of a floating barrier in Ceuta after a migration influx indicates a potential threat to border security and transport logistics. The surge of migrants could lead to stowaways or disruptions in cargo operations.",
+      "immediate_forecast_24h": "Increased security measures and potential delays in cargo operations are expected in the short term. The situation may lead to tensions between Spain and Morocco, affecting transport and logistics in the region.",
+      "strategic_outlook": "The long-term implications of this event may include increased border security measures, potential changes in migration policies, and impacts on regional trade and transport. The situation may also lead to increased tensions between European Union countries and neighboring nations.",
+      "operational_impact": "Potential disruptions to cargo operations, increased security checks, and possible delays in transport logistics are expected. The situation may also lead to changes in routing or scheduling of cargo shipments to avoid the affected area.",
       "proximity_alert": null
     }
   }
