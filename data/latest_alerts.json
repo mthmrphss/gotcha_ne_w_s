@@ -1,59 +1,40 @@
 [
   {
-    "id": "efab12f5e15ce82ffd40bfef8964ccf8",
-    "timestamp": "2026-08-01T15:06:12.365674",
-    "original_title": "Ceuta: Spain slams \"selfish\" EU partners",
-    "link": "https://www.france24.com/en/ceuta-spain-slams-selfish-eu-partners",
-    "source_name": "France 24 ME",
+    "id": "1db52b34d6d82ca777017225dd1dbc56",
+    "timestamp": "2026-08-01T16:29:34.462658",
+    "original_title": "Life in Spanish enclave 'disrupted' by migrant influx, says Ceuta mayor",
+    "link": "http://www.africanews.com/2026/08/01/life-in-spanish-enclave-disrupted-by-migrant-influx-says-ceuta-mayor/",
+    "source_name": "Africa News",
     "ai_analysis": {
       "category": "Border/Civil Unrest",
-      "risk_score": 6,
+      "risk_score": 5,
       "location": "Ceuta, Spain",
-      "latitude": 35.8881,
-      "longitude": -5.3669,
-      "detailed_analysis": "A large influx of migrants into Ceuta from Morocco poses a significant risk to border security and potentially to transport and logistics in the region. The installation of a containment barrier and calls for emergency EU talks indicate a heightened state of alert.",
-      "immediate_forecast_24h": "Tensions are expected to remain high at the border, with potential for further migrant attempts to cross and clashes between migrants and security forces. The situation is fluid and could escalate.",
-      "strategic_outlook": "The long-term implications of this event could include increased security measures at the Ceuta border, potential changes in EU migration policies, and ongoing tensions between Spain and Morocco. The situation may also impact trade and transport routes in the region.",
-      "operational_impact": "The migrant influx and subsequent security measures could disrupt logistics and transport operations in and around Ceuta, particularly if the situation escalates or if the containment barrier affects traffic flow.",
+      "latitude": 35.8888,
+      "longitude": -5.3667,
+      "detailed_analysis": "A large influx of migrants has breached the border in Ceuta, Spain, causing disruptions to daily life and potentially affecting transport and logistics in the area.",
+      "immediate_forecast_24h": "The situation is likely to remain unstable in the short term, with potential for further disruptions and unrest.",
+      "strategic_outlook": "The long-term impact of this event could lead to increased security measures and potential changes in border control policies, affecting the flow of goods and people in the region.",
+      "operational_impact": "Transport and logistics operations in the area may be affected by the current situation, with potential delays or disruptions to supply chains.",
       "proximity_alert": null
     }
   },
   {
-    "id": "962d5f94ed0e530cd5b67cbb1e35695a",
-    "timestamp": "2026-08-01T15:06:14.315103",
-    "original_title": "Ceuta enclave \"almost\" back to normal after migrant influx",
-    "link": "https://www.france24.com/en/video/20260801-ceuta-enclave-almost-back-to-normal-after-migrant-influx-1",
+    "id": "595c2bf9a0718a10ee67dbf704b395cb",
+    "timestamp": "2026-08-01T16:29:36.575583",
+    "original_title": "Russian forces strike targets in Ukraine's Odesa, Mykolaiv ports",
+    "link": "https://www.france24.com/en/europe/20260801-russian-forces-strike-targets-ukraine-odesa-mykolaiv-ports",
     "source_name": "France 24 ME",
     "ai_analysis": {
-      "category": "Border/Civil Unrest",
-      "risk_score": 6,
-      "location": "Ceuta, Spain",
-      "latitude": 35.8881,
-      "longitude": -5.3214,
-      "detailed_analysis": "A large influx of migrants into Ceuta from Morocco poses a significant threat to border security and potentially to transport and logistics in the region. The installation of a containment barrier and calls for emergency talks among EU countries indicate a high level of concern.",
-      "immediate_forecast_24h": "The situation is expected to stabilize as most migrants have left Ceuta, but there may be continued tensions and potential for further border breaches.",
-      "strategic_outlook": "The long-term implications of this event may include increased security measures at the Ceuta border, potential changes in migration policies, and ongoing cooperation among EU countries to address migration issues.",
-      "operational_impact": "Transport and logistics in the region may experience disruptions due to increased security measures and potential civil unrest, but the impact is expected to be moderate and short-term.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "6980552241962d28a7cf8ef64d101c70",
-    "timestamp": "2026-08-01T15:06:17.189511",
-    "original_title": "Southwest Airlines Making Flight Attendants Arrive at the Plane Earlier in Response to Passengers Bringing More Hand Luggage On Board",
-    "link": "https://www.paddleyourownkanoo.com/2026/07/31/southwest-airlines-will-officially-board-planes-earlier-in-response-to-passengers-bringing-more-hand-luggage-on-board/",
-    "source_name": "Paddle Your Own Kanoo",
-    "ai_analysis": {
-      "category": "Aviation/Other",
+      "category": "Conflict",
       "risk_score": 10,
-      "location": "Dallas, USA",
-      "latitude": 32.7763,
-      "longitude": -96.797,
-      "detailed_analysis": "Southwest Airlines is making adjustments to its flight attendant arrival times in response to increased hand luggage on board, potentially causing delays. This is an operational issue rather than a security threat.",
-      "immediate_forecast_24h": "No significant security threats are anticipated in the next 24 hours. The change is expected to help reduce delays.",
-      "strategic_outlook": "The long-term impact of this change will depend on its effectiveness in reducing delays and improving the overall travel experience for passengers.",
-      "operational_impact": "The operational impact is expected to be minimal, with potential benefits including reduced delays and improved efficiency in boarding processes.",
-      "proximity_alert": "YAKIN TEHDİT: Dallas Fort Worth (3 km)"
+      "location": "Odesa, Ukraine",
+      "latitude": 46.48,
+      "longitude": 30.73,
+      "detailed_analysis": "Russian forces have struck fuel storage facilities in Odesa and a tugboat in Mykolaiv, indicating an escalation of attacks on Ukrainian ports and shipping routes, potentially disrupting global grain markets and posing a significant threat to cargo and personnel in the region.",
+      "immediate_forecast_24h": "Increased tensions and potential for further strikes on Ukrainian ports and shipping routes, with possible expansion of conflict to other areas.",
+      "strategic_outlook": "Long-term disruption to global grain markets and potential for protracted conflict in the region, with significant implications for regional and global security.",
+      "operational_impact": "High risk to cargo and personnel in the region, with potential for significant disruptions to shipping routes and logistics operations.",
+      "proximity_alert": "YAKIN TEHDİT: Odessa International Airport (5 km)"
     }
   }
 ]
