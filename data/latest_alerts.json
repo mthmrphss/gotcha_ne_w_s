@@ -1,24 +1,5 @@
 [
   {
-    "id": "960905caa8aa7f9012bc21fe296a170b",
-    "timestamp": "2026-08-01T20:27:29.144911",
-    "original_title": "Thirteen die in tourist plane crash over Peru's Nazca Lines, TVPeru says - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSnE5c2hGZjM2RjZHLWU5Z3lKclF4ZXUteFlvbk5CTE0wdGN4SlJVdkIyNVFNZXF3SjVyYmY3ZDFkRjMwVTBvUFE3THItbkN1RjF5NFV1UkF6MFhWSDBydFRiQXVxX2djcTBrcm1VTjRCcjJkUGs0VjB6RU12bG91Q2k2ZHZNY1dFUzJqZW9KT09QRVFQZXphSjdDNnJMTWQtRDBsSVR3RnlOSXFvbGg4UTBjU2Rua3Q5VkE?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Aviation",
-      "risk_score": 8,
-      "location": "Nazca Lines, Peru",
-      "latitude": -14.71,
-      "longitude": -75.13,
-      "detailed_analysis": "Thirteen people died in a tourist plane crash over Peru's Nazca Lines, indicating a significant threat to aviation safety in the region.",
-      "immediate_forecast_24h": "Investigations into the cause of the crash are likely to begin immediately, with potential disruptions to tourist flights in the area.",
-      "strategic_outlook": "The incident may lead to increased safety measures and regulations for tourist flights in Peru, potentially impacting the aviation industry's operations and reputation in the region.",
-      "operational_impact": "The crash may cause a temporary suspension of tourist flights over the Nazca Lines, affecting local tourism and aviation businesses.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "0cbdf028b826d2a482003405c5294d94",
     "timestamp": "2026-08-01T21:29:50.905181",
     "original_title": "Spain installs floating barrier in Ceuta after migration influx",
@@ -34,6 +15,44 @@
       "immediate_forecast_24h": "Increased security measures and potential delays in cargo operations are expected in the short term. The situation may lead to tensions between Spain and Morocco, affecting transport and logistics in the region.",
       "strategic_outlook": "The long-term implications of this event may include increased border security measures, potential changes in migration policies, and impacts on regional trade and transport. The situation may also lead to increased tensions between European Union countries and neighboring nations.",
       "operational_impact": "Potential disruptions to cargo operations, increased security checks, and possible delays in transport logistics are expected. The situation may also lead to changes in routing or scheduling of cargo shipments to avoid the affected area.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "1340f2f2fe26cec51fa2df3ccb48a6a8",
+    "timestamp": "2026-08-01T22:32:02.728372",
+    "original_title": "Israel Says It Killed Several Hezbollah Members on Key Lebanon Hilltop",
+    "link": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-hezbollah-lebanon-killing.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 8,
+      "location": "Southern Lebanon",
+      "latitude": 33.1,
+      "longitude": 35.3,
+      "detailed_analysis": "The confrontation between Israel and Hezbollah over a strategic ridge in southern Lebanon poses a significant threat to regional stability and could impact aviation and cargo operations in the area.",
+      "immediate_forecast_24h": "Escalation of violence is possible, with potential for further clashes between Israel and Hezbollah, affecting transport and logistics in the region.",
+      "strategic_outlook": "The fragile cease-fire between Israel and Hezbollah is at risk of collapse, which could lead to a wider conflict and have long-term implications for regional security and stability.",
+      "operational_impact": "Potential disruptions to air traffic, cargo transport, and personnel movement in the region, with possible restrictions on flight paths and increased security measures at airports and border crossings.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "b1fb0217c3e8980628db9fe55bdc212b",
+    "timestamp": "2026-08-01T22:32:12.898982",
+    "original_title": "Zelenskyy asks Trump to help him get Elon Musk's OK to use Starlink to help with strikes on Russia",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1vcn0af/zelenskyy_asks_trump_to_help_him_get_elon_musks/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict/Cyber",
+      "risk_score": 8,
+      "location": "Ukraine/Russia",
+      "latitude": 48.3794,
+      "longitude": 31.1656,
+      "detailed_analysis": "Ukrainian President Zelenskyy is seeking assistance from former US President Trump to obtain permission from Elon Musk to utilize Starlink for strikes against Russian targets, indicating a potential escalation in the conflict and highlighting the role of cyber and satellite technology in modern warfare.",
+      "immediate_forecast_24h": "Increased tensions between Ukraine and Russia, with potential for cyberattacks or disruptions to satellite communications. Elon Musk's decision on Starlink usage could significantly impact the situation.",
+      "strategic_outlook": "Long-term implications include the potential for expanded use of satellite technology in military operations, increased reliance on private companies for critical infrastructure, and heightened cybersecurity risks. The conflict may also lead to broader geopolitical instability.",
+      "operational_impact": "Potential disruptions to logistics and transportation in the region due to increased conflict, cyberattacks, or satellite communication outages. Aviation operations may also be affected by the conflict escalation.",
       "proximity_alert": null
     }
   }
