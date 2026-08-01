@@ -435,5 +435,62 @@
       "operational_impact": "The migrant crisis may impact transport operations, particularly at border crossings, due to increased security measures and potential congestion. There is also a risk of stowaways or other security breaches affecting cargo and aviation operations.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "efab12f5e15ce82ffd40bfef8964ccf8",
+    "timestamp": "2026-08-01T15:06:12.365674",
+    "original_title": "Ceuta: Spain slams \"selfish\" EU partners",
+    "link": "https://www.france24.com/en/ceuta-spain-slams-selfish-eu-partners",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Border/Civil Unrest",
+      "risk_score": 6,
+      "location": "Ceuta, Spain",
+      "latitude": 35.8881,
+      "longitude": -5.3669,
+      "detailed_analysis": "A large influx of migrants into Ceuta from Morocco poses a significant risk to border security and potentially to transport and logistics in the region. The installation of a containment barrier and calls for emergency EU talks indicate a heightened state of alert.",
+      "immediate_forecast_24h": "Tensions are expected to remain high at the border, with potential for further migrant attempts to cross and clashes between migrants and security forces. The situation is fluid and could escalate.",
+      "strategic_outlook": "The long-term implications of this event could include increased security measures at the Ceuta border, potential changes in EU migration policies, and ongoing tensions between Spain and Morocco. The situation may also impact trade and transport routes in the region.",
+      "operational_impact": "The migrant influx and subsequent security measures could disrupt logistics and transport operations in and around Ceuta, particularly if the situation escalates or if the containment barrier affects traffic flow.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "962d5f94ed0e530cd5b67cbb1e35695a",
+    "timestamp": "2026-08-01T15:06:14.315103",
+    "original_title": "Ceuta enclave \"almost\" back to normal after migrant influx",
+    "link": "https://www.france24.com/en/video/20260801-ceuta-enclave-almost-back-to-normal-after-migrant-influx-1",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Border/Civil Unrest",
+      "risk_score": 6,
+      "location": "Ceuta, Spain",
+      "latitude": 35.8881,
+      "longitude": -5.3214,
+      "detailed_analysis": "A large influx of migrants into Ceuta from Morocco poses a significant threat to border security and potentially to transport and logistics in the region. The installation of a containment barrier and calls for emergency talks among EU countries indicate a high level of concern.",
+      "immediate_forecast_24h": "The situation is expected to stabilize as most migrants have left Ceuta, but there may be continued tensions and potential for further border breaches.",
+      "strategic_outlook": "The long-term implications of this event may include increased security measures at the Ceuta border, potential changes in migration policies, and ongoing cooperation among EU countries to address migration issues.",
+      "operational_impact": "Transport and logistics in the region may experience disruptions due to increased security measures and potential civil unrest, but the impact is expected to be moderate and short-term.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "6980552241962d28a7cf8ef64d101c70",
+    "timestamp": "2026-08-01T15:06:17.189511",
+    "original_title": "Southwest Airlines Making Flight Attendants Arrive at the Plane Earlier in Response to Passengers Bringing More Hand Luggage On Board",
+    "link": "https://www.paddleyourownkanoo.com/2026/07/31/southwest-airlines-will-officially-board-planes-earlier-in-response-to-passengers-bringing-more-hand-luggage-on-board/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Aviation/Other",
+      "risk_score": 10,
+      "location": "Dallas, USA",
+      "latitude": 32.7763,
+      "longitude": -96.797,
+      "detailed_analysis": "Southwest Airlines is making adjustments to its flight attendant arrival times in response to increased hand luggage on board, potentially causing delays. This is an operational issue rather than a security threat.",
+      "immediate_forecast_24h": "No significant security threats are anticipated in the next 24 hours. The change is expected to help reduce delays.",
+      "strategic_outlook": "The long-term impact of this change will depend on its effectiveness in reducing delays and improving the overall travel experience for passengers.",
+      "operational_impact": "The operational impact is expected to be minimal, with potential benefits including reduced delays and improved efficiency in boarding processes.",
+      "proximity_alert": "YAKIN TEHDİT: Dallas Fort Worth (3 km)"
+    }
   }
 ]
