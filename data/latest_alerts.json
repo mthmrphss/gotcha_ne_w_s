@@ -17,5 +17,43 @@
       "operational_impact": "The emergency declaration may cause disruptions to flight schedules and operations, potentially affecting cargo and passenger transport. Airlines and logistics providers should be prepared for potential delays or changes to flight plans, and take steps to mitigate the impact on their operations.",
       "proximity_alert": "YAKIN TEHDİT: Lisbon Humberto Delgado Airport (6 km)"
     }
+  },
+  {
+    "id": "56c9a43859ee11e34553824c1d9664da",
+    "timestamp": "2026-08-02T22:31:42.521512",
+    "original_title": "Airplane crash causes fire near Guymon airport - News 9",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZTZmdVNlRWU3VHlBSTNPRW42LXk4ZWhrRUF4NTRzRFBtZnZ4VEpMMDNMcnBVY2tNZExPeTFvZXVyWnBJWHEweWNmckRqTFpKLXlLM295eUlLNTBFZy1vZGRGbzk5NGpLX0YzSzJHM25icEUybFNoWWNLdzVBbS11YjJPTFh4VmlwaHBIWjFpZFc?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 8,
+      "location": "Guymon, USA",
+      "latitude": 36.6828,
+      "longitude": -101.4853,
+      "detailed_analysis": "An airplane crash near Guymon airport has caused a fire, indicating a significant threat to aviation safety and potential risks to personnel and assets in the vicinity.",
+      "immediate_forecast_24h": "Emergency services are likely to be engaged in rescue and firefighting efforts. There may be disruptions to air traffic and local transportation in the immediate area.",
+      "strategic_outlook": "The incident may lead to an investigation into the cause of the crash, potentially revealing safety concerns or operational issues that could impact the aviation industry more broadly.",
+      "operational_impact": "The crash and subsequent fire may affect flight operations at Guymon airport, potentially causing delays or cancellations, and could also impact local logistics and supply chains.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "fe94388d764faa7625b5707ba04e1905",
+    "timestamp": "2026-08-02T22:31:46.308509",
+    "original_title": "In Ceuta, Far-Right Leaders Call on Spain to Expel Migrants",
+    "link": "https://www.nytimes.com/2026/08/02/world/europe/spain-ceuta-far-right.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Border/Civil Unrest",
+      "risk_score": 6,
+      "location": "Ceuta, Spain",
+      "latitude": 35.8881,
+      "longitude": -5.3214,
+      "detailed_analysis": "The influx of migrants and the presence of far-right leaders in Ceuta could lead to increased tensions and potential clashes, affecting the stability of the region and possibly disrupting transport and logistics operations.",
+      "immediate_forecast_24h": "Heightened security measures are expected in the short term, with potential protests or demonstrations that could impact border crossings and local transportation.",
+      "strategic_outlook": "The situation in Ceuta may escalate into a long-term crisis, straining relations between Spain and neighboring countries, and potentially affecting regional security and trade.",
+      "operational_impact": "Transport and logistics operations in the region may be disrupted due to increased security checks, potential border closures, or civil unrest, affecting the movement of assets, cargo, and personnel.",
+      "proximity_alert": null
+    }
   }
 ]
