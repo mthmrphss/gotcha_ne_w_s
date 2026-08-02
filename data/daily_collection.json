@@ -36,5 +36,43 @@
       "operational_impact": "Potential disruptions to logistics and transportation in the region due to increased conflict, cyberattacks, or satellite communication outages. Aviation operations may also be affected by the conflict escalation.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "8f067b763ca8ec6d2827c0b987d28e88",
+    "timestamp": "2026-08-02T00:02:04.669971",
+    "original_title": "Russia Strikes Ukraine With Missiles and Drones, Killing at Least 8 - The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZHloTEsyazFrTHh1bnp1XzQtZm1MakVQaHRYekZaMV9sVnJ3S2dlUi1GNlpUcUMwZWlCaGpjODNIazhmSXo4c1c5YXEyRm1CeEZaZ1Nzc1N5WDQ0a3pjWnZfUzViLWh6WVZqY0tHQmMydllTVTBJYnRWcmhQNHZGOTRhUzhSZGxPRjZKZWEwRk5UcXNWaEp5OExiUQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "Russia has launched missile and drone strikes on Ukraine, resulting in at least 8 fatalities. This escalation of violence poses a significant threat to aviation and personnel in the region.",
+      "immediate_forecast_24h": "Further strikes are possible, and the situation is likely to remain volatile. Aviation operations may be disrupted, and personnel should exercise extreme caution.",
+      "strategic_outlook": "The ongoing conflict between Russia and Ukraine is likely to continue, with potential long-term implications for regional stability and global security. The use of drones and missiles increases the risk of unintended consequences, including damage to critical infrastructure.",
+      "operational_impact": "The strikes may impact air traffic control, airport operations, and logistics in Ukraine. Cargo and personnel movements may be disrupted, and alternative routes or contingency plans should be considered.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "023dc65904ef21edab7b15eedbd85583",
+    "timestamp": "2026-08-02T00:02:06.650925",
+    "original_title": "Spain ramps up security amid migrant crisis - NBC News",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQa1JkQnY0dmhsRlVpUFVWLVYtV1NiOW5td3lKNGh2MnhHZW5veHoxclBrYjVvNjdtd0lzSHFBUkhKS3NWQl8xZXBzaEZ3bGt2aTBtNlc4Q3F6dmY1eWN3a3pyQ3NVMlpNUGFmTDBjVFJmbkVyXy1yY3FYRU5PUHhnQjFCSGxYdWVrZ0VEajJXWjQwZFNFdXNhOHVxTUg5dUhR?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Border/Civil Unrest",
+      "risk_score": 10,
+      "location": "Spain",
+      "latitude": 40.4168,
+      "longitude": -3.7038,
+      "detailed_analysis": "The migrant crisis in Spain has led to increased security measures, potentially affecting transport and logistics operations. Stowaways and border breaches could impact cargo and personnel safety.",
+      "immediate_forecast_24h": "Heightened security presence and potential disruptions to transport operations, particularly in areas with high migrant activity.",
+      "strategic_outlook": "Long-term implications for Spain's border security and potential effects on regional trade and commerce. Increased security may lead to improved safety, but also potential delays and logistical challenges.",
+      "operational_impact": "Transport and logistics operations may experience delays or disruptions due to increased security checks and potential border breaches. Cargo and personnel safety are at risk due to the migrant crisis.",
+      "proximity_alert": "YAKIN TEHDİT: Adolfo Suárez Madrid–Barajas Airport (14 km)"
+    }
   }
 ]

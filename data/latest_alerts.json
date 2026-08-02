@@ -1,59 +1,40 @@
 [
   {
-    "id": "0cbdf028b826d2a482003405c5294d94",
-    "timestamp": "2026-08-01T21:29:50.905181",
-    "original_title": "Spain installs floating barrier in Ceuta after migration influx",
-    "link": "https://www.france24.com/en/europe/20260801-spain-installs-floating-barrier-in-ceuta-after-migration-influx",
-    "source_name": "France 24 ME",
+    "id": "8f067b763ca8ec6d2827c0b987d28e88",
+    "timestamp": "2026-08-02T00:02:04.669971",
+    "original_title": "Russia Strikes Ukraine With Missiles and Drones, Killing at Least 8 - The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZHloTEsyazFrTHh1bnp1XzQtZm1MakVQaHRYekZaMV9sVnJ3S2dlUi1GNlpUcUMwZWlCaGpjODNIazhmSXo4c1c5YXEyRm1CeEZaZ1Nzc1N5WDQ0a3pjWnZfUzViLWh6WVZqY0tHQmMydllTVTBJYnRWcmhQNHZGOTRhUzhSZGxPRjZKZWEwRk5UcXNWaEp5OExiUQ?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "Russia has launched missile and drone strikes on Ukraine, resulting in at least 8 fatalities. This escalation of violence poses a significant threat to aviation and personnel in the region.",
+      "immediate_forecast_24h": "Further strikes are possible, and the situation is likely to remain volatile. Aviation operations may be disrupted, and personnel should exercise extreme caution.",
+      "strategic_outlook": "The ongoing conflict between Russia and Ukraine is likely to continue, with potential long-term implications for regional stability and global security. The use of drones and missiles increases the risk of unintended consequences, including damage to critical infrastructure.",
+      "operational_impact": "The strikes may impact air traffic control, airport operations, and logistics in Ukraine. Cargo and personnel movements may be disrupted, and alternative routes or contingency plans should be considered.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "023dc65904ef21edab7b15eedbd85583",
+    "timestamp": "2026-08-02T00:02:06.650925",
+    "original_title": "Spain ramps up security amid migrant crisis - NBC News",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQa1JkQnY0dmhsRlVpUFVWLVYtV1NiOW5td3lKNGh2MnhHZW5veHoxclBrYjVvNjdtd0lzSHFBUkhKS3NWQl8xZXBzaEZ3bGt2aTBtNlc4Q3F6dmY1eWN3a3pyQ3NVMlpNUGFmTDBjVFJmbkVyXy1yY3FYRU5PUHhnQjFCSGxYdWVrZ0VEajJXWjQwZFNFdXNhOHVxTUg5dUhR?oc=5",
+    "source_name": "Google News (Breaking)",
     "ai_analysis": {
       "category": "Border/Civil Unrest",
-      "risk_score": 5,
-      "location": "Ceuta, Spain",
-      "latitude": 35.8881,
-      "longitude": -5.3669,
-      "detailed_analysis": "The installation of a floating barrier in Ceuta after a migration influx indicates a potential threat to border security and transport logistics. The surge of migrants could lead to stowaways or disruptions in cargo operations.",
-      "immediate_forecast_24h": "Increased security measures and potential delays in cargo operations are expected in the short term. The situation may lead to tensions between Spain and Morocco, affecting transport and logistics in the region.",
-      "strategic_outlook": "The long-term implications of this event may include increased border security measures, potential changes in migration policies, and impacts on regional trade and transport. The situation may also lead to increased tensions between European Union countries and neighboring nations.",
-      "operational_impact": "Potential disruptions to cargo operations, increased security checks, and possible delays in transport logistics are expected. The situation may also lead to changes in routing or scheduling of cargo shipments to avoid the affected area.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "1340f2f2fe26cec51fa2df3ccb48a6a8",
-    "timestamp": "2026-08-01T22:32:02.728372",
-    "original_title": "Israel Says It Killed Several Hezbollah Members on Key Lebanon Hilltop",
-    "link": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-hezbollah-lebanon-killing.html",
-    "source_name": "NewYork Times",
-    "ai_analysis": {
-      "category": "Conflict/Terrorism",
-      "risk_score": 8,
-      "location": "Southern Lebanon",
-      "latitude": 33.1,
-      "longitude": 35.3,
-      "detailed_analysis": "The confrontation between Israel and Hezbollah over a strategic ridge in southern Lebanon poses a significant threat to regional stability and could impact aviation and cargo operations in the area.",
-      "immediate_forecast_24h": "Escalation of violence is possible, with potential for further clashes between Israel and Hezbollah, affecting transport and logistics in the region.",
-      "strategic_outlook": "The fragile cease-fire between Israel and Hezbollah is at risk of collapse, which could lead to a wider conflict and have long-term implications for regional security and stability.",
-      "operational_impact": "Potential disruptions to air traffic, cargo transport, and personnel movement in the region, with possible restrictions on flight paths and increased security measures at airports and border crossings.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "b1fb0217c3e8980628db9fe55bdc212b",
-    "timestamp": "2026-08-01T22:32:12.898982",
-    "original_title": "Zelenskyy asks Trump to help him get Elon Musk's OK to use Starlink to help with strikes on Russia",
-    "link": "https://www.reddit.com/r/geopolitics/comments/1vcn0af/zelenskyy_asks_trump_to_help_him_get_elon_musks/",
-    "source_name": "Reddit r/Geopolitics",
-    "ai_analysis": {
-      "category": "Conflict/Cyber",
-      "risk_score": 8,
-      "location": "Ukraine/Russia",
-      "latitude": 48.3794,
-      "longitude": 31.1656,
-      "detailed_analysis": "Ukrainian President Zelenskyy is seeking assistance from former US President Trump to obtain permission from Elon Musk to utilize Starlink for strikes against Russian targets, indicating a potential escalation in the conflict and highlighting the role of cyber and satellite technology in modern warfare.",
-      "immediate_forecast_24h": "Increased tensions between Ukraine and Russia, with potential for cyberattacks or disruptions to satellite communications. Elon Musk's decision on Starlink usage could significantly impact the situation.",
-      "strategic_outlook": "Long-term implications include the potential for expanded use of satellite technology in military operations, increased reliance on private companies for critical infrastructure, and heightened cybersecurity risks. The conflict may also lead to broader geopolitical instability.",
-      "operational_impact": "Potential disruptions to logistics and transportation in the region due to increased conflict, cyberattacks, or satellite communication outages. Aviation operations may also be affected by the conflict escalation.",
-      "proximity_alert": null
+      "risk_score": 10,
+      "location": "Spain",
+      "latitude": 40.4168,
+      "longitude": -3.7038,
+      "detailed_analysis": "The migrant crisis in Spain has led to increased security measures, potentially affecting transport and logistics operations. Stowaways and border breaches could impact cargo and personnel safety.",
+      "immediate_forecast_24h": "Heightened security presence and potential disruptions to transport operations, particularly in areas with high migrant activity.",
+      "strategic_outlook": "Long-term implications for Spain's border security and potential effects on regional trade and commerce. Increased security may lead to improved safety, but also potential delays and logistical challenges.",
+      "operational_impact": "Transport and logistics operations may experience delays or disruptions due to increased security checks and potential border breaches. Cargo and personnel safety are at risk due to the migrant crisis.",
+      "proximity_alert": "YAKIN TEHDİT: Adolfo Suárez Madrid–Barajas Airport (14 km)"
     }
   }
 ]
