@@ -416,5 +416,24 @@
       "operational_impact": "The strike is having a significant impact on air transport and logistics, with many flights cancelled and travel plans disrupted, affecting both passengers and cargo.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "d8a6afa6337daafb5691bf5acc93ab47",
+    "timestamp": "2026-08-02T19:19:50.534913",
+    "original_title": "At least 14 dead as Ukraine and Russia exchange strikes",
+    "link": "https://www.france24.com/en/europe/20260802-ukrainian-drone-strikes-kill-at-least-five-russia-set-another-wildberries-warehouse-ablaze",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Ukraine/Russia",
+      "latitude": 48.3794,
+      "longitude": 31.1656,
+      "detailed_analysis": "The ongoing conflict between Ukraine and Russia has resulted in increased long-range attacks, with at least 14 deaths reported. This escalation poses a significant threat to assets, cargo, aviation, and personnel in the region.",
+      "immediate_forecast_24h": "Further exchanges of strikes are likely, with potential for increased violence and disruption to transport and logistics in the region.",
+      "strategic_outlook": "The stalled negotiations and intensified attacks suggest a prolonged conflict, which could lead to long-term instability and disruption to regional trade and transport.",
+      "operational_impact": "The conflict may impact air traffic, cargo shipments, and personnel movements in the region, with potential for delays, cancellations, and increased security measures.",
+      "proximity_alert": null
+    }
   }
 ]
