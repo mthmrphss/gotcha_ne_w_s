@@ -1,21 +1,97 @@
 [
   {
-    "id": "b9b48371d705a54aeda051a0cfb6b88e",
-    "timestamp": "2026-08-02T16:05:44.879607",
-    "original_title": "Moscow mayor calls a deadly bomb attack on a restaurant a 'terrorist act' - The Washington Post",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNlNrSTExVGZuRmRuZkFXNUdYbU14V0YwSjhlNWs1RTh3T0NGellyYUR0V2JrdUhRaWN0NVhNOVdqU3NvNjNuMFVpeWpYNnk5Tm5pa21XSjNzY1ZNUzZuTVAwU3BYbXljMTJ6c1VzTTdhaWlWcDhndmYtQTA3Z1FVSnlMRGJRaWJ6a0hqNGh3RzAzakxxSkFSeW1lT1gySFJzTVlIX0tvSVl2T1N2ZHViaFVuUklvSkdOaEtCb3ROSUplM0c3NnBydF9R?oc=5",
+    "id": "f8841aab5747b9d105141bdf5008b27f",
+    "timestamp": "2026-08-02T17:34:10.522422",
+    "original_title": "Suicide bomber kills 14 outside police station in Pakistan’s Swat - Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbXFfSXQwdHRxejBzWXdOZmVBT1lxZU5ZQU5JRTNVUTVMVkxBMFc0aVI1aFJETFYtN1VWTkowaDg2dm1hNHZqV0tLVlBTeUdCMnljR3lGOTFValNWWkxuVGhySFdLWFJFNktrTGl0MHVMZlNnQ3RuVFlJNlFmaVUtajNyZjBUZERWOW9rbmY1alVMT0FnMkt0Q1pSVFJ5UE9GRWMwRXZqc9IBrAFBVV95cUxOa0E3TFh6WEswel9SNTdhSHNnVTd2OTVZd296dnZ1ckNPcmZBMnpZU3hvWGpUV0U5NmNxVHk5dGV6Yy1BZWpnWjd6cTYyNl9IRXNSWHJXVlhpcVRISWtzU0Y4dmlIMTNaS21BdHlOcFFVOTZsTnhSR24taVI2cThzM05CS2ZpWkg5SXp6c0ZEclVpTjdMc2RtU28xY2Z4S2kyS2syZ2VfSUtES1R3?oc=5",
     "source_name": "Google News (Breaking)",
     "ai_analysis": {
-      "category": "Terrorism/Crime",
-      "risk_score": 10,
-      "location": "Moscow, Russia",
-      "latitude": 55.7558,
-      "longitude": 37.6176,
-      "detailed_analysis": "A deadly bomb attack on a restaurant in Moscow has been classified as a 'terrorist act' by the city's mayor, indicating a high level of threat to public safety and security. This incident could have implications for the security of assets, cargo, and personnel in the region.",
-      "immediate_forecast_24h": "Increased security measures are likely to be implemented in Moscow, potentially causing disruptions to transport and logistics operations. There is a heightened risk of further attacks or incidents in the short term.",
-      "strategic_outlook": "The long-term impact of this incident could be a sustained increase in security measures and a heightened sense of alertness in Moscow, potentially affecting the operational environment for assets, cargo, and personnel. This may also lead to increased scrutiny of potential terrorist threats in the region.",
-      "operational_impact": "The incident may cause disruptions to transport and logistics operations in Moscow, particularly in areas with high security concerns. Cargo and personnel movements may be subject to increased screening and security checks, potentially leading to delays and inefficiencies.",
-      "proximity_alert": "YAKIN TEHDİT: Vnukovo International Airport (27 km)"
+      "category": "Terrorism/Crime/Civil Unrest",
+      "risk_score": 8,
+      "location": "Swat, Pakistan",
+      "latitude": 34.7465,
+      "longitude": 72.3631,
+      "detailed_analysis": "A suicide bomber has killed 14 people outside a police station in Swat, Pakistan, indicating a high level of terrorist activity in the region, posing a significant threat to personnel and potentially disrupting local transport and logistics.",
+      "immediate_forecast_24h": "Increased security measures are expected in the region, with potential for further attacks or unrest, affecting local transport and logistics operations.",
+      "strategic_outlook": "The long-term impact of this incident could lead to increased instability in the region, affecting trade routes and supply chains, particularly for cargo and aviation operations.",
+      "operational_impact": "Transport and logistics operations in the region may be disrupted due to increased security checks, potential curfews, and unrest, requiring contingency planning to mitigate risks to assets, cargo, aviation, and personnel.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "4406f2433ca9ecfcd3e74da458efaace",
+    "timestamp": "2026-08-02T17:34:14.903816",
+    "original_title": "Olha Kyrylenko, War Correspondent at Ukrainska Pravda, here to discuss the front line, Ukraine’s major battles and the realities of covering the war. AMA!",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1vdnocd/olha_kyrylenko_war_correspondent_at_ukrainska/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "The ongoing conflict in Ukraine poses significant threats to assets, cargo, aviation, and personnel. The presence of a war correspondent on the front lines indicates a high level of instability and potential for violence.",
+      "immediate_forecast_24h": "Continued clashes between Ukrainian and opposing forces, potential for escalation in major battles and operations.",
+      "strategic_outlook": "Long-term instability in the region, potential for prolonged conflict and humanitarian crisis.",
+      "operational_impact": "Disruptions to transport and logistics, potential for damage to infrastructure, and risks to personnel and cargo.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "13dccf150a9eb94cb889176fb40327f2",
+    "timestamp": "2026-08-02T17:34:16.958509",
+    "original_title": "US Water Systems Hit by Suspected Iranian Cyber Attacks",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1vdm4vv/us_water_systems_hit_by_suspected_iranian_cyber/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 8,
+      "location": "United States",
+      "latitude": 37.0902,
+      "longitude": -95.7129,
+      "detailed_analysis": "Suspected Iranian cyber attacks on US water systems pose a significant threat to critical infrastructure, potentially disrupting essential services and impacting public health and safety.",
+      "immediate_forecast_24h": "Increased vigilance and monitoring of water systems and other critical infrastructure is expected, with potential for further cyber attacks or retaliatory measures.",
+      "strategic_outlook": "Long-term implications include potential escalation of cyber warfare between nations, increased investment in cybersecurity measures, and heightened awareness of vulnerabilities in critical infrastructure.",
+      "operational_impact": "Potential disruptions to water supply chains, logistics, and transportation systems, with possible cascading effects on food production, healthcare, and other essential services.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "e0c08a3b05e7666f638c2ed7d8d90306",
+    "timestamp": "2026-08-02T17:34:19.920594",
+    "original_title": "Ukrainian drone strikes kill at least five in Russia, set another Wildberries warehouse ablaze",
+    "link": "https://www.france24.com/en/europe/20260802-ukrainian-drone-strikes-kill-at-least-five-russia-set-another-wildberries-warehouse-ablaze",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Russia",
+      "latitude": 61.524,
+      "longitude": 105.3188,
+      "detailed_analysis": "Ukrainian drone strikes have killed at least five people in Russia, targeting industrial sites and a warehouse belonging to e-commerce giant Wildberries, indicating an escalation in the conflict with potential disruptions to logistics and supply chains.",
+      "immediate_forecast_24h": "Further drone strikes or retaliatory actions from Russia are possible, potentially targeting Ukrainian or Russian assets, cargo, aviation, and personnel.",
+      "strategic_outlook": "The ongoing conflict between Ukraine and Russia may lead to increased instability in the region, affecting trade, transportation, and security of assets, cargo, aviation, and personnel.",
+      "operational_impact": "Potential disruptions to logistics, supply chains, and transportation networks, particularly those involving Russian or Ukrainian assets, cargo, or aviation, with increased security measures and precautions recommended.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "54c6034ebb64d893f2fe33b6f0f0d541",
+    "timestamp": "2026-08-02T17:34:23.470604",
+    "original_title": "Flight attendants at Canada’s second-biggest airline go on strike",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/flight-attendants-canada-westjet-strike-b3026056.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Aviation/Civil Unrest",
+      "risk_score": 7,
+      "location": "Canada",
+      "latitude": 56.1304,
+      "longitude": -106.3468,
+      "detailed_analysis": "A strike by flight attendants at Canada's second-biggest airline has resulted in the cancellation of over 300 flights, significantly disrupting travel plans during a holiday weekend.",
+      "immediate_forecast_24h": "Further flight cancellations and travel disruptions are expected as the strike continues, potentially affecting a large number of passengers.",
+      "strategic_outlook": "The strike may lead to increased tensions between the airline and its employees, potentially resulting in further disruptions to air travel in the future if not resolved.",
+      "operational_impact": "The strike is having a significant impact on air transport and logistics, with many flights cancelled and travel plans disrupted, affecting both passengers and cargo.",
+      "proximity_alert": null
     }
   }
 ]
