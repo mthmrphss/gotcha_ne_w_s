@@ -169,5 +169,43 @@
       "operational_impact": "The attack may cause disruptions to local transportation and logistics, as well as increased security checks in public areas, potentially affecting cargo and personnel movement.",
       "proximity_alert": "YAKIN TEHDİT: Vnukovo International Airport (27 km)"
     }
+  },
+  {
+    "id": "8a780f3489dec2487b15fce399770823",
+    "timestamp": "2026-08-02T09:34:25.156878",
+    "original_title": "Canada’s WestJet Cancels Trips Amid Strike By Flight Attendants",
+    "link": "https://www.nytimes.com/2026/08/02/world/canada/westjet-flight-attendants-strike-canada.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Aviation/Civil Unrest",
+      "risk_score": 7,
+      "location": "Canada",
+      "latitude": 56.1304,
+      "longitude": -106.3468,
+      "detailed_analysis": "WestJet's flight attendants are on strike due to labor disputes over wages and compensation, leading to canceled trips and potential disruptions in aviation services.",
+      "immediate_forecast_24h": "Further flight cancellations and disruptions are expected as the strike continues, potentially affecting thousands of passengers and the airline's operations.",
+      "strategic_outlook": "The strike may lead to a re-evaluation of WestJet's labor policies and potentially impact the airline's reputation and customer loyalty in the long term.",
+      "operational_impact": "The strike will likely cause significant disruptions to WestJet's flight operations, affecting passengers, cargo transport, and the overall efficiency of the airline's services.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "195fca907e9b60471eaccecadf2a84f4",
+    "timestamp": "2026-08-02T09:34:28.519905",
+    "original_title": "Authorities in Tigray accuse Addis Ababa of 'launching open war'",
+    "link": "http://www.africanews.com/2026/08/02/authorities-in-tigray-accuse-addis-ababa-of-launching-open-war/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "Tigray, Ethiopia",
+      "latitude": 13.5653,
+      "longitude": 39.4443,
+      "detailed_analysis": "The accusation by Tigray authorities of the federal government launching a military offensive indicates a significant escalation of conflict, posing a high risk to assets, cargo, aviation, and personnel in the region due to potential violence, instability, and disruption of services.",
+      "immediate_forecast_24h": "Increased military activity and clashes are expected, potentially leading to disruptions in transportation and logistics. The situation could deteriorate rapidly, affecting the safety of personnel and the security of assets and cargo.",
+      "strategic_outlook": "The long-term outlook is uncertain, with the potential for prolonged conflict that could impact regional stability and the economy. This could lead to sustained disruptions in supply chains and increased risks for aviation and cargo operations.",
+      "operational_impact": "Transport and logistics operations in and around Tigray may be severely impacted due to the conflict, with potential for roadblocks, airspace restrictions, and increased security measures. This could lead to delays, losses, and heightened security concerns for assets, cargo, and personnel.",
+      "proximity_alert": null
+    }
   }
 ]
