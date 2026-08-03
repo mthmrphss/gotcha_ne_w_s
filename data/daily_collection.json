@@ -226,5 +226,100 @@
       "operational_impact": "The fuel shortage had the potential to cause significant disruptions to flights, but the swift resolution of the issue minimized the impact on transport and logistics operations.",
       "proximity_alert": "YAKIN TEHDİT: Gatwick Airport (0 km)"
     }
+  },
+  {
+    "id": "a005186c7db47c00ae0677b47072c3b2",
+    "timestamp": "2026-08-03T14:54:43.261831",
+    "original_title": "Iran Says No Current Talks With U.S. After Trump Cites Progress on the Strait of Hormuz",
+    "link": "https://www.nytimes.com/2026/08/03/world/middleeast/iran-talks-us-oman-strait-hormuz-trump.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 6,
+      "location": "Strait of Hormuz, Iran",
+      "latitude": 26.0,
+      "longitude": 56.0,
+      "detailed_analysis": "Tensions between the US and Iran could escalate, potentially affecting maritime traffic in the Strait of Hormuz, a critical waterway for international oil shipments.",
+      "immediate_forecast_24h": "Increased military presence and surveillance in the region, potential for miscalculations or accidental clashes.",
+      "strategic_outlook": "Prolonged tensions could lead to increased insurance costs, higher fuel prices, and potential disruptions to global supply chains.",
+      "operational_impact": "Shipping companies may need to consider alternative routes, and airlines may need to adjust flight plans to avoid the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "23ddde1047eb769208d246412e691fc9",
+    "timestamp": "2026-08-03T14:54:46.772914",
+    "original_title": "Iran 'calls Trump's bluff' as it denies negotiating with the US",
+    "link": "https://www.france24.com/en/iran-calls-trump-s-bluff-as-it-denies-negotiating-with-the-us",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The situation between the US and Iran is escalating, with Iran denying negotiations with the US. This could lead to increased tensions and potential military action, affecting aviation and logistics in the region.",
+      "immediate_forecast_24h": "The US may impose new sanctions or take other measures to pressure Iran into negotiations, while Iran may respond with aggressive rhetoric or actions, potentially disrupting air travel and cargo operations.",
+      "strategic_outlook": "The long-term outlook is uncertain, but the conflict could lead to a destabilization of the region, affecting global oil prices, trade, and transportation. The situation may escalate into a wider conflict, involving other countries in the region.",
+      "operational_impact": "Potential disruptions to air travel, cargo operations, and logistics in the region. Airlines and cargo operators may need to reroute flights or adjust their operations to avoid the area, while ground transportation may also be affected by increased security measures or unrest.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "76b53a9ff75cab5540ffc3fa1ddf7a7f",
+    "timestamp": "2026-08-03T14:54:49.052278",
+    "original_title": "Hard-right Reform UK proposes navy-led operation to stop small migrant boats",
+    "link": "https://www.france24.com/en/europe/20260803-hard-right-reform-uk-proposes-navy-led-operation-to-stop-small-migrant-boats",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Border/Civil Unrest",
+      "risk_score": 6,
+      "location": "English Channel, UK",
+      "latitude": 50.9718,
+      "longitude": 1.4329,
+      "detailed_analysis": "Reform UK's proposal to deploy the Royal Navy to return small migrant boats to France could lead to increased tensions and potential clashes between UK and French authorities, as well as with migrants. This could disrupt maritime transport and pose a risk to personnel and assets in the area.",
+      "immediate_forecast_24h": "The situation is likely to remain volatile, with potential for further political rhetoric and increased military presence in the Channel. Migrant boats may continue to attempt to cross, leading to a heightened risk of incidents and accidents.",
+      "strategic_outlook": "The long-term implications of this proposal could lead to a significant escalation of the migrant crisis in the Channel, potentially drawing in other European countries and straining international relations. This could have far-reaching consequences for regional stability and security.",
+      "operational_impact": "The deployment of the Royal Navy could lead to disruptions in maritime transport, including delays and increased security measures for cargo and passenger vessels. This could have a significant impact on logistics and supply chains, particularly for time-sensitive or high-value goods.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "b39e7cda6e7e4762729673585362fbac",
+    "timestamp": "2026-08-03T14:54:50.815433",
+    "original_title": "After Donald Trump's latest U-turn, uncertainty remains over talks with Iran",
+    "link": "https://www.france24.com/en/after-donald-trump-s-latest-u-turn-uncertainty-remains-over-talks-with-iran",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Tehran, Iran",
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "detailed_analysis": "The uncertainty surrounding negotiations between the US and Iran, combined with the flexing of military might, poses a potential threat to aviation and regional stability.",
+      "immediate_forecast_24h": "Tensions between the US and Iran are likely to remain high, with a possibility of increased military presence in the region.",
+      "strategic_outlook": "The long-term outlook for the region remains uncertain, with the potential for conflict or miscalculation between the US and Iran.",
+      "operational_impact": "The situation may impact aviation operations, particularly in Iranian airspace, and could lead to increased security measures for cargo and personnel in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Rexan Hotel (0 km)"
+    }
+  },
+  {
+    "id": "d10991cba888df752c8eb3ed2825f579",
+    "timestamp": "2026-08-03T14:54:53.953468",
+    "original_title": "WestJet Flight Attendants Return to Work After Historic Strike Leads to Tentative Agreement Being Reached",
+    "link": "https://www.paddleyourownkanoo.com/2026/08/03/westjet-flight-attendants-return-to-work-after-historic-strike-leads-to-tentative-agreement-being-reached/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Aviation/Civil Unrest",
+      "risk_score": 6,
+      "location": "Calgary, Canada",
+      "latitude": 51.05,
+      "longitude": -114.06,
+      "detailed_analysis": "WestJet flight attendants' historic strike has ended with a tentative agreement, reducing immediate disruption to aviation services.",
+      "immediate_forecast_24h": "Normal flight operations are expected to resume, with minimal to no disruptions anticipated in the short term.",
+      "strategic_outlook": "The resolution of the strike may set a precedent for future labor negotiations within the aviation industry, potentially influencing labor relations and operational stability.",
+      "operational_impact": "The return to work of over 4,000 flight attendants will ensure the continuation of WestJet's flight services, maintaining the airline's operational capacity and minimizing the impact on passengers and cargo.",
+      "proximity_alert": null
+    }
   }
 ]
