@@ -321,5 +321,43 @@
       "operational_impact": "The return to work of over 4,000 flight attendants will ensure the continuation of WestJet's flight services, maintaining the airline's operational capacity and minimizing the impact on passengers and cargo.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "aa080bfc000c9b7697f75db72abdb5e9",
+    "timestamp": "2026-08-03T17:13:30.184367",
+    "original_title": "The viral migrant crisis that’s splitting Europe in half",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1vehswx/the_viral_migrant_crisis_thats_splitting_europe/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Border/Civil Unrest",
+      "risk_score": 10,
+      "location": "Europe",
+      "latitude": 48.8567,
+      "longitude": 2.2945,
+      "detailed_analysis": "The migrant crisis in Europe poses a significant threat to border security and transport logistics, with potential for stowaways, border breaches, and disruptions to supply chains.",
+      "immediate_forecast_24h": "Increased tensions and protests are expected in the short term, potentially leading to disruptions in transport and logistics operations.",
+      "strategic_outlook": "The long-term implications of the migrant crisis could lead to increased security measures, border controls, and potential changes in immigration policies, affecting transport and logistics operations in Europe.",
+      "operational_impact": "Transport and logistics operations may be impacted by increased security checks, potential border closures, and disruptions to supply chains, requiring contingency planning and risk mitigation strategies.",
+      "proximity_alert": "YAKIN TEHDİT: Paris Charles de Gaulle Airport (1 km)"
+    }
+  },
+  {
+    "id": "bd5c645c767d0791bd1696d89412e9f1",
+    "timestamp": "2026-08-03T17:13:40.426942",
+    "original_title": "Athens at high risk as Greece sees another summer of deadly wildfires",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/athens-wildfires-greece-travel-advice-b3026645.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 8,
+      "location": "Athens, Greece",
+      "latitude": 37.9833,
+      "longitude": 23.7333,
+      "detailed_analysis": "A firefighter helicopter crash in Greece has resulted in two fatalities, indicating a high risk to aviation assets and personnel. The incident, combined with the ongoing threat of deadly wildfires, poses a significant threat to aviation operations in the region.",
+      "immediate_forecast_24h": "Increased risk of aviation accidents due to wildfires and potential helicopter operations in the area. Firefighting efforts may be hindered by the crash, potentially exacerbating the wildfire situation.",
+      "strategic_outlook": "The Greek government may need to reassess its wildfire response strategy, potentially leading to changes in aviation operations and asset allocation. The incident may also lead to increased scrutiny of helicopter safety and maintenance procedures.",
+      "operational_impact": "Potential disruptions to air transport and logistics in the region due to the wildfires and helicopter crash. Firefighting efforts may require the use of alternative aircraft or strategies, which could impact aviation operations and personnel.",
+      "proximity_alert": null
+    }
   }
 ]
