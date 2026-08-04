@@ -264,5 +264,62 @@
       "operational_impact": "Potential disruption to logistics, aviation, and personnel operations due to increased cyber threats, emphasizing the need for robust cybersecurity protocols to protect assets and maintain business continuity.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "f6abfb29b0dd5df65586220e0028b178",
+    "timestamp": "2026-08-04T14:30:45.661014",
+    "original_title": "A New Lethal Front in Ukraine: Its Beloved Gas Stations",
+    "link": "https://www.nytimes.com/2026/08/04/world/europe/ukraine-gas-stations-russia.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Aviation",
+      "risk_score": 8,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "Russian drone attacks targeting hundreds of gas stations in Ukraine pose a significant threat to assets, cargo, aviation, and personnel. The attacks are likely in retaliation for Ukraine's attacks on oil refineries, indicating an escalation of the conflict.",
+      "immediate_forecast_24h": "Increased drone activity and potential for further attacks on critical infrastructure, including gas stations and oil refineries, is expected in the next 24 hours.",
+      "strategic_outlook": "The ongoing conflict between Russia and Ukraine is likely to continue, with potential for increased attacks on critical infrastructure, including those related to aviation and logistics. This could lead to significant disruptions to transport and supply chains in the region.",
+      "operational_impact": "The attacks on gas stations and oil refineries could lead to fuel shortages, disrupting logistics and transport operations in Ukraine. Additionally, the increased drone activity poses a risk to aviation operations, potentially disrupting flights and air traffic control.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "79080bac77004b1ae7ec414a6a353ae2",
+    "timestamp": "2026-08-04T14:30:50.428644",
+    "original_title": "Turkey, Egypt, and Qatar condemn Israeli violations of Gaza Strip truce",
+    "link": "http://www.africanews.com/2026/08/04/turkey-egypt-and-qatar-condemn-israeli-violations-of-gaza-strip-truce/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 7,
+      "location": "Gaza Strip",
+      "latitude": 31.5,
+      "longitude": 34.5,
+      "detailed_analysis": "The condemnation by Turkey, Egypt, and Qatar of Israeli violations of the Gaza Strip truce indicates heightened tensions and potential for escalation, posing a threat to regional stability and potentially affecting aviation and cargo operations in the area.",
+      "immediate_forecast_24h": "Increased diplomatic efforts to de-escalate the situation, but risk of further violence and civilian casualties remains high.",
+      "strategic_outlook": "Long-term resolution of the conflict is unlikely in the near future, with periodic outbreaks of violence expected to continue, impacting regional security and stability.",
+      "operational_impact": "Potential disruptions to air traffic and cargo operations in the region, with increased security measures and possible rerouting of flights or cargo shipments to avoid the affected area.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "919121c3f7fa991acc13f580631578d0",
+    "timestamp": "2026-08-04T14:30:55.770475",
+    "original_title": "After the deadly Ceuta crossing, Moroccan parents search for their children",
+    "link": "https://www.france24.com/en/after-the-deadly-ceuta-crossing-moroccan-parents-search-for-their-children",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Border/Civil Unrest",
+      "risk_score": 6,
+      "location": "Ceuta, Spain/Morocco",
+      "latitude": 35.8888,
+      "longitude": -5.3667,
+      "detailed_analysis": "A large-scale border crossing attempt at Ceuta has resulted in significant disruptions and loss of life. The situation poses a risk to the security and stability of the region, particularly for transport and logistics operations.",
+      "immediate_forecast_24h": "Tensions are expected to remain high in the short term, with potential for further unrest and disruptions to border crossings. Authorities may implement additional security measures to prevent future incidents.",
+      "strategic_outlook": "The long-term implications of this event may include increased security measures at the Ceuta border, potentially affecting the efficiency of transport and logistics operations in the region. There may also be a heightened risk of similar incidents occurring at other border crossings in the area.",
+      "operational_impact": "The incident may cause delays and disruptions to transport and logistics operations, particularly for those relying on the Ceuta border crossing. Companies operating in the region should be prepared for potential delays and consider alternative routes or contingency plans.",
+      "proximity_alert": null
+    }
   }
 ]
