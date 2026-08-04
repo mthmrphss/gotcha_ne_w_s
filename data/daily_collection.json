@@ -36,5 +36,43 @@
       "operational_impact": "Potential disruptions to ground and air transport, increased risk to personnel, and possible delays or rerouting of cargo shipments due to the conflict, highlighting the need for real-time monitoring and adaptive operational planning.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "2b0ffd1bfca5b23c79858cd4a31c0410",
+    "timestamp": "2026-08-04T06:11:31.758652",
+    "original_title": "Ukrainian drone strikes on Russia kill at least six, spark fire at Wildberries warehouses",
+    "link": "https://www.france24.com/en/europe/20260804-ukrainian-drone-strikes-on-russia-kill-at-least-six-spark-fire-at-wildberries-warehouses",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 8,
+      "location": "Russia",
+      "latitude": 61.524,
+      "longitude": 105.3188,
+      "detailed_analysis": "Ukrainian drone strikes on Russian territory have resulted in at least six fatalities and sparked a fire at Wildberries warehouses, indicating a significant escalation in conflict and potential disruption to logistics and supply chains.",
+      "immediate_forecast_24h": "Increased tensions between Ukraine and Russia are expected, with potential for further drone strikes or retaliatory actions, posing a high risk to aviation and ground assets.",
+      "strategic_outlook": "The ongoing conflict may lead to prolonged instability in the region, affecting trade and cargo movements, with potential long-term impacts on global supply chains and economic stability.",
+      "operational_impact": "Drone strikes on warehouses and logistical hubs could severely disrupt operations, causing delays and losses for businesses and consumers, while also posing a significant threat to personnel and assets in the affected areas.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "baa5b63b79570130a92fcd66c41b8b59",
+    "timestamp": "2026-08-04T06:11:33.807997",
+    "original_title": "Middle East live: Cargo ship hit by 'unknown projectile' in Strait of Hormuz",
+    "link": "https://www.france24.com/en/middle-east/20260804-middle-east-live-cargo-ship-hit-by-unknown-projectile-in-strait-of-hormuz",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism/Crime",
+      "risk_score": 8,
+      "location": "Strait of Hormuz, Oman",
+      "latitude": 25.3667,
+      "longitude": 56.7667,
+      "detailed_analysis": "A cargo ship was hit by an unknown projectile in the Strait of Hormuz, indicating a potential threat to maritime assets and cargo. The incident occurs amidst heightened tensions between the US and Iran, with negotiations ongoing despite Tehran's denials.",
+      "immediate_forecast_24h": "Increased naval presence and surveillance in the Strait of Hormuz are expected. There is a high likelihood of further incidents or attacks on maritime assets in the region.",
+      "strategic_outlook": "The long-term view suggests continued instability in the region, with potential for escalation of conflict between the US and Iran. This could lead to increased risks for maritime trade and transport in the Strait of Hormuz.",
+      "operational_impact": "Shipping companies and maritime operators should exercise extreme caution when navigating the Strait of Hormuz. Potential delays, increased security measures, and heightened risk of attacks or hijackings are expected to impact transport and logistics operations in the region.",
+      "proximity_alert": null
+    }
   }
 ]
