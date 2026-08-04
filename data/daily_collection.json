@@ -435,5 +435,81 @@
       "operational_impact": "The conflict and potential further escalation could impact air transport and logistics in the region, with increased risk of disruptions to flights and cargo shipments.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "bb6188baea09578760e1ce3d3cfd8b1d",
+    "timestamp": "2026-08-04T20:36:57.493145",
+    "original_title": "Israel-Lebanon negotiations 'stalling': 'Situation on ground far from spirit of framework agreement'",
+    "link": "https://www.france24.com/en/video/20260804-israel-lebanon-negotiations-stalling-situation-on-ground-far-from-spirit-of-framework-agreement",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Lebanon/Israel",
+      "latitude": 33.8667,
+      "longitude": 35.5333,
+      "detailed_analysis": "Stalled negotiations between Lebanon and Israel, influenced by military realities, domestic politics, and regional tensions, pose a threat to regional stability and potentially to aviation and cargo security.",
+      "immediate_forecast_24h": "Tensions may escalate, but no immediate drastic actions are expected in the next 24 hours.",
+      "strategic_outlook": "Long-term resolution seems challenging due to the complex interplay of regional and domestic factors, potentially leading to increased instability in the area.",
+      "operational_impact": "Potential for increased security measures affecting aviation and cargo transport in the region, with possible delays or rerouting of flights and shipments.",
+      "proximity_alert": "YAKIN TEHDİT: Beirut–Rafic Hariri International Airport (3 km)"
+    }
+  },
+  {
+    "id": "445941389e7892de535c05baef94da9a",
+    "timestamp": "2026-08-04T20:36:59.554818",
+    "original_title": "Ukraine: Drone follows man before detonating and injuring him",
+    "link": "https://www.france24.com/en/video/20260804-ukraine-drone-follows-man-before-detonating-and-injuring-him",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 10,
+      "location": "Kherson, Ukraine",
+      "latitude": 46.6553,
+      "longitude": 32.6167,
+      "detailed_analysis": "A drone detonated and injured a man in Ukraine, highlighting the increasing use of unmanned aerial vehicles in the conflict. The Ukrainian army is producing drones at a rate of 10,000 per day, while Russia can fire 350 to 500 long-range attack drones daily.",
+      "immediate_forecast_24h": "Increased drone activity is expected in the region, posing a threat to personnel and aviation. The risk of drone-related incidents will remain high in the next 24 hours.",
+      "strategic_outlook": "The widespread use of drones in the Ukraine conflict may set a precedent for future conflicts, with potential long-term implications for aviation security and logistics. The production and deployment of drones will likely continue to escalate, increasing the risk of drone-related threats.",
+      "operational_impact": "The use of drones in the conflict may disrupt logistics and transportation in the region, particularly in areas with high drone activity. Aviation operations may also be impacted, with increased risk of drone sightings and potential collisions.",
+      "proximity_alert": "YAKIN TEHDİT: Kherson International Airport (8 km)"
+    }
+  },
+  {
+    "id": "1d6cb9be6a9f7e1dab4920b742335d20",
+    "timestamp": "2026-08-04T20:37:01.795122",
+    "original_title": "'World's largest humanitarian crisis Thirty five million Sudanese need humanitarian assistance'",
+    "link": "https://www.france24.com/en/world-s-largest-humanitarian-crisis-thirty-five-million-sudanese-need-humanitarian-assistance",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "Sudan",
+      "latitude": 12.8628,
+      "longitude": 30.2176,
+      "detailed_analysis": "Sudan is experiencing a humanitarian crisis due to systemic societal collapse, with war hollowing out public services, displacing communities, and accelerating disease. This creates a high-risk environment for assets, cargo, aviation, and personnel.",
+      "immediate_forecast_24h": "Expect continued instability and potential for increased violence, displacement, and humanitarian need. There may be disruptions to transport and logistics, particularly in areas affected by conflict.",
+      "strategic_outlook": "The long-term outlook for Sudan is uncertain, with the potential for prolonged conflict and instability. This could lead to increased risks for assets, cargo, aviation, and personnel, as well as disruptions to regional trade and commerce.",
+      "operational_impact": "The crisis in Sudan may impact transport and logistics operations, particularly in areas affected by conflict. There may be increased risks of cargo theft, smuggling, and other crimes, as well as disruptions to supply chains and transportation networks.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "d3f4a567b753b0826a6770c97c31f11f",
+    "timestamp": "2026-08-04T20:37:05.277240",
+    "original_title": "Senegal - Level 1: Exercise Normal Precautions",
+    "link": "http://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/senegal-travel-advisory.html",
+    "source_name": "US State Dept",
+    "ai_analysis": {
+      "category": "Crime/Border",
+      "risk_score": 6,
+      "location": "Casamance, Senegal",
+      "latitude": 12.5833,
+      "longitude": -15.0667,
+      "detailed_analysis": "The Casamance region in Senegal has increased risk due to crime and landmines, with separatist rebel groups operating in the area and bandits committing armed robbery. U.S. embassy personnel are restricted to main roads and daylight hours.",
+      "immediate_forecast_24h": "Increased caution is advised for the next 24 hours, with potential for armed robbery and landmine threats in the Casamance region.",
+      "strategic_outlook": "Long-term instability in the Casamance region may lead to continued crime and landmine threats, affecting transport and logistics in the area.",
+      "operational_impact": "Transport and logistics operations in the Casamance region should exercise increased caution, avoiding travel at night and staying on main roads to minimize the risk of armed robbery and landmine encounters.",
+      "proximity_alert": null
+    }
   }
 ]
