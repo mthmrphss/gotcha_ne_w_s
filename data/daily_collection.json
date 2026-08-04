@@ -321,5 +321,81 @@
       "operational_impact": "The incident may cause delays and disruptions to transport and logistics operations, particularly for those relying on the Ceuta border crossing. Companies operating in the region should be prepared for potential delays and consider alternative routes or contingency plans.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "bbec75252497788de189b957ffdb287d",
+    "timestamp": "2026-08-04T16:56:58.883167",
+    "original_title": "Suspect in attack on New York City federal building indicted on arson charge - ABC7 New York",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUUpPQ2tTUW01dnZsVGswNnJGT2JfbzVDQmxLdUxKNzgzcnZDbzd4LU5iTjMxa29iN05UaDFMNlZJSFZEVEx2TUNTdWxZdDJudXdVeXZnaTlaNXdPRmduLUxoRkpBS2t3ZkxENW83aEg4ZkF6am5OcnJWQld0TzhMS3RmX0N0ZVk4dHotSDVWYzFpSzlsR0lYSjJEdElhWnhmd2Qw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism/Crime",
+      "risk_score": 10,
+      "location": "New York City, USA",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "detailed_analysis": "A suspect has been indicted on an arson charge related to an attack on a federal building in New York City, indicating a potential threat to government assets and personnel.",
+      "immediate_forecast_24h": "Increased security measures are likely to be implemented around federal buildings in New York City, with potential disruptions to nearby transportation and logistics.",
+      "strategic_outlook": "The incident may lead to a heightened state of alert for potential terrorist or criminal activities targeting government facilities, with long-term implications for security protocols and asset protection.",
+      "operational_impact": "Transportation and logistics operations in the vicinity of federal buildings in New York City may experience delays or increased security checks, potentially affecting cargo and personnel movement.",
+      "proximity_alert": "YAKIN TEHDİT: Paramount Hotel (5 km)"
+    }
+  },
+  {
+    "id": "af122f06a7625c4309bab77bbff2549f",
+    "timestamp": "2026-08-04T16:57:08.057792",
+    "original_title": "U.S.-brokered peace efforts for Sudan encounter new obstacles",
+    "link": "http://www.africanews.com/2026/08/04/us-brokered-peace-efforts-for-sudan-encounter-new-obstacles/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Khartoum, Sudan",
+      "latitude": 15.6333,
+      "longitude": 32.5333,
+      "detailed_analysis": "The rejection by the Rapid Support Forces (RSF) to withdraw from cities under their control and the insistence by the Sudanese Armed Forces (SAF) that any agreement must begin with the RSF's withdrawal pose significant obstacles to U.S.-brokered peace efforts in Sudan. This situation could lead to increased instability and conflict, affecting the safety of assets, cargo, aviation, and personnel in the region.",
+      "immediate_forecast_24h": "Escalation of tensions between RSF and SAF, potentially leading to clashes and disruptions in major cities. Increased security measures may be implemented, affecting transport and logistics operations.",
+      "strategic_outlook": "Long-term instability in Sudan could have far-reaching consequences for regional security and trade. Prolonged conflict may lead to increased migration, humanitarian crises, and potential spillover effects into neighboring countries.",
+      "operational_impact": "Potential disruptions to air travel, cargo transport, and logistics operations in Sudan. Increased risk of violence, kidnappings, and asset seizures. Companies operating in the region should review their security protocols and consider contingency planning to mitigate potential risks.",
+      "proximity_alert": "YAKIN TEHDİT: Khartoum International Airport (5 km)"
+    }
+  },
+  {
+    "id": "32cbf971032b19d9247d0463bdf9e9f1",
+    "timestamp": "2026-08-04T16:57:10.298119",
+    "original_title": "How Togo has become a new entry point for weapons sent by Russia to Mali",
+    "link": "https://www.france24.com/en/africa/20260804-togo-entry-point-weapons-russia-mali",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Crime",
+      "risk_score": 7,
+      "location": "Lomé, Togo",
+      "latitude": 6.1374,
+      "longitude": 1.2223,
+      "detailed_analysis": "A Russian ship under US sanctions has delivered military vehicles to the Port of Lomé in Togo, marking a new entry point for Russian arms shipments to Mali, potentially destabilizing the region and impacting cargo security",
+      "immediate_forecast_24h": "Increased surveillance and monitoring of the Port of Lomé and surrounding areas for potential security breaches or further arms shipments",
+      "strategic_outlook": "Long-term implications for regional stability and potential escalation of conflict in Mali and surrounding areas, with Togo becoming a key transit point for Russian military aid",
+      "operational_impact": "Potential disruptions to cargo operations and logistics in the region, with increased risk of smuggling, theft, or hijacking of sensitive military equipment",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "4a88f4ffe705ba164a5b1a30d16339f1",
+    "timestamp": "2026-08-04T16:57:14.585896",
+    "original_title": "Hezbollah rejects fresh round of talks between Lebanon and Israel",
+    "link": "https://www.france24.com/en/hezbollah-rejects-fresh-round-of-talks-between-lebanon-and-israel",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 10,
+      "location": "Rome, Italy/Lebanon/Israel",
+      "latitude": 41.87,
+      "longitude": 12.5,
+      "detailed_analysis": "Hezbollah's rejection of talks between Lebanon and Israel under US sponsorship in Rome indicates heightened tensions and potential for conflict escalation, posing a threat to aviation and regional stability.",
+      "immediate_forecast_24h": "Increased rhetoric and potential for military action along the Lebanon-Israel border, with possible spillover effects on regional aviation and logistics.",
+      "strategic_outlook": "Prolonged conflict could lead to significant disruptions in regional trade, aviation, and logistics, with potential for terrorist attacks on assets, cargo, and personnel.",
+      "operational_impact": "Heightened security measures recommended for aviation and logistics operations in the region, with potential for flight disruptions, cargo delays, and increased risk to personnel.",
+      "proximity_alert": "YAKIN TEHDİT: Fiumicino – Leonardo da Vinci International Airport (2 km)"
+    }
   }
 ]
