@@ -93,5 +93,62 @@
       "operational_impact": "Minimal impact on transport and logistics expected, but possible increased scrutiny of flight safety and turbulence mitigation measures",
       "proximity_alert": "YAKIN TEHDİT: Indira Gandhi International Airport (16 km)"
     }
+  },
+  {
+    "id": "c735b669eec490cd004b0d6eeeca9241",
+    "timestamp": "2026-08-05T09:19:25.800124",
+    "original_title": "Israeli Strikes May Undermine Trump’s Peace Plan for Gaza",
+    "link": "https://www.nytimes.com/2026/08/05/world/middleeast/israel-strikes-gaza-peace-deal.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Gaza, Israel",
+      "latitude": 31.5,
+      "longitude": 34.45,
+      "detailed_analysis": "The escalation of Israeli strikes on Gaza may undermine President Trump's peace plan, potentially leading to increased violence and instability in the region, affecting aviation and cargo operations.",
+      "immediate_forecast_24h": "Increased tensions and potential for further airstrikes, impacting flight operations and cargo transport in the region.",
+      "strategic_outlook": "Long-term instability in the region may lead to sustained disruptions in aviation and cargo operations, affecting personnel and asset security.",
+      "operational_impact": "Potential for flight delays or cancellations, increased security measures for cargo and personnel, and heightened risk of attacks on transportation infrastructure.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "f5c42f82ff3528de1448eb7ee91a9901",
+    "timestamp": "2026-08-05T09:19:28.728526",
+    "original_title": "Spanish army doubts its military superiority over Morocco if Ceuta and Melilla are to be defended | Rabat has spent $70 billion on fighter jets, drones, combat ships, spy satellites and heavy artillery",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1vg0smd/spanish_army_doubts_its_military_superiority_over/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict/Border",
+      "risk_score": 7,
+      "location": "Ceuta and Melilla, Spain",
+      "latitude": 35.2933,
+      "longitude": -3.0143,
+      "detailed_analysis": "The Spanish army has expressed doubts about its military superiority over Morocco, particularly in defending the territories of Ceuta and Melilla. Morocco has invested $70 billion in military equipment, including fighter jets, drones, combat ships, spy satellites, and heavy artillery. This significant military buildup poses a threat to the security and stability of the region.",
+      "immediate_forecast_24h": "Tensions between Spain and Morocco are likely to escalate, with a potential increase in military activity and posturing in the region. There is a risk of border incidents and clashes between the two countries.",
+      "strategic_outlook": "The long-term implications of Morocco's military buildup and the Spanish army's doubts about its superiority could lead to a significant shift in the regional balance of power. This could have far-reaching consequences for European and North African security, as well as the stability of the Mediterranean region.",
+      "operational_impact": "The potential conflict between Spain and Morocco could disrupt transport and logistics in the region, particularly in the Strait of Gibraltar. There may be increased security measures, border controls, and potential restrictions on the movement of goods and people.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "d8abd4e84a4b6d7e2c8b3c5f35266a11",
+    "timestamp": "2026-08-05T09:19:31.457301",
+    "original_title": "Ukraine live: Russian strikes kill more than a dozen in Kyiv region, Zelensky says",
+    "link": "https://www.france24.com/en/europe/20260805-ukraine-live-russian-strikes-kill-at-least-15-in-kyiv-and-surrounding-region",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Kyiv, Ukraine",
+      "latitude": 50.4501,
+      "longitude": 30.5236,
+      "detailed_analysis": "Russian strikes on Kyiv and the surrounding region have resulted in significant casualties, indicating an escalation of conflict in the area. The increased use of missiles by Russia poses a substantial threat to aviation and personnel in the region.",
+      "immediate_forecast_24h": "Further strikes are likely, and the situation may continue to escalate, posing an immediate threat to assets, cargo, aviation, and personnel in the area.",
+      "strategic_outlook": "The ongoing conflict between Russia and Ukraine is expected to continue, with potential long-term implications for regional stability and global security. This may lead to increased security measures and potential disruptions to transport and logistics in the area.",
+      "operational_impact": "The conflict may impact air traffic, ground transportation, and logistics operations in the region, potentially leading to delays, disruptions, or even the suspension of services. Personnel and assets in the area should exercise extreme caution, and contingency plans should be in place to mitigate potential risks.",
+      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
+    }
   }
 ]
