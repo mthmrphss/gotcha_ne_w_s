@@ -340,5 +340,43 @@
       "operational_impact": "The strike may cause delays and disruptions to public transportation, potentially affecting the movement of people, goods, and services in the London area, but it is not expected to have a significant impact on aviation or cargo logistics.",
       "proximity_alert": "YAKIN TEHDİT: Heathrow Airport (23 km)"
     }
+  },
+  {
+    "id": "bf168b793001e073812b23f354703646",
+    "timestamp": "2026-08-05T16:16:04.704433",
+    "original_title": "Israel resumes military strikes on southern Lebanon as Rome hosts peace talks",
+    "link": "https://www.france24.com/en/middle-east/20260805-israel-resumes-military-strikes-on-southern-lebanon-as-rome-hosts-peace-talks",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Southern Lebanon, Lebanon",
+      "latitude": 33.3333,
+      "longitude": 35.3333,
+      "detailed_analysis": "Israel has resumed military strikes on southern Lebanon, citing Hezbollah's violation of a ceasefire. The situation is fragile, with at least one person killed and an evacuation alert issued for a southern town in Israel.",
+      "immediate_forecast_24h": "Escalation of hostilities is possible, with potential for further airstrikes and retaliation from Hezbollah. The US-backed peace talks in Rome may face challenges in achieving a breakthrough.",
+      "strategic_outlook": "The conflict may lead to a prolonged period of instability in the region, affecting aviation and cargo operations. The involvement of external parties, such as the US, may influence the trajectory of the conflict.",
+      "operational_impact": "Potential disruptions to air traffic and cargo transport in the region, with possible closures of airspace or restrictions on flight operations. Ground transportation may also be affected, particularly in areas near the conflict zone.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "1f69636007542d61e78637b80a4465c1",
+    "timestamp": "2026-08-05T16:16:08.266086",
+    "original_title": "Delta Air Lines Pushes Ahead With Non-Stop Riyadh Flights From October 23 Despite Middle East Unrest",
+    "link": "https://www.paddleyourownkanoo.com/2026/08/05/delta-air-lines-pushes-ahead-with-non-stop-riyadh-flights-from-october-23-despite-middle-east-unrest/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Aviation/Civil Unrest/Conflict",
+      "risk_score": 10,
+      "location": "Riyadh, Saudi Arabia",
+      "latitude": 24.7136,
+      "longitude": 46.6753,
+      "detailed_analysis": "Delta Air Lines is launching non-stop flights to Riyadh despite ongoing Middle East unrest, which may pose a risk to aviation safety and security due to increased tensions between Iran and the United States.",
+      "immediate_forecast_24h": "No immediate disruptions expected, but the situation in the Middle East remains volatile and could escalate at any time, potentially affecting flight operations.",
+      "strategic_outlook": "The long-term outlook for the region remains uncertain, with ongoing tensions between Iran and the US, which could impact the safety and security of air travel in the region.",
+      "operational_impact": "Potential disruptions to flight schedules, increased security measures, and possible flight cancellations or rerouting due to the volatile security situation in the region.",
+      "proximity_alert": "YAKIN TEHDİT: King Khalid International Airport (27 km)"
+    }
   }
 ]
