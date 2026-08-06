@@ -321,5 +321,62 @@
       "operational_impact": "The increase in fuel costs will likely lead to reduced profitability for airlines, potentially resulting in reduced flight schedules, increased ticket prices, and decreased cargo capacity.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "62023fd8984edaf71a9249530515e4d0",
+    "timestamp": "2026-08-06T12:26:58.474387",
+    "original_title": "Trump, Hegseth clashed at Camp David over Iran missile depletion concerns - washingtonpost.com",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaUliZlNTQUp4dGdITlFNX19DTENuNkh5TkJaMlJvMXhKRDlOWFhmVXNTT2RMSnQyLVlOWExDNWlJN0Q3QUY0bDBJWVBHMnFOSjZEUEdidkhFaEI3YVVlM0Jxa0taV2RVcEFwWFNNb180YmZqU3VDY3VzdU9zQ183VXBYWk9tVFFyeVQ5WDFpWWxfaDNQVFJ3LWM0Q2oyTWdtdFVXNmZtb01Nd1I5OWFoZy0taTJ0VWVXMHVJRjNGd3pCY0JpcWZLQjdB?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 6,
+      "location": "Camp David, USA",
+      "latitude": 39.6453,
+      "longitude": -77.4597,
+      "detailed_analysis": "The news article reports a clash between Trump and Hegseth over Iran missile depletion concerns, indicating a potential escalation of conflict in the region, which could impact aviation and logistics in the area.",
+      "immediate_forecast_24h": "Increased tensions between the US and Iran may lead to heightened security measures and potential disruptions to air travel and cargo transport in the region.",
+      "strategic_outlook": "The long-term implications of this conflict could lead to increased instability in the region, affecting global supply chains and aviation security.",
+      "operational_impact": "Potential disruptions to air travel, increased security screenings, and possible restrictions on cargo transport may impact logistics and transport operations in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "b025fc601fa642628b9d2c55b1895169",
+    "timestamp": "2026-08-06T12:27:03.399248",
+    "original_title": "Jet2 flight to Mallorca 'declaring mid-air emergency' above UK - Daily Mirror",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQy1tcDlJSnc3bzNHZXJ3VUNEemxmZ2lyWXkxNHJlZk9TTVFuOTZ6SEFqd0xPcTlyc2hrWHpQOFBMV1BueFZ2VFNoU3VDVmpCak5ZMjM4VXp0R3dhR1NPTVF6bHNnRUgwOWs5QThFUEhlZy03RV9vNHVpejhHVDQzWHpDdXVlMDhSNnhhWlQ5OHTSAZYBQVVfeXFMUDNSRGNUYXp2TDhRVF9oRTkwV2k3dHVwcDI2QXZ0SVRjQzAzMjFwQldlR29scTQ0QTB0NWFtbWRlcF83S3dVWG5zcjE3aENmYnlWaHJWSDlJeDBmRkRNMkpjdjlXUGRESXdxYXhvRDliYVhMZW4yMHB0OHR3aHphMWtXUTdpYzRyTkxlZF9yQ2Uxa3N6MzhR?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 8,
+      "location": "Above UK",
+      "latitude": 53.0,
+      "longitude": -2.0,
+      "detailed_analysis": "A Jet2 flight to Mallorca has declared a mid-air emergency above the UK, indicating a potential threat to the safety of the aircraft, its passengers, and crew.",
+      "immediate_forecast_24h": "The situation is being monitored, and the aircraft is likely to be diverted to the nearest airport for an emergency landing. Further information is awaited.",
+      "strategic_outlook": "The incident may have implications for aviation security and emergency response protocols. Investigations will be conducted to determine the cause of the emergency.",
+      "operational_impact": "The incident may cause disruptions to flight schedules and operations, potentially affecting other flights and passengers. Cargo and logistics operations may also be impacted if the aircraft is carrying freight.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "1cd75a1a20161aba8c72c8c3402f5610",
+    "timestamp": "2026-08-06T12:27:10.810113",
+    "original_title": "US airline authority proposes ditching 64-item medical kit checklist before flights",
+    "link": "https://www.independent.co.uk/travel/news-and-advice/federal-aviation-administration-emergency-medical-kits-faa-b3028495.html",
+    "source_name": "Independent Travel",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "United States",
+      "latitude": 38.8977,
+      "longitude": -77.0365,
+      "detailed_analysis": "The proposed change to the medical kit checklist by the FAA is intended to support nine life-threatening conditions, but it does not directly indicate a threat to assets, cargo, aviation, or personnel.",
+      "immediate_forecast_24h": "No immediate impact expected as this is a proposed regulatory change.",
+      "strategic_outlook": "Long-term, the change could potentially affect the way medical emergencies are handled on flights, but it is not indicative of a direct threat.",
+      "operational_impact": "Minimal operational impact expected as this change is focused on medical kit contents rather than aviation operations or security protocols.",
+      "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
+    }
   }
 ]
