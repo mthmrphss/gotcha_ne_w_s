@@ -1,40 +1,59 @@
 [
   {
-    "id": "a99ce85145e430aae226a8d7011bdf23",
-    "timestamp": "2026-08-06T04:18:36.849317",
-    "original_title": "Trump, Hegseth clashed at Camp David over Iran missile depletion concerns - The Washington Post",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaUliZlNTQUp4dGdITlFNX19DTENuNkh5TkJaMlJvMXhKRDlOWFhmVXNTT2RMSnQyLVlOWExDNWlJN0Q3QUY0bDBJWVBHMnFOSjZEUEdidkhFaEI3YVVlM0Jxa0taV2RVcEFwWFNNb180YmZqU3VDY3VzdU9zQ183VXBYWk9tVFFyeVQ5WDFpWWxfaDNQVFJ3LWM0Q2oyTWdtdFVXNmZtb01Nd1I5OWFoZy0taTJ0VWVXMHVJRjNGd3pCY0JpcWZLQjdB?oc=5",
+    "id": "427eb170882a92bc5ac1ab9cc4b6f861",
+    "timestamp": "2026-08-06T07:18:16.438773",
+    "original_title": "Leader of Myanmar's military-backed government arrives in Thailand seeking political legitimacy - The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQb1NiMHdhV0JMdGtOZmpHQXBISkwxMldtSjFkR1gteFVyY0VXMDBsYzN6R1pCRllWaGo5QkNiSU1CRzJqVjVFakV5Y2Vqcjd0UXdOMFJjU1doT3hlZmgxc25Kc2ZnX3Qya2Q4dzRKaVhPMFZleDhPa0N4WlBCeDlGWm5kRlFFT3JjQVd2d3FrbUtLVWVHVkNRNERuV2Q0NEhVdWx3azJ2ZHJhVmRaaXV1eE1nczhfMTVrdks1Z2R1YlFqMUNfdzVBMTd2Ul9vVlU?oc=5",
     "source_name": "Google News (Breaking)",
     "ai_analysis": {
-      "category": "Conflict",
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 10,
+      "location": "Bangkok, Thailand",
+      "latitude": 13.75,
+      "longitude": 100.52,
+      "detailed_analysis": "The arrival of Myanmar's military-backed government leader in Thailand may lead to civil unrest or protests, potentially affecting aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Increased security presence and potential protests near government buildings and airports, but no immediate disruption to aviation or cargo operations expected.",
+      "strategic_outlook": "Long-term instability in Myanmar may lead to increased refugee flows or migrant movements, potentially affecting border security and transport logistics in the region.",
+      "operational_impact": "Minimal immediate impact on transport and logistics, but potential for increased security measures and delays at airports and border crossings in the coming days.",
+      "proximity_alert": "YAKIN TEHDİT: Suvarnabhumi Airport (22 km)"
+    }
+  },
+  {
+    "id": "202da256402957e42c66c091c21bd12b",
+    "timestamp": "2026-08-06T07:18:18.409118",
+    "original_title": "Elisity CLI powers customer-controlled AI agents for zero trust security, identity-based microsegmentation - Industrial Cyber",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRzBiSFVuMDRsNUtvMTVhUEtJdU42YzEzTV81aFA5cHlWdjk2LUFxYUYtRVF5STFYdm9kSlVFSWh1czd3OW84VHA5bElmVkVCVFc2TUpvVDlDZ0VrcVJUYlc4ZXc1cG1sQkNLdG81N2FQQS1xenZ6YVYydm9PS2d4Y1RyTWo5S1d6MUxKVTRvVzkyc2xfYm96NlU1WFd1SzNELUY1TU9NWE5jSXU5clNxUHBuMkU4LVJXLVMtV09WbWJBZzlySnNqV29VekFZNng2cEx2OA?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Cyber",
       "risk_score": 6,
-      "location": "Camp David, USA",
-      "latitude": 39.6453,
-      "longitude": -77.4597,
-      "detailed_analysis": "The article reports a clash between Trump and Hegseth over Iran missile depletion concerns, indicating potential conflict and geopolitical tensions that could impact aviation and logistics in the region.",
-      "immediate_forecast_24h": "Increased tensions between the US and Iran may lead to heightened security measures and potential disruptions to air travel and cargo transport in the region.",
-      "strategic_outlook": "Long-term escalation of tensions between the US and Iran could lead to significant disruptions to global supply chains, particularly in the aviation and logistics sectors.",
-      "operational_impact": "Potential disruptions to air travel, increased security screening, and possible restrictions on cargo transport may impact operational efficiency and safety in the region.",
+      "location": "Unknown, Global",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "Elisity CLI introduces AI-powered zero trust security and identity-based microsegmentation, potentially mitigating cyber threats to assets, cargo, aviation, and personnel by enhancing network security and access control.",
+      "immediate_forecast_24h": "Increased adoption of Elisity CLI may lead to improved security posture for organizations, reducing the risk of cyber breaches and data compromise in the short term.",
+      "strategic_outlook": "Long-term, the implementation of AI-driven zero trust security models like Elisity CLI could significantly alter the cyber threat landscape, forcing attackers to evolve their tactics and potentially leading to a cat-and-mouse game between security solutions and threats.",
+      "operational_impact": "The operational impact is expected to be positive, with enhanced security measures reducing the risk of cyber-attacks on critical infrastructure, including those related to aviation, cargo, and personnel management.",
       "proximity_alert": null
     }
   },
   {
-    "id": "6f94ce2317805d1c3f19f488de04a334",
-    "timestamp": "2026-08-06T04:18:41.615540",
-    "original_title": "Nigeria rescues more than 300 kidnapping victims in major operation",
-    "link": "https://www.france24.com/en/africa/20260806-nigeria-rescues-more-than-300-kidnapping-victims-in-major-operation",
+    "id": "ff30dcb82186d18fb00b3225427a9b4a",
+    "timestamp": "2026-08-06T07:18:23.311093",
+    "original_title": "Russian strikes target Ukraine's Kharkiv and Sumy regions, killing at least six",
+    "link": "https://www.france24.com/en/europe/20260806-at-least-six-killed-russian-strikes-ukraine-officials-say",
     "source_name": "France 24 ME",
     "ai_analysis": {
-      "category": "Crime/Terrorism/Civil Unrest",
-      "risk_score": 7,
-      "location": "Nigeria",
-      "latitude": 9.081999,
-      "longitude": 8.675277,
-      "detailed_analysis": "Nigerian authorities have rescued over 300 kidnapping victims in a major operation, indicating a significant threat to personnel and potential disruption to logistics and transport in the region.",
-      "immediate_forecast_24h": "Increased security presence is expected in the region, potentially leading to temporary disruptions in transport and logistics. The risk of further kidnappings or retaliatory attacks by armed groups cannot be ruled out.",
-      "strategic_outlook": "The long-term outlook suggests continued instability in the region, with potential for ongoing threats to personnel, cargo, and aviation. Efforts to enhance security and stabilize the area are crucial to mitigate these risks.",
-      "operational_impact": "Transport and logistics operations in Nigeria may face increased security measures, potential delays, and heightened risk of cargo theft or hijacking. Aviation operations may also be affected due to the broader security situation.",
-      "proximity_alert": null
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Kharkiv and Sumy, Ukraine",
+      "latitude": 49.9935,
+      "longitude": 36.2304,
+      "detailed_analysis": "Russian strikes on Ukraine's Kharkiv and Sumy regions have resulted in at least six fatalities and damage to a foreign-flagged ship loaded with wheat, indicating a significant threat to assets, cargo, and personnel in the region.",
+      "immediate_forecast_24h": "Further Russian strikes are possible, potentially targeting critical infrastructure, including ports and transportation hubs, which could disrupt cargo operations and pose a risk to aviation in the region.",
+      "strategic_outlook": "The ongoing conflict between Russia and Ukraine is likely to continue, with potential long-term implications for regional stability, trade, and security, affecting the movement of assets, cargo, and personnel.",
+      "operational_impact": "The attacks may cause delays or disruptions to cargo shipments, particularly those involving wheat and other agricultural products, and could also impact aviation operations in the region, including potential restrictions on airspace or increased security measures.",
+      "proximity_alert": "YAKIN TEHDİT: Kharkiv International Airport (8 km)"
     }
   }
 ]
