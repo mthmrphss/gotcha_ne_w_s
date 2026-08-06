@@ -378,5 +378,100 @@
       "operational_impact": "Minimal operational impact expected as this change is focused on medical kit contents rather than aviation operations or security protocols.",
       "proximity_alert": "YAKIN TEHDİT: Washington Dulles International Airport (0 km)"
     }
+  },
+  {
+    "id": "6627d8af109fe9843621c165c3dd04e6",
+    "timestamp": "2026-08-06T14:56:29.435134",
+    "original_title": "Amid Intensifying Russian Strikes, Ukraine’s Pleas for Air Defenses Are Falling Flat",
+    "link": "https://www.nytimes.com/2026/08/06/world/europe/ukraine-russia-missile-defense-patriots.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Ukraine",
+      "latitude": 49.0,
+      "longitude": 32.0,
+      "detailed_analysis": "Intensifying Russian strikes on Ukraine, coupled with Western allies' hesitation to provide air defenses, poses a significant threat to aviation and personnel safety. The lack of air defenses increases the vulnerability of Ukrainian airspace to Russian attacks.",
+      "immediate_forecast_24h": "Increased risk of aerial attacks and potential for escalation of conflict in the region, impacting aviation operations and personnel safety.",
+      "strategic_outlook": "Long-term instability in the region, potentially leading to sustained disruptions in air travel and cargo transport, with significant implications for global supply chains and security.",
+      "operational_impact": "Potential for flight restrictions, airspace closures, and increased security measures for aviation and cargo operations in the region, affecting transport and logistics efficiency.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "298f955b83f927458599e7ef78aae027",
+    "timestamp": "2026-08-06T14:56:32.152746",
+    "original_title": "Jet2 pilot's four chilling words to passengers as flight declares emergency over UK - AOL.co.uk",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcUFOVnAwU1VVRTZuZk9rc01raUQzek52WnJqc2ZEblk0cjVxQmFpVkxQaE1WYTdvc2ZuOFF6YnM1YkpZazZ1Mkt5LWJjSVNWQzVFMk1qVkV1bG5iQmxMeTVMNU0wY095VEQ5azNRbWhwRUpDSW1hZDc4VXNnRkVqZW00SC1IMWM?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 8,
+      "location": "United Kingdom",
+      "latitude": 54.7589,
+      "longitude": -4.5723,
+      "detailed_analysis": "A Jet2 flight declared an emergency over the UK, with the pilot uttering four chilling words to passengers, indicating a potential high-risk situation that could impact aviation safety and operations.",
+      "immediate_forecast_24h": "The situation is being monitored, and an investigation into the cause of the emergency declaration is likely to be launched. Passengers and crew are expected to be safe, but the incident may cause disruptions to flight schedules.",
+      "strategic_outlook": "The incident highlights the importance of emergency preparedness and response in the aviation industry. Airlines and regulatory bodies may review and update their emergency procedures to minimize the risk of similar incidents in the future.",
+      "operational_impact": "The incident may cause short-term disruptions to Jet2's operations, potentially leading to flight delays or cancellations. The airline's reputation and passenger confidence may also be affected, depending on the outcome of the investigation and the company's response to the incident.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "7173329171e471db77d340c0edfcbbab",
+    "timestamp": "2026-08-06T14:56:34.371753",
+    "original_title": "How Ukraine's relentless strikes on Russia could actually boost Putin",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1vh2uxv/how_ukraines_relentless_strikes_on_russia_could/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Ukraine, Russia",
+      "latitude": 48.3794,
+      "longitude": 31.1656,
+      "detailed_analysis": "The ongoing conflict between Ukraine and Russia poses significant threats to assets, cargo, aviation, and personnel in the region. Ukraine's relentless strikes on Russia could lead to escalation and increased violence, potentially disrupting logistics and transportation.",
+      "immediate_forecast_24h": "Increased military activity and potential airstrikes in the region, posing a high risk to aviation and logistics operations.",
+      "strategic_outlook": "The conflict may lead to a prolonged period of instability, affecting trade and economic activities in the region, with potential long-term consequences for global supply chains.",
+      "operational_impact": "Transportation and logistics operations in the region may be severely impacted, with potential disruptions to cargo shipments, aviation operations, and personnel movements.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "9835f72db0aece73943187c0f4af11d7",
+    "timestamp": "2026-08-06T14:56:36.834928",
+    "original_title": "Mass prison escape as armed clashes rock western Libya",
+    "link": "http://www.africanews.com/2026/08/06/mass-prison-escape-as-armed-clashes-rock-western-libya/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest/Crime",
+      "risk_score": 7,
+      "location": "Western Libya",
+      "latitude": 32.5333,
+      "longitude": 12.5333,
+      "detailed_analysis": "A mass prison escape in western Libya due to armed clashes between rival groups poses significant security concerns, potentially destabilizing the region and impacting local transport and logistics.",
+      "immediate_forecast_24h": "Increased security measures are expected in the region, with potential for further clashes or unrest, affecting local transport and possibly spilling over into neighboring areas.",
+      "strategic_outlook": "The long-term stability of the region is at risk, with potential for increased criminal activity, including theft and smuggling, affecting cargo and personnel safety.",
+      "operational_impact": "Transport and logistics operations in western Libya may be disrupted due to the heightened security concerns, with potential for delays or rerouting of cargo and personnel.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "4f969b854c5bde6c2e6dbb9f3550a08b",
+    "timestamp": "2026-08-06T14:56:43.837605",
+    "original_title": "Delta Pilots Say ‘All Options Are On the Table’ After Airline Launched ‘Comprehensive Attack’ On Scheduling Rules",
+    "link": "https://www.paddleyourownkanoo.com/2026/08/06/delta-pilots-say-all-options-are-on-the-table-after-airline-launched-comprehensive-attack-on-scheduling-rules/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Aviation/Civil Unrest",
+      "risk_score": 10,
+      "location": "Atlanta, USA",
+      "latitude": 33.7489,
+      "longitude": -84.3879,
+      "detailed_analysis": "Delta pilots are considering all options in response to proposed changes to their contract, which could lead to potential strikes or disruptions in flight operations.",
+      "immediate_forecast_24h": "Tensions between Delta and its pilots may escalate, potentially affecting flight schedules and operations in the short term.",
+      "strategic_outlook": "The dispute may lead to long-term changes in Delta's scheduling rules and labor agreements, potentially impacting the airline's operations and relationships with its pilots.",
+      "operational_impact": "Potential disruptions to Delta's flight operations could impact passengers, cargo, and overall air travel logistics.",
+      "proximity_alert": "YAKIN TEHDİT: Hartsfield–Jackson Atlanta International Airport (12 km)"
+    }
   }
 ]
