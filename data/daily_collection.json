@@ -416,5 +416,43 @@
       "operational_impact": "Potential for increased security protocols at airports, border crossings, and logistics hubs, which may cause delays or disruptions to cargo and personnel transport.",
       "proximity_alert": "YAKIN TEHDİT: King Khalid International Airport (27 km)"
     }
+  },
+  {
+    "id": "9003266c0f8a5d54c35a96f9fdcd65c8",
+    "timestamp": "2026-08-07T16:03:51.977349",
+    "original_title": "Palestinians in Gaza remain wary as Israeli strikes ease",
+    "link": "http://www.africanews.com/2026/08/07/palestinians-in-gaza-remain-wary-as-israeli-strikes-ease/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 7,
+      "location": "Gaza Strip",
+      "latitude": 31.5,
+      "longitude": 34.5,
+      "detailed_analysis": "The easing of Israeli strikes in the Gaza Strip has left Palestinians wary, indicating a potential for renewed conflict. The presence of warplanes and drones overhead poses a threat to aviation and personnel in the area.",
+      "immediate_forecast_24h": "Tensions are expected to remain high, with a possibility of renewed strikes or clashes in the next 24 hours.",
+      "strategic_outlook": "The long-term outlook for the region remains unstable, with ongoing conflict posing a significant threat to assets, cargo, aviation, and personnel.",
+      "operational_impact": "The conflict may disrupt logistics and transportation in the area, with potential for delays or cancellations of flights and shipments.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "921392b92ecde4434bb12145cc122d5c",
+    "timestamp": "2026-08-07T16:03:55.094647",
+    "original_title": "Turkey, Saudi, Pakistan: Attack on one nation deemed an attack on all",
+    "link": "https://www.france24.com/en/turkey-saudi-pakistan-attack-on-one-nation-deemed-an-attack-on-all",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Turkey, Saudi Arabia, Pakistan",
+      "latitude": 39.9334,
+      "longitude": 32.8597,
+      "detailed_analysis": "A mutual defence agreement between Turkey, Saudi Arabia, and Pakistan increases the likelihood of collective response to armed attacks, potentially escalating regional conflicts and affecting aviation and cargo operations.",
+      "immediate_forecast_24h": "Heightened military readiness and increased diplomatic tensions are expected in the short term, with potential for retaliatory attacks or proxy wars.",
+      "strategic_outlook": "Long-term implications include a shift in regional power dynamics, with potential for increased instability and conflict in the Middle East and South Asia, affecting trade routes and transport infrastructure.",
+      "operational_impact": "Potential disruptions to air travel, cargo shipments, and logistics operations due to increased military activity, airspace restrictions, or terrorist attacks, with possible knock-on effects on global supply chains.",
+      "proximity_alert": null
+    }
   }
 ]
