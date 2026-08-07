@@ -207,5 +207,81 @@
       "operational_impact": "Transport and logistics operations in Buenos Aires may be affected by the protests, with potential delays or disruptions to cargo and personnel movements.",
       "proximity_alert": "YAKIN TEHDİT: Ministro Pistarini International Airport (28 km)"
     }
+  },
+  {
+    "id": "f4efeec7e8c9699fb0d8eb24e6c8e1d9",
+    "timestamp": "2026-08-07T10:05:06.905370",
+    "original_title": "Trump Administration Fast-Tracks Military Partnership With Colombia to Target Drug Traffickers",
+    "link": "https://www.nytimes.com/2026/08/07/world/americas/trump-administration-military-partnership-colombia.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Crime/Conflict",
+      "risk_score": 10,
+      "location": "Bogota, Colombia",
+      "latitude": 4.6097,
+      "longitude": -74.0817,
+      "detailed_analysis": "The Trump Administration's plan to fast-track a military partnership with Colombia to target drug traffickers may lead to increased violence and instability in the region, potentially affecting cargo and personnel safety.",
+      "immediate_forecast_24h": "Heightened security measures are expected in the coming days, with potential for increased military presence and operations against drug traffickers.",
+      "strategic_outlook": "Long-term, this partnership may lead to a reduction in drug trafficking, but it also carries the risk of escalating conflict and instability in the region, affecting aviation and logistics operations.",
+      "operational_impact": "Transport and logistics operations in Colombia may be affected by increased security measures, potential violence, and instability, requiring enhanced risk assessments and mitigation strategies.",
+      "proximity_alert": "YAKIN TEHDİT: El Dorado International Airport (12 km)"
+    }
+  },
+  {
+    "id": "3ddd15f2455f4fd3d062c2d5d08bf6b8",
+    "timestamp": "2026-08-07T10:05:09.964019",
+    "original_title": "Russia could attack Nato within weeks, US intelligence warns",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1vhwe6t/russia_could_attack_nato_within_weeks_us/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "NATO Countries, Europe",
+      "latitude": 50.0,
+      "longitude": 10.0,
+      "detailed_analysis": "US intelligence warns of potential Russian attack on NATO within weeks, posing significant threat to regional stability and security of assets, cargo, aviation, and personnel.",
+      "immediate_forecast_24h": "Heightened tensions and increased military readiness expected, potential for escalation and miscalculation, transport and logistics operations may be impacted by increased security measures.",
+      "strategic_outlook": "Long-term implications of a potential conflict between Russia and NATO could be severe, including disruption to global supply chains, increased risk of cyber attacks, and potential for widespread instability.",
+      "operational_impact": "Transport and logistics operations in the region may be severely impacted, including potential disruptions to air traffic, shipping, and ground transportation, increased security measures and potential for evacuation of personnel.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "8692a42d9d4d0d30e510d9e38e003e4b",
+    "timestamp": "2026-08-07T10:05:12.623936",
+    "original_title": "South Africa's textile industry in crisis after migrant workers fled the country",
+    "link": "https://www.france24.com/en/video/20260807-south-africa-s-textile-industry-in-crisis-after-migrant-workers-fled-the-country",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Civil Unrest/Border/Other",
+      "risk_score": 6,
+      "location": "Newcastle, South Africa",
+      "latitude": -27.75,
+      "longitude": 29.9333,
+      "detailed_analysis": "The crisis in South Africa's textile industry due to the exodus of migrant workers following xenophobic protests poses a significant threat to the stability of the workforce and potentially to the supply chain and logistics in the region.",
+      "immediate_forecast_24h": "In the short term, the industry is likely to face operational disruptions and potential shortages of skilled labor, which could lead to delays and increased costs for cargo and shipments.",
+      "strategic_outlook": "Long term, the situation could lead to a re-evaluation of investment and operational strategies in the region, with potential implications for the broader economy and trade relationships.",
+      "operational_impact": "The crisis may impact the movement of goods, particularly textiles, and could lead to increased security measures and potential border delays, affecting aviation and cargo operations in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "b6ea7f1a9e5c49ead74117eb3823c3fb",
+    "timestamp": "2026-08-07T10:05:14.779904",
+    "original_title": "Over 300 abductees freed in Nigeria's 'largest single-day rescue operation'",
+    "link": "https://www.france24.com/en/video/20260807-over-300-abductees-freed-in-nigeria-s-largest-single-day-rescue-operation",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Crime",
+      "risk_score": 7,
+      "location": "Northern Nigeria, Nigeria",
+      "latitude": 9.081999,
+      "longitude": 8.675277,
+      "detailed_analysis": "A large-scale rescue operation in Nigeria has freed over 300 abductees, indicating a significant security threat in the region. The operation highlights the presence of kidnappers and potential terrorist groups in the area, posing a risk to personnel and cargo.",
+      "immediate_forecast_24h": "Increased security presence is expected in the region, potentially leading to temporary disruptions in transportation and logistics. However, the rescue operation may also deter future kidnappings and abductions in the short term.",
+      "strategic_outlook": "The long-term security situation in northern Nigeria remains a concern, with potential for ongoing kidnappings and terrorist activities. This may lead to increased security measures and potential route changes for cargo and personnel movement.",
+      "operational_impact": "Transportation and logistics operations in the region may be affected by the security situation, with potential for delays or route changes. Personnel and cargo security should be a top priority, with contingency plans in place for potential kidnappings or attacks.",
+      "proximity_alert": null
+    }
   }
 ]
