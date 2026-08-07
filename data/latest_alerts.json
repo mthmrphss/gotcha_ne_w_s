@@ -1,43 +1,5 @@
 [
   {
-    "id": "ca84edcda658486cae9ce03fd3df9bf9",
-    "timestamp": "2026-08-07T20:48:54.429914",
-    "original_title": "Helicopter crash confirmed by officials at Widemouth 2 Fire, two were on board - FOX 13 News Utah",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbEpJWFB5Z1UwSG9fbVVwRTZzeFkwWDAtQ0Z2Mmo3eTVfNW9mY3hyVEs1R0xOdWFhbWhZeXo0NUI0WGQ4dncwYWpqRk1DTWYzTUFNbWpJYlBXTS1WTEI4MjJUTzdfaC1fRUhSdklaSURnVGMtb3NxTkU0WVhsaTBkNDl0Rm1xUzFjVzZFLUNwUkdId0F5dmIxby03R0hSVk5aVmozNG5QbTlDaVVfS05HdlNSNEpoNUxaMmQxVlYyMkhVbkozNFV6WVhTYw?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Aviation",
-      "risk_score": 8,
-      "location": "Widemouth, Utah, USA",
-      "latitude": 37.0902,
-      "longitude": -113.5139,
-      "detailed_analysis": "A helicopter crash has been confirmed by officials at Widemouth 2 Fire, with two people on board. The incident poses a significant risk to aviation safety and may impact nearby air traffic.",
-      "immediate_forecast_24h": "Emergency responders are likely to be on the scene, and air traffic in the vicinity may be restricted or diverted. Further investigation into the cause of the crash is expected.",
-      "strategic_outlook": "The crash may lead to a review of helicopter safety protocols and procedures in the region, potentially resulting in changes to aviation regulations or guidelines.",
-      "operational_impact": "The incident may cause disruptions to local air transport, potentially affecting cargo and personnel movement in the area.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "199a9569b9973a5c874d62ad03906e47",
-    "timestamp": "2026-08-07T20:49:03.478217",
-    "original_title": "Spain imposes border checks on Italy amid Ceuta migration row",
-    "link": "https://www.france24.com/en/europe/20260807-spain-imposes-border-checks-on-italy-amid-ceuta-migration-row",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Border/Civil Unrest",
-      "risk_score": 5,
-      "location": "Ceuta, Spain",
-      "latitude": 35.8881,
-      "longitude": -5.3669,
-      "detailed_analysis": "The introduction of border controls by Spain on travellers from Italy due to a migration row could lead to disruptions in transport and logistics, particularly for cargo and personnel movement between the two countries.",
-      "immediate_forecast_24h": "Increased wait times and potential delays at border crossings are expected, with a possibility of protests or unrest in the affected areas.",
-      "strategic_outlook": "The situation may escalate if the migration issue is not resolved, potentially affecting trade and economic relations between Spain and Italy, as well as other European countries.",
-      "operational_impact": "Transport and logistics companies should be prepared for potential delays and disruptions, and consider alternative routes or contingency plans to minimize the impact on their operations.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "3fd60bc30445e637509e5124423fe482",
     "timestamp": "2026-08-07T21:45:54.996064",
     "original_title": "2 helicopter pilots die in Widemouth 2 Fire crash - St. George News",
@@ -72,6 +34,44 @@
       "immediate_forecast_24h": "Further clashes between Houthi rebels and government forces are likely, potentially leading to increased violence and instability in the region. There is a high risk of additional attacks on strategic infrastructure, including oil facilities.",
       "strategic_outlook": "The ongoing conflict in Yemen is likely to continue, with the Houthi rebels attempting to gain control of key territories, including oil-rich provinces. This could lead to a prolonged period of instability, affecting the global oil market and regional security.",
       "operational_impact": "The attacks may disrupt oil production and logistics in the region, potentially affecting global oil supplies. Aviation and cargo operations may also be impacted, with increased risk of delays or cancellations due to the unstable security situation.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "0b408922e8dc80c84f13c004b9e50bf9",
+    "timestamp": "2026-08-07T22:44:20.273399",
+    "original_title": "US intel warns Russia could test NATO as early as this fall, WSJ reports",
+    "link": "https://www.reddit.com/r/worldnews/comments/1viaxpb/us_intel_warns_russia_could_test_nato_as_early_as/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "NATO Countries",
+      "latitude": 50.0,
+      "longitude": 10.0,
+      "detailed_analysis": "US intel warns that Russia could test NATO as early as this fall, indicating a potential escalation of tensions between Russia and NATO countries, which could impact aviation, cargo, and personnel",
+      "immediate_forecast_24h": "Increased military activity and heightened alertness along the Russia-NATO border, potential for cyber attacks or other forms of sabotage",
+      "strategic_outlook": "Long-term escalation of the conflict could lead to significant disruptions to global supply chains, increased risk of accidents or incidents involving military aircraft, and potential for spillover into other regions",
+      "operational_impact": "Potential for flight restrictions, increased security measures at airports and logistics hubs, and disruptions to cargo shipments, particularly those involving Russia or NATO countries",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "5d02cddfb289dd3c8f1bbe1ad5ede0d3",
+    "timestamp": "2026-08-07T22:44:22.324188",
+    "original_title": "Elon Musk Refuses Ukrainian Request to Enable Starlink for Deep Strikes Inside Russia",
+    "link": "https://www.reddit.com/r/worldnews/comments/1viadam/elon_musk_refuses_ukrainian_request_to_enable/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Cyber",
+      "risk_score": 8,
+      "location": "Ukraine/Russia",
+      "latitude": 48.3794,
+      "longitude": 31.1656,
+      "detailed_analysis": "Elon Musk's refusal to enable Starlink for deep strikes inside Russia may escalate the conflict between Ukraine and Russia, potentially disrupting logistics and transportation in the region. The use of Starlink for military purposes could also lead to increased cyber threats and attacks on critical infrastructure.",
+      "immediate_forecast_24h": "Increased tensions between Ukraine and Russia, potential for cyber attacks on logistics and transportation systems, and possible disruptions to supply chains.",
+      "strategic_outlook": "Long-term implications for the use of satellite technology in conflict zones, potential for increased investment in cyber security measures, and possible shifts in global alliances and relationships.",
+      "operational_impact": "Potential disruptions to air cargo and logistics operations in the region, increased security measures for transportation systems, and possible delays or cancellations of flights and shipments.",
       "proximity_alert": null
     }
   }

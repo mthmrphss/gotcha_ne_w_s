@@ -55,5 +55,43 @@
       "operational_impact": "The attacks may disrupt oil production and logistics in the region, potentially affecting global oil supplies. Aviation and cargo operations may also be impacted, with increased risk of delays or cancellations due to the unstable security situation.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "0b408922e8dc80c84f13c004b9e50bf9",
+    "timestamp": "2026-08-07T22:44:20.273399",
+    "original_title": "US intel warns Russia could test NATO as early as this fall, WSJ reports",
+    "link": "https://www.reddit.com/r/worldnews/comments/1viaxpb/us_intel_warns_russia_could_test_nato_as_early_as/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "NATO Countries",
+      "latitude": 50.0,
+      "longitude": 10.0,
+      "detailed_analysis": "US intel warns that Russia could test NATO as early as this fall, indicating a potential escalation of tensions between Russia and NATO countries, which could impact aviation, cargo, and personnel",
+      "immediate_forecast_24h": "Increased military activity and heightened alertness along the Russia-NATO border, potential for cyber attacks or other forms of sabotage",
+      "strategic_outlook": "Long-term escalation of the conflict could lead to significant disruptions to global supply chains, increased risk of accidents or incidents involving military aircraft, and potential for spillover into other regions",
+      "operational_impact": "Potential for flight restrictions, increased security measures at airports and logistics hubs, and disruptions to cargo shipments, particularly those involving Russia or NATO countries",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "5d02cddfb289dd3c8f1bbe1ad5ede0d3",
+    "timestamp": "2026-08-07T22:44:22.324188",
+    "original_title": "Elon Musk Refuses Ukrainian Request to Enable Starlink for Deep Strikes Inside Russia",
+    "link": "https://www.reddit.com/r/worldnews/comments/1viadam/elon_musk_refuses_ukrainian_request_to_enable/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Conflict/Cyber",
+      "risk_score": 8,
+      "location": "Ukraine/Russia",
+      "latitude": 48.3794,
+      "longitude": 31.1656,
+      "detailed_analysis": "Elon Musk's refusal to enable Starlink for deep strikes inside Russia may escalate the conflict between Ukraine and Russia, potentially disrupting logistics and transportation in the region. The use of Starlink for military purposes could also lead to increased cyber threats and attacks on critical infrastructure.",
+      "immediate_forecast_24h": "Increased tensions between Ukraine and Russia, potential for cyber attacks on logistics and transportation systems, and possible disruptions to supply chains.",
+      "strategic_outlook": "Long-term implications for the use of satellite technology in conflict zones, potential for increased investment in cyber security measures, and possible shifts in global alliances and relationships.",
+      "operational_impact": "Potential disruptions to air cargo and logistics operations in the region, increased security measures for transportation systems, and possible delays or cancellations of flights and shipments.",
+      "proximity_alert": null
+    }
   }
 ]
