@@ -1,43 +1,5 @@
 [
   {
-    "id": "fc076bad6360a7607eb776bcd8f40219",
-    "timestamp": "2026-08-08T09:44:29.776128",
-    "original_title": "Synagogues build a new security playbook as antisemitic attacks intensify - Axios",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wNG5MdTg1Tl9oVm13QjRJQ0VBS1MxYTNNNDYyYjZkcmVwUjJsRFpQSzNod3g4cENQTUFZRHAzOExqREdWd1JXSURwOU1OV2c0LUFBQkM3ZUxSV1Ewa3hSS09QS1BCREo0eFhYbWY1V04?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Terrorism/Civil Unrest",
-      "risk_score": 10,
-      "location": "Global, Various Countries",
-      "latitude": 40.7128,
-      "longitude": -74.006,
-      "detailed_analysis": "The increase in antisemitic attacks has led synagogues to develop new security measures, indicating a heightened threat level to personnel and assets, particularly in places of worship and potentially affecting community events and gatherings.",
-      "immediate_forecast_24h": "In the next 24 hours, there is a potential for continued or increased threats against synagogues and Jewish communities, necessitating heightened vigilance and security protocols.",
-      "strategic_outlook": "Long term, the trend of increasing antisemitic attacks suggests a need for sustained and enhanced security measures for at-risk communities, potentially including collaboration with law enforcement and community engagement initiatives.",
-      "operational_impact": "The operational impact could be significant, with potential disruptions to community events, increased security costs, and psychological impacts on affected communities, though the direct impact on cargo, aviation, and large-scale logistics may be minimal unless specific threats are made against these sectors.",
-      "proximity_alert": "YAKIN TEHDİT: Paramount Hotel (5 km)"
-    }
-  },
-  {
-    "id": "945b7222223ef59ab0a30ff41cd79657",
-    "timestamp": "2026-08-08T09:44:35.136690",
-    "original_title": "Spain to impose border checks on Italy",
-    "link": "https://www.france24.com/en/video/20260808-spain-to-impose-border-checks-on-italy",
-    "source_name": "France 24 ME",
-    "ai_analysis": {
-      "category": "Border/Civil Unrest",
-      "risk_score": 10,
-      "location": "Spain-Italy border",
-      "latitude": 41.3333,
-      "longitude": 2.1833,
-      "detailed_analysis": "The imposition of border controls by Spain on Italy due to an influx of migrants from Morocco into the Spanish territory of Ceuta may lead to increased security measures, potential delays, and disruptions in air and sea travel between the two countries.",
-      "immediate_forecast_24h": "Increased security checks and potential delays at border crossings and airports, possible protests or unrest near border areas.",
-      "strategic_outlook": "Long-term implications may include strained diplomatic relations between Spain and Italy, potential economic impacts due to trade disruptions, and increased security measures that could become permanent.",
-      "operational_impact": "Delays and increased security checks for cargo and personnel traveling between Spain and Italy, potential rerouting of flights and ships to avoid affected areas.",
-      "proximity_alert": "YAKIN TEHDİT: Barcelona–El Prat Airport (9 km)"
-    }
-  },
-  {
     "id": "7d435e86dec4a2c3381cb2ea85fdc7f3",
     "timestamp": "2026-08-08T10:39:42.651369",
     "original_title": "Israeli forces raid town in West Bank, occupiers attack Palestinian homes near Bethlehem - Anadolu Ajansı",
@@ -54,6 +16,44 @@
       "strategic_outlook": "The long-term outlook for the region remains uncertain, with ongoing conflicts and tensions posing a continued threat to stability and security. This could have a lasting impact on the safety of assets, cargo, aviation, and personnel.",
       "operational_impact": "The conflict may cause disruptions to transport and logistics operations in the West Bank, particularly for personnel and assets located near areas of unrest. Aviation operations may also be affected if the conflict escalates or if there are concerns about the safety of airspace in the region.",
       "proximity_alert": null
+    }
+  },
+  {
+    "id": "2875d30676caaa282dcbbf0f9993ce3b",
+    "timestamp": "2026-08-08T11:34:26.767884",
+    "original_title": "As Thailand Gets Known for Mass Shootings, Fresh Pledges to Fix Gun Laws",
+    "link": "https://www.nytimes.com/2026/08/08/world/asia/thailand-mass-shootings-gun-laws.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Civil Unrest/Crime",
+      "risk_score": 10,
+      "location": "Thailand",
+      "latitude": 13.75,
+      "longitude": 100.52,
+      "detailed_analysis": "The recent mass shooting at a high school in Thailand highlights the country's struggle with gun violence, which could potentially impact the safety and security of assets, cargo, aviation, and personnel in the region.",
+      "immediate_forecast_24h": "Increased security measures are likely to be implemented in public areas, including schools and transportation hubs, which may cause minor disruptions to daily operations.",
+      "strategic_outlook": "Thailand's government may face pressure to reform gun laws, which could lead to changes in the country's security landscape over the long term, potentially reducing the risk of similar incidents in the future.",
+      "operational_impact": "The incident is unlikely to have a significant impact on transport and logistics operations in the short term, but companies operating in the region should remain vigilant and monitor the situation for any potential developments that could affect their assets and personnel.",
+      "proximity_alert": "YAKIN TEHDİT: Suvarnabhumi Airport (22 km)"
+    }
+  },
+  {
+    "id": "b6f9a18236541fc7bbf7586a139ec459",
+    "timestamp": "2026-08-08T11:34:30.673645",
+    "original_title": "Serbia’s Vucic attempts diplomatic ‘balancing act’ with Zelensky’s visit",
+    "link": "https://www.france24.com/en/video/20260808-serbia-s-vucic-attempts-diplomatic-balancing-act-with-zelensky-s-visit",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Diplomacy",
+      "risk_score": 10,
+      "location": "Belgrade, Serbia",
+      "latitude": 44.82,
+      "longitude": 20.46,
+      "detailed_analysis": "The visit of Ukraine's President Volodymyr Zelensky to Serbia may lead to increased diplomatic tensions between Serbia and Russia, but does not directly pose a threat to assets, cargo, aviation, or personnel at this time.",
+      "immediate_forecast_24h": "Talks between Zelensky and Vučić are expected to be held, with a focus on international support for Ukraine amidst ongoing conflict with Russia.",
+      "strategic_outlook": "The long-term implications of this visit may include a shift in Serbia's stance on Russia-Ukraine relations, potentially affecting regional stability and transport logistics.",
+      "operational_impact": "No immediate operational impact is expected, but ongoing monitoring of the situation is recommended to assess potential future effects on transport and logistics in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Belgrade Nikola Tesla Airport (12 km)"
     }
   }
 ]

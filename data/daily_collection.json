@@ -283,5 +283,43 @@
       "operational_impact": "The conflict may cause disruptions to transport and logistics operations in the West Bank, particularly for personnel and assets located near areas of unrest. Aviation operations may also be affected if the conflict escalates or if there are concerns about the safety of airspace in the region.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "2875d30676caaa282dcbbf0f9993ce3b",
+    "timestamp": "2026-08-08T11:34:26.767884",
+    "original_title": "As Thailand Gets Known for Mass Shootings, Fresh Pledges to Fix Gun Laws",
+    "link": "https://www.nytimes.com/2026/08/08/world/asia/thailand-mass-shootings-gun-laws.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Civil Unrest/Crime",
+      "risk_score": 10,
+      "location": "Thailand",
+      "latitude": 13.75,
+      "longitude": 100.52,
+      "detailed_analysis": "The recent mass shooting at a high school in Thailand highlights the country's struggle with gun violence, which could potentially impact the safety and security of assets, cargo, aviation, and personnel in the region.",
+      "immediate_forecast_24h": "Increased security measures are likely to be implemented in public areas, including schools and transportation hubs, which may cause minor disruptions to daily operations.",
+      "strategic_outlook": "Thailand's government may face pressure to reform gun laws, which could lead to changes in the country's security landscape over the long term, potentially reducing the risk of similar incidents in the future.",
+      "operational_impact": "The incident is unlikely to have a significant impact on transport and logistics operations in the short term, but companies operating in the region should remain vigilant and monitor the situation for any potential developments that could affect their assets and personnel.",
+      "proximity_alert": "YAKIN TEHDİT: Suvarnabhumi Airport (22 km)"
+    }
+  },
+  {
+    "id": "b6f9a18236541fc7bbf7586a139ec459",
+    "timestamp": "2026-08-08T11:34:30.673645",
+    "original_title": "Serbia’s Vucic attempts diplomatic ‘balancing act’ with Zelensky’s visit",
+    "link": "https://www.france24.com/en/video/20260808-serbia-s-vucic-attempts-diplomatic-balancing-act-with-zelensky-s-visit",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Diplomacy",
+      "risk_score": 10,
+      "location": "Belgrade, Serbia",
+      "latitude": 44.82,
+      "longitude": 20.46,
+      "detailed_analysis": "The visit of Ukraine's President Volodymyr Zelensky to Serbia may lead to increased diplomatic tensions between Serbia and Russia, but does not directly pose a threat to assets, cargo, aviation, or personnel at this time.",
+      "immediate_forecast_24h": "Talks between Zelensky and Vučić are expected to be held, with a focus on international support for Ukraine amidst ongoing conflict with Russia.",
+      "strategic_outlook": "The long-term implications of this visit may include a shift in Serbia's stance on Russia-Ukraine relations, potentially affecting regional stability and transport logistics.",
+      "operational_impact": "No immediate operational impact is expected, but ongoing monitoring of the situation is recommended to assess potential future effects on transport and logistics in the region.",
+      "proximity_alert": "YAKIN TEHDİT: Belgrade Nikola Tesla Airport (12 km)"
+    }
   }
 ]
