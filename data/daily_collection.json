@@ -226,5 +226,43 @@
       "operational_impact": "Increased security measures may be implemented for cargo and personnel in the region, potentially leading to delays or disruptions in logistics operations.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "fc076bad6360a7607eb776bcd8f40219",
+    "timestamp": "2026-08-08T09:44:29.776128",
+    "original_title": "Synagogues build a new security playbook as antisemitic attacks intensify - Axios",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wNG5MdTg1Tl9oVm13QjRJQ0VBS1MxYTNNNDYyYjZkcmVwUjJsRFpQSzNod3g4cENQTUFZRHAzOExqREdWd1JXSURwOU1OV2c0LUFBQkM3ZUxSV1Ewa3hSS09QS1BCREo0eFhYbWY1V04?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism/Civil Unrest",
+      "risk_score": 10,
+      "location": "Global, Various Countries",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "detailed_analysis": "The increase in antisemitic attacks has led synagogues to develop new security measures, indicating a heightened threat level to personnel and assets, particularly in places of worship and potentially affecting community events and gatherings.",
+      "immediate_forecast_24h": "In the next 24 hours, there is a potential for continued or increased threats against synagogues and Jewish communities, necessitating heightened vigilance and security protocols.",
+      "strategic_outlook": "Long term, the trend of increasing antisemitic attacks suggests a need for sustained and enhanced security measures for at-risk communities, potentially including collaboration with law enforcement and community engagement initiatives.",
+      "operational_impact": "The operational impact could be significant, with potential disruptions to community events, increased security costs, and psychological impacts on affected communities, though the direct impact on cargo, aviation, and large-scale logistics may be minimal unless specific threats are made against these sectors.",
+      "proximity_alert": "YAKIN TEHDİT: Paramount Hotel (5 km)"
+    }
+  },
+  {
+    "id": "945b7222223ef59ab0a30ff41cd79657",
+    "timestamp": "2026-08-08T09:44:35.136690",
+    "original_title": "Spain to impose border checks on Italy",
+    "link": "https://www.france24.com/en/video/20260808-spain-to-impose-border-checks-on-italy",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Border/Civil Unrest",
+      "risk_score": 10,
+      "location": "Spain-Italy border",
+      "latitude": 41.3333,
+      "longitude": 2.1833,
+      "detailed_analysis": "The imposition of border controls by Spain on Italy due to an influx of migrants from Morocco into the Spanish territory of Ceuta may lead to increased security measures, potential delays, and disruptions in air and sea travel between the two countries.",
+      "immediate_forecast_24h": "Increased security checks and potential delays at border crossings and airports, possible protests or unrest near border areas.",
+      "strategic_outlook": "Long-term implications may include strained diplomatic relations between Spain and Italy, potential economic impacts due to trade disruptions, and increased security measures that could become permanent.",
+      "operational_impact": "Delays and increased security checks for cargo and personnel traveling between Spain and Italy, potential rerouting of flights and ships to avoid affected areas.",
+      "proximity_alert": "YAKIN TEHDİT: Barcelona–El Prat Airport (9 km)"
+    }
   }
 ]
