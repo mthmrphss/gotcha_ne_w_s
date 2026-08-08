@@ -1,24 +1,5 @@
 [
   {
-    "id": "8f17f73a023f04c2020d8e7c898618cb",
-    "timestamp": "2026-08-08T18:47:44.544331",
-    "original_title": "Drones spotted flying over German military base 2 days after device with explosives found at cargo airport - CBS News",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBsYXQ1WFNvcW9WVUlDWEJYUXBoVDFWT3M2R1dQTTczRTFyMWVtSzhLeUw0eXY2VHJENVRPa19lNmhKVXg5alhSd081US1HZzFCbUxWeHYxY0V0ZlduaENkc0Q1SWxJV0FNWGxjVFlJWmJQV1NlOVBrTg?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Aviation/Crime",
-      "risk_score": 8,
-      "location": "Germany",
-      "latitude": 51.1657,
-      "longitude": 10.4515,
-      "detailed_analysis": "Drones spotted flying over a German military base, two days after a device with explosives was found at a nearby cargo airport, pose a significant threat to aviation security and cargo operations.",
-      "immediate_forecast_24h": "Increased security measures are expected at German military bases and cargo airports, with possible disruptions to flights and cargo operations.",
-      "strategic_outlook": "The incident highlights the vulnerability of military and cargo aviation infrastructure to drone-based threats and the need for enhanced security protocols to prevent such incidents in the future.",
-      "operational_impact": "Potential delays and disruptions to cargo flights, increased security screening, and enhanced surveillance measures at German airports and military bases.",
-      "proximity_alert": null
-    }
-  },
-  {
     "id": "46fc85fae44e7b2b1f9f7d836b6a50a5",
     "timestamp": "2026-08-08T19:36:10.330925",
     "original_title": "Delta Air Boeing 757 Evacuated On Runway at Atlanta Hartsfield After Smoke Enters Cockpit Just After Takeoff",
@@ -35,6 +16,25 @@
       "strategic_outlook": "The incident highlights the importance of aircraft maintenance and safety protocols. Airlines and regulatory bodies may review and enhance their procedures to prevent similar incidents in the future.",
       "operational_impact": "The evacuation and grounding of the aircraft may cause delays and cancellations of flights, affecting passenger travel plans and potentially disrupting cargo transport. The incident may also lead to increased security and safety measures at Atlanta Hartsfield International Airport.",
       "proximity_alert": "YAKIN TEHDİT: Hartsfield–Jackson Atlanta International Airport (0 km)"
+    }
+  },
+  {
+    "id": "ee7409033308172dcc22904106315bad",
+    "timestamp": "2026-08-08T20:37:22.949002",
+    "original_title": "Pilot, crewmember killed in helicopter crash while fighting Widemouth 2 Fire - KUTV",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV1dYSU5ocW9PWjRaSDV2dFN0TERWcEhoM0wyZkM3b05FZ184N2htajhqaUo4eXhNbmxwdkU5dWg0em5IVjlXVE9EVzhPVExYMXQ1WDF4NGVhSGJzYTc0cXhXTF96aEdTWHQyUC1EZThvT2dyOXE4R2pnem9Ua3RQbWVlRUlmSXlzSHoteEcwSzVGZFdOV3YxODBoaDIxYURkZTFSS2o3RTBTZw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 8,
+      "location": "Widemouth, USA",
+      "latitude": 41.7233,
+      "longitude": -124.0853,
+      "detailed_analysis": "A helicopter crash occurred while fighting the Widemouth 2 Fire, resulting in the deaths of a pilot and a crewmember. This incident highlights the risks associated with aviation operations in firefighting missions.",
+      "immediate_forecast_24h": "Firefighting efforts may be impacted by the loss of the helicopter and crew. Replacement aircraft and personnel may be deployed to continue operations.",
+      "strategic_outlook": "The incident may lead to a review of safety protocols and procedures for firefighting aviation operations. It may also impact the availability of resources for future firefighting missions.",
+      "operational_impact": "The crash may cause disruptions to firefighting efforts, potentially allowing the fire to spread. This could impact local communities, infrastructure, and the environment.",
+      "proximity_alert": null
     }
   }
 ]
