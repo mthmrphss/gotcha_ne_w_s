@@ -1,21 +1,78 @@
 [
   {
-    "id": "f6ec01d53ffe8a2dadc66165df80b275",
-    "timestamp": "2026-08-09T07:35:01.109997",
-    "original_title": "Bulgaria, Germany drone incidents raise security fears amid Ukraine war - Al Jazeera",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWGN3STBkTXUwR3NXZDN3TzJEcjJXR29rZDFJNW1LS1V6WVdZenh1SzQtTjZTOEhtNk8wTUotSmFPN2ZqRTR6ZEhwSTZ0dDFxUEhZQkVFVFg2YVZTQzY2RzJoTFBWcVVQQjRPeUVCaHdSem1lclJYeTNTZVY3SFp6X2hRRzFDMFVxTWxlYmN0N1RqWFVZZEVZMTBSdTBNWGVwY0ZrNk9NY3pXbjYtc3RTenYxYmVZUdIBuwFBVV95cUxOZGIwWXdiTmNOSy1MMXBBWUFLd1JWS0tmUmNyWk9UNHZ4bmRuZW15TU83NDBtQkxBQU1Qa2dDN0xyS1V0QVFzWmJlSm9MN0lGTG5IZndpMjlxZGJyallKVkZSem0tV1h4X2M5M2E0bjc2Vm85V0Q3Sm5yYTBTUnh4VHBJcEV4S0JhQUJTTGJVenBwT0VzR3hMVGtsT2E3bXhaRllsY1lBWlRjVkFSWU0xeUswZnVoTGFVR3JN?oc=5",
+    "id": "ad03325a365016dc9626b3650677210c",
+    "timestamp": "2026-08-09T08:52:05.562903",
+    "original_title": "Three killed in Ukrainian drone attack on Belgorod, Russian authorities say - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOENwSFprNnAxMlVVRDZJclVmY0VZR1VpN2I0SnhjY2d2cGwzc2QtUHRSWk9jdEg1eW84WnFadDJHaWhIWEU3R3hPNHlsSXJCdk04R3NNbGlYTTU5RzQ1QlhER1lDLWh6Z2czZU9jWkFIdkdkdzdZLW5tcHQwTE1qZ0ctSl96OWdWbFB6WlN2UXhTbnRtYlpvNUFBY0FMWDBJN2xKanJUUU1GU1Y3N0ZSd0k4TnM2QUJW?oc=5",
     "source_name": "Google News (Breaking)",
     "ai_analysis": {
-      "category": "Aviation/Conflict",
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Belgorod, Russia",
+      "latitude": 50.61,
+      "longitude": 36.59,
+      "detailed_analysis": "A Ukrainian drone attack on Belgorod, Russia has resulted in three fatalities, indicating a significant escalation in conflict and a high risk to aviation and personnel in the region.",
+      "immediate_forecast_24h": "Increased military activity and potential for further drone attacks or retaliation, posing a high risk to aviation and personnel in the region.",
+      "strategic_outlook": "Long-term instability and conflict in the region, potentially disrupting logistics and transport operations, and posing a continued high risk to assets, cargo, and personnel.",
+      "operational_impact": "Potential disruption to air traffic and logistics operations in the region, with increased security measures and potential for further attacks or incidents.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "9a980b9293b7f315638b4d44c09b06c0",
+    "timestamp": "2026-08-09T08:52:07.509308",
+    "original_title": "A car-bomb attack targets southwest Colombia a day after conservative president takes office - New Haven Register",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUlJZcEFHUVp0Yk9fTVVIVTMyQzdJRTJfcE1oSWtHaFFhRjhPQ1ZKWXRyLUdyTkR3UWxUUnRoSl9wM2VteFNhaVloTXlKV05VRXltU0FrbDFMQ3pQZ0VRRVJvVHQteURSN1N2VWVuUVhEbl9fSElaUzRpTEVzc3hSekNybFc1R0NlU3JIMlhEN2VTaUtYeUlRcjdpdVVwVVMtTXdNbUdzUTc?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "Southwest Colombia, Colombia",
+      "latitude": 2.4453,
+      "longitude": -76.6242,
+      "detailed_analysis": "A car-bomb attack occurred in southwest Colombia, targeting the region a day after the conservative president took office, indicating potential for increased unrest and violence in the area.",
+      "immediate_forecast_24h": "Heightened security measures are expected in the region, with potential for additional attacks or protests, impacting local transport and logistics.",
+      "strategic_outlook": "The attack may signal a rise in terrorist activities in the region, posing long-term risks to assets, cargo, aviation, and personnel, particularly if the new government's policies are perceived as provocative by extremist groups.",
+      "operational_impact": "Transport and logistics operations in southwest Colombia may face disruptions due to increased security checks, potential roadblocks, and unrest, affecting cargo movement and personnel safety.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "1e14dc9c920f5e71ef1d5c478a624dc7",
+    "timestamp": "2026-08-09T08:52:10.390454",
+    "original_title": "United flight UA3926 to Newark declared an emergency and returned to Los Angeles - airlive",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNa2NOeFJwcmtxeUpFc292cU5MWkpLdnY0cTkyZGxGQXhNeGNZTm9iRUNab3J2WGdEZlp4d0g5clBIdkNaSk1ycXRyUk5ybkx3SlhPLXZuSlJGNjhaOENNR0dPZFE2WHllU21ENHJCaE8tc3JNRDMwMzlEd1p6b3h0TzVLQW1OWjlLYVVXYjNvTndvNmlJWlhrU1A0QzR1MklSOGEwQ28wSFdONXVMcFVLX0JWTjRLcEowWnRGc2JZYw?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
       "risk_score": 10,
-      "location": "Bulgaria, Germany",
-      "latitude": 52.52,
-      "longitude": 13.405,
-      "detailed_analysis": "Drone incidents in Bulgaria and Germany have raised security concerns amid the ongoing Ukraine war, potentially disrupting aviation operations and posing a threat to personnel and assets.",
-      "immediate_forecast_24h": "Increased surveillance and security measures are expected in the affected areas, with possible disruptions to air traffic and cargo operations.",
-      "strategic_outlook": "The situation may escalate if drone incidents continue, leading to heightened security protocols and potential long-term impacts on regional aviation and logistics.",
-      "operational_impact": "Transport and logistics operations may be affected due to increased security checks, potential airspace restrictions, and heightened alertness among aviation authorities.",
-      "proximity_alert": "YAKIN TEHDİT: Berlin Tegel Airport (0 km)"
+      "location": "Los Angeles, USA",
+      "latitude": 33.9425,
+      "longitude": -118.4081,
+      "detailed_analysis": "United flight UA3926 declared an emergency and returned to Los Angeles, indicating a potential safety or security threat to the aircraft, passengers, and crew.",
+      "immediate_forecast_24h": "The incident may cause delays or disruptions to flights, and an investigation will likely be launched to determine the cause of the emergency.",
+      "strategic_outlook": "The incident highlights the importance of aviation safety and security protocols, and airlines may need to review and update their emergency procedures to minimize the risk of similar incidents in the future.",
+      "operational_impact": "The incident may impact United Airlines' operations, potentially leading to flight cancellations or delays, and affecting passenger travel plans.",
+      "proximity_alert": "YAKIN TEHDİT: Los Angeles International Airport (1 km)"
+    }
+  },
+  {
+    "id": "701c94a0dbc6e2e69a702f63586b6117",
+    "timestamp": "2026-08-09T08:52:27.432049",
+    "original_title": "Aeroflot Flight SU1854 Moscow to Baku Declares Emergency - theaviationhub.co.uk",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLTU4ZXlEOVFDM0FrbDVlZ045VVliOE4yamtTbWdFY1dqUVBQcmhnWUU5aTJfUHFyQUZON1I0QnBicmFhMEhXaFhPVFdFWkxkRTVGd0d6ejk5VUVnS1ZUSTR0LTZGanoxcVcyNTJ3QmZNYllrU1FlV0ViY3dqRHlvZFZXaWZMVm1XY2swLVRVQQ?oc=5",
+    "source_name": "Live Flight Emergencies (Squawk)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Moscow, Russia to Baku, Azerbaijan",
+      "latitude": 43.6532,
+      "longitude": 39.7253,
+      "detailed_analysis": "Aeroflot Flight SU1854 from Moscow to Baku declared an emergency, posing a potential threat to the safety of passengers and crew on board. The cause of the emergency is currently unknown.",
+      "immediate_forecast_24h": "The situation is being monitored, and an investigation will likely be launched to determine the cause of the emergency. There may be disruptions to flight schedules and air traffic in the region.",
+      "strategic_outlook": "This incident highlights the importance of aviation safety and security protocols. Airlines and regulatory bodies may review and update their emergency procedures to prevent similar incidents in the future.",
+      "operational_impact": "The emergency declaration may cause delays or cancellations of flights, affecting passenger travel plans and cargo transport. Airlines and logistics operators should be prepared for potential disruptions and have contingency plans in place.",
+      "proximity_alert": "YAKIN TEHDİT: Sochi International Airport (28 km)"
     }
   }
 ]
