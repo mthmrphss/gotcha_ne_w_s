@@ -1,21 +1,59 @@
 [
   {
-    "id": "ea5b7d373368cee5d05bcd000e2236c7",
-    "timestamp": "2026-08-09T16:47:58.709341",
-    "original_title": "Ukraine, Russia accuse each other of lethal attacks, Odesa port damaged - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYkNMLVhYYm1zdG9veTFxQlIxY3IzNHpyOFZGMzAzWVZVWU9xU0xTUzdGMUplZmlzZTlPbEZCV3Fsb3pPa1J2MWhuU0Vhc0xoSDhsZXpLWUh6ektRLUItdUVUd2g4Q1lTSmtLZWlNd1p4ZnhhYUxlRFdCVjZlOUtQaU5qX1U4Ql9DRUtvNWZOVnRJMjNOOHJMSmFkQzNqTThMY2ZFamxQV0dqemsyRlhmaGFHZHgzLXd0b081dDZKRVRfTE9PeVhj?oc=5",
+    "id": "644a96ceb088f0d4a0b31829d5b944d5",
+    "timestamp": "2026-08-09T18:50:41.729269",
+    "original_title": "An Infamous Attack Ad Just Got an AI Resurrection - Mother Jones",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRnZNX0tVY3QxMnhjRWFQYWN1aF9YdndKWmNXanE2M2IyWUt1QldNY2hjR2VRUjd2cnRoREtuWFRYQ1FwemU5UU1leWt4NXpzTzM3MVJuZVdpMnByMUYtNjJpLXhaaWVTNUpBcHV3UWVwbDRMa1ZGbGIyWDJKeGNFTmVnbGVvbF9mOTdRWEhPYV9PeE9GZjlQSjBPQQ?oc=5",
     "source_name": "Google News (Breaking)",
     "ai_analysis": {
-      "category": "Conflict",
-      "risk_score": 10,
-      "location": "Odesa, Ukraine",
-      "latitude": 46.4775,
-      "longitude": 30.7323,
-      "detailed_analysis": "The port of Odesa has been damaged due to lethal attacks, with both Ukraine and Russia accusing each other. This could lead to disruptions in cargo operations and potentially impact the safety of personnel and assets in the area.",
-      "immediate_forecast_24h": "Increased tensions and potential for further attacks in the region, which may lead to temporary closures of the port or restrictions on cargo movements.",
-      "strategic_outlook": "Long-term instability in the region could lead to sustained disruptions to trade and logistics, with potential for increased insurance costs and higher risk premiums for assets and cargo in the area.",
-      "operational_impact": "Disruptions to cargo operations, potential delays or cancellations of shipments, and increased security measures for personnel and assets in the region.",
-      "proximity_alert": "YAKIN TEHDİT: Odessa International Airport (5 km)"
+      "category": "Cyber",
+      "risk_score": 6,
+      "location": "Unknown, Global",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "detailed_analysis": "The infamous attack ad has been resurrected using AI, potentially leading to increased cyber threats and attacks on various assets, including aviation and logistics systems.",
+      "immediate_forecast_24h": "Increased phishing and social engineering attempts are expected in the next 24 hours, targeting personnel and systems with the goal of gaining unauthorized access.",
+      "strategic_outlook": "The long-term impact of this AI-powered attack ad could lead to more sophisticated and targeted cyber attacks, compromising the security of sensitive information and systems.",
+      "operational_impact": "The potential operational impact includes disruptions to logistics and transportation systems, as well as compromised security protocols, which could lead to financial losses and reputational damage.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "bf3e04041d3ee12639141bfc8b50b603",
+    "timestamp": "2026-08-09T18:50:58.884441",
+    "original_title": "2 injured in Halifax crash; helicopter called to scene: dispatch - local21news.com",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQXFyWUJ1Sm1VUG1ZeHdfOEt4emV1cnlXWVJuOHdtRmlRN1MyNmllNFNIcEtMU3k0cFV0bk5FcUZJU1RZY09fcEVOb3o4b2xQbFRyNXVvY0htNzZyYWNubWJrT2o3VEc1anZlOVhMa1hSbGxKeERJMzRhZDNBbi1VU3AwMW9fbFpiRHlUemRDbXlHLVJiMWEwaEJFQXd2dHBBOXRKUXdPZnpIVHJWT0NZU3lmWEkwQ2JhNUR2Y1dCVEFaWHdXUGpwdlV3SHhXR0thbGFVTXY3Nno?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 6,
+      "location": "Halifax",
+      "latitude": 44.6489,
+      "longitude": -63.5943,
+      "detailed_analysis": "A crash occurred in Halifax, with 2 injuries reported and a helicopter called to the scene. The context does not provide information on the cause of the crash or whether it was related to aviation or another factor.",
+      "immediate_forecast_24h": "Investigations into the cause of the crash are likely to begin immediately, with potential disruptions to local transport and logistics if the incident is found to be related to aviation or other critical infrastructure.",
+      "strategic_outlook": "The long-term impact of this incident will depend on the findings of the investigation. If the crash is determined to be the result of a systemic issue or intentional act, it could have significant implications for aviation safety and security in the region.",
+      "operational_impact": "The incident may cause short-term disruptions to local air transport and emergency services, but the overall operational impact is expected to be limited unless the crash is found to be part of a larger pattern or threat.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "381880117ecd1f98aff274fad01b4a18",
+    "timestamp": "2026-08-09T18:52:34.040255",
+    "original_title": "Israel rejects Donald Trump’s 15-point plan to end Gaza war",
+    "link": "http://www.africanews.com/2026/08/09/israel-rejects-donald-trumps-15-point-plan-to-end-gaza-war/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "Gaza, Israel",
+      "latitude": 31.5,
+      "longitude": 34.5,
+      "detailed_analysis": "The rejection of Donald Trump's 15-point plan by Israel and the insistence on Hamas disarming before military withdrawal increases tensions and the likelihood of continued conflict in the region, posing a significant threat to aviation, cargo, and personnel.",
+      "immediate_forecast_24h": "Escalation of violence and potential for increased military action in the Gaza Strip, affecting nearby airspaces and potentially disrupting logistics and transport operations.",
+      "strategic_outlook": "Long-term instability in the region could lead to sustained security threats, impacting the safety of assets, cargo, aviation, and personnel, necessitating heightened security measures and contingency planning.",
+      "operational_impact": "Potential for airspace restrictions, cargo delays, and increased security protocols for personnel and assets in the region, with possible spillover effects on regional transport and logistics operations.",
+      "proximity_alert": null
     }
   }
 ]
