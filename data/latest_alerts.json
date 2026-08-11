@@ -1,59 +1,21 @@
 [
   {
-    "id": "0f29b35c93ecacc8e21843af2c249760",
-    "timestamp": "2026-08-11T17:29:56.813978",
-    "original_title": "The Invisible Expansion of the Attack Surface: Shadow AI, MCP, and Third-Party Risk - Bitsight",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1FUi1kRWNSSUltcEtDQTNkV3lCaU5xc0lIdnBnVU1OYUl3WVJpTjMwdU1Fd1FtQ0VORG53T19fUk53UjdiclBUWnlLR1FKM1pIYW01RlpTcEh5endDdUZwZU9kYUJvXzNJdzFpaVZaTXZPUmRpNU9UY21BRFQ?oc=5",
+    "id": "5915094f07765897cd4abee6dcaa5908",
+    "timestamp": "2026-08-11T19:39:47.481655",
+    "original_title": "Iranian-backed Houthis kill 6 in attack on vessel, and other developments in the Mideast - AP News",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORXhISUZDNXVZTlFMeWpOeGVEUDVsYWZKYkFQV2tmaXVSSW45SW5RZmtyeGQtaVIxMlVGdVZVNm5vemI5Rm9yMS1xMFc4Q0kzcTN4UThPTnF1anVDd1FSdWlIdEY2SWM2bkRiZ0VQQVQxOUJ4dXl2U2pIZFZOWVJyQ0NrelJvSlJsUWlpOHhxeFBSa0V6Y1BYb3dvaXQ?oc=5",
     "source_name": "Google News (Breaking)",
     "ai_analysis": {
-      "category": "Cyber",
+      "category": "Terrorism/Conflict",
       "risk_score": 8,
-      "location": "Global",
-      "latitude": 0.0,
-      "longitude": 0.0,
-      "detailed_analysis": "The expansion of the attack surface due to Shadow AI, MCP, and third-party risk poses a significant threat to assets, cargo, aviation, and personnel. This invisible expansion increases the vulnerability of systems to cyber attacks, which could lead to data breaches, system compromises, and disruption of critical infrastructure.",
-      "immediate_forecast_24h": "In the next 24 hours, there is a high likelihood of increased cyber attacks targeting vulnerable systems, potentially leading to disruptions in logistics and transportation.",
-      "strategic_outlook": "In the long term, the threat landscape will continue to evolve with the growth of Shadow AI and third-party risk, requiring continuous monitoring and adaptation of security measures to stay ahead of potential threats.",
-      "operational_impact": "The operational impact of this threat could be significant, with potential disruptions to supply chains, transportation systems, and critical infrastructure, highlighting the need for proactive risk management and mitigation strategies.",
+      "location": "Mideast",
+      "latitude": 30.0,
+      "longitude": 45.0,
+      "detailed_analysis": "Iranian-backed Houthis have attacked a vessel, resulting in 6 fatalities. This incident indicates a high level of threat to assets, cargo, and personnel in the region.",
+      "immediate_forecast_24h": "Increased tensions and potential for further attacks on vessels or other targets in the Mideast region.",
+      "strategic_outlook": "Long-term instability and conflict in the region may lead to sustained threats to maritime transport and logistics.",
+      "operational_impact": "Shipping and logistics companies should exercise extreme caution when operating in the Mideast region, and consider rerouting or enhancing security measures to mitigate the risk of attack.",
       "proximity_alert": null
-    }
-  },
-  {
-    "id": "0e507c6b7884a57a401fd32a2a4b8973",
-    "timestamp": "2026-08-11T18:29:16.336255",
-    "original_title": "How the bomb failed to deliver security in Pakistan - Bulletin of the Atomic Scientists",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX0ozUTZGeFJjQjVFX1EwdEtaVWtwN1NVTjZsUHJjbVNNMHRrVmQ0U2N0a1ZmSGZHRWw2Q2F6ZlJwWHVvSGlfTHo3UGlIOW04WjRNZ19CaXhiOGJQMEJsYmRzWml4eUtON2VLeTQ3bVAtc1JGX2FVcFYyekFKeGRJdHp2X25yQTNiMGc0cw?oc=5",
-    "source_name": "Google News (Breaking)",
-    "ai_analysis": {
-      "category": "Terrorism/Aviation",
-      "risk_score": 8,
-      "location": "Pakistan",
-      "latitude": 30.3753,
-      "longitude": 69.3451,
-      "detailed_analysis": "The article discusses the failure of the bomb to deliver security in Pakistan, implying a threat to aviation and national security. The context suggests a high-risk situation due to the involvement of a bomb, which could potentially be used to target aircraft or other critical infrastructure.",
-      "immediate_forecast_24h": "Increased security measures are likely to be implemented at airports and other critical infrastructure in Pakistan. There may be a heightened sense of alertness among security personnel, and passengers may experience delays or additional screening.",
-      "strategic_outlook": "The long-term outlook suggests that Pakistan may need to reassess its security strategies to prevent similar threats in the future. This could involve investing in more advanced security technologies, improving intelligence gathering, and enhancing collaboration with international partners.",
-      "operational_impact": "The threat of a bomb in Pakistan could have significant operational implications for aviation and logistics. Flights may be grounded or delayed, and cargo shipments may be subject to additional screening or security checks, leading to potential disruptions in the supply chain.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "f58a95e6c1870cd6fdf62daf08b3da82",
-    "timestamp": "2026-08-11T18:33:31.796489",
-    "original_title": "Captain of Air India Plane That Plunged 300 Feet Tests Positive For Illegal Drugs For a Second Time",
-    "link": "https://www.paddleyourownkanoo.com/2026/08/11/captain-of-air-india-plane-that-plunged-300-feet-tests-positive-for-illegal-drugs-for-a-second-time/",
-    "source_name": "Paddle Your Own Kanoo",
-    "ai_analysis": {
-      "category": "Aviation/Crime",
-      "risk_score": 10,
-      "location": "Delhi, India",
-      "latitude": 28.7041,
-      "longitude": 77.1025,
-      "detailed_analysis": "The captain of an Air India plane that plunged 300 feet has tested positive for illegal psychoactive drugs for a second time, posing a significant threat to aviation safety and security. This incident highlights the risk of substance abuse among flight crew and the potential consequences for passengers and cargo.",
-      "immediate_forecast_24h": "Investigations into the incident are likely to continue, and Air India may face increased scrutiny over its safety protocols and crew screening procedures. There is a risk of further incidents if similar safety lapses occur.",
-      "strategic_outlook": "The long-term implications of this incident could lead to a review of global aviation safety standards, particularly regarding crew substance abuse and mental health. Airlines and regulatory bodies may need to reassess their policies and procedures to prevent similar incidents.",
-      "operational_impact": "The incident may lead to increased security measures and screening procedures for flight crew, potentially causing delays or disruptions to air travel. Cargo and passenger operations may also be affected if Air India faces regulatory action or reputational damage.",
-      "proximity_alert": "YAKIN TEHDİT: Indira Gandhi International Airport (16 km)"
     }
   }
 ]
