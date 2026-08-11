@@ -74,5 +74,43 @@
       "operational_impact": "The bus strikes may impact the movement of cargo and personnel, particularly in areas with limited alternative transportation options, and could lead to increased costs and delays for logistics and transportation companies.",
       "proximity_alert": "YAKIN TEHDİT: Heathrow Airport (23 km)"
     }
+  },
+  {
+    "id": "3f22874cbb7286d7ecf6fa6551db1187",
+    "timestamp": "2026-08-11T05:36:18.279920",
+    "original_title": "Huge fire breaks out at Libya’s Zawiya refinery after drone attack - Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT09XYnNoOHdxT0RHTEpPS2wyZ0FFQW45cmxYSXlWNlFyVVUxM2hKSWNVSUM1a3k4MEdVNGRnU0ZySWhRZjgtRHF6Yzg5TEFqMEZzVDdfTUpKRnh3MVZSb3hDQngzRmRzQ05nODRpVVcyQTRfdlhYTWxVTVlSMExhb0JhbVE2ajliRUI5Y0FuMkttUlR6MU95enV1VFVtU2htVWFwSWxiZ3liQdIBrwFBVV95cUxQaF95cHJvdmFxVnNXSVV1bXhEdmtZQmV5SEVubjRkMzAtWFEtSm1YVTBhMndGSERWYlFJc1RFR3c5S21vUENaeUZtWVJpcGQ3akVIck1SRW82NWxMSENnQmR3N2xEOERhQlhmU1BrMVg2UHUzc2tvRVhPWUg3U2V2S0dPdENpQV8ycHJXbU1hOTVEamJqdWlnYmF6ZVV3NThkV0VtUmExanRvcjRSSVFF?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Terrorism/Aviation/Conflict",
+      "risk_score": 8,
+      "location": "Zawiya, Libya",
+      "latitude": 32.7592,
+      "longitude": 12.7243,
+      "detailed_analysis": "A drone attack on Libya's Zawiya refinery has resulted in a huge fire, posing a significant threat to the country's oil production and potentially disrupting global energy supplies. The attack highlights the vulnerability of critical infrastructure to drone-based threats and the potential for escalation in the region.",
+      "immediate_forecast_24h": "The fire is likely to continue burning for the next 24 hours, with potential disruptions to oil production and transportation in the region. There is also a risk of further attacks on critical infrastructure in Libya.",
+      "strategic_outlook": "The long-term impact of the attack could be significant, with potential disruptions to global energy supplies and increased tensions in the region. The use of drones in the attack highlights the evolving nature of threats to critical infrastructure and the need for enhanced security measures.",
+      "operational_impact": "The attack is likely to have a significant impact on transport and logistics in the region, with potential disruptions to oil production and transportation. Shipping and aviation operations in the region may also be affected, with increased security measures likely to be implemented.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "06d83983bca474d53dfa8ad1ff67704f",
+    "timestamp": "2026-08-11T05:36:38.665995",
+    "original_title": "Ukraine war live: Deadly Russian missiles strike Kyiv and Zaporizhzhia",
+    "link": "https://www.france24.com/en/europe/20260810-live-russian-missiles-strike-kyiv-triggering-fires-in-city-centre",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Kyiv, Ukraine",
+      "latitude": 50.4501,
+      "longitude": 30.5236,
+      "detailed_analysis": "Russian missile strikes on Kyiv and Zaporizhzhia have resulted in loss of life and damage to infrastructure, indicating a high level of conflict and potential disruption to aviation, cargo, and personnel operations in the region.",
+      "immediate_forecast_24h": "Further missile strikes or retaliatory actions are possible, posing an immediate threat to assets, cargo, aviation, and personnel in the affected areas.",
+      "strategic_outlook": "The ongoing conflict in Ukraine is likely to continue posing a significant threat to regional stability and security, with potential long-term impacts on global supply chains and logistics operations.",
+      "operational_impact": "The attacks may cause disruptions to air traffic, cargo transport, and personnel movements in and around Kyiv and Zaporizhzhia, with potential ripple effects on regional and global logistics operations.",
+      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
+    }
   }
 ]

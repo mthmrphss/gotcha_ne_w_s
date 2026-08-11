@@ -1,59 +1,40 @@
 [
   {
-    "id": "4c632fb74df110b47f3a3f182e5bc989",
-    "timestamp": "2026-08-11T04:02:21.815570",
-    "original_title": "2 injured after small plane crashes near airstrip in Ridgefield, Wash. - KATU",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNnRuSXY1V0JnQXhMLVAyellsNTREU280YS1FR3ZSbXZzemoxU0xiR0dOcFI5WjQ0dEkzLTd0Z3BhMTRfVm9jWTQydTkySzRjbktYeTd0ZjBkdTNEbjFSRHQ1RklzdXRoYUlMd2xqXzdKRWk1NG4xYkFETFg4R3pIcXhfXzJfM05mcFN3aEtzSlJTc08ydUozTnZwNXQ?oc=5",
+    "id": "3f22874cbb7286d7ecf6fa6551db1187",
+    "timestamp": "2026-08-11T05:36:18.279920",
+    "original_title": "Huge fire breaks out at Libya’s Zawiya refinery after drone attack - Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT09XYnNoOHdxT0RHTEpPS2wyZ0FFQW45cmxYSXlWNlFyVVUxM2hKSWNVSUM1a3k4MEdVNGRnU0ZySWhRZjgtRHF6Yzg5TEFqMEZzVDdfTUpKRnh3MVZSb3hDQngzRmRzQ05nODRpVVcyQTRfdlhYTWxVTVlSMExhb0JhbVE2ajliRUI5Y0FuMkttUlR6MU95enV1VFVtU2htVWFwSWxiZ3liQdIBrwFBVV95cUxQaF95cHJvdmFxVnNXSVV1bXhEdmtZQmV5SEVubjRkMzAtWFEtSm1YVTBhMndGSERWYlFJc1RFR3c5S21vUENaeUZtWVJpcGQ3akVIck1SRW82NWxMSENnQmR3N2xEOERhQlhmU1BrMVg2UHUzc2tvRVhPWUg3U2V2S0dPdENpQV8ycHJXbU1hOTVEamJqdWlnYmF6ZVV3NThkV0VtUmExanRvcjRSSVFF?oc=5",
     "source_name": "Google News (Breaking)",
     "ai_analysis": {
-      "category": "Aviation",
+      "category": "Terrorism/Aviation/Conflict",
       "risk_score": 8,
-      "location": "Ridgefield, USA",
-      "latitude": 45.8223,
-      "longitude": -122.7354,
-      "detailed_analysis": "A small plane crashed near an airstrip in Ridgefield, Wash., resulting in 2 injuries. The incident poses a significant risk to aviation safety and may impact local air traffic.",
-      "immediate_forecast_24h": "Emergency services are likely to be deployed to the scene, and an investigation into the cause of the crash will be initiated. There may be disruptions to local air traffic and potential delays in flight operations.",
-      "strategic_outlook": "The incident highlights the importance of maintaining rigorous safety standards in aviation. Regulatory bodies and airlines may need to reassess their safety protocols to prevent similar incidents in the future.",
-      "operational_impact": "The crash may lead to increased security measures at nearby airports and airstrips, potentially causing delays and disruptions to cargo and passenger flights.",
+      "location": "Zawiya, Libya",
+      "latitude": 32.7592,
+      "longitude": 12.7243,
+      "detailed_analysis": "A drone attack on Libya's Zawiya refinery has resulted in a huge fire, posing a significant threat to the country's oil production and potentially disrupting global energy supplies. The attack highlights the vulnerability of critical infrastructure to drone-based threats and the potential for escalation in the region.",
+      "immediate_forecast_24h": "The fire is likely to continue burning for the next 24 hours, with potential disruptions to oil production and transportation in the region. There is also a risk of further attacks on critical infrastructure in Libya.",
+      "strategic_outlook": "The long-term impact of the attack could be significant, with potential disruptions to global energy supplies and increased tensions in the region. The use of drones in the attack highlights the evolving nature of threats to critical infrastructure and the need for enhanced security measures.",
+      "operational_impact": "The attack is likely to have a significant impact on transport and logistics in the region, with potential disruptions to oil production and transportation. Shipping and aviation operations in the region may also be affected, with increased security measures likely to be implemented.",
       "proximity_alert": null
     }
   },
   {
-    "id": "8067f29d09dd646363e9fab25ac7d577",
-    "timestamp": "2026-08-11T04:02:23.701757",
-    "original_title": "Trump Said to Have Secretly Used Military Jet to Leave Turkey Amid Threats - The New York Times",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUQjJsRHJrbjIzT3ROcFV2SzFUUmlpUXA4TENVOXRDekFqbDlISVV6cUxKX1I0ZDJwdm1iMjY0cWdKMW9ieTlneTludWFxZmVUNm02VjNFbnVpcHFfOC1LTW5TaTltMEx1QTBjUUg3TnFkQ2VXSWpV?oc=5",
-    "source_name": "Google News (Breaking)",
+    "id": "06d83983bca474d53dfa8ad1ff67704f",
+    "timestamp": "2026-08-11T05:36:38.665995",
+    "original_title": "Ukraine war live: Deadly Russian missiles strike Kyiv and Zaporizhzhia",
+    "link": "https://www.france24.com/en/europe/20260810-live-russian-missiles-strike-kyiv-triggering-fires-in-city-centre",
+    "source_name": "France 24 ME",
     "ai_analysis": {
-      "category": "Aviation/Security",
-      "risk_score": 7,
-      "location": "Turkey",
-      "latitude": 39.0,
-      "longitude": 35.0,
-      "detailed_analysis": "Former US President Trump secretly used a military jet to leave Turkey due to threats, indicating a potential security risk to high-profile personnel and aviation assets.",
-      "immediate_forecast_24h": "Increased security measures may be implemented for high-profile individuals traveling to or from Turkey, potentially affecting flight schedules and aviation operations.",
-      "strategic_outlook": "The use of military jets for civilian transport due to security concerns may set a precedent for future high-risk travel, potentially impacting the security protocols of aviation assets and personnel.",
-      "operational_impact": "Potential delays or disruptions to flights, increased security screening, and enhanced security protocols for high-profile passengers and aviation assets.",
-      "proximity_alert": null
-    }
-  },
-  {
-    "id": "8d4d8a862680b41f36100cbc6d993f9c",
-    "timestamp": "2026-08-11T04:04:52.829680",
-    "original_title": "London bus strikes: When are they and which routes will be affected?",
-    "link": "https://www.independent.co.uk/travel/news-and-advice/london-bus-strikes-dates-routes-why-union-b3030476.html",
-    "source_name": "Independent Travel",
-    "ai_analysis": {
-      "category": "Civil Unrest",
+      "category": "Conflict",
       "risk_score": 10,
-      "location": "London, United Kingdom",
-      "latitude": 51.5074,
-      "longitude": -0.1278,
-      "detailed_analysis": "The Unite union has announced bus strikes in London due to health problems experienced by staff driving in hot weather, which may cause disruptions to public transportation.",
-      "immediate_forecast_24h": "Bus strikes are expected to cause traffic congestion and disruptions to daily commutes, potentially affecting cargo and personnel movement.",
-      "strategic_outlook": "The strikes may lead to increased tensions between the union and transportation authorities, potentially resulting in further disruptions to public transportation in the long term.",
-      "operational_impact": "The bus strikes may impact the movement of cargo and personnel, particularly in areas with limited alternative transportation options, and could lead to increased costs and delays for logistics and transportation companies.",
-      "proximity_alert": "YAKIN TEHDİT: Heathrow Airport (23 km)"
+      "location": "Kyiv, Ukraine",
+      "latitude": 50.4501,
+      "longitude": 30.5236,
+      "detailed_analysis": "Russian missile strikes on Kyiv and Zaporizhzhia have resulted in loss of life and damage to infrastructure, indicating a high level of conflict and potential disruption to aviation, cargo, and personnel operations in the region.",
+      "immediate_forecast_24h": "Further missile strikes or retaliatory actions are possible, posing an immediate threat to assets, cargo, aviation, and personnel in the affected areas.",
+      "strategic_outlook": "The ongoing conflict in Ukraine is likely to continue posing a significant threat to regional stability and security, with potential long-term impacts on global supply chains and logistics operations.",
+      "operational_impact": "The attacks may cause disruptions to air traffic, cargo transport, and personnel movements in and around Kyiv and Zaporizhzhia, with potential ripple effects on regional and global logistics operations.",
+      "proximity_alert": "YAKIN TEHDİT: Boryspil International Airport (28 km)"
     }
   }
 ]
