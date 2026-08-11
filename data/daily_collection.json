@@ -36,5 +36,43 @@
       "operational_impact": "The incident may cause disruptions to hospital operations, particularly in the emergency room, and could impact the ability of medical staff to respond to emergencies. However, it is unlikely to have a direct impact on aviation or cargo operations.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "02e3e6540658b6e903c8d58b14bff85f",
+    "timestamp": "2026-08-11T22:50:58.650539",
+    "original_title": "Alaska National Guard rescues crash victim near Trapper Joe Lake - Alaska National Guard (.mil)",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVjZSNGNrSEJZb1M4SFNDVXJYckdGWktLSGxIaGlmR29mdW5MVVZKd3lnTmtFcjNXcUlFcU10RlZwVDV4Z3Y1S1lTSUJfcElSUm5fR0JsUWJJY3c3OWhNanIwV2JBU05TX0x6bHJSMzFMLW9lbVhRcEx4YjM1WGpfZFhjYzBRVExrM2x1S3dSZHdZWURYb2lPbzhPX1MyekdISlpqX2MtSjRlUDF4NGtRSHltbTBUYUU3LW03QkdhTks?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 6,
+      "location": "Trapper Joe Lake, Alaska, USA",
+      "latitude": 63.2333,
+      "longitude": -143.6333,
+      "detailed_analysis": "A crash occurred near Trapper Joe Lake, and the Alaska National Guard rescued the victim. The incident does not specify the type of aircraft or cause of the crash, but it indicates a potential risk to aviation safety in the area.",
+      "immediate_forecast_24h": "No immediate threats are expected in the next 24 hours, but an investigation into the cause of the crash may be initiated.",
+      "strategic_outlook": "The long-term impact of this incident on aviation safety in Alaska will depend on the investigation's findings and any subsequent actions taken to prevent similar incidents.",
+      "operational_impact": "The incident may cause temporary disruptions to air traffic in the area, but it is unlikely to have a significant impact on overall logistics and transport operations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "599ca8558abf82066d4d0b5ad0268c5d",
+    "timestamp": "2026-08-11T22:55:39.941562",
+    "original_title": "Stranded Pilots Force JetBlue to Cancel Flights to Barcelona As Operational Meltdown Reaches Coveted Transatlantic Flights",
+    "link": "https://www.paddleyourownkanoo.com/2026/08/11/stranded-pilots-force-jetblue-to-cancel-flights-to-barcelona-as-operational-meltdown-reaches-coveted-transatlantic-flights/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Aviation",
+      "risk_score": 10,
+      "location": "Boston, USA",
+      "latitude": 42.3596,
+      "longitude": -71.0596,
+      "detailed_analysis": "JetBlue cancelled two Boston-to-Barcelona flights due to stranded pilots, indicating operational issues that could impact transatlantic flights and overall aviation safety",
+      "immediate_forecast_24h": "Further flight cancellations or delays are possible as JetBlue struggles to manage its pilot resources and mitigate the operational meltdown",
+      "strategic_outlook": "The airline's inability to efficiently manage its personnel may lead to long-term reputational damage and loss of customer trust, potentially affecting its market share and financial performance",
+      "operational_impact": "The cancellation of flights may cause disruptions to passengers' travel plans, potentially affecting cargo transport and the overall logistics chain, especially for time-sensitive or high-priority shipments",
+      "proximity_alert": "YAKIN TEHDİT: General Edward Lawrence Logan International Airport (0 km)"
+    }
   }
 ]
