@@ -264,5 +264,43 @@
       "operational_impact": "Potential disruption to in-flight services, compromise of passenger data, and increased security measures may impact the efficiency and comfort of air travel.",
       "proximity_alert": "YAKIN TEHDİT: Las Vegas International Airport (0 km)"
     }
+  },
+  {
+    "id": "0b76b4d2c172498a1951436081a40476",
+    "timestamp": "2026-08-12T07:45:04.009808",
+    "original_title": "Russia's Novorossiysk grain terminal halts operations after Ukrainian drone attack, industry source says - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONm1OVFhKdVF3WHJaSlZsaTAwVzI4WmV5eDFhZjctdUxxZ0twOVgxNXFsbVoyU3NfYmg2aWNMdklRTlRnWDJOYWoyOTlfUTBkOUo5Sjd1T3lqUUZUOVZQbDRmV0d6UDRRSUdHWGN0RmY5TEJXN29vU1NVbGJTUGYwNzQ0amNIMGR4N3hud3BFOG9OMmsxZmxJQ2lBNVdPU3FpRjYxUHROOE01d2ZVWVpwUnBVZ0s3LUk?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Aviation/Crime",
+      "risk_score": 8,
+      "location": "Novorossiysk, Russia",
+      "latitude": 44.72,
+      "longitude": 37.77,
+      "detailed_analysis": "A Ukrainian drone attack on Russia's Novorossiysk grain terminal has halted operations, posing a significant threat to cargo and aviation security in the region.",
+      "immediate_forecast_24h": "Increased tensions between Ukraine and Russia may lead to further attacks on critical infrastructure, potentially disrupting grain supplies and aviation operations in the area.",
+      "strategic_outlook": "The conflict between Ukraine and Russia may escalate, leading to a prolonged disruption of grain exports and aviation activities in the region, with potential global implications for food security and trade.",
+      "operational_impact": "The halt in operations at the Novorossiysk grain terminal may cause delays and disruptions to grain shipments, affecting the global supply chain and potentially leading to economic losses for stakeholders involved in the logistics and trade of grain products.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "747184b302c5151b449faa2bbeb38a73",
+    "timestamp": "2026-08-12T07:45:14.371300",
+    "original_title": "Middle East live: US military strikes ship violating its blockade of Iranian ports",
+    "link": "https://www.france24.com/en/middle-east/20260812-middle-east-live-us-military-strikes-ship-violating-blockade-of-iranian-ports",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Strait of Hormuz, Middle East",
+      "latitude": 26.0,
+      "longitude": 56.0,
+      "detailed_analysis": "The US military has struck a Panama-flagged ship attempting to breach its blockade of Iranian ports, indicating heightened tensions in the region and potential risks to maritime assets and cargo.",
+      "immediate_forecast_24h": "Increased naval presence and potential for further confrontations in the Strait of Hormuz, affecting shipping lanes and cargo transport.",
+      "strategic_outlook": "Prolonged conflict or blockade could lead to significant disruptions in global oil supplies and trade, with potential long-term impacts on regional stability and security.",
+      "operational_impact": "Shipping companies and cargo operators should exercise extreme caution when navigating the Strait of Hormuz, with potential delays or rerouting of ships to avoid the conflict zone.",
+      "proximity_alert": null
+    }
   }
 ]
