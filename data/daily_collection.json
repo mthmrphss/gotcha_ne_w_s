@@ -207,5 +207,62 @@
       "operational_impact": "Transport and logistics operations in Bangladesh may be impacted by the unrest and security concerns. Companies should exercise increased caution when operating in the country, particularly in high-risk areas, and consider alternative routes or modes of transportation.",
       "proximity_alert": "YAKIN TEHDİT: Hazrat Shahjalal International Airport (3 km)"
     }
+  },
+  {
+    "id": "a4f8144f02c27c16fef4ec481fe93d55",
+    "timestamp": "2026-08-12T04:24:30.901972",
+    "original_title": "N Korea launches ballistic missile as S Korea, US plan military drills - Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVXJ2RDFmYTR1SHpXTUVvay1aR1hobTdsLW5uZlRfdHZvWGdES0I2Qi1IOGtJOG8zcVV3Wl9NVjR5T3JJRUdUeHpFQmlXWjQ4dUJqQkdyLUpDSFRRaDBoWWFob1dZbVZpYWxWRUxlWlQ4d01aOTVkNnc4T0k5VVJpN2VMRE53TEx2TUtlcTBhQ0lRRW8xSkJUUDlxNERnbm02dEQwaGlqVjdOMm11ZV9V0gG0AUFVX3lxTE1jMDZ0NGZDVFB4ck1fa0RjSGRRRTg0UWJzLWw1Zm1Uek41NkhvekYyMDdxa0VoZzFCNVRqdkRJSHF3c3k0dDlxRWJEMFVkZlp3RkVhM3J4NHRHZnpWb2lmZGtyaVpLaW0zX3dJZ240d0lpSkJLZnY5cFZTUm9WaGxEQjNrU3V1VndJRUw4OWJaYXNlemNldC15SmxTT2lZZFhyNENCTXZna1dqM1dONzI4a1BMcw?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "North Korea/South Korea",
+      "latitude": 38.0,
+      "longitude": 127.0,
+      "detailed_analysis": "North Korea has launched a ballistic missile as South Korea and the US plan military drills, increasing tensions in the region and posing a threat to aviation and personnel",
+      "immediate_forecast_24h": "Further missile launches or military responses from South Korea and the US are possible, potentially disrupting air traffic and logistics in the region",
+      "strategic_outlook": "The escalation of tensions between North Korea, South Korea, and the US could lead to a long-term increase in military activity, affecting transport and logistics in the region",
+      "operational_impact": "Potential disruptions to air traffic, increased security measures, and possible restrictions on cargo and personnel movement in the region",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "8a79f2fea3c2d1e5a94dab9e5a2f64ea",
+    "timestamp": "2026-08-12T04:24:36.844012",
+    "original_title": "Middle East live: US military strikes ship violating blockade of Iranian ports",
+    "link": "https://www.france24.com/en/middle-east/20260812-middle-east-live-us-military-strikes-ship-violating-blockade-of-iranian-ports",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "Strait of Hormuz, Middle East",
+      "latitude": 26.0,
+      "longitude": 56.0,
+      "detailed_analysis": "The US military has struck a Panama-flagged ship attempting to breach the blockade of Iranian ports, indicating heightened tensions in the region and potential risks to maritime assets and cargo.",
+      "immediate_forecast_24h": "Increased naval presence and potential for further confrontations in the Strait of Hormuz, affecting shipping lanes and cargo transport.",
+      "strategic_outlook": "Prolonged conflict or blockade could lead to significant disruptions in global oil supplies and trade, with potential long-term impacts on regional stability and security.",
+      "operational_impact": "Shipping companies and cargo operators should exercise extreme caution when navigating the Strait of Hormuz, and consider alternative routes or enhanced security measures to mitigate risks to assets, cargo, and personnel.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "e892ffca2fe73bbdec726890ee4ab26c",
+    "timestamp": "2026-08-12T04:26:44.898907",
+    "original_title": "Hackers ‘Jam’ Wi-Fi Signal On Delta Air Flight From Las Vegas And Then Broadcast Scam Internet Login",
+    "link": "https://www.paddleyourownkanoo.com/2026/08/11/hackers-jam-wi-fi-signal-on-delta-air-flight-from-las-vegas-and-then-broadcast-scam-internet-login/",
+    "source_name": "Paddle Your Own Kanoo",
+    "ai_analysis": {
+      "category": "Cyber/Aviation/Crime",
+      "risk_score": 10,
+      "location": "Las Vegas, USA",
+      "latitude": 36.0803,
+      "longitude": -115.1564,
+      "detailed_analysis": "Hackers jammed the official Wi-Fi signal on a Delta Air Lines flight from Las Vegas to Atlanta and broadcast a scam internet login, potentially compromising passenger data and airline systems.",
+      "immediate_forecast_24h": "Increased vigilance is expected from Delta Air Lines and other airlines to prevent similar incidents, with possible temporary disruptions to in-flight Wi-Fi services.",
+      "strategic_outlook": "The incident highlights the growing threat of cyber attacks in the aviation sector, emphasizing the need for enhanced cybersecurity measures to protect against such threats and ensure passenger safety.",
+      "operational_impact": "Potential disruption to in-flight services, compromise of passenger data, and increased security measures may impact the efficiency and comfort of air travel.",
+      "proximity_alert": "YAKIN TEHDİT: Las Vegas International Airport (0 km)"
+    }
   }
 ]
