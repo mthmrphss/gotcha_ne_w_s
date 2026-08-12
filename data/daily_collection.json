@@ -340,5 +340,24 @@
       "operational_impact": "The incident may lead to increased security checks, potential route closures, or delays in cargo movement, particularly for high-value or sensitive shipments, and could impact aviation operations due to the heightened security environment.",
       "proximity_alert": "YAKIN TEHDİT: Benina International Airport (19 km)"
     }
+  },
+  {
+    "id": "9c629c6b3d25dd5651728801700df359",
+    "timestamp": "2026-08-12T10:36:05.122017",
+    "original_title": "Ecuadorean Fishing Boats Hit by Mystery Attackers",
+    "link": "https://www.nytimes.com/2026/08/12/world/americas/ecuador-fishing-boat-strikes.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Terrorism/Crime/Conflict",
+      "risk_score": 7,
+      "location": "Pacific Ocean, Ecuador",
+      "latitude": -1.0,
+      "longitude": -81.0,
+      "detailed_analysis": "Ecuadorean fishing boats have been targeted by a mysterious group using drones, resulting in potential loss of life. This incident suggests a high level of organization and technological capability among the attackers, posing a significant threat to maritime assets and personnel.",
+      "immediate_forecast_24h": "Increased vigilance is expected from Ecuadorean authorities and maritime operators, with potential disruptions to fishing and shipping operations in the affected area.",
+      "strategic_outlook": "The use of drones in these attacks may indicate a new trend in maritime terrorism or piracy, requiring enhanced security measures and international cooperation to prevent future incidents.",
+      "operational_impact": "Shipping and fishing companies operating in the region may need to reassess their security protocols, including the use of counter-drone technologies and enhanced crew training, to mitigate the risk of similar attacks.",
+      "proximity_alert": null
+    }
   }
 ]
