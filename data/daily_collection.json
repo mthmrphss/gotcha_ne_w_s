@@ -378,5 +378,24 @@
       "operational_impact": "Transportation and logistics operations may be impacted by cyberattacks, potentially leading to delays, disruptions, or even physical attacks on assets, cargo, and personnel.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "7117a47a9c147f273b857f95852f99f3",
+    "timestamp": "2026-08-12T14:38:51.918431",
+    "original_title": "Uruguay - Level 2: Exercise Increased Caution",
+    "link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/uruguay-travel-advisory.html",
+    "source_name": "US State Dept",
+    "ai_analysis": {
+      "category": "Crime",
+      "risk_score": 6,
+      "location": "Montevideo, Uruguay",
+      "latitude": -34.8942,
+      "longitude": -56.1764,
+      "detailed_analysis": "Uruguay has been issued a Level 2 travel advisory due to crime, with violent crimes such as homicide, armed robbery, carjacking, and theft occurring across the country. These crimes can happen at any time and have affected U.S. citizens. High-risk areas include Montevideo, Canelones, Maldonado, and Rivera departments.",
+      "immediate_forecast_24h": "Increased caution is advised for the next 24 hours, with a high likelihood of crime occurring in major cities and tourist areas.",
+      "strategic_outlook": "Long-term, the crime situation in Uruguay is expected to remain a concern, with potential for increased violence and targeting of businesses and individuals. It is essential for travelers and transport operators to remain vigilant and take necessary precautions.",
+      "operational_impact": "The crime situation in Uruguay may impact transport and logistics operations, particularly in high-risk areas. Cargo theft, armed robbery, and carjacking are potential risks, and operators should take extra precautions to secure their assets and personnel.",
+      "proximity_alert": null
+    }
   }
 ]
