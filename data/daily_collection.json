@@ -359,5 +359,43 @@
       "operational_impact": "The attack on Izmail port may disrupt cargo operations and impact supply chains, with potential for delays or losses in the transportation of goods.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "3e1d1547c0c094b77437cf2d86913a64",
+    "timestamp": "2026-08-13T08:38:40.434010",
+    "original_title": "N. Korea said to launch 2nd missile test - Northwest Arkansas Democrat-Gazette",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOajU1ZGZscXpNcGtLS1NiZm1yS0VhanVCa2N2ZGJrUjFZMlZya2ExZnZvX3gzVVR0MDRFVWJrVXJ6QlFwZHFZV05QTmN0RU1XbjB0WFFMbG9xeVZrcVVRclhqeTdJWmQ5Z2hsRlpXd0swNGlkT0JSa0lGWk52cFZjMUlkNDJ1YndYcUVz?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 8,
+      "location": "North Korea",
+      "latitude": 40.0,
+      "longitude": 127.0,
+      "detailed_analysis": "North Korea has conducted a second missile test, which poses a significant threat to regional stability and aviation safety. The launch could potentially disrupt air traffic and pose a risk to nearby aircraft.",
+      "immediate_forecast_24h": "Increased military activity and heightened tensions in the region are expected in the next 24 hours, with potential for further missile tests or military responses from neighboring countries.",
+      "strategic_outlook": "The long-term implications of North Korea's missile tests are a significant escalation of tensions in the region, potentially leading to increased military presence and a higher risk of conflict.",
+      "operational_impact": "The missile tests may impact air traffic in the region, with potential for flight restrictions or rerouting of aircraft to avoid the area. This could lead to delays and disruptions to logistics and transportation operations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "c34e706e85cb4b6348f982f8e8ab57f8",
+    "timestamp": "2026-08-13T08:38:43.658478",
+    "original_title": "Russian Blockade of Major Ukrainian Ports Threatens Global Grain Supplies",
+    "link": "https://www.nytimes.com/2026/08/13/world/europe/russia-ukraine-ports-odesa-cargo-ship-attacks.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "Ukrainian Ports, Ukraine",
+      "latitude": 46.4871,
+      "longitude": 30.7395,
+      "detailed_analysis": "The Russian blockade of major Ukrainian ports poses a significant threat to global grain supplies, exacerbating existing food security concerns. This maritime conflict has the potential to disrupt cargo shipments and impact the livelihoods of those dependent on these trade routes.",
+      "immediate_forecast_24h": "Escalation of the blockade is likely, with potential for increased military activity in the region, further disrupting grain exports and putting additional pressure on global food supplies.",
+      "strategic_outlook": "Long-term implications of this conflict could lead to a re-routing of grain supplies, potentially causing economic strain on countries reliant on Ukrainian grain exports. Diplomatic efforts to resolve the conflict may be hindered by geopolitical tensions.",
+      "operational_impact": "Shipping companies and cargo operators should prepare for potential delays or re-routing of grain shipments, while aviation and personnel in the region should be vigilant for any spillover effects from the maritime conflict.",
+      "proximity_alert": "YAKIN TEHDİT: Odessa International Airport (7 km)"
+    }
   }
 ]
