@@ -1,20 +1,58 @@
 [
   {
-    "id": "c730a05c80ddde2c8545be198f3ecf41",
-    "timestamp": "2026-08-13T17:33:06.540492",
-    "original_title": "Large explosion rips through Italian munitions factory",
-    "link": "https://www.reddit.com/r/worldnews/comments/1vnflvw/large_explosion_rips_through_italian_munitions/",
-    "source_name": "Reddit r/WorldNews",
+    "id": "b653c89cd88356907bc9f5e2f0d95260",
+    "timestamp": "2026-08-13T19:10:26.067497",
+    "original_title": "The Moroccan Minister of Justice criticizes Spain for “accepting” and “regularizing” migrants",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1vni3h5/the_moroccan_minister_of_justice_criticizes_spain/",
+    "source_name": "Reddit r/Geopolitics",
     "ai_analysis": {
-      "category": "Explosion/Industrial Accident",
+      "category": "Border/Civil Unrest",
+      "risk_score": 5,
+      "location": "Rabat, Morocco and Madrid, Spain",
+      "latitude": 33.9593,
+      "longitude": -6.8493,
+      "detailed_analysis": "The Moroccan Minister of Justice's criticism of Spain for accepting and regularizing migrants may lead to increased tensions between the two countries, potentially affecting border crossings and transport logistics.",
+      "immediate_forecast_24h": "Protests or demonstrations at border crossings are possible, which could lead to delays or disruptions in cargo and personnel movement.",
+      "strategic_outlook": "The situation may escalate into a diplomatic crisis, affecting trade and travel between Morocco and Spain, with potential long-term implications for regional stability and security.",
+      "operational_impact": "Transport and logistics companies operating in the region should be prepared for potential delays, increased security measures, and changes in border crossing procedures.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "b96f8bf1ad389b5380d7783c3ae70749",
+    "timestamp": "2026-08-13T19:10:27.829169",
+    "original_title": "How Iran Adapted Its Attacks as U.S. War Munitions Dwindled",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1vnewc0/how_iran_adapted_its_attacks_as_us_war_munitions/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict",
       "risk_score": 8,
-      "location": "Italy",
-      "latitude": 43.171855,
-      "longitude": 12.515312,
-      "detailed_analysis": "A large explosion occurred at an Italian munitions factory, posing a significant threat to nearby assets, personnel, and potentially disrupting aviation and cargo operations in the region.",
-      "immediate_forecast_24h": "Emergency services are likely to be deployed to the scene, and nearby areas may be evacuated as a precaution. The cause of the explosion will be investigated, and there may be disruptions to local transport and logistics.",
-      "strategic_outlook": "The long-term impact of the explosion will depend on the extent of the damage and the cause of the incident. If the explosion is found to be the result of a deliberate act, it could have significant implications for security in the region.",
-      "operational_impact": "The explosion may cause disruptions to nearby airports, seaports, and logistics hubs, potentially affecting the movement of cargo and personnel. Aviation operations may also be impacted, with potential delays or cancellations of flights in the region.",
+      "location": "Iran, Middle East",
+      "latitude": 32.0,
+      "longitude": 53.0,
+      "detailed_analysis": "Iran has adapted its attacks in response to dwindling US war munitions, potentially increasing the threat to regional assets, cargo, aviation, and personnel.",
+      "immediate_forecast_24h": "Increased tensions and potential for further attacks in the region, with possible disruptions to logistics and transportation.",
+      "strategic_outlook": "Long-term escalation of conflict in the region, with potential for widespread impact on global supply chains and transportation networks.",
+      "operational_impact": "Heightened security measures and potential disruptions to air and ground transportation in the region, with possible delays or cancellations of flights and shipments.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "2b74563b4c4003bc720b54d540f1109a",
+    "timestamp": "2026-08-13T19:12:06.932476",
+    "original_title": "Displaced families and hospitals struggle as Sudan's war ravages El-Obeid",
+    "link": "http://www.africanews.com/2026/08/13/displaced-families-and-hospitals-struggle-as-sudans-war-ravages-el-obeid/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 8,
+      "location": "El-Obeid, Sudan",
+      "latitude": 13.1833,
+      "longitude": 30.2167,
+      "detailed_analysis": "The ongoing war in Sudan has resulted in significant displacement of people and strain on local resources, including hospitals. This situation poses a high risk to personnel and assets in the region due to the conflict and potential for further instability.",
+      "immediate_forecast_24h": "Continued fighting and displacement are expected, with potential for increased humanitarian needs and risks to transport and logistics operations.",
+      "strategic_outlook": "The long-term outlook for Sudan remains uncertain, with the potential for prolonged conflict and instability. This could lead to sustained risks for assets, cargo, aviation, and personnel in the region.",
+      "operational_impact": "Transport and logistics operations in the region may be severely impacted due to the conflict, including potential disruptions to supply chains, increased security risks, and challenges in delivering humanitarian aid.",
       "proximity_alert": null
     }
   }
