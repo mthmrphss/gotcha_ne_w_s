@@ -549,5 +549,24 @@
       "operational_impact": "The event may lead to increased security measures at airports and public gatherings, potentially causing minor disruptions to logistics and transportation operations.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "c730a05c80ddde2c8545be198f3ecf41",
+    "timestamp": "2026-08-13T17:33:06.540492",
+    "original_title": "Large explosion rips through Italian munitions factory",
+    "link": "https://www.reddit.com/r/worldnews/comments/1vnflvw/large_explosion_rips_through_italian_munitions/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Explosion/Industrial Accident",
+      "risk_score": 8,
+      "location": "Italy",
+      "latitude": 43.171855,
+      "longitude": 12.515312,
+      "detailed_analysis": "A large explosion occurred at an Italian munitions factory, posing a significant threat to nearby assets, personnel, and potentially disrupting aviation and cargo operations in the region.",
+      "immediate_forecast_24h": "Emergency services are likely to be deployed to the scene, and nearby areas may be evacuated as a precaution. The cause of the explosion will be investigated, and there may be disruptions to local transport and logistics.",
+      "strategic_outlook": "The long-term impact of the explosion will depend on the extent of the damage and the cause of the incident. If the explosion is found to be the result of a deliberate act, it could have significant implications for security in the region.",
+      "operational_impact": "The explosion may cause disruptions to nearby airports, seaports, and logistics hubs, potentially affecting the movement of cargo and personnel. Aviation operations may also be impacted, with potential delays or cancellations of flights in the region.",
+      "proximity_alert": null
+    }
   }
 ]
