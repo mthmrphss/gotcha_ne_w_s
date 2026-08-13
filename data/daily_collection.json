@@ -245,5 +245,43 @@
       "operational_impact": "The oil spill may disrupt shipping and logistics operations in the area, particularly if cleanup efforts require the closure of ports or waterways. Additionally, the incident may lead to increased costs and liabilities for companies involved in the shipping and storage of oil and other hazardous materials.",
       "proximity_alert": "YAKIN TEHDİT: Intercity Hotel (1 km)"
     }
+  },
+  {
+    "id": "5b92c0ac1ad64e82857b15260921141a",
+    "timestamp": "2026-08-13T05:18:53.445525",
+    "original_title": "Taiwan says it was hit by ‘abnormal’ AI-assisted cyber-attack | Hacking - The Guardian",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdGdaWVdEcnBWc0ltUkxlOE41UWxkY1RkckllR2ZxTDZEekUxTFZxakpiZW5YVFVRTDlOdWZ2T2NfS05VMVQ5ZWlPS2g1UDBEZTNnYk44ODFZLUtSaEl0SEc1bjFfaUpJcDE3MDl4anNDY09WMXNKbDRCSXoyd3JCYkphRmJlYnNjMDVZaExuWmdsSFZzZWxj?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Cyber",
+      "risk_score": 8,
+      "location": "Taiwan",
+      "latitude": 23.5,
+      "longitude": 121.0,
+      "detailed_analysis": "Taiwan has been hit by an 'abnormal' AI-assisted cyber-attack, which could potentially compromise the security of its systems and data, posing a significant threat to its digital infrastructure and potentially affecting its aviation, cargo, and personnel.",
+      "immediate_forecast_24h": "In the next 24 hours, there is a high likelihood of further cyber-attacks or attempts to breach Taiwan's systems, which could lead to disruptions in critical infrastructure and services.",
+      "strategic_outlook": "In the long term, this incident highlights the need for Taiwan to enhance its cybersecurity capabilities and invest in AI-powered defense systems to counter the growing threat of AI-assisted cyber-attacks.",
+      "operational_impact": "The cyber-attack could have a significant operational impact on Taiwan's transportation and logistics systems, potentially disrupting air traffic control, cargo handling, and other critical services.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "6b864f3b7942ce7ea75126dfadce46ff",
+    "timestamp": "2026-08-13T05:18:56.904257",
+    "original_title": "How Houthis gained enough firepower to be major military force",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1vn0u3s/how_houthis_gained_enough_firepower_to_be_major/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict/Terrorism",
+      "risk_score": 8,
+      "location": "Yemen, Middle East",
+      "latitude": 15.552,
+      "longitude": 48.516,
+      "detailed_analysis": "The Houthi rebels have gained significant firepower, becoming a major military force, posing a threat to regional stability and potentially impacting aviation and cargo operations in the area.",
+      "immediate_forecast_24h": "Increased tensions and potential clashes between Houthi forces and opposing factions, with possible spillover effects on neighboring countries.",
+      "strategic_outlook": "Long-term instability in the region, with potential for escalated conflict, impacting trade routes, aviation, and personnel safety.",
+      "operational_impact": "Heightened security measures for aviation and cargo operations in the region, potential disruptions to supply chains, and increased risk for personnel and assets.",
+      "proximity_alert": null
+    }
   }
 ]
