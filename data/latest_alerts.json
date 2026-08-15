@@ -1,1 +1,59 @@
-[]
+[
+  {
+    "id": "b290e64e81484bc18d42296f860a6ba6",
+    "timestamp": "2026-08-15T08:36:09.634331",
+    "original_title": "Morocco and Spain boost security in Ceuta as another call for border rush seen online",
+    "link": "http://www.africanews.com/2026/08/15/morocco-and-spain-boost-security-in-ceuta-as-another-call-for-border-rush-seen-online/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Border/Civil Unrest",
+      "risk_score": 5,
+      "location": "Ceuta, Spain",
+      "latitude": 35.8881,
+      "longitude": -5.3669,
+      "detailed_analysis": "A potential border rush in Ceuta, Spain, has been identified through online disinformation, prompting Moroccan and Spanish authorities to boost security measures. This could lead to disruptions in transportation and logistics in the region.",
+      "immediate_forecast_24h": "Increased security presence and potential clashes between migrants and authorities, possibly affecting border crossings and local transportation.",
+      "strategic_outlook": "Long-term, this situation may lead to increased tensions between Morocco and Spain, potentially affecting trade and travel between the two countries.",
+      "operational_impact": "Transportation and logistics operations in the Ceuta region may experience delays or disruptions due to the increased security measures and potential border crossings.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "7e9324facd771730ac8035a0b4852322",
+    "timestamp": "2026-08-15T08:36:11.625938",
+    "original_title": "UN calls for negotiations to end the conflict in Mozambique",
+    "link": "http://www.africanews.com/2026/08/15/un-calls-for-negotiations-to-end-the-conflict-in-mozambique/",
+    "source_name": "Africa News",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest/Terrorism",
+      "risk_score": 7,
+      "location": "Cabo Delgado, Mozambique",
+      "latitude": -12.9667,
+      "longitude": 40.35,
+      "detailed_analysis": "The ongoing conflict in Mozambique's Cabo Delgado province, involving jihadist insurgents, poses a significant threat to assets, cargo, aviation, and personnel in the region. The lack of a clear military victory suggests a prolonged period of instability.",
+      "immediate_forecast_24h": "Continued clashes between government forces and insurgents are likely, potentially disrupting logistics and transport operations in the area.",
+      "strategic_outlook": "The conflict may lead to increased security measures, potentially affecting cargo movement and aviation operations in the region. Humanitarian crises and displacement of people could also impact border control and migration patterns.",
+      "operational_impact": "Transport and logistics operations in the region may face disruptions due to the conflict, including potential theft, smuggling, or hijacking of cargo. Aviation operations may also be affected by the conflict, with potential risks to aircraft and personnel.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "5856394d291b91a78274d777e1a27c72",
+    "timestamp": "2026-08-15T08:36:13.773297",
+    "original_title": "'We are seeing the cracks of Israeli politics play out in the West Bank'",
+    "link": "https://www.france24.com/en/we-are-seeing-the-cracks-of-israeli-politics-play-out-in-the-west-bank",
+    "source_name": "France 24 ME",
+    "ai_analysis": {
+      "category": "Conflict/Civil Unrest",
+      "risk_score": 6,
+      "location": "Qusra, West Bank",
+      "latitude": 32.0833,
+      "longitude": 35.2833,
+      "detailed_analysis": "The situation in Qusra near Nablus in the occupied West Bank is escalating due to a siege by Israeli settlers, effectively cutting off Palestinian residents from essential supplies. The inaction of the Israeli military to remove the settlers suggests a deeper political issue that could lead to further unrest.",
+      "immediate_forecast_24h": "The situation is likely to remain tense, with potential for further clashes between settlers and Palestinian residents. The inability of the Israeli government to address the situation may lead to increased protests and unrest in the region.",
+      "strategic_outlook": "The long-term implications of this event could lead to increased instability in the West Bank, potentially affecting transport and logistics in the region. The political paralysis in Israel may exacerbate the situation, leading to more frequent and intense clashes.",
+      "operational_impact": "The siege and potential for further unrest may impact the movement of goods and people in the West Bank, particularly in areas surrounding Qusra and Nablus. This could lead to delays and disruptions in logistics and supply chains.",
+      "proximity_alert": null
+    }
+  }
+]
