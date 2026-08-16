@@ -17,5 +17,43 @@
       "operational_impact": "The incident may cause delays or cancellations of flights, potentially affecting cargo and passenger transport. Airlines and airports may need to implement contingency plans to minimize disruptions to their operations.",
       "proximity_alert": "YAKIN TEHDİT: Munich Airport (0 km)"
     }
+  },
+  {
+    "id": "15ccc05f2ca2ede6ed63c9949b95e281",
+    "timestamp": "2026-08-16T11:25:44.226280",
+    "original_title": "‘Massive’ Ukrainian drone attack on Russia kills at least six, says Moscow - The Guardian",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZW93d2d5UGpOUm1INzFUdlpuNF92MkNaTFVDVjRaYWpFel9EQkNhN1N6VmFRV1ZGOWw1SnYydnpPMVVabGhMZ0FZRThrblNKY005RGc5UHNuNFVpUzY1UnRZeFg4VndlVk5QMlZ3NVlHMld6M29tRmx1aEVLdmdxRjBPWkNuS1VaNC1HYkctMFprZjZoVWZHUjU4a0xtcWxkWUZoYWRkanE?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict/Aviation",
+      "risk_score": 8,
+      "location": "Russia",
+      "latitude": 61.524,
+      "longitude": 105.3188,
+      "detailed_analysis": "A massive Ukrainian drone attack on Russia has resulted in at least six fatalities, indicating a significant escalation in the conflict. This event poses a substantial threat to aviation and personnel in the region.",
+      "immediate_forecast_24h": "Increased military activity and heightened security measures are expected in the short term, potentially disrupting air traffic and logistics in the region.",
+      "strategic_outlook": "The long-term implications of this event could lead to further destabilization of the region, potentially affecting global supply chains and aviation security protocols.",
+      "operational_impact": "The attack may lead to increased security screenings, potential airspace restrictions, and disruptions to cargo and passenger flights in and out of Russia, affecting the efficiency and safety of transport and logistics operations.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "f80fa31642409bd71fd812b940efd281",
+    "timestamp": "2026-08-16T11:28:28.944897",
+    "original_title": "How a Ukrainian Bank Worker Came to Face Life in a Russian Prison",
+    "link": "https://www.nytimes.com/2026/08/16/world/europe/russia-detained-ukrainians-war-murdid.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Terrorism/Conflict",
+      "risk_score": 6,
+      "location": "Ukraine/Russia",
+      "latitude": 48.0,
+      "longitude": 32.0,
+      "detailed_analysis": "The event involves accusations of terrorism against a Ukrainian bank worker and his family, which may indicate a heightened risk of conflict and instability in the region, potentially affecting aviation and cargo operations.",
+      "immediate_forecast_24h": "The situation may escalate, leading to increased tensions between Ukraine and Russia, potentially disrupting air travel and cargo transport in the region.",
+      "strategic_outlook": "The long-term implications of this event may include increased security measures at airports and border crossings, potentially affecting the efficiency of cargo and passenger transport.",
+      "operational_impact": "The conflict may impact air cargo and passenger flights, as well as ground transportation, particularly if the situation escalates, leading to increased security checks and potential route closures.",
+      "proximity_alert": null
+    }
   }
 ]
