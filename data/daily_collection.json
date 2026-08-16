@@ -226,5 +226,24 @@
       "operational_impact": "The aerial attack may lead to increased security measures and potential disruptions to air traffic in the region, affecting cargo and personnel transport.",
       "proximity_alert": null
     }
+  },
+  {
+    "id": "e65b173bffee330f909a2a404875208b",
+    "timestamp": "2026-08-16T15:50:12.030940",
+    "original_title": "Art Heist: 4 Antonello da Messina Paintings Stolen From Sicily",
+    "link": "https://www.nytimes.com/2026/08/16/world/europe/italy-renaissance-art-heist.html",
+    "source_name": "NewYork Times",
+    "ai_analysis": {
+      "category": "Crime",
+      "risk_score": 6,
+      "location": "Messina, Italy",
+      "latitude": 38.1939,
+      "longitude": 15.5593,
+      "detailed_analysis": "A high-profile art heist occurred in Messina, Sicily, with 4 valuable paintings by Antonello da Messina stolen during a religious celebration, indicating a potential increase in organized crime activity in the area.",
+      "immediate_forecast_24h": "Increased security measures are expected in the area, with potential disruptions to local transportation and logistics, but no immediate impact on aviation or major cargo operations.",
+      "strategic_outlook": "The theft may indicate a rise in sophisticated crime in the region, potentially affecting the security of high-value cargo and assets in the long term.",
+      "operational_impact": "Transport and logistics operations in the area may experience increased security checks and delays, but overall impact is expected to be minimal unless the stolen goods are found to be transported through major cargo channels.",
+      "proximity_alert": null
+    }
   }
 ]
