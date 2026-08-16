@@ -1,24 +1,5 @@
 [
   {
-    "id": "1811378711ad306f7ab9f825677918a6",
-    "timestamp": "2026-08-16T21:27:35.031451",
-    "original_title": "Unpaid health workers strike as Congo’s Ebola contact tracing falls behind",
-    "link": "http://www.africanews.com/2026/08/16/unpaid-health-workers-strike-as-congos-ebola-contact-tracing-falls-behind/",
-    "source_name": "Africa News",
-    "ai_analysis": {
-      "category": "Civil Unrest",
-      "risk_score": 10,
-      "location": "Congo",
-      "latitude": -4.328,
-      "longitude": 15.313,
-      "detailed_analysis": "Unpaid health workers are on strike in Congo, which may lead to a decrease in Ebola contact tracing efficiency, potentially affecting the overall health and safety of the region, including personnel and potentially impacting cargo and aviation operations indirectly.",
-      "immediate_forecast_24h": "The strike is likely to continue until health workers' demands are met, potentially leading to increased unrest and disruptions in health services.",
-      "strategic_outlook": "The long-term impact of the strike could be significant if it leads to a resurgence of Ebola cases, affecting not just local health services but also regional and international travel and trade.",
-      "operational_impact": "Potential disruptions to logistics and supply chains, especially those related to medical supplies and personnel, could be expected due to the strike and its aftermath.",
-      "proximity_alert": "YAKIN TEHDİT: N'djili Airport (3 km)"
-    }
-  },
-  {
     "id": "3c5b5f741a4f0e31d37ad204e648191d",
     "timestamp": "2026-08-16T21:47:50.975138",
     "original_title": "Man charged in Central Synagogue attack linked to posts about Israel, Judaism, and Mamdani - The Forward",
@@ -53,6 +34,25 @@
       "immediate_forecast_24h": "No immediate impact expected, but increased tensions in the region may lead to heightened security measures.",
       "strategic_outlook": "Long-term implications may include a shift in the regional balance of power, potentially affecting trade and logistics in the area.",
       "operational_impact": "Potential increased security measures and tensions may impact transport and logistics operations in the region, particularly for cargo and personnel.",
+      "proximity_alert": "YAKIN TEHDİT: Incheon International Airport (14 km)"
+    }
+  },
+  {
+    "id": "2591877272aa0228bf7d618f589419b9",
+    "timestamp": "2026-08-16T22:50:48.421569",
+    "original_title": "Trump says US will reduce military exercises with South Korea, citing lack of help with Iran - CNN",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNkxBSTcycU1KSHpzYzYxdnNFYjVPeTBvRW80eEpydFlSdHdMYUJlOWZXN2dhMERDYS10VzlaRWJnWHZDZl9QZTFRTlEtSk5ZNnNZZHpicW5MQTBkY1ExVGRwZVRLRGtMZVJXaDFROVN1N1RrX0Y3d2ZFWHUzdzZWQTVaQ0g?oc=5",
+    "source_name": "Google News (Breaking)",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 10,
+      "location": "South Korea, USA",
+      "latitude": 37.5665,
+      "longitude": 126.9779,
+      "detailed_analysis": "The US plans to reduce military exercises with South Korea due to a lack of help with Iran, which may lead to increased tensions in the region and potentially impact aviation and cargo operations.",
+      "immediate_forecast_24h": "No immediate impact expected, but increased tensions may lead to heightened security measures in the region.",
+      "strategic_outlook": "Reduced military cooperation between the US and South Korea may lead to a shift in the regional balance of power, potentially affecting trade and transport routes in the long term.",
+      "operational_impact": "Potential increased security measures and tensions in the region may lead to delays or disruptions in cargo and aviation operations, but no immediate impact is expected.",
       "proximity_alert": "YAKIN TEHDİT: Incheon International Airport (14 km)"
     }
   }
