@@ -74,5 +74,43 @@
       "operational_impact": "Potential increased security measures and tensions in the region may lead to delays or disruptions in cargo and aviation operations, but no immediate impact is expected.",
       "proximity_alert": "YAKIN TEHDİT: Incheon International Airport (14 km)"
     }
+  },
+  {
+    "id": "d59e0b46a4096f4ec289f40e68e25b54",
+    "timestamp": "2026-08-17T01:43:31.883418",
+    "original_title": "Donald Trump has said the US will \"substantially reduce\" joint military exercises with South Korea, citing his \"very good relationship\" with North Korea's leader Kim Jong Un.",
+    "link": "https://www.reddit.com/r/geopolitics/comments/1vq96o8/donald_trump_has_said_the_us_will_substantially/",
+    "source_name": "Reddit r/Geopolitics",
+    "ai_analysis": {
+      "category": "Conflict",
+      "risk_score": 6,
+      "location": "South Korea, North Korea",
+      "latitude": 38.0,
+      "longitude": 127.0,
+      "detailed_analysis": "The reduction of joint military exercises between the US and South Korea may lead to a power vacuum, potentially increasing tensions and instability in the region, affecting aviation and cargo operations.",
+      "immediate_forecast_24h": "Increased tensions between North and South Korea, potential for miscalculations or provocative actions by North Korea.",
+      "strategic_outlook": "Long-term implications for regional stability, potential for increased military buildup or aggressive actions by North Korea, impacting transport and logistics in the region.",
+      "operational_impact": "Potential disruptions to air traffic, increased security measures for cargo and personnel, heightened vigilance for aviation and logistics operations in the region.",
+      "proximity_alert": null
+    }
+  },
+  {
+    "id": "dd53798b98aaf4f943585cb8ffb253af",
+    "timestamp": "2026-08-17T01:45:15.945704",
+    "original_title": "UK-made drones strike targets inside Russia",
+    "link": "https://www.reddit.com/r/worldnews/comments/1vqc9j8/ukmade_drones_strike_targets_inside_russia/",
+    "source_name": "Reddit r/WorldNews",
+    "ai_analysis": {
+      "category": "Aviation/Conflict",
+      "risk_score": 8,
+      "location": "Russia",
+      "latitude": 61.524,
+      "longitude": 105.3188,
+      "detailed_analysis": "UK-made drones have struck targets inside Russia, indicating a significant escalation in conflict and potential disruption to aviation and logistics operations.",
+      "immediate_forecast_24h": "Increased military activity and heightened security measures are expected in the region, potentially affecting air traffic and transport logistics.",
+      "strategic_outlook": "The use of drones in conflict zones may become more prevalent, posing long-term risks to aviation security and stability in the region.",
+      "operational_impact": "Potential disruptions to air traffic, increased security screening, and enhanced military presence may impact transport and logistics operations in and around Russia.",
+      "proximity_alert": null
+    }
   }
 ]
